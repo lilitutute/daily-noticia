@@ -188,7 +188,7 @@
         const data = await loadCard('main', issue.main);
         const a    = document.createElement('a');
         a.className = 'card main';
-        a.href      = `index.html?article=${issue.main}`;
+        a.href      = `article.html?article=${issue.main}`;
         a.innerHTML = `
           <span class="card-type main-tag">📰 主文章</span>
           <div class="card-title-es">${data.title}</div>
@@ -231,3 +231,4 @@
 </script>
 </body>
 </html>
+
