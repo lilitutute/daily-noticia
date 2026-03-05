@@ -1,0 +1,22 @@
+{
+  "date": "2026年3月5日",
+  "brand": "西语SuperO",
+  "source": "El País",
+  "category": "政治",
+  "difficulty": "B2",
+  "wordCount": "约280词",
+  "title": "Título del artículo de lectura",
+  "subtitle": "阅读文章副标题",
+  "resumenEs": "Resumen en español del artículo de lectura...",
+  "resumenZh": "阅读文章的中文摘要……",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Primer párrafo del artículo de lectura..."
+    },
+    {
+      "id": 2,
+      "es": "Segundo párrafo del artículo de lectura..."
+    }
+  ]
+}
