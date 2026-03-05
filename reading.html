@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>西语SuperO · 阅读</title>
+  <link rel="stylesheet" href="reading-style.css" />
+</head>
+<body>
+<div class="page-wrap">
+
+  <div class="header-meta">
+    <span class="header-date" id="meta-date"></span>
+    <div class="header-right">
+      <span class="brand-tag" id="meta-brand"></span>
+      <span class="tag" id="meta-category"></span>
+      <span class="tag" id="meta-difficulty"></span>
+      <span class="tag" id="meta-wordcount"></span>
+    </div>
+  </div>
+
+  <div class="article-header">
+    <h1 class="article-title" id="art-title"></h1>
+    <div class="article-subtitle" id="art-subtitle"></div>
+    <div class="article-source" id="art-source"></div>
+  </div>
+
+  <div class="resumen-block">
+    <span class="resumen-label">Resumen · 文章摘要</span>
+    <div class="resumen-es" id="resumen-es"></div>
+    <div class="resumen-zh" id="resumen-zh"></div>
+  </div>
+
+  <hr class="divider"/>
+  <div id="article-body"></div>
+
+</div>
+
+<script>
+  const params = new URLSearchParams(window.location.search);
+  const file   = params.get('article') || '001';
+
+  fetch(`reading-articles/${file}.json`)
+    .then(r => r.json())
+    .then(article => {
+
+      document.title = article.title + ' · 西语SuperO';
+      document.getElementById('meta-date').textContent       = article.date;
+      document.getElementById('meta-brand').textContent      = article.brand;
+      document.getElementById('meta-category').textContent   = article.category;
+      document.getElementById('meta-difficulty').textContent = article.difficulty;
+      document.getElementById('meta-wordcount').textContent  = article.wordCount;
+      document.getElementById('art-title').textContent       = article.title;
+      document.getElementById('art-subtitle').textContent    = article.subtitle;
+      document.getElementById('art-source').textContent      = '来源：' + article.source;
+      document.getElementById('resumen-es').textContent      = article.resumenEs;
+      document.getElementById('resumen-zh').textContent      = article.resumenZh;
+
+      const bodyEl = document.getElementById('article-body');
+
+      article.paragraphs.forEach(para => {
+        const block = document.createElement('div');
+        block.className = 'paragraph-block';
+        block.innerHTML = `
+          <span class="para-num">§${para.id}</span>
+          <p class="para-es">${para.es}</p>
+        `;
+        bodyEl.appendChild(block);
+      });
+    })
+    .catch(() => {
+      document.getElementById('article-body').innerHTML =
+        '<p style="color:red;font-family:sans-serif">文章加载失败，请检查 JSON 文件路径。</p>';
+    });
+</script>
+</body>
+</html>

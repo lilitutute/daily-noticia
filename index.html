@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>西语SuperO · 每日外刊</title>
+  <style>
+    :root {
+      --brand:   #5875a3;
+      --accent:  #6d8ab8;
+      --border:  #d8dfe9;
+      --bg:      #f5f7fb;
+      --text:    #1a1a1a;
+      --muted:   #777;
+      --font-zh: 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+      --font-es: 'Georgia', 'Times New Roman', serif;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: var(--font-zh);
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      padding: 40px 20px;
+    }
+
+    /* ── 顶部标题 ── */
+    .site-header {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+
+    .site-title {
+      font-size: 28px;
+      font-weight: 700;
+      color: var(--brand);
+      letter-spacing: 1px;
+    }
+
+    .site-sub {
+      font-size: 14px;
+      color: var(--muted);
+      margin-top: 6px;
+    }
+
+    /* ── 每日一组 ── */
+    .day-group {
+      max-width: 860px;
+      margin: 0 auto 48px auto;
+    }
+
+    .day-label {
+      font-size: 13px;
+      font-weight: 700;
+      color: var(--brand);
+      border-left: 4px solid var(--brand);
+      padding-left: 10px;
+      margin-bottom: 16px;
+      letter-spacing: 1px;
+    }
+
+    /* ── 卡片网格 ── */
+    .card-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 14px;
+    }
+
+    /* 主文章卡片占满整行 */
+    .card.main { grid-column: 1 / -1; }
+
+    .card {
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 18px 20px;
+      text-decoration: none;
+      color: inherit;
+      display: block;
+      transition: box-shadow 0.2s, transform 0.2s;
+      position: relative;
+    }
+
+    .card:hover {
+      box-shadow: 0 4px 18px rgba(88,117,163,0.15);
+      transform: translateY(-2px);
+    }
+
+    .card-type {
+      font-size: 10.5px;
+      font-weight: 700;
+      color: #fff;
+      padding: 2px 9px;
+      border-radius: 3px;
+      display: inline-block;
+      margin-bottom: 10px;
+    }
+
+    .card-type.main-tag   { background: var(--brand); }
+    .card-type.read-tag   { background: #7a9e7e; }
+
+    .card-title-es {
+      font-family: var(--font-es);
+      font-size: 16px;
+      font-weight: 700;
+      line-height: 1.4;
+      margin-bottom: 5px;
+      color: var(--text);
+    }
+
+    .card-title-zh {
+      font-size: 13px;
+      color: var(--muted);
+      margin-bottom: 10px;
+    }
+
+    .card-meta {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .meta-tag {
+      font-size: 11px;
+      color: var(--brand);
+      border: 1px solid var(--accent);
+      padding: 1px 7px;
+      border-radius: 3px;
+    }
+
+    /* ── 空状态 ── */
+    .empty {
+      text-align: center;
+      color: var(--muted);
+      font-size: 14px;
+      padding: 60px 0;
+    }
+  </style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="site-title">西语SuperO · 每日外刊</div>
+  <div class="site-sub">点击卡片阅读当日文章</div>
+</header>
+
+<div id="home-body"></div>
+
+<script>
+  // ── 在这里登记每一期的文章 ──────────────────────────────
+  // 每新增一期，在最前面加一个对象即可
+  const ISSUES = [
+    {
+      date: "2026年3月5日",
+      main: "001",          // articles/001.json
+      readings: ["001", "002", "003", "004"]  // reading-articles/001~004.json
+    }
+    // 下一期：
+    // {
+    //   date: "2026年3月6日",
+    //   main: "002",
+    //   readings: ["005", "006", "007", "008"]
+    // }
+  ];
+  // ────────────────────────────────────────────────────────
+
+  async function loadCard(type, file) {
+    const folder = type === 'main' ? 'articles' : 'reading-articles';
+    const res    = await fetch(`${folder}/${file}.json`);
+    return res.json();
+  }
+
+  async function buildHome() {
+    const container = document.getElementById('home-body');
+
+    for (const issue of ISSUES) {
+      const group = document.createElement('div');
+      group.className = 'day-group';
+      group.innerHTML = `<div class="day-label">📅 ${issue.date}</div>`;
+
+      const grid = document.createElement('div');
+      grid.className = 'card-grid';
+
+      // 主文章
+      try {
+        const data = await loadCard('main', issue.main);
+        const a    = document.createElement('a');
+        a.className = 'card main';
+        a.href      = `index.html?article=${issue.main}`;
+        a.innerHTML = `
+          <span class="card-type main-tag">📰 主文章</span>
+          <div class="card-title-es">${data.title}</div>
+          <div class="card-title-zh">${data.subtitle}</div>
+          <div class="card-meta">
+            <span class="meta-tag">${data.source}</span>
+            <span class="meta-tag">${data.category}</span>
+            <span class="meta-tag">${data.difficulty}</span>
+            <span class="meta-tag">${data.wordCount}</span>
+          </div>`;
+        grid.appendChild(a);
+      } catch(e) { console.warn('主文章加载失败', issue.main); }
+
+      // 4篇阅读
+      for (const file of issue.readings) {
+        try {
+          const data = await loadCard('reading', file);
+          const a    = document.createElement('a');
+          a.className = 'card';
+          a.href      = `reading.html?article=${file}`;
+          a.innerHTML = `
+            <span class="card-type read-tag">📖 阅读</span>
+            <div class="card-title-es">${data.title}</div>
+            <div class="card-title-zh">${data.subtitle}</div>
+            <div class="card-meta">
+              <span class="meta-tag">${data.source}</span>
+              <span class="meta-tag">${data.category}</span>
+              <span class="meta-tag">${data.difficulty}</span>
+            </div>`;
+          grid.appendChild(a);
+        } catch(e) { console.warn('阅读文章加载失败', file); }
+      }
+
+      group.appendChild(grid);
+      container.appendChild(group);
+    }
+  }
+
+  buildHome();
+</script>
+</body>
+</html>
