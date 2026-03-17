@@ -15,19 +15,14 @@
       "zh": "数十年来，我们一直认为交通污染主要来自排气管。但这一认知已开始显得不够完整。我们在城市中吸入的污染颗粒，越来越多地来自刹车和轮胎的磨损、沥青的摩擦，以及车辆行驶时扬起的尘埃。",
       "vocab": [
         {
-          "word": "tubo de escape",
-          "translation": "排气管，尾气管",
-          "note": "汽车构造术语，指发动机排出废气的管道，emisiones del tubo de escape 即尾气排放，是传统燃油车污染的标志性来源。文章以此为切入点，指出污染来源远不止于此，为全文论点奠定基础。"
+          "word": "quedarse + 形容词",
+          "translation": "变得……，显得……，落入某种状态",
+          "note": "quedarse 接形容词表示进入或停留在某种状态，esa imagen empieza a quedarse incompleta（这一认知开始显得不完整）强调的是一个渐进的转变过程。常见搭配：quedarse corto（不够用、说少了）、quedarse obsoleto（变得过时）、quedarse atrás（落后）。"
         },
         {
-          "word": "partículas contaminantes",
-          "translation": "污染颗粒物",
-          "note": "环境科学核心术语，指悬浮于空气中的固体或液态微粒，按粒径分为 PM10 和 PM2.5 等类别，PM2.5（细颗粒物）因能深入肺部和血液而危害最大，是城市空气质量监测的核心指标。"
-        },
-        {
-          "word": "neumáticos",
-          "translation": "轮胎",
-          "note": "desgaste de neumáticos（轮胎磨损）产生的微塑料和橡胶颗粒是近年来城市污染研究的新兴议题，即便是电动车也会产生此类非尾气排放，是本文论证『换车不够』的核心科学依据。"
+          "word": "proceder de",
+          "translation": "来自，源于，产生于",
+          "note": "比 venir de 更正式，强调来源或起源，常用于科学和新闻语境：las emisiones proceden del transporte（排放来自交通）。注意 proceder de 强调起源，而 provenir de 更强调出发点，两者在多数语境中可互换，但 proceder de 在书面语中更常见。"
         }
       ]
     },
@@ -37,14 +32,14 @@
       "zh": "这迫使我们重新思考应对城市污染的方式。例如，推动车队电动化是减少排放的必要措施，但其效果取决于如何与其他政策相结合。科学证据表明，最有效的解决方案不是孤立的单一举措，而是多重措施的组合——减少机动车交通、强化公共交通，并为人们夺回城市空间。",
       "vocab": [
         {
-          "word": "electrificar el parque móvil",
-          "translation": "推动车队电动化",
-          "note": "parque móvil 指一个城市或国家的全部在用车辆总量，electrificar el parque móvil 即将燃油车替换为电动车的政策目标，是欧洲城市减排政策的核心议题，也是本文标题所指『换车』的具体所指。"
+          "word": "obligar a + 动词原形",
+          "translation": "迫使……，要求……",
+          "note": "表达强制性因果关系的核心动词，esto obliga a replantear（这迫使我们重新思考）将前文的科学发现直接转化为行动要求。注意 obligar a 后接原形，而 obligar a que 后接虚拟式，两者主语不同：nos obliga a pensar（迫使我们思考）vs. obliga a que pensemos（要求我们思考）。"
         },
         {
-          "word": "transporte público",
-          "translation": "公共交通",
-          "note": "城市规划和交通政策的核心概念，包括地铁、公共汽车、有轨电车等，reforzar el transporte público 是减少私家车依赖、降低城市污染的系统性策略，与单纯的车辆技术升级形成对比。"
+          "word": "recetas aisladas",
+          "translation": "孤立的单一方案，单一药方",
+          "note": "receta 本义为药方或食谱，此处隐喻政策处方，recetas aisladas 指单独实施、缺乏系统配合的单一政策措施。这种将政策比作医疗处方的隐喻在政策讨论中极为常见，暗示城市污染需要综合治疗而非单一用药。"
         }
       ]
     },
@@ -54,14 +49,14 @@
       "zh": "在许多城市，空气质量与不平等呈现出相同的地图分布。被大型交通干道穿越、绿地较少、住宅更易受污染影响的街区，往往与资源匮乏家庭聚居的街区高度重叠。一些城区享有更安静的街道和相对更清洁的空气，而另一些城区则集中了交通、噪音和更高水平的污染。我们呼吸的空气不仅取决于一座城市的排放总量，也取决于我们在城市中所处的位置。",
       "vocab": [
         {
-          "word": "desigualdad",
-          "translation": "不平等，社会差距",
-          "note": "社会学核心概念，本文将其与空气质量并置，构建『环境不平等』（desigualdad ambiental）的论证框架，指出污染的地理分布并非随机，而是社会经济结构的空间映射，是全文最重要的论点之一。"
+          "word": "seguir el mismo mapa que",
+          "translation": "与……呈现相同的分布，与……高度重叠",
+          "note": "作者自创的地理隐喻，la calidad del aire sigue el mismo mapa que la desigualdad 意为空气质量差的区域与社会不平等严重的区域在地图上高度重合。这种将抽象社会现象可视化为地图的表达，是环境正义论述中极具说服力的修辞手法。"
         },
         {
-          "word": "zonas verdes",
-          "translation": "绿地，绿化区",
-          "note": "城市规划术语，指公园、花园等城市绿色空间，zonas verdes 不仅具有美化功能，还能吸收污染物、降低气温、提供休憩空间，其分布不均是城市环境不平等的重要指标。"
+          "word": "coincidir con",
+          "translation": "与……重合，与……一致，恰好是",
+          "note": "表示两个事物在空间、时间或性质上的重合，suelen coincidir con los barrios donde…（往往与……的街区重合）在本文中用于揭示污染分布与贫困分布的空间重叠关系，是论证环境不平等的核心动词。"
         }
       ]
     },
@@ -71,14 +66,14 @@
       "zh": "在这些街区中，污染物浓度可能比同一城市其他区域高出三分之一。空气质量恶化与气候变化背后，在很大程度上是同一批排放源，主要来自交通、能源和工业。这些排放在城市内部的集中方式也并非中性。它是数十年城市规划决策、以汽车为中心的出行模式以及社会不平等共同塑造城市地图的结果。",
       "vocab": [
         {
-          "word": "cambio climático",
-          "translation": "气候变化",
-          "note": "环境科学和政策的核心术语，文章将局部空气污染与全球气候变化并置，指出两者共享同一排放来源，这一论点强化了减排政策的双重必要性：既改善本地空气质量，又应对全球气候危机。"
+          "word": "no es neutral",
+          "translation": "并非中性的，并非无价值立场的",
+          "note": "社会科学和政策分析中的关键批判性表达，指某一现象或结果并非自然发生或价值无涉，而是特定权力关系和历史决策的产物。la forma en que se concentran no es neutral 暗示污染的不均匀分布是人为选择的结果，具有政治和伦理含义。"
         },
         {
-          "word": "urbanísticas",
-          "translation": "城市规划的，城市建设的",
-          "note": "由 urbanismo（城市规划学）派生，decisiones urbanísticas 指关于城市土地使用、道路布局、建筑密度等的规划决策，文章将其列为污染不平等分布的历史成因，强调当前格局是人为决策的结果而非自然形成。"
+          "word": "han ido + 副动词",
+          "translation": "逐渐……，一直在……（强调渐进过程）",
+          "note": "ir + 副动词 构成渐进体，强调某一过程的持续性和累积性：han ido moldeando（一直在塑造、逐渐塑造）比简单的 han moldeado 更强调这是一个漫长的、持续积累的过程，是描述历史性社会变迁的地道表达。"
         }
       ]
     },
@@ -88,14 +83,14 @@
       "zh": "这一现实构成了我们所说的面对污染的三重脆弱性。首先，资源较少的人群受到污染物的暴露程度更高。其次，他们规避这种暴露的能力更弱，因为他们更频繁地居住在污染源附近，住所条件更差，出行替代选择也更少。此外，污染对他们健康造成的后果往往也更为严重。",
       "vocab": [
         {
-          "word": "triple vulnerabilidad",
-          "translation": "三重脆弱性",
-          "note": "文章自创的分析框架，将低收入群体面对污染的处境分解为三个相互叠加的不利维度：更高的暴露、更弱的规避能力、更严重的健康后果，这种结构化分析是环境正义（justicia ambiental）研究的核心方法论。"
+          "word": "a todo ello se suma que",
+          "translation": "除此之外还有……，更有甚者",
+          "note": "递进连接结构，用于在已有论据基础上叠加新的论点，sumar 本义为相加，a todo ello se suma que… 意为『在所有这些之上还要加上……』，是论证性写作中层层递进、强化论点的重要句型，比 además 更具累积感。"
         },
         {
-          "word": "acondicionadas",
-          "translation": "条件完善的，配备齐全的",
-          "note": "viviendas peor acondicionadas 指隔热性能差、通风不良、缺乏空气过滤设施的住宅，这类住宅无法有效阻挡室外污染物进入室内，是低收入群体污染暴露更高的重要结构性原因。"
+          "word": "en primer lugar… además… a todo ello se suma",
+          "translation": "首先……其次……此外还有……",
+          "note": "本段使用的三步递进结构，是论证三重脆弱性的组织框架。注意作者有意不用 en segundo lugar 和 en tercer lugar，而是用 además 和 a todo ello se suma，使论述更具流动感，避免机械列举的生硬感，是C1写作段落组织的范本。"
         }
       ]
     },
@@ -105,19 +100,14 @@
       "zh": "空气污染对所有人的影响并不相同。相同的细颗粒物或相同水平的二氧化氮，对有既往疾病、医疗资源获取较少或生活在更高社会脆弱性条件下的人群，可能造成更大的影响。在欧洲，空气质量恶化每年导致数十万人过早死亡，并缩短预期寿命。",
       "vocab": [
         {
-          "word": "partículas finas",
-          "translation": "细颗粒物，PM2.5",
-          "note": "即粒径小于2.5微米的颗粒物（PM2.5），因其粒径极小可穿透肺泡进入血液循环，与心血管疾病、呼吸系统疾病和神经系统损伤密切相关，是世界卫生组织空气质量指南的核心管控指标。"
+          "word": "no afecta a todo el mundo por igual",
+          "translation": "对所有人的影响并不相同",
+          "note": "por igual 意为『同等地、一样地』，no afecta a todo el mundo por igual 是环境正义论述的核心句型，否定了污染影响的普遍均等性，为后文分析差异化影响奠定基础。类似表达：no todos se benefician por igual（并非所有人同等受益）。"
         },
         {
-          "word": "dióxido de nitrógeno",
-          "translation": "二氧化氮（NO₂）",
-          "note": "主要由机动车燃烧和工业过程产生的气态污染物，化学式 NO₂，是城市空气污染的标志性指标，长期暴露与哮喘、肺功能下降和心血管疾病相关，也是欧盟新版空气质量指令重点收严的污染物之一。"
-        },
-        {
-          "word": "muertes prematuras",
-          "translation": "过早死亡，早死",
-          "note": "公共卫生术语，指因可预防的环境或健康风险因素导致的、早于预期寿命的死亡，欧洲环境署数据显示空气污染每年在欧洲造成约30万例过早死亡，是量化污染健康代价的核心指标。"
+          "word": "esperanza de vida",
+          "translation": "预期寿命",
+          "note": "人口统计学和公共卫生的核心指标，指在特定死亡率条件下某一群体平均可存活的年数，reducir la esperanza de vida 是量化污染健康代价的最直接方式，比描述具体疾病更具政策冲击力。"
         }
       ]
     },
@@ -127,14 +117,14 @@
       "zh": "越来越多的城市正在致力于城市设计和出行方式的深层变革：低排放区、无车学校街道、安全的步行和骑行网络，以及更高效的公共交通系统。但这些转型也带来了与不平等相关的挑战。一些旨在改善环境质量的城市干预措施可能推高住房价值，导致弱势群体被迫迁移。这就是所谓的绿色绅士化。",
       "vocab": [
         {
-          "word": "zonas de bajas emisiones",
-          "translation": "低排放区",
-          "note": "城市交通管理政策工具，指限制高污染车辆进入的特定城市区域，西班牙语缩写为 ZBE，马德里的 Madrid Central 和巴塞罗那的 Zona de Baixes Emissions 是典型案例，是欧洲城市改善空气质量的主流政策手段。"
+          "word": "apostar por",
+          "translation": "押注于，致力于，大力推进",
+          "note": "apostar 本义为赌博下注，apostar por 引申为对某一方向或策略投入资源和信念，带有主动选择和承担风险的含义：cada vez más ciudades están apostando por…（越来越多的城市正在大力推进……）。比 optar por 更强调投入的力度和决心。"
         },
         {
-          "word": "gentrificación verde",
-          "translation": "绿色绅士化",
-          "note": "城市研究的新兴概念，指因建设公园、绿道、低排放区等环境改善项目导致周边房价上涨，进而将低收入原住民驱逐出改善区域的社会经济过程，是环境正义研究的核心悖论：环境改善反而加剧社会不平等。"
+          "word": "plantear un reto",
+          "translation": "提出挑战，带来难题",
+          "note": "plantear 在此意为『引出、带来』，plantear un reto/problema/dilema 是论证性写作中引入转折或复杂性的标准句型：estas transformaciones plantean un reto（这些转型带来了一个挑战）。注意 plantear 不含负面含义，只是客观呈现问题的存在。"
         }
       ]
     },
@@ -144,19 +134,14 @@
       "zh": "因此，出行和城市规划政策必须从一开始就将公平纳入考量。减少污染不能意味着将问题从一个街区转移到另一个街区，也不能将资源最少的人排除在解决方案之外。城市转型只有在保障可及的公共交通、负担得起的出行替代方案，以及公平分配清洁空气红利的城市规划的前提下，才能真正实现可持续。",
       "vocab": [
         {
-          "word": "equidad",
-          "translation": "公平，公正，平等",
-          "note": "与上一篇文章相同，equidad 强调根据需求进行公正分配，而非简单的结果均等，incorporar la equidad desde el principio 是政策设计的方法论原则，要求在规划阶段即考虑分配正义，而非事后补救。"
+          "word": "desde el principio",
+          "translation": "从一开始，从最初阶段",
+          "note": "时间副词短语，incorporar la equidad desde el principio 是政策设计的方法论原则，强调公平不应是事后补救措施，而应在规划阶段即纳入核心考量。与 a posteriori（事后）相对，体现了预防性政策设计的理念。"
         },
         {
-          "word": "sostenible",
-          "translation": "可持续的",
-          "note": "环境和发展政策的核心概念，源自联合国可持续发展框架，此处作者赋予其双重含义：既指环境上的可持续（减少污染），也指社会上的可持续（不加剧不平等），两者缺一不可。"
-        },
-        {
-          "word": "asequibles",
-          "translation": "负担得起的，可及的",
-          "note": "比 baratos（便宜的）更强调在经济能力范围内可获取的特性，alternativas de movilidad asequibles 指低收入群体在经济上能够承担的出行选项，是防止绿色绅士化、确保城市转型惠及所有人的关键条件。"
+          "word": "solo… si…",
+          "translation": "只有……才……",
+          "note": "条件限制结构，solo será sostenible si garantiza…（只有在保障……的条件下才能实现可持续）将可持续性的实现设定为严格的条件句，暗示缺少公平维度的城市转型注定失败。这是论证性写作中设定必要条件的核心句型。"
         }
       ]
     },
@@ -166,14 +151,14 @@
       "zh": "欧洲正处于一个决定性时刻。欧盟新版《空气质量指令》为主要污染物设定了更严格的限值，使欧洲标准更接近世界卫生组织的建议。达到新限值不应成为唯一目标。机遇远不止于此：重新思考我们的城市，使其更健康、更宜居、更公正。问题不仅在于我们吸入了多少污染空气，还在于谁吸入得更多，以及持续了多长时间。",
       "vocab": [
         {
-          "word": "Directiva de Calidad del Aire",
-          "translation": "《空气质量指令》",
-          "note": "欧盟具有法律约束力的环境立法文件，成员国须将其转化为国内法并强制执行，2024年修订版大幅收严了PM2.5、NO₂等污染物的年均浓度限值，是欧洲城市空气质量治理的最重要法律框架。"
+          "word": "encontrarse en un momento decisivo",
+          "translation": "正处于决定性时刻，站在关键节点上",
+          "note": "新闻和评论写作中常见的开篇或转折句式，momento decisivo 指历史进程中需要做出重要选择的关键节点，带有紧迫感和历史感，常用于呼吁行动或强调政策窗口期的有限性。"
         },
         {
-          "word": "Organización Mundial de la Salud",
-          "translation": "世界卫生组织（WHO）",
-          "note": "联合国专门机构，负责制定全球公共卫生标准，其2021年更新的《全球空气质量指南》大幅收严了各类污染物的建议限值，长期以来欧盟法定标准宽松于WHO建议，新指令的出台是向WHO标准靠拢的重要一步。"
+          "word": "la cuestión no es solo… sino también…",
+          "translation": "问题不仅在于……还在于……",
+          "note": "no solo… sino también… 是扩展论点范围的经典结构，此处用于将技术性问题（污染总量）扩展至社会正义问题（谁受影响更多），是全文论点的最终升华，也是作者从科学报道转向伦理呼吁的关键句型。"
         }
       ]
     }

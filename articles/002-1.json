@@ -15,9 +15,14 @@
       "zh": "有一位同事从家到公司要花20分钟，从公司回家也要20分钟，堵车的话甚至要30分钟。有一位朋友从家到公司要一个小时，6号线施工期间要超过一个小时；从公司回家同样要一个小时，甚至更久。有一位同事从家到公司要两个小时，从公司回家也要两个小时。每天四个小时。他住在托莱多的一个小镇。如果把这些时间加起来，一年往返于家和公司之间可能要花880个小时，超过36个整天，甚至超过一个月。",
       "vocab": [
         {
-          "word": "viniendo",
-          "translation": "来，回来（来回）",
-          "note": "yendo y viniendo 是固定搭配，意为『来来回回』，口语和书面语均常用，此处与 ir 形成对举，强调通勤的往返循环性。"
+          "word": "tardar + tiempo + en + 动词原形",
+          "translation": "花……时间做某事",
+          "note": "表达完成某事所需时间的核心句型：tarda 20 minutos en llegar（需要20分钟到达）。注意与 llevar 的区别：tardar 强调耗时的长短，llevar 更强调时间的消耗过程，两者在口语中常可互换，但 tardar 更常用于人。"
+        },
+        {
+          "word": "yendo y viniendo",
+          "translation": "来来回回，往返",
+          "note": "ir 和 venir 的现在分词对举，构成固定搭配，强调往返的循环性和重复性。类似结构：entrando y saliendo（进进出出）、subiendo y bajando（上上下下）。这种对举结构在西班牙语口语中极为地道。"
         }
       ]
     },
@@ -27,9 +32,14 @@
       "zh": "一个月里，婴儿学会调节自己的呼吸；一个月里，人的皮肤几乎完全更新，大脑形成新的习惯，红细胞和体内蛋白质得到替换。一个月里，来得及读一本书，或者两本、三本。一个月里，人们与朋友相聚、睡觉、吃饭、做爱、什么也不做、待在家里、去另一个国家旅行、再回来。一对相恋十年的情侣分手，一个人失去父亲，与儿时的朋友断了联系。一个月里，生活彻底改变，一个人到月底已经成了一个月前的自己所不曾是的另一个人。",
       "vocab": [
         {
-          "word": "renueva",
-          "translation": "更新，焕新",
-          "note": "renovar(se) 在生物学语境中指细胞或组织的自然替换更新，此处作者用一系列生理和生活事件铺陈『一个月』的分量，与通勤浪费的时间形成强烈对比。"
+          "word": "da tiempo a + 动词原形",
+          "translation": "来得及做……，有时间做……",
+          "note": "固定句型，用于说明某段时间内足以完成某事：en una semana da tiempo a mucho（一周能做很多事）、no me da tiempo a terminarlo（我来不及完成它）。注意主语是非人称的 da，不随人称变化。"
+        },
+        {
+          "word": "renovarse",
+          "translation": "更新，焕新，自我革新",
+          "note": "renovar 是及物动词（renovar el contrato = 续签合同），renovarse 是反身形式，强调自身的更新或变化：la piel se renueva（皮肤自我更新）、hay que renovarse o morir（不进则退，字面是『要么更新要么死』）——后者是西班牙语中的名言。"
         }
       ]
     },
@@ -39,26 +49,26 @@
       "zh": "不到一个月，奥地利向塞尔维亚宣战，俄国动员军队，德国向俄国和法国宣战，英国加入冲突。一场战争，第一次世界大战，在一个月内爆发。一个月，我们的一个月，白白送给了工作。",
       "vocab": [
         {
-          "word": "regalado",
-          "translation": "白白送出的，拱手相让的",
-          "note": "regalar 本义为『赠送礼物』，此处作者用 regalado al trabajo 表达一种被动且无偿的损失——时间不是主动奉献，而是被迫『送出』，语气中带有讽刺与无奈。"
+          "word": "regalado al trabajo",
+          "translation": "白白送给工作的，拱手相让给工作的",
+          "note": "regalar 本义是『赠送礼物』，此处用作隐喻，暗含讽刺：时间不是主动奉献，而是被迫『送出』，语气中带有无奈与批判。这种将中性动词用于负面语境的修辞手法，是社会评论文体的常见技巧。"
         }
       ]
     },
     {
       "id": 4,
       "es": "El problema de la vivienda se <strong>agrand</strong>a mientras el Gobierno no hace absolutamente nada. Una acaba mudándose a Pan Bendito, Getafe, Aranjuez, Toledo. Las empresas no favorecen el <strong>teletrabajo</strong> porque desconfían de sus empleados y más de tres millones de personas que podrían teletrabajar acaban por no hacerlo. El problema de la vivienda parece solucionarse cuando una ya tiene vivienda y así el problema de la vivienda se convierte en el problema de otro de la misma forma que el problema del transporte público se soluciona comprando un coche.",
-      "zh": "住房问题不断恶化，而政府却无所作为。人们最终不得不搬到潘本迪托、赫塔菲、阿兰胡埃斯、托莱多。企业不支持远程办公，因为他们不信任员工，结果超过三百万本可以远程工作的人最终没能这样做。住房问题在自己有了住房之后似乎就解决了，于是住房问题变成了别人的问题，就像公共交通问题通过买辆车就解决了一样。",
+      "zh": "住房问题不断恶化，而政府却无所作为。人们最终不得不搬到潘本迪托、赫塔菲、阿兰胡埃斯、托莱多。企业不支持远程办公，因为他们不信任员工，结果超过三百万本可以远程工作的人最终没能这样做。住房问题在自己有了住房之后似乎就解决了，于是住房问题变成了别人的问题，就像公共交通问题通过买辆车就解决了一样.",
       "vocab": [
         {
-          "word": "se agrand",
-          "translation": "（此处应为 se agranda）不断扩大，持续恶化",
-          "note": "agrandar(se) 指规模或严重程度的扩大，在社会评论文体中用于描述问题的持续恶化，比 crecer 更强调体量上的膨胀，常与社会议题搭配。"
+          "word": "acabar + 副动词 / acabar por + 动词原形",
+          "translation": "最终……，结果……",
+          "note": "两种结构都表示『最终的结果』，但有细微差别：acabar + 副动词（acaba mudándose）强调最终落入某种状态；acabar por + 原形（acaban por no hacerlo）更强调经过一番过程后的结局。两者在口语中常可互换，是表达无奈结果的地道句型。"
         },
         {
-          "word": "teletrabajo",
-          "translation": "远程办公，居家办公",
-          "note": "由 tele-（远距离）+ trabajo 构成，疫情后成为劳动政策讨论的核心词汇，西班牙语中比 trabajo remoto 更常用，作者将其缺失视为通勤困境的重要制度性原因。"
+          "word": "desconfiar de",
+          "translation": "不信任，对……持怀疑态度",
+          "note": "由 des-（否定前缀）+ confiar（信任）构成，注意必须接介词 de：desconfiar de alguien/algo。与 no confiar en 同义，但 desconfiar de 语气更强，带有主动警惕的意味，而非单纯缺乏信任。"
         }
       ]
     },
@@ -68,14 +78,14 @@
       "zh": "我们正在失去多少小时、多少天、多少红细胞、多少午睡、多少书、多少段感情。危机在加速，生活在萎缩。很快我们就得在Renfe列车上庆祝生日，才能见到彼此。",
       "vocab": [
         {
-          "word": "rupturas",
-          "translation": "分手，决裂，断裂",
-          "note": "比 separaciones 更广泛，可指情侣分手、友情断裂或家庭关系破裂，作者将其与『红细胞』『午睡』并列，以荒诞的排列强调通勤吞噬的不仅是时间，更是人生中最重要的时刻。"
+          "word": "se nos achica",
+          "translation": "（生活）在我们手中萎缩，对我们来说越来越小",
+          "note": "achicar(se) 本义是『使变小、缩小』，se nos achica 中的 nos 是间接宾语，表示『对我们而言』，这种结构（动词 + 间接宾语代词）在西班牙语中极为常见：se me olvidó（我忘了）、se le rompió（他的……坏了）。掌握这个结构是理解西语表达的关键。"
         },
         {
-          "word": "achica",
-          "translation": "缩小，萎缩",
-          "note": "achicar(se) 本义为『使变小』，引申为空间、可能性或生活质量的压缩，la vida se nos achica 是本文情感最浓缩的一句，比 reducirse 更口语化，带有强烈的无力感。"
+          "word": "ruptura",
+          "translation": "分手，决裂，断裂",
+          "note": "来自 romper（打破、断绝），可指情侣分手、友情断裂或外交关系破裂，比 separación 适用范围更广。作者将其与『红细胞』『午睡』并列，以荒诞的排列强调通勤吞噬的不仅是时间，更是人生中最重要的时刻。"
         }
       ]
     },
@@ -85,14 +95,14 @@
       "zh": "说到底，这些都是『有钱人的烦恼』。我在报纸上读到一位单身母亲的故事，她不愿透露姓名，害怕被赶出市立收容所：『我找不到一个可以和我的宝宝待着的地方』——因为她的第一任房东在女儿出生后把房租涨了100欧元，而新房东告诉她『不想要任何婴儿』。",
       "vocab": [
         {
-          "word": "albergue",
-          "translation": "收容所，庇护所",
-          "note": "比 refugio 更具体，albergue municipal 特指由市政府运营的临时住所，为无家可归者或极度困难家庭提供短期安置，是西班牙社会救助体系的基础设施之一。"
+          "word": "por miedo a que + 虚拟式",
+          "translation": "出于对……的恐惧，害怕……",
+          "note": "por miedo a que 后面必须接虚拟式，因为表达的是尚未发生的担忧：no habla por miedo a que la echen（她不说话，害怕被赶走）。类似结构：para que + 虚拟式（为了……）、antes de que + 虚拟式（在……之前）。"
         },
         {
-          "word": "incrementó",
-          "translation": "提高了，增加了",
-          "note": "在租房语境中 incrementar el alquiler 是正式表达，比 subir el alquiler 更书面化，此处作者引用新闻语言，与前文口语化叙述形成风格对比，强化了新闻事实的冷峻感。"
+          "word": "incrementar vs. subir",
+          "translation": "提高，增加",
+          "note": "两者都可表示价格或数量的上涨，但 incrementar 更正式，多见于书面语、新闻报道和官方文件；subir 更口语化，日常对话中更常用：le subieron el alquiler（口语）vs. le incrementaron el alquiler（书面/新闻）。"
         }
       ]
     },
@@ -102,9 +112,14 @@
       "zh": "我读到：『2024年西班牙共执行了27564起驱逐，比上年增加3.4%。低收入家庭、移民和租房的临时工是主要受害群体。』我想着今天是否会碰到我的室友。我在乘火车从公司回家的途中写下这篇专栏。",
       "vocab": [
         {
-          "word": "desahucios",
-          "translation": "驱逐出租，强制驱逐",
-          "note": "西班牙住房危机的核心词汇，指房东或法院强制要求租户或业主离开住所的法律程序，2008年金融危机后成为西班牙社会运动的标志性议题，英语通常译为 eviction。"
+          "word": "desahucio",
+          "translation": "强制驱逐，驱逐出租",
+          "note": "西班牙住房危机的标志性词汇，指房东或法院强制要求租户离开住所的法律程序，英语对应 eviction。2008年金融危机后，desahucios 成为西班牙社会运动的核心议题，是理解当代西班牙社会的必备词汇。"
+        },
+        {
+          "word": "pienso en si…",
+          "translation": "我在想……是否……",
+          "note": "pensar en si + 陈述式 是表达内心疑问和不确定性的常见结构，注意这里的 si 是『是否』（间接疑问），不是条件句的 si（如果），因此后面用陈述式而非虚拟式：pienso en si vendrá（我在想他是否会来）。"
         }
       ]
     }

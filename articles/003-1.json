@@ -15,14 +15,14 @@
       "zh": "据家长控制平台Qustodio本周一向西班牙国家通讯社EFE提供的数据显示，澳大利亚每五名13至15岁青少年中就有一名仍在访问TikTok，尽管澳大利亚已于去年12月开始实施针对16岁以下未成年人的社交媒体限制措施。",
       "vocab": [
         {
-          "word": "accediendo",
-          "translation": "访问，进入（平台）",
-          "note": "acceder a 在数字技术语境中专指登录或访问某一平台、系统或内容，是科技新闻的标准用词，比 usar 更强调『进入』这一动作本身。"
+          "word": "uno de cada cinco",
+          "translation": "每五个中有一个，五分之一",
+          "note": "新闻报道中将比例数据人格化的标准表达，比直接说 el 20% 更具画面感和冲击力。类似结构：uno de cada tres españoles（每三个西班牙人中就有一个）、dos de cada diez jóvenes（每十个年轻人中有两个）。掌握这一结构是读懂西语新闻数据段落的关键。"
         },
         {
-          "word": "control parental",
-          "translation": "家长控制，亲子管控",
-          "note": "数字安全领域的固定搭配，指父母通过软件或设置监控和限制子女设备使用的功能，plataforma de control parental 特指提供此类服务的专业应用或工具。"
+          "word": "pese a",
+          "translation": "尽管，虽然",
+          "note": "固定介词短语，后接名词或名词短语，是 a pesar de 的简洁替换形式，两者完全同义：pese a las restricciones = a pesar de las restricciones。在新闻标题和导语中，pese a 因更简短而更常见。"
         }
       ]
     },
@@ -32,9 +32,14 @@
       "zh": "这份分析是该法规实施后最早发布的报告之一，基于2024年11月至2026年2月间的应用程序使用数据，显示21%的13至15岁青少年在今年2月至少使用过一次TikTok。在10至12岁儿童中，也有近7%访问了该平台。",
       "vocab": [
         {
-          "word": "implementó",
-          "translation": "实施，落实",
-          "note": "政策和法规语境中的核心动词，implementar 强调将已通过的规定付诸实际执行，比 aplicar 更正式，常用于描述法律、政策或技术方案的落地过程。"
+          "word": "implementar",
+          "translation": "实施，落实，执行",
+          "note": "政策和法规语境中的核心动词，强调将已通过的规定付诸实际执行的过程。易混辨析：implementar（落地执行，强调过程）、aplicar（适用、应用，更泛用）、promulgar（颁布，指法律正式发布）。本文语境中三者均可出现，但含义层次不同。"
+        },
+        {
+          "word": "basado en",
+          "translation": "基于，以……为依据",
+          "note": "学术和新闻写作中说明数据来源或研究依据的固定搭配：un estudio basado en 15.000 participantes（基于1.5万名参与者的研究）、una decisión basada en evidencias（基于证据的决策）。注意 basado 需与主语性数一致：basada（阴性）、basados（复数）。"
         }
       ]
     },
@@ -44,14 +49,14 @@
       "zh": "该研究分析了未成年人每月至少使用某一应用程序一次且连续使用超过五分钟的比例，并将数据分为三个年龄组：10至12岁、13至15岁和16至18岁。结果表明，禁令对部分平台的使用产生了可量化的影响，但效果因社交网络和用户年龄不同而参差不齐。",
       "vocab": [
         {
-          "word": "consecutivos",
-          "translation": "连续的，不间断的",
-          "note": "研究方法论中的精确限定词，cinco minutos consecutivos 将偶然点开与实质性使用区分开来，体现了数据采集的严谨性，避免将短暂误触计入有效使用。"
+          "word": "apuntar a que",
+          "translation": "表明，指向，暗示",
+          "note": "新闻和学术报道中表达谨慎结论的标准句型，比 demostrar（证明）更弱，比 sugerir（暗示）更直接：los datos apuntan a que la medida funciona（数据表明该措施有效）。这种表达体现了科学报道的严谨性——结果指向某方向，但尚未最终确认。"
         },
         {
-          "word": "medible",
-          "translation": "可量化的，可测量的",
-          "note": "由 medir（测量）派生，在政策评估语境中指某一效果可以通过数据加以证明，与 perceptible（可感知的）有别——medible 强调客观数据支撑，是科学报道中评价政策成效的关键词。"
+          "word": "desigual",
+          "translation": "不均衡的，参差不齐的",
+          "note": "由 des-（否定前缀）+ igual（相同）构成，描述效果或分布在不同群体或条件下存在显著差异。在政策评估语境中，efecto desigual 是一个重要的批判性概念，暗示禁令的实施效果并不一致。"
         }
       ]
     },
@@ -61,14 +66,14 @@
       "zh": "然而，报告并未说明未成年人继续访问这些应用程序的具体途径，无论是通过VPN、家长授权还是使用虚假信息注册的账户。Snapchat是初期受影响最大的应用程序之一。在13至15岁青少年中，2025年11月至2026年1月间的使用率下降了逾16个百分点，降幅几乎是上一年同期的五倍。",
       "vocab": [
         {
-          "word": "VPN",
-          "translation": "虚拟私人网络",
-          "note": "Virtual Private Network 的缩写，通过加密隧道绕过地理或监管限制访问被屏蔽内容的技术工具，是未成年人规避社交媒体禁令的主要技术手段之一，在数字监管讨论中频繁出现。"
+          "word": "ya sea… o…",
+          "translation": "无论是……还是……，不管是……或是……",
+          "note": "固定连接结构，用于列举同一类别下的多种可能情况，不含排他性：ya sea por A, por B o por C（无论是因为A、B还是C）。注意 ya sea 后面的动词用虚拟式：ya sea que venga o no（不管他来不来）。这是B2-C1写作中替换简单 o 的地道表达。"
         },
         {
-          "word": "afectadas",
-          "translation": "受影响的，受波及的",
-          "note": "中性词，在本文语境中指受禁令冲击而使用率下降的平台，注意 afectar 在西语中通常表示负面影响，与英语 affect（中性）有所不同。"
+          "word": "puntos porcentuales",
+          "translation": "百分点",
+          "note": "易混辨析：puntos porcentuales（百分点，绝对差值）vs. porcentaje（百分比，相对比例）。例：从20%降至4%，下降了16个百分点（puntos porcentuales），但降幅为80%（porcentaje）。混淆这两个概念是数据报道中最常见的错误之一。"
         }
       ]
     },
@@ -80,7 +85,12 @@
         {
           "word": "repunte",
           "translation": "小幅回升，反弹",
-          "note": "经济和数据分析中的高频词，指数值在下降后出现的小幅回升，比 aumento 更强调反转趋势的初现，常与 ligero（轻微的）搭配，暗示趋势尚不稳定。"
+          "note": "经济和数据分析中的高频词，指数值在下降后出现的小幅回升，常与 ligero（轻微的）搭配，暗示趋势尚不稳定。近义词语气梯度：repunte（小幅反弹）< recuperación（回复）< auge（繁荣）。"
+        },
+        {
+          "word": "frente a",
+          "translation": "相比，对比，相较于",
+          "note": "数据对比时的核心介词短语，用于呈现两个数值之间的对比关系：el 20% en febrero, frente al 18% de enero（2月20%，相比1月的18%）。比 en comparación con 更简洁，是新闻数据段落中最常用的对比表达。"
         }
       ]
     },
@@ -90,14 +100,14 @@
       "zh": "YouTube依然是未成年人使用最多的应用程序之一。2月，37%的13至15岁青少年访问了该平台，甚至略高于16至18岁年龄组（36%）。报告提醒称，部分数据波动可能由季节性因素解释，因为在澳大利亚夏季和学校假期期间，应用程序的使用量通常会出现起伏。",
       "vocab": [
         {
-          "word": "advierte",
-          "translation": "警告，提醒，指出",
-          "note": "advertir de/que 在新闻报道中用于引出研究或报告的局限性声明或注意事项，比 señala 语气更强，带有提示读者不可忽视某一重要信息的含义。"
+          "word": "mantenerse",
+          "translation": "保持，维持（某一状态）",
+          "note": "反身动词，表示某事物在变化环境中保持稳定状态：YouTube se mantuvo entre las más utilizadas（YouTube依然位列使用最多之列）。与 seguir + 副动词 同义但更简洁：se mantuvo estable = siguió siendo estable。"
         },
         {
-          "word": "estacionales",
-          "translation": "季节性的",
-          "note": "数据分析中的重要干扰变量概念，factores estacionales 指因季节变化（假期、气候等）导致的规律性数据波动，是评估政策效果时必须排除的混杂因素。"
+          "word": "factores estacionales",
+          "translation": "季节性因素",
+          "note": "数据分析中的重要干扰变量概念，指因季节变化（假期、气候等）导致的规律性数据波动。在政策评估中，必须将季节性波动与政策效果区分开来，否则会得出错误结论，是理解本段研究局限性声明的关键词。"
         }
       ]
     },
@@ -107,14 +117,14 @@
       "zh": "此外，分析目前尚未发现大规模向限制范围之外的替代平台迁移的现象。WhatsApp或社交游戏Roblox等应用程序出现了温和增长，而Yope、Coverstar或Lemon8等新兴社交网络则仅经历了短暂的关注热潮。",
       "vocab": [
         {
-          "word": "migración masiva",
-          "translation": "大规模迁移，大批转移",
-          "note": "数字平台语境中的固定搭配，指用户从一个平台集体转向另一个平台的现象，是评估禁令是否产生『替代效应』的核心指标，此处否定形式说明禁令未引发明显的平台替代行为。"
+          "word": "por ahora",
+          "translation": "目前，暂时，就现在而言",
+          "note": "时间副词短语，用于限定结论的时效性，暗示情况可能随时间变化。在政策评估报告中，por ahora 是一个重要的谦慎标记词，提示读者这是早期数据，不宜过度解读：no se detecta por ahora（目前尚未发现，但未来可能出现）。"
         },
         {
-          "word": "picos",
-          "translation": "峰值，短暂高峰",
-          "note": "数据分析中的常用词，picos breves de interés 指使用量或关注度短暂飙升后迅速回落的现象，与持续性增长（aumento sostenido）形成对比，暗示新兴平台未能留住用户。"
+          "word": "picos breves de interés",
+          "translation": "短暂的关注峰值，一时的热度",
+          "note": "pico 本义为山峰或鸟嘴，在数据语境中指数值的短暂高点。picos breves de interés 与 aumento sostenido（持续性增长）形成对比，暗示新兴平台只是昙花一现，未能真正留住用户，是评估替代平台竞争力的关键表达。"
         }
       ]
     },
@@ -124,19 +134,14 @@
       "zh": "澳大利亚于去年12月开始实施一项开创性法律，禁止16岁以下未成年人访问社交媒体。政府将这一措施定性为保护青少年心理健康的必要之举，但部分分析人士对其实效提出质疑，并警告称未成年人可能很容易规避该禁令。",
       "vocab": [
         {
-          "word": "pionera",
-          "translation": "开创性的，先驱性的",
-          "note": "ley pionera 是新闻报道中描述某国率先采取某一前所未有的立法举措时的标准表达，强调该法律在全球范围内的首创性，为后文其他国家可能效仿埋下伏笔。"
+          "word": "defender como",
+          "translation": "将……定性为，坚持认为……是",
+          "note": "新闻报道中引述官方立场的标准动词，defender algo como necesario/positivo/justo 表示某一主体坚持为某项措施辩护，带有『面对质疑仍坚持』的含义，比 describir como 或 calificar de 更强调主动辩护的姿态。"
         },
         {
-          "word": "eficacia",
-          "translation": "实效，有效性",
-          "note": "政策评估的核心词汇，与 eficiencia（效率，强调资源利用）不同，eficacia 专指某一措施是否真正达到预期目标，是本文争议焦点的关键词。"
-        },
-        {
-          "word": "eludir",
-          "translation": "规避，绕过，逃避",
-          "note": "比 evitar 更强调通过技巧或手段巧妙绕开规则或障碍，在监管语境中常指利用技术漏洞（如VPN、假账户）绕过限制，与前文提到的具体规避手段相呼应。"
+          "word": "eludir vs. evitar",
+          "translation": "规避（巧妙绕过）vs. 避免（主动不做）",
+          "note": "易混辨析：eludir 强调通过技巧或手段巧妙绕开规则或障碍（如用VPN绕过禁令），带有主动钻空子的含义；evitar 更泛用，指主动避开某事物，不一定涉及规则。在监管语境中，eludir 是描述规避行为的精确用词。"
         }
       ]
     }

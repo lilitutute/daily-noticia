@@ -15,14 +15,14 @@
       "zh": "关于蓝光以及睡前使用屏幕相关风险的讨论由来已久。然而，近期发表于《睡眠医学评论》的一项研究对这一观点提出质疑，指出被广泛指责的蓝光可能并非睡眠障碍的唯一原因，也未必是主要原因。事实上，该研究得出结论，蓝光在就寝时的影响小于此前的预期，最多只会使入睡时间推迟十分钟。",
       "vocab": [
         {
-          "word": "alteraciones del sueño",
-          "translation": "睡眠障碍，睡眠紊乱",
-          "note": "医学领域的常用表达，alteración 指正常功能或状态的改变和紊乱，比 trastornos del sueño（睡眠疾患）更广泛，涵盖从轻微的睡眠质量下降到临床诊断的各类睡眠问题。"
+          "word": "cuestionar",
+          "translation": "质疑，对……提出疑问",
+          "note": "学术和新闻语境中表达对既有观点提出挑战的核心动词，比 dudar de 更正式，强调基于证据的系统性质疑而非单纯的怀疑：un estudio cuestiona la teoría（一项研究质疑该理论）。是科学报道中描述研究发现与主流观点相悖时的标准用词。"
         },
         {
-          "word": "inicio del sueño",
-          "translation": "入睡，睡眠启动",
-          "note": "睡眠医学术语，指从清醒状态过渡到睡眠状态的时间节点，retraso en el inicio del sueño（入睡延迟）是评估睡眠质量的核心指标之一，与 latencia del sueño 同义。"
+          "word": "la tan señalada",
+          "translation": "被如此广泛指责的，备受指摘的",
+          "note": "tan + 形容词/过去分词 构成强调结构，la tan señalada luz azul 意为『那个被反复提及和指责的蓝光』，带有轻微的讽刺意味，暗示这一说法已被过度渲染。señalado 在此为『被点名指出的』，是评论性写作中常见的修辞手法。"
         }
       ]
     },
@@ -32,14 +32,14 @@
       "zh": "巴塞罗那临床医院睡眠科的专家解释说，『真正的问题可能来自睡前的刺激性活动，或来自整体过强的光线，而不仅仅是蓝色调的光线。』他们还补充道，『压力、咖啡因、温度或不利的环境』是影响夜间睡眠质量的其他决定性因素。",
       "vocab": [
         {
-          "word": "estimulante",
-          "translation": "刺激性的，令人兴奋的",
-          "note": "在睡眠卫生语境中，actividad estimulante 指能够激活神经系统、提升觉醒水平的活动，与 relajante（放松的）相对，是本文区分不同屏幕使用方式对睡眠影响差异的核心概念。"
+          "word": "podría venir de",
+          "translation": "可能来自，或许源于",
+          "note": "podría + 动词原形 是条件式表达推测的标准结构，在科学报道中用于呈现尚未完全确认的因果关系，比直接说 viene de 更谨慎。这种语气上的克制是科学写作与普通陈述的重要区别，体现了专家表态的严谨性。"
         },
         {
-          "word": "determinantes",
-          "translation": "决定性的，关键的",
-          "note": "factores determinantes 是科学报道中描述对某一结果具有关键影响的变量的标准表达，比 importantes 更强调因果关系的强度，暗示这些因素对睡眠质量具有实质性的决定作用。"
+          "word": "factores determinantes",
+          "translation": "决定性因素，关键因素",
+          "note": "科学报道中描述对某一结果具有关键影响的变量的标准表达，比 factores importantes 更强调因果关系的强度。注意 determinante 来自 determinar（决定），暗示这些因素对睡眠质量具有实质性的决定作用，而非仅仅相关。"
         }
       ]
     },
@@ -49,14 +49,14 @@
       "zh": "专业人士强调，最有害的并非蓝光本身，而是所观看的内容、使用时间以及伴随该活动的睡眠习惯。例如，睡前一小时看一部电影，与睡前刷社交媒体上的短暂刺激性视频，效果截然不同。此外，他们建议在一天的最后几个小时里总体上减少光线暴露，因为这会影响昼夜节律，可能干扰入睡过程。",
       "vocab": [
         {
-          "word": "ritmos circadianos",
-          "translation": "昼夜节律，生物钟",
-          "note": "生理学核心术语，指生物体约以24小时为周期的内源性生理节律，源自拉丁语 circa diem（约一天），由下丘脑视交叉上核调控，光线是调节昼夜节律的最重要外部信号，是理解睡眠科学的基础概念。"
+          "word": "no es lo mismo… que…",
+          "translation": "……和……是不一样的，……与……有本质区别",
+          "note": "西班牙语中进行质量对比的核心句型，强调两种看似相似的行为在本质或效果上存在重要差异：no es lo mismo estudiar que memorizar（学习和死记硬背是不一样的）。这个结构在论证性写作和科普文章中极为常用，是B2阶段必须掌握的表达。"
         },
         {
-          "word": "conciliación del sueño",
-          "translation": "入睡，睡眠启动",
-          "note": "西班牙语睡眠医学的标准表达，conciliar el sueño 意为成功进入睡眠状态，problemas para conciliar el sueño 即入睡困难，是描述失眠症状最常见的临床表达之一。"
+          "word": "incidir en",
+          "translation": "影响，作用于，对……产生影响",
+          "note": "比 afectar 更强调直接的、具体的作用机制，常用于科学和医学语境：la luz incide en los ritmos circadianos（光线作用于昼夜节律）。注意 incidir en 强调的是影响的路径和机制，而 afectar 更泛指一般性影响。"
         }
       ]
     },
@@ -66,14 +66,14 @@
       "zh": "『睡眠是神经系统的一项功能：一组细胞执行着对生命不可或缺的周期性和短暂性功能。没有睡眠，我们会死亡。』巴塞罗那临床医院神经科医生阿莱克斯·伊兰索表示。这位医生解释说，在睡眠期间，机体的部分细胞从一天的劳累中恢复，而另一部分细胞则主动执行只在睡眠期间发生的功能，例如整理记忆，以及调节内分泌、免疫和激素功能。",
       "vocab": [
         {
-          "word": "neurólogo",
-          "translation": "神经科医生，神经病学家",
-          "note": "专科医生称谓，neurología 是研究神经系统疾病的医学分支，与 neurocientífico（神经科学家，侧重研究）不同，neurólogo 特指临床诊疗专科医生，是医疗新闻中引用权威来源的标准职称。"
+          "word": "llevar a cabo",
+          "translation": "执行，完成，实施",
+          "note": "固定搭配，是 realizar 和 ejecutar 的地道替换，强调将某一任务或功能付诸实施：llevar a cabo una investigación（开展一项研究）、llevar a cabo funciones vitales（执行生命功能）。在正式写作中比 hacer 更精确，是C1写作词汇多样性的重要组成部分。"
         },
         {
-          "word": "endocrinológicas",
-          "translation": "内分泌的",
-          "note": "内分泌学（endocrinología）研究激素的分泌和调节，funciones endocrinológicas 指睡眠期间发生的激素分泌过程，如生长激素主要在深度睡眠期间分泌，是睡眠对身体修复功能的重要机制之一。"
+          "word": "mientras que",
+          "translation": "而，然而，与此同时",
+          "note": "表示对比或对照的连接词，连接两个同时发生但性质不同的过程：una parte se recupera… mientras que otras llevan a cabo…（一部分在恢复……而另一部分在执行……）。注意与 mientras（当……的时候，强调同时性）的区别：mientras que 更强调对比关系。"
         }
       ]
     },
@@ -83,19 +83,14 @@
       "zh": "睡眠不足和睡眠质量差会对日常功能产生直接影响。伊兰索医生警告说，『我们会注意力不集中，专注力下降，更容易烦躁，记忆力减退，更加疲惫，情绪更差，更容易疲劳和抑郁。』因此他得出结论：『睡眠质量差、睡眠时间不足，对健康是一笔亏本的买卖，对家庭、社会、婚姻和职业关系也同样如此。』",
       "vocab": [
         {
-          "word": "irritables",
-          "translation": "易怒的，烦躁的",
-          "note": "医学和心理学术语，指对外部刺激过度敏感、容易产生负面情绪反应的状态，estar irritable 是描述睡眠不足情绪后果的标准临床表达，与 ansioso（焦虑的）和 deprimido（抑郁的）共同构成睡眠剥夺的情绪症状谱。"
+          "word": "de ahí que + 虚拟式",
+          "translation": "因此，正因如此",
+          "note": "因果连接结构，de ahí que 后面必须接虚拟式：de ahí que concluya（因此他得出结论）。这是C1写作中表达逻辑推论的重要句型，比 por eso 更正式，强调前文论述与后文结论之间的必然逻辑关系。"
         },
         {
-          "word": "depresión",
-          "translation": "抑郁，抑郁症",
-          "note": "精神医学核心术语，此处 tendencia a la depresión 指睡眠不足增加抑郁风险的倾向，而非临床诊断，睡眠障碍与抑郁症之间的双向关系是当代精神健康研究的重要课题。"
-        },
-        {
-          "word": "conyugal",
-          "translation": "婚姻的，夫妻的",
-          "note": "由 cónyuge（配偶）派生，relación conyugal 指夫妻关系，作者将其与 familiar（家庭）、social（社会）、laboral（职业）并列，强调睡眠质量对人际关系全方位的影响，conyugal 比 matrimonial 更口语化。"
+          "word": "un mal negocio",
+          "translation": "一笔亏本的买卖，得不偿失",
+          "note": "口语化隐喻，将健康管理比作商业交易，dormir mal es un mal negocio 意为睡眠不足的代价远大于收益。这种将专业医学建议用日常商业语言表达的修辞手法，是科普写作拉近与读者距离的常见技巧。"
         }
       ]
     },
@@ -105,14 +100,14 @@
       "zh": "1. 保持规律作息。每天在同一时间就寝和起床，包括周末，有助于同步生物钟，获得连续且恢复性的睡眠。",
       "vocab": [
         {
-          "word": "reloj biológico",
-          "translation": "生物钟",
-          "note": "昼夜节律的通俗说法，指机体内部调节生理周期的计时机制，sincronizar el reloj biológico 即将内源性节律与外部环境（尤其是光暗周期）对齐，规律作息是维持生物钟同步的最有效行为干预。"
+          "word": "incluidos los fines de semana",
+          "translation": "包括周末",
+          "note": "incluido/a 作为过去分词独立使用时，与后接名词保持性数一致：incluidos los fines de semana（阳性复数）、incluida la siesta（阴性单数）。这种用法相当于 incluyendo，是书面语中更简洁的表达方式，在列举条件或范围时极为常见。"
         },
         {
-          "word": "reparador",
-          "translation": "恢复性的，修复性的",
-          "note": "sueño reparador 是睡眠质量评估的核心概念，指能够充分恢复体力和脑力、使人醒后感到精力充沛的睡眠，与 sueño fragmentado（碎片化睡眠）或 sueño superficial（浅睡眠）相对。"
+          "word": "sueño reparador",
+          "translation": "恢复性睡眠，修复性睡眠",
+          "note": "睡眠质量评估的核心概念，reparador 来自 reparar（修复），指能够充分恢复体力和脑力、使人醒后感到精力充沛的睡眠。与 sueño fragmentado（碎片化睡眠）、sueño superficial（浅睡眠）相对，是睡眠卫生讨论中的目标状态。"
         }
       ]
     },
@@ -122,14 +117,14 @@
       "zh": "3. 睡前避免使用屏幕。至少在睡前一小时关闭电子设备，有助于减少大脑的刺激，促进褪黑素的分泌。4. 保持积极的生活方式。定期进行体育锻炼可以改善休息质量。然而，建议至少在睡前三小时避免体育活动，以免重新激活机体。",
       "vocab": [
         {
-          "word": "melatonina",
-          "translation": "褪黑素",
-          "note": "由松果体分泌的激素，在黑暗环境中分泌增加，向大脑发出『夜晚来临』的信号，促进�困意和睡眠启动，人工光线（尤其是短波蓝光）会抑制其分泌，是理解光线影响睡眠机制的核心生理概念。"
+          "word": "favorecer",
+          "translation": "促进，有利于，助长",
+          "note": "比 ayudar a 更正式，强调某一条件或行为对特定过程的积极促进作用：favorecer la producción de melatonina（促进褪黑素分泌）、favorecer el aprendizaje（有利于学习）。在科普和医学建议中，favorecer 是描述健康行为正面效果的标准动词。"
         },
         {
-          "word": "reactivar",
-          "translation": "重新激活，再度唤醒",
-          "note": "在生理语境中，reactivar el organismo 指运动后肾上腺素和体温升高使身体重新进入活跃状态，与睡眠所需的体温下降和神经系统平静相悖，是解释运动时机建议的关键机制词。"
+          "word": "para no + 动词原形",
+          "translation": "以免……，为了不……",
+          "note": "表示否定目的的固定结构，para no + 原形 说明采取某一行动是为了避免某种不良结果：evitar el ejercicio para no reactivar el organismo（避免运动以免重新激活机体）。注意与 para que no + 虚拟式 的区别：前者主语相同，后者主语不同。"
         }
       ]
     },
@@ -139,9 +134,14 @@
       "zh": "5. 控制兴奋剂摄入和夜间饮食。在一天的最后几个小时，应减少咖啡、茶、含咖啡因的饮料、巧克力和含糖食品的摄入。同样建议避免可能导致消化不良的丰盛晚餐，以及吸烟和饮酒。6. 优化卧室环境。卧室应保持安静、黑暗，并维持适宜的温度。同样建议使用舒适的床垫和枕头，并尽可能将卧室仅用于睡眠。",
       "vocab": [
         {
-          "word": "digestiones pesadas",
-          "translation": "消化不良，沉重的消化负担",
-          "note": "西班牙语口语和医学语境中的常用表达，指进食大量食物后消化系统负担过重、引起不适的状态，digestión pesada 会导致胃食管反流、腹胀等症状，干扰睡眠启动和睡眠质量。"
+          "word": "conviene + 动词原形",
+          "translation": "适宜……，有必要……，建议……",
+          "note": "非人称动词 convenir 用于给出建议或说明某事的适宜性，语气比 hay que 更温和，比 es recomendable 更简洁：conviene reducir el café（适宜减少咖啡摄入）。在健康建议类文章中，conviene、es aconsejable 和 se recomienda 三者常交替使用，体现语言多样性。"
+        },
+        {
+          "word": "así como",
+          "translation": "以及，还有，同样",
+          "note": "并列连接词，用于在列举中添加同类项目，比单独的 y 更正式，常用于书面语中连接性质相同的并列成分：evitar las cenas abundantes, así como el alcohol（避免丰盛晚餐，以及酒精）。注意 así como 不表示比较，仅表示并列补充。"
         }
       ]
     },
@@ -151,9 +151,14 @@
       "zh": "7. 应对失眠发作。如果难以入睡，建议不要强迫自己，而是离开卧室，进行一些放松活动，直到重新产生睡意。如果失眠持续超过十五天，建议咨询医疗专业人员。",
       "vocab": [
         {
-          "word": "insomnio",
-          "translation": "失眠",
-          "note": "临床睡眠医学的核心诊断术语，源自拉丁语 insomnia（无睡眠），指持续性的入睡困难、睡眠维持困难或早醒，并导致日间功能受损。持续超过三个月为慢性失眠（insomnio crónico），本文建议超过十五天即寻求专业帮助。"
+          "word": "costar + 动词原形",
+          "translation": "（做某事）很难，费力",
+          "note": "非人称用法，si cuesta conciliar el sueño 意为『如果入睡很困难』，主语是动词原形本身。类似用法：me cuesta hablar en público（我很难在公众场合发言）、le cuesta concentrarse（他很难集中注意力）。注意与 ser difícil 的区别：costar 更强调主观上的费力感。"
+        },
+        {
+          "word": "prolongarse",
+          "translation": "持续，延续，拖延",
+          "note": "反身动词，强调某一状态或过程在时间上的延续，si el insomnio se prolonga（如果失眠持续）比 si el insomnio dura 更正式，带有『超出预期时长』的含义，常用于医学语境中描述症状的持续时间。"
         }
       ]
     }

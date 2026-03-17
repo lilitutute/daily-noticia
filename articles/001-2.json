@@ -15,14 +15,19 @@
       "zh": "赫尔辛基大学与米涅瓦基金会医学研究所的研究结果表明，子女数量和怀孕时机均会影响女性成年后的健康状况与预期寿命。相关结果已发表于《自然·通讯》期刊。这些发现基于一项纵向研究，涵盖近1.5万名出生于1880年至1957年间的双胞胎女性。",
       "vocab": [
         {
-          "word": "esperanza de vida",
-          "translation": "预期寿命",
-          "note": "公共卫生和人口学的核心固定搭配，指某一人群在特定条件下平均可存活的年数，是本文的主题词组，注意不可拆分使用。"
+          "word": "tanto… como…",
+          "translation": "既……也……，……和……都",
+          "note": "表示并列的关联词，强调两者都包含，不排除任何一方。注意与 o… o…（二选一）的区别：tanto el número como el momento = 数量和时机都影响，而非二选一。"
         },
         {
           "word": "hallazgos",
           "translation": "发现，研究发现",
-          "note": "学术和科学新闻报道中的高频词，特指研究或调查中得出的具体发现，比 resultados 更强调新颖性和意外性，是科技类文章的标志性词汇。"
+          "note": "科技新闻的标志性词汇，比 resultados 更强调发现的新颖性，常用于学术报道的标题和摘要，复数形式 los hallazgos 几乎是固定用法。"
+        },
+        {
+          "word": "abarcar",
+          "translation": "涵盖，包括，覆盖",
+          "note": "比 incluir 更强调范围的广度，常用于描述研究、法律或地理覆盖的范围：un estudio que abarca 20 años（涵盖20年的研究）、una ley que abarca varios sectores（覆盖多个领域的法律）。"
         }
       ]
     },
@@ -32,14 +37,14 @@
       "zh": "双胞胎研究的参与者于1975年受邀填写问卷，此后研究人员对她们的人生轨迹进行了定期追踪，直至今日。根据对近1.5万名参与者的追踪，育有两三个孩子的女性往往活得更长。怀孕时机同样重要：研究显示，大约在24至38岁之间发生的怀孕，与更有利的衰老模式和长寿相关。",
       "vocab": [
         {
-          "word": "seguimiento",
-          "translation": "追踪，随访，跟进",
-          "note": "医学研究中的专业术语，hacer un seguimiento 指对研究对象进行长期定期观察，是纵向研究（estudio longitudinal）的核心方法，比 observación 更强调时间跨度和系统性。"
+          "word": "hacer un seguimiento",
+          "translation": "进行追踪，跟进，随访",
+          "note": "固定搭配，seguimiento 单独使用时也很常见：el seguimiento de los pacientes（对患者的随访）、dar seguimiento a un caso（跟进一个案例）。注意 seguir 和 hacer un seguimiento 的区别：前者是『跟随』，后者特指系统性的长期观察。"
         },
         {
-          "word": "envejecimiento",
-          "translation": "衰老，老化",
-          "note": "本文的核心议题词，由 envejecer（变老）派生，在生物医学语境中特指细胞和组织的渐进性退化过程，常与 biológico（生物性的）搭配，区别于单纯的年龄增长。"
+          "word": "tener lugar",
+          "translation": "发生，举行",
+          "note": "固定搭配，是 ocurrir 和 suceder 的正式替换，多用于书面语和新闻报道，主语通常是事件而非人：la reunión tuvo lugar en Madrid（会议在马德里举行）。"
         }
       ]
     },
@@ -49,14 +54,14 @@
       "zh": "尤其值得注意的是，研究发现子女数量超过平均水平（多于四个）与较短的预期寿命及加速的生物性衰老相关。研究人员表示，这一发现与20世纪进化生物学发展出的生命史理论完全吻合。",
       "vocab": [
         {
-          "word": "acelerado",
-          "translation": "加速的，提前的",
-          "note": "在生物医学语境中，envejecimiento acelerado 是描述生物年龄超前于实际年龄这一现象的标准表达，与后文的表观遗传时钟测量结果直接呼应。"
+          "word": "concordar con",
+          "translation": "与……吻合，与……一致",
+          "note": "学术写作中表达研究结果与既有理论相符的标准搭配，比 coincidir con 更正式，强调逻辑上的契合而非偶然巧合：los datos concuerdan con la hipótesis（数据与假设吻合）。"
         },
         {
-          "word": "concuerda",
-          "translation": "与……吻合，与……一致",
-          "note": "concordar con 是学术写作中表达研究结果与既有理论相符的标准搭配，比 coincide con 更正式，强调逻辑上的契合而非偶然的巧合。"
+          "word": "superior a la media",
+          "translation": "高于平均水平",
+          "note": "新闻和学术文体中描述数据的常用结构：superior/inferior a la media（高于/低于平均水平）、por encima/por debajo de la media（同义替换）。注意 superior 在西班牙语中不带比较级 más，直接接 a：superior a，不说 más superior que。"
         }
       ]
     },
@@ -66,9 +71,14 @@
       "zh": "『从进化生物学的角度来看，生物体拥有有限的资源，例如时间和能量。当大量能量被投入繁殖时，这些能量就会从机体的维护和修复机制中被扣除，从而可能缩短预期寿命。』主导该研究的研究员米凯拉·胡卡宁解释道。",
       "vocab": [
         {
-          "word": "reproducción",
-          "translation": "繁殖，生育",
-          "note": "进化生物学核心术语，在生命史理论（teoría de la historia de vida）框架下，reproducción 与 supervivencia（存活）之间的资源权衡是解释本文核心发现的理论基础。"
+          "word": "disponer de",
+          "translation": "拥有，具备，可以使用",
+          "note": "固定搭配，表示拥有或可以调用某种资源，比 tener 更正式，强调资源的可支配性：disponer de tiempo（有时间可用）、disponer de los medios necesarios（具备必要手段）。"
+        },
+        {
+          "word": "lo que podría + 动词原形",
+          "translation": "这可能会……",
+          "note": "lo que 作关系代词回指前文整个句子，podría 是条件式表示推测和不确定性，这个结构是科学报道中表达谨慎结论的标准句型：lo que podría explicar…（这或许可以解释……）、lo que sugeriría que…（这可能表明……）。"
         }
       ]
     },
@@ -78,14 +88,14 @@
       "zh": "有些出乎意料的是，研究还发现无子女的女性比育有少数孩子的女性衰老更快。这一结果可能由其他与生活方式或健康相关的因素来解释，而这些因素的影响在分析中未能得到完全控制。",
       "vocab": [
         {
-          "word": "inesperada",
-          "translation": "出乎意料的，意想不到的",
-          "note": "de forma inesperada 是科学报道中标记反直觉发现的常用表达，作者用此短语提示读者注意即将出现的与预期相悖的结论，增强可读性。"
+          "word": "de forma + adjetivo",
+          "translation": "以……的方式，……地",
+          "note": "副词短语的正式替换结构，在新闻和学术写作中比直接用副词（-mente）更灵活：de forma inesperada = inesperadamente、de forma gradual = gradualmente。当形容词较长或需要强调时，优先使用 de forma + 形容词。"
         },
         {
-          "word": "controlarse",
-          "translation": "被控制，被排除（变量）",
-          "note": "统计学和研究方法论术语，controlar una variable 指在分析中排除或修正某一混杂因素的影响，是理解研究局限性的关键概念，与日常含义『控制自己』完全不同。"
+          "word": "controlar una variable",
+          "translation": "控制变量，排除干扰因素",
+          "note": "假朋友警告：controlar 在研究方法论中不是『控制自己』，而是统计学术语，指在分析中排除或修正某一混杂因素的影响，是理解研究局限性声明的关键词。"
         }
       ]
     },
@@ -95,9 +105,14 @@
       "zh": "研究团队强调，这些发现仅适用于群体层面，既不能证明因果关系，也不能为处于育龄期的女性个人提供建议依据。例如，与研究所涵盖的时期相比，家庭规模已经缩小，初次分娩年龄也有所提高。",
       "vocab": [
         {
-          "word": "destaca",
-          "translation": "强调，着重指出",
-          "note": "科学报道中引用研究者声明时的高频动词，比 dice 更强调某一观点被特别提出和重视，常用于标记研究的局限性声明或重要警示。"
+          "word": "a nivel + 名词",
+          "translation": "在……层面，在……级别",
+          "note": "新闻和学术写作中极高频的介词短语，用于限定结论的适用范围：a nivel poblacional（群体层面）、a nivel individual（个人层面）、a nivel nacional（国家层面）。掌握这个结构，可以精确表达研究结论的适用边界。"
+        },
+        {
+          "word": "en comparación con",
+          "translation": "与……相比，相较于",
+          "note": "固定搭配，是 comparado con 的介词短语替换形式，后接名词，常用于数据对比段落：en comparación con el año anterior（与上一年相比）。注意不要说 en comparación a，西班牙语规范用法是接 con。"
         }
       ]
     },
@@ -107,14 +122,14 @@
       "zh": "『因此，女性不应该基于这些发现来考虑改变自己关于生育的计划或意愿。』研究负责人米娜·奥利凯宁表示。繁殖与预期寿命之间可能存在的进化权衡自20世纪初就引起了研究人员的兴趣，但该领域的大量研究得出了相互矛盾的结果。",
       "vocab": [
         {
-          "word": "disyuntiva",
-          "translation": "两难抉择，权衡取舍",
-          "note": "比 dilema 更正式，在科学语境中常指两种生物学目标之间的资源竞争关系（trade-off），此处指繁殖投入与寿命维护之间的进化权衡，是生命史理论的核心概念。"
+          "word": "plantearse + 动词原形",
+          "translation": "考虑做……，打算做……",
+          "note": "反身动词 plantearse 表示『认真考虑某一可能性』，比 pensar en 更强调主动的思考和评估过程：plantearse cambiar de trabajo（认真考虑换工作）、plantearse si vale la pena（考虑是否值得）。"
         },
         {
-          "word": "contradictorios",
-          "translation": "相互矛盾的，相悖的",
-          "note": "学术综述中的高频词，resultados contradictorios 指不同研究得出方向相反的结论，是作者说明本研究创新价值的铺垫，暗示该领域此前缺乏共识。"
+          "word": "arrojar resultados",
+          "translation": "得出结果，产生结果",
+          "note": "arrojar 本义是『抛出、投掷』，在学术和新闻语境中固定搭配 arrojar resultados/datos/luz，意为研究『产出』或『揭示』某些结果，是科学报道中替换 producir 或 mostrar 的地道表达。"
         }
       ]
     },
@@ -124,9 +139,14 @@
       "zh": "本研究的一个创新之处在于，衰老也通过生物学方法进行了测量。研究人员从逾千名参与者的血液样本中测定了表观遗传时钟。表观遗传时钟旨在测量生物性衰老，即细胞和组织的渐进性退化。借助这些方法，与衰老相关的变化可以在死亡前数年乃至数十年被检测出来。",
       "vocab": [
         {
-          "word": "relojes epigenéticos",
-          "translation": "表观遗传时钟",
-          "note": "前沿生物医学术语，指通过分析DNA甲基化模式来估算生物年龄的计算模型，是本研究区别于以往仅依赖死亡率数据的核心方法创新，epigenético 指不改变DNA序列本身的基因表达调控机制。"
+          "word": "tener como objetivo",
+          "translation": "以……为目标，旨在",
+          "note": "固定搭配，用于说明某事物的设计目的或功能，比 intentar 更正式：este programa tiene como objetivo reducir el desempleo（该项目旨在减少失业）。同义替换：tener por objetivo、estar destinado a。"
+        },
+        {
+          "word": "es decir",
+          "translation": "也就是说，即",
+          "note": "写作中最重要的解释性连接词之一，用于对前文进行补充说明或通俗化解释，相当于英语的 that is / in other words。注意与 o sea（口语化，更随意）的语体差异：es decir 适用于书面语和正式场合。"
         }
       ]
     },
@@ -136,14 +156,14 @@
       "zh": "这些结果支持了此前基于死亡率数据得出的结论。根据表观遗传时钟，生育过多或从未生育的女性，其生物年龄在某种程度上大于她们的实际年龄。",
       "vocab": [
         {
-          "word": "respaldaron",
+          "word": "respaldar",
           "translation": "支持，印证，佐证",
-          "note": "respaldar 本义为『靠背支撑』，引申为对某一观点或结论的支持与证实，比 confirmaron 更强调新证据对既有结论的加固作用，是学术写作中的常用动词。"
+          "note": "来自 espalda（背部），字面是『用背部支撑』，引申为对某观点或结论的支持。与 apoyar 的区别：respaldar 更强调用新证据加固既有结论，apoyar 更泛指一般性的支持。"
         },
         {
-          "word": "cronológica",
-          "translation": "按时间顺序的，实际年龄的",
-          "note": "edad cronológica 与 edad biológica（生物年龄）是本文的核心对立概念：前者指出生证明上的年龄，后者指细胞和组织实际的老化程度，两者的差距是表观遗传时钟研究的核心关注点。"
+          "word": "edad cronológica vs. edad biológica",
+          "translation": "实际年龄 vs. 生物年龄",
+          "note": "本文的核心对立概念：edad cronológica 是出生证明上的年龄，edad biológica 是细胞和组织实际的老化程度。cronológico 来自希腊语 chronos（时间），同族词：crónica（编年史）、cronograma（时间表）。"
         }
       ]
     },
@@ -155,12 +175,17 @@
         {
           "word": "huella",
           "translation": "印记，痕迹，足迹",
-          "note": "本义为脚印或痕迹，引申为某种经历或决定在生理、心理或社会层面留下的持久影响，huella biológica 是本文将抽象的生命决策具象化的核心比喻，极具表达力。"
+          "note": "本义是脚印，引申为某种经历或决定留下的持久影响，是西班牙语中极具表达力的隐喻词汇：dejar huella（留下印记）、huella dactilar（指纹）、huella de carbono（碳足迹）。"
         },
         {
-          "word": "selección natural",
-          "translation": "自然选择",
-          "note": "进化生物学的基础概念，由达尔文提出，指环境对生物性状的筛选过程，使有利于繁殖的特征在种群中得以保留，是理解本文生命史理论框架的必要背景知识。"
+          "word": "a lo largo de",
+          "translation": "在……过程中，贯穿……",
+          "note": "固定介词短语，本义是『沿着……的长度』，引申为在某段时间或空间的全程：a lo largo de la vida（一生中）、a lo largo del artículo（贯穿全文）、a lo largo del río（沿河）。注意与 durante 的区别：a lo largo de 更强调贯穿始终的过程感。"
+        },
+        {
+          "word": "conllevar",
+          "translation": "带来，伴随，意味着",
+          "note": "比 implicar 更强调某事物作为必然附带结果而产生的影响，常用于描述某一选择或现象不可避免地带来的后果：este trabajo conlleva mucha responsabilidad（这份工作伴随着很大的责任）。"
         }
       ]
     }
