@@ -152,18 +152,22 @@
   // ── 在这里登记每一期的文章 ──────────────────────────────
   // 每新增一期，在最前面加一个对象即可
   const ISSUES = [
-    {
-      date: "2026年3月5日",
-      main: "001",          // articles/001.json
-      readings: ["001", "002", "003", "004"]  // reading-articles/001~004.json
-    }
-    // 下一期：
-    // {
-    //   date: "2026年3月6日",
-    //   main: "002",
-    //   readings: ["005", "006", "007", "008"]
-    // }
-  ];
+  {
+    label: "第003期",
+    main: "003",
+    readings: ["003-1", "003-2", "003-3", "003-4"]
+  },
+  {
+    label: "第002期",
+    main: "002",
+    readings: ["002-1", "002-2", "002-3", "002-4"]
+  },
+  {
+    label: "第001期",
+    main: "001",
+    readings: ["001-1", "001-2", "001-3", "001-4"]
+  }
+];
   // ────────────────────────────────────────────────────────
 
   async function loadCard(type, file) {
@@ -178,7 +182,7 @@
     for (const issue of ISSUES) {
       const group = document.createElement('div');
       group.className = 'day-group';
-      group.innerHTML = `<div class="day-label">📅 ${issue.date}</div>`;
+      group.innerHTML = `<div class="day-label">📘 ${issue.label}</div>`;
 
       const grid = document.createElement('div');
       grid.className = 'card-grid';
