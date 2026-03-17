@@ -128,6 +128,13 @@
       font-size: 14px;
       padding: 60px 0;
     }
+
+    .loading {
+      text-align: center;
+      color: var(--muted);
+      font-size: 14px;
+      padding: 60px 0;
+    }
   </style>
 </head>
 <body>
@@ -137,15 +144,15 @@
   <div class="site-sub">点击卡片阅读当日文章</div>
 </header>
 
-<div id="home-body"></div>
+<div id="home-body">
+  <div class="loading">加载中…</div>
+</div>
 
 <script>
-  // 从文件名提取期号，例如 "003-1" → "003"
   function getIssueNumber(filename) {
     return filename.split('-')[0];
   }
 
-  // "003" → "第003期"
   function formatLabel(issueNum) {
     return `第${issueNum}期`;
   }
@@ -153,7 +160,7 @@
   async function buildHome() {
     const container = document.getElementById('home-body');
 
-    // 1. 读取 index.json 获取所有文件名
+    // 1. 读取 index.json
     let files = [];
     try {
       const res = await fetch('index.json');
@@ -163,18 +170,40 @@
       return;
     }
 
-    // 2. 按期号分组，保持顺序
+    // 2. 并行 fetch 所有文章
+    const results = await Promise.all(
+      files.map(async (file) => {
+        try {
+          const res = await fetch(`articles/${file}.json`);
+          if (!res.ok) return { file, data: null };
+          const data = await res.json();
+          return { file, data };
+        } catch(e) {
+          return { file, data: null };
+        }
+      })
+    );
+
+    // 3. 按期号分组，失败的直接丢弃
     const groupMap = new Map();
-    for (const file of files) {
+    for (const { file, data } of results) {
+      if (!data) continue;
       const issueNum = getIssueNumber(file);
-      if (!groupMap.has(issueNum)) {
-        groupMap.set(issueNum, []);
-      }
-      groupMap.get(issueNum).push(file);
+      if (!groupMap.has(issueNum)) groupMap.set(issueNum, []);
+      groupMap.get(issueNum).push({ file, data });
     }
 
-    // 3. 逐组渲染
-    for (const [issueNum, fileList] of groupMap) {
+    // 4. 清空 loading
+    container.innerHTML = '';
+
+    // 5. 没有任何内容
+    if (groupMap.size === 0) {
+      container.innerHTML = '<div class="empty">暂无内容</div>';
+      return;
+    }
+
+    // 6. 渲染每一期
+    for (const [issueNum, articles] of groupMap) {
       const group = document.createElement('div');
       group.className = 'day-group';
       group.innerHTML = `<div class="day-label">📘 ${formatLabel(issueNum)}</div>`;
@@ -182,28 +211,21 @@
       const grid = document.createElement('div');
       grid.className = 'card-grid';
 
-      for (const file of fileList) {
-        try {
-          const res  = await fetch(`articles/${file}.json`);
-          const data = await res.json();
-
-          const a = document.createElement('a');
-          a.className = 'card';
-          a.href      = `article.html?article=${file}`;
-          a.innerHTML = `
-            <span class="card-type">📰 主文章</span>
-            <div class="card-title-es">${data.title}</div>
-            <div class="card-title-zh">${data.subtitle}</div>
-            <div class="card-meta">
-              <span class="meta-tag">${data.source}</span>
-              <span class="meta-tag">${data.category}</span>
-              <span class="meta-tag">${data.difficulty}</span>
-              <span class="meta-tag">${data.wordCount}</span>
-            </div>`;
-          grid.appendChild(a);
-        } catch(e) {
-          console.warn('文章加载失败:', file);
-        }
+      for (const { file, data } of articles) {
+        const a = document.createElement('a');
+        a.className = 'card';
+        a.href      = `article.html?article=${file}`;
+        a.innerHTML = `
+          <span class="card-type">📰 主文章</span>
+          <div class="card-title-es">${data.title}</div>
+          <div class="card-title-zh">${data.subtitle}</div>
+          <div class="card-meta">
+            <span class="meta-tag">${data.source}</span>
+            <span class="meta-tag">${data.category}</span>
+            <span class="meta-tag">${data.difficulty}</span>
+            <span class="meta-tag">${data.wordCount}</span>
+          </div>`;
+        grid.appendChild(a);
       }
 
       group.appendChild(grid);
