@@ -151,23 +151,25 @@
 <script>
   // ── 在这里登记每一期的文章 ──────────────────────────────
   // 每新增一期，在最前面加一个对象即可
+  // mains：当期3篇主文章的文件名数组，排序为 001-1 / 001-2 / 001-3
+  // readings：副文章模块保留，暂不填内容则传空数组 []
   const ISSUES = [
-  {
-    label: "第003期",
-    main: "003",
-    readings: ["003-1", "003-2", "003-3", "003-4"]
-  },
-  {
-    label: "第002期",
-    main: "002",
-    readings: ["002-1", "002-2", "002-3", "002-4"]
-  },
-  {
-    label: "第001期",
-    main: "001",
-    readings: ["001-1", "001-2", "001-3", "001-4"]
-  }
-];
+    {
+      label: "第003期",
+      mains: ["003-1", "003-2", "003-3"],
+      readings: ["003-r1", "003-r2", "003-r3", "003-r4"]
+    },
+    {
+      label: "第002期",
+      mains: ["002-1", "002-2", "002-3"],
+      readings: ["002-r1", "002-r2", "002-r3", "002-r4"]
+    },
+    {
+      label: "第001期",
+      mains: ["001-1", "001-2", "001-3"],
+      readings: ["001-r1", "001-r2", "001-r3", "001-r4"]
+    }
+  ];
   // ────────────────────────────────────────────────────────
 
   async function loadCard(type, file) {
@@ -187,26 +189,28 @@
       const grid = document.createElement('div');
       grid.className = 'card-grid';
 
-      // 主文章
-      try {
-        const data = await loadCard('main', issue.main);
-        const a    = document.createElement('a');
-        a.className = 'card main';
-        a.href      = `article.html?article=${issue.main}`;
-        a.innerHTML = `
-          <span class="card-type main-tag">📰 主文章</span>
-          <div class="card-title-es">${data.title}</div>
-          <div class="card-title-zh">${data.subtitle}</div>
-          <div class="card-meta">
-            <span class="meta-tag">${data.source}</span>
-            <span class="meta-tag">${data.category}</span>
-            <span class="meta-tag">${data.difficulty}</span>
-            <span class="meta-tag">${data.wordCount}</span>
-          </div>`;
-        grid.appendChild(a);
-      } catch(e) { console.warn('主文章加载失败', issue.main); }
+      // 3篇主文章，每篇各占整行
+      for (const file of issue.mains) {
+        try {
+          const data = await loadCard('main', file);
+          const a    = document.createElement('a');
+          a.className = 'card main';
+          a.href      = `article.html?article=${file}`;
+          a.innerHTML = `
+            <span class="card-type main-tag">📰 主文章</span>
+            <div class="card-title-es">${data.title}</div>
+            <div class="card-title-zh">${data.subtitle}</div>
+            <div class="card-meta">
+              <span class="meta-tag">${data.source}</span>
+              <span class="meta-tag">${data.category}</span>
+              <span class="meta-tag">${data.difficulty}</span>
+              <span class="meta-tag">${data.wordCount}</span>
+            </div>`;
+          grid.appendChild(a);
+        } catch(e) { console.warn('主文章加载失败', file); }
+      }
 
-      // 4篇阅读
+      // 副文章模块保留，readings 为空数组时自动跳过
       for (const file of issue.readings) {
         try {
           const data = await loadCard('reading', file);

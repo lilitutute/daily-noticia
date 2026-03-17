@@ -1,253 +1,340 @@
 {
-  "brand": "西语SuperO",
-  "source": "El País",
-  "category": "国际政治",
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会与健康",
   "difficulty": "C1",
-  "wordCount": "约830词",
-  "title": "Trump asegura que será \"un gran honor\" para él \"tomar Cuba\": \"Puedo hacer lo que quiera con ella\"",
-  "subtitle": "特朗普称\"拿下古巴\"将是\"莫大荣耀\"：\"我想对它做什么就做什么\"",
-  "resumenEs": "Trump declaró este lunes que sería \"un gran honor\" tomar Cuba, calificándola de \"nación fallida\" al borde del colapso. Sus palabras coinciden con un apagón total en la isla, el bloqueo energético y protestas populares, mientras negociadores de Washington exigen la salida de Díaz-Canel como condición del acuerdo.",
-  "resumenZh": "特朗普周一宣称\"拿下古巴\"将是莫大荣耀，称其为濒临崩溃的\"失败国家\"。与此同时，古巴正遭遇全岛大停电、能源封锁与民众抗议，而华盛顿谈判代表据报已将迪亚斯-卡内尔下台列为协议条件。",
+  "wordCount": "约850词",
+  "title": "Sociedad enferma de delgadez o por qué la obesidad no es \"una pandemia\"",
+  "subtitle": "沉迷于『瘦』的病态社会——为何肥胖并非『一场大流行病』",
+  "resumenEs": "El artículo cuestiona el discurso médico y comercial que patologiza la obesidad y promueve fármacos como Ozempic, argumentando que dicho enfoque refuerza la gordofobia, ignora el estigma de peso y convierte la delgadez en un privilegio económico y social.",
+  "resumenZh": "本文批判了将肥胖病理化、推广Ozempic等药物的医疗与商业话语，指出这一做法强化了对肥胖者的偏见，忽视了体重污名化的危害，并将纤瘦身材变成一种经济与社会特权。",
   "paragraphs": [
     {
       "id": 1,
-      "es": "El presidente de Estados Unidos, Donald Trump, afirmó este lunes en una <strong>comparecencia</strong> ante la prensa en el Despacho Oval de la Casa Blanca que será \"un gran honor\" para él \"tomar Cuba\". Las declaraciones llegan en mitad de la <strong>escalada</strong> de la guerra contra Irán y en medio de las tensiones con La Habana por el <strong>bloqueo energético</strong> de la isla, en la que <strong>no entra una gota de</strong> combustible desde hace tres meses. \"Creo que puedo hacer lo que quiera con ella\", dijo Trump. \"Es una nación muy debilitada en este momento\".",
-      "zh": "美国总统唐纳德·特朗普周一在白宫椭圆形办公室的新闻发布会上表示，\"拿下古巴\"对他而言将是\"莫大的荣耀\"。此番言论恰逢对伊朗战争局势升级之际，也正值美国与哈瓦那因对该岛能源封锁而关系紧张之时——三个月来，没有一滴燃料进入古巴。\"我相信我想对它做什么就能做什么，\"特朗普说道，\"它现在是一个非常虚弱的国家。\"",
+      "es": "Desde que salieron al mercado, Ozempic y el resto de los medicamentos <strong>análogos</strong> a la GLP-1, han ido jugando con la delgadez como solución a todo. Lo que surgió como un fármaco que sería de ayuda para personas afectadas por diabetes tipo II y cuyo efecto secundario es la pérdida de peso, a través de la <strong>modulación</strong> del apetito, se ha convertido en la <strong>panacea</strong> aspiracional a la delgadez. ¿En una sociedad tremendamente <strong>gordófoba</strong> quién no quiere estar más delgado? Ahora es posible, estás solo a unos pinchazos de ello.",
+      "zh": "自从Ozempic及其他GLP-1类似药物上市以来，『瘦』便被包装成了解决一切问题的万能答案。这种药物最初是为II型糖尿病患者研发的，通过调节食欲产生减重的副作用，如今却已演变为人们对纤瘦身材的『渴望灵药』。在一个极度厌胖的社会里，谁不想更瘦呢？现在这成为了可能——你只需打几针就能实现。",
       "vocab": [
         {
-          "word": "comparecencia",
-          "translation": "出席；公开亮相",
-          "note": "特指官员在媒体或司法场合的正式露面，新闻文体中常见，不同于一般的 aparición（出现）。"
+          "word": "análogos",
+          "translation": "类似物，同类药物",
+          "note": "科学语境中指结构或功能相似的化合物，常见搭配为 análogo a（与……类似）。"
         },
         {
-          "word": "escalada",
-          "translation": "升级；逐步激化",
-          "note": "常用于冲突、紧张局势的\"逐步升级\"，固定搭配如 escalada de violencia / de tensiones。"
+          "word": "modulación",
+          "translation": "调节，调控",
+          "note": "医学/生理学术语，指对某一生理过程的精细调节，比 control 更专业、更精准。"
         },
         {
-          "word": "bloqueo energético",
-          "translation": "能源封锁",
-          "note": "bloqueo 在外交/政治语境中指\"封锁\"，比 embargo（禁运）更强调物理阻断，此处特指燃料断供。"
+          "word": "panacea",
+          "translation": "万灵药，万能解决方案",
+          "note": "源自希腊语，新闻文体中常带讽刺意味，暗指某种被过度神化的解决方案。"
         },
         {
-          "word": "no entra una gota de",
-          "translation": "一滴都没有进入",
-          "note": "固定夸张表达，gota（一滴）用于强调完全断绝，类似用法：no hay ni gota de agua。"
+          "word": "gordófoba",
+          "translation": "厌胖的，对肥胖者存在偏见的",
+          "note": "由 gordo + fobia 构成的新造词，属社会议题核心词汇，gordofobia 指对胖人的系统性歧视。"
         }
       ]
     },
     {
       "id": 2,
-      "es": "Las palabras de Trump se suman a sus intervenciones de las últimas semanas, en las que ha ido <strong>esbozando</strong>, no siempre con claridad, sus planes para la isla. Hasta ahora, ha repetido que se trata de una \"nación fallida\", ha prometido aprovechar su dependencia del combustible venezolano, cuyo <strong>grifo</strong> está cortado tras la captura de Nicolás Maduro en enero, y ha <strong>vaticinado</strong> que está \"a punto de caer\", mientras <strong>alienta</strong> las reformas económicas.",
-      "zh": "特朗普的这番话是其过去数周一系列表态的延续——他一直在断断续续、并不总是清晰地勾勒着对这座岛屿的计划。迄今为止，他反复强调古巴是\"失败国家\"，承诺要利用其对委内瑞拉燃料的依赖（该燃料供应已在马杜罗一月被捕后中断），并预言古巴\"即将垮台\"，同时鼓励古巴推进经济改革。",
+      "es": "Desde hace años la OMS habla de pandemia de la obesidad, pero <strong>juega al despiste</strong> en su definición: la OMS define la obesidad como \"una acumulación anormal o excesiva de grasa que puede ser perjudicial para la salud\" (OMS, 2023). Y utiliza el IMC como herramienta de clasificación; esto es, se considera obesidad cuando el IMC es igual o superior a 30 kg/m². En muchos documentos, la OMS describe la obesidad como un factor de riesgo para <strong>enfermedades no transmisibles</strong> como la diabetes tipo 2, enfermedades cardiovasculares o ciertos tipos de cáncer.",
+      "zh": "多年来，世卫组织一直将肥胖称为『大流行病』，但其定义却含糊其辞：世卫组织将肥胖定义为『可能有害健康的异常或过量脂肪堆积』（WHO，2023年）。并以BMI作为分类工具，即BMI等于或超过30 kg/m²时即被认定为肥胖。在许多文件中，世卫组织将肥胖描述为糖尿病、心血管疾病或某些癌症等非传染性疾病的风险因素。",
       "vocab": [
         {
-          "word": "esbozar",
-          "translation": "勾勒；初步描绘",
-          "note": "本义为\"素描轮廓\"，引申为\"初步阐述想法\"，语气上暗示尚不完整、仍在成形，比 explicar 更模糊。"
+          "word": "juega al despiste",
+          "translation": "故意混淆视听，转移注意力",
+          "note": "固定口语短语，jugar al despiste 字面意为『玩迷糊游戏』，新闻中用于批评某机构或人物刻意回避核心问题。"
         },
         {
-          "word": "grifo",
-          "translation": "水龙头；（此处喻）供应阀门",
-          "note": "本义为\"水龙头\"，政治/经济文体中常用 cortar el grifo 表示\"切断供应\"，是一个生动的固定隐喻。"
-        },
-        {
-          "word": "vaticinado",
-          "translation": "预言；断言",
-          "note": "正式词汇，带有强烈的主观预判色彩，比 predecir 更具修辞性，新闻中常用于描述政治人物的\"放话\"。"
-        },
-        {
-          "word": "alienta",
-          "translation": "鼓励；激励",
-          "note": "此处指特朗普\"鼓励/推动\"改革，注意与 animar 的区别：alentar 更正式，且常用于抽象目标，如 alentar reformas / la esperanza。"
+          "word": "enfermedades no transmisibles",
+          "translation": "非传染性疾病",
+          "note": "公共卫生领域核心术语，缩写为 ENT，与 enfermedades infecciosas（传染病）相对。"
         }
       ]
     },
     {
       "id": 3,
-      "es": "Tras la confirmación del pasado viernes de las autoridades la isla de las conversaciones con Washington sobre su futuro, no está aún claro en qué podrían <strong>desembocar</strong> esos contactos. The New York Times publicó este lunes, poco después de conocerse las últimas intenciones del <strong>inquilino de la Casa Blanca</strong>, que los negociadores enviados por Washington han <strong>exigido la cabeza</strong> del presidente Miguel Díaz-Canel como parte del trato.",
-      "zh": "上周五，古巴当局证实了与华盛顿就该岛未来进行谈判一事，但这些接触最终会走向何方目前仍不明朗。《纽约时报》周一在白宫主人最新意图曝光后不久报道称，华盛顿派出的谈判代表已将迪亚斯-卡内尔总统\"人头落地\"（即下台）列为协议条件之一。",
+      "es": "Sin embargo, en otros contextos —como en la Clasificación Internacional de Enfermedades (CIE-11)— la trata como una enfermedad crónica, con códigos diagnósticos específicos. Esta <strong>ambigüedad</strong> contribuye a la confusión clínica y social, y refuerza la visión <strong>patologizante</strong> del cuerpo gordo.",
+      "zh": "然而，在其他语境中——例如《国际疾病分类》（ICD-11）——肥胖又被视为一种慢性疾病，并有专属的诊断代码。这种模糊性加剧了临床和社会层面的混乱，并强化了将胖体视为病态的观念。",
       "vocab": [
         {
-          "word": "desembocar",
-          "translation": "最终导致；流向",
-          "note": "本义为河流\"汇入\"，引申为事件\"最终走向某结果\"，后接 en + 名词，是新闻政治文体中的高频搭配。"
+          "word": "ambigüedad",
+          "translation": "模糊性，歧义",
+          "note": "正式学术/新闻词汇，指定义或立场不明确，比 confusión 更强调概念本身的不清晰。"
         },
         {
-          "word": "inquilino de la Casa Blanca",
-          "translation": "白宫主人（指总统）",
-          "note": "政治新闻中用 inquilino（租客/住户）指代总统是常见的文体修辞，带有轻微讽刺或中性距离感。"
-        },
-        {
-          "word": "exigido la cabeza",
-          "translation": "要求某人下台/人头落地",
-          "note": "固定隐喻表达，字面为\"要求某人的头颅\"，政治语境中指强硬要求某官员去职，语气强烈。"
+          "word": "patologizante",
+          "translation": "将……病理化的",
+          "note": "由 patologizar 派生的形容词，批判性话语中常见，指将正常的身体状态或行为错误地定性为疾病。"
         }
       ]
     },
     {
       "id": 4,
-      "es": "Para Trump, solo una cosa parece clara: esos pasos tienen que conducir en una buena dirección para los intereses de Washington. A la pregunta de uno de los <strong>corresponsales</strong> presentes este lunes en el Despacho Oval, que quiso que Trump escogiera qué modelo se <strong>baraja</strong>, si el de Irán o el de Venezuela, Trump, sentado en su escritorio, respondió en un tono más directo que en otras ocasiones: \"[Cuba] es una nación fallida. No tienen dinero, no tienen nada. Tienen una tierra linda y tienen vistas lindas, ¿sabes?\". También dijo que la isla, \"a su manera\", tiene un atractivo económico. \"Ya sabes, turismo y todo eso. Es hermosa, con un gran clima\".",
-      "zh": "对特朗普而言，有一件事似乎是明确的：这些步骤必须朝着有利于华盛顿利益的方向推进。当天在椭圆形办公室在场的一位记者提问，希望特朗普说明目前考虑的是哪种模式——伊朗模式还是委内瑞拉模式。特朗普坐在办公桌前，以比以往更直接的语气作出了回应：\"[古巴]是一个失败国家。他们没有钱，什么都没有。他们有美丽的土地和美丽的风景，你知道吗？\"他还说，这座岛屿\"以其独特的方式\"具有经济吸引力。\"你知道，旅游业之类的。它很美，气候宜人。\"",
+      "es": "Lo que seguro que no es una enfermedad infecciosa que se propague por contagio, y por lo que podría crear una pandemia a nivel global. Es curioso que, habiendo pasado una pandemia real hace cinco años, la covid, se permitan estas <strong>licencias lingüísticas</strong>. El lenguaje nunca es inocente, y saben que si usan términos que puedan asustar a la población el efecto es mayor. Ni es una pandemia, ni es una epidemia, ni es una enfermedad infecciosa. Nada de esto importa, si la función es <strong>atemorizar</strong> a la población. Otra de las causas por la que se permiten conductas poco éticas con el <strong>abordaje</strong> del sobrepeso y la obesidad es el gran negocio y beneficio económico que supone.",
+      "zh": "肥胖绝对不是一种通过传染传播的传染病，因此不可能在全球范围内引发大流行。令人不解的是，在经历了五年前新冠这场真正的大流行病之后，人们竟然还允许这类语言上的随意借用。语言从来都不是无辜的，他们深知，使用能让民众感到恐慌的词语，效果会更大。它既不是大流行病，也不是流行病，更不是传染病。但这些都无所谓，只要目的是让民众感到恐惧。另一个导致在超重和肥胖问题上出现不道德行为的原因，是其背后巨大的商业利益。",
       "vocab": [
         {
-          "word": "corresponsales",
-          "translation": "驻地记者；特派记者",
-          "note": "特指常驻某地或专门负责某领域报道的记者，区别于 periodista（泛指记者）或 reportero（现场记者）。"
+          "word": "licencias lingüísticas",
+          "translation": "语言上的随意借用，措辞失当",
+          "note": "licencia 在此指『超越规范的自由』，licencias lingüísticas 常用于批评媒体或机构滥用某些具有强烈情感色彩的词汇。"
         },
         {
-          "word": "baraja",
-          "translation": "考虑；摆在台面上讨论",
-          "note": "动词 barajar 本义为\"洗牌\"，引申为\"权衡/考虑多种选项\"，是政治新闻中极高频的用法，如 se barajan varias opciones。"
+          "word": "atemorizar",
+          "translation": "使恐惧，恐吓",
+          "note": "比 asustar 语气更强、更正式，常用于描述有意为之的恐吓行为，多见于政治或媒体批评语境。"
+        },
+        {
+          "word": "abordaje",
+          "translation": "处理方式，应对方法",
+          "note": "医学和政策语境中的高频词，指对某一问题的整体处理思路，相当于 enfoque 或 tratamiento，但更强调系统性。"
         }
       ]
     },
     {
       "id": 5,
-      "es": "La última escalada de Trump coincide con un <strong>apagón</strong> completo en Cuba, que se quedó sin electricidad este lunes tras \"la desconexión total\" de su sistema de generación, según informó la empresa estatal Unión Eléctrica (UNE). Desde que el pasado 29 de enero Trump declarara la emergencia nacional para la isla, amenazando con multar los <strong>aranceles</strong> de los países que les <strong>provean</strong> con petróleo, al país no entra ningún buque con combustible del exterior.",
-      "zh": "特朗普最新一轮施压恰逢古巴全岛大停电——据国有企业古巴电力联合公司（UNE）报道，周一古巴因发电系统\"全面断联\"而陷入全面断电。自1月29日特朗普宣布对该岛实施国家紧急状态、威胁对向古巴提供石油的国家加征关税以来，没有任何一艘运载燃料的船只从境外驶入该国。",
+      "es": "No hay que dejar de lado la campaña que ha hecho el laboratorio Novo Nordisk en la televisión y en <strong>marquesinas</strong> de ciudades de España, con carteles tan <strong>alentadores</strong> como \"la obesidad puede matar\". Y con un anuncio en la televisión mostrando a una chica gorda, de la que en principio de su salud no sabemos nada, solo que pesa más de lo que \"debería\" según el famoso IMC, y que finalmente asume que está enferma, es obesa, y por fin \"habla sin filtros\".",
+      "zh": "不可忽视的是诺和诺德制药公司在西班牙各城市的电视和公交站牌上投放的广告活动，其中有『肥胖可能致命』这样『鼓舞人心』的标语。还有一则电视广告，展示了一个胖女孩——我们对她的健康状况一无所知，只知道她的体重超过了著名BMI标准所认定的『应有』水平——她最终承认自己生病了，自己是肥胖者，并终于『毫无保留地说出了心里话』。",
       "vocab": [
         {
-          "word": "apagón",
-          "translation": "停电；断电",
-          "note": "口语及新闻通用词，指大规模停电事件，区别于 corte de luz（小范围断电）；政治语境中常与危机叙事结合使用。"
+          "word": "marquesinas",
+          "translation": "公交站台，候车亭",
+          "note": "西班牙日常用词，指街头带顶棚的广告展示位或候车亭，是户外广告的重要载体。"
         },
         {
-          "word": "aranceles",
-          "translation": "关税",
-          "note": "经济/贸易核心词汇，注意与 impuesto（税）的区别：arancel 专指进出口关税，是贸易政策文章必备词。"
-        },
-        {
-          "word": "provean",
-          "translation": "供应；提供",
-          "note": "正式动词，后接 a alguien de algo 或 con algo，此处 provean con petróleo 即\"向其提供石油\"，比 dar 更正式。"
+          "word": "alentadores",
+          "translation": "鼓励的，令人振奋的",
+          "note": "此处为反讽用法，作者用『鼓舞人心的』来讽刺那些实为恐吓性的广告语，需结合语境理解其讽刺意味。"
         }
       ]
     },
     {
       "id": 6,
-      "es": "Las jornadas diarias de apagones de hasta más de 20 horas, sumadas a la escasez de alimentos, la falta de transporte y el <strong>hastío</strong> generalizado, han hecho que desde hace más de una semana los cubanos hagan sonar las <strong>cazuelas</strong> a modo de protesta. El viernes, sin embargo, el descontento escaló hasta tal punto que un grupo de jóvenes incendió la sede del Partido Comunista en Morón, en el centro del país, un acto que enseguida fue <strong>tildado</strong> por el Gobierno como \"vandalismo\".",
-      "zh": "每日长达20余小时的停电，加上食品短缺、交通瘫痪和普遍的厌倦情绪，使得一周多来古巴人持续敲打锅碗瓢盆以示抗议。然而周五，不满情绪激化到如此程度，以至于一群年轻人焚烧了位于该国中部莫龙市的共产党党部——此举随即被政府定性为\"破坏行为\"。",
+      "es": "Lo que queda sin filtros es su gordofobia: <strong>por el mero hecho de</strong> que sea gorda, le <strong>presuponen</strong> enfermedad. Yo me pregunto, aunque así lo fuera, esté gorda y enferma de lo que sea, ¿se les puede obligar a medicarse?",
+      "zh": "真正『毫无保留』暴露出来的，是这则广告的厌胖偏见：仅仅因为她是胖的，就预设她患有疾病。我不禁想问，即便真是如此，即便她又胖又病，难道就可以强迫她用药吗？",
       "vocab": [
         {
-          "word": "hastío",
-          "translation": "厌倦；厌烦",
-          "note": "比 cansancio（疲倦）更深层，带有精神上的幻灭感，常用于描述民众对长期困境的心理状态，是政治社会报道中的情感词。"
+          "word": "por el mero hecho de",
+          "translation": "仅仅因为……",
+          "note": "固定短语，强调理由的单一性与武断性，mero 有『仅此而已』的轻蔑意味，常用于批判性语境。"
         },
         {
-          "word": "cazuelas",
-          "translation": "砂锅；（此处）锅碗瓢盆",
-          "note": "hacer sonar las cazuelas 是拉美政治抗议的标志性行为（\"锅碗运动\" cacerolazos），源自智利，是重要的政治文化词汇。"
-        },
-        {
-          "word": "tildado",
-          "translation": "给……贴标签；定性为",
-          "note": "固定搭配 tildar de，后接 de + 名词/形容词，语气带有主观强加之意，如 tildar de radical / de terrorista，常见于政治报道。"
+          "word": "presuponen",
+          "translation": "预设，先入为主地假定",
+          "note": "比 suponer 更强调『在没有证据的情况下提前假定』，批判性文章中常见。"
         }
       ]
     },
     {
       "id": 7,
-      "es": "Los cubanos esperaban además esta noche que el Gobierno cubano anunciara oficialmente la estrategia por la que parece estar <strong>apostando</strong> para <strong>lidiar con</strong> la histórica crisis, luego de que Díaz-Canel finalmente reconociera que están sentados a la mesa de negociaciones con Estados Unidos. El país que por años ha puesto límites con su <strong>diáspora</strong>, ahora estará abierto a que los residentes cubanos en el exterior, pero sobre todo en Estados Unidos, puedan volver e invertir en el sector privado y ser propietarios de negocios, una de las reformas económicas que impulsarán en medio de la presión que ejerce la Administración de Trump.",
-      "zh": "古巴人当晚还期待古巴政府正式宣布其应对这场历史性危机所押注的策略——此前迪亚斯-卡内尔终于承认，双方已坐到了与美国的谈判桌前。这个多年来对海外侨民设置重重限制的国家，如今将向旅居海外、尤其是旅居美国的古巴居民开放，允许他们回国投资私营部门并拥有企业所有权——这是在特朗普政府压力下将推行的经济改革之一。",
+      "es": "¿Se vería con los mismos ojos si el anuncio fuera dedicado a enfermos de cáncer, por ejemplo? ¿Veríamos <strong>vallas publicitarias</strong> con el eslogan \"el cáncer mata\"? ¿<strong>Estigmatizaríamos</strong> a quien lo padece? La respuesta es no. Con el sobrepeso y la obesidad se permiten muchas licencias, por más que esté demostrado que el <strong>estigma de peso</strong> causa mucho daño.",
+      "zh": "如果这则广告是针对癌症患者的，人们还会用同样的眼光看待它吗？我们会看到写着『癌症致命』的广告牌吗？我们会污名化那些患病的人吗？答案是否定的。在超重和肥胖问题上，人们允许了太多的随意，尽管已有充分证据表明体重污名化会造成巨大伤害。",
       "vocab": [
         {
-          "word": "apostando",
-          "translation": "押注于；倾向于选择",
-          "note": "本义为\"赌注\"，引申为\"策略性地选择某方向\"，后接 por + 名词/不定式，是政治经济文体中的高频搭配。"
+          "word": "vallas publicitarias",
+          "translation": "广告牌，户外广告牌",
+          "note": "新闻和广告领域常见词，valla 本义为『栅栏』，valla publicitaria 特指大型户外广告牌。"
         },
         {
-          "word": "lidiar con",
-          "translation": "应对；周旋",
-          "note": "本义为斗牛，引申为\"艰难应对某困难\"，比 manejar 或 enfrentar 更强调过程的费力与持续性。"
+          "word": "Estigmatizaríamos",
+          "translation": "污名化，给……贴上负面标签",
+          "note": ""
         },
         {
-          "word": "diáspora",
-          "translation": "海外侨民群体；离散社群",
-          "note": "源自希腊语，原指犹太人流散，现泛指任何民族的海外群体，是政治/移民议题的核心词汇。"
+          "word": "estigma de peso",
+          "translation": "体重污名化",
+          "note": "社会学与公共卫生领域核心术语，指因体重而遭受的社会歧视与负面标签，estigma 源自希腊语，意为『烙印』。"
         }
       ]
     },
     {
       "id": 8,
-      "es": "La <strong>exclusiva</strong> de The New York Times habla de objetivos políticos, además de los puramente económicos. Una de las fuentes citadas en el artículo indica que Trump podría usar la caída de Díaz-Canel como la demostración ante su <strong>opinión pública</strong> de que ha sido él quien ha logrado un cambio en la isla tras casi siete décadas de castrismo, a la manera de lo <strong>ensayado</strong> en Venezuela.",
-      "zh": "《纽约时报》的独家报道除经济目标外，还涉及政治目标。文中引用的一位消息人士指出，特朗普可能会将迪亚斯-卡内尔的倒台作为向本国民众展示的\"政绩\"——证明是他在卡斯特罗主义近七十年统治后，实现了古巴的变革，正如此前在委内瑞拉所尝试的那样。",
+      "es": "El trato desigual a las personas gordas hace que dejen de asistir a las consultas médicas porque ante cualquier <strong>dolencia</strong> recibirán una prescripción de dieta. De esta manera se les niega el tratamiento que se le ofrecería de primeras a una persona delgada. Esto, señores, es una <strong>negligencia médica</strong>.",
+      "zh": "对胖人的不平等对待，使他们不再去看医生，因为无论什么病，他们得到的都是节食处方。这样一来，他们被剥夺了瘦人本可第一时间获得的治疗。这，女士们先生们，就是医疗失职。",
       "vocab": [
         {
-          "word": "exclusiva",
-          "translation": "独家报道",
-          "note": "新闻行业专用词，指媒体独家获得的报道，注意不要与英语 exclusive 直接对应而忽略其名词用法。"
+          "word": "dolencia",
+          "translation": "病痛，不适",
+          "note": "比 enfermedad 更口语化，指轻微或模糊的身体不适，常见于医患对话语境。"
         },
         {
-          "word": "opinión pública",
-          "translation": "舆论；公众舆论",
-          "note": "政治文体核心词组，指社会大众的整体看法，常与 ante（面向）搭配，如 ante su opinión pública。"
-        },
-        {
-          "word": "ensayado",
-          "translation": "尝试；排练",
-          "note": "本义为\"排练\"，此处引申为\"试验某种政治操作\"，比 intentar 更带有\"预演/试水\"的含义。"
+          "word": "negligencia médica",
+          "translation": "医疗失职，医疗过失",
+          "note": "法律与医学领域术语，指医疗人员未尽到应有的注意义务，是本文批判力度最强的定性词之一。"
         }
       ]
     },
     {
       "id": 9,
-      "es": "No está claro si ese cambio en la <strong>cúpula</strong> servirá para contentar al exilio cubano más conservador, que exige desde hace décadas el <strong>derrocamiento</strong> total del castrismo, y que no vería bien sacar a Díaz-Canel, pero no a los Castro, la familia que sigue <strong>moviendo los hilos</strong>. USA Today informó la semana pasada de esa posibilidad.",
-      "zh": "目前尚不清楚，这种高层换人是否足以令最保守的古巴流亡群体满意——他们数十年来一直要求彻底推翻卡斯特罗主义，对于只撤换迪亚斯-卡内尔、却不动卡斯特罗家族（这个仍在幕后操控一切的家族）的做法，他们不会买账。《今日美国》上周已就这一可能性进行了报道。",
+      "es": "Hace nada, desde la revista científica The Lancet, también se <strong>apelaba a</strong> hacer un enfoque alejado del estereotipo y del estigma de peso, junto con sociedades médicas y, de nuevo, con el dinero del laboratorio que sostenía el estudio. A la vez que reconocían que el IMC era un parámetro <strong>obsoleto</strong>, <strong>recalificaban</strong> lo que antes era sobrepeso —es decir, ese rango de IMC entre 25 a 29— como preobesidad clínica. Para ser más cuidadosos, han colado la palabra \"obesidad\" cinco puntos antes en el IMC.",
+      "zh": "就在不久前，《柳叶刀》科学期刊也呼吁采取一种远离刻板印象和体重污名化的方法，联合多个医学学会，并再次依靠资助该研究的制药公司的资金。与此同时，他们在承认BMI是一个过时指标的同时，却将原本属于超重的范围——即BMI在25到29之间——重新定性为『临床前肥胖』。为了『更加谨慎』，他们把『肥胖』这个词提前了五个BMI点。",
       "vocab": [
         {
-          "word": "cúpula",
-          "translation": "高层；领导核心",
-          "note": "本义为\"穹顶\"，政治语境中喻指\"权力顶层/领导核心\"，如 la cúpula del partido，是政治新闻的高频词。"
+          "word": "apelaba a",
+          "translation": "呼吁，诉诸",
+          "note": "固定搭配，后接名词或不定式，在新闻文体中常用于描述机构或人物发出正式呼吁。"
         },
         {
-          "word": "derrocamiento",
-          "translation": "推翻；颠覆（政权）",
-          "note": "名词形式来自 derrocar，专指以非正常手段推翻政府或领导人，比 caída（倒台）更强调主动暴力性。"
+          "word": "obsoleto",
+          "translation": "过时的，陈旧的",
+          "note": "假朋友提示：与英语 obsolete 同源，含义一致，但西语学习者有时会误用 antiguo 代替，两者语气有别。"
         },
         {
-          "word": "moviendo los hilos",
-          "translation": "在幕后操控；牵线",
-          "note": "固定隐喻，字面为\"拉线\"（如操纵木偶），指在幕后掌控局势，是政治报道中的经典表达。"
+          "word": "recalificaban",
+          "translation": "重新定性，重新分类",
+          "note": "由 re- + calificar 构成，强调对已有定义的修改，政策和医学文件中常见。"
         }
       ]
     },
     {
       "id": 10,
-      "es": "El exilio pide no repetir la <strong>fórmula</strong> Venezuela: quitar a Díaz-Canel, pero que el castrismo siga. Los congresistas cubano-americanos, que <strong>ejercen</strong> su propia influencia en el Capitolio, han señalado también que esperan más de su Gobierno.",
-      "zh": "流亡群体要求不要重蹈委内瑞拉的覆辙：只撤换迪亚斯-卡内尔，却让卡斯特罗主义延续下去。在国会山发挥着自身影响力的古巴裔美国国会议员们也表示，他们对本届政府期望更多。",
+      "es": "Es <strong>llamativo</strong> cómo se insiste en que no se abuse de los antibióticos para evitar <strong>cepas resistentes</strong>, mientras que, por otro lado, se prescribe cada vez más semaglutida (Ozempic, Wegovy, Rybelsus) a personas sin diabetes, solo por su peso. Esto ocurre a pesar de que ya se han <strong>documentado</strong> efectos secundarios serios y emergentes, como una forma rara de ceguera, conocida como neuropatía óptica isquémica anterior no arterítica (NAION).",
+      "zh": "令人注目的是，一方面人们不断强调不要滥用抗生素以防止耐药菌株的产生，另一方面却越来越多地向没有糖尿病的人开具司美格鲁肽（Ozempic、Wegovy、Rybelsus）处方，仅仅因为他们的体重。这种情况的发生，尽管已有严重且新出现的副作用被记录在案，例如一种罕见的失明形式，即非动脉炎性前部缺血性视神经病变（NAION）。",
       "vocab": [
         {
-          "word": "fórmula",
-          "translation": "方案；模式",
-          "note": "此处指政治操作的\"套路/模板\"，比 modelo 更强调可复制的操作步骤，常见于政治分析文章。"
+          "word": "llamativo",
+          "translation": "引人注目的，显眼的",
+          "note": "常用于书面语，指某事物因其矛盾性或突出性而引发关注，语气比 notable 更带主观评价色彩。"
         },
         {
-          "word": "ejercen",
-          "translation": "施加影响；发挥影响力",
-          "note": "固定搭配 ejercer influencia/presión/poder，比 tener influencia 更强调主动行使。"
+          "word": "cepas resistentes",
+          "translation": "耐药菌株",
+          "note": "医学/公共卫生核心词，cepa 指微生物的『株』或『菌株』，resistente 指对抗生素产生抗药性。"
+        },
+        {
+          "word": "documentado",
+          "translation": "记录在案，有文献证明",
+          "note": "学术和新闻语境中的高频词，强调有正式证据支撑，比 registrar 更具权威性。"
         }
       ]
     },
     {
       "id": 11,
-      "es": "Según el Times, los negociadores estadounidenses pretenden además que las autoridades que se <strong>hagan cargo de</strong> la isla se <strong>libren de</strong> algunos funcionarios de mayor edad, aún comprometidos con Fidel Castro, fallecido en 2016. El diario neoyorquino también informa de presiones para lograr la liberación de los presos políticos de Cuba, una vieja <strong>aspiración</strong> de Washington.",
-      "zh": "据《纽约时报》报道，美国谈判代表还要求接管该岛的当局清除一批年龄较大、仍对菲德尔·卡斯特罗（2016年去世）抱有忠诚的官员。这家纽约报纸还报道了外界施压要求释放古巴政治犯一事——这是华盛顿长久以来的夙愿。",
+      "es": "La Agencia Europea del Medicamento (EMA) concluyó en junio de 2025 que existe una asociación <strong>plausible</strong> entre el uso de semaglutida y un mayor riesgo de desarrollar esta forma rara de ceguera: aproximadamente una persona por cada 10.000 al año podría verse afectada. Estudios recientes <strong>respaldan</strong> esta alerta: por ejemplo, un gran estudio en Dinamarca encontró que la semaglutida puede duplicar el riesgo de NAION en pacientes con diabetes tipo 2, y hasta aumentarlo hasta 7 veces en personas con sobrepeso u obesidad.",
+      "zh": "欧洲药品管理局（EMA）于2025年6月得出结论，司美格鲁肽的使用与罹患这种罕见失明形式的风险升高之间存在合理关联：每年每一万人中约有一人可能受到影响。近期研究支持了这一警示：例如，丹麦的一项大型研究发现，司美格鲁肽可能使II型糖尿病患者罹患NAION的风险翻倍，在超重或肥胖人群中甚至可能使风险增加至7倍。",
       "vocab": [
         {
-          "word": "hagan cargo de",
-          "translation": "接管；负责",
-          "note": "固定搭配 hacerse cargo de，后接 de + 名词，表示\"承担责任/接手管理\"，比 tomar el control 更正式，适用范围更广。"
+          "word": "plausible",
+          "translation": "合理的，可信的",
+          "note": "假朋友警示：不是『可悲的』，与英语 plausible（似乎合理的）同义，指某一假设在现有证据下具有可信度。"
         },
         {
-          "word": "libren de",
-          "translation": "摆脱；清除",
-          "note": "反身动词 librarse de，表示\"从……中解脱/清除掉\"，此处指清洗官员，日常也可用于\"摆脱麻烦\"，语义灵活。"
+          "word": "respaldan",
+          "translation": "支持，为……提供依据",
+          "note": "比 apoyar 更正式，常用于学术或新闻语境，表示以证据或权威来源为某一论点背书。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Daniel Drucker, uno de los responsables del desarrollo de la semaglutida —<strong>componente activo</strong> de Ozempic y Wegovy— ha <strong>advertido</strong> en una entrevista en este diario que no debería utilizarse en personas que no tienen sobrepeso u obesidad, pues no se conocen sus efectos a largo plazo en individuos sanos. En palabras literales: \"Si no tienes sobrepeso ni obesidad, definitivamente no deberías tomar estos fármacos. Estás asumiendo todos los riesgos sin obtener ninguno de los beneficios, de eso estoy seguro\".",
+      "zh": "司美格鲁肽（Ozempic和Wegovy的活性成分）的主要研发者之一Daniel Drucker在接受本报采访时警告称，该药物不应用于没有超重或肥胖问题的人，因为其对健康个体的长期影响尚不明确。他的原话是：『如果你没有超重或肥胖，你绝对不应该服用这些药物。你承担了所有风险，却没有获得任何益处，这一点我非常确定。』",
+      "vocab": [
+        {
+          "word": "componente activo",
+          "translation": "活性成分",
+          "note": "药学核心术语，指药物中发挥治疗作用的化学成分，与 excipiente（辅料）相对。"
         },
         {
-          "word": "aspiración",
-          "translation": "渴望；夙愿",
-          "note": "比 deseo 更正式，常用于政治/外交文体中描述长期追求的目标，如 una vieja aspiración（多年夙愿）。"
+          "word": "advertido",
+          "translation": "警告，提醒",
+          "note": "一词多义：既可表示『警告』（advertir de un peligro），也可表示『注意到』（advertir un cambio），需根据语境判断。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "Esto refuerza lo señalado por fuentes independientes como Verificat: ni Ozempic ni la semaglutida han sido evaluados como tratamiento de pérdida de peso en personas sanas, y únicamente se han estudiado <strong>perfiles de seguridad</strong>, no eficacia, en pacientes sin <strong>patología metabólica</strong>.",
+      "zh": "这印证了Verificat等独立来源所指出的内容：Ozempic和司美格鲁肽均未被评估为健康人群的减重治疗方案，对于没有代谢疾病的患者，研究人员仅研究了其安全性特征，而非有效性。",
+      "vocab": [
+        {
+          "word": "perfiles de seguridad",
+          "translation": "安全性特征，安全性档案",
+          "note": "药物研发术语，指通过临床试验归纳出的某种药物副作用及风险的整体描述。"
+        },
+        {
+          "word": "patología metabólica",
+          "translation": "代谢性疾病",
+          "note": "医学核心词组，指与新陈代谢相关的疾病（如糖尿病、高血脂等），是本文讨论用药适应症的关键术语。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "Por otro lado, aunque la semaglutida tiene un efecto <strong>anorexígeno</strong> probado, esa supresión del apetito no se <strong>traduce en</strong> un aprendizaje de hábitos alimentarios saludables. Si se prescribe sin acompañamiento —sin educación nutricional ni apoyo psicológico— se convierte en un tratamiento crónico: la persona pierde peso mientras toma el fármaco, pero al suspenderlo recupera el peso perdido y no ha adquirido ninguna rutina sostenible. Y deben considerarse los riesgos de pérdida muscular, metabolismo más lento y la potencial <strong>cronificación</strong> del uso de medicación sin un diagnóstico claro.",
+      "zh": "另一方面，尽管司美格鲁肽具有经证实的抑食效果，但这种食欲抑制并不能转化为对健康饮食习惯的养成。如果在没有配套支持的情况下开具处方——没有营养教育，也没有心理辅导——它就会变成一种慢性治疗：患者在服药期间体重下降，但一旦停药便会反弹，且没有养成任何可持续的生活习惯。此外还需考虑肌肉流失、代谢减缓以及在没有明确诊断的情况下潜在的用药慢性化等风险。",
+      "vocab": [
+        {
+          "word": "anorexígeno",
+          "translation": "抑食的，食欲抑制的",
+          "note": "医学专业术语，指能够减少食欲的药物或物质，源自 anorexia（厌食）+ -geno（产生）。"
+        },
+        {
+          "word": "traduce en",
+          "translation": "转化为，体现为",
+          "note": "固定搭配 traducirse en，后接名词，表示某一原因或条件最终产生的实际结果，学术和新闻文体中高频使用。"
+        },
+        {
+          "word": "cronificación",
+          "translation": "慢性化，长期化",
+          "note": "医学术语，指某一状况或治疗从急性/短期转变为慢性/长期的过程，是本文批判过度依赖药物的核心概念之一。"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "es": "¿Qué clase de sociedad hemos construido cuando preferimos medicar a personas sanas solo para que <strong>encajen en</strong> un ideal de delgadez, aun <strong>a costa de</strong> someterlas a una larga lista de efectos secundarios ya documentados —náuseas, vómitos, diarreas, pérdida de masa muscular, <strong>ideación suicida</strong>, entre otros— propios de fármacos como Ozempic? Estamos hablando de medicamentos originalmente diseñados para tratar la diabetes tipo 2, cuyo uso ahora se ha extendido para alcanzar un estándar corporal.",
+      "zh": "当我们宁愿给健康人用药，只为让他们符合某种纤瘦的审美理想，哪怕要让他们承受Ozempic等药物已记录在案的一长串副作用——恶心、呕吐、腹泻、肌肉流失、自杀意念等——我们究竟建立了一个什么样的社会？我们谈论的是那些最初为治疗II型糖尿病而设计的药物，如今其使用范围已扩展到追求某种体型标准。",
+      "vocab": [
+        {
+          "word": "encajen en",
+          "translation": "符合，契合",
+          "note": "固定搭配 encajar en，字面意为『嵌入』，引申为『符合某种标准或期待』，常见于社会批评语境。"
+        },
+        {
+          "word": "a costa de",
+          "translation": "以……为代价",
+          "note": "固定介词短语，强调为达到某目的所付出的牺牲或代价，书面语和口语均常用。"
+        },
+        {
+          "word": "ideación suicida",
+          "translation": "自杀意念",
+          "note": "心理健康领域专业术语，指产生自杀想法但未必付诸行动，是药物不良反应报告中的严重警示项。"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "es": "Convertir la delgadez en un objetivo médico, sin <strong>patología de base</strong>, supone no solo exponer a personas sanas a riesgos graves, sino también convertirla en un privilegio económico: solo quienes pueden <strong>costear</strong> tratamientos tan caros acceden a ellos.",
+      "zh": "在没有基础疾病的情况下，将纤瘦变成一个医疗目标，不仅意味着将健康人暴露于严重风险之中，也意味着将其变成一种经济特权：只有那些能够负担得起如此昂贵治疗费用的人才能获得它。",
+      "vocab": [
+        {
+          "word": "patología de base",
+          "translation": "基础疾病，基础病理",
+          "note": "临床医学常用术语，指患者已有的、作为治疗前提的疾病，相当于 enfermedad subyacente。"
+        },
+        {
+          "word": "costear",
+          "translation": "负担……的费用，支付",
+          "note": "比 pagar 更正式，强调经济上的承受能力，常用于讨论医疗、教育等社会议题。"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "es": "Esto refuerza la idea de que la delgadez es sinónimo de estatus y <strong>perpetúa</strong> una jerarquía corporal donde las personas más gordas quedan marginadas, no por salud, sino por clase. Al final, ser delgado se convierte en un privilegio que <strong>erosiona</strong> la diversidad corporal y profundiza las divisiones sociales.",
+      "zh": "这强化了『纤瘦等同于地位』的观念，并延续了一种身体等级制度，在这种制度中，较胖的人被边缘化，不是因为健康原因，而是因为阶级。最终，纤瘦变成了一种特权，侵蚀着身体多样性，加深着社会分化。",
+      "vocab": [
+        {
+          "word": "perpetúa",
+          "translation": "使延续，使永久化",
+          "note": "正式书面词，指使某种状态或制度长期维持，常见于社会批评和政治分析文体。"
+        },
+        {
+          "word": "erosiona",
+          "translation": "侵蚀，逐渐削弱",
+          "note": "本义为地质学的『侵蚀』，引申为对某种价值观或制度的逐渐破坏，新闻和学术文体中常见。"
         }
       ]
     }
