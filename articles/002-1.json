@@ -1,0 +1,112 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会评论",
+  "difficulty": "B2",
+  "wordCount": "约550词",
+  "title": "Un mes regalado al trabajo",
+  "subtitle": "白白送给工作的一个月",
+  "resumenEs": "La autora reflexiona sobre el tiempo que millones de trabajadores españoles pierden en los desplazamientos diarios al trabajo, un tiempo que podría equivaler a más de un mes al año. A través de este punto de partida, denuncia la crisis de la vivienda, la falta de teletrabajo y la desigualdad social, contrastando las incomodidades de la clase media con la situación desesperada de quienes sufren desahucios o no encuentran alojamiento.",
+  "resumenZh": "作者以西班牙数百万上班族每天花在通勤上的时间为切入点——这些时间累积起来可能超过一年中的整整一个月——进而揭示住房危机、远程办公的缺失以及社会不平等。文章将中产阶级的通勤烦恼与遭受驱逐或无处安身者的绝境形成对比，发出深刻的社会批判。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Hay una compañera que tarda 20 minutos en ir de casa al trabajo y 20, o incluso 30 (si hay tráfico), en ir del trabajo a casa. Hay una amiga que tarda una hora en ir de su casa al trabajo, más de una hora cuando estuvo la línea 6 en obras; una hora, más de una hora en ir del trabajo a casa. Hay un compañero de trabajo que tarda dos horas en ir de su casa al trabajo, dos horas en ir del trabajo a casa. Cuatro horas diarias. Vive en un pueblo de Toledo. Si lo sumas podrían ser 880 horas al año yendo y <strong>viniendo</strong> de casa al trabajo, del trabajo a casa, más de 36 días enteros, más, incluso, que un mes.",
+      "zh": "有一位同事从家到公司要花20分钟，从公司回家也要20分钟，堵车的话甚至要30分钟。有一位朋友从家到公司要一个小时，6号线施工期间要超过一个小时；从公司回家同样要一个小时，甚至更久。有一位同事从家到公司要两个小时，从公司回家也要两个小时。每天四个小时。他住在托莱多的一个小镇。如果把这些时间加起来，一年往返于家和公司之间可能要花880个小时，超过36个整天，甚至超过一个月。",
+      "vocab": [
+        {
+          "word": "viniendo",
+          "translation": "来，回来（来回）",
+          "note": "yendo y viniendo 是固定搭配，意为『来来回回』，口语和书面语均常用，此处与 ir 形成对举，强调通勤的往返循环性。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "En un mes un bebé aprende a regular su respiración, en un mes la piel de una persona se <strong>renueva</strong> prácticamente por completo, el cerebro crea nuevos hábitos y los glóbulos rojos y las proteínas corporales se reemplazan. En un mes da tiempo a leer un libro o dos o tres. En un mes la gente queda con sus amigos, duerme, come, hace el amor, no hace nada, se queda en casa, viaja a otro país, vuelve. Rompe una pareja después de 10 años de relación, pierde a un padre, deja de hablar con un amigo de la infancia. En un mes la vida cambia por completo y una acaba siendo otra persona que no era hace un mes.",
+      "zh": "一个月里，婴儿学会调节自己的呼吸；一个月里，人的皮肤几乎完全更新，大脑形成新的习惯，红细胞和体内蛋白质得到替换。一个月里，来得及读一本书，或者两本、三本。一个月里，人们与朋友相聚、睡觉、吃饭、做爱、什么也不做、待在家里、去另一个国家旅行、再回来。一对相恋十年的情侣分手，一个人失去父亲，与儿时的朋友断了联系。一个月里，生活彻底改变，一个人到月底已经成了一个月前的自己所不曾是的另一个人。",
+      "vocab": [
+        {
+          "word": "renueva",
+          "translation": "更新，焕新",
+          "note": "renovar(se) 在生物学语境中指细胞或组织的自然替换更新，此处作者用一系列生理和生活事件铺陈『一个月』的分量，与通勤浪费的时间形成强烈对比。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "En menos de un mes, Austria declaró la guerra a Serbia, Rusia movilizó a su ejército, Alemania declaró la guerra a Rusia y Francia. Reino Unido entró en el conflicto. Una guerra, la primera, en un mes. Un mes, nuestro mes, <strong>regalado</strong> al trabajo.",
+      "zh": "不到一个月，奥地利向塞尔维亚宣战，俄国动员军队，德国向俄国和法国宣战，英国加入冲突。一场战争，第一次世界大战，在一个月内爆发。一个月，我们的一个月，白白送给了工作。",
+      "vocab": [
+        {
+          "word": "regalado",
+          "translation": "白白送出的，拱手相让的",
+          "note": "regalar 本义为『赠送礼物』，此处作者用 regalado al trabajo 表达一种被动且无偿的损失——时间不是主动奉献，而是被迫『送出』，语气中带有讽刺与无奈。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "El problema de la vivienda se <strong>agrand</strong>a mientras el Gobierno no hace absolutamente nada. Una acaba mudándose a Pan Bendito, Getafe, Aranjuez, Toledo. Las empresas no favorecen el <strong>teletrabajo</strong> porque desconfían de sus empleados y más de tres millones de personas que podrían teletrabajar acaban por no hacerlo. El problema de la vivienda parece solucionarse cuando una ya tiene vivienda y así el problema de la vivienda se convierte en el problema de otro de la misma forma que el problema del transporte público se soluciona comprando un coche.",
+      "zh": "住房问题不断恶化，而政府却无所作为。人们最终不得不搬到潘本迪托、赫塔菲、阿兰胡埃斯、托莱多。企业不支持远程办公，因为他们不信任员工，结果超过三百万本可以远程工作的人最终没能这样做。住房问题在自己有了住房之后似乎就解决了，于是住房问题变成了别人的问题，就像公共交通问题通过买辆车就解决了一样。",
+      "vocab": [
+        {
+          "word": "se agrand",
+          "translation": "（此处应为 se agranda）不断扩大，持续恶化",
+          "note": "agrandar(se) 指规模或严重程度的扩大，在社会评论文体中用于描述问题的持续恶化，比 crecer 更强调体量上的膨胀，常与社会议题搭配。"
+        },
+        {
+          "word": "teletrabajo",
+          "translation": "远程办公，居家办公",
+          "note": "由 tele-（远距离）+ trabajo 构成，疫情后成为劳动政策讨论的核心词汇，西班牙语中比 trabajo remoto 更常用，作者将其缺失视为通勤困境的重要制度性原因。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Cuántas horas, cuántos días, cuántos glóbulos rojos, siestas, libros, <strong>rupturas</strong> estamos perdiendo. La crisis se acelera y la vida se nos <strong>achica</strong>. Pronto tendremos que celebrar los cumpleaños en la Renfe para poder vernos.",
+      "zh": "我们正在失去多少小时、多少天、多少红细胞、多少午睡、多少书、多少段感情。危机在加速，生活在萎缩。很快我们就得在Renfe列车上庆祝生日，才能见到彼此。",
+      "vocab": [
+        {
+          "word": "rupturas",
+          "translation": "分手，决裂，断裂",
+          "note": "比 separaciones 更广泛，可指情侣分手、友情断裂或家庭关系破裂，作者将其与『红细胞』『午睡』并列，以荒诞的排列强调通勤吞噬的不仅是时间，更是人生中最重要的时刻。"
+        },
+        {
+          "word": "achica",
+          "translation": "缩小，萎缩",
+          "note": "achicar(se) 本义为『使变小』，引申为空间、可能性或生活质量的压缩，la vida se nos achica 是本文情感最浓缩的一句，比 reducirse 更口语化，带有强烈的无力感。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Esto son, en realidad, \"problemas de ricos\". Leo en el periódico acerca de una madre soltera que no dice su nombre por miedo a que la echen del <strong>albergue</strong> municipal: \"No encuentro un lugar donde estar con mi bebé\" porque su primera casera le <strong>incrementó</strong> 100 euros el alquiler tras el nacimiento de su hija y el nuevo casero le dijo que \"no quería nada de bebés\".",
+      "zh": "说到底，这些都是『有钱人的烦恼』。我在报纸上读到一位单身母亲的故事，她不愿透露姓名，害怕被赶出市立收容所：『我找不到一个可以和我的宝宝待着的地方』——因为她的第一任房东在女儿出生后把房租涨了100欧元，而新房东告诉她『不想要任何婴儿』。",
+      "vocab": [
+        {
+          "word": "albergue",
+          "translation": "收容所，庇护所",
+          "note": "比 refugio 更具体，albergue municipal 特指由市政府运营的临时住所，为无家可归者或极度困难家庭提供短期安置，是西班牙社会救助体系的基础设施之一。"
+        },
+        {
+          "word": "incrementó",
+          "translation": "提高了，增加了",
+          "note": "在租房语境中 incrementar el alquiler 是正式表达，比 subir el alquiler 更书面化，此处作者引用新闻语言，与前文口语化叙述形成风格对比，强化了新闻事实的冷峻感。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Leo: \"En España, en 2024 se practicaron 27.564 <strong>desahucios</strong>, un 3,4% más que el año anterior. Familias de bajos ingresos, emigrantes y trabajadores temporales en pisos de alquiler son los principales protagonistas\". Pienso en si hoy coincidiré con mi compañera de piso. Escribo esta columna volviendo en un tren del trabajo a casa.",
+      "zh": "我读到：『2024年西班牙共执行了27564起驱逐，比上年增加3.4%。低收入家庭、移民和租房的临时工是主要受害群体。』我想着今天是否会碰到我的室友。我在乘火车从公司回家的途中写下这篇专栏。",
+      "vocab": [
+        {
+          "word": "desahucios",
+          "translation": "驱逐出租，强制驱逐",
+          "note": "西班牙住房危机的核心词汇，指房东或法院强制要求租户或业主离开住所的法律程序，2008年金融危机后成为西班牙社会运动的标志性议题，英语通常译为 eviction。"
+        }
+      ]
+    }
+  ]
+}

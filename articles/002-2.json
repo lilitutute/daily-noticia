@@ -1,0 +1,168 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科学与健康",
+  "difficulty": "B2",
+  "wordCount": "约600词",
+  "title": "Así influye la maternidad en la esperanza de vida: las mujeres con dos o tres hijos tienden a vivir más tiempo",
+  "subtitle": "母亲身份如何影响预期寿命：育有两三个孩子的女性往往活得更长",
+  "resumenEs": "Un estudio longitudinal de la Universidad de Helsinki, basado en casi 15.000 gemelas, revela que el número de hijos y el momento de los embarazos influyen en el envejecimiento biológico y la esperanza de vida femenina. Las mujeres con dos o tres hijos y embarazos entre los 24 y 38 años presentan patrones de longevidad más favorables, mientras que tener muchos hijos o ninguno se asocia con un envejecimiento acelerado, según los relojes epigenéticos.",
+  "resumenZh": "赫尔辛基大学一项基于近1.5万对双胞胎的纵向研究发现，子女数量及怀孕时机会影响女性的生物性衰老和预期寿命。育有两三个孩子、且在24至38岁间怀孕的女性表现出更有利的长寿模式；而生育过多或从未生育的女性，根据表观遗传时钟测量，衰老速度均有所加快。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Los resultados de la Universidad de Helsinki y del Instituto de Investigación Médica de la Fundación Minerva sugieren que tanto el número de hijos como el momento en que se producen los embarazos influyen en la salud y la <strong>esperanza de vida</strong> de las mujeres en la edad adulta. Los resultados se han publicado en la revista Nature Communications. Los <strong>hallazgos</strong> se basan en un estudio longitudinal que abarca a casi 15.000 gemelas nacidas entre 1880 y 1957.",
+      "zh": "赫尔辛基大学与米涅瓦基金会医学研究所的研究结果表明，子女数量和怀孕时机均会影响女性成年后的健康状况与预期寿命。相关结果已发表于《自然·通讯》期刊。这些发现基于一项纵向研究，涵盖近1.5万名出生于1880年至1957年间的双胞胎女性。",
+      "vocab": [
+        {
+          "word": "esperanza de vida",
+          "translation": "预期寿命",
+          "note": "公共卫生和人口学的核心固定搭配，指某一人群在特定条件下平均可存活的年数，是本文的主题词组，注意不可拆分使用。"
+        },
+        {
+          "word": "hallazgos",
+          "translation": "发现，研究发现",
+          "note": "学术和科学新闻报道中的高频词，特指研究或调查中得出的具体发现，比 resultados 更强调新颖性和意外性，是科技类文章的标志性词汇。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Se invitó a las participantes en el estudio de gemelos a completar un cuestionario en 1975, y se ha realizado un <strong>seguimiento</strong> periódico de su trayectoria vital hasta la actualidad. Según el seguimiento de casi 15.000 participantes, las mujeres con dos o tres hijos tienden a vivir más tiempo. El momento en que se producen los embarazos también es importante: según el estudio, los embarazos que tuvieron lugar aproximadamente entre los 24 y los 38 años se relacionaron con patrones de <strong>envejecimiento</strong> y longevidad más favorables.",
+      "zh": "双胞胎研究的参与者于1975年受邀填写问卷，此后研究人员对她们的人生轨迹进行了定期追踪，直至今日。根据对近1.5万名参与者的追踪，育有两三个孩子的女性往往活得更长。怀孕时机同样重要：研究显示，大约在24至38岁之间发生的怀孕，与更有利的衰老模式和长寿相关。",
+      "vocab": [
+        {
+          "word": "seguimiento",
+          "translation": "追踪，随访，跟进",
+          "note": "医学研究中的专业术语，hacer un seguimiento 指对研究对象进行长期定期观察，是纵向研究（estudio longitudinal）的核心方法，比 observación 更强调时间跨度和系统性。"
+        },
+        {
+          "word": "envejecimiento",
+          "translation": "衰老，老化",
+          "note": "本文的核心议题词，由 envejecer（变老）派生，在生物医学语境中特指细胞和组织的渐进性退化过程，常与 biológico（生物性的）搭配，区别于单纯的年龄增长。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "En particular, se descubrió que tener un número de hijos superior a la media (más de cuatro) se asociaba con una esperanza de vida más corta y un envejecimiento biológico <strong>acelerado</strong>. Según los investigadores, este hallazgo <strong>concuerda</strong> plenamente con la teoría de la historia de vida de la biología evolutiva desarrollada en el siglo XX.",
+      "zh": "尤其值得注意的是，研究发现子女数量超过平均水平（多于四个）与较短的预期寿命及加速的生物性衰老相关。研究人员表示，这一发现与20世纪进化生物学发展出的生命史理论完全吻合。",
+      "vocab": [
+        {
+          "word": "acelerado",
+          "translation": "加速的，提前的",
+          "note": "在生物医学语境中，envejecimiento acelerado 是描述生物年龄超前于实际年龄这一现象的标准表达，与后文的表观遗传时钟测量结果直接呼应。"
+        },
+        {
+          "word": "concuerda",
+          "translation": "与……吻合，与……一致",
+          "note": "concordar con 是学术写作中表达研究结果与既有理论相符的标准搭配，比 coincide con 更正式，强调逻辑上的契合而非偶然的巧合。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "«Desde una perspectiva de la biología evolutiva, los organismos disponen de recursos limitados, como el tiempo y la energía. Cuando se invierte una gran cantidad de energía en la <strong>reproducción</strong>, esta se resta a los mecanismos de mantenimiento y reparación del organismo, lo que podría reducir la esperanza de vida», explica la investigadora Mikaela Hukkanen, que dirigió el estudio.",
+      "zh": "『从进化生物学的角度来看，生物体拥有有限的资源，例如时间和能量。当大量能量被投入繁殖时，这些能量就会从机体的维护和修复机制中被扣除，从而可能缩短预期寿命。』主导该研究的研究员米凯拉·胡卡宁解释道。",
+      "vocab": [
+        {
+          "word": "reproducción",
+          "translation": "繁殖，生育",
+          "note": "进化生物学核心术语，在生命史理论（teoría de la historia de vida）框架下，reproducción 与 supervivencia（存活）之间的资源权衡是解释本文核心发现的理论基础。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "De forma algo <strong>inesperada</strong>, el estudio también reveló que las mujeres sin hijos mostraban un envejecimiento más rápido que las mujeres con pocos hijos. Este resultado puede explicarse por otros factores relacionados con el estilo de vida o la salud cuyos efectos no pudieron <strong>controlarse</strong> por completo en los análisis.",
+      "zh": "有些出乎意料的是，研究还发现无子女的女性比育有少数孩子的女性衰老更快。这一结果可能由其他与生活方式或健康相关的因素来解释，而这些因素的影响在分析中未能得到完全控制。",
+      "vocab": [
+        {
+          "word": "inesperada",
+          "translation": "出乎意料的，意想不到的",
+          "note": "de forma inesperada 是科学报道中标记反直觉发现的常用表达，作者用此短语提示读者注意即将出现的与预期相悖的结论，增强可读性。"
+        },
+        {
+          "word": "controlarse",
+          "translation": "被控制，被排除（变量）",
+          "note": "统计学和研究方法论术语，controlar una variable 指在分析中排除或修正某一混杂因素的影响，是理解研究局限性的关键概念，与日常含义『控制自己』完全不同。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "El grupo de investigación <strong>destaca</strong> que los hallazgos solo son aplicables a nivel poblacional. No demuestran relaciones de causa-efecto, ni proporcionan una base para recomendaciones individuales dirigidas a mujeres en edad reproductiva. Por ejemplo, el tamaño de las familias ha disminuido y la edad en el primer parto ha aumentado en comparación con el periodo cubierto por el estudio.",
+      "zh": "研究团队强调，这些发现仅适用于群体层面，既不能证明因果关系，也不能为处于育龄期的女性个人提供建议依据。例如，与研究所涵盖的时期相比，家庭规模已经缩小，初次分娩年龄也有所提高。",
+      "vocab": [
+        {
+          "word": "destaca",
+          "translation": "强调，着重指出",
+          "note": "科学报道中引用研究者声明时的高频动词，比 dice 更强调某一观点被特别提出和重视，常用于标记研究的局限性声明或重要警示。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "«Por lo tanto, una mujer no debería plantearse cambiar sus propios planes o deseos respecto a tener hijos basándose en estos hallazgos», afirma la directora del estudio, Miina Ollikainen. La posible <strong>disyuntiva</strong> evolutiva entre la reproducción y la esperanza de vida ha interesado a los investigadores desde principios del siglo XX, pero numerosos estudios sobre el tema han arrojado resultados <strong>contradictorios</strong>.",
+      "zh": "『因此，女性不应该基于这些发现来考虑改变自己关于生育的计划或意愿。』研究负责人米娜·奥利凯宁表示。繁殖与预期寿命之间可能存在的进化权衡自20世纪初就引起了研究人员的兴趣，但该领域的大量研究得出了相互矛盾的结果。",
+      "vocab": [
+        {
+          "word": "disyuntiva",
+          "translation": "两难抉择，权衡取舍",
+          "note": "比 dilema 更正式，在科学语境中常指两种生物学目标之间的资源竞争关系（trade-off），此处指繁殖投入与寿命维护之间的进化权衡，是生命史理论的核心概念。"
+        },
+        {
+          "word": "contradictorios",
+          "translation": "相互矛盾的，相悖的",
+          "note": "学术综述中的高频词，resultados contradictorios 指不同研究得出方向相反的结论，是作者说明本研究创新价值的铺垫，暗示该领域此前缺乏共识。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Un aspecto novedoso de este estudio fue que el envejecimiento también se midió biológicamente. Se determinaron los <strong>relojes epigenéticos</strong> a partir de muestras de sangre de más de mil participantes. Los relojes epigenéticos tienen como objetivo medir el envejecimiento biológico, es decir, el deterioro gradual de las células y los tejidos. Con estos métodos, los cambios relacionados con el envejecimiento pueden detectarse años o incluso décadas antes de la muerte.",
+      "zh": "本研究的一个创新之处在于，衰老也通过生物学方法进行了测量。研究人员从逾千名参与者的血液样本中测定了表观遗传时钟。表观遗传时钟旨在测量生物性衰老，即细胞和组织的渐进性退化。借助这些方法，与衰老相关的变化可以在死亡前数年乃至数十年被检测出来。",
+      "vocab": [
+        {
+          "word": "relojes epigenéticos",
+          "translation": "表观遗传时钟",
+          "note": "前沿生物医学术语，指通过分析DNA甲基化模式来估算生物年龄的计算模型，是本研究区别于以往仅依赖死亡率数据的核心方法创新，epigenético 指不改变DNA序列本身的基因表达调控机制。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Los resultados <strong>respaldaron</strong> conclusiones anteriores basadas en datos de mortalidad. Según los relojes epigenéticos, las mujeres que habían tenido muchos hijos o que no habían tenido ninguno eran, biológicamente, algo mayores que su edad <strong>cronológica</strong>.",
+      "zh": "这些结果支持了此前基于死亡率数据得出的结论。根据表观遗传时钟，生育过多或从未生育的女性，其生物年龄在某种程度上大于她们的实际年龄。",
+      "vocab": [
+        {
+          "word": "respaldaron",
+          "translation": "支持，印证，佐证",
+          "note": "respaldar 本义为『靠背支撑』，引申为对某一观点或结论的支持与证实，比 confirmaron 更强调新证据对既有结论的加固作用，是学术写作中的常用动词。"
+        },
+        {
+          "word": "cronológica",
+          "translation": "按时间顺序的，实际年龄的",
+          "note": "edad cronológica 与 edad biológica（生物年龄）是本文的核心对立概念：前者指出生证明上的年龄，后者指细胞和组织实际的老化程度，两者的差距是表观遗传时钟研究的核心关注点。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "«Una persona que es biológicamente mayor que su edad cronológica tiene un mayor riesgo de muerte. Nuestros resultados muestran que las decisiones tomadas a lo largo de la vida dejan una <strong>huella</strong> biológica duradera que puede medirse mucho antes de la vejez», afirma Miina Ollikainen. «En algunos de nuestros análisis, tener un hijo a una edad temprana también se asoció con el envejecimiento biológico. Esto también puede estar relacionado con la teoría de la evolución, ya que la <strong>selección natural</strong> puede favorecer una reproducción más temprana que conlleva tiempos de generación más cortos en general, incluso si ello implica costes para la salud asociados al envejecimiento».",
+      "zh": "『生物年龄大于实际年龄的人死亡风险更高。我们的研究结果表明，一生中做出的各种决定会留下持久的生物学印记，这种印记可以在老年到来之前很久就被测量出来。』米娜·奥利凯宁表示。『在我们的部分分析中，在较早年龄生育第一个孩子也与生物性衰老相关。这同样可能与进化理论有关，因为自然选择可能倾向于更早的生育，这总体上带来更短的世代时间，即便这意味着与衰老相关的健康代价。』",
+      "vocab": [
+        {
+          "word": "huella",
+          "translation": "印记，痕迹，足迹",
+          "note": "本义为脚印或痕迹，引申为某种经历或决定在生理、心理或社会层面留下的持久影响，huella biológica 是本文将抽象的生命决策具象化的核心比喻，极具表达力。"
+        },
+        {
+          "word": "selección natural",
+          "translation": "自然选择",
+          "note": "进化生物学的基础概念，由达尔文提出，指环境对生物性状的筛选过程，使有利于繁殖的特征在种群中得以保留，是理解本文生命史理论框架的必要背景知识。"
+        }
+      ]
+    }
+  ]
+}

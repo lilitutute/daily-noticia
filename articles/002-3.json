@@ -1,0 +1,144 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与社会",
+  "difficulty": "B2",
+  "wordCount": "约500词",
+  "title": "La prohibición de redes sociales a menores de 16 años no evita que el 20% de los menores australianos usen TikTok",
+  "subtitle": "禁止16岁以下未成年人使用社交媒体，却仍有20%的澳大利亚未成年人在用TikTok",
+  "resumenEs": "Un análisis de la plataforma de control parental Qustodio revela que, pese a la ley australiana que prohíbe el acceso a redes sociales a menores de 16 años desde diciembre de 2025, el 21% de los adolescentes de 13 a 15 años siguió usando TikTok en febrero de 2026. Aunque la prohibición redujo el uso de Snapchat e Instagram, YouTube se mantuvo como la plataforma más utilizada, y no se detectó una migración masiva hacia alternativas.",
+  "resumenZh": "家长控制平台Qustodio的分析显示，尽管澳大利亚自2025年12月起实施禁止16岁以下未成年人使用社交媒体的法律，2026年2月仍有21%的13至15岁青少年在使用TikTok。禁令虽使Snapchat和Instagram的使用率有所下降，但YouTube依然是使用最广泛的平台，且目前未发现大规模向替代平台迁移的现象。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Uno de cada cinco adolescentes australianos de entre 13 y 15 años sigue <strong>accediendo</strong> a TikTok pese a las restricciones a las redes sociales para menores de 16 años que Australia comenzó a aplicar en diciembre, según datos remitidos este lunes a EFE por la plataforma de <strong>control parental</strong> Qustodio.",
+      "zh": "据家长控制平台Qustodio本周一向西班牙国家通讯社EFE提供的数据显示，澳大利亚每五名13至15岁青少年中就有一名仍在访问TikTok，尽管澳大利亚已于去年12月开始实施针对16岁以下未成年人的社交媒体限制措施。",
+      "vocab": [
+        {
+          "word": "accediendo",
+          "translation": "访问，进入（平台）",
+          "note": "acceder a 在数字技术语境中专指登录或访问某一平台、系统或内容，是科技新闻的标准用词，比 usar 更强调『进入』这一动作本身。"
+        },
+        {
+          "word": "control parental",
+          "translation": "家长控制，亲子管控",
+          "note": "数字安全领域的固定搭配，指父母通过软件或设置监控和限制子女设备使用的功能，plataforma de control parental 特指提供此类服务的专业应用或工具。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "El análisis, uno de los primeros desde que se <strong>implementó</strong> la normativa y basado en el uso de aplicaciones entre noviembre de 2024 y febrero de 2026, muestra que el 21% de los jóvenes de 13 a 15 años utilizó TikTok al menos una vez durante febrero de este año. Entre los niños de 10 a 12 años, casi un 7% también accedió a la plataforma.",
+      "zh": "这份分析是该法规实施后最早发布的报告之一，基于2024年11月至2026年2月间的应用程序使用数据，显示21%的13至15岁青少年在今年2月至少使用过一次TikTok。在10至12岁儿童中，也有近7%访问了该平台。",
+      "vocab": [
+        {
+          "word": "implementó",
+          "translation": "实施，落实",
+          "note": "政策和法规语境中的核心动词，implementar 强调将已通过的规定付诸实际执行，比 aplicar 更正式，常用于描述法律、政策或技术方案的落地过程。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "El estudio analizó el porcentaje de menores que utilizaron cada aplicación al menos una vez al mes durante más de cinco minutos <strong>consecutivos</strong> y divide los datos en tres grupos de edad: 10-12, 13-15 y 16-18 años. Los resultados apuntan a que la prohibición ha tenido un efecto <strong>medible</strong> en el uso de algunas plataformas, aunque desigual según la red social y la edad de los usuarios.",
+      "zh": "该研究分析了未成年人每月至少使用某一应用程序一次且连续使用超过五分钟的比例，并将数据分为三个年龄组：10至12岁、13至15岁和16至18岁。结果表明，禁令对部分平台的使用产生了可量化的影响，但效果因社交网络和用户年龄不同而参差不齐。",
+      "vocab": [
+        {
+          "word": "consecutivos",
+          "translation": "连续的，不间断的",
+          "note": "研究方法论中的精确限定词，cinco minutos consecutivos 将偶然点开与实质性使用区分开来，体现了数据采集的严谨性，避免将短暂误触计入有效使用。"
+        },
+        {
+          "word": "medible",
+          "translation": "可量化的，可测量的",
+          "note": "由 medir（测量）派生，在政策评估语境中指某一效果可以通过数据加以证明，与 perceptible（可感知的）有别——medible 强调客观数据支撑，是科学报道中评价政策成效的关键词。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "El informe, no obstante, no especifica por qué vías los menores continúan accediendo a estas aplicaciones, ya sea mediante <strong>VPN</strong>, permisos parentales o cuentas con datos falsos. Snapchat fue una de las aplicaciones más <strong>afectadas</strong> inicialmente. Entre los adolescentes de 13 a 15 años, el uso cayó más de 16 puntos porcentuales entre noviembre de 2025 y enero de 2026, una reducción casi cinco veces mayor que la registrada en el mismo periodo del año anterior.",
+      "zh": "然而，报告并未说明未成年人继续访问这些应用程序的具体途径，无论是通过VPN、家长授权还是使用虚假信息注册的账户。Snapchat是初期受影响最大的应用程序之一。在13至15岁青少年中，2025年11月至2026年1月间的使用率下降了逾16个百分点，降幅几乎是上一年同期的五倍。",
+      "vocab": [
+        {
+          "word": "VPN",
+          "translation": "虚拟私人网络",
+          "note": "Virtual Private Network 的缩写，通过加密隧道绕过地理或监管限制访问被屏蔽内容的技术工具，是未成年人规避社交媒体禁令的主要技术手段之一，在数字监管讨论中频繁出现。"
+        },
+        {
+          "word": "afectadas",
+          "translation": "受影响的，受波及的",
+          "note": "中性词，在本文语境中指受禁令冲击而使用率下降的平台，注意 afectar 在西语中通常表示负面影响，与英语 affect（中性）有所不同。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "No obstante, en febrero se observó un ligero <strong>repunte</strong>, hasta el 20% de usuarios en ese grupo de edad, frente al 18% de enero. Instagram también registró descensos relevantes, con cerca de un 12% menos de adolescentes de 13 a 15 años accediendo a la plataforma entre noviembre de 2025 y febrero de 2026, según el análisis.",
+      "zh": "然而，2月出现了小幅回升，该年龄组的用户比例升至20%，高于1月的18%。分析还显示，Instagram同样出现了明显下滑，2025年11月至2026年2月间，访问该平台的13至15岁青少年减少了约12%。",
+      "vocab": [
+        {
+          "word": "repunte",
+          "translation": "小幅回升，反弹",
+          "note": "经济和数据分析中的高频词，指数值在下降后出现的小幅回升，比 aumento 更强调反转趋势的初现，常与 ligero（轻微的）搭配，暗示趋势尚不稳定。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "YouTube se mantuvo entre las aplicaciones más utilizadas por menores. En febrero, el 37% de los adolescentes de 13 a 15 años accedió a la plataforma, incluso ligeramente por encima del grupo de 16 a 18 años (36%). El informe <strong>advierte</strong> de que parte de las variaciones puede explicarse por factores <strong>estacionales</strong>, ya que durante el verano austral y las vacaciones escolares el uso de aplicaciones suele fluctuar.",
+      "zh": "YouTube依然是未成年人使用最多的应用程序之一。2月，37%的13至15岁青少年访问了该平台，甚至略高于16至18岁年龄组（36%）。报告提醒称，部分数据波动可能由季节性因素解释，因为在澳大利亚夏季和学校假期期间，应用程序的使用量通常会出现起伏。",
+      "vocab": [
+        {
+          "word": "advierte",
+          "translation": "警告，提醒，指出",
+          "note": "advertir de/que 在新闻报道中用于引出研究或报告的局限性声明或注意事项，比 señala 语气更强，带有提示读者不可忽视某一重要信息的含义。"
+        },
+        {
+          "word": "estacionales",
+          "translation": "季节性的",
+          "note": "数据分析中的重要干扰变量概念，factores estacionales 指因季节变化（假期、气候等）导致的规律性数据波动，是评估政策效果时必须排除的混杂因素。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Además, el análisis no detecta por ahora una <strong>migración masiva</strong> hacia plataformas alternativas fuera de las restricciones. Aplicaciones como WhatsApp o el videojuego social Roblox registraron aumentos moderados, mientras que redes emergentes como Yope, Coverstar o Lemon8 solo experimentaron <strong>picos</strong> breves de interés.",
+      "zh": "此外，分析目前尚未发现大规模向限制范围之外的替代平台迁移的现象。WhatsApp或社交游戏Roblox等应用程序出现了温和增长，而Yope、Coverstar或Lemon8等新兴社交网络则仅经历了短暂的关注热潮。",
+      "vocab": [
+        {
+          "word": "migración masiva",
+          "translation": "大规模迁移，大批转移",
+          "note": "数字平台语境中的固定搭配，指用户从一个平台集体转向另一个平台的现象，是评估禁令是否产生『替代效应』的核心指标，此处否定形式说明禁令未引发明显的平台替代行为。"
+        },
+        {
+          "word": "picos",
+          "translation": "峰值，短暂高峰",
+          "note": "数据分析中的常用词，picos breves de interés 指使用量或关注度短暂飙升后迅速回落的现象，与持续性增长（aumento sostenido）形成对比，暗示新兴平台未能留住用户。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Australia comenzó en diciembre a aplicar una ley <strong>pionera</strong> que prohíbe el acceso a redes sociales a menores de 16 años, una medida que el Gobierno defiende como necesaria para proteger la salud mental de los adolescentes, aunque algunos analistas cuestionan su <strong>eficacia</strong> y advierten de que puede resultar fácil de <strong>eludir</strong> por los menores.",
+      "zh": "澳大利亚于去年12月开始实施一项开创性法律，禁止16岁以下未成年人访问社交媒体。政府将这一措施定性为保护青少年心理健康的必要之举，但部分分析人士对其实效提出质疑，并警告称未成年人可能很容易规避该禁令。",
+      "vocab": [
+        {
+          "word": "pionera",
+          "translation": "开创性的，先驱性的",
+          "note": "ley pionera 是新闻报道中描述某国率先采取某一前所未有的立法举措时的标准表达，强调该法律在全球范围内的首创性，为后文其他国家可能效仿埋下伏笔。"
+        },
+        {
+          "word": "eficacia",
+          "translation": "实效，有效性",
+          "note": "政策评估的核心词汇，与 eficiencia（效率，强调资源利用）不同，eficacia 专指某一措施是否真正达到预期目标，是本文争议焦点的关键词。"
+        },
+        {
+          "word": "eludir",
+          "translation": "规避，绕过，逃避",
+          "note": "比 evitar 更强调通过技巧或手段巧妙绕开规则或障碍，在监管语境中常指利用技术漏洞（如VPN、假账户）绕过限制，与前文提到的具体规避手段相呼应。"
+        }
+      ]
+    }
+  ]
+}
