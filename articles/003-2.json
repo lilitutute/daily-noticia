@@ -1,0 +1,174 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "城市与社会评论",
+  "difficulty": "C2",
+  "wordCount": "约600词",
+  "title": "La ciudad disipada",
+  "subtitle": "耗散的城市",
+  "resumenEs": "El artículo propone una lectura termodinámica de la crisis de vivienda en España: la expansión suburbana ha dispersado la energía social, creando ciudades dormitorio ineficientes y vaciando los centros urbanos. La solución no pasa por construir más en la periferia, sino por densificar inteligentemente los centros mediante la subdivisión de viviendas sobredimensionadas y la reconversión de edificios terciarios en desuso, convirtiendo la ineficiencia energética en equidad social.",
+  "resumenZh": "文章以热力学视角重新解读西班牙住房危机：郊区扩张分散了社会能量，制造出低效的卧城，并掏空了城市中心。解决之道不在于继续向外围扩建，而在于通过拆分超大住宅、改造闲置商业建筑，对城市中心进行智慧密集化，将能源低效转化为社会公平。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "La ciudad contemporánea no es un conjunto de coordenadas geográficas, sino un organismo herido por la <strong>entropía</strong>. Si pudiéramos elegir los códigos de la mirada, y dejar de observar la ciudad como un escenario construido con mayor o menor fortuna, y enfocar la ciudad como un sistema vivo, <strong>metabólico</strong>, probablemente concluiríamos que sufre una hemorragia constante de energía, tiempo y dignidad humana. El problema de la vivienda en España no es únicamente una falta de metros cuadrados —ese es el relato dominante—, es también un fracaso de la <strong>termodinámica</strong> social.",
+      "zh": "当代城市不是一组地理坐标，而是一个被熵所伤的有机体。如果我们能够选择观察的视角，不再把城市看作一个建造得或好或坏的舞台，而是将其聚焦为一个活的、具有新陈代谢功能的系统，我们或许会得出这样的结论：它正在持续不断地流失能量、时间和人的尊严。西班牙的住房问题不仅仅是平方米的短缺——那是主流叙事——它同样是社会热力学的失败。",
+      "vocab": [
+        {
+          "word": "entropía",
+          "translation": "熵，无序度",
+          "note": "热力学核心概念，指系统无序程度的度量，熵增意味着系统趋向混乱和能量耗散。作者将其引入城市分析，构建全文的核心隐喻框架，城市的低效扩张即是社会层面的熵增过程。"
+        },
+        {
+          "word": "metabólico",
+          "translation": "新陈代谢的，代谢性的",
+          "note": "生物学术语，指生物体通过物质和能量转化维持生命活动的过程。城市代谢学（metabolismo urbano）是当代城市规划的重要理论框架，将城市视为消耗资源、产生废物的有机系统。"
+        },
+        {
+          "word": "termodinámica",
+          "translation": "热力学",
+          "note": "研究热与能量转化规律的物理学分支，termodinámica social 是作者自创的隐喻性复合概念，将物理学定律类比于社会资源分配规律，是本文最具原创性的理论框架。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Durante décadas, nos vendieron el <strong>extrarradio</strong> como el Edén de la clase media: una promesa de futuro horizontal y parcelado donde la felicidad se medía en metros <strong>adosados</strong>. Sin embargo, desde una óptica física, el extrarradio es el triunfo del desorden. Es la dispersión de la energía. Al alejar la vida del centro, obligamos al sistema a quemar recursos masivos en transporte y suministros.",
+      "zh": "数十年来，郊区被兜售给我们，说它是中产阶级的伊甸园：一个水平延展、被划分成地块的未来承诺，幸福以联排别墅的平方米来衡量。然而，从物理学的角度来看，郊区是无序的胜利，是能量的耗散。当我们把生活推离中心，就迫使整个系统在交通和供给上燃烧大量资源。",
+      "vocab": [
+        {
+          "word": "extrarradio",
+          "translation": "城市外围，郊区",
+          "note": "西班牙语特有词汇，指城市建成区以外的周边地带，比 suburbio 更中性，比 periferia 更强调距离城市核心的远离感，是本文批判对象的核心地理概念。"
+        },
+        {
+          "word": "adosados",
+          "translation": "联排的（住宅）",
+          "note": "viviendas adosadas 即联排别墅，指共用侧墙的独立住宅，是西班牙郊区化时代的标志性住宅类型，作者用 metros adosados（联排平方米）讽刺以住宅面积衡量幸福的消费主义逻辑。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Hemos creado \"ciudades dormitorio\", puntos fríos en el mapa donde la vida humana solo transcurre de forma <strong>residual</strong> y en fines de semana. Mientras perdemos por el <strong>retrovisor</strong> nuestro hogar, el centro se convierte en un parque temático. El extrarradio no fue una solución habitacional; fue una huida hacia adelante que fragmentó la comunidad en átomos aislados tras muros de <strong>pladur</strong> y vallas de jardín, en el mejor de los casos.",
+      "zh": "我们创造了『卧城』——地图上的冷点，人类生活只以残余的方式、仅在周末存在于此。当我们在后视镜里渐渐失去家园，城市中心却变成了一个主题公园。郊区不是住房问题的解决方案，而是一次向前的逃亡，它将社区碎裂成一个个孤立的原子，藏匿于石膏板墙和花园围栏之后——往好了说是这样。",
+      "vocab": [
+        {
+          "word": "residual",
+          "translation": "残余的，剩余的",
+          "note": "指某种活动或存在以极少量、非主体的形式残留，de forma residual 强调郊区的人类活动已被压缩至最低限度，与城市中心的活力形成对比，是作者批判卧城现象的关键修饰词。"
+        },
+        {
+          "word": "retrovisor",
+          "translation": "后视镜",
+          "note": "本义为汽车后视镜，此处作为隐喻：通勤者每天开车离家，在后视镜中看着家园渐渐远去，既是字面意义上的通勤场景，也象征着人们与社区归属感的疏离，是本文最具画面感的意象之一。"
+        },
+        {
+          "word": "pladur",
+          "translation": "石膏板（隔墙）",
+          "note": "源自西班牙建材品牌名 Pladur，已成为石膏板隔墙的通用名称，类似英语中的 plasterboard。作者用 muros de pladur（石膏板墙）隐喻郊区住宅隔断邻里关系的薄弱、廉价的社区纽带。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Debemos entender la vivienda como un flujo de energía. Una casa de 120 metros cuadrados habitada por una sola persona en un centro urbano <strong>tensionado</strong> es, físicamente, una ineficiencia sistémica; éticamente, es un espacio <strong>retenido</strong>. Una propuesta de <strong>Mitosis Residencial</strong> y Rehabilitación de Flujo Positivo, el cambio de uso y la adaptación de edificios terciarios en desuso, no nace de una voluntad de control, sino de un imperativo ético: el derecho a la ciudad consolidada.",
+      "zh": "我们必须将住房理解为一种能量流动。在一个住房紧张的城市中心，一套120平方米的住宅仅由一人居住，从物理学角度看是系统性的低效；从伦理角度看，是被占据的空间。『住宅有丝分裂』与正向流量改造的提案——将闲置的第三产业建筑改变用途和功能——并非出于控制的意志，而是源于一种伦理命令：享有成熟城市的权利。",
+      "vocab": [
+        {
+          "word": "tensionado",
+          "translation": "紧张的，供需失衡的",
+          "note": "房地产和城市规划领域的专业术语，mercado/centro tensionado 指住房供需严重失衡、租金或房价极度紧张的区域，西班牙住房法中已有明确的法律定义，是本文的政策背景词汇。"
+        },
+        {
+          "word": "retenido",
+          "translation": "被占据的，被扣押的",
+          "note": "本义为『被扣留、被保留』，此处 espacio retenido 将超大住宅比作被少数人非法占据的公共资源，带有强烈的伦理批判色彩，暗示个人对稀缺城市空间的过度占有具有道德问题。"
+        },
+        {
+          "word": "Mitosis Residencial",
+          "translation": "住宅有丝分裂",
+          "note": "作者自创的政策概念，借用生物学中细胞分裂（mitosis）的概念，指将超大住宅单元拆分为多个较小单元的城市更新策略，既形象地描述了操作方式，又隐含了城市有机体自我修复的意象。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Recuperar los centros urbanos no significa <strong>gentrificarlos</strong>, sino <strong>densificarlos</strong> con inteligencia. Al fragmentar las unidades sobredimensionadas y reconvertir los esqueletos de oficinas obsoletas, estamos inyectando <strong>turgencia</strong> al tejido urbano. Estamos permitiendo que la juventud regrese a los nodos de intercambio de información y cultura, reduciendo la entropía del transporte y restaurando el pulso de los barrios.",
+      "zh": "重振城市中心并不意味着使其绅士化，而是智慧地提高其密度。通过拆分超大住宅单元、改造废弃办公楼的骨架，我们正在向城市肌理注入活力与张力。我们正在让年轻人回归信息与文化交流的节点，降低交通的熵值，恢复街区的脉搏。",
+      "vocab": [
+        {
+          "word": "gentrificarlos",
+          "translation": "使其绅士化",
+          "note": "gentrificación 源自英语 gentrification，指中高收入群体涌入低收入社区导致原住民被迫迁出的城市更新现象，作者明确区分『密集化』与『绅士化』，是本文政策主张的核心辨析。"
+        },
+        {
+          "word": "densificarlos",
+          "translation": "提高其密度，使其密集化",
+          "note": "城市规划术语，densificación urbana 指在既有建成区内增加居住单元和人口密度，而非向外扩张，是当代可持续城市主义的核心策略，与郊区化（suburbanización）形成对立。"
+        },
+        {
+          "word": "turgencia",
+          "translation": "膨胀感，充盈活力",
+          "note": "生物学术语，指细胞因充满液体而产生的膨压和张力，是植物保持挺立状态的关键。作者将其引入城市语境，以 inyectar turgencia al tejido urbano 比喻为城市肌理注入生命力，是全文最具原创性的隐喻之一。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "La ética del siglo XXI nos exige pasar de la arquitectura del objeto a la arquitectura del <strong>metabolismo</strong>. Rehabilitar no es solo sustituir <strong>revestimientos</strong>, es transformar un agujero negro energético en un nodo de generación. Cuando aislamos un bloque de los años setenta y lo dividimos para albergar nuevas vidas, no estamos solo haciendo obra; estamos realizando un acto de justicia <strong>termodinámica</strong> y social.",
+      "zh": "二十一世纪的伦理要求我们从『物体建筑学』转向『代谢建筑学』。修缮不只是更换饰面，而是将一个能量黑洞转化为一个产能节点。当我们为一栋七十年代的楼栋做保温改造并将其分割以容纳新的生命时，我们不只是在施工；我们正在完成一项热力学与社会正义的行动。",
+      "vocab": [
+        {
+          "word": "metabolismo",
+          "translation": "新陈代谢；代谢（建筑学）",
+          "note": "此处 arquitectura del metabolismo 呼应开篇的城市代谢框架，同时也指代1960年代日本新陈代谢派建筑运动（Metabolismo），该流派将建筑视为可生长、可更新的有机系统，与作者的论点高度契合。"
+        },
+        {
+          "word": "revestimientos",
+          "translation": "饰面，外覆层，装饰层",
+          "note": "建筑术语，指建筑物外墙或内墙的表面覆盖材料，sustituir revestimientos 指仅更换表面材料的浅层翻新，作者用此词批评将修缮等同于表面粉饰的狭隘理解，与深层能效改造形成对比。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Parte de la solución a la crisis de la vivienda no está en el mapa, sino en el <strong>cronómetro</strong> y en el termómetro. Está en la capacidad de ver el metro cuadrado no como una propiedad inerte, sino como una oportunidad de encuentro. Si logramos que el espacio fluya de donde sobra a donde falta, si convertimos el desperdicio térmico en <strong>equidad</strong> social, habremos vencido a la entropía.",
+      "zh": "住房危机的部分解决方案不在地图上，而在计时器和温度计里。它在于将每一平方米不再视为惰性财产，而是视为相遇的机会。如果我们能让空间从有余处流向匮乏处，如果我们能将热能浪费转化为社会公平，我们就战胜了熵。",
+      "vocab": [
+        {
+          "word": "cronómetro",
+          "translation": "计时器，秒表",
+          "note": "作者用 cronómetro（时间维度）和 termómetro（能量/温度维度）构成一组隐喻，指住房问题的解决需要从时间效率（通勤损耗）和能源效率（建筑热工性能）两个维度入手，而非单纯的空间扩张。"
+        },
+        {
+          "word": "equidad",
+          "translation": "公平，公正，平等",
+          "note": "比 igualdad（平等，强调结果相同）更强调根据需求进行公正分配的过程，equidad social 是社会政策讨论中的核心价值概念，作者将热能效率与社会公平并置，是全文热力学隐喻的最终落点。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "La ciudad del futuro no debería únicamente ser una expansión infinita hacia el horizonte; es un regreso consciente, denso y <strong>vibrante</strong> al corazón de lo que nos hace humanos: la <strong>proximidad</strong>. Por tanto, el reto es transformar una parte del problema de la escasez de vivienda en una oportunidad de <strong>redención</strong> urbana.",
+      "zh": "未来的城市不应只是向地平线的无限扩张，而应是一次有意识的、密集的、充满活力的回归——回归到使我们成为人类的核心：亲近。因此，挑战在于将住房短缺问题的一部分转化为城市救赎的机遇。",
+      "vocab": [
+        {
+          "word": "vibrante",
+          "translation": "充满活力的，生机勃勃的",
+          "note": "城市描述中的高频形容词，vibrar 本义为振动，vibrante 引申为充满能量和活力的状态，与前文描述郊区的 residual（残余的）、puntos fríos（冷点）形成鲜明对比，构成全文的情感高潮。"
+        },
+        {
+          "word": "proximidad",
+          "translation": "亲近，邻近，接近性",
+          "note": "城市规划中的核心价值概念，15分钟城市（ciudad de los 15 minutos）等当代城市主义理论均以 proximidad 为核心，指人与人、人与服务之间的空间接近性，作者将其定义为『使我们成为人类的核心』，是全文的价值落点。"
+        },
+        {
+          "word": "redención",
+          "translation": "救赎，赎回",
+          "note": "具有宗教和道德双重含义，本义为通过付出代价赎回罪过或恢复尊严，此处 redención urbana 指将城市的失败与衰败转化为重生与修复的机遇，为全文的热力学论述赋予了道德和精神维度，是本文最具人文色彩的收尾词。"
+        }
+      ]
+    }
+  ]
+}

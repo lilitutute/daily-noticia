@@ -1,0 +1,181 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "城市与环境",
+  "difficulty": "B2",
+  "wordCount": "约750词",
+  "title": "La contaminación de las ciudades no se arregla solo cambiando de coche",
+  "subtitle": "城市污染不能只靠换车来解决",
+  "resumenEs": "El artículo argumenta que la contaminación urbana va más allá de las emisiones del tubo de escape y que electrificar el parque móvil, aunque necesario, es insuficiente. Señala que la mala calidad del aire sigue el mapa de la desigualdad social, generando una triple vulnerabilidad para los grupos con menos recursos. Propone una transformación urbana integral que combine movilidad sostenible, diseño urbano equitativo y políticas que eviten la gentrificación verde.",
+  "resumenZh": "文章论证城市污染不仅限于尾气排放，电动化虽有必要但远远不够。文章指出，空气质量与社会不平等高度重叠，对低收入群体造成三重脆弱性。文章呼吁推动综合性城市转型，将可持续出行、公平城市设计与防止绿色绅士化的政策相结合。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Durante décadas hemos pensado que la contaminación del tráfico salía principalmente del <strong>tubo de escape</strong>. Pero esa imagen empieza a quedarse incompleta. Una parte creciente de las <strong>partículas contaminantes</strong> que respiramos en las ciudades procede también del desgaste de frenos y <strong>neumáticos</strong>, de la abrasión del asfalto o del polvo que levantan los vehículos al circular.",
+      "zh": "数十年来，我们一直认为交通污染主要来自排气管。但这一认知已开始显得不够完整。我们在城市中吸入的污染颗粒，越来越多地来自刹车和轮胎的磨损、沥青的摩擦，以及车辆行驶时扬起的尘埃。",
+      "vocab": [
+        {
+          "word": "tubo de escape",
+          "translation": "排气管，尾气管",
+          "note": "汽车构造术语，指发动机排出废气的管道，emisiones del tubo de escape 即尾气排放，是传统燃油车污染的标志性来源。文章以此为切入点，指出污染来源远不止于此，为全文论点奠定基础。"
+        },
+        {
+          "word": "partículas contaminantes",
+          "translation": "污染颗粒物",
+          "note": "环境科学核心术语，指悬浮于空气中的固体或液态微粒，按粒径分为 PM10 和 PM2.5 等类别，PM2.5（细颗粒物）因能深入肺部和血液而危害最大，是城市空气质量监测的核心指标。"
+        },
+        {
+          "word": "neumáticos",
+          "translation": "轮胎",
+          "note": "desgaste de neumáticos（轮胎磨损）产生的微塑料和橡胶颗粒是近年来城市污染研究的新兴议题，即便是电动车也会产生此类非尾气排放，是本文论证『换车不够』的核心科学依据。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Esto obliga a replantear cómo abordamos la contaminación urbana. Por ejemplo, <strong>electrificar el parque móvil</strong> es una medida necesaria para reducir emisiones, pero su eficacia depende de cómo se combine con otras políticas. La evidencia científica muestra que las soluciones más efectivas no son las recetas aisladas, sino las combinaciones de medidas que reducen el tráfico motorizado, refuerzan el <strong>transporte público</strong> y recuperan espacio urbano para las personas.",
+      "zh": "这迫使我们重新思考应对城市污染的方式。例如，推动车队电动化是减少排放的必要措施，但其效果取决于如何与其他政策相结合。科学证据表明，最有效的解决方案不是孤立的单一举措，而是多重措施的组合——减少机动车交通、强化公共交通，并为人们夺回城市空间。",
+      "vocab": [
+        {
+          "word": "electrificar el parque móvil",
+          "translation": "推动车队电动化",
+          "note": "parque móvil 指一个城市或国家的全部在用车辆总量，electrificar el parque móvil 即将燃油车替换为电动车的政策目标，是欧洲城市减排政策的核心议题，也是本文标题所指『换车』的具体所指。"
+        },
+        {
+          "word": "transporte público",
+          "translation": "公共交通",
+          "note": "城市规划和交通政策的核心概念，包括地铁、公共汽车、有轨电车等，reforzar el transporte público 是减少私家车依赖、降低城市污染的系统性策略，与单纯的车辆技术升级形成对比。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "En muchas ciudades, la calidad del aire sigue el mismo mapa que la <strong>desigualdad</strong>. Los barrios atravesados por grandes vías de tráfico, con menos <strong>zonas verdes</strong> y viviendas más expuestas suelen coincidir con los barrios donde viven las familias con menos recursos. Mientras algunos distritos disfrutan de calles más tranquilas y aire relativamente más limpio, otros concentran el tráfico, el ruido y niveles más altos de contaminación. El aire que respiramos no solo depende de las emisiones de una ciudad, también del lugar que ocupamos dentro de ella.",
+      "zh": "在许多城市，空气质量与不平等呈现出相同的地图分布。被大型交通干道穿越、绿地较少、住宅更易受污染影响的街区，往往与资源匮乏家庭聚居的街区高度重叠。一些城区享有更安静的街道和相对更清洁的空气，而另一些城区则集中了交通、噪音和更高水平的污染。我们呼吸的空气不仅取决于一座城市的排放总量，也取决于我们在城市中所处的位置。",
+      "vocab": [
+        {
+          "word": "desigualdad",
+          "translation": "不平等，社会差距",
+          "note": "社会学核心概念，本文将其与空气质量并置，构建『环境不平等』（desigualdad ambiental）的论证框架，指出污染的地理分布并非随机，而是社会经济结构的空间映射，是全文最重要的论点之一。"
+        },
+        {
+          "word": "zonas verdes",
+          "translation": "绿地，绿化区",
+          "note": "城市规划术语，指公园、花园等城市绿色空间，zonas verdes 不仅具有美化功能，还能吸收污染物、降低气温、提供休憩空间，其分布不均是城市环境不平等的重要指标。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "En algunos de estos barrios las concentraciones de contaminantes pueden ser un tercio más altas que en otras zonas de la misma ciudad. Detrás de la mala calidad del aire y del <strong>cambio climático</strong> se encuentran en gran medida las mismas emisiones, procedentes sobre todo del transporte, la energía o la industria. La forma en la que se concentran dentro de las ciudades tampoco es neutral. Es el resultado de décadas de decisiones <strong>urbanísticas</strong>, de un modelo de movilidad centrado en el coche y de desigualdades sociales que han ido moldeando el mapa de las ciudades.",
+      "zh": "在这些街区中，污染物浓度可能比同一城市其他区域高出三分之一。空气质量恶化与气候变化背后，在很大程度上是同一批排放源，主要来自交通、能源和工业。这些排放在城市内部的集中方式也并非中性。它是数十年城市规划决策、以汽车为中心的出行模式以及社会不平等共同塑造城市地图的结果。",
+      "vocab": [
+        {
+          "word": "cambio climático",
+          "translation": "气候变化",
+          "note": "环境科学和政策的核心术语，文章将局部空气污染与全球气候变化并置，指出两者共享同一排放来源，这一论点强化了减排政策的双重必要性：既改善本地空气质量，又应对全球气候危机。"
+        },
+        {
+          "word": "urbanísticas",
+          "translation": "城市规划的，城市建设的",
+          "note": "由 urbanismo（城市规划学）派生，decisiones urbanísticas 指关于城市土地使用、道路布局、建筑密度等的规划决策，文章将其列为污染不平等分布的历史成因，强调当前格局是人为决策的结果而非自然形成。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Esta realidad configura lo que llamamos una <strong>triple vulnerabilidad</strong> frente a la contaminación. En primer lugar, las personas con menos recursos están más expuestas a los contaminantes. Además, tienen menos capacidad para evitar esa exposición porque viven con mayor frecuencia cerca de fuentes de contaminación, en viviendas peor <strong>acondicionadas</strong> o con menos alternativas de movilidad. A todo ello se suma que las consecuencias para su salud suelen ser más graves.",
+      "zh": "这一现实构成了我们所说的面对污染的三重脆弱性。首先，资源较少的人群受到污染物的暴露程度更高。其次，他们规避这种暴露的能力更弱，因为他们更频繁地居住在污染源附近，住所条件更差，出行替代选择也更少。此外，污染对他们健康造成的后果往往也更为严重。",
+      "vocab": [
+        {
+          "word": "triple vulnerabilidad",
+          "translation": "三重脆弱性",
+          "note": "文章自创的分析框架，将低收入群体面对污染的处境分解为三个相互叠加的不利维度：更高的暴露、更弱的规避能力、更严重的健康后果，这种结构化分析是环境正义（justicia ambiental）研究的核心方法论。"
+        },
+        {
+          "word": "acondicionadas",
+          "translation": "条件完善的，配备齐全的",
+          "note": "viviendas peor acondicionadas 指隔热性能差、通风不良、缺乏空气过滤设施的住宅，这类住宅无法有效阻挡室外污染物进入室内，是低收入群体污染暴露更高的重要结构性原因。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "La contaminación del aire no afecta a todo el mundo por igual. Las mismas <strong>partículas finas</strong> o los mismos niveles de <strong>dióxido de nitrógeno</strong> pueden tener impactos mucho mayores en personas con enfermedades previas, con menos acceso a atención sanitaria o que viven en condiciones de mayor vulnerabilidad social. En Europa, la mala calidad del aire provoca cientos de miles de <strong>muertes prematuras</strong> y reduce la esperanza de vida.",
+      "zh": "空气污染对所有人的影响并不相同。相同的细颗粒物或相同水平的二氧化氮，对有既往疾病、医疗资源获取较少或生活在更高社会脆弱性条件下的人群，可能造成更大的影响。在欧洲，空气质量恶化每年导致数十万人过早死亡，并缩短预期寿命。",
+      "vocab": [
+        {
+          "word": "partículas finas",
+          "translation": "细颗粒物，PM2.5",
+          "note": "即粒径小于2.5微米的颗粒物（PM2.5），因其粒径极小可穿透肺泡进入血液循环，与心血管疾病、呼吸系统疾病和神经系统损伤密切相关，是世界卫生组织空气质量指南的核心管控指标。"
+        },
+        {
+          "word": "dióxido de nitrógeno",
+          "translation": "二氧化氮（NO₂）",
+          "note": "主要由机动车燃烧和工业过程产生的气态污染物，化学式 NO₂，是城市空气污染的标志性指标，长期暴露与哮喘、肺功能下降和心血管疾病相关，也是欧盟新版空气质量指令重点收严的污染物之一。"
+        },
+        {
+          "word": "muertes prematuras",
+          "translation": "过早死亡，早死",
+          "note": "公共卫生术语，指因可预防的环境或健康风险因素导致的、早于预期寿命的死亡，欧洲环境署数据显示空气污染每年在欧洲造成约30万例过早死亡，是量化污染健康代价的核心指标。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Cada vez más ciudades están apostando por cambios profundos en el diseño urbano y la movilidad: <strong>zonas de bajas emisiones</strong>, calles escolares sin tráfico, redes seguras para caminar o ir en bicicleta o sistemas de transporte público más eficientes. Pero estas transformaciones también plantean un reto relacionado con la desigualdad. Algunas intervenciones urbanas destinadas a mejorar la calidad ambiental pueden aumentar el valor de la vivienda y provocar el desplazamiento de población vulnerable. Es lo que se conoce como <strong>gentrificación verde</strong>.",
+      "zh": "越来越多的城市正在致力于城市设计和出行方式的深层变革：低排放区、无车学校街道、安全的步行和骑行网络，以及更高效的公共交通系统。但这些转型也带来了与不平等相关的挑战。一些旨在改善环境质量的城市干预措施可能推高住房价值，导致弱势群体被迫迁移。这就是所谓的绿色绅士化。",
+      "vocab": [
+        {
+          "word": "zonas de bajas emisiones",
+          "translation": "低排放区",
+          "note": "城市交通管理政策工具，指限制高污染车辆进入的特定城市区域，西班牙语缩写为 ZBE，马德里的 Madrid Central 和巴塞罗那的 Zona de Baixes Emissions 是典型案例，是欧洲城市改善空气质量的主流政策手段。"
+        },
+        {
+          "word": "gentrificación verde",
+          "translation": "绿色绅士化",
+          "note": "城市研究的新兴概念，指因建设公园、绿道、低排放区等环境改善项目导致周边房价上涨，进而将低收入原住民驱逐出改善区域的社会经济过程，是环境正义研究的核心悖论：环境改善反而加剧社会不平等。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Por eso las políticas de movilidad y urbanismo deben incorporar la <strong>equidad</strong> desde el principio. Reducir la contaminación no puede significar desplazar el problema de unos barrios a otros ni dejar fuera de las soluciones a quienes tienen menos recursos. La transformación de las ciudades solo será <strong>sostenible</strong> si garantiza transporte público accesible, alternativas de movilidad <strong>asequibles</strong> y una planificación urbana que reparta de forma justa los beneficios de un aire más limpio.",
+      "zh": "因此，出行和城市规划政策必须从一开始就将公平纳入考量。减少污染不能意味着将问题从一个街区转移到另一个街区，也不能将资源最少的人排除在解决方案之外。城市转型只有在保障可及的公共交通、负担得起的出行替代方案，以及公平分配清洁空气红利的城市规划的前提下，才能真正实现可持续。",
+      "vocab": [
+        {
+          "word": "equidad",
+          "translation": "公平，公正，平等",
+          "note": "与上一篇文章相同，equidad 强调根据需求进行公正分配，而非简单的结果均等，incorporar la equidad desde el principio 是政策设计的方法论原则，要求在规划阶段即考虑分配正义，而非事后补救。"
+        },
+        {
+          "word": "sostenible",
+          "translation": "可持续的",
+          "note": "环境和发展政策的核心概念，源自联合国可持续发展框架，此处作者赋予其双重含义：既指环境上的可持续（减少污染），也指社会上的可持续（不加剧不平等），两者缺一不可。"
+        },
+        {
+          "word": "asequibles",
+          "translation": "负担得起的，可及的",
+          "note": "比 baratos（便宜的）更强调在经济能力范围内可获取的特性，alternativas de movilidad asequibles 指低收入群体在经济上能够承担的出行选项，是防止绿色绅士化、确保城市转型惠及所有人的关键条件。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Europa se encuentra en un momento decisivo. La nueva <strong>Directiva de Calidad del Aire</strong> de la Unión Europea fija límites más estrictos para los principales contaminantes y acerca los estándares europeos a las recomendaciones de la <strong>Organización Mundial de la Salud</strong>. Cumplir los nuevos límites no debería ser el único objetivo. La oportunidad es mayor: repensar nuestras ciudades para que sean más saludables, habitables y justas. La cuestión no es solo cuánto aire contaminado respiramos, sino también quién lo respira más y durante cuánto tiempo.",
+      "zh": "欧洲正处于一个决定性时刻。欧盟新版《空气质量指令》为主要污染物设定了更严格的限值，使欧洲标准更接近世界卫生组织的建议。达到新限值不应成为唯一目标。机遇远不止于此：重新思考我们的城市，使其更健康、更宜居、更公正。问题不仅在于我们吸入了多少污染空气，还在于谁吸入得更多，以及持续了多长时间。",
+      "vocab": [
+        {
+          "word": "Directiva de Calidad del Aire",
+          "translation": "《空气质量指令》",
+          "note": "欧盟具有法律约束力的环境立法文件，成员国须将其转化为国内法并强制执行，2024年修订版大幅收严了PM2.5、NO₂等污染物的年均浓度限值，是欧洲城市空气质量治理的最重要法律框架。"
+        },
+        {
+          "word": "Organización Mundial de la Salud",
+          "translation": "世界卫生组织（WHO）",
+          "note": "联合国专门机构，负责制定全球公共卫生标准，其2021年更新的《全球空气质量指南》大幅收严了各类污染物的建议限值，长期以来欧盟法定标准宽松于WHO建议，新指令的出台是向WHO标准靠拢的重要一步。"
+        }
+      ]
+    }
+  ]
+}

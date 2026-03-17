@@ -1,0 +1,161 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科学与健康",
+  "difficulty": "B2",
+  "wordCount": "约650词",
+  "title": "Cómo mejorar el descanso: hábitos básicos de higiene del sueño",
+  "subtitle": "如何改善睡眠：睡眠卫生的基本习惯",
+  "resumenEs": "Un estudio publicado en Sleep Medicine Reviews cuestiona el papel de la luz azul como principal causante de los trastornos del sueño, señalando que su impacto es menor de lo esperado. Especialistas del Hospital Clínic Barcelona identifican como factores más determinantes el estrés, la cafeína, la temperatura y el contenido estimulante de las pantallas. El artículo concluye con siete recomendaciones prácticas de higiene del sueño para mejorar la calidad del descanso.",
+  "resumenZh": "发表于《睡眠医学评论》的一项研究质疑蓝光作为睡眠障碍主要诱因的说法，指出其影响远小于预期。巴塞罗那临床医院的专家认为，压力、咖啡因、温度和屏幕刺激性内容才是更关键的影响因素。文章最后提出七条实用的睡眠卫生建议，以改善睡眠质量。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Se ha hablado mucho de la luz azul y de los riesgos asociados al uso de pantallas antes de ir a dormir. Sin embargo, un estudio reciente publicado en la revista Sleep Medicine Reviews cuestiona este enfoque y apunta que la tan señalada luz azul podría no ser la única ni necesariamente la principal responsable de las <strong>alteraciones del sueño</strong>. De hecho, la investigación concluye que su impacto a la hora de acostarse es menor de lo que se pensaba, con un retraso máximo de diez minutos en el <strong>inicio del sueño</strong>.",
+      "zh": "关于蓝光以及睡前使用屏幕相关风险的讨论由来已久。然而，近期发表于《睡眠医学评论》的一项研究对这一观点提出质疑，指出被广泛指责的蓝光可能并非睡眠障碍的唯一原因，也未必是主要原因。事实上，该研究得出结论，蓝光在就寝时的影响小于此前的预期，最多只会使入睡时间推迟十分钟。",
+      "vocab": [
+        {
+          "word": "alteraciones del sueño",
+          "translation": "睡眠障碍，睡眠紊乱",
+          "note": "医学领域的常用表达，alteración 指正常功能或状态的改变和紊乱，比 trastornos del sueño（睡眠疾患）更广泛，涵盖从轻微的睡眠质量下降到临床诊断的各类睡眠问题。"
+        },
+        {
+          "word": "inicio del sueño",
+          "translation": "入睡，睡眠启动",
+          "note": "睡眠医学术语，指从清醒状态过渡到睡眠状态的时间节点，retraso en el inicio del sueño（入睡延迟）是评估睡眠质量的核心指标之一，与 latencia del sueño 同义。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Especialistas de la Unidad del Sueño del Hospital Clínic Barcelona explican que \"el problema real podría venir de la actividad <strong>estimulante</strong> antes de acostarse o de la luz excesiva general, no solo la de tonalidad azul\". Añaden que \"el estrés, la cafeína, la temperatura o un ambiente poco favorable\" son otros factores <strong>determinantes</strong> en la calidad del sueño nocturno.",
+      "zh": "巴塞罗那临床医院睡眠科的专家解释说，『真正的问题可能来自睡前的刺激性活动，或来自整体过强的光线，而不仅仅是蓝色调的光线。』他们还补充道，『压力、咖啡因、温度或不利的环境』是影响夜间睡眠质量的其他决定性因素。",
+      "vocab": [
+        {
+          "word": "estimulante",
+          "translation": "刺激性的，令人兴奋的",
+          "note": "在睡眠卫生语境中，actividad estimulante 指能够激活神经系统、提升觉醒水平的活动，与 relajante（放松的）相对，是本文区分不同屏幕使用方式对睡眠影响差异的核心概念。"
+        },
+        {
+          "word": "determinantes",
+          "translation": "决定性的，关键的",
+          "note": "factores determinantes 是科学报道中描述对某一结果具有关键影响的变量的标准表达，比 importantes 更强调因果关系的强度，暗示这些因素对睡眠质量具有实质性的决定作用。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Los profesionales subrayan que lo más perjudicial no es la luz azul, sino el contenido que se ve, la hora de uso y los hábitos de sueño que acompañan a esa actividad. Por ejemplo, no es lo mismo ver una película una hora antes de acostarse que consumir vídeos breves y estimulantes en redes sociales justo antes de dormir. Además, recomiendan moderar la exposición a la luz en general durante las últimas horas del día, ya que incide en los <strong>ritmos circadianos</strong> y puede interferir en la <strong>conciliación del sueño</strong>.",
+      "zh": "专业人士强调，最有害的并非蓝光本身，而是所观看的内容、使用时间以及伴随该活动的睡眠习惯。例如，睡前一小时看一部电影，与睡前刷社交媒体上的短暂刺激性视频，效果截然不同。此外，他们建议在一天的最后几个小时里总体上减少光线暴露，因为这会影响昼夜节律，可能干扰入睡过程。",
+      "vocab": [
+        {
+          "word": "ritmos circadianos",
+          "translation": "昼夜节律，生物钟",
+          "note": "生理学核心术语，指生物体约以24小时为周期的内源性生理节律，源自拉丁语 circa diem（约一天），由下丘脑视交叉上核调控，光线是调节昼夜节律的最重要外部信号，是理解睡眠科学的基础概念。"
+        },
+        {
+          "word": "conciliación del sueño",
+          "translation": "入睡，睡眠启动",
+          "note": "西班牙语睡眠医学的标准表达，conciliar el sueño 意为成功进入睡眠状态，problemas para conciliar el sueño 即入睡困难，是描述失眠症状最常见的临床表达之一。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "\"El sueño es una función del sistema nervioso: un conjunto de células que ejercen una función periódica y transitoria imprescindible para la vida. Sin dormir, nos moriríamos\", afirma Àlex Iranzo, <strong>neurólogo</strong> del Hospital Clínic Barcelona. El doctor explica que, durante las horas de sueño, una parte de las células del organismo se recupera del esfuerzo realizado a lo largo del día, mientras que otras llevan a cabo de forma activa funciones que solo se producen durante el sueño, como ordenar la memoria y regular funciones <strong>endocrinológicas</strong>, inmunológicas y hormonales.",
+      "zh": "『睡眠是神经系统的一项功能：一组细胞执行着对生命不可或缺的周期性和短暂性功能。没有睡眠，我们会死亡。』巴塞罗那临床医院神经科医生阿莱克斯·伊兰索表示。这位医生解释说，在睡眠期间，机体的部分细胞从一天的劳累中恢复，而另一部分细胞则主动执行只在睡眠期间发生的功能，例如整理记忆，以及调节内分泌、免疫和激素功能。",
+      "vocab": [
+        {
+          "word": "neurólogo",
+          "translation": "神经科医生，神经病学家",
+          "note": "专科医生称谓，neurología 是研究神经系统疾病的医学分支，与 neurocientífico（神经科学家，侧重研究）不同，neurólogo 特指临床诊疗专科医生，是医疗新闻中引用权威来源的标准职称。"
+        },
+        {
+          "word": "endocrinológicas",
+          "translation": "内分泌的",
+          "note": "内分泌学（endocrinología）研究激素的分泌和调节，funciones endocrinológicas 指睡眠期间发生的激素分泌过程，如生长激素主要在深度睡眠期间分泌，是睡眠对身体修复功能的重要机制之一。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Dormir poco y mal tiene consecuencias directas sobre el funcionamiento diario. El doctor Iranzo advierte que \"vamos a tener poca atención, poca concentración, vamos a estar más <strong>irritables</strong>, vamos a tener menos memoria, vamos a estar más cansados y con más mal humor, con más tendencia a la fatiga y a la <strong>depresión</strong>\". De ahí que concluya que \"dormir mal y dormir poco es un mal negocio para la salud y también para la relación familiar, social, <strong>conyugal</strong> y laboral\".",
+      "zh": "睡眠不足和睡眠质量差会对日常功能产生直接影响。伊兰索医生警告说，『我们会注意力不集中，专注力下降，更容易烦躁，记忆力减退，更加疲惫，情绪更差，更容易疲劳和抑郁。』因此他得出结论：『睡眠质量差、睡眠时间不足，对健康是一笔亏本的买卖，对家庭、社会、婚姻和职业关系也同样如此。』",
+      "vocab": [
+        {
+          "word": "irritables",
+          "translation": "易怒的，烦躁的",
+          "note": "医学和心理学术语，指对外部刺激过度敏感、容易产生负面情绪反应的状态，estar irritable 是描述睡眠不足情绪后果的标准临床表达，与 ansioso（焦虑的）和 deprimido（抑郁的）共同构成睡眠剥夺的情绪症状谱。"
+        },
+        {
+          "word": "depresión",
+          "translation": "抑郁，抑郁症",
+          "note": "精神医学核心术语，此处 tendencia a la depresión 指睡眠不足增加抑郁风险的倾向，而非临床诊断，睡眠障碍与抑郁症之间的双向关系是当代精神健康研究的重要课题。"
+        },
+        {
+          "word": "conyugal",
+          "translation": "婚姻的，夫妻的",
+          "note": "由 cónyuge（配偶）派生，relación conyugal 指夫妻关系，作者将其与 familiar（家庭）、social（社会）、laboral（职业）并列，强调睡眠质量对人际关系全方位的影响，conyugal 比 matrimonial 更口语化。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "1. <strong>Mantener horarios regulares.</strong> Acostarse y levantarse a la misma hora todos los días, incluidos los fines de semana, ayuda a sincronizar el <strong>reloj biológico</strong> y tener un sueño continuo y <strong>reparador</strong>.",
+      "zh": "1. 保持规律作息。每天在同一时间就寝和起床，包括周末，有助于同步生物钟，获得连续且恢复性的睡眠。",
+      "vocab": [
+        {
+          "word": "reloj biológico",
+          "translation": "生物钟",
+          "note": "昼夜节律的通俗说法，指机体内部调节生理周期的计时机制，sincronizar el reloj biológico 即将内源性节律与外部环境（尤其是光暗周期）对齐，规律作息是维持生物钟同步的最有效行为干预。"
+        },
+        {
+          "word": "reparador",
+          "translation": "恢复性的，修复性的",
+          "note": "sueño reparador 是睡眠质量评估的核心概念，指能够充分恢复体力和脑力、使人醒后感到精力充沛的睡眠，与 sueño fragmentado（碎片化睡眠）或 sueño superficial（浅睡眠）相对。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "3. <strong>Evitar el uso de pantallas antes de acostarse.</strong> Apagar dispositivos electrónicos al menos una hora antes de dormir ayuda a disminuir la estimulación del cerebro y favorece la producción de <strong>melatonina</strong>. 4. <strong>Mantener una vida activa.</strong> La práctica habitual de ejercicio físico mejora la calidad del descanso. Sin embargo, se recomienda evitar la actividad física al menos tres horas antes de dormir para no <strong>reactivar</strong> el organismo.",
+      "zh": "3. 睡前避免使用屏幕。至少在睡前一小时关闭电子设备，有助于减少大脑的刺激，促进褪黑素的分泌。4. 保持积极的生活方式。定期进行体育锻炼可以改善休息质量。然而，建议至少在睡前三小时避免体育活动，以免重新激活机体。",
+      "vocab": [
+        {
+          "word": "melatonina",
+          "translation": "褪黑素",
+          "note": "由松果体分泌的激素，在黑暗环境中分泌增加，向大脑发出『夜晚来临』的信号，促进�困意和睡眠启动，人工光线（尤其是短波蓝光）会抑制其分泌，是理解光线影响睡眠机制的核心生理概念。"
+        },
+        {
+          "word": "reactivar",
+          "translation": "重新激活，再度唤醒",
+          "note": "在生理语境中，reactivar el organismo 指运动后肾上腺素和体温升高使身体重新进入活跃状态，与睡眠所需的体温下降和神经系统平静相悖，是解释运动时机建议的关键机制词。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "5. <strong>Controlar el consumo de estimulantes y alimentación nocturna.</strong> Durante las últimas horas del día conviene reducir el consumo de café, té, refrescos con cafeína, chocolate y alimentos azucarados. También es aconsejable evitar cenas abundantes que puedan provocar <strong>digestiones pesadas</strong>, así como el consumo de tabaco y alcohol. 6. <strong>Acondicionar el dormitorio.</strong> El espacio debe ser silencioso, oscuro y mantener una temperatura moderada. También es recomendable tener un colchón y una almohada cómodos, y utilizar la habitación solo para dormir.",
+      "zh": "5. 控制兴奋剂摄入和夜间饮食。在一天的最后几个小时，应减少咖啡、茶、含咖啡因的饮料、巧克力和含糖食品的摄入。同样建议避免可能导致消化不良的丰盛晚餐，以及吸烟和饮酒。6. 优化卧室环境。卧室应保持安静、黑暗，并维持适宜的温度。同样建议使用舒适的床垫和枕头，并尽可能将卧室仅用于睡眠。",
+      "vocab": [
+        {
+          "word": "digestiones pesadas",
+          "translation": "消化不良，沉重的消化负担",
+          "note": "西班牙语口语和医学语境中的常用表达，指进食大量食物后消化系统负担过重、引起不适的状态，digestión pesada 会导致胃食管反流、腹胀等症状，干扰睡眠启动和睡眠质量。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "7. <strong>Gestionar los episodios de insomnio.</strong> Si cuesta conciliar el sueño, se recomienda no forzar, sino salir del dormitorio y realizar alguna actividad relajante hasta recuperar la sensación de sueño. Si el <strong>insomnio</strong> se prolonga más de quince días, se recomienda consultar a un profesional de la salud.",
+      "zh": "7. 应对失眠发作。如果难以入睡，建议不要强迫自己，而是离开卧室，进行一些放松活动，直到重新产生睡意。如果失眠持续超过十五天，建议咨询医疗专业人员。",
+      "vocab": [
+        {
+          "word": "insomnio",
+          "translation": "失眠",
+          "note": "临床睡眠医学的核心诊断术语，源自拉丁语 insomnia（无睡眠），指持续性的入睡困难、睡眠维持困难或早醒，并导致日间功能受损。持续超过三个月为慢性失眠（insomnio crónico），本文建议超过十五天即寻求专业帮助。"
+        }
+      ]
+    }
+  ]
+}

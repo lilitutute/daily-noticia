@@ -1,0 +1,191 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会评论",
+  "difficulty": "C1",
+  "wordCount": "约750词",
+  "title": "El Estado de bienestar son los padres",
+  "subtitle": "福利国家就是父母",
+  "resumenEs": "El artículo denuncia que el Estado de bienestar en España ha sido sustituido de facto por la familia: los bajos salarios y el precio de la vivienda obligan a millones de jóvenes a depender económicamente de sus padres. El autor cuestiona el mito de la 'gran transferencia' de patrimonio boomer a millennials, advierte del coste político y social de esta dependencia estructural, y concluye que un sistema que no genera oportunidades para los jóvenes está al borde del colapso.",
+  "resumenZh": "文章揭示西班牙福利国家事实上已被家庭所取代：低工资和高房价迫使数百万年轻人在经济上依赖父母。作者质疑婴儿潮一代向千禧一代『大规模财富转移』的神话，警示这种结构性依赖的政治和社会代价，并得出结论：一个无法为年轻人创造机会的体制已濒临崩溃。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "El Estado de bienestar en España hoy son los padres. Los bajos salarios y el precio <strong>desbocado</strong> de la vivienda hacen que los jóvenes actuales sean extremadamente dependientes de la familia para alcanzar unos mínimos de dignidad cotidiana. Y sin embargo, hay interés en <strong>acallar</strong> a quienes denuncian esta situación, acusándoles de querer incentivar una supuesta guerra generacional. La realidad es que asistimos a una tragedia silenciosa que nos estallará políticamente más pronto que tarde, por más que se pretenda ignorarla.",
+      "zh": "今天西班牙的福利国家就是父母。低工资和失控的住房价格使当代年轻人极度依赖家庭，才能维持日常生活的最低尊严。然而，有人热衷于压制那些揭露这一状况的声音，指责他们意图煽动所谓的代际战争。现实是，我们正在目睹一场沉默的悲剧，无论人们如何假装视而不见，它都将在政治上迟早爆发。",
+      "vocab": [
+        {
+          "word": "desbocado",
+          "translation": "失控的，脱缰的",
+          "note": "本义指马匹脱缰狂奔，引申为价格、增长等完全失控、无法遏制的状态，precio desbocado 比 precio alto 更强调失控的动态过程，带有强烈的情绪色彩，是西语政治评论中描述住房危机的标志性表达。"
+        },
+        {
+          "word": "acallar",
+          "translation": "压制，使沉默，噤声",
+          "note": "比 silenciar 更强调主动施压使他人停止发声的行为，带有政治压制的含义，常用于描述权力对批评声音的打压，是本文批判政治话语操控的关键动词。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Los datos llevan tiempo apuntándolo: se está condenando a las generaciones que suben a vivir de la buena voluntad de sus padres, y probablemente del Estado cuando sean mayores. Tanto en 2024 como en 2025 nuestro país batió récords de donaciones de dinero de los <strong>baby boomers</strong> a sus hijos para darles la entrada de un piso. Más de un tercio de los padres reconocía en 2023 haberles ayudado en el último mes, haciéndoles la compra, pagándoles la luz o el agua; e incluso, más de la mitad confesaba que ellos no recibieron, en su momento, tanta ayuda de sus <strong>progenitores</strong>.",
+      "zh": "数据早已指向这一点：新生代正被迫依靠父母的善意度日，而等他们年老时，很可能还要依靠国家。2024年和2025年，西班牙婴儿潮一代向子女赠款以支付购房首付的记录屡创新高。2023年，超过三分之一的父母承认在过去一个月内曾帮助子女，包括代为购物、支付水电费；甚至超过一半的父母坦言，他们当年并未从自己的父母那里获得如此多的帮助。",
+      "vocab": [
+        {
+          "word": "baby boomers",
+          "translation": "婴儿潮一代",
+          "note": "指二战后（约1946—1964年）出生的人口激增一代，西语中通常直接使用英文原词或译为 boomers，是本文代际分析的核心概念，与 mileniales（千禧一代）和 centeniales（Z世代）形成对照。"
+        },
+        {
+          "word": "progenitores",
+          "translation": "父母，双亲",
+          "note": "比 padres 更正式、更书面化，源自拉丁语 progenitor（祖先、生育者），在法律、社会学和新闻文体中常用于替代 padres 以避免重复，同时增添文章的严肃性。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Jamás ha existido la no consecuencia de ninguna decisión en política. Cada joven que depende de su familia no es una anécdota, sino una piedra más para <strong>cimentar</strong> una democracia basada en la desigualdad creciente de clase: habrá padres <strong>pudientes</strong> que puedan ayudar, y otros más humildes que no. Cada chaval que no se va de su habitación de infancia se traduce en una <strong>merma</strong> decisiva para nuestro Estado de bienestar: son familias que no se crean, oportunidades económicas que se pierden.",
+      "zh": "政治决策从来不存在没有后果的情况。每一个依赖家庭的年轻人不是个例，而是为一个建立在日益加剧的阶级不平等之上的民主制度添砖加瓦：有钱的父母能够提供帮助，而更贫困的父母则无能为力。每一个仍住在童年卧室里的年轻人，都意味着我们福利国家的决定性损耗：那是没有组建的家庭，是失去的经济机会。",
+      "vocab": [
+        {
+          "word": "cimentar",
+          "translation": "奠基，巩固，强化",
+          "note": "本义为打地基、浇筑水泥，引申为巩固和强化某种结构或制度，此处 cimentar una democracia basada en la desigualdad 带有深刻的反讽意味——通常用于积极建设的动词，此处却用于描述不平等的固化。"
+        },
+        {
+          "word": "pudientes",
+          "translation": "富裕的，有财力的",
+          "note": "比 ricos 更强调拥有足够财力来做某事的能力，padres pudientes 特指有经济实力资助子女的父母，与后文 más humildes（更贫困的）形成对比，是作者论证代际依赖加剧阶级分化的关键词。"
+        },
+        {
+          "word": "merma",
+          "translation": "损耗，减少，缩水",
+          "note": "指数量或质量的减少和损失，在经济和社会政策语境中常用于描述资源、人口或能力的实质性下降，merma decisiva 强调这种损耗对福利体系的结构性破坏，而非暂时性波动。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Sin embargo, no esperen ver contenedores ardiendo, ni protestas masivas por las calles de España. Todo sistema político se apoya sobre una ficción narrativa, orientada a garantizar la paz social —y su continuidad— a largo plazo. Si hoy nuestros jóvenes no se <strong>soliviantan</strong> no solo es porque alguien les cobija. También, porque se les ha vendido un ideal <strong>escapista</strong>, útil para adormecer conciencias, pero tan sugerente como <strong>falsario</strong>.",
+      "zh": "然而，不要指望看到垃圾桶燃烧，也不要指望西班牙街头出现大规模抗议。每一个政治体制都建立在一套叙事虚构之上，旨在长期保障社会稳定——以及体制自身的延续。今天西班牙年轻人之所以没有揭竿而起，不仅仅是因为有人为他们遮风挡雨，还因为他们被兜售了一种逃避主义的理想——这种理想善于麻痹意识，却既诱人又虚假。",
+      "vocab": [
+        {
+          "word": "soliviantan",
+          "translation": "揭竿而起，激起反抗",
+          "note": "soliviantar(se) 指被激怒至采取行动或反抗，比 rebelarse 更强调情绪被煽动后的爆发性反应，在政治语境中常用于描述民众被压迫至临界点后的集体觉醒，此处否定形式揭示了年轻人的政治冷漠。"
+        },
+        {
+          "word": "escapista",
+          "translation": "逃避主义的，逃现实的",
+          "note": "源自英语 escapism，指通过幻想或转移注意力来逃避现实问题的心理倾向，ideal escapista 在本文中特指『未来将继承财富』的叙事，作者认为这是一种政治上精心设计的意识形态麻醉剂。"
+        },
+        {
+          "word": "falsario",
+          "translation": "虚假的，欺骗性的，伪造的",
+          "note": "比 falso 更强烈，带有蓄意欺骗的含义，falsario 作为形容词暗示某种说法不仅是错误的，而且是被刻意制造和传播的谎言，是作者对代际财富转移叙事的最强烈批判。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Les han dicho a esos jóvenes que alguna vez <strong>heredarán</strong> el patrimonio familiar, al igual que la precariedad de hoy es solo la <strong>penitencia</strong> terrenal que les espera antes de trascender hacia el paraíso del mañana, quién sabe si con 50 años. Pese a ello, resulta muy cuestionable esa llamada \"gran transferencia\", según la cual mileniales y <strong>centeniales</strong> recibirán unos cuatro billones de euros de patrimonio neto.",
+      "zh": "人们告诉那些年轻人，他们终将继承家族财产，就像今天的贫困只是等待他们的尘世苦行，在通往明日天堂之前的磨砺——也许要等到50岁，谁知道呢。尽管如此，所谓的『大规模财富转移』依然值得高度质疑——据称千禧一代和Z世代将获得约四万亿欧元的净资产。",
+      "vocab": [
+        {
+          "word": "heredarán",
+          "translation": "将继承",
+          "note": "heredad 的未来时，在本文语境中作者用宗教隐喻（penitencia 苦行、paraíso 天堂）将继承财富的叙事比作宗教救赎承诺，讽刺这种叙事与宗教许诺来世幸福一样虚无缥缈。"
+        },
+        {
+          "word": "penitencia",
+          "translation": "苦行，忏悔，赎罪",
+          "note": "天主教神学术语，指为赎罪而承受的痛苦或惩罚，作者将年轻人的经济困境比作『尘世苦行』，以宗教隐喻揭示这种叙事的意识形态本质：将结构性不平等包装为个人修行和等待回报的过程。"
+        },
+        {
+          "word": "centeniales",
+          "translation": "Z世代，千禧后代",
+          "note": "西班牙语对出生于约1997年至2012年间一代人的称呼，与英语 Generation Z 对应，比 generación Z 更口语化，与 mileniales（千禧一代，约1981—1996年）并列，是本文代际分析的第三个核心群体。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Según el Banco de España, esa cifra se corresponde con el 45% de la riqueza total de los hogares que está en manos de los baby boomers. Ahora bien, al ritmo que va nuestro país, con una esperanza de vida al alza y un progresivo <strong>tensionamiento</strong> de servicios esenciales como la sanidad pública, es muy probable que muchos de esos padres necesiten gastar legítimamente su patrimonio para procurarse cuidados en la vejez. No en vano se ha popularizado la venta de la <strong>nuda propiedad</strong>, mediante la cual una persona mayor se reserva el <strong>usufructo</strong> de su piso de forma vitalicia, y recibe así un dinero para mejorar su pensión.",
+      "zh": "据西班牙银行数据，这一数字相当于婴儿潮一代手中所掌握的家庭总财富的45%。然而，按照我国目前的发展节奏，随着预期寿命持续上升、公共医疗等基本服务日益承压，许多父母很可能需要合理地动用自己的财产来支付晚年护理费用。这也正是裸产权出售日益普及的原因——通过这种方式，老年人终身保留对住房的用益物权，同时获得一笔资金来补充养老金。",
+      "vocab": [
+        {
+          "word": "tensionamiento",
+          "translation": "承压，紧张化，超负荷",
+          "note": "由 tensionar（使紧张）派生的名词，在公共服务语境中指系统因需求超过供给而承受压力的过程，比 deterioro（恶化）更强调动态的压力积累，是西班牙公共政策讨论中的常见词汇。"
+        },
+        {
+          "word": "nuda propiedad",
+          "translation": "裸产权，虚有产权",
+          "note": "法律术语，指所有权中去除用益物权（usufructo）后剩余的部分，即拥有房产所有权但无权使用和收益。出售裸产权意味着老年人将房产所有权转让给买方，但保留终身居住权，是西班牙应对养老金不足的重要金融工具。"
+        },
+        {
+          "word": "usufructo",
+          "translation": "用益物权，使用收益权",
+          "note": "法律术语，指在他人财产上享有使用和收益的权利，与 nuda propiedad 构成所有权的两个组成部分，usufructo vitalicio 即终身用益物权，是理解裸产权交易的核心法律概念。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Incluso si esa \"gran transferencia\" llegara a producirse en sentido perfecto, conviene recordar que los boomers, como institución correctora de la precariedad, no serán eternos. Entre 2002 y 2022, los únicos que incrementaron o mantuvieron niveles de renta similares a los previos a la crisis de <strong>austeridad</strong> de 2010 fueron los mayores de 65 años. En cambio, los grupos más jóvenes —menores de 35 años y entre 35 y 44— no dejaron de caer en esos mismos ránquines, perdiendo el 75% de su riqueza en el caso de los <strong>treintañeros</strong>, según un estudio de Ignacio Conde-Ruiz y Francisco García-Rodríguez.",
+      "zh": "即便那场『大规模财富转移』能够完美实现，也应当记住：婴儿潮一代作为纠正贫困的制度性力量，不会永远存在。2002年至2022年间，唯一增加或维持了与2010年紧缩危机前相似收入水平的群体，是65岁以上的人。相比之下，更年轻的群体——35岁以下以及35至44岁——在同一排名中持续下滑，根据伊格纳西奥·孔德-鲁伊斯和弗朗西斯科·加西亚-罗德里格斯的研究，三十多岁的人损失了75%的财富。",
+      "vocab": [
+        {
+          "word": "austeridad",
+          "translation": "紧缩，财政紧缩",
+          "note": "经济政策术语，指政府通过削减公共支出、提高税收来减少财政赤字的政策，crisis de austeridad de 2010 特指西班牙在欧债危机期间实施的大规模公共支出削减，是理解西班牙代际财富差距的历史背景关键词。"
+        },
+        {
+          "word": "treintañeros",
+          "translation": "三十多岁的人，三字头",
+          "note": "由 treinta（三十）+ -añero（年龄后缀）构成，是西班牙语描述年龄段的口语化表达，类似的还有 veintañeros（二十多岁）、cuarentañeros（四十多岁），在社会学和新闻报道中广泛使用。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Un sistema de bienestar solamente basado en la idea de la solidaridad <strong>intergeneracional</strong>, entendida de hijos a padres, tenía sentido cuando la pobreza era propia de los abuelos. Sin embargo, hoy cuesta entender por qué las prioridades de los jóvenes no ocupan un lugar central en la agenda legislativa si la pobreza tiende a concentrarse en ellos. Solo el interés electoral de captar el voto de los mayores de 65 años parece explicar lo que pasa. Para los jóvenes, bonos culturales e Interrail; para sus padres, un gasto en pensiones que para 2050 podría pasar del 13% actual al 16% o 17% del <strong>PIB</strong>.",
+      "zh": "一个仅建立在代际团结理念之上的福利体系——即子女赡养父母的方向——在贫困主要集中于老年人时是合理的。然而，如今贫困趋于集中在年轻人身上，却很难理解为何年轻人的优先需求没有占据立法议程的核心位置。似乎只有争取65岁以上选民选票的选举利益，才能解释正在发生的一切。给年轻人的是文化消费券和欧铁通票；而给他们父母的，是到2050年可能从目前GDP的13%攀升至16%或17%的养老金支出。",
+      "vocab": [
+        {
+          "word": "intergeneracional",
+          "translation": "代际的，跨代的",
+          "note": "由 inter-（之间）+ generacional（代际的）构成，solidaridad intergeneracional 是福利国家理论的核心概念，指不同年龄代群之间通过税收和转移支付实现的互助机制，作者指出该机制的方向性已发生根本性逆转。"
+        },
+        {
+          "word": "PIB",
+          "translation": "国内生产总值（GDP）",
+          "note": "Producto Interior Bruto 的缩写，西班牙语对应英语 GDP（Gross Domestic Product），是衡量一国经济规模的核心指标，公共支出占GDP的百分比是比较各国福利国家规模的标准方法。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "En definitiva, privatizar el Estado de bienestar en la familia, y celebrar que las pensiones se hayan vuelto parte estructural del <strong>colchón</strong> familiar no es la proeza que la política quiere vendernos, ni el gesto de amor <strong>paternofilial</strong> con que se pretende <strong>dulcificar</strong> lo que está pasando. Si el Estado de bienestar ya son los abuelos o los padres es que el sistema ya no produce oportunidades. Es decir, ha reventado o está al borde de hacerlo.",
+      "zh": "总而言之，将福利国家私有化于家庭之内，并将养老金成为家庭缓冲垫的结构性组成部分视为值得庆贺之事，既不是政治人物想要兜售给我们的壮举，也不是试图用来粉饰现实的父子之爱的姿态。如果福利国家已经变成了祖父母或父母，那就意味着这个体制已经不再创造机会。换言之，它已经崩溃，或者正处于崩溃的边缘。",
+      "vocab": [
+        {
+          "word": "colchón",
+          "translation": "缓冲垫，安全垫（比喻）",
+          "note": "本义为床垫，在经济和社会政策语境中 colchón familiar 或 colchón económico 指家庭作为抵御经济风险的非正式缓冲机制，是西班牙社会学讨论中的高频隐喻，此处作者用其揭示福利国家功能已被家庭非正式承接。"
+        },
+        {
+          "word": "paternofilial",
+          "translation": "父子（女）之间的，亲子的",
+          "note": "由 paterno（父亲的）+ filial（子女的）合成，指父母与子女之间的关系，amor paternofilial 即亲子之爱，作者用此词讽刺政治话语将结构性问题包装为温情家庭故事的叙事策略。"
+        },
+        {
+          "word": "dulcificar",
+          "translation": "美化，粉饰，软化",
+          "note": "本义为使变甜，引申为通过温和或积极的表述来淡化某一负面现实的严重性，在政治批评语境中常用于揭示话语操控，比 suavizar 更强调蓄意的美化意图。"
+        }
+      ]
+    }
+  ]
+}

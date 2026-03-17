@@ -1,0 +1,174 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科学与健康",
+  "difficulty": "B2",
+  "wordCount": "约650词",
+  "title": "Comer por factores emocionales puede derivar en un Trastorno por Atracones",
+  "subtitle": "情绪性进食可能演变为暴食症",
+  "resumenEs": "El artículo distingue tres niveles en la relación con la comida: alimentación saludable, ingesta emocional esporádica y Trastorno por Atracones (TPA). Explica los síntomas, causas multifactoriales y consecuencias del TPA, y subraya el papel clave del entorno en la prevención y recuperación. Concluye que detectar señales de alerta y buscar ayuda profesional son pasos esenciales para superar el trastorno.",
+  "resumenZh": "文章区分了与食物关系的三个层次：健康饮食、偶发性情绪性进食和暴食症（TPA）。文章解释了暴食症的症状、多因素成因和后果，并强调了周围环境在预防和康复中的关键作用。结论是，识别预警信号和寻求专业帮助是克服该障碍的关键步骤。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Comer es esencial para la vida, pero la relación con los alimentos varía enormemente entre las personas. Para algunas, representa un espacio de equilibrio y nutrición. Para otras, en cambio, la comida es un <strong>refugio emocional</strong> ante el estrés o la tristeza. Más allá de estos hábitos, existen <strong>trastornos alimentarios</strong> con un impacto más serio en la salud, como el <strong>Trastorno por Atracones</strong>.",
+      "zh": "饮食对生命至关重要，但人与食物的关系因人而异。对一些人来说，饮食代表着平衡与营养的空间；而对另一些人来说，食物却是面对压力或悲伤时的情感避难所。超越这些习惯之外，还存在对健康影响更为严重的饮食障碍，例如暴食症。",
+      "vocab": [
+        {
+          "word": "refugio emocional",
+          "translation": "情感避难所，情绪庇护所",
+          "note": "心理学语境中的隐喻性表达，指个体在面对负面情绪时借助某种行为或物质寻求安慰和逃避的心理机制，refugio emocional 将食物比作庇护场所，形象地描述了情绪性进食的心理动因。"
+        },
+        {
+          "word": "trastornos alimentarios",
+          "translation": "饮食障碍，进食障碍",
+          "note": "精神医学和营养学的核心诊断类别，包括神经性厌食症（anorexia nerviosa）、神经性贪食症（bulimia nerviosa）和暴食症（Trastorno por Atracones）等，是本文的上位概念框架。"
+        },
+        {
+          "word": "Trastorno por Atracones",
+          "translation": "暴食症，暴食障碍",
+          "note": "DSM-5（精神障碍诊断与统计手册第五版）中的独立诊断类别，西班牙语缩写为 TPA，特指反复发作的失控性大量进食，且不伴有补偿性行为（如催吐），与贪食症（bulimia）的关键区别在于此点。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Según datos del Hospital Clínic de Barcelona, la <strong>prevalencia</strong> del Trastorno por Atracones afecta aproximadamente al 2% de la población en algún momento de su vida. Este trastorno se caracteriza por episodios recurrentes de <strong>ingesta compulsiva</strong> de grandes cantidades de comida. Durante estos episodios, la persona come mucho más rápido de lo habitual e incluso sin sentir hambre real. A pesar de sentir una sensación desagradable de <strong>llenura</strong>, le resulta difícil detenerse. Al finalizar, aparecen sentimientos de culpa, vergüenza o depresión.",
+      "zh": "据巴塞罗那临床医院数据，暴食症的终生患病率约为总人口的2%。该障碍的特征是反复发作的强迫性大量进食。在这些发作期间，当事人进食速度远快于平时，甚至在没有真实饥饿感的情况下进食。尽管感到令人不适的饱胀感，却难以停止。发作结束后，会出现内疚、羞耻或抑郁的情绪。",
+      "vocab": [
+        {
+          "word": "prevalencia",
+          "translation": "患病率，流行率",
+          "note": "流行病学核心术语，指在特定时间点或时间段内某一疾病在人群中存在的比例，与 incidencia（发病率，指新发病例的速率）不同，prevalencia 包含所有现存病例，是评估疾病负担的标准指标。"
+        },
+        {
+          "word": "ingesta compulsiva",
+          "translation": "强迫性进食，冲动性摄食",
+          "note": "临床诊断术语，compulsivo 指个体明知不妥却无法控制的重复性行为冲动，ingesta compulsiva 是暴食症的核心症状描述，强调行为的失控性和强迫性，区别于单纯的过量饮食。"
+        },
+        {
+          "word": "llenura",
+          "translation": "饱胀感，撑胀感",
+          "note": "比 saciedad（饱足感）更强调令人不适的过度饱胀状态，sensación desagradable de llenura 是暴食症发作的典型躯体症状之一，当事人即便感到极度不适仍无法停止进食，体现了行为失控的程度。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "\"Comer bien\" implica atender las señales de hambre y <strong>saciedad</strong>, seguir una dieta equilibrada y no sentir culpa luego de una alimentación adecuada. Quien \"come bien\" rara vez experimenta sobre ingestas ni sentimientos de vergüenza o <strong>remordimiento</strong>, características del Trastorno por Atracones. No obstante, incluso la persona con hábitos saludables puede, en ocasiones puntuales, recurrir a la comida para aliviar el estrés, sin que ello se convierta en un problema a largo plazo.",
+      "zh": "『健康饮食』意味着关注饥饿和饱足的信号，遵循均衡饮食，并且在适当进食后不感到内疚。『健康饮食』的人很少经历过度进食，也不会有羞耻感或悔恨感——这些正是暴食症的典型特征。尽管如此，即便是有健康饮食习惯的人，偶尔也可能借助食物来缓解压力，但这不会演变为长期问题。",
+      "vocab": [
+        {
+          "word": "saciedad",
+          "translation": "饱足感，饱腹感",
+          "note": "生理学术语，指进食后胃部充盈和血糖升高等信号传递至大脑产生的满足感，señales de saciedad 是正常进食调节机制的核心，暴食症患者的核心问题之一是无法识别或响应这些信号。"
+        },
+        {
+          "word": "remordimiento",
+          "translation": "悔恨，自责，懊悔",
+          "note": "比 culpa（内疚）更强调事后持续的道德自我谴责，sentimientos de vergüenza o remordimiento 是暴食症发作后的典型心理症状，这种负面情绪往往又成为下一次暴食发作的触发因素，形成恶性循环。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Comer por factores emocionales puede darse en varios momentos de estrés, ansiedad o tristeza, pero no alcanza la intensidad de un <strong>atracón</strong> ni se repite con la misma frecuencia. Si la persona no experimenta un gran remordimiento ni recurre habitualmente a la comida como <strong>vía de escape emocional</strong>, estos episodios esporádicos no tienen por qué representar un problema grave. No obstante, es fundamental vigilar el uso de la comida para manejar emociones, ya que podría volverse un comportamiento <strong>compulsivo</strong> y derivar en un Trastorno de la Conducta Alimentaria.",
+      "zh": "情绪性进食可能发生在压力、焦虑或悲伤的多个时刻，但其强度达不到暴食发作的程度，频率也没有那么高。如果当事人没有强烈的悔恨感，也没有习惯性地将食物作为情绪逃避的出口，这些偶发性的过度进食不一定代表严重问题。然而，必须警惕用食物来管理情绪的行为，因为它可能演变为强迫性行为，并逐渐发展为饮食行为障碍。",
+      "vocab": [
+        {
+          "word": "atracón",
+          "translation": "暴食发作，一次暴食",
+          "note": "临床诊断中的核心术语，指在短时间内（通常不超过两小时）摄入远超常人的大量食物，并伴有失控感，是暴食症（Trastorno por Atracones）的命名来源，与日常的过量饮食在量和失控程度上均有本质区别。"
+        },
+        {
+          "word": "vía de escape emocional",
+          "translation": "情绪逃避出口，情感宣泄渠道",
+          "note": "心理学概念，指个体用于回避或缓解负面情绪的行为策略，vía de escape 本义为逃生通道，此处比喻情绪调节的非适应性方式，将食物作为情绪逃避出口是情绪性进食向病理性发展的关键风险因素。"
+        },
+        {
+          "word": "compulsivo",
+          "translation": "强迫性的，冲动性的",
+          "note": "精神病学术语，指个体明知某行为有害却无法控制、反复实施的心理状态，comportamiento compulsivo 是多种精神障碍的核心特征，此处标志着情绪性进食从自愿选择转变为失控行为的临界点。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "El Trastorno por Atracones se caracteriza por episodios recurrentes de pérdida de control, intenso malestar y un profundo sufrimiento. Es común que la persona <strong>oculte</strong> o almacene comida y se deshaga de grandes cantidades de alimentos <strong>hipercalóricos</strong> o de sus envoltorios. A menudo, alterna atracones con dietas muy <strong>restrictivas</strong> que, al ser insostenibles, terminan en fracaso, aumentando la ansiedad en situaciones cotidianas relacionadas con la alimentación.",
+      "zh": "暴食症的特征是反复发作的失控感、强烈的不适和深度痛苦。当事人通常会藏匿或囤积食物，并处理掉大量高热量食物或其包装。他们往往在暴食与极度限制性饮食之间交替，而这些限制性饮食因难以为继而以失败告终，进一步加剧了日常饮食相关情境中的焦虑。",
+      "vocab": [
+        {
+          "word": "oculte",
+          "translation": "藏匿，隐藏",
+          "note": "ocultar 的虚拟式现在时，藏匿食物是暴食症的典型行为特征之一，反映了当事人对自身行为的羞耻感和对他人发现的恐惧，也是临床诊断的重要行为指标，区别于单纯的过量饮食。"
+        },
+        {
+          "word": "hipercalóricos",
+          "translation": "高热量的，高卡路里的",
+          "note": "由 hiper-（超过）+ calórico（热量的）构成，alimentos hipercalóricos 指脂肪和糖分含量高、能量密度大的食物，暴食症发作时偏好此类食物是普遍现象，与其快速提供感官满足和情绪安慰的特性有关。"
+        },
+        {
+          "word": "restrictivas",
+          "translation": "限制性的，严格控制的",
+          "note": "dietas restrictivas 指通过严格限制热量或食物种类来减重的饮食方案，暴食症患者在暴食后常采取极端限食作为补偿，但过度限制会加剧饥饿感和对食物的执念，形成『限食—暴食』的恶性循环。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "El entorno inmediato juega un papel clave tanto en la prevención como en el <strong>abordaje</strong> del Trastorno por Atracones. Es fundamental crear un ambiente de apoyo: fomentar una <strong>imagen corporal</strong> saludable, escuchar sin juzgar, evitar comentarios sobre la comida o el peso y animar a la persona a expresar sus sentimientos. Si la persona ha iniciado un tratamiento, es importante respetar las <strong>pautas</strong> de los profesionales de la salud y reforzar los pequeños logros.",
+      "zh": "直接的社会环境在暴食症的预防和干预中都发挥着关键作用。建立支持性环境至关重要：培养健康的身体形象，不加评判地倾听，避免对食物或体重发表评论，并鼓励当事人表达自己的感受。如果当事人已开始接受治疗，遵守医疗专业人员的指导方案并强化每一个小进步同样重要。",
+      "vocab": [
+        {
+          "word": "abordaje",
+          "translation": "干预，处理，应对",
+          "note": "医学和心理学语境中的专业术语，abordaje terapéutico 指对疾病或问题的系统性处理和干预方式，比 tratamiento（治疗）更广泛，涵盖从预防到康复的全过程，是本文从个人症状转向社会支持视角的关键词。"
+        },
+        {
+          "word": "imagen corporal",
+          "translation": "身体形象，体像",
+          "note": "心理学术语，指个体对自身身体外貌的主观感知和评价，imagen corporal negativa（负面身体形象）是多种饮食障碍的重要风险因素，培养健康的身体形象是预防饮食障碍的核心干预策略。"
+        },
+        {
+          "word": "pautas",
+          "translation": "指导方案，准则，规范",
+          "note": "医疗语境中的常用词，pautas de los profesionales 指医生或治疗师制定的具体治疗指导原则和行为规范，比 instrucciones（指令）更强调专业性和系统性，respetar las pautas 是治疗依从性的核心要求。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "En su desarrollo, influyen factores individuales, como la <strong>predisposición genética</strong>, el perfeccionismo, la rigidez o la baja autoestima, que pueden verse agravados por dinámicas familiares, como ambientes <strong>desestructurados</strong>, sobreprotectores o en los que se valora excesivamente la delgadez. A esto se suman factores sociales, como el ideal de belleza que se presenta en los medios de comunicación y las redes sociales, así como entornos deportivos y profesionales donde la <strong>imagen corporal</strong> tiene un peso determinante.",
+      "zh": "在其发展过程中，个体因素发挥着影响，例如遗传易感性、完美主义、僵化性或低自尊，这些因素可能因家庭动态而加剧，例如结构失调、过度保护或过度重视纤细体型的家庭环境。此外还叠加了社会因素，例如媒体和社交网络所呈现的审美理想，以及体型形象具有决定性影响的体育和职业环境。",
+      "vocab": [
+        {
+          "word": "predisposición genética",
+          "translation": "遗传易感性，基因倾向",
+          "note": "医学遗传学术语，指由基因决定的对某种疾病或特征的易感程度，predisposición 强调倾向性而非必然性，即遗传因素增加患病风险但不决定结果，是理解饮食障碍多因素病因的重要概念。"
+        },
+        {
+          "word": "desestructurados",
+          "translation": "结构失调的，功能失调的",
+          "note": "社会学和家庭心理学术语，ambientes desestructurados 指缺乏稳定规则、边界和情感安全感的家庭环境，与 sobreprotectores（过度保护的）并列，共同构成饮食障碍发展的家庭风险因素谱。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Detectar los <strong>signos de alerta</strong>, hablar con sinceridad y acudir a profesionales de la salud son pasos esenciales en el camino hacia la recuperación. La clave para superar este trastorno está en reconocerlo, brindar el apoyo adecuado y seguir un tratamiento que atienda tanto la dimensión física como la <strong>emocional</strong> de la persona afectada.",
+      "zh": "识别预警信号、坦诚沟通并寻求医疗专业人员的帮助，是走向康复之路的关键步骤。克服这一障碍的关键在于认识到它的存在，提供适当的支持，并遵循一个同时关注患者身体和情感层面的治疗方案。",
+      "vocab": [
+        {
+          "word": "signos de alerta",
+          "translation": "预警信号，警示征兆",
+          "note": "临床医学和公共卫生的常用表达，指提示某种疾病或问题可能存在的早期可观察迹象，detectar signos de alerta 是早期干预的前提，本文将其作为康复路径的第一步，强调早期识别的重要性。"
+        },
+        {
+          "word": "emocional",
+          "translation": "情感的，情绪的",
+          "note": "dimensión emocional 与 dimensión física 并列，体现了当代饮食障碍治疗的整合性理念——仅关注饮食行为本身（身体层面）而忽视情绪调节能力的培养（情感层面）的治疗是不完整的，这一并列结构是本文的核心结论。"
+        }
+      ]
+    }
+  ]
+}
