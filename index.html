@@ -26,7 +26,6 @@
       padding: 40px 20px;
     }
 
-    /* ── 顶部标题 ── */
     .site-header {
       text-align: center;
       margin-bottom: 40px;
@@ -45,7 +44,6 @@
       margin-top: 6px;
     }
 
-    /* ── 每日一组 ── */
     .day-group {
       max-width: 860px;
       margin: 0 auto 48px auto;
@@ -61,15 +59,11 @@
       letter-spacing: 1px;
     }
 
-    /* ── 卡片网格 ── */
     .card-grid {
       display: grid;
       grid-template-columns: 1fr 1fr;
       gap: 14px;
     }
-
-    /* 主文章卡片占满整行 */
-    .card.main { grid-column: 1 / -1; }
 
     .card {
       background: #fff;
@@ -80,7 +74,7 @@
       color: inherit;
       display: block;
       transition: box-shadow 0.2s, transform 0.2s;
-      position: relative;
+      grid-column: 1 / -1;
     }
 
     .card:hover {
@@ -92,14 +86,12 @@
       font-size: 10.5px;
       font-weight: 700;
       color: #fff;
+      background: var(--brand);
       padding: 2px 9px;
       border-radius: 3px;
       display: inline-block;
       margin-bottom: 10px;
     }
-
-    .card-type.main-tag   { background: var(--brand); }
-    .card-type.read-tag   { background: #7a9e7e; }
 
     .card-title-es {
       font-family: var(--font-es);
@@ -130,7 +122,6 @@
       border-radius: 3px;
     }
 
-    /* ── 空状态 ── */
     .empty {
       text-align: center;
       color: var(--muted);
@@ -149,55 +140,58 @@
 <div id="home-body"></div>
 
 <script>
-  // ── 在这里登记每一期的文章 ──────────────────────────────
-  // 每新增一期，在最前面加一个对象即可
-  // mains：当期3篇主文章的文件名数组，排序为 001-1 / 001-2 / 001-3
-  // readings：副文章模块保留，暂不填内容则传空数组 []
-  const ISSUES = [
-    {
-      label: "第003期",
-      mains: ["003-1", "003-2", "003-3"],
-      readings: ["003-r1", "003-r2", "003-r3", "003-r4"]
-    },
-    {
-      label: "第002期",
-      mains: ["002-1", "002-2", "002-3"],
-      readings: ["002-r1", "002-r2", "002-r3", "002-r4"]
-    },
-    {
-      label: "第001期",
-      mains: ["001-1", "001-2", "001-3"],
-      readings: ["001-r1", "001-r2", "001-r3", "001-r4"]
-    }
-  ];
-  // ────────────────────────────────────────────────────────
+  // 从文件名提取期号，例如 "003-1" → "003"
+  function getIssueNumber(filename) {
+    return filename.split('-')[0];
+  }
 
-  async function loadCard(type, file) {
-    const folder = type === 'main' ? 'articles' : 'reading-articles';
-    const res    = await fetch(`${folder}/${file}.json`);
-    return res.json();
+  // "003" → "第003期"
+  function formatLabel(issueNum) {
+    return `第${issueNum}期`;
   }
 
   async function buildHome() {
     const container = document.getElementById('home-body');
 
-    for (const issue of ISSUES) {
+    // 1. 读取 index.json 获取所有文件名
+    let files = [];
+    try {
+      const res = await fetch('index.json');
+      files = await res.json();
+    } catch(e) {
+      container.innerHTML = '<div class="empty">暂无内容</div>';
+      return;
+    }
+
+    // 2. 按期号分组，保持顺序
+    const groupMap = new Map();
+    for (const file of files) {
+      const issueNum = getIssueNumber(file);
+      if (!groupMap.has(issueNum)) {
+        groupMap.set(issueNum, []);
+      }
+      groupMap.get(issueNum).push(file);
+    }
+
+    // 3. 逐组渲染
+    for (const [issueNum, fileList] of groupMap) {
       const group = document.createElement('div');
       group.className = 'day-group';
-      group.innerHTML = `<div class="day-label">📘 ${issue.label}</div>`;
+      group.innerHTML = `<div class="day-label">📘 ${formatLabel(issueNum)}</div>`;
 
       const grid = document.createElement('div');
       grid.className = 'card-grid';
 
-      // 3篇主文章，每篇各占整行
-      for (const file of issue.mains) {
+      for (const file of fileList) {
         try {
-          const data = await loadCard('main', file);
-          const a    = document.createElement('a');
-          a.className = 'card main';
+          const res  = await fetch(`articles/${file}.json`);
+          const data = await res.json();
+
+          const a = document.createElement('a');
+          a.className = 'card';
           a.href      = `article.html?article=${file}`;
           a.innerHTML = `
-            <span class="card-type main-tag">📰 主文章</span>
+            <span class="card-type">📰 主文章</span>
             <div class="card-title-es">${data.title}</div>
             <div class="card-title-zh">${data.subtitle}</div>
             <div class="card-meta">
@@ -207,28 +201,9 @@
               <span class="meta-tag">${data.wordCount}</span>
             </div>`;
           grid.appendChild(a);
-        } catch(e) { console.warn('主文章加载失败', file); }
-      }
-
-      // 副文章模块保留，readings 为空数组时自动跳过
-      for (const file of issue.readings) {
-        try {
-          const data = await loadCard('reading', file);
-          const a    = document.createElement('a');
-          a.className = 'card';
-          a.href      = `reading.html?article=${file}`;
-          a.innerHTML = `
-            <span class="card-type read-tag">📖 阅读</span>
-            <div class="card-title-es">${data.title}</div>
-            <div class="card-title-zh">${data.subtitle}</div>
-            <div class="card-meta">
-              <span class="meta-tag">${data.source}</span>
-              <span class="meta-tag">${data.category}</span>
-              <span class="meta-tag">${data.difficulty}</span>
-              <span class="meta-tag">${data.wordCount}</span>
-            </div>`;
-          grid.appendChild(a);
-        } catch(e) { console.warn('阅读文章加载失败', file); }
+        } catch(e) {
+          console.warn('文章加载失败:', file);
+        }
       }
 
       group.appendChild(grid);
