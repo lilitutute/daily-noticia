@@ -15,19 +15,19 @@
       "zh": "饮食对生命至关重要，但人与食物的关系因人而异。对一些人来说，饮食代表着平衡与营养的空间；而对另一些人来说，食物却是面对压力或悲伤时的情感避难所。超越这些习惯之外，还存在对健康影响更为严重的饮食障碍，例如暴食症。",
       "vocab": [
         {
-          "word": "refugio emocional",
-          "translation": "情感避难所，情绪庇护所",
-          "note": "心理学语境中的隐喻性表达，指个体在面对负面情绪时借助某种行为或物质寻求安慰和逃避的心理机制，refugio emocional 将食物比作庇护场所，形象地描述了情绪性进食的心理动因。"
+          "word": "refugio",
+          "translation": "避难所，庇护所，避风港",
+          "note": "本义指躲避危险或恶劣天气的场所，在情感语境中高频使用：buscar refugio en algo（在某事物中寻求慰藉）、la música es su refugio（音乐是他的避风港）。注意与 abrigo（遮蔽、保暖）的区别：refugio 强调逃离威胁，abrigo 强调防寒保暖。"
         },
         {
-          "word": "trastornos alimentarios",
-          "translation": "饮食障碍，进食障碍",
-          "note": "精神医学和营养学的核心诊断类别，包括神经性厌食症（anorexia nerviosa）、神经性贪食症（bulimia nerviosa）和暴食症（Trastorno por Atracones）等，是本文的上位概念框架。"
+          "word": "más allá de",
+          "translation": "超越……之外，不止于此",
+          "note": "极高频的介词短语，用于将话题从已知范围推进到更广的层面。句型：más allá de + 名词/动词原形。例：más allá de las palabras（言语之外）、más allá de lo esperado（超出预期）。写作中用于承上启下，是B2必掌握的过渡表达。"
         },
         {
-          "word": "Trastorno por Atracones",
-          "translation": "暴食症，暴食障碍",
-          "note": "DSM-5（精神障碍诊断与统计手册第五版）中的独立诊断类别，西班牙语缩写为 TPA，特指反复发作的失控性大量进食，且不伴有补偿性行为（如催吐），与贪食症（bulimia）的关键区别在于此点。"
+          "word": "trastorno",
+          "translation": "障碍，紊乱，失调",
+          "note": "来自动词 trastornar（打乱、颠覆），名词化后指某种功能的紊乱状态。构词规律：tras-（穿越、颠倒）+ tornar（转变）。同族词：trastornar（使混乱）、trastornado（精神错乱的）。日常也可用于非医学语境：el trastorno del viaje（旅途的折腾）。"
         }
       ]
     },
@@ -37,19 +37,19 @@
       "zh": "据巴塞罗那临床医院数据，暴食症的终生患病率约为总人口的2%。该障碍的特征是反复发作的强迫性大量进食。在这些发作期间，当事人进食速度远快于平时，甚至在没有真实饥饿感的情况下进食。尽管感到令人不适的饱胀感，却难以停止。发作结束后，会出现内疚、羞耻或抑郁的情绪。",
       "vocab": [
         {
-          "word": "prevalencia",
-          "translation": "患病率，流行率",
-          "note": "流行病学核心术语，指在特定时间点或时间段内某一疾病在人群中存在的比例，与 incidencia（发病率，指新发病例的速率）不同，prevalencia 包含所有现存病例，是评估疾病负担的标准指标。"
-        },
-        {
-          "word": "ingesta compulsiva",
-          "translation": "强迫性进食，冲动性摄食",
-          "note": "临床诊断术语，compulsivo 指个体明知不妥却无法控制的重复性行为冲动，ingesta compulsiva 是暴食症的核心症状描述，强调行为的失控性和强迫性，区别于单纯的过量饮食。"
+          "word": "se caracteriza por",
+          "translation": "以……为特征，其特点是",
+          "note": "描述事物特征的万能句型，学术写作和新闻报道中极为常见。结构：sujeto + se caracteriza por + 名词/动词原形。例：España se caracteriza por su gastronomía variada（西班牙以多样的美食著称）。同义替换：se define por、se distingue por、tiene como rasgo principal。"
         },
         {
           "word": "llenura",
-          "translation": "饱胀感，撑胀感",
-          "note": "比 saciedad（饱足感）更强调令人不适的过度饱胀状态，sensación desagradable de llenura 是暴食症发作的典型躯体症状之一，当事人即便感到极度不适仍无法停止进食，体现了行为失控的程度。"
+          "translation": "饱胀感，吃撑的感觉",
+          "note": "由形容词 lleno（满的、饱的）派生而来的名词，构词方式：lleno → llenura，类似 blanco → blancura、dulce → dulzura。日常口语中非常实用：¡Qué llenura, no puedo más!（好撑啊，我吃不下了！）。注意与 saciedad 的语气差异：llenura 更口语、更强调身体的撑胀感。"
+        },
+        {
+          "word": "a pesar de",
+          "translation": "尽管，虽然",
+          "note": "表示让步关系的高频介词短语，后接名词或动词原形。与 aunque 的区别：a pesar de + 名词/原形，aunque + 陈述式/虚拟式。例：a pesar del cansancio, siguió trabajando（尽管疲惫，他继续工作）。书面语中也常用 pese a（与 a pesar de 完全同义，更简洁）。"
         }
       ]
     },
@@ -59,14 +59,19 @@
       "zh": "『健康饮食』意味着关注饥饿和饱足的信号，遵循均衡饮食，并且在适当进食后不感到内疚。『健康饮食』的人很少经历过度进食，也不会有羞耻感或悔恨感——这些正是暴食症的典型特征。尽管如此，即便是有健康饮食习惯的人，偶尔也可能借助食物来缓解压力，但这不会演变为长期问题。",
       "vocab": [
         {
-          "word": "saciedad",
-          "translation": "饱足感，饱腹感",
-          "note": "生理学术语，指进食后胃部充盈和血糖升高等信号传递至大脑产生的满足感，señales de saciedad 是正常进食调节机制的核心，暴食症患者的核心问题之一是无法识别或响应这些信号。"
+          "word": "remordimiento",
+          "translation": "悔恨，懊悔，良心谴责",
+          "note": "来自动词 remorder（反复咬、折磨），字面意思是『被反复咬噬』，生动描绘了悔恨在内心挥之不去的感觉。同族词：morder（咬）、mordisco（一口、咬痕）。近义词辨析：culpa（内疚，更即时）、remordimiento（悔恨，更持久、更深层）、arrepentimiento（后悔，侧重想要改变）。"
         },
         {
-          "word": "remordimiento",
-          "translation": "悔恨，自责，懊悔",
-          "note": "比 culpa（内疚）更强调事后持续的道德自我谴责，sentimientos de vergüenza o remordimiento 是暴食症发作后的典型心理症状，这种负面情绪往往又成为下一次暴食发作的触发因素，形成恶性循环。"
+          "word": "en ocasiones puntuales",
+          "translation": "在某些特定场合，偶尔",
+          "note": "puntual 在西班牙语中有两个常用义：①守时的（llegar puntual）；②特定的、具体的（en casos puntuales）。此处是第二义，en ocasiones puntuales 即『在具体的某些时候』，强调偶发性而非规律性。这是中文母语者容易误解的词义，值得特别记忆。"
+        },
+        {
+          "word": "sin que ello se convierta en",
+          "translation": "而不至于演变为，不会因此变成",
+          "note": "sin que + 虚拟式 是表示『在不……的情况下』的重要从句结构，后面必须用虚拟式。ello 在此作为前文整个情况的代词回指。整个结构用于说明某行为的边界或限度，是B2写作中表达条件限制的精准句型。"
         }
       ]
     },
@@ -77,18 +82,18 @@
       "vocab": [
         {
           "word": "atracón",
-          "translation": "暴食发作，一次暴食",
-          "note": "临床诊断中的核心术语，指在短时间内（通常不超过两小时）摄入远超常人的大量食物，并伴有失控感，是暴食症（Trastorno por Atracones）的命名来源，与日常的过量饮食在量和失控程度上均有本质区别。"
+          "translation": "一次暴食，大吃一顿",
+          "note": "来自动词 atracar（抢劫；靠岸；也指猛吃），darse un atracón 是日常口语中非常地道的表达，意为『大吃一顿、吃撑』，不一定带有病理含义：me di un atracón de pizza（我大吃了一顿披萨）。文章中用于专业语境时才特指病理性暴食发作。这种日常词汇被赋予专业含义的用法值得注意。"
         },
         {
-          "word": "vía de escape emocional",
-          "translation": "情绪逃避出口，情感宣泄渠道",
-          "note": "心理学概念，指个体用于回避或缓解负面情绪的行为策略，vía de escape 本义为逃生通道，此处比喻情绪调节的非适应性方式，将食物作为情绪逃避出口是情绪性进食向病理性发展的关键风险因素。"
+          "word": "no tiene por qué",
+          "translation": "不一定，没有理由，未必",
+          "note": "西班牙语中极为地道的表达，字面是『没有理由……』，实际表示『不一定、未必』。例：no tiene por qué ser así（不一定非得这样）、no tienes por qué disculparte（你不必道歉）。注意与 no tiene que（不需要做某事）的区别：no tiene por qué 强调逻辑上的非必然性。"
         },
         {
-          "word": "compulsivo",
-          "translation": "强迫性的，冲动性的",
-          "note": "精神病学术语，指个体明知某行为有害却无法控制、反复实施的心理状态，comportamiento compulsivo 是多种精神障碍的核心特征，此处标志着情绪性进食从自愿选择转变为失控行为的临界点。"
+          "word": "derivar en",
+          "translation": "演变为，发展成，导致",
+          "note": "derivar 本义为『偏离方向、流向』，derivar en 表示某事物逐渐演变或发展成另一种状态，强调过程的渐进性。例：una discusión que derivó en pelea（一场演变成打架的争论）。近义词：desembocar en（汇入、最终导致，更强调结果的不可避免性）、convertirse en（变成，更中性）。"
         }
       ]
     },
@@ -98,19 +103,19 @@
       "zh": "暴食症的特征是反复发作的失控感、强烈的不适和深度痛苦。当事人通常会藏匿或囤积食物，并处理掉大量高热量食物或其包装。他们往往在暴食与极度限制性饮食之间交替，而这些限制性饮食因难以为继而以失败告终，进一步加剧了日常饮食相关情境中的焦虑。",
       "vocab": [
         {
-          "word": "oculte",
-          "translation": "藏匿，隐藏",
-          "note": "ocultar 的虚拟式现在时，藏匿食物是暴食症的典型行为特征之一，反映了当事人对自身行为的羞耻感和对他人发现的恐惧，也是临床诊断的重要行为指标，区别于单纯的过量饮食。"
+          "word": "oculte (ocultar)",
+          "translation": "隐藏，藏匿，掩盖",
+          "note": "此处是虚拟式现在时，用在 es común que + 虚拟式 的从句结构中。ocultar 是及物动词，用法广泛：ocultar la verdad（隐瞒真相）、ocultar sentimientos（压抑情感）、ocultar información（隐藏信息）。近义词辨析：esconder（藏起来，强调物理上的藏匿）、ocultar（隐瞒，更强调信息或情感层面的掩盖）。"
         },
         {
-          "word": "hipercalóricos",
-          "translation": "高热量的，高卡路里的",
-          "note": "由 hiper-（超过）+ calórico（热量的）构成，alimentos hipercalóricos 指脂肪和糖分含量高、能量密度大的食物，暴食症发作时偏好此类食物是普遍现象，与其快速提供感官满足和情绪安慰的特性有关。"
+          "word": "deshacerse de",
+          "translation": "处理掉，丢弃，摆脱",
+          "note": "deshacerse de 是一个极实用的固定搭配，意为『摆脱、处置、丢掉』某物。例：deshacerse de ropa vieja（处理掉旧衣服）、deshacerse de un problema（摆脱一个问题）。注意 deshacer（拆开、撤销）和 deshacerse de（摆脱）的区别，前者不带 de。"
         },
         {
-          "word": "restrictivas",
-          "translation": "限制性的，严格控制的",
-          "note": "dietas restrictivas 指通过严格限制热量或食物种类来减重的饮食方案，暴食症患者在暴食后常采取极端限食作为补偿，但过度限制会加剧饥饿感和对食物的执念，形成『限食—暴食』的恶性循环。"
+          "word": "al ser insostenibles",
+          "translation": "由于难以为继，因为无法坚持",
+          "note": "al + 动词原形 表示『当……时、由于……』，是西班牙语中简洁表达时间或原因的重要结构。此处 al ser insostenibles 即『由于它们是不可持续的』。insostenible 由 in-（否定前缀）+ sostenible（可持续的）构成，也可用于论点：un argumento insostenible（站不住脚的论点）。"
         }
       ]
     },
@@ -120,19 +125,19 @@
       "zh": "直接的社会环境在暴食症的预防和干预中都发挥着关键作用。建立支持性环境至关重要：培养健康的身体形象，不加评判地倾听，避免对食物或体重发表评论，并鼓励当事人表达自己的感受。如果当事人已开始接受治疗，遵守医疗专业人员的指导方案并强化每一个小进步同样重要。",
       "vocab": [
         {
-          "word": "abordaje",
-          "translation": "干预，处理，应对",
-          "note": "医学和心理学语境中的专业术语，abordaje terapéutico 指对疾病或问题的系统性处理和干预方式，比 tratamiento（治疗）更广泛，涵盖从预防到康复的全过程，是本文从个人症状转向社会支持视角的关键词。"
-        },
-        {
-          "word": "imagen corporal",
-          "translation": "身体形象，体像",
-          "note": "心理学术语，指个体对自身身体外貌的主观感知和评价，imagen corporal negativa（负面身体形象）是多种饮食障碍的重要风险因素，培养健康的身体形象是预防饮食障碍的核心干预策略。"
+          "word": "tanto… como…",
+          "translation": "既……也……，……和……都",
+          "note": "表示并列关系的重要关联词，连接两个对等成分。例：tanto en casa como en el trabajo（无论在家还是在工作中）、tanto él como ella（他和她都）。注意与 o… o…（要么……要么……，二选一）的区别：tanto… como… 强调两者都包含，不排除任何一方。"
         },
         {
           "word": "pautas",
-          "translation": "指导方案，准则，规范",
-          "note": "医疗语境中的常用词，pautas de los profesionales 指医生或治疗师制定的具体治疗指导原则和行为规范，比 instrucciones（指令）更强调专业性和系统性，respetar las pautas 是治疗依从性的核心要求。"
+          "translation": "准则，规范，指导原则",
+          "note": "pauta 本义为『格线、标尺』（用于书写练习的横线纸），引申为行为的规范和准则。marcar las pautas（制定规则）、seguir las pautas（遵循准则）是常见搭配。与 normas（规定，更具强制性）、instrucciones（操作说明，更具体）相比，pautas 更强调引导性而非强制性。"
+        },
+        {
+          "word": "reforzar",
+          "translation": "强化，巩固，加强",
+          "note": "由 re-（再次）+ forzar（强迫、加力）构成，但 reforzar 不带强迫意味，而是『加固、增强』的意思。常见搭配：reforzar la confianza（增强信心）、reforzar conocimientos（巩固知识）、reforzar vínculos（加强纽带）。在教育和心理语境中尤为常用。"
         }
       ]
     },
@@ -142,14 +147,19 @@
       "zh": "在其发展过程中，个体因素发挥着影响，例如遗传易感性、完美主义、僵化性或低自尊，这些因素可能因家庭动态而加剧，例如结构失调、过度保护或过度重视纤细体型的家庭环境。此外还叠加了社会因素，例如媒体和社交网络所呈现的审美理想，以及体型形象具有决定性影响的体育和职业环境。",
       "vocab": [
         {
-          "word": "predisposición genética",
-          "translation": "遗传易感性，基因倾向",
-          "note": "医学遗传学术语，指由基因决定的对某种疾病或特征的易感程度，predisposición 强调倾向性而非必然性，即遗传因素增加患病风险但不决定结果，是理解饮食障碍多因素病因的重要概念。"
+          "word": "a esto se suman",
+          "translation": "除此之外还有，在此之上叠加了",
+          "note": "sumar 本义为『相加』，a esto se suman… 是新闻和学术写作中添加论据的地道表达，意为『在此基础上还要加上……』。类似用法：a ello se añade（还要加上）、hay que sumar（还需要考虑）。这种用数学隐喻来组织论点的方式在西语议论文中非常典型。"
         },
         {
-          "word": "desestructurados",
-          "translation": "结构失调的，功能失调的",
-          "note": "社会学和家庭心理学术语，ambientes desestructurados 指缺乏稳定规则、边界和情感安全感的家庭环境，与 sobreprotectores（过度保护的）并列，共同构成饮食障碍发展的家庭风险因素谱。"
+          "word": "desestructurado",
+          "translation": "结构失调的，缺乏秩序的",
+          "note": "由 des-（否定前缀）+ estructurado（有结构的）构成，des- 是西班牙语中极能产的否定前缀：desorganizado（无序的）、desequilibrado（失衡的）、desconectado（断开的）。掌握 des- 前缀的构词规律，可以大幅扩展词汇量。"
+        },
+        {
+          "word": "tener un peso determinante",
+          "translation": "具有决定性的分量，起关键作用",
+          "note": "peso 本义为『重量』，在抽象语境中表示『分量、影响力』，是西班牙语中极常见的隐喻用法：este factor tiene mucho peso（这个因素很重要）、dar peso a un argumento（为论点增加分量）。determinante（决定性的）来自 determinar，是B2写作中替换 importante 的精准词汇。"
         }
       ]
     },
@@ -159,14 +169,19 @@
       "zh": "识别预警信号、坦诚沟通并寻求医疗专业人员的帮助，是走向康复之路的关键步骤。克服这一障碍的关键在于认识到它的存在，提供适当的支持，并遵循一个同时关注患者身体和情感层面的治疗方案。",
       "vocab": [
         {
-          "word": "signos de alerta",
-          "translation": "预警信号，警示征兆",
-          "note": "临床医学和公共卫生的常用表达，指提示某种疾病或问题可能存在的早期可观察迹象，detectar signos de alerta 是早期干预的前提，本文将其作为康复路径的第一步，强调早期识别的重要性。"
+          "word": "en el camino hacia",
+          "translation": "在通往……的路上，走向……的过程中",
+          "note": "以路途作隐喻描述抽象过程的固定表达，在励志、健康、社会议题类文章中极为常见。例：en el camino hacia la igualdad（在走向平等的道路上）、en el camino hacia el éxito（在通往成功的路上）。camino 的隐喻用法是西语写作中构建叙事弧度的重要工具。"
         },
         {
-          "word": "emocional",
-          "translation": "情感的，情绪的",
-          "note": "dimensión emocional 与 dimensión física 并列，体现了当代饮食障碍治疗的整合性理念——仅关注饮食行为本身（身体层面）而忽视情绪调节能力的培养（情感层面）的治疗是不完整的，这一并列结构是本文的核心结论。"
+          "word": "brindar",
+          "translation": "提供，给予；举杯祝酒",
+          "note": "brindar 有两个截然不同的常用义，容易混淆：①举杯祝酒（¡Brindemos por el éxito!）；②提供、给予（brindar apoyo、brindar una oportunidad）。第二义在正式文体中比 dar 更典雅，常见于新闻和书面语：brindar información（提供信息）、brindar ayuda（给予帮助）。"
+        },
+        {
+          "word": "afectado/a",
+          "translation": "受影响的人，患者，当事人",
+          "note": "afectado 作名词使用时指『受某事影响的人』，是新闻报道中替代 paciente（患者）或 víctima（受害者）的中性表达，避免了过度标签化。例：los afectados por el terremoto（地震受灾者）、las personas afectadas（受影响的人群）。这种名词化用法在西语新闻文体中极为普遍。"
         }
       ]
     }

@@ -15,14 +15,19 @@
       "zh": "直到不久前，自伤行为在西班牙还是罕见的现象。我们的青少年当然也有烦恼，但故意用割伤或烫伤来伤害自己、以此应对情绪痛苦的情况并不多见。或者至少，没有人谈论这件事。",
       "vocab": [
         {
-          "word": "autolesivas",
-          "translation": "自伤的，自我伤害的",
-          "note": "由 auto-（自身）+ lesivo（有害的）构成的复合形容词，心理健康领域核心术语，conductas autolesivas 是本文的主题词组，指非自杀性的故意自我伤害行为。"
+          "word": "auto- 前缀",
+          "translation": "自身、自我",
+          "note": "auto- 是希腊语来源的前缀，表示『自身』，在西班牙语中极能产：autolesión（自伤）、autoestima（自尊）、autorretrato（自画像）、autosuficiente（自给自足的）、autopista（高速公路，字面是『自己的路』）。掌握这个前缀，遇到 auto- 开头的陌生词时可以大胆猜测含义。"
         },
         {
-          "word": "abundaba",
-          "translation": "大量存在，普遍",
-          "note": "此处为否定结构 no abundaba，表示『并不多见』，abundar 在新闻文体中常用于描述某现象的普遍程度，比 ser común 更具文学色彩。"
+          "word": "abundar",
+          "translation": "大量存在，到处都是",
+          "note": "abundar 是个很实用但容易被忽视的动词，意为『某事物大量存在』，主语通常是事物而非人。例：abundan los errores en este texto（这篇文章错误很多）、no abunda la paciencia（耐心并不多见）。此处否定形式 no abundaba 比 no era común 更有文学感，是C1写作中提升表达层次的好选择。"
+        },
+        {
+          "word": "lidiar con",
+          "translation": "应对，处理，与……周旋",
+          "note": "lidiar 本义是斗牛（lidia = 斗牛），引申为『费力地应对某一困难』，比 manejar 或 tratar 更强调过程的艰难和消耗。固定搭配：lidiar con un problema（应对难题）、lidiar con las emociones（与情绪周旋）。这是一个极具西班牙文化色彩的词，用在写作中非常地道。"
         }
       ]
     },
@@ -32,55 +37,65 @@
       "zh": "这一切已经改变。过去十年间，自伤行为出现在西班牙青少年的问题清单中。由马德里互助基金会与Fad青年组织于2025年发布的最新《青年、健康与福祉晴雨表》显示，每3名青少年中就有1人（34.7%）曾有过自伤行为，6.8%的人『频繁或持续地』进行自伤。",
       "vocab": [
         {
-          "word": "con frecuencia o continuamente",
-          "translation": "频繁地或持续地",
-          "note": "调查报告中的程度副词组合，用于区分偶发性行为与习惯性行为，是临床评估自伤严重程度的重要维度。"
+          "word": "1 de cada 3",
+          "translation": "每三人中有一人",
+          "note": "西班牙语表达比例的标准句型：X de cada Y，意为『每Y个中有X个』。这个结构在新闻报道中极为常见，务必掌握：2 de cada 5 estudiantes（每5名学生中有2名）、3 de cada 10 familias（每10个家庭中有3个）。注意不要翻译成 uno por tres，那是错误的。"
+        },
+        {
+          "word": "problemáticas",
+          "translation": "问题，困境（名词复数）",
+          "note": "problemática 作名词使用时意为『一系列相关问题、问题群』，比 problemas 更正式，常用于学术和新闻语境。例：la problemática juvenil（青少年问题）、abordar la problemática del desempleo（应对失业问题）。注意它是阴性名词：la problemática，不要误用阳性冠词。"
         }
       ]
     },
     {
       "id": 3,
-      "es": "Los porcentajes son también altos en el informe Evaluación y manejo clínico de las autolesiones en la adolescencia, un estudio de 2023, <strong>avalado</strong> por el Ministerio de Sanidad que indica que en Europa: \"La <strong>prevalencia</strong> estimada de autolesión en adolescentes es de 27.6%\". En España, estas cifras varían según los estudios, oscilando entre el 15% y el 25%. El informe también señala que las conductas autolesivas podrían ser más frecuentes en mujeres; sobretodo, en la primera adolescencia.",
-      "zh": "在2023年由卫生部背书的报告《青少年自伤行为的临床评估与管理》中，相关比例同样偏高，报告指出在欧洲：『青少年自伤行为的估计患病率为27.6%』。在西班牙，这一数字因研究不同而有所差异，介于15%至25%之间。报告还指出，自伤行为在女性中可能更为普遍，尤其是在青春期早期。",
+      "es": "Los porcentajes son también altos en el informe Evaluación y manejo clínico de las autolesiones en la adolescencia, un estudio de 2023, <strong>avalado</strong> por el Ministerio de Sanidad que indica que en Europa: \"La <strong>prevalencia</strong> estimada de autolesión en adolescentes es de 27.6%\". En España, estas cifras varían según los estudios, oscilando entre el 15% y el 25%.",
+      "zh": "在2023年由卫生部背书的报告《青少年自伤行为的临床评估与管理》中，相关比例同样偏高，报告指出在欧洲：『青少年自伤行为的估计患病率为27.6%』。在西班牙，这一数字因研究不同而有所差异，介于15%至25%之间。",
       "vocab": [
         {
-          "word": "avalado",
-          "translation": "背书的，担保的，认可的",
-          "note": "avalar 本义为金融领域的『担保』，引申为机构或权威对某研究或项目的官方认可，比 apoyado 更强调正式的信用背书，常见于学术和政策文件。"
+          "word": "oscilar entre… y…",
+          "translation": "在……和……之间波动，介于……至……",
+          "note": "oscilar 本义是『摆动、振荡』（如钟摆），引申为数值在某范围内浮动，是新闻和学术写作中表达数据区间的标准动词。例：las temperaturas oscilan entre 10 y 20 grados（气温在10至20度之间波动）、los precios oscilan según la demanda（价格随需求波动）。比 variar entre 更生动，带有动态感。"
         },
         {
-          "word": "prevalencia",
-          "translation": "患病率，流行率",
-          "note": "公共卫生核心术语，指特定时间内某人群中患有某病的比例，与 incidencia（发病率，指新增病例）不同，prevalencia 包含所有现存病例。"
+          "word": "avalado",
+          "translation": "获得背书的，经……认可的",
+          "note": "avalar 来自金融术语，本义是为贷款提供担保，引申为机构或权威对某项目的正式认可和信用背书。un estudio avalado por el Ministerio 意为该研究获得卫生部的官方认可，比 apoyado 或 respaldado 更强调正式的信用保证。同族词：aval（担保）、avalista（担保人）。"
         }
       ]
     },
     {
       "id": 4,
       "es": "Unicef define una autolesión como \"cualquier comportamiento que cause daño a uno mismo con la intención de hacer frente a emociones difíciles\". Lo más frecuente es que se produzcan \"en forma de cortes, quemaduras u otros comportamientos de alto riesgo\", que suelen empezar como una forma de <strong>aliviar</strong> sentimientos angustiosos. Aunque puede proporcionar un <strong>consuelo</strong> temporal, Unicef añade que tras autolesionarse es frecuente que aparezcan sentimientos de culpa y de vergüenza y que el ciclo vuelva a empezar.",
-      "zh": "联合国儿童基金会将自伤定义为『任何以应对困难情绪为目的、对自身造成伤害的行为』。最常见的形式是『割伤、烫伤或其他高风险行为』，通常始于一种缓解痛苦情绪的方式。尽管可以提供暂时的慰藉，联合国儿童基金会补充说，自伤之后往往会出现内疚和羞耻感，循环由此再度开始。",
+      "zh": "联合国儿童基金会将自伤定义为『任何以应对困难情绪为目的、对自身造成伤害的行为』。最常见的形式是『割伤、烫伤或其他高风险行为』，通常始于一种缓解痛苦情绪的方式。尽管可以提供暂时的慰藉，联合国儿童基金会补充说，自伤之后往往会出现内疚和羞耻感，循环由此再度开始.",
       "vocab": [
         {
-          "word": "aliviar",
-          "translation": "缓解，减轻（痛苦）",
-          "note": "心理健康语境中的高频词，aliviar el dolor emocional 是本文反复出现的核心表达，强调自伤行为作为一种功能失调的情绪调节机制的本质。"
+          "word": "hacer frente a",
+          "translation": "应对，面对，正视",
+          "note": "固定搭配，字面意思是『把脸转向……』，引申为主动面对和应对困难，语气比 lidiar con 更正式、更积极主动。例：hacer frente a las dificultades（直面困难）、hacer frente a una crisis（应对危机）。三个近义表达的语气对比：hacer frente a（正面迎击）> lidiar con（费力周旋）> enfrentarse a（面对，最中性）。"
         },
         {
           "word": "consuelo",
           "translation": "慰藉，安慰",
-          "note": "比 alivio 更强调情感层面的抚慰，proporcionar un consuelo temporal 是心理学文章中描述短期情绪缓解效果的常见表达。"
+          "note": "来自动词 consolar（安慰），名词 consuelo 指情感上的抚慰和宽解。常见搭配：buscar consuelo（寻求慰藉）、ser un consuelo（是一种安慰）、no hay consuelo（无法得到安慰）。惯用语：de poco consuelo（聊胜于无的安慰）。注意与 alivio（缓解，更侧重减轻痛苦）的区别：consuelo 更强调情感层面的温暖和陪伴。"
         }
       ]
     },
     {
       "id": 5,
-      "es": "\"Yo no me di cuenta que mi hija se autolesionaba, me lo contó ella. A menudo, cuando entraba en el lavabo la encontraba sentada en el suelo, <strong>rascándose</strong> lo que parecían unos granitos o picadas. Pasaba mucho rato haciéndolo, pero no lo relacioné con que se hacía daño\", explica S., barcelonesa y madre de dos preadolescentes. Fue su hija, que aún no había cumplido los diez años, la que le explicó lo que pasaba: \"Me enseñó unos pequeños cortes en las piernas y me dijo que se los había hecho con un cuchillo. Cuando le pregunté por qué, me contestó que estaba muy estresada por la situación familiar\".",
-      "zh": "『我没有发现女儿在自伤，是她自己告诉我的。我经常在浴室里发现她坐在地上，抓挠着看起来像痘痘或虫咬的地方。她会这样做很长时间，但我没有把这与她在伤害自己联系起来。』巴塞罗那人S.、两个青春期前孩子的母亲如此解释道。是她那个还不满十岁的女儿向她说明了发生的事情：『她给我看了腿上的几处小伤口，告诉我是用刀划的。当我问她为什么时，她回答说家里的情况让她压力很大。』",
+      "es": "\"Yo no me di cuenta que mi hija se autolesionaba, me lo contó ella. A menudo, cuando entraba en el lavabo la encontraba sentada en el suelo, <strong>rascándose</strong> lo que parecían unos granitos o picadas. Pasaba mucho rato haciéndolo, pero no lo relacioné con que se hacía daño\", explica S., barcelonesa y madre de dos preadolescentes.",
+      "zh": "『我没有发现女儿在自伤，是她自己告诉我的。我经常在浴室里发现她坐在地上，抓挠着看起来像痘痘或虫咬的地方。她会这样做很长时间，但我没有把这与她在伤害自己联系起来。』巴塞罗那人S.、两个青春期前孩子的母亲如此解释道。",
       "vocab": [
         {
-          "word": "rascándose",
-          "translation": "抓挠自己，搔抓",
-          "note": "rascar(se) 指用指甲反复抓挠皮肤，在本文语境中是自伤行为的早期外在表现，动词本身中性，但结合上下文具有重要的临床观察意义。"
+          "word": "darse cuenta de",
+          "translation": "意识到，发觉，注意到",
+          "note": "西班牙语中最重要的固定搭配之一，表示主动或被动地意识到某事，后接 que + 陈述句或 de + 名词。注意与 realizar 的区别：realizar 在西班牙语中意为『实现、完成』，不能用来表示『意识到』（这是英语 realize 的干扰）。例：me di cuenta de mi error（我意识到了我的错误）、¿te das cuenta de lo que dices?（你知道你在说什么吗？）"
+        },
+        {
+          "word": "rascarse",
+          "translation": "抓挠自己，搔痒",
+          "note": "rascar 是及物动词（抓挠某物），rascarse 是反身形式（抓挠自己）。西班牙语中大量动词通过加反身代词 se 来表示动作作用于自身：peinar（梳头）→ peinarse（梳自己的头）、mirar（看）→ mirarse（照镜子）。这种反身构词法是西语语法的核心机制，值得系统掌握。"
         }
       ]
     },
@@ -90,26 +105,31 @@
       "zh": "那次坦白之后，她记得自己『非常害怕』，并向学校求助。她开始密切关注女儿。『我把浴室里所有尖锐物品都收走，一直观察她，注意有没有新的伤口。我尽力让家里的气氛更轻松。』平静了一段时间后，一次城市搬迁让女儿再度开始自伤：『这次更严重，用的是美工刀，伤在手臂上。』这位母亲描述道。",
       "vocab": [
         {
-          "word": "punzantes",
-          "translation": "尖锐的，刺穿性的",
-          "note": "由 punzar（刺、扎）派生，objetos punzantes 是法律和医疗语境中的固定词组，指所有可造成穿刺伤的物品，比 afilados（锋利的）范围更广，包含针、钉等非刃类尖物。"
+          "word": "punzante",
+          "translation": "尖锐的，刺穿性的；刺痛的",
+          "note": "来自动词 punzar（刺、扎），与 punta（尖端）同族。punzante 有两个常用义：①形容物体尖锐（objetos punzantes）；②形容感觉或言语刺痛（un dolor punzante 刺痛感、una crítica punzante 尖刻的批评）。掌握这种一词多义的延伸用法，是C1词汇能力的重要体现。"
+        },
+        {
+          "word": "hacer que + 虚拟式",
+          "translation": "使……，导致……",
+          "note": "hacer que 是表示使役关系的核心句型，后面必须跟虚拟式。例：el cambio de ciudad hizo que volviera a cortarse（城市搬迁使她再度自伤）、el ruido me hace que no pueda dormir（噪音让我睡不着）。注意与 hacer + 动词原形的区别：后者主语和宾语是同一人（me hizo llorar = 让我哭了），hacer que 则引导从句，主语可以不同。"
         }
       ]
     },
     {
       "id": 7,
-      "es": "Aunque las cosas se han calmado, S. asegura sentirse \"<strong>desbordada</strong> y culpable\" ante el malestar de su hija, a la que describe como: \"Muy sensible, con tendencia a comportamientos depresivos, por lo que temo que pueda volver a hacerlo\". S. también ha pensado que lo hacía para <strong>culpabilizarla</strong>: \"Enseñándome los cortes y diciéndome: 'Mira lo que hago por tu culpa…'\". Sin embargo, la hija no recuerda por qué empezó a cortarse: \"Creo que fue algo espontáneo, que hacía cuando me sentía mal\", dice.",
-      "zh": "尽管情况已经平稳，S.坦言面对女儿的痛苦，自己感到『不知所措，充满愧疚』。她形容女儿『非常敏感，有抑郁倾向，所以我担心她可能再次自伤』。S.也曾认为女儿是在用自伤来让她产生罪恶感：『她给我看伤口，说：看看我为你做了什么……』然而，女儿自己并不记得为何开始割伤自己：『我觉得是自发的，是我感觉很糟糕时会做的事。』她说。",
+      "es": "Aunque las cosas se han calmado, S. asegura sentirse \"<strong>desbordada</strong> y culpable\" ante el malestar de su hija, a la que describe como: \"Muy sensible, con tendencia a comportamientos depresivos, por lo que temo que pueda volver a hacerlo\". S. también ha pensado que lo hacía para <strong>culpabilizarla</strong>: \"Enseñándome los cortes y diciéndome: 'Mira lo que hago por tu culpa…'\". Sin embargo, la hija no recuerda por qué empezó a cortarse.",
+      "zh": "尽管情况已经平稳，S.坦言面对女儿的痛苦，自己感到『不知所措，充满愧疚』。她形容女儿『非常敏感，有抑郁倾向，所以我担心她可能再次自伤』。S.也曾认为女儿是在用自伤来让她产生罪恶感：『她给我看伤口，说：看看我为你做了什么……』然而，女儿自己并不记得为何开始割伤自己。",
       "vocab": [
         {
-          "word": "desbordada",
-          "translation": "不知所措的，被压垮的",
-          "note": "由 desbordar（溢出、超出承受范围）派生，sentirse desbordado/a 是描述照护者或家长面对危机时情绪崩溃状态的常见表达，比 agobiada 更强调超出承受极限的感觉。"
+          "word": "desbordado/a",
+          "translation": "不知所措的，被压垮的，超出承受极限的",
+          "note": "来自 desbordar（溢出、漫过边界），字面是『水漫出了容器』，比喻情绪或压力超过了个人的承受能力。sentirse desbordado 是西班牙语中描述精疲力竭、应接不暇状态的极地道表达。近义词对比：agobiado（被压垮，更强调重压感）、abrumado（不知所措，更强调信息或任务过载）、desbordado（溢出，更强调超出极限的动态过程）。"
         },
         {
-          "word": "culpabilizarla",
-          "translation": "让她产生罪恶感，归咎于她",
-          "note": "由 culpa（罪责）派生的使动动词，culpabilizar a alguien 指通过言行让对方感到有罪，心理学中常用于描述家庭互动中的情绪操控模式，与 responsabilizar 有别，后者更中性。"
+          "word": "culpabilizar",
+          "translation": "使……产生罪恶感，归咎于",
+          "note": "由名词 culpa（罪责、过错）派生的使动动词，构词规律：culpa → culpable（有罪的）→ culpabilizar（使感到有罪）。注意与 culpar 的细微差别：culpar a alguien 是『指责某人』，culpabilizar a alguien 更强调在心理上让对方产生持续的罪恶感，带有情绪操控的含义。这种通过 -izar 后缀将名词/形容词变为使动动词的构词法非常常见：normal → normalizar、real → realizar。"
         }
       ]
     },
@@ -119,9 +139,14 @@
       "zh": "对于加泰罗尼亚官方心理学会委员、临床心理学家拉克尔·杜克来说，这样的描述再熟悉不过。『我接诊很多青少年，见到大量自伤案例。这些男孩女孩觉得身体上的疼痛比情绪上的更能承受。自伤时，注意力转移到身体上，某种程度上他们感到了释然。』她解释道。",
       "vocab": [
         {
+          "word": "resultarle + adjetivo",
+          "translation": "对某人来说感觉……，某人觉得……",
+          "note": "resultar + 形容词 是西班牙语中表达主观感受的重要句型，比 parecer 更强调经过接触或了解后得出的判断。结构：a + 人 + le resulta + 形容词 + 名词。例：me resulta difícil（我觉得很难）、le resulta familiar（对他来说很熟悉）、nos resulta interesante（我们觉得很有趣）。这个句型在口语和书面语中都极为常用，是B2→C1的重要语法点。"
+        },
+        {
           "word": "soportable",
-          "translation": "可承受的，能忍受的",
-          "note": "由 soportar（忍受）派生，此处与 emocional 对举，构成本文核心心理机制的简洁表达：身体痛苦比情绪痛苦更 soportable，揭示了自伤行为的内在逻辑。"
+          "translation": "可以忍受的，能承受的",
+          "note": "由 soportar（忍受）+ -able（可……的后缀）构成。-able / -ible 是西班牙语中极能产的后缀，表示『可以被……』：aceptable（可接受的）、comprensible（可理解的）、insoportable（无法忍受的）。注意：soportar 在西班牙语中主要意为『忍受』，而非『支持'（那是 apoyar）——这是常见的英语干扰词（false friend）。"
         }
       ]
     },
@@ -131,9 +156,14 @@
       "zh": "作为青少年专科医生，杜克发现这类行为有所增加：『我在创伤专科单位工作，我可以说我接诊的青少年中有60%至70%正在或曾经有过自伤行为。尽管这一背景存在偏差，但在普通医疗心理学中也能看到：如果说几年前这种情况非常偶发，现在不幸的是已经相当普遍。感觉像是『流行起来了』。』",
       "vocab": [
         {
+          "word": "te diría que",
+          "translation": "我可以告诉你，说实话……",
+          "note": "条件式（condicional）在西班牙语口语中的一个重要用法：用于软化表达、表示礼貌或不确定性，而非真正的假设条件。te diría que 相当于『我倾向于认为……』，比 te digo que 更委婉。类似用法：yo diría que（我会说……）、habría que（应该……）。这是C1口语和写作中体现语气细腻度的重要工具。"
+        },
+        {
           "word": "sesgado",
-          "translation": "有偏差的，有偏向性的",
-          "note": "统计学和研究方法论核心词，sesgo 指样本或数据因选取方式导致的系统性偏差，此处作者自我说明其临床样本并不代表普通人群，体现了严谨的学术态度。"
+          "translation": "有偏差的，带有偏向性的",
+          "note": "sesgo 本义是裁缝用语中的『斜裁』（al sesgo = 斜着），引申为观点或数据的偏斜和偏差。在研究和新闻语境中，sesgo 指因样本选取、信息来源等原因导致的系统性偏差。常见搭配：sesgo de confirmación（确认偏误）、muestra sesgada（有偏样本）、evitar sesgos（避免偏差）。这是C1学术写作的必备词汇。"
         }
       ]
     },
@@ -143,14 +173,14 @@
       "zh": "在这里，杜克警告了社交媒体的作用。『不幸的是，有大量内容在将自伤行为正常化，甚至美化。不久前我接诊了一个有自伤行为的男孩，当我问他是什么促使他这样做时，他说他看了一个TikTok视频，视频声称这是一种『控制你的思维』的方式。』她谴责道，在网络上：『自伤被呈现为正常的事情，甚至作为一种身份标志。因此，对这种行为的抵触会更少。』",
       "vocab": [
         {
-          "word": "normaliza",
+          "word": "normalizar",
           "translation": "使正常化，将……视为常态",
-          "note": "社会学和媒体批评中的高频词，normalizar 指通过反复曝光使某种原本异常的行为或现象被大众接受为正常，在青少年心理健康语境中具有强烈的警示意味。"
+          "note": "-izar 后缀再次出现：normal → normalizar，表示『使……变得正常』。这个后缀在社会批评语境中极为活跃：criminalizar（将……入罪化）、estigmatizar（污名化）、romantizar（浪漫化）、trivializar（将……轻描淡写）。掌握 -izar 构词规律，可以举一反三地理解大量社会议题词汇。"
         },
         {
           "word": "seña de identidad",
           "translation": "身份标志，身份象征",
-          "note": "固定搭配，指某一群体用以区别自身、表达归属感的特征或符号，此处暗示自伤行为在某些网络亚文化中被用作群体认同的标志，语气带有批判色彩。"
+          "note": "seña 本义是『记号、信号』（hacer señas = 打手势），seña de identidad 是固定搭配，指某一群体或个人用以标识自身的特征符号。例：el flamenco es una seña de identidad española（弗拉明戈是西班牙的身份标志）。注意与 señal（信号、迹象）的区别：seña 更强调人为的标记和象征，señal 更强调自然或功能性的信号。"
         }
       ]
     },
@@ -160,14 +190,14 @@
       "zh": "自伤行为在青少年中最为常见，平均起始年龄约为13岁。『这是一个情绪感受更为强烈的阶段，而且大脑正在发育变化，因此情绪自我调节策略尚未完全建立：我们还没有成熟。』这位专家解释道。这是一个极为脆弱的阶段，其他因素——创伤性事件（死亡、离婚、遭受虐待或校园欺凌）、压力与对失败的恐惧，甚至过度保护——都可能成为触发因素。",
       "vocab": [
         {
-          "word": "autorregulación",
-          "translation": "自我调节，情绪调控",
-          "note": "心理学核心术语，指个体管理自身情绪、冲动和行为的能力，estrategias de autorregulación 是青少年心理健康干预的核心目标，本文将其缺失视为自伤行为的重要成因。"
+          "word": "sobre- 前缀",
+          "translation": "过度、超出",
+          "note": "sobre- 表示『超过正常程度』，是西班牙语构词的重要前缀：sobreprotección（过度保护）、sobrecarga（超负荷）、sobreestimar（高估）、sobrevivir（幸存，字面是『活过某事』）、sobredosis（过量用药）。与 super- 的区别：sobre- 更常用于负面的『过度』，super- 更常用于正面的『超级』。"
         },
         {
-          "word": "sobreprotección",
-          "translation": "过度保护",
-          "note": "由 sobre-（过度）+ protección 构成，心理学和教育学中指父母或照护者对子女的过度干预，使其无法发展独立应对困难的能力，是本文提及的自伤行为触发因素之一，与直觉相悖，值得注意。"
+          "word": "desencadenante",
+          "translation": "触发性的；触发因素（名词）",
+          "note": "来自 desencadenar（触发、引发），字面意思是『解开锁链』，引申为引发一系列反应的起点。efecto desencadenante 即触发效应，desencadenante 也常单独作名词使用：el estrés fue el desencadenante（压力是触发因素）。同族词：cadena（链条）、encadenar（束缚）、desencadenar（解锁、触发）——理解词根 cadena 有助于记忆整个词族。"
         }
       ]
     },
@@ -177,9 +207,14 @@
       "zh": "经济状况是另一个重要变量：正如《青年、健康与福祉晴雨表》所揭示的，情绪痛苦与不平等深度交织。在生活严重匮乏的青少年中，每四人中就有一人承认曾频繁自伤。",
       "vocab": [
         {
-          "word": "atravesado",
-          "translation": "被……贯穿，深受……影响",
-          "note": "此处 estar atravesado por 是社会学批评文体中的固定表达，字面意为『被穿透』，引申为某现象被某一结构性因素深刻塑造和渗透，比 influenciado por 更强调根本性的决定作用。"
+          "word": "estar atravesado por",
+          "translation": "被……深刻渗透，受……根本性影响",
+          "note": "atravesar 本义是『穿越、横穿』，estar atravesado por 在社会学和批评理论文体中是一个固定的隐喻表达，意为某现象被某一结构性因素从根本上贯穿和塑造。例：el arte está atravesado por la política（艺术被政治深刻渗透）。这种将空间动词用于抽象概念的隐喻用法，是C1阅读理解的难点，也是高级写作的亮点。"
+        },
+        {
+          "word": "carencias",
+          "translation": "匮乏，缺乏，不足",
+          "note": "来自 carecer de（缺乏），名词 carencia 指某种必要事物的缺失，比 falta 更正式，常用于描述系统性的资源不足。例：carencias económicas（经济匮乏）、carencias afectivas（情感缺失）、carencias nutricionales（营养不足）。注意：carecer de 是不及物动词，不能直接加宾语，必须加 de：carece de recursos（缺乏资源），不能说 carece recursos。"
         }
       ]
     },
@@ -189,14 +224,14 @@
       "zh": "由于自伤行为具有隐蔽性，通常难以识别。但存在预警信号：身体方面（手臂、腿部和腹部的疤痕或烫伤）、行为方面（总是穿长袖或戴手环遮盖伤口、长时间待在浴室）以及情绪方面。后者包括情绪的剧烈波动、绝望感，甚至表达出自杀的念头。",
       "vocab": [
         {
-          "word": "señales de alarma",
-          "translation": "预警信号，警示迹象",
-          "note": "医疗和心理健康领域的固定搭配，指提示某一严重问题存在的可观察迹象，比 síntomas 更强调需要立即引起关注的外在表现，是本文实用信息的核心词组。"
+          "word": "al ser + adjetivo/nombre",
+          "translation": "由于……，因为……",
+          "note": "al + 动词原形 是西班牙语中简洁表达时间或原因的重要结构，相当于 cuando 或 porque 引导的从句，但更简洁优雅。al ser conductas clandestinas = porque son conductas clandestinas（因为是隐蔽性行为）。其他例子：al llegar a casa（到家时）、al no tener dinero（因为没有钱）。这是B2→C1写作中提升句式多样性的关键工具。"
         },
         {
           "word": "desesperanza",
           "translation": "绝望，丧失希望",
-          "note": "临床心理学重要术语，由 des-（否定）+ esperanza（希望）构成，是抑郁症和自杀风险评估的核心指标之一，比 desesperación（绝望、慌乱）更强调对未来彻底失去希望的静态状态。"
+          "note": "构词分析：des-（否定）+ esperanza（希望）= 失去希望。注意与 desesperación 的区别，这是西语学习者的常见混淆点：desesperanza 是静态的、对未来彻底失去希望的状态（hopelessness）；desesperación 是动态的、因焦虑或无助产生的激烈情绪爆发（desperation）。例：la desesperanza del enfermo crónico（慢性病患者对未来的绝望）vs. actuó con desesperación（他在绝望中采取了行动）。"
         }
       ]
     },
@@ -206,14 +241,14 @@
       "zh": "尽管联合国儿童基金会及其他来源强调自伤是非自杀性行为，但若反复发生，则被视为风险因素。因此必须高度重视：『因为即使没有明显的自杀意图，也是需要立即关注的信号。如果发现有自杀念头，则需启动相应的应急程序。』拉克尔·杜克敦促道。",
       "vocab": [
         {
-          "word": "hincapié",
+          "word": "hacer hincapié en",
           "translation": "强调，着重指出",
-          "note": "固定搭配 hacer hincapié en，是新闻和学术文体中表示『特别强调某一观点』的标准表达，比 destacar 或 subrayar 更口语化，常见于引用专家意见的段落。"
+          "note": "hincapié 来自 hincar el pie（用力踩脚），hacer hincapié en 字面是『用力踩在某处』，引申为特别强调某一观点。这是新闻和学术写作中替换 destacar、subrayar、recalcar 的地道选择，语气比 mencionar 重，比 insistir en 更书面。固定搭配，不可拆分，务必整体记忆。"
         },
         {
-          "word": "autolítica",
-          "translation": "自杀性的，自我毁灭的",
-          "note": "临床精神病学专业术语，源自希腊语 auto-（自身）+ lysis（分解、毁灭），intención autolítica 特指以结束生命为目的的意图，是区分自伤行为与自杀行为的关键术语。"
+          "word": "instar",
+          "translation": "敦促，催促，强烈要求",
+          "note": "新闻报道中引用专家或官员言论时的常用动词，比 pedir 更正式，比 exigir 语气稍软。instar a alguien a hacer algo（敦促某人做某事）是固定搭配。同类引语动词的语气梯度：sugerir（建议）< recomendar（推荐）< instar（敦促）< exigir（要求）< ordenar（命令）。掌握这些动词的语气差异，对阅读理解和写作都至关重要。"
         }
       ]
     },
@@ -223,14 +258,14 @@
       "zh": "『这是一种极为功能失调的缓解情绪痛苦的策略。』心理学家总结道。那么在家庭和治疗层面应如何应对？『首先，要给青少年一个倾诉痛苦的空间，因为很多时候人们只看到破坏性行为，却忘记了去问：你怎么了？……在诊室里，我有些患者几乎从没有人问过他们这个问题。把脑子里那团混乱的思绪说出来，稍微理清一下，本身就已经是一种治疗了。』",
       "vocab": [
         {
-          "word": "disfuncional",
-          "translation": "功能失调的，适应不良的",
-          "note": "心理学和家庭治疗领域核心词，指某种行为或模式虽有其目的，但实际上有害且无法有效解决问题，estrategia disfuncional 是临床描述自伤行为性质的标准表达。"
+          "word": "se trata de",
+          "translation": "这是，这涉及的是",
+          "note": "西班牙语中最重要的固定表达之一，用于定义或说明某事物的本质，相当于 es（是）但更正式、更强调对事物性质的界定。注意：se trata de 后接名词，不接形容词；不能说 se trata de importante，要说 es importante。例：se trata de un problema grave（这是一个严重的问题）、¿de qué se trata?（这是关于什么的？）。"
         },
         {
           "word": "caos",
-          "translation": "混乱，无序状态",
-          "note": "假朋友提示：与英语 chaos 同源，含义完全一致，但西语学习者有时会误用 confusión 替代，两者语气有别——caos 强调彻底的无序，confusión 更侧重认知层面的困惑。"
+          "translation": "混乱，无序",
+          "note": "与英语 chaos 完全同源同义，发音注意：重音在第一音节 CA-os，不要读成 ca-OS。西语学习者的常见错误是用 confusión 替代所有『混乱』的含义，但两者有别：caos 强调彻底的无序状态（系统层面），confusión 更侧重认知或情感上的困惑（个人层面）。例：el caos del tráfico（交通混乱）vs. tengo confusión sobre las reglas（我对规则感到困惑）。"
         }
       ]
     },
@@ -240,14 +275,14 @@
       "zh": "下一步，杜克解释道，是针对导致自伤的痛苦进行管理的治疗。『提供基本的心理教育很重要，给他们一些工具，比如呼吸法，并教给他们『情绪浪潮』这样的概念：让他们意识到那个带来巨大痛苦、推动他们自伤的情绪高峰会消退。关键是停下来、深呼吸，并给自己的感受找到名字。要让他们知道，这一切都会过去！』同样重要的是，在危机时刻有人可以求助：一张安全网，让他们感受到自己并不孤单，伤害自己不是任何问题的解决方案。",
       "vocab": [
         {
-          "word": "psicoeducación",
-          "translation": "心理教育",
-          "note": "临床心理学术语，指向患者及其家属系统性传授关于心理问题的知识，帮助其理解症状、治疗方案和应对策略，是认知行为疗法的重要组成部分。"
+          "word": "tomar conciencia de",
+          "translation": "意识到，认识到，觉察到",
+          "note": "比 darse cuenta de 更强调一个逐渐深入的认知过程，而非瞬间的发现。tomar conciencia de 常用于描述对某一重要问题的觉醒和认识，带有一定的主动性和持续性。例：tomar conciencia del cambio climático（认识到气候变化的严重性）、tomar conciencia de sus propias emociones（觉察自己的情绪）。这是社会议题和心理健康文章中的高频表达。"
         },
         {
-          "word": "red de seguridad",
-          "translation": "安全网，支持网络",
-          "note": "心理危机干预中的核心概念，字面意为『安全网』，指由家人、朋友、专业人员构成的社会支持系统，在自杀和自伤风险评估中是重要的保护性因素。"
+          "word": "es cuestión de",
+          "translation": "关键在于，只需要，不过是",
+          "note": "固定句型，用于说明解决某问题的关键所在，语气简洁有力。例：es cuestión de tiempo（只是时间问题）、es cuestión de práctica（关键在于练习）、es cuestión de actitud（态度决定一切）。这个句型在口语和写作中都极为实用，是表达核心论点的简洁利器。"
         }
       ]
     }
