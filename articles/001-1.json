@@ -1,13 +1,10 @@
-明白了！你说得对，我之前修改了词汇讲解的词条，但没有同步更新正文中 `<strong>` 标签标注的词汇，导致两者对不上。现在我来全文核对并修正，确保正文加粗词和词汇讲解完全一一对应。
-
-```json
 {
   "date": "西语外刊阅读",
   "brand": "公众号【西语SuperO】",
   "category": "社会与健康",
   "difficulty": "C1",
   "wordCount": "约850词",
-  "title": "Sociedad enferma de delgadez o por qué la obesidad no es \"una pandemia\"",
+  "title": "Sociedad enferma de delgadez o por qué la obesidad no es 'una pandemia'",
   "subtitle": "沉迷于『瘦』的病态社会——为何肥胖并非『一场大流行病』",
   "resumenEs": "El artículo cuestiona el discurso médico y comercial que patologiza la obesidad y promueve fármacos como Ozempic, argumentando que dicho enfoque refuerza la gordofobia, ignora el estigma de peso y convierte la delgadez en un privilegio económico y social.",
   "resumenZh": "本文批判了将肥胖病理化、推广Ozempic等药物的医疗与商业话语，指出这一做法强化了对肥胖者的偏见，忽视了体重污名化的危害，并将纤瘦身材变成一种经济与社会特权。",
@@ -20,7 +17,7 @@
         {
           "word": "análogos",
           "translation": "类似物，同类药物",
-          "note": "科学语境中指结构或功能相似的化合物，常见搭配为 análogo a（与……类似）。medicamentos análogos a la GLP-1 即『GLP-1类似药物』，是内分泌学和药理学的标准表达。"
+          "note": "科学语境中指结构或功能相似的化合物，常见搭配为 análogo a（与……类似）。medicamentos análogos a la GLP-1 即GLP-1类似药物，是内分泌学和药理学的标准表达。"
         },
         {
           "word": "modulación",
@@ -47,7 +44,7 @@
         {
           "word": "juega al despiste",
           "translation": "故意混淆视听，转移注意力",
-          "note": "固定口语短语，jugar al despiste 字面意为『玩迷糊游戏』，新闻中用于批评某机构或人物刻意回避核心问题、模糊焦点。带有强烈的批判色彩，是作者攻击WHO定义前后矛盾的修辞武器。"
+          "note": "固定口语短语，jugar al despiste 字面意为玩迷糊游戏，新闻中用于批评某机构或人物刻意回避核心问题、模糊焦点。带有强烈的批判色彩，是作者攻击WHO定义前后矛盾的修辞武器。"
         },
         {
           "word": "enfermedades no transmisibles",
@@ -69,7 +66,7 @@
         {
           "word": "patologizante",
           "translation": "将……病理化的",
-          "note": "由 patologizar（病理化）派生的形容词，批判性话语中常见，指将正常的身体状态或行为错误地定性为疾病。visión patologizante del cuerpo gordo 即『将胖体视为病态的观念』，是本文核心批判对象。"
+          "note": "由 patologizar（病理化）派生的形容词，批判性话语中常见，指将正常的身体状态或行为错误地定性为疾病。visión patologizante del cuerpo gordo 即将胖体视为病态的观念，是本文核心批判对象。"
         }
       ]
     },
@@ -81,7 +78,7 @@
         {
           "word": "licencias lingüísticas",
           "translation": "语言上的随意借用，措辞失当",
-          "note": "licencia 在此指『超越规范的自由』，licencias lingüísticas 常用于批评媒体或机构滥用某些具有强烈情感色彩的词汇，此处讽刺将肥胖称为『大流行病』是对 pandemia 一词的不当挪用。"
+          "note": "licencia 在此指超越规范的自由，licencias lingüísticas 常用于批评媒体或机构滥用某些具有强烈情感色彩的词汇，此处讽刺将肥胖称为大流行病是对 pandemia 一词的不当挪用。"
         },
         {
           "word": "atemorizar",
@@ -91,7 +88,7 @@
         {
           "word": "abordaje",
           "translation": "处理方式，应对方法",
-          "note": "医学和政策语境中的高频词，指对某一问题的整体处理思路，相当于 enfoque 或 tratamiento，但更强调系统性。abordaje del sobrepeso y la obesidad 即『对超重和肥胖问题的处理方式』。"
+          "note": "医学和政策语境中的高频词，指对某一问题的整体处理思路，相当于 enfoque 或 tratamiento，但更强调系统性。abordaje del sobrepeso y la obesidad 即对超重和肥胖问题的处理方式。"
         }
       ]
     },
@@ -108,7 +105,7 @@
         {
           "word": "alentadores",
           "translation": "鼓励的，令人振奋的",
-          "note": "此处为反讽用法，作者用引号标出 alentadores，以『鼓舞人心的』来讽刺那些实为恐吓性的广告语。alentar 本义为『鼓励、激励』，反讽时需结合语境和引号识别。"
+          "note": "此处为反讽用法，作者用引号标出 alentadores，以鼓舞人心的来讽刺那些实为恐吓性的广告语。alentar 本义为鼓励、激励，反讽时需结合语境和引号识别。"
         }
       ]
     },
@@ -120,12 +117,12 @@
         {
           "word": "por el mero hecho de",
           "translation": "仅仅因为……",
-          "note": "固定短语，强调理由的单一性与武断性，mero 有『仅此而已、不过如此』的轻蔑意味，常用于批判性语境：por el mero hecho de ser mujer（仅仅因为是女性）。比 solo porque 更正式，书面语色彩更强。"
+          "note": "固定短语，强调理由的单一性与武断性，mero 有仅此而已、不过如此的轻蔑意味，常用于批判性语境：por el mero hecho de ser mujer（仅仅因为是女性）。比 solo porque 更正式，书面语色彩更强。"
         },
         {
           "word": "presuponen",
           "translation": "预设，先入为主地假定",
-          "note": "由 pre-（提前）+ suponer（假设）构成，比 suponer 更强调『在没有证据的情况下提前假定』，批判性文章中常见。le presuponen enfermedad 即『预先假定她患有疾病』，是作者批判医疗偏见的核心动词。"
+          "note": "由 pre-（提前）+ suponer（假设）构成，比 suponer 更强调在没有证据的情况下提前假定，批判性文章中常见。le presuponen enfermedad 即预先假定她患有疾病，是作者批判医疗偏见的核心动词。"
         }
       ]
     },
@@ -137,7 +134,7 @@
         {
           "word": "vallas publicitarias",
           "translation": "广告牌，户外大型广告牌",
-          "note": "新闻和广告领域常见词，valla 本义为『栅栏』，valla publicitaria 特指大型户外广告牌，与上文 marquesinas（公交站台广告位）形成对比，两者都是户外广告载体，但尺寸和位置不同。"
+          "note": "新闻和广告领域常见词，valla 本义为栅栏，valla publicitaria 特指大型户外广告牌，与上文 marquesinas（公交站台广告位）形成对比，两者都是户外广告载体，但尺寸和位置不同。"
         },
         {
           "word": "estigmatizaríamos",
@@ -147,7 +144,7 @@
         {
           "word": "estigma de peso",
           "translation": "体重污名化",
-          "note": "社会学与公共卫生领域核心术语，指因体重而遭受的社会歧视与负面标签，estigma 源自希腊语，意为『烙印』。研究表明体重污名化会导致心理健康问题、回避就医等严重后果，是本文的核心论据之一。"
+          "note": "社会学与公共卫生领域核心术语，指因体重而遭受的社会歧视与负面标签，estigma 源自希腊语，意为烙印。研究表明体重污名化会导致心理健康问题、回避就医等严重后果，是本文的核心论据之一。"
         }
       ]
     },
@@ -186,7 +183,7 @@
         {
           "word": "recalificaban",
           "translation": "重新定性，重新分类",
-          "note": "由 re-（再次）+ calificar（定性、评定）构成，强调对已有定义的修改和重新标注，政策和医学文件中常见。作者用此词揭示《柳叶刀》研究在批评BMI的同时却悄然扩大了『肥胖』定义范围的矛盾。"
+          "note": "由 re-（再次）+ calificar（定性、评定）构成，强调对已有定义的修改和重新标注，政策和医学文件中常见。作者用此词揭示《柳叶刀》研究在批评BMI的同时却悄然扩大了肥胖定义范围的矛盾。"
         }
       ]
     },
@@ -203,12 +200,12 @@
         {
           "word": "cepas resistentes",
           "translation": "耐药菌株",
-          "note": "医学和公共卫生核心词，cepa 指微生物的『株』或『菌株』，resistente 指对抗生素产生抗药性。cepas resistentes 是全球抗生素滥用危机的核心概念，作者以此与Ozempic滥用形成类比。"
+          "note": "医学和公共卫生核心词，cepa 指微生物的株或菌株，resistente 指对抗生素产生抗药性。cepas resistentes 是全球抗生素滥用危机的核心概念，作者以此与Ozempic滥用形成类比。"
         },
         {
           "word": "documentado",
           "translation": "记录在案的，有文献证明的",
-          "note": "学术和新闻语境中的高频词，强调有正式证据支撑，比 registrado 更具权威性。efectos secundarios documentados 即『已有文献记录的副作用』，是科学报道中区分已证实与推测性风险的关键词。"
+          "note": "学术和新闻语境中的高频词，强调有正式证据支撑，比 registrado 更具权威性。efectos secundarios documentados 即已有文献记录的副作用，是科学报道中区分已证实与推测性风险的关键词。"
         }
       ]
     },
@@ -220,7 +217,7 @@
         {
           "word": "plausible",
           "translation": "合理的，可信的",
-          "note": "假朋友警示：不是『可悲的』，与英语 plausible（似乎合理的）同义，指某一假设在现有证据下具有可信度。asociación plausible 是药物警戒报告中的标准表述，介于『可能相关』和『已证实相关』之间。"
+          "note": "假朋友警示：不是可悲的，与英语 plausible（似乎合理的）同义，指某一假设在现有证据下具有可信度。asociación plausible 是药物警戒报告中的标准表述，介于可能相关和已证实相关之间。"
         },
         {
           "word": "respaldan",
@@ -242,7 +239,7 @@
         {
           "word": "advertido",
           "translation": "警告，提醒",
-          "note": "advertir 一词多义，需根据语境判断：advertir de un peligro（警告某种危险）、advertir un cambio（注意到某种变化）。此处 ha advertido que no debería utilizarse 为『警告不应使用』，是引述专家立场的标准新闻动词。"
+          "note": "advertir 一词多义，需根据语境判断：advertir de un peligro（警告某种危险）、advertir un cambio（注意到某种变化）。此处 ha advertido que no debería utilizarse 为警告不应使用，是引述专家立场的标准新闻动词。"
         }
       ]
     },
@@ -254,12 +251,12 @@
         {
           "word": "perfiles de seguridad",
           "translation": "安全性特征，安全性档案",
-          "note": "药物研发术语，指通过临床试验归纳出的某种药物副作用及风险的整体描述。perfil 本义为『侧面轮廓』，引申为某事物的整体特征描述，perfiles de seguridad 与 eficacia（有效性）并列，是评估药物的两大核心维度。"
+          "note": "药物研发术语，指通过临床试验归纳出的某种药物副作用及风险的整体描述。perfil 本义为侧面轮廓，引申为某事物的整体特征描述，perfiles de seguridad 与 eficacia（有效性）并列，是评估药物的两大核心维度。"
         },
         {
           "word": "patología metabólica",
           "translation": "代谢性疾病",
-          "note": "医学核心词组，指与新陈代谢相关的疾病（如糖尿病、高血脂、代谢综合征等），是本文讨论用药适应症的关键术语。sin patología metabólica 即『没有代谢疾病的』健康人群，是作者批判超适应症用药的核心概念。"
+          "note": "医学核心词组，指与新陈代谢相关的疾病（如糖尿病、高血脂、代谢综合征等），是本文讨论用药适应症的关键术语。sin patología metabólica 即没有代谢疾病的健康人群，是作者批判超适应症用药的核心概念。"
         }
       ]
     },
@@ -271,7 +268,7 @@
         {
           "word": "anorexígeno",
           "translation": "抑食的，食欲抑制的",
-          "note": "医学专业术语，指能够减少食欲的药物或物质，源自 anorexia（厌食）+ -geno（产生……的）。efecto anorexígeno probado 即『经证实的食欲抑制效果』，是描述GLP-1类药物药理作用的精确表达。"
+          "note": "医学专业术语，指能够减少食欲的药物或物质，源自 anorexia（厌食）+ -geno（产生……的）。efecto anorexígeno probado 即经证实的食欲抑制效果，是描述GLP-1类药物药理作用的精确表达。"
         },
         {
           "word": "traduce en",
@@ -281,7 +278,7 @@
         {
           "word": "cronificación",
           "translation": "慢性化，长期化",
-          "note": "医学术语，由 crónico（慢性的）派生，指某一状况或治疗从急性/短期转变为慢性/长期的过程。cronificación del uso de medicación 即『用药的长期化/依赖化』，是本文批判过度依赖药物而忽视生活方式干预的核心概念。"
+          "note": "医学术语，由 crónico（慢性的）派生，指某一状况或治疗从急性或短期转变为慢性或长期的过程。cronificación del uso de medicación 即用药的长期化或依赖化，是本文批判过度依赖药物而忽视生活方式干预的核心概念。"
         }
       ]
     },
@@ -293,7 +290,7 @@
         {
           "word": "encajen en",
           "translation": "符合，契合，嵌入",
-          "note": "固定搭配 encajar en，字面意为『嵌入、卡进』，引申为『符合某种标准或期待』：encajar en el molde（符合模板）、encajar en los cánones de belleza（符合审美标准）。常见于社会批评语境，暗含对标准本身的质疑。"
+          "note": "固定搭配 encajar en，字面意为嵌入、卡进，引申为符合某种标准或期待：encajar en el molde（符合模板）、encajar en los cánones de belleza（符合审美标准）。常见于社会批评语境，暗含对标准本身的质疑。"
         },
         {
           "word": "a costa de",
@@ -315,7 +312,7 @@
         {
           "word": "patología de base",
           "translation": "基础疾病，基础病理",
-          "note": "临床医学常用术语，指患者已有的、作为治疗前提的疾病，相当于 enfermedad subyacente 或 enfermedad de fondo。sin patología de base 即『没有基础疾病』，是判断用药适应症是否合理的核心条件。"
+          "note": "临床医学常用术语，指患者已有的、作为治疗前提的疾病，相当于 enfermedad subyacente 或 enfermedad de fondo。sin patología de base 即没有基础疾病，是判断用药适应症是否合理的核心条件。"
         },
         {
           "word": "costear",
@@ -327,7 +324,7 @@
     {
       "id": 17,
       "es": "Esto refuerza la idea de que la delgadez es sinónimo de estatus y <strong>perpetúa</strong> una jerarquía corporal donde las personas más gordas quedan marginadas, no por salud, sino por clase. Al final, ser delgado se convierte en un privilegio que <strong>erosiona</strong> la diversidad corporal y profundiza las divisiones sociales.",
-      "zh": "这强化了『纤瘦等同于地位』的观念，并延续了一种身体等级制度，在这种制度中，较胖的人被边缘化，不是因为健康原因，而是因为阶级。最终，纤瘦变成了一种特权，侵蚀着身体多样性，加深着社会分化。",
+      "zh": "这强化了纤瘦等同于地位的观念，并延续了一种身体等级制度，在这种制度中，较胖的人被边缘化，不是因为健康原因，而是因为阶级。最终，纤瘦变成了一种特权，侵蚀着身体多样性，加深着社会分化。",
       "vocab": [
         {
           "word": "perpetúa",
@@ -337,7 +334,7 @@
         {
           "word": "erosiona",
           "translation": "侵蚀，逐渐削弱",
-          "note": "本义为地质学的『侵蚀』，引申为对某种价值观或制度的逐渐破坏，新闻和学术文体中常见：erosionar la democracia（侵蚀民主）、erosionar la confianza（逐渐瓦解信任）。比 destruir 更强调渐进性和隐蔽性。"
+          "note": "本义为地质学的侵蚀，引申为对某种价值观或制度的逐渐破坏，新闻和学术文体中常见：erosionar la democracia（侵蚀民主）、erosionar la confianza（逐渐瓦解信任）。比 destruir 更强调渐进性和隐蔽性。"
         }
       ]
     }
