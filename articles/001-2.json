@@ -15,9 +15,9 @@
       "zh": "赫尔辛基大学与米涅瓦基金会医学研究所的研究结果表明，子女数量和怀孕时机均会影响女性成年后的健康状况与预期寿命。相关结果已发表于《自然·通讯》期刊。这些发现基于一项纵向研究，涵盖近1.5万名出生于1880年至1957年间的双胞胎女性。",
       "vocab": [
         {
-          "word": "tanto… como…",
-          "translation": "既……也……，……和……都",
-          "note": "表示并列的关联词，强调两者都包含，不排除任何一方。注意与 o… o…（二选一）的区别：tanto el número como el momento = 数量和时机都影响，而非二选一。书面语中常用于替换简单的 y，使句子更具对称感和正式度，是B2写作词汇多样性的重要工具。"
+          "word": "estudio longitudinal",
+          "translation": "纵向研究，追踪研究",
+          "note": "流行病学和社会科学的核心研究设计术语，指对同一批研究对象在较长时间跨度内进行重复观察和测量的研究方法。与 estudio transversal（横断面研究，仅在某一时间点采集数据）相对。本研究追踪时间跨度长达数十年，正是 longitudinal 的典型特征，也是其结论具有说服力的方法论基础。"
         },
         {
           "word": "hallazgos",
@@ -39,12 +39,12 @@
         {
           "word": "seguimiento",
           "translation": "追踪，跟进，（医学）随访",
-          "note": "医学和社会科学研究的核心术语，指对研究对象进行持续性的长期观察。固定搭配：hacer/realizar un seguimiento（进行追踪）、seguimiento periódico（定期随访）、dar seguimiento a un caso（跟进一个案例）。estudio longitudinal（纵向研究）与 seguimiento 密不可分——正是通过长期 seguimiento 才能获得纵向数据。"
+          "note": "医学和社会科学研究的核心术语，指对研究对象进行持续性的长期观察。固定搭配：hacer/realizar un seguimiento（进行追踪）、seguimiento periódico（定期随访）、dar seguimiento a un caso（跟进一个案例）。estudio longitudinal 与 seguimiento 密不可分——正是通过长期 seguimiento 才能获得纵向数据，两个概念在本文中相互支撑。"
         },
         {
-          "word": "tuvieron lugar",
-          "translation": "发生，举行",
-          "note": "固定搭配 tener lugar，是 ocurrir 和 suceder 的正式替换，多用于书面语和新闻报道，主语通常是事件而非人：la reunión tuvo lugar en Madrid（会议在马德里举行）、los embarazos que tuvieron lugar entre los 24 y 38 años（发生在24至38岁之间的怀孕）。注意不可与人作主语：不说 ella tuvo lugar allí。"
+          "word": "trayectoria vital",
+          "translation": "人生轨迹，生命历程",
+          "note": "trayectoria 本义为物理学中的运动轨迹，引申为某人或某事物的发展路径和历程。trayectoria vital 是社会学和心理学的常用表达，指一个人从出生到死亡的整体人生历程。类似搭配：trayectoria profesional（职业轨迹）、trayectoria académica（学术历程）、trayectoria política（政治生涯）。"
         }
       ]
     },
@@ -54,9 +54,9 @@
       "zh": "尤其值得注意的是，研究发现子女数量超过平均水平（多于四个）与较短的预期寿命及加速的生物性衰老相关。研究人员表示，这一发现与20世纪进化生物学发展出的生命史理论完全吻合。",
       "vocab": [
         {
-          "word": "superior a la media",
-          "translation": "高于平均水平",
-          "note": "数据分析和科学报道中的常用结构，media 在统计学中指平均值（均值），与 mediana（中位数）、moda（众数）并列为三大集中趋势指标。对应表达：inferior a la media（低于平均水平）、por encima/por debajo de la media（同义替换）。注意 superior 在西班牙语中不带比较级 más，直接接 a：superior a，不说 más superior que。"
+          "word": "se asociaba con",
+          "translation": "与……相关联，与……存在关联",
+          "note": "流行病学和统计学的核心表达，asociarse con 描述的是统计相关性（correlación），而非因果关系（causalidad）。本文多次使用这一动词，正是为了严格区分『相关』与『导致』：tener más hijos se asocia con menor esperanza de vida 不等于『多生孩子导致寿命缩短』。这种措辞上的精确性是科学报道的基本规范。"
         },
         {
           "word": "concuerda",
@@ -71,14 +71,14 @@
       "zh": "『从进化生物学的角度来看，生物体拥有有限的资源，例如时间和能量。当大量能量被投入繁殖时，这些能量就会从机体的维护和修复机制中被扣除，从而可能缩短预期寿命。』主导该研究的研究员米凯拉·胡卡宁解释道。",
       "vocab": [
         {
-          "word": "disponen de",
-          "translation": "拥有，具备，可调用",
-          "note": "固定搭配 disponer de，比 tener 更正式，强调资源的可支配性和可调用性：disponer de tiempo libre（有可支配的空闲时间）、disponer de los medios necesarios（具备必要手段）、no disponer de suficiente información（缺乏足够信息）。在科学和政策文体中极为常见，是替换 tener 的重要书面语升级词。"
+          "word": "se invierte en",
+          "translation": "被投入……，被用于……",
+          "note": "invertir en 本义为『投资于』，在此扩展为将资源（能量、时间）投入某一用途的广义表达。se invierte una gran cantidad de energía en la reproducción（大量能量被投入繁殖）是进化生物学权衡理论的核心表述。注意 invertir 与 gastar（花费，强调消耗）的区别：invertir 隐含着有目的的投入和预期回报，gastar 则更中性地表示消耗。"
         },
         {
-          "word": "lo que podría",
-          "translation": "这可能会……",
-          "note": "lo que 作关系代词回指前文整个句子或命题，podría 是条件式（potencial）表示推测和不确定性。这一结构是科学报道中表达谨慎结论的标准句型，体现了科学写作必要的审慎态度：lo que podría explicar…（这或许可以解释……）、lo que sugeriría que…（这可能表明……）。与直接断言相比，podría 软化了因果关系的确定性。"
+          "word": "se resta a",
+          "translation": "从……中被扣除，从……中减去",
+          "note": "restar 本义为数学中的减法，此处用数学隐喻描述生物体的能量分配机制：投入繁殖的能量『被从』维护修复机制中减去。esta se resta a los mecanismos de mantenimiento（这些能量从维护机制中被扣除）是进化生物学权衡理论（trade-off theory）的精确表述，比 se quita a 更具科学感。"
         }
       ]
     },
@@ -95,7 +95,7 @@
         {
           "word": "controlarse",
           "translation": "（变量）被控制，被排除干扰",
-          "note": "统计学假朋友警告：controlar 在研究方法论中不是『控制自己』，而是指在分析中排除或修正某一混杂变量（variable de confusión）的影响。cuyos efectos no pudieron controlarse（其影响未能被控制）是描述研究局限性（limitaciones del estudio）的标准表达，是理解科学报道的关键词，也是本文作者主动说明结论局限性的诚实表述。"
+          "note": "统计学假朋友警告：controlar 在研究方法论中不是『控制自己』，而是指在分析中排除或修正某一混杂变量（variable de confusión）的影响。cuyos efectos no pudieron controlarse（其影响未能被控制）是描述研究局限性（limitaciones del estudio）的标准表达，是理解科学报道的关键词。"
         }
       ]
     },
@@ -105,9 +105,9 @@
       "zh": "研究团队强调，这些发现仅适用于群体层面，既不能证明因果关系，也不能为处于育龄期的女性个人提供建议依据。例如，与研究所涵盖的时期相比，家庭规模已经缩小，初次分娩年龄也有所提高。",
       "vocab": [
         {
-          "word": "destaca",
-          "translation": "强调，着重指出，突出说明",
-          "note": "动词 destacar 在新闻报道中用于引述研究者或机构着重强调的内容，比 dice 或 señala 更强调信息的重要性：el informe destaca que…（报告着重指出……）。注意 destacar 也可作不及物动词，意为『脱颖而出、表现突出』：destaca por su calidad（以质量著称）、destacar entre los demás（在众人中脱颖而出）。"
+          "word": "relaciones de causa-efecto",
+          "translation": "因果关系",
+          "note": "科学报道中区分『相关』与『因果』的核心术语。no demuestran relaciones de causa-efecto（不能证明因果关系）是本文最重要的方法论声明之一，也是科学传播中防止误读的关键限定语。与之对应的是 correlación（相关性）：correlación no implica causalidad（相关不等于因果）是统计学的基本原则，本文的 se asociaba con 正是刻意回避因果表述的体现。"
         },
         {
           "word": "a nivel poblacional",
@@ -115,9 +115,9 @@
           "note": "流行病学和公共卫生的核心表达，a nivel + 名词 用于限定结论的适用范围：a nivel poblacional（群体层面）vs. a nivel individual（个人层面）。这一区分在本文中至关重要：研究结论在统计上对群体有效，但不能直接指导个人决策，是科学传播中防止误读的关键限定语。"
         },
         {
-          "word": "en comparación con",
-          "translation": "与……相比，相较于",
-          "note": "固定搭配，是 comparado con 的介词短语替换形式，后接名词，常用于数据对比段落：en comparación con el año anterior（与上一年相比）、en comparación con otros países（与其他国家相比）。注意西班牙语规范用法是接 con，不说 en comparación a。"
+          "word": "edad reproductiva",
+          "translation": "育龄期，生育年龄",
+          "note": "医学和人口学术语，指女性具备生育能力的年龄阶段，通常定义为15至49岁。mujeres en edad reproductiva 是公共卫生政策和生育研究中的标准表达，与本文讨论的怀孕时机（24至38岁）形成对应，后者是 edad reproductiva 中与最优长寿模式相关的子区间。"
         }
       ]
     },
@@ -128,7 +128,7 @@
       "vocab": [
         {
           "word": "plantearse",
-          "translation": "认真考虑，打算，自问是否应该",
+          "translation": "认真考虑，自问是否应该",
           "note": "反身动词 plantearse 表示『认真考虑某一可能性』，比 pensar en 更强调主动的评估和权衡过程：plantearse cambiar de trabajo（认真考虑换工作）、plantearse si vale la pena（考虑是否值得）。此处 no debería plantearse cambiar（不应考虑改变）是研究者对公众的重要警示声明，体现了科学传播的责任意识。"
         },
         {
@@ -149,14 +149,14 @@
           "note": "分子生物学核心术语，是本文最重要的技术概念。reloj（时钟）在此为隐喻，epigenético 指不改变DNA序列但影响基因表达的机制（表观遗传学）。表观遗传时钟通过分析DNA甲基化（metilación del ADN）模式来估算生物年龄，是区分 edad biológica（生物年龄）与 edad cronológica（实际年龄）的核心工具，理解它是读懂全文的关键。"
         },
         {
-          "word": "tienen como objetivo",
-          "translation": "以……为目标，旨在",
-          "note": "固定搭配，用于说明某事物的设计目的或功能，比 intentan 更正式，强调明确的目标导向：este programa tiene como objetivo reducir el desempleo（该项目旨在减少失业）。同义替换：tener por objetivo、estar destinado a、perseguir el objetivo de。在科普文章中常用于解释技术工具或研究方法的功能定位。"
+          "word": "a partir de",
+          "translation": "从……中，基于，以……为起点",
+          "note": "高频介词短语，在科学语境中表示数据或结论的来源依据：se determinaron los relojes epigenéticos a partir de muestras de sangre（从血液样本中测定了表观遗传时钟）。与 desde 的区别：a partir de 强调以某物为原材料或出发点进行推导，desde 更强调时间或空间的起点。"
         },
         {
-          "word": "es decir",
-          "translation": "也就是说，即",
-          "note": "写作中最重要的解释性连接词之一，用于对前文进行补充说明或通俗化解释，相当于英语的 that is / in other words。在科普文章中尤为常见，用于将专业术语转化为读者易懂的表达：los relojes epigenéticos miden el envejecimiento biológico, es decir, el deterioro gradual de las células（表观遗传时钟测量生物性衰老，即细胞的渐进性退化）。注意与口语化的 o sea 相比，es decir 更适合书面语。"
+          "word": "deterioro gradual",
+          "translation": "渐进性退化，逐步恶化",
+          "note": "deterioro 来自动词 deteriorar（使恶化、使退化），gradual 强调过程的缓慢性和累积性。deterioro gradual de las células y los tejidos（细胞和组织的渐进性退化）是生物性衰老的本质定义，也是表观遗传时钟所测量的核心对象。近义词辨析：deterioro（退化，强调质量下降）、degeneración（变性，更多用于病理）、desgaste（磨损，更偏物理层面）。"
         }
       ]
     },
@@ -183,9 +183,9 @@
       "zh": "『生物年龄大于实际年龄的人死亡风险更高。我们的研究结果表明，一生中做出的各种决定会留下持久的生物学印记，这种印记可以在老年到来之前很久就被测量出来。』米娜·奥利凯宁表示。『在我们的部分分析中，在较早年龄生育第一个孩子也与生物性衰老相关。这同样可能与进化理论有关，因为自然选择可能倾向于更早的生育，这总体上带来更短的世代时间，即便这意味着与衰老相关的健康代价。』",
       "vocab": [
         {
-          "word": "a lo largo de la vida",
-          "translation": "在一生中，贯穿整个人生",
-          "note": "a lo largo de 本义是『沿着……的长度』，引申为在某段时间或空间的全程。与 durante 的区别：a lo largo de 更强调贯穿始终的过程感和连续性，而 durante 仅表示时间段的持续：durante la vida（在生命期间）vs. a lo largo de la vida（贯穿整个人生历程）。后者更具叙事感，常用于强调积累性影响。"
+          "word": "selección natural",
+          "translation": "自然选择",
+          "note": "进化生物学的核心概念，由达尔文提出，指在特定环境压力下，具有更强适应性的个体更容易存活并繁殖后代，从而将有利性状传递给下一代的过程。la selección natural puede favorecer una reproducción más temprana（自然选择可能倾向于更早的生育）是本段进化论解释的核心命题，也是理解生育与寿命权衡关系的理论基础。"
         },
         {
           "word": "huella",
