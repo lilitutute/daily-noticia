@@ -1,3 +1,6 @@
+收到！这次我仔细核对每一段，确保正文 `<strong>` 标注的词和词汇讲解的词条**完全一一对应**，不多不少。
+
+```json
 {
   "date": "西语外刊阅读",
   "brand": "公众号【西语SuperO】",
@@ -11,21 +14,21 @@
   "paragraphs": [
     {
       "id": 1,
-      "es": "Los resultados de la Universidad de Helsinki y del Instituto de Investigación Médica de la Fundación Minerva sugieren que tanto el número de hijos como el momento en que se producen los embarazos influyen en la salud y la <strong>esperanza de vida</strong> de las mujeres en la edad adulta. Los resultados se han publicado en la revista Nature Communications. Los <strong>hallazgos</strong> se basan en un estudio longitudinal que abarca a casi 15.000 gemelas nacidas entre 1880 y 1957.",
+      "es": "Los resultados de la Universidad de Helsinki y del Instituto de Investigación Médica de la Fundación Minerva sugieren que <strong>tanto</strong> el número de hijos <strong>como</strong> el momento en que se producen los embarazos influyen en la salud y la esperanza de vida de las mujeres en la edad adulta. Los resultados se han publicado en la revista Nature Communications. Los <strong>hallazgos</strong> se basan en un estudio longitudinal que <strong>abarca</strong> a casi 15.000 gemelas nacidas entre 1880 y 1957.",
       "zh": "赫尔辛基大学与米涅瓦基金会医学研究所的研究结果表明，子女数量和怀孕时机均会影响女性成年后的健康状况与预期寿命。相关结果已发表于《自然·通讯》期刊。这些发现基于一项纵向研究，涵盖近1.5万名出生于1880年至1957年间的双胞胎女性。",
       "vocab": [
         {
           "word": "tanto… como…",
           "translation": "既……也……，……和……都",
-          "note": "表示并列的关联词，强调两者都包含，不排除任何一方。注意与 o… o…（二选一）的区别：tanto el número como el momento = 数量和时机都影响，而非二选一。"
+          "note": "表示并列的关联词，强调两者都包含，不排除任何一方。注意与 o… o…（二选一）的区别：tanto el número como el momento = 数量和时机都影响，而非二选一。书面语中极为常见，是替换简单 y 的地道升级表达。"
         },
         {
           "word": "hallazgos",
           "translation": "发现，研究发现",
-          "note": "科技新闻的标志性词汇，比 resultados 更强调发现的新颖性，常用于学术报道的标题和摘要，复数形式 los hallazgos 几乎是固定用法。"
+          "note": "科技新闻的标志性词汇，比 resultados 更强调发现的新颖性，常用于学术报道的标题和摘要，复数形式 los hallazgos 几乎是固定用法：los hallazgos del estudio（研究发现）、hallazgos preliminares（初步发现）。"
         },
         {
-          "word": "abarcar",
+          "word": "abarca",
           "translation": "涵盖，包括，覆盖",
           "note": "比 incluir 更强调范围的广度，常用于描述研究、法律或地理覆盖的范围：un estudio que abarca 20 años（涵盖20年的研究）、una ley que abarca varios sectores（覆盖多个领域的法律）。"
         }
@@ -33,50 +36,50 @@
     },
     {
       "id": 2,
-      "es": "Se invitó a las participantes en el estudio de gemelos a completar un cuestionario en 1975, y se ha realizado un <strong>seguimiento</strong> periódico de su trayectoria vital hasta la actualidad. Según el seguimiento de casi 15.000 participantes, las mujeres con dos o tres hijos tienden a vivir más tiempo. El momento en que se producen los embarazos también es importante: según el estudio, los embarazos que tuvieron lugar aproximadamente entre los 24 y los 38 años se relacionaron con patrones de <strong>envejecimiento</strong> y longevidad más favorables.",
+      "es": "Se invitó a las participantes en el estudio de gemelos a completar un cuestionario en 1975, y se ha realizado un <strong>seguimiento</strong> periódico de su trayectoria vital hasta la actualidad. Según el seguimiento de casi 15.000 participantes, las mujeres con dos o tres hijos tienden a vivir más tiempo. El momento en que se producen los embarazos también es importante: según el estudio, los embarazos que <strong>tuvieron lugar</strong> aproximadamente entre los 24 y los 38 años se relacionaron con patrones de envejecimiento y longevidad más favorables.",
       "zh": "双胞胎研究的参与者于1975年受邀填写问卷，此后研究人员对她们的人生轨迹进行了定期追踪，直至今日。根据对近1.5万名参与者的追踪，育有两三个孩子的女性往往活得更长。怀孕时机同样重要：研究显示，大约在24至38岁之间发生的怀孕，与更有利的衰老模式和长寿相关。",
       "vocab": [
         {
-          "word": "hacer un seguimiento",
-          "translation": "进行追踪，跟进，随访",
-          "note": "固定搭配，seguimiento 单独使用时也很常见：el seguimiento de los pacientes（对患者的随访）、dar seguimiento a un caso（跟进一个案例）。注意 seguir 和 hacer un seguimiento 的区别：前者是『跟随』，后者特指系统性的长期观察。"
+          "word": "seguimiento",
+          "translation": "追踪，跟进，随访",
+          "note": "固定搭配 hacer un seguimiento / realizar un seguimiento，seguimiento 单独使用时也很常见：el seguimiento de los pacientes（对患者的随访）、dar seguimiento a un caso（跟进一个案例）。注意 seguir 和 hacer un seguimiento 的区别：前者是『跟随』，后者特指系统性的长期观察。"
         },
         {
-          "word": "tener lugar",
+          "word": "tuvieron lugar",
           "translation": "发生，举行",
-          "note": "固定搭配，是 ocurrir 和 suceder 的正式替换，多用于书面语和新闻报道，主语通常是事件而非人：la reunión tuvo lugar en Madrid（会议在马德里举行）。"
+          "note": "固定搭配 tener lugar，是 ocurrir 和 suceder 的正式替换，多用于书面语和新闻报道，主语通常是事件而非人：la reunión tuvo lugar en Madrid（会议在马德里举行）。此处过去时 tuvieron lugar 指研究期间发生的怀孕事件。"
         }
       ]
     },
     {
       "id": 3,
-      "es": "En particular, se descubrió que tener un número de hijos superior a la media (más de cuatro) se asociaba con una esperanza de vida más corta y un envejecimiento biológico <strong>acelerado</strong>. Según los investigadores, este hallazgo <strong>concuerda</strong> plenamente con la teoría de la historia de vida de la biología evolutiva desarrollada en el siglo XX.",
+      "es": "En particular, se descubrió que tener un número de hijos <strong>superior a la media</strong> (más de cuatro) se asociaba con una esperanza de vida más corta y un envejecimiento biológico acelerado. Según los investigadores, este hallazgo <strong>concuerda</strong> plenamente con la teoría de la historia de vida de la biología evolutiva desarrollada en el siglo XX.",
       "zh": "尤其值得注意的是，研究发现子女数量超过平均水平（多于四个）与较短的预期寿命及加速的生物性衰老相关。研究人员表示，这一发现与20世纪进化生物学发展出的生命史理论完全吻合。",
       "vocab": [
-        {
-          "word": "concordar con",
-          "translation": "与……吻合，与……一致",
-          "note": "学术写作中表达研究结果与既有理论相符的标准搭配，比 coincidir con 更正式，强调逻辑上的契合而非偶然巧合：los datos concuerdan con la hipótesis（数据与假设吻合）。"
-        },
         {
           "word": "superior a la media",
           "translation": "高于平均水平",
           "note": "新闻和学术文体中描述数据的常用结构：superior/inferior a la media（高于/低于平均水平）、por encima/por debajo de la media（同义替换）。注意 superior 在西班牙语中不带比较级 más，直接接 a：superior a，不说 más superior que。"
+        },
+        {
+          "word": "concuerda",
+          "translation": "与……吻合，与……一致",
+          "note": "动词 concordar con 的第三人称单数，学术写作中表达研究结果与既有理论相符的标准搭配，比 coincidir con 更正式，强调逻辑上的契合而非偶然巧合：los datos concuerdan con la hipótesis（数据与假设吻合）。"
         }
       ]
     },
     {
       "id": 4,
-      "es": "«Desde una perspectiva de la biología evolutiva, los organismos disponen de recursos limitados, como el tiempo y la energía. Cuando se invierte una gran cantidad de energía en la <strong>reproducción</strong>, esta se resta a los mecanismos de mantenimiento y reparación del organismo, lo que podría reducir la esperanza de vida», explica la investigadora Mikaela Hukkanen, que dirigió el estudio.",
+      "es": "«Desde una perspectiva de la biología evolutiva, los organismos <strong>disponen de</strong> recursos limitados, como el tiempo y la energía. Cuando se invierte una gran cantidad de energía en la reproducción, esta se resta a los mecanismos de mantenimiento y reparación del organismo, <strong>lo que podría</strong> reducir la esperanza de vida», explica la investigadora Mikaela Hukkanen, que dirigió el estudio.",
       "zh": "『从进化生物学的角度来看，生物体拥有有限的资源，例如时间和能量。当大量能量被投入繁殖时，这些能量就会从机体的维护和修复机制中被扣除，从而可能缩短预期寿命。』主导该研究的研究员米凯拉·胡卡宁解释道。",
       "vocab": [
         {
-          "word": "disponer de",
+          "word": "disponen de",
           "translation": "拥有，具备，可以使用",
-          "note": "固定搭配，表示拥有或可以调用某种资源，比 tener 更正式，强调资源的可支配性：disponer de tiempo（有时间可用）、disponer de los medios necesarios（具备必要手段）。"
+          "note": "固定搭配 disponer de，表示拥有或可以调用某种资源，比 tener 更正式，强调资源的可支配性：disponer de tiempo（有时间可用）、disponer de los medios necesarios（具备必要手段）。"
         },
         {
-          "word": "lo que podría + 动词原形",
+          "word": "lo que podría",
           "translation": "这可能会……",
           "note": "lo que 作关系代词回指前文整个句子，podría 是条件式表示推测和不确定性，这个结构是科学报道中表达谨慎结论的标准句型：lo que podría explicar…（这或许可以解释……）、lo que sugeriría que…（这可能表明……）。"
         }
@@ -88,22 +91,27 @@
       "zh": "有些出乎意料的是，研究还发现无子女的女性比育有少数孩子的女性衰老更快。这一结果可能由其他与生活方式或健康相关的因素来解释，而这些因素的影响在分析中未能得到完全控制。",
       "vocab": [
         {
-          "word": "de forma + adjetivo",
-          "translation": "以……的方式，……地",
-          "note": "副词短语的正式替换结构，在新闻和学术写作中比直接用副词（-mente）更灵活：de forma inesperada = inesperadamente、de forma gradual = gradualmente。当形容词较长或需要强调时，优先使用 de forma + 形容词。"
+          "word": "inesperada",
+          "translation": "出乎意料的，意外的",
+          "note": "de forma algo inesperada 是新闻报道中引出反直觉发现的标准句式，algo 在此作副词修饰 inesperada，意为『有些、略微』，软化了意外程度。同义替换：sorprendentemente、de manera sorpresiva。注意 inesperado 与 imprevisto 的区别：前者强调与预期相悖，后者强调事先未计划。"
         },
         {
-          "word": "controlar una variable",
-          "translation": "控制变量，排除干扰因素",
-          "note": "假朋友警告：controlar 在研究方法论中不是『控制自己』，而是统计学术语，指在分析中排除或修正某一混杂因素的影响，是理解研究局限性声明的关键词。"
+          "word": "controlarse",
+          "translation": "（变量）被控制，被排除干扰",
+          "note": "假朋友警告：controlar 在研究方法论中不是『控制自己』，而是统计学术语，指在分析中排除或修正某一混杂因素的影响。cuyos efectos no pudieron controlarse（其影响未能被控制）是描述研究局限性的标准表达，是理解科学报道的关键词。"
         }
       ]
     },
     {
       "id": 6,
-      "es": "El grupo de investigación <strong>destaca</strong> que los hallazgos solo son aplicables a nivel poblacional. No demuestran relaciones de causa-efecto, ni proporcionan una base para recomendaciones individuales dirigidas a mujeres en edad reproductiva. Por ejemplo, el tamaño de las familias ha disminuido y la edad en el primer parto ha aumentado en comparación con el periodo cubierto por el estudio.",
+      "es": "El grupo de investigación <strong>destaca</strong> que los hallazgos solo son aplicables <strong>a nivel</strong> poblacional. No demuestran relaciones de causa-efecto, ni proporcionan una base para recomendaciones individuales dirigidas a mujeres en edad reproductiva. Por ejemplo, el tamaño de las familias ha disminuido y la edad en el primer parto ha aumentado <strong>en comparación con</strong> el periodo cubierto por el estudio.",
       "zh": "研究团队强调，这些发现仅适用于群体层面，既不能证明因果关系，也不能为处于育龄期的女性个人提供建议依据。例如，与研究所涵盖的时期相比，家庭规模已经缩小，初次分娩年龄也有所提高。",
       "vocab": [
+        {
+          "word": "destaca",
+          "translation": "强调，突出指出",
+          "note": "动词 destacar 在新闻报道中用于引述研究者或机构着重强调的内容，比 dice 或 señala 更强调信息的重要性：el informe destaca que…（报告着重指出……）。注意 destacar 也可作不及物动词，意为『脱颖而出、突出』：destaca por su calidad（以质量著称）。"
+        },
         {
           "word": "a nivel + 名词",
           "translation": "在……层面，在……级别",
@@ -118,30 +126,35 @@
     },
     {
       "id": 7,
-      "es": "«Por lo tanto, una mujer no debería plantearse cambiar sus propios planes o deseos respecto a tener hijos basándose en estos hallazgos», afirma la directora del estudio, Miina Ollikainen. La posible <strong>disyuntiva</strong> evolutiva entre la reproducción y la esperanza de vida ha interesado a los investigadores desde principios del siglo XX, pero numerosos estudios sobre el tema han arrojado resultados <strong>contradictorios</strong>.",
+      "es": "«Por lo tanto, una mujer no debería <strong>plantearse</strong> cambiar sus propios planes o deseos respecto a tener hijos basándose en estos hallazgos», afirma la directora del estudio, Miina Ollikainen. La posible disyuntiva evolutiva entre la reproducción y la esperanza de vida ha interesado a los investigadores desde principios del siglo XX, pero numerosos estudios sobre el tema han <strong>arrojado</strong> resultados contradictorios.",
       "zh": "『因此，女性不应该基于这些发现来考虑改变自己关于生育的计划或意愿。』研究负责人米娜·奥利凯宁表示。繁殖与预期寿命之间可能存在的进化权衡自20世纪初就引起了研究人员的兴趣，但该领域的大量研究得出了相互矛盾的结果。",
       "vocab": [
         {
-          "word": "plantearse + 动词原形",
+          "word": "plantearse",
           "translation": "考虑做……，打算做……",
-          "note": "反身动词 plantearse 表示『认真考虑某一可能性』，比 pensar en 更强调主动的思考和评估过程：plantearse cambiar de trabajo（认真考虑换工作）、plantearse si vale la pena（考虑是否值得）。"
+          "note": "反身动词 plantearse 表示『认真考虑某一可能性』，比 pensar en 更强调主动的思考和评估过程：plantearse cambiar de trabajo（认真考虑换工作）、plantearse si vale la pena（考虑是否值得）。此处 no debería plantearse cambiar（不应考虑改变）是对研究结论的重要限定声明。"
         },
         {
-          "word": "arrojar resultados",
-          "translation": "得出结果，产生结果",
-          "note": "arrojar 本义是『抛出、投掷』，在学术和新闻语境中固定搭配 arrojar resultados/datos/luz，意为研究『产出』或『揭示』某些结果，是科学报道中替换 producir 或 mostrar 的地道表达。"
+          "word": "arrojado",
+          "translation": "得出，产生（结果）",
+          "note": "动词 arrojar 本义是『抛出、投掷』，在学术和新闻语境中固定搭配 arrojar resultados/datos/luz，意为研究『产出』或『揭示』某些结果，是科学报道中替换 producir 或 mostrar 的地道表达：el análisis arrojó datos sorprendentes（分析得出了令人惊讶的数据）。"
         }
       ]
     },
     {
       "id": 8,
-      "es": "Un aspecto novedoso de este estudio fue que el envejecimiento también se midió biológicamente. Se determinaron los <strong>relojes epigenéticos</strong> a partir de muestras de sangre de más de mil participantes. Los relojes epigenéticos tienen como objetivo medir el envejecimiento biológico, es decir, el deterioro gradual de las células y los tejidos. Con estos métodos, los cambios relacionados con el envejecimiento pueden detectarse años o incluso décadas antes de la muerte.",
+      "es": "Un aspecto novedoso de este estudio fue que el envejecimiento también se midió biológicamente. Se determinaron los <strong>relojes epigenéticos</strong> a partir de muestras de sangre de más de mil participantes. Los relojes epigenéticos <strong>tienen como objetivo</strong> medir el envejecimiento biológico, <strong>es decir</strong>, el deterioro gradual de las células y los tejidos. Con estos métodos, los cambios relacionados con el envejecimiento pueden detectarse años o incluso décadas antes de la muerte.",
       "zh": "本研究的一个创新之处在于，衰老也通过生物学方法进行了测量。研究人员从逾千名参与者的血液样本中测定了表观遗传时钟。表观遗传时钟旨在测量生物性衰老，即细胞和组织的渐进性退化。借助这些方法，与衰老相关的变化可以在死亡前数年乃至数十年被检测出来。",
       "vocab": [
         {
-          "word": "tener como objetivo",
+          "word": "relojes epigenéticos",
+          "translation": "表观遗传时钟",
+          "note": "分子生物学核心术语，指通过分析DNA甲基化模式来估算生物年龄的算法工具，reloj 本义为时钟，epigenético 指不改变DNA序列但影响基因表达的机制。这是本文最重要的技术概念，理解它是读懂全文的关键。"
+        },
+        {
+          "word": "tienen como objetivo",
           "translation": "以……为目标，旨在",
-          "note": "固定搭配，用于说明某事物的设计目的或功能，比 intentar 更正式：este programa tiene como objetivo reducir el desempleo（该项目旨在减少失业）。同义替换：tener por objetivo、estar destinado a。"
+          "note": "固定搭配，用于说明某事物的设计目的或功能，比 intentan 更正式：este programa tiene como objetivo reducir el desempleo（该项目旨在减少失业）。同义替换：tener por objetivo、estar destinado a。"
         },
         {
           "word": "es decir",
@@ -156,38 +169,39 @@
       "zh": "这些结果支持了此前基于死亡率数据得出的结论。根据表观遗传时钟，生育过多或从未生育的女性，其生物年龄在某种程度上大于她们的实际年龄。",
       "vocab": [
         {
-          "word": "respaldar",
+          "word": "respaldaron",
           "translation": "支持，印证，佐证",
-          "note": "来自 espalda（背部），字面是『用背部支撑』，引申为对某观点或结论的支持。与 apoyar 的区别：respaldar 更强调用新证据加固既有结论，apoyar 更泛指一般性的支持。"
+          "note": "动词 respaldar 来自 espalda（背部），字面是『用背部支撑』，引申为对某观点或结论的支持。与 apoyar 的区别：respaldar 更强调用新证据加固既有结论，apoyar 更泛指一般性的支持：los nuevos datos respaldaron la teoría（新数据印证了该理论）。"
         },
         {
-          "word": "edad cronológica vs. edad biológica",
-          "translation": "实际年龄 vs. 生物年龄",
-          "note": "本文的核心对立概念：edad cronológica 是出生证明上的年龄，edad biológica 是细胞和组织实际的老化程度。cronológico 来自希腊语 chronos（时间），同族词：crónica（编年史）、cronograma（时间表）。"
+          "word": "cronológica",
+          "translation": "按时间顺序的，实际（年龄）的",
+          "note": "edad cronológica 是出生证明上的年龄，与 edad biológica（生物年龄）形成本文的核心对立概念：生物年龄反映细胞和组织的实际老化程度，可能与实际年龄不符。cronológico 来自希腊语 chronos（时间），同族词：crónica（编年史）、cronograma（时间表）。"
         }
       ]
     },
     {
       "id": 10,
-      "es": "«Una persona que es biológicamente mayor que su edad cronológica tiene un mayor riesgo de muerte. Nuestros resultados muestran que las decisiones tomadas a lo largo de la vida dejan una <strong>huella</strong> biológica duradera que puede medirse mucho antes de la vejez», afirma Miina Ollikainen. «En algunos de nuestros análisis, tener un hijo a una edad temprana también se asoció con el envejecimiento biológico. Esto también puede estar relacionado con la teoría de la evolución, ya que la <strong>selección natural</strong> puede favorecer una reproducción más temprana que conlleva tiempos de generación más cortos en general, incluso si ello implica costes para la salud asociados al envejecimiento».",
+      "es": "«Una persona que es biológicamente mayor que su edad cronológica tiene un mayor riesgo de muerte. Nuestros resultados muestran que las decisiones tomadas <strong>a lo largo de</strong> la vida dejan una <strong>huella</strong> biológica duradera que puede medirse mucho antes de la vejez», afirma Miina Ollikainen. «En algunos de nuestros análisis, tener un hijo a una edad temprana también se asoció con el envejecimiento biológico. Esto también puede estar relacionado con la teoría de la evolución, ya que la selección natural puede favorecer una reproducción más temprana que <strong>conlleva</strong> tiempos de generación más cortos en general, incluso si ello implica costes para la salud asociados al envejecimiento».",
       "zh": "『生物年龄大于实际年龄的人死亡风险更高。我们的研究结果表明，一生中做出的各种决定会留下持久的生物学印记，这种印记可以在老年到来之前很久就被测量出来。』米娜·奥利凯宁表示。『在我们的部分分析中，在较早年龄生育第一个孩子也与生物性衰老相关。这同样可能与进化理论有关，因为自然选择可能倾向于更早的生育，这总体上带来更短的世代时间，即便这意味着与衰老相关的健康代价。』",
       "vocab": [
         {
-          "word": "huella",
-          "translation": "印记，痕迹，足迹",
-          "note": "本义是脚印，引申为某种经历或决定留下的持久影响，是西班牙语中极具表达力的隐喻词汇：dejar huella（留下印记）、huella dactilar（指纹）、huella de carbono（碳足迹）。"
-        },
-        {
           "word": "a lo largo de",
           "translation": "在……过程中，贯穿……",
-          "note": "固定介词短语，本义是『沿着……的长度』，引申为在某段时间或空间的全程：a lo largo de la vida（一生中）、a lo largo del artículo（贯穿全文）、a lo largo del río（沿河）。注意与 durante 的区别：a lo largo de 更强调贯穿始终的过程感。"
+          "note": "固定介词短语，本义是『沿着……的长度』，引申为在某段时间或空间的全程：a lo largo de la vida（一生中）、a lo largo del artículo（贯穿全文）、a lo largo del río（沿河）。注意与 durante 的区别：a lo largo de 更强调贯穿始终的过程感，而 durante 仅表示时间段。"
         },
         {
-          "word": "conllevar",
+          "word": "huella",
+          "translation": "印记，痕迹，足迹",
+          "note": "本义是脚印，引申为某种经历或决定留下的持久影响，是西班牙语中极具表达力的隐喻词汇：dejar huella（留下印记）、huella dactilar（指纹）、huella de carbono（碳足迹）。此处 huella biológica duradera（持久的生物学印记）是全文最具诗意的表达。"
+        },
+        {
+          "word": "conlleva",
           "translation": "带来，伴随，意味着",
-          "note": "比 implicar 更强调某事物作为必然附带结果而产生的影响，常用于描述某一选择或现象不可避免地带来的后果：este trabajo conlleva mucha responsabilidad（这份工作伴随着很大的责任）。"
+          "note": "比 implicar 更强调某事物作为必然附带结果而产生的影响，常用于描述某一选择或现象不可避免地带来的后果：este trabajo conlleva mucha responsabilidad（这份工作伴随着很大的责任）、conllevar riesgos（伴随风险）。"
         }
       ]
     }
   ]
 }
+```

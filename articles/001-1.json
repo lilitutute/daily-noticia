@@ -1,3 +1,6 @@
+明白了！你说得对，我之前修改了词汇讲解的词条，但没有同步更新正文中 `<strong>` 标签标注的词汇，导致两者对不上。现在我来全文核对并修正，确保正文加粗词和词汇讲解完全一一对应。
+
+```json
 {
   "date": "西语外刊阅读",
   "brand": "公众号【西语SuperO】",
@@ -17,22 +20,22 @@
         {
           "word": "análogos",
           "translation": "类似物，同类药物",
-          "note": "科学语境中指结构或功能相似的化合物，常见搭配为 análogo a（与……类似）。"
+          "note": "科学语境中指结构或功能相似的化合物，常见搭配为 análogo a（与……类似）。medicamentos análogos a la GLP-1 即『GLP-1类似药物』，是内分泌学和药理学的标准表达。"
         },
         {
           "word": "modulación",
           "translation": "调节，调控",
-          "note": "医学/生理学术语，指对某一生理过程的精细调节，比 control 更专业、更精准。"
+          "note": "医学和生理学术语，指对某一生理过程的精细调节，比 control 更专业、更精准。modulación del apetito（食欲调节）是描述GLP-1类药物作用机制的核心词组。"
         },
         {
           "word": "panacea",
           "translation": "万灵药，万能解决方案",
-          "note": "源自希腊语，新闻文体中常带讽刺意味，暗指某种被过度神化的解决方案。"
+          "note": "源自希腊神话中的治愈女神 Panakeia，新闻文体中常带讽刺意味，暗指某种被过度神化的解决方案：la tecnología no es una panacea（技术不是万能的）。"
         },
         {
           "word": "gordófoba",
           "translation": "厌胖的，对肥胖者存在偏见的",
-          "note": "由 gordo + fobia 构成的新造词，属社会议题核心词汇，gordofobia 指对胖人的系统性歧视。"
+          "note": "由 gordo（胖）+ fobia（恐惧/厌恶）构成的新造词，属社会议题核心词汇，gordofobia 指对胖人的系统性歧视与偏见，是本文的核心批判概念。"
         }
       ]
     },
@@ -44,12 +47,12 @@
         {
           "word": "juega al despiste",
           "translation": "故意混淆视听，转移注意力",
-          "note": "固定口语短语，jugar al despiste 字面意为『玩迷糊游戏』，新闻中用于批评某机构或人物刻意回避核心问题。"
+          "note": "固定口语短语，jugar al despiste 字面意为『玩迷糊游戏』，新闻中用于批评某机构或人物刻意回避核心问题、模糊焦点。带有强烈的批判色彩，是作者攻击WHO定义前后矛盾的修辞武器。"
         },
         {
           "word": "enfermedades no transmisibles",
           "translation": "非传染性疾病",
-          "note": "公共卫生领域核心术语，缩写为 ENT，与 enfermedades infecciosas（传染病）相对。"
+          "note": "公共卫生领域核心术语，缩写为 ENT（英文缩写 NCD），与 enfermedades infecciosas/transmisibles（传染病）相对，包括糖尿病、心血管疾病、癌症等，是全球疾病负担讨论的核心分类。"
         }
       ]
     },
@@ -61,12 +64,12 @@
         {
           "word": "ambigüedad",
           "translation": "模糊性，歧义",
-          "note": "正式学术/新闻词汇，指定义或立场不明确，比 confusión 更强调概念本身的不清晰。"
+          "note": "正式学术和新闻词汇，指定义或立场不明确，比 confusión 更强调概念本身的不清晰。esta ambigüedad（这种模糊性）在本文中直接指WHO在不同文件中对肥胖定性前后矛盾的问题。"
         },
         {
           "word": "patologizante",
           "translation": "将……病理化的",
-          "note": "由 patologizar 派生的形容词，批判性话语中常见，指将正常的身体状态或行为错误地定性为疾病。"
+          "note": "由 patologizar（病理化）派生的形容词，批判性话语中常见，指将正常的身体状态或行为错误地定性为疾病。visión patologizante del cuerpo gordo 即『将胖体视为病态的观念』，是本文核心批判对象。"
         }
       ]
     },
@@ -78,17 +81,17 @@
         {
           "word": "licencias lingüísticas",
           "translation": "语言上的随意借用，措辞失当",
-          "note": "licencia 在此指『超越规范的自由』，licencias lingüísticas 常用于批评媒体或机构滥用某些具有强烈情感色彩的词汇。"
+          "note": "licencia 在此指『超越规范的自由』，licencias lingüísticas 常用于批评媒体或机构滥用某些具有强烈情感色彩的词汇，此处讽刺将肥胖称为『大流行病』是对 pandemia 一词的不当挪用。"
         },
         {
           "word": "atemorizar",
           "translation": "使恐惧，恐吓",
-          "note": "比 asustar 语气更强、更正式，常用于描述有意为之的恐吓行为，多见于政治或媒体批评语境。"
+          "note": "比 asustar 语气更强、更正式，常用于描述有意为之的恐吓行为，多见于政治或媒体批评语境。atemorizar a la población（让民众感到恐惧）是作者批判WHO和制药公司传播策略的核心指控。"
         },
         {
           "word": "abordaje",
           "translation": "处理方式，应对方法",
-          "note": "医学和政策语境中的高频词，指对某一问题的整体处理思路，相当于 enfoque 或 tratamiento，但更强调系统性。"
+          "note": "医学和政策语境中的高频词，指对某一问题的整体处理思路，相当于 enfoque 或 tratamiento，但更强调系统性。abordaje del sobrepeso y la obesidad 即『对超重和肥胖问题的处理方式』。"
         }
       ]
     },
@@ -100,12 +103,12 @@
         {
           "word": "marquesinas",
           "translation": "公交站台，候车亭",
-          "note": "西班牙日常用词，指街头带顶棚的广告展示位或候车亭，是户外广告的重要载体。"
+          "note": "西班牙日常用词，指街头带顶棚的广告展示位或候车亭，是户外广告的重要载体。与 vallas publicitarias（大型广告牌）不同，marquesinas 特指公交站台处的小型广告位。"
         },
         {
           "word": "alentadores",
           "translation": "鼓励的，令人振奋的",
-          "note": "此处为反讽用法，作者用『鼓舞人心的』来讽刺那些实为恐吓性的广告语，需结合语境理解其讽刺意味。"
+          "note": "此处为反讽用法，作者用引号标出 alentadores，以『鼓舞人心的』来讽刺那些实为恐吓性的广告语。alentar 本义为『鼓励、激励』，反讽时需结合语境和引号识别。"
         }
       ]
     },
@@ -117,12 +120,12 @@
         {
           "word": "por el mero hecho de",
           "translation": "仅仅因为……",
-          "note": "固定短语，强调理由的单一性与武断性，mero 有『仅此而已』的轻蔑意味，常用于批判性语境。"
+          "note": "固定短语，强调理由的单一性与武断性，mero 有『仅此而已、不过如此』的轻蔑意味，常用于批判性语境：por el mero hecho de ser mujer（仅仅因为是女性）。比 solo porque 更正式，书面语色彩更强。"
         },
         {
           "word": "presuponen",
           "translation": "预设，先入为主地假定",
-          "note": "比 suponer 更强调『在没有证据的情况下提前假定』，批判性文章中常见。"
+          "note": "由 pre-（提前）+ suponer（假设）构成，比 suponer 更强调『在没有证据的情况下提前假定』，批判性文章中常见。le presuponen enfermedad 即『预先假定她患有疾病』，是作者批判医疗偏见的核心动词。"
         }
       ]
     },
@@ -133,18 +136,18 @@
       "vocab": [
         {
           "word": "vallas publicitarias",
-          "translation": "广告牌，户外广告牌",
-          "note": "新闻和广告领域常见词，valla 本义为『栅栏』，valla publicitaria 特指大型户外广告牌。"
+          "translation": "广告牌，户外大型广告牌",
+          "note": "新闻和广告领域常见词，valla 本义为『栅栏』，valla publicitaria 特指大型户外广告牌，与上文 marquesinas（公交站台广告位）形成对比，两者都是户外广告载体，但尺寸和位置不同。"
         },
         {
-          "word": "Estigmatizaríamos",
-          "translation": "污名化，给……贴上负面标签",
-          "note": ""
+          "word": "estigmatizaríamos",
+          "translation": "我们会污名化，我们会给……贴上负面标签",
+          "note": "条件式（condicional）用法，构成修辞性反问：¿estigmatizaríamos a quien lo padece?（我们会污名化患者吗？）预设答案为否，以此反衬社会对肥胖者的双重标准。estigmatizar 源自 estigma（污名、烙印）。"
         },
         {
           "word": "estigma de peso",
           "translation": "体重污名化",
-          "note": "社会学与公共卫生领域核心术语，指因体重而遭受的社会歧视与负面标签，estigma 源自希腊语，意为『烙印』。"
+          "note": "社会学与公共卫生领域核心术语，指因体重而遭受的社会歧视与负面标签，estigma 源自希腊语，意为『烙印』。研究表明体重污名化会导致心理健康问题、回避就医等严重后果，是本文的核心论据之一。"
         }
       ]
     },
@@ -156,12 +159,12 @@
         {
           "word": "dolencia",
           "translation": "病痛，不适",
-          "note": "比 enfermedad 更口语化，指轻微或模糊的身体不适，常见于医患对话语境。"
+          "note": "比 enfermedad 更口语化，指轻微或模糊的身体不适，常见于医患对话语境。ante cualquier dolencia（无论什么病痛）强调不论症状轻重，胖人都只会得到节食建议，是作者批判医疗偏见的具体例证。"
         },
         {
           "word": "negligencia médica",
           "translation": "医疗失职，医疗过失",
-          "note": "法律与医学领域术语，指医疗人员未尽到应有的注意义务，是本文批判力度最强的定性词之一。"
+          "note": "法律与医学领域术语，指医疗人员未尽到应有的注意义务，造成患者损害。作者将对胖人的差别对待直接定性为 negligencia médica，是本文批判力度最强的定性表达之一。"
         }
       ]
     },
@@ -173,17 +176,17 @@
         {
           "word": "apelaba a",
           "translation": "呼吁，诉诸",
-          "note": "固定搭配，后接名词或不定式，在新闻文体中常用于描述机构或人物发出正式呼吁。"
+          "note": "固定搭配 apelar a，后接名词或不定式，在新闻文体中常用于描述机构或人物发出正式呼吁：apelar a la solidaridad（呼吁团结）。此处过去未完成时 apelaba 表示文章发表时的持续性呼吁立场。"
         },
         {
           "word": "obsoleto",
           "translation": "过时的，陈旧的",
-          "note": "假朋友提示：与英语 obsolete 同源，含义一致，但西语学习者有时会误用 antiguo 代替，两者语气有别。"
+          "note": "假朋友提示：与英语 obsolete 同源，含义一致，但西语学习者有时会误用 antiguo（古老的）代替，两者语气有别：obsoleto 强调功能上的失效，antiguo 仅指时间上的久远。"
         },
         {
           "word": "recalificaban",
           "translation": "重新定性，重新分类",
-          "note": "由 re- + calificar 构成，强调对已有定义的修改，政策和医学文件中常见。"
+          "note": "由 re-（再次）+ calificar（定性、评定）构成，强调对已有定义的修改和重新标注，政策和医学文件中常见。作者用此词揭示《柳叶刀》研究在批评BMI的同时却悄然扩大了『肥胖』定义范围的矛盾。"
         }
       ]
     },
@@ -195,17 +198,17 @@
         {
           "word": "llamativo",
           "translation": "引人注目的，显眼的",
-          "note": "常用于书面语，指某事物因其矛盾性或突出性而引发关注，语气比 notable 更带主观评价色彩。"
+          "note": "常用于书面语，指某事物因其矛盾性或突出性而引发关注，语气比 notable 更带主观评价色彩。es llamativo cómo…（令人注目的是……）是新闻评论中引出矛盾现象的标准句型。"
         },
         {
           "word": "cepas resistentes",
           "translation": "耐药菌株",
-          "note": "医学/公共卫生核心词，cepa 指微生物的『株』或『菌株』，resistente 指对抗生素产生抗药性。"
+          "note": "医学和公共卫生核心词，cepa 指微生物的『株』或『菌株』，resistente 指对抗生素产生抗药性。cepas resistentes 是全球抗生素滥用危机的核心概念，作者以此与Ozempic滥用形成类比。"
         },
         {
           "word": "documentado",
-          "translation": "记录在案，有文献证明",
-          "note": "学术和新闻语境中的高频词，强调有正式证据支撑，比 registrar 更具权威性。"
+          "translation": "记录在案的，有文献证明的",
+          "note": "学术和新闻语境中的高频词，强调有正式证据支撑，比 registrado 更具权威性。efectos secundarios documentados 即『已有文献记录的副作用』，是科学报道中区分已证实与推测性风险的关键词。"
         }
       ]
     },
@@ -217,12 +220,12 @@
         {
           "word": "plausible",
           "translation": "合理的，可信的",
-          "note": "假朋友警示：不是『可悲的』，与英语 plausible（似乎合理的）同义，指某一假设在现有证据下具有可信度。"
+          "note": "假朋友警示：不是『可悲的』，与英语 plausible（似乎合理的）同义，指某一假设在现有证据下具有可信度。asociación plausible 是药物警戒报告中的标准表述，介于『可能相关』和『已证实相关』之间。"
         },
         {
           "word": "respaldan",
           "translation": "支持，为……提供依据",
-          "note": "比 apoyar 更正式，常用于学术或新闻语境，表示以证据或权威来源为某一论点背书。"
+          "note": "比 apoyar 更正式，常用于学术或新闻语境，表示以证据或权威来源为某一论点背书。estudios recientes respaldan esta alerta（近期研究支持了这一警示）是科学报道中引用佐证的标准句型。"
         }
       ]
     },
@@ -234,12 +237,12 @@
         {
           "word": "componente activo",
           "translation": "活性成分",
-          "note": "药学核心术语，指药物中发挥治疗作用的化学成分，与 excipiente（辅料）相对。"
+          "note": "药学核心术语，指药物中发挥治疗作用的化学成分，与 excipiente（辅料，不具治疗作用的填充成分）相对。一种药物可以有多个品牌名（Ozempic、Wegovy），但共享同一 componente activo（司美格鲁肽）。"
         },
         {
           "word": "advertido",
           "translation": "警告，提醒",
-          "note": "一词多义：既可表示『警告』（advertir de un peligro），也可表示『注意到』（advertir un cambio），需根据语境判断。"
+          "note": "advertir 一词多义，需根据语境判断：advertir de un peligro（警告某种危险）、advertir un cambio（注意到某种变化）。此处 ha advertido que no debería utilizarse 为『警告不应使用』，是引述专家立场的标准新闻动词。"
         }
       ]
     },
@@ -251,12 +254,12 @@
         {
           "word": "perfiles de seguridad",
           "translation": "安全性特征，安全性档案",
-          "note": "药物研发术语，指通过临床试验归纳出的某种药物副作用及风险的整体描述。"
+          "note": "药物研发术语，指通过临床试验归纳出的某种药物副作用及风险的整体描述。perfil 本义为『侧面轮廓』，引申为某事物的整体特征描述，perfiles de seguridad 与 eficacia（有效性）并列，是评估药物的两大核心维度。"
         },
         {
           "word": "patología metabólica",
           "translation": "代谢性疾病",
-          "note": "医学核心词组，指与新陈代谢相关的疾病（如糖尿病、高血脂等），是本文讨论用药适应症的关键术语。"
+          "note": "医学核心词组，指与新陈代谢相关的疾病（如糖尿病、高血脂、代谢综合征等），是本文讨论用药适应症的关键术语。sin patología metabólica 即『没有代谢疾病的』健康人群，是作者批判超适应症用药的核心概念。"
         }
       ]
     },
@@ -268,17 +271,17 @@
         {
           "word": "anorexígeno",
           "translation": "抑食的，食欲抑制的",
-          "note": "医学专业术语，指能够减少食欲的药物或物质，源自 anorexia（厌食）+ -geno（产生）。"
+          "note": "医学专业术语，指能够减少食欲的药物或物质，源自 anorexia（厌食）+ -geno（产生……的）。efecto anorexígeno probado 即『经证实的食欲抑制效果』，是描述GLP-1类药物药理作用的精确表达。"
         },
         {
           "word": "traduce en",
           "translation": "转化为，体现为",
-          "note": "固定搭配 traducirse en，后接名词，表示某一原因或条件最终产生的实际结果，学术和新闻文体中高频使用。"
+          "note": "固定搭配 traducirse en，后接名词，表示某一原因或条件最终产生的实际结果：el esfuerzo se traduce en resultados（努力转化为成果）。学术和新闻文体中高频使用，比 convertirse en 更强调因果转化关系。"
         },
         {
           "word": "cronificación",
           "translation": "慢性化，长期化",
-          "note": "医学术语，指某一状况或治疗从急性/短期转变为慢性/长期的过程，是本文批判过度依赖药物的核心概念之一。"
+          "note": "医学术语，由 crónico（慢性的）派生，指某一状况或治疗从急性/短期转变为慢性/长期的过程。cronificación del uso de medicación 即『用药的长期化/依赖化』，是本文批判过度依赖药物而忽视生活方式干预的核心概念。"
         }
       ]
     },
@@ -289,18 +292,18 @@
       "vocab": [
         {
           "word": "encajen en",
-          "translation": "符合，契合",
-          "note": "固定搭配 encajar en，字面意为『嵌入』，引申为『符合某种标准或期待』，常见于社会批评语境。"
+          "translation": "符合，契合，嵌入",
+          "note": "固定搭配 encajar en，字面意为『嵌入、卡进』，引申为『符合某种标准或期待』：encajar en el molde（符合模板）、encajar en los cánones de belleza（符合审美标准）。常见于社会批评语境，暗含对标准本身的质疑。"
         },
         {
           "word": "a costa de",
           "translation": "以……为代价",
-          "note": "固定介词短语，强调为达到某目的所付出的牺牲或代价，书面语和口语均常用。"
+          "note": "固定介词短语，强调为达到某目的所付出的牺牲或代价，书面语和口语均常用：a costa de su salud（以健康为代价）、a costa de todo（不惜一切代价）。"
         },
         {
           "word": "ideación suicida",
           "translation": "自杀意念",
-          "note": "心理健康领域专业术语，指产生自杀想法但未必付诸行动，是药物不良反应报告中的严重警示项。"
+          "note": "心理健康领域专业术语，指产生自杀想法但未必付诸行动，是药物不良反应报告中的严重警示项。欧洲药品管理局已要求GLP-1类药物在说明书中标注此风险，是本文列举副作用中最具冲击力的一项。"
         }
       ]
     },
@@ -312,12 +315,12 @@
         {
           "word": "patología de base",
           "translation": "基础疾病，基础病理",
-          "note": "临床医学常用术语，指患者已有的、作为治疗前提的疾病，相当于 enfermedad subyacente。"
+          "note": "临床医学常用术语，指患者已有的、作为治疗前提的疾病，相当于 enfermedad subyacente 或 enfermedad de fondo。sin patología de base 即『没有基础疾病』，是判断用药适应症是否合理的核心条件。"
         },
         {
           "word": "costear",
           "translation": "负担……的费用，支付",
-          "note": "比 pagar 更正式，强调经济上的承受能力，常用于讨论医疗、教育等社会议题。"
+          "note": "比 pagar 更正式，强调经济上的承受能力，常用于讨论医疗、教育等社会议题：no pueden costear la educación privada（负担不起私立教育的费用）。此处 costear tratamientos tan caros 将昂贵药物与经济特权直接挂钩，是本文社会批判的落脚点。"
         }
       ]
     },
@@ -329,14 +332,15 @@
         {
           "word": "perpetúa",
           "translation": "使延续，使永久化",
-          "note": "正式书面词，指使某种状态或制度长期维持，常见于社会批评和政治分析文体。"
+          "note": "正式书面词，指使某种状态或制度长期维持，常见于社会批评和政治分析文体：perpetuar la desigualdad（使不平等延续）、perpetuar el statu quo（维持现状）。比 mantener 更强调主动延续某种不公正结构的含义。"
         },
         {
           "word": "erosiona",
           "translation": "侵蚀，逐渐削弱",
-          "note": "本义为地质学的『侵蚀』，引申为对某种价值观或制度的逐渐破坏，新闻和学术文体中常见。"
+          "note": "本义为地质学的『侵蚀』，引申为对某种价值观或制度的逐渐破坏，新闻和学术文体中常见：erosionar la democracia（侵蚀民主）、erosionar la confianza（逐渐瓦解信任）。比 destruir 更强调渐进性和隐蔽性。"
         }
       ]
     }
   ]
 }
+```
