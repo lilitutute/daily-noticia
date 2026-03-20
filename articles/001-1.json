@@ -15,24 +15,19 @@
       "zh": "自从Ozempic及其他GLP-1类似药物上市以来，『瘦』便被包装成了解决一切问题的万能答案。这种药物最初是为II型糖尿病患者研发的，通过调节食欲产生减重的副作用，如今却已演变为人们对纤瘦身材的『渴望灵药』。在一个极度厌胖的社会里，谁不想更瘦呢？现在这成为了可能——你只需打几针就能实现。",
       "vocab": [
         {
-          "word": "análogos",
-          "translation": "类似物，同类药物",
-          "note": "科学语境中指结构或功能相似的化合物，常见搭配为 análogo a（与……类似）。medicamentos análogos a la GLP-1 即GLP-1类似药物，是内分泌学和药理学的标准表达。"
-        },
-        {
-          "word": "modulación",
-          "translation": "调节，调控",
-          "note": "医学和生理学术语，指对某一生理过程的精细调节，比 control 更专业、更精准。modulación del apetito（食欲调节）是描述GLP-1类药物作用机制的核心词组。"
+          "word": "han ido + 副动词",
+          "translation": "逐渐……，一直在……",
+          "note": "ir + 副动词 是西班牙语中表达渐进过程的重要句型，强调某一行为或状态随时间缓慢演变，比简单的现在完成时更突出过程的累积性：han ido jugando con la delgadez（一直在拿纤瘦做文章）、la situación ha ido empeorando（情况在逐渐恶化）。与 estar + 副动词（描述当下正在进行）的区别在于，ir + 副动词 更强调时间维度上的渐进积累。"
         },
         {
           "word": "panacea",
           "translation": "万灵药，万能解决方案",
-          "note": "源自希腊神话中的治愈女神 Panakeia，新闻文体中常带讽刺意味，暗指某种被过度神化的解决方案：la tecnología no es una panacea（技术不是万能的）。"
+          "note": "源自希腊神话中的治愈女神 Panakeia，新闻和评论文体中几乎总带讽刺意味，暗指某种被过度神化、实则无法解决所有问题的方案：la tecnología no es una panacea（技术不是万能的）、presentar algo como una panacea（将某物包装成万能药）。掌握这个词可以大幅提升书面语的批判性表达能力。"
         },
         {
           "word": "gordófoba",
           "translation": "厌胖的，对肥胖者存在偏见的",
-          "note": "由 gordo（胖）+ fobia（恐惧/厌恶）构成的新造词，属社会议题核心词汇，gordofobia 指对胖人的系统性歧视与偏见，是本文的核心批判概念。"
+          "note": "由 gordo（胖）+ fobia（恐惧/厌恶）构成的新造词，属当代社会议题核心词汇。gordofobia 指对胖人的系统性歧视与偏见，是本文的核心批判概念。这类由名词/形容词 + fobia 构成的新词在当代西语媒体中大量涌现：homofobia（恐同）、xenofobia（仇外）、islamofobia（伊斯兰恐惧症），掌握这一构词规律可举一反三。"
         }
       ]
     },
@@ -44,12 +39,12 @@
         {
           "word": "juega al despiste",
           "translation": "故意混淆视听，转移注意力",
-          "note": "固定口语短语，jugar al despiste 字面意为玩迷糊游戏，新闻中用于批评某机构或人物刻意回避核心问题、模糊焦点。带有强烈的批判色彩，是作者攻击WHO定义前后矛盾的修辞武器。"
+          "note": "固定口语短语，jugar al despiste 字面意为玩迷糊游戏，新闻评论中用于批评某机构或人物刻意回避核心问题、模糊焦点。带有强烈的批判色彩，是作者攻击WHO定义前后矛盾的修辞武器。近义表达：escurrir el bulto（推卸责任、回避问题）、dar rodeos（绕弯子）。"
         },
         {
-          "word": "enfermedades no transmisibles",
-          "translation": "非传染性疾病",
-          "note": "公共卫生领域核心术语，缩写为 ENT（英文缩写 NCD），与 enfermedades infecciosas/transmisibles（传染病）相对，包括糖尿病、心血管疾病、癌症等，是全球疾病负担讨论的核心分类。"
+          "word": "factor de riesgo",
+          "translation": "风险因素，危险因素",
+          "note": "公共卫生和新闻报道的核心术语，指增加某种疾病发生概率的变量，但本身不构成因果关系。factor de riesgo para（……的风险因素）是固定搭配，在健康类报道中极高频：el tabaco es un factor de riesgo para el cáncer（吸烟是癌症的风险因素）。注意：factor de riesgo 与 causa（原因）有本质区别，前者表示相关性，后者表示因果性，这一区分是理解科学报道的关键。"
         }
       ]
     },
@@ -59,14 +54,14 @@
       "zh": "然而，在其他语境中——例如《国际疾病分类》（ICD-11）——肥胖又被视为一种慢性疾病，并有专属的诊断代码。这种模糊性加剧了临床和社会层面的混乱，并强化了将胖体视为病态的观念。",
       "vocab": [
         {
-          "word": "ambigüedad",
-          "translation": "模糊性，歧义",
-          "note": "正式学术和新闻词汇，指定义或立场不明确，比 confusión 更强调概念本身的不清晰。esta ambigüedad（这种模糊性）在本文中直接指WHO在不同文件中对肥胖定性前后矛盾的问题。"
+          "word": "contribuye a",
+          "translation": "助长，加剧，有助于",
+          "note": "动词 contribuir a 后接名词或不定式，表示对某一结果的促成作用，可正可负，需结合语境判断方向。此处 esta ambigüedad contribuye a la confusión（这种模糊性加剧了混乱）为负面语境。与 causar（造成，强调直接因果）相比，contribuir a 更强调部分促成、共同作用：varios factores contribuyen al problema（多种因素共同造成了这一问题）。"
         },
         {
           "word": "patologizante",
           "translation": "将……病理化的",
-          "note": "由 patologizar（病理化）派生的形容词，批判性话语中常见，指将正常的身体状态或行为错误地定性为疾病。visión patologizante del cuerpo gordo 即将胖体视为病态的观念，是本文核心批判对象。"
+          "note": "由 patologizar（病理化）派生的形容词，批判性话语中的高频词，指将正常的身体状态或行为错误地定性为疾病。visión patologizante del cuerpo gordo 即将胖体视为病态的观念，是本文核心批判对象。同类构词：criminalizante（将……犯罪化的）、estigmatizante（污名化的），掌握 -ante/-iente 现在分词形容词化的构词规律，可大幅扩展批判性词汇。"
         }
       ]
     },
@@ -78,17 +73,17 @@
         {
           "word": "licencias lingüísticas",
           "translation": "语言上的随意借用，措辞失当",
-          "note": "licencia 在此指超越规范的自由，licencias lingüísticas 常用于批评媒体或机构滥用某些具有强烈情感色彩的词汇，此处讽刺将肥胖称为大流行病是对 pandemia 一词的不当挪用。"
+          "note": "licencia 在此指超越规范的自由，licencias lingüísticas 常用于批评媒体或机构滥用某些具有强烈情感色彩的词汇。此处讽刺将肥胖称为大流行病是对 pandemia 一词的不当挪用。licencia 的多义性值得掌握：licencia de conducir（驾照）、licencia por maternidad（产假）、tomarse licencias（放肆、越界）。"
         },
         {
           "word": "atemorizar",
           "translation": "使恐惧，恐吓",
-          "note": "比 asustar 语气更强、更正式，常用于描述有意为之的恐吓行为，多见于政治或媒体批评语境。atemorizar a la población（让民众感到恐惧）是作者批判WHO和制药公司传播策略的核心指控。"
+          "note": "比 asustar 语气更强、更正式，常用于描述有意为之的恐吓行为，多见于政治或媒体批评语境。atemorizar a la población（让民众感到恐惧）是作者批判WHO和制药公司传播策略的核心指控。近义词语气梯度：inquietar（使不安）< asustar（使害怕）< atemorizar（使恐惧）< aterrorizar（使极度恐惧）。"
         },
         {
           "word": "abordaje",
           "translation": "处理方式，应对方法",
-          "note": "医学和政策语境中的高频词，指对某一问题的整体处理思路，相当于 enfoque 或 tratamiento，但更强调系统性。abordaje del sobrepeso y la obesidad 即对超重和肥胖问题的处理方式。"
+          "note": "来自动词 abordar（登船、接近、处理），医学和政策语境中的高频词，指对某一问题的整体处理思路和方法论框架，比 enfoque（视角）更强调行动层面，比 tratamiento（治疗）更宽泛。abordaje del sobrepeso y la obesidad 即对超重和肥胖问题的处理方式。常见搭配：abordaje integral（综合干预）、abordaje multidisciplinar（多学科处理）。"
         }
       ]
     },
@@ -99,13 +94,13 @@
       "vocab": [
         {
           "word": "marquesinas",
-          "translation": "公交站台，候车亭",
-          "note": "西班牙日常用词，指街头带顶棚的广告展示位或候车亭，是户外广告的重要载体。与 vallas publicitarias（大型广告牌）不同，marquesinas 特指公交站台处的小型广告位。"
+          "translation": "公交站台广告位，候车亭",
+          "note": "西班牙日常生活词汇，指街头带顶棚的候车亭，是户外广告的重要载体。与 vallas publicitarias（大型路边广告牌）不同，marquesinas 特指公交站台处的小型广告位，两者共同构成西班牙城市户外广告的主要形式。"
         },
         {
           "word": "alentadores",
           "translation": "鼓励的，令人振奋的",
-          "note": "此处为反讽用法，作者用引号标出 alentadores，以鼓舞人心的来讽刺那些实为恐吓性的广告语。alentar 本义为鼓励、激励，反讽时需结合语境和引号识别。"
+          "note": "此处为反讽用法，作者用引号标出 alentadores，以『鼓舞人心』来讽刺那些实为恐吓性的广告语。alentar 本义为鼓励、激励，alentador 是其形容词形式：resultados alentadores（令人鼓舞的结果）、señales alentadoras（积极信号）。识别反讽用法（ironía）是C1阅读的核心能力，引号是最重要的反讽标记之一。"
         }
       ]
     },
@@ -117,12 +112,12 @@
         {
           "word": "por el mero hecho de",
           "translation": "仅仅因为……",
-          "note": "固定短语，强调理由的单一性与武断性，mero 有仅此而已、不过如此的轻蔑意味，常用于批判性语境：por el mero hecho de ser mujer（仅仅因为是女性）。比 solo porque 更正式，书面语色彩更强。"
+          "note": "固定短语，强调理由的单一性与武断性，mero 有『仅此而已、不过如此』的轻蔑意味，常用于批判性语境：por el mero hecho de ser mujer（仅仅因为是女性）、por el mero hecho de existir（仅仅因为存在）。比 solo porque 更正式，书面语色彩更强，是C1写作中表达批判立场的有力工具。"
         },
         {
           "word": "presuponen",
           "translation": "预设，先入为主地假定",
-          "note": "由 pre-（提前）+ suponer（假设）构成，比 suponer 更强调在没有证据的情况下提前假定，批判性文章中常见。le presuponen enfermedad 即预先假定她患有疾病，是作者批判医疗偏见的核心动词。"
+          "note": "由 pre-（提前）+ suponer（假设）构成，比 suponer 更强调在没有证据的情况下提前假定，批判性文章中常见。le presuponen enfermedad 即预先假定她患有疾病，是作者批判医疗偏见的核心动词。同类构词：prejuzgar（预先评判）、predeterminar（预先决定），掌握 pre- 前缀可举一反三。"
         }
       ]
     },
@@ -132,19 +127,19 @@
       "zh": "如果这则广告是针对癌症患者的，人们还会用同样的眼光看待它吗？我们会看到写着『癌症致命』的广告牌吗？我们会污名化那些患病的人吗？答案是否定的。在超重和肥胖问题上，人们允许了太多的随意，尽管已有充分证据表明体重污名化会造成巨大伤害。",
       "vocab": [
         {
-          "word": "vallas publicitarias",
-          "translation": "广告牌，户外大型广告牌",
-          "note": "新闻和广告领域常见词，valla 本义为栅栏，valla publicitaria 特指大型户外广告牌，与上文 marquesinas（公交站台广告位）形成对比，两者都是户外广告载体，但尺寸和位置不同。"
+          "word": "por más que + 虚拟式",
+          "translation": "尽管……，无论……",
+          "note": "固定让步从句结构，后接虚拟式，表示即便某事为真也无法改变结论：por más que esté demostrado（尽管已有证据证明）、por más que lo intente（无论怎么努力）。与 aunque 的区别：por más que 更强调让步的徒劳感和无奈，语气更强烈，是C1写作中表达强烈让步的重要句型。"
         },
         {
           "word": "estigmatizaríamos",
           "translation": "我们会污名化，我们会给……贴上负面标签",
-          "note": "条件式（condicional）用法，构成修辞性反问：¿estigmatizaríamos a quien lo padece?（我们会污名化患者吗？）预设答案为否，以此反衬社会对肥胖者的双重标准。estigmatizar 源自 estigma（污名、烙印）。"
+          "note": "条件式（condicional）用法，构成修辞性反问：¿estigmatizaríamos a quien lo padece?（我们会污名化患者吗？）预设答案为否，以此反衬社会对肥胖者的双重标准。estigmatizar 源自 estigma（污名、烙印），条件式在此不表示假设，而是一种修辞策略，邀请读者自行得出结论。"
         },
         {
           "word": "estigma de peso",
           "translation": "体重污名化",
-          "note": "社会学与公共卫生领域核心术语，指因体重而遭受的社会歧视与负面标签，estigma 源自希腊语，意为烙印。研究表明体重污名化会导致心理健康问题、回避就医等严重后果，是本文的核心论据之一。"
+          "note": "社会学与公共卫生领域核心术语，指因体重而遭受的社会歧视与负面标签，estigma 源自希腊语，意为烙印。研究表明体重污名化会导致心理健康问题、回避就医等严重后果，是本文的核心论据之一。同类表达：estigma social（社会污名）、estigma racial（种族污名）。"
         }
       ]
     },
@@ -155,13 +150,13 @@
       "vocab": [
         {
           "word": "dolencia",
-          "translation": "病痛，不适",
-          "note": "比 enfermedad 更口语化，指轻微或模糊的身体不适，常见于医患对话语境。ante cualquier dolencia（无论什么病痛）强调不论症状轻重，胖人都只会得到节食建议，是作者批判医疗偏见的具体例证。"
+          "translation": "病痛，不适，身体毛病",
+          "note": "比 enfermedad 更口语化，指轻微或模糊的身体不适，常见于医患对话和日常叙述语境。ante cualquier dolencia（无论什么病痛）强调不论症状轻重，胖人都只会得到节食建议。近义词辨析：dolencia（泛指身体不适，偏口语）、enfermedad（疾病，更正式）、padecimiento（长期病痛，更书面）、malestar（不适感，最轻微）。"
         },
         {
-          "word": "negligencia médica",
-          "translation": "医疗失职，医疗过失",
-          "note": "法律与医学领域术语，指医疗人员未尽到应有的注意义务，造成患者损害。作者将对胖人的差别对待直接定性为 negligencia médica，是本文批判力度最强的定性表达之一。"
+          "word": "de primeras",
+          "translation": "第一时间，首先，一开始",
+          "note": "口语化固定短语，意为『最先、立刻』，常用于描述第一反应或优先获得的待遇：de primeras no me gustó（一开始我不喜欢）。本文 el tratamiento que se le ofrecería de primeras a una persona delgada（瘦人本可第一时间获得的治疗）揭示了医疗系统对胖人的系统性差别对待，de primeras 在此强调的是被剥夺的优先权。"
         }
       ]
     },
@@ -173,17 +168,17 @@
         {
           "word": "apelaba a",
           "translation": "呼吁，诉诸",
-          "note": "固定搭配 apelar a，后接名词或不定式，在新闻文体中常用于描述机构或人物发出正式呼吁：apelar a la solidaridad（呼吁团结）。此处过去未完成时 apelaba 表示文章发表时的持续性呼吁立场。"
+          "note": "固定搭配 apelar a，后接名词或不定式，在新闻文体中常用于描述机构或人物发出正式呼吁：apelar a la solidaridad（呼吁团结）、apelar a la razón（诉诸理性）。此处过去未完成时 apelaba 表示文章发表时的持续性呼吁立场。注意 apelar a 与 recurrir a（求助于、采用）的区别：apelar a 更强调道义上的呼吁，recurrir a 更强调实际手段的使用。"
         },
         {
-          "word": "obsoleto",
-          "translation": "过时的，陈旧的",
-          "note": "假朋友提示：与英语 obsolete 同源，含义一致，但西语学习者有时会误用 antiguo（古老的）代替，两者语气有别：obsoleto 强调功能上的失效，antiguo 仅指时间上的久远。"
+          "word": "han colado",
+          "translation": "悄悄塞入，偷偷混入",
+          "note": "colar 本义为过滤、渗透，口语中引申为『偷偷混入、蒙混过关』：colar una mentira（混入一个谎言）、colarse en una fiesta（混进派对）。han colado la palabra 'obesidad' 即悄悄将『肥胖』一词提前引入，是作者揭露《柳叶刀》研究暗中扩大肥胖定义的核心批判动词，带有强烈的讽刺色彩。"
         },
         {
           "word": "recalificaban",
           "translation": "重新定性，重新分类",
-          "note": "由 re-（再次）+ calificar（定性、评定）构成，强调对已有定义的修改和重新标注，政策和医学文件中常见。作者用此词揭示《柳叶刀》研究在批评BMI的同时却悄然扩大了肥胖定义范围的矛盾。"
+          "note": "由 re-（再次）+ calificar（定性、评定）构成，强调对已有定义的修改和重新标注，政策和医学文件中常见。作者用此词揭示《柳叶刀》研究在批评BMI的同时却悄然扩大了肥胖定义范围的矛盾。同类构词：reclasificar（重新分类）、redefinir（重新定义）、reinterpretar（重新诠释），掌握 re- 前缀可举一反三。"
         }
       ]
     },
@@ -194,18 +189,18 @@
       "vocab": [
         {
           "word": "llamativo",
-          "translation": "引人注目的，显眼的",
-          "note": "常用于书面语，指某事物因其矛盾性或突出性而引发关注，语气比 notable 更带主观评价色彩。es llamativo cómo…（令人注目的是……）是新闻评论中引出矛盾现象的标准句型。"
+          "translation": "引人注目的，显眼的，耐人寻味的",
+          "note": "常用于书面语，指某事物因其矛盾性、反常性或突出性而引发关注，语气比 notable 更带主观评价色彩。es llamativo cómo…（令人注目的是……）是新闻评论中引出矛盾现象的标准句型。近义词辨析：llamativo（引人注目，带评价色彩）、notable（值得注意，更中性）、sorprendente（令人惊讶，更强调意外感）。"
         },
         {
-          "word": "cepas resistentes",
-          "translation": "耐药菌株",
-          "note": "医学和公共卫生核心词，cepa 指微生物的株或菌株，resistente 指对抗生素产生抗药性。cepas resistentes 是全球抗生素滥用危机的核心概念，作者以此与Ozempic滥用形成类比。"
+          "word": "mientras que",
+          "translation": "而……，与此同时却……",
+          "note": "表示对比或对立关系的连接词，是新闻和论说文中构建矛盾对比的核心工具。本文 se insiste en no abusar de antibióticos, mientras que se prescribe cada vez más semaglutida（一边强调不滥用抗生素，另一边却越来越多开具司美格鲁肽）正是通过 mientras que 将两种矛盾现象并置，产生强烈的批判效果。注意与 mientras（当……的时候，表时间同步）的区别。"
         },
         {
           "word": "documentado",
           "translation": "记录在案的，有文献证明的",
-          "note": "学术和新闻语境中的高频词，强调有正式证据支撑，比 registrado 更具权威性。efectos secundarios documentados 即已有文献记录的副作用，是科学报道中区分已证实与推测性风险的关键词。"
+          "note": "学术和新闻语境中的高频词，强调有正式证据支撑，比 registrado 更具权威性和学术色彩。efectos secundarios documentados 即已有文献记录的副作用，是科学报道中区分已证实风险与推测性风险的关键词。常见搭配：casos documentados（有据可查的案例）、evidencia documentada（有文献支撑的证据）。"
         }
       ]
     },
@@ -216,13 +211,13 @@
       "vocab": [
         {
           "word": "plausible",
-          "translation": "合理的，可信的",
-          "note": "假朋友警示：不是可悲的，与英语 plausible（似乎合理的）同义，指某一假设在现有证据下具有可信度。asociación plausible 是药物警戒报告中的标准表述，介于可能相关和已证实相关之间。"
+          "translation": "合理的，可信的，站得住脚的",
+          "note": "假朋友警示：与英语 plausible（似乎合理的）同义，绝非『可悲的』。指某一假设在现有证据下具有可信度，asociación plausible 是药物警戒报告中的标准表述，介于『可能相关』和『已证实相关』之间。常见搭配：explicación plausible（合理的解释）、hipótesis plausible（可信的假设）。"
         },
         {
           "word": "respaldan",
-          "translation": "支持，为……提供依据",
-          "note": "比 apoyar 更正式，常用于学术或新闻语境，表示以证据或权威来源为某一论点背书。estudios recientes respaldan esta alerta（近期研究支持了这一警示）是科学报道中引用佐证的标准句型。"
+          "translation": "支持，为……提供依据，佐证",
+          "note": "来自 respaldar（字面为用背部支撑），比 apoyar 更正式，常用于学术或新闻语境，表示以证据或权威来源为某一论点背书。estudios recientes respaldan esta alerta（近期研究支持了这一警示）是科学报道中引用佐证的标准句型。近义词辨析：respaldar（用证据支撑）、corroborar（证实，更强调独立验证）、avalar（担保，更强调权威背书）。"
         }
       ]
     },
@@ -232,14 +227,14 @@
       "zh": "司美格鲁肽（Ozempic和Wegovy的活性成分）的主要研发者之一Daniel Drucker在接受本报采访时警告称，该药物不应用于没有超重或肥胖问题的人，因为其对健康个体的长期影响尚不明确。他的原话是：『如果你没有超重或肥胖，你绝对不应该服用这些药物。你承担了所有风险，却没有获得任何益处，这一点我非常确定。』",
       "vocab": [
         {
-          "word": "componente activo",
-          "translation": "活性成分",
-          "note": "药学核心术语，指药物中发挥治疗作用的化学成分，与 excipiente（辅料，不具治疗作用的填充成分）相对。一种药物可以有多个品牌名（Ozempic、Wegovy），但共享同一 componente activo（司美格鲁肽）。"
+          "word": "en palabras literales",
+          "translation": "原话是，用他/她自己的话说",
+          "note": "新闻引语中的重要标记短语，用于引入被采访者的直接原话，强调以下内容是逐字引用而非转述或概括。与 según + 人名（根据……所说）相比，en palabras literales 更强调引用的原汁原味，常用于作者希望让证据自己说话的场合。类似表达：textualmente（原文如此）、en sus propias palabras（用他自己的话）。"
         },
         {
-          "word": "advertido",
-          "translation": "警告，提醒",
-          "note": "advertir 一词多义，需根据语境判断：advertir de un peligro（警告某种危险）、advertir un cambio（注意到某种变化）。此处 ha advertido que no debería utilizarse 为警告不应使用，是引述专家立场的标准新闻动词。"
+          "word": "asumir riesgos",
+          "translation": "承担风险，接受风险",
+          "note": "固定搭配，asumir 在此意为主动接受或承担某种后果，比 correr riesgos（冒险）更强调主动性和责任归属：asumir las consecuencias（承担后果）、asumir la responsabilidad（承担责任）。estás asumiendo todos los riesgos sin obtener ninguno de los beneficios（你承担了所有风险却没有获得任何益处）是本文最具说服力的专家警告，asumir 的精确用法值得掌握。"
         }
       ]
     },
@@ -249,14 +244,14 @@
       "zh": "这印证了Verificat等独立来源所指出的内容：Ozempic和司美格鲁肽均未被评估为健康人群的减重治疗方案，对于没有代谢疾病的患者，研究人员仅研究了其安全性特征，而非有效性。",
       "vocab": [
         {
-          "word": "perfiles de seguridad",
-          "translation": "安全性特征，安全性档案",
-          "note": "药物研发术语，指通过临床试验归纳出的某种药物副作用及风险的整体描述。perfil 本义为侧面轮廓，引申为某事物的整体特征描述，perfiles de seguridad 与 eficacia（有效性）并列，是评估药物的两大核心维度。"
+          "word": "fuentes independientes",
+          "translation": "独立来源，独立信源",
+          "note": "新闻报道和媒体素养的核心概念，fuentes independientes 指不受利益相关方（如制药公司）资助或影响的信息来源，与 fuentes oficiales（官方来源）或 fuentes financiadas por la industria（行业资助来源）形成对比。本文引用 Verificat 作为 fuente independiente，是作者建立论证可信度的重要修辞策略。"
         },
         {
-          "word": "patología metabólica",
-          "translation": "代谢性疾病",
-          "note": "医学核心词组，指与新陈代谢相关的疾病（如糖尿病、高血脂、代谢综合征等），是本文讨论用药适应症的关键术语。sin patología metabólica 即没有代谢疾病的健康人群，是作者批判超适应症用药的核心概念。"
+          "word": "únicamente",
+          "translation": "仅仅，只，唯一地",
+          "note": "副词，比 solo 更正式，强调排他性和限制性，常用于书面语和学术表达：únicamente se han estudiado los perfiles de seguridad（仅研究了安全性特征）。在论证语境中，únicamente 是缩小范围、凸显局限性的有力工具，暗示研究的不完整性。注意不要与 solamente 混用，两者语义相同但 únicamente 书面感更强。"
         }
       ]
     },
@@ -266,19 +261,19 @@
       "zh": "另一方面，尽管司美格鲁肽具有经证实的抑食效果，但这种食欲抑制并不能转化为对健康饮食习惯的养成。如果在没有配套支持的情况下开具处方——没有营养教育，也没有心理辅导——它就会变成一种慢性治疗：患者在服药期间体重下降，但一旦停药便会反弹，且没有养成任何可持续的生活习惯。此外还需考虑肌肉流失、代谢减缓以及在没有明确诊断的情况下潜在的用药慢性化等风险。",
       "vocab": [
         {
-          "word": "anorexígeno",
-          "translation": "抑食的，食欲抑制的",
-          "note": "医学专业术语，指能够减少食欲的药物或物质，源自 anorexia（厌食）+ -geno（产生……的）。efecto anorexígeno probado 即经证实的食欲抑制效果，是描述GLP-1类药物药理作用的精确表达。"
+          "word": "sin acompañamiento",
+          "translation": "没有配套支持，缺乏辅助干预",
+          "note": "acompañamiento 本义为陪伴、伴奏，在医疗和社会服务语境中引申为配套的支持措施，如心理辅导、营养教育等。sin acompañamiento 即在没有任何配套干预的情况下单独用药，是本文批判单纯依赖药物而忽视整体干预的核心概念。类似表达：sin seguimiento（没有随访）、sin apoyo psicosocial（没有社会心理支持）。"
         },
         {
           "word": "traduce en",
           "translation": "转化为，体现为",
-          "note": "固定搭配 traducirse en，后接名词，表示某一原因或条件最终产生的实际结果：el esfuerzo se traduce en resultados（努力转化为成果）。学术和新闻文体中高频使用，比 convertirse en 更强调因果转化关系。"
+          "note": "固定搭配 traducirse en，后接名词，表示某一原因或条件最终产生的实际结果：el esfuerzo se traduce en resultados（努力转化为成果）、la crisis se tradujo en desempleo（危机转化为失业）。学术和新闻文体中高频使用，比 convertirse en 更强调因果转化关系，是C1写作中表达结果的精准工具。"
         },
         {
           "word": "cronificación",
-          "translation": "慢性化，长期化",
-          "note": "医学术语，由 crónico（慢性的）派生，指某一状况或治疗从急性或短期转变为慢性或长期的过程。cronificación del uso de medicación 即用药的长期化或依赖化，是本文批判过度依赖药物而忽视生活方式干预的核心概念。"
+          "translation": "慢性化，长期化，依赖化",
+          "note": "由 crónico（慢性的）派生，指某一状况或治疗从短期转变为长期乃至永久性依赖的过程。cronificación del uso de medicación 即用药的长期化或依赖化，是本文批判过度依赖药物而忽视生活方式干预的核心概念。掌握 -ción 名词化后缀：cronificar → cronificación，类似：flexibilizar → flexibilización（灵活化）、precarizar → precarización（不稳定化）。"
         }
       ]
     },
@@ -290,17 +285,17 @@
         {
           "word": "encajen en",
           "translation": "符合，契合，嵌入",
-          "note": "固定搭配 encajar en，字面意为嵌入、卡进，引申为符合某种标准或期待：encajar en el molde（符合模板）、encajar en los cánones de belleza（符合审美标准）。常见于社会批评语境，暗含对标准本身的质疑。"
+          "note": "固定搭配 encajar en，字面意为嵌入、卡进，引申为符合某种标准或期待：encajar en el molde（符合模板）、encajar en los cánones de belleza（符合审美标准）。常见于社会批评语境，暗含对标准本身的质疑。注意虚拟式用法：para que encajen（为了让他们符合），目的从句中 para que 后必须接虚拟式。"
         },
         {
-          "word": "a costa de",
-          "translation": "以……为代价",
-          "note": "固定介词短语，强调为达到某目的所付出的牺牲或代价，书面语和口语均常用：a costa de su salud（以健康为代价）、a costa de todo（不惜一切代价）。"
+          "word": "cuyo uso se ha extendido",
+          "translation": "其使用已扩展，其用途已延伸",
+          "note": "cuyo 是关系形容词，表示所属关系，相当于『其……的』，修饰后面的名词：medicamentos cuyo uso se ha extendido（使用范围已扩展的药物）。cuyo/cuya/cuyos/cuyas 需与所修饰名词的性数保持一致，是B2-C1书面语的重要语法点，口语中常被 que + posesivo 替代，但书面语中 cuyo 更精准简洁。"
         },
         {
           "word": "ideación suicida",
           "translation": "自杀意念",
-          "note": "心理健康领域专业术语，指产生自杀想法但未必付诸行动，是药物不良反应报告中的严重警示项。欧洲药品管理局已要求GLP-1类药物在说明书中标注此风险，是本文列举副作用中最具冲击力的一项。"
+          "note": "心理健康领域的重要术语，指产生自杀想法但未必付诸行动。ideación 来自 idea（想法）+ -ción（名词化后缀），指某种想法的反复出现和萦绕，ideación suicida 是药物不良反应报告中的严重警示项。作者将其列入副作用清单，是本文批判力度最强的证据之一，也是推动读者反思的情感高峰。"
         }
       ]
     },
@@ -310,14 +305,14 @@
       "zh": "在没有基础疾病的情况下，将纤瘦变成一个医疗目标，不仅意味着将健康人暴露于严重风险之中，也意味着将其变成一种经济特权：只有那些能够负担得起如此昂贵治疗费用的人才能获得它。",
       "vocab": [
         {
-          "word": "patología de base",
-          "translation": "基础疾病，基础病理",
-          "note": "临床医学常用术语，指患者已有的、作为治疗前提的疾病，相当于 enfermedad subyacente 或 enfermedad de fondo。sin patología de base 即没有基础疾病，是判断用药适应症是否合理的核心条件。"
+          "word": "no solo… sino también…",
+          "translation": "不仅……而且……",
+          "note": "递进关联词，是书面语中构建双重论点的核心结构：no solo exponer a riesgos, sino también convertirla en un privilegio（不仅使人暴露于风险，而且将其变成特权）。注意西班牙语中 no solo 后不加逗号，sino también 前加逗号，与英语 not only…but also 结构对应。这一结构在C1写作中是展示论证层次的重要工具。"
         },
         {
           "word": "costear",
           "translation": "负担……的费用，支付",
-          "note": "比 pagar 更正式，强调经济上的承受能力，常用于讨论医疗、教育等社会议题：no pueden costear la educación privada（负担不起私立教育的费用）。此处 costear tratamientos tan caros 将昂贵药物与经济特权直接挂钩，是本文社会批判的落脚点。"
+          "note": "比 pagar 更正式，强调经济上的承受能力，常用于讨论医疗、教育等社会议题：no pueden costear la educación privada（负担不起私立教育的费用）、costear un tratamiento（支付治疗费用）。此处 costear tratamientos tan caros 将昂贵药物与经济特权直接挂钩，是本文社会批判的落脚点。"
         }
       ]
     },
@@ -328,13 +323,13 @@
       "vocab": [
         {
           "word": "perpetúa",
-          "translation": "使延续，使永久化",
-          "note": "正式书面词，指使某种状态或制度长期维持，常见于社会批评和政治分析文体：perpetuar la desigualdad（使不平等延续）、perpetuar el statu quo（维持现状）。比 mantener 更强调主动延续某种不公正结构的含义。"
+          "translation": "使延续，使永久化，固化",
+          "note": "正式书面词，指使某种状态或制度长期维持，常见于社会批评和政治分析文体：perpetuar la desigualdad（使不平等延续）、perpetuar el statu quo（维持现状）、perpetuar estereotipos（固化刻板印象）。比 mantener 更强调主动延续某种不公正结构的含义，带有批判性色彩。"
         },
         {
           "word": "erosiona",
           "translation": "侵蚀，逐渐削弱",
-          "note": "本义为地质学的侵蚀，引申为对某种价值观或制度的逐渐破坏，新闻和学术文体中常见：erosionar la democracia（侵蚀民主）、erosionar la confianza（逐渐瓦解信任）。比 destruir 更强调渐进性和隐蔽性。"
+          "note": "本义为地质学的侵蚀，引申为对某种价值观、制度或信任的渐进性破坏，新闻和学术文体中常见：erosionar la democracia（侵蚀民主）、erosionar la confianza（逐渐瓦解信任）、erosionar los derechos（蚕食权利）。比 destruir 更强调渐进性和隐蔽性，是描述结构性破坏的精准词汇。"
         }
       ]
     }
