@@ -15,14 +15,14 @@
       "zh": "据家长控制平台Qustodio本周一向西班牙国家通讯社EFE提供的数据显示，澳大利亚每五名13至15岁青少年中就有一名仍在访问TikTok，尽管澳大利亚已于去年12月开始实施针对16岁以下未成年人的社交媒体限制措施。",
       "vocab": [
         {
-          "word": "accediendo",
+          "word": "accediendo (acceder a)",
           "translation": "访问，进入，登录",
-          "note": "acceder a 在数字语境中特指访问某一平台、网站或应用程序，是科技报道的标准用词，比 usar（使用）更强调进入和获取的动作。副动词形式 accediendo 与 sigue 搭配，构成 seguir + 副动词（持续做某事）的句型：sigue accediendo = 仍在持续访问。"
+          "note": "acceder a 在数字语境中特指访问某一平台、网站或系统，是科技报道的标准用词，比 usar（使用）更强调进入和获取的动作本身。注意 acceder a 的多义性：①数字访问（acceder a una plataforma）；②获得机会（acceder a la educación，获得受教育机会）；③同意（acceder a una petición，答应请求）。三种语义在新闻中均高频出现，需结合语境判断。"
         },
         {
           "word": "control parental",
           "translation": "家长控制，亲子监控",
-          "note": "数字安全领域的固定术语，指家长通过软件或设置对子女设备使用进行监控和限制的功能或服务。parental 是形容词，来自 padre/madre（父母），在西班牙语中 parental 比 de los padres 更正式，常见于法律和技术文件。"
+          "note": "数字安全领域的固定术语，指家长通过软件或设置对子女设备使用进行监控和限制的功能或服务。parental 是形容词，来自拉丁语 parentalis，在西班牙语中比 de los padres 更正式，常见于法律和技术文件。同类术语：supervisión parental（家长监督）、responsabilidad parental（亲权责任）。"
         }
       ]
     },
@@ -32,9 +32,9 @@
       "zh": "这份分析是该法规实施后最早发布的报告之一，基于2024年11月至2026年2月间的应用程序使用数据，显示21%的13至15岁青少年在今年2月至少使用过一次TikTok。在10至12岁儿童中，也有近7%访问了该平台。",
       "vocab": [
         {
-          "word": "implementó",
+          "word": "implementó (implementar)",
           "translation": "实施，落实，执行",
-          "note": "政策和法规语境中的核心动词，强调将已通过的规定付诸实际执行的过程。易混辨析：implementar（落地执行，强调过程）、aplicar（适用、应用，更泛用）、promulgar（颁布，指法律正式发布）。本文语境中三者均可出现，但含义层次不同。"
+          "note": "政策和法规语境中的核心动词，强调将已通过的规定付诸实际执行的过程。易混辨析三组词：implementar（落地执行，强调将计划转化为实际行动的过程）、aplicar（适用、应用，更泛用，也可指将规则应用于具体情况）、promulgar（颁布，特指法律正式发布生效的那一刻）。本文 se implementó la normativa 强调的是禁令从纸面走向实际执行的过程。"
         }
       ]
     },
@@ -46,17 +46,17 @@
         {
           "word": "consecutivos",
           "translation": "连续的，不间断的",
-          "note": "强调时间或顺序上的不间断性，比 seguidos 更正式，常用于统计和法律文件：cinco minutos consecutivos（连续五分钟）、tres días consecutivos（连续三天）。注意与 sucesivos 的区别：consecutivos 强调紧接相连，sucesivos 强调依次发生但不一定紧密相连。"
+          "note": "强调时间或顺序上的紧密相连，比 seguidos 更正式，常用于统计方法说明和法律文件：cinco minutos consecutivos（连续五分钟）、tres victorias consecutivas（连续三场胜利）。注意与 sucesivos 的区别：consecutivos 强调紧接相连、中间无间隔，sucesivos 强调依次发生但不一定紧密相连：en años sucesivos（在此后数年间）。"
         },
         {
           "word": "medible",
           "translation": "可量化的，可测量的",
-          "note": "由 medir（测量）+ -ible（可……的后缀）构成，强调效果可以通过数据加以证明，是政策评估报告中的关键词。efecto medible 与 efecto notable（显著效果）有别：medible 强调可用数据量化，notable 强调主观上的显著程度。"
+          "note": "由 medir（测量）+ 后缀 -ible（可……的）构成，强调效果可以通过数据加以证明和量化，是政策评估报告中的关键词。efecto medible 与 efecto notable（显著效果）有重要区别：medible 强调可用客观数据验证，notable 强调主观感知上的显著程度。掌握 -ible/-able 后缀构词规律可大幅扩展词汇：predecible（可预测的）、cuantificable（可量化的）。"
         },
         {
-          "word": "desigual",
-          "translation": "不均衡的，参差不齐的",
-          "note": "由 des-（否定前缀）+ igual（相同）构成，描述效果或分布在不同群体或条件下存在显著差异。在政策评估语境中，efecto desigual 是一个重要的批判性概念，暗示禁令的实施效果并不一致，需要进一步分析原因。"
+          "word": "apuntan a que",
+          "translation": "表明，指向，暗示",
+          "note": "apuntar a que + 陈述句 是科学报道和政策分析中表达审慎结论的标准句型，比 demuestran que（证明）语气更弱，比 sugieren que（暗示）更具方向性，暗示证据指向某一结论但尚未完全确定。类似表达：los datos apuntan a una tendencia（数据指向一种趋势）、todo apunta a que…（一切迹象表明……）。"
         }
       ]
     },
@@ -66,14 +66,14 @@
       "zh": "然而，报告并未说明未成年人继续访问这些应用程序的具体途径，无论是通过VPN、家长授权还是使用虚假信息注册的账户。Snapchat是初期受影响最大的应用程序之一。在13至15岁青少年中，2025年11月至2026年1月间的使用率下降了逾16个百分点，降幅几乎是上一年同期的五倍。",
       "vocab": [
         {
-          "word": "VPN",
-          "translation": "虚拟私人网络",
-          "note": "Virtual Private Network 的缩写，指通过加密隧道绕过地理或内容限制的网络工具，是本文语境中未成年人规避社交媒体禁令的主要技术手段之一。VPN 在西班牙语中直接使用英文缩写，是科技报道中的通用术语。"
+          "word": "por qué vías",
+          "translation": "通过何种途径，以何种方式",
+          "note": "vía 本义为道路，引申为手段或渠道，por qué vías 是新闻调查性写作中追问机制和路径的标准表达。注意 vía 作介词使用时表示『经由、通过』：mediante VPN（通过VPN）与 vía VPN 同义，但 vía 更简洁，常见于标题和正式文件：vía satélite（通过卫星）、vía judicial（通过司法途径）。"
         },
         {
           "word": "afectadas",
           "translation": "受影响的，受波及的",
-          "note": "afectar 在政策和数据语境中表示某一措施对特定对象产生影响，可正可负，需结合语境判断方向。此处 las aplicaciones más afectadas 指受禁令冲击最大、用户流失最多的平台，语气偏负面。注意与 impactadas 的区别：afectadas 更常用于书面语，impactadas 更口语化。"
+          "note": "afectar 在政策和数据语境中表示某一措施对特定对象产生影响，方向可正可负，需结合语境判断。此处 las aplicaciones más afectadas 指受禁令冲击最大、用户流失最多的平台，语气偏负面。注意与 impactadas 的区别：afectadas 更常用于书面语，impactadas 更口语化；与 perjudicadas（受损害的）相比，afectadas 更中性，不一定含有损害含义。"
         }
       ]
     },
@@ -85,12 +85,12 @@
         {
           "word": "repunte",
           "translation": "小幅回升，反弹",
-          "note": "经济和数据分析中的高频词，指数值在下降后出现的小幅回升，常与 ligero（轻微的）搭配，暗示趋势尚不稳定。近义词语气梯度：repunte（小幅反弹）< recuperación（回复）< auge（繁荣）。"
+          "note": "经济和数据分析中的高频词，指数值在下降后出现的小幅回升，常与 ligero（轻微的）搭配，暗示趋势尚不稳定、有待观察。近义词语气梯度：repunte（小幅反弹，最弱）< recuperación（回复，中等）< auge（繁荣，最强）。反义词：caída（下跌）、descenso（下降）、retroceso（回落）。"
         },
         {
-          "word": "frente al",
-          "translation": "相比，对比，相较于",
-          "note": "数据对比时的核心介词短语，用于呈现两个数值之间的对比关系：el 20% en febrero, frente al 18% de enero（2月20%，相比1月的18%）。比 en comparación con 更简洁，是新闻数据段落中最常用的对比表达，frente a 后接阳性冠词 el 时缩合为 frente al。"
+          "word": "registró descensos relevantes",
+          "translation": "录得显著下降，出现明显跌幅",
+          "note": "registrar 在数据报道中是核心动词，意为『记录、录得』，主语通常是平台、指标或数据，而非人：la plataforma registró un aumento（该平台录得增长）、el termómetro registró 40 grados（温度计显示40度）。descenso relevante 比 bajada importante 更书面，relevante 在此意为『值得关注的、不可忽视的』，而非中文直觉中的『相关的』——这是中文母语者最常犯的假朋友错误之一。"
         }
       ]
     },
@@ -102,12 +102,12 @@
         {
           "word": "advierte de que",
           "translation": "提醒，警示，指出（需注意）",
-          "note": "advertir de que 是新闻报道中引述研究局限性或风险提示的标准句型，语气比 señala（指出）更强，带有提醒读者注意的含义。注意介词搭配：advertir de que + 陈述句（提醒某事）vs. advertir a alguien de algo（警告某人某事）。"
+          "note": "advertir de que 是新闻报道中引述研究局限性或风险提示的标准句型，语气比 señala（指出）更强，带有提醒读者警惕的含义。注意介词搭配不可混淆：advertir de que + 陈述句（提醒某事存在）、advertir a alguien de algo（警告某人注意某事）、advertir que（察觉到，不带警示含义）。三种搭配含义各异，是B2阶段的重要辨析点。"
         },
         {
-          "word": "estacionales",
-          "translation": "季节性的",
-          "note": "数据分析中的重要干扰变量概念，指因季节变化（假期、气候等）导致的规律性数据波动。factores estacionales 在政策评估中必须与政策效果区分开来，否则会得出错误结论，是理解本段研究局限性声明的关键词。"
+          "word": "fluctuar",
+          "translation": "波动，起伏，不稳定",
+          "note": "来自拉丁语 fluctuare（随波起伏），描述数值或状态在一定范围内不规则变化，比 variar（变化）更强调无规律的上下波动。常见搭配：los precios fluctúan（价格波动）、fluctuar entre el 10% y el 20%（在10%至20%之间波动）。名词形式：fluctuación（波动）。在本文语境中，fluctuar 暗示季节性波动是正常现象，不应被误读为禁令效果。"
         }
       ]
     },
@@ -119,12 +119,12 @@
         {
           "word": "migración masiva",
           "translation": "大规模迁移，集体转移",
-          "note": "migración 本义为人口迁徙，在数字语境中引申为用户从一个平台集体转移到另一个平台的现象。masiva 强调规模的巨大，migración masiva 是评估禁令是否产生替代效应的核心指标——若用户大量转移到其他平台，说明禁令只是转移问题而非解决问题。"
+          "note": "migración 本义为人口迁徙，在数字语境中引申为用户从一个平台集体转移到另一个平台的现象。masiva 强调规模的巨大，migración masiva 是评估禁令是否产生替代效应（efecto sustitución）的核心指标——若用户大量转移到其他平台，说明禁令只是转移问题而非解决问题。这一概念在平台竞争和监管研究中极为常用。"
         },
         {
           "word": "picos",
           "translation": "峰值，短暂高点",
-          "note": "pico 本义为山峰或鸟嘴，在数据语境中指数值的短暂高点。picos breves de interés 与 aumento sostenido（持续性增长）形成对比，暗示新兴平台只是昙花一现，未能真正留住用户，是评估替代平台竞争力的关键表达。"
+          "note": "pico 本义为山峰或鸟嘴，在数据语境中指数值的短暂高点。picos breves de interés 与 aumento sostenido（持续性增长）形成鲜明对比，暗示新兴平台只是昙花一现，未能真正留住用户。常见搭配：pico de audiencia（收视高峰）、pico de demanda（需求峰值）、alcanzar un pico（达到峰值）。"
         }
       ]
     },
@@ -136,17 +136,17 @@
         {
           "word": "pionera",
           "translation": "开创性的，先驱性的",
-          "note": "来自 pionero（先驱者），形容某一措施或做法在同类中属于首创，带有正面评价色彩。ley pionera 即开创性法律，暗示澳大利亚在全球范围内率先立法，其他国家尚未跟进。常见搭配：medida pionera（开创性措施）、empresa pionera（先驱企业）。"
+          "note": "来自 pionero（先驱者），形容某一措施或做法在同类中属于首创，带有正面评价色彩。ley pionera 即开创性法律，暗示澳大利亚在全球范围内率先立法，其他国家尚未跟进。常见搭配：medida pionera（开创性措施）、empresa pionera（先驱企业）、investigación pionera（开创性研究）。注意与 innovador（创新的，强调技术或方法的新颖）的区别：pionero 更强调在时间上的首创性。"
         },
         {
           "word": "eficacia",
           "translation": "实效，有效性",
-          "note": "易混辨析：eficacia（实效，强调是否达到预期目标）vs. eficiencia（效率，强调以最少资源达成目标）。政策评估中 cuestionar la eficacia（质疑实效）是标准表达，指质疑该措施能否真正实现保护未成年人的目标，而非质疑执行效率。"
+          "note": "易混辨析：eficacia（实效，强调是否达到预期目标，关注结果）vs. eficiencia（效率，强调以最少资源达成目标，关注过程）。政策评估中 cuestionar la eficacia（质疑实效）是标准表达，指质疑该措施能否真正实现保护未成年人的目标。记忆口诀：eficacia = effective（有没有用），eficiencia = efficient（用得省不省）。"
         },
         {
           "word": "eludir",
           "translation": "规避，绕过，钻空子",
-          "note": "强调通过技巧或手段巧妙绕开规则或障碍（如用VPN绕过禁令），带有主动钻空子的含义。与 evitar 的区别：eludir 更强调绕开规则本身，evitar 更泛用，指主动避开某事物，不一定涉及规则。在监管语境中，eludir 是描述规避行为的精确用词。"
+          "note": "强调通过技巧或手段巧妙绕开规则或障碍（如用VPN绕过禁令），带有主动钻空子的含义。与近义词辨析：eludir（绕开规则本身，强调技巧性）、evitar（避开，更泛用，不一定涉及规则）、esquivar（躲避，更强调身体或即时性的回避）。在监管语境中，eludir 是描述规避行为的精确用词：eludir impuestos（逃税）、eludir controles（绕过管控）。"
         }
       ]
     }
