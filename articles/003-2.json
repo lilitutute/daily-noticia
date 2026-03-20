@@ -15,19 +15,19 @@
       "zh": "当代城市不是一组地理坐标，而是一个被熵所伤的有机体。如果我们能够选择观察的视角，不再把城市看作一个建造得或好或坏的舞台，而是将其聚焦为一个活的、具有新陈代谢功能的系统，我们或许会得出这样的结论：它正在持续不断地流失能量、时间和人的尊严。西班牙的住房问题不仅仅是平方米的短缺——那是主流叙事——它同样是社会热力学的失败。",
       "vocab": [
         {
-          "word": "no… sino…",
-          "translation": "不是……而是……",
-          "note": "西班牙语中最重要的对比否定结构，用于纠正前一个判断并给出真正的定义：no es A, sino B。注意与 no… pero… 的区别：sino 用于否定后直接替换（两者互斥），pero 用于转折补充（两者并存）：no es fácil, pero es posible（不容易，但可能）vs. no es fácil, sino imposible（不是难，而是不可能）。"
+          "word": "entropía",
+          "translation": "熵，无序度",
+          "note": "热力学核心概念，指系统内部无序程度的量度，熵越高代表系统越混乱、能量越分散。作者将其引入城市分析，organismo herido por la entropía（被熵所伤的有机体）意指城市因无序扩张而持续流失能量与活力，是全文热力学隐喻体系的起点。"
         },
         {
-          "word": "si pudiéramos… concluiríamos",
-          "translation": "如果我们能……我们或许会……",
-          "note": "虚拟式过去时（imperfecto de subjuntivo）+ 条件式（condicional）构成的第二类条件句，表达与现实相反或尚未实现的假设。这是C1-C2写作中表达推测性论断的核心句型，比直接陈述更具学术谦逊感。"
+          "word": "metabólico",
+          "translation": "具有新陈代谢功能的，代谢性的",
+          "note": "来自生物学的 metabolismo（新陈代谢），指生命体持续进行的能量转化与物质循环过程。sistema vivo, metabólico 将城市比作有机生命体，能够自我维持和更新，与后文的 hemorragia（出血）、tejido urbano（城市肌理）共同构成贯穿全文的生物学隐喻。"
         },
         {
-          "word": "relato dominante",
-          "translation": "主流叙事，主导性话语",
-          "note": "社会批评和媒体研究中的核心概念，指在公共讨论中占据主导地位、被广泛接受的解释框架。作者用破折号将其标出，暗示这一叙事是需要被质疑和超越的简化认知。"
+          "word": "termodinámica",
+          "translation": "热力学",
+          "note": "研究能量转化与热量传递规律的物理学分支，本文的核心隐喻框架。作者将住房危机定性为 fracaso de la termodinámica social（社会热力学的失败），意指城市能量分配失衡——资源集中于少数人和少数空间，而非高效流动于整个系统。"
         }
       ]
     },
@@ -37,14 +37,14 @@
       "zh": "数十年来，郊区被兜售给我们，说它是中产阶级的伊甸园：一个水平延展、被划分成地块的未来承诺，幸福以联排别墅的平方米来衡量。然而，从物理学的角度来看，郊区是无序的胜利，是能量的耗散。当我们把生活推离中心，就迫使整个系统在交通和供给上燃烧大量资源。",
       "vocab": [
         {
-          "word": "nos vendieron",
-          "translation": "（他们）向我们兜售，（他们）让我们相信",
-          "note": "vender 在此为隐喻用法，意为『推销某种观念或承诺』，nos vendieron el extrarradio como… 即『他们把郊区包装成……卖给我们』，带有强烈的批判色彩，暗示这是一种被操控的消费主义叙事。类似用法：nos vendieron la moto（他们忽悠了我们，口语）。"
+          "word": "extrarradio",
+          "translation": "郊区，城市外围地带",
+          "note": "由 extra-（超出）+ radio（半径）构成，特指城市建成区以外的外围地带，比 suburbio 更强调地理上的远离中心，比 periferia 更口语化。在西班牙城市规划语境中，extrarradio 常与低密度住宅开发、通勤依赖和社区碎片化联系在一起。"
         },
         {
-          "word": "al + 动词原形",
-          "translation": "当……时，由于……",
-          "note": "al + 动词原形 是西班牙语中简洁表达时间或因果关系的核心结构：al alejar la vida del centro（当把生活推离中心时/由于把生活推离中心）。这个结构在C1-C2写作中极为常用，可以替换 cuando 或 porque 引导的从句，使句子更紧凑有力。"
+          "word": "adosados",
+          "translation": "联排的，紧靠的",
+          "note": "来自 adosar（紧贴、并排），viviendas adosadas 即联排别墅，指共用侧墙、独立入口的低层住宅，是西班牙郊区扩张时代的标志性建筑类型。metros adosados（联排的平方米）是作者对郊区梦想的讽刺性概括，将幸福量化为建筑面积。"
         }
       ]
     },
@@ -54,14 +54,19 @@
       "zh": "我们创造了『卧城』——地图上的冷点，人类生活只以残余的方式、仅在周末存在于此。当我们在后视镜里渐渐失去家园，城市中心却变成了一个主题公园。郊区不是住房问题的解决方案，而是一次向前的逃亡，它将社区碎裂成一个个孤立的原子，藏匿于石膏板墙和花园围栏之后——往好了说是这样。",
       "vocab": [
         {
-          "word": "huida hacia adelante",
-          "translation": "向前的逃亡，以逃避代替解决",
-          "note": "固定成语，指面对问题不是解决而是通过不断前进来逃避，往往使问题积累得更严重。类似英语的 running away from the problem。这是政治和社会评论中批评短视政策的标志性表达。"
+          "word": "residual",
+          "translation": "残余的，剩余的，边缘性的",
+          "note": "来自 residuo（残余物），形容某事物以极少量、非主体的方式存在。de forma residual 指生活只以零星、边缘化的方式在卧城中发生，与城市中心的活跃形成对比。在社会学语境中，residual 常用于描述被主流系统边缘化的群体或功能。"
         },
         {
-          "word": "en el mejor de los casos",
-          "translation": "往好了说，在最乐观的情况下",
-          "note": "固定短语，用于标记一个已经是最理想状态的假设，言下之意是现实往往更糟。与 en el peor de los casos（往坏了说）相对，两者都是论证性写作中设定论据边界的常用表达。"
+          "word": "retrovisor",
+          "translation": "后视镜",
+          "note": "本义为汽车后视镜，此处为隐喻：perder por el retrovisor nuestro hogar（在后视镜里渐渐失去家园）描绘每日通勤者驾车离开城市中心、眼睁睁看着家园远去的画面。这个隐喻将抽象的社会疏离感具象化为一个极具视觉冲击力的日常场景。"
+        },
+        {
+          "word": "pladur",
+          "translation": "石膏板，轻质隔墙板",
+          "note": "西班牙建筑行业的通用商品名（源自品牌 Pladur），已成为轻质石膏板隔墙的代名词，类似英语的 drywall。muros de pladur 在此象征郊区住宅的廉价、临时感和社区隔离，与 vallas de jardín（花园围栏）共同构成郊区孤立生活的物质符号。"
         }
       ]
     },
@@ -73,12 +78,17 @@
         {
           "word": "tensionado",
           "translation": "供需紧张的，承压的",
-          "note": "房地产和城市规划的专业术语，zona/mercado tensionado 在西班牙住房法中有明确的法律定义，指住房供需严重失衡、价格压力极大的区域。注意这是 tensar（拉紧、使紧张）的过去分词形容词用法。"
+          "note": "房地产和城市规划的专业术语，zona/mercado tensionado 在西班牙住房法中有明确的法律定义，指住房供需严重失衡、价格压力极大的区域。注意这是 tensar（拉紧、使紧张）的过去分词形容词用法，与日常用语 tenso（紧张的）有别，后者更多描述人际关系或气氛。"
         },
         {
-          "word": "imperativo ético",
-          "translation": "伦理命令，道德必然",
-          "note": "来自康德哲学的概念，imperativo categórico（绝对命令）指无条件的道德义务。作者用 imperativo ético 将住房密集化定性为道德上不可回避的要求，而非政策选项，大幅提升了论证的道德分量。"
+          "word": "retenido",
+          "translation": "被占据的，被扣押的，被截留的",
+          "note": "来自 retener（保留、扣押），espacio retenido 将超大住宅比作被少数人截留、无法流通的空间资源，带有强烈的道德批判意味。这一表达将住房问题从经济领域引入伦理领域：空间不只是财产，更是应当流动的社会资源。"
+        },
+        {
+          "word": "Mitosis Residencial",
+          "translation": "住宅有丝分裂",
+          "note": "作者自创的概念，借用生物学中细胞分裂（mitosis）的概念，指将超大住宅单元拆分为多个较小单元的政策主张。mitosis 在生物学中指一个细胞分裂为两个完整子细胞的过程，此处隐喻一套大住宅分割为多套小住宅，既增加供给又保留城市肌理，是全文最具原创性的政策概念。"
         }
       ]
     },
@@ -88,14 +98,19 @@
       "zh": "重振城市中心并不意味着使其绅士化，而是智慧地提高其密度。通过拆分超大住宅单元、改造废弃办公楼的骨架，我们正在向城市肌理注入活力与张力。我们正在让年轻人回归信息与文化交流的节点，降低交通的熵值，恢复街区的脉搏。",
       "vocab": [
         {
-          "word": "gentrificar vs. densificar",
-          "translation": "绅士化 vs. 密集化",
-          "note": "作者明确区分这两个概念，是本文政策主张的核心辨析：gentrificación 指中高收入群体涌入导致原住民被迫迁出；densificación 指在不驱逐原住民的前提下增加住宅单元和人口密度。两者都涉及城市更新，但社会后果截然相反。"
+          "word": "gentrificarlos",
+          "translation": "使其绅士化",
+          "note": "gentrificación 指中高收入群体涌入导致原住民被迫迁出、社区面貌改变的过程，通常伴随租金上涨和文化同质化。作者明确将其与 densificar 对立：densificación 在不驱逐原住民的前提下增加住宅单元，而 gentrificación 则以置换原住民为代价，两者都涉及城市更新，但社会后果截然相反。"
         },
         {
-          "word": "tejido urbano",
-          "translation": "城市肌理，城市织物",
-          "note": "城市规划的核心隐喻，将城市比作由街道、建筑、公共空间交织而成的『织物』，tejido 本义为纺织品或生物组织。inyectar turgencia al tejido urbano 将建筑学、生物学和城市规划三重隐喻叠加，是本文最具原创性的表达之一。"
+          "word": "densificarlos",
+          "translation": "使其密集化，提高其密度",
+          "note": "densificar 指在现有城市建成区内增加建筑密度和人口密度，是本文核心政策主张。与向外扩张（expansión）相对，densificación 被作者定性为更高效、更公平的城市发展路径，能够减少通勤、恢复社区活力并降低基础设施成本。"
+        },
+        {
+          "word": "turgencia",
+          "translation": "膨胀感，充盈张力，活力",
+          "note": "来自生物学，turgencia 指细胞因充水而产生的膨胀压力，是植物保持挺立的生理基础。inyectar turgencia al tejido urbano 将城市比作需要补充水分和活力的生物组织，意指通过增加居住密度和人口活动，恢复城市中心的生机与张力，是全文最具原创性的隐喻表达之一。"
         }
       ]
     },
@@ -105,14 +120,19 @@
       "zh": "二十一世纪的伦理要求我们从『物体建筑学』转向『代谢建筑学』。修缮不只是更换饰面，而是将一个能量黑洞转化为一个产能节点。当我们为一栋七十年代的楼栋做保温改造并将其分割以容纳新的生命时，我们不只是在施工；我们正在完成一项热力学与社会正义的行动。",
       "vocab": [
         {
-          "word": "nos exige pasar de… a…",
-          "translation": "要求我们从……转向……",
-          "note": "pasar de A a B 是表达范式转变的核心结构，在论证性文章中用于清晰呈现作者主张的方向：pasar de la cantidad a la calidad（从数量转向质量）、pasar del objeto al proceso（从物体转向过程）。exigir 的使用将这一转变定性为道德义务而非选择。"
+          "word": "metabolismo",
+          "translation": "新陈代谢，代谢功能",
+          "note": "与第1段的 metabólico 构成同族词呼应，此处 arquitectura del metabolismo 指将建筑视为持续进行能量转化的动态系统，而非静态物体。这一概念呼应了1960年代日本新陈代谢主义建筑运动（Metabolismo），强调建筑应像生命体一样能够生长、更新和适应。"
         },
         {
-          "word": "agujero negro",
-          "translation": "黑洞",
-          "note": "天体物理学概念，指吞噬一切能量和物质却不产出任何东西的天体。agujero negro energético 将低效建筑比作只消耗能源而不产生价值的黑洞，与后文的 nodo de generación（产能节点）形成鲜明对比，是全文热力学隐喻体系的重要组成部分。"
+          "word": "revestimientos",
+          "translation": "饰面，覆层，外墙装饰材料",
+          "note": "建筑术语，指覆盖在建筑结构表面的装饰或保护层，包括外墙涂料、瓷砖、石材等。sustituir revestimientos 是建筑翻新中最表面化的操作，作者以此代指只改外观不改本质的浅层改造，与真正的能效改造和功能重组形成对比。"
+        },
+        {
+          "word": "termodinámica",
+          "translation": "热力学的",
+          "note": "与第1段的名词 termodinámica 构成呼应，此处作形容词修饰 justicia（正义），justicia termodinámica y social 将物理学概念与社会伦理融合，指通过重新分配空间和能量资源实现的公正——这是全文核心论点的最终表述：能源效率与社会公平是同一枚硬币的两面。"
         }
       ]
     },
@@ -122,14 +142,14 @@
       "zh": "住房危机的部分解决方案不在地图上，而在计时器和温度计里。它在于将每一平方米不再视为惰性财产，而是视为相遇的机会。如果我们能让空间从有余处流向匮乏处，如果我们能将热能浪费转化为社会公平，我们就战胜了熵。",
       "vocab": [
         {
-          "word": "si logramos… habremos vencido",
-          "translation": "如果我们能……我们就将战胜……",
-          "note": "si + 现在陈述式 + 将来完成时（futuro perfecto）构成的第一类条件句，表达可实现的假设及其结果。注意将来完成时 habremos vencido 强调的是条件实现后已完成的状态，比简单将来时 venceremos 更强调成就感和终结性。"
+          "word": "cronómetro",
+          "translation": "计时器，秒表",
+          "note": "精确计时的仪器，此处与 termómetro（温度计）并列，共同代表时间效率和能源效率两个维度。no está en el mapa, sino en el cronómetro y en el termómetro 意指住房问题的解决不在于地理扩张，而在于时间利用效率（减少通勤）和能源使用效率（建筑节能），是全文热力学隐喻的精炼总结。"
         },
         {
           "word": "equidad",
           "translation": "公平，公正（按需分配）",
-          "note": "易混辨析：equidad 强调根据需求进行公正分配的过程（equity），igualdad 强调结果的相同（equality）。例：equidad no significa dar lo mismo a todos, sino dar a cada uno lo que necesita（公平不是给所有人同样的东西，而是给每个人他所需要的）。"
+          "note": "易混辨析：equidad 强调根据需求进行公正分配的过程（equity），igualdad 强调结果的相同（equality）。例：equidad no significa dar lo mismo a todos, sino dar a cada uno lo que necesita（公平不是给所有人同样的东西，而是给每个人他所需要的）。此处 convertir el desperdicio térmico en equidad social 是全文最核心的论点句。"
         }
       ]
     },
@@ -139,14 +159,19 @@
       "zh": "未来的城市不应只是向地平线的无限扩张，而应是一次有意识的、密集的、充满活力的回归——回归到使我们成为人类的核心：亲近。因此，挑战在于将住房短缺问题的一部分转化为城市救赎的机遇。",
       "vocab": [
         {
-          "word": "lo que nos hace humanos",
-          "translation": "使我们成为人类的东西，人之所以为人的核心",
-          "note": "lo que + 动词 是西班牙语中将整个动词短语名词化的核心结构：lo que importa（重要的事）、lo que nos diferencia（区分我们的东西）。此处作者用这一结构将 proximidad（亲近）定义为人类本质，是全文价值论述的情感高潮。"
+          "word": "vibrante",
+          "translation": "充满活力的，生机勃勃的",
+          "note": "来自 vibrar（振动），引申为充满能量和活力的状态，常用于描述城市、文化或社区的生命力。regreso vibrante 与前文卧城的 puntos fríos（冷点）和 vida residual（残余生活）形成终章对比，代表作者对理想城市状态的正面描绘。"
+        },
+        {
+          "word": "proximidad",
+          "translation": "亲近，邻近，接近性",
+          "note": "城市规划中的核心价值概念，指人与人、人与服务之间的物理和社会距离。作者将 proximidad 定义为人之所以为人的本质，呼应了简·雅各布斯（Jane Jacobs）等城市理论家关于城市多样性和街道生活的论述，是全文价值体系的情感落脚点。"
         },
         {
           "word": "redención",
           "translation": "救赎，赎回，重生",
-          "note": "具有宗教和道德双重含义，本义为通过付出代价赎回罪过或恢复尊严。redención urbana 为全文的热力学论述赋予了道德和精神维度，将城市更新从技术问题升华为道德使命，是本文最具人文色彩的收尾词。"
+          "note": "具有宗教和道德双重含义，本义为通过付出代价赎回罪过或恢复尊严。redención urbana 为全文的热力学论述赋予了道德和精神维度，将城市更新从技术问题升华为道德使命，是本文最具人文色彩的收尾词。与第1段的 entropía 形成首尾呼应：文章从熵的诊断出发，以救赎的愿景作结。"
         }
       ]
     }

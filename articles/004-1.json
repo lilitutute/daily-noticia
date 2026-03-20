@@ -17,12 +17,12 @@
         {
           "word": "desbocado",
           "translation": "失控的，脱缰的",
-          "note": "本义指马匹脱缰狂奔，引申为价格、增长等完全失控、无法遏制的状态，precio desbocado 比 precio alto 更强调失控的动态过程，带有强烈的情绪色彩，是西语政治评论中描述住房危机的标志性表达。"
+          "note": "本义指马匹脱缰狂奔（de- + boca，字面为『脱离了嘴』，即脱离了缰绳的控制），引申为价格、增长等完全失控、无法遏制的状态。precio desbocado 比 precio alto（高价）更强调失控的动态过程，带有强烈的情绪色彩，是西语政治评论中描述住房危机的标志性表达。"
         },
         {
           "word": "acallar",
           "translation": "压制，使沉默，噤声",
-          "note": "比 silenciar 更强调主动施压使他人停止发声的行为，带有政治压制的含义，常用于描述权力对批评声音的打压，是本文批判政治话语操控的关键动词。"
+          "note": "比 silenciar 更强调主动施压使他人停止发声的行为，带有政治压制的含义。acallar a quienes denuncian（压制揭露者）常用于描述权力对批评声音的打压，是本文批判政治话语操控的关键动词。近义词语气梯度：callar（沉默，中性）< silenciar（使沉默）< acallar（强行噤声，含压制意味）。"
         }
       ]
     },
@@ -34,12 +34,12 @@
         {
           "word": "baby boomers",
           "translation": "婴儿潮一代",
-          "note": "指二战后（约1946—1964年）出生的人口激增一代，西语中通常直接使用英文原词或译为 boomers，是本文代际分析的核心概念，与 mileniales（千禧一代）和 centeniales（Z世代）形成对照。"
+          "note": "指二战后（约1946—1964年）出生的人口激增一代，因战后出生率大幅上升（boom）而得名，西语中通常直接使用英文原词或简称 boomers。这一代人在西班牙经济高速增长期积累了大量财富和房产，是本文代际财富分析的核心群体，与 mileniales（千禧一代）和 centeniales（Z世代）形成对照。"
         },
         {
           "word": "progenitores",
           "translation": "父母，双亲",
-          "note": "比 padres 更正式、更书面化，源自拉丁语 progenitor（祖先、生育者），在法律、社会学和新闻文体中常用于替代 padres 以避免重复，同时增添文章的严肃性。"
+          "note": "比 padres 更正式、更书面化，源自拉丁语 progenitor（祖先、生育者），在法律、社会学和新闻文体中常用于替代 padres 以避免重复，同时增添文章的严肃性。注意 progenitor 单数指父亲或母亲中的一方，复数 progenitores 才指双亲。"
         }
       ]
     },
@@ -51,17 +51,17 @@
         {
           "word": "cimentar",
           "translation": "奠基，巩固，强化",
-          "note": "本义为打地基、浇筑水泥，引申为巩固和强化某种结构或制度，此处 cimentar una democracia basada en la desigualdad 带有深刻的反讽意味——通常用于积极建设的动词，此处却用于描述不平等的固化。"
+          "note": "本义为打地基、浇筑水泥（来自 cimiento，地基），引申为巩固和强化某种结构或制度。此处 cimentar una democracia basada en la desigualdad 带有深刻的反讽意味——通常用于积极建设的动词，此处却用于描述不平等的固化，是作者批判性修辞的体现。"
         },
         {
           "word": "pudientes",
           "translation": "富裕的，有财力的",
-          "note": "比 ricos 更强调拥有足够财力来做某事的能力，padres pudientes 特指有经济实力资助子女的父母，与后文 más humildes（更贫困的）形成对比，是作者论证代际依赖加剧阶级分化的关键词。"
+          "note": "来自 poder（能够），字面含义为『有能力的』，引申为拥有足够财力来做某事。padres pudientes 特指有经济实力资助子女的父母，与后文 más humildes（更贫困的）形成对比，是作者论证代际依赖加剧阶级分化的关键词。比 ricos 更强调财力支撑能力，而非单纯的财富积累。"
         },
         {
           "word": "merma",
           "translation": "损耗，减少，缩水",
-          "note": "指数量或质量的减少和损失，在经济和社会政策语境中常用于描述资源、人口或能力的实质性下降，merma decisiva 强调这种损耗对福利体系的结构性破坏，而非暂时性波动。"
+          "note": "指数量或质量的实质性减少和损失，在经济和社会政策语境中常用于描述资源、人口或能力的结构性下降。merma decisiva 强调这种损耗对福利体系具有决定性的破坏作用，而非暂时性波动。比 reducción 更强调不可挽回的损失感。"
         }
       ]
     },
@@ -73,17 +73,17 @@
         {
           "word": "soliviantan",
           "translation": "揭竿而起，激起反抗",
-          "note": "soliviantar(se) 指被激怒至采取行动或反抗，比 rebelarse 更强调情绪被煽动后的爆发性反应，在政治语境中常用于描述民众被压迫至临界点后的集体觉醒，此处否定形式揭示了年轻人的政治冷漠。"
+          "note": "soliviantar(se) 指被激怒至采取行动或反抗，比 rebelarse 更强调情绪被煽动后的爆发性集体反应，在政治语境中常用于描述民众被压迫至临界点后的集体觉醒。此处否定形式 no se soliviantan 揭示了年轻人的政治冷漠，与首段预言的政治爆发形成张力。"
         },
         {
           "word": "escapista",
           "translation": "逃避主义的，逃现实的",
-          "note": "源自英语 escapism，指通过幻想或转移注意力来逃避现实问题的心理倾向，ideal escapista 在本文中特指『未来将继承财富』的叙事，作者认为这是一种政治上精心设计的意识形态麻醉剂。"
+          "note": "源自英语 escapism，指通过幻想或转移注意力来逃避现实问题的心理倾向。ideal escapista 在本文中特指『未来将继承财富』的叙事，作者认为这是一种政治上精心设计的意识形态麻醉剂，功能是将年轻人的注意力从当下的结构性不公引向遥远的未来承诺。"
         },
         {
           "word": "falsario",
           "translation": "虚假的，欺骗性的，伪造的",
-          "note": "比 falso 更强烈，带有蓄意欺骗的含义，falsario 作为形容词暗示某种说法不仅是错误的，而且是被刻意制造和传播的谎言，是作者对代际财富转移叙事的最强烈批判。"
+          "note": "比 falso 语气更强烈，带有蓄意欺骗的含义，暗示某种说法不仅是错误的，而且是被刻意制造和传播的谎言。作者将 sugerente（诱人的）与 falsario 并列，揭示这种叙事的双重性：表面上令人向往，实质上是精心设计的欺骗。"
         }
       ]
     },
@@ -94,18 +94,18 @@
       "vocab": [
         {
           "word": "heredarán",
-          "translation": "将继承",
-          "note": "heredad 的未来时，在本文语境中作者用宗教隐喻（penitencia 苦行、paraíso 天堂）将继承财富的叙事比作宗教救赎承诺，讽刺这种叙事与宗教许诺来世幸福一样虚无缥缈。"
+          "translation": "将继承（遗产、财产）",
+          "note": "heredad 的简单将来时，来自 heredar（继承），指通过法律或家庭关系获得他人财产的行为。在本文语境中，作者用宗教隐喻（penitencia 苦行、paraíso 天堂）将『继承财富』的叙事比作宗教救赎承诺，讽刺这种许诺与宗教许诺来世幸福一样遥不可及且虚无缥缈。"
         },
         {
           "word": "penitencia",
           "translation": "苦行，忏悔，赎罪",
-          "note": "天主教神学术语，指为赎罪而承受的痛苦或惩罚，作者将年轻人的经济困境比作『尘世苦行』，以宗教隐喻揭示这种叙事的意识形态本质：将结构性不平等包装为个人修行和等待回报的过程。"
+          "note": "天主教神学术语，指为赎罪而承受的痛苦或惩罚。作者将年轻人的经济困境比作『尘世苦行』（penitencia terrenal），以宗教隐喻揭示这种叙事的意识形态本质：将结构性不平等包装为个人修行和等待回报的过程，暗示年轻人应当忍耐而非反抗。"
         },
         {
           "word": "centeniales",
           "translation": "Z世代，千禧后代",
-          "note": "西班牙语对出生于约1997年至2012年间一代人的称呼，与英语 Generation Z 对应，比 generación Z 更口语化，与 mileniales（千禧一代，约1981—1996年）并列，是本文代际分析的第三个核心群体。"
+          "note": "西班牙语对出生于约1997年至2012年间一代人的称呼，与英语 Generation Z 对应，比 generación Z 更口语化。与 mileniales（千禧一代，约1981—1996年）并列，是本文代际分析的第三个核心群体。注意西班牙语中这两个词均为外来概念的本土化表达。"
         }
       ]
     },
@@ -117,17 +117,17 @@
         {
           "word": "tensionamiento",
           "translation": "承压，紧张化，超负荷",
-          "note": "由 tensionar（使紧张）派生的名词，在公共服务语境中指系统因需求超过供给而承受压力的过程，比 deterioro（恶化）更强调动态的压力积累，是西班牙公共政策讨论中的常见词汇。"
+          "note": "由 tensionar（使紧张）派生的名词，在公共服务语境中指系统因需求超过供给而承受压力的过程，比 deterioro（恶化）更强调动态的压力积累过程，是西班牙公共政策讨论中的常见词汇。tensionamiento de la sanidad pública 即公共医疗体系的超负荷运转。"
         },
         {
           "word": "nuda propiedad",
           "translation": "裸产权，虚有产权",
-          "note": "法律术语，指所有权中去除用益物权（usufructo）后剩余的部分，即拥有房产所有权但无权使用和收益。出售裸产权意味着老年人将房产所有权转让给买方，但保留终身居住权，是西班牙应对养老金不足的重要金融工具。"
+          "note": "法律术语，指所有权中去除用益物权（usufructo）后剩余的部分，即拥有房产所有权但无权使用和收益。出售裸产权意味着老年人将房产所有权转让给买方，但保留终身居住权，是西班牙应对养老金不足的重要金融工具，近年来在老龄化背景下日益普及。"
         },
         {
           "word": "usufructo",
           "translation": "用益物权，使用收益权",
-          "note": "法律术语，指在他人财产上享有使用和收益的权利，与 nuda propiedad 构成所有权的两个组成部分，usufructo vitalicio 即终身用益物权，是理解裸产权交易的核心法律概念。"
+          "note": "法律术语，来自拉丁语 usus（使用）+ fructus（收益），指在他人财产上享有使用和收益的权利，与 nuda propiedad 共同构成完整所有权的两个组成部分。usufructo vitalicio 即终身用益物权，是理解裸产权交易的核心法律概念。"
         }
       ]
     },
@@ -139,12 +139,12 @@
         {
           "word": "austeridad",
           "translation": "紧缩，财政紧缩",
-          "note": "经济政策术语，指政府通过削减公共支出、提高税收来减少财政赤字的政策，crisis de austeridad de 2010 特指西班牙在欧债危机期间实施的大规模公共支出削减，是理解西班牙代际财富差距的历史背景关键词。"
+          "note": "经济政策术语，指政府通过削减公共支出、提高税收来减少财政赤字的政策。crisis de austeridad de 2010 特指西班牙在欧债危机期间实施的大规模公共支出削减，包括削减教育、医疗和社会福利预算，是理解西班牙代际财富差距扩大的历史背景关键词。"
         },
         {
           "word": "treintañeros",
           "translation": "三十多岁的人，三字头",
-          "note": "由 treinta（三十）+ -añero（年龄后缀）构成，是西班牙语描述年龄段的口语化表达，类似的还有 veintañeros（二十多岁）、cuarentañeros（四十多岁），在社会学和新闻报道中广泛使用。"
+          "note": "由 treinta（三十）+ -añero（年龄后缀）构成，是西班牙语描述年龄段的口语化表达。类似结构：veintañeros（二十多岁）、cuarentañeros（四十多岁）、cincuentañeros（五十多岁）。这类构词法在社会学和新闻报道中广泛使用，比 personas de entre 30 y 39 años 更简洁生动。"
         }
       ]
     },
@@ -156,12 +156,12 @@
         {
           "word": "intergeneracional",
           "translation": "代际的，跨代的",
-          "note": "由 inter-（之间）+ generacional（代际的）构成，solidaridad intergeneracional 是福利国家理论的核心概念，指不同年龄代群之间通过税收和转移支付实现的互助机制，作者指出该机制的方向性已发生根本性逆转。"
+          "note": "由 inter-（之间）+ generacional（代际的）构成，solidaridad intergeneracional 是福利国家理论的核心概念，指不同年龄代群之间通过税收和转移支付实现的互助机制。作者指出该机制的方向性已发生根本性逆转：原本设计为年轻一代供养老年人，如今却演变为老年父母反向补贴年轻子女。"
         },
         {
           "word": "PIB",
           "translation": "国内生产总值（GDP）",
-          "note": "Producto Interior Bruto 的缩写，西班牙语对应英语 GDP（Gross Domestic Product），是衡量一国经济规模的核心指标，公共支出占GDP的百分比是比较各国福利国家规模的标准方法。"
+          "note": "Producto Interior Bruto 的缩写，西班牙语对应英语 GDP（Gross Domestic Product），是衡量一国经济规模的核心指标。公共支出占GDP的百分比是比较各国福利国家规模的标准方法，养老金支出从13%升至17%意味着将占用更大比例的国家经济产出，挤压其他公共支出空间。"
         }
       ]
     },
@@ -173,17 +173,17 @@
         {
           "word": "colchón",
           "translation": "缓冲垫，安全垫（比喻）",
-          "note": "本义为床垫，在经济和社会政策语境中 colchón familiar 或 colchón económico 指家庭作为抵御经济风险的非正式缓冲机制，是西班牙社会学讨论中的高频隐喻，此处作者用其揭示福利国家功能已被家庭非正式承接。"
+          "note": "本义为床垫，在经济和社会政策语境中 colchón familiar 或 colchón económico 指家庭作为抵御经济风险的非正式缓冲机制，是西班牙社会学讨论中的高频隐喻。此处作者用其揭示福利国家功能已被家庭非正式承接这一结构性问题，与全文标题『福利国家就是父母』形成呼应。"
         },
         {
           "word": "paternofilial",
           "translation": "父子（女）之间的，亲子的",
-          "note": "由 paterno（父亲的）+ filial（子女的）合成，指父母与子女之间的关系，amor paternofilial 即亲子之爱，作者用此词讽刺政治话语将结构性问题包装为温情家庭故事的叙事策略。"
+          "note": "由 paterno（父亲的）+ filial（子女的）合成，指父母与子女之间的关系，amor paternofilial 即亲子之爱。作者用此词讽刺政治话语将结构性问题包装为温情家庭故事的叙事策略，暗示这种『爱』的叙事是一种政治上的情感操控。"
         },
         {
           "word": "dulcificar",
           "translation": "美化，粉饰，软化",
-          "note": "本义为使变甜，引申为通过温和或积极的表述来淡化某一负面现实的严重性，在政治批评语境中常用于揭示话语操控，比 suavizar 更强调蓄意的美化意图。"
+          "note": "本义为使变甜（来自 dulce，甜的），引申为通过温和或积极的表述来淡化某一负面现实的严重性。在政治批评语境中常用于揭示话语操控，比 suavizar 更强调蓄意的美化意图：dulcificar lo que está pasando 即用甜蜜的叙事掩盖正在发生的结构性危机。"
         }
       ]
     }

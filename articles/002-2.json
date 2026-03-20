@@ -12,17 +12,17 @@
     {
       "id": 1,
       "es": "Una de las imágenes actuales más icónicas en el ámbito museístico es la fotografía de la Gioconda rodeada por decenas de personas intentando captarla con sus móviles. Convertida en cliché mediático, se suele utilizar como prueba de la llamada <strong>masificación</strong> de los museos, aunque en realidad constituye solo una perspectiva muy <strong>parcial</strong> y distorsionada del fenómeno.",
-      "zh": "当今博物馆领域最具代表性的画面之一，是《蒙娜丽莎》被数十人围绕、争相用手机拍摄的照片。这张照片已成为媒体陈词滥调，常被用作博物馆所谓『过度拥挤』的佐证，但实际上它呈现的只是这一现象极为片面且失真的视角。",
+      "zh": "当今博物馆领域最具代表性的画面之一，是《蒙娜丽莎》被数十人围绕、争相用手机拍摄的照片。这张照片已成为媒体陈词滥调，常被用作博物馆所谓过度拥挤的佐证，但实际上它呈现的只是这一现象极为片面且失真的视角。",
       "vocab": [
         {
           "word": "masificación",
           "translation": "过度拥挤，大众化泛滥",
-          "note": "由 masa（大众）派生，在文化/城市语境中特指某场所因人流过多而质量下降的现象，语气带有批判色彩，比 aglomeración 更强调结构性问题。"
+          "note": "由 masa（大众）派生，在文化和城市语境中特指某场所因人流过多而质量下降的现象，语气带有批判色彩，比 aglomeración 更强调结构性问题。常见搭配：masificación del turismo（旅游业过度拥挤）、masificación universitaria（高校扩招问题）。"
         },
         {
           "word": "parcial",
           "translation": "片面的；偏袒的",
-          "note": "一词多义：既可表示『不完整的、片面的』（una visión parcial），也可表示『偏袒某方的』（un juez parcial），需根据语境判断。"
+          "note": "一词多义：既可表示不完整的、片面的（una visión parcial = 片面的视角），也可表示偏袒某方的（un juez parcial = 不公正的法官），需根据语境判断。此处为前者，与 distorsionada（失真的）并列，共同批判媒体对博物馆拥挤问题的误导性呈现。"
         }
       ]
     },
@@ -34,12 +34,12 @@
         {
           "word": "polos de atracción",
           "translation": "吸引极，吸引中心",
-          "note": "固定搭配，源自物理学『磁极』概念，引申为对人流或资源具有强烈聚集效应的地点或机构，新闻文体中高频使用。"
+          "note": "固定搭配，源自物理学磁极概念，引申为对人流或资源具有强烈聚集效应的地点或机构，新闻文体中高频使用。注意 polo 在此为比喻用法，与后文第14段再次出现的 polos de atracción del desarrollo turístico 形成呼应。"
         },
         {
           "word": "democratización",
           "translation": "民主化，大众化普及",
-          "note": "在文化/经济语境中指某事物从精英专属变为大众可及的过程，与后文 elitismo 形成直接对照，是本文的核心议题词。"
+          "note": "在文化和经济语境中指某事物从精英专属变为大众可及的过程，与后文 elitismo 形成直接对照，是本文的核心议题词。同族词：democratizar（动词）、democratizadora（形容词，见第15段）。"
         }
       ]
     },
@@ -51,12 +51,12 @@
         {
           "word": "visibilidad",
           "translation": "曝光度，能见度",
-          "note": "在媒体/传播语境中指某议题或机构获得公众关注的程度，比 popularidad 更强调『被看见』的机会，常见搭配为 tener/ganar visibilidad。"
+          "note": "在媒体和传播语境中指某议题或机构获得公众关注的程度，比 popularidad 更强调被看见的机会，常见搭配为 tener/ganar visibilidad（获得曝光度）、poca visibilidad（曝光度低）。"
         },
         {
           "word": "afluencia",
           "translation": "（人流）涌入量，参观人数",
-          "note": "正式书面词，特指人群向某地聚集的数量，afluencia de visitantes 是博物馆/旅游报道中的标准表达，比 número de visitantes 更简洁正式。"
+          "note": "正式书面词，特指人群向某地聚集的数量，afluencia de visitantes 是博物馆和旅游报道中的标准表达，比 número de visitantes 更简洁正式。同族词：afluir（动词，涌入）、afluente（支流，引申为汇聚之物）。"
         }
       ]
     },
@@ -68,12 +68,12 @@
         {
           "word": "afronta",
           "translation": "面对，应对（挑战或困难）",
-          "note": "比 enfrentar 更正式，强调主动直面某一严峻局面，常用于新闻标题和社论，搭配结构为 afrontar + 名词（问题/挑战/crisis）。"
+          "note": "比 enfrentar 更正式，强调主动直面某一严峻局面，常用于新闻标题和社论，搭配结构为 afrontar + 名词（问题/挑战/crisis）。注意与 confrontar 的区别：afrontar 更强调承担和面对，confrontar 更强调对抗和比较。"
         },
         {
           "word": "albergan",
           "translation": "容纳，收藏，承载",
-          "note": "albergar 本义为『提供住所』，引申为『容纳/收藏』，在博物馆、建筑语境中指空间内存放或展示某物，比 contener 更具文学色彩。"
+          "note": "albergar 本义为提供住所，引申为容纳或收藏，在博物馆和建筑语境中指空间内存放或展示某物，比 contener 更具文学色彩。常见搭配：albergar una colección（收藏一批藏品）、albergar a refugiados（收容难民）。"
         }
       ]
     },
@@ -85,12 +85,12 @@
         {
           "word": "incremento",
           "translation": "增长，增加",
-          "note": "正式书面词，比 aumento 更常见于政策文件、统计报告和新闻社论，常见搭配为 incremento de + 名词（公众/收入/访客）。"
+          "note": "正式书面词，比 aumento 更常见于政策文件、统计报告和新闻社论，常见搭配为 incremento de + 名词（公众/收入/访客）。注意：incremento 强调数量的增长，而 mejora 强调质量的提升，两者不可混用。"
         },
         {
           "word": "desplome",
           "translation": "骤降，崩跌",
-          "note": "比 caída 语气强烈得多，强调急剧且幅度巨大的下跌，常用于经济、股市或统计数据语境，带有灾难性色彩。"
+          "note": "比 caída 语气强烈得多，强调急剧且幅度巨大的下跌，常用于经济、股市或统计数据语境，带有灾难性色彩。同族词：desplomarse（动词，骤然崩跌）。对比：caída（普通下跌）< descenso（下降）< desplome（崩跌）。"
         }
       ]
     },
@@ -102,12 +102,12 @@
         {
           "word": "brecha",
           "translation": "差距，鸿沟",
-          "note": "本义为城墙上的『缺口』，引申为群体间的不平等差距，新闻中常见搭配有 brecha digital（数字鸿沟）、brecha salarial（薪资差距），语气比 diferencia 更强调结构性不平等。"
+          "note": "本义为城墙上的缺口，引申为群体间的不平等差距，新闻中常见搭配有 brecha digital（数字鸿沟）、brecha salarial（薪资差距），语气比 diferencia 更强调结构性不平等。"
         },
         {
           "word": "foráneo",
           "translation": "外地的，外来的",
-          "note": "比 extranjero 范围更广，既可指外国人，也可指来自本国其他地区的人，在文化/旅游语境中常与 local 对举使用。"
+          "note": "比 extranjero 范围更广，既可指外国人，也可指来自本国其他地区的人，在文化和旅游语境中常与 local 对举使用。此处 público local y foráneo（本地与外地观众）构成本段的核心对立。"
         }
       ]
     },
@@ -119,12 +119,12 @@
         {
           "word": "privilegian",
           "translation": "优先考虑，给予特权",
-          "note": "比 prefieren 更正式，强调在多个选项中将某一项置于优先或特权地位，常用于批评性分析文体，含有『不公平地偏重』的隐含意味。"
+          "note": "比 prefieren 更正式，强调在多个选项中将某一项置于优先或特权地位，常用于批评性分析文体，含有不公平地偏重的隐含意味。同族词：privilegio（特权）、privilegiado（享有特权的）。"
         },
         {
           "word": "inclusión",
           "translation": "包容性，社会融合",
-          "note": "文化政策核心术语，指确保边缘群体（残障人士、低收入者、移民等）能够平等参与文化生活，与 exclusión 和 elitismo 形成本文的核心对立概念。"
+          "note": "文化政策核心术语，指确保边缘群体（残障人士、低收入者、移民等）能够平等参与文化生活，与 exclusión 和 elitismo 形成本文的核心对立概念。常见搭配：inclusión social（社会融合）、políticas de inclusión（包容性政策）。"
         }
       ]
     },
@@ -136,7 +136,7 @@
         {
           "word": "abordó",
           "translation": "讨论，着手处理",
-          "note": "abordar 在议题/问题语境中表示『正式提出并处理某一议题』，比 tratar 更强调主动介入，常见于新闻报道和政策文件，搭配结构为 abordar + 名词（问题/议题/reforma）。"
+          "note": "abordar 在议题和问题语境中表示正式提出并处理某一议题，比 tratar 更强调主动介入，常见于新闻报道和政策文件，搭配结构为 abordar + 名词（问题/议题/reforma）。此处否定形式 no se abordó 强调该议题被刻意回避或忽视。"
         }
       ]
     },
@@ -148,12 +148,12 @@
         {
           "word": "consensos",
           "translation": "共识，协商一致",
-          "note": "政治/政策文体核心词，强调多方参与、协商达成的一致意见，与 decisiones unilaterales（单方面决定）在本句中形成直接对立。"
+          "note": "政治和政策文体核心词，强调多方参与、协商达成的一致意见，与 decisiones unilaterales（单方面决定）在本句中形成直接对立。注意：consenso 在西班牙语中通常用复数 consensos 表示多个领域或层面的共识。"
         },
         {
           "word": "cohesión",
           "translation": "凝聚力，团结",
-          "note": "社会学术语，cohesión social 指社会成员之间的归属感与相互联结，是文化政策讨论中的高频词，常与 identidad（身份认同）并列使用。"
+          "note": "社会学术语，cohesión social 指社会成员之间的归属感与相互联结，是文化政策讨论中的高频词，常与 identidad（身份认同）并列使用。对比：cohesión（凝聚，强调向心力）vs. integración（整合，强调融入过程）。"
         }
       ]
     },
@@ -165,7 +165,7 @@
         {
           "word": "aforo",
           "translation": "（场所）最大容纳人数，限流",
-          "note": "西班牙语特有的场所管理术语，指建筑或活动场所被批准容纳的最大人数，疫情期间因 reducción de aforo（限流）而广为人知，英语无直接对应词。"
+          "note": "西班牙语特有的场所管理术语，指建筑或活动场所被批准容纳的最大人数，疫情期间因 reducción de aforo（限流）而广为人知，英语无直接对应词。常见搭配：limitar el aforo（限制容量）、aforo completo（满员）。"
         }
       ]
     },
@@ -177,19 +177,19 @@
         {
           "word": "halo",
           "translation": "光环，晕轮",
-          "note": "本义为宗教图像中圣人头顶的『光晕』，引申为某事物散发出的抽象氛围或印象，halo de elitismo 指博物馆给人的精英化刻板印象，带有批判性语气。"
+          "note": "本义为宗教图像中圣人头顶的光晕，引申为某事物散发出的抽象氛围或印象，halo de elitismo 指博物馆给人的精英化刻板印象，带有批判性语气。心理学中还有 efecto halo（晕轮效应），指以偏概全的认知偏差。"
         }
       ]
     },
     {
       "id": 12,
-      "es": "Para amplias capas de la población, los servicios que reciben mucho público son los más deseados y, según en cuáles, ello resulta un buen indicador de calidad. Recuerdo a mi abuelo decir que prefería los restaurantes llenos que aquellos en los que no había nadie, pues ello significaba, en la mayoría de los casos, que allí se comía bien. Hace años que sabemos que para comer en un buen restaurante debemos pedir hora. ¿Deberemos hacerlo para poder visitar los museos?",
+      "es": "Para amplias <strong>capas</strong> de la población, los servicios que reciben mucho público son los más deseados y, según en cuáles, ello resulta un buen indicador de calidad. Recuerdo a mi abuelo decir que prefería los restaurantes llenos que aquellos en los que no había nadie, pues ello significaba, en la mayoría de los casos, que allí se comía bien. Hace años que sabemos que para comer en un buen restaurante debemos pedir hora. ¿Deberemos hacerlo para poder visitar los museos?",
       "zh": "对于广大民众而言，人气旺盛的服务场所往往是最受追捧的，在某些情况下，这也是质量的良好指标。我记得祖父说他更喜欢客满的餐厅，而不是空无一人的，因为在大多数情况下，那意味着那里的饭菜好吃。多年前我们就知道，要在好餐厅吃饭得提前预约。难道我们也要预约才能参观博物馆吗？",
       "vocab": [
         {
           "word": "capas",
           "translation": "阶层，群体，层面",
-          "note": "capas de la población 是新闻和社会学文体中的固定搭配，字面意为『人口的各个层次』，指社会中不同收入、教育或文化背景的群体，比 sectores 更强调垂直的社会分层。"
+          "note": "capas de la población 是新闻和社会学文体中的固定搭配，字面意为人口的各个层次，指社会中不同收入、教育或文化背景的群体，比 sectores 更强调垂直的社会分层。常见搭配：amplias capas（广大阶层）、capas medias（中间阶层）。"
         }
       ]
     },
@@ -201,12 +201,12 @@
         {
           "word": "disminución",
           "translation": "减少，降低",
-          "note": "正式书面词，比 reducción 更强调数量或程度的自然下降过程，常用于统计、经济和政策报告，搭配结构为 disminución de + 名词。"
+          "note": "正式书面词，比 reducción 更强调数量或程度的自然下降过程，常用于统计、经济和政策报告，搭配结构为 disminución de + 名词。对比：disminución（自然下降）vs. reducción（主动削减）vs. descenso（下降，最中性）。"
         },
         {
           "word": "engorro",
           "translation": "麻烦事，烦人的障碍",
-          "note": "口语色彩较强，指令人不耐烦的繁琐或不便，比 problema 更轻松随意，常见于日常叙述和专栏文章，形容词形式为 engorroso。"
+          "note": "口语色彩较强，指令人不耐烦的繁琐或不便，比 problema 更轻松随意，常见于日常叙述和专栏文章。形容词形式为 engorroso（令人烦恼的）：un trámite engorroso（繁琐的手续）。"
         }
       ]
     },
@@ -218,12 +218,12 @@
         {
           "word": "finalidades",
           "translation": "目的，宗旨，功能目标",
-          "note": "比 objetivos 更正式，常用于机构、政策或法律文本中，强调某事物存在的根本意义与使命，复数形式 finalidades 指多项并列目标。"
+          "note": "比 objetivos 更正式，常用于机构、政策或法律文本中，强调某事物存在的根本意义与使命，复数形式 finalidades 指多项并列目标。对比：finalidad（终极目的）vs. objetivo（具体目标）vs. meta（短期目标）。"
         },
         {
           "word": "agobiante",
           "translation": "令人窒息的，压迫性的",
-          "note": "由 agobiar（使不堪重负）派生，形容使人感到身心压迫的环境或处境，比 sofocante 更强调心理层面的重压感，常用于描述拥挤、高压的空间或情绪状态。"
+          "note": "由 agobiar（使不堪重负）派生，形容使人感到身心压迫的环境或处境，比 sofocante 更强调心理层面的重压感，常用于描述拥挤、高压的空间或情绪状态。常见搭配：calor agobiante（令人窒息的酷热）、trabajo agobiante（压力极大的工作）。"
         }
       ]
     },
@@ -235,7 +235,7 @@
         {
           "word": "democratizadora",
           "translation": "民主化的，推动大众化的",
-          "note": "由 democratizar 派生的形容词，在文化政策语境中指使文化资源向所有社会阶层开放的功能与使命，是本文两位作者共同援引的核心价值概念。"
+          "note": "由 democratizar 派生的形容词，在文化政策语境中指使文化资源向所有社会阶层开放的功能与使命，是本文两位作者共同援引的核心价值概念。与第2段的 democratización 构成同族词呼应：democratización（名词，过程）→ democratizadora（形容词，具有该功能的）。"
         }
       ]
     },
@@ -247,7 +247,7 @@
         {
           "word": "vigilantes de sala",
           "translation": "展厅管理员，展厅看守",
-          "note": "博物馆运营的专业术语，指负责维持展厅秩序、保护藏品安全的工作人员，在西班牙语语境中比 guardias 更具职业专属性。"
+          "note": "博物馆运营的专业术语，指负责维持展厅秩序、保护藏品安全的工作人员，在西班牙语语境中比 guardias 更具职业专属性。vigilante 本义为警觉的、守卫的，作名词时指保安或看守人员。"
         }
       ]
     },
@@ -259,12 +259,12 @@
         {
           "word": "acomodar",
           "translation": "调整，使适应，使契合",
-          "note": "比 adaptar 更强调主动调整以满足特定需求，在服务/空间设计语境中常见，搭配结构为 acomodar algo a + 目标对象。"
+          "note": "比 adaptar 更强调主动调整以满足特定需求，在服务和空间设计语境中常见，搭配结构为 acomodar algo a + 目标对象。注意与 acomodarse（安顿自己、就座）的区分：及物用法 acomodar algo 表示调整某物，反身用法 acomodarse 表示自身安顿。"
         },
         {
           "word": "atmósfera",
           "translation": "氛围，整体感受",
-          "note": "在文化/空间语境中指一个场所给人的综合感官与情感印象，比 ambiente 更具文学性，常用于艺术、建筑和品牌描述。"
+          "note": "在文化和空间语境中指一个场所给人的综合感官与情感印象，比 ambiente 更具文学性，常用于艺术、建筑和品牌描述。对比：atmósfera（整体氛围，更抽象）vs. ambiente（环境/气氛，更具体）。"
         }
       ]
     },
@@ -276,29 +276,29 @@
         {
           "word": "satisfactoria",
           "translation": "令人满意的",
-          "note": "假朋友提示：与英语 satisfactory 同源，但西语中语气更积极，不像英语有时含『勉强及格』之意，satisfactorio/a 在西语中通常表示真正令人满意的结果。"
+          "note": "假朋友提示：与英语 satisfactory 同源，但西语中语气更积极，不像英语有时含勉强及格之意，satisfactorio/a 在西语中通常表示真正令人满意的结果。常见搭配：resultado satisfactorio（令人满意的结果）、experiencia satisfactoria（令人满意的体验）。"
         },
         {
           "word": "vacías",
           "translation": "空旷的，空的",
-          "note": ""
+          "note": "vacío/a 的基本义为空的、空旷的，此处 las salas estén más vacías 指展厅人更少、更空旷。在抽象语境中 vacío 也可表示空虚感：sentir un vacío（感到空虚）、un vacío existencial（存在主义的空虚）。注意重音在第一音节：VÁ-cio，不要误读。"
         }
       ]
     },
     {
       "id": 19,
       "es": "Los museos presentan un marcado <strong>principio de Pareto</strong>. En el caso de Cataluña, en 2024, el 7% de los centros recibieron más de 250.000 visitantes, un 75% de todos los asistentes a los museos catalanes. Las aglomeraciones son un problema de ricos, de aquellos centros con recursos y capacidad para gestionar sus problemas. Sería interesante que las administraciones dedicaran mayores esfuerzos a los museos locales, la inmensa mayoría de los existentes en España, para que puedan desarrollar programas atractivos para un <strong>espectro</strong> más amplio de la población que actualmente los visita.",
-      "zh": "博物馆领域呈现出明显的帕累托原则。以加泰罗尼亚为例，2024年，7%的博物馆接待了超过25万名参观者，占加泰罗尼亚所有博物馆参观总人次的75%。过度拥挤是『富人的烦恼』，是那些有资源和能力管理自身问题的机构才面临的困境。若行政机构能将更多精力投入地方博物馆——它们占西班牙博物馆的绝大多数——使其能够为比现有更广泛的人群开发有吸引力的项目，将大有裨益。",
+      "zh": "博物馆领域呈现出明显的帕累托原则。以加泰罗尼亚为例，2024年，7%的博物馆接待了超过25万名参观者，占加泰罗尼亚所有博物馆参观总人次的75%。过度拥挤是富人的烦恼，是那些有资源和能力管理自身问题的机构才面临的困境。若行政机构能将更多精力投入地方博物馆——它们占西班牙博物馆的绝大多数——使其能够为比现有更广泛的人群开发有吸引力的项目，将大有裨益。",
       "vocab": [
         {
           "word": "principio de Pareto",
           "translation": "帕累托原则，二八定律",
-          "note": "经济学/管理学核心概念，指约80%的结果由20%的原因产生，此处作者将其应用于博物馆领域，说明极少数大型博物馆吸引了绝大多数参观者。"
+          "note": "经济学和管理学核心概念，指约80%的结果由20%的原因产生，此处作者将其应用于博物馆领域，说明极少数大型博物馆吸引了绝大多数参观者。以意大利经济学家 Vilfredo Pareto 命名，是理解资源分配不均的重要分析框架。"
         },
         {
           "word": "espectro",
           "translation": "范围，谱系，广度",
-          "note": "本义为物理学的『光谱』，引申为某一维度上的全部范围，un espectro más amplio de la población 指更广泛的社会群体，是政策文件和学术文章中的常见表达。"
+          "note": "本义为物理学的光谱，引申为某一维度上的全部范围，un espectro más amplio de la población 指更广泛的社会群体，是政策文件和学术文章中的常见表达。注意与 fantasma（幽灵）的区别：两者都源自希腊语 spektron，但 espectro 在现代西语中主要用于科学和抽象语境。"
         }
       ]
     }
