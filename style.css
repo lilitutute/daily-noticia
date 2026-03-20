@@ -232,3 +232,38 @@ body {
   padding-top: 3px;
   margin-top: 1px;
 }
+@media (max-width: 768px) {
+
+  .page-wrap {
+    padding: 20px 16px;
+  }
+
+  /* 标题缩小 */
+  .article-title {
+    font-size: 20px;
+  }
+
+  /* 核心：取消左右分栏，改为单栏上下 */
+  .paragraph-block {
+    display: block;
+    padding: 16px 0;
+  }
+
+  /* 取消正文两端对齐和断词 */
+  p, .resumen-es, .resumen-zh, .para-es, .para-zh {
+    text-align: left;
+    hyphens: none;
+    -webkit-hyphens: none;
+  }
+
+  /* 词汇栏移到段落下方，撑满宽度 */
+  .para-vocab {
+    margin-top: 12px;
+    width: 100%;
+  }
+
+  .vocab-item {
+    width: 100%;
+  }
+
+}
