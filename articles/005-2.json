@@ -1,0 +1,263 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会与文化",
+  "difficulty": "C1",
+  "wordCount": "约850词",
+  "title": "El debate | ¿Las corridas de toros son cultura?",
+  "subtitle": "争议：斗牛是文化吗？",
+  "resumenEs": "Dos voces enfrentadas debaten si la tauromaquia merece protección como patrimonio cultural. El poeta Carlos Marzal defiende los toros como alta cultura y experiencia estética, mientras que la escritora Ruth Toledano rechaza ese marco y sitúa el debate en el terreno ético: independientemente de su valor cultural, torturar a un ser sintiente es moralmente reprobable y debe ser prohibido.",
+  "resumenZh": "两种对立观点就斗牛是否值得作为文化遗产加以保护展开辩论。诗人卡洛斯·马尔萨尔将斗牛视为高雅文化与审美体验，而作家鲁思·托莱达诺则拒绝这一框架，将争论置于伦理层面：无论其文化价值如何，折磨有感知能力的生命在道德上都应受到谴责并被禁止。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Hace tiempo que las corridas de toros dejaron de ser consideradas expresión de la 『fiesta nacional』, pero las leyes en vigor siguen protegiendo la tauromaquia como patrimonio cultural que debe ser preservado. El Ministerio de Cultura tiene las competencias sobre esta actividad. La entrada en vigor de la Ley de Bienestar Animal, el año pasado, <strong>supuso un punto de inflexión</strong> en la regulación del trato a los animales en España, aunque la norma excluye explícitamente la tauromaquia de su <strong>ámbito de aplicación</strong>.",
+      "zh": "斗牛早已不再被视为『国家节日』的表达，但现行法律仍将斗牛术作为应予保护的文化遗产加以保护。文化部对这一活动拥有管辖权。去年《动物福利法》的生效，是西班牙动物待遇监管领域的一个转折点，尽管该法规明确将斗牛术排除在其适用范围之外。",
+      "vocab": [
+        {
+          "word": "supuso un punto de inflexión",
+          "translation": "构成了一个转折点",
+          "note": "punto de inflexión 是新闻和政策文本中描述重大转变节点的固定表达，suponer 在此意为『构成、意味着』，而非『假设』——这是该词最常被误解的用法之一。"
+        },
+        {
+          "word": "ámbito de aplicación",
+          "translation": "适用范围",
+          "note": "法律和政策文本的核心固定搭配，ámbito 意为『领域、范围』，quedar excluido del ámbito de aplicación（被排除在适用范围之外）是立法文件中的标准表述。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "La palabra cultura hay que <strong>manipularla con guantes</strong>, para que no nos estalle entre los dedos a las primeras de cambio. El vocabulario es un explosivo extremadamente volátil, y, a menudo, más que con la impunidad de los escritores, debería utilizarse con el cuidado de los artificieros. Algunas palabras, decía Vladímir Nabokov, habrían de escribirse siempre entre comillas: 『realidad』, 『verdad』, 『libertad』. Pero lo cierto es que no tenemos tiempo para andar <strong>entrecomillándonos</strong> a cada instante, y decimos lo que decimos con una cierta ligereza sin pretensiones, para conseguir manejarnos en el mundo.",
+      "zh": "『文化』这个词必须戴着手套去触碰，以免一开口就在我们指间爆炸。词汇是一种极度易燃的炸药，与其像作家那样肆无忌惮地使用，不如像爆破专家那样小心谨慎。弗拉基米尔·纳博科夫曾说，有些词应该永远加上引号：『现实』、『真理』、『自由』。但现实是，我们没有时间在每个瞬间都给自己打引号，我们说话时带着某种不加修饰的随意——至少我是这样——只为在这个世界里找到立足之地。",
+      "vocab": [
+        {
+          "word": "manipularla con guantes",
+          "translation": "戴着手套去处理它，小心翼翼地对待",
+          "note": "tratar/manejar algo con guantes 是西班牙语固定习语，比喻处理某事时需要极度谨慎，常用于抽象概念或敏感话题，相当于中文『如履薄冰』。"
+        },
+        {
+          "word": "a las primeras de cambio",
+          "translation": "一开始，一上来，稍有风吹草动",
+          "note": "固定口语短语，意为『一有机会』或『稍不注意就』，常用于描述某种负面结果迅速发生，是C1阅读中容易完全看不懂的惯用表达。"
+        },
+        {
+          "word": "entrecomillándonos",
+          "translation": "给自己的话加引号",
+          "note": "由 entrecomillar（加引号）派生的反身动词形式，entrecomillar 本身已是由 entre-（之间）+ comillas（引号）构成的构词示范，-ando 副动词形式与 andar 搭配表示持续性动作：andar + 副动词 = 一直在做某事。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "En mi Diccionario privado del español urgente, tan discutible e incompleto como cualquier otro diccionario, cultura significa el conjunto de conocimientos, hábitos, saberes, artes de una sociedad, transmitidos como herencia 『y encaminados a la preservación y disfrute de la vida humana』. Sin esa <strong>coda</strong> de utilitarismo gozoso, en mi opinión, los actos repetidos en el tiempo forman parte de las costumbres de una sociedad, pero no de su cultura. La guerra constituye, desde ese punto de vista, una fea costumbre, pero no un acto cultural, <strong>por más que</strong> algunos utilicen la expresión 『cultura de la guerra』.",
+      "zh": "在我那本《西班牙语私人紧急词典》里——和任何其他词典一样，充满争议且不完整——『文化』意味着一个社会的知识、习惯、学识与艺术的总和，作为遗产传承，『并以保护和享受人类生活为目标』。在我看来，若缺少这一充满愉悦功利主义的尾声，随时间反复出现的行为只是一个社会的习俗，而非其文化。从这个角度来看，战争是一种丑陋的习俗，而非文化行为，尽管有些人会使用『战争文化』这一表达。",
+      "vocab": [
+        {
+          "word": "coda",
+          "translation": "尾声，收尾部分，补充说明",
+          "note": "源自音乐术语，指乐曲结尾的补充段落，在文学和论说文中引申为对前述内容的补充性收尾，作者用此词带有明显的文人修辞色彩。"
+        },
+        {
+          "word": "por más que",
+          "translation": "尽管，无论怎样",
+          "note": "让步从句结构，后接虚拟式，语气比 aunque 更强烈，强调让步的徒劳感：por más que lo intente, no lo conseguirá（无论怎么努力都不会成功）。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Entendida de este modo, la cultura representa, según creo, una suma incontable de hechos culturales, de actos ejecutados conforme a unas reglas que la tradición ha establecido en el tiempo, y que podemos <strong>someter a</strong> una jerarquía que aspira a la objetividad, sin conseguirlo. Es decir, entre los objetos, los actos, los hechos culturales hay una <strong>gradación</strong> de importancia, difícil de explicar, cambiante, y que aspira a establecerse conforme a un canon.",
+      "zh": "如此理解，文化在我看来代表着无数文化事实的总和——那些依照传统随时间确立的规则而执行的行为——我们可以将其纳入一种追求客观性却永远无法实现的等级体系。也就是说，在各种文化对象、行为和事实之间，存在一种重要性的层级，难以言说，不断变化，并力图依照某种规范来确立自身。",
+      "vocab": [
+        {
+          "word": "someter a",
+          "translation": "使……服从，将……纳入，使……接受",
+          "note": "someter a 是高频固定搭配，后接名词表示『使某物接受某种评判或约束』：someter a debate（提交讨论）、someter a votación（付诸表决）、someter a juicio（接受审判）。"
+        },
+        {
+          "word": "gradación",
+          "translation": "层级，渐进层次，等级划分",
+          "note": "由 grado（程度、等级）派生，-ción 后缀表名词化，指事物按程度或重要性排列的层次结构，在文学批评和学术文体中常见，比 jerarquía 更强调渐进性而非绝对高低。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Para mí son culturales, por ejemplo, una vasija de barro, la elaboración de una suculenta comida, una cirugía de apendicitis, la oración de un creyente, una sonata para piano, una pintura al óleo, un poema. Y una corrida de toros, que <strong>participa al mismo tiempo de</strong> la cultura y el arte.",
+      "zh": "在我看来，以下这些都是文化：一只陶罐、一道精心烹制的美食、一台阑尾炎手术、一位信徒的祷告、一首钢琴奏鸣曲、一幅油画、一首诗。还有斗牛，它同时兼具文化与艺术的双重属性。",
+      "vocab": [
+        {
+          "word": "participa al mismo tiempo de",
+          "translation": "同时兼具……的属性，同时参与……",
+          "note": "participar de 是一个容易被忽视的固定搭配，意为『具有某种属性或性质』，与 participar en（参与某活动）含义不同：participar de una misma naturaleza（具有相同的本质）。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Lo que yo encuentro en los toros, y que comparto con muchos aficionados, no aspira a convencer a nadie, a transformar a nadie, sino tan solo a explicarse. Además, tengo la certeza de que uno sólo se convence de aquello de lo que quiere convencerse. Sin embargo, la ética de la escritura como actividad privada debería conducir al menos al <strong>asentimiento</strong> de las razones y emociones ajenas, aunque no se compartan.",
+      "zh": "我在斗牛中所发现的，以及我与许多爱好者所共享的，并不奢望说服任何人、改变任何人，而只是试图自我阐明。此外，我深信一个人只会被自己想被说服的事物所说服。然而，写作作为一种私人活动，其伦理应当至少引导我们认可他人的理由与情感，即便我们并不认同。",
+      "vocab": [
+        {
+          "word": "asentimiento",
+          "translation": "认可，首肯，赞同",
+          "note": "由动词 asentir（点头同意）派生，比 acuerdo（协议、一致）更强调内心层面的认可而非外在的达成共识，常见于哲学和伦理讨论语境。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "En este mundo cada vez más <strong>waltdisneyzado</strong>, cada vez más regido por urbanitas ansiosos de mascotas a las que domesticar, el universo del toro me aproxima al campo verdadero, al universo del animal salvaje. El toro de lidia —se ha repetido hasta la saciedad, creo que con razón— sólo existe por el <strong>empeño</strong>, cada vez menos rentable, de los ganaderos que lo crían: sin las fiestas de toros estarían condenados al zoológico o la desaparición.",
+      "zh": "在这个日益『迪士尼化』的世界里，在这个越来越被渴望驯养宠物的城市人所主导的世界里，斗牛的世界让我靠近真实的田野，靠近野生动物的宇宙。斗牛——这一点已被反复提及，我认为不无道理——只因饲养者日益不划算的坚持而得以存在：若没有斗牛节，它们将注定走向动物园或消亡。",
+      "vocab": [
+        {
+          "word": "waltdisneyzado",
+          "translation": "迪士尼化的，被过度美化和驯化的",
+          "note": "作者临时造词，由专有名词 Walt Disney + 后缀 -izar（使……化）+ -ado（过去分词形容词化）构成，-izar 是西班牙语最能产的动词化后缀之一：globalizar、digitalizar、flexibilizar，掌握它可以理解大量新造词。"
+        },
+        {
+          "word": "empeño",
+          "translation": "坚持，执着，努力",
+          "note": "empeño 强调不顾困难的顽强坚持，比 esfuerzo（努力）更带有执念色彩，固定搭配：tener empeño en（执意要做某事）、con empeño（执着地、不懈地）。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "En los toros alcanzo a <strong>vislumbrar</strong>, de manera vicaria, por la persona interpuesta del matador, una porción de la pulsión épica que muchos entendemos como una necesidad del ser humano. Alguien —digamos— tiene que escalar montañas, viajar a lugares remotos del planeta, explorar los confines del universo y ponerse delante de un toro furioso.",
+      "zh": "在斗牛中，我得以隐约瞥见——以一种替代性的方式，通过斗牛士这一中介——那种史诗冲动的片段，许多人将其理解为人类的一种本能需求。总得有人——姑且这么说——去攀登山峰，前往地球的偏远之地，探索宇宙的边界，站在一头愤怒的公牛面前。",
+      "vocab": [
+        {
+          "word": "vislumbrar",
+          "translation": "隐约看见，依稀感知，瞥见",
+          "note": "比 ver 更强调模糊、不确定的感知，常用于抽象事物：vislumbrar una solución（隐约看到解决方案）、vislumbrar el futuro（依稀预见未来），是文学和评论文体中的高频词。"
+        },
+        {
+          "word": "digamos",
+          "translation": "姑且这么说，可以说，比方说",
+          "note": "虚拟式第一人称复数用作插入语，表示说话者对所用表达持保留态度，相当于英语的 let's say 或 so to speak，是书面语和口语中软化断言的常见手段。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Lo que yo busco en las corridas de toros, por encima de cualquier otra cosa, es la emoción estética, como la busco en otras variedades del arte, un sacudimiento que me transmita a la vez una verdad profunda sobre la existencia. En una gran faena, como en cualquier gran obra de arte, la temporalidad <strong>se adormece</strong> y acierto a vislumbrar la voluntad humana de permanencia frente a la destrucción y la muerte. El <strong>vitalismo</strong>, la celebración de nuestro mundo, es lo que asoma siempre en una gran faena.",
+      "zh": "我在斗牛中寻求的，高于一切的，是审美情感——正如我在其他艺术形式中所寻求的——一种能同时向我传递关于存在的深刻真理的震撼。在一场精彩的斗牛表演中，如同在任何伟大的艺术作品中一样，时间性沉睡了，我得以隐约感知人类面对毁灭与死亡时对永恒的渴望。生命主义——对我们这个世界的颂扬——始终是一场精彩斗牛中所透露出的东西。",
+      "vocab": [
+        {
+          "word": "se adormece",
+          "translation": "沉睡，变得迟钝，暂时停止",
+          "note": "adormecer 本义为使入睡，反身形式 adormecerse 引申为某种感知或状态暂时消退，此处指时间感的消失，是文学语境中描述审美体验的精准用词。"
+        },
+        {
+          "word": "vitalismo",
+          "translation": "生命主义，对生命的热情颂扬",
+          "note": "-ismo 后缀构成哲学或思想流派名词，vitalismo 在哲学上指强调生命力的思想流派，在文学评论中泛指对生命与活力的积极颂扬态度，掌握 -ismo/-ista 构词可举一反三。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Se pongan como se pongan los taurinos, nos hagamos las preguntas —espurias— que nos hagamos, el rey está desnudo. No hace falta ser especialmente razonable o sensible para ver el sufrimiento de los toros, basta con mirar su cuerpo chorreando sangre, su boca babeante, sus mugidos de dolor, su afán por huir del recinto donde lo han encerrado. ¿Puede salir el toro de ese encierro? ¿Ha podido no entrar? No. Es un sótano de torturas al aire libre. Un sótano moral a plena luz del día. Una <strong>cloaca</strong>, también, del Estado que lo permite. <strong>Corrupción social</strong>.",
+      "zh": "无论斗牛支持者如何反应，无论我们提出怎样——虚假的——问题，国王是赤裸的。不需要特别理性或敏感才能看到公牛的痛苦，只需看看它浑身淌血的身体、流涎的嘴巴、痛苦的哞叫声，以及它渴望逃离被关押围栏的迫切欲望。公牛能从那个围栏里出去吗？它有可能不进去吗？不能。那是一个露天的酷刑地下室。一个在光天化日之下的道德地下室。也是允许这一切发生的国家的污水沟。社会腐化。",
+      "vocab": [
+        {
+          "word": "se pongan como se pongan",
+          "translation": "无论他们如何反应，不管他们怎么闹",
+          "note": "让步结构『虚拟式 + como + 虚拟式』表示无论如何都不影响结论，是西班牙语中表达强烈让步的固定句型：pase lo que pase（无论发生什么）、digan lo que digan（不管他们怎么说）。"
+        },
+        {
+          "word": "cloaca",
+          "translation": "污水沟，道德败坏之地",
+          "note": "本义为下水道或污水系统，引申为道德腐败、污秽不堪的场所或制度，是政治和社会批评中的强烈贬义隐喻，语气远比 lugar corrupto 激烈。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Si la tauromaquia es o no cultura resulta irrelevante. Muchas expresiones culturales del pasado son hoy inaceptables, principalmente aquellas que han <strong>comportado</strong> violencia contra alguien, incluso contra algo. Si esas prácticas han sido o no del gusto de destacados artistas, resulta irrelevante también. Destacados artistas han sido y son sujetos de comportamientos abusivos y costumbres violentas, y no por ello el abuso y la violencia han dejado de serlo. Al contrario, la sociedad los ha ido reprobando porque esos comportamientos han sido pensados de manera crítica, <strong>denostados</strong>, combatidos, cancelados, prohibidos.",
+      "zh": "斗牛术是否属于文化，这个问题无关紧要。过去许多文化表达如今已无法被接受，尤其是那些曾对某人乃至某物施加暴力的表达。这些做法是否曾受到杰出艺术家的青睐，同样无关紧要。杰出艺术家过去是、现在也是施暴行为和暴力习俗的主体，但这并不因此使施暴和暴力不再是施暴和暴力。恰恰相反，社会一直在谴责它们，因为这些行为经过了批判性的审视，被贬斥、被抵制、被取消、被禁止。",
+      "vocab": [
+        {
+          "word": "comportado",
+          "translation": "带来，涉及，包含",
+          "note": "comportar 作为及物动词意为『带来、涉及某种结果或特征』，与反身形式 comportarse（表现、举止）含义完全不同，是典型的一词多义陷阱：este cargo comporta grandes responsabilidades（这一职位涉及重大责任）。"
+        },
+        {
+          "word": "denostados",
+          "translation": "被贬斥的，被强烈谴责的",
+          "note": "denostar 是书面语中表示强烈谴责或侮辱的动词，比 criticar 语气强烈得多，带有公开羞辱的含义，常见于政治评论和历史叙述，是C1词汇的典型代表。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Que haya poetas o pintores que se han inspirado en la tortura no la <strong>desnaturaliza</strong> como tal. En todo caso, cuestiona la empatía, la moral de esos artistas. O los ancla en un tiempo que ya no es, no ha de ser, el nuestro, como nunca fue el de una nutrida y notable tradición antitaurina, a pesar de que ha sido <strong>silenciada</strong> por el relato oficial de los intereses taurinos.",
+      "zh": "有诗人或画家从酷刑中汲取灵感，这并不改变酷刑本身的性质。充其量，这只是对那些艺术家的同理心和道德的质疑。或者说，这将他们锚定在一个已不再是、也不应再是我们时代的过去，正如那个时代从未属于一个人数众多、影响深远的反斗牛传统——尽管这一传统已被斗牛利益集团的官方叙事所压制。",
+      "vocab": [
+        {
+          "word": "desnaturaliza",
+          "translation": "改变……的本质，使失去本来面目",
+          "note": "由 des-（否定/逆转）+ naturaleza（本质）+ -izar 构成，des- 前缀表示逆转或剥夺，是西班牙语最重要的构词前缀之一：deshumanizar（去人性化）、deslegitimar（使失去合法性）、desvirtuar（使失真）。"
+        },
+        {
+          "word": "silenciada",
+          "translation": "被压制的，被噤声的",
+          "note": "silenciar 作及物动词意为主动压制某种声音或观点，比 ignorar（忽视）更强调有意为之的打压，ser silenciado 在政治和媒体批评语境中是描述话语权被剥夺的标准表达。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "En cualquier caso, tauromaquia sólo sería cultura para una parte de la ecuación, la parte humana. Precisamente, la que ejerce la violencia. Lo que importa no es si torturar a un ser sintiente es cultura o deja de serlo, importa que no es ético, que es un acto moralmente <strong>reprobable</strong>, atendiendo a sus víctimas: los toros acuchillados en la plaza, y antes, en las dehesas donde los marcan a fuego, en los tentaderos donde calculan su <strong>resistencia al dolor</strong>, en los camiones a los que son empujados, en los corrales y toriles donde les inoculan el pánico para que salgan a la arena despavoridos, bravos de terror.",
+      "zh": "无论如何，斗牛术充其量只是等式中一方的文化——人类这一方。恰恰是施加暴力的那一方。重要的不是折磨一个有感知能力的生命是否算作文化，重要的是这在道德上是不可接受的，是一种道德上应受谴责的行为——着眼于其受害者：在斗牛场上被刺杀的公牛，以及在此之前，在牧场上被烙铁打上烙印，在测试场上被评估对痛苦的承受力，被推上卡车，在围栏和牛棚里被灌注恐惧以便它们惊恐万状地冲入竞技场，以恐惧为勇气。",
+      "vocab": [
+        {
+          "word": "reprobable",
+          "translation": "应受谴责的，不可接受的",
+          "note": "由 reprobar（谴责、否定）+ -able 构成，-able/-ible 后缀表示『值得被……的』，moralmente reprobable（道德上应受谴责的）是伦理讨论中的固定搭配，掌握该后缀可举一反三：cuestionable（值得质疑的）、censurable（应受批评的）。"
+        },
+        {
+          "word": "resistencia al dolor",
+          "translation": "对痛苦的承受力，耐痛性",
+          "note": "resistencia a 是重要固定搭配，意为『对……的抵抗力或承受力』，可广泛用于物理、心理、医学等语境：resistencia al cambio（对变化的抵触）、resistencia a los antibióticos（抗生素耐药性）。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "La cuestión última no es si tales hechos gustan o no a un puñado de intelectuales, aunque <strong>repugne</strong> a una inmensa mayoría social; si se trata de un negocio deficitario y subvencionado, que lo es; cuánto tiempo lleva ejerciéndose una práctica de extrema crueldad. Es de <strong>índole</strong> ética. Y, por tanto, política: preferimos una sociedad que no sea cruel con los otros animales, basada en el respeto a los derechos básicos de los individuos, humanos y no humanos.",
+      "zh": "最终的问题不在于这些事实是否令少数知识分子满意，尽管它令绝大多数社会成员感到厌恶；不在于这是否是一门亏损且依赖补贴的生意——它确实是；也不在于一种极端残忍的做法已延续了多长时间。这是一个伦理性质的问题。因此也是政治性的：我们更希望建立一个不对其他动物施以残忍的社会，一个建立在尊重所有个体——无论人类还是非人类——基本权利之上的社会。",
+      "vocab": [
+        {
+          "word": "repugne",
+          "translation": "令人厌恶，使人反感",
+          "note": "虚拟式用法，aunque + 虚拟式表示让步：aunque repugne a la mayoría（尽管令大多数人反感）。repugnar 比 disgustar 语气强烈得多，强调道德或生理上的强烈排斥感，是书面语中表达强烈厌恶的精准词汇。"
+        },
+        {
+          "word": "índole",
+          "translation": "性质，本质，类型",
+          "note": "正式书面词，de índole + 形容词 是固定结构，意为『具有……性质的』：de índole económica（经济性质的）、de índole personal（个人性质的），比 de tipo 或 de naturaleza 更正式，是新闻和学术文体的标志性表达。"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "es": "Debemos construir nuestra cultura según principios éticos. Fomentar la no violencia. Defender a las víctimas, no a los torturadores. Dar ese ejemplo a la infancia. No tratar de convencer de que el sadismo es arte, no educar en la cultura de la dominación y el sometimiento, sino transmitir una cultura de paz, colaboración, empatía, respeto al diferente. Con su decisión, esencial, de no premiar el maltrato animal el ministro Urtasun ha demostrado <strong>responsabilidad cultural</strong> y compromiso ético con la sociedad. Lo mismo debemos hacer firmando la ILP <strong>#NoEsMiCultura</strong>.",
+      "zh": "我们必须依照伦理原则构建我们的文化。倡导非暴力。捍卫受害者，而非施害者。为孩子们树立榜样。不要试图说服人们虐待狂是艺术，不要在支配与征服的文化中施教，而是传递一种和平、合作、同理心、尊重差异的文化。文化部长乌尔塔松拒绝为虐待动物颁奖的这一重要决定，展现了文化责任感和对社会的伦理承诺。我们也应该通过签署ILP请愿书#NoEsMiCultura来做同样的事。",
+      "vocab": [
+        {
+          "word": "fomentar",
+          "translation": "促进，推动，培育",
+          "note": "比 promover 更强调通过持续性措施主动培育某种风气或行为，常用于政策和教育语境：fomentar la lectura（推广阅读）、fomentar el empleo（促进就业），是社论和政策文件中的高频动词。"
+        },
+        {
+          "word": "sometimiento",
+          "translation": "征服，屈服，压制",
+          "note": "由 someter（使服从）+ -miento（名词化后缀）构成，-miento 是西班牙语重要的名词化后缀：enfrentamiento（对抗）、planteamiento（提法、方案）、comportamiento（行为），掌握它可大幅扩展词汇量。"
+        }
+      ]
+    }
+  ]
+}
