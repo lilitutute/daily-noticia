@@ -1,0 +1,176 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "文化与社会",
+  "difficulty": "C1",
+  "wordCount": "约1100词",
+  "title": "Leer a solas en una habitación",
+  "subtitle": "独自在房间里读书",
+  "resumenEs": "El artículo del escritor Antonio Muñoz Molina reflexiona sobre el valor de la educación a través de tres ejes: la memoria personal de su madre, lectora tardía que nunca pudo estudiar; la historia de Malala Yousafzai, quien sobrevivió un atentado talibán por querer aprender; y la realidad de 120 millones de niñas privadas de escuela en el mundo. El acto aparentemente trivial de leer sola en una habitación se convierte así en un símbolo de libertad y resistencia.",
+  "resumenZh": "作家安东尼奥·穆尼奥斯·莫利纳通过三条线索反思教育的价值：母亲的个人记忆——一位从未能好好读书、迟迟才成为读者的女性；马拉拉·优素福扎伊的故事——一个因渴望学习而遭塔利班暗杀未遂的女孩；以及全球1.2亿无法上学的女童这一现实。独自在房间里读书这个看似微不足道的举动，由此成为自由与抵抗的象征。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "En el mundo privilegiado, ir a la escuela puede ser un hábito aburrido y banal, y la educación un bien nada brillante, mucho menos valioso que el dinero y el éxito. Fuera de aquí, la educación es a veces un don por el que vale la pena arriesgar la vida, y caminar hacia la escuela y pasar el día en ella puede ser un sueño que no se cumpla nunca, o una <strong>trampa mortal</strong>. En Gaza, el ejército israelí se ha especializado heroicamente estos últimos años en bombardear las escuelas con la misma <strong>saña</strong> que los hospitales. En sus tiendas de refugiados en su propio país, niños y niñas rescatan libros y cuadernos escolares de los <strong>escombros</strong> y aprenden caligrafía donde pueden, en papeles rotos, en los márgenes de periódicos y libros medio quemados.",
+      "zh": "在特权世界里，上学可能是一种无聊而平淡的习惯，教育也不过是一种毫不耀眼的商品，远不如金钱和成功来得有价值。而在这个世界之外，教育有时是一种值得以生命相搏的馈赠，走向学校、在那里度过一天，可能是一个永远无法实现的梦，或者是一个致命的陷阱。在加沙，以色列军队这些年来以同样的凶残轰炸学校和医院，仿佛这是一项英勇的专长。在本国境内的难民帐篷里，孩子们从废墟中抢救书本和练习册，在能找到的任何地方练习书法——破碎的纸片上，半烧焦的报纸和书籍的页边空白处。",
+      "vocab": [
+        {
+          "word": "saña",
+          "translation": "凶残，残暴，恶意",
+          "note": "指带有强烈仇恨情绪的残酷行为，比『crueldad（残忍）』更强调施害者的主观恶意和快感，固定搭配：『con saña（凶残地）』『ensañarse con alguien（对某人穷追猛打）』，是描述暴力行为时极具感染力的词。"
+        },
+        {
+          "word": "escombros",
+          "translation": "废墟，瓦砾，碎石",
+          "note": "指建筑物被摧毁后留下的碎片堆，通常为复数形式，在战争和灾难报道中是高频词，固定搭配：『entre los escombros（在废墟中）』『sacar de los escombros（从废墟中救出）』。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "El poeta Cezslaw Milosz contaba que durante la ocupación alemana la resistencia polaca mantenía escuelas, bibliotecas y hasta universidades <strong>clandestinas</strong>, y, aparte de luchar contra el invasor con las armas en la mano, organizaba conciertos y funciones teatrales para mantener vivo el amor del conocimiento y la belleza. Lo mismo hacían los judíos confinados en los guetos, y hasta en los campos de exterminio. Uno de los pasajes más conmovedores de <em>Si esto es un hombre</em> es aquel en el que Primo Levi, a punto de rendirse al <strong>embrutecimiento</strong> de la miseria y el miedo, consigue recordar y recitar de memoria un pasaje de la Divina Comedia. El que ha pasado hambre mantendrá siempre un respeto <strong>litúrgico</strong> hacia los alimentos. Para los condenados al analfabetismo, el saber es el alimento necesario del espíritu, y su imposibilidad o su escasez una privación de la que nunca se consuelan.",
+      "zh": "诗人切斯瓦夫·米沃什曾讲述，在德国占领期间，波兰抵抗运动维持着秘密学校、图书馆乃至地下大学，除了手持武器与侵略者战斗，还组织音乐会和戏剧演出，以保持对知识与美的热爱。被关押在隔离区的犹太人也是如此，甚至在灭绝营里也不例外。普里莫·莱维的《如果这是一个人》中最令人动容的段落之一，是他在即将向苦难和恐惧的兽化屈服之际，设法回忆起并背诵出《神曲》中的一段。经历过饥饿的人，对食物永远保有一种近乎礼仪性的敬重。对于那些被判处文盲之刑的人来说，知识是精神必需的养料，而其不可得或匮乏，是一种永远无法释怀的剥夺。",
+      "vocab": [
+        {
+          "word": "clandestinas",
+          "translation": "秘密的，地下的，非法的",
+          "note": "源自拉丁语『clam（秘密地）』，指为躲避当局而秘密进行的活动或组织，固定搭配：『reunión clandestina（秘密会议）』『red clandestina（地下网络）』，在历史和政治语境中是描述抵抗运动的核心词汇。"
+        },
+        {
+          "word": "embrutecimiento",
+          "translation": "兽化，使人变得麻木粗鄙",
+          "note": "由『bruto（野蛮的、粗鲁的）』派生，指人在极端苦难或压迫下逐渐丧失精神文明特质、退化为本能状态的过程，是描述极权暴力对人性摧残的哲学和文学概念，普里莫·莱维在其作品中多次使用这一概念。"
+        },
+        {
+          "word": "litúrgico",
+          "translation": "礼仪性的，带有仪式感的",
+          "note": "源自基督教礼拜仪式术语『liturgia（礼仪）』，引申为形容某种行为带有庄严、神圣、近乎宗教仪式的特质，作者用『respeto litúrgico』描述饥饿者对食物的态度，以宗教隐喻强化了知识对精神的滋养意义。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "He visto desde niño que el ansia de aprender con mucha frecuencia estaba más acentuada en las mujeres, sin duda porque para ellas era más grave la condena a la ignorancia. Las madres de la clase y la generación de la mía se han pasado la vida sintiendo la <strong>amargura</strong> de lo que no pudieron aprender, y la nostalgia de una escuela a la que solo asistieron de manera esporádica, y en circunstancias precarias. Mi abuelo materno, casi del todo <strong>autodidacta</strong>, escribía con muy buena letra, aunque a veces juntara las palabras y cometiera faltas. Mi abuela solo sabía firmar su nombre, con mucha torpeza. Mi madre recordaba como un breve paraíso los días que pasó en la escuela antes de la guerra, y aunque su memoria ya va disgregándose, aún conserva un rastro del resentimiento que alimentó siempre contra las normas de un mundo en el que todo se conjuraba para impedirle aprender.",
+      "zh": "我从小就发现，对学习的渴望在女性身上往往更为强烈，无疑是因为对她们来说，被判处无知之刑更为沉重。与我同代、同阶层的母亲们，一生都带着无法学到更多知识的苦涩，以及对那所只断断续续、在艰难处境中才得以就读的学校的怀念。我的外祖父几乎完全靠自学，写得一手好字，尽管有时会把词连在一起写，也会犯拼写错误。外祖母只会笨拙地签自己的名字。我母亲把战前在学校度过的日子记忆为一段短暂的天堂，尽管她的记忆已渐渐散碎，她仍保留着对那个世界规则的一丝怨恨——那个世界里，一切都合谋阻止她学习。",
+      "vocab": [
+        {
+          "word": "autodidacta",
+          "translation": "自学者，靠自学成才的人",
+          "note": "由希腊语『autos（自己）』和『didaktos（被教导的）』构成，指不依赖正规教育机构、通过自我学习获得知识和技能的人，在西语中既可作名词也可作形容词，是描述非正规教育路径的核心词汇。"
+        },
+        {
+          "word": "se conjuraba",
+          "translation": "合谋，共同密谋",
+          "note": "动词『conjurarse』指多方力量共同密谋对抗某人或某事，源自『conjura（阴谋）』，此处作者用『todo se conjuraba para impedirle aprender』，将阻碍母亲受教育的社会结构拟人化为一场针对她的集体阴谋，修辞张力极强。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "La frustración personal la compensaban esas mujeres empeñándose, a veces contra la indiferencia o la oposición de los hombres, en que sus hijas y sus hijos estudiaran. Entre los escasos regalos de Reyes que recibíamos mi hermana y yo siempre había algún libro. Para elegirlos, nuestra madre se dejaba aconsejar por el dueño de la papelería en la que comprábamos también los materiales escolares. Lo que no tuvieron en la infancia, cuando la pobreza y la obligación del trabajo se lo <strong>vedaron</strong>, pudieron disfrutarlo con mucho retraso, pero no menos felicidad, cuando en los años ochenta se matricularon, ellas sobre todo, aunque también muchos de ellos, en las escuelas para adultos, en las que unos maestros jóvenes se les aparecían como héroes <strong>providenciales</strong>. Ahora escribían con corrección y claridad, aunque siempre despacio, porque a esas edades era más difícil que se volvieran ágiles con el bolígrafo aquellas manos endurecidas por el trabajo. Y además se descubrían leyendo con una fluidez y una comprensión que no mucho antes les habrían parecido imposibles. Leían sin <strong>silabear</strong>, y pasaban con mucho cuidado las páginas, humedeciendo el pulgar con un gesto preservado o revivido de la infancia.",
+      "zh": "这些女性用一种方式弥补了个人的挫败感：她们坚持——有时要对抗男人们的冷漠或反对——让自己的女儿和儿子去读书。在我和姐姐收到的为数不多的三王节礼物中，总有一本书。为了挑选书籍，母亲会听取我们购买学习用品的那家文具店老板的建议。童年时因贫困和劳动义务而被剥夺的东西，她们得以在很久之后享受到，但喜悦丝毫不减——八十年代，她们，尤其是女性，还有许多男性，报名参加了成人学校，年轻的老师们在她们眼中宛如天降的英雄。她们现在写字工整清晰，但总是很慢，因为在那个年纪，那些被劳动磨硬的手很难再变得灵活。而且她们发现自己能够流畅地阅读，理解力之强，在不久前还会让她们觉得不可思议。她们读书不再逐字拼读，翻页时十分小心，用舌头润湿拇指——那是一个从童年保留或重新唤起的动作。",
+      "vocab": [
+        {
+          "word": "vedaron",
+          "translation": "禁止，剥夺，阻止",
+          "note": "动词『vedar』指以权威或规则禁止某人做某事，比『prohibir』更正式且带有强制剥夺的意味，固定搭配：『vedar el paso（禁止通行）』『vedar el acceso（禁止进入）』，在文学语境中常用于描述社会结构对个人权利的剥夺。"
+        },
+        {
+          "word": "providenciales",
+          "translation": "天赐的，恰逢其时的，如救星般的",
+          "note": "源自『providencia（天意、神意）』，指某人或某事在关键时刻出现，仿佛是命运或神意的安排，带有强烈的感恩和惊叹色彩，作者用此词描述成人学校的年轻教师，传达了那一代迟到的学习者对他们的深切感激。"
+        },
+        {
+          "word": "silabear",
+          "translation": "逐字拼读，一个音节一个音节地读",
+          "note": "由『sílaba（音节）』派生，指初学阅读者将单词分解为音节逐一发音的阅读方式，是识字初期的典型特征，与流利阅读相对，作者用『leían sin silabear』描述这些成年学习者终于突破了识字初期的障碍，细节极为生动。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Durante muchos años, y hasta hace muy poco, mi madre ha sido una lectora <strong>asidua</strong> de literatura. Se sentaba con las gafas de coser y abría el libro alisándolo sobre la mesa, y luego sobre un atril, y decía que se olvidaba de poner la televisión, y el tiempo se le pasaba sin sentir. Leía <em>Don Quijote de la Mancha</em> y le daban ataques de risa. Leía <em>Fortunata y Jacinta</em> y se indignaba con las crueldades de señorito explotador de Juanito Santa Cruz, y el destino de infortunio al que se veía arrastrada Fortunata, en un mundo en el que no había posibilidad de <strong>albedrío</strong> para una mujer sola. Cuando se le empezaron a debilitar la vista y las manos, mi hermana la introdujo en el uso del Kindle. Pesa menos, y se puede agrandar la letra tanto como haga falta. Hay señoras nonagenarias que dan órdenes impacientes a Alexa, como a una sirvienta algo <strong>alelada</strong>, para que les cambie de canal, y tecnólogos futuristas que nunca imaginaron que los abuelos fueran a ser el mejor público del libro electrónico.",
+      "zh": "多年来，直到不久前，我母亲一直是一位勤奋的文学读者。她戴上缝纫用的眼镜，把书摊开压平放在桌上，后来改用书架，说自己忘了开电视，时间不知不觉就过去了。她读《堂吉诃德》，笑得停不下来。她读《福尔图纳塔与哈辛塔》，对胡安尼托·圣克鲁斯这个剥削者的残忍义愤填膺，也为福尔图纳塔被拖向不幸命运而愤慨——在那个世界里，一个孤身女人没有任何自由意志可言。当她的视力和双手开始衰退时，姐姐引导她使用Kindle。它更轻，字体可以随需要放大。有些九旬老太太不耐烦地向Alexa发号施令，就像对着一个有些迟钝的女仆，让它换台；而那些未来主义的技术专家们，从未想到老人们会成为电子书最好的读者群体。",
+      "vocab": [
+        {
+          "word": "asidua",
+          "translation": "勤奋的，持续的，经常的",
+          "note": "源自拉丁语『assiduus（不断的）』，形容某人持续、规律地从事某项活动，固定搭配：『lector asiduo（忠实读者）』『cliente asiduo（常客）』『visitante asiduo（常访者）』，带有坚持不懈的正面含义。"
+        },
+        {
+          "word": "albedrío",
+          "translation": "自由意志，自主选择权",
+          "note": "哲学和文学中的核心概念，指个人依照自身意愿做出选择的能力，固定搭配：『libre albedrío（自由意志）』，是西方哲学、神学和文学中讨论人的主体性时最重要的词汇之一，作者用此词点出19世纪西班牙社会对女性自主权的彻底剥夺。"
+        },
+        {
+          "word": "alelada",
+          "translation": "迟钝的，发呆的，茫然的",
+          "note": "形容词，描述一个人或事物反应迟缓、神情茫然的状态，带有轻微的幽默或贬义色彩，作者将Alexa语音助手比作『sirvienta algo alelada（有些迟钝的女仆）』，以幽默笔触描绘老人与现代科技之间的代际反差。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "La habitación propia de Virginia Woolf es una conquista tan decisiva para una lectora como para una escritora. Mi madre leyendo tranquilamente a solas en su habitación estaba gozando de una de las <strong>reivindicaciones</strong> fundamentales de su vida. En los museos holandeses hay muchos cuadros del siglo XVII que retratan a mujeres solas que leen en uno de esos interiores confortables y limpios que no se ven nunca en la pintura española de la época, igual que no se ven mujeres lectoras, a no ser la Virgen María, que ve su soledad <strong>importunada</strong> por un ángel. Ha estado brevemente en España la gran activista pakistaní Malala Yousafzai y le ha dicho a Patricia R. Blanco en una entrevista: \"Leer un libro sola en su habitación es un acto de resistencia para una niña afgana\". Malala sabe de lo que está hablando.",
+      "zh": "弗吉尼亚·伍尔夫所说的『一间自己的房间』，对于一个读者来说，与对一个作家来说同样是决定性的征服。我母亲独自安静地在自己房间里读书，正在享受她人生中最根本的一项权利主张。荷兰博物馆里有许多17世纪的画作，描绘独自阅读的女性，置身于那种整洁舒适的室内环境——这在同时期的西班牙绘画中从未出现，就像从未出现女性读者一样，除了圣母玛利亚——而她的独处还被一位天使打扰。巴基斯坦伟大活动家马拉拉·优素福扎伊近日短暂访问西班牙，在接受帕特里夏·R·布兰科采访时说：『对一个阿富汗女孩来说，独自在房间里读一本书是一种抵抗行为。』马拉拉深知自己在说什么。",
+      "vocab": [
+        {
+          "word": "reivindicaciones",
+          "translation": "权利主张，诉求，争取",
+          "note": "指对被剥夺的权利或利益的正当要求和争取，在社会运动和政治语境中是核心词汇，固定搭配：『reivindicaciones laborales（劳工诉求）』『reivindicaciones feministas（女权主张）』，比『demanda（要求）』更强调历史性的被剥夺感和正当性。"
+        },
+        {
+          "word": "importunada",
+          "translation": "被打扰的，被冒昧打扰的",
+          "note": "动词『importunar』指以令人不快或不合时宜的方式打扰某人，带有轻微的冒犯意味，作者用此词描述天使报喜打断圣母独处，语气中含有微妙的幽默——连圣母的独处时光也无法幸免于打扰，以此反衬女性独处空间之珍贵。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Creció en una región de Pakistán donde los talibanes, para asegurarse de que las niñas se quedaban sin educación, bombardeaban las escuelas. Hija de un padre con vocación de educador y activista social, a los 12 años Malala dominaba perfectamente el inglés, además del urdu, su lengua nativa, y escribía con <strong>seudónimo</strong> un blog para la BBC, en el que daba cuenta de los abusos de los talibanes contra niñas y mujeres en su provincia. Descubierto su verdadero nombre, los <strong>mulás</strong> integristas la condenaron a muerte por la <strong>herejía</strong> femenina de adquirir una educación.",
+      "zh": "她在巴基斯坦的一个地区长大，那里的塔利班为了确保女孩们无法受教育，轰炸学校。她的父亲是一位有教育家和社会活动家情怀的人，马拉拉12岁时已能完美掌握英语，以及她的母语乌尔都语，并以笔名为BBC撰写博客，记录塔利班在她所在省份对女孩和女性施加的暴行。当她的真实姓名被发现后，极端主义毛拉们以接受教育这一『女性异端』之罪判处她死刑。",
+      "vocab": [
+        {
+          "word": "mulás",
+          "translation": "毛拉，伊斯兰宗教学者",
+          "note": "阿拉伯语借词，指伊斯兰教中具有宗教权威的学者或领袖，在不同语境中含义有所不同：可指受人尊敬的宗教导师，也可（如本文）指以宗教名义推行极端主义的人物，是理解中东和南亚政治宗教语境的基础词汇。"
+        },
+        {
+          "word": "herejía",
+          "translation": "异端，异教行为",
+          "note": "源自基督教神学术语，指违背正统教义的信仰或行为，引申为任何被某一权威体系视为离经叛道的思想或行动，作者用『herejía femenina de adquirir una educación』，以反讽手法揭示塔利班将女性受教育视为宗教罪行的荒谬逻辑。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "En los países privilegiados, chicos y chicas salen de un examen y se lanzan <strong>ávidamente</strong> a la libertad de la calle. A los 15 años, volviendo en autobús de un examen junto a unas amigas, Malala vio que un hombre barbudo gritaba Allahu Akbar delante de ella y le ponía una pistola en la cara, y ya no vio más. La bala le atravesó el cerebro pasando muy cerca de un ojo, y quedó alojada en su espalda. Estuvo durante meses entre la vida y la muerte. Volvió del coma con una determinación invariable de seguir aprendiendo, pero ahora no quería ser doctora, sino <strong>activista</strong> por la educación de las niñas.",
+      "zh": "在特权国家，男孩女孩们考完试就迫不及待地冲向街头的自由。15岁那年，马拉拉和几个朋友乘公共汽车从考场回家，她看到一个留胡子的男人在她面前高喊真主至大，把手枪对准她的脸，然后她什么都看不见了。子弹穿过她的大脑，从一只眼睛旁边擦过，最终留在她的背部。她在生死之间徘徊了数月。从昏迷中醒来后，她继续学习的决心丝毫未变，但她不再想成为一名医生，而是想成为一名女童教育权利的活动家。",
+      "vocab": [
+        {
+          "word": "ávidamente",
+          "translation": "如饥似渴地，迫不及待地",
+          "note": "由形容词『ávido（渴望的）』派生，源自拉丁语『avidus（贪婪的、渴望的）』，描述以强烈欲望和热情追求某事物的状态，固定搭配：『ávido de conocimiento（如饥似渴地求知）』『ávido de libertad（渴望自由）』，作者在此用反讽手法，以特权国家孩子对自由的渴望衬托马拉拉所遭受的暴力。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "En nuestro mundo de <strong>desganado cinismo</strong>, el aprendizaje es una cosa más bien superflua, y las escuelas y las universidades de los ricos, lo mismo en Madrid que en Harvard, no ofrecen ya una educación; tan solo venden credenciales y contactos. Pero algo muy serio, profundo, hasta peligroso, tiene que haber en el deseo de aprender de una niña de 15 años para que se considere necesario asesinarla. Malala salió de Pakistán no por ver mundo, sino para que no la mataran, y se doctoró en Oxford, además de ganar a los 17 años ese Premio Nobel de la Paz que al octogenario Donald Trump le da tanta rabia no haber conseguido. Malala, ahora una mujer de 28, consagra su prestigio universal a la causa de la educación de las niñas, y no parece que pierda ni la serenidad ni el entusiasmo. Hay en el mundo, nos dice, 120 millones de niñas que no pueden ir a la escuela. Quién puede imaginar lo qué pasaría si esa formidable multitud pudiera escapar al cautiverio de la ignorancia.",
+      "zh": "在我们这个慵懒犬儒的世界里，学习是一件相当多余的事，富人的学校和大学——无论在马德里还是哈佛——早已不再提供教育，只是在出售文凭和人脉。但一个15岁女孩的求学欲望中，一定有某种极为严肃、深刻、甚至危险的东西，才会让人觉得有必要将她杀死。马拉拉离开巴基斯坦不是为了见世面，而是为了不被杀害，她在牛津获得博士学位，还在17岁时获得了诺贝尔和平奖——这个奖项让年届八旬的唐纳德·特朗普至今耿耿于怀，恼恨自己未能得到。如今28岁的马拉拉，将她的世界性声望全部投入女童教育事业，似乎既未失去平静，也未失去热情。她告诉我们，世界上有1.2亿女孩无法上学。试想，如果这支庞大的队伍能够逃脱无知的囚禁，将会发生什么。",
+      "vocab": [
+        {
+          "word": "desganado cinismo",
+          "translation": "慵懒的犬儒主义，漫不经心的愤世嫉俗",
+          "note": "『desgana』指对事物缺乏热情和动力，『cinismo』指对道德价值持嘲讽否定态度的人生哲学，两词组合描绘了特权社会对教育价值漠然的精神状态，与文中马拉拉为教育甘冒生命危险形成强烈对比，是作者批判西方社会的核心词组。"
+        },
+        {
+          "word": "cautiverio de la ignorancia",
+          "translation": "无知的囚禁，被无知所囚",
+          "note": "『cautiverio』指被囚禁、被俘虏的状态，通常用于描述战俘或动物圈养，作者将其与『ignorancia』搭配，把无知比作一种囚禁状态，与文章开头『trampa mortal（致命陷阱）』形成呼应，构成全文最有力的隐喻之一。"
+        }
+      ]
+    }
+  ]
+}
