@@ -1,438 +1,304 @@
 {
   "date": "西语外刊阅读",
   "brand": "公众号【西语SuperO】",
-  "category": "时事新闻",
+  "category": "社会观察",
   "difficulty": "C1",
-  "wordCount": "约1800词",
-  "title": "¿Qué ha pasado con Zhang Xuefeng? China confirma su muerte",
-  "subtitle": "张雪峰去世：中国证实其死讯",
-  "resumenEs": "Zhang Xuefeng, influyente consultor educativo chino especializado en orientación universitaria para el gaokao, falleció el 24 de marzo de 2026 tras sufrir una muerte súbita de origen cardiaco en la sede de su empresa en Suzhou. Su desaparición genera un enorme impacto tanto en el ecosistema mediático como en el mercado de la consultoría educativa china, sector que él mismo contribuyó a construir y personificar.",
-  "resumenZh": "张雪峰，中国知名教育咨询顾问，专注于高考志愿填报指导，于2026年3月24日在其位于苏州的公司总部突发心源性猝死，经抢救无效离世。他的去世对中国媒体生态和教育咨询市场造成巨大冲击——这一市场在很大程度上正是由他亲手建立并以其个人形象为核心支撑的。",
+  "wordCount": "约850词",
+  "title": "La muerte de Zhang Xuefeng y el espejo de la ansiedad educativa en China",
+  "subtitle": "张雪峰之死与中国教育焦虑的镜像",
+  "resumenEs": "La repentina muerte de Zhang Xuefeng revela las profundas tensiones de la sociedad china, donde la educación se ha mercantilizado y la ansiedad por el futuro profesional se ha convertido en un negocio lucrativo.",
+  "resumenZh": "张雪峰的骤然离世揭示了中国社会深层的矛盾：教育日益商品化，而对未来职业的焦虑已演变为一门利润丰厚的生意。",
   "paragraphs": [
     {
       "id": 1,
-      "es": "Zhang Xuefeng ha muerto y, tras varias horas de mensajes cruzados, perfiles enlutados y emisiones canceladas, ya no queda demasiado <strong>margen para el equívoco</strong>. La confirmación llegó este martes 24 de marzo de 2026 desde su propia empresa, que informó de un episodio de muerte súbita de origen cardiaco después de que el conocido consultor educativo sufriera un malestar en su sede de Suzhou. La secuencia que maneja la prensa china sitúa el inicio del problema sobre las 12.26, justo después de correr en la compañía, y fija la hora del fallecimiento a las 15.50, tras el traslado al hospital y los intentos de reanimación. Mientras tanto, varias cuentas asociadas a su marca cambiaron sus avatares a blanco y negro y suspendieron los directos, el gesto digital que en China suele anunciar que algo grave, muy grave, <strong>acaba de ocurrir</strong>.",
-      "zh": "张雪峰已经离世。经过数小时的交叉信息、黑白头像和取消的直播，已几乎没有任何误解的余地。确认消息于2026年3月24日周二由其公司正式发布：这位知名教育咨询顾问在苏州总部感到不适后，发生心源性猝死。中国媒体掌握的时间线显示，事发于12时26分左右，就在他在公司跑步之后；经送医抢救，于15时50分确认离世。与此同时，多个与其品牌相关的账号将头像改为黑白色并暂停了直播——这一数字哀悼姿态在中国通常意味着某件严重的、非常严重的事情刚刚发生。",
+      "es": "La muerte de Zhang Xuefeng, confirmada el 24 de marzo por su empresa, ha provocado una <strong>conmoción</strong> inmediata en China. No sólo por la desaparición repentina de una figura muy conocida en el mercado de la orientación educativa, sino porque su <strong>trayectoria</strong> resumía algunas de las tensiones más profundas del país contemporáneo: la presión del _gaokao_, la <strong>mercantilización</strong> de la educación, la obsesión por la empleabilidad y el peso creciente de los 『expertos』 convertidos en celebridades digitales.",
+      "zh": "张雪峰的死讯于3月24日由其公司确认，立即在中国引发了震动。这不仅是因为教育咨询市场上一位知名人物的突然离世，更因为他的职业生涯浓缩了当代中国一些最深层的矛盾：高考的压力、教育的商品化、对就业能力的痴迷，以及化身为数字名人的『专家』日益增长的权重。",
       "vocab": [
         {
-          "word": "margen para el equívoco",
-          "translation": "误解的余地",
-          "note": "『margen』在此作抽象名词，表示『空间/余地』，常见搭配如 margen de error（误差范围）、margen de maniobra（回旋余地），是新闻文体中的高频表达。"
+          "word": "conmoción",
+          "translation": "震动，震惊",
+          "note": "易混辨析：指强烈的社会震动或情感冲击，比『sorpresa』(惊讶) 程度深得多，常用于新闻报道重大事件的反应。"
         },
         {
-          "word": "acaba de ocurrir",
-          "translation": "刚刚发生",
-          "note": "『acabar de + 动词原形』表示『刚刚做了某事』，是西语中表达近过去时的核心结构，注意它与pretérito perfecto的区别：这个结构强调动作的即时性。"
+          "word": "trayectoria",
+          "translation": "轨迹，职业生涯",
+          "note": "用法说明：常用于指代某人的『职业生涯』或『发展轨迹』，搭配『trayectoria profesional』极高频。"
+        },
+        {
+          "word": "mercantilización",
+          "translation": "商品化",
+          "note": "构词规律：由名词 mercado 派生，后缀 -ización 表示『……化』的过程，即『商品化/市场化』。"
         }
       ]
     },
     {
       "id": 2,
-      "es": "La noticia ha <strong>golpeado con fuerza</strong> el ecosistema mediático y educativo chino porque Zhang Xuefeng no era un comentarista cualquiera ni un profesor convertido en celebridad por accidente. Durante años se convirtió en uno de los rostros más visibles del negocio de la orientación universitaria, del asesoramiento para el gaokao —el examen nacional de acceso a la universidad— y de ese mercado gigantesco que mezcla miedo familiar, cálculo laboral y obsesión por no fallar. Su muerte no cierra sólo una trayectoria personal. También abre un agujero en una industria construida en buena parte <strong>alrededor de</strong> su voz, de su tono afilado y de una forma muy concreta de hablar sobre carreras, universidades y futuro profesional en la China contemporánea.",
-      "zh": "这一消息对中国媒体和教育生态造成了强烈冲击，因为张雪峰并非普通的评论员，也不是偶然成名的教师。多年来，他成为大学志愿填报咨询行业、高考备考指导领域最具代表性的面孔之一——这一庞大市场交织着家庭焦虑、职业盘算与对失误的极度恐惧。他的离世不仅仅是一段个人轨迹的终结，更在一个很大程度上围绕他的声音、他犀利的风格以及他谈论专业、大学和职业前景的独特方式所构建的行业中，留下了一个巨大的空缺。",
+      "es": "Según la información difundida por su compañía, Zhang sufrió un malestar físico en la sede de la empresa en Suzhou poco después del mediodía, fue trasladado al hospital y falleció a las 15.50 tras los intentos de reanimación. La empresa habló de una <strong>muerte súbita</strong> de origen cardiaco. Antes de la confirmación oficial, varias cuentas vinculadas a su marca habían cambiado sus imágenes a blanco y negro y suspendido emisiones en directo, un lenguaje visual que en el ecosistema digital chino suele <strong>anticipar</strong> el <strong>duelo</strong>. Durante varias horas, la noticia circuló entre rumores, capturas de pantalla y mensajes indirectos; después llegó el comunicado, breve y corporativo, con otro mensaje igual de importante: la actividad de la empresa continuará.",
+      "zh": "根据其公司发布的信息，张某于中午过后不久在苏州公司总部感到身体不适，被送往医院，经抢救无效于15时50分去世。公司称其为心源性猝死。在官方确认之前，与其品牌相关的多个账号已将头像改为黑白，并暂停了直播，这种视觉语言在中国数字生态系统中通常预示着哀悼。几个小时内，该消息在谣言、截图和间接信息中流传；随后发布了简短的企业声明，其中包含另一个同样重要的信息：公司的业务将继续。",
       "vocab": [
         {
-          "word": "golpeado con fuerza",
-          "translation": "强烈冲击",
-          "note": "『golpear』本义为『打击』，在新闻文体中常用于抽象语境，表示某事件对某领域造成重大冲击，是典型的隐喻用法，类似中文『重创』。"
+          "word": "muerte súbita",
+          "translation": "猝死",
+          "note": "固定搭配：医学和新闻常用语，súbito/a 表示『突然的，毫无预兆的』。"
         },
         {
-          "word": "alrededor de",
-          "translation": "围绕，以……为中心",
-          "note": "『alrededor de』既可表示物理空间上的『围绕』，也可表示抽象意义上的『以……为核心』，此处为后者，是B2以上文体中的常见介词短语。"
+          "word": "anticipar",
+          "translation": "预示，作为……的前兆",
+          "note": "假朋友警告：除了表示『提前（做某事）』，在新闻语境中常指『预示』，不完全等同于英语的 anticipate（期待）。"
+        },
+        {
+          "word": "duelo",
+          "translation": "哀悼，丧期",
+          "note": "一词多义：此处意为『哀悼、丧期』，另一个常见意思是『决斗』（如 el duelo a muerte），需根据语境区分。"
         }
       ]
     },
     {
       "id": 3,
-      "es": "Todo empezó como empiezan demasiadas noticias en 2026: enredadas en un caldo de cultivo de rumores, capturas de pantalla y señales indirectas. Durante la jornada circularon mensajes que hablaban de un colapso físico, de una atención médica urgente y de una posible muerte repentina. Lo que, al principio, podía parecer una de tantas alarmas infladas en redes <strong>ganó cuerpo</strong> a medida que las piezas empezaron a encajar. Las cuentas vinculadas a Zhang Xuefeng dejaron de emitir, varios perfiles adoptaron la estética de duelo y el nombre del consultor se convirtió en tendencia <strong>a velocidad de vértigo</strong>. En ese punto, China ya estaba mirando la misma pantalla, esperando una confirmación oficial que tardó, pero llegó. Y cuando llegó, lo hizo con la frialdad habitual del comunicado corporativo: un episodio agudo, asistencia médica, fallecimiento confirmado y continuidad garantizada para la empresa.",
-      "zh": "一切的开始，和2026年太多新闻的开端如出一辙：深陷于谣言、截图和间接信号的温床之中。当天，各种消息在网络上流传，谈及身体崩溃、紧急就医以及可能的猝死。起初看似又一则被网络放大的虚假警报，却随着各方信息逐渐吻合而愈发清晰成形。与张雪峰相关的账号停止发布内容，多个主页换上哀悼风格的头像，他的名字以令人眩晕的速度冲上热搜。此时，中国已经在同一块屏幕前等待官方确认——迟来，但终究来了。而当它来临时，带着企业公告一贯的冷静：急性发作、医疗救治、确认离世、公司运营保障。",
+      "es": "Ese detalle revela <strong>hasta qué punto</strong> Zhang Xuefeng no era sólo una persona conocida, sino el eje de un negocio. Fundador, portavoz y principal activo simbólico de su compañía, había construido una marca personal muy poderosa alrededor de una promesa sencilla y eficaz: ayudar a las familias a reducir el <strong>margen de error</strong> en una de las decisiones más decisivas de la vida china urbana, la elección de universidad y de carrera. En un país donde millones de estudiantes <strong>se juegan</strong> en el _gaokao_ no sólo una plaza académica, sino también una expectativa de movilidad social, Zhang supo convertir la incertidumbre en producto y la ansiedad en mercado.",
+      "zh": "这个细节揭示了张雪峰在何种程度上不仅是一个知名人物，而是一门生意的核心。作为公司的创始人、发言人和主要象征资产，他围绕一个简单有效的承诺建立了一个非常强大的个人品牌：帮助家庭在城市生活中最具决定性的决策之一（选择大学和专业）中减少容错率。在一个数百万学生在高考中不仅押上学术名额，还押上社会阶层流动预期的国家里，张懂得如何将不确定性转化为产品，将焦虑转化为市场。",
       "vocab": [
         {
-          "word": "ganó cuerpo",
-          "translation": "逐渐成形，愈发可信",
-          "note": "『ganar cuerpo』是固定搭配，字面意思是『获得身体』，实指某事物（如谣言、想法）逐渐变得具体、可信或有分量，新闻文体中常见。"
+          "word": "hasta qué punto",
+          "translation": "到何种程度",
+          "note": "固定搭配：常用于引导间接疑问句，探讨某事的影响深度或范围。"
         },
         {
-          "word": "a velocidad de vértigo",
-          "translation": "以令人眩晕的速度，极速地",
-          "note": "『vértigo』本义为『眩晕』，『a velocidad de vértigo』是固定短语，形容速度极快，常用于新闻描述信息传播或事态发展，语气生动有力。"
+          "word": "margen de error",
+          "translation": "误差范围，容错率",
+          "note": "固定短语：在统计学和日常决策语境中都非常高频，指允许犯错的余地。"
+        },
+        {
+          "word": "se juegan",
+          "translation": "押上，拿……冒险",
+          "note": "用法说明：动词 jugarse (algo) 在这里表示『把……押在上面』，比单纯的 jugar (玩) 多了承担巨大风险的意味。"
         }
       ]
     },
     {
       "id": 4,
-      "es": "Ese dato de la continuidad no es menor. La compañía, Suzhou Fengxue Weilai Education Technology, no se limitó a informar del fallecimiento. También quiso dejar claro que la actividad sigue, que los servicios continúan y que los derechos de trabajadores y alumnos quedan protegidos. Es el tipo de frase que aparece cuando una marca <strong>depende de manera demasiado intensa de</strong> un solo rostro. En este caso, de uno muy reconocible. Zhang no sólo era el fundador. Era también la firma visible del producto, el argumento comercial, el hombre que sostenía buena parte de la confianza de sus clientes. Su ausencia, por tanto, no es sólo una pérdida humana; es también una <strong>sacudida</strong> empresarial de primer orden en un sector donde la autoridad personal pesa casi tanto como la estructura corporativa.",
-      "zh": "『运营持续』这一表态并非无足轻重。苏州峰学未来教育科技公司不仅发布了讣告，还特意声明业务照常进行、服务不受影响、员工与学员权益受到保障。这类措辞通常出现在一个品牌过度依赖单一面孔的时候。而在这里，这张面孔极具辨识度。张雪峰不只是创始人，他还是产品的可见签名、商业说服力的来源，是支撑大部分客户信任的那个人。因此，他的缺席不仅是一次人的失去，更是这个行业中一场头等的商业震荡——在这个行业里，个人权威的分量几乎与企业架构不相上下。",
+      "es": "Su influencia no surgió del prestigio universitario clásico ni del perfil del experto discreto. Surgió, sobre todo, de su capacidad para hablar con <strong>rotundidad</strong>. Zhang simplificaba discusiones complejas en frases directas, a menudo <strong>tajantes</strong>, sobre qué carreras 『valen la pena』, qué especialidades ofrecen mejores salidas y qué decisiones pueden <strong>hipotecar</strong> el futuro profesional de un joven. Esa forma de comunicar le dio una audiencia masiva. Para muchas familias, agotadas por la falta de información clara y por la presión de no equivocarse, su discurso sonaba práctico. Para sus críticos, era una reducción brutal de la educación a una lógica de rentabilidad.",
+      "zh": "他的影响力并非源于传统的大学声望，也不是那种低调专家的形象。它主要源于他斩钉截铁的表达能力。张将复杂的讨论简化为直接、往往是一针见血的句子，讨论哪些专业『值得』，哪些专业出路更好，以及哪些决定可能会透支年轻人未来的职业生涯。这种沟通方式为他赢得了庞大的受众。对于许多因缺乏明确信息和害怕犯错的压力而筋疲力尽的家庭来说，他的言论听起来很实用。而对于批评者来说，这是将教育粗暴地降维到盈利逻辑。",
       "vocab": [
         {
-          "word": "depende de manera demasiado intensa de",
-          "translation": "过度依赖",
-          "note": "『depender de』是固定搭配，表示『依赖……』，中间插入程度副词短语『de manera demasiado intensa』是书面语中强化语气的常见手法，学习者可举一反三用于其他动词。"
+          "word": "rotundidad",
+          "translation": "坚决，斩钉截铁",
+          "note": "语境提示：常搭配 hablar con/afirmar con，形容说话人极度自信、不容置疑的语气。"
         },
         {
-          "word": "sacudida",
-          "translation": "震荡，冲击",
-          "note": "『sacudida』本义为『摇晃、震动』，在新闻和经济文体中常用于比喻重大冲击或动荡，如 sacudida financiera（金融震荡），是C1级别的高频隐喻词汇。"
+          "word": "tajantes",
+          "translation": "一针见血的，断然的",
+          "note": "易混辨析：比 directos (直接的) 带有更强的切断退路或不留余地的意味。"
+        },
+        {
+          "word": "hipotecar",
+          "translation": "透支，搭上（未来）",
+          "note": "语境提示：本意是『抵押』，在新闻和评论中常引申为『透支/搭上（未来、前途等）』，如 hipotecar el futuro。"
         }
       ]
     },
     {
       "id": 5,
-      "es": "Fuera de China, su nombre podía sonar lejano; dentro del país, era casi imposible no haberlo oído alguna vez, sobre todo en el universo de las familias pendientes del acceso a la universidad. Zhang Xuefeng se hizo famoso como orientador académico, comentarista educativo y empresario, pero la etiqueta se queda corta. En realidad, <strong>acabó funcionando como</strong> una figura híbrida: profesor mediático, consultor de alto impacto, creador de contenido y empresario que supo convertir una ansiedad nacional en una marca. Su especialidad era hablar sin demasiados <strong>rodeos</strong> sobre qué carreras merecen la pena, qué titulaciones ofrecen mejores salidas, qué universidades compensa elegir y cómo encarar un sistema tan competitivo que cada decisión parece una ruleta con matrícula.",
-      "zh": "在中国以外，他的名字或许听来陌生；但在国内，几乎不可能没有听说过他，尤其是在那些时刻关注大学入学问题的家庭圈子里。张雪峰以学业规划顾问、教育评论员和企业家的身份成名，但这些标签仍不足以概括他。事实上，他最终成为一个复合型人物：媒体型教师、高影响力顾问、内容创作者，以及一位懂得将全国性焦虑转化为品牌的商人。他的专长在于毫不拐弯抹角地谈论哪些专业『值得读』、哪些学位出路更好、选哪所大学更划算，以及如何应对一个竞争激烈到每一个决定都像是一场押上学费的轮盘赌的体制。",
+      "es": "Ahí está una de las claves de su ascenso. En China, la orientación educativa ya no es un servicio periférico. En las últimas dos décadas se ha convertido en un sector <strong>lucrativo</strong>, alimentado por el crecimiento de las clases medias urbanas, la competencia feroz por el acceso a las mejores universidades y la percepción de que una mala elección académica puede <strong>condicionar</strong> toda una trayectoria vital. Zhang entendió ese cambio mejor que muchos actores institucionales. No vendía únicamente información sobre universidades. Vendía algo más escaso: una narrativa de seguridad en medio de un sistema <strong>opaco</strong> y profundamente competitivo.",
+      "zh": "这正是他崛起的一个关键。在中国，教育咨询已不再是一个边缘服务。在过去的二十年里，它已成为一个利润丰厚的行业，其动力来自于城市中产阶级的增长、进入顶尖大学的激烈竞争，以及人们认为糟糕的学术选择可能会决定人一生的轨迹。张比许多机构参与者更好地理解了这种变化。他卖的不仅仅是关于大学的信息。他卖的是更稀缺的东西：在一个不透明且竞争极其激烈的系统中提供一种安全感的叙事。",
       "vocab": [
         {
-          "word": "acabó funcionando como",
-          "translation": "最终成为，最后扮演了……的角色",
-          "note": "『acabar + gerundio』表示『最终/结果……』，强调一个过程的最终结果，与『terminar + gerundio』近义，但『acabar』更强调结局的自然形成，是B2核心语法结构。"
+          "word": "lucrativo",
+          "translation": "利润丰厚的，赚钱的",
+          "note": "语境提示：常用于形容行业 (sector)、业务 (negocio) 或活动，是经济类新闻高频词。"
         },
         {
-          "word": "rodeos",
-          "translation": "弯路，迂回，拐弯抹角",
-          "note": "『sin rodeos』是固定搭配，意为『直截了当，不拐弯抹角』，『rodeo』本义为『绕道』，引申为说话或行事的迂回，常见于口语和新闻评论文体。"
+          "word": "condicionar",
+          "translation": "决定，制约",
+          "note": "用法说明：在此处意为『决定、制约』，指某事物对另一事物的发展产生决定性影响，常接直接宾语。"
+        },
+        {
+          "word": "opaco",
+          "translation": "不透明的",
+          "note": "一词多义：本意为物理属性上的『不透明』，在社会政治语境中常比喻系统、制度或信息『不公开、缺乏透明度』。"
         }
       ]
     },
     {
       "id": 6,
-      "es": "Ese papel le dio una influencia <strong>descomunal</strong>. En China, el gaokao no es sólo un examen. Es, para millones de estudiantes y familias, una frontera social. De su resultado dependen universidad, ciudad, prestigio, opciones laborales y, en muchos casos, la sensación de haber entrado o no en el carril correcto. Zhang entendió mejor que casi nadie que ahí había un vacío. El sistema ofrecía información, sí, pero no siempre claridad. Y cuando falta claridad <strong>aparece el mercado</strong>. Él llenó ese espacio con una fórmula muy eficaz: simplificar lo complejo, hablar con rotundidad, usar un lenguaje duro y vender una imagen de sinceridad brutal. No sonaba como un rector ni como un funcionario. Sonaba como alguien dispuesto a decir lo que otros suavizaban. Y eso, en un entorno de tanta presión, cotiza alto.",
-      "zh": "这一角色赋予了他巨大的影响力。在中国，高考不只是一场考试，对数百万学生和家庭而言，它是一道社会分界线。大学、城市、声望、就业机会，乃至是否踏上了『正确轨道』的感受，都取决于它的结果。张雪峰比几乎所有人都更早看清：这里存在一个空缺。体制提供了信息，但不总是提供清晰的方向。而当清晰缺失，市场便应运而生。他用一套极为有效的公式填补了这个空间：化繁为简、言辞果断、语言犀利，并兜售一种近乎残酷的坦诚形象。他听起来不像校长，也不像官员，而像一个愿意说出别人只敢轻描淡写之事的人。在压力如此之大的环境中，这一点价值不菲。",
+      "es": "Pero la misma voz que le dio notoriedad lo convirtió también en una figura incómoda. Su episodio más recordado llegó en 2023, cuando afirmó en una emisión en directo que, si su hijo quisiera estudiar periodismo, él intentaría impedírselo. La frase <strong>desató</strong> una fuerte polémica en redes, medios y universidades. Detrás del escándalo había un debate muy real: si la educación superior debe orientarse ante todo por su valor cultural y formativo, o por su rentabilidad inmediata en el mercado laboral. Zhang <strong>se alineó con</strong> la segunda posición sin ambigüedad. Para sus seguidores, decía en público lo que muchas familias piensan en privado; para sus <strong>detractores</strong>, contribuía a empobrecer la idea misma de universidad.",
+      "zh": "但赋予他知名度的同一个声音也使他成为一个令人不适的人物。他最令人记忆深刻的事件发生在2023年，当时他在一次直播中声称，如果他的孩子想学新闻，他会试图阻止。这句话在网络、媒体和大学中引发了强烈的争议。在这场风波背后是一个非常现实的辩论：高等教育究竟应首先以其文化和教育价值为导向，还是以其在劳动力市场上的即时回报率为导向。张毫不含糊地站在了第二种立场。对他的追随者来说，他在公开场合说出了许多家庭私下里的想法；而对他的批评者来说，他是在助长贬低大学理念本身。",
       "vocab": [
         {
-          "word": "descomunal",
-          "translation": "巨大的，超乎寻常的",
-          "note": "『descomunal』由前缀『des-』加『comunal』构成，但此处『des-』并非否定，而是强化语气，整体意为『超出常规的、巨大的』，是C1级别形容词，常用于夸张或强调语境。"
+          "word": "desató",
+          "translation": "引发，激起",
+          "note": "搭配说明：动词 desatar 本意是『解开』，常用于比喻『引发、激起（负面事件或强烈情绪）』，如 desatar una polémica。"
         },
         {
-          "word": "aparece el mercado",
-          "translation": "市场便应运而生",
-          "note": "此处『aparecer』用作不及物动词，表示某事物自然涌现，是新闻评论文体中描述社会现象的简洁表达，注意与『surgir』（兴起）的细微差别：『aparecer』更强调突然出现。"
+          "word": "se alineó con",
+          "translation": "与……结盟，站在……一边",
+          "note": "固定搭配：alinearse con alguien/algo 意为『与……结盟』，常用于表达在辩论或冲突中选择立场。"
+        },
+        {
+          "word": "detractores",
+          "translation": "批评者，诽谤者",
+          "note": "词汇辨析：比 críticos 带有更强的敌意或反对态度，通常与 seguidores (追随者) 形成对比。"
         }
       ]
     },
     {
       "id": 7,
-      "es": "Su ascenso no fue el de un académico clásico, sino el de un comunicador que entendió las reglas de la atención masiva. Empezó vinculado al mundo de la formación y la orientación, pero acabó dando el salto a una dimensión empresarial y digital mucho más ambiciosa. Con el tiempo, construyó una estructura centrada en la planificación educativa, el análisis de opciones universitarias y el acompañamiento de familias que estaban dispuestas a pagar por una guía privada en el tramo más delicado del proceso. No vendía únicamente información sobre universidades o carreras. Vendía algo más escaso y, por eso mismo, más caro: la sensación de <strong>reducir el margen de error</strong> en un sistema feroz.",
-      "zh": "他的崛起走的不是传统学者的路径，而是一个读懂了大众注意力法则的传播者的路径。他最初与培训和咨询领域相关，但最终跃升至更具野心的商业与数字化维度。随着时间推移，他构建起一套以教育规划、大学选择分析和家庭陪伴为核心的体系，服务于那些愿意在最关键的阶段为私人指导付费的家庭。他出售的不只是关于大学和专业的信息，而是更稀缺、也因此更昂贵的东西：在一个残酷体制中降低犯错概率的感觉。",
+      "es": "Su figura <strong>condensaba</strong> así una transformación más amplia de la sociedad china. Bajo la presión del crecimiento desigual, del desempleo juvenil y de la <strong>saturación</strong> de ciertos títulos, muchas familias han dejado de preguntar únicamente 『qué gusta estudiar』 para preguntar, sobre todo, 『qué permite sobrevivir mejor』. En ese desplazamiento, la educación deja de imaginarse como formación <strong>integral</strong> y pasa a ser leída como inversión, cálculo y gestión del riesgo. Zhang Xuefeng prosperó precisamente en ese terreno. Su discurso no era marginal: era la versión más visible, más agresiva y más comercial de una racionalidad social ya muy extendida.",
+      "zh": "他的形象因此浓缩了中国社会更广泛的转型。在不平衡增长、青年失业和某些学历饱和的压力下，许多家庭不再仅仅问『喜欢学什么』，而是主要问『什么能让人更好地生存』。在这种转变中，教育不再被想象为全面发展，而是被解读为投资、计算和风险管理。张雪峰正是在这片土壤中繁荣起来的。他的言论并非边缘化：它是一种已经非常普遍的社会理性的最显眼、最具攻击性也最商业化的版本。",
       "vocab": [
         {
-          "word": "reducir el margen de error",
-          "translation": "降低犯错概率，缩小误差范围",
-          "note": "『margen de error』是新闻、学术和商业文体中的高频固定搭配，『reducir/ampliar el margen de error』是其最常见的动词搭配，学习者可直接作为短语整体记忆。"
+          "word": "condensaba",
+          "translation": "浓缩，集中体现",
+          "note": "语境提示：此处引申为『浓缩、集中体现』，指一个具体人物或事件反映了宏大的社会现象。"
+        },
+        {
+          "word": "saturación",
+          "translation": "饱和",
+          "note": "构词规律：由动词 saturar 派生，意为『饱和』，常用于经济学中指市场供过于求（如学历贬值、人才过剩）。"
+        },
+        {
+          "word": "integral",
+          "translation": "全面的，完整的",
+          "note": "易混辨析：作为形容词意为『全面的』，formación integral 指全方位的素质教育，不同于数学中的『积分』。"
         }
       ]
     },
     {
       "id": 8,
-      "es": "Ahí reside una de las claves de su éxito. Zhang Xuefeng entendió que la orientación académica, en la China de las clases medias urbanas y <strong>aspiracionales</strong>, ya no era un servicio menor ni una conversación doméstica. Era un sector económico en plena expansión. Las familias querían datos, estrategias, certezas, comparativas, consejos sobre movilidad social y promesas de empleabilidad. Él convirtió todo eso en una oferta de alto valor, con cursos, consultas y una presencia digital muy intensa. Su marca creció porque tocó un nervio real: el miedo a equivocarse en la elección de carrera, de ciudad o de universidad. En una sociedad donde el rendimiento escolar se vive como un examen del hogar entero, ese miedo tiene un precio. Y él supo <strong>ponerle tarifa</strong>.",
-      "zh": "这正是他成功的关键之一。张雪峰看清了：在城市中产阶级和有向上流动渴望的中国，学业规划早已不是一项次要服务，也不是家庭内部的私下对话，而是一个正在蓬勃扩张的经济领域。家庭们渴望数据、策略、确定性、横向比较、社会流动建议和就业前景承诺。他将这一切转化为高价值产品，以课程、咨询和高强度数字存在为载体。他的品牌之所以壮大，是因为触碰到了一根真实的神经：对在专业、城市或大学选择上犯错的恐惧。在一个将学业表现视为整个家庭考卷的社会里，这种恐惧是有价格的。而他懂得给它定价。",
+      "es": "Por eso su muerte no puede leerse sólo como la desaparición de un consultor famoso. También obliga a mirar la estructura que lo hizo posible. El negocio de la consultoría para el _gaokao_ y la planificación universitaria se ha expandido en China <strong>al calor de</strong> una desconfianza silenciosa: muchas familias sienten que la información oficial no basta, que las escuelas no orientan de forma suficiente y que, ante un sistema tan competitivo, pagar por asesoramiento privado es casi una necesidad. Zhang convirtió esa <strong>carencia</strong> en una industria de alto valor, basada en cursos, contenidos, análisis y una intensa presencia en plataformas digitales. Era, a la vez, empresario, comentarista y celebridad.",
+      "zh": "因此，他的死不能仅仅被看作是一位著名顾问的消失。它还迫使人们审视造就他的结构。在中国，高考咨询和大学规划业务在一种无声的不信任的推动下扩张：许多家庭觉得官方信息不够，学校的指导不足，而在如此竞争激烈的体系面前，付费获取私人咨询几乎成了一种必需。张将这种缺失转化为一个高价值的产业，建立在课程、内容、分析以及在数字平台上的强烈存在感之上。他同时兼具企业家、评论员和名人的身份。",
       "vocab": [
         {
-          "word": "aspiracionales",
-          "translation": "有向上流动渴望的，追求上升的",
-          "note": "『aspiracional』由『aspiración』（抱负、渴望）加后缀『-al』构成，在社会学和市场营销文体中指『渴望提升社会地位的』群体，是典型的C1新闻/学术词汇。"
+          "word": "al calor de",
+          "translation": "在……的推动/庇护下",
+          "note": "固定短语：字面意思是『在……的温度下』，引申为『在……的庇护/推动/氛围下』，常用于描述某种现象产生的背景。"
         },
         {
-          "word": "ponerle tarifa",
-          "translation": "给它定价，将其商品化",
-          "note": "『poner tarifa』字面意为『设定收费标准』，此处为隐喻用法，指将某种无形的情感或需求转化为可收费的商业产品，语气带有一定的批判色彩。"
+          "word": "carencia",
+          "translation": "缺乏，缺失",
+          "note": "易混辨析：指『缺乏、缺失』(falta de algo necesario)，侧重于客观上缺少必需品或服务，常用于正式文体。"
         }
       ]
     },
     {
       "id": 9,
-      "es": "Zhang no construyó su notoriedad desde la amabilidad ni desde la prudencia diplomática. Buena parte de su magnetismo venía, precisamente, de lo contrario. Hablaba con dureza, soltaba sentencias rápidas, simplificaba discusiones complejas y convertía en frases virales lo que muchas familias se decían <strong>a media voz</strong> en casa. Esa manera de intervenir tenía una ventaja evidente: captaba atención, se compartía con facilidad y reforzaba la idea de que estaba diciendo verdades incómodas. También tenía un coste. Cuanto más tajante era el diagnóstico, más fácil resultaba transformar el análisis en <strong>provocación</strong>.",
-      "zh": "张雪峰的声名并非建立在和蔼可亲或外交式的谨慎之上，他的魅力恰恰来自相反的方向。他说话犀利，抛出快速论断，将复杂讨论简化，并把许多家庭在家中压低声音说的话变成刷屏金句。这种介入方式有显而易见的优势：抓人眼球、易于传播，并强化了他在说别人不敢说的真相这一形象。但它也有代价：诊断越是斩钉截铁，分析就越容易滑向挑衅。",
+      "es": "Queda ahora la pregunta por el futuro de esa estructura. Su empresa ha prometido continuidad, protección para trabajadores y mantenimiento de los servicios, pero el problema no es sólo organizativo. En negocios tan <strong>ligados a</strong> una persona, la sustitución del fundador rara vez es automática. La credibilidad de Zhang no <strong>descansaba en</strong> una marca registrada, sino en un estilo: voz dura, frases memorables, seguridad casi teatral. Sin esa presencia, la compañía tendrá que demostrar que puede sobrevivir más allá del <strong>carisma</strong> de su fundador.",
+      "zh": "现在留下的问题是这种结构的未来。他的公司承诺保持连续性、保护员工并维持服务，但问题不仅仅是组织上的。在与个人如此紧密绑定的业务中，创始人的替代很少是自动完成的。张的信誉不仅建立在注册商标上，还建立在一种风格上：强硬的声音、令人难忘的句子、近乎戏剧化的自信。没有了这种存在，公司将不得不证明它能够在创始人的人格魅力之外生存下来。",
       "vocab": [
         {
-          "word": "a media voz",
-          "translation": "低声地，压低声音地",
-          "note": "『a media voz』是固定介词短语，表示说话声音压低，常用于描述私下、谨慎或不便公开的言论场景，类似表达还有『en voz baja』，但『a media voz』更强调刻意压低的语境。"
+          "word": "ligados a",
+          "translation": "与……紧密联系/绑定",
+          "note": "用法说明：estar ligado/a a 意为『与……紧密联系』，常用于描述事物之间不可分割的关系。"
         },
         {
-          "word": "provocación",
-          "translation": "挑衅，煽动性言论",
-          "note": "『provocación』在新闻文体中常指言论或行为引发争议或对立情绪，注意与英语『provocation』虽形近，但西语中语气更偏向『故意激怒』，属于假朋友需注意语气强度。"
+          "word": "descansaba en",
+          "translation": "依赖于，建立在……之上",
+          "note": "语境提示：动词 descansar 本意是『休息』，此处引申为『依赖于、建立在……基础之上』(basarse en)，是高级书面表达。"
+        },
+        {
+          "word": "carisma",
+          "translation": "非凡的魅力，号召力",
+          "note": "词汇说明：指领袖或公众人物吸引、感染他人的『非凡魅力』或『号召力』，来源于希腊语。"
         }
       ]
     },
     {
       "id": 10,
-      "es": "La polémica sobre la carrera de periodismo fue una de las más recordadas y una de las que mejor explican su personaje. En 2023 <strong>desató una tormenta</strong> al afirmar en un directo, con esa mezcla de bravuconería y cálculo que lo caracterizaba, que si su hijo quisiera estudiar periodismo lo frenaría de inmediato. La frase incendió redes, universidades, facultades y medios. Lo que había debajo era un debate real, áspero y muy presente también fuera de China: hasta qué punto las carreras deben medirse por su valor cultural o por su rentabilidad inmediata en el mercado laboral. Zhang se colocó sin matices en el segundo campo. No defendía la formación como una apuesta amplia por el conocimiento, sino como una inversión que debe devolver resultados tangibles. Eso le <strong>granjeó</strong> una audiencia fiel entre quienes buscan pragmatismo. Y un rechazo frontal entre quienes veían en su discurso una reducción brutal de la educación a puro rendimiento económico.",
-      "zh": "关于新闻学专业的那场争议是他最令人记忆深刻的风波之一，也是最能诠释其人物性格的事件之一。2023年，他在一场直播中以他标志性的那种混合着逞强与算计的口吻声称，如果他的儿子想学新闻，他会立刻阻止——此言一出，舆论哗然，网络、高校、院系和媒体纷纷被点燃。其背后是一场真实、尖锐且在中国以外同样存在的争论：专业究竟应该以文化价值还是以劳动力市场的即时回报来衡量？张雪峰毫不含糊地站在了后者一边。他不把教育视为对知识的广泛投入，而是视为一种必须产生可见回报的投资。这为他赢得了追求实用主义的忠实受众，也招来了那些认为他的话语将教育粗暴地简化为纯粹经济效益的人的正面抵制。",
+      "es": "Su desaparición también reabre una <strong>cuestión de fondo</strong> sobre la educación en China. Durante años, Zhang fue criticado por convertir la elección de carrera en una tabla de rendimientos, pero su éxito revela que esa mirada no surgió de la nada. Respondía a una realidad en la que el acceso a la universidad ya no garantiza <strong>por sí solo</strong> ascenso social, y en la que las familias, presionadas por el coste de la vida y la incertidumbre laboral, buscan <strong>certidumbres</strong> inmediatas. En ese contexto, figuras como la suya encuentran espacio porque llenan un vacío: ofrecen respuestas simples a problemas que el sistema produce, pero no resuelve del todo.",
+      "zh": "他的离世也重新引发了关于中国教育的一个根本问题。多年来，张因将专业选择变成一张收益表而受到批评，但他的成功表明这种观点并非凭空出现。它回应了这样一种现实：上大学本身已不再能保证社会阶层的提升，而承受着生活成本和就业不确定性压力的家庭，正在寻找即时的确定性。在这种背景下，像他这样的人物找到了生存空间，因为他们填补了一个空白：为系统产生却未能完全解决的问题提供了简单的答案。",
       "vocab": [
         {
-          "word": "desató una tormenta",
-          "translation": "引发了轩然大波，掀起了风暴",
-          "note": "『desatar』本义为『解开、松绑』，引申为『引发、触发』，『desatar una tormenta/polémica/debate』是新闻文体中的高频固定搭配，语气比『provocar』更强烈，带有失控蔓延的含义。"
+          "word": "cuestión de fondo",
+          "translation": "根本问题，实质问题",
+          "note": "固定搭配：fondo 在此指事物的核心或本质，探讨问题最深层的原因。"
         },
         {
-          "word": "granjeó",
-          "translation": "赢得，博得（好感或支持）",
-          "note": "『granjearse』是C1级别词汇，表示通过努力或行为赢得他人的好感、信任或支持，常见搭配为『granjearse la confianza/el respeto/una audiencia』，语气比『ganar』更正式。"
+          "word": "por sí solo",
+          "translation": "单凭自身，仅仅依靠自己",
+          "note": "固定短语：常用于强调某个单一因素不足以达成某种结果。"
+        },
+        {
+          "word": "certidumbres",
+          "translation": "确定性，确信",
+          "note": "易混辨析：与 incertidumbre (不确定性) 相对，比 seguridad (安全) 更强调认知上的确凿无疑。"
         }
       ]
     },
     {
       "id": 11,
-      "es": "Ese choque no fue episódico, fue <strong>estructural</strong>. Zhang Xuefeng prosperó precisamente porque decía en público lo que muchas familias pensaban cuando miraban matrículas, alquileres, tasas, competencia y salarios. La pregunta de fondo no era sólo qué estudiar, sino qué permite vivir mejor, subir más rápido o no caer. Su figura encarnó una versión extrema de esa lógica: elegir carrera como quien selecciona un activo financiero. Puede parecer una simplificación salvaje. Lo es. Pero también refleja la presión real bajo la que se mueve buena parte del sistema universitario chino. Por eso su discurso molestaba y funcionaba a la vez. Era incómodo porque era útil para un sector muy concreto del público. Y era útil porque convertía la incertidumbre en <strong>receta</strong>.",
-      "zh": "这种冲突并非偶发性的，而是结构性的。张雪峰之所以能够蓬勃发展，恰恰是因为他在公开场合说出了许多家庭在面对学费、房租、费用、竞争和薪资时心里盘算的话。根本问题不只是『学什么』，而是『什么能让人活得更好、上升更快、或者不至于下滑』。他的形象体现了这种逻辑的极端版本：选专业就像挑选金融资产。这或许听起来是一种粗暴的简化——它确实是。但它同时也折射出中国大学体制中许多人真实承受的压力。这就是为什么他的话语既令人不适又行之有效：它让一个非常具体的受众群体感到有用，而它之所以有用，是因为它把不确定性变成了一道配方。",
+      "es": "La muerte de Zhang Xuefeng deja, por tanto, una doble <strong>huella</strong>. Por un lado, cierra la trayectoria de uno de los nombres más reconocibles de la industria educativa china. Por otro, ilumina <strong>con crudeza</strong> el mundo que contribuyó a construir: un ecosistema donde la educación se cruza con el mercado, el miedo familiar se convierte en consumo y la orientación académica puede transformarse en espectáculo de masas.",
+      "zh": "因此，张雪峰的死留下了双重印记。一方面，它结束了中国教育行业最具辨识度的名字之一的职业生涯。另一方面，它残酷地照亮了他参与构建的那个世界：一个教育与市场交织、家庭恐惧转化为消费、学术指导可能演变为大众奇观的生态系统。",
       "vocab": [
         {
-          "word": "estructural",
-          "translation": "结构性的",
-          "note": "『estructural』在社会、经济和新闻文体中是高频词，与『episódico』（偶发性的）形成对比，指问题根植于体制或系统层面，而非个别事件，是B2-C1必掌握的分析性词汇。"
+          "word": "huella",
+          "translation": "印记，深远的影响",
+          "note": "语境提示：本意是『脚印、指纹』，此处引申为『印记、深远的影响』(dejar huella)。"
         },
         {
-          "word": "receta",
-          "translation": "配方，药方；（比喻）解决方案，套路",
-          "note": "『receta』本义为『食谱』或『处方』，在此为隐喻用法，指将复杂问题简化为可操作的固定方案，这种一词多义的引申用法在新闻评论中极为常见，学习者需注意语境判断。"
+          "word": "con crudeza",
+          "translation": "残酷地，赤裸裸地",
+          "note": "固定搭配：常搭配 mostrar/iluminar，指毫不掩饰地揭露令人不悦的现实。"
         }
       ]
     },
     {
       "id": 12,
-      "es": "Uno de los elementos que más aceleró la propagación de la noticia fue el comportamiento de sus perfiles y de los canales ligados a su empresa. En varias plataformas, los avatares pasaron a blanco y negro y algunos espacios de emisión quedaron en suspenso. En el ecosistema digital chino, ese gesto tiene una carga inmediata: no es una simple decisión estética ni una pausa por mantenimiento. Es una señal de duelo reconocible, casi <strong>codificada</strong>. La alteración simultánea de varias cuentas fue interpretada desde el principio como una pista muy seria de que había ocurrido algo <strong>irreversible</strong>.",
-      "zh": "加速这一消息传播的关键因素之一，是他的个人主页和公司旗下频道的异常动态。在多个平台上，头像变为黑白色，部分直播空间陷入停播。在中国数字生态中，这一姿态具有即时的分量：它不是简单的视觉审美选择，也不是系统维护的暂停，而是一种可识别的、几乎已被编码化的哀悼信号。多个账号同时发生这一变化，从一开始就被解读为某件不可挽回之事已经发生的有力线索。",
+      "es": "Zhang Xuefeng fue un personaje <strong>controvertido</strong>, y con frecuencia su discurso redujo la educación a una ecuación de utilidad, salario y rendimiento. Pero limitarlo a esa <strong>caricatura</strong> sería no entender del todo lo que representó. Su peso real no nació sólo de la provocación, sino de haber sabido nombrar —de forma brusca, interesada y eficaz— una inquietud compartida por millones de familias chinas: la sensación de que, en un sistema cada vez más competitivo, equivocarse de carrera puede <strong>equivaler a</strong> perder una posición social difícil de recuperar.",
+      "zh": "张雪峰是一个备受争议的人物，他的言论经常将教育简化为效用、薪水和回报的方程式。但如果仅仅将他局限于这种漫画式的讽刺，就无法完全理解他所代表的意义。他真正的分量不仅来自于挑衅，还来自于他懂得如何（以粗暴、功利且有效的方式）命名数百万中国家庭共有的担忧：在日益竞争激烈的体系中，选错专业可能等同于失去一个难以恢复的社会地位。",
       "vocab": [
         {
-          "word": "codificada",
-          "translation": "被编码化的，约定俗成的",
-          "note": "『codificado/a』本义为『编码的』，此处引申为某种行为或符号已在社会文化中形成固定含义，是C1级别词汇，构词上由『código』（代码/规范）加后缀『-ificado』构成。"
+          "word": "controvertido",
+          "translation": "有争议的",
+          "note": "词汇说明：形容引起公众广泛讨论和意见分歧的人或事。"
         },
         {
-          "word": "irreversible",
-          "translation": "不可逆的，无法挽回的",
-          "note": "『irreversible』由前缀『ir-』（否定）加『reversible』构成，『ir-』用于辅音r开头的词前表否定，类似构词还有 irracional、irresponsable，是掌握否定前缀规律的好例子。"
+          "word": "caricatura",
+          "translation": "漫画，简单化/夸张化的解读",
+          "note": "语境提示：本意是『漫画、讽刺画』，在此处比喻对某人形象或观点的『简单化、夸张化或片面化的解读』。"
+        },
+        {
+          "word": "equivaler a",
+          "translation": "等同于，相当于",
+          "note": "用法说明：后接名词或动词原形，常用于解释某种行为的严重后果或实际意义。"
         }
       ]
     },
     {
       "id": 13,
-      "es": "Ese momento explica bien cómo funciona la información en el presente. Antes de que aparezca el comunicado, antes incluso de que la versión cerrada llegue a todos los medios, ya existen marcas visuales, silencios extraños, cancelaciones repentinas, movimientos de equipos y reacciones en cadena. No es que esos indicios <strong>sustituyan</strong> a la confirmación; es que hoy forman parte del proceso por el que una noticia se vuelve socialmente creíble. En el caso de Zhang, la suspensión de directos y el luto digital operaron como una antesala. La confirmación posterior no hizo más que fijar lo que miles de usuarios ya estaban intuyendo, aunque durante horas siguiera flotando una mezcla espesa de rumor, ansiedad y <strong>especulación</strong>.",
-      "zh": "这一时刻很好地诠释了当下信息的运作方式。在官方声明发布之前，甚至在封闭版本的消息传达至所有媒体之前，视觉标记、异常沉默、突然取消、团队动向和连锁反应就已经存在。这些迹象并非取代了官方确认，而是如今已成为一则新闻获得社会可信度这一过程的组成部分。在张雪峰的案例中，直播暂停和数字哀悼充当了前厅。随后的官方确认不过是固定了数千名用户已经在直觉上感知到的事实——尽管在此之前数小时，一团浓稠的谣言、焦虑与猜测仍在空气中漂浮。",
+      "es": "En ese sentido, su figura importa más por lo que revela que por lo que defendía. Zhang no fue simplemente un asesor con éxito, sino también el producto de una época en la que la educación superior dejó de leerse como una promesa <strong>abstracta</strong> de formación y pasó a evaluarse, cada vez más, como inversión, cálculo y protección frente a la incertidumbre. Su voz resultaba incómoda porque llevaba hasta el extremo una lógica que ya estaba <strong>instalada</strong> en la sociedad.",
+      "zh": "从这个意义上说，他的形象之所以重要，更多是因为他揭示了什么，而不是他捍卫了什么。张不仅仅是一个成功的顾问，他也是一个时代的产物。在这个时代，高等教育不再被解读为一种抽象的培养承诺，而是越来越多地被评估为投资、计算和抵御不确定性的保护。他的声音令人不适，因为他将一种已经根植于社会的逻辑推向了极致。",
       "vocab": [
         {
-          "word": "sustituyan",
-          "translation": "取代，替代",
-          "note": "此处『sustituyan』为虚拟式现在时，因为前面有否定结构『no es que...』触发虚拟式，这是西语中『no es que + 虚拟式』这一重要语法结构的典型用例，B2学习者需重点掌握。"
+          "word": "abstracta",
+          "translation": "抽象的",
+          "note": "词汇辨析：与具体现实脱节的，此处用来对比过去对教育的理想化认知与现在的功利化计算。"
         },
         {
-          "word": "especulación",
-          "translation": "猜测，投机性判断",
-          "note": "『especulación』在新闻文体中专指缺乏证据支撑的推断或猜测，与『hipótesis』（假说）的区别在于后者更中性且有一定依据，『especulación』语气带有轻微负面评价。"
+          "word": "instalada",
+          "translation": "根深蒂固的，确立的",
+          "note": "语境提示：动词 instalar 本意是『安装』，此处用于比喻观念、逻辑或习惯已经『根深蒂固、确立』在社会中。"
         }
       ]
     },
     {
       "id": 14,
-      "es": "También hubo algo profundamente coherente en esa escena. Zhang Xuefeng se había convertido en una figura de internet tanto como en un empresario de la educación. Su presencia no era secundaria respecto a lo digital: era central. Por eso su desaparición también se expresó primero en el lenguaje de las plataformas, en el color de los perfiles, en la interrupción del flujo constante de contenido, en el silencio de unas cuentas acostumbradas a producir atención. La noticia, en cierto modo, no sólo fue comunicada. Fue <strong>escenificada</strong> por el propio ecosistema del que él llevaba años <strong>formando parte</strong>.",
-      "zh": "这一场景中也有某种深刻的内在一致性。张雪峰既是一位互联网人物，也是一位教育领域的企业家，两者同等重要。他的存在并非数字世界的附属，而是其核心。因此，他的消失也首先以平台的语言表达出来：主页的颜色、内容持续流的中断、那些习惯于制造关注的账号陷入沉默。从某种意义上说，这则消息不只是被传达，而是被他多年来身处其中的那个生态系统本身所演绎出来的。",
+      "es": "Por eso su muerte ha tenido un <strong>eco</strong> que supera con mucho el de una celebridad digital. Con Zhang desaparece una figura discutida, sí, pero también uno de los intérpretes más eficaces de la ansiedad educativa china. No <strong>encarnó</strong> necesariamente lo mejor de ese debate, pero sí <strong>puso al descubierto</strong> algunas de sus verdades más persistentes. Y en esa mezcla de controversia, influencia y síntoma de época reside, precisamente, su importancia.",
+      "zh": "正因如此，他的死所产生的回音远远超过了一个数字名人的范畴。随着张的离去，一个备受争议的人物消失了，是的，但中国教育焦虑最有效的诠释者之一也随之消失了。他未必化身为了这场辩论中最好的一面，但他确实揭露了其中一些最持久的真相。而正是这种争议、影响力和时代症候的混合体，构成了他的重要性所在。",
       "vocab": [
         {
-          "word": "escenificada",
-          "translation": "被演绎出来，被舞台化呈现",
-          "note": "『escenificar』由『escena』（场景/舞台）加后缀『-ificar』构成，本义为『搬上舞台』，此处为隐喻，指某事件以戏剧化、可见的方式被呈现出来，是C1级别的文学性用词。"
+          "word": "eco",
+          "translation": "回声，反响",
+          "note": "语境提示：本意是『回声』，在新闻中常用于比喻事件引发的『反响、共鸣或社会影响』(tener eco)。"
         },
         {
-          "word": "formando parte",
-          "translation": "成为……的一部分，参与其中",
-          "note": "『formar parte de』是固定搭配，表示『成为……的组成部分』，注意与『tomar parte en』（参与某活动）的区别：前者强调归属，后者强调参与行为。"
-        }
-      ]
-    },
-    {
-      "id": 15,
-      "es": "La información que se considera sólida a estas horas es concreta, aunque todavía limitada en el plano médico. Los datos difundidos por la compañía y por varios medios chinos coinciden en un núcleo básico: Zhang Xuefeng se sintió mal en la sede de la empresa en Suzhou después de correr, alrededor de las 12.26; fue trasladado al hospital; los equipos médicos intentaron reanimarlo; y el fallecimiento se registró a las 15.50. La formulación utilizada apunta a una muerte súbita de origen cardiaco, una expresión que <strong>delimita el terreno</strong> pero no ofrece por sí sola una explicación clínica exhaustiva sobre antecedentes, causas precisas o factores <strong>desencadenantes</strong>.",
-      "zh": "目前被认为可靠的信息是具体的，尽管在医学层面仍然有限。公司和多家中国媒体发布的数据在一个基本核心上相互吻合：张雪峰于12时26分左右在苏州公司总部跑步后感到不适；被送往医院；医疗团队尝试对其进行抢救；15时50分确认离世。所使用的表述指向心源性猝死——这一说法划定了范围，但本身并不提供关于既往病史、确切病因或诱发因素的完整临床解释。",
-      "vocab": [
-        {
-          "word": "delimita el terreno",
-          "translation": "划定范围，界定边界",
-          "note": "『delimitar el terreno』是新闻和学术文体中的常见隐喻，字面意为『划定地界』，引申为在讨论中明确范围或边界，避免过度解读，是C1级别的表达。"
+          "word": "encarnó",
+          "translation": "化身，体现",
+          "note": "词汇说明：动词 encarnar 意为『化身、体现』，常用于指某人完美代表了某种理念、时代或特征。"
         },
         {
-          "word": "desencadenantes",
-          "translation": "诱发因素，触发因素",
-          "note": "『desencadenante』由『desencadenar』（触发、引发）派生而来，『desencadenar』本义为『解开锁链』，引申为触发某一连锁反应，在医学和新闻文体中『factor desencadenante』是高频固定搭配。"
-        }
-      ]
-    },
-    {
-      "id": 16,
-      "es": "Eso obliga a poner freno a una inercia muy habitual en estos casos. Cada vez que una figura pública muere de forma repentina, las redes llenan el vacío con hipótesis, versiones parciales y causalidades improvisadas. En torno a Zhang ya se han movido todo tipo de interpretaciones, desde la sobrecarga física hasta la presión laboral o el estado de salud previo. Ninguna de esas <strong>derivadas</strong> puede darse por cerrada con la información disponible. Lo serio, aquí, es separar con limpieza lo confirmado de lo sugerido. Lo confirmado es el fallecimiento, el episodio súbito, el traslado al hospital, la cronología básica y la comunicación empresarial. Lo demás, de momento, permanece en un terreno secundario, incompleto o directamente <strong>especulativo</strong>.",
-      "zh": "这就要求我们对这类情况中极为常见的惯性踩下刹车。每当一位公众人物突然离世，网络便会用假设、片面说法和即兴因果关系填满那个空白。围绕张雪峰，各种解读已经涌现，从体力透支到工作压力，再到此前的健康状况，不一而足。在现有信息条件下，这些衍生推断都不能被视为定论。严肃的做法在于，清晰地将已确认的内容与推测性内容区分开来。已确认的是：离世事实、突发事件、送医经过、基本时间线以及企业公告。其余内容，目前仍处于次要、不完整或纯属推测的领域。",
-      "vocab": [
-        {
-          "word": "derivadas",
-          "translation": "衍生推断，派生结论",
-          "note": "『derivada』本为数学术语（导数），在新闻和论述文体中引申为『由某事派生出的推断或延伸讨论』，是C1级别的文体性用词，体现了西语新闻写作中借用学科术语的风格。"
-        },
-        {
-          "word": "especulativo",
-          "translation": "推测性的，缺乏依据的",
-          "note": "『especulativo』在新闻文体中带有明确的负面评价色彩，指缺乏事实支撑的判断，与『hipotético』（假设性的）相比语气更强，后者更中性，前者暗含批评意味。"
-        }
-      ]
-    },
-    {
-      "id": 17,
-      "es": "Ese punto no es un detalle técnico; es parte esencial de la noticia. La muerte repentina de Zhang Xuefeng ya es, por sí sola, un asunto de enorme impacto público. No necesita adornos ni teorías de sobremesa. De hecho, cuanto más conocida es una figura, más importante resulta no convertir su desaparición en una feria de <strong>conjeturas</strong>. En China, donde el ritmo de propagación de rumores es frenético y la frontera entre información confirmada y comentario viral puede <strong>desdibujarse</strong> en minutos, esa distinción tiene todavía más peso. La noticia es suficientemente fuerte sin necesidad de empujarla con dramatismo extra.",
-      "zh": "这一点并非技术性细节，而是新闻本身的核心部分。张雪峰的猝然离世本身就已是一件具有巨大公众影响的事件，无需任何装饰，也无需饭桌上的推断理论。事实上，一个人物越是知名，就越有必要不让他的离世沦为一场猜测的集市。在中国，谣言传播的速度极为疯狂，已确认信息与病毒式评论之间的边界可以在数分钟内模糊消失，这种区分因此具有更大的分量。这则新闻本身已经足够有力，无需用额外的戏剧性来推波助澜。",
-      "vocab": [
-        {
-          "word": "conjeturas",
-          "translation": "猜测，推断",
-          "note": "『conjetura』与『especulación』近义，但『conjetura』更强调基于不充分证据的个人推断，语气略轻；『especulación』则更常用于批评性语境，暗示推断带有利益驱动或不负责任的成分。"
-        },
-        {
-          "word": "desdibujarse",
-          "translation": "变得模糊，消融",
-          "note": "『desdibujarse』由『des-』（否定/逆向）加『dibujar』（画、描绘）构成，字面意为『轮廓被抹去』，引申为界限或区别变得不清晰，是C1级别的隐喻动词，常用于描述概念边界的消失。"
-        }
-      ]
-    },
-    {
-      "id": 18,
-      "es": "La muerte de Zhang sacude también un mercado multimillonario que lleva años creciendo al calor del estrés académico. La consultoría para elegir universidad, carrera, ciudad y estrategia de acceso no es un nicho menor en China. Es una rama de negocio que se alimenta de la densidad competitiva del sistema, de la presión familiar y del deseo de convertir el mérito en ventaja concreta. Zhang fue uno de los nombres que mejor <strong>simbolizaron</strong> esa transformación. Su empresa no vendía sólo orientación. Vendía una forma de interpretar el mapa universitario chino y, sobre todo, una manera de reducir el miedo a equivocarse cuando una decisión académica parece <strong>arrastrar</strong> media vida detrás.",
-      "zh": "张雪峰的离世同样震动了一个多年来在学业压力的温床中持续壮大的数十亿级市场。在中国，大学、专业、城市和入学策略的咨询服务绝非小众领域，而是一个以体制的高度竞争性、家庭压力和将个人努力转化为具体优势的渴望为养分的商业分支。张雪峰是最能象征这一转变的名字之一。他的公司出售的不只是志愿填报指导，而是一种解读中国大学版图的方式，以及——最重要的——一种在一个学业决定似乎会拖拽半生命运时减少犯错恐惧的方法。",
-      "vocab": [
-        {
-          "word": "simbolizaron",
-          "translation": "象征，代表",
-          "note": "『simbolizar』此处用陈述式过去时，表示张雪峰在其职业生涯中持续象征某种现象，注意『simbolizar』与『representar』的细微差别：前者更强调抽象意义上的象征，后者更广泛，可指代表某人或某群体。"
-        },
-        {
-          "word": "arrastrar",
-          "translation": "拖拽，牵连，带动",
-          "note": "『arrastrar』本义为『拖拉』，在抽象语境中表示某一决定或事件将一系列后果或影响一并带走，是新闻和文学文体中的高频隐喻动词，搭配灵活，如 arrastrar consecuencias/problemas。"
-        }
-      ]
-    },
-    {
-      "id": 19,
-      "es": "Eso explica por qué su desaparición tiene consecuencias que van mucho más allá del impacto emocional o mediático. La gran pregunta ya no es únicamente qué ocurrió, sino qué pasará con la estructura que levantó. Una parte importante de su legitimidad comercial descansaba en su figura personal, en su tono, en su autoridad y en la sensación de que su criterio, discutible o no, marcaba diferencias. Cuando un negocio está tan <strong>pegado a</strong> un nombre propio, la continuidad se vuelve delicada. Puede mantenerse la empresa, pueden seguir los contratos, puede sobrevivir la maquinaria. Lo difícil es sostener el mismo nivel de influencia sin el rostro que la <strong>articulaba</strong>.",
-      "zh": "这解释了为什么他的离世所带来的影响远远超出情感或媒体层面。最大的问题已不再只是发生了什么，而是他所构建的那套体系将何去何从。他商业合法性的重要部分建立在他的个人形象、他的语气、他的权威感，以及人们对他的判断——无论是否存在争议——能够带来实质差异的感知之上。当一项业务与某个人名如此紧密地绑定在一起时，延续性便变得微妙。公司可以维持，合同可以继续，运营机器可以存活。但难以维系的是：在没有那张曾经将一切串联起来的面孔的情况下，保持同等水平的影响力。",
-      "vocab": [
-        {
-          "word": "pegado a",
-          "translation": "紧密绑定于，依附于",
-          "note": "『pegado a』字面意为『粘在……上』，在商业和社会分析文体中引申为某事物与另一事物高度依附、难以分离，是生动的隐喻表达，比『vinculado a』语气更强，暗含过度依赖的意味。"
-        },
-        {
-          "word": "articulaba",
-          "translation": "串联，整合，使连贯",
-          "note": "『articular』在抽象语境中表示将各部分有机连接、使整体运转顺畅，是B2-C1级别的高频动词，常见于政治、商业和学术文体，如 articular una estrategia/un discurso。"
-        }
-      ]
-    },
-    {
-      "id": 20,
-      "es": "La compañía ha intentado enviar un mensaje de estabilidad, pero ese mensaje convive con una evidencia incómoda: Zhang Xuefeng no era un portavoz <strong>intercambiable</strong>. Era el centro simbólico de una red de servicios, cursos, presencia pública y confianza comercial. Su ausencia obligará a una recomposición rápida, y no está claro que sea sencilla. En este tipo de negocios, el legado no se hereda de forma automática. Hay marcas que sobreviven al fundador. Otras se vacían en cuanto desaparece la voz que las sostenía. El caso de Zhang va a servir, casi con seguridad, para medir hasta qué punto la industria educativa china depende cada vez más de expertos convertidos en celebridades y cada vez menos de <strong>instituciones impersonales</strong>.",
-      "zh": "公司试图传递稳定的信号，但这一信号与一个令人不安的事实并存：张雪峰并非一个可以替换的发言人，而是一张由服务、课程、公众存在和商业信任构成的网络的象征性中心。他的缺席将迫使公司迅速重组，而这是否容易，尚不明朗。在这类业务中，遗产并不会自动传承。有些品牌能在创始人之后延续，另一些则在支撑它们的声音消失后随之空洞化。张雪峰的案例几乎必然会成为一把尺子，用来衡量中国教育行业在多大程度上越来越依赖被塑造为明星的专家，而越来越少依赖非个人化的机构。",
-      "vocab": [
-        {
-          "word": "intercambiable",
-          "translation": "可替换的，可互换的",
-          "note": "『intercambiable』由前缀『inter-』（相互）加『cambiable』（可改变的）构成，表示可以相互替换，在商业和人力资源文体中常用，构词规律清晰，类似词有 interchangeable（英语假朋友，含义相同）。"
-        },
-        {
-          "word": "instituciones impersonales",
-          "translation": "非个人化的机构",
-          "note": "『impersonal』由前缀『im-』（否定）加『personal』构成，表示不依赖特定个人的、制度化的，与文中『expertos convertidos en celebridades』形成对比，是理解该段核心论点的关键词组。"
-        }
-      ]
-    },
-    {
-      "id": 21,
-      "es": "No todo el mundo admiraba a Zhang Xuefeng, pero casi nadie podía fingir que no existía. Esa es, probablemente, la mejor definición de su peso real. Representaba una corriente muy concreta del discurso educativo chino: la que considera que la elección universitaria debe medirse, ante todo, por sus efectos materiales. Trabajo, salario, proyección, competitividad, utilidad inmediata. En ese marco, las carreras con menos inserción o con trayectorias más inciertas quedaban bajo sospecha, casi como un lujo sentimental en tiempos duros. Su gran habilidad consistió en transformar ese enfoque en una voz reconocible, <strong>rotunda</strong> y rentable.",
-      "zh": "并非所有人都钦佩张雪峰，但几乎没有人能假装他不存在。这大概是对他真实分量最准确的定义。他代表了中国教育话语中一股非常具体的思潮：认为大学选择首先应以其物质效果来衡量——工作、薪资、发展前景、竞争力、即时效用。在这一框架下，就业率较低或发展路径更不确定的专业都受到质疑，几乎被视为艰难时代里的一种情感奢侈。他最大的才能在于将这种视角转化为一种可辨识的、斩钉截铁的、有利可图的声音。",
-      "vocab": [
-        {
-          "word": "rotunda",
-          "translation": "斩钉截铁的，毫不含糊的",
-          "note": "『rotundo/a』表示态度或表达极为明确、不留余地，常用于描述言论、拒绝或判断，如 un rechazo rotundo（断然拒绝），注意不要与英语『rotund』（圆胖的）混淆，是典型假朋友。"
-        }
-      ]
-    },
-    {
-      "id": 22,
-      "es": "Esa condición de figura discutida explica la magnitud de la reacción tras su muerte. No desaparece sólo un asesor universitario con muchos seguidores. Desaparece un personaje que <strong>condensaba</strong> tensiones muy reales dentro de la sociedad china: la pelea entre prestigio académico y mercado laboral, la ansiedad de las familias, la mercantilización de la orientación, el poder de los comunicadores expertos y el lugar de las plataformas en la construcción de autoridad. Zhang era polémico porque no era neutro. Y no era neutro porque había elegido ocupar una zona donde cada palabra tenía efectos prácticos sobre decisiones familiares, gasto privado y <strong>expectativas de futuro</strong>.",
-      "zh": "他作为争议人物的这一属性，解释了其死后反应的巨大规模。消失的不只是一位拥有众多粉丝的大学志愿填报顾问，而是一个凝聚了中国社会内部诸多真实张力的人物：学术声望与劳动力市场之间的角力、家庭焦虑、志愿填报的商品化、专家型传播者的权力，以及平台在构建权威中所扮演的角色。张雪峰之所以充满争议，是因为他并不中立。而他之所以不中立，是因为他选择占据了一个每一句话都对家庭决策、私人支出和对未来的期待产生实际影响的地带。",
-      "vocab": [
-        {
-          "word": "condensaba",
-          "translation": "凝聚，浓缩，集中体现",
-          "note": "『condensar』本义为物理上的『浓缩、凝结』，在抽象语境中表示将多种复杂元素集中体现于一身，是C1级别的隐喻动词，常用于人物或事件分析，如 condensar una época（浓缩一个时代）。"
-        },
-        {
-          "word": "expectativas de futuro",
-          "translation": "对未来的期待，未来预期",
-          "note": "『expectativa』在西语中表示基于某种可能性的期待或预期，注意与英语『expectation』虽形近但有差异：西语『expectativa』更强调尚未实现的可能性，而非已有的确定期待。"
-        }
-      ]
-    },
-    {
-      "id": 23,
-      "es": "Su muerte, en ese sentido, deja una fotografía muy nítida de la época. Un hombre que convirtió la ansiedad educativa en una industria de influencia, que construyó una empresa alrededor de su criterio y que terminó siendo despedido, antes incluso del comunicado definitivo, por unas cuentas digitales teñidas de luto. Todo es muy contemporáneo, sí, pero no superficial. Debajo de esa imagen hay una realidad densa: la educación convertida en competencia total, la orientación transformada en negocio y el experto elevado a categoría de celebridad. Zhang Xuefeng había aprendido a moverse en ese triángulo mejor que casi nadie. Por eso su desaparición <strong>pesa tanto</strong>.",
-      "zh": "从这个意义上说，他的死留下了一张这个时代极为清晰的照片。一个将教育焦虑转化为影响力产业的人，一个围绕自身判断构建起企业的人，最终甚至在官方公告发布之前，就已被那些染上哀悼色彩的数字账号所宣告离世。这一切固然极具当代性，却并不流于表面。这张图像之下是一层厚重的现实：教育变成了全面竞争，志愿填报变成了生意，专家被抬升至明星的级别。张雪峰比几乎任何人都更懂得在这个三角地带游走。这正是他的消失如此沉重的原因。",
-      "vocab": [
-        {
-          "word": "pesa tanto",
-          "translation": "如此沉重，分量如此之大",
-          "note": "『pesar』本义为『称重』，在抽象语境中表示某事具有重大的情感或社会分量，『pesar mucho/tanto』是新闻评论文体中常见的隐喻表达，类似中文『举足轻重』的语感。"
-        }
-      ]
-    },
-    {
-      "id": 24,
-      "es": "Con la confirmación del fallecimiento, la historia entra en una segunda fase. Ya no se trata sólo de narrar el impacto de una muerte súbita, sino de observar qué ocurre con el ecosistema que él mismo ayudó a construir. Sus seguidores, sus clientes, sus colaboradores y su empresa afrontan un escenario nuevo, uno en el que el nombre sigue teniendo potencia, pero la presencia física ha desaparecido <strong>de golpe</strong>. Las próximas semanas serán decisivas para ver si esa estructura logra <strong>reconvertirse</strong> en una organización capaz de sobrevivir a su fundador o si, por el contrario, empieza a notarse que la marca estaba demasiado ligada a un solo individuo.",
-      "zh": "随着死讯得到确认，这个故事进入了第二阶段。问题已不再只是讲述一场猝死的冲击，而是观察他亲手参与构建的那个生态系统将何去何从。他的粉丝、客户、合作者和公司都面临着一个全新的局面——在这个局面中，这个名字依然具有影响力，但那个真实的存在已经骤然消失。接下来数周将是关键，用以检验这套体系能否成功转型为一个有能力在创始人离去后延续的组织，还是反而会开始显露出品牌与单一个体过度捆绑的代价。",
-      "vocab": [
-        {
-          "word": "de golpe",
-          "translation": "骤然，突然间",
-          "note": "『de golpe』是固定副词短语，表示某事突然发生，不留任何过渡，语气比『de repente』更强烈，强调冲击性和即时性，常用于新闻文体描述突发变化。"
-        },
-        {
-          "word": "reconvertirse",
-          "translation": "转型，重组，改造自身",
-          "note": "『reconvertirse』由前缀『re-』（再次）加『convertirse』构成，表示在原有基础上进行结构性转变，常用于商业和经济文体，如 reconvertirse industrialmente（产业转型），是C1级别词汇。"
-        }
-      ]
-    },
-    {
-      "id": 25,
-      "es": "Lo que sí ha quedado fijado es el núcleo de la noticia: Zhang Xuefeng murió este 24 de marzo de 2026 en Suzhou, tras un episodio repentino que la información disponible sitúa después de una carrera en la empresa, con asistencia hospitalaria sin éxito y con una confirmación oficial emitida por su compañía horas después. A partir de ahí, el resto de piezas empiezan a ordenarse: las cuentas detenidas, los perfiles enlutados, la conmoción en redes, el golpe para la industria educativa y el regreso, inevitable, de los debates que <strong>marcaron</strong> su carrera. Su nombre seguirá apareciendo ligado a la controversia sobre las carreras universitarias, al negocio de la orientación <strong>premium</strong> y a esa forma dura, casi cortante, de traducir en frases virales el miedo de millones de familias ante el futuro académico.",
-      "zh": "已经确定的是这则新闻的核心：张雪峰于2026年3月24日在苏州离世，现有信息将事发时间定位于他在公司跑步之后，经医院抢救无效，其公司于数小时后发布官方确认。从这一核心出发，其余拼图开始各归其位：停更的账号、哀悼的主页、网络上的震动、对教育行业的冲击，以及那些曾贯穿他职业生涯的争论的不可避免的回归。他的名字将继续与大学专业选择的争议、高端志愿填报咨询生意，以及那种将数百万家庭面对学业前途时的恐惧转化为刷屏金句的犀利、近乎锋利的方式紧密相连。",
-      "vocab": [
-        {
-          "word": "marcaron",
-          "translation": "定义了，打上了烙印，贯穿了",
-          "note": "『marcar』在抽象语境中表示某事件或特征对一段经历或人物产生了深刻而持久的影响，『marcar una carrera/una época』是新闻文体中的高频搭配，语气比『influir en』更强，带有不可磨灭的含义。"
-        },
-        {
-          "word": "premium",
-          "translation": "高端的，溢价的",
-          "note": "『premium』是英语借词，在西语商业和新闻文体中广泛使用，表示高价位、高附加值的产品或服务定位，属于现代西语中的常见外来词，无需斜体，已融入日常书面语。"
-        }
-      ]
-    },
-    {
-      "id": 26,
-      "es": "También quedará otra huella, menos visible pero muy significativa: la de un sector que en China ha adquirido una dimensión colosal y que con esta muerte pierde a uno de sus referentes más reconocibles. La educación, el ascenso social, la empleabilidad y el mercado ya llevaban años <strong>mezclándose</strong> en una misma conversación. Zhang Xuefeng fue uno de los nombres que mejor supo explotar esa mezcla. Su desaparición no cierra ese debate. Lo deja aún más <strong>expuesto</strong>. Y quizá por eso la noticia ha corrido tan rápido. Porque no habla sólo de una muerte. Habla de una pieza central de un sistema que sigue funcionando, pero que desde este martes ha perdido a uno de sus operadores más influyentes.",
-      "zh": "还将留下另一道痕迹，不那么显眼，却意义深远：中国一个已发展至庞大规模的行业，随着这场死亡失去了它最具辨识度的标杆之一。教育、社会向上流动、就业能力与市场，多年来早已在同一场对话中相互交织。张雪峰是最懂得利用这种交织的名字之一。他的离世并未终结这场争论，而是让它更加裸露地暴露在外。或许正因如此，这则消息才传播得如此之快——因为它谈论的不只是一场死亡，而是一个仍在运转的系统中的一块核心齿轮，而这个系统自这个周二起，失去了它最具影响力的操盘手之一。",
-      "vocab": [
-        {
-          "word": "mezclándose",
-          "translation": "相互交织，混合在一起",
-          "note": "『mezclarse』用作反身动词，表示多种事物自然地相互融合或交织，此处用进行时『llevaban años mezclándose』，体现『llevar + tiempo + gerundio』这一表达持续时间的重要结构，B2必掌握。"
-        },
-        {
-          "word": "expuesto",
-          "translation": "暴露的，裸露的，显露出来的",
-          "note": "『expuesto』在此为隐喻用法，表示某个问题或矛盾因外部遮蔽物消失而更加清晰地显现出来，与『vulnerable』（脆弱的）有交叉但不同：『expuesto』强调可见性，后者强调受伤害的可能性。"
+          "word": "puso al descubierto",
+          "translation": "揭露，暴露",
+          "note": "固定短语：poner al descubierto 相当于 revelar 或 destapar，常用于揭示隐藏的真相或问题。"
         }
       ]
     }
