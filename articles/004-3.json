@@ -1,0 +1,179 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会与城市生活",
+  "difficulty": "B2",
+  "wordCount": "约1000词",
+  "title": "¿Es hora de adaptar las ciudades a las mascotas?",
+  "subtitle": "是时候让城市适应宠物了吗？",
+  "resumenEs": "El número de animales de compañía en España supera ya al de niños, lo que impulsa cambios en la vida urbana. Ciudades como Valencia están desarrollando estudios para volverse pet-friendly, aunque persisten desigualdades en infraestructuras y debates sobre la convivencia humano-animal y los derechos de los animales.",
+  "resumenZh": "西班牙宠物数量已超过儿童，推动城市生活方式发生变化。瓦伦西亚等城市正开展研究以打造宠物友好型城市，但基础设施不平等问题依然存在，人与动物共处及动物权利的讨论也持续升温。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "En España hay más de 9,29 millones de perros y cerca de 6 millones de gatos, según datos de la Asociación Madrileña de Veterinarios de Animales de Compañía (Amvac). El número de perros, que creció entre 2019 y 2024 cerca del 18%, supera al número de niños. En prácticamente cualquier ciudad española, un terrier que pasea por la calle, va a la playa, entra a un restaurante y vuelve a casa en metro no levanta sorpresas. Lo hacen incluso algunos gatos. No era así hace 10 años, cuando la mayoría de los establecimientos, transportes públicos y playas les estaban <strong>vetados</strong>. Es decir, el número de animales de compañía aumenta y las ciudades se <strong>amoldan</strong>. Pero ¿cómo exactamente?",
+      "zh": "据马德里伴侣动物兽医协会（Amvac）数据，西班牙拥有逾929万只狗和近600万只猫。2019年至2024年间，狗的数量增长了约18%，已超过儿童人数。在西班牙几乎任何一座城市，一只梗犬在街上溜达、去海滩、进餐厅、乘地铁回家，都不会引人侧目。甚至一些猫也如此。而十年前并非如此——当时大多数商户、公共交通和海滩对它们都是禁区。也就是说，宠物数量在增加，城市也在随之调整适应。但具体是如何适应的呢？",
+      "vocab": [
+        {
+          "word": "vetados",
+          "translation": "被禁止的，被拒之门外的",
+          "note": "动词『vetar』表示正式禁止某人或某物进入某场所，比『prohibir』更强调主动排斥的意味，常用于新闻报道中描述禁令或限制。"
+        },
+        {
+          "word": "amoldan",
+          "translation": "适应，调整，顺应",
+          "note": "反身动词『amoldarse (a)』表示主动调整自身以适应某种情况，比『adaptarse』更口语化，强调顺应外部压力而改变形态。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "El animal doméstico ha dejado de ser un bien para convertirse en un miembro más de la familia que acompaña a sus dueños en las rutinas diarias. Como consecuencia, el mercado les ha abierto la puerta: el número de tiendas, hoteles y spas para perros y gatos se ha <strong>disparado</strong> y cada vez más locales permiten su entrada. En España, la industria de las mascotas ha crecido como consecuencia de la <strong>demanda por parte de</strong> la ciudadanía. Y ahora algunos ayuntamientos también están respondiendo. En España son los municipios los que determinan hasta qué punto se permite la presencia de animales de compañía en la vida urbana, pero desde 2023 la Ley de Bienestar Animal anima a los transportes públicos y privados a permitir su acceso y a los ayuntamientos a promover su entrada en playas, parques y otros espacios públicos. De momento la mayoría de los municipios ha adoptado <strong>medidas puntuales</strong>. Pero algunos empiezan a impulsar cambios más <strong>integrales</strong> y declaran su intención de convertirse en ciudades pet-friendly.",
+      "zh": "家养动物已不再是一件财产，而是成为家庭的一员，陪伴主人完成日常生活。市场随之向它们敞开大门：面向猫狗的商店、酒店和水疗中心数量激增，越来越多的场所允许宠物入内。在西班牙，宠物行业的增长源于市民的需求，如今一些市政府也开始作出回应。在西班牙，各市镇决定宠物在城市生活中的准入程度，但自2023年《动物福利法》起，该法鼓励公私交通允许宠物乘坐，也鼓励市政府推动宠物进入海滩、公园及其他公共空间。目前大多数市镇仅采取了零散的单项措施，但一些城市开始推动更系统性的变革，宣布有意打造宠物友好型城市。",
+      "vocab": [
+        {
+          "word": "disparado",
+          "translation": "激增，暴涨，急剧上升",
+          "note": "『dispararse』本义为枪支走火，引申为数量或价格急剧上升，是新闻中描述快速增长的高频比喻动词，语气比『aumentar』强烈得多。"
+        },
+        {
+          "word": "demanda por parte de",
+          "translation": "来自……方面的需求",
+          "note": "固定结构『por parte de + 名词』表示『来自某方』，常用于正式和新闻文体，如『por parte del gobierno』『por parte de los ciudadanos』，搭配灵活。"
+        },
+        {
+          "word": "medidas puntuales",
+          "translation": "零散的单项措施，个别举措",
+          "note": "注意『puntual』的假朋友陷阱：它不是『准时的』，在此语境中意为『针对具体单一问题的』，与『integral（系统性的、全面的）』形成对比。"
+        },
+        {
+          "word": "integrales",
+          "translation": "系统性的，全面的，综合的",
+          "note": "在政策和规划语境中，『integral』强调覆盖各方面、统筹考虑，与『puntual（零散的）』相对，是新闻和学术文体中的高频形容词。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "El proyecto ha evaluado elementos como cuántos establecimientos permiten la entrada de animales y bajo qué condiciones, la <strong>impermeabilidad</strong> de las calles, la distribución y la calidad de las áreas de recreación canina, y la limpieza de estas zonas y de las calles. Este último punto plantea preguntas clave en la convivencia humano-animal como hasta qué punto el suelo es fácil de limpiar o no. Un buen <strong>drenaje</strong> es muy importante: no es lo mismo recoger excrementos de una zona tipo grava que de una zona con un <strong>sustrato</strong> más manejable.",
+      "zh": "该项目评估了多项内容：有多少商户允许动物入内及其条件、街道的防渗透性、犬类休闲区的分布和质量，以及这些区域和街道的清洁状况。最后一点引出了人与动物共处的关键问题：地面究竟有多容易清洁？良好的排水系统至关重要——在砾石地面与在更易处理的基底上清理排泄物，效果截然不同。",
+      "vocab": [
+        {
+          "word": "impermeabilidad",
+          "translation": "不透水性，防渗性",
+          "note": "由形容词『impermeable』加后缀『-idad』构成名词，前缀『im-』表示否定，词根『permeable（可渗透的）』在建筑、地理和环境文体中高频出现，构词规律强。"
+        },
+        {
+          "word": "drenaje",
+          "translation": "排水，排水系统",
+          "note": "源自法语借词，在城市规划和环境语境中专指排水设施或排水能力，固定搭配为『sistema de drenaje』或『buen/mal drenaje』。"
+        },
+        {
+          "word": "sustrato",
+          "translation": "基底，底层材料，地面基质",
+          "note": "在生物学中指培养基，在城市和园艺语境中指地面铺设材料的底层，是典型的跨学科词汇，注意不要与『sustrato』的哲学义（基底、本质）混淆。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Otra de las conclusiones es que las áreas para perros de los distritos nuevos suelen ser más grandes, con un <strong>vallado</strong> adecuado, y pueden adaptarse con poca inversión, mientras que en los distritos más viejos los parques caninos son de dos por tres metros, sin vallado, y cuentan con un solo palo para que los animales orinen. Como cualquier otro elemento urbano, las áreas de recreo canino reflejan <strong>desigualdades socioeconómicas</strong>. Según Melanie Rock, investigadora en la Facultad de Medicina Veterinaria de la Universidad de Calgary, muchos beneficios de tener una mascota se están <strong>privatizando</strong> y convirtiendo en una especie de industria de servicios, que puede ser útil de alguna manera, pero ilustra que hay personas que no tienen acceso a esos recursos.",
+      "zh": "研究的另一项结论是：新城区的犬类活动区域通常面积更大、围栏完善，且只需少量投入即可改善；而老城区的犬类公园往往只有两三平方米，没有围栏，仅立着一根供动物排尿的木桩。与其他城市设施一样，犬类休闲区折射出社会经济层面的不平等。加拿大卡尔加里大学兽医学院研究员梅拉妮·罗克指出，养宠物的许多好处正在被私有化，演变为某种服务产业——这或许有其价值，但也说明有些人根本无法获取这些资源。",
+      "vocab": [
+        {
+          "word": "vallado",
+          "translation": "围栏，栅栏，围挡",
+          "note": "由动词『vallar（围栏）』派生的名词，在城市规划和公园设施描述中高频出现，注意与『valla（广告牌；栏栅）』的区别：后者含义更宽泛。"
+        },
+        {
+          "word": "desigualdades socioeconómicas",
+          "translation": "社会经济不平等",
+          "note": "新闻和学术文体中的核心固定搭配，『desigualdad』常与『social』『económica』『de género』等形容词组合，是社会议题报道的必备词汇。"
+        },
+        {
+          "word": "privatizando",
+          "translation": "私有化，商业化",
+          "note": "动词『privatizar』由『privado』加后缀『-izar』构成，该后缀表示『使……化』，同类词如『digitalizar』『normalizar』『globalizar』，构词规律极强。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Algunas ciudades como Madrid y Barcelona han ampliado sus áreas de recreo canino en los últimos años. Pero estas zonas no se encuentran debidamente <strong>integradas</strong> en la legislación. Su regulación se encuentra, en el mejor de los casos, en las <strong>ordenanzas municipales</strong>. Pero deberían de estar contempladas en los planes generales de ordenación urbana para garantizar su protección y consolidar estas ciudades <strong>multiespecie</strong>. La ciudad de Lucca, en Italia, donde la convivencia humano-animal se considera un elemento de salud pública, se encuentra algo más cerca de esa realidad multiespecie. Ha conectado dos nuevas áreas para perros con el centro de la ciudad a través de 15 kilómetros de animabilis —vías adaptadas para animales con juegos, agua, sombra, e información para los dueños—, y ofrece asistencia gratuita para mascotas a personas temporalmente vulnerables.",
+      "zh": "马德里、巴塞罗那等城市近年来扩建了犬类休闲区，但这些区域尚未被妥善纳入法律体系。其监管规定在最好的情况下也只出现在市政条例中，而本应被纳入城市总体规划，以保障其法律地位，并推动这些城市向多物种共存迈进。意大利卢卡市将人与动物的共处视为公共卫生议题，在多物种城市的实践上走得更远：该市通过15公里的『动物友好步道』（配有游乐设施、饮水点、遮阴区及主人须知信息）将两处新建犬类活动区与市中心相连，并为临时处于困境的人群提供免费宠物救助服务。",
+      "vocab": [
+        {
+          "word": "integradas",
+          "translation": "被纳入的，被整合的，被融入的",
+          "note": "『integrar』在法律和政策语境中表示将某事项正式纳入某体系或框架，固定搭配为『integrado en + 名词』，与『incluir』相比更强调系统性融合。"
+        },
+        {
+          "word": "ordenanzas municipales",
+          "translation": "市政条例，地方法规",
+          "note": "西班牙行政体系中的固定术语，指市镇一级制定的地方性规章，效力低于自治区法律和国家法律，是新闻报道地方政策时的高频词。"
+        },
+        {
+          "word": "multiespecie",
+          "translation": "多物种的，人与动物共存的",
+          "note": "前缀『multi-』表示『多』，可与大量名词结合构成新词，如『multicultural』『multidisciplinar』『multimodal』，是构词能力极强的前缀。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "En el contexto de emergencia climática, conviene preguntarse también hasta qué punto las áreas caninas u otros espacios integran las necesidades de los animales. ¿Cuentan los parques con áreas techadas para hacer frente a un sol intenso o a un <strong>diluvio</strong>? ¿Pueden acceder las mascotas a espacios donde sus dueños se resguardan del calor <strong>abrasador</strong>? En Madrid, por ejemplo, algunos municipios han intentado organizar jornadas de baño canino en piscinas públicas, pero la normativa autonómica lo prohíbe por motivos de higiene.",
+      "zh": "在气候紧急状态的背景下，也值得追问：犬类活动区及其他公共空间在多大程度上考虑到了动物的需求？公园是否设有遮蔽区域以应对烈日或暴雨？宠物能否进入主人躲避酷暑的场所？例如在马德里，一些市镇曾尝试在公共泳池举办犬类洗浴活动，但自治区法规以卫生为由予以禁止。",
+      "vocab": [
+        {
+          "word": "diluvio",
+          "translation": "暴雨，洪水，倾盆大雨",
+          "note": "本义来自圣经中的『大洪水』，在现代语境中泛指极大的降雨量，语气比『lluvia intensa』更夸张，常用于新闻中渲染极端天气。"
+        },
+        {
+          "word": "abrasador",
+          "translation": "灼热的，酷热的，炙烤般的",
+          "note": "由动词『abrasar（灼烧）』派生，形容极端高温，比『caluroso』语气强烈得多，是气候变化报道中描述热浪的高频形容词。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "La convivencia humano-animal genera, como todo contrato social, conflictos. Un mayor número de animales en núcleos más urbanizados puede provocar, en el peor de los casos, mordeduras, y en el mejor, suciedad. Por ello, ciudades como Barcelona han <strong>potenciado</strong> sus campañas de <strong>concienciación</strong> para reducir conductas incívicas, y cada vez más municipios implementan sistemas de ADN para identificar los excrementos de los canes y multar a los dueños irresponsables.",
+      "zh": "人与动物的共处如同任何社会契约一样，也会产生矛盾。城市化程度越高、动物数量越多，往坏处说可能引发咬伤事故，往好处说也会带来环境脏乱问题。为此，巴塞罗那等城市加大了宣传力度，推动减少不文明行为；越来越多的市镇还引入DNA检测系统，用于识别犬类排泄物并对不负责任的主人开罚款。",
+      "vocab": [
+        {
+          "word": "potenciado",
+          "translation": "加强，强化，大力推动",
+          "note": "动词『potenciar』由『potencia（力量）』派生，表示增强某事物的力度或效果，比『aumentar』更强调质的提升，是政策和新闻文体中的高频词。"
+        },
+        {
+          "word": "concienciación",
+          "translation": "意识提升，宣传教育，觉悟培养",
+          "note": "由『conciencia（意识）』加后缀『-ción』构成，固定搭配为『campaña de concienciación（宣传活动）』，是社会议题新闻中的核心词汇。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Desde la teoría ética animal, la crítica generalizada es que, a pesar de los avances logrados hacia entornos más amigables con los animales, su presencia sigue estando <strong>restringida</strong> a determinados lugares y condiciones. En Zoópolis, una revolución animalista, los filósofos Sue Donaldson y Will Kymlicka dicen: Hemos traído a los animales domésticos a nuestra sociedad y les debemos el derecho a pertenecer a ella. Este es ahora su hogar, este es su sitio, y sus intereses deben formar parte de nuestro concepto del bien común del grupo. Tenemos que reconocer que los animales domesticados son <strong>conciudadanos</strong> de la comunidad. Las ciudades aún se encuentran lejos de ese horizonte, pero están comenzando, al menos parcialmente, a responder al número creciente y a la mayor relevancia de los animales en la sociedad. <strong>Conforme</strong> adoptan nuevas medidas y abren el debate sobre cómo integrarlos en sus calles, las ciudades se transforman lentamente.",
+      "zh": "从动物伦理理论的角度来看，普遍的批评是：尽管在打造动物友好型环境方面取得了一定进展，动物的活动仍被限制在特定场所和条件之下。哲学家苏·唐纳森和威尔·金里卡在《动物城邦》一书中写道：『我们将家养动物带入了我们的社会，因此我们欠它们一个归属于这个社会的权利。这里现在是它们的家园，是它们的所在，它们的利益必须成为我们关于群体公共利益概念的一部分……我们必须承认，驯化动物是社区的共同公民。』城市距离这一愿景仍然遥远，但至少已开始部分回应动物数量的增长及其在社会中日益重要的地位。随着各项新措施的推行和如何将动物融入城市街道的讨论不断深入，城市正在缓慢地发生改变。",
+      "vocab": [
+        {
+          "word": "restringida",
+          "translation": "被限制的，受约束的",
+          "note": "动词『restringir』表示对范围或权利加以限制，比『limitar』更强调通过规则或条件进行约束，固定搭配为『restringido a（仅限于）』。"
+        },
+        {
+          "word": "conciudadanos",
+          "translation": "同城市民，共同公民",
+          "note": "前缀『con-』表示『共同、一起』，与词根『ciudadano（公民）』结合，同类构词如『convivencia』『coexistencia』『colaboración』，是理解西语合成词的重要前缀。"
+        },
+        {
+          "word": "Conforme",
+          "translation": "随着，与……同步，当……的时候",
+          "note": "作连词时，『conforme』表示两个动作同步推进，相当于『a medida que』，是B2以上书面语和新闻文体中的高频连词，比『cuando』更强调同步性。"
+        }
+      ]
+    }
+  ]
+}

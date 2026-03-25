@@ -1,0 +1,201 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "气候与能源",
+  "difficulty": "B2",
+  "wordCount": "约700词",
+  "title": "La ONU advierte de que la 'adicción a los combustibles fósiles' desestabiliza el clima y la seguridad global",
+  "subtitle": "联合国警告：对化石燃料的『成瘾』正在破坏气候与全球安全",
+  "resumenEs": "El secretario general de la ONU, António Guterres, advierte de que la dependencia de los combustibles fósiles desestabiliza tanto el clima como la seguridad global, al hilo del informe Estado del Clima Global 2025 de la OMM. El documento confirma que 2023, 2024 y 2025 fueron los tres años más calurosos registrados, y que el desequilibrio energético del planeta se ha acelerado especialmente en los últimos 20 años.",
+  "resumenZh": "联合国秘书长安东尼奥·古特雷斯警告，对化石燃料的依赖正在同时破坏气候稳定与全球安全。世界气象组织发布的《2025年全球气候状况》报告证实，2023年、2024年和2025年是有记录以来最热的三年，地球能量失衡在过去20年间明显加速。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "A medida que los efectos de la guerra en Oriente Medio se hacen más evidentes y golpean el <strong>bolsillo</strong> de la mayoría de los ciudadanos, el debate sobre la transición hacia una economía libre de <strong>combustibles fósiles</strong> vira con más fuerza hacia la seguridad. Nuestra adicción a los combustibles fósiles está <strong>desestabilizando</strong> tanto el clima como la seguridad global, sostiene António Guterres, secretario general de Naciones Unidas. Debemos acelerar una transición justa hacia las energías renovables. Las renovables ofrecen seguridad climática, energética y seguridad nacional.",
+      "zh": "随着中东战争的影响日益显现并冲击大多数公民的钱包，围绕向无化石燃料经济转型的讨论愈发向安全议题倾斜。联合国秘书长安东尼奥·古特雷斯表示：『我们对化石燃料的成瘾正在同时破坏气候稳定与全球安全。我们必须加快推进公正的可再生能源转型。可再生能源提供气候安全、能源安全和国家安全。』",
+      "vocab": [
+        {
+          "word": "bolsillo",
+          "translation": "口袋；（比喻）个人财务，钱包",
+          "note": "本义为衣服口袋，固定搭配『golpear el bolsillo』是新闻中描述经济冲击的高频比喻表达，意为『让人花更多钱、经济受损』，同类表达有『afectar la economía doméstica』。"
+        },
+        {
+          "word": "combustibles fósiles",
+          "translation": "化石燃料（煤、石油、天然气）",
+          "note": "气候和能源新闻的核心词汇，指由远古生物遗骸经地质作用形成的燃料，燃烧时释放二氧化碳，是全球变暖的主要成因，与『energías renovables（可再生能源）』构成对立概念。"
+        },
+        {
+          "word": "desestabilizando",
+          "translation": "破坏稳定，使动荡",
+          "note": "前缀『des-』表示否定或逆转，动词『estabilizar』加前缀后表示『使不稳定』，同类构词如『desregular』『desacelerar』『desactivar』，是政治和气候新闻中的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Estas palabras forman parte del discurso que el responsable de la ONU ha difundido con motivo de la publicación del informe Estado del Clima Global, la evaluación anual que realiza la <strong>Organización Meteorológica Mundial</strong> (OMM) sobre la evolución del calentamiento. Este análisis sobre 2025 es, como resume Guterres, una advertencia: El <strong>caos climático</strong> se está acelerando y el retraso en la adopción de medidas para frenarlo es mortal.",
+      "zh": "这番话出自联合国秘书长就《全球气候状况》报告发布所发表的讲话——该报告是世界气象组织（WMO）对全球变暖进程进行的年度评估。正如古特雷斯所概括的，这份针对2025年的分析是一声警告：『气候混乱正在加速，而采取措施加以遏制的迟延是致命的。』",
+      "vocab": [
+        {
+          "word": "Organización Meteorológica Mundial",
+          "translation": "世界气象组织（WMO）",
+          "note": "联合国专门机构，负责协调全球气象、气候和水文观测，总部位于日内瓦，其年度《全球气候状况》报告是国际气候政策讨论的权威参考文件。"
+        },
+        {
+          "word": "caos climático",
+          "translation": "气候混乱，气候失控",
+          "note": "古特雷斯的标志性表达，比『cambio climático（气候变化）』语气更强烈，刻意使用『caos（混乱）』一词以强调局势的失控性和紧迫性，是近年气候外交话语中的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "El debate sobre la seguridad energética ligada a los combustibles fósiles ya surgió con fuerza tras la invasión de Ucrania en 2022 por parte de Rusia. La UE entonces apostó por las renovables para ganar en independencia frente al gas ruso. Pero esa transición no avanza a la velocidad adecuada en todo el mundo. Paralelamente, el cambio climático en estos cuatro años no ha dado <strong>tregua</strong> debido a esos combustibles, que cuando se queman para producir energía liberan los gases que <strong>sobrecalientan</strong> el planeta. 2023, 2024 y 2025 fueron los tres años más calurosos registrados en la Tierra en al menos 176 años, según señala el estudio de la OMM. Las mediciones directas arrancan en 1850, pero los <strong>paleoclimatólogos</strong>, que usan métodos indirectos para rastrear el avance del calentamiento, afirman que hay que retroceder miles de años para encontrar un planeta tan caliente.",
+      "zh": "围绕化石燃料与能源安全的讨论，在2022年俄罗斯入侵乌克兰后已强势浮现。欧盟当时押注可再生能源，以摆脱对俄罗斯天然气的依赖。但这一转型在全球范围内并未以足够的速度推进。与此同时，过去四年间气候变化毫无喘息——这些燃料燃烧产能时释放的气体持续加热地球。据世界气象组织研究显示，2023年、2024年和2025年是地球至少176年来最热的三年。该组织的直接气温测量数据从1850年起步，但通过间接方法追踪变暖进程的古气候学家表示，要找到一个同样炎热的星球，需要回溯数千年。",
+      "vocab": [
+        {
+          "word": "tregua",
+          "translation": "喘息，停歇，休战",
+          "note": "本义为战争中的停火协议，固定搭配『no dar tregua』表示『毫不停歇、持续施压』，是新闻中描述持续性威胁或压力的高频比喻表达，语气比『pausa』更强烈。"
+        },
+        {
+          "word": "sobrecalientan",
+          "translation": "过度加热，使过热",
+          "note": "前缀『sobre-』表示超过正常程度，动词『calentar』加前缀后强调加热超出正常范围，同类词如『sobrecarga』『sobreexplotación』，是气候报道中描述温室效应的精准用词。"
+        },
+        {
+          "word": "paleoclimatólogos",
+          "translation": "古气候学家",
+          "note": "前缀『paleo-』来自希腊语，意为『古老的』，同类词如『paleontólogo（古生物学家）』『paleografía（古文字学）』，指通过冰芯、树木年轮、珊瑚等间接证据重建历史气候的科学家。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Más allá de hasta dónde hay que viajar en el pasado, la OMM advierte en su informe de que el aumento de las temperaturas lleva a un incremento en el presente de los <strong>eventos extremos</strong> en todo el mundo, como olas de calor, lluvias intensas y <strong>ciclones tropicales</strong>, que ponen de manifiesto la <strong>vulnerabilidad</strong> de nuestras economías y sociedades.",
+      "zh": "无论需要追溯多远的历史，世界气象组织在报告中警告：气温上升正在导致全球极端天气事件增多，包括热浪、强降雨和热带气旋，这些事件充分暴露了我们经济和社会的脆弱性。",
+      "vocab": [
+        {
+          "word": "eventos extremos",
+          "translation": "极端天气事件，极端气候事件",
+          "note": "气象和气候科学中的固定术语，指超出历史正常范围的天气现象，世界气象组织将其分为气象类（热浪、暴风雨）、水文类（洪水、干旱）和气候类（长期异常），是气候报告的核心词汇。"
+        },
+        {
+          "word": "ciclones tropicales",
+          "translation": "热带气旋（包括飓风和台风）",
+          "note": "气象学通用术语，在大西洋和东太平洋称『huracán（飓风）』，在西太平洋称『tifón（台风）』，在印度洋称『ciclón』，『ciclón tropical』是涵盖所有地区的上位概念。"
+        },
+        {
+          "word": "vulnerabilidad",
+          "translation": "脆弱性，易受损性",
+          "note": "由形容词『vulnerable』加后缀『-idad』构成，在气候、经济和社会议题中高频出现，固定搭配为『poner de manifiesto la vulnerabilidad（暴露脆弱性）』，是联合国气候报告的核心概念词。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "En este informe anual, la OMM recopila los 16 eventos extremos de mayor impacto en todo el planeta. Entre ellos se incluyen las olas de calor en el sur de Europa que se sucedieron entre junio y agosto. Tanto Portugal (46,6 grados Celsius) como España (46,0 °C) registraron temperaturas máximas <strong>récord nacionales</strong> en junio, mientras que en Turquía se registró una temperatura máxima récord nacional (50,5 °C) en julio. El informe pone el foco sobre los incendios que sufrió el noroeste de la <strong>península Ibérica</strong> durante agosto. Más de 390.000 <strong>hectáreas</strong> se habían quemado en España a finales de año, cinco veces el promedio del período 2006-2024.",
+      "zh": "在这份年度报告中，世界气象组织汇编了全球影响最大的16起极端天气事件。其中包括6月至8月间席卷南欧的热浪。葡萄牙（46.6摄氏度）和西班牙（46.0°C）均在6月创下各自的全国最高气温纪录，而土耳其则在7月录得50.5°C的全国最高气温纪录。报告重点关注了8月间伊比利亚半岛西北部遭受的山火。截至年底，西班牙已有逾39万公顷土地被烧毁，是2006年至2024年平均水平的五倍。",
+      "vocab": [
+        {
+          "word": "récord nacionales",
+          "translation": "全国纪录，国家历史最高（低）值",
+          "note": "英语借词『récord』在西语中保留重音符，复数为『récords』，固定搭配为『batir/romper/registrar un récord（打破/创下纪录）』，在气象报道中极为常见。"
+        },
+        {
+          "word": "península Ibérica",
+          "translation": "伊比利亚半岛",
+          "note": "地理专有名词，指西南欧的半岛，包括西班牙、葡萄牙和安道尔，形容词『ibérico/a』也用于描述该地区的文化和物产，如『jamón ibérico（伊比利亚火腿）』。"
+        },
+        {
+          "word": "hectáreas",
+          "translation": "公顷（面积单位）",
+          "note": "1公顷=10,000平方米，约等于1.5个足球场，是农业、林业和土地管理新闻中的标准面积单位，缩写为『ha』，在森林火灾和土地利用报道中高频出现。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "En Latinoamérica, la OMM pone el foco sobre la <strong>sequía prolongada</strong> que vivieron el pasado año muchas partes de Sudamérica, especialmente en la <strong>cuenca del Amazonas</strong>, a pesar de que las lluvias en 2025 alcanzaron niveles cercanos a la normalidad.",
+      "zh": "在拉丁美洲，世界气象组织重点关注了去年南美洲大部分地区经历的持续干旱，尤其是亚马逊流域——尽管2025年的降雨量已接近正常水平。",
+      "vocab": [
+        {
+          "word": "sequía prolongada",
+          "translation": "持续干旱，长期干旱",
+          "note": "『sequía』指降水量长期低于正常水平的气象现象，『prolongada』强调持续时间长，固定搭配还有『sequía severa/extrema』，是气候和农业新闻中的核心词汇。"
+        },
+        {
+          "word": "cuenca del Amazonas",
+          "translation": "亚马逊流域，亚马逊盆地",
+          "note": "『cuenca』在地理中指河流汇水区域，即流域或盆地，固定搭配为『cuenca hidrográfica（水文流域）』，亚马逊流域是全球最大的热带雨林生态系统，在气候报道中具有标志性意义。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Este calentamiento del planeta está ligado al incremento de la concentración de <strong>gases de efecto invernadero</strong> en la atmósfera, que retienen el calor en el planeta. Los niveles de los tres principales gases de efecto invernadero —<strong>dióxido de carbono</strong>, <strong>metano</strong> y <strong>óxido nitroso</strong>— continuaron aumentando en 2025, sostiene la OMM.",
+      "zh": "地球变暖与大气中温室气体浓度的上升密切相关——这些气体将热量锁在地球上。世界气象组织指出，2025年三种主要温室气体——二氧化碳、甲烷和氧化亚氮——的浓度持续上升。",
+      "vocab": [
+        {
+          "word": "gases de efecto invernadero",
+          "translation": "温室气体",
+          "note": "气候科学的核心术语，指能吸收并重新辐射红外线、从而使大气层升温的气体，缩写为『GEI』（西语）或『GHG』（英语），主要包括CO₂、CH₄、N₂O和水蒸气。"
+        },
+        {
+          "word": "dióxido de carbono",
+          "translation": "二氧化碳（CO₂）",
+          "note": "化学命名规则：『di-』表示两个，『óxido』表示氧化物，『carbono』为碳，同类词如『monóxido de carbono（一氧化碳）』『dióxido de azufre（二氧化硫）』，掌握命名规则可举一反三。"
+        },
+        {
+          "word": "metano",
+          "translation": "甲烷（CH₄）",
+          "note": "温室效应强度约为CO₂的80倍（20年时间框架内），主要来源为畜牧业、天然气泄漏和水稻种植，是气候政策中仅次于CO₂的重点控制对象。"
+        },
+        {
+          "word": "óxido nitroso",
+          "translation": "氧化亚氮（N₂O），笑气",
+          "note": "温室效应强度约为CO₂的273倍，主要来源为农业化肥和工业生产，也是破坏臭氧层的物质之一，在气候报告中常与CO₂和甲烷并列为『三大温室气体』。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Lo que hay tras el cambio climático es un <strong>desequilibrio energético</strong> entre el calor que retiene el planeta y el que es capaz de liberar. El calor calienta el océano, los continentes y la atmósfera, y <strong>derrite</strong> el hielo. Desde 1960, el desequilibrio energético de la Tierra ha ido aumentando, especialmente en los últimos 20 años en comparación con los 66 años anteriores. Las actividades humanas están alterando cada vez más el equilibrio natural y viviremos con estas consecuencias durante cientos y miles de años, advierte la secretaria general de la OMM, Celeste Saulo.",
+      "zh": "气候变化背后的根本是一种能量失衡——地球所吸收的热量与其能够释放的热量之间的差距。这些热量加热海洋、大陆和大气层，并融化冰川。自1960年以来，地球的能量失衡持续加剧，尤其是过去20年与此前66年相比更为显著。世界气象组织秘书长塞莱斯特·绍洛警告：『人类活动正在日益破坏自然平衡，我们将在未来数百乃至数千年内承受这些后果。』",
+      "vocab": [
+        {
+          "word": "desequilibrio energético",
+          "translation": "能量失衡",
+          "note": "气候物理学核心概念，指地球从太阳吸收的能量与向太空辐射的能量之差，前缀『des-』表示否定，『equilibrio（平衡）』加前缀后表示失衡状态，是理解全球变暖机制的关键术语。"
+        },
+        {
+          "word": "derrite",
+          "translation": "融化，消融",
+          "note": "动词『derretir』专指固体（尤其是冰雪）因受热而融化，与『disolver（溶解）』不同：前者指物态变化，后者指物质溶入液体，固定搭配为『derretir el hielo/los glaciares』。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "El océano está en el centro de esta historia, porque sigue absorbiendo la mayoría del exceso de energía causada por el cambio climático. Alrededor del 5% de esa energía excedente está calentando la tierra, el 1% calentando la atmósfera y el 3% calentando y derritiendo la <strong>criosfera</strong>. Sin embargo, la mayoría, alrededor del 91%, acaba calentando el océano. Y los cambios en la temperatura global de los océanos son <strong>irreversibles</strong> en escalas temporales de siglos a <strong>milenios</strong>.",
+      "zh": "海洋处于这一故事的核心，因为它持续吸收着气候变化所产生的大部分多余能量。约5%的超额能量用于加热陆地，1%加热大气层，3%加热并融化冰冻圈。然而，绝大部分——约91%——最终流入海洋。而全球海洋温度的变化，在百年乃至千年的时间尺度上是不可逆的。",
+      "vocab": [
+        {
+          "word": "criosfera",
+          "translation": "冰冻圈",
+          "note": "地球系统科学术语，指地球上所有冰冻水体的总称，包括冰川、冰盖、海冰、冻土和积雪，前缀『crío-』来自希腊语『kryos（寒冷）』，同类词如『criogénico（低温的）』。"
+        },
+        {
+          "word": "irreversibles",
+          "translation": "不可逆的，无法挽回的",
+          "note": "前缀『ir-』（在r前变形的『in-』）表示否定，『reversible（可逆的）』加前缀后表示不可逆，是气候科学中强调长期后果严重性的关键词，同类词如『irrecuperable』『irremediable』。"
+        },
+        {
+          "word": "milenios",
+          "translation": "千年，千禧年",
+          "note": "前缀『mili-/mile-』表示千，『milenio』即一千年，同类词如『milímetro（毫米）』『milenario（千年的）』，在气候科学中常与『siglos（世纪）』并列，强调变化的超长时间尺度。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,335 +1,167 @@
 {
   "date": "西语外刊阅读",
   "brand": "公众号【西语SuperO】",
-  "category": "社会与健康",
-  "difficulty": "C1",
-  "wordCount": "约850词",
-  "title": "Sociedad enferma de delgadez o por qué la obesidad no es 'una pandemia'",
-  "subtitle": "沉迷于『瘦』的病态社会——为何肥胖并非『一场大流行病』",
-  "resumenEs": "El artículo cuestiona el discurso médico y comercial que patologiza la obesidad y promueve fármacos como Ozempic, argumentando que dicho enfoque refuerza la gordofobia, ignora el estigma de peso y convierte la delgadez en un privilegio económico y social.",
-  "resumenZh": "本文批判了将肥胖病理化、推广Ozempic等药物的医疗与商业话语，指出这一做法强化了对肥胖者的偏见，忽视了体重污名化的危害，并将纤瘦身材变成一种经济与社会特权。",
+  "category": "劳工与心理健康",
+  "difficulty": "B2",
+  "wordCount": "约550词",
+  "title": "Sobrecarga de trabajo y salud mental",
+  "subtitle": "工作过载与心理健康",
+  "resumenEs": "El número de bajas laborales por problemas de salud mental se ha duplicado en España desde 2016. El profesor Adrián Todolí analiza las causas jurídicas de este fenómeno, señalando que los cambios tecnológicos, la desregulación laboral y el debilitamiento sindical han incrementado la presión sobre los trabajadores, y propone legislación que mida y limite la sobrecarga.",
+  "resumenZh": "西班牙因心理健康问题导致的病假人数自2016年以来翻了一番。劳动法教授阿德里安·托多利从法律角度分析了这一现象的成因，指出技术变革、劳动力市场去监管化及工会力量削弱加剧了对工人的压力，并呼吁立法对工作过载加以衡量和限制。",
   "paragraphs": [
     {
       "id": 1,
-      "es": "Desde que salieron al mercado, Ozempic y el resto de los medicamentos <strong>análogos</strong> a la GLP-1, han ido jugando con la delgadez como solución a todo. Lo que surgió como un fármaco que sería de ayuda para personas afectadas por diabetes tipo II y cuyo efecto secundario es la pérdida de peso, a través de la <strong>modulación</strong> del apetito, se ha convertido en la <strong>panacea</strong> aspiracional a la delgadez. ¿En una sociedad tremendamente <strong>gordófoba</strong> quién no quiere estar más delgado? Ahora es posible, estás solo a unos pinchazos de ello.",
-      "zh": "自从Ozempic及其他GLP-1类似药物上市以来，『瘦』便被包装成了解决一切问题的万能答案。这种药物最初是为II型糖尿病患者研发的，通过调节食欲产生减重的副作用，如今却已演变为人们对纤瘦身材的『渴望灵药』。在一个极度厌胖的社会里，谁不想更瘦呢？现在这成为了可能——你只需打几针就能实现。",
+      "es": "Cada día hay datos preocupantes del creciente <strong>deterioro</strong> de la salud mental de los trabajadores. Desde 2016 el número de procesos de <strong>incapacidad temporal</strong> vinculados a problemas de salud mental se han duplicado: de unas 280.000 bajas de entonces se ha pasado a las 643.000 en 2024. Además las bajas por <strong>trastornos mentales</strong> son más graves. Mientras la incapacidad temporal ordinaria dura unos 45 días, en las perturbaciones mentales la baja media es de 116 días, según el Estudio socioeconómico de la evolución de la incapacidad temporal y la siniestralidad en España dirigido por los investigadores José María Peiró y Lorenzo Serrano, de la Universidad de Valencia (IVIE).",
+      "zh": "每天都有令人忧虑的数据显示，劳动者的心理健康状况持续恶化。自2016年以来，与心理健康问题相关的临时工作能力丧失案例数量翻了一番：从当时的约28万例病假增至2024年的64.3万例。此外，因精神障碍导致的病假情况更为严重。据瓦伦西亚大学（IVIE）研究人员何塞·玛利亚·佩罗和洛伦索·塞拉诺主导的《西班牙临时工作能力丧失及工伤事故社会经济演变研究》显示，普通临时工作能力丧失的平均持续时间约为45天，而精神障碍导致的病假平均时长则达116天。",
       "vocab": [
         {
-          "word": "han ido + 副动词",
-          "translation": "逐渐……，一直在……",
-          "note": "ir + 副动词 是西班牙语中表达渐进过程的重要句型，强调某一行为或状态随时间缓慢演变，比简单的现在完成时更突出过程的累积性：han ido jugando con la delgadez（一直在拿纤瘦做文章）、la situación ha ido empeorando（情况在逐渐恶化）。与 estar + 副动词（描述当下正在进行）的区别在于，ir + 副动词 更强调时间维度上的渐进积累。"
+          "word": "deterioro",
+          "translation": "恶化，退化，损耗",
+          "note": "由动词『deteriorar(se)』派生的名词，表示状态逐渐变差的过程，固定搭配为『deterioro de la salud/del medio ambiente/de las condiciones』，是新闻中描述负面趋势的高频词。"
         },
         {
-          "word": "panacea",
-          "translation": "万灵药，万能解决方案",
-          "note": "源自希腊神话中的治愈女神 Panakeia，新闻和评论文体中几乎总带讽刺意味，暗指某种被过度神化、实则无法解决所有问题的方案：la tecnología no es una panacea（技术不是万能的）、presentar algo como una panacea（将某物包装成万能药）。掌握这个词可以大幅提升书面语的批判性表达能力。"
+          "word": "incapacidad temporal",
+          "translation": "临时工作能力丧失，病假（法律术语）",
+          "note": "西班牙劳动法中的固定术语，简称『IT』，指因疾病或事故导致暂时无法工作并依法领取补贴的状态，与『invalidez permanente（永久残疾）』相对。"
         },
         {
-          "word": "gordófoba",
-          "translation": "厌胖的，对肥胖者存在偏见的",
-          "note": "由 gordo（胖）+ fobia（恐惧/厌恶）构成的新造词，属当代社会议题核心词汇。gordofobia 指对胖人的系统性歧视与偏见，是本文的核心批判概念。这类由名词/形容词 + fobia 构成的新词在当代西语媒体中大量涌现：homofobia（恐同）、xenofobia（仇外）、islamofobia（伊斯兰恐惧症），掌握这一构词规律可举一反三。"
+          "word": "trastornos mentales",
+          "translation": "精神障碍，心理疾患",
+          "note": "医学和法律文书中的规范表达，『trastorno』比『enfermedad mental』更中性，涵盖范围更广，包括焦虑症、抑郁症等，是世卫组织分类体系中的标准用词。"
         }
       ]
     },
     {
       "id": 2,
-      "es": "Desde hace años la OMS habla de pandemia de la obesidad, pero <strong>juega al despiste</strong> en su definición: la OMS define la obesidad como \"una acumulación anormal o excesiva de grasa que puede ser perjudicial para la salud\" (OMS, 2023). Y utiliza el IMC como herramienta de clasificación; esto es, se considera obesidad cuando el IMC es igual o superior a 30 kg/m². En muchos documentos, la OMS describe la obesidad como un factor de riesgo para <strong>enfermedades no transmisibles</strong> como la diabetes tipo 2, enfermedades cardiovasculares o ciertos tipos de cáncer.",
-      "zh": "多年来，世卫组织一直将肥胖称为『大流行病』，但其定义却含糊其辞：世卫组织将肥胖定义为『可能有害健康的异常或过量脂肪堆积』（WHO，2023年）。并以BMI作为分类工具，即BMI等于或超过30 kg/m²时即被认定为肥胖。在许多文件中，世卫组织将肥胖描述为糖尿病、心血管疾病或某些癌症等非传染性疾病的风险因素。",
+      "es": "Abundan las evidencias que conectan la <strong>sobrecarga</strong> del trabajo y la salud mental. Josh Dizieza en Cuán duro nos harán trabajar los robots, en The Verge, <strong>constata</strong> las consecuencias físicas y mentales de la sobrecarga de trabajo en empleados de Amazon que al terminar la jornada caen dormidos en su coche en el <strong>parquin</strong> del almacén antes de regresar a su casa.",
+      "zh": "将工作过载与心理健康相关联的证据比比皆是。乔什·迪兹耶萨在《The Verge》发表的《机器人会让我们工作多拼命》一文中，记录了亚马逊员工因工作过载承受的身心双重后果——他们在下班后往往在仓库停车场的车里直接睡着，才能撑到回家。",
       "vocab": [
         {
-          "word": "juega al despiste",
-          "translation": "故意混淆视听，转移注意力",
-          "note": "固定口语短语，jugar al despiste 字面意为玩迷糊游戏，新闻评论中用于批评某机构或人物刻意回避核心问题、模糊焦点。带有强烈的批判色彩，是作者攻击WHO定义前后矛盾的修辞武器。近义表达：escurrir el bulto（推卸责任、回避问题）、dar rodeos（绕弯子）。"
+          "word": "sobrecarga",
+          "translation": "过载，超负荷，过重负担",
+          "note": "前缀『sobre-』表示『超过、过度』，可与大量名词结合，如『sobrepeso（超重）』『sobreexplotación（过度开采）』『sobrecalentamiento（过热）』，是构词能力极强的前缀。"
         },
         {
-          "word": "factor de riesgo",
-          "translation": "风险因素，危险因素",
-          "note": "公共卫生和新闻报道的核心术语，指增加某种疾病发生概率的变量，但本身不构成因果关系。factor de riesgo para（……的风险因素）是固定搭配，在健康类报道中极高频：el tabaco es un factor de riesgo para el cáncer（吸烟是癌症的风险因素）。注意：factor de riesgo 与 causa（原因）有本质区别，前者表示相关性，后者表示因果性，这一区分是理解科学报道的关键。"
+          "word": "constata",
+          "translation": "证实，记录，查明",
+          "note": "动词『constatar』表示通过观察或调查确认某事实的存在，比『confirmar』更强调亲身核实的过程，是新闻和学术文体中描述实证发现的高频词。"
+        },
+        {
+          "word": "parquin",
+          "translation": "停车场",
+          "note": "英语『parking』的西班牙语音译借词，书写形式也可见『párking』，是典型的外来词适应西语拼写规则的例子，在日常口语和新闻中均十分常见。"
         }
       ]
     },
     {
       "id": 3,
-      "es": "Sin embargo, en otros contextos —como en la Clasificación Internacional de Enfermedades (CIE-11)— la trata como una enfermedad crónica, con códigos diagnósticos específicos. Esta <strong>ambigüedad</strong> contribuye a la confusión clínica y social, y refuerza la visión <strong>patologizante</strong> del cuerpo gordo.",
-      "zh": "然而，在其他语境中——例如《国际疾病分类》（ICD-11）——肥胖又被视为一种慢性疾病，并有专属的诊断代码。这种模糊性加剧了临床和社会层面的混乱，并强化了将胖体视为病态的观念。",
+      "es": "En base a estos estudios y sus investigaciones Adrián Todolí, <strong>catedrático</strong> de Derecho del Trabajo de la Universidad de Valencia, ha profundizado desde la perspectiva jurídica sobre las causas de este fenómeno. Su propósito era <strong>discernir</strong> si el aumento de las bajas era un problema de <strong>absentismo laboral</strong> o de la intensidad del trabajo que está enfermando a quienes lo desempeñan.",
+      "zh": "基于上述研究及自身调查，瓦伦西亚大学劳动法正教授阿德里安·托多利从法律视角深入探究了这一现象的成因。他的目的是辨明：病假人数的增加，究竟是旷工问题，还是工作强度本身正在让从业者患病。",
       "vocab": [
         {
-          "word": "contribuye a",
-          "translation": "助长，加剧，有助于",
-          "note": "动词 contribuir a 后接名词或不定式，表示对某一结果的促成作用，可正可负，需结合语境判断方向。此处 esta ambigüedad contribuye a la confusión（这种模糊性加剧了混乱）为负面语境。与 causar（造成，强调直接因果）相比，contribuir a 更强调部分促成、共同作用：varios factores contribuyen al problema（多种因素共同造成了这一问题）。"
+          "word": "catedrático",
+          "translation": "（大学）正教授，讲席教授",
+          "note": "西班牙高校职称体系中的最高级别，相当于中国的『正教授』或英美的『full professor』，与『profesor titular（副教授级）』和『profesor asociado（兼职讲师）』构成职称阶梯。"
         },
         {
-          "word": "patologizante",
-          "translation": "将……病理化的",
-          "note": "由 patologizar（病理化）派生的形容词，批判性话语中的高频词，指将正常的身体状态或行为错误地定性为疾病。visión patologizante del cuerpo gordo 即将胖体视为病态的观念，是本文核心批判对象。同类构词：criminalizante（将……犯罪化的）、estigmatizante（污名化的），掌握 -ante/-iente 现在分词形容词化的构词规律，可大幅扩展批判性词汇。"
+          "word": "discernir",
+          "translation": "辨别，分辨，判断",
+          "note": "C1级词汇，强调通过理性分析区分两种相似或容易混淆的事物，比『distinguir』更正式，常出现在学术和法律文体中，固定搭配为『discernir entre A y B』。"
+        },
+        {
+          "word": "absentismo laboral",
+          "translation": "旷工，缺勤，职场缺席现象",
+          "note": "劳动经济学中的固定术语，指员工无正当理由缺席工作的现象，与本文中因真实疾病导致的病假形成对比，作者正是要区分这两种情况。"
         }
       ]
     },
     {
       "id": 4,
-      "es": "Lo que seguro que no es una enfermedad infecciosa que se propague por contagio, y por lo que podría crear una pandemia a nivel global. Es curioso que, habiendo pasado una pandemia real hace cinco años, la covid, se permitan estas <strong>licencias lingüísticas</strong>. El lenguaje nunca es inocente, y saben que si usan términos que puedan asustar a la población el efecto es mayor. Ni es una pandemia, ni es una epidemia, ni es una enfermedad infecciosa. Nada de esto importa, si la función es <strong>atemorizar</strong> a la población. Otra de las causas por la que se permiten conductas poco éticas con el <strong>abordaje</strong> del sobrepeso y la obesidad es el gran negocio y beneficio económico que supone.",
-      "zh": "肥胖绝对不是一种通过传染传播的传染病，因此不可能在全球范围内引发大流行。令人不解的是，在经历了五年前新冠这场真正的大流行病之后，人们竟然还允许这类语言上的随意借用。语言从来都不是无辜的，他们深知，使用能让民众感到恐慌的词语，效果会更大。它既不是大流行病，也不是流行病，更不是传染病。但这些都无所谓，只要目的是让民众感到恐惧。另一个导致在超重和肥胖问题上出现不道德行为的原因，是其背后巨大的商业利益。",
+      "es": "En La huida del trabajo: sobrecarga de trabajo, salud mental y derechos fundamentales (Aranzadi), el profesor Todolí asegura que la evidencia científica es <strong>concluyente</strong>. Las exigencias excesivas de trabajo condicionan de manera <strong>determinante</strong> la salud mental de los trabajadores en España.",
+      "zh": "在《逃离工作：工作过载、心理健康与基本权利》（Aranzadi出版社）一书中，托多利教授指出，科学证据是决定性的：过度的工作要求对西班牙劳动者的心理健康产生了决定性的影响。",
       "vocab": [
         {
-          "word": "licencias lingüísticas",
-          "translation": "语言上的随意借用，措辞失当",
-          "note": "licencia 在此指超越规范的自由，licencias lingüísticas 常用于批评媒体或机构滥用某些具有强烈情感色彩的词汇。此处讽刺将肥胖称为大流行病是对 pandemia 一词的不当挪用。licencia 的多义性值得掌握：licencia de conducir（驾照）、licencia por maternidad（产假）、tomarse licencias（放肆、越界）。"
+          "word": "concluyente",
+          "translation": "决定性的，确凿的，不容置疑的",
+          "note": "由动词『concluir』派生，形容证据或结论具有终结争议的力度，比『claro』或『evidente』语气更强，常用于学术和法律文体中强调论据的充分性。"
         },
         {
-          "word": "atemorizar",
-          "translation": "使恐惧，恐吓",
-          "note": "比 asustar 语气更强、更正式，常用于描述有意为之的恐吓行为，多见于政治或媒体批评语境。atemorizar a la población（让民众感到恐惧）是作者批判WHO和制药公司传播策略的核心指控。近义词语气梯度：inquietar（使不安）< asustar（使害怕）< atemorizar（使恐惧）< aterrorizar（使极度恐惧）。"
-        },
-        {
-          "word": "abordaje",
-          "translation": "处理方式，应对方法",
-          "note": "来自动词 abordar（登船、接近、处理），医学和政策语境中的高频词，指对某一问题的整体处理思路和方法论框架，比 enfoque（视角）更强调行动层面，比 tratamiento（治疗）更宽泛。abordaje del sobrepeso y la obesidad 即对超重和肥胖问题的处理方式。常见搭配：abordaje integral（综合干预）、abordaje multidisciplinar（多学科处理）。"
+          "word": "determinante",
+          "translation": "决定性的，起关键作用的",
+          "note": "由动词『determinar』派生，作形容词时强调某因素对结果起主导作用，固定搭配为『de manera/forma determinante』，是学术写作中表达强因果关系的高频词。"
         }
       ]
     },
     {
       "id": 5,
-      "es": "No hay que dejar de lado la campaña que ha hecho el laboratorio Novo Nordisk en la televisión y en <strong>marquesinas</strong> de ciudades de España, con carteles tan <strong>alentadores</strong> como \"la obesidad puede matar\". Y con un anuncio en la televisión mostrando a una chica gorda, de la que en principio de su salud no sabemos nada, solo que pesa más de lo que \"debería\" según el famoso IMC, y que finalmente asume que está enferma, es obesa, y por fin \"habla sin filtros\".",
-      "zh": "不可忽视的是诺和诺德制药公司在西班牙各城市的电视和公交站牌上投放的广告活动，其中有『肥胖可能致命』这样『鼓舞人心』的标语。还有一则电视广告，展示了一个胖女孩——我们对她的健康状况一无所知，只知道她的体重超过了著名BMI标准所认定的『应有』水平——她最终承认自己生病了，自己是肥胖者，并终于『毫无保留地说出了心里话』。",
+      "es": "Entre las causas de este deterioro apunta la introducción de cambios tecnológicos y organizativos, la pérdida de fuerza de los <strong>sindicatos</strong> y la <strong>desregulación</strong> del mercado de trabajo. Considera que estos elementos han favorecido un incremento del poder <strong>unilateral</strong> del empleador para exigir niveles de esfuerzo y velocidad aprovechando situaciones de inseguridad contractual como los despidos, la <strong>temporalidad</strong> o la precariedad generalizada.",
+      "zh": "在分析这一恶化趋势的成因时，他指出了技术与组织变革的引入、工会力量的削弱以及劳动力市场的去监管化。他认为，这些因素共同助长了雇主单方面权力的扩张，使其得以借助解雇、临时合同或普遍化的不稳定就业状态等合同不安全感，强行要求工人提高劳动强度和速度。",
       "vocab": [
         {
-          "word": "marquesinas",
-          "translation": "公交站台广告位，候车亭",
-          "note": "西班牙日常生活词汇，指街头带顶棚的候车亭，是户外广告的重要载体。与 vallas publicitarias（大型路边广告牌）不同，marquesinas 特指公交站台处的小型广告位，两者共同构成西班牙城市户外广告的主要形式。"
+          "word": "sindicatos",
+          "translation": "工会，劳工联合会",
+          "note": "西班牙最具代表性的两大工会为『CCOO（工人委员会）』和『UGT（总工会）』，在劳动法和新闻报道中频繁出现，是理解西班牙劳动关系的关键词。"
         },
         {
-          "word": "alentadores",
-          "translation": "鼓励的，令人振奋的",
-          "note": "此处为反讽用法，作者用引号标出 alentadores，以『鼓舞人心』来讽刺那些实为恐吓性的广告语。alentar 本义为鼓励、激励，alentador 是其形容词形式：resultados alentadores（令人鼓舞的结果）、señales alentadoras（积极信号）。识别反讽用法（ironía）是C1阅读的核心能力，引号是最重要的反讽标记之一。"
+          "word": "desregulación",
+          "translation": "去监管化，放松管制",
+          "note": "前缀『des-』表示否定或逆转，与『regulación（监管）』结合，同类词如『descentralización』『desindustrialización』『desempleo』，是经济和政策新闻中的核心词汇。"
+        },
+        {
+          "word": "unilateral",
+          "translation": "单方面的，一方决定的",
+          "note": "前缀『uni-（单一）』加词根『lateral（侧面、方面）』，与『bilateral（双边的）』『multilateral（多边的）』构成一组对比词，在法律和外交文体中高频出现。"
+        },
+        {
+          "word": "temporalidad",
+          "translation": "临时就业状态，合同不稳定性",
+          "note": "在西班牙劳动语境中专指高比例的临时合同现象，西班牙曾长期是欧盟临时就业率最高的国家之一，该词是劳工议题报道中的核心术语。"
         }
       ]
     },
     {
       "id": 6,
-      "es": "Lo que queda sin filtros es su gordofobia: <strong>por el mero hecho de</strong> que sea gorda, le <strong>presuponen</strong> enfermedad. Yo me pregunto, aunque así lo fuera, esté gorda y enferma de lo que sea, ¿se les puede obligar a medicarse?",
-      "zh": "真正『毫无保留』暴露出来的，是这则广告的厌胖偏见：仅仅因为她是胖的，就预设她患有疾病。我不禁想问，即便真是如此，即便她又胖又病，难道就可以强迫她用药吗？",
+      "es": "Todolí <strong>desmonta</strong> mitos. Una mayor carga de trabajo no equivale a mayor productividad. La sobrecarga de trabajo perjudica tanto a la productividad como a la salud. También estima que la reducción de la jornada de trabajo no resuelve la cuestión. El gobierno propone reducir la jornada laboral, me parece muy bien. Pero si te reducen la jornada y te hacen trabajar más acabas igual de <strong>agotado</strong> y cuando llegas a tu casa no tienes energía para tus hijos.",
+      "zh": "托多利对一些迷思进行了驳斥。工作量更大并不等于生产效率更高——工作过载对生产力和健康都有害。他也认为缩短工时并不能从根本上解决问题：『政府提议缩短工作时间，我觉得很好。但如果工时缩短了，却让你干更多活，你最终同样精疲力竭，回到家也没有精力陪孩子。』",
       "vocab": [
         {
-          "word": "por el mero hecho de",
-          "translation": "仅仅因为……",
-          "note": "固定短语，强调理由的单一性与武断性，mero 有『仅此而已、不过如此』的轻蔑意味，常用于批判性语境：por el mero hecho de ser mujer（仅仅因为是女性）、por el mero hecho de existir（仅仅因为存在）。比 solo porque 更正式，书面语色彩更强，是C1写作中表达批判立场的有力工具。"
+          "word": "desmonta",
+          "translation": "驳斥，拆解，推翻（论点或迷思）",
+          "note": "『desmontar』本义为拆卸机械，引申为系统性地推翻某种论点或错误观念，固定搭配为『desmontar mitos/argumentos/teorías』，是新闻评论中的高频比喻用法。"
         },
         {
-          "word": "presuponen",
-          "translation": "预设，先入为主地假定",
-          "note": "由 pre-（提前）+ suponer（假设）构成，比 suponer 更强调在没有证据的情况下提前假定，批判性文章中常见。le presuponen enfermedad 即预先假定她患有疾病，是作者批判医疗偏见的核心动词。同类构词：prejuzgar（预先评判）、predeterminar（预先决定），掌握 pre- 前缀可举一反三。"
+          "word": "agotado",
+          "translation": "精疲力竭的，耗尽的",
+          "note": "由动词『agotar』派生，本义为耗尽资源，形容人时表示体力或精力完全耗尽，比『cansado（累）』程度更深，是描述职业倦怠的核心词汇。"
         }
       ]
     },
     {
       "id": 7,
-      "es": "¿Se vería con los mismos ojos si el anuncio fuera dedicado a enfermos de cáncer, por ejemplo? ¿Veríamos <strong>vallas publicitarias</strong> con el eslogan \"el cáncer mata\"? ¿<strong>Estigmatizaríamos</strong> a quien lo padece? La respuesta es no. Con el sobrepeso y la obesidad se permiten muchas licencias, por más que esté demostrado que el <strong>estigma de peso</strong> causa mucho daño.",
-      "zh": "如果这则广告是针对癌症患者的，人们还会用同样的眼光看待它吗？我们会看到写着『癌症致命』的广告牌吗？我们会污名化那些患病的人吗？答案是否定的。在超重和肥胖问题上，人们允许了太多的随意，尽管已有充分证据表明体重污名化会造成巨大伤害。",
+      "es": "Constata el fenómeno de la huida del trabajo que se produce cuando los jóvenes abandonan el empleo porque piensan que no vale la pena trabajar por lo que les pagan y los mayores prefieren la <strong>prejubilación</strong> porque no pueden soportar ciertas condiciones.",
+      "zh": "他记录了『逃离工作』这一现象：年轻人因认为以所得薪酬工作不值得而辞职离场，而年长工人则因无法承受某些工作条件而倾向于选择提前退休。",
       "vocab": [
         {
-          "word": "por más que + 虚拟式",
-          "translation": "尽管……，无论……",
-          "note": "固定让步从句结构，后接虚拟式，表示即便某事为真也无法改变结论：por más que esté demostrado（尽管已有证据证明）、por más que lo intente（无论怎么努力）。与 aunque 的区别：por más que 更强调让步的徒劳感和无奈，语气更强烈，是C1写作中表达强烈让步的重要句型。"
-        },
-        {
-          "word": "estigmatizaríamos",
-          "translation": "我们会污名化，我们会给……贴上负面标签",
-          "note": "条件式（condicional）用法，构成修辞性反问：¿estigmatizaríamos a quien lo padece?（我们会污名化患者吗？）预设答案为否，以此反衬社会对肥胖者的双重标准。estigmatizar 源自 estigma（污名、烙印），条件式在此不表示假设，而是一种修辞策略，邀请读者自行得出结论。"
-        },
-        {
-          "word": "estigma de peso",
-          "translation": "体重污名化",
-          "note": "社会学与公共卫生领域核心术语，指因体重而遭受的社会歧视与负面标签，estigma 源自希腊语，意为烙印。研究表明体重污名化会导致心理健康问题、回避就医等严重后果，是本文的核心论据之一。同类表达：estigma social（社会污名）、estigma racial（种族污名）。"
+          "word": "prejubilación",
+          "translation": "提前退休，早退休",
+          "note": "前缀『pre-（在……之前）』加『jubilación（退休）』，指在法定退休年龄之前离开劳动市场，通常通过与雇主协议或特殊计划实现，是西班牙劳动新闻中的高频词。"
         }
       ]
     },
     {
       "id": 8,
-      "es": "El trato desigual a las personas gordas hace que dejen de asistir a las consultas médicas porque ante cualquier <strong>dolencia</strong> recibirán una prescripción de dieta. De esta manera se les niega el tratamiento que se le ofrecería de primeras a una persona delgada. Esto, señores, es una <strong>negligencia médica</strong>.",
-      "zh": "对胖人的不平等对待，使他们不再去看医生，因为无论什么病，他们得到的都是节食处方。这样一来，他们被剥夺了瘦人本可第一时间获得的治疗。这，女士们先生们，就是医疗失职。",
+      "es": "Considera prioritario una legislación protectora que mida la sobrecarga. Pone el ejemplo de Polonia que ha establecido un máximo de consumo de <strong>kilojulios</strong> de energía por hora en trabajos físicos: superada esa cantidad se entiende que se pone en peligro la salud de la persona. Otro campo en el que resulta necesario <strong>fortalecer</strong> el papel de los sindicatos.",
+      "zh": "他认为，当务之急是制定能够衡量工作过载的保护性立法。他举了波兰的例子：该国已为体力劳动设定了每小时能量消耗的千焦上限，一旦超过该数值，即视为对人体健康构成威胁。他还指出，这也是另一个需要强化工会作用的领域。",
       "vocab": [
         {
-          "word": "dolencia",
-          "translation": "病痛，不适，身体毛病",
-          "note": "比 enfermedad 更口语化，指轻微或模糊的身体不适，常见于医患对话和日常叙述语境。ante cualquier dolencia（无论什么病痛）强调不论症状轻重，胖人都只会得到节食建议。近义词辨析：dolencia（泛指身体不适，偏口语）、enfermedad（疾病，更正式）、padecimiento（长期病痛，更书面）、malestar（不适感，最轻微）。"
+          "word": "kilojulios",
+          "translation": "千焦（能量单位）",
+          "note": "国际单位制能量单位，1千焦=1000焦耳，在营养学中常见（食品热量标注），在本文中用于衡量体力劳动的能量消耗，体现了将劳动强度量化为物理指标的立法思路。"
         },
         {
-          "word": "de primeras",
-          "translation": "第一时间，首先，一开始",
-          "note": "口语化固定短语，意为『最先、立刻』，常用于描述第一反应或优先获得的待遇：de primeras no me gustó（一开始我不喜欢）。本文 el tratamiento que se le ofrecería de primeras a una persona delgada（瘦人本可第一时间获得的治疗）揭示了医疗系统对胖人的系统性差别对待，de primeras 在此强调的是被剥夺的优先权。"
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "es": "Hace nada, desde la revista científica The Lancet, también se <strong>apelaba a</strong> hacer un enfoque alejado del estereotipo y del estigma de peso, junto con sociedades médicas y, de nuevo, con el dinero del laboratorio que sostenía el estudio. A la vez que reconocían que el IMC era un parámetro <strong>obsoleto</strong>, <strong>recalificaban</strong> lo que antes era sobrepeso —es decir, ese rango de IMC entre 25 a 29— como preobesidad clínica. Para ser más cuidadosos, han colado la palabra \"obesidad\" cinco puntos antes en el IMC.",
-      "zh": "就在不久前，《柳叶刀》科学期刊也呼吁采取一种远离刻板印象和体重污名化的方法，联合多个医学学会，并再次依靠资助该研究的制药公司的资金。与此同时，他们在承认BMI是一个过时指标的同时，却将原本属于超重的范围——即BMI在25到29之间——重新定性为『临床前肥胖』。为了『更加谨慎』，他们把『肥胖』这个词提前了五个BMI点。",
-      "vocab": [
-        {
-          "word": "apelaba a",
-          "translation": "呼吁，诉诸",
-          "note": "固定搭配 apelar a，后接名词或不定式，在新闻文体中常用于描述机构或人物发出正式呼吁：apelar a la solidaridad（呼吁团结）、apelar a la razón（诉诸理性）。此处过去未完成时 apelaba 表示文章发表时的持续性呼吁立场。注意 apelar a 与 recurrir a（求助于、采用）的区别：apelar a 更强调道义上的呼吁，recurrir a 更强调实际手段的使用。"
-        },
-        {
-          "word": "han colado",
-          "translation": "悄悄塞入，偷偷混入",
-          "note": "colar 本义为过滤、渗透，口语中引申为『偷偷混入、蒙混过关』：colar una mentira（混入一个谎言）、colarse en una fiesta（混进派对）。han colado la palabra 'obesidad' 即悄悄将『肥胖』一词提前引入，是作者揭露《柳叶刀》研究暗中扩大肥胖定义的核心批判动词，带有强烈的讽刺色彩。"
-        },
-        {
-          "word": "recalificaban",
-          "translation": "重新定性，重新分类",
-          "note": "由 re-（再次）+ calificar（定性、评定）构成，强调对已有定义的修改和重新标注，政策和医学文件中常见。作者用此词揭示《柳叶刀》研究在批评BMI的同时却悄然扩大了肥胖定义范围的矛盾。同类构词：reclasificar（重新分类）、redefinir（重新定义）、reinterpretar（重新诠释），掌握 re- 前缀可举一反三。"
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "es": "Es <strong>llamativo</strong> cómo se insiste en que no se abuse de los antibióticos para evitar <strong>cepas resistentes</strong>, mientras que, por otro lado, se prescribe cada vez más semaglutida (Ozempic, Wegovy, Rybelsus) a personas sin diabetes, solo por su peso. Esto ocurre a pesar de que ya se han <strong>documentado</strong> efectos secundarios serios y emergentes, como una forma rara de ceguera, conocida como neuropatía óptica isquémica anterior no arterítica (NAION).",
-      "zh": "令人注目的是，一方面人们不断强调不要滥用抗生素以防止耐药菌株的产生，另一方面却越来越多地向没有糖尿病的人开具司美格鲁肽（Ozempic、Wegovy、Rybelsus）处方，仅仅因为他们的体重。这种情况的发生，尽管已有严重且新出现的副作用被记录在案，例如一种罕见的失明形式，即非动脉炎性前部缺血性视神经病变（NAION）。",
-      "vocab": [
-        {
-          "word": "llamativo",
-          "translation": "引人注目的，显眼的，耐人寻味的",
-          "note": "常用于书面语，指某事物因其矛盾性、反常性或突出性而引发关注，语气比 notable 更带主观评价色彩。es llamativo cómo…（令人注目的是……）是新闻评论中引出矛盾现象的标准句型。近义词辨析：llamativo（引人注目，带评价色彩）、notable（值得注意，更中性）、sorprendente（令人惊讶，更强调意外感）。"
-        },
-        {
-          "word": "mientras que",
-          "translation": "而……，与此同时却……",
-          "note": "表示对比或对立关系的连接词，是新闻和论说文中构建矛盾对比的核心工具。本文 se insiste en no abusar de antibióticos, mientras que se prescribe cada vez más semaglutida（一边强调不滥用抗生素，另一边却越来越多开具司美格鲁肽）正是通过 mientras que 将两种矛盾现象并置，产生强烈的批判效果。注意与 mientras（当……的时候，表时间同步）的区别。"
-        },
-        {
-          "word": "documentado",
-          "translation": "记录在案的，有文献证明的",
-          "note": "学术和新闻语境中的高频词，强调有正式证据支撑，比 registrado 更具权威性和学术色彩。efectos secundarios documentados 即已有文献记录的副作用，是科学报道中区分已证实风险与推测性风险的关键词。常见搭配：casos documentados（有据可查的案例）、evidencia documentada（有文献支撑的证据）。"
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "es": "La Agencia Europea del Medicamento (EMA) concluyó en junio de 2025 que existe una asociación <strong>plausible</strong> entre el uso de semaglutida y un mayor riesgo de desarrollar esta forma rara de ceguera: aproximadamente una persona por cada 10.000 al año podría verse afectada. Estudios recientes <strong>respaldan</strong> esta alerta: por ejemplo, un gran estudio en Dinamarca encontró que la semaglutida puede duplicar el riesgo de NAION en pacientes con diabetes tipo 2, y hasta aumentarlo hasta 7 veces en personas con sobrepeso u obesidad.",
-      "zh": "欧洲药品管理局（EMA）于2025年6月得出结论，司美格鲁肽的使用与罹患这种罕见失明形式的风险升高之间存在合理关联：每年每一万人中约有一人可能受到影响。近期研究支持了这一警示：例如，丹麦的一项大型研究发现，司美格鲁肽可能使II型糖尿病患者罹患NAION的风险翻倍，在超重或肥胖人群中甚至可能使风险增加至7倍。",
-      "vocab": [
-        {
-          "word": "plausible",
-          "translation": "合理的，可信的，站得住脚的",
-          "note": "假朋友警示：与英语 plausible（似乎合理的）同义，绝非『可悲的』。指某一假设在现有证据下具有可信度，asociación plausible 是药物警戒报告中的标准表述，介于『可能相关』和『已证实相关』之间。常见搭配：explicación plausible（合理的解释）、hipótesis plausible（可信的假设）。"
-        },
-        {
-          "word": "respaldan",
-          "translation": "支持，为……提供依据，佐证",
-          "note": "来自 respaldar（字面为用背部支撑），比 apoyar 更正式，常用于学术或新闻语境，表示以证据或权威来源为某一论点背书。estudios recientes respaldan esta alerta（近期研究支持了这一警示）是科学报道中引用佐证的标准句型。近义词辨析：respaldar（用证据支撑）、corroborar（证实，更强调独立验证）、avalar（担保，更强调权威背书）。"
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "es": "Daniel Drucker, uno de los responsables del desarrollo de la semaglutida —<strong>componente activo</strong> de Ozempic y Wegovy— ha <strong>advertido</strong> en una entrevista en este diario que no debería utilizarse en personas que no tienen sobrepeso u obesidad, pues no se conocen sus efectos a largo plazo en individuos sanos. En palabras literales: \"Si no tienes sobrepeso ni obesidad, definitivamente no deberías tomar estos fármacos. Estás asumiendo todos los riesgos sin obtener ninguno de los beneficios, de eso estoy seguro\".",
-      "zh": "司美格鲁肽（Ozempic和Wegovy的活性成分）的主要研发者之一Daniel Drucker在接受本报采访时警告称，该药物不应用于没有超重或肥胖问题的人，因为其对健康个体的长期影响尚不明确。他的原话是：『如果你没有超重或肥胖，你绝对不应该服用这些药物。你承担了所有风险，却没有获得任何益处，这一点我非常确定。』",
-      "vocab": [
-        {
-          "word": "en palabras literales",
-          "translation": "原话是，用他/她自己的话说",
-          "note": "新闻引语中的重要标记短语，用于引入被采访者的直接原话，强调以下内容是逐字引用而非转述或概括。与 según + 人名（根据……所说）相比，en palabras literales 更强调引用的原汁原味，常用于作者希望让证据自己说话的场合。类似表达：textualmente（原文如此）、en sus propias palabras（用他自己的话）。"
-        },
-        {
-          "word": "asumir riesgos",
-          "translation": "承担风险，接受风险",
-          "note": "固定搭配，asumir 在此意为主动接受或承担某种后果，比 correr riesgos（冒险）更强调主动性和责任归属：asumir las consecuencias（承担后果）、asumir la responsabilidad（承担责任）。estás asumiendo todos los riesgos sin obtener ninguno de los beneficios（你承担了所有风险却没有获得任何益处）是本文最具说服力的专家警告，asumir 的精确用法值得掌握。"
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "es": "Esto refuerza lo señalado por fuentes independientes como Verificat: ni Ozempic ni la semaglutida han sido evaluados como tratamiento de pérdida de peso en personas sanas, y únicamente se han estudiado <strong>perfiles de seguridad</strong>, no eficacia, en pacientes sin <strong>patología metabólica</strong>.",
-      "zh": "这印证了Verificat等独立来源所指出的内容：Ozempic和司美格鲁肽均未被评估为健康人群的减重治疗方案，对于没有代谢疾病的患者，研究人员仅研究了其安全性特征，而非有效性。",
-      "vocab": [
-        {
-          "word": "fuentes independientes",
-          "translation": "独立来源，独立信源",
-          "note": "新闻报道和媒体素养的核心概念，fuentes independientes 指不受利益相关方（如制药公司）资助或影响的信息来源，与 fuentes oficiales（官方来源）或 fuentes financiadas por la industria（行业资助来源）形成对比。本文引用 Verificat 作为 fuente independiente，是作者建立论证可信度的重要修辞策略。"
-        },
-        {
-          "word": "únicamente",
-          "translation": "仅仅，只，唯一地",
-          "note": "副词，比 solo 更正式，强调排他性和限制性，常用于书面语和学术表达：únicamente se han estudiado los perfiles de seguridad（仅研究了安全性特征）。在论证语境中，únicamente 是缩小范围、凸显局限性的有力工具，暗示研究的不完整性。注意不要与 solamente 混用，两者语义相同但 únicamente 书面感更强。"
-        }
-      ]
-    },
-    {
-      "id": 14,
-      "es": "Por otro lado, aunque la semaglutida tiene un efecto <strong>anorexígeno</strong> probado, esa supresión del apetito no se <strong>traduce en</strong> un aprendizaje de hábitos alimentarios saludables. Si se prescribe sin acompañamiento —sin educación nutricional ni apoyo psicológico— se convierte en un tratamiento crónico: la persona pierde peso mientras toma el fármaco, pero al suspenderlo recupera el peso perdido y no ha adquirido ninguna rutina sostenible. Y deben considerarse los riesgos de pérdida muscular, metabolismo más lento y la potencial <strong>cronificación</strong> del uso de medicación sin un diagnóstico claro.",
-      "zh": "另一方面，尽管司美格鲁肽具有经证实的抑食效果，但这种食欲抑制并不能转化为对健康饮食习惯的养成。如果在没有配套支持的情况下开具处方——没有营养教育，也没有心理辅导——它就会变成一种慢性治疗：患者在服药期间体重下降，但一旦停药便会反弹，且没有养成任何可持续的生活习惯。此外还需考虑肌肉流失、代谢减缓以及在没有明确诊断的情况下潜在的用药慢性化等风险。",
-      "vocab": [
-        {
-          "word": "sin acompañamiento",
-          "translation": "没有配套支持，缺乏辅助干预",
-          "note": "acompañamiento 本义为陪伴、伴奏，在医疗和社会服务语境中引申为配套的支持措施，如心理辅导、营养教育等。sin acompañamiento 即在没有任何配套干预的情况下单独用药，是本文批判单纯依赖药物而忽视整体干预的核心概念。类似表达：sin seguimiento（没有随访）、sin apoyo psicosocial（没有社会心理支持）。"
-        },
-        {
-          "word": "traduce en",
-          "translation": "转化为，体现为",
-          "note": "固定搭配 traducirse en，后接名词，表示某一原因或条件最终产生的实际结果：el esfuerzo se traduce en resultados（努力转化为成果）、la crisis se tradujo en desempleo（危机转化为失业）。学术和新闻文体中高频使用，比 convertirse en 更强调因果转化关系，是C1写作中表达结果的精准工具。"
-        },
-        {
-          "word": "cronificación",
-          "translation": "慢性化，长期化，依赖化",
-          "note": "由 crónico（慢性的）派生，指某一状况或治疗从短期转变为长期乃至永久性依赖的过程。cronificación del uso de medicación 即用药的长期化或依赖化，是本文批判过度依赖药物而忽视生活方式干预的核心概念。掌握 -ción 名词化后缀：cronificar → cronificación，类似：flexibilizar → flexibilización（灵活化）、precarizar → precarización（不稳定化）。"
-        }
-      ]
-    },
-    {
-      "id": 15,
-      "es": "¿Qué clase de sociedad hemos construido cuando preferimos medicar a personas sanas solo para que <strong>encajen en</strong> un ideal de delgadez, aun <strong>a costa de</strong> someterlas a una larga lista de efectos secundarios ya documentados —náuseas, vómitos, diarreas, pérdida de masa muscular, <strong>ideación suicida</strong>, entre otros— propios de fármacos como Ozempic? Estamos hablando de medicamentos originalmente diseñados para tratar la diabetes tipo 2, cuyo uso ahora se ha extendido para alcanzar un estándar corporal.",
-      "zh": "当我们宁愿给健康人用药，只为让他们符合某种纤瘦的审美理想，哪怕要让他们承受Ozempic等药物已记录在案的一长串副作用——恶心、呕吐、腹泻、肌肉流失、自杀意念等——我们究竟建立了一个什么样的社会？我们谈论的是那些最初为治疗II型糖尿病而设计的药物，如今其使用范围已扩展到追求某种体型标准。",
-      "vocab": [
-        {
-          "word": "encajen en",
-          "translation": "符合，契合，嵌入",
-          "note": "固定搭配 encajar en，字面意为嵌入、卡进，引申为符合某种标准或期待：encajar en el molde（符合模板）、encajar en los cánones de belleza（符合审美标准）。常见于社会批评语境，暗含对标准本身的质疑。注意虚拟式用法：para que encajen（为了让他们符合），目的从句中 para que 后必须接虚拟式。"
-        },
-        {
-          "word": "cuyo uso se ha extendido",
-          "translation": "其使用已扩展，其用途已延伸",
-          "note": "cuyo 是关系形容词，表示所属关系，相当于『其……的』，修饰后面的名词：medicamentos cuyo uso se ha extendido（使用范围已扩展的药物）。cuyo/cuya/cuyos/cuyas 需与所修饰名词的性数保持一致，是B2-C1书面语的重要语法点，口语中常被 que + posesivo 替代，但书面语中 cuyo 更精准简洁。"
-        },
-        {
-          "word": "ideación suicida",
-          "translation": "自杀意念",
-          "note": "心理健康领域的重要术语，指产生自杀想法但未必付诸行动。ideación 来自 idea（想法）+ -ción（名词化后缀），指某种想法的反复出现和萦绕，ideación suicida 是药物不良反应报告中的严重警示项。作者将其列入副作用清单，是本文批判力度最强的证据之一，也是推动读者反思的情感高峰。"
-        }
-      ]
-    },
-    {
-      "id": 16,
-      "es": "Convertir la delgadez en un objetivo médico, sin <strong>patología de base</strong>, supone no solo exponer a personas sanas a riesgos graves, sino también convertirla en un privilegio económico: solo quienes pueden <strong>costear</strong> tratamientos tan caros acceden a ellos.",
-      "zh": "在没有基础疾病的情况下，将纤瘦变成一个医疗目标，不仅意味着将健康人暴露于严重风险之中，也意味着将其变成一种经济特权：只有那些能够负担得起如此昂贵治疗费用的人才能获得它。",
-      "vocab": [
-        {
-          "word": "no solo… sino también…",
-          "translation": "不仅……而且……",
-          "note": "递进关联词，是书面语中构建双重论点的核心结构：no solo exponer a riesgos, sino también convertirla en un privilegio（不仅使人暴露于风险，而且将其变成特权）。注意西班牙语中 no solo 后不加逗号，sino también 前加逗号，与英语 not only…but also 结构对应。这一结构在C1写作中是展示论证层次的重要工具。"
-        },
-        {
-          "word": "costear",
-          "translation": "负担……的费用，支付",
-          "note": "比 pagar 更正式，强调经济上的承受能力，常用于讨论医疗、教育等社会议题：no pueden costear la educación privada（负担不起私立教育的费用）、costear un tratamiento（支付治疗费用）。此处 costear tratamientos tan caros 将昂贵药物与经济特权直接挂钩，是本文社会批判的落脚点。"
-        }
-      ]
-    },
-    {
-      "id": 17,
-      "es": "Esto refuerza la idea de que la delgadez es sinónimo de estatus y <strong>perpetúa</strong> una jerarquía corporal donde las personas más gordas quedan marginadas, no por salud, sino por clase. Al final, ser delgado se convierte en un privilegio que <strong>erosiona</strong> la diversidad corporal y profundiza las divisiones sociales.",
-      "zh": "这强化了纤瘦等同于地位的观念，并延续了一种身体等级制度，在这种制度中，较胖的人被边缘化，不是因为健康原因，而是因为阶级。最终，纤瘦变成了一种特权，侵蚀着身体多样性，加深着社会分化。",
-      "vocab": [
-        {
-          "word": "perpetúa",
-          "translation": "使延续，使永久化，固化",
-          "note": "正式书面词，指使某种状态或制度长期维持，常见于社会批评和政治分析文体：perpetuar la desigualdad（使不平等延续）、perpetuar el statu quo（维持现状）、perpetuar estereotipos（固化刻板印象）。比 mantener 更强调主动延续某种不公正结构的含义，带有批判性色彩。"
-        },
-        {
-          "word": "erosiona",
-          "translation": "侵蚀，逐渐削弱",
-          "note": "本义为地质学的侵蚀，引申为对某种价值观、制度或信任的渐进性破坏，新闻和学术文体中常见：erosionar la democracia（侵蚀民主）、erosionar la confianza（逐渐瓦解信任）、erosionar los derechos（蚕食权利）。比 destruir 更强调渐进性和隐蔽性，是描述结构性破坏的精准词汇。"
+          "word": "fortalecer",
+          "translation": "强化，加强，巩固",
+          "note": "由『fuerte（强壮）』派生，后缀『-ecer』表示『使……变得』，同类词如『enriquecer（使丰富）』『debilitar（使削弱）』『establecer（建立）』，构词规律值得掌握。"
         }
       ]
     }
