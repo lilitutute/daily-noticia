@@ -1,0 +1,200 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与地缘政治",
+  "difficulty": "B2-C1",
+  "wordCount": "约800词",
+  "title": "La IA, entre grandes perspectivas y grandes riesgos",
+  "subtitle": "人工智能：巨大前景与巨大风险之间",
+  "resumenEs": "El artículo examina las dos caras de la inteligencia artificial: su enorme potencial transformador en medicina, medio ambiente, educación y ciencia, y su cara oscura como herramienta de manipulación política, desinformación electoral y control social. El autor concluye que, ante estos riesgos, tanto los individuos como la sociedad civil deben fortalecer su pensamiento crítico y exigir una gobernanza transparente de los datos y algoritmos.",
+  "resumenZh": "文章审视了人工智能的两面性：其在医疗、环境、教育和科学领域的巨大变革潜力，以及其作为政治操纵、选举虚假信息和社会控制工具的阴暗面。作者总结认为，面对这些风险，个人和公民社会都必须强化批判性思维，并要求对数据和算法实施透明治理。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "La batalla geopolítica en curso va desde el control de las fuentes energéticas y de los recursos para la innovación tecnológica a la tentación de influenciar las poblaciones para el control del <strong>consenso</strong>. La IA es la tecnología más <strong>disruptiva</strong> y su impacto tiene y tendrá mucho que ver en los procesos geopolíticos. No cabe duda de que tiene dos caras: una positiva y una oscura.",
+      "zh": "正在进行的地缘政治博弈，从争夺能源来源和技术创新资源，延伸到影响民众以控制共识的诱惑。人工智能是最具颠覆性的技术，其影响与地缘政治进程息息相关，且将持续如此。毫无疑问，它有两面：光明的一面和黑暗的一面。",
+      "vocab": [
+        {
+          "word": "tener mucho que ver con",
+          "translation": "与……密切相关",
+          "note": "固定搭配，表示两件事之间关联紧密，口语和书面语均常用。注意原文中的笔误『mucho a que ver』应为『mucho que ver』。反义表达：『no tener nada que ver con（与……毫无关系）』，例：『Eso no tiene nada que ver con lo que dije（那和我说的毫无关系）』。"
+        },
+        {
+          "word": "no cabe duda de que",
+          "translation": "毫无疑问，不容置疑",
+          "note": "C1级正式表达，字面义为『没有容纳怀疑的空间』，『caber』在此作『有余地、有空间』解，固定搭配：『no cabe duda（毫无疑问）』『no cabe la menor duda（连一丝疑问都没有）』，是议论文中引出核心论断的强调句式。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Gracias al <strong>ingenio</strong> humano, la tecnología de la IA bien utilizada es un «multiplicador de fuerza», es decir, en áreas donde antes estábamos <strong>estancados</strong> genera oportunidades verdaderamente transformadoras.",
+      "zh": "得益于人类的智慧，善加利用的人工智能技术是一种『力量倍增器』，也就是说，它在我们此前停滞不前的领域创造出真正具有变革性的机遇。",
+      "vocab": [
+        {
+          "word": "ingenio",
+          "translation": "智慧，创造力，机智",
+          "note": "比『inteligencia』更强调创造性和解决问题的灵活思维，固定搭配：『agudeza e ingenio（机敏与才智）』『ingenio humano（人类智慧）』。同根词：『ingeniero（工程师）』『ingeniería（工程学）』——三个词共享『创造与设计』的语义核心。"
+        },
+        {
+          "word": "estancados",
+          "translation": "停滞不前的，陷入僵局的",
+          "note": "动词『estancarse』本义为水流停止流动形成死水，引申为进展停滞，固定搭配：『estar estancado en（在……方面停滞）』『las negociaciones están estancadas（谈判陷入僵局）』，与『avanzar（推进）』和『progresar（进步）』构成反义关系。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "En la Medicina y en la Salud, la IA permite una medicina mucho más personalizada y rápida, ya que su capacidad para analizar patrones en billones de datos es algo que a un humano le tomaría vidas enteras. También ayudará en el descubrimiento de <strong>fármacos</strong>, diseñando nuevas moléculas y antibióticos en semanas, un proceso que antes tomaba años y miles de millones; y acelerará la <strong>detección precoz</strong> gracias a algoritmos de imagenología que pueden detectar tumores o enfermedades <strong>degenerativas</strong> años antes de que los síntomas sean evidentes.",
+      "zh": "在医学和健康领域，人工智能使医疗更加个性化、更加迅速，因为它分析数万亿数据中规律的能力，是人类穷尽数生都无法完成的。它还将助力药物研发，在数周内设计出新分子和抗生素——这一过程此前需要数年时间和数十亿资金；并将通过影像学算法加速早期检测，能在肿瘤或阿尔茨海默症等退行性疾病出现症状前数年便予以识别。",
+      "vocab": [
+        {
+          "word": "fármacos",
+          "translation": "药物，药品",
+          "note": "比『medicamentos』更正式，多用于科学和医学文献，固定搭配：『descubrimiento de fármacos（药物研发）』『fármacos de última generación（新一代药物）』。同根词：『farmacia（药店/药学）』『farmacéutico（药剂师/制药的）』。"
+        },
+        {
+          "word": "detección precoz",
+          "translation": "早期检测，早发现",
+          "note": "医学高频搭配，『precoz』意为『提前发生的、早熟的』，固定搭配：『diagnóstico precoz（早期诊断）』『intervención precoz（早期干预）』。注意与『prematuro（早产的、过早的）』的区别：『precoz』侧重『比预期早』，『prematuro』侧重『时机未到、不成熟』。"
+        },
+        {
+          "word": "degenerativas",
+          "translation": "退行性的，变性的",
+          "note": "医学形容词，描述组织或器官功能随时间逐渐衰退的疾病类型，固定搭配：『enfermedades degenerativas（退行性疾病）』『proceso degenerativo（退化过程）』。同根词：『degeneración（退化）』『degenerar（退化、堕落）』。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "En el Medio Ambiente y en la Sostenibilidad, la IA implementa la agricultura de precisión con sensores que analizan el suelo y el clima para usar la cantidad exacta de agua y fertilizantes, reduciendo el <strong>desperdicio</strong> y aumentando la producción de alimentos. Además, ayuda a proteger la biodiversidad utilizando sistemas de audio con IA en selvas tropicales para detectar sonidos de motosierras o disparos en tiempo real, <strong>frenando</strong> la deforestación y la caza furtiva.",
+      "zh": "在环境和可持续发展领域，人工智能通过传感器分析土壤和气候，实现精准农业，精确控制水和化肥用量，从而减少浪费、提高粮食产量。此外，它还通过在热带雨林部署AI音频系统，实时探测电锯声或枪声，帮助保护生物多样性，遏制森林砍伐和偷猎行为。",
+      "vocab": [
+        {
+          "word": "desperdicio",
+          "translation": "浪费，废料",
+          "note": "既指抽象的『浪费行为』，也指具体的『废弃物』，固定搭配：『reducir el desperdicio（减少浪费）』『desperdicio alimentario（食物浪费）』『es un desperdicio de tiempo（是浪费时间）』。动词形式：『desperdiciar（浪费）』，近义词：『derroche（挥霍）』。"
+        },
+        {
+          "word": "frenar",
+          "translation": "遏制，刹车，减缓",
+          "note": "本义为踩刹车，引申为阻止某事物的发展势头，固定搭配：『frenar el avance（遏制推进）』『frenar la inflación（抑制通胀）』『frenar en seco（急刹车/戛然而止）』，是新闻报道中描述政策效果的高频动词。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "En el ámbito de la Educación y la accesibilidad, la IA está democratizando el conocimiento de formas antes <strong>impensables</strong>: potencialmente puede crear tutores personalizados que se <strong>adaptan</strong> en el ritmo, el lenguaje y en el estilo de aprendizaje a cada niño del mundo. También ayuda a <strong>romper barreras</strong> para personas con discapacidades, ya que la IA convierte texto en voz, describe imágenes para personas con visión reducida o traduce lengua de señas en tiempo real.",
+      "zh": "在教育和无障碍领域，人工智能正以前所未有的方式普及知识：它有潜力为全球每一个孩子创建个性化辅导，根据每个孩子的节奏、语言和学习风格进行调整。它还帮助打破残障人士的障碍——将文字转化为语音、为视力障碍者描述图像，或实时翻译手语。",
+      "vocab": [
+        {
+          "word": "impensable",
+          "translation": "难以想象的，不可思议的",
+          "note": "由前缀『im-（不）』+『pensable（可以想到的）』构成，固定搭配：『de formas antes impensables（以此前难以想象的方式）』『hace diez años era impensable（十年前是不可想象的）』，是描述技术或社会变革幅度时的高频形容词。"
+        },
+        {
+          "word": "romper barreras",
+          "translation": "打破障碍，突破壁垒",
+          "note": "固定搭配，『romper』在此为比喻义，固定搭配：『romper barreras lingüísticas（打破语言障碍）』『romper con los estereotipos（打破刻板印象）』『romper el hielo（打破僵局/破冰）』，是描述突破性进展的核心动词搭配。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "En Ciencia y descubrimiento, la IA está ayudando a resolver misterios fundamentales de la física y la biología: ha resuelto un problema de 50 años en la biología, prediciendo la forma de casi todas las proteínas conocidas, lo que <strong>acelera</strong> la comprensión de la vida misma, y se usa para <strong>estabilizar</strong> las reacciones de fusión nuclear, <strong>acercándonos a</strong> una fuente de energía infinita y limpia.",
+      "zh": "在科学与发现领域，人工智能正在帮助解开物理学和生物学的基本谜题：它解决了生物学中一个困扰了50年的难题，预测出几乎所有已知蛋白质的结构，从而加速了对生命本身的理解；它还被用于稳定核聚变反应，使我们离无限清洁能源更近一步。",
+      "vocab": [
+        {
+          "word": "acercarnos a",
+          "translation": "使我们更接近……，让我们离……更近",
+          "note": "动词『acercar』的反身用法，表示『使（某人/某事）靠近』，固定搭配：『acercarse a una solución（接近解决方案）』『acercarse a la realidad（贴近现实）』，反义词：『alejarse de（远离）』。注意与『aproximarse a』可互换，但『acercarse』更口语化。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "La IA, abierta y «democrática» puede ser utilizada, con bots y microsegmentación, para <strong>manipular</strong> opiniones. Promete neutralidad pero sus <strong>sesgos</strong> permiten influencia masiva, <strong>incidiendo en</strong> el consenso. Juega, entonces, un rol central en operaciones de influencia política global, facilitando desinformación y manipulación electoral a través de <em>deepfakes</em> y contenido personalizado.",
+      "zh": "人工智能虽然开放且『民主』，却可以借助机器人账号和微定向技术来操纵舆论。它承诺中立，但其内在偏见使大规模影响成为可能，进而干预共识的形成。因此，它在全球政治影响力行动中扮演核心角色，通过深度伪造和个性化内容助长虚假信息和选举操纵。",
+      "vocab": [
+        {
+          "word": "sesgo",
+          "translation": "偏见，偏差，倾向",
+          "note": "本义为布料的斜纹裁剪方向，引申为思维或系统的偏斜倾向，固定搭配：『sesgo cognitivo（认知偏差）』『sesgo de confirmación（确认偏误）』『con sesgo ideológico（带有意识形态偏向）』，是社会科学和AI伦理讨论中的核心词汇。"
+        },
+        {
+          "word": "incidir en",
+          "translation": "影响，作用于，干预",
+          "note": "C1级正式动词，比『afectar a』更强调主动介入和产生效果，固定搭配：『incidir en el resultado（影响结果）』『incidir en la opinión pública（干预公众舆论）』『incidir en un problema（切入问题核心）』，在政论和学术文章中极为常见。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "La IA genera <em>deepfakes</em>, avatares y discursos clonados que simulan <em>endorsements</em> de líderes mundiales. En 2024 y 2025, esta actividad manipuladora ha impactado en el 80% de las elecciones de los países. La manipulación también incluye vídeos falsos, como las imágenes de Biden o Trump en las campañas africanas y asiáticas, o en Rumanía donde se <strong>anularon</strong> los resultados electorales. La <strong>interferencia electoral</strong> permite el <em>hipertargeting</em> y la proliferación de mentiras a escala que <strong>erosiona</strong> la confianza democrática.",
+      "zh": "人工智能生成深度伪造内容、虚拟形象和克隆演讲，模拟世界领导人的背书。2024年和2025年，这种操纵活动影响了全球80%的选举。操纵手段还包括虚假视频，以及罗马尼亚因此撤销选举结果的案例。选举干预使超精准定向投放和大规模谎言扩散成为可能，侵蚀民主互信。",
+      "vocab": [
+        {
+          "word": "anular",
+          "translation": "撤销，宣布无效，废除",
+          "note": "法律和行政高频词，固定搭配：『anular un contrato（撤销合同）』『anular una sentencia（撤销判决）』『anular los resultados（宣布结果无效）』。注意与『cancelar（取消）』的区别：『anular』强调从法律或程序上宣告无效，『cancelar』侧重停止执行。"
+        },
+        {
+          "word": "erosionar",
+          "translation": "侵蚀，逐渐削弱",
+          "note": "本义为地质侵蚀，引申为对抽象事物（信任、权威、价值观）的缓慢削弱，固定搭配：『erosionar la confianza（侵蚀信任）』『erosionar las instituciones（削弱机构权威）』，比『debilitar（削弱）』更强调过程的渐进性和不可逆性。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "China, por ejemplo, integra la IA para controlar su población, la utiliza para su gobernanza, su defensa y también para conseguir una influencia global. En Occidente, la IA <strong>media</strong> influencia al resumir narrativas para decisores, <strong>amplificando</strong> sesgos y <strong>dividiendo</strong> sociedades. Actores maliciosos, estatales o no, automatizan campañas persuasivas de bajo coste y <strong>amenazan</strong> los procesos electorales globales.",
+      "zh": "以中国为例，它将人工智能整合到对本国人口的管控中，用于治理、国防，以及谋求全球影响力。在西方，人工智能通过为决策者梳理叙事框架来中介影响力，放大偏见并分裂社会。无论是国家还是非国家的恶意行为者，都在以低成本自动化运行说服性宣传活动，威胁全球选举进程。",
+      "vocab": [
+        {
+          "word": "actores maliciosos",
+          "translation": "恶意行为者",
+          "note": "地缘政治和网络安全的专业术语，『actor』在此指『行为主体』而非『演员』，固定搭配：『actores estatales（国家行为者）』『actores no estatales（非国家行为者）』『actores maliciosos（恶意行为者）』，是理解国际关系和安全报道的基础词汇。"
+        },
+        {
+          "word": "amplificar",
+          "translation": "放大，扩大，增强",
+          "note": "本义为音频放大，引申为使影响力、效果或声音扩大，固定搭配：『amplificar el mensaje（放大信息）』『amplificar los sesgos（放大偏见）』『amplificar el impacto（扩大影响）』，在媒体和传播学语境中是描述信息扩散效应的核心动词。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Concluyendo, si de una parte la IA es una grandísima oportunidad positiva que tenemos que <strong>aprovechar</strong> en todas las áreas posibles, de la otra el riesgo de ser manipulados es altísimo. Como individuos, tenemos que informarnos utilizando constantemente <strong>varias fuentes</strong>. Debemos <strong>privilegiar</strong> la lectura de los medios que hayan demostrado responsabilidad y credibilidad. Tenemos que reforzar nuestro equilibrio en la evaluación sin <strong>dejarnos llevar por</strong> la polarización.",
+      "zh": "总结而言，一方面人工智能是我们必须在所有可能领域加以利用的巨大积极机遇，另一方面被操纵的风险极高。作为个人，我们必须持续通过多方信源获取信息，优先阅读那些已证明具有责任感和公信力的媒体，并在评判时保持平衡，不被极化情绪裹挟。",
+      "vocab": [
+        {
+          "word": "dejarse llevar por",
+          "translation": "被……裹挟，任由……摆布，随……而去",
+          "note": "固定搭配，描述放弃主动判断、被某种情绪或力量支配的状态，固定搭配：『dejarse llevar por las emociones（被情绪左右）』『dejarse llevar por la corriente（随波逐流）』『no te dejes llevar（不要冲动）』，是描述理性失控的核心表达。"
+        },
+        {
+          "word": "privilegiar",
+          "translation": "优先考虑，给予优先权",
+          "note": "C1级正式动词，比『preferir（更喜欢）』更强调主动赋予某事优先地位，固定搭配：『privilegiar la calidad sobre la cantidad（质量优先于数量）』『privilegiar el diálogo（优先采用对话方式）』，在政策和学术文章中是表达优先级的精准用词。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Finalmente, debemos ejercer nuestra capacidad ética y crítica, nuestro <strong>libre albedrío</strong> y debemos <strong>apostar por</strong> los valores primarios del Derecho como clave de la convivencia. Como sociedad civil, tenemos que <strong>pretender y pedir</strong> a los legisladores una gobernanza de los datos y de los algoritmos que <strong>prioricen</strong> la verificación y la transparencia de la IA.",
+      "zh": "最后，我们必须运用自身的伦理与批判能力、自由意志，并押注于法律的基本价值观，将其作为共同生活的基石。作为公民社会，我们必须向立法者要求并争取对数据和算法的治理，使其将人工智能的核实与透明度置于首位。",
+      "vocab": [
+        {
+          "word": "apostar por",
+          "translation": "押注于，坚定支持，选择……作为方向",
+          "note": "本义为赌博下注，引申为坚定地选择或支持某一方向，固定搭配：『apostar por la innovación（押注创新）』『apostar por el diálogo（选择对话路线）』『apostar fuerte por（大力押注）』，在政治和商业语境中是表达战略选择的高频搭配。"
+        },
+        {
+          "word": "priorizar",
+          "translation": "优先处理，将……置于首位",
+          "note": "动词，固定搭配：『priorizar la seguridad（安全优先）』『priorizar las necesidades（优先满足需求）』，注意虚拟式用法：『que prioricen（要求他们优先……）』——从属动词要求虚拟式，此处是西语语法中『动词+que+虚拟式』结构的典型例证。"
+        }
+      ]
+    }
+  ]
+}

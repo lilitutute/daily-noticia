@@ -1,0 +1,186 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "文化与社会",
+  "difficulty": "C1",
+  "wordCount": "约900词",
+  "title": "La ensalada eficiente y el comprador misterioso",
+  "subtitle": "高效沙拉与神秘顾客",
+  "resumenEs": "El autor narra su experiencia como cajero en una cadena de comida rápida saludable en Londres, donde debía repetir frases de un guion con sonrisa obligatoria bajo la vigilancia de un 'comprador misterioso'. A través de este episodio, reflexiona sobre las dinámicas del capitalismo de vigilancia: primero como empleado vigilado, luego como consumidor que vigila a otros mediante reseñas digitales. La ensalada de kale se convierte en símbolo de una clase trabajadora que ha convertido la pausa del almuerzo en otra extensión del tiempo productivo.",
+  "resumenZh": "作者讲述了自己在伦敦一家健康快餐连锁店做收银员的经历：他必须按照剧本重复固定台词，带着强制性的微笑，接受『神秘顾客』的监视。通过这段插曲，他反思了监控资本主义的逻辑：先是作为被监视的员工，后来又成为通过数字评价监视他人的消费者。羽衣甘蓝沙拉由此成为一个符号，象征着一个将午餐休息时间也变成生产性时间延伸的劳动阶层。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Los ricos, al terminar la universidad, no tienen prisa por encontrar un trabajo, así que se dedican a encontrarse a sí mismos. Se toman un año sabático. Yo no soy rico, pero cuando finalicé los estudios estaba bastante perdido, así que me tomé un año lunático, marcial, mercurial, jovial y ligeramente venéreo. Me fui al extranjero a trabajar, vaya. Llegué a Londres y empecé a <strong>encadenar</strong> trabajos precarios por aquello de vivir la experiencia. Así fue como acabé de cajero en una de estas cadenas de comida rápida pero saludable, el tipo de lugar donde te venden una ensalada de kale con pollo por 12 euros. Era algo así como el Happy meal de la sad people, un menú hipocalórico e hiperpráctico, ideal para funcionarios de mediana edad.",
+      "zh": "富人大学毕业后不急着找工作，而是专注于寻找自我，给自己放一年假。我不富裕，但毕业时相当迷茫，于是给自己放了一年『月亮假、火星假、水星假、木星假，以及略带金星色彩的假』——总之就是出国打工了。我来到伦敦，开始一份接一份地干着不稳定的工作，美其名曰体验生活。就这样，我最终成了一家健康快餐连锁店的收银员，那种12欧元卖你一份羽衣甘蓝鸡肉沙拉的地方。那里卖的大概是『悲伤人士快乐餐』，一份低卡路里、超实用的套餐，专为中年公务员量身定制。",
+      "vocab": [
+        {
+          "word": "encadenar",
+          "translation": "一个接一个地（做），串联",
+          "note": "本义为『用链条锁住』，引申为将多件事情连续串联起来，固定搭配：『encadenar trabajos（一份接一份地换工作）』『encadenar victorias（连续取得胜利）』『encadenar fracasos（接连遭遇失败）』，这个动词的比喻义暗示一种被动的、身不由己的连续状态，与『trabajo precario（不稳定工作）』搭配尤为传神。"
+        },
+        {
+          "word": "año lunático / marcial / mercurial / jovial / venéreo",
+          "translation": "月亮之年／火星之年／水星之年／木星之年／金星之年",
+          "note": "作者在此玩了一个文字游戏：西语中一周七天源自七大天体命名，『lunes（周一）』←luna（月亮）、『martes（周二）』←Marte（火星）、『miércoles（周三）』←Mercurio（水星）、『jueves（周四）』←Júpiter（木星）、『viernes（周五）』←Venus（金星），『ligeramente venéreo（略带金星色彩）』则是双关——『venéreo』既指金星，也指『性欲的』，暗示年轻时的放纵，是典型的C1级文字幽默。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "En su libro <em>Falso Espejo</em>, la periodista Jia Tolentino describe a la perfección estos lugares como un <strong>abrevadero</strong> de profesionales <strong>hastiados</strong> que no disponen del tiempo ni de las ganas para cocinar, ni siquiera para cortar un alimento, pues necesitan una mano libre mientras comen para <strong>trastear</strong> con el móvil y seguir activos en un trabajo que les permite, en primer lugar, pagar una ensalada de kale con pollo a 12 euros.",
+      "zh": "记者贾·托伦蒂诺在她的《假镜子》一书中，将这类地方精准地描述为精疲力竭的职场人的『饮水槽』——他们既没时间也没心思做饭，甚至连切食物都嫌麻烦，因为吃饭时必须腾出一只手刷手机、继续在工作中保持在线，而正是这份工作让他们首先有能力花12欧元买一份羽衣甘蓝鸡肉沙拉。",
+      "vocab": [
+        {
+          "word": "abrevadero",
+          "translation": "饮水槽，牲畜饮水处（此处为比喻）",
+          "note": "本义为供牲畜饮水的水槽或水坑，作者借用此词将精疲力竭的职场人比作需要补充能量的牲畜，比喻中带有强烈的讽刺意味，暗示这些人的进食行为已失去了人的仪式感，沦为纯粹的生理补给，是C1级隐喻用法的典型示例。"
+        },
+        {
+          "word": "hastiado",
+          "translation": "厌倦的，心灰意冷的，感到腻烦的",
+          "note": "形容词，来自动词『hastiar（使厌倦）』，比『cansado（累的）』更强调精神层面的倦怠和对现状的厌恶，固定搭配：『hastiado de la rutina（对日常感到厌倦）』『hastiado de la vida（对生活感到厌倦）』，近义词：『harto（受够了的）』『aburrido（无聊的）』，但『hastiado』语气更深沉、更文学化。"
+        },
+        {
+          "word": "trastear con",
+          "translation": "摆弄，鼓捣，随手翻看",
+          "note": "口语化动词，指漫无目的地摆弄或操作某物，固定搭配：『trastear con el móvil（刷手机、摆弄手机）』『trastear con los cables（摆弄电线）』，带有『心不在焉、无目的性』的语感，与『usar（使用）』的主动专注形成对比，精准捕捉了现代人机械刷手机的状态。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Dice Tolentino que \"una eficiente sesión mecánica de ingestión de ensalada, llevada a cabo de tal manera que no hay por qué dejar de enviar mails, es sinónimo de una buena vida\". Significa progreso, <strong>optimización</strong> del tiempo, un ritual profesional. Yo viví aquella experiencia desde el otro lado del mostrador. A la hora de comer aparecían decenas de oficinistas, creando una ordenada <strong>estampida</strong>.",
+      "zh": "托伦蒂诺说：『一场高效的机械式沙拉摄入，以一种无需停止发邮件的方式进行，就是美好生活的同义词。』它意味着进步、时间优化、一种职业仪式。我从柜台的另一侧亲历了这一切。午餐时间，数十名办公室职员涌入，形成一场井然有序的踩踏。",
+      "vocab": [
+        {
+          "word": "optimización",
+          "translation": "优化，效率最大化",
+          "note": "名词，来自动词『optimizar（优化）』，在商业和科技语境中指将某一流程或资源调整至最高效状态，固定搭配：『optimización del tiempo（时间优化）』『optimización de recursos（资源优化）』，作者在此带有讽刺意味地使用这个词，暗示现代人连吃饭都要『优化』，折射出效率至上的职场文化对日常生活的殖民。"
+        },
+        {
+          "word": "estampida",
+          "translation": "踩踏，兽群奔逃，（人群的）蜂拥",
+          "note": "本义为牲畜受惊后集体奔逃，引申为人群的突然涌动，固定搭配：『salir en estampida（蜂拥而出）』『provocar una estampida（引发踩踏）』，作者用『ordenada estampida（井然有序的踩踏）』制造了一个矛盾修辞（oxímoron），将办公室职员比作受惊的牲畜，与上文的『abrevadero』形成呼应，强化了对职场文化的讽刺。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Yo repetía las frases que me había aprendido en el guion del empleado. <em>Good morning sir! Eat in or take away? Anything else? Thank you, sir, have a great day.</em> Las únicas variaciones que se permitían eran cambiar el <em>sir</em> por el <em>madam</em> según el género del cliente y el <em>morning</em> por <em>afternoon</em> según la hora. Cualquier otro cambio podía ser <strong>penalizado</strong>. Repetía estas frases con una <strong>letanía</strong> cacatúa. Lo hacía con una sonrisa <strong>anfetamínica</strong> que no iba dirigida a nadie en particular, pues normalmente los clientes ni siquiera me miraban a la cara.",
+      "zh": "我重复着从员工剧本上背下来的台词：早上好先生！堂食还是外带？还需要别的吗？谢谢您，先生，祝您有美好的一天。唯一允许的变化是根据顾客性别将『先生』换成『女士』，根据时间将『早上』换成『下午』。任何其他改动都可能受到处罚。我像鹦鹉学舌般背诵着这些台词，带着一副安非他命式的微笑——那笑容并不针对任何人，因为顾客通常连正眼都不看我一眼。",
+      "vocab": [
+        {
+          "word": "letanía",
+          "translation": "连祷文，冗长的重复，喋喋不休",
+          "note": "本义为天主教礼拜中反复吟诵的祈祷文，引申为令人厌倦的机械重复，固定搭配：『una letanía de quejas（一连串的抱怨）』『repetir como una letanía（像念经一样重复）』，作者用『letanía cacatúa（鹦鹉式的连祷）』将两个比喻叠加，既有宗教仪式的机械感，又有鹦鹉学舌的无意识感。"
+        },
+        {
+          "word": "anfetamínico",
+          "translation": "安非他命式的，亢奋的，人工刺激出的",
+          "note": "由『anfetamina（安非他命，一种兴奋剂）』派生的形容词，指一种非自然的、药物刺激般的过度亢奋状态，作者用『sonrisa anfetamínica（安非他命式的微笑）』描述被强制要求保持的假笑，暗示这种职业性的热情是一种人工合成的、不真实的状态，是C1级极具表现力的造词用法。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Pero un día, una oficinista se salió del guion y me preguntó con cierto <strong>desdén</strong> por qué tanta felicidad <strong>impostada</strong>. Uno no sabe cómo va a reaccionar ante un <strong>glitch de Matrix</strong>. Pensé en ignorarla y preguntar, literal, que si quiere bolsa, señora. También estuve tentado de mandarla a la mierda, la verdad. Al final decidí que no había mejor respuesta que la verdad.",
+      "zh": "但有一天，一位女性办公室职员打破了剧本，带着几分轻蔑地问我为什么要装出这么多快乐。面对《黑客帝国》里的程序漏洞，人不知道自己会如何反应。我想过无视她，直接问她要不要袋子。说实话，我也动过让她滚的念头。最终我决定，没有比说实话更好的回应了。",
+      "vocab": [
+        {
+          "word": "desdén",
+          "translation": "轻蔑，鄙视，冷淡",
+          "note": "名词，指对某人或某事表现出的轻视和不屑，固定搭配：『con desdén（轻蔑地）』『mostrar desdén（表现出轻蔑）』『tratar con desdén（轻蔑地对待）』，形容词形式：『desdeñoso（轻蔑的）』，动词形式：『desdeñar（轻视、不屑）』，比『desprecio（蔑视）』语气稍轻，更强调冷淡和漠然。"
+        },
+        {
+          "word": "impostada",
+          "translation": "装出来的，伪装的，不真实的",
+          "note": "形容词，来自动词『impostar（伪装、做作）』，本为声乐术语，指刻意调整嗓音，引申为一切刻意伪装的情感或态度，固定搭配：『voz impostada（做作的声音）』『felicidad impostada（装出来的快乐）』『sonrisa impostada（假笑）』，是描述职场表演性文化的精准词汇。"
+        },
+        {
+          "word": "glitch de Matrix",
+          "translation": "《黑客帝国》里的程序漏洞（比喻：现实出现裂缝的瞬间）",
+          "note": "『glitch』为英语借词，指系统故障或程序漏洞，在电影《黑客帝国》中，『glitch』指矩阵程序出现重复或异常的瞬间，暗示虚假现实的破绽，作者用此比喻描述顾客突然偏离『剧本』的时刻，是当代西语中融合英语网络文化词汇的典型用法，体现了C1级语言的文化互文性。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "\"Porque nos están vigilando\", le <strong>susurré</strong> mirando <strong>subrepticiamente</strong> hacia los lados. Y pasé a contarle que entre todos los oficinistas hastiados e intercambiables había un infiltrado. Era el comprador misterioso, una persona contratada por nuestra empresa que nos evaluaba una vez por semana. Comprobaba que dijéramos nuestras frases en la <strong>literalidad</strong> del guion, que sonriéramos y nos mostráramos felices y serviciales. Si lo hacíamos, nos mantenía un bonus económico, una libra a la hora esa semana. Si uno solo de nosotros no cumplía, retiraba el bonus a toda la <strong>plantilla</strong>.",
+      "zh": "『因为有人在监视我们，』我一边偷偷向两侧张望，一边低声说。然后我告诉她，在所有那些疲惫而可以互换的办公室职员中，藏着一个卧底。那就是神秘顾客——一个由公司雇来每周评估我们的人。他检查我们是否逐字背诵剧本台词，是否微笑，是否表现得快乐而热情。如果做到了，我们就能保住那周每小时一英镑的奖金；如果其中一个人没做到，整个员工团队的奖金都会被取消。",
+      "vocab": [
+        {
+          "word": "subrepticiamente",
+          "translation": "偷偷地，鬼鬼祟祟地",
+          "note": "副词，来自形容词『subrepticio（偷偷摸摸的）』，源自拉丁语『surripere（偷取）』，指以隐秘、不让人察觉的方式行动，固定搭配：『mirar subrepticiamente（偷偷张望）』『salir subrepticiamente（悄悄溜走）』，比『a escondidas（躲着）』更正式，带有一种刻意隐藏意图的主动性。"
+        },
+        {
+          "word": "literalidad",
+          "translation": "字面意思，逐字逐句",
+          "note": "名词，指严格按照文字本身的含义，不做任何引申或变通，固定搭配：『en la literalidad del guion（严格按照剧本的字面）』『respetar la literalidad（遵守字面规定）』，形容词形式：『literal（字面的）』，副词形式：『literalmente（字面上地，也常用于口语夸张）』。"
+        },
+        {
+          "word": "plantilla",
+          "translation": "全体员工，员工编制",
+          "note": "在劳动关系语境中指一家公司的全体在编员工，固定搭配：『reducir la plantilla（裁员）』『ampliar la plantilla（扩招）』『toda la plantilla（全体员工）』，注意与『personal（人员）』的区别：『plantilla』更强调编制和整体，『personal』更泛指人员构成。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Expliqué todo esto a la clienta <strong>impertinente</strong>, que recogió su pedido y se quedó mirándome unos segundos eternos. Parecía una gran conversación, aquel silencio. \"Have a great day, madam!\", le grité, volviendo a mi papel. No volví a verla. Igual decidió <strong>boicotear</strong> a mi empresa, un empático acto de solidaridad. Puede que abandonara su rutina de <strong>rumiar</strong> ensalada y contestar emails en su hora de descanso. El caso es que aquella semana no recibimos el bonus por mi culpa. Nunca lo supe, pero sospecho que el comprador misterioso escuchó mi <strong>perorata</strong>.",
+      "zh": "我把这一切解释给这位冒失的顾客听，她取了餐，盯着我看了几秒，那几秒漫长得像永恒。那段沉默，像是一场重要的对话。『祝您有美好的一天，女士！』我大声喊道，重新回到自己的角色。我再也没见过她。也许她决定抵制我们公司，那是一种充满同理心的声援行为。也许她放弃了在休息时间一边嚼沙拉一边回邮件的惯例。总之，那周因为我的缘故，我们没有拿到奖金。我从来不知道真相，但我怀疑神秘顾客听到了我的长篇大论。那周之后，我辞掉了那份工作，回到了马德里。",
+      "vocab": [
+        {
+          "word": "rumiar",
+          "translation": "反刍，（此处）机械地咀嚼；（引申）反复思考",
+          "note": "本义为牛羊等反刍动物将食物重新咀嚼，引申为两个方向：一是像本文一样描述机械、无意识的进食行为；二是指反复思考某件事，固定搭配：『rumiar una idea（反复琢磨一个想法）』『rumiar el fracaso（反复回味失败）』，作者用『rumiar ensalada（嚼沙拉）』将职场人比作反刍动物，与『abrevadero』『estampida』共同构成全文的动物隐喻体系。"
+        },
+        {
+          "word": "perorata",
+          "translation": "长篇大论，喋喋不休的演说",
+          "note": "带有贬义色彩的名词，指冗长、令人厌倦的独白或演讲，固定搭配：『soltar una perorata（发表一通长篇大论）』『aguantar la perorata（忍受喋喋不休）』，比『discurso（演讲）』多了一层『自说自话、令人不耐烦』的语感，作者用此词自嘲，暗示自己对顾客的那番话既真诚又有些失控。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Han pasado más de 15 años de aquella historia y hoy me encuentro al otro lado del mostrador. Mientras espero paciente en la cola para hacerme con mi ensalada de kale con pollo, tengo la sensación de que las dinámicas tóxicas del capitalismo se han multiplicado desde entonces. Hoy no hacen falta compradores misteriosos, todos participamos en la <strong>economía de vigilancia</strong> gracias a aplicaciones como Google Review. Valoramos en una escala de estrellitas el trabajo ajeno. Echar un vistazo a las reseñas es <strong>asomarse a</strong> un <strong>repositorio</strong> de pequeños dramas, ajustes de cuentas con camareros que igual no tuvieron su mejor día. Que dejaron de sonreír.",
+      "zh": "那段往事已过去十五年有余，如今我站到了柜台的另一边。当我耐心排队等着买我的羽衣甘蓝鸡肉沙拉时，我感觉资本主义的毒性逻辑自那以后已经成倍扩张。如今不再需要神秘顾客，我们所有人都借助Google评价等应用参与了监控经济。我们用星级评分来评判他人的劳动。翻看评论，就像窥视一个存放着无数小型戏剧的仓库——那些与服务员算账的评论，那些服务员也许只是没有迎来状态最好的一天，只是停止了微笑。",
+      "vocab": [
+        {
+          "word": "asomarse a",
+          "translation": "探头看，窥视，一瞥",
+          "note": "本义为把头探出窗外向外看，引申为对某个领域或情境的初步窥探，固定搭配：『asomarse a la ventana（探头望向窗外）』『asomarse al abismo（俯瞰深渊）』『asomarse a una realidad（窥见某种现实）』，作者用『asomarse a un repositorio de pequeños dramas』将翻看评论比作探头窥视，动词选择极为精准。"
+        },
+        {
+          "word": "ajuste de cuentas",
+          "translation": "算账，清算，报复",
+          "note": "固定搭配，本义为结清账目，引申为对过去积怨的清算或报复，固定搭配：『ajuste de cuentas entre bandas（帮派火并）』『es un ajuste de cuentas（这是在算旧账）』，作者用此词描述网络差评行为，暗示这些评论并非客观反馈，而是带有个人情绪的报复性行为。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Tengo suerte de que en mi trabajo no haya un entrevistado misterioso, nadie me paga un extra por <strong>impostar</strong> una felicidad que no siento. Hoy tengo más que ver con aquellos <strong>pretéritos</strong> oficinistas, comparto con ellos esa obsesión por la comida eficiente, por la ensalada preparada como objeto <strong>totémico</strong> del trabajo de cuello blanco. La pausa de la comida se ha convertido en un espacio para avanzar trabajo, para <strong>disociarse</strong> en el feed de Instagram, para comprar, consumir. Para optimizar. Es la otra cara de la misma moneda.",
+      "zh": "我很幸运，我的工作里没有神秘面试官，没有人为我装出感受不到的快乐而额外付钱。如今的我与那些昔日的办公室职员更为相似，我与他们共享着对高效饮食的执念，对那份作为白领工作图腾之物的现成沙拉的执念。午餐休息时间已经变成了推进工作的空间，在Instagram信息流中解离的空间，购物、消费的空间。优化的空间。这是同一枚硬币的另一面。",
+      "vocab": [
+        {
+          "word": "pretéritos",
+          "translation": "过去的，昔日的，已逝的",
+          "note": "形容词，在语法中指『过去时』，作为普通形容词时意为『属于过去的』，比『pasados（过去的）』更具文学色彩，固定搭配：『tiempos pretéritos（往昔岁月）』『glorias pretéritas（昔日荣光）』，作者用『pretéritos oficinistas』而非『antiguos oficinistas』，语气中带有一种对那段岁月的审视距离。"
+        },
+        {
+          "word": "totémico",
+          "translation": "图腾式的，具有象征意义的",
+          "note": "来自人类学术语『tótem（图腾）』，指某个群体赋予特定物品以身份认同和象征意义，作者将沙拉称为『objeto totémico del trabajo de cuello blanco（白领工作的图腾之物）』，意指这份沙拉已不仅是食物，而是一种阶层身份和生活方式的象征符号，是C1级隐喻思维的典型运用。"
+        },
+        {
+          "word": "disociarse",
+          "translation": "解离，与现实脱节，精神游离",
+          "note": "动词，本为心理学术语，指意识与当下环境或自身感受的分离，引申为在某种活动中精神游离、心不在焉，固定搭配：『disociarse de la realidad（与现实脱节）』，作者用『disociarse en el feed de Instagram（在Instagram信息流中解离）』，精准描述了现代人用刷手机逃避当下的心理状态。"
+        }
+      ]
+    }
+  ]
+}
