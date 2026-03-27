@@ -1,0 +1,106 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "国际时事与人道主义",
+  "difficulty": "C1",
+  "wordCount": "约450词",
+  "title": "Cada cinco minutos muere un niño de hambre",
+  "subtitle": "每五分钟，一个孩子死于饥饿",
+  "resumenEs": "Un informe de la ONU revela que en 2024 murieron 4,9 millones de niños menores de cinco años por causas prevenibles, con al menos 100.000 casos documentados de hambre aguda. El artículo denuncia que este fracaso no es inevitable: los avances logrados entre 2000 y 2015 demuestran que la solución existe. El problema es político: los recortes en ayuda al desarrollo, liderados por el cierre de USAID bajo Trump, están revirtiendo décadas de progreso.",
+  "resumenZh": "联合国一份报告显示，2024年全球有490万名五岁以下儿童死于可预防的原因，其中有据可查的严重饥饿案例至少达10万例。文章指出，这一失败并非不可避免：2000年至2015年间取得的进展证明解决方案是存在的。问题在于政治层面：以特朗普政府关闭美国国际开发署为代表的发展援助削减，正在逆转数十年来的进步。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Las cifras de niños muertos en 2024, las últimas disponibles, por hambre extrema y otras causas derivadas de la pobreza, reveladas por Naciones Unidas, deberían por sí solas provocar un escándalo mundial y forzar la restauración inmediata de la ayuda al desarrollo por parte de todos los países que la han reducido o suprimido siguiendo el <strong>nefasto</strong> ejemplo de EE UU. Este auténtico fracaso mundial es la demostración de las consecuencias mortales que tiene la <strong>demagogia</strong> política aplicada contra los más <strong>indefensos</strong>. De acuerdo con el informe del Grupo Interinstitucional de la ONU para la Estimación de la Mortalidad en la Niñez, en 2024 unos 4,9 millones de niños menores de cinco años murieron en todo el mundo por causas perfectamente prevenibles. De ellos, casi la mitad fallecieron antes de cumplir los 28 días de vida. Hay al menos 100.000 casos anuales documentados de hambre aguda. Es decir, cada cinco minutos —poco más de lo que se tarda en leer este texto— un niño o niña menor de cinco años morirá de hambre. Para Unicef, se trata de una situación crítica para la infancia comparable a la de la Segunda Guerra Mundial.",
+      "zh": "联合国公布的2024年儿童死亡数据——目前最新可用数据——显示，大量儿童因极度饥饿及其他贫困相关原因死亡。这些数字本身就应在全球引发轩然大波，并迫使所有已削减或中止发展援助的国家立即恢复援助，这些国家正在效仿美国这一有害先例。这一真实存在的全球性失败，正是将政治民粹主义施加于最弱势群体所带来的致命后果的明证。根据联合国儿童死亡率估算机构间小组的报告，2024年全球约有490万名五岁以下儿童死于完全可以预防的原因。其中近一半在出生后28天内便已夭折。每年有至少10万例严重饥饿案例有据可查。也就是说，每隔五分钟——大约就是读完这篇文章所需的时间——就有一名五岁以下的儿童死于饥饿。联合国儿童基金会认为，这是自第二次世界大战以来儿童所面临的最严峻危机。",
+      "vocab": [
+        {
+          "word": "nefasto",
+          "translation": "有害的，灾难性的，恶劣的",
+          "note": "语气比『malo』强烈得多，带有强烈的道德谴责色彩，常用于评论文体中批评某人的决策或行为。近义词按语气由弱到强：『malo → perjudicial → nefasto → funesto』，写作时选用『nefasto』可显著提升表达力度。"
+        },
+        {
+          "word": "demagogia",
+          "translation": "民粹主义，煽动性政治",
+          "note": "源自希腊语『demos』（人民）和『agogos』（引导），指以迎合情绪而非理性论据来操控民众的政治手段。对应形容词『demagógico』、名词『demagogo』（民粹煽动者），三个词需一并记忆，在政治评论中成组出现。"
+        },
+        {
+          "word": "indefensos",
+          "translation": "无力自保的，毫无防御能力的",
+          "note": "前缀『in-』（否定）加『defenso』（受保护的），构词逻辑直接。注意固定表达『los más indefensos』在社会评论中专指社会中最脆弱的群体，与『los más vulnerables』近义但『indefensos』更强调完全无力抵抗的状态。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "La mayor parte de la ayuda al desarrollo está <strong>denigrada</strong>, estigmatizada y suspendida. No es casualidad que dos de las regiones más empobrecidas del planeta, África subsahariana y Asia meridional, concentren el 80% de los fallecimientos. Sin <strong>atisbo</strong> de esperanza alguno, los estudios advierten que, de continuar esta tendencia, más de 27 millones de niños morirán en los próximos cuatro años antes siquiera de cumplir un mes de vida. Lo verdaderamente escandaloso es que esto no sucede por una dinámica imposible de frenar. Al contrario. Los mayores avances en el mundo en la lucha contra la mortalidad infantil se dieron entre los años 2000 y 2015, cuando se realizó un gran esfuerzo, serio, coordinado, planificado y financiado para empezar el siglo XXI combatiendo esta situación <strong>inconcebible</strong>, en la que las víctimas no sobreviven a enfermedades y problemas sanitarios perfectamente superables.",
+      "zh": "大部分发展援助正遭到诋毁、污名化和暂停。撒哈拉以南非洲和南亚这两个全球最贫困的地区集中了80%的死亡案例，这绝非偶然。毫无希望的迹象表明，研究警告称，若这一趋势持续下去，未来四年将有逾2700万名儿童在未满一个月大时便已离世。真正令人震惊的是，这一切并非源于某种无法遏制的必然规律，恰恰相反。全球在对抗儿童死亡率方面取得最大进展的时期是2000年至2015年，彼时各方付出了严肃、协调、有计划、有资金支持的巨大努力，以在21世纪之初向这一难以想象的处境宣战——在这种处境中，受害者因完全可以克服的疾病和卫生问题而无法存活。",
+      "vocab": [
+        {
+          "word": "denigrada",
+          "translation": "被诋毁的，被贬低的",
+          "note": "来自动词『denigrar』，固定搭配为『denigrar a alguien/algo』，意为通过言论损害某人或某事物的名誉。注意与『ignorar』（忽视）的区别：『denigrar』是主动攻击名誉，而非单纯漠视。文中与『estigmatizada』（被污名化的）并列，语气层层递进。"
+        },
+        {
+          "word": "atisbo",
+          "translation": "一丝，一点迹象",
+          "note": "固定搭配：『sin atisbo de + 名词』意为『没有丝毫……的迹象』，是书面语中表达『完全没有』的强调句式，比『sin ningún』更具文学色彩。常见搭配：『sin atisbo de esperanza』（毫无希望）、『sin atisbo de duda』（毫无疑问）。"
+        },
+        {
+          "word": "inconcebible",
+          "translation": "难以想象的，不可思议的",
+          "note": "前缀『in-』（否定）加『concebible』（可以想象的），后者来自动词『concebir』（构想、孕育）。注意『concebir』是一词多义动词：既可指『构想一个想法』，也可指『怀孕』，阅读时需根据语境判断。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "¿Qué ha cambiado? Primero, una dinámica de recortes en la ayuda oficial al desarrollo en el mundo desarrollado <strong>escudándose</strong> en la crisis económica; la <strong>deriva</strong>, liderada por Trump, de convertir las relaciones internacionales en un mero negocio, y, finalmente, el empeoramiento de las causas objetivas en las zonas más vulnerables con problemas derivados del cambio climático y conflictos armados. El <strong>golpe de gracia</strong> ha sido el devastador cierre de la agencia de cooperación estadounidense (USAID) ordenado por Trump en julio del año pasado con el argumento del ahorro, mientras <strong>multiplicaba</strong> el gasto en defensa.",
+      "zh": "发生了什么变化？首先，发达国家以经济危机为借口，形成了削减官方发展援助的惯性；其次，以特朗普为首，将国际关系简化为纯粹商业交易的偏离；最后，最脆弱地区的客观条件因气候变化和武装冲突引发的问题而持续恶化。致命一击是特朗普去年7月下令关闭美国国际开发署（USAID）——以节省开支为由，与此同时却大幅增加国防支出。",
+      "vocab": [
+        {
+          "word": "escudándose",
+          "translation": "以……为借口，躲在……后面",
+          "note": "来自『escudarse en algo』，字面意为『用某物当盾牌』，引申为以某种理由为自己的行为开脱。这是一个带有明显负面评价色彩的动词，暗示理由是虚假或不充分的，与中性的『basándose en』（基于）形成对比，写作时选用『escudarse』可传达批评立场。"
+        },
+        {
+          "word": "deriva",
+          "translation": "偏离，漂移，失控的走向",
+          "note": "来自动词『derivar』（偏离、漂流），名词『deriva』在政治评论中指某种政策或趋势逐渐偏离正轨的过程，固定表达『a la deriva』意为『随波逐流、失去方向』，如『un país a la deriva』（一个失去方向的国家）。"
+        },
+        {
+          "word": "golpe de gracia",
+          "translation": "致命一击，最后一击",
+          "note": "源自法语，字面意为『仁慈之击』（指结束痛苦的最后一击），在西语中已完全固定为成语，意为彻底摧毁某事物的最后一击。注意这是固定短语，不可拆分改写，在新闻评论中用于强调某一事件的决定性破坏作用。"
+        },
+        {
+          "word": "multiplicaba",
+          "translation": "大幅增加，成倍增长",
+          "note": "『multiplicar』本义为数学上的乘法，引申为使某物大幅增加。注意与『aumentar』（增加）的语气差异：『multiplicar』暗示增幅极大，带有强调色彩，在此处与『ahorro』（节省）形成讽刺性对比，是作者刻意选词以强化批评力度的体现。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "El problema está, pues, perfectamente identificado, y la solución ha sido <strong>ensayada</strong> con éxito en el pasado. Sobre quienes tienen en su mano la ayuda al desarrollo y la niegan <strong>recae</strong> una gran parte de responsabilidad en esta tragedia silenciosa que <strong>asola</strong> el planeta.",
+      "zh": "问题已被清晰地识别，解决方案也曾在过去成功付诸实践。那些掌握着发展援助的决定权却选择拒绝的人，对这场肆虐全球的无声悲剧负有重大责任。",
+      "vocab": [
+        {
+          "word": "ensayada",
+          "translation": "经过检验的，曾经实践过的",
+          "note": "『ensayar』最常见的含义是『排练、演练』，但在此处意为『尝试、付诸实践』。同族名词『ensayo』同样有两个核心含义：①排练；②文章、随笔（如『ensayo literario』）。这是西语学习者必须掌握的一词多义词。"
+        },
+        {
+          "word": "recae",
+          "translation": "落在……身上，由……承担",
+          "note": "固定搭配『recaer sobre/en alguien』意为『责任归于某人』，是表达责任归属的书面语高频表达。注意句子结构：本文采用倒装『sobre quienes... recae una gran parte de responsabilidad』，将责任主体前置以强调，是新闻评论中常见的修辞手法。"
+        },
+        {
+          "word": "asola",
+          "translation": "蹂躏，肆虐，使满目疮痍",
+          "note": "来自动词『asolar』，意为彻底摧毁或肆虐某地，语气极强，多用于描述战争、疾病、灾难等对大范围地区造成的毁灭性破坏。近义词『devastar』语气相当，但『asolar』在文学和新闻评论中更具古典色彩，常见搭配：『una epidemia que asola la región』（肆虐该地区的疫情）。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "健康与营养",
+  "difficulty": "B2",
+  "wordCount": "约700词",
+  "title": "Hambre hedónica: qué es y cómo combatirla para vivir más",
+  "subtitle": "享乐性饥饿：什么是享乐性饥饿，如何对抗它以延长寿命",
+  "resumenEs": "La mala nutrición es la principal causa de muerte en el mundo. Frente al hambre homeostática, que responde a necesidades biológicas reales, el hambre hedónica nos impulsa a comer por placer o por factores emocionales y culturales. Combatirla requiere estrategias personalizadas, buenos hábitos desde la infancia y un entorno que favorezca elecciones alimentarias saludables.",
+  "resumenZh": "营养不良是全球首要死亡原因。与响应真实生理需求的稳态性饥饿不同，享乐性饥饿驱使我们为了愉悦或受情绪、文化因素影响而进食。对抗它需要个性化策略、从童年起养成良好习惯，以及有利于健康饮食选择的生活环境。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Según el Estudio de la Carga Global de Enfermedades, el análisis más completo de las causas de muerte, la principal causa de muerte en los Estados Unidos y en todo el mundo es la mala nutrición. Cada año, las dietas poco saludables nos quitan cientos de millones de años de vida sin <strong>discapacidades</strong>.",
+      "zh": "根据全球疾病负担研究——迄今最全面的死因分析——美国乃至全球的首要死亡原因是营养不良。每年，不健康的饮食使我们损失数亿个无残障生命年。",
+      "vocab": [
+        {
+          "word": "discapacidades",
+          "translation": "残障，功能障碍",
+          "note": "前缀『dis-』表示『缺失、异常』，可构成大量西语词汇，如『disfunción』（功能障碍）、『dismorfia』（体像障碍），掌握这一前缀有助于推断同类词汇的含义。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Así lo <strong>subraya</strong> Michael Greger, miembro fundador del American College of Lifestyle Medicine, médico y autor del nuevo libro Cómo no envejecer (Baldini+Castoldi).",
+      "zh": "迈克尔·格雷格如此强调道，他是美国生活方式医学学会创始成员、医生，也是新书《如何不衰老》（Baldini+Castoldi出版社）的作者。",
+      "vocab": [
+        {
+          "word": "subraya",
+          "translation": "强调，着重指出",
+          "note": "『subrayar』本义为『在文字下划线』，引申为『强调某一观点』，与『destacar』和『recalcar』近义，但『subrayar』更常用于转述权威人士的核心论点，书面语色彩较强。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Pero, como nos recuerda el estudioso, nunca es demasiado tarde para adoptar un estilo de vida saludable. Por ejemplo, realizar cambios entre los 40 y los 64 años (como caminar 20 minutos al día, no fumar y comer 5 porciones de fruta y verdura diariamente) puede reducir el riesgo de <strong>mortalidad</strong> en un 40% en los próximos cuatro años.",
+      "zh": "但正如这位学者所提醒的，采取健康的生活方式永远不嫌晚。例如，在40至64岁之间做出改变（如每天步行20分钟、不吸烟、每天食用5份蔬果）可以在未来四年内将死亡风险降低40%。",
+      "vocab": [
+        {
+          "word": "mortalidad",
+          "translation": "死亡率，致死性",
+          "note": "『mortalidad』与『morbilidad』（发病率）是医学和公共卫生新闻中的高频配对词，注意区分：『mortalidad』指死亡的比率或风险，『morbilidad』指患病的比率，两者常同时出现。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "En las llamadas Zonas Azules, las zonas del mundo con mayores tasas de <strong>longevidad</strong>, el 90% de la dieta está compuesta por alimentos de origen vegetal. Además, las personas longevas consumen porciones moderadas y siguen la regla de dejar la mesa llena sólo en un 75%. Además de la dieta, mantienen un estilo de vida activo, como subir escaleras, y realizan actividad física moderada. Viven con niveles de estrés reducidos, gracias a rituales como comer en compañía, <strong>pilar</strong> fundamental de la dieta mediterránea.",
+      "zh": "在所谓的『蓝色地带』——世界上长寿率最高的地区——90%的饮食由植物性食物构成。此外，长寿者食量适中，遵循只吃七八分饱的原则。除饮食之外，他们保持积极的生活方式，如爬楼梯，并进行适度的体育锻炼。他们的压力水平较低，这得益于共餐等生活仪式——这也是地中海饮食的核心支柱。",
+      "vocab": [
+        {
+          "word": "longevidad",
+          "translation": "长寿，高寿",
+          "note": "『longevidad』由拉丁语词根『longus』（长）和『vita』（生命）构成，在健康和人口学报道中是高频词，形容词形式为『longevo/a』，可直接修饰名词，如『personas longevas』（长寿者）。"
+        },
+        {
+          "word": "pilar",
+          "translation": "支柱，核心要素",
+          "note": "『pilar』本义为建筑支柱，在评论文体中引申为某一体系或理念的核心组成部分，常见搭配为『pilar fundamental/básico de algo』，是新闻和学术写作中的高频比喻用法。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "\"Los deportistas profesionales también representan un ejemplo de cómo es posible controlar el hambre hedónica <strong>privilegiando</strong> el hambre homeostática\", dice Fasano. \"A través de una rigurosa disciplina nutricional (para unos pocos) y técnicas de entrenamiento emocional, logran evitar los excesos y elegir alimentos que apoyan sus necesidades fisiológicas y de rendimiento. Hoy, en la era del hambre hedónica, nuestra adaptación evolutiva al almacenamiento de energía, antaño esencial para la supervivencia, se ha convertido en un <strong>lastre</strong>. La disponibilidad constante de alimentos y su origen <strong>multifactorial</strong> hacen que el hambre hedónica sea difícil de abordar con intervenciones generalizadas. Necesitamos estrategias personalizadas, calibradas en los factores que influyen en cada individuo\".",
+      "zh": "『职业运动员也是一个典范，展示了如何通过优先满足稳态性饥饿来控制享乐性饥饿』，法萨诺说道。『通过严格的营养纪律（对少数人而言）和情绪训练技术，他们能够避免过度饮食，选择支持自身生理需求和运动表现的食物。如今，在享乐性饥饿盛行的时代，我们在进化过程中形成的储存能量的适应机制——曾经对生存至关重要——已经成为一种负担。食物的持续可得性及其多因素成因，使得享乐性饥饿难以通过统一的干预措施加以应对。我们需要个性化策略，针对影响每个人的具体因素加以调整』。",
+      "vocab": [
+        {
+          "word": "privilegiando",
+          "translation": "优先考虑，使……占据优先地位",
+          "note": "『privilegiar』是由名词『privilegio』派生的动词，意为赋予某事物优先地位，在学术和新闻文体中常替代『priorizar』，语气更强调主动的价值选择而非单纯的排序操作。"
+        },
+        {
+          "word": "lastre",
+          "translation": "负担，累赘，拖累",
+          "note": "『lastre』本义为船舶压舱物，引申为阻碍进步或发展的负面因素，在评论文体中常与『convertirse en un lastre』搭配，是描述某种原本有益的特质变为障碍的高频比喻。"
+        },
+        {
+          "word": "multifactorial",
+          "translation": "多因素的，多重成因的",
+          "note": "『multifactorial』由前缀『multi-』（多）和『factorial』构成，在医学、营养学和社会科学报道中极为常见，掌握『multi-』前缀可类推至『multidisciplinar』、『multicultural』等高频词。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "1) Hambre homeostática. QUÉ ES: un instinto de supervivencia, regulado por una interacción compleja que involucra a todos los cinco sentidos. CÓMO SE MANIFIESTA: la primera señal es un bajo nivel de glucosa en la sangre, una condición que indica una <strong>deficiencia</strong> de energía disponible. QUÉ MECANISMO ACTIVA: se establece un intercambio <strong>bidireccional</strong> de información entre el cerebro y el intestino que indica la necesidad de ingerir alimentos para restaurar el equilibrio energético. Este diálogo también favorece las contracciones del estómago que, a su vez, estimulan la secreción de Grelina, la hormona del hambre.",
+      "zh": "1）稳态性饥饿。定义：一种生存本能，由涉及全部五种感官的复杂交互作用所调节。表现方式：最初的信号是血糖水平偏低，这一状态表明可用能量不足。激活机制：大脑与肠道之间建立起双向信息交换，提示需要摄入食物以恢复能量平衡。这种对话还促进胃部收缩，进而刺激饥饿素（Grelina）的分泌——即饥饿激素。",
+      "vocab": [
+        {
+          "word": "deficiencia",
+          "translation": "不足，缺乏，缺陷",
+          "note": "『deficiencia』由前缀『de-』（减少）和词根『-fici-』（做、产生）构成，在医学和营养学文体中专指某种物质或功能的不足状态，与『carencia』近义，但『deficiencia』更强调量的不足，『carencia』更强调完全缺失。"
+        },
+        {
+          "word": "bidireccional",
+          "translation": "双向的",
+          "note": "前缀『bi-』表示『二、双』，可构成大量西语词汇，如『bilingüe』（双语的）、『bilateral』（双边的）、『bimensual』（每两月一次的），是构词能力极强的前缀。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "2) Hambre hedónica. QUÉ ES: el deseo de comer por <strong>gula</strong> y no por una necesidad biológica real. CÓMO SE MANIFIESTA: juega un papel importante la secreción salival, un proceso iniciado por <strong>retroalimentación</strong> neurológica desencadenada por la vista, el olfato e incluso el pensamiento de comida. Y multifactorial: puede estar influenciada por emociones, tanto positivas como negativas, factores económicos, creencias culturales o religiosas. QUÉ MECANISMO ACTIVA: las glándulas salivales son estimuladas para producir saliva.",
+      "zh": "2）享乐性饥饿。定义：出于贪食欲望而非真实生理需求的进食冲动。表现方式：唾液分泌起着重要作用，这一过程由视觉、嗅觉乃至对食物的想象所触发的神经反馈启动。其成因是多因素的：可能受到正面或负面情绪、经济因素、文化或宗教信仰的影响。激活机制：唾液腺受到刺激，产生唾液。",
+      "vocab": [
+        {
+          "word": "gula",
+          "translation": "贪食，暴食欲",
+          "note": "『gula』在天主教传统中是七宗罪之一（暴食），在现代西语中泛指超出生理需求的过度饮食欲望，与『apetito』（食欲）的区别在于：『gula』强调欲望的过度性和非必要性。"
+        },
+        {
+          "word": "retroalimentación",
+          "translation": "反馈，回路反馈",
+          "note": "『retroalimentación』由『retro-』（向后）和『alimentación』（供给）构成，是英语『feedback』的西语对应词，在神经科学、系统论和教育学文体中均为高频词，注意不要直接借用英语说『feedback』。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "3) Hambre por microbiota. QUÉ ES: el deseo de comer o no comer, regulado por el tipo de bacterias (buenas o malas) del intestino. CÓMO SE MANIFIESTA: algunas bacterias tienen efectos directos sobre el intestino del hambre homeostática. QUÉ MECANISMO ACTIVA: algunas bacterias tienen efectos directos sobre las hormonas que controlan el hambre y también producen moléculas similares a las hormonas humanas (llamadas <strong>peptidomiméticos</strong>), que tienen el mismo efecto. Además, las bacterias producen <strong>metabolitos</strong> (postbióticos) que pueden estimular el hambre homeostática o frenar el apetito.",
+      "zh": "3）微生物群性饥饿。定义：由肠道内细菌种类（有益菌或有害菌）所调节的进食或不进食欲望。表现方式：某些细菌对稳态性饥饿的肠道机制有直接影响。激活机制：某些细菌对控制饥饿的激素有直接影响，还能产生类似人体激素的分子（称为肽模拟物），发挥相同效果。此外，细菌还会产生代谢物（后生元），可以刺激稳态性饥饿或抑制食欲。",
+      "vocab": [
+        {
+          "word": "peptidomiméticos",
+          "translation": "肽模拟物",
+          "note": "『-mimético』后缀源自希腊语『mimeisthai』（模仿），在生物医学文体中表示『模拟某种物质功能的』，可类推至『biomiméticos』（仿生的）等同类术语，掌握该后缀有助于理解医学新词。"
+        },
+        {
+          "word": "metabolitos",
+          "translation": "代谢物",
+          "note": "『metabolito』由『metabolismo』新陈代谢派生，后缀『-ito』在化学和生物学中常用于表示某一过程的产物或衍生物，如『sulfito』（亚硫酸盐）、『nitritos』（亚硝酸盐）。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "¿Cómo podemos frenar, por ejemplo, lo que también en Italia se está convirtiendo en una <strong>epidemia</strong> de obesidad infantil? \"El entorno y el ejemplo importan mucho, porque lo que comemos de niños influye en nuestras preferencias de adultos\", afirma Fasano. \"Un consejo para los padres es evitar los llamados 'alimentos permisivos'. Muchos adultos tienden a ofrecer a sus hijos alimentos sabrosos y ricos en energía porque saben que eso es lo que comerán. Por el contrario, evitan insistir en opciones más saludables, como verduras, frutas o alimentos ricos en fibra, por miedo a que sus hijos se salten comidas. Esta actitud, a menudo <strong>impulsada</strong> por la ansiedad y la idea de que es mejor comer cualquier cosa que nada, puede <strong>consolidar</strong> hábitos alimentarios incorrectos, con consecuencias negativas para la salud. Hoy en día, incluso los niños sufren trastornos típicos de la edad adulta, como la hipertensión y la diabetes tipo 2. Además, hagamos que los niños vuelvan a jugar al aire libre y se muevan más\".",
+      "zh": "我们如何才能遏制——以意大利为例——正在蔓延的儿童肥胖症流行趋势？『环境和榜样非常重要，因为我们童年时期的饮食会影响成年后的饮食偏好』，法萨诺说道。『给父母的一个建议是避免所谓的 纵容性食物 。许多成年人倾向于给孩子提供美味、高热量的食物，因为他们知道孩子会吃。相反，他们不愿坚持推荐更健康的选择，如蔬菜、水果或富含纤维的食物，因为担心孩子不吃饭。这种态度往往由焦虑驱动，源于 吃什么都比什么都不吃强 的想法，可能会固化错误的饮食习惯，对健康产生负面影响。如今，连儿童也患上了典型的成人疾病，如高血压和2型糖尿病。此外，让孩子们重新回到户外玩耍、多运动吧』。",
+      "vocab": [
+        {
+          "word": "epidemia",
+          "translation": "流行病，（比喻）蔓延趋势",
+          "note": "『epidemia』在医学上指某种疾病在特定地区短期内大规模传播，在新闻文体中也常用于比喻某种社会现象的快速蔓延，注意与『pandemia』（全球性大流行）的区别：后者强调跨国界传播。"
+        },
+        {
+          "word": "impulsada",
+          "translation": "被驱动的，受……推动的",
+          "note": "『impulsar』的被动分词，固定搭配为『impulsado/a por』（由……驱动），在新闻和学术文体中常用于说明某种行为或现象背后的动力机制，比『causado por』更强调主动推进的力量。"
+        },
+        {
+          "word": "consolidar",
+          "translation": "巩固，固化，使根深蒂固",
+          "note": "『consolidar』在教育和行为科学语境中常指使某种习惯或模式变得稳固难以改变，与『reforzar』（强化）近义，但『consolidar』更强调结果的稳定性和持久性，而非强化的过程。"
+        }
+      ]
+    }
+  ]
+}

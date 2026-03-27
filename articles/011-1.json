@@ -1,0 +1,133 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "健康与营养科学",
+  "difficulty": "B2",
+  "wordCount": "约600词",
+  "title": "Alimentos que alargan la vida (y los que la acortan): un estudio con un millón de personas",
+  "subtitle": "延长寿命的食物（以及缩短寿命的食物）：一项涵盖百万人的研究",
+  "resumenEs": "Un estudio basado en más de un millón de personas confirma que los frutos secos, cereales integrales, frutas, verduras y pescado reducen la mortalidad, mientras que las carnes rojas y procesadas y las bebidas azucaradas la aumentan. La dieta actúa sobre la inflamación, el estrés oxidativo y la salud metabólica, y sus efectos son determinantes en la prevención de enfermedades no transmisibles, responsables de dos tercios de las muertes mundiales.",
+  "resumenZh": "一项涵盖逾百万人的研究证实，坚果、全谷物、水果、蔬菜和鱼类可降低死亡率，而红肉、加工肉类和含糖饮料则会提高死亡率。饮食通过影响炎症、氧化应激和代谢健康发挥作用，对预防非传染性疾病具有决定性影响——后者约占全球死亡总数的三分之二。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Los frutos secos y los cereales integrales alargan la vida, demasiada carne roja (y procesada) y bebidas azucaradas la acortan. Es el resultado, en <strong>síntesis</strong> extrema, de un estudio basado en 41 revisiones sistemáticas y <strong>metaanálisis</strong> que involucraron a más de un millón de personas, en el que también participaron investigadores de la Universidad de Bolonia. El trabajo, publicado en la revista Advances in Nutrition, examinó el impacto de 14 grupos de alimentos en el riesgo de mortalidad por cualquier causa: granos (integrales y refinados), frutas, verduras, frutos secos, legumbres, pescado y productos derivados del pescado, huevos, leche y productos lácteos, carne y productos cárnicos (incluida la carne roja y blanca, procesada y sin procesar), bebidas azucaradas y azúcares añadidos.",
+      "zh": "坚果和全谷物能延长寿命，而过多的红肉（及加工肉类）和含糖饮料则会缩短寿命。这是一项基于41篇系统综述和荟萃分析、涵盖逾百万人研究的极度简化结论，博洛尼亚大学的研究人员也参与其中。该研究发表于《营养学进展》期刊，考察了14类食物对全因死亡风险的影响：谷物（全谷物和精制谷物）、水果、蔬菜、坚果、豆类、鱼类及鱼制品、鸡蛋、牛奶及乳制品、肉类及肉制品（包括红肉与白肉、加工与未加工）、含糖饮料以及添加糖。",
+      "vocab": [
+        {
+          "word": "síntesis",
+          "translation": "概括，综合，总结",
+          "note": "『síntesis』在学术和新闻文体中指将复杂内容提炼为核心要点的过程，固定短语『en síntesis』相当于『en resumen』，但『síntesis』更强调提炼的系统性，常见于科学报告和论文摘要。"
+        },
+        {
+          "word": "metaanálisis",
+          "translation": "荟萃分析，元分析",
+          "note": "前缀『meta-』源自希腊语，表示『超越、关于……本身』，『metaanálisis』是一种对多项独立研究结果进行统计整合的方法，在循证医学中是最高级别的证据形式之一，可类推至『metadatos』（元数据）等同前缀词汇。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Los resultados son claros y, en cierto modo, curiosos. Una dieta muy rica en frutos secos, cereales integrales, frutas, verduras y pescado está fuertemente asociada con una reducción de la mortalidad por todas las causas: por lo tanto, estos grupos de alimentos (en particular los frutos secos y los cereales integrales) <strong>desempeñan</strong> un papel protector en la salud general y la longevidad. Aunque en menor medida, también existe una relación entre el consumo elevado de legumbres y carnes blancas y un menor riesgo de muerte. Por el contrario, el consumo frecuente de carnes rojas y procesadas y de bebidas azucaradas se <strong>correlaciona</strong> con un aumento de la mortalidad: por lo tanto, estos alimentos deben limitarse tanto como sea posible si se desea vivir mucho tiempo. Se encontró que un alto consumo de azúcares añadidos, granos refinados y huevos estaba significativamente asociado con un aumento de la mortalidad, aunque en un grado menos significativo. Finalmente, respecto a los productos lácteos, no se encontró asociación con la <strong>esperanza de vida</strong>, ni positiva ni negativa.",
+      "zh": "研究结果清晰，在某种程度上也颇为耐人寻味。富含坚果、全谷物、水果、蔬菜和鱼类的饮食与全因死亡率的显著降低密切相关：因此，这些食物类别（尤其是坚果和全谷物）在整体健康和长寿方面发挥着保护作用。尽管程度较低，大量食用豆类和白肉与较低的死亡风险之间也存在关联。相反，频繁食用红肉、加工肉类和含糖饮料与死亡率上升相关：因此，若希望长寿，应尽可能限制这些食物的摄入。研究还发现，大量摄入添加糖、精制谷物和鸡蛋与死亡率上升显著相关，但程度相对较低。最后，关于乳制品，研究未发现其与预期寿命之间存在任何关联，无论正面还是负面。",
+      "vocab": [
+        {
+          "word": "desempeñan",
+          "translation": "发挥（作用），扮演（角色）",
+          "note": "『desempeñar un papel』是固定搭配，意为『发挥某种作用』，在学术和新闻文体中极为常见，注意『desempeñar』本义为『完成职责、履行职务』，引申为发挥功能或作用，与『jugar un papel』可互换使用。"
+        },
+        {
+          "word": "correlaciona",
+          "translation": "与……相关，呈相关性",
+          "note": "『correlacionarse con』是科学文体中的核心动词，表示两个变量之间存在统计上的相关关系，注意区别于『causar』（导致）：相关性不等于因果关系，这一区分在阅读科学报道时至关重要。"
+        },
+        {
+          "word": "esperanza de vida",
+          "translation": "预期寿命",
+          "note": "『esperanza de vida』是人口学和公共卫生领域的核心固定短语，字面意为『对生命的期望』，需作为整体搭配记忆，不可拆分理解，与『longevidad』（长寿）的区别在于：前者是统计学概念，后者更侧重个体或群体的实际长寿现象。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "\"Nuestros hallazgos confirman los beneficios de longevidad asociados con un mayor consumo de frutos secos, cereales integrales, frutas, verduras y pescado, todos ellos claramente asociados con menores tasas de mortalidad\", explican los investigadores. Estos alimentos son generalmente ricos en <strong>nutrientes</strong> cruciales, incluidas vitaminas, minerales, fibra dietética y grasas saludables, que son esenciales para minimizar la inflamación, mejorar la salud <strong>metabólica</strong> y prevenir enfermedades no transmisibles como las enfermedades cardiovasculares, la diabetes tipo 2 y el cáncer\". Los alimentos pro-longevidad contienen <strong>antioxidantes</strong> y sustancias bioactivas que ayudan a reducir el estrés oxidativo, ayudando a mejorar la función inmune y la función <strong>endotelial</strong> (el endotelio es el tejido que recubre el interior de las paredes del corazón, los vasos sanguíneos y los vasos linfáticos, formando una barrera hacia el exterior).",
+      "zh": "『我们的研究结果证实了大量食用坚果、全谷物、水果、蔬菜和鱼类所带来的长寿益处，这些食物均与较低的死亡率明显相关』，研究人员解释道。这些食物通常富含关键营养素，包括维生素、矿物质、膳食纤维和健康脂肪，对于减轻炎症、改善代谢健康以及预防心血管疾病、2型糖尿病和癌症等非传染性疾病至关重要。有益长寿的食物含有抗氧化剂和生物活性物质，有助于减少氧化应激，从而改善免疫功能和内皮功能（内皮是覆盖心脏、血管和淋巴管内壁的组织，构成一道朝向外部的屏障）。",
+      "vocab": [
+        {
+          "word": "nutrientes",
+          "translation": "营养素，营养成分",
+          "note": "『nutriente』由动词『nutrir』（滋养）派生而来，在营养学文体中专指食物中对人体有益的化学成分，注意与『alimento』（食物）的区别：『alimento』指食物整体，『nutriente』指其中的具体营养成分。"
+        },
+        {
+          "word": "metabólica",
+          "translation": "代谢的，与新陈代谢相关的",
+          "note": "『metabólico/a』由名词『metabolismo』派生，后缀『-ico/a』是西语中将名词转化为形容词的常见构词方式，可类推至『cardiovascular』、『hormonal』等同类医学形容词，掌握这一规律有助于快速识别医学词汇。"
+        },
+        {
+          "word": "antioxidantes",
+          "translation": "抗氧化剂，抗氧化物质",
+          "note": "前缀『anti-』表示『对抗、抵抗』，『oxidante』指引发氧化反应的物质，『antioxidante』即对抗氧化损伤的物质。掌握『anti-』前缀可类推至『antiinflamatorio』（抗炎的）、『antibiótico』（抗生素）等大量医学词汇。"
+        },
+        {
+          "word": "endotelial",
+          "translation": "内皮的，与内皮相关的",
+          "note": "『endotelial』由『endotelio』（内皮）加形容词后缀『-al』构成，前缀『endo-』源自希腊语，表示『内部』，可类推至『endocrina』（内分泌的）、『endoscopia』（内窥镜检查）等同前缀医学词汇。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Por el contrario, un mayor consumo de carne procesada, carne roja sin procesar y bebidas azucaradas se asocia con un mayor riesgo de mortalidad. Tanto los altos niveles de <strong>grasas saturadas</strong> presentes en las carnes rojas (y procesadas) como los altos niveles de azúcares libres están asociados con la inflamación, la <strong>resistencia a la insulina</strong> y el estrés oxidativo. La inflamación crónica y el estrés oxidativo son procesos bien conocidos que promueven la aparición de enfermedades cardiovasculares, cáncer y otras <strong>patologías</strong>. El nuevo estudio confirma, pues, que la dieta juega un papel fundamental en el desarrollo de muchas enfermedades no transmisibles, responsables de aproximadamente dos tercios de todas las muertes a nivel mundial (más del 66%), siendo la <strong>cardiopatía isquémica</strong> (insuficiente aporte de sangre y oxígeno al músculo cardíaco) la principal causa de muerte.",
+      "zh": "相反，大量食用加工肉类、未加工红肉和含糖饮料与更高的死亡风险相关。红肉（及加工肉类）中的高饱和脂肪含量以及游离糖的高含量，均与炎症、胰岛素抵抗和氧化应激相关。慢性炎症和氧化应激是众所周知的促进心血管疾病、癌症及其他病症发生的过程。这项新研究因此证实，饮食在许多非传染性疾病的发展中扮演着根本性角色——这些疾病约占全球死亡总数的三分之二（超过66%），其中缺血性心脏病（心肌供血供氧不足）是首要死亡原因。",
+      "vocab": [
+        {
+          "word": "grasas saturadas",
+          "translation": "饱和脂肪",
+          "note": "『saturado/a』在化学中指分子中碳碳单键已达到最大氢原子数的状态，在营养学中『grasas saturadas』特指动物脂肪中的固态脂肪，与『grasas insaturadas』（不饱和脂肪，多见于植物油和鱼类）相对，是营养学新闻中的核心术语对。"
+        },
+        {
+          "word": "resistencia a la insulina",
+          "translation": "胰岛素抵抗",
+          "note": "『resistencia』在医学语境中指机体对某种物质或激素的反应能力下降，『resistencia a la insulina』是2型糖尿病的核心病理机制，指细胞对胰岛素信号的敏感性降低，需作为固定医学短语整体记忆。"
+        },
+        {
+          "word": "patologías",
+          "translation": "病症，疾病（总称）",
+          "note": "『patología』源自希腊语『pathos』（痛苦、疾病）和『logos』（学问），在医学文体中既可指疾病学这一学科，也可泛指具体的病症或疾患，在新闻文体中常作为『enfermedad』的正式替代词使用。"
+        },
+        {
+          "word": "cardiopatía isquémica",
+          "translation": "缺血性心脏病",
+          "note": "『cardiopatía』由『cardio-』（心脏）和『-patía』（病症）构成，『isquémica』源自希腊语『ischein』（阻止）和『haima』（血液），指因血流受阻导致组织缺血的状态，掌握『cardio-』和『-patía』两个词素可类推至大量心脏病学词汇。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "La relación entre nutrición y longevidad está <strong>mediada</strong> por diversos factores metabólicos y cardiovasculares que deben tenerse en cuenta, entre ellos la hipertensión, la <strong>hiperglucemia</strong>, un perfil lipídico anormal y un índice de masa corporal elevado. \"Dado que los patrones alimentarios <strong>subóptimos</strong> son factores de riesgo prevenibles de enfermedades crónicas no transmisibles, es crucial comprender cómo los diferentes grupos de alimentos se asocian con la mortalidad\", subrayan los investigadores. Este estudio pone de relieve cómo la dieta desempeña un papel fundamental en la prevención de enfermedades como la hipertensión, la diabetes y los problemas cardiovasculares: \"los resultados aportan información importante para la elaboración de <strong>directrices</strong> y medidas de salud pública\". Es necesario, concluyen, realizar más trabajos que exploren las diferencias dentro de los subgrupos de alimentos. \"Estos esfuerzos podrían aclarar si ciertas frutas, verduras, carnes o cereales son más o menos beneficiosos y cómo ciertos factores (métodos de preparación, contexto dietético e influencias culturales) contribuyen a los resultados de salud\".",
+      "zh": "营养与长寿之间的关系受多种代谢和心血管因素的中介作用，包括高血压、高血糖、异常血脂谱和较高的体质指数。『鉴于次优饮食模式是慢性非传染性疾病的可预防风险因素，了解不同食物类别与死亡率的关联至关重要』，研究人员强调道。这项研究揭示了饮食在预防高血压、糖尿病和心血管疾病等方面所发挥的根本性作用：『研究结果为制定公共卫生指南和措施提供了重要信息』。研究人员最后指出，有必要开展更多研究，深入探讨食物亚类之间的差异。『这些努力有助于厘清某些水果、蔬菜、肉类或谷物是否更有益或更有害，以及某些因素（烹饪方式、饮食背景和文化影响）如何影响健康结果』。",
+      "vocab": [
+        {
+          "word": "mediada",
+          "translation": "被中介的，通过……发挥作用的",
+          "note": "『mediar』在科学文体中指某一关系并非直接作用，而是通过第三个变量间接实现，固定表达为『estar mediado/a por』，是流行病学和生物医学研究中描述作用机制的核心术语，注意与日常含义『调解』加以区分。"
+        },
+        {
+          "word": "hiperglucemia",
+          "translation": "高血糖（症）",
+          "note": "前缀『hiper-』表示『过高、超过正常值』，与『hipo-』（过低）相对，可构成大量医学词汇：『hipertensión』（高血压）、『hipoglucemia』（低血糖）、『hipercolesterolemia』（高胆固醇血症），掌握这对前缀可快速识别大量临床术语。"
+        },
+        {
+          "word": "subóptimos",
+          "translation": "次优的，低于最佳水平的",
+          "note": "前缀『sub-』表示『低于、不足』，与『sobre-』（超过）相对，『subóptimo』指未达到最理想状态的，在公共卫生文体中常用于描述不够健康但尚未达到危险程度的饮食或生活方式，可类推至『subdesarrollado』（欠发达的）等同前缀词汇。"
+        },
+        {
+          "word": "directrices",
+          "translation": "指南，准则，指导方针",
+          "note": "『directriz』（复数『directrices』）在政策和公共卫生文体中指官方机构发布的行动指导原则，与『guía』（指南）近义，但『directriz』更强调规范性和权威性，常见于世界卫生组织等机构的正式文件中。"
+        }
+      ]
+    }
+  ]
+}
