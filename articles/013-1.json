@@ -1,0 +1,247 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会与文化",
+  "difficulty": "C1",
+  "wordCount": "约950词",
+  "title": "La repentina muerte del influente chino que decía a los jóvenes cómo triunfar",
+  "subtitle": "告诉年轻人如何成功的中国网红的猝然离世",
+  "resumenEs": "El artículo narra la repentina muerte del influyente educativo chino Zhang Xuefeng a los 41 años, conocido por sus consejos brutalmente pragmáticos sobre carreras universitarias. Su fallecimiento desencadenó una reflexión colectiva en redes sociales sobre el idealismo juvenil, la cultura laboral hipercompetitiva y el sentido de planificar el éxito en una economía cada vez más incierta. El texto también aborda los conflictos de Zhang con la censura china por hablar abiertamente sobre el pesimismo económico juvenil.",
+  "resumenZh": "文章讲述了中国知名教育博主张雪峰41岁猝然离世的经过。他以对大学专业选择的极度务实建议而闻名。他的去世在网络上引发了集体反思：关于年轻人的理想主义、内卷的职场文化，以及在经济前景日益不确定的时代规划成功的意义。文章还涉及张雪峰因直言年轻人的经济焦虑而遭受审查的经历。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Cualquier padre o estudiante chino obsesionado con la educación —o sea, básicamente, la mayoría de los padres y estudiantes chinos— conocía el nombre de Zhang Xuefeng. Zhang, el <strong>influente</strong> de educación más famoso de China, era conocido por dar consejos <strong>despiadadamente</strong> directos sobre cómo maximizar las posibilidades de éxito de un estudiante.",
+      "zh": "任何对教育痴迷的中国家长或学生——也就是说，基本上是大多数中国家长和学生——都知道张雪峰这个名字。张雪峰是中国最著名的教育博主，以毫不留情地直接给出如何最大化学生成功概率的建议而闻名。",
+      "vocab": [
+        {
+          "word": "influente",
+          "translation": "网红，博主，意见领袖",
+          "note": "西语对英语『influencer』的本土化改写，在数字媒体语境中指在社交平台上拥有大量粉丝并能影响公众意见的人，固定搭配：『influente de educación（教育博主）』『influente de moda（时尚博主）』，注意与『influyente（有影响力的，形容词）』的区别：后者是传统西语词，前者是新兴网络借词。"
+        },
+        {
+          "word": "despiadadamente",
+          "translation": "毫不留情地，无情地，残酷地",
+          "note": "副词，由『despiadado（无情的）』派生，『des-』+『piedad（怜悯）』构成，字面义为『没有怜悯地』，固定搭配：『criticar despiadadamente（毫不留情地批评）』『competir despiadadamente（残酷竞争）』，形容词形式：『despiadado（无情的，冷酷的）』，是描述极端直接或严苛态度的强烈副词。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "¿Las humanidades? Solo sirven para trabajos de servicio, declaraba. ¿Finanzas? No te molestes a menos que tu familia tenga contactos. De lengua rápida y afilada, para sus <strong>detractores</strong> era cínico y <strong>utilitarista</strong>. Pero para sus decenas de millones de seguidores, <strong>encarnaba</strong> una voluntad poco común de reconocer las duras realidades a las que se enfrentan los estudiantes menos privilegiados, especialmente ante la marcada desigualdad y la <strong>ralentización</strong> de la economía.",
+      "zh": "人文学科？只能做服务业，他宣称。金融？除非你家有人脉，否则别费心。他言辞犀利、语速飞快，在批评者眼中是个愤世嫉俗的功利主义者。但对他数千万粉丝而言，他体现了一种罕见的意愿——正视那些处境不那么优越的学生所面临的残酷现实，尤其是在贫富差距悬殊、经济增速放缓的当下。",
+      "vocab": [
+        {
+          "word": "detractor",
+          "translation": "批评者，反对者，诋毁者",
+          "note": "名词，指持续批评或反对某人的人，比『crítico（批评者）』更强调敌意和持续性，固定搭配：『sus detractores（他的批评者们）』『acallar a los detractores（让批评者闭嘴）』，动词形式：『detraer（诋毁，贬低）』，是政治和文化报道中描述反对声音的精准词汇。"
+        },
+        {
+          "word": "utilitarista",
+          "translation": "功利主义的，功利主义者",
+          "note": "形容词兼名词，源自哲学术语『utilitarismo（功利主义）』，指以实际效用和利益最大化为行动准则的思想倾向，固定搭配：『enfoque utilitarista（功利主义视角）』『visión utilitarista de la educación（对教育的功利主义看法）』，同根词：『utilidad（效用）』『útil（有用的）』。"
+        },
+        {
+          "word": "encarnar",
+          "translation": "体现，化身为，代表",
+          "note": "动词，本义为『使成肉身』（宗教语境中指道成肉身），引申为具体体现某种抽象品质或精神，固定搭配：『encarnar un ideal（体现一种理想）』『encarnar el espíritu de（体现……的精神）』，名词形式：『encarnación（化身，体现）』，比『representar（代表）』更强调深度融合与具体化。"
+        },
+        {
+          "word": "ralentización",
+          "translation": "放缓，减速",
+          "note": "名词，由动词『ralentizar（使放缓）』派生，在经济报道中极为常见，固定搭配：『ralentización económica（经济放缓）』『ralentización del crecimiento（增长放缓）』，近义词：『desaceleración（减速，经济学更正式的术语）』，两词可互换，但『ralentización』更口语化。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Por eso, cuando Zhang murió repentinamente el martes, a los 41 años, de un <strong>paro cardiaco</strong>, se produjo una <strong>avalancha</strong>, no solo de conmoción, sino también de reflexión. En las redes sociales, la gente se preguntaba: ¿había guiado a los jóvenes chinos hacia una vida mejor o había <strong>desalentado</strong> su idealismo? Después de haberse quejado durante mucho tiempo de estar agotado y <strong>sobrecargado de trabajo</strong>, ¿qué significaba su abrupta muerte sobre la cultura laboral <strong>hipercompetitiva</strong> de China? Y si la vida era tan impredecible, ¿importaba siquiera planificar con tanto cuidado un éxito que parecía cada vez más inalcanzable?",
+      "zh": "因此，当张雪峰周二突然因心脏骤停离世，年仅41岁时，引发的不仅是震惊，更是一场反思的浪潮。在社交媒体上，人们追问：他究竟是引导中国年轻人走向了更好的生活，还是扼杀了他们的理想主义？在长期抱怨精疲力竭、工作超负荷之后，他的骤然离世对中国极度内卷的职场文化意味着什么？而如果生命如此难以预料，费尽心思规划一个看似越来越遥不可及的成功，究竟还有没有意义？",
+      "vocab": [
+        {
+          "word": "paro cardiaco",
+          "translation": "心脏骤停，心搏停止",
+          "note": "医学术语，『paro』在此义为『停止、骤停』，固定搭配：『sufrir un paro cardiaco（发生心脏骤停）』『morir de un paro cardiaco（因心脏骤停死亡）』，注意与『infarto（心肌梗塞）』的区别：『paro cardiaco』指心脏停止跳动，『infarto』指心肌因供血不足而坏死，两者可能相互引发但概念不同。"
+        },
+        {
+          "word": "avalancha",
+          "translation": "雪崩；（比喻）大量涌来，洪流",
+          "note": "本义为山上大量积雪突然滑落，引申为任何事物的大规模突然涌现，固定搭配：『una avalancha de críticas（铺天盖地的批评）』『una avalancha de mensajes（大量涌入的消息）』，比『oleada（浪潮）』更强调突然性和压倒性的数量。"
+        },
+        {
+          "word": "desalentar",
+          "translation": "使气馁，打击积极性，使丧失信心",
+          "note": "动词，由『des-（否定）』+『alentar（鼓励）』构成，固定搭配：『desalentar a los jóvenes（打击年轻人的积极性）』，反义词：『alentar（鼓励）』『animar（激励）』，名词形式：『desaliento（气馁，沮丧）』。"
+        },
+        {
+          "word": "hipercompetitivo",
+          "translation": "极度竞争的，超级内卷的",
+          "note": "由前缀『hiper-（超级、极度）』+『competitivo（竞争的）』构成，是描述当代职场或教育环境的高频词，固定搭配：『cultura hipercompetitiva（极度竞争的文化）』『entorno hipercompetitivo（超级内卷的环境）』，同类构词：『hiperpreciso（超精准的）』『hiperconectado（超级互联的）』。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "\"La lección de Zhang Xuefeng a los jóvenes perdidos: disfruta tu vida\", fue una de las principales <strong>etiquetas</strong> o hashtags en las redes sociales chinas el miércoles, donde la noticia de la muerte de Zhang dominó el debate. Otro era \"excesiva autodisciplina\", en respuesta a la información de los medios de comunicación estatales de que Zhang se había <strong>desmayado</strong> después de salir a correr en Suzhou, la ciudad del este de China donde vivía.",
+      "zh": "『张雪峰给迷茫年轻人的一课：享受生活』，成为周三中国社交媒体上的热门话题标签之一，张雪峰去世的消息主导了当天的网络讨论。另一个热门标签是『过度自律』，源于官方媒体报道称张雪峰在苏州——他居住的中国东部城市——出门跑步后晕倒。",
+      "vocab": [
+        {
+          "word": "etiqueta",
+          "translation": "标签；话题标签（hashtag）；礼仪",
+          "note": "多义词，在社交媒体语境中指『话题标签（hashtag）』，在商品语境中指『标签、标贴』，在社交礼仪语境中指『礼节、规矩』，固定搭配：『etiqueta social（社交礼仪）』『etiqueta de precio（价格标签）』『etiqueta en redes sociales（社交媒体话题标签）』，是典型的一词多义，需根据语境判断。"
+        },
+        {
+          "word": "desmayarse",
+          "translation": "晕倒，昏厥",
+          "note": "反身动词，指因身体原因突然失去意识，固定搭配：『desmayarse de hambre（饿晕）』『desmayarse de calor（热晕）』『sufrir un desmayo（发生昏厥）』，名词形式：『desmayo（晕厥）』，注意与『marearse（头晕、恶心）』的区别：『desmayarse』指完全失去意识，『marearse』指头晕目眩但未必晕倒。"
+        }
+      ]
+    }
+    {
+      "id": 5,
+      "es": "Otro influente popular de la educación, Zhu Wei, publicó un largo <strong>homenaje</strong> en internet, en el que elogiaba el vigor y la sinceridad de Zhang. Zhu <strong>instó</strong> a sus propios alumnos a bajar el ritmo en su búsqueda de resultados en los exámenes y de puestos de trabajo. \"Pero también sé, ¿qué es lo más cruel de la era del tráfico en internet? Que nada dura ni siquiera un mes antes de ser olvidado\", escribió Zhu. \"Pronto todo el mundo volverá a su estado habitual, luchando y esforzándose sin descanso, sin poder detenerse jamás\".",
+      "zh": "另一位知名教育博主朱伟在网上发表了一篇长篇悼文，称赞张雪峰的活力与真诚。朱伟敦促自己的学生在追求考试成绩和工作岗位的道路上放慢脚步。『但我也知道，流量时代最残酷的是什么？没有什么能撑过一个月不被遗忘，』朱伟写道。『很快所有人都会回到原来的状态，不停地拼搏努力，永远无法停下来。』",
+      "vocab": [
+        {
+          "word": "homenaje",
+          "translation": "致敬，悼念，颂词",
+          "note": "名词，指对某人表达敬意或纪念的行为或文字，固定搭配：『rendir homenaje a（向……致敬）』『publicar un homenaje（发表悼文）』『en homenaje a（以纪念……）』，动词形式：『homenajear（向……致敬）』，在讣告和纪念文章中是核心词汇，比『tributo（颂词，英语借词色彩更强）』更地道。"
+        },
+        {
+          "word": "instar a",
+          "translation": "敦促，催促，力劝",
+          "note": "正式动词，表示强烈建议或要求某人做某事，固定搭配：『instar a alguien a hacer algo（敦促某人做某事）』『instar al diálogo（呼吁对话）』『instar a la calma（敦促保持冷静）』，比『pedir（请求）』语气更强，比『exigir（要求）』更委婉，是外交和新闻报道的高频动词。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Zhang nació en una pequeña ciudad del norte de China. Su verdadero nombre era Zhang Zibiao, aunque más tarde adoptó el nombre de Xuefeng. Hizo examen en una universidad de nivel medio, donde estudió abastecimiento de agua y drenaje, por lo que sentía poco entusiasmo, según las entrevistas que concedió. Después de graduarse, se dedicó a la tutoría y al <strong>asesoramiento</strong> universitario.",
+      "zh": "张雪峰出生于中国北方一座小城。他的本名是张子豪，后来改名雪峰。据他接受采访时所说，他考入一所普通高校，就读于自己毫无热情的给排水专业。毕业后，他投身辅导和高考志愿填报咨询行业。",
+      "vocab": [
+        {
+          "word": "asesoramiento",
+          "translation": "咨询，顾问服务，指导",
+          "note": "名词，由动词『asesorar（提供咨询）』派生，固定搭配：『asesoramiento universitario（高考志愿咨询）』『asesoramiento jurídico（法律咨询）』『asesoramiento financiero（财务顾问）』，动词形式：『asesorar（咨询，顾问）』『asesorarse（寻求咨询）』，相关词：『asesor（顾问）』『asesoría（咨询公司）』。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Saltó a la fama en 2016, por un video en el que —en lo que se convertiría en su característico discurso rápido y <strong>mordaz</strong>— resumía las 34 mejores universidades de China en siete minutos. Creó una empresa de consultoría en la que ayudaba a los estudiantes a elegir especialidades, <strong>pasantías</strong> y carreras basándose en consideraciones frías sobre sus calificaciones en los exámenes, sus antecedentes familiares y si daban prioridad al dinero o a la estabilidad. Sus transmisiones en directo atraían cientos de miles de visitas, y sus cursos podían costar miles de dólares.",
+      "zh": "2016年，他凭借一段视频一炮而红——以他标志性的快速犀利口吻，用七分钟概括了中国34所顶尖高校。他创办了一家咨询公司，根据学生的考试成绩、家庭背景，以及他们优先考虑金钱还是稳定性，冷静地帮助他们选择专业、实习和职业方向。他的直播吸引数十万次观看，课程收费可达数千美元。",
+      "vocab": [
+        {
+          "word": "mordaz",
+          "translation": "辛辣的，尖刻的，讽刺性的",
+          "note": "形容词，来自动词『morder（咬）』，字面义为『会咬人的』，引申为言辞的尖锐和讽刺性，固定搭配：『crítica mordaz（辛辣的批评）』『humor mordaz（尖刻的幽默）』『comentario mordaz（刻薄的评论）』，与『afilado（锋利的）』构成近义关系，但『mordaz』更强调讽刺和攻击性。"
+        },
+        {
+          "word": "pasantía",
+          "translation": "实习，实习期",
+          "note": "名词，在拉丁美洲西语中指实习经历，西班牙本土更常用『prácticas（实习）』，固定搭配：『hacer una pasantía（做实习）』『pasantía remunerada（带薪实习）』，注意地区差异：西班牙说『hacer prácticas en una empresa』，拉美说『hacer una pasantía』，两者在阅读中均会遇到。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Su fama se debía tanto a sus consejos como a sus ganas de <strong>provocar</strong>. Un comentario que hizo en 2023, según el cual los padres deberían <strong>noquear</strong> a sus hijos antes que permitirles estudiar periodismo, debido a las escasas <strong>perspectivas laborales</strong>, <strong>desencadenó</strong> días de debate en internet. Los críticos dijeron que no entendía el sentido de la educación, o que estaba sugiriendo que los estudiantes más pobres no debían seguir sus sueños. \"Vengo de una familia normal\", escribió Zhang en respuesta. \"Si vienes de una familia <strong>acomodada</strong>, tienes más opciones, no puedes tomar una mala decisión. Pero la mayoría de las familias no son tan acomodadas, y a la hora de elegir una carrera, tienes que elegir una que sea adecuada y que ponga comida en la mesa\".",
+      "zh": "他的名气一半来自建议本身，另一半来自他对争议的热衷。他在2023年发表的一番言论——称父母宁可把孩子打晕也不要让他们学新闻，因为就业前景惨淡——在网上引发了数日的激烈讨论。批评者说他不理解教育的意义，或认为他是在暗示穷学生不应该追求梦想。『我来自普通家庭，』张雪峰回应道。『如果你家境殷实，选择余地更大，怎么选都不会太差。但大多数家庭没那么富裕，选专业时必须选一个合适的、能养活自己的。』",
+      "vocab": [
+        {
+          "word": "provocar",
+          "translation": "挑衅，激怒，引发（争议）",
+          "note": "多义动词，在此语境中指故意制造争议以吸引关注，固定搭配：『ganas de provocar（热衷挑衅）』『provocar un debate（引发辩论）』『provocar una reacción（激起反应）』，注意与『causar（导致）』的区别：『provocar』暗含主动性和意图性，而『causar』更中性地描述因果关系。"
+        },
+        {
+          "word": "noquear",
+          "translation": "将……击倒，KO",
+          "note": "动词，源自英语『knock out』的西语化借词，本为拳击术语，指将对手击倒在地，引申为彻底击败或使某人失去行动能力，固定搭配：『noquear al rival（将对手KO）』，张雪峰用此词作夸张修辞，意在强调宁可极端手段也不让孩子学新闻，是典型的口语夸张表达。"
+        },
+        {
+          "word": "perspectivas laborales",
+          "translation": "就业前景，职业发展前途",
+          "note": "固定搭配，『perspectiva』本义为『视角、透视』，引申为对未来的展望，固定搭配：『perspectivas laborales（就业前景）』『perspectivas económicas（经济前景）』『perspectivas de futuro（未来展望）』，注意『perspectiva』通常用复数表示前景，单数更多指『视角』或『透视画法』。"
+        },
+        {
+          "word": "desencadenar",
+          "translation": "引发，触发，unleash",
+          "note": "动词，由『des-』+『encadenar（用链条锁住）』构成，字面义为『解开锁链』，引申为触发某种难以控制的连锁反应，固定搭配：『desencadenar una crisis（引发危机）』『desencadenar un debate（触发辩论）』『desencadenar una tormenta（掀起风暴）』，比『causar（导致）』更强调爆发性和难以控制的后续影响。"
+        },
+        {
+          "word": "acomodado",
+          "translation": "富裕的，生活宽裕的，家境殷实的",
+          "note": "形容词，指经济条件良好、生活舒适的状态，比『rico（富有的）』更委婉，固定搭配：『familia acomodada（殷实之家）』『clase acomodada（富裕阶层）』，注意『acomodado』还有『适应了的、安顿好的』含义，来自动词『acomodar（安置，适应）』，需根据语境区分。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "En su mayor parte, la exagerada personalidad de Zhang alimentó su popularidad y su negocio. The Paper, un medio de comunicación con sede en Shanghái, escribió en un <strong>perfil</strong> de Zhang que el <strong>furor</strong> suscitado por sus comentarios sobre el periodismo solamente hizo que sus seguidores fueran más leales: \"La sección de comentarios está dominada por una sola voz: los pobres necesitan a Zhang Xuefeng\". Tras otra polémica, Zhang empezó a vender una camiseta que decía \"Me equivoqué, pido disculpas\".",
+      "zh": "在很大程度上，张雪峰夸张的个人风格反而助推了他的人气和生意。上海媒体《澎湃新闻》在一篇张雪峰人物特稿中写道，他关于新闻专业的言论所引发的轩然大波，只让他的粉丝变得更加忠诚：『评论区只有一种声音：穷人需要张雪峰。』又一次争议之后，张雪峰开始售卖一件印着『我错了，我道歉』的T恤。",
+      "vocab": [
+        {
+          "word": "perfil",
+          "translation": "侧面；人物特写，人物简介",
+          "note": "多义名词，在新闻语境中指对某人的深度人物报道，固定搭配：『publicar un perfil de（发表关于……的人物特写）』『perfil biográfico（人物传记简介）』『perfil de usuario（用户档案）』，在社交媒体语境中指『个人主页』，是典型的多义词，此处为新闻报道含义。"
+        },
+        {
+          "word": "furor",
+          "translation": "轩然大波，狂热，强烈反响",
+          "note": "名词，本义为『狂怒、激情』，引申为某事引发的强烈社会反响或狂热追捧，固定搭配：『causar furor（引起轰动）』『el furor suscitado por（……所引发的轩然大波）』『hacer furor（风靡一时）』，比『polémica（争议）』更强调情绪的激烈程度和社会影响的广度。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Pero recientemente se había metido en problemas mayores. En septiembre, sus cuentas en las redes sociales fueron bloqueadas para que no pudiera publicar ni añadir nuevos seguidores, durante una campaña de la administración del <strong>ciberespacio</strong> chino para borrar lo que calificaba de sentimiento \"excesivamente pesimista\". Zhang figuraba en una lista de influentes seleccionados como objetivos, según la emisora estatal china, que dijo que se le <strong>sancionaba</strong> por utilizar \"lenguaje vulgar durante un periodo prolongado\" durante una transmisión en directo.",
+      "zh": "但最近他陷入了更大的麻烦。九月，他的社交媒体账号遭到封禁，无法发帖或新增粉丝，这是中国网信办一场清除所谓『过度悲观』情绪的专项行动的一部分。据中国官方媒体报道，张雪峰出现在一份被列为打击对象的博主名单上，官方称对他的处罚原因是在直播中『长期使用低俗语言』。",
+      "vocab": [
+        {
+          "word": "ciberespacio",
+          "translation": "网络空间，互联网空间",
+          "note": "名词，由『ciber-（网络）』+『espacio（空间）』构成，在中国语境中『administración del ciberespacio chino』对应『中国网信办（国家互联网信息办公室）』，固定搭配：『regulación del ciberespacio（网络空间监管）』『seguridad del ciberespacio（网络安全）』，同根词前缀『ciber-』还出现在：『ciberataque（网络攻击）』『ciberseguridad（网络安全）』。"
+        },
+        {
+          "word": "sancionar",
+          "translation": "处罚，制裁；批准（双重含义）",
+          "note": "多义动词，在法律和行政语境中指『处罚、制裁』，固定搭配：『sancionar a alguien por（因……处罚某人）』『imponer sanciones（施加制裁）』；但在另一语境中也可指『批准、认可』：『sancionar una ley（批准一项法律）』，是典型的反义同词（enantiosemia），需根据语境判断含义方向。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Pero algunos <strong>comentaristas</strong> especularon que su verdadera ofensa fue hablar <strong>sin rodeos</strong> sobre las preocupaciones económicas de los jóvenes, en un momento en que el gobierno ha intentado ocultar las elevadas tasas de desempleo juvenil y ha acusado a los jóvenes de ser demasiado <strong>quisquillosos</strong> con los empleos. (Otros pensaron que Zhang estaba siendo penalizado por animar a una invasión de Taiwán. El gobierno chino, aunque <strong>reclama</strong> Taiwán, suele censurar lo que considera un sentimiento demasiado <strong>belicista</strong>).",
+      "zh": "但一些评论人士猜测，他真正的『罪过』是直言不讳地谈论年轻人的经济焦虑——而此时政府正试图掩盖居高不下的青年失业率，并指责年轻人对工作过于挑剔。（另一些人则认为，张雪峰受罚是因为鼓动入侵台湾。中国政府虽然声索台湾，但通常会审查它认为过于好战的言论。）",
+      "vocab": [
+        {
+          "word": "sin rodeos",
+          "translation": "直截了当地，开门见山地，不拐弯抹角地",
+          "note": "固定搭配，『rodeo』本义为『绕路、迂回』，『sin rodeos』字面义为『不绕弯子』，固定搭配：『hablar sin rodeos（直说）』『ir al grano sin rodeos（开门见山）』『decir algo sin rodeos（直接说出某事）』，反义表达：『con rodeos（拐弯抹角地）』『andarse con rodeos（绕弯子）』。"
+        },
+        {
+          "word": "quisquilloso",
+          "translation": "挑剔的，过于讲究的，难以取悦的",
+          "note": "形容词，描述对细节过分在意、难以满足的性格，固定搭配：『ser quisquilloso con la comida（对食物很挑剔）』『ser quisquilloso con el trabajo（对工作很挑剔）』，近义词：『exigente（要求高的）』『melindroso（过分讲究的）』，但『quisquilloso』带有更强的负面色彩，暗示这种挑剔是不合理的。"
+        },
+        {
+          "word": "belicista",
+          "translation": "好战的，主战的，鼓吹战争的",
+          "note": "形容词兼名词，源自『bélico（战争的）』，固定搭配：『sentimiento belicista（好战情绪）』『retórica belicista（战争叫嚣）』『postura belicista（主战立场）』，反义词：『pacifista（和平主义的）』，同根词：『beligerante（交战的，好斗的）』，是国际关系和政治报道的核心词汇。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Zhang recuperó sus cuentas un mes después y volvió a transmitir varias veces a la semana. La mañana en que murió, hizo una transmisión y luego salió a correr, como era su costumbre. Su muerte fue anunciada por su empresa en un mensaje en las redes sociales. Le <strong>sobreviven</strong> su esposa y una hija, según los medios de comunicación chinos.",
+      "zh": "张雪峰一个月后恢复了账号，此后每周直播数次。他去世那天早上，完成直播后像往常一样出门跑步。他的公司随后在社交媒体上发文宣布了他的死讯。据中国媒体报道，他身后留下妻子和一个女儿。",
+      "vocab": [
+        {
+          "word": "sobrevivir a",
+          "translation": "比……活得更长；在……之后仍在世",
+          "note": "固定搭配，在讣告和新闻报道中，『le sobreviven（身后留有……）』是标准表达，字面义为『在他之后仍然活着的人』，固定搭配：『le sobreviven su esposa e hijos（身后留有妻儿）』『sobrevivir a un accidente（在事故中幸存）』，是英语『to be survived by』的对应表达，是讣告写作的必备句式。"
+        }
+      ]
+    }
+  ]
+}
