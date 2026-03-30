@@ -1,0 +1,208 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "教育与育儿",
+  "difficulty": "B2",
+  "wordCount": "约900词",
+  "title": "Por qué no hay que obligar a los niños a compartir",
+  "subtitle": "为什么不应该强迫孩子分享",
+  "resumenEs": "El artículo argumenta que compartir es una habilidad compleja que los niños no están preparados para ejercer de forma natural antes de los cinco años, debido a su etapa de egocentrismo. Obligarles a compartir genera inseguridad, miedo y actitudes defensivas, en lugar de generosidad real. La alternativa propuesta es respetar los ritmos del niño, poner palabras a las situaciones y practicar juegos de turnos, para que el acto de compartir nazca de la voluntad propia y no de la imposición.",
+  "resumenZh": "文章论述，分享是一项复杂的能力，由于儿童处于自我中心阶段，五岁前无法自然地做到这一点。强迫孩子分享只会带来不安全感、恐惧和防御性态度，而非真正的慷慨。文章提出的替代方案是：尊重孩子的节奏，用语言描述情境，并通过轮流游戏来练习，让分享行为源于自愿而非强迫。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "El acto de compartir forma parte de un proceso complejo que conlleva la comprensión y madurez de varios <strong>hitos del desarrollo</strong>: comprender que no solo existe el yo —etapa de <strong>egocentrismo</strong>—, integrar que al dar algo no se pierde para siempre, empatizar con la necesidad y la emoción del otro, permitir que otros toquen las pertenencias propias y aprender a esperar y respetar turnos. Se trata de múltiples aspectos que no resultan sencillos en ningún momento vital, y menos aún durante la primera infancia, ya que no es hasta pasados los cinco años cuando se comienza a adquirir esta habilidad de forma más natural y consciente.",
+      "zh": "分享这一行为是一个复杂过程的组成部分，它需要理解和掌握多个发展里程碑：理解世界不只有自我——即自我中心阶段——接受给予某物并不意味着永远失去它，对他人的需求和情感产生共情，允许他人触碰自己的物品，以及学会等待和尊重轮次。这些都是在人生任何阶段都不简单的方面，在幼儿期尤为如此，因为要到五岁之后，孩子才开始以更自然、更有意识的方式习得这种能力。",
+      "vocab": [
+        {
+          "word": "hitos del desarrollo",
+          "translation": "发展里程碑，成长节点",
+          "note": "『hito』本义为道路标记石，引申为重要的标志性节点。固定搭配：『hito histórico』（历史里程碑）、『marcar un hito』（树立里程碑）。在儿童心理学和教育学语境中，『hitos del desarrollo』（发展里程碑）是专业术语，指儿童在特定年龄段应达到的认知、语言、运动等能力节点，是育儿报道的核心词汇。"
+        },
+        {
+          "word": "egocentrismo",
+          "translation": "自我中心，以自我为中心的思维方式",
+          "note": "由『ego』（自我，来自拉丁语）加『centro』（中心）加后缀『-ismo』构成，是瑞士心理学家皮亚杰（Piaget）儿童认知发展理论的核心概念，指幼儿无法从他人角度看待世界的认知阶段，并非道德意义上的『自私』。注意与『egoísmo』（自私，道德判断）的区别：『egocentrismo』是认知发展阶段的中性描述，『egoísmo』是带有负面评价的道德概念。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Para comprender lo que significa compartir un objeto desde la perspectiva de un niño, solo hace falta ponerse en situación mediante un ejemplo. Al imaginar que un adulto se sube en nuestro coche y pide conducirlo un rato explicando que él también quiere, seguramente nadie accedería a bajarse del vehículo y compartirlo con un extraño; pues exactamente lo mismo le sucede a un niño en el parque cuando otro le pide su pelota o su muñeco, a diferencia de que el niño aún no es capaz de razonar lo que sucede y el adulto sí.",
+      "zh": "要从孩子的角度理解分享一件物品意味着什么，只需通过一个例子设身处地地想象一下。试想一个陌生人上了你的车，以『他也想开』为由要求开一会儿，恐怕没有人会下车把车让给陌生人；孩子在公园里被其他孩子要求分享皮球或玩偶时，感受与此完全相同——唯一的区别是，孩子还无法对发生的事情进行理性分析，而成人可以。",
+      "vocab": [
+        {
+          "word": "ponerse en situación",
+          "translation": "设身处地，代入情境",
+          "note": "固定表达，指将自己置于某一具体情境中进行想象或理解，相当于『ponerse en el lugar de otro』（换位思考）。固定搭配：『ponerse en situación de』（设身处地于……情境）、『para ponerse en situación』（为了理解这一情境）。是论说文中引入类比论证时的常用过渡表达。"
+        },
+        {
+          "word": "accedería (acceder a)",
+          "translation": "同意，答应，允许",
+          "note": "『acceder a』在此表示『同意、答应某人的请求』，是该词的第三种含义。注意『acceder』的多义性：①『访问、登录』（『acceder a una plataforma』访问平台）；②『获得机会』（『acceder a la educación』获得受教育机会）；③『同意、答应』（本文含义，『acceder a una petición』答应请求）。三种语义需结合语境判断。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Bajo el pensamiento <strong>adultocentrista</strong>, se asume que los objetos del niño no son realmente suyos, sino que él solo dispone de ellos porque han sido comprados o dados por el adulto. Además, suele ser el adulto quien elige quién los tiene y durante cuánto tiempo en el caso de haber otros niños en el mismo espacio. En muchas ocasiones esto sucede mientras el menor está jugando, por lo que, cuando se encuentra concentrado e <strong>inmerso</strong> en su principal labor, otro niño o incluso un adulto <strong>irrumpe</strong> para quitarle el juguete bajo la <strong>consigna</strong> \"hay que compartir\". De este modo, sus ritmos y necesidades se ven ignorados y se deja de lado la observación de lo que el menor requiere en ese instante.",
+      "zh": "在以成人为中心的思维框架下，人们默认孩子的物品并不真正属于他，他只是因为成人购买或赠予才得以使用。此外，当同一空间内有多个孩子时，通常由成人决定谁拥有这些物品以及持有多长时间。很多时候，这发生在孩子正在玩耍的过程中——当他全神贯注、沉浸于自己最重要的活动时，另一个孩子甚至成人以『要懂得分享』为由闯入，将玩具从他手中拿走。如此一来，孩子的节奏和需求被忽视，他在那一刻真正需要什么也被置之不理。",
+      "vocab": [
+        {
+          "word": "adultocentrista",
+          "translation": "以成人为中心的，成人本位的",
+          "note": "由『adulto』（成人）加『centro』（中心）加后缀『-ista』构成，指一种将成人的视角、需求和判断置于中心、忽视儿童主体性的思维方式。构词规律与『egocentrismo』相似，掌握『-centrismo/-centrista』这一构词模式可举一反三：『etnocentrismo』（民族中心主义）、『antropocentrismo』（人类中心主义）。是儿童教育和发展心理学领域的关键批判性概念。"
+        },
+        {
+          "word": "inmerso",
+          "translation": "沉浸于，全神贯注于",
+          "note": "形容词，来自动词『inmergir/sumergir』（沉浸），字面意为『被浸入其中』。固定搭配：『inmerso en』（沉浸于……）、『estar inmerso en el juego』（沉浸在游戏中）、『inmerso en sus pensamientos』（沉浸在思绪中）。比『concentrado』（专注的）更强调整个身心被某事物包裹的状态，与后文『absorto』（全神贯注的）构成近义词对。"
+        },
+        {
+          "word": "irrumpe (irrumpir)",
+          "translation": "闯入，突然打断，强行介入",
+          "note": "由前缀『ir-』（进入）加『rumpere』（打破）构成，指以突然、强行的方式进入某一空间或情境，带有打断和侵犯的含义。固定搭配：『irrumpir en una habitación』（闯入房间）、『irrumpir en una conversación』（打断对话）。注意与『entrar』（进入，中性）的区别：『irrumpir』强调突然性和未经允许，语气更强烈。"
+        },
+        {
+          "word": "consigna",
+          "translation": "口号，指令，信条",
+          "note": "指被反复重申、作为行动依据的简短指令或口号。固定搭配：『bajo la consigna de』（以……为口号/借口）、『repetir una consigna』（重复一句口号）。在本文中，『bajo la consigna hay que compartir』（以『要懂得分享』为口号）带有讽刺意味，暗示这句话已成为成人不假思索的惯用借口，而非真正出于对孩子的理解。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Un niño que está metido de lleno en el juego está <strong>absorto</strong> en su mundo de imaginación, con los cinco sentidos, por lo que tras la irrupción desde el exterior siente de repente que su espacio se invade, que no se respetan sus necesidades, su lugar ni sus tiempos.",
+      "zh": "一个全身心投入游戏的孩子，正用全部感官沉浸在自己的想象世界中，因此当外部的闯入突然发生时，他会感到自己的空间被侵犯，自己的需求、领地和节奏都不被尊重。",
+      "vocab": [
+        {
+          "word": "absorto",
+          "translation": "全神贯注的，出神的，沉醉其中的",
+          "note": "形容词，来自拉丁语『absorbere』（吸收），字面意为『被完全吸收进去』。固定搭配：『absorto en』（全神贯注于……）、『estar absorto en sus pensamientos』（沉浸在思绪中）、『mirada absorta』（出神的目光）。与上段的『inmerso』构成近义词对，两者均描述深度专注状态，但『absorto』更强调精神上的出神和忘我，『inmerso』更强调被某事物包围的状态。"
+        },
+        {
+          "word": "metido de lleno",
+          "translation": "全身心投入，完全沉浸其中",
+          "note": "固定口语表达，『de lleno』意为『完全地、彻底地』，与『metido』（投入其中的）搭配，强调毫无保留地全情投入。固定搭配：『meterse de lleno en』（全身心投入……）、『dar de lleno』（正面击中）、『de lleno en el tema』（直接切入主题）。是西语口语和新闻中描述高度专注状态的常用表达。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "El adulto es quien debe guiar la conducta del niño, pero sin olvidar cuál es su <strong>desarrollo madurativo</strong> en cada etapa. Comprender que no quiera compartir en un momento dado es aceptar un proceso natural, entendiendo que la etapa de egocentrismo no se lo permite durante los primeros años de vida. Esto no significa que sea egoísta o maleducado; simplemente, se está comportando tal y como su cerebro se lo permite en este <strong>momento evolutivo</strong>, por lo que poner palabras a la situación podrá ayudar al niño a adquirir herramientas y mecanismos de comunicación adecuados para situaciones similares en el futuro.",
+      "zh": "成人有责任引导孩子的行为，但不能忘记孩子在每个阶段的成熟发展水平。理解孩子在某一时刻不愿分享，就是接受一个自然的过程——认识到自我中心阶段在生命最初几年不允许他做到这一点。这并不意味着孩子自私或没有教养；他只是在按照大脑此刻允许的方式行事。因此，用语言描述当下的情境，将有助于孩子在未来类似情况中习得恰当的沟通工具和机制。",
+      "vocab": [
+        {
+          "word": "desarrollo madurativo",
+          "translation": "成熟发展，发育成熟过程",
+          "note": "儿童心理学和教育学的核心术语，『madurativo』来自『madurar』（成熟），加后缀『-ivo』构成形容词，指与生理和心理成熟过程相关的发展。固定搭配：『etapa madurativa』（成熟阶段）、『proceso madurativo』（成熟过程）、『nivel madurativo』（成熟水平）。理解这一概念是全文论点的基础：孩子的行为受制于其成熟水平，而非道德选择。"
+        },
+        {
+          "word": "momento evolutivo",
+          "translation": "发展阶段，进化时刻",
+          "note": "『evolutivo』来自『evolución』（发展、进化），加后缀『-ivo』构成形容词，在儿童教育语境中指儿童认知和情感发展的特定阶段。固定搭配：『etapa evolutiva』（发展阶段）、『proceso evolutivo』（发展过程）。注意『evolutivo』在西语中兼有『进化的』（生物学）和『发展的』（心理学/教育学）两种含义，本文取后者。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "En ocasiones, el niño acaba compartiendo por miedo a las consecuencias que pueda tener el no hacerlo, por lo que lo hace desde la presión y no desde la iniciativa propia y la voluntad. Obligar a un niño a realizar algo nunca constituye un buen ejemplo ni modelo, ya que la obligación suele causar el efecto contrario. Forzarle a realizar una acción para la que no está preparado generará en él <strong>inseguridad</strong> y miedo a la pérdida, provocando que se muestre <strong>a la defensiva</strong> sin comprender la causa de por qué debe hacerlo. Educar desde el respeto implica priorizar las necesidades del niño sobre las expectativas del entorno. Al defender su derecho a no compartir en un momento de juego profundo, le estamos dando un modelo de <strong>asertividad</strong>. Le enseñamos que tiene derecho a poner límites y a decir \"no\", una herramienta imprescindible para potenciar su <strong>inteligencia emocional</strong>.",
+      "zh": "有时，孩子最终分享是出于对不分享后果的恐惧，因此他是在压力下分享，而非出于自身主动意愿。强迫孩子做某件事从来都不是好的榜样或示范，因为强迫往往会产生相反的效果。强迫他做一件尚未准备好的事，会在他内心产生不安全感和对失去的恐惧，使他在不明白为何必须这样做的情况下表现出防御性。从尊重出发的教育意味着将孩子的需求置于周围环境的期待之上。当我们在孩子深度游戏时捍卫他不分享的权利，我们是在给他树立一个自我主张的榜样。我们教导他有权设定界限、说『不』——这是增强情绪智力不可或缺的工具。",
+      "vocab": [
+        {
+          "word": "inseguridad",
+          "translation": "不安全感，缺乏自信",
+          "note": "由前缀『in-』（否定）加『seguridad』（安全感、自信）构成。固定搭配：『generar inseguridad』（产生不安全感）、『sentir inseguridad』（感到不安全）、『inseguridad emocional』（情感不安全感）。注意与『peligro』（危险）的区别：『inseguridad』更强调内心的心理状态，『peligro』指客观存在的外部威胁。"
+        },
+        {
+          "word": "a la defensiva",
+          "translation": "处于防御状态，采取守势",
+          "note": "固定搭配，来自『defensiva』（防御），指一种因感到威胁而本能地自我保护的态度或状态。固定搭配：『ponerse a la defensiva』（摆出防御姿态）、『estar a la defensiva』（处于防御状态）、『actuar a la defensiva』（以防御方式行动）。在心理学语境中，这种防御性反应通常是压力或不安全感的外在表现。"
+        },
+        {
+          "word": "asertividad",
+          "translation": "自我主张，自信表达，坚定而尊重地表达自我",
+          "note": "心理学和教育学术语，来自英语『assertiveness』，指以清晰、直接、尊重的方式表达自身需求、感受和界限的能力，区别于『agresividad』（攻击性，强硬侵犯他人）和『pasividad』（被动性，压抑自我）。固定搭配：『educar en la asertividad』（培养自我主张能力）、『comunicación asertiva』（自信沟通）。是现代情绪教育的核心概念。"
+        },
+        {
+          "word": "inteligencia emocional",
+          "translation": "情绪智力，情商",
+          "note": "心理学术语，由心理学家丹尼尔·戈尔曼（Daniel Goleman）推广，指识别、理解、管理自身情绪并感知他人情绪的能力，英语对应『emotional intelligence』（EQ）。固定搭配：『desarrollar la inteligencia emocional』（培养情绪智力）、『potenciar la inteligencia emocional』（增强情商）。是当代儿童教育讨论中最高频的术语之一。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Cuando un adulto obliga a un niño a entregar un objeto, espera <strong>sumisión</strong> por parte de este, es decir, no existe voluntad ni generosidad en el niño, sino que es el adulto quien decide por él. La <strong>generosidad</strong> real es la acción voluntaria de compartir desde el bienestar que genera a uno mismo el hecho de ofrecerle algo a otro, por placer mutuo y no por <strong>imposición</strong>. Para ello, el niño necesita disponer de un desarrollo madurativo adecuado, además de sentirse acompañado y confiado dentro de un entorno seguro.",
+      "zh": "当成人强迫孩子交出一件物品时，期待的是孩子的顺从——也就是说，孩子并没有意愿或慷慨，而是由成人替他做决定。真正的慷慨是一种自愿分享的行为，源于将某物给予他人时自身产生的幸福感，是出于相互愉悦而非强迫。为此，孩子需要具备适当的成熟发展水平，同时在安全的环境中感到被陪伴和被信任。",
+      "vocab": [
+        {
+          "word": "sumisión",
+          "translation": "顺从，服从，屈服",
+          "note": "名词，来自动词『someter』（使服从），指在压力或权威下放弃自身意志的状态。固定搭配：『actuar por sumisión』（出于顺从而行动）、『sumisión a la autoridad』（对权威的服从）。形容词形式：『sumiso』（顺从的）。作者在此用『sumisión』而非『obediencia』（服从），是有意为之：『obediencia』可以是主动的、有理解的服从，而『sumisión』更强调被动的、失去自我意志的屈服。"
+        },
+        {
+          "word": "generosidad",
+          "translation": "慷慨，大方，无私给予",
+          "note": "名词，来自形容词『generoso』（慷慨的），加后缀『-idad』构成。固定搭配：『actuar con generosidad』（慷慨地行动）、『generosidad espontánea』（自发的慷慨）。本文的核心论点之一：真正的『generosidad』必须源于自愿，而非强迫——强迫出来的分享只是『sumisión』（顺从），不是『generosidad』（慷慨）。两词的对比是全段的逻辑核心。"
+        },
+        {
+          "word": "imposición",
+          "translation": "强迫，强制，硬性规定",
+          "note": "名词，来自动词『imponer』（强加、施加），由前缀『im-』加『poner』（放置）构成，字面意为『强行放置』。固定搭配：『por imposición』（出于强迫）、『imposición de normas』（强制规定）、『sin imposición』（不强迫地）。本文中『por placer mutuo y no por imposición』（出于相互愉悦而非强迫）是全文最精炼的核心对比，直接点明论点。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Si el menor percibe que sus juguetes pueden desaparecer bajo el juicio del adulto en cualquier momento desarrollará un sentimiento de <strong>sobreprotección</strong> y una actitud defensiva. Por el contrario, si se le permite decidir cuándo y con quién compartirlo acabará siendo él quien inicie este acto de manera <strong>espontánea</strong> y voluntaria.",
+      "zh": "如果孩子感到自己的玩具随时可能在成人的判断下消失，他就会产生过度保护的心理和防御性态度。相反，如果允许他决定何时与谁分享，他最终会自发地、主动地发起这一行为。",
+      "vocab": [
+        {
+          "word": "sobreprotección",
+          "translation": "过度保护，过度占有",
+          "note": "由前缀『sobre-』（过度、超过）加『protección』（保护）构成。注意『sobre-』是表示『过度、超出』的高产前缀：『sobreprotección』（过度保护）、『sobrecarga』（超负荷）、『sobreestimar』（高估）、『sobrevivir』（幸存，字面意为『活过……之上』）。在本文语境中，『sobreprotección』指孩子对自己物品产生的过度占有和防御心理，是强迫分享的反效果。"
+        },
+        {
+          "word": "espontánea",
+          "translation": "自发的，自然而然的，出于本能的",
+          "note": "形容词，来自拉丁语『sponte』（自愿地），指不受外力驱动、出于内在意愿自然产生的行为。固定搭配：『de manera espontánea』（自发地）、『reacción espontánea』（自发反应）、『generosidad espontánea』（自发的慷慨）。与『voluntaria』（自愿的）搭配使用，两词共同强调行为的内在驱动性：『espontánea』强调自然发生，『voluntaria』强调有意识的意愿。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Existe una alternativa eficaz, adecuada y respetuosa con las necesidades y el desarrollo, en la que se tiene en cuenta tanto al niño que no quiere compartir como al que quiere el juguete del otro. Se trata de los <strong>juegos de turnos</strong>, donde se entrena la paciencia para la espera y la <strong>frustración</strong> que ello supone y se da protagonismo a cada jugador en su turno. De este modo, ambos ven satisfechas sus necesidades, respetando la concentración, la imaginación y el juego y favoreciendo la atención, la generosidad y la empatía. Esto se puede poner en práctica con la mayoría de juegos de mesa, incluso con algunos clásicos como la Oca y el Parchís.",
+      "zh": "存在一种有效、适当且尊重儿童需求和发展的替代方案，它同时兼顾不愿分享的孩子和想要对方玩具的孩子。这就是轮流游戏——在其中练习等待的耐心以及由此带来的挫败感，并在每个人的轮次中给予其主角地位。如此一来，双方的需求都得到满足，专注力、想象力和游戏本身得到尊重，注意力、慷慨和同理心也得到培养。这可以在大多数桌游中付诸实践，甚至包括鹅棋和飞行棋等经典游戏。",
+      "vocab": [
+        {
+          "word": "juegos de turnos",
+          "translation": "轮流游戏，回合制游戏",
+          "note": "教育学和儿童发展领域的实践概念，指以轮流方式进行的游戏，每位参与者在自己的回合内拥有主导权。固定搭配：『respetar los turnos』（尊重轮次）、『esperar el turno』（等待轮到自己）、『jugar por turnos』（轮流玩）。作者将其作为强迫分享的替代方案，因为它既尊重了每个孩子的需求，又自然地培养了等待、耐心和共情能力。"
+        },
+        {
+          "word": "frustración",
+          "translation": "挫败感，沮丧，受阻",
+          "note": "名词，来自动词『frustrar』（使受挫），指期望或目标无法实现时产生的负面情绪。固定搭配：『tolerar la frustración』（承受挫败感）、『gestionar la frustración』（管理挫败感）、『umbral de frustración』（挫败感阈值）。在儿童教育语境中，『tolerancia a la frustración』（挫败耐受力）是核心培养目标之一——学会等待本身就是练习承受挫败感的过程。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "A menudo, el hecho de obligar a los niños a compartir nace del <strong>bagaje</strong> que uno mismo aporta de la educación recibida en su infancia. Al plantearse un cambio y cuestionarse el modelo educativo hacia las nuevas generaciones se <strong>empatiza</strong> con los menores, con sus necesidades y, sobre todo, con las capacidades que cada niño tiene en cada etapa. Para que un menor comparta de manera consciente, desde la generosidad y el ofrecimiento, el ejemplo, el diálogo y la comunicación deben ser la base dentro de su entorno seguro.",
+      "zh": "很多时候，强迫孩子分享源于成人自身从童年所受教育中带来的积累与包袱。当人们思考改变、质疑对新一代的教育模式时，便会与孩子产生共情，理解他们的需求，尤其是每个孩子在每个阶段所具备的能力。要让孩子有意识地、从慷慨和主动给予出发去分享，榜样、对话和沟通必须成为其安全环境的基础。",
+      "vocab": [
+        {
+          "word": "bagaje",
+          "translation": "积累，行囊，（经历或观念的）积淀",
+          "note": "本义为旅行时携带的行李，引申为一个人从过去经历、教育和文化中积累的观念、习惯和思维方式。固定搭配：『bagaje cultural』（文化积淀）、『bagaje educativo』（教育背景）、『bagaje personal』（个人经历积累）。在本文中带有轻微的负面含义，暗示这些『行李』可能是需要反思和放下的旧有模式。"
+        },
+        {
+          "word": "empatiza (empatizar)",
+          "translation": "产生共情，感同身受",
+          "note": "动词，来自名词『empatía』（共情、同理心），由希腊语『em-』（进入）加『pathos』（感受）构成，指将自己置于他人处境、感受他人情绪的能力。固定搭配：『empatizar con』（与……产生共情）、『empatizar con las necesidades del otro』（感同身受地理解他人需求）。注意『empatía』与『simpatía』的区别：『empatía』（共情）是真正感受他人的情绪，『simpatía』（同情/好感）是对他人情绪的外部认可，两者深度不同。"
+        }
+      ]
+    }
+  ]
+}
