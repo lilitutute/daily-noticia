@@ -11,18 +11,18 @@
   "paragraphs": [
     {
       "id": 1,
-      "es": "No hay una ciencia china. La ciencia es una, y la mejor prueba es la forma en que el gigante asiático se está convirtiendo, <strong>sin pausa pero con prisa</strong>, en una potencia científica como cualquier otra.",
+      "es": "No hay una ciencia china. La ciencia es una, y la mejor prueba es la forma en que el gigante asiático se está convirtiendo, <strong>sin pausa pero con prisa</strong>, en una <strong>potencia científica</strong> como cualquier otra.",
       "zh": "不存在所谓的中国科学。科学只有一种，最好的证明就是：这个亚洲巨人正在不停歇而又急迫地，成长为一个与其他国家别无二致的科学强国。",
       "vocab": [
         {
           "word": "sin pausa pero con prisa",
           "translation": "不停歇而又急迫地，稳步而快速地",
-          "note": "作者对西班牙谚语『sin prisa pero sin pausa（不急但不停）』的刻意改写——原谚语强调稳健从容，作者将『sin prisa』改为『con prisa』，制造出语义张力，暗示中国的科学崛起既持续不断又充满紧迫感，是一处值得细品的修辞手法。"
+          "note": "作者对西班牙谚语『sin prisa pero sin pausa』（不急但不停）的刻意改写——原谚语强调稳健从容，作者将『sin prisa』改为『con prisa』，制造出语义张力，暗示中国的科学崛起既持续不断又充满紧迫感。掌握原谚语后，才能感受到这一改写的讽刺力度，是一处值得细品的修辞手法。"
         },
         {
           "word": "potencia científica",
           "translation": "科学强国，科学大国",
-          "note": "『potencia』在地缘政治语境中指在某领域具有主导影响力的国家，固定搭配有『potencia mundial（世界强国）』『potencia nuclear（核大国）』『potencia económica（经济强国）』，是政论文体的高频词。"
+          "note": "『potencia』在地缘政治语境中指在某领域具有主导影响力的国家，是政论文体的高频词。固定搭配：『potencia mundial』（世界强国）、『potencia nuclear』（核大国）、『potencia económica』（经济强国）。注意与『poder』（权力、力量）的区别：『potencia』特指国家层面的综合实力，『poder』更泛指一般意义上的力量或权力。"
         }
       ]
     },
@@ -34,120 +34,110 @@
         {
           "word": "milenario",
           "translation": "有数千年历史的，千年的",
-          "note": "由『milenio（千年）』派生，强调某事物存在或延续了极其漫长的时间，在文化和历史语境中常带有敬畏或讽刺的双重色彩，本文中作者用此词描述中医的悠久历史，语气中隐含质疑。"
+          "note": "由『milenio』（千年）派生，加后缀『-ario』构成形容词，强调某事物存在或延续了极其漫长的时间。注意『-ario/-aria』是将名词转化为形容词的高产后缀：『milenario』（千年的）、『centenario』（百年的）、『legendario』（传奇的）。在本文中，作者用此词描述中医的悠久历史，语气中隐含质疑——历史悠久不等于经过科学验证。"
         },
         {
           "word": "inflorescencias",
           "translation": "花序，花簇",
-          "note": "植物学术语，指茎上花朵的排列方式或花簇整体，由『flor（花）』加前缀『in-』和后缀『-escencia』构成，作者在此用来泛指中药材中的花类药材，体现了作者的博学与文笔的精准。"
-        },
-        {
-          "word": "Yijing",
-          "translation": "《易经》，《变化之书》",
-          "note": "作者在括号中给出西语解释『libro de las mutaciones（变化之书）』，『mutación』在生物学中指基因突变，在哲学中指变化转化，此处作者将《易经》与机器人、药剂师并列，以幽默笔法暗示三者同样无法提供科学验证。"
+          "note": "植物学术语，由『flor』（花）加前缀『in-』和后缀『-escencia』构成，指茎上花朵的排列方式或花簇整体。注意『-escencia』是表示『状态、过程』的后缀：『inflorescencia』（花序）、『adolescencia』（青春期）、『fluorescencia』（荧光）。作者在此用来泛指中药材中的花类药材，与『raíces』（根茎）、『setas』（菌菇）并列，体现了文笔的博学与精准。"
         }
       ]
     },
     {
       "id": 3,
       "es": "Nadie es más consciente de ello que el Gobierno de Pekín, cuyas nuevas regulaciones exigen a los fabricantes que aporten datos de <strong>eficacia</strong> y seguridad si quieren mantener sus productos médicos en el mercado. Las normas, que llevan en vigor desde el otoño pasado, se refieren a las versiones <strong>inyectables</strong> de estos productos tradicionales. Estas inyecciones se empezaron a usar en los años cuarenta y cincuenta para aumentar la concentración de los extractos tradicionales. En 2016, alcanzaron unas ventas cercanas a los 3.000 millones de dólares, pero ahora han caído a la mitad debido a las informaciones sobre <strong>efectos adversos</strong>, incluida alguna muerte, que han aparecido en la prensa local. En cualquier caso, y como resultado de las nuevas regulaciones, varias empresas del país están haciendo <strong>ensayos clínicos</strong> homologables a los occidentales, con sus controles de placebo, sus garantías de doble ciego y sus investigaciones sobre los mecanismos de acción.",
-      "zh": "对此最为清醒的，正是北京政府——其新出台的法规要求制造商提供疗效和安全性数据，否则其医疗产品将被逐出市场。这些自去年秋天起生效的规定，针对的是上述传统产品的注射剂型。这类注射剂从四五十年代开始使用，目的是提高传统提取物的浓度。2016年，其销售额接近30亿美元，但由于当地媒体报道了包括死亡案例在内的不良反应，销售额如今已腰斩。无论如何，作为新法规的结果，国内多家企业正在开展与西方标准接轨的临床试验，包括安慰剂对照、双盲保障以及作用机制研究。",
+      "zh": "对此最为清醒的，正是中国政府——其新出台的法规要求制造商提供疗效和安全性数据，否则其医疗产品将被逐出市场。这些自去年秋天起生效的规定，针对的是上述传统产品的注射剂型。这类注射剂从四五十年代开始使用，目的是提高传统提取物的浓度。2016年，其销售额接近30亿美元，但由于当地媒体报道了包括死亡案例在内的不良反应，销售额如今已腰斩。无论如何，作为新法规的结果，国内多家企业正在开展与西方标准接轨的临床试验，包括安慰剂对照、双盲保障以及作用机制研究。",
       "vocab": [
         {
           "word": "eficacia",
           "translation": "疗效，有效性，功效",
-          "note": "在医学和药学语境中专指治疗手段在受控条件下产生预期效果的能力，与『efectividad（实际效果）』有细微区别：前者指理想条件下的有效性，后者指现实条件下的有效性，是临床试验的核心评估指标。"
+          "note": "易混辨析：『eficacia』（实效，强调是否达到预期目标，关注结果）vs.『eficiencia』（效率，强调以最少资源达成目标，关注过程）。在医学语境中，『eficacia』专指治疗手段在受控条件下产生预期效果的能力，是临床试验的核心评估指标。记忆口诀：『eficacia』= effective（有没有用），『eficiencia』= efficient（用得省不省）。"
         },
         {
           "word": "inyectables",
           "translation": "注射剂，可注射的",
-          "note": "由动词『inyectar（注射）』派生的形容词兼名词，在药学中专指通过注射方式给药的剂型，与『oral（口服）』『tópico（外用）』等给药途径相对，是药品分类的基本术语。"
+          "note": "由动词『inyectar』（注射）加后缀『-able』构成，既可作形容词（可注射的），也可作名词（注射剂）。注意『-able/-ible』是表示『可……的』的高产后缀：『inyectable』（可注射的）、『medible』（可测量的）、『predecible』（可预测的）。在药学中与『oral』（口服）、『tópico』（外用）等给药途径相对，是药品分类的基本术语。"
         },
         {
           "word": "efectos adversos",
           "translation": "不良反应，副作用",
-          "note": "医学和药学的规范术语，比口语中的『efectos secundarios（副作用）』更正式，专指药物或治疗手段引起的有害反应，是药品监管文件和临床报告中的标准表达。"
+          "note": "医学和药学的规范术语，比口语中的『efectos secundarios』（副作用）更正式，专指药物或治疗手段引起的有害反应。注意『adverso』（不利的、有害的）与『adversario』（对手）同源，均来自拉丁语『adversus』（相对的、对立的）。固定搭配：『efectos adversos graves』（严重不良反应）、『notificar efectos adversos』（上报不良反应）。"
         },
         {
           "word": "ensayos clínicos",
           "translation": "临床试验",
-          "note": "现代循证医学的核心方法，指在人体上系统评估医疗干预措施安全性和有效性的研究，文中提到的『control de placebo（安慰剂对照）』和『doble ciego（双盲）』是确保试验结果客观可靠的两大关键设计。"
+          "note": "现代循证医学的核心方法，指在人体上系统评估医疗干预措施安全性和有效性的研究。『ensayo』本义为『尝试、试验』，也指文学体裁『随笔』——同一个词在科学语境中是『试验』，在文学语境中是『散文』，是典型的一词多义。文中提到的『control de placebo』（安慰剂对照）和『doble ciego』（双盲）是确保试验结果客观可靠的两大关键设计。"
         }
       ]
     },
     {
       "id": 4,
-      "es": "La tendencia no es distinta en otras áreas de la ciencia. Un millar y medio de físicos, ingenieros y observadores se han reunido hace poco en Hefei, la ciudad de nueve millones de habitantes donde China está construyendo un gran reactor de <strong>fusión nuclear</strong> llamado BEST (siglas inglesas de Tokamak Superconductor Experimental de Plasma en Combustión). La fusión es la otra energía nuclear, la que no se basa en romper átomos pesados como el uranio (<strong>fisión</strong>), sino en combinar átomos ligeros como el hidrógeno. Ninguna de las dos emite CO₂, pero la fusión tiene la enorme ventaja de que no genera <strong>residuos radiactivos</strong> de larga duración, que son una hipoteca para las generaciones futuras. El objetivo del BEST es conectarse a la red eléctrica en 2030. Si tiene éxito, China llegará a la fusión nuclear 10 años antes que cualquier país occidental. Eso sería un <strong>hito histórico</strong>, porque la fusión es el <strong>santo grial</strong> llamado a sustituir a los combustibles fósiles, y su importancia ambiental y geoestratégica es incalculable.",
-      "zh": "这一趋势在其他科学领域同样存在。近日，约一千五百名物理学家、工程师和观察员聚集在合肥——这座拥有九百万人口的城市，中国正在此建造一座名为BEST的大型核聚变反应堆（英文全称为『燃烧等离子体实验超导托卡马克』）。聚变是另一种核能，它不依赖于裂变铀等重原子，而是将氢等轻原子聚合在一起。两者都不排放二氧化碳，但聚变有一个巨大优势：不产生长期放射性废料——那是留给子孙后代的沉重包袱。BEST的目标是在2030年并网发电。若能成功，中国将比任何西方国家提前十年实现核聚变。这将是一个历史性里程碑，因为聚变是注定要取代化石燃料的『圣杯』，其环境价值和地缘战略意义无可估量。",
+      "es": "La tendencia no es distinta en otras áreas de la ciencia. Un millar y medio de físicos, ingenieros y observadores se han reunido hace poco en Hefei, la ciudad de nueve millones de habitantes donde China está construyendo un gran reactor de <strong>fusión nuclear</strong> llamado BEST. La fusión es la otra energía nuclear, la que no se basa en romper átomos pesados como el uranio (<strong>fisión</strong>), sino en combinar átomos ligeros como el hidrógeno. Ninguna de las dos emite CO₂, pero la fusión tiene la enorme ventaja de que no genera <strong>residuos radiactivos</strong> de larga duración, que son una hipoteca para las generaciones futuras. El objetivo del BEST es conectarse a la red eléctrica en 2030. Si tiene éxito, China llegará a la fusión nuclear 10 años antes que cualquier país occidental. Eso sería un <strong>hito histórico</strong>, porque la fusión es el <strong>santo grial</strong> llamado a sustituir a los combustibles fósiles, y su importancia ambiental y geoestratégica es incalculable.",
+      "zh": "这一趋势在其他科学领域同样存在。近日，约一千五百名物理学家、工程师和观察员聚集在合肥——这座拥有九百万人口的城市，中国正在此建造一座名为BEST的大型核聚变反应堆。聚变是另一种核能，它不依赖于裂变铀等重原子，而是将氢等轻原子聚合在一起。两者都不排放二氧化碳，但聚变有一个巨大优势：不产生长期放射性废料——那是留给子孙后代的沉重包袱。BEST的目标是在2030年并网发电。若能成功，中国将比任何西方国家提前十年实现核聚变。这将是一个历史性里程碑，因为聚变是注定要取代化石燃料的『圣杯』，其环境价值和地缘战略意义无可估量。",
       "vocab": [
         {
           "word": "fusión nuclear",
           "translation": "核聚变",
-          "note": "物理学术语，指将两个轻原子核合并为一个较重原子核并释放巨大能量的过程，是太阳能量的来源，与『fisión nuclear（核裂变）』相对——裂变是分裂重原子核，聚变是合并轻原子核，两者都是核能但原理截然相反。"
+          "note": "物理学术语，指将两个轻原子核合并为一个较重原子核并释放巨大能量的过程。『fusión』来自拉丁语『fusio』（熔合），与『fisión』（裂变，来自『fissio』，分裂）构成一对反义词——两者都是核反应，但方向相反：聚变是合并，裂变是分裂。掌握这对词根有助于理解整个核物理词汇体系。"
         },
         {
           "word": "fisión",
           "translation": "裂变，核裂变",
-          "note": "源自拉丁语『fissio（分裂）』，指重原子核（如铀、钚）在中子轰击下分裂为较小原子核并释放能量的过程，是目前所有商业核电站的工作原理，与『fusión』构成核物理的两大基本反应类型。"
+          "note": "源自拉丁语『fissio』（分裂），指重原子核（如铀、钚）在中子轰击下分裂为较小原子核并释放能量的过程，是目前所有商业核电站的工作原理。注意作者在正文中用括号『(fisión)』直接解释，这是科普写作中引入专业术语的标准手法，值得在写作中借鉴。"
         },
         {
           "word": "residuos radiactivos",
           "translation": "放射性废料，核废料",
-          "note": "核能政策讨论中的核心术语，『residuo』指废弃物、残余物，『radiactivo』指能自发发射辐射的物质，长期放射性废料的处置是核裂变能源面临的主要政治和环境障碍，也是聚变能源被视为『清洁』的重要原因之一。"
+          "note": "核能政策讨论中的核心术语。『residuo』（废弃物、残余物）来自拉丁语『residuum』，固定搭配：『residuos sólidos』（固体废物）、『residuos industriales』（工业废料）、『gestión de residuos』（废物管理）。『radiactivo』指能自发发射辐射的物质。长期放射性废料的处置是核裂变能源面临的主要政治和环境障碍，也是聚变能源被视为『清洁』的重要原因。"
         },
         {
           "word": "hito histórico",
           "translation": "历史性里程碑，历史性节点",
-          "note": "『hito』本义为道路标记石，引申为重要的标志性事件或节点，固定搭配为『marcar un hito（树立里程碑）』『suponer un hito（成为里程碑）』，在科技和政治报道中是描述突破性成就的高频表达。"
+          "note": "『hito』本义为道路标记石，引申为重要的标志性事件或节点。固定搭配：『marcar un hito』（树立里程碑）、『suponer un hito』（成为里程碑）、『hito tecnológico』（技术里程碑）。在科技和政治报道中是描述突破性成就的高频表达，比『acontecimiento importante』（重要事件）更具感染力。"
         },
         {
           "word": "santo grial",
           "translation": "圣杯，终极目标",
-          "note": "源自基督教传说中耶稣最后晚餐所用的圣杯，引申为人们长期追寻却难以实现的终极目标，在科技报道中常用来描述某项被视为革命性突破的技术或发现，是西方文化中极具感染力的隐喻。"
+          "note": "源自基督教传说中耶稣最后晚餐所用的圣杯，引申为人们长期追寻却难以实现的终极目标。在科技报道中常用来描述某项被视为革命性突破的技术，如『el santo grial de la inteligencia artificial』（人工智能的圣杯）。这是西方文化中极具感染力的隐喻，理解此类文化典故是读懂C1级别文章的关键。"
         }
       ]
     },
     {
       "id": 5,
-      "es": "China, desde luego, también se propone ser un líder en <strong>inteligencia artificial</strong> (IA), física cuántica y otras tecnologías de la computación. Su 15º <strong>plan quinquenal</strong>, que servirá como guía al desarrollo del país hasta 2030, se aprobó la semana pasada. El presupuesto científico chino va a aumentar este año nada menos que un 10% hasta el equivalente a 54.000 millones de euros (426.000 millones de yuanes). Es evidente que la ciencia es ya una prioridad de Pekín, a la altura del crecimiento económico, la influencia internacional y la capacidad de defensa. China ha considerado su desarrollo científico con una <strong>visión global</strong> que abarca desde el diseño de chips hasta la fabricación de productos biológicos pasando por la maquinaria industrial, los instrumentos de gama alta, el software básico y los materiales avanzados.",
-      "zh": "当然，中国同样志在成为人工智能、量子物理及其他计算技术领域的领导者。其第十五个五年计划——将作为国家发展至2030年的指导纲领——已于上周获批。中国今年的科学预算将增长不少于10%，达到540亿欧元（4260亿人民币）的等值规模。显而易见，科学已成为北京的优先议程，与经济增长、国际影响力和国防能力并驾齐驱。中国以全局视野规划其科学发展，涵盖范围从芯片设计到生物制品制造，再到工业机械、高端仪器、基础软件和先进材料。",
+      "es": "China, desde luego, también se propone ser un líder en <strong>inteligencia artificial</strong> (IA), física cuántica y otras tecnologías de la computación. Su 15º <strong>plan quinquenal</strong>, que servirá como guía al desarrollo del país hasta 2030, se aprobó la semana pasada. El presupuesto científico chino va a aumentar este año nada menos que un 10% hasta el equivalente a 54.000 millones de euros. Es evidente que la ciencia es ya una prioridad de Pekín, a la altura del crecimiento económico, la influencia internacional y la capacidad de defensa. China ha considerado su desarrollo científico con una <strong>visión global</strong> que abarca desde el diseño de chips hasta la fabricación de productos biológicos pasando por la maquinaria industrial, los instrumentos de gama alta, el software básico y los materiales avanzados.",
+      "zh": "当然，中国同样志在成为人工智能、量子物理及其他计算技术领域的领导者。其第十五个五年计划——将作为国家发展至2030年的指导纲领——已于上周获批。中国今年的科学预算将增长不少于10%，达到540亿欧元的等值规模。显而易见，科学已成为中国政府的优先议程，与经济增长、国际影响力和国防能力并驾齐驱。中国以全局视野规划其科学发展，涵盖范围从芯片设计到生物制品制造，再到工业机械、高端仪器、基础软件和先进材料。",
       "vocab": [
         {
           "word": "inteligencia artificial",
           "translation": "人工智能",
-          "note": "计算机科学的核心概念，指由机器模拟人类认知功能（如学习、推理、解决问题）的技术，缩写为『IA』（西语）或『AI』（英语），是当前科技政策讨论中最高频的术语之一。"
+          "note": "计算机科学的核心概念，缩写为『IA』（西语）或『AI』（英语）。注意『inteligencia』（智能、智力）与『inteligente』（聪明的）同族，来自拉丁语『intelligere』（理解）。固定搭配：『IA generativa』（生成式人工智能）、『IA aplicada』（应用人工智能）、『sistemas de IA』（人工智能系统）。是当前科技政策讨论中最高频的术语之一，C1阶段必须掌握。"
         },
         {
           "word": "plan quinquenal",
           "translation": "五年计划",
-          "note": "『quinquenal』由拉丁语『quinque（五）』派生，指持续五年的规划周期，源于苏联计划经济模式，中国自1953年起实施，目前已进入第十五个五年计划，是理解中国政策文件的基础词汇。"
+          "note": "『quinquenal』由拉丁语『quinque』（五）派生，加后缀『-al』构成形容词，意为『每五年一次的』或『持续五年的』。掌握拉丁数词前缀可举一反三：『quinquenal』（五年的）、『bienal』（两年的）、『trienal』（三年的）、『decenal』（十年的）。中国自1953年起实施五年计划，目前已进入第十五个，是理解中国政策文件的基础词汇。"
         },
         {
           "word": "visión global",
           "translation": "全局视野，整体战略眼光",
-          "note": "政策和战略分析中的高频表达，强调从宏观整体而非局部片段看待问题的思维方式，与『visión sectorial（行业视角）』或『visión cortoplacista（短视）』相对，在本文中暗示中国科技布局的系统性和全面性。"
+          "note": "政策和战略分析中的高频表达，强调从宏观整体而非局部片段看待问题的思维方式。注意『global』在西语中的两种含义：①『全球的』（『calentamiento global』全球变暖）；②『整体的、全面的』（本文含义：『visión global』全局视野）。两种含义在新闻中均高频出现，需结合语境判断，是典型的一词多义陷阱。"
         }
       ]
     },
     {
       "id": 6,
-      "es": "Mientras los países occidentales se enredan sembrando el caos en Oriente Próximo, el Lejano Oriente se dispone a <strong>despegar</strong> sobre un sólido fundamento científico. Así son los tiempos.",
+      "es": "Mientras los países occidentales se <strong>enredan</strong> sembrando el caos en Oriente Próximo, el Lejano Oriente se dispone a <strong>despegar</strong> sobre un sólido fundamento científico. Así son los tiempos.",
       "zh": "当西方国家还在近东播种混乱、深陷其中之时，远东正准备在坚实的科学基础上腾飞。时代如此。",
       "vocab": [
         {
-          "word": "enredan",
-          "translation": "纠缠，深陷，使陷入混乱",
-          "note": "动词『enredar』本义为『使缠绕成网』，引申为使某人或某事陷入复杂困境，带有贬义色彩，固定搭配为『enredarse en algo（深陷某事）』，作者用此词描述西方在中东的军事和政治介入，语气中含有明显的批判意味。"
-        },
-        {
-          "word": "sembrando el caos",
-          "translation": "播种混乱，制造混乱",
-          "note": "『sembrar』本义为播种农作物，与『caos（混乱）』搭配形成强烈的隐喻：将混乱比作被刻意种下的种子，暗示西方在中东制造动荡并非偶然而是主动行为，是一处极具感染力的政论修辞。"
+          "word": "se enredan",
+          "translation": "深陷，纠缠，使自身陷入混乱",
+          "note": "动词『enredar』本义为『使缠绕成网』（『red』即网），引申为使某人或某事陷入复杂困境。固定搭配：『enredarse en algo』（深陷某事）、『enredar a alguien』（把某人拖入麻烦）。作者用此词描述西方在中东的军事和政治介入，语气中含有明显的批判意味，暗示西方是主动将自己缠进去的，而非被动卷入。"
         },
         {
           "word": "despegar",
           "translation": "起飞，腾飞，快速发展",
-          "note": "本义为飞机离地起飞，在经济和科技语境中引申为某国家或行业进入快速发展阶段，固定搭配为『despegue económico（经济腾飞）』『despegue tecnológico（技术腾飞）』，与文末『fundamento（基础）』形成呼应——地基稳固，方能起飞。"
+          "note": "由前缀『des-』（逆转、分离）加『pegar』（粘贴）构成，本义为『从地面脱离』即飞机起飞，在经济和科技语境中引申为某国家或行业进入快速发展阶段。固定搭配：『despegue económico』（经济腾飞）、『despegue tecnológico』（技术腾飞）。注意与文末『fundamento』（基础）的呼应——地基稳固，方能起飞，是作者精心设计的结尾意象。"
         }
       ]
     }
