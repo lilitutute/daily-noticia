@@ -1,304 +1,130 @@
 {
   "date": "西语外刊阅读",
   "brand": "公众号【西语SuperO】",
-  "category": "文化与社会",
+  "category": "语言与文化",
   "difficulty": "C1",
-  "wordCount": "约1050词",
-  "title": "El debate | ¿Los museos tienen que limitar el número de visitantes?",
-  "subtitle": "博物馆该限制参观人数吗？——盈利与公共服务之间的抉择",
-  "resumenEs": "El artículo recoge dos posturas sobre la masificación en los museos: Eloísa Pérez Santos advierte que limitar el acceso vulnera los derechos culturales y propone estrategias alternativas antes de restringir el aforo, mientras que Antoni Laporte argumenta que la saturación es un problema de los grandes centros y que conocer los distintos perfiles de visitantes permite gestionar mejor los flujos sin renunciar a la misión democratizadora del museo.",
-  "resumenZh": "本文呈现了关于博物馆过度拥挤问题的两种立场：埃洛伊萨·佩雷斯·桑托斯警告称限制入场会侵犯文化权利，并主张在限流之前先采取替代策略；而安东尼·拉波特则认为饱和问题只属于少数大型机构，了解不同参观者类型有助于更好地管理人流，同时不放弃博物馆的民主化使命。",
+  "wordCount": "约650词",
+  "title": "La curiosa supresión de un artículo definido",
+  "subtitle": "一个定冠词的奇特消失",
+  "resumenEs": "El columnista analiza un fenómeno gramatical en expansión en los medios hispanófonos: la omisión del artículo definido en construcciones partitivas, como «el 15% de españoles» en lugar de «el 15% de los españoles». Apoyándose en la Nueva Gramática académica, demuestra que el artículo es semánticamente necesario para indicar que el segundo elemento representa una totalidad. Atribuye el origen del fenómeno al castellano hablado por catalanohablantes —siguiendo a Manuel Seco—, aunque matiza que la supresión tampoco es obligatoria en catalán normativo. Apunta además a una posible influencia del inglés en textos científicos. Concluye con una crítica a los periodistas que descuidan la precisión gramatical.",
+  "resumenZh": "专栏作者分析了一个在西班牙语媒体中蔓延的语法现象：在部分结构中省略定冠词，如用「el 15% de españoles」代替规范的「el 15% de los españoles」。他援引皇家学院语法著作，论证定冠词在语义上不可或缺，因为它标志着第二个成分代表一个整体。他沿用曼努埃尔·塞科的观点，将这一现象的起源归因于加泰罗尼亚语使用者所说的西班牙语，但同时指出，省略冠词在规范加泰罗尼亚语中也并非必须。他还指出英语对科学文本可能产生的影响，最后批评了忽视语法精确性的新闻从业者。",
   "paragraphs": [
     {
       "id": 1,
-      "es": "Una de las imágenes actuales más icónicas en el ámbito museístico es la fotografía de la Gioconda rodeada por decenas de personas intentando captarla con sus móviles. Convertida en cliché mediático, se suele utilizar como prueba de la llamada <strong>masificación</strong> de los museos, aunque en realidad constituye solo una perspectiva muy <strong>parcial</strong> y distorsionada del fenómeno.",
-      "zh": "当今博物馆领域最具代表性的画面之一，是《蒙娜丽莎》被数十人围绕、争相用手机拍摄的照片。这张照片已成为媒体陈词滥调，常被用作博物馆所谓过度拥挤的佐证，但实际上它呈现的只是这一现象极为片面且失真的视角。",
+      "es": "Una curiosa desviación gramatical se va extendiendo a gran velocidad por los medios informativos, la supresión de un artículo en las construcciones partitivas: \"El 15% de españoles\", \"la mayor parte de regiones\", \"el resto de ciudades\"… Es más fácil oír y leer eso en ellos que la fórmula tradicional que sigue usando la inmensa mayoría de los hablantes.",
+      "zh": "一种奇特的语法偏差正在新闻媒体中迅速蔓延：在部分结构中省略冠词，如「15%的西班牙人」、「大部分地区」、「其余城市」……在媒体中，听到和读到这种用法，反而比绝大多数说话者仍在使用的传统表达更为容易。",
       "vocab": [
         {
-          "word": "masificación",
-          "translation": "过度拥挤，大众化泛滥",
-          "note": "由 masa（大众）派生，在文化和城市语境中特指某场所因人流过多而质量下降的现象，语气带有批判色彩，比 aglomeración 更强调结构性问题。常见搭配：masificación del turismo（旅游业过度拥挤）、masificación universitaria（高校扩招问题）。"
+          "word": "se va extendiendo",
+          "translation": "正在逐渐蔓延，持续扩散",
+          "note": "『ir + gerundio』是西语中表达动作渐进性的核心结构，强调过程的持续性和逐步推进，比单纯的进行时『está extendiéndose』更突出变化的累积感。固定用法：『ir aumentando』（逐渐增加）、『ir perdiendo』（逐渐失去）、『ir cobrando forma』（逐渐成形）。在新闻报道中，这一结构常用于描述社会趋势或现象的蔓延，是B2以上必须掌握的语法结构。"
         },
         {
-          "word": "parcial",
-          "translation": "片面的；偏袒的",
-          "note": "一词多义：既可表示不完整的、片面的（una visión parcial = 片面的视角），也可表示偏袒某方的（un juez parcial = 不公正的法官），需根据语境判断。此处为前者，与 distorsionada（失真的）并列，共同批判媒体对博物馆拥挤问题的误导性呈现。"
+          "word": "supresión",
+          "translation": "省略，删除，取消",
+          "note": "来自动词『suprimir』（删除、取消），由前缀『sub-/sup-』（在……之下）加『premere』（压制）构成，字面意为『压制使其消失』。固定搭配：『supresión de un artículo』（省略冠词）、『suprimir un puesto de trabajo』（裁撤职位）、『suprimir una ley』（废除法律）。注意与英语『suppression』的对应关系，以及与『omisión』（遗漏，更强调无意为之）的区别：『supresión』更强调主动去除。"
         }
       ]
     },
     {
       "id": 2,
-      "es": "Los grandes museos se han transformado en <strong>polos de atracción</strong> para un turismo impulsado por las redes y, con frecuencia, orientado al exhibicionismo en los medios. La <strong>democratización</strong> del turismo les ha permitido aumentar sus cifras de visitantes y defender así su relevancia social y presupuestaria. Cada inicio de año, los rankings de los más visitados, generalmente el Prado, el Thyssen, el Reina Sofía y, en ocasiones, el Guggenheim Bilbao, ocupan los titulares.",
-      "zh": "大型博物馆已转变为由社交媒体驱动、常以晒图为目的的旅游吸引极。旅游的大众化使它们得以提升参观人数，从而捍卫自身的社会与预算层面的重要性。每年年初，参观人数最多的博物馆排行榜——通常是普拉多、提森、索菲亚王后，有时还有毕尔巴鄂古根海姆——便会占据各大头条。",
+      "es": "Como señala la Nueva Gramática de las academias, el primer elemento (\"una mayoría\", \"el 15%\", \"una parte\") se refiere a una porción de determinado dominio; y el segundo (\"los españoles\", \"las ciudades\", \"las regiones\") designa esa colectividad entera. El artículo definido sirve precisamente para representar que hablamos de un todo: no es lo mismo \"el seguro pagó gastos del siniestro\" que \"el seguro pagó los gastos del siniestro\". Tampoco es igual \"encontré ese defecto en una docena de casas que vi este verano\" (y esas son todas las que vi) que \"encontré ese defecto en una docena de las casas que vi este verano\" (lo encontré solamente en una parte). Por tanto, las obras académicas recomiendan las variantes que no omiten el artículo.",
+      "zh": "正如皇家学院《新语法》所指出的，第一个成分（「多数」「15%」「一部分」）指的是某一范围内的一个份额；第二个成分（「西班牙人」「城市」「地区」）则指代整个集合。定冠词的作用恰恰在于表明我们谈论的是一个整体：「保险公司支付了事故的费用」与「保险公司支付了事故的全部费用」并不相同。同样，「我在今夏看过的十几栋房子里发现了这个缺陷」（那就是我看过的全部）与「我在今夏看过的房子中的十几栋里发现了这个缺陷」（只在其中一部分发现）也不一样。因此，学院著作推荐不省略冠词的变体。",
       "vocab": [
         {
-          "word": "polos de atracción",
-          "translation": "吸引极，吸引中心",
-          "note": "固定搭配，源自物理学磁极概念，引申为对人流或资源具有强烈聚集效应的地点或机构，新闻文体中高频使用。注意 polo 在此为比喻用法，与后文第14段再次出现的 polos de atracción del desarrollo turístico 形成呼应。"
+          "word": "designa",
+          "translation": "指称，指代；任命",
+          "note": "动词『designar』在语言学语境中意为『以语言符号指称某一概念或实体』；在行政语境中意为『任命』（『designar a alguien para un cargo』任命某人担任职务）。这是一词多义的典型案例，两种含义在新闻中均高频出现，需根据语境判断。同族词：『designación』（指称；任命）、『denominación』（名称）。"
         },
         {
-          "word": "democratización",
-          "translation": "民主化，大众化普及",
-          "note": "在文化和经济语境中指某事物从精英专属变为大众可及的过程，与后文 elitismo 形成直接对照，是本文的核心议题词。同族词：democratizar（动词）、democratizadora（形容词，见第15段）。"
+          "word": "no omiten",
+          "translation": "不省略，不遗漏",
+          "note": "动词『omitir』（省略、遗漏），来自拉丁语『omittere』，意为『有意或无意地略去』。注意与『suprimir』（主动删除）的区别：『omitir』更强调遗漏或略去，不一定有主动意图。固定搭配：『omitir información』（遗漏信息）、『omitir el artículo』（省略冠词）。同族词：『omisión』（遗漏）在法律文体中极为常见：『omisión de socorro』（见危不救罪）。"
         }
       ]
     },
     {
       "id": 3,
-      "es": "Algunas exposiciones alcanzan cifras récord, lo que les garantiza un breve espacio público en un contexto en el que la información cultural suele tener poca <strong>visibilidad</strong>. Que muchas personas deseen visitar museos es positivo, pero las cifras elevadas no siempre reflejan calidad. La <strong>afluencia</strong> también depende de la ubicación en los circuitos turísticos, la estrategia comunicativa o el presupuesto, y no solo de la relevancia de las colecciones o de la experiencia ofrecida.",
-      "zh": "部分展览创下参观人数纪录，这为它们在文化信息曝光度普遍偏低的背景下赢得了短暂的公众关注。许多人希望参观博物馆固然是好事，但高数字并不总能反映质量。参观人数同样取决于是否位于旅游线路上、传播策略或预算，而不仅仅取决于馆藏的重要性或所提供的参观体验。",
+      "es": "La ausencia de esa partícula sí tiene sentido cuando se usa un sustantivo que no representa totalidad: \"En la elección votó un 80% de alumnos\" (y un 20% de profesores, por ejemplo). Porque el artículo cambia el significado: \"En la elección votó un 80% de los alumnos\" (mientras que el otro 20% se quedó en casa estudiando).",
+      "zh": "当所用名词不代表整体时，省略该小品词确实有其道理：「选举中有80%的学生投了票」（例如，还有20%的教师）。因为冠词会改变含义：「选举中有80%的学生投了票」（而另外20%留在家里学习）。",
       "vocab": [
         {
-          "word": "visibilidad",
-          "translation": "曝光度，能见度",
-          "note": "在媒体和传播语境中指某议题或机构获得公众关注的程度，比 popularidad 更强调被看见的机会，常见搭配为 tener/ganar visibilidad（获得曝光度）、poca visibilidad（曝光度低）。"
+          "word": "partícula",
+          "translation": "小品词，语法虚词；粒子",
+          "note": "来自拉丁语『particula』（小部分），在语言学中指冠词、介词、连词等无实义但承担语法功能的功能词。在物理学中指『粒子』（『partícula subatómica』亚原子粒子）。典型的跨学科词汇，词义由具体（小部分）引申至两个不同专业领域。注意与『artículo』（冠词，特指冠词这一类）的包含关系：冠词是小品词的一种。"
         },
         {
-          "word": "afluencia",
-          "translation": "（人流）涌入量，参观人数",
-          "note": "正式书面词，特指人群向某地聚集的数量，afluencia de visitantes 是博物馆和旅游报道中的标准表达，比 número de visitantes 更简洁正式。同族词：afluir（动词，涌入）、afluente（支流，引申为汇聚之物）。"
+          "word": "tiene sentido",
+          "translation": "有道理，说得通，有意义",
+          "note": "高频固定搭配，『tener sentido』字面意为『拥有意义』，引申为『合乎逻辑、说得通』。注意其否定形式『no tiene sentido』（没有道理、毫无意义）在口语和书面语中同样极为常见。类似结构：『cobrar sentido』（变得有意义）、『perder el sentido』（失去意义；昏迷）。注意『sentido』的多义性：『sentido común』（常识）、『sentido del humor』（幽默感）、『en ese sentido』（在这个意义上）。"
         }
       ]
     },
     {
       "id": 4,
-      "es": "De los más de 100.000 museos que hay en el mundo, menos del 1% <strong>afronta</strong> verdaderos problemas de saturación, normalmente concentrados en días concretos y en salas que <strong>albergan</strong> obras emblemáticas. Basta recorrer el Prado un martes de enero o ciertos espacios del Louvre para comprobar que la visita puede transcurrir en relativa soledad.",
-      "zh": "全球逾10万座博物馆中，不足1%面临真正的饱和问题，且通常集中在特定日期和陈列标志性作品的展厅。只需在一月的某个周二逛逛普拉多，或走进卢浮宫的某些区域，便可发现参观过程完全可以在相对清静中进行。",
+      "es": "Manuel Seco ya había recogido este fenómeno en su Diccionario de dudas (1986), y atribuía el origen a \"un uso propio del castellano hablado por catalanes\". \"El uso normal castellano\", concluía, \"sería 'la mayoría de los', 'el resto de los'…\". Esa idea de Seco coincide con mi más modesta observación. Pero lo curioso es que tales omisiones no son obligadas en catalán, según se lee en la Gramàtica del Institut d'Estudis Catalans (1995 y 2007): \"Con estos cuantificadores, el sintagma que designa la totalidad puede no llevar artículo definido, sin que el significado de la construcción se vea afectado: la mayoría de capítulos del libro [= la mayoría de los capítulos del libro]\".",
+      "zh": "曼努埃尔·塞科早在其1986年的《疑难词典》中就已记录了这一现象，并将其起源归因于「加泰罗尼亚人所说的西班牙语中的一种特有用法」。他总结道，「正常的西班牙语用法」应为「la mayoría de los」、「el resto de los」……塞科的这一观点与我更为浅薄的观察不谋而合。但耐人寻味的是，根据加泰罗尼亚语言研究院1995年和2007年版《语法》，这类省略在加泰罗尼亚语中并非必须：「使用这些量词时，指称整体的名词短语可以不带定冠词，而不影响该结构的含义：la mayoría de capítulos del libro（= la mayoría de los capítulos del libro）」。",
       "vocab": [
         {
-          "word": "afronta",
-          "translation": "面对，应对（挑战或困难）",
-          "note": "比 enfrentar 更正式，强调主动直面某一严峻局面，常用于新闻标题和社论，搭配结构为 afrontar + 名词（问题/挑战/crisis）。注意与 confrontar 的区别：afrontar 更强调承担和面对，confrontar 更强调对抗和比较。"
+          "word": "atribuía el origen a",
+          "translation": "将起源归因于",
+          "note": "固定搭配『atribuir + 名词 + a』，意为『将某事物的原因或来源归于某人或某事』。固定搭配：『atribuir la culpa a』（将责任归咎于）、『atribuir el éxito a』（将成功归因于）、『atribuirse el mérito』（将功劳归于自己）。同族词：『atribución』（归因）、『atributo』（属性）。注意与『achacar』（归咎，带有负面含义）的区别：『atribuir』语气中性，『achacar』暗示将责任推卸给他人。"
         },
         {
-          "word": "albergan",
-          "translation": "容纳，收藏，承载",
-          "note": "albergar 本义为提供住所，引申为容纳或收藏，在博物馆和建筑语境中指空间内存放或展示某物，比 contener 更具文学色彩。常见搭配：albergar una colección（收藏一批藏品）、albergar a refugiados（收容难民）。"
+          "word": "sin que + 虚拟式",
+          "translation": "而不……，在不……的情况下",
+          "note": "重要语法结构，『sin que』后接虚拟式，表示『在某事没有发生的情况下』，相当于英语『without + gerund』。本文『sin que el significado se vea afectado』（而不影响含义）是典型用法。注意与『sin + 动词原形』的区别：当主句和从句主语相同时用『sin + 不定式』（『salió sin decir nada』他没说话就走了）；主语不同时必须用『sin que + 虚拟式』（『salió sin que nadie lo viera』他走了，没有人看见）。"
         }
       ]
     },
     {
       "id": 5,
-      "es": "Los directores de varios grandes museos españoles han defendido priorizar la experiencia óptima frente a los récords de taquilla, pero la realidad muestra políticas sostenidas de <strong>incremento</strong> de públicos, especialmente desde el <strong>desplome</strong> de visitas en la pandemia. La mayoría de las veces estas políticas no se enfocan a una mayor asistencia de la comunidad local.",
-      "zh": "西班牙多家大型博物馆的馆长声称优先考虑最佳参观体验而非票房纪录，但现实却显示出持续扩大受众的政策——尤其是自疫情期间参观人数骤降以来。这些政策在大多数情况下并非着眼于提升本地社区的参观率。",
+      "es": "Un trabajo del profesor Carles Riera i Fonts (Aspectes sintàctics i estilístics de la llengua catalana, 2019) muestra que los diccionarios de catalán usan sobre todo la opción \"la mayoría de los\" cuando incluyen un ejemplo. Así, en el Diccionari de la llengua catalana (2007) hallamos \"van aprovar la majoria de les propostes\", \"la major part dels vots emesos\", \"la majoria dels segments del tronc\"… Y de ese modo también lo escribía habitualmente Pompeu Fabra.",
+      "zh": "卡莱斯·列拉·丰斯教授的一项研究（《加泰罗尼亚语的句法与文体面貌》，2019年）表明，加泰罗尼亚语词典在提供例句时，主要使用「la mayoría de los」这一选项。例如，在2007年版《加泰罗尼亚语词典》中，我们可以找到「van aprovar la majoria de les propostes」（他们通过了大多数提案）、「la major part dels vots emesos」（所投票数的大部分）、「la majoria dels segments del tronc」（树干的大多数节段）……蓬佩乌·法布拉通常也是这样写的。",
       "vocab": [
         {
-          "word": "incremento",
-          "translation": "增长，增加",
-          "note": "正式书面词，比 aumento 更常见于政策文件、统计报告和新闻社论，常见搭配为 incremento de + 名词（公众/收入/访客）。注意：incremento 强调数量的增长，而 mejora 强调质量的提升，两者不可混用。"
-        },
-        {
-          "word": "desplome",
-          "translation": "骤降，崩跌",
-          "note": "比 caída 语气强烈得多，强调急剧且幅度巨大的下跌，常用于经济、股市或统计数据语境，带有灾难性色彩。同族词：desplomarse（动词，骤然崩跌）。对比：caída（普通下跌）< descenso（下降）< desplome（崩跌）。"
+          "word": "hallamos",
+          "translation": "我们发现，我们找到",
+          "note": "动词『hallar』的第一人称复数现在时，比『encontrar』更正式，多用于书面语和学术文体。同族词『hallazgo』（发现、找到之物）是新闻报道中描述研究成果的高频词：『los hallazgos del estudio』（研究发现）、『un hallazgo arqueológico』（考古发现）、『un hallazgo fortuito』（意外发现）。掌握『hallar/hallazgo』这一词族，可在学术和新闻文体中替代『encontrar/descubrimiento』，提升表达层次。"
         }
       ]
     },
     {
       "id": 6,
-      "es": "El fuerte peso del turismo lo confirma: el 69% del público del Guggenheim, el 67,3% del Prado, el 65,9% del Reina Sofía y el 48,8% del Thyssen lo forman extranjeros. La <strong>brecha</strong> entre público local y <strong>foráneo</strong> crece y no parece explicarse por el aumento de residentes inmigrantes, aunque las estadísticas son escasas.",
-      "zh": "旅游业的强势地位印证了这一点：古根海姆69%、普拉多67.3%、索菲亚王后65.9%、提森48.8%的观众均为外国人。本地观众与外地观众之间的差距持续扩大，且似乎无法用移民居民数量的增加来解释，尽管相关统计数据十分匮乏。",
+      "es": "Por tanto, la presencia del artículo es normal en catalán, como me ratifican algunos hablantes nativos. Ahora bien, en las entradas con términos científicos —sigo con Riera— sí se aprecia la supresión (\"la majoria de ratapinyades\" [murciélagos]; \"la majoria de primats\")… Eso tal vez se deba a que en estas definiciones científicas ha influido un texto previo en inglés, idioma en el que también es posible la omisión cuando el sustantivo refiere una totalidad absoluta (por ejemplo, most trees se traduciría palabra por palabra como \"la mayoría de árboles\", pero en la práctica equivale a \"la mayoría de todos los árboles\"). ¿Estará una vez más el inglés detrás de todo?",
+      "zh": "因此，冠词的存在在加泰罗尼亚语中是正常的，一些母语者也向我证实了这一点。然而，在含有科学术语的词条中——我继续援引列拉的研究——确实可以观察到省略现象（「la majoria de ratapinyades」[蝙蝠]；「la majoria de primats」[灵长类]）……这或许是因为这些科学定义受到了英语原文的影响，而在英语中，当名词指称绝对整体时，省略同样是可能的（例如，most trees直译为「la mayoría de árboles」，但实际上等同于「la mayoría de todos los árboles」）。难道又是英语在背后作祟？",
       "vocab": [
         {
-          "word": "brecha",
-          "translation": "差距，鸿沟",
-          "note": "本义为城墙上的缺口，引申为群体间的不平等差距，新闻中常见搭配有 brecha digital（数字鸿沟）、brecha salarial（薪资差距），语气比 diferencia 更强调结构性不平等。"
+          "word": "ratifican",
+          "translation": "证实，确认，批准",
+          "note": "动词『ratificar』，来自拉丁语『ratus』（确定的）加『facere』（做），意为『正式确认某事为真』。注意其两种核心用法：①『证实』（本文含义：『ratificar una observación』证实一个观察）；②法律/外交语境中的『批准』（『ratificar un tratado』批准条约）。同族词：『ratificación』（批准、确认）在外交新闻中极为常见。注意与『confirmar』（确认，更口语）的区别：『ratificar』更正式，常用于官方或学术语境。"
         },
         {
-          "word": "foráneo",
-          "translation": "外地的，外来的",
-          "note": "比 extranjero 范围更广，既可指外国人，也可指来自本国其他地区的人，在文化和旅游语境中常与 local 对举使用。此处 público local y foráneo（本地与外地观众）构成本段的核心对立。"
+          "word": "se aprecia",
+          "translation": "可以观察到，可以察觉到",
+          "note": "动词『apreciar』的反身被动结构，在学术和新闻文体中意为『可以观察到、可以察觉到』，是描述现象存在的高级表达。注意『apreciar』的多义性：①『观察到、察觉』（本文含义，B2-C1学术用法）；②『欣赏、珍视』（『apreciar el arte』欣赏艺术）；③『升值』（『el euro se ha apreciado』欧元升值，经济术语）。三种含义在不同语境中均高频出现，是典型的一词多义词。"
         }
       ]
     },
     {
       "id": 7,
-      "es": "Los museos se debaten hoy entre rentabilidad y servicio público, en un contexto en el que, a menudo, los medios <strong>privilegian</strong> las cifras para demostrar su rentabilidad social por encima de sus programas educativos o de <strong>inclusión</strong>.",
-      "zh": "博物馆如今在盈利与公共服务之间左右为难，而在这一背景下，媒体往往优先关注数字来证明其社会效益，而非其教育或包容性项目。",
+      "es": "Quienes hacen un uso profesional del castellano, tengan o no el catalán como lengua materna, deberían aplicarse a ello con rigor y precisión, del mismo modo que también se le exigirá una sintaxis catalana correcta a quien hable castellano como lengua familiar y trabaje en un medio en catalán. Sin embargo, más bien parece que a la mayoría de periodistas todo esto les importa poco.",
+      "zh": "无论是否以加泰罗尼亚语为母语，凡是以职业方式使用西班牙语的人，都应严格而精确地对待这一问题，正如同样会要求以西班牙语为家庭语言、在加泰罗尼亚语媒体工作的人掌握正确的加泰罗尼亚语句法一样。然而，看起来大多数记者对这一切都漠然置之。",
       "vocab": [
         {
-          "word": "privilegian",
-          "translation": "优先考虑，给予特权",
-          "note": "比 prefieren 更正式，强调在多个选项中将某一项置于优先或特权地位，常用于批评性分析文体，含有不公平地偏重的隐含意味。同族词：privilegio（特权）、privilegiado（享有特权的）。"
+          "word": "tengan o no + 名词",
+          "translation": "无论是否拥有……",
+          "note": "重要语法结构，『tener o no + 名词/形容词』使用虚拟式，表达让步关系，相当于英语『whether or not they have』。这是西语让步结构的核心形式之一：『sea como sea』（无论如何）、『quieran o no』（无论是否愿意）、『tenga o no razón』（无论是否有道理）。注意虚拟式在让步从句中的强制性使用，是C1级别的重要语法考点。"
         },
         {
-          "word": "inclusión",
-          "translation": "包容性，社会融合",
-          "note": "文化政策核心术语，指确保边缘群体（残障人士、低收入者、移民等）能够平等参与文化生活，与 exclusión 和 elitismo 形成本文的核心对立概念。常见搭配：inclusión social（社会融合）、políticas de inclusión（包容性政策）。"
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "es": "La limitación de visitantes no se <strong>abordó</strong> en la 40ª Asamblea General del Consejo Internacional de Museos (Dubái, 2025), donde sí se destacó la necesidad de fortalecer los museos locales, apoyar a los profesionales, profundizar en la transformación digital, promover la inclusión social, proteger las colecciones en situaciones de emergencia y garantizar los derechos culturales, que reconocen que toda persona debe poder acceder, disfrutar, representarse y ser representado en la cultura y participar en la definición de sus políticas.",
-      "zh": "参观人数限制问题并未在国际博物馆协会第40届全体大会（2025年，迪拜）上得到讨论，大会着重强调的是：加强地方博物馆建设、支持专业人员、深化数字化转型、促进社会包容、保护紧急情况下的馆藏，以及保障文化权利——即承认每个人都应能够接触、享受文化，在文化中被呈现与代表，并参与文化政策的制定。",
-      "vocab": [
-        {
-          "word": "abordó",
-          "translation": "讨论，着手处理",
-          "note": "abordar 在议题和问题语境中表示正式提出并处理某一议题，比 tratar 更强调主动介入，常见于新闻报道和政策文件，搭配结构为 abordar + 名词（问题/议题/reforma）。此处否定形式 no se abordó 强调该议题被刻意回避或忽视。"
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "es": "Cualquier restricción de acceso debería ser fruto de <strong>consensos</strong> amplios y no de decisiones unilaterales. La visita al museo es una forma de trascender la exclusión social y contribuir a la identidad y la <strong>cohesión</strong> comunitaria. Al final, el debate es qué modelo de museo deseamos: instituciones elitistas y orientadas al turismo o espacios accesibles, sostenibles e inclusivos que actúen como agentes de transformación social.",
-      "zh": "任何限制入场的措施都应是广泛共识的产物，而非单方面决定的结果。参观博物馆是超越社会排斥、促进身份认同与社区凝聚力的一种方式。归根结底，这场争论的核心在于：我们想要什么样的博物馆模式——精英化、以旅游为导向的机构，还是可及、可持续、具有包容性、能够充当社会变革推动者的空间？",
-      "vocab": [
-        {
-          "word": "consensos",
-          "translation": "共识，协商一致",
-          "note": "政治和政策文体核心词，强调多方参与、协商达成的一致意见，与 decisiones unilaterales（单方面决定）在本句中形成直接对立。注意：consenso 在西班牙语中通常用复数 consensos 表示多个领域或层面的共识。"
+          "word": "aplicarse a",
+          "translation": "认真对待，专注于，致力于",
+          "note": "固定搭配『aplicarse a + 名词/动词原形』，意为『认真投入、专注于某事』，强调主动的努力和专注。注意与『aplicar』（应用，及物动词）的区别：『aplicarse』（反身）强调主体对自身的要求和投入。固定搭配：『aplicarse con rigor』（严格对待）、『aplicarse al estudio』（专心学习）。同族词：『aplicación』（应用；努力）、『aplicado』（勤奋的）。"
         },
         {
-          "word": "cohesión",
-          "translation": "凝聚力，团结",
-          "note": "社会学术语，cohesión social 指社会成员之间的归属感与相互联结，是文化政策讨论中的高频词，常与 identidad（身份认同）并列使用。对比：cohesión（凝聚，强调向心力）vs. integración（整合，强调融入过程）。"
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "es": "Los sistemas de reserva previa, habituales al limitar el <strong>aforo</strong>, penalizan a quienes tienen menor competencia digital y exigen una planificación ausente en muchas visitas potenciales. Antes de implementar restricciones, los museos deberían desplegar estrategias alternativas: observación de visitantes para comprender flujos y patrones de visita; rediseño de espacios expositivos; creación de recorridos alternativos y propuestas interpretativas novedosas y participativas que diversifiquen el interés más allá de las principales obras.",
-      "zh": "预约系统在限制入场人数时十分普遍，但它惩罚了数字能力较弱的人群，并要求许多潜在参观者进行他们原本不具备的提前规划。在实施限制措施之前，博物馆应先部署替代策略：观察参观者以了解人流规律和参观模式；重新设计展览空间；开辟替代参观路线，并推出新颖的参与式诠释方案，将观众兴趣引导至主要作品之外。",
-      "vocab": [
-        {
-          "word": "aforo",
-          "translation": "（场所）最大容纳人数，限流",
-          "note": "西班牙语特有的场所管理术语，指建筑或活动场所被批准容纳的最大人数，疫情期间因 reducción de aforo（限流）而广为人知，英语无直接对应词。常见搭配：limitar el aforo（限制容量）、aforo completo（满员）。"
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "es": "Solo en última instancia debería recurrirse a la regulación puntual de aforo, sin olvidar su reto principal: conectar con la comunidad, superar el <strong>halo</strong> de elitismo que aún tienen nuestros museos y hacerlos más cercanos, participativos y accesibles.",
-      "zh": "只有在万不得已时才应诉诸临时性的人数管控，同时不能忘记博物馆的核心挑战：与社区建立联结，克服我们的博物馆至今仍带有的精英主义光环，使其更加亲近大众、参与性更强、更易于接触。",
-      "vocab": [
-        {
-          "word": "halo",
-          "translation": "光环，晕轮",
-          "note": "本义为宗教图像中圣人头顶的光晕，引申为某事物散发出的抽象氛围或印象，halo de elitismo 指博物馆给人的精英化刻板印象，带有批判性语气。心理学中还有 efecto halo（晕轮效应），指以偏概全的认知偏差。"
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "es": "Para amplias <strong>capas</strong> de la población, los servicios que reciben mucho público son los más deseados y, según en cuáles, ello resulta un buen indicador de calidad. Recuerdo a mi abuelo decir que prefería los restaurantes llenos que aquellos en los que no había nadie, pues ello significaba, en la mayoría de los casos, que allí se comía bien. Hace años que sabemos que para comer en un buen restaurante debemos pedir hora. ¿Deberemos hacerlo para poder visitar los museos?",
-      "zh": "对于广大民众而言，人气旺盛的服务场所往往是最受追捧的，在某些情况下，这也是质量的良好指标。我记得祖父说他更喜欢客满的餐厅，而不是空无一人的，因为在大多数情况下，那意味着那里的饭菜好吃。多年前我们就知道，要在好餐厅吃饭得提前预约。难道我们也要预约才能参观博物馆吗？",
-      "vocab": [
-        {
-          "word": "capas",
-          "translation": "阶层，群体，层面",
-          "note": "capas de la población 是新闻和社会学文体中的固定搭配，字面意为人口的各个层次，指社会中不同收入、教育或文化背景的群体，比 sectores 更强调垂直的社会分层。常见搭配：amplias capas（广大阶层）、capas medias（中间阶层）。"
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "es": "Algunos museos europeos, como el Van Gogh o el Louvre, ya han empezado a limitar el flujo diario de público a sus exposiciones permanentes. El argumento es garantizar la calidad de la visita, pese a la <strong>disminución</strong> de los ingresos que supone. Visitar una exposición con mucho público resulta un <strong>engorro</strong> si no hay posibilidad de disfrutar de una obra sin tener que esperar a que se marchen quienes están en primera fila o sin soportar a quienes se cruzan por delante mientras estás saboreándola.",
-      "zh": "梵高博物馆、卢浮宫等部分欧洲博物馆已开始限制每日常设展览的参观人流。理由是保障参观质量，尽管这意味着收入的减少。在人满为患的展览中参观是件烦心事——你无法在不等候前排人离开、或不忍受有人从你面前穿过的情况下好好欣赏一件作品。",
-      "vocab": [
-        {
-          "word": "disminución",
-          "translation": "减少，降低",
-          "note": "正式书面词，比 reducción 更强调数量或程度的自然下降过程，常用于统计、经济和政策报告，搭配结构为 disminución de + 名词。对比：disminución（自然下降）vs. reducción（主动削减）vs. descenso（下降，最中性）。"
-        },
-        {
-          "word": "engorro",
-          "translation": "麻烦事，烦人的障碍",
-          "note": "口语色彩较强，指令人不耐烦的繁琐或不便，比 problema 更轻松随意，常见于日常叙述和专栏文章。形容词形式为 engorroso（令人烦恼的）：un trámite engorroso（繁琐的手续）。"
-        }
-      ]
-    },
-    {
-      "id": 14,
-      "es": "La alternativa es considerar que los grandes museos deben ser polos de atracción del desarrollo turístico o bien lugares para la iniciación, el aprendizaje, la socialización, la fascinación y el pensamiento. Resulta imposible conseguir estas <strong>finalidades</strong> en un entorno <strong>agobiante</strong> donde apenas se puede circular y mucho menos contemplar pausadamente una obra.",
-      "zh": "另一种思路是考虑：大型博物馆究竟应该是旅游发展的吸引极，还是启蒙、学习、社交、着迷与思考的场所。在一个令人窒息、几乎无法走动、更遑论静心欣赏作品的环境中，这些目标根本无从实现。",
-      "vocab": [
-        {
-          "word": "finalidades",
-          "translation": "目的，宗旨，功能目标",
-          "note": "比 objetivos 更正式，常用于机构、政策或法律文本中，强调某事物存在的根本意义与使命，复数形式 finalidades 指多项并列目标。对比：finalidad（终极目的）vs. objetivo（具体目标）vs. meta（短期目标）。"
-        },
-        {
-          "word": "agobiante",
-          "translation": "令人窒息的，压迫性的",
-          "note": "由 agobiar（使不堪重负）派生，形容使人感到身心压迫的环境或处境，比 sofocante 更强调心理层面的重压感，常用于描述拥挤、高压的空间或情绪状态。常见搭配：calor agobiante（令人窒息的酷热）、trabajo agobiante（压力极大的工作）。"
-        }
-      ]
-    },
-    {
-      "id": 15,
-      "es": "La pregunta sería qué deben hacer los museos cuando se colapsan por el éxito: ¿limitan el acceso u ofrecen barra libre a todo el mundo? Teniendo en cuenta que su misión <strong>democratizadora</strong> en relación con el aprendizaje y disfrute cultural implica que limitar el acceso resulta elitista, los grandes centros podrían aprovechar algunas oportunidades.",
-      "zh": "问题在于，当博物馆因成功而不堪重负时该怎么办：是限制入场，还是对所有人敞开大门？考虑到其在文化学习与享受方面的民主化使命意味着限制入场具有精英主义色彩，大型博物馆或许可以把握一些机遇。",
-      "vocab": [
-        {
-          "word": "democratizadora",
-          "translation": "民主化的，推动大众化的",
-          "note": "由 democratizar 派生的形容词，在文化政策语境中指使文化资源向所有社会阶层开放的功能与使命，是本文两位作者共同援引的核心价值概念。与第2段的 democratización 构成同族词呼应：democratización（名词，过程）→ democratizadora（形容词，具有该功能的）。"
-        }
-      ]
-    },
-    {
-      "id": 16,
-      "es": "No todos los visitantes somos iguales. John Falk, uno de los profesionales más reconocidos en el estudio del público de los museos, los divide en cinco categorías: exploradores (valoran el aprendizaje), facilitadores (cicerones que inician a los niños o a los amigos), buscadores de experiencias (interesados en las piezas más icónicas), profesionales o aficionados (iniciados en sus contenidos) y espirituales (inclinados a experiencias introspectivas). Una persona que va en busca de los iconos guardará la cola que sea precisa para hacerse un selfi ante el Guernica, mientras que un facilitador se sentirá a gusto allí donde los <strong>vigilantes de sala</strong> no le impongan silencio.",
-      "zh": "参观者并非都一样。博物馆观众研究领域最知名的专家之一约翰·福尔克将他们分为五类：探索者（重视学习）、引导者（带领孩子或朋友入门的向导）、体验追求者（对标志性作品感兴趣）、专业人士或爱好者（对馆藏内容有深入了解）以及精神追求者（倾向于内省体验）。一个追求标志性作品的人会不惜排队在《格尔尼卡》前自拍，而一个引导者则会在展厅管理员不强制要求安静的地方感到自在。",
-      "vocab": [
-        {
-          "word": "vigilantes de sala",
-          "translation": "展厅管理员，展厅看守",
-          "note": "博物馆运营的专业术语，指负责维持展厅秩序、保护藏品安全的工作人员，在西班牙语语境中比 guardias 更具职业专属性。vigilante 本义为警觉的、守卫的，作名词时指保安或看守人员。"
-        }
-      ]
-    },
-    {
-      "id": 17,
-      "es": "Quien busca una experiencia espiritualmente sublime aprecia el templo donde la ausencia de ruido, la moqueta y la quietud le harán llegar al nirvana ante un rothko. El museo deberá decidir a quién quiere servir, a quién atraer y, en función de ello, <strong>acomodar</strong> sus espacios, la disposición de las obras, la iluminación, los soportes para transmitir información sobre la colección, en definitiva, toda su <strong>atmósfera</strong>, a los tipos de público al que desea interesar.",
-      "zh": "寻求精神升华体验的人欣赏那种圣殿般的空间——没有噪音、铺着地毯、静谧安详，让他在罗斯科的画作前达到精神的极致。博物馆必须决定它想服务谁、吸引谁，并据此调整空间布局、作品陈列、灯光设计、传递馆藏信息的辅助设施，总而言之，调整整体氛围，以契合其目标受众群体。",
-      "vocab": [
-        {
-          "word": "acomodar",
-          "translation": "调整，使适应，使契合",
-          "note": "比 adaptar 更强调主动调整以满足特定需求，在服务和空间设计语境中常见，搭配结构为 acomodar algo a + 目标对象。注意与 acomodarse（安顿自己、就座）的区分：及物用法 acomodar algo 表示调整某物，反身用法 acomodarse 表示自身安顿。"
-        },
-        {
-          "word": "atmósfera",
-          "translation": "氛围，整体感受",
-          "note": "在文化和空间语境中指一个场所给人的综合感官与情感印象，比 ambiente 更具文学性，常用于艺术、建筑和品牌描述。对比：atmósfera（整体氛围，更抽象）vs. ambiente（环境/气氛，更具体）。"
-        }
-      ]
-    },
-    {
-      "id": 18,
-      "es": "Un museo puede servir a distintos públicos al mismo tiempo. Conocer sus necesidades permitirá adecuar la experiencia que les ofrecerá. Mientras los turistas se inclinan por los fines de semana y los festivos, el centro puede fomentar que el público local acuda el resto de los días. La menor afluencia supondrá una vivencia más tranquila y, por tanto, más <strong>satisfactoria</strong>. En el caso del Prado y el Reina Sofía, que ofrecen entrada gratis por las tardes antes del cierre, se forman colas durante la hora anterior a la apertura gratuita, lo que se traduce en que durante las dos horas anteriores a dicha apertura las salas estén más <strong>vacías</strong>.",
-      "zh": "一座博物馆可以同时服务不同类型的观众。了解各类观众的需求，将有助于为他们量身定制参观体验。旅游者倾向于在周末和节假日参观，博物馆则可以鼓励本地观众在其余时间前来。人流较少意味着更安静的体验，因而也更令人满意。以普拉多和索菲亚王后为例，两馆在闭馆前的傍晚提供免费入场，免费开放前一小时会排起长队，这反而导致免费开放前两小时展厅更为空旷。",
-      "vocab": [
-        {
-          "word": "satisfactoria",
-          "translation": "令人满意的",
-          "note": "假朋友提示：与英语 satisfactory 同源，但西语中语气更积极，不像英语有时含勉强及格之意，satisfactorio/a 在西语中通常表示真正令人满意的结果。常见搭配：resultado satisfactorio（令人满意的结果）、experiencia satisfactoria（令人满意的体验）。"
-        },
-        {
-          "word": "vacías",
-          "translation": "空旷的，空的",
-          "note": "vacío/a 的基本义为空的、空旷的，此处 las salas estén más vacías 指展厅人更少、更空旷。在抽象语境中 vacío 也可表示空虚感：sentir un vacío（感到空虚）、un vacío existencial（存在主义的空虚）。注意重音在第一音节：VÁ-cio，不要误读。"
-        }
-      ]
-    },
-    {
-      "id": 19,
-      "es": "Los museos presentan un marcado <strong>principio de Pareto</strong>. En el caso de Cataluña, en 2024, el 7% de los centros recibieron más de 250.000 visitantes, un 75% de todos los asistentes a los museos catalanes. Las aglomeraciones son un problema de ricos, de aquellos centros con recursos y capacidad para gestionar sus problemas. Sería interesante que las administraciones dedicaran mayores esfuerzos a los museos locales, la inmensa mayoría de los existentes en España, para que puedan desarrollar programas atractivos para un <strong>espectro</strong> más amplio de la población que actualmente los visita.",
-      "zh": "博物馆领域呈现出明显的帕累托原则。以加泰罗尼亚为例，2024年，7%的博物馆接待了超过25万名参观者，占加泰罗尼亚所有博物馆参观总人次的75%。过度拥挤是富人的烦恼，是那些有资源和能力管理自身问题的机构才面临的困境。若行政机构能将更多精力投入地方博物馆——它们占西班牙博物馆的绝大多数——使其能够为比现有更广泛的人群开发有吸引力的项目，将大有裨益。",
-      "vocab": [
-        {
-          "word": "principio de Pareto",
-          "translation": "帕累托原则，二八定律",
-          "note": "经济学和管理学核心概念，指约80%的结果由20%的原因产生，此处作者将其应用于博物馆领域，说明极少数大型博物馆吸引了绝大多数参观者。以意大利经济学家 Vilfredo Pareto 命名，是理解资源分配不均的重要分析框架。"
-        },
-        {
-          "word": "espectro",
-          "translation": "范围，谱系，广度",
-          "note": "本义为物理学的光谱，引申为某一维度上的全部范围，un espectro más amplio de la población 指更广泛的社会群体，是政策文件和学术文章中的常见表达。注意与 fantasma（幽灵）的区别：两者都源自希腊语 spektron，但 espectro 在现代西语中主要用于科学和抽象语境。"
+          "word": "más bien",
+          "translation": "更确切地说，倒不如说，反而",
+          "note": "高频副词短语，用于修正或反驳前文的预期，引入与之相对或更准确的描述，相当于英语『rather』或『more precisely』。固定用法：『más bien parece que』（倒不如说似乎……）、『no es triste, más bien es melancólico』（不是悲伤，更确切地说是忧郁）。注意与『mejor dicho』（更确切地说，用于自我纠正）的区别：『más bien』更强调对比和反转，『mejor dicho』更强调精确化表达。"
         }
       ]
     }
