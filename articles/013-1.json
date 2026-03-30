@@ -11,7 +11,7 @@
   "paragraphs": [
     {
       "id": 1,
-      "es": "En 2026, el planeta ya supera los 8 300 millones de habitantes, según datos de la ONU. La cifra es elevada, pero muy alejada de aquel «crecimiento infinito» que se temía en los años sesenta, reflejado en artículos como Doomsday: Friday, 13 November, AD 2026. El viejo miedo a una <strong>superpoblación</strong> descontrolada ya no encaja con los datos. Pero ¿por qué?",
+      "es": "En 2026, el planeta ya supera los 8 300 millones de habitantes, según datos de la ONU. La cifra es elevada, pero muy alejada de aquel «crecimiento infinito» que se temía en los años sesenta, reflejado en artículos como <em>Doomsday: Friday, 13 November, AD 2026</em>. El viejo miedo a una <strong>superpoblación</strong> descontrolada ya no encaja con los datos. Pero ¿por qué?",
       "zh": "据联合国数据，2026年地球人口已超过83亿。这一数字虽然庞大，但与六十年代人们所担忧的「无限增长」相去甚远——那种恐惧曾体现在《末日：公元2026年11月13日，星期五》等文章中。对失控的人口过剩的旧有恐惧已与现实数据不符。但这是为什么呢？",
       "vocab": [
         {
@@ -40,8 +40,10 @@
     },
     {
       "id": 3,
-      "es": "Las transiciones demográficas: clave para entender el cambio. Para entender estos cambios necesitamos introducir el término de <strong>transición demográfica</strong>, es decir, el proceso histórico por el cual las poblaciones pasan de tener altas tasas de <strong>natalidad</strong> y mortalidad –típicas de sociedades preindustriales– a bajas tasas de ambos conceptos.",
-      "zh": "人口转型：理解变化的关键。要理解这些变化，我们需要引入「人口转型」这一概念，即人口从具有高出生率和高死亡率——前工业社会的典型特征——过渡到两者均低的历史过程。",
+      "sectionTitle": "Las transiciones demográficas: clave para entender el cambio",
+      "sectionTitleZh": "人口转型：理解变化的关键",
+      "es": "Para entender estos cambios necesitamos introducir el término de <strong>transición demográfica</strong>, es decir, el proceso histórico por el cual las poblaciones pasan de tener altas tasas de <strong>natalidad</strong> y mortalidad —típicas de sociedades preindustriales— a bajas tasas de ambos conceptos.",
+      "zh": "要理解这些变化，我们需要引入「人口转型」这一概念，即人口从具有高出生率和高死亡率——前工业社会的典型特征——过渡到两者均低的历史过程。",
       "vocab": [
         {
           "word": "transición demográfica",
@@ -62,13 +64,13 @@
       "vocab": [
         {
           "word": "fecundidad",
-          "translation": "生育率，育儿能力",
-          "note": "在人口学中特指『总和生育率』，即每名女性一生中平均生育的子女数。注意与『fertilidad』的区别：『fecundidad』是人口学统计概念（实际生育行为），『fertilidad』更偏向生理上的生育能力。本文中两者均指生育率，但『fecundidad』是学术规范用词。"
+          "translation": "生育率",
+          "note": "在人口学中特指『总和生育率』，即每名女性一生中平均生育的子女数。注意与『fertilidad』的区别：『fecundidad』是人口学统计概念（实际生育行为），『fertilidad』更偏向生理上的生育能力。本文中『fecundidad』是学术规范用词，在正式报道中应优先使用。"
         },
         {
           "word": "umbral de reemplazo",
           "translation": "更替水平，人口替代率",
-          "note": "人口学术语，指维持人口规模不变所需的最低生育率，通常为每名女性2.1个孩子（考虑到婴儿死亡率等因素，略高于2）。『umbral』本义为『门槛』，在学术语境中引申为『临界值、最低标准』，固定搭配：『umbral de pobreza』（贫困线）、『umbral mínimo』（最低门槛）。"
+          "note": "人口学术语，指维持人口规模不变所需的最低生育率，通常为每名女性2.1个孩子（考虑到婴儿死亡率等因素，略高于2）。『umbral』本义为『门槛』，在学术语境中引申为『临界值、最低标准』。固定搭配：『umbral de pobreza』（贫困线）、『umbral mínimo』（最低门槛）、『por debajo del umbral』（低于临界值）。"
         },
         {
           "word": "cohabitación",
@@ -79,8 +81,10 @@
     },
     {
       "id": 5,
-      "es": "La catástrofe maltusiana. El artículo alarmista de 1960, Doomsday: Friday, 13 November, AD 2026, se escribió en pleno auge de la primera transición demográfica, cuando las muertes descendían pero no la natalidad. A este hecho se sumaba un temor social a la superpoblación, alimentado también por las ideas de Thomas Malthus, quien aseguraba que la población humana crece en <strong>progresión geométrica</strong> (exponencialmente), mientras que los alimentos solo aumentan en <strong>progresión aritmética</strong> (linealmente).",
-      "zh": "马尔萨斯式灾难。1960年那篇危言耸听的文章《末日：公元2026年11月13日，星期五》，写于第一次人口转型的鼎盛时期，彼时死亡率在下降，但出生率尚未跟进。与此同时，社会对人口过剩的恐惧也在蔓延，这种恐惧部分源于托马斯·马尔萨斯的思想——他断言人口按几何级数（指数式）增长，而粮食供应只能按算术级数（线性）增加。",
+      "sectionTitle": "La catástrofe maltusiana",
+      "sectionTitleZh": "马尔萨斯式灾难",
+      "es": "El artículo alarmista de 1960, <em>Doomsday: Friday, 13 November, AD 2026</em>, se escribió en pleno auge de la primera transición demográfica, cuando las muertes descendían pero no la natalidad. A este hecho se sumaba un temor social a la superpoblación, alimentado también por las ideas de Thomas Malthus, quien aseguraba que la población humana crece en <strong>progresión geométrica</strong> (exponencialmente), mientras que los alimentos solo aumentan en <strong>progresión aritmética</strong> (linealmente).",
+      "zh": "1960年那篇危言耸听的文章《末日：公元2026年11月13日，星期五》，写于第一次人口转型的鼎盛时期，彼时死亡率在下降，但出生率尚未跟进。与此同时，社会对人口过剩的恐惧也在蔓延，这种恐惧部分源于托马斯·马尔萨斯的思想——他断言人口按几何级数（指数式）增长，而粮食供应只能按算术级数（线性）增加。",
       "vocab": [
         {
           "word": "progresión geométrica",
@@ -90,7 +94,7 @@
         {
           "word": "progresión aritmética",
           "translation": "算术级数，等差数列",
-          "note": "见上条注释。注意『aritmética』重音在第二个『e』：a-rit-**mé**-ti-ca，是西语学习者常见的重音错误。『aritmético』作形容词时意为『算术的、线性的』，在本文语境中与『geométrico』（指数的）构成核心对比。"
+          "note": "见上条注释。注意『aritmética』重音在第三音节：a-rit-**mé**-ti-ca，是西语学习者常见的重音错误。『aritmético』作形容词时意为『算术的、线性的』，在本文语境中与『geométrico』（指数的）构成核心对比。"
         }
       ]
     },
@@ -102,23 +106,25 @@
         {
           "word": "hambrunas",
           "translation": "饥荒，大规模饥饿",
-          "note": "来自『hambre』（饥饿），加后缀『-una』构成，指大规模、持续性的粮食短缺和饥饿状态，比『hambre』语气更强，强调灾难性和集体性。注意区分：『hambre』（饥饿，个人或普遍状态）vs『hambruna』（饥荒，特指历史性灾难事件）。"
+          "note": "来自『hambre』（饥饿），加后缀『-una』构成，指大规模、持续性的粮食短缺和饥饿状态，比『hambre』语气更强，强调灾难性和集体性。注意区分：『hambre』（饥饿，个人或普遍状态）vs『hambruna』（饥荒，特指历史性灾难事件，如『la Gran Hambruna irlandesa』爱尔兰大饥荒）。"
         },
         {
           "word": "catástrofe maltusiana",
           "translation": "马尔萨斯式灾难，马尔萨斯陷阱",
-          "note": "人口学和经济学术语，指马尔萨斯预言的人口增长超过粮食供应时引发的社会崩溃。形容词『maltusiano』由人名『Malthus』派生，西语中由人名派生形容词时通常加『-iano/-iana』：『marxista/marxiano』（马克思主义的）、『keynesiano』（凯恩斯主义的）、『darwiniano』（达尔文主义的）。"
+          "note": "人口学和经济学术语，指马尔萨斯预言的人口增长超过粮食供应时引发的社会崩溃。形容词『maltusiano』由人名『Malthus』派生，西语中由人名派生形容词时通常加『-iano/-iana』：『keynesiano』（凯恩斯主义的）、『darwiniano』（达尔文主义的）、『marxiano』（马克思主义的）。"
         }
       ]
     },
     {
       "id": 7,
-      "es": "Nacimientos, defunciones y migraciones. La evolución de la población depende de los nacimientos, las <strong>defunciones</strong> y las migraciones. La combinación de estos tres fenómenos determina el crecimiento –o decrecimiento– de la población.",
-      "zh": "出生、死亡与迁移。人口演变取决于出生、死亡和迁移三大因素。这三种现象的组合决定了人口的增长——或减少。",
+      "sectionTitle": "Nacimientos, defunciones y migraciones",
+      "sectionTitleZh": "出生、死亡与迁移",
+      "es": "La evolución de la población depende de los nacimientos, las <strong>defunciones</strong> y las migraciones. La combinación de estos tres fenómenos determina el crecimiento —o decrecimiento— de la población.",
+      "zh": "人口演变取决于出生、死亡和迁移三大因素。这三种现象的组合决定了人口的增长——或减少。",
       "vocab": [
         {
           "word": "defunciones",
-          "translation": "死亡（官方/统计用语），死亡人数",
+          "translation": "死亡（官方统计用语），死亡人数",
           "note": "『defunción』是『死亡』的正式行政和统计用语，来自拉丁语『defunctus』（已故的）。注意与其他同义词的语体差异：『muerte』（死亡，通用词）、『fallecimiento』（逝世，较正式但口语可用）、『defunción』（死亡，仅用于官方文件、统计数据和学术文体）。阅读人口学文章时需识别这一正式用法。"
         }
       ]
@@ -131,7 +137,7 @@
         {
           "word": "esperanza de vida",
           "translation": "预期寿命，平均寿命",
-          "note": "人口学核心术语，指在特定死亡率条件下，某一年龄的人平均还能存活的年数，通常指出生时的预期寿命（esperanza de vida al nacer）。注意『esperanza』本义为『希望』，在此完全固化为统计学术语，是西语中词义专业化的典型案例。"
+          "note": "人口学核心术语，指在特定死亡率条件下，某一年龄的人平均还能存活的年数，通常指出生时的预期寿命（『esperanza de vida al nacer』）。注意『esperanza』本义为『希望』，在此完全固化为统计学术语，是西语中词义专业化的典型案例。固定搭配：『aumentar la esperanza de vida』（提高预期寿命）、『esperanza de vida saludable』（健康预期寿命）。"
         },
         {
           "word": "brecha",
@@ -148,24 +154,24 @@
     },
     {
       "id": 10,
-      "es": "Por el lado de los nacimientos, la baja fecundidad es ya una realidad consolidada, especialmente en los países occidentales. El <strong>índice sintético de fecundidad</strong> –que estima el número medio de hijos por mujer– ha caído de 4,7 en 1960 a 2,2 en 2026. De nuevo, las diferencias regionales son enormes: mientras países como China, Ucrania o Puerto Rico <strong>rondan</strong> el hijo por mujer, otros como Somalia, Malí o Chad superan los cinco.",
+      "es": "Por el lado de los nacimientos, la baja fecundidad es ya una realidad consolidada, especialmente en los países occidentales. El <strong>índice sintético de fecundidad</strong> —que estima el número medio de hijos por mujer— ha caído de 4,7 en 1960 a 2,2 en 2026. De nuevo, las diferencias regionales son enormes: mientras países como China, Ucrania o Puerto Rico <strong>rondan</strong> el hijo por mujer, otros como Somalia, Malí o Chad superan los cinco.",
       "zh": "在出生方面，低生育率已成为一个巩固的现实，尤其在西方国家。总和生育率——即估算每名女性平均生育子女数的指标——已从1960年的4.7降至2026年的2.2。地区差异依然巨大：中国、乌克兰或波多黎各等地每名女性生育子女数约为1个，而索马里、马里或乍得等国则超过5个。",
       "vocab": [
         {
           "word": "índice sintético de fecundidad",
           "translation": "总和生育率",
-          "note": "人口学核心指标，指假设一名女性按照某一年度各年龄组的生育率度过其育龄期，平均生育的子女总数。『sintético』在此意为『综合的、合成的』，即将不同年龄组数据综合计算的结果，而非实际追踪某一群体女性一生的生育数据。"
+          "note": "人口学核心指标，指假设一名女性按照某一年度各年龄组的生育率度过其育龄期，平均生育的子女总数。『sintético』在此意为『综合的、合成的』，即将不同年龄组数据综合计算的结果，而非实际追踪某一群体女性一生的生育数据。英语对应『Total Fertility Rate（TFR）』。"
         },
         {
-          "word": "rondan",
+          "word": "rondan (rondar)",
           "translation": "约为，徘徊在……左右",
-          "note": "动词『rondar』本义为『在某地附近游荡、巡逻』，引申为数值『在某个范围附近浮动』，是表达近似数值的地道口语表达。固定用法：『rondar los X años』（年龄约为X岁）、『rondar el X%』（约占X%）。比『aproximarse a』更口语化，在新闻报道中极为常见。"
+          "note": "动词『rondar』本义为『在某地附近游荡、巡逻』，引申为数值『在某个范围附近浮动』，是表达近似数值的地道口语表达。固定用法：『rondar los X años』（年龄约为X岁）、『rondar el X%』（约占X%）、『rondar el millón』（约为一百万）。比『aproximarse a』更口语化，在新闻报道中极为常见。"
         }
       ]
     },
     {
       "id": 11,
-      "es": "El tercer elemento son las migraciones, cuyo impacto se ha intensificado en un mundo cada vez más global y conectado. A escala mundial, el <strong>saldo migratorio</strong> es un juego de suma cero –lo que pierde un territorio lo gana otro–. Pero a nivel regional las diferencias son claras: hay zonas netamente <strong>receptoras</strong> y otras <strong>expulsoras</strong> o emisoras de población. Estas dinámicas vienen muy condicionadas por las políticas migratorias de cada país.",
+      "es": "El tercer elemento son las migraciones, cuyo impacto se ha intensificado en un mundo cada vez más global y conectado. A escala mundial, el <strong>saldo migratorio</strong> es un juego de suma cero —lo que pierde un territorio lo gana otro—. Pero a nivel regional las diferencias son claras: hay zonas netamente <strong>receptoras</strong> y otras <strong>expulsoras</strong> o emisoras de población. Estas dinámicas vienen muy condicionadas por las políticas migratorias de cada país.",
       "zh": "第三个要素是迁移，在一个日益全球化和互联的世界中，其影响已不断加深。在全球范围内，净迁移量是一个零和游戏——一个地区失去的，另一个地区得到。但在地区层面，差异十分明显：有些地区是净接收地，另一些则是净输出地或人口外流地。这些动态在很大程度上受到各国移民政策的制约。",
       "vocab": [
         {
@@ -175,25 +181,27 @@
         },
         {
           "word": "receptoras",
-          "translation": "接收的，接纳的（移民接收地）",
+          "translation": "接收的（移民接收地）",
           "note": "来自动词『recibir』（接收），形容词『receptor/a』指接收方。在本文中『zonas receptoras』（接收地区）与『zonas expulsoras』（输出地区）构成核心对比。注意『receptor』在不同语境中的用法：『país receptor』（接收国）、『receptor de radio』（收音机）——需根据语境判断含义。"
         },
         {
           "word": "expulsoras",
           "translation": "输出的，驱逐的（人口外流地）",
-          "note": "来自动词『expulsar』（驱逐、排出），形容词『expulsor/a』指输出方。『expulsar』由前缀『ex-』（向外）加词根『pulsar』（推动）构成，字面意为『向外推』。固定搭配：『expulsar población』（人口外流）、『expulsar a alguien』（驱逐某人）。"
+          "note": "来自动词『expulsar』（驱逐、排出），形容词『expulsor/a』指输出方。『expulsar』由前缀『ex-』（向外）加词根『pulsar』（推动）构成，字面意为『向外推』。固定搭配：『expulsar población』（人口外流）、『expulsar a alguien』（驱逐某人）。与『receptoras』相对，两词共同构成描述人口流动方向的核心词对。"
         }
       ]
     },
     {
       "id": 12,
-      "es": "¿Por qué sigue creciendo la población? Surgen entonces dos preguntas clave. En primer lugar, ¿cómo puede aumentar la población mundial si la fecundidad no deja de caer? La respuesta está en el aumento de la esperanza de vida. Vivimos más tiempo, lo que hace que cada persona «cuente» durante más años en el total poblacional. Así, el descenso de la fecundidad no tiene un impacto inmediato tan fuerte como <strong>cabría esperar</strong>.",
-      "zh": "为什么人口仍在增长？由此产生两个关键问题。首先，如果生育率持续下降，全球人口为何还能增长？答案在于预期寿命的提升。我们活得更长，这使得每个人在总人口中「计入」的年数更多。因此，生育率的下降并不会像人们预期的那样产生立竿见影的强烈冲击。",
+      "sectionTitle": "¿Por qué sigue creciendo la población?",
+      "sectionTitleZh": "为什么人口仍在增长？",
+      "es": "Surgen entonces dos preguntas clave. En primer lugar, ¿cómo puede aumentar la población mundial si la fecundidad no deja de caer? La respuesta está en el aumento de la esperanza de vida. Vivimos más tiempo, lo que hace que cada persona «cuente» durante más años en el total poblacional. Así, el descenso de la fecundidad no tiene un impacto inmediato tan fuerte como <strong>cabría esperar</strong>.",
+      "zh": "由此产生两个关键问题。首先，如果生育率持续下降，全球人口为何还能增长？答案在于预期寿命的提升。我们活得更长，这使得每个人在总人口中「计入」的年数更多。因此，生育率的下降并不会像人们预期的那样产生立竿见影的强烈冲击。",
       "vocab": [
         {
           "word": "cabría esperar",
           "translation": "人们可能预期的，按理说应该……",
-          "note": "『caber』（容纳、可能）的条件式『cabría』加不定式，构成表示『按照逻辑或常理本应如此』的固定表达。『como cabría esperar』（如人们所预期的）是学术和新闻文体中的高频短语，用于引出与常识预期相符或相悖的结论。注意『caber』在此为情态动词用法，与『容纳』的本义无关。"
+          "note": "『caber』（容纳、可能）的条件式『cabría』加不定式，构成表示『按照逻辑或常理本应如此』的固定表达。『como cabría esperar』（如人们所预期的）是学术和新闻文体中的高频短语，用于引出与常识预期相符或相悖的结论。注意『caber』在此为情态动词用法，与『容纳』的本义无关，是典型的语义虚化现象。"
         }
       ]
     },
@@ -205,19 +213,21 @@
         {
           "word": "declive demográfico",
           "translation": "人口衰退，人口下降",
-          "note": "『declive』来自动词『declinar』（下降、衰退），比『descenso』（下降）语气更强，带有持续性衰退的含义。『declive demográfico』是当代欧洲政策讨论中的核心词汇，与『envejecimiento』（老龄化）和『despoblación』（人口流失）共同构成人口议题的三大关键词。"
+          "note": "『declive』来自动词『declinar』（下降、衰退），比『descenso』（下降）语气更强，带有持续性衰退的含义。『declive demográfico』是当代欧洲政策讨论中的核心词汇，与『envejecimiento』（老龄化）和『despoblación』（人口流失）共同构成人口议题的三大关键词。固定搭配：『en declive』（处于衰退中）、『declive económico』（经济衰退）。"
         },
         {
           "word": "envejecimiento",
           "translation": "老龄化，老化",
-          "note": "来自动词『envejecer』（变老），名词『envejecimiento』在人口学中特指人口年龄结构向老年人口比例增大方向转变的过程。固定搭配：『envejecimiento de la población』（人口老龄化）、『envejecimiento activo』（积极老龄化，指保持健康活跃的老年生活方式）。"
+          "note": "来自动词『envejecer』（变老），名词『envejecimiento』在人口学中特指人口年龄结构向老年人口比例增大方向转变的过程。固定搭配：『envejecimiento de la población』（人口老龄化）、『envejecimiento activo』（积极老龄化）、『sociedad envejecida』（老龄化社会）。"
         }
       ]
     },
     {
       "id": 14,
-      "es": "Mirando al futuro. Según las <strong>proyecciones</strong> de Naciones Unidas, en 2100 la población mundial alcanzará los 10 180 millones de personas. La esperanza de vida seguirá aumentando hasta los 81,7 años, con una brecha de género inferior a los cuatro años. La fecundidad, por su parte, continuará descendiendo hasta situarse en torno a 1,84 hijos por mujer.",
-      "zh": "展望未来。根据联合国的预测，到2100年全球人口将达到101.8亿。预期寿命将继续提升至81.7岁，性别差距将缩小至不足四年。与此同时，生育率将继续下降，最终稳定在每名女性约1.84个孩子左右。",
+      "sectionTitle": "Mirando al futuro",
+      "sectionTitleZh": "展望未来",
+      "es": "Según las <strong>proyecciones</strong> de Naciones Unidas, en 2100 la población mundial alcanzará los 10 180 millones de personas. La esperanza de vida seguirá aumentando hasta los 81,7 años, con una brecha de género inferior a los cuatro años. La fecundidad, por su parte, continuará descendiendo hasta situarse en torno a 1,84 hijos por mujer.",
+      "zh": "根据联合国的预测，到2100年全球人口将达到101.8亿。预期寿命将继续提升至81.7岁，性别差距将缩小至不足四年。与此同时，生育率将继续下降，最终稳定在每名女性约1.84个孩子左右。",
       "vocab": [
         {
           "word": "proyecciones",
@@ -234,7 +244,7 @@
         {
           "word": "longevidad",
           "translation": "长寿，寿命延长",
-          "note": "来自拉丁语『longus』（长）加『vita』（生命），指个体或群体的长寿状态或寿命延长的趋势。与『esperanza de vida』（预期寿命，统计指标）的区别在于：『longevidad』更强调长寿这一现象本身，而非具体数值。固定搭配：『aumento de la longevidad』（寿命延长）、『longevidad saludable』（健康长寿）。"
+          "note": "来自拉丁语『longus』（长）加『vita』（生命），指个体或群体的长寿状态或寿命延长的趋势。与『esperanza de vida』（预期寿命，统计指标）的区别在于：『longevidad』更强调长寿这一现象本身，而非具体数值。固定搭配：『aumento de la longevidad』（寿命延长）、『longevidad saludable』（健康长寿）、『récord de longevidad』（长寿纪录）。"
         }
       ]
     },
