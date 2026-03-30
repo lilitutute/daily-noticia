@@ -15,14 +15,19 @@
       "zh": "在特权世界里，上学可能是一种无聊而平淡的习惯，教育也不过是一种毫不耀眼的商品，远不如金钱和成功来得有价值。而在这个世界之外，教育有时是一种值得以生命相搏的馈赠，走向学校、在那里度过一天，可能是一个永远无法实现的梦，或者是一个致命的陷阱。在加沙，以色列军队这些年来以同样的凶残轰炸学校和医院，仿佛这是一项英勇的专长。在本国境内的难民帐篷里，孩子们从废墟中抢救书本和练习册，在能找到的任何地方练习书法——破碎的纸片上，半烧焦的报纸和书籍的页边空白处。",
       "vocab": [
         {
+          "word": "trampa mortal",
+          "translation": "致命陷阱，死亡陷阱",
+          "note": "『trampa』本义为捕猎用的陷阱，引申为任何危险的圈套或困境。『mortal』来自拉丁语『mortalis』（会死的），加后缀『-al』构成形容词，意为『致命的』。注意『mortal』的多义性：①『致命的』（『herida mortal』致命伤）；②『凡人的』（『ser mortal』凡人）；③『极度的』（『aburrimiento mortal』极度无聊）。固定搭配：『trampa mortal』（致命陷阱）、『caer en una trampa』（落入陷阱）、『tender una trampa』（设置陷阱）。"
+        },
+        {
           "word": "saña",
           "translation": "凶残，残暴，恶意",
-          "note": "指带有强烈仇恨情绪的残酷行为，比『crueldad（残忍）』更强调施害者的主观恶意和快感，固定搭配：『con saña（凶残地）』『ensañarse con alguien（对某人穷追猛打）』，是描述暴力行为时极具感染力的词。"
+          "note": "指带有强烈仇恨情绪的残酷行为，比『crueldad』（残忍）更强调施害者的主观恶意和快感。固定搭配：『con saña』（凶残地）、『ensañarse con alguien』（对某人穷追猛打、变本加厉地伤害）。注意动词『ensañarse』是由该词派生的重要搭配，在描述暴力行为时极为常见：『el agresor se ensañó con la víctima』（施害者对受害者变本加厉）。"
         },
         {
           "word": "escombros",
           "translation": "废墟，瓦砾，碎石",
-          "note": "指建筑物被摧毁后留下的碎片堆，通常为复数形式，在战争和灾难报道中是高频词，固定搭配：『entre los escombros（在废墟中）』『sacar de los escombros（从废墟中救出）』。"
+          "note": "指建筑物被摧毁后留下的碎片堆，通常以复数形式出现。固定搭配：『entre los escombros』（在废墟中）、『sacar de los escombros』（从废墟中救出）、『reducir a escombros』（夷为废墟）。在战争和灾难报道中是高频词，注意与『ruinas』（遗迹、废墟）的区别：『escombros』强调碎片和瓦砾，『ruinas』更强调历史遗留的残存结构。"
         }
       ]
     },
@@ -34,34 +39,39 @@
         {
           "word": "clandestinas",
           "translation": "秘密的，地下的，非法的",
-          "note": "源自拉丁语『clam（秘密地）』，指为躲避当局而秘密进行的活动或组织，固定搭配：『reunión clandestina（秘密会议）』『red clandestina（地下网络）』，在历史和政治语境中是描述抵抗运动的核心词汇。"
+          "note": "源自拉丁语『clam』（秘密地），指为躲避当局而秘密进行的活动或组织。固定搭配：『reunión clandestina』（秘密会议）、『red clandestina』（地下网络）、『organización clandestina』（地下组织）。注意与『secreto』（秘密的）的区别：『clandestino』更强调非法性和对抗权威的性质，『secreto』仅指不公开，不一定违法。在历史和政治语境中是描述抵抗运动的核心词汇。"
         },
         {
           "word": "embrutecimiento",
           "translation": "兽化，使人变得麻木粗鄙",
-          "note": "由『bruto（野蛮的、粗鲁的）』派生，指人在极端苦难或压迫下逐渐丧失精神文明特质、退化为本能状态的过程，是描述极权暴力对人性摧残的哲学和文学概念，普里莫·莱维在其作品中多次使用这一概念。"
+          "note": "由『bruto』（野蛮的、粗鲁的）加前缀『em-』和后缀『-miento』构成，指人在极端苦难或压迫下逐渐丧失精神文明特质、退化为本能状态的过程。注意『-miento』是将动词转化为名词的高产后缀：『embrutecimiento』（兽化）、『empobrecimiento』（贫困化）、『enriquecimiento』（富裕化）。普里莫·莱维在其集中营文学中多次使用这一概念，是理解极权暴力对人性摧残的核心词。"
         },
         {
           "word": "litúrgico",
           "translation": "礼仪性的，带有仪式感的",
-          "note": "源自基督教礼拜仪式术语『liturgia（礼仪）』，引申为形容某种行为带有庄严、神圣、近乎宗教仪式的特质，作者用『respeto litúrgico』描述饥饿者对食物的态度，以宗教隐喻强化了知识对精神的滋养意义。"
+          "note": "源自基督教礼拜仪式术语『liturgia』（礼仪），加后缀『-ico』构成形容词，引申为形容某种行为带有庄严、神圣、近乎宗教仪式的特质。注意『-ico/-ica』是将名词转化为形容词的高产后缀：『litúrgico』（礼仪的）、『histórico』（历史的）、『simbólico』（象征性的）。作者用『respeto litúrgico』描述饥饿者对食物的态度，以宗教隐喻强化了知识对精神的滋养意义。"
         }
       ]
     },
     {
       "id": 3,
-      "es": "He visto desde niño que el ansia de aprender con mucha frecuencia estaba más acentuada en las mujeres, sin duda porque para ellas era más grave la condena a la ignorancia. Las madres de la clase y la generación de la mía se han pasado la vida sintiendo la <strong>amargura</strong> de lo que no pudieron aprender, y la nostalgia de una escuela a la que solo asistieron de manera esporádica, y en circunstancias precarias. Mi abuelo materno, casi del todo <strong>autodidacta</strong>, escribía con muy buena letra, aunque a veces juntara las palabras y cometiera faltas. Mi abuela solo sabía firmar su nombre, con mucha torpeza. Mi madre recordaba como un breve paraíso los días que pasó en la escuela antes de la guerra, y aunque su memoria ya va disgregándose, aún conserva un rastro del resentimiento que alimentó siempre contra las normas de un mundo en el que todo se conjuraba para impedirle aprender.",
+      "es": "He visto desde niño que el ansia de aprender con mucha frecuencia estaba más acentuada en las mujeres, sin duda porque para ellas era más grave la condena a la ignorancia. Las madres de la clase y la generación de la mía se han pasado la vida sintiendo la <strong>amargura</strong> de lo que no pudieron aprender, y la nostalgia de una escuela a la que solo asistieron de manera esporádica, y en circunstancias precarias. Mi abuelo materno, casi del todo <strong>autodidacta</strong>, escribía con muy buena letra, aunque a veces juntara las palabras y cometiera faltas. Mi abuela solo sabía firmar su nombre, con mucha torpeza. Mi madre recordaba como un breve paraíso los días que pasó en la escuela antes de la guerra, y aunque su memoria ya va disgregándose, aún conserva un rastro del resentimiento que alimentó siempre contra las normas de un mundo en el que todo <strong>se conjuraba</strong> para impedirle aprender.",
       "zh": "我从小就发现，对学习的渴望在女性身上往往更为强烈，无疑是因为对她们来说，被判处无知之刑更为沉重。与我同代、同阶层的母亲们，一生都带着无法学到更多知识的苦涩，以及对那所只断断续续、在艰难处境中才得以就读的学校的怀念。我的外祖父几乎完全靠自学，写得一手好字，尽管有时会把词连在一起写，也会犯拼写错误。外祖母只会笨拙地签自己的名字。我母亲把战前在学校度过的日子记忆为一段短暂的天堂，尽管她的记忆已渐渐散碎，她仍保留着对那个世界规则的一丝怨恨——那个世界里，一切都合谋阻止她学习。",
       "vocab": [
         {
+          "word": "amargura",
+          "translation": "苦涩，痛苦，辛酸",
+          "note": "由形容词『amargo』（苦的）加后缀『-ura』构成名词，指因失望、遗憾或不公而产生的持久内心痛苦。注意『-ura』是将形容词转化为名词的高产后缀：『amargura』（苦涩）、『ternura』（温柔）、『dulzura』（甜蜜）、『tristura』（悲伤）。固定搭配：『con amargura』（带着苦涩地）、『sentir amargura』（感到苦涩）。注意与『tristeza』（悲伤）的区别：『amargura』更强调由不公或遗憾引发的持久辛酸感。"
+        },
+        {
           "word": "autodidacta",
           "translation": "自学者，靠自学成才的人",
-          "note": "由希腊语『autos（自己）』和『didaktos（被教导的）』构成，指不依赖正规教育机构、通过自我学习获得知识和技能的人，在西语中既可作名词也可作形容词，是描述非正规教育路径的核心词汇。"
+          "note": "由希腊语『autos』（自己）和『didaktos』（被教导的）构成，指不依赖正规教育机构、通过自我学习获得知识和技能的人。注意希腊语前缀『auto-』是表示『自我』的高产前缀：『autodidacta』（自学者）、『autobiografía』（自传）、『autoestima』（自尊）、『autosuficiente』（自给自足的）。在西语中既可作名词也可作形容词，是描述非正规教育路径的核心词汇。"
         },
         {
           "word": "se conjuraba",
           "translation": "合谋，共同密谋",
-          "note": "动词『conjurarse』指多方力量共同密谋对抗某人或某事，源自『conjura（阴谋）』，此处作者用『todo se conjuraba para impedirle aprender』，将阻碍母亲受教育的社会结构拟人化为一场针对她的集体阴谋，修辞张力极强。"
+          "note": "动词『conjurarse』指多方力量共同密谋对抗某人或某事，源自『conjura』（阴谋）。固定搭配：『conjurarse contra』（合谋对抗）、『conjurar un peligro』（消除危险）。注意『conjurar』的两种含义：①『密谋对抗』（本文含义）；②『驱除、消除』（『conjurar el mal』驱除邪恶）。作者用『todo se conjuraba para impedirle aprender』，将阻碍母亲受教育的社会结构拟人化为一场针对她的集体阴谋，修辞张力极强。"
         }
       ]
     },
@@ -71,19 +81,19 @@
       "zh": "这些女性用一种方式弥补了个人的挫败感：她们坚持——有时要对抗男人们的冷漠或反对——让自己的女儿和儿子去读书。在我和姐姐收到的为数不多的三王节礼物中，总有一本书。为了挑选书籍，母亲会听取我们购买学习用品的那家文具店老板的建议。童年时因贫困和劳动义务而被剥夺的东西，她们得以在很久之后享受到，但喜悦丝毫不减——八十年代，她们，尤其是女性，还有许多男性，报名参加了成人学校，年轻的老师们在她们眼中宛如天降的英雄。她们现在写字工整清晰，但总是很慢，因为在那个年纪，那些被劳动磨硬的手很难再变得灵活。而且她们发现自己能够流畅地阅读，理解力之强，在不久前还会让她们觉得不可思议。她们读书不再逐字拼读，翻页时十分小心，用舌头润湿拇指——那是一个从童年保留或重新唤起的动作。",
       "vocab": [
         {
-          "word": "vedaron",
+          "word": "vedaron (vedar)",
           "translation": "禁止，剥夺，阻止",
-          "note": "动词『vedar』指以权威或规则禁止某人做某事，比『prohibir』更正式且带有强制剥夺的意味，固定搭配：『vedar el paso（禁止通行）』『vedar el acceso（禁止进入）』，在文学语境中常用于描述社会结构对个人权利的剥夺。"
+          "note": "动词『vedar』指以权威或规则禁止某人做某事，比『prohibir』更正式且带有强制剥夺的意味。固定搭配：『vedar el paso』（禁止通行）、『vedar el acceso』（禁止进入）、『vedado』（禁区，如『coto vedado』禁猎区）。注意『vedado』作形容词/名词的用法在日常语境中很常见：『zona vedada』（禁区）。在文学语境中常用于描述社会结构对个人权利的剥夺，语气比『prohibir』更沉重。"
         },
         {
           "word": "providenciales",
           "translation": "天赐的，恰逢其时的，如救星般的",
-          "note": "源自『providencia（天意、神意）』，指某人或某事在关键时刻出现，仿佛是命运或神意的安排，带有强烈的感恩和惊叹色彩，作者用此词描述成人学校的年轻教师，传达了那一代迟到的学习者对他们的深切感激。"
+          "note": "源自『providencia』（天意、神意），加后缀『-al』构成形容词，指某人或某事在关键时刻出现，仿佛是命运或神意的安排。注意『providencia』的多义性：①『天意』（宗教含义）；②『预见、远见』（『actuar con providencia』有远见地行动）。固定搭配：『llegada providencial』（及时的到来）、『ayuda providencial』（雪中送炭的帮助）。作者用此词描述成人学校的年轻教师，传达了那一代迟到的学习者对他们的深切感激。"
         },
         {
           "word": "silabear",
           "translation": "逐字拼读，一个音节一个音节地读",
-          "note": "由『sílaba（音节）』派生，指初学阅读者将单词分解为音节逐一发音的阅读方式，是识字初期的典型特征，与流利阅读相对，作者用『leían sin silabear』描述这些成年学习者终于突破了识字初期的障碍，细节极为生动。"
+          "note": "由『sílaba』（音节）加动词后缀『-ear』构成，指初学阅读者将单词分解为音节逐一发音的阅读方式。注意『-ear』是将名词转化为动词的高产后缀：『silabear』（逐音节拼读）、『deletrear』（逐字母拼写）、『tartamudear』（口吃）。『leían sin silabear』描述这些成年学习者终于突破了识字初期的障碍，与前文『fluidez』（流畅）呼应，细节极为生动，是作者观察力的体现。"
         }
       ]
     },
@@ -95,17 +105,17 @@
         {
           "word": "asidua",
           "translation": "勤奋的，持续的，经常的",
-          "note": "源自拉丁语『assiduus（不断的）』，形容某人持续、规律地从事某项活动，固定搭配：『lector asiduo（忠实读者）』『cliente asiduo（常客）』『visitante asiduo（常访者）』，带有坚持不懈的正面含义。"
+          "note": "源自拉丁语『assiduus』（不断的），形容某人持续、规律地从事某项活动，带有坚持不懈的正面含义。固定搭配：『lector asiduo』（忠实读者）、『cliente asiduo』（常客）、『visitante asiduo』（常访者）。注意与『frecuente』（频繁的）的区别：『asiduo』更强调人的习惯性和忠诚度，『frecuente』仅描述频率。同族词：『asiduidad』（勤奋、持续性）、『asiduamente』（持续地、勤奋地）。"
         },
         {
           "word": "albedrío",
           "translation": "自由意志，自主选择权",
-          "note": "哲学和文学中的核心概念，指个人依照自身意愿做出选择的能力，固定搭配：『libre albedrío（自由意志）』，是西方哲学、神学和文学中讨论人的主体性时最重要的词汇之一，作者用此词点出19世纪西班牙社会对女性自主权的彻底剥夺。"
+          "note": "哲学和文学中的核心概念，指个人依照自身意愿做出选择的能力。固定搭配：『libre albedrío』（自由意志）——这是该词最重要的搭配，在西方哲学、神学和文学中讨论人的主体性时不可或缺。注意与『libertad』（自由）的区别：『libertad』更泛指一般意义上的自由，『albedrío』特指内在的意志自主性。作者用此词点出19世纪西班牙社会对女性自主权的彻底剥夺。"
         },
         {
           "word": "alelada",
           "translation": "迟钝的，发呆的，茫然的",
-          "note": "形容词，描述一个人或事物反应迟缓、神情茫然的状态，带有轻微的幽默或贬义色彩，作者将Alexa语音助手比作『sirvienta algo alelada（有些迟钝的女仆）』，以幽默笔触描绘老人与现代科技之间的代际反差。"
+          "note": "形容词，来自动词『alelar』（使发呆、使茫然），描述一个人或事物反应迟缓、神情茫然的状态，带有轻微的幽默或贬义色彩。固定搭配：『quedarse alelado』（发呆、愣住）、『mirada alelada』（茫然的眼神）。作者将Alexa语音助手比作『sirvienta algo alelada』（有些迟钝的女仆），以幽默笔触描绘老人与现代科技之间的代际反差，是全文少有的轻松时刻。"
         }
       ]
     },
@@ -117,12 +127,12 @@
         {
           "word": "reivindicaciones",
           "translation": "权利主张，诉求，争取",
-          "note": "指对被剥夺的权利或利益的正当要求和争取，在社会运动和政治语境中是核心词汇，固定搭配：『reivindicaciones laborales（劳工诉求）』『reivindicaciones feministas（女权主张）』，比『demanda（要求）』更强调历史性的被剥夺感和正当性。"
+          "note": "来自动词『reivindicar』（主张权利、争取），指对被剥夺的权利或利益的正当要求。注意前缀『re-』（再次）加『vindicar』（为……辩护、收回）的构词逻辑：『reivindicar』字面意为『再次收回本属于自己的东西』，强调历史性的被剥夺感和正当性。固定搭配：『reivindicaciones laborales』（劳工诉求）、『reivindicaciones feministas』（女权主张）、『movimiento reivindicativo』（维权运动）。"
         },
         {
           "word": "importunada",
           "translation": "被打扰的，被冒昧打扰的",
-          "note": "动词『importunar』指以令人不快或不合时宜的方式打扰某人，带有轻微的冒犯意味，作者用此词描述天使报喜打断圣母独处，语气中含有微妙的幽默——连圣母的独处时光也无法幸免于打扰，以此反衬女性独处空间之珍贵。"
+          "note": "来自动词『importunar』（打扰、冒昧地烦扰），源自拉丁语『importunus』（不合时宜的），指以令人不快或不合时宜的方式打扰某人，带有轻微的冒犯意味。固定搭配：『importunar a alguien』（打扰某人）、『sin importunar』（不打扰地）。作者用此词描述天使报喜打断圣母独处，语气中含有微妙的幽默——连圣母的独处时光也无法幸免于打扰，以此反衬女性独处空间之珍贵。"
         }
       ]
     },
@@ -132,14 +142,19 @@
       "zh": "她在巴基斯坦的一个地区长大，那里的塔利班为了确保女孩们无法受教育，轰炸学校。她的父亲是一位有教育家和社会活动家情怀的人，马拉拉12岁时已能完美掌握英语，以及她的母语乌尔都语，并以笔名为BBC撰写博客，记录塔利班在她所在省份对女孩和女性施加的暴行。当她的真实姓名被发现后，极端主义毛拉们以接受教育这一『女性异端』之罪判处她死刑。",
       "vocab": [
         {
+          "word": "seudónimo",
+          "translation": "笔名，化名，假名",
+          "note": "由希腊语『pseudos』（虚假的）加『onoma』（名字）构成，指作者或活动人士为保护真实身份而使用的假名。注意希腊语前缀『pseudo-/seudo-』是表示『假的、伪的』的高产前缀：『seudónimo』（假名）、『pseudociencia』（伪科学）、『pseudodemocracia』（伪民主）。固定搭配：『escribir bajo seudónimo』（以笔名写作）、『publicar con seudónimo』（以化名发表）。"
+        },
+        {
           "word": "mulás",
           "translation": "毛拉，伊斯兰宗教学者",
-          "note": "阿拉伯语借词，指伊斯兰教中具有宗教权威的学者或领袖，在不同语境中含义有所不同：可指受人尊敬的宗教导师，也可（如本文）指以宗教名义推行极端主义的人物，是理解中东和南亚政治宗教语境的基础词汇。"
+          "note": "阿拉伯语借词，指伊斯兰教中具有宗教权威的学者或领袖。注意西语中阿拉伯语借词通常以『-á』结尾并带重音，如『mulá』（毛拉）、『sofá』（沙发）、『tabú』（禁忌）。在不同语境中含义有所不同：可指受人尊敬的宗教导师，也可（如本文）指以宗教名义推行极端主义的人物，是理解中东和南亚政治宗教语境的基础词汇。"
         },
         {
           "word": "herejía",
           "translation": "异端，异教行为",
-          "note": "源自基督教神学术语，指违背正统教义的信仰或行为，引申为任何被某一权威体系视为离经叛道的思想或行动，作者用『herejía femenina de adquirir una educación』，以反讽手法揭示塔利班将女性受教育视为宗教罪行的荒谬逻辑。"
+          "note": "源自基督教神学术语『herejía』，指违背正统教义的信仰或行为，引申为任何被某一权威体系视为离经叛道的思想或行动。同族词：『hereje』（异端者）、『herético』（异端的）。作者用『herejía femenina de adquirir una educación』，以反讽手法揭示塔利班将女性受教育视为宗教罪行的荒谬逻辑——这一修辞手法将宗教词汇用于批判宗教极端主义，极具讽刺力度。"
         }
       ]
     },
@@ -151,24 +166,29 @@
         {
           "word": "ávidamente",
           "translation": "如饥似渴地，迫不及待地",
-          "note": "由形容词『ávido（渴望的）』派生，源自拉丁语『avidus（贪婪的、渴望的）』，描述以强烈欲望和热情追求某事物的状态，固定搭配：『ávido de conocimiento（如饥似渴地求知）』『ávido de libertad（渴望自由）』，作者在此用反讽手法，以特权国家孩子对自由的渴望衬托马拉拉所遭受的暴力。"
+          "note": "由形容词『ávido』（渴望的）加副词后缀『-mente』构成。注意『-mente』是将形容词转化为副词的标准后缀，相当于英语『-ly』：『ávidamente』（如饥似渴地）、『asiduamente』（持续地）、『providencialmente』（如天意般地）。固定搭配：『ávido de conocimiento』（如饥似渴地求知）、『ávido de libertad』（渴望自由）。作者在此用反讽手法，以特权国家孩子对自由的渴望衬托马拉拉所遭受的暴力，对比极为强烈。"
+        },
+        {
+          "word": "activista",
+          "translation": "活动家，社会运动人士",
+          "note": "由『activo』（积极的）加后缀『-ista』构成，指积极投身社会运动、为某一事业奔走倡导的人。注意『-ista』是表示『从事……的人、信奉……的人』的高产后缀：『activista』（活动家）、『periodista』（记者）、『artista』（艺术家）、『feminista』（女权主义者）。固定搭配：『activista de derechos humanos』（人权活动家）、『activista medioambiental』（环保活动家）。"
         }
       ]
     },
     {
       "id": 9,
-      "es": "En nuestro mundo de <strong>desganado cinismo</strong>, el aprendizaje es una cosa más bien superflua, y las escuelas y las universidades de los ricos, lo mismo en Madrid que en Harvard, no ofrecen ya una educación; tan solo venden credenciales y contactos. Pero algo muy serio, profundo, hasta peligroso, tiene que haber en el deseo de aprender de una niña de 15 años para que se considere necesario asesinarla. Malala salió de Pakistán no por ver mundo, sino para que no la mataran, y se doctoró en Oxford, además de ganar a los 17 años ese Premio Nobel de la Paz que al octogenario Donald Trump le da tanta rabia no haber conseguido. Malala, ahora una mujer de 28, consagra su prestigio universal a la causa de la educación de las niñas, y no parece que pierda ni la serenidad ni el entusiasmo. Hay en el mundo, nos dice, 120 millones de niñas que no pueden ir a la escuela. Quién puede imaginar lo qué pasaría si esa formidable multitud pudiera escapar al cautiverio de la ignorancia.",
+      "es": "En nuestro mundo de <strong>desganado cinismo</strong>, el aprendizaje es una cosa más bien superflua, y las escuelas y las universidades de los ricos, lo mismo en Madrid que en Harvard, no ofrecen ya una educación; tan solo venden credenciales y contactos. Pero algo muy serio, profundo, hasta peligroso, tiene que haber en el deseo de aprender de una niña de 15 años para que se considere necesario asesinarla. Malala salió de Pakistán no por ver mundo, sino para que no la mataran, y se doctoró en Oxford, además de ganar a los 17 años ese Premio Nobel de la Paz que al octogenario Donald Trump le da tanta rabia no haber conseguido. Malala, ahora una mujer de 28, consagra su prestigio universal a la causa de la educación de las niñas, y no parece que pierda ni la serenidad ni el entusiasmo. Hay en el mundo, nos dice, 120 millones de niñas que no pueden ir a la escuela. Quién puede imaginar lo qué pasaría si esa formidable multitud pudiera escapar al <strong>cautiverio de la ignorancia</strong>.",
       "zh": "在我们这个慵懒犬儒的世界里，学习是一件相当多余的事，富人的学校和大学——无论在马德里还是哈佛——早已不再提供教育，只是在出售文凭和人脉。但一个15岁女孩的求学欲望中，一定有某种极为严肃、深刻、甚至危险的东西，才会让人觉得有必要将她杀死。马拉拉离开巴基斯坦不是为了见世面，而是为了不被杀害，她在牛津获得博士学位，还在17岁时获得了诺贝尔和平奖——这个奖项让年届八旬的唐纳德·特朗普至今耿耿于怀，恼恨自己未能得到。如今28岁的马拉拉，将她的世界性声望全部投入女童教育事业，似乎既未失去平静，也未失去热情。她告诉我们，世界上有1.2亿女孩无法上学。试想，如果这支庞大的队伍能够逃脱无知的囚禁，将会发生什么。",
       "vocab": [
         {
           "word": "desganado cinismo",
           "translation": "慵懒的犬儒主义，漫不经心的愤世嫉俗",
-          "note": "『desgana』指对事物缺乏热情和动力，『cinismo』指对道德价值持嘲讽否定态度的人生哲学，两词组合描绘了特权社会对教育价值漠然的精神状态，与文中马拉拉为教育甘冒生命危险形成强烈对比，是作者批判西方社会的核心词组。"
+          "note": "两个词的组合：『desgana』（对事物缺乏热情和动力，由『des-』否定前缀加『gana』意愿构成）加『cinismo』（对道德价值持嘲讽否定态度的人生哲学，来自希腊哲学派别『cínicos』犬儒派）。两词组合描绘了特权社会对教育价值漠然的精神状态，与文中马拉拉为教育甘冒生命危险形成强烈对比。固定搭配：『actuar con desgana』（漫不经心地行动）、『responder con cinismo』（以犬儒态度回应）。"
         },
         {
           "word": "cautiverio de la ignorancia",
           "translation": "无知的囚禁，被无知所囚",
-          "note": "『cautiverio』指被囚禁、被俘虏的状态，通常用于描述战俘或动物圈养，作者将其与『ignorancia』搭配，把无知比作一种囚禁状态，与文章开头『trampa mortal（致命陷阱）』形成呼应，构成全文最有力的隐喻之一。"
+          "note": "『cautiverio』指被囚禁、被俘虏的状态，来自『cautivo』（俘虏、囚徒），通常用于描述战俘或动物圈养。固定搭配：『en cautiverio』（在囚禁中）、『vivir en cautiverio』（生活在囚禁中）。作者将其与『ignorancia』搭配，把无知比作一种囚禁状态，与文章开头『trampa mortal』（致命陷阱）形成首尾呼应，构成全文最有力的隐喻之一——无知不是一种缺失，而是一种主动施加的囚禁。"
         }
       ]
     }
