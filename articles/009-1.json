@@ -1,186 +1,167 @@
 {
   "date": "西语外刊阅读",
   "brand": "公众号【西语SuperO】",
-  "category": "历史与文化",
+  "category": "劳工与心理健康",
   "difficulty": "B2",
-  "wordCount": "约850词",
-  "title": "China, territorio de muchas culturas",
-  "subtitle": "中国：多元文化的土地",
-  "resumenEs": "El artículo traza el origen del nombre 'China' y su autodenominación 'Zhong Guo', explora la mitología fundacional de la civilización Huaxia, la legitimación divina del poder imperial y la distinción histórica entre han y extranjeros. Concluye con una panorámica de los 56 grupos étnicos reconocidos en la República Popular China, destacando la riqueza cultural de las minorías que conviven en el territorio desde hace milenios.",
-  "resumenZh": "文章追溯了『中国』一词的外来命名及其自称『中国』的由来，探讨了华夏文明的神话起源、皇权的天命合法性，以及历史上汉族与外族的区分逻辑。最后以中华人民共和国官方认定的56个民族为落脚点，展现了数千年来共居神州大地的各民族的文化瑰宝。",
+  "wordCount": "约550词",
+  "title": "Sobrecarga de trabajo y salud mental",
+  "subtitle": "工作过载与心理健康",
+  "resumenEs": "El número de bajas laborales por problemas de salud mental se ha duplicado en España desde 2016. El profesor Adrián Todolí analiza las causas jurídicas de este fenómeno, señalando que los cambios tecnológicos, la desregulación laboral y el debilitamiento sindical han incrementado la presión sobre los trabajadores, y propone legislación que mida y limite la sobrecarga.",
+  "resumenZh": "西班牙因心理健康问题导致的病假人数自2016年以来翻了一番。劳动法教授阿德里安·托多利从法律角度分析了这一现象的成因，指出技术变革、劳动力市场去监管化及工会力量削弱加剧了对工人的压力，并呼吁立法对工作过载加以衡量和限制。",
   "paragraphs": [
     {
       "id": 1,
-      "es": "El uso de la palabra \"China\" para referirse al gigante asiático se <strong>atestiguó</strong> por primera vez en 1516 en el <em>Livro de Duarte Barbosa</em>, donde el portugués narraba sus viajes por los mares del sureste asiático. Sin embargo, los propios habitantes del país lo denominan \"Zhong Guo\", \"nación del centro\". El origen de este nombre se <strong>remonta</strong> al origen de su civilización, que a su vez está relacionada con la cultura mayoritaria en la China actual.",
-      "zh": "『中国』（China）一词用于指称这个亚洲巨国，最早见于1516年的《杜阿尔特·巴博萨之书》，书中这位葡萄牙人记述了他在东南亚海域的航行经历。然而，这个国家的居民自称其为『中国』（Zhong Guo），意为『中央之国』。这一名称的起源可追溯至其文明的发端，而文明本身又与当今中国的主体文化密切相关。",
+      "es": "Cada día hay datos preocupantes del creciente <strong>deterioro</strong> de la salud mental de los trabajadores. Desde 2016 el número de procesos de <strong>incapacidad temporal</strong> vinculados a problemas de salud mental se han duplicado: de unas 280.000 bajas de entonces se ha pasado a las 643.000 en 2024. Además las bajas por <strong>trastornos mentales</strong> son más graves. Mientras la incapacidad temporal ordinaria dura unos 45 días, en las perturbaciones mentales la baja media es de 116 días, según el Estudio socioeconómico de la evolución de la incapacidad temporal y la siniestralidad en España dirigido por los investigadores José María Peiró y Lorenzo Serrano, de la Universidad de Valencia (IVIE).",
+      "zh": "每天都有令人忧虑的数据显示，劳动者的心理健康状况持续恶化。自2016年以来，与心理健康问题相关的临时工作能力丧失案例数量翻了一番：从当时的约28万例病假增至2024年的64.3万例。此外，因精神障碍导致的病假情况更为严重。据瓦伦西亚大学（IVIE）研究人员何塞·玛利亚·佩罗和洛伦索·塞拉诺主导的《西班牙临时工作能力丧失及工伤事故社会经济演变研究》显示，普通临时工作能力丧失的平均持续时间约为45天，而精神障碍导致的病假平均时长则达116天。",
       "vocab": [
         {
-          "word": "atestiguar",
-          "translation": "证明，记录在案，见证",
-          "note": "正式书面动词，指通过文献或证据证实某事的存在，固定搭配：『atestiguado por primera vez（首次见于记录）』『atestiguar un hecho（证明一个事实）』，在历史和语言学文章中极为常见，近义词：『documentar（记录）』『constatar（证实）』，但『atestiguar』更强调『作证』的主动性。"
+          "word": "deterioro",
+          "translation": "恶化，退化，损耗",
+          "note": "由动词『deteriorar(se)』派生的名词，表示状态逐渐变差的过程，固定搭配为『deterioro de la salud/del medio ambiente/de las condiciones』，是新闻中描述负面趋势的高频词。"
         },
         {
-          "word": "remontarse a",
-          "translation": "追溯至，起源于",
-          "note": "固定搭配，本义为『逆流而上』，引申为在时间轴上向过去追溯，固定搭配：『remontarse al siglo XII（追溯至12世纪）』『sus orígenes se remontan a（其起源可追溯至）』，是历史和文化报道中描述起源时的核心动词，注意与『remontarse』的反身用法：主语必须是被追溯的事物本身。"
+          "word": "incapacidad temporal",
+          "translation": "临时工作能力丧失，病假（法律术语）",
+          "note": "西班牙劳动法中的固定术语，简称『IT』，指因疾病或事故导致暂时无法工作并依法领取补贴的状态，与『invalidez permanente（永久残疾）』相对。"
+        },
+        {
+          "word": "trastornos mentales",
+          "translation": "精神障碍，心理疾患",
+          "note": "医学和法律文书中的规范表达，『trastorno』比『enfermedad mental』更中性，涵盖范围更广，包括焦虑症、抑郁症等，是世卫组织分类体系中的标准用词。"
         }
       ]
     },
     {
       "id": 2,
-      "es": "La primera obra mitológica de China, el <em>Clásico de las montañas y los mares</em>, relata cómo los dioses establecieron en la Tierra las \"nueve regiones\". A este territorio se le dio el nombre de \"Shenzhou\", un lugar divino que ocupaba el puesto central en el planeta. Allí se levantó, hace más de 4 000 años, la llamada civilización de Huaxia, <strong>predecesora</strong> de la actual etnia han.",
-      "zh": "中国第一部神话著作《山海经》讲述了诸神如何在大地上划定『九州』。这片土地被命名为『神州』，一处占据地球中心位置的神圣之地。四千多年前，华夏文明在此兴起，成为当今汉族的前身。",
+      "es": "Abundan las evidencias que conectan la <strong>sobrecarga</strong> del trabajo y la salud mental. Josh Dizieza en Cuán duro nos harán trabajar los robots, en The Verge, <strong>constata</strong> las consecuencias físicas y mentales de la sobrecarga de trabajo en empleados de Amazon que al terminar la jornada caen dormidos en su coche en el <strong>parquin</strong> del almacén antes de regresar a su casa.",
+      "zh": "将工作过载与心理健康相关联的证据比比皆是。乔什·迪兹耶萨在《The Verge》发表的《机器人会让我们工作多拼命》一文中，记录了亚马逊员工因工作过载承受的身心双重后果——他们在下班后往往在仓库停车场的车里直接睡着，才能撑到回家。",
       "vocab": [
         {
-          "word": "predecesor/a",
-          "translation": "前身，先驱，前任",
-          "note": "名词兼形容词，指在时间或职位上居于某人或某事物之前的存在，固定搭配：『el predecesor de（……的前身）』『civilización predecesora（前身文明）』，反义词：『sucesor/a（继承者，后继者）』，注意与『antecesor（祖先，前任）』的细微区别：『predecesor』更强调直接的前后继承关系。"
+          "word": "sobrecarga",
+          "translation": "过载，超负荷，过重负担",
+          "note": "前缀『sobre-』表示『超过、过度』，可与大量名词结合，如『sobrepeso（超重）』『sobreexplotación（过度开采）』『sobrecalentamiento（过热）』，是构词能力极强的前缀。"
+        },
+        {
+          "word": "constata",
+          "translation": "证实，记录，查明",
+          "note": "动词『constatar』表示通过观察或调查确认某事实的存在，比『confirmar』更强调亲身核实的过程，是新闻和学术文体中描述实证发现的高频词。"
+        },
+        {
+          "word": "parquin",
+          "translation": "停车场",
+          "note": "英语『parking』的西班牙语音译借词，书写形式也可见『párking』，是典型的外来词适应西语拼写规则的例子，在日常口语和新闻中均十分常见。"
         }
       ]
     },
     {
       "id": 3,
-      "es": "Todo estuvo a cargo de las deidades según esos mitos. La primera obra médica de China, el <em>Clásico de Medicina Interna del Emperador Amarillo</em>, o su primer registro de técnicas agrícolas, el <em>Xia Xiao Zheng</em>, también son considerados de <strong>origen divino</strong>, así como la creación de los <strong>sinogramas</strong>, los famosos caracteres chinos. El primer uso de los sinogramas se observa en el texto clásico fundacional <em>I Ching</em>, que se traduciría como \"libro de las mutaciones\". Sirve como <strong>oráculo</strong> para quien lo lee, pero también como tratado de sabiduría filosófica.",
-      "zh": "根据这些神话，一切皆由神明主导。中国第一部医学著作《黄帝内经》、第一部农业技术记录《夏小正》，以及汉字的创制，均被认为源于神灵。汉字最早见于奠基性经典《易经》，其名可译为『变化之书』。它既是读者的占卜工具，也是哲学智慧的论著。",
+      "es": "En base a estos estudios y sus investigaciones Adrián Todolí, <strong>catedrático</strong> de Derecho del Trabajo de la Universidad de Valencia, ha profundizado desde la perspectiva jurídica sobre las causas de este fenómeno. Su propósito era <strong>discernir</strong> si el aumento de las bajas era un problema de <strong>absentismo laboral</strong> o de la intensidad del trabajo que está enfermando a quienes lo desempeñan.",
+      "zh": "基于上述研究及自身调查，瓦伦西亚大学劳动法正教授阿德里安·托多利从法律视角深入探究了这一现象的成因。他的目的是辨明：病假人数的增加，究竟是旷工问题，还是工作强度本身正在让从业者患病。",
       "vocab": [
         {
-          "word": "sinograma",
-          "translation": "汉字，中文字符",
-          "note": "由『sino-（中国的）』+『-grama（书写符号）』构成的学术术语，是西语中指称汉字的正式用词，固定搭配：『escritura sinográfica（汉字书写体系）』，同根词前缀『sino-』还出现在：『sinología（汉学）』『sino-japonés（中日的）』，掌握这一前缀有助于识别大量与中国相关的学术词汇。"
+          "word": "catedrático",
+          "translation": "（大学）正教授，讲席教授",
+          "note": "西班牙高校职称体系中的最高级别，相当于中国的『正教授』或英美的『full professor』，与『profesor titular（副教授级）』和『profesor asociado（兼职讲师）』构成职称阶梯。"
         },
         {
-          "word": "oráculo",
-          "translation": "神谕，占卜，预言",
-          "note": "本义为古代神明通过祭司传达的预言或指示，引申为任何具有预测或指引功能的工具或人，固定搭配：『consultar el oráculo（请示神谕）』『el oráculo de Delfos（德尔菲神谕）』，在文化和宗教报道中是描述占卜功能的核心词，注意与『profecía（预言）』的区别：『oráculo』强调互动性的问答机制。"
+          "word": "discernir",
+          "translation": "辨别，分辨，判断",
+          "note": "C1级词汇，强调通过理性分析区分两种相似或容易混淆的事物，比『distinguir』更正式，常出现在学术和法律文体中，固定搭配为『discernir entre A y B』。"
+        },
+        {
+          "word": "absentismo laboral",
+          "translation": "旷工，缺勤，职场缺席现象",
+          "note": "劳动经济学中的固定术语，指员工无正当理由缺席工作的现象，与本文中因真实疾病导致的病假形成对比，作者正是要区分这两种情况。"
         }
       ]
     },
     {
       "id": 4,
-      "es": "De este libro surgen conceptos fundamentales en la cultura oriental como el taichi, el yin y el yang, los ocho trigramas y su combinación, los 64 hexagramas. No obstante, su influencia no queda ahí. Esta obra <strong>sentó las bases</strong> de una de las ideas centrales de la cultura china: el cielo, la tierra y el ser humano son uno. Es decir, las divinidades y la humanidad están <strong>íntimamente ligadas</strong>.",
-      "zh": "这部著作衍生出东方文化中的基本概念，如太极、阴阳、八卦及其组合六十四卦。然而，其影响远不止于此。这部著作奠定了中国文化核心理念之一的基础：天、地、人三位一体。也就是说，神性与人性紧密相连。",
+      "es": "En La huida del trabajo: sobrecarga de trabajo, salud mental y derechos fundamentales (Aranzadi), el profesor Todolí asegura que la evidencia científica es <strong>concluyente</strong>. Las exigencias excesivas de trabajo condicionan de manera <strong>determinante</strong> la salud mental de los trabajadores en España.",
+      "zh": "在《逃离工作：工作过载、心理健康与基本权利》（Aranzadi出版社）一书中，托多利教授指出，科学证据是决定性的：过度的工作要求对西班牙劳动者的心理健康产生了决定性的影响。",
       "vocab": [
         {
-          "word": "sentar las bases",
-          "translation": "奠定基础",
-          "note": "固定搭配，『sentar』在此义为『使稳固地建立』，固定搭配：『sentar las bases de（奠定……的基础）』『sentar un precedente（开创先例）』『sentar jurisprudencia（确立判例）』，是描述历史性奠基作用的核心表达，近义词：『establecer los cimientos de（建立……的基石）』。"
+          "word": "concluyente",
+          "translation": "决定性的，确凿的，不容置疑的",
+          "note": "由动词『concluir』派生，形容证据或结论具有终结争议的力度，比『claro』或『evidente』语气更强，常用于学术和法律文体中强调论据的充分性。"
         },
         {
-          "word": "íntimamente ligado/a a",
-          "translation": "与……紧密相连，与……密不可分",
-          "note": "固定搭配，『ligado』来自动词『ligar（连接、绑定）』，『íntimamente』强调连接的深度，固定搭配：『estar íntimamente ligado a（与……密切相关）』『íntimamente relacionado con（与……紧密关联）』，是学术和文化文章中描述深层关联的高频表达，比『relacionado con』语气更强，暗示难以分割。"
+          "word": "determinante",
+          "translation": "决定性的，起关键作用的",
+          "note": "由动词『determinar』派生，作形容词时强调某因素对结果起主导作用，固定搭配为『de manera/forma determinante』，是学术写作中表达强因果关系的高频词。"
         }
       ]
     },
     {
       "id": 5,
-      "es": "Asimismo, aunque se <strong>sucedieran</strong> muchas dinastías a lo largo de los siglos, todas se legitimaron por <strong>mandato</strong> de los dioses, por lo que los sucesivos emperadores siempre se hicieron llamar \"hijos del cielo\". Los habitantes de Shenzhou recibían dos denominaciones: Hua y Han. En el primer caso, Hua significa \"flor\", por lo que existía una <strong>vinculación</strong> con la tierra a través de la referencia al \"reino del centro\", un lugar donde las flores se abren en todo su <strong>esplendor</strong>.",
-      "zh": "同样，尽管数百年间朝代更迭不断，所有王朝都以神明的旨意为合法性依据，因此历代皇帝始终自称『天子』。神州的居民有两种称谓：华与汉。就前者而言，『华』意为『花』，由此与土地产生关联，指向『中央之国』——一个百花盛开的地方。",
+      "es": "Entre las causas de este deterioro apunta la introducción de cambios tecnológicos y organizativos, la pérdida de fuerza de los <strong>sindicatos</strong> y la <strong>desregulación</strong> del mercado de trabajo. Considera que estos elementos han favorecido un incremento del poder <strong>unilateral</strong> del empleador para exigir niveles de esfuerzo y velocidad aprovechando situaciones de inseguridad contractual como los despidos, la <strong>temporalidad</strong> o la precariedad generalizada.",
+      "zh": "在分析这一恶化趋势的成因时，他指出了技术与组织变革的引入、工会力量的削弱以及劳动力市场的去监管化。他认为，这些因素共同助长了雇主单方面权力的扩张，使其得以借助解雇、临时合同或普遍化的不稳定就业状态等合同不安全感，强行要求工人提高劳动强度和速度。",
       "vocab": [
         {
-          "word": "sucederse",
-          "translation": "相继发生，接连出现，更迭",
-          "note": "反身动词，指一系列事物或人按顺序依次出现，固定搭配：『se sucedieron los gobiernos（政府相继更迭）』『los días se suceden（日子一天天过去）』，注意与『suceder（发生；继承）』的区别：加反身代词『se』后强调连续性和顺序性，是描述历史更迭的精准动词。"
+          "word": "sindicatos",
+          "translation": "工会，劳工联合会",
+          "note": "西班牙最具代表性的两大工会为『CCOO（工人委员会）』和『UGT（总工会）』，在劳动法和新闻报道中频繁出现，是理解西班牙劳动关系的关键词。"
         },
         {
-          "word": "mandato",
-          "translation": "旨意，授权，任期，命令",
-          "note": "多义词，在宗教和政治语境中指上级（神明或权威）赋予的使命与授权，固定搭配：『mandato divino（神的旨意）』『mandato presidencial（总统任期）』『bajo el mandato de（在……的任期内）』，此处『mandato de los dioses』对应中文的『天命』概念，是理解中国皇权合法性逻辑的关键词。"
+          "word": "desregulación",
+          "translation": "去监管化，放松管制",
+          "note": "前缀『des-』表示否定或逆转，与『regulación（监管）』结合，同类词如『descentralización』『desindustrialización』『desempleo』，是经济和政策新闻中的核心词汇。"
         },
         {
-          "word": "esplendor",
-          "translation": "辉煌，全盛，光彩",
-          "note": "名词，指事物处于最美好、最鼎盛状态时所呈现的光彩，固定搭配：『en todo su esplendor（以全部的光彩，盛开至极）』『el esplendor de una civilización（一个文明的辉煌）』『época de esplendor（鼎盛时期）』，形容词形式：『espléndido（辉煌的，极好的）』。"
+          "word": "unilateral",
+          "translation": "单方面的，一方决定的",
+          "note": "前缀『uni-（单一）』加词根『lateral（侧面、方面）』，与『bilateral（双边的）』『multilateral（多边的）』构成一组对比词，在法律和外交文体中高频出现。"
+        },
+        {
+          "word": "temporalidad",
+          "translation": "临时就业状态，合同不稳定性",
+          "note": "在西班牙劳动语境中专指高比例的临时合同现象，西班牙曾长期是欧盟临时就业率最高的国家之一，该词是劳工议题报道中的核心术语。"
         }
       ]
     },
     {
       "id": 6,
-      "es": "Por su parte, Han hace referencia a la Vía Láctea, vinculado al cielo. De ese <strong>vocablo</strong> también derivan nombres como el río Han, la dinastía Han, el pueblo han, el idioma chino (Hanyü) y los caracteres chinos (Hanzi). Históricamente, al menos antes del siglo XIII, no existía la noción moderna de \"etnias\" y en Shenzhou solo se distinguía entre los han y los extranjeros, en donde se incluían todos aquellos que habitaban el territorio pero no formaban parte de la cultura han.",
-      "zh": "而『汉』则与银河相关，指向天空。从这个词还衍生出汉江、汉朝、汉人、汉语和汉字等名称。从历史上看，至少在13世纪之前，并不存在现代意义上的『民族』概念，神州只区分汉人与外族——后者泛指居住在这片土地上但不属于汉文化的所有人。",
+      "es": "Todolí <strong>desmonta</strong> mitos. Una mayor carga de trabajo no equivale a mayor productividad. La sobrecarga de trabajo perjudica tanto a la productividad como a la salud. También estima que la reducción de la jornada de trabajo no resuelve la cuestión. El gobierno propone reducir la jornada laboral, me parece muy bien. Pero si te reducen la jornada y te hacen trabajar más acabas igual de <strong>agotado</strong> y cuando llegas a tu casa no tienes energía para tus hijos.",
+      "zh": "托多利对一些迷思进行了驳斥。工作量更大并不等于生产效率更高——工作过载对生产力和健康都有害。他也认为缩短工时并不能从根本上解决问题：『政府提议缩短工作时间，我觉得很好。但如果工时缩短了，却让你干更多活，你最终同样精疲力竭，回到家也没有精力陪孩子。』",
       "vocab": [
         {
-          "word": "vocablo",
-          "translation": "词语，词汇，单词",
-          "note": "正式书面用词，比『palabra（词）』更具学术色彩，常用于语言学和词源学讨论，固定搭配：『el origen de un vocablo（一个词的词源）』『vocablo de origen árabe（阿拉伯语来源的词汇）』，同根词：『vocabulario（词汇表）』『vocación（职业召唤）』——注意后者虽同根但含义已完全不同。"
+          "word": "desmonta",
+          "translation": "驳斥，拆解，推翻（论点或迷思）",
+          "note": "『desmontar』本义为拆卸机械，引申为系统性地推翻某种论点或错误观念，固定搭配为『desmontar mitos/argumentos/teorías』，是新闻评论中的高频比喻用法。"
         },
         {
-          "word": "derivar de",
-          "translation": "源自，派生自，衍生于",
-          "note": "固定搭配，描述词语、概念或事物的来源，固定搭配：『derivar de una raíz latina（源自拉丁词根）』『de ahí deriva（由此衍生）』，注意两种用法：『derivar de（源自）』表示来源；『derivar en（演变为）』表示结果，方向相反，不可混用。"
+          "word": "agotado",
+          "translation": "精疲力竭的，耗尽的",
+          "note": "由动词『agotar』派生，本义为耗尽资源，形容人时表示体力或精力完全耗尽，比『cansado（累）』程度更深，是描述职业倦怠的核心词汇。"
         }
       ]
     },
     {
       "id": 7,
-      "es": "Además, hay que tener en cuenta que China fue gobernada en dos ocasiones por pueblos <strong>foráneos</strong>. Durante la primera, en el siglo XIII, la dinastía Yuan, fundada por los mongoles, conquistó el Tíbet y lo <strong>incorporó</strong> al territorio chino. Tras un siglo de dominio mongol, los han recuperaron el poder y establecieron la dinastía Ming. Más tarde, en el siglo XVII, la dinastía Qing, fundada por los manchúes, integró nuevamente Mongolia al imperio. Tras su caída, Manchuria pasó finalmente a formar parte de China.",
-      "zh": "此外，还需注意的是，中国曾两度由外族统治。第一次是13世纪，蒙古人建立的元朝征服西藏并将其并入中国版图。经过一个世纪的蒙古统治，汉人重新夺回政权，建立明朝。此后，17世纪满族建立的清朝再度将蒙古纳入帝国版图。清朝覆灭后，满洲最终并入中国。",
+      "es": "Constata el fenómeno de la huida del trabajo que se produce cuando los jóvenes abandonan el empleo porque piensan que no vale la pena trabajar por lo que les pagan y los mayores prefieren la <strong>prejubilación</strong> porque no pueden soportar ciertas condiciones.",
+      "zh": "他记录了『逃离工作』这一现象：年轻人因认为以所得薪酬工作不值得而辞职离场，而年长工人则因无法承受某些工作条件而倾向于选择提前退休。",
       "vocab": [
         {
-          "word": "foráneo",
-          "translation": "外来的，外族的，异域的",
-          "note": "形容词，指来自外部、非本地的事物或人，固定搭配：『pueblos foráneos（外族）』『influencias foráneas（外来影响）』『inversión foránea（外资）』，比『extranjero（外国的）』更强调『来自外部、与本地文化不同』的属性，在历史和文化语境中更为精准。"
-        },
-        {
-          "word": "incorporar",
-          "translation": "并入，纳入，整合",
-          "note": "动词，指将某个独立部分合并到更大整体中，固定搭配：『incorporar al territorio（并入版图）』『incorporarse a un equipo（加入一个团队）』『incorporar nuevas tecnologías（引入新技术）』，注意反身用法『incorporarse』还有『起身坐起』的具体含义，是多义词。"
+          "word": "prejubilación",
+          "translation": "提前退休，早退休",
+          "note": "前缀『pre-（在……之前）』加『jubilación（退休）』，指在法定退休年龄之前离开劳动市场，通常通过与雇主协议或特殊计划实现，是西班牙劳动新闻中的高频词。"
         }
       ]
     },
     {
       "id": 8,
-      "es": "La llamada \"cuestión étnica\" surgió tras la fundación de la República Popular China en 1949. El país reconoció oficialmente 56 grupos étnicos. Aparte de los han, se consideró otras 55 <strong>etnias</strong> minoritarias, como los zhuang, hui, tibetanos, manchúes, mongoles, uigures, gaoshanes o los luoba. Todas ellas se concentran principalmente en el suroeste, noroeste y noreste del país, contando muchas con regiones o distritos <strong>autónomos</strong>.",
-      "zh": "所谓『民族问题』在1949年中华人民共和国成立后随之出现。国家正式认定了56个民族。除汉族外，还认定了其他55个少数民族，如壮族、回族、藏族、满族、蒙古族、维吾尔族、高山族和珞巴族等。这些民族主要集中在国家的西南、西北和东北地区，许多民族拥有自治区或自治州。",
+      "es": "Considera prioritario una legislación protectora que mida la sobrecarga. Pone el ejemplo de Polonia que ha establecido un máximo de consumo de <strong>kilojulios</strong> de energía por hora en trabajos físicos: superada esa cantidad se entiende que se pone en peligro la salud de la persona. Otro campo en el que resulta necesario <strong>fortalecer</strong> el papel de los sindicatos.",
+      "zh": "他认为，当务之急是制定能够衡量工作过载的保护性立法。他举了波兰的例子：该国已为体力劳动设定了每小时能量消耗的千焦上限，一旦超过该数值，即视为对人体健康构成威胁。他还指出，这也是另一个需要强化工会作用的领域。",
       "vocab": [
         {
-          "word": "etnia",
-          "translation": "民族，族群",
-          "note": "社会科学术语，指共享共同文化、语言、历史和身份认同的人群，固定搭配：『grupo étnico（民族群体）』『minoría étnica（少数民族）』『conflicto étnico（民族冲突）』，形容词形式：『étnico（民族的）』，注意与『raza（种族）』的区别：『etnia』侧重文化认同，『raza』侧重生物特征，前者在当代社会科学中更为通用。"
+          "word": "kilojulios",
+          "translation": "千焦（能量单位）",
+          "note": "国际单位制能量单位，1千焦=1000焦耳，在营养学中常见（食品热量标注），在本文中用于衡量体力劳动的能量消耗，体现了将劳动强度量化为物理指标的立法思路。"
         },
         {
-          "word": "autónomo",
-          "translation": "自治的，自主的",
-          "note": "形容词，指拥有一定程度自我管理权力的行政单位或个体，固定搭配：『región autónoma（自治区）』『comunidad autónoma（自治社区，西班牙行政区划）』『vehículo autónomo（自动驾驶汽车）』，名词形式：『autonomía（自治权，自主性）』，是政治地理报道的核心词汇。"
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "es": "Estas minorías se diferencian de los han en sus orígenes, religiones, lenguas, tradiciones y formas de vida. A lo largo de los siglos, han desarrollado culturas fascinantes. Entre los ejemplos más <strong>destacados</strong> se encuentran las tres grandes <strong>epopeyas</strong> heroicas: la tibetana <em>El rey Guesar</em>, el escrito más largo del mundo; la mongola <em>Jangar</em>; y el poema del pueblo kirguís <em>Manas</em>. Asimismo, el arte del muqam uigur de Xinjiang, mezcla de cantos, danzas, música popular y clásica, está reconocido como <strong>Patrimonio Cultural Inmaterial</strong> de la Humanidad por la UNESCO.",
-      "zh": "这些少数民族在起源、宗教、语言、传统和生活方式上与汉族有所不同，数百年来发展出了令人叹为观止的文化。其中最杰出的代表是三大英雄史诗：藏族的《格萨尔王》，世界上最长的史诗；蒙古族的《江格尔》；以及柯尔克孜族的《玛纳斯》。此外，新疆维吾尔族的木卡姆艺术——融合了歌唱、舞蹈、民间音乐和古典音乐——已被联合国教科文组织列为人类非物质文化遗产。",
-      "vocab": [
-        {
-          "word": "epopeya",
-          "translation": "史诗，英雄叙事诗",
-          "note": "文学术语，指以英雄人物的伟大事迹为主题的长篇叙事诗，固定搭配：『epopeya heroica（英雄史诗）』『epopeya nacional（民族史诗）』，引申义：『fue toda una epopeya（那简直是一段传奇经历）』，用于夸张地描述艰辛曲折的经历，是B2级文学词汇中实用性极强的一个。"
-        },
-        {
-          "word": "Patrimonio Cultural Inmaterial",
-          "translation": "非物质文化遗产",
-          "note": "联合国教科文组织（UNESCO）的官方术语，与『Patrimonio Cultural Material（物质文化遗产）』相对，前者指无形的文化表达形式（口头传统、表演艺术、社会习俗等），后者指有形的文物和遗址，固定搭配：『declarado Patrimonio de la Humanidad（被列为人类遗产）』，是文化报道的核心术语组合。"
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "es": "Durante milenios, estos pueblos se han <strong>influido mutuamente</strong> y han <strong>convivido</strong> en la tierra divina de Shenzhou, dando lugar a la considerable diversidad cultural que vemos en la China actual. Cada una de las lenguas, tradiciones y expresiones artísticas de sus 56 grupos étnicos <strong>aportan</strong> algo de su característico color. Estos tesoros culturales de la tierra de Shenzhou son como un jardín en constante <strong>floración</strong>, cuya riqueza debe atribuirse a todos sus pueblos.",
-      "zh": "数千年来，这些民族在神州大地上相互影响、共同生活，孕育出我们今日所见的中国丰富文化多样性。56个民族的每一种语言、传统和艺术表达都为其增添了独特的色彩。神州大地的这些文化瑰宝，如同一座常开不败的花园，其丰富性应归功于所有民族的共同创造。",
-      "vocab": [
-        {
-          "word": "convivir",
-          "translation": "共同生活，共处，共存",
-          "note": "动词，由『con-（共同）』+『vivir（生活）』构成，强调不同个体或群体在同一空间和平相处，固定搭配：『convivir con las diferencias（与差异共处）』『aprender a convivir（学会共处）』，名词形式：『convivencia（共存，共处）』，是讨论多元文化社会时的核心词汇。"
-        },
-        {
-          "word": "dar lugar a",
-          "translation": "导致，产生，引发",
-          "note": "固定搭配，字面义为『给……让出空间』，引申为『使某事得以发生或产生』，固定搭配：『dar lugar a confusiones（引起混淆）』『dar lugar a un debate（引发辩论）』，与『provocar（引发，多用于负面）』相比，『dar lugar a』语气中性，可用于正面或负面结果。"
-        },
-        {
-          "word": "floración",
-          "translation": "开花，花期，（比喻）繁荣绽放",
-          "note": "名词，来自动词『florecer（开花，繁荣）』，本义为植物开花的过程或时期，引申为文化、艺术或思想的繁荣兴盛，固定搭配：『en constante floración（常开不败，持续繁荣）』『época de floración（花期；繁荣时期）』，与首段中『Hua（华/花）』的文化意象形成首尾呼应。"
+          "word": "fortalecer",
+          "translation": "强化，加强，巩固",
+          "note": "由『fuerte（强壮）』派生，后缀『-ecer』表示『使……变得』，同类词如『enriquecer（使丰富）』『debilitar（使削弱）』『establecer（建立）』，构词规律值得掌握。"
         }
       ]
     }
