@@ -11,18 +11,18 @@
   "paragraphs": [
     {
       "id": 1,
-      "es": "Se ha hablado mucho de la luz azul y de los riesgos asociados al uso de pantallas antes de ir a dormir. Sin embargo, un estudio reciente publicado en la revista Sleep Medicine Reviews cuestiona este enfoque y apunta que la tan señalada luz azul podría no ser la única ni necesariamente la principal responsable de las <strong>alteraciones del sueño</strong>. De hecho, la investigación concluye que su impacto a la hora de acostarse es menor de lo que se pensaba, con un retraso máximo de diez minutos en el <strong>inicio del sueño</strong>.",
+      "es": "Se ha hablado mucho de la luz azul y de los riesgos asociados al uso de pantallas antes de ir a dormir. Sin embargo, un estudio reciente publicado en la revista Sleep Medicine Reviews <strong>cuestiona</strong> este enfoque y <strong>apunta que</strong> la tan señalada luz azul podría no ser la única ni necesariamente la principal responsable de las alteraciones del sueño. De hecho, la investigación concluye que su impacto a la hora de acostarse es menor de lo que se pensaba, con un retraso máximo de diez minutos en el inicio del sueño.",
       "zh": "关于蓝光以及睡前使用屏幕相关风险的讨论由来已久。然而，近期发表于《睡眠医学评论》的一项研究对这一观点提出质疑，指出被广泛指责的蓝光可能并非睡眠障碍的唯一原因，也未必是主要原因。事实上，该研究得出结论，蓝光在就寝时的影响小于此前的预期，最多只会使入睡时间推迟十分钟。",
       "vocab": [
         {
-          "word": "alteraciones del sueño",
-          "translation": "睡眠障碍，睡眠紊乱",
-          "note": "睡眠医学的核心术语，alteración 指正常状态受到干扰或破坏，alteraciones del sueño 是 trastornos del sueño 的同义表达，涵盖入睡困难、睡眠中断、早醒等多种问题。比 problemas de sueño 更正式，常见于医学报告和科普文章。"
+          "word": "cuestiona",
+          "translation": "质疑，对……提出疑问",
+          "note": "动词『cuestionar』，B2-C1高频学术/新闻词汇，意为『对某一既定观点或结论提出质疑』，比『dudar de』更正式。固定搭配：『cuestionar un enfoque』（质疑某一方法）、『cuestionar los resultados』（质疑研究结果）、『poner en cuestión』（使……受到质疑）。同族词：『cuestionable』（值得质疑的）、『cuestionario』（问卷）。"
         },
         {
-          "word": "inicio del sueño",
-          "translation": "入睡，睡眠启动",
-          "note": "睡眠科学术语，特指从清醒状态过渡到睡眠状态的时间节点，英文对应 sleep onset。retraso en el inicio del sueño（入睡延迟）是评估睡眠质量的核心指标之一，与 latencia del sueño（睡眠潜伏期）同义，是本文讨论蓝光影响程度的量化依据。"
+          "word": "apunta que",
+          "translation": "指出，表明，暗示",
+          "note": "动词『apuntar』的高频引申用法，本义为『瞄准、记录』，在新闻和学术文体中引申为『指出、表明』，语气比『señalar』更轻，带有『初步指向』的含义。固定搭配：『apuntar hacia』（指向）、『todo apunta a que』（一切迹象表明……）。最后这个搭配在新闻报道中极为常见，是B2必掌握的表达。"
         }
       ]
     },
@@ -33,127 +33,127 @@
       "vocab": [
         {
           "word": "estimulante",
-          "translation": "刺激性的，令人兴奋的",
-          "note": "来自 estimular（刺激、激活），形容能够激活神经系统、提高唤醒水平的活动或物质。actividad estimulante 指睡前令大脑保持高度活跃的行为（如刷短视频、激烈游戏），与 actividad relajante（放松性活动）相对，是本文分析睡眠障碍成因的核心概念。"
+          "translation": "刺激性的，令人兴奋的；兴奋剂",
+          "note": "来自动词『estimular』（刺激、激励），加后缀『-ante』构成形容词或名词。注意『-ante/-iente』是将动词转化为形容词的高产后缀：『estimulante』（刺激性的）、『inquietante』（令人不安的）、『sorprendente』（令人惊讶的）。作名词时意为『兴奋剂』（第8段『consumo de estimulantes』即此用法），掌握后可举一反三。"
         },
         {
           "word": "determinantes",
           "translation": "决定性的，关键性的",
-          "note": "来自 determinar（决定），factores determinantes 指对某一结果具有关键影响的变量，比 factores importantes 更强调因果关系的强度。此处专家用该词将压力、咖啡因等因素定性为比蓝光更具决定性的睡眠影响因子，是本文论点转移的关键词。"
+          "note": "来自动词『determinar』（决定），加后缀『-ante』构成形容词，意为『对结果具有决定性影响的』。注意与『importante』（重要的）的区别：『determinante』更强调因果关系的强度，暗示『没有它，结果就会不同』。固定搭配：『factor determinante』（决定性因素）、『ser determinante para』（对……起决定性作用）。"
         }
       ]
     },
     {
       "id": 3,
-      "es": "Los profesionales subrayan que lo más perjudicial no es la luz azul, sino el contenido que se ve, la hora de uso y los hábitos de sueño que acompañan a esa actividad. Por ejemplo, no es lo mismo ver una película una hora antes de acostarse que consumir vídeos breves y estimulantes en redes sociales justo antes de dormir. Además, recomiendan moderar la exposición a la luz en general durante las últimas horas del día, ya que <strong>incide</strong> en los ritmos circadianos y puede interferir en la <strong>conciliación del sueño</strong>.",
+      "es": "Los profesionales subrayan que lo más <strong>perjudicial</strong> no es la luz azul, sino el contenido que se ve, la hora de uso y los hábitos de sueño que acompañan a esa actividad. Por ejemplo, no es lo mismo ver una película una hora antes de acostarse que consumir vídeos breves y estimulantes en redes sociales justo antes de dormir. Además, recomiendan moderar la exposición a la luz en general durante las últimas horas del día, ya que <strong>incide en</strong> los ritmos circadianos y puede interferir en la conciliación del sueño.",
       "zh": "专业人士强调，最有害的并非蓝光本身，而是所观看的内容、使用时间以及伴随该活动的睡眠习惯。例如，睡前一小时看一部电影，与睡前刷社交媒体上的短暂刺激性视频，效果截然不同。此外，他们建议在一天的最后几个小时里总体上减少光线暴露，因为这会影响昼夜节律，可能干扰入睡过程。",
       "vocab": [
         {
-          "word": "incide",
-          "translation": "影响，作用于，对……产生影响",
-          "note": "比 afecta 更强调直接的、具体的作用机制，常用于科学和医学语境：la luz incide en los ritmos circadianos（光线作用于昼夜节律）。incidir en 强调的是影响的路径和机制，而 afectar 更泛指一般性影响，是科普写作中体现专业性的重要词汇选择。"
+          "word": "perjudicial",
+          "translation": "有害的，有损的",
+          "note": "来自动词『perjudicar』（损害），加后缀『-ial』构成形容词。注意与『dañino』（有害的，更口语）的区别：『perjudicial』更正式，常见于医学、法律和新闻文体。固定搭配：『ser perjudicial para la salud』（有损健康）、『efectos perjudiciales』（有害影响）。同族词：『perjuicio』（损害）、『perjudicar』（损害）。"
         },
         {
-          "word": "conciliación del sueño",
-          "translation": "入睡，睡眠启动过程",
-          "note": "来自 conciliar el sueño（使睡眠成功启动），是西班牙语睡眠医学中描述入睡过程的标准表达，比 dormirse 更正式。interferir en la conciliación del sueño 即干扰入睡过程，与第1段的 inicio del sueño 同义，是本文反复出现的睡眠质量核心概念。"
+          "word": "incide en",
+          "translation": "对……产生影响，作用于",
+          "note": "B2-C1高频学术搭配，比『afectar a』更强调直接的、具体的作用机制，常用于科学和医学语境。固定搭配：『incidir en los resultados』（影响结果）、『incidir en el comportamiento』（影响行为）、『incidir directamente en』（直接作用于）。注意与『afectar』的语体区别：『incidir en』多见于书面语和专业报道。"
         }
       ]
     },
     {
       "id": 4,
-      "es": "\"El sueño es una función del sistema nervioso: un conjunto de células que ejercen una función periódica y transitoria imprescindible para la vida. Sin dormir, nos moriríamos\", afirma Àlex Iranzo, <strong>neurólogo</strong> del Hospital Clínic Barcelona. El doctor explica que, durante las horas de sueño, una parte de las células del organismo se recupera del esfuerzo realizado a lo largo del día, mientras que otras llevan a cabo de forma activa funciones que solo se producen durante el sueño, como ordenar la memoria y regular funciones <strong>endocrinológicas</strong>, inmunológicas y hormonales.",
+      "es": "\"El sueño es una función del sistema nervioso: un conjunto de células que ejercen una función periódica y transitoria <strong>imprescindible</strong> para la vida. Sin dormir, nos moriríamos\", afirma Àlex Iranzo, neurólogo del Hospital Clínic Barcelona. El doctor explica que, durante las horas de sueño, una parte de las células del organismo se recupera del esfuerzo realizado a lo largo del día, mientras que otras <strong>llevan a cabo</strong> de forma activa funciones que solo se producen durante el sueño, como ordenar la memoria y regular funciones endocrinológicas, inmunológicas y hormonales.",
       "zh": "『睡眠是神经系统的一项功能：一组细胞执行着对生命不可或缺的周期性和短暂性功能。没有睡眠，我们会死亡。』巴塞罗那临床医院神经科医生阿莱克斯·伊兰索表示。这位医生解释说，在睡眠期间，机体的部分细胞从一天的劳累中恢复，而另一部分细胞则主动执行只在睡眠期间发生的功能，例如整理记忆，以及调节内分泌、免疫和激素功能。",
       "vocab": [
         {
-          "word": "neurólogo",
-          "translation": "神经科医生，神经病学专家",
-          "note": "由 neuro-（神经）+ -logo（研究者/专家）构成，专门研究和治疗神经系统疾病的医学专科医生。与 neurológico（形容词，神经系统的）区分：neurólogo 是职业名称，neurológico 是描述性形容词。睡眠医学通常由神经科或精神科医生主导，此处点明专家身份增强了引述的权威性。"
+          "word": "imprescindible",
+          "translation": "不可或缺的，必不可少的",
+          "note": "由前缀『im-』（否定）加『prescindir』（放弃、舍弃）构成，字面意为『无法舍弃的』。『im-/in-』是表示否定的高产前缀：『imprescindible』（不可或缺）、『inevitable』（不可避免）、『incuestionable』（无可置疑）。固定搭配：『ser imprescindible para』（对……不可或缺）、『un requisito imprescindible』（必要条件）。"
         },
         {
-          "word": "endocrinológicas",
-          "translation": "内分泌学的，与内分泌系统相关的",
-          "note": "来自 endocrinología（内分泌学），研究激素分泌和调节的医学分支。funciones endocrinológicas 指睡眠期间发生的激素调节功能，如生长激素的分泌主要在深度睡眠阶段完成。与后文 hormonales 并列，两者有重叠但 endocrinológicas 更强调腺体和激素系统的整体调控。"
+          "word": "llevan a cabo",
+          "translation": "执行，实施，完成",
+          "note": "高频固定搭配，相当于英语『carry out』。在新闻和学术文体中极为常见：『llevar a cabo un estudio』（开展研究）、『llevar a cabo reformas』（推行改革）。注意与『realizar』的区别：『llevar a cabo』更强调执行的全过程，『realizar』更强调最终完成的结果。"
         }
       ]
     },
     {
       "id": 5,
-      "es": "Dormir poco y mal tiene consecuencias directas sobre el funcionamiento diario. El doctor Iranzo advierte que \"vamos a tener poca atención, poca concentración, vamos a estar más <strong>irritables</strong>, vamos a tener menos memoria, vamos a estar más cansados y con más mal humor, con más tendencia a la fatiga y a la <strong>depresión</strong>\". De ahí que concluya que \"dormir mal y dormir poco es un mal negocio para la salud y también para la relación familiar, social, <strong>conyugal</strong> y laboral\".",
+      "es": "Dormir poco y mal tiene consecuencias directas sobre el funcionamiento diario. El doctor Iranzo advierte que \"vamos a tener poca atención, poca concentración, vamos a estar más irritables, vamos a tener menos memoria, vamos a estar más cansados y con más mal humor, con más tendencia a la fatiga y a la depresión\". <strong>De ahí que</strong> concluya que \"dormir mal y dormir poco es un mal negocio para la salud y también para la relación familiar, social, <strong>conyugal</strong> y laboral\".",
       "zh": "睡眠不足和睡眠质量差会对日常功能产生直接影响。伊兰索医生警告说，『我们会注意力不集中，专注力下降，更容易烦躁，记忆力减退，更加疲惫，情绪更差，更容易疲劳和抑郁。』因此他得出结论：『睡眠质量差、睡眠时间不足，对健康是一笔亏本的买卖，对家庭、社会、婚姻和职业关系也同样如此。』",
       "vocab": [
         {
-          "word": "irritables",
-          "translation": "易怒的，烦躁的",
-          "note": "来自 irritar（激怒、刺激），形容人因疲劳或压力而情绪不稳定、容易发怒的状态。在医学语境中，irritabilidad（易激惹性）是睡眠剥夺的经典症状之一，与注意力下降、记忆力减退并列，是评估睡眠不足对情绪影响的核心指标。"
-        },
-        {
-          "word": "depresión",
-          "translation": "抑郁，抑郁症",
-          "note": "心理健康领域核心术语，指持续的情绪低落、兴趣丧失和功能障碍。此处 tendencia a la depresión（抑郁倾向）表明睡眠不足不直接等同于抑郁症，但会增加患病风险。睡眠障碍与抑郁症之间存在双向关系：睡眠不足可诱发抑郁，抑郁也会加重睡眠问题。"
+          "word": "de ahí que + 虚拟式",
+          "translation": "因此，由此可见",
+          "note": "重要语法结构，『de ahí que』表示因果推论，后面必须接虚拟式（本文：『de ahí que concluya』，而非陈述式『concluye』）。类似结构：『de modo que + 陈述式』（结果是……）、『para que + 虚拟式』（为了……）。注意：『de ahí que』后接虚拟式是强制性的，是C1级别的重要语法考点。"
         },
         {
           "word": "conyugal",
           "translation": "婚姻的，夫妻的",
-          "note": "来自 cónyuge（配偶），形容与婚姻关系相关的事务，比 matrimonial 更常见于日常书面语。relación conyugal 即夫妻关系，与 familiar（家庭）、social（社会）、laboral（职业）并列，强调睡眠不足对人际关系全方位的负面影响，是本段论证力度最强的收尾词。"
+          "note": "来自『cónyuge』（配偶），加后缀『-al』构成形容词。注意『-al』是将名词转化为形容词的高产后缀：『conyugal』（婚姻的）、『laboral』（劳动的）、『familiar』（家庭的）——这三个词在本句中恰好并列出现，是观察该后缀构词规律的绝佳案例。固定搭配：『vida conyugal』（婚姻生活）、『violencia conyugal』（家庭暴力）。"
         }
       ]
     },
     {
       "id": 6,
-      "es": "1. <strong>Mantener horarios regulares.</strong> Acostarse y levantarse a la misma hora todos los días, incluidos los fines de semana, ayuda a sincronizar el <strong>reloj biológico</strong> y tener un sueño continuo y <strong>reparador</strong>.",
+      "es": "1. Mantener horarios regulares. Acostarse y levantarse a la misma hora todos los días, incluidos los fines de semana, ayuda a sincronizar el reloj biológico y tener un sueño continuo y <strong>reparador</strong>.",
       "zh": "1. 保持规律作息。每天在同一时间就寝和起床，包括周末，有助于同步生物钟，获得连续且恢复性的睡眠。",
       "vocab": [
         {
-          "word": "reloj biológico",
-          "translation": "生物钟",
-          "note": "生理学核心概念，指机体内部调节生理节律（睡眠、体温、激素分泌等）的内源性计时系统，学名为昼夜节律系统（sistema circadiano）。sincronizar el reloj biológico（同步生物钟）意指通过规律作息使内部节律与外部环境保持一致，是睡眠卫生建议的科学依据。"
-        },
-        {
           "word": "reparador",
           "translation": "恢复性的，修复性的",
-          "note": "来自 reparar（修复），sueño reparador 指能够充分恢复体力和脑力、使人醒后感到精力充沛的睡眠。与 sueño fragmentado（碎片化睡眠）、sueño superficial（浅睡眠）相对，是睡眠卫生讨论中的目标状态，也是本文所有建议共同指向的核心目的。"
+          "note": "来自动词『reparar』（修复、弥补），加后缀『-dor』构成形容词。注意『-dor/-dora』是西语中表示『具有……功能的』的高产后缀：『reparador』（修复性的）、『relajador』（放松性的）、『estimulador』（刺激性的）。固定搭配：『sueño reparador』（恢复性睡眠）、『descanso reparador』（恢复性休息）。"
         }
       ]
     },
     {
       "id": 7,
-      "es": "3. <strong>Evitar el uso de pantallas antes de acostarse.</strong> Apagar dispositivos electrónicos al menos una hora antes de dormir ayuda a disminuir la estimulación del cerebro y favorece la producción de <strong>melatonina</strong>. 4. <strong>Mantener una vida activa.</strong> La práctica habitual de ejercicio físico mejora la calidad del descanso. Sin embargo, se recomienda evitar la actividad física al menos tres horas antes de dormir para no <strong>reactivar</strong> el organismo.",
+      "es": "3. Evitar el uso de pantallas antes de acostarse. Apagar dispositivos electrónicos al menos una hora antes de dormir ayuda a disminuir la estimulación del cerebro y <strong>favorece</strong> la producción de melatonina. 4. Mantener una vida activa. La práctica habitual de ejercicio físico mejora la calidad del descanso. Sin embargo, se recomienda evitar la actividad física al menos tres horas antes de dormir para no <strong>reactivar</strong> el organismo.",
       "zh": "3. 睡前避免使用屏幕。至少在睡前一小时关闭电子设备，有助于减少大脑的刺激，促进褪黑素的分泌。4. 保持积极的生活方式。定期进行体育锻炼可以改善休息质量。然而，建议至少在睡前三小时避免体育活动，以免重新激活机体。",
       "vocab": [
         {
-          "word": "melatonina",
-          "translation": "褪黑素",
-          "note": "由松果体分泌的激素，是调节昼夜节律和睡眠启动的核心信号分子，在黑暗环境中分泌增加，光线（尤其是蓝光）会抑制其分泌。producción de melatonina（褪黑素分泌）是本文将减少屏幕使用与改善睡眠联系起来的生理机制，是理解睡眠卫生建议科学依据的关键词。"
+          "word": "favorece",
+          "translation": "促进，有利于，助益",
+          "note": "动词『favorecer』，B2高频词，意为『对某事的发展产生积极作用』，比『ayudar a』更正式。固定搭配：『favorecer la producción de』（促进……的分泌/生产）、『favorecer el desarrollo』（促进发展）、『favorecer la integración』（促进融合）。注意与『facilitar』（便利、简化）的区别：『favorecer』强调积极推动，『facilitar』强调降低难度或障碍。"
         },
         {
           "word": "reactivar",
           "translation": "重新激活，再度唤醒",
-          "note": "由 re-（再次）+ activar（激活）构成，指使已趋于平静的系统重新进入活跃状态。reactivar el organismo 意指剧烈运动会使心率、体温和肾上腺素水平重新升高，与睡眠所需的生理降温和放松状态相悖，是解释睡前三小时禁止运动这一建议的生理学依据。"
+          "note": "由前缀『re-』（再次）加『activar』（激活）构成。『re-』是表示『再次、重新』的高产前缀：『reactivar』（重新激活）、『retomar』（重新拾起）、『restablecer』（重新建立）、『recuperar』（恢复）。注意与『activar』的区别：『reactivar』强调某一状态曾经平息后的再次启动，暗含『本应休息却又被唤醒』的含义。"
         }
       ]
     },
     {
       "id": 8,
-      "es": "5. <strong>Controlar el consumo de estimulantes y alimentación nocturna.</strong> Durante las últimas horas del día conviene reducir el consumo de café, té, refrescos con cafeína, chocolate y alimentos azucarados. También es aconsejable evitar cenas abundantes que puedan provocar <strong>digestiones pesadas</strong>, así como el consumo de tabaco y alcohol. 6. <strong>Acondicionar el dormitorio.</strong> El espacio debe ser silencioso, oscuro y mantener una temperatura moderada. También es recomendable tener un colchón y una almohada cómodos, y utilizar la habitación solo para dormir.",
+      "es": "5. Controlar el consumo de estimulantes y alimentación nocturna. Durante las últimas horas del día <strong>conviene</strong> reducir el consumo de café, té, refrescos con cafeína, chocolate y alimentos azucarados. También es aconsejable evitar cenas abundantes que puedan provocar digestiones pesadas, así como el consumo de tabaco y alcohol. 6. <strong>Acondicionar</strong> el dormitorio. El espacio debe ser silencioso, oscuro y mantener una temperatura moderada. También es recomendable tener un colchón y una almohada cómodos, y utilizar la habitación solo para dormir.",
       "zh": "5. 控制兴奋剂摄入和夜间饮食。在一天的最后几个小时，应减少咖啡、茶、含咖啡因的饮料、巧克力和含糖食品的摄入。同样建议避免可能导致消化不良的丰盛晚餐，以及吸烟和饮酒。6. 优化卧室环境。卧室应保持安静、黑暗，并维持适宜的温度。同样建议使用舒适的床垫和枕头，并尽可能将卧室仅用于睡眠。",
       "vocab": [
         {
-          "word": "digestiones pesadas",
-          "translation": "消化不良，沉重的消化负担",
-          "note": "固定搭配，pesado 本义为沉重的，digestión pesada 指因进食过多或食物油腻而导致消化过程缓慢、令人不适的状态。睡前大量进食会使消化系统持续工作，导致体温升高、身体无法进入休息状态，是影响睡眠质量的常见饮食因素。"
+          "word": "conviene + 动词原形",
+          "translation": "适合，有必要，最好……",
+          "note": "固定语法结构，『convenir』的第三人称单数，用于提出建议，语气比『hay que』（必须）更委婉，比『es mejor』（最好）更正式。固定用法：『conviene reducir』（最好减少）、『conviene recordar que』（有必要指出）、『no conviene』（不宜）。在医学建议和新闻评论中极为常见，是替代『se recomienda』的高级选项。"
+        },
+        {
+          "word": "acondicionar",
+          "translation": "优化，整备，使……达到适宜状态",
+          "note": "由前缀『a-』加『condición』（条件）构成，意为『使某空间达到所需条件或最佳状态』。固定搭配：『acondicionar un espacio』（整备空间）、『acondicionar el dormitorio』（优化卧室环境）。注意『aire acondicionado』（空调）是该词族中最常见的日常表达，字面意为『经过调节的空气』，掌握词根『condición』有助于理解整个词族。"
         }
       ]
     },
     {
       "id": 9,
-      "es": "7. <strong>Gestionar los episodios de insomnio.</strong> Si cuesta conciliar el sueño, se recomienda no forzar, sino salir del dormitorio y realizar alguna actividad relajante hasta recuperar la sensación de sueño. Si el <strong>insomnio</strong> se prolonga más de quince días, se recomienda consultar a un profesional de la salud.",
+      "es": "7. Gestionar los episodios de insomnio. Si <strong>cuesta</strong> conciliar el sueño, se recomienda no forzar, sino salir del dormitorio y realizar alguna actividad relajante hasta recuperar la sensación de sueño. Si el insomnio se <strong>prolonga</strong> más de quince días, se recomienda consultar a un profesional de la salud.",
       "zh": "7. 应对失眠发作。如果难以入睡，建议不要强迫自己，而是离开卧室，进行一些放松活动，直到重新产生睡意。如果失眠持续超过十五天，建议咨询医疗专业人员。",
       "vocab": [
         {
-          "word": "insomnio",
-          "translation": "失眠",
-          "note": "来自拉丁语 insomnia（in- 否定 + somnus 睡眠），指持续难以入睡或维持睡眠的状态。医学上将失眠分为 insomnio agudo（急性失眠，持续数天至数周）和 insomnio crónico（慢性失眠，持续超过三个月）。本文以十五天为临界点建议就医，对应急性失眠向慢性失眠转变的风险窗口期。"
+          "word": "cuesta + 动词原形",
+          "translation": "难以……，……很费力",
+          "note": "固定语法结构，『costar』在此不表示『花费金钱』，而是表示『做某事很困难』。本文『si cuesta conciliar el sueño』即『如果难以入睡』。固定用法：『me cuesta hablar en público』（我很难在公众场合发言）、『cuesta creerlo』（难以置信）。注意这是『costar』最容易被误解的用法，属于典型的一词多义陷阱。"
+        },
+        {
+          "word": "se prolonga",
+          "translation": "持续，延续，延长",
+          "note": "动词『prolongar』的反身形式，意为『（某一状态）持续延续下去』，比『durar』更强调超出预期或正常范围的延续。固定搭配：『prolongarse durante』（持续……时间）、『prolongar una reunión』（延长会议）、『una situación que se prolonga』（持续的状况）。同族词：『prolongación』（延续、延伸）、『prolongado』（长时间的，如『un aplauso prolongado』持续的掌声）。"
         }
       ]
     }
