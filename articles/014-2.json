@@ -11,7 +11,7 @@
   "paragraphs": [
     {
       "id": 1,
-      "es": "Escuchar una opinión contraria a la nuestra rara vez es una experiencia neutra. Aunque solemos atribuir esta dificultad a factores culturales o personales, la ciencia muestra que tiene raíces profundas en el funcionamiento del cerebro. Desde la neurociencia sabemos por qué nos cuesta tanto escuchar opiniones diferentes. El desacuerdo activa sistemas diseñados para detectar conflicto y mantener la coherencia interna. Esto explica por qué solemos reaccionar con rapidez y, a menudo, con rigidez ante ideas que desafían lo que creemos.",
+      "es": "Escuchar una opinión contraria a la nuestra rara vez es una experiencia neutra. Aunque solemos <strong>atribuir</strong> esta dificultad a factores culturales o personales, la ciencia muestra que tiene raíces profundas en el funcionamiento del cerebro. Desde la neurociencia sabemos por qué nos cuesta tanto escuchar opiniones diferentes. El desacuerdo activa sistemas diseñados para detectar conflicto y mantener la coherencia interna. Esto explica por qué solemos reaccionar con rapidez y, a menudo, con <strong>rigidez</strong> ante ideas que desafían lo que creemos.",
       "zh": "倾听与我们相悖的意见，很少是一种中性的体验。尽管我们通常将这种困难归因于文化或个人因素，但科学表明，它深深植根于大脑的运作方式之中。神经科学告诉我们，为什么倾听不同意见如此困难。分歧会激活大脑中专门用于检测冲突、维持内部一致性的系统。这解释了为什么我们面对挑战自身信念的想法时，往往反应迅速，而且常常僵化。",
       "vocab": [
         {
@@ -28,8 +28,8 @@
     },
     {
       "id": 2,
-      "es": "El cerebro detecta conflicto antes de razonar. Cuando escuchamos una idea que contradice nuestra forma de pensar, el cerebro no empieza evaluando argumentos. Primero detecta que hay un conflicto. Una de las regiones implicadas en este proceso es la llamada corteza cingulada anterior o CCA. Esta estructura actúa como un radar encargado de identificar inconsistencias entre nuestras expectativas y la realidad, así como conflictos entre respuestas o entre creencias. Por lo tanto, la CCA funciona como un «radar de incongruencias».",
-      "zh": "大脑在推理之前就已检测到冲突。当我们听到一个与自身思维方式相悖的想法时，大脑并不会从评估论据开始，而是首先检测到冲突的存在。参与这一过程的脑区之一，是所谓的前扣带皮层（CCA）。这一结构充当雷达，负责识别我们的预期与现实之间的不一致，以及不同反应或信念之间的冲突。因此，前扣带皮层发挥着「不一致性雷达」的功能。",
+      "es": "Cuando escuchamos una idea que contradice nuestra forma de pensar, el cerebro no empieza evaluando argumentos. Primero detecta que hay un conflicto. Una de las regiones <strong>implicadas</strong> en este proceso es la llamada corteza cingulada anterior o CCA. Esta estructura actúa como un radar encargado de identificar <strong>inconsistencias</strong> entre nuestras expectativas y la realidad, así como conflictos entre respuestas o entre creencias. Por lo tanto, la CCA funciona como un «radar de incongruencias».",
+      "zh": "当我们听到一个与自身思维方式相悖的想法时，大脑并不会从评估论据开始，而是首先检测到冲突的存在。参与这一过程的脑区之一，是所谓的前扣带皮层（CCA）。这一结构充当雷达，负责识别我们的预期与现实之间的不一致，以及不同反应或信念之间的冲突。因此，前扣带皮层发挥着「不一致性雷达」的功能。",
       "vocab": [
         {
           "word": "estar implicado/a en",
@@ -45,7 +45,7 @@
     },
     {
       "id": 3,
-      "es": "La evidencia neurocientífica muestra que la CCA forma parte de circuitos implicados tanto en el control cognitivo como en el procesamiento del dolor físico y del dolor social. Por eso, una opinión contraria puede ser experimentada como algo incómodo o amenazante, incluso cuando no hay confrontación directa. Junto a la corteza cingulada anterior se activan otras regiones. Una de ellas, la amígdala, está implicada en la respuesta de amenaza. Otra área importante, la ínsula, está relacionada con la percepción del malestar corporal. El resultado de este proceso es familiar para todos: nudo en el estómago, tensión corporal y una tendencia a defenderse o cerrar la conversación.",
+      "es": "La evidencia neurocientífica muestra que la CCA forma parte de circuitos implicados tanto en el control cognitivo como en el procesamiento del dolor físico y del dolor social. Por eso, una opinión contraria puede ser experimentada como algo incómodo o <strong>amenazante</strong>, incluso cuando no hay confrontación directa. Junto a la corteza cingulada anterior se activan otras regiones. Una de ellas, la amígdala, está implicada en la respuesta de amenaza. Otra área importante, la ínsula, está relacionada con la percepción del <strong>malestar</strong> corporal. El resultado de este proceso es familiar para todos: nudo en el estómago, tensión corporal y una tendencia a defenderse o cerrar la conversación.",
       "zh": "神经科学证据表明，前扣带皮层参与的神经回路，既涉及认知控制，也涉及躯体疼痛和社会性疼痛的处理。因此，即便没有直接对抗，一个相悖的意见也可能被体验为令人不适或具有威胁性的东西。除前扣带皮层外，其他脑区也会同时激活。其中之一是杏仁核，它参与威胁反应。另一个重要区域是脑岛，与身体不适感的感知相关。这一过程的结果对所有人来说都不陌生：胃部打结、身体紧绷，以及一种想要自我防御或终止对话的冲动。",
       "vocab": [
         {
@@ -62,8 +62,8 @@
     },
     {
       "id": 4,
-      "es": "Finalmente entra en juego la corteza prefrontal dorsolateral, responsable de funciones como la planificación, la inhibición de impulsos y la toma de decisiones. El coste cognitivo y emocional de integrar otra perspectiva. Aceptar una visión opuesta exige un esfuerzo considerable. El cerebro debe mantener al mismo tiempo dos modelos mentales incompatibles: «lo que yo creo» y «lo que tú dices». Además, debe compararlos y decidir si alguno debe modificarse. Desde el punto de vista energético, es una operación exigente.",
-      "zh": "最后登场的是背外侧前额叶皮层，它负责规划、冲动抑制和决策等功能。整合另一种视角的认知与情感代价。接受一种相反的观点需要付出相当大的努力。大脑必须同时维持两个相互不兼容的心理模型：「我所相信的」和「你所说的」。此外，它还必须对两者进行比较，并决定是否需要修正其中之一。从能量消耗的角度来看，这是一项高度耗费资源的操作。",
+      "es": "Finalmente <strong>entra en juego</strong> la corteza prefrontal dorsolateral, responsable de funciones como la planificación, la inhibición de impulsos y la toma de decisiones. Aceptar una visión opuesta exige un esfuerzo considerable. El cerebro debe mantener al mismo tiempo dos modelos mentales incompatibles: «lo que yo creo» y «lo que tú dices». Además, debe compararlos y decidir si alguno debe modificarse. Desde el punto de vista energético, es una operación <strong>exigente</strong>.",
+      "zh": "最后登场的是背外侧前额叶皮层，它负责规划、冲动抑制和决策等功能。接受一种相反的观点需要付出相当大的努力。大脑必须同时维持两个相互不兼容的心理模型：「我所相信的」和「你所说的」。此外，它还必须对两者进行比较，并决定是否需要修正其中之一。从能量消耗的角度来看，这是一项高度耗费资源的操作。",
       "vocab": [
         {
           "word": "entrar en juego",
@@ -79,7 +79,7 @@
     },
     {
       "id": 5,
-      "es": "A este esfuerzo se suma la disonancia cognitiva: el malestar que aparece cuando una información amenaza la coherencia de nuestra visión del mundo o de nuestra identidad. En muchos casos, este malestar no se resuelve escuchando al otro, sino justificando lo que ya pensábamos. Es lo que se conoce como «razonamiento motivado». Por otra parte, muchas creencias están ligadas a la pertenencia a un grupo. Cambiar de perspectiva puede ser experimentado, aunque sea de forma inconsciente, como un riesgo social: quedar mal, perder estatus o sentirse excluido. El cerebro social está especialmente orientado a evitar ese tipo de amenazas.",
+      "es": "<strong>A este esfuerzo se suma</strong> la disonancia cognitiva: el malestar que aparece cuando una información amenaza la coherencia de nuestra visión del mundo o de nuestra identidad. En muchos casos, este malestar no se resuelve escuchando al otro, sino justificando lo que ya pensábamos. Es lo que se conoce como «razonamiento motivado». Por otra parte, muchas creencias están <strong>ligadas a</strong> la pertenencia a un grupo. Cambiar de perspectiva puede ser experimentado, aunque sea de forma inconsciente, como un riesgo social: quedar mal, perder estatus o sentirse excluido. El cerebro social está especialmente orientado a evitar ese tipo de amenazas.",
       "zh": "在这一努力之上，还叠加了认知失调：当某一信息威胁到我们的世界观或身份认同的一致性时所产生的不适感。在很多情况下，这种不适并不通过倾听他人来化解，而是通过为自己原有的想法寻找理由来消除。这就是所谓的「动机性推理」。另一方面，许多信念与群体归属感紧密相连。改变立场可能会被体验为一种社会风险——哪怕是在无意识层面：丢面子、失去地位或感到被排斥。社会性大脑尤其倾向于规避此类威胁。",
       "vocab": [
         {
@@ -96,8 +96,8 @@
     },
     {
       "id": 6,
-      "es": "El estrés dificulta escuchar y pensar con calma. Un factor clave en todo este proceso es el estrés. Cuando este es elevado o sostenido, el sistema nervioso funciona en modo de alerta, lo que reduce la capacidad de la corteza prefrontal para regular emociones y sostener el desacuerdo con calma. En ese estado, escuchar se vuelve especialmente difícil. La buena noticia es que estos sistemas son plásticos. Las regiones cerebrales implicadas en el conflicto, la emoción y el control cambian con la experiencia y la práctica.",
-      "zh": "压力使平静地倾听和思考变得困难。整个过程中的一个关键因素是压力。当压力持续升高时，神经系统进入警戒模式，这会削弱前额叶皮层调节情绪、平静承受分歧的能力。在这种状态下，倾听变得尤为困难。好消息是，这些系统具有可塑性。参与冲突、情绪和控制的脑区会随着经历和练习而改变。",
+      "es": "Un factor clave en todo este proceso es el estrés. Cuando este es elevado o <strong>sostenido</strong>, el sistema nervioso funciona en modo de alerta, lo que reduce la capacidad de la corteza prefrontal para regular emociones y sostener el desacuerdo con calma. En ese estado, escuchar se vuelve especialmente difícil. La buena noticia es que estos sistemas son <strong>plásticos</strong>. Las regiones cerebrales implicadas en el conflicto, la emoción y el control cambian con la experiencia y la práctica.",
+      "zh": "整个过程中的一个关键因素是压力。当压力持续升高时，神经系统进入警戒模式，这会削弱前额叶皮层调节情绪、平静承受分歧的能力。在这种状态下，倾听变得尤为困难。好消息是，这些系统具有可塑性。参与冲突、情绪和控制的脑区会随着经历和练习而改变。",
       "vocab": [
         {
           "word": "sostenido",
@@ -113,8 +113,8 @@
     },
     {
       "id": 7,
-      "es": "Escuchar desde la calma se puede entrenar. La dificultad para escuchar opiniones contrarias ha ido ganando presencia en el debate social y cultural. Especialmente en contextos donde las decisiones tienen consecuencias compartidas como en equipos de trabajo, instituciones o espacios de liderazgo. El desacuerdo mal gestionado suele escalar hacia conflictos interpersonales, bloqueos comunicativos y deterioro del clima emocional. Se trata de algo muy común en entornos laborales de alta demanda.",
-      "zh": "平静地倾听是可以训练的。难以倾听不同意见这一问题，在社会和文化讨论中的关注度日益提升。尤其是在决策具有共同后果的场合——如工作团队、机构或领导力空间。处理不当的分歧往往会升级为人际冲突、沟通障碍和情感氛围的恶化。这在高强度工作环境中极为普遍。",
+      "es": "La dificultad para escuchar opiniones contrarias ha ido ganando presencia en el debate social y cultural. Especialmente en contextos donde las decisiones tienen consecuencias compartidas como en equipos de trabajo, instituciones o espacios de liderazgo. El desacuerdo mal gestionado suele <strong>escalar</strong> hacia conflictos interpersonales, bloqueos comunicativos y <strong>deterioro</strong> del clima emocional. Se trata de algo muy común en entornos laborales de alta demanda.",
+      "zh": "难以倾听不同意见这一问题，在社会和文化讨论中的关注度日益提升。尤其是在决策具有共同后果的场合——如工作团队、机构或领导力空间。处理不当的分歧往往会升级为人际冲突、沟通障碍和情感氛围的恶化。这在高强度工作环境中极为普遍。",
       "vocab": [
         {
           "word": "escalar",
@@ -130,7 +130,7 @@
     },
     {
       "id": 8,
-      "es": "Afortunamente podemos entrenar la escucha desde la calma, circunstancia que mejora de forma clara el liderazgo y la toma de decisiones. Prácticas como el mindfulness o el biofeedback reducen la reactividad automática y aumentan la capacidad de observar el desacuerdo sin responder de forma impulsiva. Por ejemplo, estudios sobre redes cerebrales en reposo muestran que la práctica sostenida de mindfulness modula redes cerebrales implicadas en regulación emocional y flexibilidad cognitiva. De este modo se favorecen respuestas más adaptativas ante la discrepancia.",
+      "es": "Afortunadamente podemos entrenar la escucha desde la calma, circunstancia que mejora de forma clara el liderazgo y la toma de decisiones. Prácticas como el mindfulness o el biofeedback reducen la <strong>reactividad</strong> automática y aumentan la capacidad de observar el desacuerdo sin responder de forma impulsiva. Por ejemplo, estudios sobre redes cerebrales en reposo muestran que la práctica sostenida de mindfulness <strong>modula</strong> redes cerebrales implicadas en regulación emocional y flexibilidad cognitiva. De este modo se favorecen respuestas más adaptativas ante la discrepancia.",
       "zh": "幸运的是，我们可以训练从平静出发的倾听能力，这一能力能够显著改善领导力和决策水平。正念或生物反馈等练习能够降低自动反应性，提升在不冲动回应的情况下观察分歧的能力。例如，关于静息态脑网络的研究表明，持续的正念练习能够调节参与情绪调节和认知灵活性的脑网络，从而促进面对分歧时更具适应性的反应。",
       "vocab": [
         {
@@ -139,7 +139,7 @@
           "note": "来自形容词『reactivo』加后缀『-idad』构成，指个体对刺激做出自动、快速反应的倾向。『-idad』是构成抽象名词的高产后缀，对应英语『-ity』：『flexibilidad』（灵活性）、『adaptabilidad』（适应性）、『sensibilidad』（敏感性）。在心理学和神经科学语境中，『reducir la reactividad』（降低反应性）是描述情绪调节训练效果的标准表达。"
         },
         {
-          "word": "modula",
+          "word": "modula (modular)",
           "translation": "调节，调控，影响（程度或强度）",
           "note": "动词『modular』来自『módulo』（模块、单元），在科学语境中意为『对某一过程的强度或模式进行精细调节』，比『controlar』（控制）更精确，强调微调而非全面掌控。固定搭配：『modular la respuesta』（调节反应）、『modular la actividad cerebral』（调控大脑活动）。在神经科学、内分泌学和音乐（调式）报道中均高频出现。"
         }
@@ -147,7 +147,7 @@
     },
     {
       "id": 9,
-      "es": "Por otra parte, nuestros proyectos de investigación del grupo Neurociencia del Bienestar de la Universidad de Sevilla han mostrado que entrenar la regulación fisiológica y emocional se asocia con una mayor capacidad para pausar antes de responder, escuchar con menos reactividad y gestionar conversaciones difíciles con mayor claridad. La clave no está en eliminar la incomodidad, sino en aprender a regularla para que no derive en rechazo automático. Escuchar no significa ceder ni renunciar a los propios valores. Significa sostener la incomodidad el tiempo suficiente para ampliar el marco desde el que decidimos.",
+      "es": "Por otra parte, nuestros proyectos de investigación del grupo Neurociencia del Bienestar de la Universidad de Sevilla han mostrado que entrenar la regulación fisiológica y emocional <strong>se asocia con</strong> una mayor capacidad para pausar antes de responder, escuchar con menos reactividad y gestionar conversaciones difíciles con mayor claridad. La clave no está en eliminar la incomodidad, sino en aprender a regularla para que no <strong>derive en</strong> rechazo automático. Escuchar no significa ceder ni renunciar a los propios valores. Significa sostener la incomodidad el tiempo suficiente para ampliar el marco desde el que decidimos.",
       "zh": "另一方面，塞维利亚大学幸福神经科学研究小组的研究项目表明，训练生理和情绪调节能力，与更强的暂停能力（在回应前先停顿）、更低反应性的倾听能力，以及更清晰地处理困难对话的能力相关联。关键不在于消除不适，而在于学会调节它，使其不演变为自动排斥。倾听不意味着妥协或放弃自身价值观，而是意味着在足够长的时间内承受不适，从而拓宽我们做决定时所依据的框架。",
       "vocab": [
         {
@@ -156,7 +156,7 @@
           "note": "学术写作高频固定搭配，结构为『asociarse con』，用于描述两个变量之间的相关关系，比『estar relacionado con』更正式，在科学报道中是描述研究发现的标准表达。注意其不预设因果关系，仅陈述相关性——这是科学报道中的重要区分：『asociarse con』（相关）vs『causar』（导致）。"
         },
         {
-          "word": "derive en",
+          "word": "derive en (derivar en)",
           "translation": "演变为，导致，最终变成",
           "note": "动词『derivar』本义为『流向、衍生』，固定搭配『derivar en』意为『逐渐演变为某种（通常是负面的）结果』，强调一个过程的自然走向。类似搭配：『derivar en conflicto』（演变为冲突）、『derivar en crisis』（演变为危机）。注意与『resultar en』（导致）的区别：『derivar en』更强调渐进的演变过程。"
         }
@@ -164,7 +164,7 @@
     },
     {
       "id": 10,
-      "es": "En un mundo cada vez más polarizado, la capacidad de escuchar opiniones contrarias es una habilidad neurocognitiva entrenable. Comprender cómo responde el cerebro al desacuerdo es el primer paso para dejar de reaccionar automáticamente y empezar a responder con mayor calma, claridad y humanidad.",
+      "es": "En un mundo cada vez más <strong>polarizado</strong>, la capacidad de escuchar opiniones contrarias es una habilidad neurocognitiva entrenable. Comprender cómo responde el cerebro al desacuerdo es el primer paso para dejar de reaccionar automáticamente y empezar a responder con mayor calma, claridad y humanidad.",
       "zh": "在一个日益极化的世界里，倾听不同意见的能力是一种可训练的神经认知技能。理解大脑如何应对分歧，是停止自动反应、开始以更平静、更清醒、更具人文关怀的方式回应的第一步。",
       "vocab": [
         {
