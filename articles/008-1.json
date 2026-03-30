@@ -77,7 +77,7 @@
         {
           "word": "billones",
           "translation": "万亿（西语计数陷阱）",
-          "note": "⚠️ 西语『billón』= 一百万个一百万 = 10¹² = 英语『trillion（万亿）』，而非英语『billion（十亿）』。西语『mil millones』才对应英语『billion（十亿）』。这是西语学习者在阅读财经新闻时最常见的理解错误，务必牢记。"
+          "note": "西语『billón』= 一百万个一百万 = 10¹² = 英语『trillion（万亿）』，而非英语『billion（十亿）』。西语『mil millones』才对应英语『billion（十亿）』。这是西语学习者在阅读财经新闻时最常见的理解错误，务必牢记。"
         }
       ]
     },
@@ -86,7 +86,7 @@
       "es": "El marco que han diseñado permite estimar las emisiones y los daños generados por los países, las grandes empresas, pero también personajes bien conocidos. Partiendo del coste estimado de las emisiones de un vuelo de largo alcance, calculan que las emisiones de los vuelos privados realizados por Bill Gates, Jeff Bezos, Elon Musk o Taylor Swift en 2022 generarán cada uno más de un millón de dólares en daños para el año 2100, \"lo que pone de relieve el coste social sustancial, y quizás poco reconocido, de las decisiones de consumo individuales\".",
       "zh": "他们设计的框架可以估算国家、大型企业乃至知名人士产生的排放和损害。以长途飞行排放的估算成本为起点，他们计算出比尔·盖茨、杰夫·贝索斯、埃隆·马斯克或泰勒·斯威夫特2022年的私人飞行排放，到2100年各自将造成逾百万美元的损害，『这凸显了个人消费决策所带来的实质性社会成本——或许迄今尚未得到充分认识』。",
       "vocab": []
-    }
+    },
 {
   "paragraphs": [
     {
@@ -174,3 +174,5 @@
   ]
 }
 
+  ]
+}

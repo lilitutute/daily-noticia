@@ -1,0 +1,110 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与社会",
+  "difficulty": "B2-C1",
+  "wordCount": "约450词",
+  "title": "Las redes sociales llegan a su momento tabaco",
+  "subtitle": "社交媒体迎来它的「烟草时刻」",
+  "resumenEs": "Un tribunal de Los Ángeles condenó a Google y Meta por diseños adictivos dirigidos a menores, en lo que el autor considera un punto de inflexión histórico comparable al momento en que la industria tabacalera comenzó a perder sus batallas legales. A pesar de que las multas actuales son relativamente pequeñas, abren la puerta a demandas colectivas masivas. El autor concluye con una reflexión generacional: así como hoy nos horroriza que un médico fumara en la consulta, quizá en el futuro una generación entera recuerde con vergüenza haber pedido tener TikTok con diez años.",
+  "resumenZh": "洛杉矶一家法院以针对未成年人的成瘾性设计为由，判定谷歌和Meta败诉。作者认为这是一个历史性转折点，堪比烟草行业开始在法律战中节节败退的时刻。尽管目前的罚款金额相对有限，但已为大规模集体诉讼打开了大门。作者以一个代际反思作结：正如今天我们对医生在诊室吸烟感到震惊，未来或许会有一整代人羞愧地回忆起自己十岁时是如何央求父母让自己用TikTok的。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "DESPUÉS DE AÑOS de peleas legislativas y movimientos civiles que se han ido apagando, tiene algo de poético que finalmente la demanda de una mujer anónima sea el <strong>punto de inflexión</strong> que ha puesto negro sobre blanco lo que hasta ahora era evidente: los diseños adictivos de las redes sociales de Meta y Youtube para atrapar a los usuarios, concretamente a los menores.",
+      "zh": "经历了多年逐渐平息的立法争斗和公民运动之后，终于由一名无名女性提起的诉讼成为转折点——这本身就带有几分诗意。这一诉讼将此前已显而易见的事实白纸黑字地呈现出来：Meta和YouTube的社交媒体平台采用成瘾性设计来吸引用户，尤其是未成年人。",
+      "vocab": [
+        {
+          "word": "punto de inflexión",
+          "translation": "转折点，拐点",
+          "note": "数学术语借用，『inflexión』指曲线从凹到凸（或反之）的转变点，引申为事物发展方向发生根本性改变的关键时刻。在新闻和政治评论中极为常见，相当于英语『turning point』或『tipping point』。固定搭配：『marcar un punto de inflexión』（标志着一个转折点）、『llegar a su punto de inflexión』（迎来转折点）。"
+        },
+        {
+          "word": "negro sobre blanco",
+          "translation": "白纸黑字，明确书面记录",
+          "note": "固定成语，字面意为『黑色写在白色上』，指以书面形式明确记录、无可抵赖的事实。相当于中文『白纸黑字』，强调证据的确凿性和不可否认性。固定用法：『poner negro sobre blanco』（将……白纸黑字写下来）、『quedar negro sobre blanco』（以书面形式确认）。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Esta misma semana, un tribunal de Los Ángeles condenó a Google y Meta por esta razón, al tiempo que otro juzgado en Nuevo México impuso una <strong>multa</strong> de 350 millones a la empresa dirigida por Mark Zuckerberg por no proteger suficientemente a los menores ante abusos. El impacto de las multas actuales es relativamente pequeño, pero abre la puerta a que se presenten <strong>demandas colectivas</strong> que, en el primer caso, potencialmente se extenderían a cada menor estadounidense que ha usado la plataforma.",
+      "zh": "就在本周，洛杉矶一家法院以此为由判定谷歌和Meta败诉，与此同时，新墨西哥州另一家法院以未能充分保护未成年人免受侵害为由，对扎克伯格领导的公司处以3.5亿美元罚款。目前罚款的影响相对有限，但已为提起集体诉讼打开了大门——在第一个案例中，诉讼范围可能扩展至每一位曾使用该平台的美国未成年人。",
+      "vocab": [
+        {
+          "word": "multa",
+          "translation": "罚款，罚金",
+          "note": "法律和行政用语，指由司法或行政机构强制征收的金钱惩罚。对应动词『multar』（处以罚款）。注意区分相关词汇：『multa』（罚款，行政或司法）、『sanción』（制裁，范围更广，包括非金钱惩罚）、『indemnización』（赔偿，指向受害方的补偿）。三者在法律报道中需精确区分。"
+        },
+        {
+          "word": "demandas colectivas",
+          "translation": "集体诉讼",
+          "note": "法律术语，指多名原告就同一事由联合提起的诉讼，对应英语『class action lawsuit』。『demanda』在法律语境中专指『诉讼、起诉』，区别于日常用语中的『需求』含义。固定搭配：『presentar una demanda』（提起诉讼）、『demanda colectiva』（集体诉讼）、『demanda individual』（个人诉讼）。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "El impacto potencial es mayor. Durante el juicio, se ha revelado que los ejecutivos de Facebook conocían y <strong>obviaron</strong> estos riesgos que han ido saliendo a la luz pública: desde el riesgo de suicidio hasta los mecanismos que <strong>enganchaban</strong> a los adolescentes a sus plataformas. Con ese conocimiento, decidieron no hacer nada, o hacer muy poco.",
+      "zh": "潜在影响远不止于此。审判过程中披露，Facebook高管早已知晓这些风险，却选择视而不见——从自杀风险到将青少年牢牢钩住平台的各种机制，这些问题已陆续浮出水面。在明知风险的情况下，他们决定什么都不做，或只做极少。",
+      "vocab": [
+        {
+          "word": "obviaron",
+          "translation": "无视，刻意忽略，绕过",
+          "note": "动词『obviar』来自形容词『obvio』（显而易见的），意为『刻意绕开、无视显而易见的事物』，带有主观故意的含义，比『ignorar』（忽视）更强调明知故犯。这一用词选择在本文中具有法律意义：暗示Facebook高管的行为不是疏忽，而是蓄意为之，这对诉讼结果至关重要。"
+        },
+        {
+          "word": "enganchaban",
+          "translation": "钩住，使上瘾，使沉迷",
+          "note": "来自动词『enganchar』，本义为『用钩子钩住』，引申为使人上瘾或沉迷。在成瘾研究和科技批评语境中，『enganchar』与英语『hook』完全对应，是描述平台成瘾性设计的核心词汇。固定搭配：『estar enganchado a』（沉迷于……）、『mecanismos de enganche』（钩子机制、成瘾设计）。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "En plena lucha de estas compañías contra una regulación dura o la prohibición de acceso a los menores de 16 años, uno tiene la sensación de que las redes sociales están recorriendo un camino similar al que recorrió el tabaco. Acercarse al poder, como están haciendo con Donald Trump, y abrir la <strong>billetera</strong> retrasa las cosas, pero el cambio en el entorno ya está ahí. ¿Cuándo fue la última vez que habló bien del tiempo que pasa en una red social? O mejor dicho, ¿cuándo habló bien sin añadir un pero?",
+      "zh": "就在这些公司全力抵制严格监管或禁止16岁以下未成年人使用的当下，人们不禁感觉，社交媒体正在走一条与烟草行业相似的路。向权力靠拢——正如他们正在对特朗普所做的那样——以及大把撒钱，可以拖延进程，但环境的变化已经发生。你上一次毫无保留地称赞自己在社交媒体上度过的时光是什么时候？或者更准确地说，你上一次称赞时没有加一个「但是」是什么时候？",
+      "vocab": [
+        {
+          "word": "billetera",
+          "translation": "钱包；（引申）财力，金钱",
+          "note": "本义为『钱包』，『abrir la billetera』（打开钱包）是固定口语表达，意为『慷慨解囊、大把花钱』，在政治语境中特指通过金钱手段影响政策或人物。这是本文最具讽刺色彩的表达之一，将科技巨头的游说行为直白地比喻为『掏钱包』。类似表达：『soltar la pasta』（掏钱，更口语）。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Seguimos usando el móvil <strong>compulsivamente</strong>, pero algo está cambiando en la sociedad. Los primeros que lo ven son quienes presumen de no usar mucho las propias tecnologías que crean, los propios <strong>magnates</strong> tecnológicos y sus entornos. Puede que aún estemos en una etapa similar a cuando no se veía raro que el médico fumara en la consulta, pero a mi mente llega constantemente la anécdota de uno de mis profesores de matemáticas del instituto.",
+      "zh": "我们仍在强迫性地使用手机，但社会正在悄然改变。最先察觉到这一点的，是那些以不怎么使用自己所创造技术为荣的人——科技巨头们本身及其身边的人。也许我们仍处于一个类似于「医生在诊室吸烟也不觉得奇怪」的阶段，但我脑海中不断浮现出中学数学老师讲过的一则轶事。",
+      "vocab": [
+        {
+          "word": "compulsivamente",
+          "translation": "强迫性地，无法自控地",
+          "note": "来自形容词『compulsivo』（强迫性的），加副词后缀『-mente』构成。『compulsivo』来自拉丁语『compellere』（强迫），在心理学语境中指无法控制的重复行为冲动。固定搭配：『comportamiento compulsivo』（强迫性行为）、『comprador compulsivo』（强迫性购物者）。『-mente』是西语构成副词的标准后缀，相当于英语『-ly』。"
+        },
+        {
+          "word": "magnates",
+          "translation": "大亨，巨头，权贵",
+          "note": "来自拉丁语『magnatus』（权贵），指在某一行业拥有巨大财富和影响力的人物。在科技报道中，『magnates tecnológicos』（科技大亨）是描述硅谷领袖的标准表达。注意与『tycoon』（英语借词，有时也用于西语）的近义关系。固定搭配：『magnate de los medios』（媒体大亨）、『magnate del petróleo』（石油大亨）。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Este confesaba con vergüenza que su padre le firmó un <strong>justificante</strong> para que le dejaran fumar en el instituto con 13 años. Quizá en unas décadas sea otra generación la que cuente <strong>horrorizada</strong> cómo pidió tener TikTok con diez años.",
+      "zh": "这位老师羞愧地坦白，他的父亲曾给他签了一份证明，让学校允许他在13岁时在校内吸烟。也许再过几十年，会有另一代人满怀惊骇地讲述，自己当年是如何在十岁时央求父母让自己用TikTok的。",
+      "vocab": [
+        {
+          "word": "justificante",
+          "translation": "证明文件，请假条，书面说明",
+          "note": "来自动词『justificar』（证明、说明），指用于证明某事或为某行为提供书面依据的文件。在西班牙教育语境中，『justificante』特指家长为学生出具的请假或说明文件，是校园生活中的高频词汇。固定搭配：『justificante médico』（病假证明）、『firmar un justificante』（签署证明文件）。"
+        },
+        {
+          "word": "horrorizada",
+          "translation": "惊骇的，震惊的，毛骨悚然的",
+          "note": "来自动词『horrorizar』（使惊骇），形容词『horrorizado/a』描述因某事极度令人不安而产生的强烈震惊感。注意情感强度层级：『sorprendido』（惊讶）→『asombrado』（惊叹）→『horrorizado』（惊骇），三者递进，『horrorizado』带有道德层面的震惊和反感。本文结尾用此词，暗示未来一代对今日行为的道德审判。"
+        }
+      ]
+    }
+  ]
+}

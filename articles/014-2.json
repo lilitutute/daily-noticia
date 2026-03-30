@@ -1,0 +1,178 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科学与心理",
+  "difficulty": "B2-C1",
+  "wordCount": "约700词",
+  "title": "Por qué nos cuesta escuchar opiniones contrarias y cómo entrenar a nuestro cerebro para hacerlo",
+  "subtitle": "为什么我们难以倾听不同意见，以及如何训练大脑做到这一点",
+  "resumenEs": "Escuchar una opinión contraria activa en el cerebro sistemas de detección de conflicto, respuesta de amenaza y malestar emocional, lo que explica por qué solemos reaccionar con rigidez ante el desacuerdo. La corteza cingulada anterior actúa como radar de incongruencias, la amígdala dispara la respuesta de amenaza y la ínsula genera malestar corporal, mientras que la corteza prefrontal intenta regular el impulso. A esto se suman la disonancia cognitiva y el miedo al rechazo social. La buena noticia: estos sistemas son plásticos y pueden entrenarse mediante mindfulness y biofeedback para escuchar con mayor calma y claridad.",
+  "resumenZh": "倾听不同意见会激活大脑中的冲突检测、威胁反应和情绪不适系统，这解释了我们为何在面对分歧时往往反应僵化。前扣带皮层充当不一致性的雷达，杏仁核触发威胁反应，脑岛产生身体不适感，而前额叶皮层则试图调节冲动。认知失调和对社会排斥的恐惧进一步加剧了这一过程。好消息是：这些系统具有可塑性，可以通过正念和生物反馈训练，从而更平静、更清醒地倾听他人。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Escuchar una opinión contraria a la nuestra rara vez es una experiencia neutra. Aunque solemos atribuir esta dificultad a factores culturales o personales, la ciencia muestra que tiene raíces profundas en el funcionamiento del cerebro. Desde la neurociencia sabemos por qué nos cuesta tanto escuchar opiniones diferentes. El desacuerdo activa sistemas diseñados para detectar conflicto y mantener la coherencia interna. Esto explica por qué solemos reaccionar con rapidez y, a menudo, con rigidez ante ideas que desafían lo que creemos.",
+      "zh": "倾听与我们相悖的意见，很少是一种中性的体验。尽管我们通常将这种困难归因于文化或个人因素，但科学表明，它深深植根于大脑的运作方式之中。神经科学告诉我们，为什么倾听不同意见如此困难。分歧会激活大脑中专门用于检测冲突、维持内部一致性的系统。这解释了为什么我们面对挑战自身信念的想法时，往往反应迅速，而且常常僵化。",
+      "vocab": [
+        {
+          "word": "atribuir a",
+          "translation": "将……归因于，归咎于",
+          "note": "高频学术固定搭配，结构为『atribuir algo a algo/alguien』。在论证性文章中极为常见，用于说明原因归属。注意与『deber a』（由于）的区别：『atribuir』强调主观归因，带有解释或判断的意味。类似搭配：『atribuir el éxito a』（将成功归因于）、『atribuirse el mérito』（揽功于自身）。"
+        },
+        {
+          "word": "rigidez",
+          "translation": "僵化，刻板，缺乏灵活性",
+          "note": "B2-C1高频词，来自形容词『rígido』加后缀『-ez』构成抽象名词。『-ez』是构成抽象名词的高产后缀：『timidez』（羞怯）、『estrechez』（狭窄）、『escasez』（匮乏）。其反义词『flexibilidad』在后文中作为训练目标出现，两词构成本文的核心对比。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "El cerebro detecta conflicto antes de razonar. Cuando escuchamos una idea que contradice nuestra forma de pensar, el cerebro no empieza evaluando argumentos. Primero detecta que hay un conflicto. Una de las regiones implicadas en este proceso es la llamada corteza cingulada anterior o CCA. Esta estructura actúa como un radar encargado de identificar inconsistencias entre nuestras expectativas y la realidad, así como conflictos entre respuestas o entre creencias. Por lo tanto, la CCA funciona como un «radar de incongruencias».",
+      "zh": "大脑在推理之前就已检测到冲突。当我们听到一个与自身思维方式相悖的想法时，大脑并不会从评估论据开始，而是首先检测到冲突的存在。参与这一过程的脑区之一，是所谓的前扣带皮层（CCA）。这一结构充当雷达，负责识别我们的预期与现实之间的不一致，以及不同反应或信念之间的冲突。因此，前扣带皮层发挥着「不一致性雷达」的功能。",
+      "vocab": [
+        {
+          "word": "estar implicado/a en",
+          "translation": "参与……，涉及……",
+          "note": "高频学术固定搭配。注意『implicar』是典型的一词多义词：①『estar implicado en』（参与、涉及某事，中性）；②『implicar a alguien en』（牵连某人，常含负面含义，如『implicado en un escándalo』卷入丑闻）；③『implicar que』（意味着、暗示）。三种用法在新闻和学术文体中均高频出现，需根据语境判断。"
+        },
+        {
+          "word": "inconsistencias",
+          "translation": "不一致，矛盾，前后不符",
+          "note": "由前缀『in-』（否定）加『consistencia』构成，是『in-』这一高产否定前缀的典型示例。同类构词：『incoherencia』（不连贯）、『incompatible』（不兼容）、『incongruencia』（不协调）。掌握『in-』前缀可类推大量B2-C1级别的学术词汇，在心理学和社会科学文章中密集出现。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "La evidencia neurocientífica muestra que la CCA forma parte de circuitos implicados tanto en el control cognitivo como en el procesamiento del dolor físico y del dolor social. Por eso, una opinión contraria puede ser experimentada como algo incómodo o amenazante, incluso cuando no hay confrontación directa. Junto a la corteza cingulada anterior se activan otras regiones. Una de ellas, la amígdala, está implicada en la respuesta de amenaza. Otra área importante, la ínsula, está relacionada con la percepción del malestar corporal. El resultado de este proceso es familiar para todos: nudo en el estómago, tensión corporal y una tendencia a defenderse o cerrar la conversación.",
+      "zh": "神经科学证据表明，前扣带皮层参与的神经回路，既涉及认知控制，也涉及躯体疼痛和社会性疼痛的处理。因此，即便没有直接对抗，一个相悖的意见也可能被体验为令人不适或具有威胁性的东西。除前扣带皮层外，其他脑区也会同时激活。其中之一是杏仁核，它参与威胁反应。另一个重要区域是脑岛，与身体不适感的感知相关。这一过程的结果对所有人来说都不陌生：胃部打结、身体紧绷，以及一种想要自我防御或终止对话的冲动。",
+      "vocab": [
+        {
+          "word": "amenazante",
+          "translation": "具有威胁性的，令人感到受威胁的",
+          "note": "来自动词『amenazar』（威胁）的现在分词转化而来的形容词，『-ante/-iente』是西语中将动词转化为形容词的高产后缀：『inquietante』（令人不安的）、『sorprendente』（令人惊讶的）、『preocupante』（令人担忧的）。注意与『peligroso』（危险的）的区别：『amenazante』强调主观感知到的威胁，『peligroso』强调客观存在的风险。"
+        },
+        {
+          "word": "malestar",
+          "translation": "不适，不安，不舒服",
+          "note": "由前缀『mal-』（坏、不好）加『estar』（状态）构成，字面意为『处于不好的状态』。『mal-』是构成负面含义词汇的高产前缀：『malentendido』（误解）、『malgastar』（浪费）、『maltratar』（虐待）。反义词『bienestar』（幸福感）由『bien-』加『estar』构成，对称性极强，两者均为新闻和学术高频词。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Finalmente entra en juego la corteza prefrontal dorsolateral, responsable de funciones como la planificación, la inhibición de impulsos y la toma de decisiones. El coste cognitivo y emocional de integrar otra perspectiva. Aceptar una visión opuesta exige un esfuerzo considerable. El cerebro debe mantener al mismo tiempo dos modelos mentales incompatibles: «lo que yo creo» y «lo que tú dices». Además, debe compararlos y decidir si alguno debe modificarse. Desde el punto de vista energético, es una operación exigente.",
+      "zh": "最后登场的是背外侧前额叶皮层，它负责规划、冲动抑制和决策等功能。整合另一种视角的认知与情感代价。接受一种相反的观点需要付出相当大的努力。大脑必须同时维持两个相互不兼容的心理模型：「我所相信的」和「你所说的」。此外，它还必须对两者进行比较，并决定是否需要修正其中之一。从能量消耗的角度来看，这是一项高度耗费资源的操作。",
+      "vocab": [
+        {
+          "word": "entrar en juego",
+          "translation": "登场，发挥作用，参与其中",
+          "note": "高频固定搭配，字面意为『进入游戏』，引申为『开始发挥作用、参与到某一过程中』。在分析性文章中用于引出新的因素或变量，相当于英语『come into play』。类似搭配：『poner en juego』（使发挥作用、将……置于风险中）、『estar en juego』（处于危险中、悬而未决）。"
+        },
+        {
+          "word": "exigente",
+          "translation": "高要求的，苛刻的，耗费资源的",
+          "note": "来自动词『exigir』（要求、索取），加后缀『-ente』构成形容词。注意其一词多义：①描述人时意为『要求严格的、苛刻的』（如『un jefe exigente』严格的老板）；②描述任务或情境时意为『高难度的、耗费大量资源的』（如本文中的『operación exigente』）。两种用法在新闻中均高频出现。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "A este esfuerzo se suma la disonancia cognitiva: el malestar que aparece cuando una información amenaza la coherencia de nuestra visión del mundo o de nuestra identidad. En muchos casos, este malestar no se resuelve escuchando al otro, sino justificando lo que ya pensábamos. Es lo que se conoce como «razonamiento motivado». Por otra parte, muchas creencias están ligadas a la pertenencia a un grupo. Cambiar de perspectiva puede ser experimentado, aunque sea de forma inconsciente, como un riesgo social: quedar mal, perder estatus o sentirse excluido. El cerebro social está especialmente orientado a evitar ese tipo de amenazas.",
+      "zh": "在这一努力之上，还叠加了认知失调：当某一信息威胁到我们的世界观或身份认同的一致性时所产生的不适感。在很多情况下，这种不适并不通过倾听他人来化解，而是通过为自己原有的想法寻找理由来消除。这就是所谓的「动机性推理」。另一方面，许多信念与群体归属感紧密相连。改变立场可能会被体验为一种社会风险——哪怕是在无意识层面：丢面子、失去地位或感到被排斥。社会性大脑尤其倾向于规避此类威胁。",
+      "vocab": [
+        {
+          "word": "a esto se suma",
+          "translation": "在此之上还叠加了……，除此之外还有……",
+          "note": "高频学术固定搭配，结构为『a esto/ello se suma + 名词』，用于在论证中引入新的叠加因素，语气比『además』更正式，强调累积效应。类似结构：『a esto hay que añadir』（还需加上）、『a lo anterior se añade』（在前述基础上还有）。在分析性文章中是串联论点的重要连接词。"
+        },
+        {
+          "word": "ligadas a",
+          "translation": "与……紧密相连，绑定于",
+          "note": "来自动词『ligar』（连接、绑定），固定搭配『estar ligado/a a』意为『与……密切相关、不可分割地联系在一起』，比『relacionado con』（与……有关）语气更强，强调紧密的依存关系。常见用法：『ligado a la tradición』（与传统紧密相连）、『ligado al territorio』（与土地紧密相连）。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "El estrés dificulta escuchar y pensar con calma. Un factor clave en todo este proceso es el estrés. Cuando este es elevado o sostenido, el sistema nervioso funciona en modo de alerta, lo que reduce la capacidad de la corteza prefrontal para regular emociones y sostener el desacuerdo con calma. En ese estado, escuchar se vuelve especialmente difícil. La buena noticia es que estos sistemas son plásticos. Las regiones cerebrales implicadas en el conflicto, la emoción y el control cambian con la experiencia y la práctica.",
+      "zh": "压力使平静地倾听和思考变得困难。整个过程中的一个关键因素是压力。当压力持续升高时，神经系统进入警戒模式，这会削弱前额叶皮层调节情绪、平静承受分歧的能力。在这种状态下，倾听变得尤为困难。好消息是，这些系统具有可塑性。参与冲突、情绪和控制的脑区会随着经历和练习而改变。",
+      "vocab": [
+        {
+          "word": "sostenido",
+          "translation": "持续的，持久的，长期维持的",
+          "note": "来自动词『sostener』（支撑、维持），过去分词作形容词，意为『被持续维持的』。在新闻和学术文体中，『estrés sostenido』（持续性压力）、『crecimiento sostenido』（持续增长）、『esfuerzo sostenido』（持续努力）是高频搭配。注意与『continuo』（连续不断的）的细微差别：『sostenido』强调主动维持，『continuo』强调不间断。"
+        },
+        {
+          "word": "plásticos",
+          "translation": "可塑的，具有可塑性的",
+          "note": "典型的一词多义词，容易误解。日常含义为『塑料的』，但在神经科学语境中，『plástico』特指『具有神经可塑性的』，即大脑结构和功能可因经验而改变的能力。这是本文最重要的概念转折词：从『大脑为何抵制分歧』转向『大脑可以被训练改变』。固定术语：『plasticidad neuronal/cerebral』（神经/大脑可塑性）。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Escuchar desde la calma se puede entrenar. La dificultad para escuchar opiniones contrarias ha ido ganando presencia en el debate social y cultural. Especialmente en contextos donde las decisiones tienen consecuencias compartidas como en equipos de trabajo, instituciones o espacios de liderazgo. El desacuerdo mal gestionado suele escalar hacia conflictos interpersonales, bloqueos comunicativos y deterioro del clima emocional. Se trata de algo muy común en entornos laborales de alta demanda.",
+      "zh": "平静地倾听是可以训练的。难以倾听不同意见这一问题，在社会和文化讨论中的关注度日益提升。尤其是在决策具有共同后果的场合——如工作团队、机构或领导力空间。处理不当的分歧往往会升级为人际冲突、沟通障碍和情感氛围的恶化。这在高强度工作环境中极为普遍。",
+      "vocab": [
+        {
+          "word": "escalar",
+          "translation": "升级，扩大，恶化",
+          "note": "B2-C1高频新闻词汇，来自『escala』（阶梯、规模），动词『escalar』本义为『攀登』，在冲突和危机报道中引申为『（局势）升级、恶化』，完全对应英语『escalate』。固定搭配：『escalar el conflicto』（冲突升级）、『escalar la tensión』（紧张局势升级）。在国际新闻、政治和职场报道中极为常见，是必须掌握的新闻词汇。"
+        },
+        {
+          "word": "deterioro",
+          "translation": "恶化，退化，损耗",
+          "note": "来自动词『deteriorar』（使恶化），名词形式。在新闻和学术文体中，『deterioro』描述某种状态或质量的渐进性下降，常见搭配：『deterioro cognitivo』（认知退化）、『deterioro del medio ambiente』（环境恶化）、『deterioro de las relaciones』（关系恶化）。注意对应动词『deteriorarse』（恶化，不及物）在报道中同样高频。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Afortunamente podemos entrenar la escucha desde la calma, circunstancia que mejora de forma clara el liderazgo y la toma de decisiones. Prácticas como el mindfulness o el biofeedback reducen la reactividad automática y aumentan la capacidad de observar el desacuerdo sin responder de forma impulsiva. Por ejemplo, estudios sobre redes cerebrales en reposo muestran que la práctica sostenida de mindfulness modula redes cerebrales implicadas en regulación emocional y flexibilidad cognitiva. De este modo se favorecen respuestas más adaptativas ante la discrepancia.",
+      "zh": "幸运的是，我们可以训练从平静出发的倾听能力，这一能力能够显著改善领导力和决策水平。正念或生物反馈等练习能够降低自动反应性，提升在不冲动回应的情况下观察分歧的能力。例如，关于静息态脑网络的研究表明，持续的正念练习能够调节参与情绪调节和认知灵活性的脑网络，从而促进面对分歧时更具适应性的反应。",
+      "vocab": [
+        {
+          "word": "reactividad",
+          "translation": "反应性，应激性，冲动反应倾向",
+          "note": "来自形容词『reactivo』加后缀『-idad』构成，指个体对刺激做出自动、快速反应的倾向。『-idad』是构成抽象名词的高产后缀，对应英语『-ity』：『flexibilidad』（灵活性）、『adaptabilidad』（适应性）、『sensibilidad』（敏感性）。在心理学和神经科学语境中，『reducir la reactividad』（降低反应性）是描述情绪调节训练效果的标准表达。"
+        },
+        {
+          "word": "modula",
+          "translation": "调节，调控，影响（程度或强度）",
+          "note": "动词『modular』来自『módulo』（模块、单元），在科学语境中意为『对某一过程的强度或模式进行精细调节』，比『controlar』（控制）更精确，强调微调而非全面掌控。固定搭配：『modular la respuesta』（调节反应）、『modular la actividad cerebral』（调控大脑活动）。在神经科学、内分泌学和音乐（调式）报道中均高频出现。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Por otra parte, nuestros proyectos de investigación del grupo Neurociencia del Bienestar de la Universidad de Sevilla han mostrado que entrenar la regulación fisiológica y emocional se asocia con una mayor capacidad para pausar antes de responder, escuchar con menos reactividad y gestionar conversaciones difíciles con mayor claridad. La clave no está en eliminar la incomodidad, sino en aprender a regularla para que no derive en rechazo automático. Escuchar no significa ceder ni renunciar a los propios valores. Significa sostener la incomodidad el tiempo suficiente para ampliar el marco desde el que decidimos.",
+      "zh": "另一方面，塞维利亚大学幸福神经科学研究小组的研究项目表明，训练生理和情绪调节能力，与更强的暂停能力（在回应前先停顿）、更低反应性的倾听能力，以及更清晰地处理困难对话的能力相关联。关键不在于消除不适，而在于学会调节它，使其不演变为自动排斥。倾听不意味着妥协或放弃自身价值观，而是意味着在足够长的时间内承受不适，从而拓宽我们做决定时所依据的框架。",
+      "vocab": [
+        {
+          "word": "se asocia con",
+          "translation": "与……相关联，与……有关",
+          "note": "学术写作高频固定搭配，结构为『asociarse con』，用于描述两个变量之间的相关关系，比『estar relacionado con』更正式，在科学报道中是描述研究发现的标准表达。注意其不预设因果关系，仅陈述相关性——这是科学报道中的重要区分：『asociarse con』（相关）vs『causar』（导致）。"
+        },
+        {
+          "word": "derive en",
+          "translation": "演变为，导致，最终变成",
+          "note": "动词『derivar』本义为『流向、衍生』，固定搭配『derivar en』意为『逐渐演变为某种（通常是负面的）结果』，强调一个过程的自然走向。类似搭配：『derivar en conflicto』（演变为冲突）、『derivar en crisis』（演变为危机）。注意与『resultar en』（导致）的区别：『derivar en』更强调渐进的演变过程。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "En un mundo cada vez más polarizado, la capacidad de escuchar opiniones contrarias es una habilidad neurocognitiva entrenable. Comprender cómo responde el cerebro al desacuerdo es el primer paso para dejar de reaccionar automáticamente y empezar a responder con mayor calma, claridad y humanidad.",
+      "zh": "在一个日益极化的世界里，倾听不同意见的能力是一种可训练的神经认知技能。理解大脑如何应对分歧，是停止自动反应、开始以更平静、更清醒、更具人文关怀的方式回应的第一步。",
+      "vocab": [
+        {
+          "word": "polarizado",
+          "translation": "极化的，两极分化的",
+          "note": "来自动词『polarizar』，由『polo』（极点）加后缀『-izar』构成，『-izar』是西语中将名词/形容词转化为动词的高产后缀，对应英语『-ize』：『digitalizar』（数字化）、『globalizar』（全球化）、『radicalizar』（激进化）。『polarización』（两极分化）是当代政治和社会报道中最高频的词汇之一，掌握此构词规律可类推大量时事词汇。"
+        }
+      ]
+    }
+  ]
+}

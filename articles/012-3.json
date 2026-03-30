@@ -1,0 +1,164 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "文化与社会",
+  "difficulty": "C1",
+  "wordCount": "约750词",
+  "title": "Viva el cine",
+  "subtitle": "电影万岁",
+  "resumenEs": "La autora regresa del Festival de Cine de Málaga con una certeza renovada: ver cine en sala es una experiencia colectiva e irreemplazable. A través de sus recuerdos de la España franquista, donde los cines de barrio eran un refugio vital para una sociedad asfixiada, y de sus escapadas secretas al cine con su madre, reivindica el poder del cine como ceremonia compartida. Frente al auge de las plataformas, concluye con optimismo: contra todo pronóstico, el cine vive.",
+  "resumenZh": "作者从马拉加电影节归来，带着一份重新确认的信念：在影院看电影是一种集体的、无可替代的体验。她回忆起弗朗哥时代的西班牙，彼时街坊影院是一个喘不过气的社会的生命避难所，以及她与母亲秘密溜去看电影的往事，借此重申电影作为共同仪式的力量。面对流媒体平台的冲击，她以乐观作结：出乎所有预料，电影依然活着。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Acabo de regresar de Málaga, en donde he formado parte del jurado de su <strong>formidable</strong> festival de cine. En una semana vi 22 películas, a un ritmo de al menos tres al día. He sido jurado de otros festivales y en los últimos años del franquismo fui a los fines de semana <strong>cinéfilos</strong> que se organizaban en Francia, en Perpiñán, justo al otro lado de la frontera; proyectaban hasta una decena de títulos prohibidos en nuestro país, así que te <strong>zampabas</strong> cinco largometrajes seguidos el sábado y otros cinco el domingo (así vi, por ejemplo, El último tango en París y La naranja mecánica).",
+      "zh": "我刚从马拉加回来，在那里我担任了这个精彩电影节的评审团成员。一周之内我看了22部电影，平均每天至少三部。我曾在其他电影节担任评委，弗朗哥统治末期，我还去过法国佩皮尼昂——就在边境另一侧——参加那里组织的影迷周末活动；他们会放映多达十部在我国被禁的影片，所以你周六连续看五部长片，周日再看五部（我就是这样看了《巴黎最后的探戈》和《发条橙》）。",
+      "vocab": [
+        {
+          "word": "formidable",
+          "translation": "精彩的，了不起的，令人印象深刻的",
+          "note": "西语中『formidable』是正面褒义词，意为『极好的、令人叹服的』，与英语『formidable』（令人生畏的）含义截然相反，是典型的『假朋友』（falsos amigos）。西语学习者务必牢记这一陷阱，切勿望文生义。"
+        },
+        {
+          "word": "cinéfilos",
+          "translation": "影迷，电影爱好者",
+          "note": "由『cine』（电影）加希腊语词根『-filo』（爱好者）构成，『-filo』是构成『……爱好者』的高频后缀：『bibliófilo』（藏书家）、『anglófilo』（亲英者）、『tecnófilo』（技术爱好者）。反义后缀为『-fobo』：『tecnófobo』（技术恐惧者）。"
+        },
+        {
+          "word": "zampabas",
+          "translation": "狼吞虎咽地看（口语），一口气消费",
+          "note": "『zamparse』本义为『狼吞虎咽地吃』，在此引申为『一口气看完』，是极具口语色彩的动词，传递出贪婪、毫不节制的意味。作者用此词描述连续看五部电影，幽默生动。类似引申用法：『zamparse un libro』（一口气读完一本书）。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Con esto quiero decir que los <strong>atracones</strong> peliculeros no me son desconocidos. Pero he de confesar que en los últimos dos o tres años he ido menos a las salas de cine a causa de las <strong>consabidas</strong> justificaciones: demasiado trabajo, demasiada fatiga. Por ese caos vital que te <strong>emploma</strong> los pies y te llena de pereza, de manera que terminas viendo las películas en tu televisor, como si fuera lo mismo. Pero no lo es. Por eso la experiencia inmersiva del Festival de Málaga, y el montón de horas que pasé sumergida en esa oscuridad colectiva y vibrante, me han hecho recordar lo mucho que me gusta el cine de verdad, ese que no sólo se ve, sino que se respira junto a los demás.",
+      "zh": "我想说的是，电影狂欢对我来说并不陌生。但我必须承认，过去两三年里我去影院的次数少了，原因是那些老生常谈的借口：工作太多，太累了。那种生活的混乱让你双脚像灌了铅一样，懒意丛生，最终你只是坐在电视机前看电影，仿佛这和去影院是一回事。但并不是。正因如此，马拉加电影节的沉浸式体验，以及我沉浸在那片充满活力的集体黑暗中度过的漫长时光，让我重新想起了我有多热爱真正的电影——那种不只是用眼睛看，而是与他人共同呼吸的电影。",
+      "vocab": [
+        {
+          "word": "atracones",
+          "translation": "狂欢式的大量消费，暴饮暴食（引申义）",
+          "note": "来自动词『atracarse』（暴饮暴食），名词『atracón』指一次性大量摄入某物。文中『atracones peliculeros』（电影狂欢）是作者的创意搭配，『peliculero』由『película』派生，意为『与电影相关的』。注意『-ón』后缀在此表示行为的过度性。"
+        },
+        {
+          "word": "consabidas",
+          "translation": "老生常谈的，众所周知的，惯用的",
+          "note": "由前缀『con-』加『sabido』（已知的）构成，意为『大家都知道、早已耳熟能详的』，通常带有轻微讽刺意味，暗示这些理由是陈词滥调。固定搭配：『las consabidas excusas』（那些老套的借口）、『el consabido problema』（老生常谈的问题）。"
+        },
+        {
+          "word": "emploma",
+          "translation": "使沉重，使像灌了铅一样",
+          "note": "来自名词『plomo』（铅），动词『emplomar』字面意为『用铅覆盖』，引申为使人感到沉重、迟钝、提不起劲。这是西语中极富表现力的口语动词，『te emploma los pies』（让你双脚像灌了铅）生动描绘了疲惫懒散的状态。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Creo que hoy no se puede entender lo que supuso el cine para varias generaciones de españoles. Leo en un estudio académico que en 1965 se llegó al punto máximo de salas en España, con más de 8.000, una de las cifras más altas de toda Europa. No me extraña; era un país <strong>lúgubre</strong> y <strong>paupérrimo</strong>, un mundo que recuerdo en blanco y negro, como si la sociedad entera vistiera de medio luto por un duelo aún no superado, y el multicolor de las películas era pura vida, un sueño prestado, un delirio controlado que te salvaba del delirio real.",
+      "zh": "我认为，今天的人们已无法理解电影对几代西班牙人意味着什么。我在一项学术研究中读到，1965年西班牙的影院数量达到峰值，超过8000家，是全欧洲最高的数字之一。这并不令我惊讶；那是一个阴郁而极度贫困的国家，一个我记忆中只有黑白色调的世界，仿佛整个社会都穿着半丧服，为一场尚未走出的哀痛而默哀，而电影的五彩斑斓就是纯粹的生命，一个借来的梦，一场受控的迷醉，将你从真实的迷乱中拯救出来。",
+      "vocab": [
+        {
+          "word": "lúgubre",
+          "translation": "阴郁的，令人压抑的，凄凉的",
+          "note": "书面语形容词，语气比『triste』（悲伤的）强烈得多，带有阴暗、令人窒息的色彩，常用于描述氛围、环境或时代。注意重音在第一音节：lú-gu-bre。固定搭配：『un ambiente lúgubre』（阴郁的氛围）、『un paisaje lúgubre』（凄凉的景色）。"
+        },
+        {
+          "word": "paupérrimo",
+          "translation": "极度贫困的，一贫如洗的",
+          "note": "『pobre』（贫穷的）的绝对最高级，构成方式为词根『pauper-』加后缀『-ísimo』，但因词根变化显得不规则。西语中少数形容词有此类拉丁语词根最高级：『pobre→paupérrimo』、『libre→libérrimo』、『acre→acérrimo』，语气远强于普通最高级『muy pobre』。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Por entonces había muchísimos cines de barrio, grandes salas de pantallas manchadas y sonido <strong>chirriante</strong> que proyectaban dos películas en sesión continua a partir de las cuatro de la tarde; las entradas eran baratísimas y tú te metías en la sala cuando querías, a menudo en mitad de un largometraje cuyo argumento tenías que deducir hasta que podías ver la parte que te habías perdido en la siguiente sesión (a veces te gustaba más lo que habías inventado). Los programas cambiaban cada semana y por ejemplo en mi barrio (Cuatro Caminos, Madrid) podías ir andando en menos de 15 minutos a una decena de cines. ¡Y siempre estaban llenos! Llenos todas las tardes, cada día. Eran una droga, una medicina, un pulmón artificial para una sociedad que se asfixiaba.",
+      "zh": "那时有许许多多的街坊影院，宽大的放映厅里屏幕布满污迹、声音刺耳，从下午四点起连续放映两部电影；票价极其低廉，你随时可以进场，往往是在一部电影放到一半时才进去，只能推断情节，等到下一场才能补看错过的部分（有时你更喜欢自己脑补的版本）。节目每周更换，比如在我的街区（马德里四路口），步行不到15分钟就能走到十来家影院。而且总是座无虚席！每天下午，场场爆满。它们是一种毒品，一种药物，是一个喘不过气的社会赖以呼吸的人工肺。",
+      "vocab": [
+        {
+          "word": "chirriante",
+          "translation": "刺耳的，嘎吱作响的",
+          "note": "来自动词『chirriar』，模拟尖锐刺耳的摩擦声，如门轴、刹车或劣质音响发出的声音。这是一个拟声词来源的形容词，西语中此类词汇生动传神：『zumbido』（嗡嗡声）、『crujido』（嘎吱声）、『susurro』（低语声）。在文中与『manchadas』（污迹斑斑的）并列，共同描绘老旧影院的破败感。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Mi bella madre, artista <strong>in pectore</strong> que nunca pudo desarrollar su creatividad y que vivió con las alas <strong>plegadas</strong> en la jaula de su pequeña vida doméstica, solía escaparse conmigo por las tardes a algún cine del barrio, a escondidas de mi <strong>estoico</strong> padre, que se mataba a trabajar y que probablemente no hubiera entendido que esos programas dobles de coloridas y luminosas mentiras eran tan necesarios para mi madre como el aire y el agua. Creo que esos cines salvaron la vida a muchas personas.",
+      "zh": "我美丽的母亲，一位从未能发展自己创造力的潜在艺术家，一生都将翅膀折叠在她那狭小家庭生活的笼子里，常常在下午偷偷带着我溜去街坊的某家影院，瞒着我那沉默坚忍的父亲——他拼命工作，大概永远不会理解，那些充满色彩与光亮的谎言构成的双片连映，对我母亲来说如同空气和水一样不可或缺。我相信，那些影院救了许多人的命。",
+      "vocab": [
+        {
+          "word": "in pectore",
+          "translation": "潜在的，内心深处的，尚未公开的",
+          "note": "拉丁语借词，字面意为『在胸中』，原为天主教术语，指教皇心中已选定但尚未公开宣布的枢机主教。在日常文体中引申为『潜在的、尚未实现的』，如『artista in pectore』意为『骨子里是艺术家但从未得以展现』。西语书面语中保留了大量此类拉丁语表达。"
+        },
+        {
+          "word": "plegadas",
+          "translation": "折叠的，收起的",
+          "note": "来自动词『plegar』（折叠、收拢），在此与『alas』（翅膀）搭配构成隐喻：『vivir con las alas plegadas』（带着折叠的翅膀生活），意指潜能被压抑、无法自由展翅。这是本文最具文学色彩的意象之一，与『jaula』（笼子）共同构成束缚与压抑的意象群。"
+        },
+        {
+          "word": "estoico",
+          "translation": "坚忍的，默默承受的，斯多葛式的",
+          "note": "源自古希腊斯多葛哲学（Estoicismo），该学派主张以理性克制情感、坦然接受命运。形容词『estoico』在日常语境中指『默默承受苦难而不抱怨的』，带有一定的赞许色彩，但在本文语境中也隐含着父亲对精神需求的不理解。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Crecí viendo películas, pues, con cierto sentido de <strong>clandestinidad</strong>. Eran viajes secretos y un poco <strong>iniciáticos</strong>, con esa penumbra de la sala y el resplandor de la pantalla, de la mano de mi madre hacia la luz. Aprendí muchas cosas con aquellas sesiones: que el mundo era vasto y variado, pero que aún eran mucho más distintas las personas. Y que una buena historia puede mantener hipnotizados a un montón de individuos.",
+      "zh": "就这样，我在看电影中长大，带着一种秘密越轨的感觉。那是些秘密的、略带启蒙意味的旅程，伴随着放映厅的昏暗与银幕的光芒，握着母亲的手走向那片光亮。那些场次教会了我许多：世界广阔而多样，但人与人之间的差异远比这更大。还有，一个好故事能让一大群人同时着迷。",
+      "vocab": [
+        {
+          "word": "clandestinidad",
+          "translation": "秘密状态，地下活动，隐秘性",
+          "note": "来自形容词『clandestino』（秘密的、地下的），名词『clandestinidad』指秘密进行某事的状态。在弗朗哥时代的历史语境中，『clandestinidad』还特指政治异见者的地下活动，作者在此借用这一词汇，赋予童年看电影的经历一种政治隐喻色彩。"
+        },
+        {
+          "word": "iniciáticos",
+          "translation": "启蒙性的，入门仪式般的",
+          "note": "来自名词『iniciación』（启蒙、入门仪式），形容词『iniciático』指具有启蒙或仪式性质的，常用于描述人生中具有转折意义的初次体验。固定搭配：『viaje iniciático』（启蒙之旅）、『experiencia iniciática』（启蒙性体验），在文学评论中是高频词。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Desde luego no es lo mismo ver películas en tu televisor o en una sala. Y no sólo por la gran pantalla, por el mejor sonido, por la mayor concentración, sino porque es una <strong>ceremonia</strong> colectiva. Todo arte es comunicación y eso se experimenta con claridad cuando vas al cine. Ríes con los demás, escuchas los <strong>sorbetones</strong> de las lágrimas cuando la historia duele, compartes ese <strong>erizamiento</strong> de la piel, esa silenciosa tensión del aire en los momentos bellos.",
+      "zh": "当然，在电视机前看电影和在影院看电影截然不同。不仅仅是因为大屏幕、更好的音效、更高的专注度，更因为这是一种集体仪式。所有艺术都是沟通，而这一点在你走进影院时体会得最为清晰。你与他人一起笑，当故事令人心痛时你能听到抽泣声，你们共享那种皮肤上的鸡皮疙瘩，那种美好时刻里空气中无声的张力。",
+      "vocab": [
+        {
+          "word": "ceremonia",
+          "translation": "仪式，典礼",
+          "note": "本义为正式的典礼或仪式，在此引申为具有仪式感的集体行为。作者将集体观影称为『ceremonia colectiva』，是全文的核心论点之一，强调电影院的社会功能远超单纯的娱乐。固定搭配：『sin ceremonias』（不拘礼节地）是常见口语表达。"
+        },
+        {
+          "word": "sorbetones",
+          "translation": "抽泣声，大声吸鼻子的声音",
+          "note": "来自动词『sorber』（吸、啜），加强化后缀『-ón』，指哭泣时用力吸鼻子或抽泣的声音。这是作者极为传神的用词选择，将影院中观众哭泣的声音具象化，比『llanto』（哭泣）或『sollozos』（抽泣）更具画面感和口语色彩。"
+        },
+        {
+          "word": "erizamiento",
+          "translation": "起鸡皮疙瘩，汗毛竖立",
+          "note": "来自动词『erizar』（使竖立、使起鸡皮疙瘩），名词『erizamiento』指皮肤因感动、恐惧或兴奋而起鸡皮疙瘩的状态。固定表达：『se me eriza la piel』或『se me pone la piel de gallina』（我起鸡皮疙瘩了），两者近义，后者更口语化。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "En España hay unas 750 salas de cine con un total de 3.500 pantallas, una cifra que se ha mantenido más o menos estable desde 2015, pese a la <strong>irrupción</strong> de las plataformas y a la pandemia. Es más, comparados con otros países europeos, somos de los que más pantallas tenemos por habitantes: sólo nos superan Irlanda, Francia y los países nórdicos. Así que ni tan mal. Contra todo <strong>pronóstico</strong> y toda pereza, el cine vive. Viva el cine.",
+      "zh": "西班牙约有750家影院，共计3500块银幕，这一数字自2015年以来基本保持稳定，尽管流媒体平台的强势崛起和新冠疫情的冲击。更重要的是，与其他欧洲国家相比，我们是人均银幕数量最多的国家之一：只有爱尔兰、法国和北欧国家超过我们。所以也没那么糟。出乎所有预料，克服了所有惰性，电影依然活着。电影万岁。",
+      "vocab": [
+        {
+          "word": "irrupción",
+          "translation": "强势闯入，突然涌现",
+          "note": "来自动词『irrumpir』（闯入、突然出现），名词『irrupción』强调某事物以迅猛、难以阻挡的方式进入某一领域。固定搭配：『la irrupción de』（……的强势崛起/闯入）在科技和文化报道中极为常见，如『la irrupción de la IA』（AI的强势崛起）。注意与『interrupción』（中断）的拼写区别。"
+        },
+        {
+          "word": "pronóstico",
+          "translation": "预测，预判，预后",
+          "note": "在体育语境中指『比赛预测』，在医学语境中指『预后』（病情走向），在本文中指『对某事未来走向的预判』。固定表达：『contra todo pronóstico』（出乎所有预料）是新闻和口语中的高频成语，相当于英语『against all odds』，需作为整体记忆。"
+        }
+      ]
+    }
+  ]
+}

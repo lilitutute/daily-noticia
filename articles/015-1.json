@@ -1,0 +1,173 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "环境与社会",
+  "difficulty": "B2-C1",
+  "wordCount": "约800词",
+  "title": "La transición energética no debe hacerse a costa de las regiones menos desarrolladas del planeta",
+  "subtitle": "能源转型不应以牺牲地球上欠发达地区为代价",
+  "resumenEs": "El artículo analiza las contradicciones de la transición energética verde a través del caso de Las Bambas, una megamina de cobre en Apurímac, Perú. Aunque el proyecto ha generado ingresos millonarios y ha duplicado el PIB regional, sus beneficios sociales han sido limitados: el empleo directo apenas alcanza el 2-3 % del total regional, persisten altas tasas de desnutrición y el 70 % de los hogares carece de agua tratada. A ello se suman tensiones sociales por el tráfico de camiones, deterioro medioambiental y problemas de corrupción y gestión. Los autores proponen crear un organismo asesor internacional y establecer estándares globales para medir los impactos socioambientales, con el objetivo de garantizar una transición energética justa para todos.",
+  "resumenZh": "本文以秘鲁阿普里马克省的拉斯班巴斯超大型铜矿为案例，分析绿色能源转型的内在矛盾。尽管该项目创造了数十亿美元的收入，并使该地区GDP翻倍，但其社会效益十分有限：直接就业仅占地区总就业的2-3%，营养不良率居高不下，70%的家庭仍无法获得经处理的饮用水。与此同时，卡车运输引发的社会紧张、环境恶化以及腐败和治理问题也持续存在。作者建议建立国际顾问机构，并制定衡量社会环境影响的全球标准，以确保能源转型对所有人都公平。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "El cobre presente en un coche eléctrico (se emplea en las baterías y el motor, entre otros usos) que circula en Europa puede provenir de una montaña en los Andes peruanos. Así, mientras en otras partes del mundo se lleva a cabo la transición verde, en regiones andinas como Apurímac, la extracción de minerales está provocando tensiones sociales y ambientales cada vez más profundas.",
+      "zh": "在欧洲行驶的一辆电动汽车中所含的铜（用于电池和电机等），可能来自秘鲁安第斯山脉的某座山。就这样，当世界其他地方正在推进绿色转型之际，在阿普里马克等安第斯山区，矿产开采正在引发日益深重的社会和环境紧张。",
+      "vocab": [
+        {
+          "word": "provenir de",
+          "translation": "来自，源于，起源于",
+          "note": "固定搭配，来自动词『provenir』（来源于），由前缀『pro-』（向前）加『venir』（来）构成。比『venir de』更正式，多用于书面语和学术文体，强调来源或起源。固定搭配：『provenir de una familia』（出身于某家庭）、『provenir de una tradición』（源于某传统）。同族词：『proveniencia/procedencia』（来源、出处），后者在日常用语中更常见。"
+        },
+        {
+          "word": "llevar a cabo",
+          "translation": "实施，执行，开展",
+          "note": "高频固定搭配，字面意为『带到尽头』，引申为『将某事从头到尾完成』。在新闻和学术文体中极为常见，相当于英语『to carry out』。固定用法：『llevar a cabo un proyecto』（实施一个项目）、『llevar a cabo reformas』（推行改革）、『llevar a cabo investigaciones』（开展调查）。注意与『poner en marcha』（启动）的区别：『llevar a cabo』强调全程执行，『poner en marcha』强调启动阶段。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "En zonas ricas en recursos ubicadas en países en desarrollo, se plantea un dilema entre la necesidad de obtener más ingresos económicos y los perjuicios generados por explotaciones mineras de dimensiones colosales.",
+      "zh": "在发展中国家的资源富集地区，一个两难困境摆在眼前：一方面是获取更多经济收入的迫切需要，另一方面是超大规模采矿作业所造成的损害。",
+      "vocab": [
+        {
+          "word": "perjuicios",
+          "translation": "损害，危害，不利影响",
+          "note": "来自动词『perjudicar』（损害），由前缀『per-』（完全、彻底）加『juicio』（判断）构成，字面意为『彻底损害判断力』，引申为『损害、危害』。固定搭配：『causar perjuicios』（造成损害）、『en perjuicio de』（损害……的利益）、『sin perjuicio de』（不妨碍……，法律用语）。注意与『daños』（损坏，更侧重物质损失）的区别：『perjuicios』更强调利益或权益层面的损害，在法律文本中两者常并用：『daños y perjuicios』（损失与损害赔偿）。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Los derechos para la explotación de Las Bambas, uno de los contratos mineros más grandes de la historia de Perú según el Ministerio de Energía y Minas, fueron adjudicados a la empresa suiza Xstrata en septiembre de 2004. El inicio del proyecto estuvo marcado por el traslado de la comunidad local desde Fuerabamba a un nuevo poblado y la promesa de compensaciones. Después, cuando en 2014 la empresa china MMG adquirió la titularidad de la mina, las relaciones con las comunidades locales se complicaron, poniéndose de relieve la gran distancia cultural entre ambas partes.",
+      "zh": "据秘鲁能源和矿业部称，拉斯班巴斯的开采权是秘鲁历史上最大的矿业合同之一，于2004年9月授予瑞士企业嘉能可斯特拉塔。项目启动之初，当地社区从富埃拉班巴被迁移至一个新聚居地，并获得了补偿承诺。此后，2014年中国企业五矿资源收购了矿山所有权，与当地社区的关系随之趋于复杂，双方之间巨大的文化距离也由此凸显。",
+      "vocab": [
+        {
+          "word": "adjudicar",
+          "translation": "授予，裁定归属，判给",
+          "note": "来自拉丁语『adjudicare』（裁定），在法律和商业语境中指通过正式程序将权利、合同或财产授予某方。固定搭配：『adjudicar un contrato』（授予合同）、『adjudicar una licitación』（中标）、『adjudicarse』（反身，赢得、获得）。在招标、司法和体育报道中均高频出现。同族词：『adjudicación』（授予、裁定）、『adjudicatario』（中标方、受让方）。"
+        },
+        {
+          "word": "poner de relieve",
+          "translation": "凸显，揭示，使显现",
+          "note": "高频固定搭配，字面意为『使浮出浮雕』，引申为『使某事变得清晰可见、引人注意』。在新闻和学术文体中是描述『揭示、凸显』的核心表达，相当于英语『to highlight』或『to bring to light』。固定用法：『poner de relieve las contradicciones』（凸显矛盾）、『poner de relieve la importancia de』（强调……的重要性）。近义表达：『destacar』『subrayar』『evidenciar』，但『poner de relieve』更正式。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Por si eso fuera poco, ese mismo año se aprobó una de las modificaciones más controvertidas respecto al proyecto original: la sustitución de una gran tubería para transportar el mineral por camiones pesados, lo que provocó un fuerte conflicto con la población debido al tráfico constante de camiones.",
+      "zh": "更有甚者，就在同年，一项针对原始方案最具争议的修改获得批准：以重型卡车取代原本用于运输矿石的大型管道，由此引发了与当地居民的激烈冲突，根源在于卡车的持续往来。",
+      "vocab": [
+        {
+          "word": "por si eso fuera poco",
+          "translation": "更有甚者，雪上加霜，仿佛这还不够",
+          "note": "固定口语短语，字面意为『好像那还不够似的』，用于引入一个在已有负面情况之上叠加的新问题，语气带有讽刺和强调意味。注意其使用虚拟式『fuera』而非陈述式『era』，这是西语中表达假设或让步的典型用法。近义表达：『por añadidura』（更有甚者，更正式）、『para colmo』（更糟糕的是，更口语）。三者均用于负面叠加，但语体层次不同。"
+        },
+        {
+          "word": "controvertido",
+          "translation": "有争议的，引发争论的",
+          "note": "来自动词『controvertir』（争论），由前缀『contra-』（对立）加『vertir』（倾倒、表达）构成，意为『引发对立意见的』。『contra-』是表示『对立、反对』的高产前缀：『contradecir』（反驳）、『contrarrestar』（抵消）、『contraponer』（对立）。固定搭配：『una decisión controvertida』（一项有争议的决定）、『un tema controvertido』（一个争议性话题）。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "El proyecto mueve cifras colosales. Las inversiones superaron los 10 000 millones de dólares y la producción ha generado ingresos por más de 3 400 millones de dólares en 2023 para MMG. Con su actividad, la mina contribuye significativamente a las arcas del gobierno regional: en 2022, estas transferencias representaron el 16,6 % del gasto público de Apurímac. Desde 2015 el PIB de la región se ha más que duplicado, aunque la fuerte dependencia de la minería expone el bienestar de la región a la volatilidad del precio del cobre.",
+      "zh": "该项目涉及的数字极为庞大。投资总额超过100亿美元，2023年的生产为五矿资源创造了逾34亿美元的收入。凭借其运营活动，该矿山对地区政府的财政收入贡献显著：2022年，这些转移支付占阿普里马克公共支出的16.6%。自2015年以来，该地区GDP已翻倍有余，但对采矿业的高度依赖，使该地区的福祉暴露于铜价波动的风险之中。",
+      "vocab": [
+        {
+          "word": "arcas",
+          "translation": "财政收入，国库，金库",
+          "note": "『arca』本义为『箱子、柜子』（如『arca de Noé』诺亚方舟），复数『arcas』在财政语境中专指『国库、公共财政』。固定搭配：『arcas del Estado』（国库）、『arcas públicas』（公共财政）、『arcas municipales/regionales』（市/地区财政）。这是一个典型的词义引申案例：从具体的『储物箱』引申为抽象的『财政储备』，在经济和政治报道中是替代『hacienda pública』的常见表达。"
+        },
+        {
+          "word": "volatilidad",
+          "translation": "波动性，不稳定性",
+          "note": "来自形容词『volátil』（易挥发的、不稳定的），加后缀『-idad』构成抽象名词。『volátil』来自拉丁语『volare』（飞翔），字面意为『容易飞散的』，引申为『价格或情绪的不稳定性』。在经济和金融报道中，『volatilidad del mercado/de los precios』（市场/价格波动性）是核心术语。注意『-idad』后缀对应英语『-ity』，是构成抽象名词的高产后缀：『estabilidad』（稳定性）、『rentabilidad』（盈利能力）。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Además, la aportación ha sido mucho menor en términos de empleo, de forma que la megamina solo genera alrededor de un 2 %-3 % del empleo total en la región. Tampoco los avances en salud y educación en la región han resultado tan importantes como cabría esperar. Por ejemplo, a pesar de su evolución favorable, las tasas de desnutrición y de anemia siguen siendo elevadas. Igualmente, el acceso a agua potable y saneamiento adecuado continúa constituyendo otro reto fundamental, ya que un 70 % de los hogares sigue sin disponer de un suministro de agua tratada para el consumo.",
+      "zh": "此外，在就业方面的贡献要小得多，超大型矿山仅创造了该地区总就业量的约2%-3%。该地区在卫生和教育方面的进步，也远未达到人们可能期待的程度。例如，尽管形势有所好转，营养不良率和贫血率仍居高不下。同样，获得安全饮用水和充足卫生设施仍是另一项根本性挑战，因为70%的家庭仍无法获得经处理的生活用水。",
+      "vocab": [
+        {
+          "word": "cabría esperar",
+          "translation": "本可期待，理应期望，按理说应该",
+          "note": "『caber』的条件式『cabría』加动词原形，构成『理论上可能/应该』的含义。『caber』本义为『容得下、放得进』，但在固定搭配中引申为『在逻辑或情理上说得通』。固定搭配：『cabe destacar』（值得指出）、『cabe preguntarse』（不禁要问）、『no cabe duda』（毫无疑问）。这组搭配在学术和新闻文体中极为常见，是表达逻辑推断的核心结构。"
+        },
+        {
+          "word": "saneamiento",
+          "translation": "卫生设施，环境整治，（财务）整顿",
+          "note": "来自动词『sanear』（净化、整治），由『sano』（健康的）加动词化后缀『-ear』构成。典型的一词多义词：①公共卫生语境中指『排污系统、卫生基础设施』（本文含义）；②环境语境中指『土壤/水体净化』；③经济语境中指『企业财务重组整顿』（『saneamiento de deudas』债务整顿）。在国际发展和环境报道中，『agua y saneamiento』（饮水与卫生设施）是联合国可持续发展目标的核心表达。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Además, los indicadores medioambientales reflejan un deterioro preocupante. A pesar de que la empresa MMG se encuentra adherida a los estándares internacionales, la mina genera grandes volúmenes de residuos, precisa elevados consumos de agua y emite gases de efecto invernadero. Asimismo, la superficie de tierra degradada por las operaciones mineras es de unas 4 000 hectáreas y también se observa un importante número de denuncias medioambientales relacionadas con la actividad minera.",
+      "zh": "此外，环境指标反映出令人担忧的恶化趋势。尽管五矿资源公司遵守国际标准，该矿山仍产生大量废弃物，需要消耗大量水资源，并排放温室气体。同样，采矿作业造成的土地退化面积约达4000公顷，与采矿活动相关的环境投诉数量也相当可观。",
+      "vocab": [
+        {
+          "word": "adherida a",
+          "translation": "遵守，加入，坚守",
+          "note": "固定搭配『estar adherido/a a』，来自动词『adherir』（粘附、加入），引申为『遵守某标准或加入某组织』。在国际报道中，『adherirse a』是描述国家或企业加入国际公约、标准或协议的标准表达：『adherirse a un tratado』（加入条约）、『adherirse a los estándares』（遵守标准）。注意与『cumplir con』（遵守，强调执行）的区别：『adherirse a』更强调正式加入或认可。"
+        },
+        {
+          "word": "denuncias",
+          "translation": "投诉，举报，控告",
+          "note": "来自动词『denunciar』（举报、控告），在法律和行政语境中指向主管部门正式提出的投诉或举报。注意与英语『denounce』是假朋友：英语侧重『公开谴责』，西语『denunciar』更侧重『向当局正式举报』。固定搭配：『presentar una denuncia』（提出投诉/举报）、『denuncia penal』（刑事控告）、『denuncia medioambiental』（环境投诉）。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "La gestión de megaproyectos mineros presenta grandes desafíos. La documentación técnica suele ser demasiado compleja para que las comunidades locales puedan comprenderla. Además, aunque existen leyes para ordenar estas actividades, la corrupción y la mala administración suelen ser problemas habituales, tal y como reconoce el propio Banco Mundial en el caso de Perú. A todo ello hay que añadir que las metodologías para evaluar los daños ambientales son insuficientes, lo que dificulta determinar si las compensaciones percibidas por las comunidades son justas.",
+      "zh": "超大型矿业项目的管理面临重重挑战。技术文件通常过于复杂，当地社区难以理解。此外，尽管存在规范这些活动的法律，腐败和行政管理不善仍是常见问题，世界银行在谈及秘鲁案例时也承认了这一点。更有甚者，评估环境损害的方法论本身就不够充分，这使得判断社区所获得的补偿是否公平变得困难重重。",
+      "vocab": [
+        {
+          "word": "a todo ello hay que añadir",
+          "translation": "除此之外还需指出，更有甚者，在此之上还要加上",
+          "note": "学术和新闻文体中用于引入新的叠加论点的固定结构，比『además』更正式，强调在已有论据基础上的进一步累积。类似结构：『a esto se suma』（在此之上还叠加了）、『cabe añadir』（还值得补充）、『por si fuera poco』（更有甚者）。这组表达是论证性文章中串联多个论点的核心连接词，掌握后可显著提升书面表达的层次感。"
+        },
+        {
+          "word": "percibidas",
+          "translation": "获得的，收到的，感知到的",
+          "note": "来自动词『percibir』，是典型的一词多义词，需根据语境判断：①『获得、收取』（经济语境，本文含义：『compensaciones percibidas』所获得的补偿）；②『感知、察觉』（感官或心理语境：『percibir un cambio』察觉到变化）。固定搭配：『percibir un salario』（领取薪资）、『percibir una pensión』（领取养老金）、『percibir señales』（感知信号）。两种含义在新闻中均高频出现。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "El caso de Las Bambas se suma a otros estudios que han cuestionado las bondades de las megaminas en regiones poco desarrolladas del planeta. Por ello, planteamos la creación de un organismo asesor internacional cualificado que pueda asesorar a las comunidades afectadas por los proyectos mineros. También consideramos necesario avanzar en la fijación de unos estándares internacionales para contabilizar los impactos socioambientales. De esa forma, habrá mayores garantías de que los posibles perjuicios se calculen de forma adecuada y las administraciones públicas estarán en disposición de exigir las medidas correctoras necesarias a las grandes mineras.",
+      "zh": "拉斯班巴斯案例与其他研究一道，对超大型矿山在地球欠发达地区的所谓益处提出了质疑。为此，我们建议设立一个有资质的国际顾问机构，为受矿业项目影响的社区提供咨询。我们还认为，有必要推进制定衡量社会环境影响的国际标准。如此一来，可以更有保障地确保潜在损害得到充分核算，公共行政机构也将有能力要求大型矿业公司采取必要的纠正措施。",
+      "vocab": [
+        {
+          "word": "bondades",
+          "translation": "益处，优点，好处",
+          "note": "来自『bondad』（善良、好处），复数『bondades』在论证性文章中常以反讽语气使用，指某事物被宣称的优点或好处，但实际上作者对此持怀疑态度。本文『cuestionar las bondades de las megaminas』（质疑超大型矿山的所谓益处）即带有这种反讽意味。注意『bondad』的核心义为『善良』（『la bondad de una persona』一个人的善良），『bondades』引申为『好处』时多出现于正式文体。"
+        },
+        {
+          "word": "estar en disposición de",
+          "translation": "有能力，处于可以……的状态，具备条件",
+          "note": "固定搭配，意为『处于可以采取某行动的状态或条件下』，强调具备了必要的条件或权力。比『poder』（能够）更正式，常用于行政和法律文体。固定用法：『estar en disposición de exigir』（有权要求）、『estar en disposición de actuar』（具备行动条件）。近义表达：『estar en condiciones de』（具备条件）、『tener la capacidad de』（有能力）。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "La transición energética debería ser justa para todos los habitantes del planeta, vivan donde vivan.",
+      "zh": "能源转型应当对地球上所有居民都是公平的，无论他们生活在何处。",
+      "vocab": [
+        {
+          "word": "vivan donde vivan",
+          "translation": "无论他们生活在何处",
+          "note": "固定让步结构，由虚拟式重复构成：『verbo + donde/cuando/como/quien + mismo verbo en subjuntivo』，表示『无论……在哪里/何时/如何/是谁』。这是西语中表达全称让步的核心语法结构：『sea quien sea』（无论是谁）、『pase lo que pase』（无论发生什么）、『cueste lo que cueste』（不惜一切代价）。这一结构在政治宣言、社论结语中极为常见，掌握后可大幅提升书面表达的力度。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "旅游与文化",
+  "difficulty": "B1-B2",
+  "wordCount": "约1400词",
+  "title": "¿Por qué China debería ser tu destino este año?",
+  "subtitle": "为什么中国应该是你今年的旅行目的地？",
+  "resumenEs": "El artículo de EL PAÍS Viajes propone China como uno de los destinos del año 2026, destacando cinco itinerarios distintos que cubren desde la solemnidad histórica de Pekín hasta los paisajes espirituales del Tíbet. La experta Lin Meng subraya la ventaja de la exención de visado y la extraordinaria diversidad del país. Los itinerarios incluyen rutas por Sichuan y Yunnan, la navegación por el Yangtsé, un recorrido espiritual por Yunnan y el Tíbet guiado por Patricia Paulo, y dos viajes que parten desde Hong Kong hacia Australia y Vietnam respectivamente. El artículo enfatiza la autenticidad, la profundidad cultural y la capacidad de China para sorprender incluso a los viajeros más experimentados.",
+  "resumenZh": "《国家报》旅游版将中国列为2026年度目的地之一，推介五条各具特色的行程，涵盖北京的历史庄严、西藏的精神景观。专家林萌强调免签政策的便利性和中国非凡的多样性。行程包括四川和云南路线、长江游轮、由帕特里夏·保罗带领的云南西藏精神之旅，以及两条从香港出发分别前往澳大利亚和越南的旅程。文章着重强调中国的原真性、文化深度，以及令即便是经验丰富的旅行者也能为之惊叹的独特魅力。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "China es, según ONU Turismo, uno de los países en el mundo que más gasto realiza en turismo internacional. Y también que es uno de los países que más visitas anuales recibe, con unos 65,7 millones de turistas en 2025. La razón está clara: el país cuenta con un territorio tan diverso como sorprendente, que muestra distintas caras al viajero y que es posible descubrir de 1.000 maneras: desde la solemnidad de Pekín y su Ciudad Prohibida, pasando por los paisajes de ensueño de Zhangjiajie, el sur de China y el altiplano tibetano.",
+      "zh": "据联合国旅游组织数据，中国是全球在国际旅游上花费最多的国家之一，同时也是每年接待游客最多的国家之一，2025年共接待约6570万名游客。原因显而易见：这个国家拥有多样而令人惊叹的广袤领土，向旅行者展现出千面风情，可以用1000种方式去探索——从北京及其紫禁城的庄严肃穆，到张家界如梦似幻的景色，再到中国南方和西藏高原。",
+      "vocab": [
+        {
+          "word": "de ensueño",
+          "translation": "如梦似幻的，梦幻般的",
+          "note": "固定形容词短语，来自『ensueño』（梦境、幻想），由『en-』加『sueño』（梦）构成。在旅游和文学文体中是描述极美景色的高频表达：『paisajes de ensueño』（梦幻景色）、『una boda de ensueño』（梦幻婚礼）、『un destino de ensueño』（梦想目的地）。注意与『soñado』（梦寐以求的）的近义关系，两者可互换，但『de ensueño』更具诗意色彩。"
+        },
+        {
+          "word": "solemnidad",
+          "translation": "庄严，肃穆，隆重",
+          "note": "来自形容词『solemne』加后缀『-idad』构成抽象名词。『-idad』对应英语『-ity』，是西语中最高产的抽象名词后缀之一：『solemnidad』、『gravedad』（严重性）、『profundidad』（深度）。注意『solemne』的一词多义：①『庄严肃穆的』（本文含义）；②口语中带反讽意味，表示『彻底的、十足的』，如『un solemne idiota』（十足的蠢货）。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "China es para aquellos que buscan destinos urbanos, pero también para los que quieren ver tradición, religión y mundo rural. Por esa razón desde EL PAÍS Viajes hemos considerado que es uno de los destinos del año. En total, son cinco los itinerarios que propone EL PAÍS Viajes para conocer el país en 2026.",
+      "zh": "中国适合那些寻求都市目的地的旅行者，也适合那些希望领略传统、宗教和乡村世界的人。正因如此，《国家报》旅游版将其列为年度目的地之一。《国家报》旅游版共为2026年探索这个国家提供了五条行程。",
+      "vocab": [
+        {
+          "word": "itinerario",
+          "translation": "行程，路线，旅行计划",
+          "note": "来自拉丁语『iter』（道路、旅程），在旅游文体中指详细规划的旅行路线和日程安排。固定搭配：『seguir un itinerario』（按行程走）、『itinerario cultural』（文化线路）。注意与『ruta』（路线，更强调地理路径）和『recorrido』（游览路线，强调实际行走过程）的细微区别：『itinerario』最强调有计划性的安排。同族词：『itinerante』（巡回的、流动的），如『exposición itinerante』（巡回展览）。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Pero ¿por qué deberías viajar al gigante asiático? Así lo explica Lin Meng, una de las expertas en el territorio: \"En 2026 seguimos teniendo la oportunidad excepcional de poder viajar sin necesidad de visado —como ya se empezó a hacer en 2025—, lo que facilita muchísimo el acceso y elimina una pequeña, pero potencial barrera más para poder disfrutar de mi país\". Como señala, China es un país que cambia a una velocidad de vértigo, por lo que viajar allí es ser testigo de su transformación constante, donde conviven tradiciones milenarias con una modernidad sorprendente. \"Y, por supuesto, está su enorme diversidad: historia, cultura, gastronomía, arquitectura, tecnología… y al ser un país tan grande, incluso permite elegir la experiencia según la climatología y la época del año, algo difícil de igualar en otros destinos\".",
+      "zh": "但为什么你应该前往这个亚洲巨人？领域专家林萌如此解释道：「2026年，我们依然拥有免签旅行的难得机会——这一政策从2025年已经开始实施——这极大地便利了入境，消除了一道虽小却可能存在的障碍，让人们更容易享受我的国家。」正如她所指出的，中国是一个以令人眩晕的速度变化的国家，因此前往那里旅行，就是见证其持续的变革——千年传统与令人惊叹的现代性在此共存。「当然，还有它巨大的多样性：历史、文化、美食、建筑、科技……而且由于国土如此辽阔，甚至可以根据气候和季节来选择体验，这在其他目的地很难找到。」",
+      "vocab": [
+        {
+          "word": "a una velocidad de vértigo",
+          "translation": "以令人眩晕的速度，飞速地",
+          "note": "固定隐喻短语，『vértigo』本义为『眩晕症』，引申为『令人头晕目眩的高速或强度』。同族形容词『vertiginoso』在新闻中同样高频：『un crecimiento vertiginoso』（飞速增长）、『un ritmo vertiginoso』（令人眩晕的节奏）。固定搭配：『dar vértigo』（令人眩晕、令人望而生畏）。掌握『vértigo/vertiginoso』这一词族，可在描述速度、变化和高度的报道中灵活运用。"
+        },
+        {
+          "word": "conviven",
+          "translation": "共存，共处，并存",
+          "note": "来自动词『convivir』，由前缀『con-』（共同）加『vivir』（生活）构成，意为『和谐共存』。注意与『coexistir』（共存）的区别：『convivir』带有和平共处的积极含义，『coexistir』更中性。同族词『convivencia』（共处、共存）是西班牙社会报道的核心词汇，尤其在谈论多元文化社会时极为常见。固定搭配：『fomentar la convivencia』（促进共处）、『convivencia pacífica』（和平共处）。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "¿Estás pensando en viajar allí? ¿Es tu primera vez? Sin duda, China es un país para aquellos que han viajado mucho, a los que ofrece esa dosis de sorpresa que otros destinos no tienen. \"Allí vas a encontrar algo verdaderamente distinto. Muchos viajeros experimentados nos cuentan que su primer viaje a China fue un momento muy especial, casi como redescubrir el placer de viajar: todo es diferente —las escalas, los códigos culturales, las ciudades, los paisajes— y eso genera una sensación muy intensa y memorable. China no solo se visita: se vive y se recuerda como una experiencia única\", subraya Lin Meng, experta de EL PAÍS Viajes.",
+      "zh": "你正在考虑去那里旅行吗？是第一次吗？毫无疑问，中国是一个适合那些走遍世界的旅行者的国家，能给他们带来其他目的地所没有的那份惊喜。「在那里，你会找到真正与众不同的东西。许多经验丰富的旅行者告诉我们，他们第一次去中国是一段非常特别的经历，几乎像是重新发现了旅行的乐趣：一切都是不同的——尺度、文化密码、城市、风景——这会产生一种非常强烈而难忘的感受。中国不只是用来参观的：它是用来体验的，会作为一段独特的经历被铭记，」《国家报》旅游版专家林萌强调道。",
+      "vocab": [
+        {
+          "word": "códigos culturales",
+          "translation": "文化密码，文化规范，文化行为准则",
+          "note": "固定搭配，『código』本义为『密码、法典』，在社会和文化语境中引申为『一套约定俗成的行为规范或符号体系』。『código』是构词价值极高的词：『código penal』（刑法典）、『código de conducta』（行为准则）、『código no escrito』（不成文规定）、『código genético』（遗传密码）。掌握这一词的多义性，可在法律、文化、科学等多个领域的报道中准确理解。"
+        },
+        {
+          "word": "dosis",
+          "translation": "剂量；（引申）一份，适量",
+          "note": "来自希腊语『dosis』（给予之物），本义为医学『剂量』，在文学和新闻文体中引申为『一定量的某种抽象事物』。本文『una dosis de sorpresa』（一份惊喜）是其引申用法，类似：『una dosis de humor』（一剂幽默）、『una dosis de realidad』（一剂现实）。注意该词阴性（la dosis），且单复数同形：『una dosis / dos dosis』。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Con ella y con un guía local, este año 2026 habrá dos itinerarios increíbles. China, los guerreros de Avatar por el Río Yangtze, que comenzará el 4 de septiembre y durará 17 días, y Sichuan y Yunnan. La China más auténtica con una china, que saldrá de España el próximo 14 de mayo y tendrá una duración de 15 días. Estos itinerarios nacen de un conocimiento profundo del país y de una clara vocación por ir más allá de lo evidente.",
+      "zh": "与她和当地向导同行，2026年将推出两条精彩行程。「中国：阿凡达战士与长江」将于9月4日出发，历时17天；「四川与云南：与一位中国人同行，探寻最真实的中国」将于5月14日从西班牙出发，历时15天。这些行程源于对这个国家的深刻了解，以及超越表象、深入探索的明确追求。",
+      "vocab": [
+        {
+          "word": "vocación",
+          "translation": "追求，志向，使命感，天职",
+          "note": "来自拉丁语『vocare』（呼唤），本义为宗教语境中『神的召唤』，引申为『对某事的强烈内在倾向或使命感』。固定搭配：『vocación de servicio』（服务精神）、『tener vocación por』（对……有天赋和热情）、『vocación artística/política』（艺术/政治志向）。本文『una clara vocación por ir más allá』（超越表象的明确追求）是其引申用法，体现了该词从宗教向世俗语境的迁移。"
+        },
+        {
+          "word": "ir más allá de lo evidente",
+          "translation": "超越表象，不止于显而易见之处",
+          "note": "『más allá de』（超越、在……之外）是高频介词短语；『lo evidente』是『lo + 形容词』结构，将形容词名词化，表示抽象概念。这一构词规律极为重要：『lo importante』（重要的事）、『lo cotidiano』（日常之事）、『lo esencial』（本质）、『lo sagrado』（神圣之物）。掌握『lo + 形容词』结构，可大幅提升阅读哲学、文化类文章的能力。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "\"Buscamos lugares menos explorados, pero con muchísimo potencial, que sorprenden incluso a quienes creen que ya conocen China. Además, cuidamos mucho los detalles: el ritmo del viaje, las experiencias locales, el equilibrio entre lo cultural y lo cotidiano… Siempre con la idea de ofrecer una China auténtica y vivida desde dentro. Y —si me lo permites— yo acompaño el viaje con pasión, curiosidad y muchas ganas de compartir mis experiencias personales y una visión contrastada\", añade en una entrevista a EL PAÍS Viajes Lin Meng, nacida en Beijing, y con una larga trayectoria como intérprete de español y chino en la Embajada China en España, en el Comité Olímpico Español y en el Ministerio de Sanidad de España.",
+      "zh": "「我们寻找那些鲜为人知却潜力无限的地方，甚至能让自以为已经了解中国的人感到惊喜。此外，我们非常注重细节：旅行的节奏、当地体验、文化与日常之间的平衡……始终秉持着提供一个从内部真实体验的中国的理念。而且——如果你允许我说——我会带着热情、好奇心和分享个人经历与多元视角的强烈愿望陪伴整个旅程，」林萌在接受《国家报》旅游版采访时补充道。她出生于北京，曾长期担任西班牙中国大使馆、西班牙奥委会和西班牙卫生部的西中口译员。",
+      "vocab": [
+        {
+          "word": "trayectoria",
+          "translation": "职业经历，轨迹，发展历程",
+          "note": "来自『trayecto』（路程），加后缀『-oria』构成。本义为物理学中的『运动轨迹』，引申为『职业发展历程』。固定搭配：『una larga trayectoria』（漫长的职业生涯）、『trayectoria profesional/política/artística』（职业/政治/艺术生涯）。注意与『carrera』（职业生涯，强调专业领域）的区别：『trayectoria』更强调时间跨度和经历的积累过程，在人物介绍中是替代『carrera』的高级选项。"
+        },
+        {
+          "word": "visión contrastada",
+          "translation": "多元视角，经过对比验证的观点",
+          "note": "『contrastado』来自动词『contrastar』（对比、核实），意为『经过与不同观点或经历对比后形成的』。『contrastar』是新闻核心动词：『contrastar información』（核实信息）、『datos contrastados』（经过验证的数据）。注意与英语『contrast』的区别：西语『contrastar』除了『对比』，还有『核实、验证』的含义，在新闻伦理语境中尤为重要。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Otra de las razones para viajar al país es conocer su historia y tradición, claves en el devenir de la historia mundial. El recorrido del viaje por Sichuan y Yunnan tiene como objetivo precisamente conocer esta China más auténtica en lugares míticos como Chengdú, famoso por sus pandas y cocina local, las cumbres sagradas del Parque Nacional de Yading, la China profunda y menos visitada, el corazón del Tíbet Oriental con ejemplos de arquitectura ancestral y paisajes de vértigo y una aproximación a la vida de los nómadas tibetanos; así como la visita a lugares como Jiaju y Suopo —considerados dos de los pueblos más bellos del país—, y la Garganta del Salto del Tigre.",
+      "zh": "前往中国旅行的另一个理由，是了解其历史与传统——它们是世界历史进程中的关键所在。四川和云南之旅的目标，正是在成都（以大熊猫和当地美食著称）、亚丁国家公园的神圣山峰、鲜有游客涉足的深度中国、拥有古老建筑和令人眩晕景色的藏东腹地，以及藏族游牧民生活的近距离体验等神话般的地方，领略这个最真实的中国；此外还有嘉绒和苏波——被认为是全国最美的两个村庄——以及虎跳峡。",
+      "vocab": [
+        {
+          "word": "devenir",
+          "translation": "进程，演变，历史发展",
+          "note": "来自法语借词，在西语中作名词使用，意为『历史的演变进程』，带有哲学和文学色彩，是书面语层次较高的标志词。固定搭配：『el devenir histórico』（历史进程）、『el devenir del tiempo』（时间的流逝）。在口语中几乎不使用。注意与动词『devenir』（成为、演变为）的区分：名词用法在西语中较为特殊，源于法语哲学传统的影响。"
+        },
+        {
+          "word": "ancestral",
+          "translation": "祖先的，远古的，世代相传的",
+          "note": "来自『ancestro』（祖先），加后缀『-al』构成形容词。注意与『antiguo』（古老的，强调年代久远）的区别：『ancestral』更强调与祖先和文化传承的连接，带有血脉相连的含义。高频搭配：『arquitectura ancestral』（古老建筑）、『tradiciones ancestrales』（世代相传的传统）、『sabiduría ancestral』（古老智慧）、『memoria ancestral』（祖先记忆）。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Por su parte, el viaje de China, los guerreros de Avatar por el río Yangtze, pretende conocer otra versión del país: la solemnidad de Pekín y su Ciudad Prohibida, la fuerza silenciosa del ejército de terracota en Xi'an y la navegación por el Yangtsé, uno de los ríos más míticos de Asia y de toda China. Sin olvidar los paisajes de ensueño de Zhangjiajie, que inspiraron el mundo de los Omaticaya en Avatar. A todo ello se suma Chongqing, ciudad fotogénica por excelencia, caótica, vertical, luminosa por la noche y convertida en un fenómeno en redes sociales gracias a sus miradores urbanos, su arquitectura imposible y ese aire futurista.",
+      "zh": "另一方面，「中国：阿凡达战士与长江」之旅旨在领略这个国家的另一面：北京及其紫禁城的庄严肃穆、西安兵马俑沉默的力量，以及沿长江的航行——亚洲乃至整个中国最具传奇色彩的河流之一。还有张家界如梦似幻的景色，正是它启发了《阿凡达》中奥马蒂卡亚人的世界。在此之上，还有重庆——当之无愧的最上镜城市，混乱、垂直、夜晚灯火辉煌，凭借其城市观景台、不可思议的建筑和那股未来主义气息，已成为社交媒体上的现象级存在。",
+      "vocab": [
+        {
+          "word": "por excelencia",
+          "translation": "当之无愧的，首屈一指的，典型的",
+          "note": "来自拉丁语固定短语，字面意为『凭借卓越』，用于强调某人或某物是某一类别中最典型、最出色的代表，始终置于所修饰名词之后。在新闻和文学文体中极为常见：『la ciudad fotogénica por excelencia』（当之无愧的最上镜城市）、『el deporte nacional por excelencia』（最典型的国民运动）。注意这是一个不可拆分的固定短语，与英语『par excellence』完全对应。"
+        },
+        {
+          "word": "a todo ello se suma",
+          "translation": "在此之上还有，除此之外还叠加了",
+          "note": "高频学术固定搭配，结构为『a esto/ello se suma + 名词』，用于在论证或叙述中引入新的叠加因素，强调累积效应，语气比『además』更正式。类似结构：『a esto hay que añadir』（还需加上）、『a lo anterior se añade』（在前述基础上还有）。这组表达是串联论点的重要连接词，在分析性文章中密集出现。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Es posible que, al pensar en China, automáticamente te vengan a la mente sus ciudades más importantes: Shanghái, Beijing, Hong Kong, Shenzhen, Guangzhou y Chongqing… Sin embargo, hay una China distinta, más espiritual y religiosa a la cual se puede acceder por el sur. El itinerario, que guía la experta Patricia Paulo, En busca de Shamballa, Yunnan y Tibet, que saldrá de España el 7 de julio y que durará 15 días, se plantea como una travesía de revelación: paisajes que conservan misterio, culturas que han hecho del espíritu una forma de vivir y caminos donde la historia se percibe con el cuerpo.",
+      "zh": "提到中国，你可能会自然而然地想到它最重要的城市：上海、北京、香港、深圳、广州和重庆……然而，还有一个不同的中国，更具精神性和宗教色彩，可以从南方进入。由专家帕特里夏·保罗带领的行程「寻找香巴拉：云南与西藏」将于7月7日从西班牙出发，历时15天，被构想为一场启示之旅：保留着神秘的风景、将精神作为生活方式的文化，以及用身体感知历史的道路。",
+      "vocab": [
+        {
+          "word": "travesía",
+          "translation": "旅程，穿越，跨越之旅",
+          "note": "来自动词『atravesar』（穿越），指一段需要穿越某一地域或克服困难的旅程，比『viaje』更具文学色彩，暗示旅途的艰辛或内在的精神转变。固定搭配：『travesía del desierto』（沙漠穿越，也常用作政治隐喻，指某政党或人物的困难时期）、『travesía atlántica』（大西洋横渡）。注意『travesía del desierto』这一政治隐喻在西班牙新闻中极为常见。"
+        },
+        {
+          "word": "se plantea como",
+          "translation": "被构想为，被定位为，以……方式呈现",
+          "note": "固定搭配，『plantearse como』意为『将自身定位或构想为某种形式』，在新闻和学术文体中是描述项目、政策或活动定位的核心表达。『plantear』是高频多义词：①『提出（问题/方案）』（『plantear una pregunta』提出问题）；②『构想、设计』（本文含义）；③『引发（挑战/困境）』（『plantear un reto』带来挑战）。三种用法在新闻中均极为常见。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "\"Yunnan y el Tíbet aparecen como dos movimientos de una misma experiencia orientada hacia lo esencial, lo sagrado y lo profundamente humano\", explica a EL PAÍS Viajes, Patricia Paulo, especialista en las tradiciones filosóficas, religiosas y espirituales más influyentes de Oriente y Occidente. Por su parte, Yunnan es montañosa y multiétnica, y despliega una China de gran riqueza cultural y simbólica. En Lijiang, —ciudad antigua declarada Patrimonio de la Humanidad por la Unesco—, el entramado de callejuelas, canales alimentados por las nieves de la Montaña del Dragón de Jade y patios de madera introduce al viajero en la cosmovisión Naxi, donde naturaleza, memoria y vida cotidiana forman una unidad.",
+      "zh": "「云南和西藏呈现为同一段体验的两个乐章，指向本质、神圣与深刻的人性，」帕特里夏·保罗向《国家报》旅游版解释道。她是东西方最具影响力的哲学、宗教和精神传统的专家。云南山峦起伏、多民族聚居，展现出文化和象征意义极为丰富的中国面貌。在丽江——这座被联合国教科文组织列为世界遗产的古城——错综复杂的小巷、由玉龙雪山雪水滋养的运河和木质庭院，将旅行者引入纳西族的宇宙观，在那里，自然、记忆与日常生活融为一体。",
+      "vocab": [
+        {
+          "word": "entramado",
+          "translation": "错综复杂的网络，交织的结构",
+          "note": "来自动词『entramar』（编织），由『en-』加『trama』（纬线、情节）构成。在建筑描述中，『entramado de callejuelas』（错综的小巷网络）是高频表达。在政治和社会报道中，『entramado』引申为『复杂的利益或权力网络』：『entramado de corrupción』（腐败网络）、『entramado financiero』（金融网络）。掌握『trama』这一词根，可类推：『trama』（阴谋、情节）、『tramar』（策划阴谋）、『entramado』（网络结构）。"
+        },
+        {
+          "word": "cosmovisión",
+          "translation": "宇宙观，世界观，对宇宙和生命的整体认知",
+          "note": "由『cosmos』（宇宙）加『visión』（视野）构成的复合词，指某一文化或民族对宇宙、自然和人类存在的整体性理解体系。比『visión del mundo』（世界观）更强调文化的整体性和系统性，在人类学、哲学和文化报道中是核心术语。固定搭配：『cosmovisión indígena』（原住民宇宙观）、『cosmovisión andina』（安第斯宇宙观）。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Los mercados, las plazas y los miradores permiten comprender la relación entre geografía y cultura como una experiencia directa. Por otro lado, Shuhe conserva la atmósfera de la antigua Ruta del Té y los Caballos. Sus puentes de piedra, templos y calles de mercado muestran el desarrollo de un enclave donde el intercambio comercial fue también intercambio espiritual y cultural. Y, el estanque del Dragón Negro ofrece una de las imágenes más refinadas de la región: el puente de mármol enmarca la montaña nevada y los pabellones, templos y torres configuran un espacio donde arte, contemplación y simbolismo se integran. \"En este entorno se accede también al universo dongba, tradición espiritual que expresa la relación entre palabra ritual, naturaleza y conciencia\", añade Patricia.",
+      "zh": "集市、广场和观景台让人得以将地理与文化的关系作为一种直接体验来理解。另一方面，束河保留着古老茶马古道的氛围。其石桥、寺庙和集市街道展示了一个飞地的发展历程——在那里，商业交流也是精神和文化的交流。黑龙潭则呈现出该地区最精致的景象之一：大理石桥将雪山框入画面，亭台、寺庙和塔楼构成一个艺术、沉思与象征融为一体的空间。「在这一环境中，还可以进入东巴宇宙——一种表达仪式语言、自然与意识之间关系的精神传统，」帕特里夏补充道。",
+      "vocab": [
+        {
+          "word": "enclave",
+          "translation": "飞地，孤立地带，独特聚居地",
+          "note": "来自法语借词，指在地理或文化上被其他不同性质区域所包围的独特地带。在地理报道中指『飞地』（如西班牙的休达和梅利利亚）；在文化报道中引申为『保留着独特文化特征的孤立聚居地』（本文含义）。固定搭配：『un enclave cultural』（文化孤岛）、『un enclave histórico』（历史飞地）、『un enclave estratégico』（战略要地）。"
+        },
+        {
+          "word": "configuran",
+          "translation": "构成，形成，塑造",
+          "note": "来自动词『configurar』，由前缀『con-』（共同）加『figura』（形状）构成，意为『通过多个元素共同构成某一整体形态』。比『formar』（形成）更强调多元素协同构成的过程。固定搭配：『configurar un espacio』（构成一个空间）、『configurar una identidad』（塑造一种身份认同）、『configurar el panorama político』（构成政治格局）。同族词：『configuración』（构型、配置）在科技报道中也极为常见。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "El valor de esta ruta reside en la combinación de tres dimensiones: la densidad cultural de ciudades monásticas, templos y rutas históricas; la singularidad de los maravillosos paisajes de alta montaña y sus lagos sagrados; y la experiencia directa de tradiciones vivas a través de la participación respetuosa en espacios de oración, peregrinación y encuentro con las comunidades locales. En esto cobra especial importancia el acompañamiento no solo de Patricia, sino también del guía local Pedro Ceinos que permite una inmersión profunda en cada etapa.",
+      "zh": "这条路线的价值在于三个维度的结合：寺院城市、寺庙和历史路线的文化厚度；高山壮丽景色和神圣湖泊的独特性；以及通过在祈祷、朝圣空间和与当地社区相遇中的尊重性参与，直接体验鲜活的传统。在这方面，不仅帕特里夏的陪伴至关重要，当地向导佩德罗·塞伊诺斯的同行同样不可或缺，他使每一阶段的深度沉浸成为可能。",
+      "vocab": [
+        {
+          "word": "cobra especial importancia",
+          "translation": "变得尤为重要，愈发凸显其重要性",
+          "note": "固定搭配，『cobrar』本义为『收取（钱款）』，在抽象语境中引申为『获得、逐渐具有』某种特质。『cobrar + 抽象名词』是新闻和学术文体中描述某事物重要性或特质上升的核心结构：『cobrar importancia/relevancia』（变得重要）、『cobrar vida』（焕发生机）、『cobrar sentido』（变得有意义）、『cobrar protagonismo』（成为主角）。这一结构在时事报道中极为高频。"
+        },
+        {
+          "word": "inmersión",
+          "translation": "沉浸，深度融入",
+          "note": "来自动词『sumergir』（浸入），名词形式字面意为『浸入水中』，引申为『深度融入某一文化、语言或体验』。注意与英语『immersion』完全对应，是少见的西英同源且含义完全一致的词汇。固定搭配：『inmersión lingüística/cultural』（语言/文化沉浸）、『inmersión total』（全面沉浸）。同族词：『sumergirse en』（沉浸于）、『sumergido』（被淹没的、沉浸其中的）。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "Por ejemplo, en la montaña sagrada de Weibaoshan se introduce a los viajeros en el taoísmo, mientras que el lago Erhai, las aldeas tradicionales, los talleres de tintes índigo y el conjunto monumental de las Tres Pagodas ofrecen una lectura completa de su esplendor artístico y espiritual. \"Shaxi, antigua estación de caravanas, conserva un microcosmos de gran autenticidad: la plaza con su teatro tradicional, el templo Xingjiao, el puente Yujin y los mercados activos permiten experimentar la continuidad entre pasado y presente. Y la cercana montaña de Shibaoshan, con sus templos budistas, prolonga esta vivencia en un entorno natural de gran fuerza simbólica\", subraya Patricia.",
+      "zh": "例如，在巍宝山这座神圣山峰，旅行者得以领略道教；而洱海、传统村落、靛蓝染坊和三塔古建筑群则提供了对其艺术和精神辉煌的完整解读。「沙溪，这座古老的驿站，保留着一个高度原真的微型宇宙：传统戏台广场、兴教寺、玉津桥和活跃的集市，让人得以体验过去与现在之间的延续。而附近的石宝山，以其佛教寺庙，将这种体验延伸至一个具有强大象征力量的自然环境中，」帕特里夏强调道。",
+      "vocab": [
+        {
+          "word": "microcosmos",
+          "translation": "微型宇宙，缩影，小世界",
+          "note": "来自希腊语『mikros』（小）加『kosmos』（宇宙），指在小范围内完整体现某一更大整体特征的事物。注意其构词规律：『micro-』是表示『微小』的高产前缀，对应『macro-』（宏大）：『microeconomía/macroeconomía』（微观/宏观经济）、『microcosmos/macrocosmos』（微观/宏观宇宙）。在文化和社会报道中，『un microcosmos de』（……的缩影）是描述某地完整体现某种文化特质的高频表达。"
+        },
+        {
+          "word": "vivencia",
+          "translation": "亲身体验，切身经历",
+          "note": "来自动词『vivir』（生活、体验），加后缀『-encia』构成，指亲身经历并内化为个人经验的体验。注意与『experiencia』（经历）的细微区别：『vivencia』更强调主观性和内在情感层面的体验，比『experiencia』更具个人色彩。固定搭配：『compartir vivencias』（分享亲身经历）、『vivencias personales』（个人亲历）。后缀『-encia』是构成抽象名词的高产后缀：『vivencia』、『convivencia』、『experiencia』。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "Aunque si hay un punto importante en el itinerario, un viaje en sí mismo hacia la cultura tibetana, es el ascenso hacia Shangri-la. La ciudad histórica de Dukezong, el gran molino de oración de la colina de Guishan y el monasterio de Songzanlin constituyen una inmersión en el budismo tibetano a través de su arquitectura, su liturgia y su vida monástica. \"A partir de este punto, la entrada en el Tíbet completa el sentido del recorrido. Lhasa, a gran altitud, se presenta como un centro espiritual vivo\".",
+      "zh": "然而，如果说行程中有一个重要节点——一段通往藏族文化的旅程本身——那便是向香格里拉的攀升。独克宗古城、归山山顶的大转经筒和松赞林寺，通过其建筑、礼仪和寺院生活，构成对藏传佛教的深度沉浸。「从这一节点起，进入西藏使整个旅程的意义得以完整。拉萨，在高海拔之处，呈现为一个鲜活的精神中心。」",
+      "vocab": [
+        {
+          "word": "liturgia",
+          "translation": "礼仪，宗教仪式，礼拜程序",
+          "note": "来自希腊语『leitourgia』（公共服务），在宗教语境中指规范化的宗教仪式和礼拜程序。注意其引申用法：在文化报道中，『liturgia』可指任何具有仪式感的固定程序：『la liturgia del fútbol』（足球的仪式感）、『la liturgia política』（政治仪式）。这种从宗教向世俗语境的词义迁移在西语中极为常见，是理解文化类文章的关键。"
+        },
+        {
+          "word": "constituyen",
+          "translation": "构成，组成，形成",
+          "note": "来自动词『constituir』，由前缀『con-』（共同）加拉丁语词根『statuere』（建立）构成。注意与『formar』（形成）和『componer』（组成）的区别：『constituir』更强调多个要素共同构成一个整体或正式实体，在法律和学术文体中尤为常见。固定搭配：『constituir una amenaza』（构成威胁）、『constituir un delito』（构成犯罪）、『constituir una excepción』（构成例外）。同族词：『constitución』（宪法、构成）、『inconstitucional』（违宪的）。"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "es": "¿Quieres explorar una China más urbana? ¿Por qué no hacerlo a través de una de sus ciudades más turísticas y populares? Hablamos de la vibrante metrópoli de Hong Kong, donde tradición y modernidad conviven en cada rincón. Esta será la primera parada de dos viajes singulares de EL PAÍS Viajes. El primero de ellos es Hong Kong y Australia, de las luces al outback en el mítico The Ghan, un viaje que saldrá el 30 de octubre y que durará 22 días. Hong Kong es la primera parada de una ruta que irá de China a Australia. En Hong Kong se visitarán lugares como Victoria Peak, el punto más alto de la isla con la vista panorámica de rascacielos, montañas y el puerto de Victoria, una postal viva que resume la esencia de la ciudad.",
+      "zh": "你想探索一个更都市化的中国吗？为何不通过其最具旅游吸引力和人气的城市来实现呢？我们说的是充满活力的大都市香港，传统与现代在这里的每个角落共存。这将是《国家报》旅游版两条独特旅程的第一站。其中第一条是「香港与澳大利亚：从霓虹灯光到内陆荒野，乘坐传奇的The Ghan列车」，将于10月30日出发，历时22天。香港是这条从中国延伸至澳大利亚路线的第一站。在香港，将参观维多利亚峰等地——这是岛上最高点，可俯瞰摩天大楼、山峦和维多利亚港的全景，是浓缩了这座城市精髓的一张活明信片。",
+      "vocab": [
+        {
+          "word": "postal viva",
+          "translation": "活明信片，如明信片般的真实景象",
+          "note": "文学性隐喻固定表达，『postal』（明信片）加『viva』（活的、真实的）构成矛盾修辞，意为『如明信片般美丽却真实存在的景象』。这一表达体现了旅游文体中将景色与图像媒介类比的常见修辞手法。类似表达：『una estampa viva』（一幅活画面）、『parece una postal』（像一张明信片）。注意『postal』作形容词时意为『邮政的』（『servicio postal』邮政服务），作名词时意为『明信片』。"
+        },
+        {
+          "word": "vibrante",
+          "translation": "充满活力的，生机勃勃的，热闹的",
+          "note": "来自动词『vibrar』（振动、充满活力），加后缀『-ante』构成形容词。在旅游和城市报道中，『vibrante』是描述充满活力的城市或文化氛围的高频词：『una ciudad vibrante』（充满活力的城市）、『una escena cultural vibrante』（生机勃勃的文化场景）。注意『-ante/-iente』后缀是将动词转化为形容词的高产后缀：『vibrante』、『sorprendente』（令人惊讶的）、『inquietante』（令人不安的）。"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "es": "También la elegante zona costera de Repulse Bay, que combina historia colonial con sofisticación contemporánea. Sus playas tranquilas y templos dedicados a Tin Hau —la diosa del mar— revelan el vínculo espiritual que los hongkoneses mantienen con el agua. Es un lugar ideal para observar cómo la cultura tradicional se adapta al estilo de vida moderno. En el Sky100, el mirador del International Commerce Centre, se puede ver la panorámica de Kowloon y la isla de Hong Kong. ¡Toda una experiencia! Y, opcionalmente, recomendamos subir al Star Ferry al atardecer: un trayecto breve entre Central y Tsim Sha Tsui, pero que ofrece una de las vistas más icónicas del mundo.",
+      "zh": "还有优雅的浅水湾海岸区，将殖民历史与当代精致融为一体。宁静的海滩和供奉天后——海洋女神——的庙宇，揭示了香港人与水之间的精神纽带。这是观察传统文化如何适应现代生活方式的理想之地。在国际商业中心的Sky100观景台，可以俯瞰九龙和香港岛的全景。绝对是一次难忘的体验！此外，我们还推荐在傍晚时分乘坐天星小轮：中环至尖沙咀的短短一程，却能欣赏到世界上最具标志性的景色之一。",
+      "vocab": [
+        {
+          "word": "vínculo",
+          "translation": "纽带，联系，连接",
+          "note": "来自拉丁语『vinculum』（锁链、纽带），意为『将两个事物紧密联系在一起的连接』。比『relación』（关系）更强调情感或精神层面的深度连接。固定搭配：『vínculo afectivo/emocional』（情感纽带）、『vínculo familiar』（家庭纽带）、『establecer vínculos』（建立联系）、『romper vínculos』（断绝联系）。在心理学、社会学和文化报道中是描述深层连接的核心词汇。"
+        },
+        {
+          "word": "sofisticación",
+          "translation": "精致，复杂，高端",
+          "note": "来自形容词『sofisticado』加后缀『-ción』构成。注意『sofisticado』是假朋友陷阱：英语『sophisticated』主要意为『老练的、有见识的』，而西语『sofisticado』更强调『精致、高端、复杂』，常用于描述设计、品味或技术。固定搭配：『sofisticación tecnológica』（技术复杂度）、『un diseño sofisticado』（精致的设计）、『un paladar sofisticado』（精致的味觉）。"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "es": "Antes de partir a Melbourne, hay que conocer una cha chaan teng, una cafetería local hongkonesa donde probar el té con leche y las tostadas con leche condensada. Asimismo, se recomienda visitar el Templo de Man Mo, escondido entre edificios coloniales y modernos en Sheung Wan. El humo del incienso, las espirales suspendidas y los rezos silenciosos conectan con la espiritualidad tradicional de la ciudad, dedicada al dios de la literatura y la guerra.",
+      "zh": "在前往墨尔本之前，一定要光顾一家茶餐厅——香港本地的咖啡馆，在那里品尝奶茶和炼奶吐司。同样值得推荐的是参观文武庙，它隐匿于上环的殖民建筑和现代建筑之间。袅袅香烟、悬挂的盘香和无声的祈祷，将人与这座城市的传统精神世界相连——这座庙宇供奉的是文学与战争之神。",
+      "vocab": [
+        {
+          "word": "rezos",
+          "translation": "祈祷，祷告",
+          "note": "来自动词『rezar』（祈祷），名词形式『rezo』指祈祷的行为或内容。注意与『oración』（祈祷，也指句子）的区别：『rezo』更强调口头念诵的祷词，『oración』更正式，在神学语境中使用；而『oración』在语法语境中意为『句子』，是典型的一词多义词。固定搭配：『rezar una oración』（念一段祷词）、『rezos silenciosos』（无声的祈祷）。"
+        },
+        {
+          "word": "asimismo",
+          "translation": "同样，此外，另外",
+          "note": "由『así』（如此）加『mismo』（同样）构成的副词，意为『同样地、此外』，是书面语和新闻文体中表示并列递进的高频连接词。注意其语体层次：比『también』（也）更正式，常出现在报道、学术文章和官方文件中。类似连接词的语体层次排列：『también』（口语/书面）＜『además』（书面）＜『asimismo』（正式书面）＜『igualmente』（正式书面）。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "文化与文学",
+  "difficulty": "C1",
+  "wordCount": "约500词",
+  "title": "Nueva fruta del paraíso",
+  "subtitle": "天堂的新果实",
+  "resumenEs": "El autor celebra el poder transformador de la lectura, capaz de romper toda barrera y convertir al lector en explorador, navegante o viajero del tiempo. Evoca los placeres de su juventud bajo la dictadura franquista, cuando leer libros prohibidos era un acto de rebeldía gozosa. Concluye con una advertencia: el paraíso de la lectura tiene ahora una nueva serpiente tentadora, la inteligencia artificial, que ofrece otra manzana del conocimiento.",
+  "resumenZh": "作者颂扬阅读的变革力量——它能打破一切界限，将读者变为探险家、航海者或时间旅人。他回忆起弗朗哥独裁时期青春岁月中的乐趣，那时阅读禁书是一种充满喜悦的反抗行为。文章以一个警示作结：阅读的天堂如今出现了一条新的诱惑之蛇——人工智能，它正捧出另一颗知识之苹果。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Para un lector imaginativo no existen barreras, todo le está permitido. Puede romper la ley de la gravedad y toda clase de cadenas morales que le impidan ser libre, porque leer es como volar, es como navegar con el viento a favor.",
+      "zh": "对于一个富有想象力的读者来说，不存在任何界限，一切皆被允许。他可以打破万有引力定律，打破一切阻碍他自由的道德枷锁，因为阅读如同飞翔，如同顺风航行。",
+      "vocab": [
+        {
+          "word": "cadenas morales",
+          "translation": "道德枷锁，道德束缚",
+          "note": "隐喻性表达，『cadena』本义为『链条、枷锁』，引申为束缚人的规范或约束。作者将道德规范比作锁链，与后文『libros prohibidos』（禁书）和『pecado』（罪孽）共同构成全文的核心意象群——反抗束缚、追求自由。固定搭配：『romper las cadenas』（打破枷锁）在政治和文学语境中极为常见。"
+        },
+        {
+          "word": "con el viento a favor",
+          "translation": "顺风，借助有利条件",
+          "note": "航海术语，字面意为『风从背后吹来』，引申为在有利条件下顺势而为。反义表达『contra el viento』或『en contra del viento』（逆风）指在不利条件下艰难前行。作者在此将阅读比作顺风航行，与后文大量航海意象形成呼应。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Las páginas de un libro abierto son las alas de un ave listas para llevarlo en su vuelo por selvas, desiertos, <strong>cordilleras</strong> de vuelta al paraíso y también a la Luna, a Marte, sin abandonar el sofá.",
+      "zh": "一本翻开的书，其页面便是鸟儿的双翼，随时准备带着读者飞越丛林、沙漠、山脉，重返天堂，也飞向月球、火星——而这一切都无需离开沙发。",
+      "vocab": [
+        {
+          "word": "cordilleras",
+          "translation": "山脉，山系",
+          "note": "来自『cordilla』（细绳），因山脉绵延如绳而得名，是西语中描述连绵山脉的专用词，区别于『montaña』（单座山）和『sierra』（锯齿状山脉）。在地理语境中，『la Cordillera de los Andes』（安第斯山脉）是最典型的用例。注意三个词的层级：『pico/cumbre』（山峰）→『sierra/cordillera』（山脉）→『macizo』（山地）。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "El <strong>lomo</strong> de un libro es la <strong>quilla</strong>, y las tapas abiertas son los costados de un barco que puede convertir al lector en explorador de mares nunca antes navegados, en capitán de piratas, en <strong>ballenero</strong>, en <strong>náufrago</strong> en una isla desierta, que, siempre acaba siendo la isla del tesoro.",
+      "zh": "书脊是龙骨，翻开的封面是船舷——这艘船能将读者变为从未有人航行过的海域的探险家、海盗船长、捕鲸人，或是荒岛上的遇难者，而那座荒岛，终将成为藏宝岛。",
+      "vocab": [
+        {
+          "word": "lomo",
+          "translation": "书脊；脊背；腰部",
+          "note": "本义为动物的『脊背、腰部』，在书籍语境中特指『书脊』（书本侧面可见书名的部分）。这是西语中典型的词义延伸：身体部位词汇被借用于描述物体的对应部位。类似用法：『lomo de cerdo』（猪里脊）、『a lomo de caballo』（骑在马背上）。"
+        },
+        {
+          "word": "quilla",
+          "translation": "龙骨（船底中央的纵向结构）",
+          "note": "航海术语，指船底中央贯穿船身的纵向骨架，是船体最重要的结构支撑，相当于船的『脊梁』。作者将书脊比作龙骨，是精妙的双重隐喻：书脊既是书的结构支撑，龙骨也是船的结构支撑。固定表达：『echar la quilla』（铺设龙骨，即开始建造船只）。"
+        },
+        {
+          "word": "ballenero",
+          "translation": "捕鲸人；捕鲸船",
+          "note": "来自『ballena』（鲸鱼），加后缀『-ero』构成，既可指职业（捕鲸人），也可指工具（捕鲸船）。『-ero』是西语中构成职业名词的高频后缀：『panadero』（面包师）、『marinero』（水手）、『carpintero』（木匠）。文中暗指赫尔曼·梅尔维尔的《白鲸》，是文学典故。"
+        },
+        {
+          "word": "náufrago",
+          "translation": "遇难者，海难幸存者",
+          "note": "来自动词『naufragar』（遭遇海难、沉船），指船只失事后的幸存者。文中『náufrago en una isla desierta』（荒岛遇难者）暗指笛福的《鲁滨逊漂流记》，『isla del tesoro』（藏宝岛）则暗指史蒂文森的同名小说，作者在此通过文学典故串联起西方经典冒险文学。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Con esa navegación o con ese vuelo puede <strong>remontar</strong> las aguas del curso del tiempo y volver a las dulces <strong>praderas</strong> de la inocencia, pero en ese retorno hacia el pasado cualquier lector puede detenerse en aquellos días que uno recuerda como los más felices de su vida.",
+      "zh": "借助这样的航行或飞翔，读者可以逆流而上，穿越时间的河道，重返纯真的甜美草原。但在这段回溯过去的旅途中，任何读者都可以驻足于那些被自己铭记为一生中最幸福的日子。",
+      "vocab": [
+        {
+          "word": "remontar",
+          "translation": "逆流而上；追溯；超越",
+          "note": "由前缀『re-』（向后、再次）加『montar』（登上、骑）构成，核心含义是『向上游追溯』。在本文中『remontar las aguas del curso del tiempo』（逆流而上穿越时间之河）是一个完整的隐喻，将时间比作河流。固定搭配：『remontar el vuelo』（重新起飞、东山再起）、『remontarse a』（追溯至某一时期）。"
+        },
+        {
+          "word": "praderas",
+          "translation": "草原，牧场，草地",
+          "note": "来自『prado』（草地），加后缀『-era』构成，指广阔的草地或牧场。在文学语境中，『praderas de la inocencia』（纯真的草原）是典型的田园诗意象，将童年纯真比作辽阔而宁静的草原。注意与『prado』的区别：『prado』通常指较小的草地，『pradera』指更广阔的草原地带。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Te preguntas cómo eran aquellos días. Por mi parte, los llevo muy asociados al placer de la lectura, que para la gente de mi generación fue a menudo un placer <strong>pecaminoso</strong>, pero a su vez nada tan excitante como que un librero amigo te abriera la <strong>trastienda</strong> donde se hallaban a tu <strong>merced</strong> los libros prohibidos por la censura.",
+      "zh": "你不禁自问，那些日子究竟是什么模样。就我而言，那些日子与阅读的乐趣紧密相连——对我这一代人来说，阅读往往是一种带有罪孽感的乐趣，但同时，没有什么比一位书商朋友为你打开后屋更令人兴奋，那里陈列着被审查机构查禁的书籍，任你取用。",
+      "vocab": [
+        {
+          "word": "pecaminoso",
+          "translation": "有罪的，充满罪孽感的，伤风败俗的",
+          "note": "来自名词『pecado』（罪孽、罪过），加后缀『-oso』构成形容词，意为『充满罪孽的』。『-oso』是构成『充满……的』含义的高频后缀：『peligroso』（危险的）、『maravilloso』（奇妙的）、『vergonzoso』（可耻的）。在弗朗哥时代的宗教道德语境下，『pecado』具有极强的政治色彩，作者在此刻意使用这一词汇，带有反讽意味。"
+        },
+        {
+          "word": "trastienda",
+          "translation": "后屋，店铺后间",
+          "note": "由『tras-』（在……之后）加『tienda』（店铺）构成，指商店后部的储藏或私密空间。在弗朗哥时代，书商将禁书藏于后屋是真实的历史现象，『trastienda』因此成为承载历史记忆的词汇。引申义：『tener mucha trastienda』（城府很深，暗指一个人表面之下隐藏着很多东西）。"
+        },
+        {
+          "word": "a tu merced",
+          "translation": "任你支配，由你处置",
+          "note": "固定表达，『merced』本义为『恩惠、怜悯』，『a merced de』意为『任凭……摆布』，通常含有被动、无助的意味（如『a merced del viento』，任风摆布）。但本文中『a tu merced』（任你取用）反转了主被动关系，暗示读者对这些禁书拥有完全的掌控权，带有一种解放感。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "En cierto modo, la dictadura tenía una ventaja, puesto que bajo su <strong>férrea</strong> moral eclesiástica cualquier placer se convertía en un arma de combate por la libertad. Qué maravillosos pecados aquellos que consistían en sentirse rebelde bañándose desnudo a la luz de la luna, navegando en aquel velero con los amigos bajo el sonido del viento en las velas y la voz de Melina Mercouri en alta mar.",
+      "zh": "从某种意义上说，独裁统治有一个优点：在其铁腕的教会道德之下，任何乐趣都变成了为自由而战的武器。多么美妙的罪孽啊——在月光下裸泳时感受到的那种反叛，在帆船上与朋友同行，耳边是风灌满风帆的声音，远洋之上飘荡着梅利娜·麦卡利的歌声。",
+      "vocab": [
+        {
+          "word": "férrea",
+          "translation": "铁腕的，铁一般的，严苛的",
+          "note": "来自拉丁语『ferreus』（铁制的），形容词『férreo』字面意为『铁的』，引申为『坚硬、严苛、不可动摇的』。固定搭配：『voluntad férrea』（钢铁意志）、『disciplina férrea』（铁的纪律）、『control férreo』（铁腕控制）。在描述独裁统治时，『puño de hierro/férreo』（铁拳）是标志性表达。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Para cometer pecados tan maravillosos como aquellos había que ser joven y tener la carne muy <strong>apretada</strong>. La lectura es un <strong>don</strong> apacible que te permite volver al paraíso a cualquier edad. Pero el lector puede que ahora encuentre allí bajo el árbol de la ciencia la serpiente que le tentará con la otra manzana de la inteligencia artificial.",
+      "zh": "要犯下如此美妙的罪孽，必须年轻，必须有紧实的血肉之躯。阅读是一份平静的天赋，让你在任何年龄都能重返天堂。但读者或许会发现，如今在知识之树下，那条蛇正等待着用人工智能这颗新苹果来诱惑他。",
+      "vocab": [
+        {
+          "word": "apretada",
+          "translation": "紧实的，紧绷的",
+          "note": "来自动词『apretar』（压紧、绷紧），形容词『apretado』在此形容年轻身体的紧实状态，是极具文学色彩的用法。作者用『tener la carne muy apretada』（有紧实的血肉）隐喻年轻活力，与后文『a cualquier edad』（任何年龄）形成对比，暗示阅读之乐不受年龄限制，超越了肉体的青春。"
+        },
+        {
+          "word": "don",
+          "translation": "天赋，恩赐，礼物",
+          "note": "来自拉丁语『donum』（礼物），在宗教语境中指上天赐予的恩典，在日常语境中指天赋或才能。固定搭配：『tener el don de』（拥有……的天赋）、『un don del cielo』（上天的恩赐）。注意与『Don』（尊称，如『Don Quijote』）的区别：前者为普通名词，后者为敬称，书写时大写。"
+        }
+      ]
+    }
+  ]
+}

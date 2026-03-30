@@ -1,0 +1,171 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会与人文",
+  "difficulty": "B2-C1",
+  "wordCount": "约750词",
+  "title": "Leproso",
+  "subtitle": "麻风病人",
+  "resumenEs": "La columnista Rosa Montero reflexiona sobre la brutalidad semántica y social de la palabra «leproso» a partir del libro Nuestro Dios privado, escrito por Lola Campos sobre la vida de su padre Juan, un profesor malagueño diagnosticado con lepra en 1962 y obligado a internarse en una leprosería. El texto recorre su historia: el abandono forzoso de su familia, los seis años de encierro, el regreso a una vida aparentemente normal pero marcada por el silencio, y el colapso final cuando sus compañeros de trabajo, enterados de su pasado, lo rechazaron en 1987. Juan Campos se suicidó en 1993. Montero denuncia el maltrato social histórico hacia los enfermos de lepra y recuerda que la enfermedad tiene cura desde 1981.",
+  "resumenZh": "专栏作家罗莎·蒙特罗以洛拉·坎波斯所著《我们私人的上帝》为引，反思「麻风病人」一词在语义和社会层面的残酷性。书中记录了洛拉的父亲胡安的人生：1962年，这位马拉加教师被确诊为麻风病，被迫离开家人，在疗养院度过六年，此后回归表面正常却充满沉默的生活，最终在1987年因同事得知其病史而遭到排斥，于1993年自杀。蒙特罗揭露了历史上对麻风病患者的社会虐待，并提醒读者：这种疾病自1981年起已可治愈。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Leproso. Qué brutalidad de palabra. Primero porque secuestra despectivamente a la persona bajo el nombre de una enfermedad, como si todo en ese individuo estuviera borrado por su padecimiento (no decimos canceroso, por ejemplo), y después porque se trata de una dolencia mítica, de un mal que se ha confundido durante siglos con el Mal como si tuviera algo demoniaco, de modo que las pobres víctimas del bacilo de Hansen (ese es el nombre técnico) no solo soportaban una dolencia atroz (dolorosa, deformante, mutiladora) y que fue incurable hasta 1981, sino que, por añadidura, sufrían un maltrato social espeluznante: han sido apaleados, perseguidos, expulsados del mundo, encerrados para siempre. Leproso. Un término traspasado por el sufrimiento.",
+      "zh": "麻风病人。这个词何其残暴。首先，它以轻蔑的方式用一种疾病的名称劫持了一个人，仿佛那个人身上的一切都被病痛抹去了（我们不会说「癌症人」，比如）；其次，这是一种带有神话色彩的疾病，几个世纪以来，它与「恶」混为一谈，仿佛带有某种魔鬼属性——以至于汉森杆菌（这是它的技术名称）的可怜受害者，不仅要承受一种骇人的病痛（痛苦、致畸、致残），而且直到1981年都无药可治；更有甚者，他们还要额外承受令人毛骨悚然的社会虐待：被殴打、被追捕、被驱逐出世界、被永久关押。麻风病人。一个被苦难刺穿的词。",
+      "vocab": [
+        {
+          "word": "por añadidura",
+          "translation": "更有甚者，此外，雪上加霜",
+          "note": "固定副词短语，来自动词『añadir』（添加），意为『在已有的（通常是负面的）事物之上再叠加』，强调额外的、锦上添花或雪上加霜的性质。语气比『además』更正式，且常带有负面叠加的含义。固定用法：『y, por añadidura』（而且，更糟糕的是）。在文学和评论文体中是替代『encima』『además』的高级选项。"
+        },
+        {
+          "word": "espeluznante",
+          "translation": "令人毛骨悚然的，骇人的",
+          "note": "来自『espeluznar』（使毛发竖立），由『pelo』（毛发）构词，字面意为『使毛发竖起』，引申为『极度恐怖或令人震惊』。注意『-ante』后缀将动词转化为形容词，表示『引发某种感受的』，是高产构词后缀：『inquietante』（令人不安的）、『perturbador』（令人困扰的）、『escalofriante』（令人不寒而栗的）。这组词在新闻报道中描述负面事件时极为常见。"
+        },
+        {
+          "word": "traspasado por",
+          "translation": "被……刺穿，充满……，渗透着",
+          "note": "来自动词『traspasar』（穿透、刺穿），由前缀『tras-』（穿越、超越）加『pasar』（经过）构成。在文学语境中，『traspasado por』是强烈的隐喻表达，意为『被某种情感或特质彻底渗透』。『tras-』是高产前缀：『traspasar』（穿透）、『trasnochar』（熬夜）、『trascender』（超越）。固定搭配：『traspasado de dolor』（痛苦至极）。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "\"Mi padre estuvo enfermo de lepra\", me escribió hace poco una lectora, Lola Campos. Unos meses antes de morir, el hombre redactó unas pocas páginas autobiográficas y le pidió a Lola que terminara su libro si él no podía. Han tenido que pasar 30 años para que ella cumpliera el mandato paterno, pero ahora lo ha hecho y lo ha sacado en Universo de Letras, la plataforma de autopublicación de Planeta. Se titula Nuestro Dios privado y es un texto poderoso y alucinante, un testimonio insólito que merecería mayor difusión.",
+      "zh": "「我父亲曾患麻风病，」不久前，一位名叫洛拉·坎波斯的读者写信告诉我。在去世前几个月，她父亲写下了几页自传性文字，并请洛拉在他无法完成时替他写完这本书。整整三十年过去，她才履行了父亲的嘱托，如今终于完成，并通过行星出版集团旗下的自出版平台「文字宇宙」出版。书名为《我们私人的上帝》，是一部有力而令人震撼的文本，一份罕见的见证，值得更广泛的传播。",
+      "vocab": [
+        {
+          "word": "mandato",
+          "translation": "嘱托，命令，使命，任期",
+          "note": "典型的一词多义词，需根据语境判断：①『嘱托、遗命』（本文含义，来自临终前的委托）；②『命令、指令』（政治或法律语境）；③『任期』（『mandato presidencial』总统任期）。来自动词『mandar』（命令、派遣），固定搭配：『cumplir el mandato』（履行使命/任期）、『mandato judicial』（司法令）。掌握此词可在政治、法律和人文报道中灵活运用。"
+        },
+        {
+          "word": "insólito",
+          "translation": "罕见的，异乎寻常的，前所未有的",
+          "note": "由前缀『in-』（否定）加『sólito』（惯常的，来自拉丁语『solitus』）构成，意为『不寻常的、罕见的』。『sólito』在现代西语中已基本不单独使用，『insólito』是其唯一常见形式，属于典型的「只存在否定形式」的词汇，类似英语『uncanny』。固定搭配：『un hecho insólito』（一件罕见的事）、『de forma insólita』（以异乎寻常的方式）。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Todo empezó en 1962, cuando Juan Campos, un profesor de Latín e Inglés de 29 años residente en Málaga, casado, con un embarazo en marcha, acudió al médico porque estaba muy fatigado. Tras una batería de pruebas, el conmovido doctor dictó sentencia: \"Hijo, tienes lepra. Tienes que abandonar tu trabajo, tu familia y tu vida para siempre e internarte en la leprosería de Trillo (Guadalajara). Has de hacerlo antes de 15 días o si no irá la Guardia Civil a llevarte\".",
+      "zh": "一切始于1962年。胡安·坎波斯，29岁，马拉加的一位拉丁语和英语教师，已婚，妻子正在怀孕，因极度疲倦前去就医。经过一系列检查后，神情悲痛的医生宣判道：「孩子，你得了麻风病。你必须永远放弃你的工作、家人和生活，去瓜达拉哈拉的特里略麻风病院住院。你必须在15天内完成，否则警察会来带走你。」",
+      "vocab": [
+        {
+          "word": "batería de pruebas",
+          "translation": "一系列检查，一套测试",
+          "note": "固定搭配，『batería』本义为『电池组、炮兵连』，引申为『一整套同类事物』。『una batería de』是描述『一系列同类项目』的高频表达：『batería de preguntas』（一连串问题）、『batería de medidas』（一揽子措施）、『batería de tests』（一套测试）。这一隐喻来自军事语境（炮兵连的齐射），体现了西语中军事词汇向日常语言迁移的规律。"
+        },
+        {
+          "word": "dictar sentencia",
+          "translation": "宣判，作出裁决",
+          "note": "法律固定搭配，字面意为『口述判决』，指法官正式宣布判决结果。本文中作者将医生的诊断比作法庭宣判，是极具力度的隐喻，暗示当时的诊断对患者而言如同死刑判决。同族词：『sentencia』（判决、格言）、『sentenciar』（判决）。固定搭配：『dictar sentencia』（宣判）、『cumplir condena』（服刑）、『apelar la sentencia』（上诉）。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "El horror que este diagnóstico provocaba se intuye en el hecho de que tanto la esposa como sus suegros le apoyaron, pero su propia madre lo repudió y lo echó de casa. Llegó Campos a Trillo en un marzo helador; nada más atravesar la cancela del recinto vio el cementerio, y pensó: \"De aquí no salgo ni muerto\".",
+      "zh": "这一诊断所引发的恐惧，从以下事实中可见一斑：妻子和岳父母都支持了他，但他的亲生母亲却将他拒之门外、赶出了家。坎波斯在一个寒冷的三月抵达特里略；刚一穿过院区的铁门，就看见了墓地，心想：「我就算死了也出不去这里。」",
+      "vocab": [
+        {
+          "word": "repudiar",
+          "translation": "拒绝承认，断绝关系，抛弃",
+          "note": "B2-C1高频词，来自拉丁语『repudiare』（拒绝、离弃），指正式且彻底地否认或断绝与某人的关系，带有强烈的道德谴责含义。比『rechazar』（拒绝）语气更强，强调公开的、不可挽回的切断关系。固定搭配：『repudiar a un hijo』（断绝与子女的关系）、『repudiar una herencia』（放弃遗产）、『repudiar una ideología』（谴责并拒绝某种意识形态）。"
+        },
+        {
+          "word": "nada más + 动词原形",
+          "translation": "一……就……，刚一……",
+          "note": "高频固定结构，『nada más』加动词原形表示『一个动作完成后立即发生另一个动作』，相当于英语『as soon as』或『the moment』。这是西语中表达时间紧接关系的最简洁结构之一：『nada más llegar』（一到就……）、『nada más verlo』（一看见他就……）。注意与『en cuanto』（一……就）的近义关系，两者可互换，但『nada más + 不定式』更口语化。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Pero sí salió, seis años después, porque los nuevos antibióticos rebajaban de tal modo la carga del bacilo que la enfermedad ya no era contagiosa. En 1968 regresó a su vida, aunque cada año tenía que pasar un mes en el hospital. Siguió teniendo hijos, hasta sumar nueve; cambió de trabajo y se hizo contable. En 1981 se descubrió que administrar un cóctel de tres fármacos durante un año acababa con la enfermedad, y desde esa fecha la OMS proporciona gratuitamente el tratamiento a quien lo precise. Así que la lepra se cura, pero Lola no lo ha sabido hasta ahora, cuando se ha puesto a investigar para escribir el libro.",
+      "zh": "但他确实出去了，六年之后，因为新型抗生素将杆菌载量降低到了疾病不再具有传染性的程度。1968年，他回归了自己的生活，尽管每年仍需在医院住上一个月。他继续生儿育女，最终共有九个孩子；他换了工作，成为一名会计。1981年，人们发现，连续一年服用三种药物的「鸡尾酒疗法」可以彻底治愈这种疾病，自那时起，世界卫生组织向所有需要的人免费提供治疗。所以，麻风病是可以治愈的——但洛拉直到现在，在开始为写这本书而调查研究时，才知道这件事。",
+      "vocab": [
+        {
+          "word": "rebajar",
+          "translation": "降低，减少，削减",
+          "note": "来自『bajo』（低），加前缀『re-』（再次、加强）构成，意为『使降低到更低的程度』。『re-』是西语中表示『重复或加强』的高产前缀：『rebajar』（降低）、『reducir』（减少）、『reforzar』（加强）。注意『rebajar』的多种用法：①降低数量/程度（本文含义）；②打折（『rebajar el precio』降价）；③贬低某人（『rebajar a alguien』贬低某人）。"
+        },
+        {
+          "word": "ponerse a + 动词原形",
+          "translation": "开始做……，着手……",
+          "note": "高频固定结构，表示『开始某一动作』，强调动作的启动时刻，相当于英语『to start doing』或『to set about doing』。与『empezar a』近义，但『ponerse a』更强调主动决定开始的那一瞬间，常带有某种决心或转变的含义。固定用法：『ponerse a trabajar』（开始工作）、『ponerse a llover』（开始下雨）、『ponerse a investigar』（着手调查）。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Leyéndolo adviertes que, bajo una apariencia de normalidad, la vida que llevaban era bastante rara. Los niños sabían lo de la lepra y tenían ir a Sanidad todos los años para hacerse dolorosas pruebas, con cortes en la oreja y raspado de heridas (salían todos llorando, cuenta Lola), pero de eso no se hablaba nunca, hasta el punto de no mencionar ni la curación. Hasta ahora, con el libro, no se han asomado de verdad a ese inmenso cráter de silencio.",
+      "zh": "读着这本书，你会意识到，在正常的表象之下，他们过的生活其实相当奇异。孩子们知道麻风病的事，每年都要去卫生部门接受痛苦的检查——耳朵上划口子、刮伤口（洛拉说，他们都是哭着出来的）——但这件事从来不被提起，甚至连治愈的消息也只字不提。直到现在，随着这本书的出版，他们才真正靠近了那个巨大的沉默火山口。",
+      "vocab": [
+        {
+          "word": "hasta el punto de",
+          "translation": "到了……的程度，甚至……",
+          "note": "高频固定搭配，用于强调某种行为或状态达到了极端程度，后接动词原形或名词。在论证性和叙述性文章中是表达程度递进的核心结构：『hasta el punto de no mencionar』（到了连……都不提的程度）。类似结构：『al punto de』（同义，更口语）、『al extremo de』（到了极端的程度，语气更强）。"
+        },
+        {
+          "word": "asomarse a",
+          "translation": "靠近，窥视，初步接触",
+          "note": "固定搭配，字面意为『探身靠近（窗口等）向外看』，引申为『初步接触或面对某事物』。本文中『asomarse a ese cráter de silencio』（靠近那个沉默的火山口）是极具文学张力的隐喻表达。固定用法：『asomarse a la ventana』（探身窗外）、『asomarse al abismo』（俯视深渊）、『asomarse a una realidad』（初步接触某种现实）。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "En 1987, Campos pidió la baja por primera vez por una gripe y en la oficina se enteraron de su pasado médico. Entraron en pánico: precintaron su despacho y le obligaron a jubilarse. Él intentó explicar que estaba curado, pero no escucharon. Ni uno solo de sus compañeros le llamó. Sus amigos y colegas de años. Leproso, ya digo.",
+      "zh": "1987年，坎波斯因流感第一次请病假，办公室里的人得知了他的病史。他们陷入恐慌：封锁了他的办公室，强迫他退休。他试图解释自己已经痊愈，但没有人听。他多年的朋友和同事，没有一个人打来电话。一个都没有。麻风病人，我说的就是这个。",
+      "vocab": [
+        {
+          "word": "pedir la baja",
+          "translation": "请病假，申请病休",
+          "note": "职场固定搭配，『baja』在劳动法语境中专指『病假或工伤假』，是西班牙职场报道中的核心词汇。固定搭配：『pedir/coger la baja』（请病假）、『estar de baja』（正在病休中）、『baja por maternidad/paternidad』（产假/陪产假）、『baja laboral』（工伤假）。注意『baja』的多义性：还可指『下降』『低音』『退出』等，需根据语境判断。"
+        },
+        {
+          "word": "precintar",
+          "translation": "封锁，贴封条，封存",
+          "note": "来自『precinto』（封条、封带），指用官方封条封闭某一空间或物品，使其无法进入或使用。在新闻报道中，『precintar』常出现在犯罪、灾难或行政处罚报道中：『precintar el local』（封闭场所）、『precintar la escena del crimen』（封锁犯罪现场）。本文中用于描述同事对坎波斯办公室的恐慌性封锁，具有强烈的讽刺效果。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Los fuertes fármacos habían destrozado su salud. A los 57 años y en apenas dos meses tuvo una hemorragia intracraneal y tres trombosis que dejaron secuelas de las que se recuperó dificultosamente. Para peor, cada vez que lo llevaban al hospital le volvían a poner medicación contra la lepra, innecesaria y sin duda un veneno para él. En 1993, a los 60 años, Juan Campos se suicidó. Y curiosamente ha sido al llegar a los 60 cuando su hija Lola ha decidido poner luz en las tinieblas y escribir este libro.",
+      "zh": "强效药物已经摧毁了他的健康。57岁时，仅在两个月内，他就经历了一次颅内出血和三次血栓，留下了难以恢复的后遗症。更糟糕的是，每次被送进医院，医生都会再次给他使用抗麻风药物——这是不必要的，无疑对他而言是毒药。1993年，60岁的胡安·坎波斯自杀了。而耐人寻味的是，正是在自己也迈入60岁之际，他的女儿洛拉决定在黑暗中点亮一盏灯，写下这本书。",
+      "vocab": [
+        {
+          "word": "secuelas",
+          "translation": "后遗症，后果，遗留影响",
+          "note": "来自拉丁语『sequela』（随之而来之物），指疾病、事故或创伤之后遗留的长期影响。在医学报道中，『secuelas』特指『后遗症』；在社会和政治报道中，引申为『某一事件的长期负面影响』：『las secuelas de la guerra』（战争的后遗症）、『secuelas psicológicas』（心理创伤）。注意与英语『sequel』（续集）是假朋友：英语侧重『续集、后续』，西语侧重『负面遗留影响』。"
+        },
+        {
+          "word": "poner luz en las tinieblas",
+          "translation": "在黑暗中点亮一盏灯，揭开黑暗",
+          "note": "文学性固定隐喻，『tinieblas』（黑暗、幽暗）来自拉丁语，在宗教和文学语境中常象征无知、压迫或被掩盖的真相。『poner luz en las tinieblas』意为『揭露被隐藏的事实、打破沉默』。注意『tinieblas』几乎只用于复数形式，且多出现于文学和宗教语境，在日常口语中较少使用。对应表达：『sacar a la luz』（公之于众）、『arrojar luz sobre』（阐明、揭示）。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Para ello ha ido al sanatorio de Fontilles (Alicante), la única leprosería que queda en Europa, centro de referencia mundial. Ha hablado con antiguos enfermos, que cuentan atrocidades, el maltrato indecible que han sufrido en este país. Es una historia subterránea, desconocida y chocante: hay otros mundos, pero están en este. Sigue habiendo lepra en el mundo, sobre todo en la India; en España, de 10 a 15 casos al año. Y se cura, aunque la gente se empeñe en ignorarlo.",
+      "zh": "为此，她前往阿利坎特的丰蒂耶斯疗养院——欧洲仅存的麻风病院，也是全球参考中心。她与昔日的患者交谈，他们讲述了种种暴行，讲述了在这个国家所遭受的难以言说的虐待。这是一段隐秘的、鲜为人知的、令人震惊的历史：还有其他世界，但它们就在这个世界之中。世界上仍有麻风病，主要在印度；西班牙每年有10至15例。而且可以治愈——尽管人们执意对此视而不见。",
+      "vocab": [
+        {
+          "word": "indecible",
+          "translation": "难以言说的，无法形容的",
+          "note": "由前缀『in-』（否定）加『decible』（可言说的，来自『decir』说）构成，意为『超出语言表达能力的』，常用于描述极端的痛苦或恐怖。注意这是『in-』否定前缀与动词派生形容词结合的典型示例，同类构词：『inimaginable』（难以想象的）、『indescriptible』（难以描述的）、『incomprensible』（难以理解的）。这类词在描述极端经历的报道中密集出现。"
+        },
+        {
+          "word": "empeñarse en",
+          "translation": "执意，坚持，一意孤行地",
+          "note": "固定搭配『empeñarse en + 动词原形』，来自『empeño』（执着、坚持），意为『固执地坚持做某事』，常带有负面含义，暗示这种坚持是不理性或有害的。注意与『insistir en』（坚持）的区别：『empeñarse en』更强调固执和不顾劝阻。固定搭配：『empeñarse en negar』（执意否认）、『a pesar de empeñarse』（尽管执意如此）。"
+        }
+      ]
+    }
+  ]
+}

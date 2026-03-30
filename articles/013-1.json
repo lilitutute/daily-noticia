@@ -1,0 +1,254 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会与人口",
+  "difficulty": "B2-C1",
+  "wordCount": "约800词",
+  "title": "2026 no será el año del colapso demográfico: ¿qué ha pasado realmente con la población mundial?",
+  "subtitle": "2026年不会是人口崩溃之年：世界人口究竟发生了什么？",
+  "resumenEs": "En 2026, la población mundial supera los 8.300 millones, lejos del colapso que predijo el artículo alarmista de 1960. La autora explica que el crecimiento continúa, pero a un ritmo cada vez más lento, gracias a la transición demográfica: la esperanza de vida ha aumentado hasta los 73,8 años, mientras la fecundidad ha caído a 2,2 hijos por mujer. El miedo a la superpoblación ha dado paso a la preocupación por el envejecimiento y el declive demográfico. Las proyecciones de la ONU apuntan a 10.180 millones en 2100, con un equilibrio frágil que dependerá del cambio climático y las migraciones.",
+  "resumenZh": "2026年，全球人口已超过83亿，与1960年那篇危言耸听的文章所预言的崩溃相去甚远。作者解释道，人口增长仍在持续，但速度越来越慢，这得益于人口转型：预期寿命已提升至73.8岁，而生育率已降至每名女性2.2个孩子。对人口过剩的恐惧已让位于对老龄化和人口衰退的担忧。联合国预测2100年人口将达到101.8亿，而这一脆弱平衡将取决于气候变化和移民动态。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "En 2026, el planeta ya supera los 8 300 millones de habitantes, según datos de la ONU. La cifra es elevada, pero muy alejada de aquel «crecimiento infinito» que se temía en los años sesenta, reflejado en artículos como Doomsday: Friday, 13 November, AD 2026. El viejo miedo a una <strong>superpoblación</strong> descontrolada ya no encaja con los datos. Pero ¿por qué?",
+      "zh": "据联合国数据，2026年地球人口已超过83亿。这一数字虽然庞大，但与六十年代人们所担忧的「无限增长」相去甚远——那种恐惧曾体现在《末日：公元2026年11月13日，星期五》等文章中。对失控的人口过剩的旧有恐惧已与现实数据不符。但这是为什么呢？",
+      "vocab": [
+        {
+          "word": "superpoblación",
+          "translation": "人口过剩，过度拥挤",
+          "note": "由前缀『super-』（超过、过度）加『población』（人口）构成，是本文的核心概念词。『super-』是西语中极高频的前缀，表示超越或过度：『superpotencia』（超级大国）、『supermercado』（超市）、『superávit』（财政盈余）。反义词为『despoblación』（人口稀少、人口流失）。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Hoy sabemos que, si bien la población mundial continúa aumentando, cada vez lo hace a un ritmo más moderado. Si observamos la evolución desde 1960, comprobamos que el número de habitantes se ha duplicado en poco más de medio siglo. El crecimiento ha sido siempre positivo, aunque no constante: tras alcanzar su punto <strong>álgido</strong>, el ritmo comenzó a descender alrededor de los años setenta, con una <strong>desaceleración</strong> más marcada en las últimas décadas. En otras palabras, seguimos creciendo, pero cada vez más despacio.",
+      "zh": "今天我们知道，尽管全球人口仍在持续增长，但增速越来越温和。观察自1960年以来的演变，我们发现人口数量在半个多世纪内翻了一番。增长始终为正，但并不稳定：在达到顶峰之后，增速在七十年代前后开始下降，近几十年来减速更为明显。换句话说，我们仍在增长，但速度越来越慢。",
+      "vocab": [
+        {
+          "word": "álgido",
+          "translation": "顶峰的，最高潮的",
+          "note": "本义来自拉丁语『algidus』（寒冷的），在医学中指高烧的极期，但在现代西语中已完全引申为『最高点、顶峰』，与原义几乎无关。固定搭配：『punto álgido』（顶峰、最高潮）是新闻和学术文体中的高频表达，需作为固定短语整体记忆，切勿从字面理解。"
+        },
+        {
+          "word": "desaceleración",
+          "translation": "减速，放缓",
+          "note": "由前缀『des-』（逆向）加『aceleración』（加速）构成，对应动词『desacelerar』（减速）。在经济和人口学报道中极为常见：『desaceleración económica』（经济放缓）、『desaceleración del crecimiento』（增长放缓）。注意与『deceleración』同义，两者可互换使用。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Las transiciones demográficas: clave para entender el cambio. Para entender estos cambios necesitamos introducir el término de <strong>transición demográfica</strong>, es decir, el proceso histórico por el cual las poblaciones pasan de tener altas tasas de <strong>natalidad</strong> y mortalidad –típicas de sociedades preindustriales– a bajas tasas de ambos conceptos.",
+      "zh": "人口转型：理解变化的关键。要理解这些变化，我们需要引入「人口转型」这一概念，即人口从具有高出生率和高死亡率——前工业社会的典型特征——过渡到两者均低的历史过程。",
+      "vocab": [
+        {
+          "word": "transición demográfica",
+          "translation": "人口转型",
+          "note": "人口学核心术语，指一个社会从高出生率、高死亡率向低出生率、低死亡率转变的历史过程，是理解本文所有论点的基础概念。『demográfico』来自希腊语『demos』（人民）加『graphos』（书写、记录），对应名词『demografía』（人口学）。"
+        },
+        {
+          "word": "natalidad",
+          "translation": "出生率",
+          "note": "来自『natal』（出生的），加后缀『-idad』构成抽象名词。注意区分本文中三个相关但不同的概念：『natalidad』（出生率，指每千人中的出生人数）、『fecundidad』（生育率，指每名女性平均生育子女数）、『mortalidad』（死亡率）。三者在人口学报道中需精确区分。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "La primera fase es una caída de la mortalidad, impulsada por los avances médicos y sanitarios. En una segunda fase se produce un descenso de la <strong>fecundidad</strong> por debajo del <strong>umbral de reemplazo</strong> (2,1 hijos por mujer), acompañado de profundos cambios sociales que retrasan la fecundación: retraso del matrimonio, aumento de los divorcios, mayor <strong>cohabitación</strong> y más nacimientos fuera del matrimonio. En muchos casos, los nacimientos son insuficientes para compensar las defunciones, y tiene lugar un crecimiento natural negativo.",
+      "zh": "第一阶段是死亡率的下降，由医疗和卫生领域的进步所推动。第二阶段则是生育率降至更替水平（每名女性2.1个孩子）以下，伴随着推迟生育的深刻社会变革：结婚年龄推迟、离婚率上升、同居现象增多以及婚外生育增加。在许多情况下，出生人数不足以弥补死亡人数，由此出现自然人口负增长。",
+      "vocab": [
+        {
+          "word": "fecundidad",
+          "translation": "生育率，育儿能力",
+          "note": "在人口学中特指『总和生育率』，即每名女性一生中平均生育的子女数。注意与『fertilidad』的区别：『fecundidad』是人口学统计概念（实际生育行为），『fertilidad』更偏向生理上的生育能力。本文中两者均指生育率，但『fecundidad』是学术规范用词。"
+        },
+        {
+          "word": "umbral de reemplazo",
+          "translation": "更替水平，人口替代率",
+          "note": "人口学术语，指维持人口规模不变所需的最低生育率，通常为每名女性2.1个孩子（考虑到婴儿死亡率等因素，略高于2）。『umbral』本义为『门槛』，在学术语境中引申为『临界值、最低标准』，固定搭配：『umbral de pobreza』（贫困线）、『umbral mínimo』（最低门槛）。"
+        },
+        {
+          "word": "cohabitación",
+          "translation": "同居，未婚共同生活",
+          "note": "由前缀『co-』（共同）加『habitación』（居住）构成，特指未婚伴侣共同生活的状态。『co-』是构成『共同』含义词汇的高频前缀：『coexistencia』（共存）、『cooperación』（合作）、『coautor』（共同作者）。在社会学报道中，『cohabitación』是描述家庭结构变化的核心词汇。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "La catástrofe maltusiana. El artículo alarmista de 1960, Doomsday: Friday, 13 November, AD 2026, se escribió en pleno auge de la primera transición demográfica, cuando las muertes descendían pero no la natalidad. A este hecho se sumaba un temor social a la superpoblación, alimentado también por las ideas de Thomas Malthus, quien aseguraba que la población humana crece en <strong>progresión geométrica</strong> (exponencialmente), mientras que los alimentos solo aumentan en <strong>progresión aritmética</strong> (linealmente).",
+      "zh": "马尔萨斯式灾难。1960年那篇危言耸听的文章《末日：公元2026年11月13日，星期五》，写于第一次人口转型的鼎盛时期，彼时死亡率在下降，但出生率尚未跟进。与此同时，社会对人口过剩的恐惧也在蔓延，这种恐惧部分源于托马斯·马尔萨斯的思想——他断言人口按几何级数（指数式）增长，而粮食供应只能按算术级数（线性）增加。",
+      "vocab": [
+        {
+          "word": "progresión geométrica",
+          "translation": "几何级数，等比数列",
+          "note": "数学术语，指每一项与前一项之比为常数的数列，如1、2、4、8、16……增长极为迅速。与之对应的『progresión aritmética』（算术级数/等差数列）指每项与前项之差为常数，如1、2、3、4、5……增长缓慢而线性。马尔萨斯理论的核心正是这两种增长速度之间的根本矛盾。"
+        },
+        {
+          "word": "progresión aritmética",
+          "translation": "算术级数，等差数列",
+          "note": "见上条注释。注意『aritmética』重音在第二个『e』：a-rit-**mé**-ti-ca，是西语学习者常见的重音错误。『aritmético』作形容词时意为『算术的、线性的』，在本文语境中与『geométrico』（指数的）构成核心对比。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Eso, anunciaba Malthus, conduce a que la población supere los recursos, causando miseria, <strong>hambrunas</strong>, guerras y epidemias para regularla, un fenómeno conocido como <strong>catástrofe maltusiana</strong>.",
+      "zh": "马尔萨斯预言，这将导致人口超过资源承载能力，从而引发贫困、饥荒、战争和瘟疫来加以调节，这一现象被称为「马尔萨斯式灾难」。",
+      "vocab": [
+        {
+          "word": "hambrunas",
+          "translation": "饥荒，大规模饥饿",
+          "note": "来自『hambre』（饥饿），加后缀『-una』构成，指大规模、持续性的粮食短缺和饥饿状态，比『hambre』语气更强，强调灾难性和集体性。注意区分：『hambre』（饥饿，个人或普遍状态）vs『hambruna』（饥荒，特指历史性灾难事件）。"
+        },
+        {
+          "word": "catástrofe maltusiana",
+          "translation": "马尔萨斯式灾难，马尔萨斯陷阱",
+          "note": "人口学和经济学术语，指马尔萨斯预言的人口增长超过粮食供应时引发的社会崩溃。形容词『maltusiano』由人名『Malthus』派生，西语中由人名派生形容词时通常加『-iano/-iana』：『marxista/marxiano』（马克思主义的）、『keynesiano』（凯恩斯主义的）、『darwiniano』（达尔文主义的）。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Nacimientos, defunciones y migraciones. La evolución de la población depende de los nacimientos, las <strong>defunciones</strong> y las migraciones. La combinación de estos tres fenómenos determina el crecimiento –o decrecimiento– de la población.",
+      "zh": "出生、死亡与迁移。人口演变取决于出生、死亡和迁移三大因素。这三种现象的组合决定了人口的增长——或减少。",
+      "vocab": [
+        {
+          "word": "defunciones",
+          "translation": "死亡（官方/统计用语），死亡人数",
+          "note": "『defunción』是『死亡』的正式行政和统计用语，来自拉丁语『defunctus』（已故的）。注意与其他同义词的语体差异：『muerte』（死亡，通用词）、『fallecimiento』（逝世，较正式但口语可用）、『defunción』（死亡，仅用于官方文件、统计数据和学术文体）。阅读人口学文章时需识别这一正式用法。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "En lo que se refiere a las defunciones, la <strong>esperanza de vida</strong> no ha dejado de aumentar en las últimas décadas. A nivel mundial, ha pasado de 47,8 años en 1960 a 73,8 años en 2026, lo que supone un incremento de casi 26 años, equivalente a unos 0,4 años adicionales por año. Las mujeres presentan sistemáticamente una mayor expectativa que los hombres, una <strong>brecha</strong> que ha crecido de unos 3 años a alrededor de 5 en la actualidad.",
+      "zh": "就死亡方面而言，近几十年来预期寿命持续提升。在全球范围内，从1960年的47.8岁增长到2026年的73.8岁，增加了近26年，相当于每年额外增加约0.4岁。女性的预期寿命系统性地高于男性，这一差距已从约3年扩大到目前的约5年。",
+      "vocab": [
+        {
+          "word": "esperanza de vida",
+          "translation": "预期寿命，平均寿命",
+          "note": "人口学核心术语，指在特定死亡率条件下，某一年龄的人平均还能存活的年数，通常指出生时的预期寿命（esperanza de vida al nacer）。注意『esperanza』本义为『希望』，在此完全固化为统计学术语，是西语中词义专业化的典型案例。"
+        },
+        {
+          "word": "brecha",
+          "translation": "差距，鸿沟，缺口",
+          "note": "本义为城墙或防线上被打开的『缺口』，引申为两个群体或数值之间的差距。在社会科学报道中极为高频：『brecha de género』（性别差距）、『brecha salarial』（薪酬差距）、『brecha digital』（数字鸿沟）。掌握此词可解锁大量社会议题类文章的核心词汇。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Si miramos por regiones, países como Japón, España o Suiza lideran los valores más altos, mientras que Nigeria, Chad o Sudán del Sur se sitúan en los más bajos, con hasta 30 años de diferencia.",
+      "zh": "从地区来看，日本、西班牙和瑞士等国位居最高值，而尼日利亚、乍得和南苏丹则处于最低水平，两者之间相差多达30年。",
+      "vocab": []
+    },
+    {
+      "id": 10,
+      "es": "Por el lado de los nacimientos, la baja fecundidad es ya una realidad consolidada, especialmente en los países occidentales. El <strong>índice sintético de fecundidad</strong> –que estima el número medio de hijos por mujer– ha caído de 4,7 en 1960 a 2,2 en 2026. De nuevo, las diferencias regionales son enormes: mientras países como China, Ucrania o Puerto Rico <strong>rondan</strong> el hijo por mujer, otros como Somalia, Malí o Chad superan los cinco.",
+      "zh": "在出生方面，低生育率已成为一个巩固的现实，尤其在西方国家。总和生育率——即估算每名女性平均生育子女数的指标——已从1960年的4.7降至2026年的2.2。地区差异依然巨大：中国、乌克兰或波多黎各等地每名女性生育子女数约为1个，而索马里、马里或乍得等国则超过5个。",
+      "vocab": [
+        {
+          "word": "índice sintético de fecundidad",
+          "translation": "总和生育率",
+          "note": "人口学核心指标，指假设一名女性按照某一年度各年龄组的生育率度过其育龄期，平均生育的子女总数。『sintético』在此意为『综合的、合成的』，即将不同年龄组数据综合计算的结果，而非实际追踪某一群体女性一生的生育数据。"
+        },
+        {
+          "word": "rondan",
+          "translation": "约为，徘徊在……左右",
+          "note": "动词『rondar』本义为『在某地附近游荡、巡逻』，引申为数值『在某个范围附近浮动』，是表达近似数值的地道口语表达。固定用法：『rondar los X años』（年龄约为X岁）、『rondar el X%』（约占X%）。比『aproximarse a』更口语化，在新闻报道中极为常见。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "El tercer elemento son las migraciones, cuyo impacto se ha intensificado en un mundo cada vez más global y conectado. A escala mundial, el <strong>saldo migratorio</strong> es un juego de suma cero –lo que pierde un territorio lo gana otro–. Pero a nivel regional las diferencias son claras: hay zonas netamente <strong>receptoras</strong> y otras <strong>expulsoras</strong> o emisoras de población. Estas dinámicas vienen muy condicionadas por las políticas migratorias de cada país.",
+      "zh": "第三个要素是迁移，在一个日益全球化和互联的世界中，其影响已不断加深。在全球范围内，净迁移量是一个零和游戏——一个地区失去的，另一个地区得到。但在地区层面，差异十分明显：有些地区是净接收地，另一些则是净输出地或人口外流地。这些动态在很大程度上受到各国移民政策的制约。",
+      "vocab": [
+        {
+          "word": "saldo migratorio",
+          "translation": "净迁移量，迁移净值",
+          "note": "人口学和经济学术语，『saldo』本义为会计中的『余额、差额』，『saldo migratorio』指一定时期内移入人口与移出人口之差。正值表示净流入，负值表示净流出。类似构词：『saldo comercial』（贸易差额）、『saldo positivo/negativo』（正/负余额）。"
+        },
+        {
+          "word": "receptoras",
+          "translation": "接收的，接纳的（移民接收地）",
+          "note": "来自动词『recibir』（接收），形容词『receptor/a』指接收方。在本文中『zonas receptoras』（接收地区）与『zonas expulsoras』（输出地区）构成核心对比。注意『receptor』在不同语境中的用法：『país receptor』（接收国）、『receptor de radio』（收音机）——需根据语境判断含义。"
+        },
+        {
+          "word": "expulsoras",
+          "translation": "输出的，驱逐的（人口外流地）",
+          "note": "来自动词『expulsar』（驱逐、排出），形容词『expulsor/a』指输出方。『expulsar』由前缀『ex-』（向外）加词根『pulsar』（推动）构成，字面意为『向外推』。固定搭配：『expulsar población』（人口外流）、『expulsar a alguien』（驱逐某人）。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "¿Por qué sigue creciendo la población? Surgen entonces dos preguntas clave. En primer lugar, ¿cómo puede aumentar la población mundial si la fecundidad no deja de caer? La respuesta está en el aumento de la esperanza de vida. Vivimos más tiempo, lo que hace que cada persona «cuente» durante más años en el total poblacional. Así, el descenso de la fecundidad no tiene un impacto inmediato tan fuerte como <strong>cabría esperar</strong>.",
+      "zh": "为什么人口仍在增长？由此产生两个关键问题。首先，如果生育率持续下降，全球人口为何还能增长？答案在于预期寿命的提升。我们活得更长，这使得每个人在总人口中「计入」的年数更多。因此，生育率的下降并不会像人们预期的那样产生立竿见影的强烈冲击。",
+      "vocab": [
+        {
+          "word": "cabría esperar",
+          "translation": "人们可能预期的，按理说应该……",
+          "note": "『caber』（容纳、可能）的条件式『cabría』加不定式，构成表示『按照逻辑或常理本应如此』的固定表达。『como cabría esperar』（如人们所预期的）是学术和新闻文体中的高频短语，用于引出与常识预期相符或相悖的结论。注意『caber』在此为情态动词用法，与『容纳』的本义无关。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "La segunda pregunta es si seguimos temiendo a la superpoblación. Aunque la población continúa creciendo, el ritmo se está estabilizando y la caída de la fecundidad ha reducido ese temor. De hecho, en muchos países el miedo ha cambiado de signo y en muchos territorios se ha transformado en preocupación por el <strong>declive demográfico</strong> y el <strong>envejecimiento</strong>.",
+      "zh": "第二个问题是，我们是否仍然担忧人口过剩。尽管人口仍在增长，但增速正在趋于稳定，生育率的下降已经减轻了这种担忧。事实上，在许多国家，这种恐惧已经改变了方向，在许多地区已转变为对人口衰退和老龄化的担忧。",
+      "vocab": [
+        {
+          "word": "declive demográfico",
+          "translation": "人口衰退，人口下降",
+          "note": "『declive』来自动词『declinar』（下降、衰退），比『descenso』（下降）语气更强，带有持续性衰退的含义。『declive demográfico』是当代欧洲政策讨论中的核心词汇，与『envejecimiento』（老龄化）和『despoblación』（人口流失）共同构成人口议题的三大关键词。"
+        },
+        {
+          "word": "envejecimiento",
+          "translation": "老龄化，老化",
+          "note": "来自动词『envejecer』（变老），名词『envejecimiento』在人口学中特指人口年龄结构向老年人口比例增大方向转变的过程。固定搭配：『envejecimiento de la población』（人口老龄化）、『envejecimiento activo』（积极老龄化，指保持健康活跃的老年生活方式）。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "Mirando al futuro. Según las <strong>proyecciones</strong> de Naciones Unidas, en 2100 la población mundial alcanzará los 10 180 millones de personas. La esperanza de vida seguirá aumentando hasta los 81,7 años, con una brecha de género inferior a los cuatro años. La fecundidad, por su parte, continuará descendiendo hasta situarse en torno a 1,84 hijos por mujer.",
+      "zh": "展望未来。根据联合国的预测，到2100年全球人口将达到101.8亿。预期寿命将继续提升至81.7岁，性别差距将缩小至不足四年。与此同时，生育率将继续下降，最终稳定在每名女性约1.84个孩子左右。",
+      "vocab": [
+        {
+          "word": "proyecciones",
+          "translation": "预测，预估（统计学用语）",
+          "note": "在统计和人口学语境中，『proyección』特指基于现有数据和假设对未来趋势的数学推算，比『predicción』（预言）更强调方法论的严谨性。注意区分：『proyección』（基于模型的定量预测）vs『pronóstico』（基于判断的预测）vs『predicción』（泛指预言）——三者在学术文体中语气和精确度不同。"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "es": "Ante este escenario, la cuestión no es solo si debemos preocuparnos por la superpoblación o por la desaparición de la población, sino si somos capaces de entender que, en una sociedad global como la actual, la reducción de la mortalidad y el aumento de la <strong>longevidad</strong> disminuyen la necesidad de un crecimiento basado exclusivamente en los nacimientos. Como ya ocurrió durante la primera transición demográfica, el equilibrio entre fecundidad, mortalidad y migraciones puede dar lugar a un crecimiento poblacional estable.",
+      "zh": "面对这一情景，问题不仅在于我们是否应该担忧人口过剩或人口消亡，而在于我们是否能够理解：在当今这样的全球化社会中，死亡率的降低和寿命的延长减少了单纯依赖出生人数来实现增长的必要性。正如第一次人口转型期间所发生的那样，生育率、死亡率和迁移之间的平衡可以带来稳定的人口增长。",
+      "vocab": [
+        {
+          "word": "longevidad",
+          "translation": "长寿，寿命延长",
+          "note": "来自拉丁语『longus』（长）加『vita』（生命），指个体或群体的长寿状态或寿命延长的趋势。与『esperanza de vida』（预期寿命，统计指标）的区别在于：『longevidad』更强调长寿这一现象本身，而非具体数值。固定搭配：『aumento de la longevidad』（寿命延长）、『longevidad saludable』（健康长寿）。"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "es": "Eso sí, este equilibrio dependerá de factores clave que habrá que seguir muy de cerca, como el cambio climático, capaz de afectar tanto a la mortalidad como a los movimientos migratorios en las próximas décadas.",
+      "zh": "当然，这种平衡将取决于一些需要密切关注的关键因素，例如气候变化——它有能力在未来几十年内同时影响死亡率和移民动态。",
+      "vocab": [
+        {
+          "word": "eso sí",
+          "translation": "当然，不过，话虽如此",
+          "note": "固定口语连接词，用于在肯定前文的同时引入一个重要的限制条件或补充说明，相当于英语『that said』或『however』，但语气比『sin embargo』更轻，更口语化。在书面语中也常见，起到转折但不否定前文的作用。务必作为整体记忆，不可拆分理解。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "文化与社会",
+  "difficulty": "B2-C1",
+  "wordCount": "约800词",
+  "title": "Cómo explicarte este mundo en guerra",
+  "subtitle": "如何向你解释这个战火中的世界",
+  "resumenEs": "Una madre reflexiona sobre cómo explicarle a su hijo los conflictos del mundo —Irán, Palestina, las dictaduras— sin abrumarlo ni silenciarlo. Su estrategia: el arte y la ficción como puente hacia la empatía. A través de novelas gráficas, películas y conversaciones honestas, descubre que los libros pueden decir lo que los adultos no saben cómo articular. Concluye con una defensa de la honestidad intergeneracional: es injusto sobreproteger a los niños de una verdad que ya se está llevando a otros niños de su misma edad.",
+  "resumenZh": "一位母亲思考如何向儿子解释世界上的冲突——伊朗、巴勒斯坦、独裁统治——既不让他不知所措，也不沉默回避。她的策略是：以艺术和虚构作为通往共情的桥梁。通过图像小说、电影和坦诚的对话，她发现书籍能够说出大人不知如何表达的话。文章以一种代际诚实的呼吁作结：当真相正在夺走与孩子同龄的其他孩子的生命时，对孩子过度保护是不公平的。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "No veo las noticias delante de él, pero ese mediodía, la televisión estaba puesta y él jugaba con sus construcciones, de rodillas sobre la alfombra del salón, de espaldas a la pantalla, mientras yo hacía la comida. Llegó después la noche y me preguntó qué es Irán, qué pasa en Irán, mamá. Cómo se lo explico, me quedé pensando, o me callo, si ni yo misma acabo de llegar al fondo.",
+      "zh": "我不在他面前看新闻，但那天中午，电视开着，他跪在客厅地毯上玩积木，背对着屏幕，而我在做饭。到了晚上，他问我伊朗是什么，伊朗发生了什么，妈妈。我该怎么解释，我陷入沉思，或者干脆沉默，毕竟连我自己都还没有真正看透这件事。",
+      "vocab": [
+        {
+          "word": "de espaldas a",
+          "translation": "背对着，背朝着",
+          "note": "固定介词短语，『espalda』（背部）构成的方位表达。对应的反义表达为『de cara a』（面对着）。两者在描述人物位置和态度时均高频出现，且常用于隐喻：『dar la espalda a』（背弃、漠视）、『de cara al futuro』（面向未来）。掌握这对反义结构可大幅提升描述性写作的精确度。"
+        },
+        {
+          "word": "llegar al fondo",
+          "translation": "触及本质，彻底搞清楚，看透",
+          "note": "固定搭配，字面意为『到达底部』，引申为『彻底理解某事的本质』。『fondo』是西语中极具迁移价值的多义词：①『底部、深处』（el fondo del mar，海底）；②『本质、实质』（en el fondo，说到底）；③『背景』（en segundo plano/fondo，在背景中）。固定搭配：『ir al fondo de la cuestión』（深入问题核心）。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Recordé entonces el titular de una entrevista que había pasado por mi mano en estos días de atrás. Decía la escritora iraní Mahsa Mohebali, una mujer que ha estado sometida a interrogatorios y vigilancia y cuyos libros están prohibidos, que los europeos no entienden la situación de los iraníes. Pensé en los libros iraníes que había leído, muy pocos, pero me acordé de uno en concreto y me fui a buscarlo por las estanterías: era la novela gráfica Persépolis, de Marjane Satrapi. Ella se lo iba a contar.",
+      "zh": "我随即想起了前些天经手的一篇采访标题。伊朗作家玛莎·莫赫巴利——一位曾遭受审讯和监控、著作被列为禁书的女性——说，欧洲人不理解伊朗人的处境。我想起了自己读过的伊朗书籍，寥寥无几，但想起了其中一本，便起身去书架上找：那是玛赞·莎塔碧的图像小说《波斯波利斯》。就让她来讲吧。",
+      "vocab": [
+        {
+          "word": "pasar por la mano",
+          "translation": "经手，经过手头，接触到",
+          "note": "口语化固定搭配，字面意为『从手边经过』，指某物曾短暂经过自己手中或视野，不一定深入处理。这一表达体现了西语中用身体部位构成动词短语的典型规律：『pasar por la cabeza』（脑海中闪过）、『tener entre manos』（手头正在处理）、『traer entre manos』（在策划某事）。"
+        },
+        {
+          "word": "sometida a",
+          "translation": "遭受，处于……之下，被迫承受",
+          "note": "固定搭配『estar sometido/a a』，来自动词『someter』（使服从、使承受），表示被动地处于某种压力、控制或程序之下。在新闻报道中极为常见：『sometido a juicio』（受审）、『sometido a presión』（承受压力）、『sometido a vigilancia』（处于监控之下）。注意与『sujeto a』（受……约束）的近义关系。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Entendió el libro (casi) perfectamente, y yo pude hablarle, hasta donde sé, de lo qué está pasando ahora. Me sirvió para nombrar otras represiones, otras dictaduras, de lo que pasa con las mujeres en Irán, del velo, hablamos de Estados Unidos, donde vive su tía; me sirvió a mí para recordar. Esos niños de Irán son niños como tú y tus compañeros. Por si hacía falta recordárselo. Esos niños y niñas de Palestina también tenían una escuela y una casa. Muchos de ellos tenían también una familia. Otros, ya no están.",
+      "zh": "他（几乎）完全读懂了这本书，而我也得以在自己所知的范围内，向他讲述现在正在发生的事。这本书帮我说出了其他的镇压、其他的独裁，说出了伊朗女性的处境、头巾问题；我们谈到了美国，他的姑姑住在那里；这本书也帮我自己重新记起了这些。伊朗的那些孩子，和你和你的同学一样，也是孩子。以防需要提醒他这一点。巴勒斯坦的那些男孩女孩，也曾有学校，有家。他们中的许多人，也曾有家人。还有一些，已经不在了。",
+      "vocab": [
+        {
+          "word": "servirle para",
+          "translation": "帮助……做到，使……得以，有助于",
+          "note": "固定搭配『servir para + 动词原形』，意为『有助于实现某目的』，是表达工具性功能的高频结构。注意『servir』的多种固定搭配：『servir de』（充当、作为，如『servir de ejemplo』充当例子）、『servir para』（有助于、用于）、『no sirve de nada』（毫无用处）。三种结构含义相近但介词不同，需加以区分。"
+        },
+        {
+          "word": "represión",
+          "translation": "镇压，压制，打压",
+          "note": "来自动词『reprimir』（压制、镇压），加后缀『-ión』构成名词。『-ión』是西语中将动词转化为名词的最高产后缀之一，对应英语『-ion』：『represión』、『opresión』（压迫）、『supresión』（压制）构成一组近义词族，在政治报道中需精确区分：『represión』强调以暴力或强制手段压制异见，『opresión』强调长期系统性的压迫状态。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Por la ventana de nuestra cocina, cuando nos sentamos a comer, vemos la ecléctica casa del Canto del Pico allá en la colina, como un vigía de nuestro pueblo, la casa que Franco heredó del conde de las Almenas para utilizarla como sitio de veraneo y fines de semana. Qué es ese castillo, preguntó cuando tenía cinco años. Era tan fácil poner a una bruja allí arriba. La casa de Franco, le respondí, que es como la llamamos aquí. ¿Y ese quién es? Y se lo tuve que contar.",
+      "zh": "从我们厨房的窗户望去，每当我们坐下来吃饭，就能看到山丘上那座风格混搭的坎托德尔皮科别墅，像是我们小镇的哨兵——那是佛朗哥从阿尔梅纳斯伯爵手中继承、用作避暑和周末休闲的宅邸。那个城堡是什么？他五岁时问道。把一个女巫安置在那上面，本来是那么容易的事。「佛朗哥的家，」我回答，「这里的人都这么叫它。」「那个人是谁？」我只好告诉他。",
+      "vocab": [
+        {
+          "word": "vigía",
+          "translation": "哨兵，瞭望者，守望者",
+          "note": "来自动词『vigilar』（监视、守望），指负责瞭望或警戒的人，也可指瞭望台本身。在文学语境中常用作隐喻，如本文将山丘上的建筑比作『vigía del pueblo』（小镇的守望者）。同族词：『vigilancia』（监视）、『vigilante』（警卫）、『vigilia』（守夜）。词根『vigil-』来自拉丁语，与英语『vigilant』同源。"
+        },
+        {
+          "word": "heredar",
+          "translation": "继承，遗传，承接",
+          "note": "动词『heredar』来自『herencia』（遗产、遗传），在法律语境中指继承财产，在生物学语境中指遗传特征，在文化语境中指承接传统。固定搭配：『heredar de』（从……继承）、『dejar en herencia』（作为遗产留下）。注意同族词：『heredero/a』（继承人）、『herencia』（遗产）、『desheredar』（剥夺继承权）。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Unos años después, vimos La lengua de las mariposas. Claro que lloró cuando apedreaban al maestro, y yo también, otra vez. ¿Te acuerdas de Franco, el de la casa?, le pregunté. Esta historia es en su guerra. Vimos también Machuca, una película chilena de tres niños de Santiago que se hacen amigos. Dos vienen de los suburbios; el otro, de una familia con dinero. Son los tiempos del golpe de Estado de Pinochet en Chile. Algo de todo aquello quedó en él, aunque solo fuera ese beso primero que se dan en los arrabales junto a las bicicletas.",
+      "zh": "几年后，我们看了《蝴蝶的舌头》。当人们用石头砸那位老师时，他当然哭了，我也再次落泪。「你还记得佛朗哥，那个住在那栋房子里的人吗？」我问他。「这个故事就发生在他的战争里。」我们还看了《马楚卡》，一部讲述圣地亚哥三个孩子成为朋友的智利电影。两个来自贫民区，另一个来自有钱人家。故事发生在皮诺切特政变的年代。那一切在他心里留下了些什么，哪怕只是他们在贫民区的自行车旁初吻的那一幕。",
+      "vocab": [
+        {
+          "word": "apedrear",
+          "translation": "用石头砸，投石",
+          "note": "由『piedra』（石头）加动词化后缀『-ear』构成，意为『用石头投掷、袭击』。『-ear』是西语中将名词转化为动词的高产后缀，通常表示『用该名词所指之物进行动作』：『golpear』（打击）、『patear』（踢）、『martillear』（锤击）。这一构词规律在西语中极为普遍，掌握后可类推大量动词。"
+        },
+        {
+          "word": "arrabales",
+          "translation": "城郊贫民区，城市边缘地带",
+          "note": "来自阿拉伯语『rabad』（城郊），指城市边缘的贫困聚居区，带有社会阶层的隐含意义，比『suburbios』（郊区）更强调贫困和边缘化。在拉丁美洲文学和社会报道中，『arrabal』承载着丰富的文化内涵，与探戈文化、城市贫困和社会流动性密切相关。注意其阿拉伯语词源，西语中大量词汇来自阿拉伯语，如『alcalde』（市长）、『almohada』（枕头）。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Vimos Cuenta conmigo, aquella película de los ochenta sobre cuatro amigos de 12 años que se van en busca de un cadáver y caminan por las vías del tren, y no podía comprender el destino marcado en uno de ellos por los prejuicios de clase. A veces, es difícil explicarnos, sobre todo, cuando se tienen que señalar los privilegios propios que llevamos encima. Y cuando estamos hablando de todo esto desde el Norte Global donde se levanta nuestra casa.",
+      "zh": "我们看了《伴我同行》，那部八十年代的电影，讲述四个十二岁的朋友去寻找一具尸体、沿着铁轨行走的故事，他无法理解其中一个孩子被阶级偏见所注定的命运。有时候，解释起来很难，尤其是当我们不得不指出自己身上所携带的特权时。更何况，我们是在「全球北方」这个我们家所在的地方谈论这一切。",
+      "vocab": [
+        {
+          "word": "prejuicios de clase",
+          "translation": "阶级偏见",
+          "note": "高频社会学固定搭配，『prejuicio』由前缀『pre-』（预先）加『juicio』（判断）构成，字面意为『预先形成的判断』，即偏见。『pre-』是构成「预先、事先」含义的高产前缀：『predecir』（预测）、『prever』（预见）、『predisponer』（使预先倾向于）。固定搭配：『tener prejuicios』（持有偏见）、『prejuicios raciales/de género』（种族/性别偏见）。"
+        },
+        {
+          "word": "llevar encima",
+          "translation": "随身携带，背负着，身上带着",
+          "note": "固定口语搭配，字面意为『在身上携带』，引申为『随时背负着某种（有形或无形的）东西』。本文中『los privilegios que llevamos encima』（我们身上所携带的特权）是极具力度的隐喻表达，将特权比作随身携带之物，暗示其无处不在且难以摆脱。类似用法：『llevar encima una carga』（背负重担）、『no llevar encima nada de dinero』（身上没带钱）。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Si un niño pregunta algo es porque está preparado para escuchar una respuesta, aunque se tenga que rebajar la complejidad de acuerdo a su edad y se tengan que utilizar otras palabras. No hay que abrumarle, ni hay que responder más que a lo que ha preguntado. Ya llegarán otras cuestiones después, no hay que enredarse y hacer explícita la violencia inexplicable, no hay que darle gravedad a lo que no la tiene y sí a lo que mueve el mundo. Transmitir que existe la duda es igual o más importante que darle una certeza que no tienes.",
+      "zh": "一个孩子提问，是因为他已经准备好听到答案，尽管需要根据他的年龄降低复杂度，使用不同的语言。不要让他不知所措，也不要回答超出他所问的范围。其他问题以后自然会来，不必纠缠其中，不必将那些无法解释的暴力明确说出，不必给无足轻重之事赋予沉重感，而要给那些真正推动世界运转的事以应有的分量。传达出疑惑的存在，与给出一个你自己都没有的确定答案同等重要，甚至更重要。",
+      "vocab": [
+        {
+          "word": "abrumar",
+          "translation": "使不知所措，使不堪重负，压垮",
+          "note": "B2-C1高频词，来自古语『abruma』（浓雾），引申为『用过多信息或压力使人喘不过气』。固定搭配：『abrumar con información』（用信息轰炸）、『abrumar con preguntas』（用问题压垮）、『sentirse abrumado/a』（感到不堪重负）。注意其情感强度：比『agobiar』（使烦恼）更强，接近『overwhelm』的英语含义。"
+        },
+        {
+          "word": "enredarse",
+          "translation": "纠缠其中，陷入混乱，把事情搞复杂",
+          "note": "来自『red』（网），动词『enredar』字面意为『用网缠住』，引申为『使陷入复杂或混乱的局面』。反身形式『enredarse』意为『自己陷入纠缠』。同族词：『enredo』（纠纷、乱局）、『desenredar』（解开、理清）。固定搭配：『enredarse en detalles』（纠缠于细节）、『enredarse en una discusión』（陷入争论）。『des-』前缀在此表示逆转动作，是高产构词前缀。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Y el adulto también tiene que prepararse para la conmoción que ese relato puede suscitar. Porque es, quizá, por eso, por lo que, muchas veces, no respondemos con la realidad. Los libros, las películas, el arte en general, aquello que se crea con la intención de traducir la complejidad contemporánea o la pasada bajo las palabras o las formas exactas de una mirada concreta, ayudan a entender. Generan empatía y emoción, y la emoción es un rayo que no nos deja igual después de haber leído, de habernos conmovido en el cine, del temblor que puede provocar una composición.",
+      "zh": "大人也必须做好准备，迎接那段叙述可能在自己内心激起的震动。也许正是因为这个原因，我们很多时候无法如实回答。书籍、电影、艺术——那些以翻译当代或过去的复杂性为目的而创作的东西，以某种具体视角的精确语言或形式呈现——有助于理解。它们产生共情与情感，而情感是一道闪电，读完之后、在电影院被打动之后、被一首乐曲的颤动触及之后，让我们再也不是原来的自己。",
+      "vocab": [
+        {
+          "word": "suscitar",
+          "translation": "激起，引发，唤起",
+          "note": "B2-C1高频学术词汇，来自拉丁语『suscitare』（唤起、激起），意为『引发某种反应、情绪或讨论』。比『provocar』（引发）更正式，常用于描述抽象反应。固定搭配：『suscitar debate』（引发辩论）、『suscitar interés』（激起兴趣）、『suscitar dudas』（引发疑虑）。在新闻评论和学术写作中是替代『generar』『provocar』的高级选项。"
+        },
+        {
+          "word": "conmoción",
+          "translation": "震动，强烈冲击，内心震撼",
+          "note": "来自动词『conmover』（打动、震撼），加后缀『-ción』构成名词。注意『conmover』是典型的一词多义词：①情感层面『深深打动』（『me conmovió su historia』他的故事深深打动了我）；②物理层面『震动、撼动』。同族词：『conmovedor/a』（令人动容的）、『conmocionado/a』（受到强烈冲击的）。与英语『commotion』是假朋友：英语侧重『骚乱』，西语侧重『内心震撼』。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Por eso, la ficción, la historia de un solo niño, se convierte en la historia de todos los niños de ese país. Ana Frank, La vida es bella, el Guernica, Imagine. Porque la televisión, las redes, todas esas pantallas encendidas constantemente en todas partes, las conversaciones, los exponen a una violencia brutal y normalizada que ellos tampoco están preparados para digerir si después no sabemos armar un contexto y señalarles un país en el globo terráqueo que hay en su habitación. Al fin y al cabo, este también es su mundo, es ya más su mundo que el nuestro. Y es injusto sobreprotegerlos de la verdad cuando esa verdad se lleva a otros niños y niñas de su misma edad por delante.",
+      "zh": "正因如此，虚构作品——一个孩子的故事——变成了那个国家所有孩子的故事。安妮·弗兰克、《美丽人生》、《格尔尼卡》、《想象》。因为电视、社交网络、那些无处不在、时刻亮着的屏幕，还有各种对话，将孩子们暴露在一种粗暴而被正常化的暴力之中——如果我们事后不知道如何构建语境、不知道在他们房间里的地球仪上指出那个国家，他们同样无法消化这一切。归根结底，这也是他们的世界，而且已经比我们的世界更属于他们。当真相正在夺走与他们同龄的其他孩子的生命时，对他们过度保护、不让他们接触真相，是不公平的。",
+      "vocab": [
+        {
+          "word": "armar un contexto",
+          "translation": "构建语境，搭建背景框架",
+          "note": "固定搭配，『armar』本义为『武装、组装』，在此引申为『搭建、构建』。『armar』是一个构词价值极高的动词：『armar』（组装）→『desarmar』（拆解、解除武装）→『rearmar』（重新武装）。固定搭配：『armar un argumento』（构建论点）、『armar un equipo』（组建团队）、『armar lío/follón』（口语，制造混乱）。"
+        },
+        {
+          "word": "llevarse por delante",
+          "translation": "夺走，带走，碾压",
+          "note": "固定口语搭配，字面意为『从前面带走』，引申为『夺走生命、摧毁、碾压』，常用于描述死亡、灾难或不可抗力造成的损失。本文结尾『la verdad se lleva a otros niños por delante』（真相正在夺走其他孩子的生命）是全文情感最强烈的表达。类似用法：『el accidente se llevó por delante a tres personas』（事故夺走了三人的生命）。"
+        }
+      ]
+    }
+  ]
+}
