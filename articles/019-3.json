@@ -8,112 +8,106 @@
   "subtitle": "特里亚纳的无声驱逐 / 关于照镜子 / 信息让你自由……还是让你变成杠精",
   "resumenEs": "Tres cartas al director publicadas en un periódico español abordan temas de actualidad desde perspectivas personales: la primera denuncia la gentrificación en el barrio sevillano de Triana y el abandono institucional de los inquilinos maduros y precarios; la segunda critica con ironía la intención de EE UU de investigar la ley de eutanasia española, señalando las contradicciones del propio sistema estadounidense; la tercera relata cómo un padre cuestionó el diagnóstico de la pediatra apoyándose en ChatGPT, reflexionando sobre el mal uso de la inteligencia artificial como sustituto del criterio médico.",
   "resumenZh": "三封刊登于西班牙报纸的读者来信，从个人视角出发，各自聚焦一个时事议题：第一封揭露塞维利亚特里亚纳街区的绅士化现象，以及机构对中年困难租户的忽视；第二封以讽刺笔调批评美国欲调查西班牙安乐死法律一事，指出美国自身体制的重重矛盾；第三封讲述一位父亲用ChatGPT质疑儿科医生诊断的经历，引发对人工智能被滥用为医学专业替代品的反思。",
-  "letters": [
+  "paragraphs": [
     {
-      "letterNumber": 1,
-      "title": "El desahucio silencioso de Triana",
-      "titleZh": "特里亚纳的无声驱逐",
-      "author": "Patricia González Arranz",
-      "location": "Sevilla",
-      "paragraphs": [
+      "id": 1,
+      "isSectionHeader": true,
+      "es": "Carta 1 · El desahucio silencioso de Triana — Patricia González Arranz (Sevilla)",
+      "zh": "第一封 · 特里亚纳的无声驱逐 — Patricia González Arranz（塞维利亚）",
+      "vocab": []
+    },
+    {
+      "id": 2,
+      "es": "Escribo con la impotencia de quien, tras vivir en el barrio sevillano de Triana más de un tercio de su vida, se siente ahora expulsada de su raíz. Llevo 10 años como profesora <strong>interina</strong> y, a mis 45 años, la especulación me <strong>arranca</strong> de mis calles. Mi casero sube el alquiler más de 200 euros porque \"pierde dinero\" frente a lo que pagarían parejas o extranjeros. Para una mujer soltera de familia obrera, sin avales ni herencias, el alquiler es una <strong>soga</strong> y la compra una utopía. Duele el abandono institucional: el Bono Cultural Joven me ignora por mi edad y las ayudas olvidan a los inquilinos maduros. Somos invisibles: demasiado mayores para recibir apoyo y demasiado precarios para acceder a una vivienda digna, ese derecho que el Artículo 47 de la Constitución parece haber olvidado para nosotros. En pleno año de oposiciones, pierdo mi autonomía y vuelvo a casa de mi madre, quien debe alquilar habitaciones para subsistir. Señores políticos, es urgente regular los precios. Si no frenan esta locura, tendrán barrios de postal, pero vacíos de sevillanos. Triana se convierte en un <strong>escaparate</strong> de lujo donde quienes le damos vida ya no tenemos sitio.",
+      "zh": "我怀着一种无力感写下这封信——在塞维利亚特里亚纳街区生活了人生三分之一以上的时光之后，我如今感到自己正被连根拔起。我做了10年的临时教师，如今45岁，房产投机将我从自己熟悉的街道上驱走。房东把租金涨了200多欧元，理由是与其租给我，不如租给情侣或外国人，否则他就是在『亏本』。对于一个出身工人家庭、没有担保人也没有遗产可继承的单身女性而言，租房是一根套在脖子上的绳索，买房则是一个遥不可及的乌托邦。机构的遗弃令人心痛：青年文化补贴因我的年龄将我拒之门外，各类援助又将成年租户遗忘在角落。我们是隐形人：太老，得不到支持；太穷，无力获得体面住房——那个《宪法》第47条所保障的权利，对我们而言似乎早已成为一纸空文。正值备考公务员考试的关键之年，我失去了独立生活的能力，不得不回到母亲家中，而她自己也要靠出租房间才能维持生计。各位政界人士，规范房价已迫在眉睫。如果你们不遏制这场疯狂，你们将拥有明信片上的街区，却再也看不到塞维利亚人的身影。特里亚纳正在变成一个奢华的橱窗，而那些赋予它生命的人，已经没有了立锥之地。",
+      "vocab": [
         {
-          "id": 1,
-          "es": "Escribo con la impotencia de quien, tras vivir en el barrio sevillano de Triana más de un tercio de su vida, se siente ahora expulsada de su raíz. Llevo 10 años como profesora <strong>interina</strong> y, a mis 45 años, la especulación me <strong>arranca</strong> de mis calles. Mi casero sube el alquiler más de 200 euros porque \"pierde dinero\" frente a lo que pagarían parejas o extranjeros. Para una mujer soltera de familia obrera, sin avales ni herencias, el alquiler es una <strong>soga</strong> y la compra una utopía. Duele el abandono institucional: el Bono Cultural Joven me ignora por mi edad y las ayudas olvidan a los inquilinos maduros. Somos invisibles: demasiado mayores para recibir apoyo y demasiado precarios para acceder a una vivienda digna, ese derecho que el Artículo 47 de la Constitución parece haber olvidado para nosotros. En pleno año de oposiciones, pierdo mi autonomía y vuelvo a casa de mi madre, quien debe alquilar habitaciones para subsistir. Señores políticos, es urgente regular los precios. Si no frenan esta locura, tendrán barrios de postal, pero vacíos de sevillanos. Triana se convierte en un <strong>escaparate</strong> de lujo donde quienes le damos vida ya no tenemos sitio.",
-          "zh": "我怀着一种无力感写下这封信——在塞维利亚特里亚纳街区生活了人生三分之一以上的时光之后，我如今感到自己正被连根拔起。我做了10年的临时教师，如今45岁，房产投机将我从自己熟悉的街道上驱走。房东把租金涨了200多欧元，理由是与其租给我，不如租给情侣或外国人，否则他就是在『亏本』。对于一个出身工人家庭、没有担保人也没有遗产可继承的单身女性而言，租房是一根套在脖子上的绳索，买房则是一个遥不可及的乌托邦。机构的遗弃令人心痛：青年文化补贴因我的年龄将我拒之门外，各类援助又将成年租户遗忘在角落。我们是隐形人：太老，得不到支持；太穷，无力获得体面住房——那个《宪法》第47条所保障的权利，对我们而言似乎早已成为一纸空文。正值备考公务员考试的关键之年，我失去了独立生活的能力，不得不回到母亲家中，而她自己也要靠出租房间才能维持生计。各位政界人士，规范房价已迫在眉睫。如果你们不遏制这场疯狂，你们将拥有明信片上的街区，却再也看不到塞维利亚人的身影。特里亚纳正在变成一个奢华的橱窗，而那些赋予它生命的人，已经没有了立锥之地。",
-          "vocab": [
-            {
-              "word": "interina",
-              "translation": "临时的，代理的，非正式编制的",
-              "note": "interino/a 在西班牙教育和公共服务语境中特指『临时代课教师或临时公务员』，即尚未通过 oposiciones（公务员考试）取得正式编制的从业者；这一身份在西班牙意味着工作不稳定、福利有限；名词 interinidad（临时状态）是西班牙劳动议题的高频词，也是近年劳动改革的核心争议之一。"
-            },
-            {
-              "word": "arranca",
-              "translation": "连根拔起，强行夺走",
-              "note": "arrancar 本义为『拔出、扯掉』（arrancar una planta，拔起一株植物），在此作比喻用法，表示『强行将人与其根基剥离』；la especulación me arranca de mis calles（投机将我从自己的街道上扯走）是极具情感张力的表达；arrancar 还有『启动』（arrancar el coche）和『突然开始』（arrancar a llorar，突然哭起来）等多种用法，是高频多义动词。"
-            },
-            {
-              "word": "soga",
-              "translation": "绳索，套索",
-              "note": "soga 本义为『粗绳、套索』，在此作比喻，将租金比作『套在脖子上的绳索』，暗示窒息感和无法挣脱的困境；西语中有谚语 no hay que mentar la soga en casa del ahorcado（在绞死者家中不提绳索，即不要哪壶不开提哪壶）；这类具象名词的比喻用法是西语修辞的重要特征，比直接说 carga（负担）情感冲击力强烈得多。"
-            },
-            {
-              "word": "escaparate",
-              "translation": "橱窗；展示平台",
-              "note": "escaparate 本义为『商店橱窗』，在此比喻特里亚纳正在变成一个供人观赏的『展示品』，而非真实的生活社区；ser un escaparate de（成为……的展示橱窗）在城市化和旅游化批评语境中极为高频；同族词：escapar（逃跑）——橱窗原指『可从中逃出的窗口』，词源颇为有趣；与 vitrina（玻璃展柜）相比，escaparate 更常用于比喻意义。"
-            }
-          ]
+          "word": "interina",
+          "translation": "临时的，代理的，非正式编制的",
+          "note": "interino/a 在西班牙教育和公共服务语境中特指『临时代课教师或临时公务员』，即尚未通过 oposiciones（公务员考试）取得正式编制的从业者；这一身份在西班牙意味着工作不稳定、福利有限；名词 interinidad（临时状态）是西班牙劳动议题的高频词，也是近年劳动改革的核心争议之一。"
+        },
+        {
+          "word": "arranca",
+          "translation": "连根拔起，强行夺走",
+          "note": "arrancar 本义为『拔出、扯掉』（arrancar una planta，拔起一株植物），在此作比喻用法，表示『强行将人与其根基剥离』；la especulación me arranca de mis calles（投机将我从自己的街道上扯走）是极具情感张力的表达；arrancar 还有『启动』（arrancar el coche）和『突然开始』（arrancar a llorar，突然哭起来）等多种用法，是高频多义动词。"
+        },
+        {
+          "word": "soga",
+          "translation": "绳索，套索",
+          "note": "soga 本义为『粗绳、套索』，在此作比喻，将租金比作『套在脖子上的绳索』，暗示窒息感和无法挣脱的困境；西语中有谚语 no hay que mentar la soga en casa del ahorcado（在绞死者家中不提绳索，即不要哪壶不开提哪壶）；这类具象名词的比喻用法是西语修辞的重要特征，比直接说 carga（负担）情感冲击力强烈得多。"
+        },
+        {
+          "word": "escaparate",
+          "translation": "橱窗；展示平台",
+          "note": "escaparate 本义为『商店橱窗』，在此比喻特里亚纳正在变成一个供人观赏的『展示品』，而非真实的生活社区；ser un escaparate de（成为……的展示橱窗）在城市化和旅游化批评语境中极为高频；同族词：escapar（逃跑）——橱窗原指『可从中逃出的窗口』，词源颇为有趣；与 vitrina（玻璃展柜）相比，escaparate 更常用于比喻意义。"
         }
       ]
     },
     {
-      "letterNumber": 2,
-      "title": "Sobre mirarse al espejo",
-      "titleZh": "关于照镜子",
-      "author": "Nani Escobar Ruiz",
-      "location": "Alhendín (Granada)",
-      "paragraphs": [
+      "id": 3,
+      "isSectionHeader": true,
+      "es": "Carta 2 · Sobre mirarse al espejo — Nani Escobar Ruiz (Alhendín, Granada)",
+      "zh": "第二封 · 关于照镜子 — Nani Escobar Ruiz（阿连丁，格拉纳达）",
+      "vocab": []
+    },
+    {
+      "id": 4,
+      "es": "Estados Unidos va a investigar si hubo fallos en el sistema de eutanasia que permitió morir a Noelia Castillo en España, según dice el New York Post. He leído el titular y he pensado: <strong>uf</strong>, qué alivio. Por fin alguien que nos ponga orden. Ese país 'great again' donde un adolescente puede comprar un rifle de asalto y llevarlo al colegio; donde la salud es un privilegio de cuenta corriente; donde <strong>mercadear con</strong> la vida desde la cuna es legal y donde la pena de muerte sigue vigente en varios estados. Este es el país que viene a juzgar nuestra ley de eutanasia, como si fuera un experimento improvisado sin garantías. Suerte con la investigación. Y si les sobra tiempo, quizás podrían dedicar algo de esa energía <strong>fiscalizadora</strong> a investigar sus propios <strong>rotos</strong>, que hay material de sobra para estar ocupados en lo suyo durante generaciones.",
+      "zh": "据《纽约邮报》报道，美国将调查西班牙的安乐死体系是否存在漏洞，正是这一体系允许诺埃利亚·卡斯蒂略在西班牙离世。我读到这个标题，心想：哦，真是松了口气。终于有人来给我们立规矩了。就是那个『再次伟大』的国家——在那里，一个青少年可以买一把突击步枪带进学校；在那里，医疗保健是银行账户余额的特权；在那里，从摇篮起就拿生命做买卖是合法的；在那里，死刑在多个州依然有效。就是这个国家，来评判我们的安乐死法律，仿佛那是一个仓促上马、毫无保障的实验。祝调查顺利。如果还有余力，或许可以把那股监察热情的一部分，用来调查一下自家的烂摊子——那里有足够多的素材，够他们忙上好几代人。",
+      "vocab": [
         {
-          "id": 1,
-          "es": "Estados Unidos va a investigar si hubo fallos en el sistema de eutanasia que permitió morir a Noelia Castillo en España, según dice el New York Post. He leído el titular y he pensado: <strong>uf</strong>, qué alivio. Por fin alguien que nos ponga orden. Ese país 'great again' donde un adolescente puede comprar un rifle de asalto y llevarlo al colegio; donde la salud es un privilegio de cuenta corriente; donde <strong>mercadear con</strong> la vida desde la cuna es legal y donde la pena de muerte sigue vigente en varios estados. Este es el país que viene a juzgar nuestra ley de eutanasia, como si fuera un experimento improvisado sin garantías. Suerte con la investigación. Y si les sobra tiempo, quizás podrían dedicar algo de esa energía <strong>fiscalizadora</strong> a investigar sus propios <strong>rotos</strong>, que hay material de sobra para estar ocupados en lo suyo durante generaciones.",
-          "zh": "据《纽约邮报》报道，美国将调查西班牙的安乐死体系是否存在漏洞，正是这一体系允许诺埃利亚·卡斯蒂略在西班牙离世。我读到这个标题，心想：哦，真是松了口气。终于有人来给我们立规矩了。就是那个『再次伟大』的国家——在那里，一个青少年可以买一把突击步枪带进学校；在那里，医疗保健是银行账户余额的特权；在那里，从摇篮起就拿生命做买卖是合法的；在那里，死刑在多个州依然有效。就是这个国家，来评判我们的安乐死法律，仿佛那是一个仓促上马、毫无保障的实验。祝调查顺利。如果还有余力，或许可以把那股监察热情的一部分，用来调查一下自家的烂摊子——那里有足够多的素材，够他们忙上好几代人。",
-          "vocab": [
-            {
-              "word": "uf",
-              "translation": "哦，唉，呼（表示惊讶、解脱或讽刺）",
-              "note": "uf 是西语口语感叹词，根据语境可表达多种情绪：真正的解脱感、疲惫感，或如本文中的强烈讽刺；作者写 uf, qué alivio（哦，真是松了口气）是典型的反语（ironía），字面上表示解脱，实则表达愤慨；识别此类语气词的情感色彩是理解西语讽刺文体的关键，同类语气词：buf（表示不耐烦）、bah（表示轻蔑）、huy（表示惊讶）。"
-            },
-            {
-              "word": "mercadear con",
-              "translation": "拿……做买卖，将……商品化",
-              "note": "mercadear con 意为『将某事物当作商品进行交易』，带有强烈的道德批判色彩；mercadear con la vida（拿生命做买卖）是极具冲击力的表达；词根 mercad- 来自 mercado（市场），同族词：mercancía（商品）、comerciar（经商）、mercantil（商业的）；注意 mercadear 比 comerciar 语气更负面，暗含对被交易对象的贬低。"
-            },
-            {
-              "word": "fiscalizadora",
-              "translation": "监察的，审计的，监督的",
-              "note": "fiscalizador/a 源自 fiscalizar（监察、审计、监督他人行为），在此带有讽刺色彩，暗指美国热衷于监督他国却对自身问题视而不见；fisco（国库、税务机关）是同族词；energía fiscalizadora（监察热情）是作者的创造性搭配，将抽象的监督冲动具象化为一种可被『分配』的能量，是C1修辞能力的典型体现。"
-            },
-            {
-              "word": "rotos",
-              "translation": "烂摊子，漏洞，破损之处",
-              "note": "roto/a 本为 romper（打破）的过去分词，作名词时意为『破损处、漏洞』；sus propios rotos（自家的烂摊子）是极具口语色彩的比喻，指美国自身存在的社会问题；西语谚语 no hay roto sin descosido（没有破口是无缘无故的）与此词根相关；这类由动词过去分词转化为名词的用法在西语口语中极为丰富，是语言活力的重要体现。"
-            }
-          ]
+          "word": "uf",
+          "translation": "哦，唉，呼（表示惊讶、解脱或讽刺）",
+          "note": "uf 是西语口语感叹词，根据语境可表达多种情绪：真正的解脱感、疲惫感，或如本文中的强烈讽刺；作者写 uf, qué alivio（哦，真是松了口气）是典型的反语（ironía），字面上表示解脱，实则表达愤慨；识别此类语气词的情感色彩是理解西语讽刺文体的关键，同类语气词：buf（表示不耐烦）、bah（表示轻蔑）、huy（表示惊讶）。"
+        },
+        {
+          "word": "mercadear con",
+          "translation": "拿……做买卖，将……商品化",
+          "note": "mercadear con 意为『将某事物当作商品进行交易』，带有强烈的道德批判色彩；mercadear con la vida（拿生命做买卖）是极具冲击力的表达；词根 mercad- 来自 mercado（市场），同族词：mercancía（商品）、comerciar（经商）、mercantil（商业的）；注意 mercadear 比 comerciar 语气更负面，暗含对被交易对象的贬低。"
+        },
+        {
+          "word": "fiscalizadora",
+          "translation": "监察的，审计的，监督的",
+          "note": "fiscalizador/a 源自 fiscalizar（监察、审计、监督他人行为），在此带有讽刺色彩，暗指美国热衷于监督他国却对自身问题视而不见；fisco（国库、税务机关）是同族词；energía fiscalizadora（监察热情）是作者的创造性搭配，将抽象的监督冲动具象化为一种可被『分配』的能量，是C1修辞能力的典型体现。"
+        },
+        {
+          "word": "rotos",
+          "translation": "烂摊子，漏洞，破损之处",
+          "note": "roto/a 本为 romper（打破）的过去分词，作名词时意为『破损处、漏洞』；sus propios rotos（自家的烂摊子）是极具口语色彩的比喻，指美国自身存在的社会问题；西语谚语 no hay roto sin descosido（没有破口是无缘无故的）与此词根相关；这类由动词过去分词转化为名词的用法在西语口语中极为丰富，是语言活力的重要体现。"
         }
       ]
     },
     {
-      "letterNumber": 3,
-      "title": "La información os hará libres... o cuñaos",
-      "titleZh": "信息让你自由……还是让你变成杠精",
-      "author": "Judith Abella",
-      "location": "Carnoedo (A Coruña)",
-      "paragraphs": [
+      "id": 5,
+      "isSectionHeader": true,
+      "es": "Carta 3 · La información os hará libres... o cuñaos — Judith Abella (Carnoedo, A Coruña)",
+      "zh": "第三封 · 信息让你自由……还是让你变成杠精 — Judith Abella（卡尔诺埃多，拉科鲁尼亚）",
+      "vocab": []
+    },
+    {
+      "id": 6,
+      "es": "Ser madre; dormir poco; que te contagie tu hija; ir al pediatra; recibir el <strong>enésimo</strong> diagnóstico del año—cosas corrientes cuando tienes un párvulo en casa—. No pasa nada, ni es grave ni es contagioso. Llegar al parque en una tarde soleada, comentar tu diagnóstico con otros papás, como una conversación de ascensor más y, de repente, empiezas a recibir preguntas <strong>inquisidoras</strong>: que si es contagioso, que si la voy a llevar a la guardería, que qué nos han recetado. De manera inocente y automática respondí a todas: que no lo es, que sí irá a la guardería, que nos han dado tal receta. El papá abre ChatGPT y, para mi sorpresa, empieza a discutir y cuestionar todo lo que ha dicho la pediatra poniéndome a mí en la <strong>tesitura</strong> incómoda de responderle mal o quedarme en silencio. Opté por la primera. Hasta donde yo sé, ChatGPT no expide títulos ni certificados de profesionalidad. <strong>Lo que me faltaba</strong>.",
+      "zh": "身为人母；睡眠不足；被女儿传染；去看儿科医生；收到今年第N个诊断——这些都是家有幼儿时的寻常事。没什么大不了的，既不严重也不传染。在一个阳光明媚的下午来到公园，像随口聊天一样跟其他家长提起诊断结果，然后，突然间，你开始接到一连串审问式的问题：是不是传染的，我是不是要把孩子送去托儿所，医生给开了什么药。我毫无防备地一一作答：不传染，会去托儿所，开了某某药。这位爸爸打开ChatGPT，令我大感意外的是，他开始质疑并反驳儿科医生说的一切，把我置于一个尴尬的两难境地：要么怼回去，要么保持沉默。我选择了前者。据我所知，ChatGPT既不颁发学位，也不颁发职业资格证书。真是缺这个不可。",
+      "vocab": [
         {
-          "id": 1,
-          "es": "Ser madre; dormir poco; que te contagie tu hija; ir al pediatra; recibir el <strong>enésimo</strong> diagnóstico del año—cosas corrientes cuando tienes un párvulo en casa—. No pasa nada, ni es grave ni es contagioso. Llegar al parque en una tarde soleada, comentar tu diagnóstico con otros papás, como una conversación de ascensor más y, de repente, empiezas a recibir preguntas <strong>inquisidoras</strong>: que si es contagioso, que si la voy a llevar a la guardería, que qué nos han recetado. De manera inocente y automática respondí a todas: que no lo es, que sí irá a la guardería, que nos han dado tal receta. El papá abre ChatGPT y, para mi sorpresa, empieza a discutir y cuestionar todo lo que ha dicho la pediatra poniéndome a mí en la <strong>tesitura</strong> incómoda de responderle mal o quedarme en silencio. Opté por la primera. Hasta donde yo sé, ChatGPT no expide títulos ni certificados de profesionalidad. <strong>Lo que me faltaba</strong>.",
-          "zh": "身为人母；睡眠不足；被女儿传染；去看儿科医生；收到今年第N个诊断——这些都是家有幼儿时的寻常事。没什么大不了的，既不严重也不传染。在一个阳光明媚的下午来到公园，像随口聊天一样跟其他家长提起诊断结果，然后，突然间，你开始接到一连串审问式的问题：是不是传染的，我是不是要把孩子送去托儿所，医生给开了什么药。我毫无防备地一一作答：不传染，会去托儿所，开了某某药。这位爸爸打开ChatGPT，令我大感意外的是，他开始质疑并反驳儿科医生说的一切，把我置于一个尴尬的两难境地：要么怼回去，要么保持沉默。我选择了前者。据我所知，ChatGPT既不颁发学位，也不颁发职业资格证书。真是缺这个不可。",
-          "vocab": [
-            {
-              "word": "enésimo",
-              "translation": "第N个，不知第几个，数不清的",
-              "note": "enésimo/a 源自数学术语『第n项』，在口语中表示『多得数不清、又一次重复的』，带有疲惫或无奈的情感色彩；el enésimo diagnóstico（又一个诊断）暗示作者已对频繁就医感到习以为常；类似用法：por enésima vez（又一次，不知第几次了）；是B2-C1口语化书面表达的高价值词汇，能精准传递说话者的疲惫感而无需冗长解释。"
-            },
-            {
-              "word": "inquisidoras",
-              "translation": "审问式的，刨根问底的",
-              "note": "inquisidor/a 源自 Inquisición（宗教裁判所），本指『审判官』，形容词化后意为『追根究底的、审问式的』；preguntas inquisidoras（审问式的问题）带有强烈的负面色彩，暗示对方的问题越界且充满审判意味；这一词汇的历史文化背景（西班牙宗教裁判所）赋予了它独特的语义厚度，使用此词本身即是一种文化典故的激活。"
-            },
-            {
-              "word": "tesitura",
-              "translation": "处境，两难局面；（音乐）音域",
-              "note": "tesitura 在音乐中指『声部或乐器的音域范围』，在日常语言中引申为『特定的处境、两难局面』；en la tesitura de（处于……的两难境地）是正式书面语的固定搭配；这一词汇的跨领域用法（音乐→处境）是西语词汇引申的典型案例，也是C1词汇的标志性特征；比 situación 或 dilema 更具文学色彩。"
-            },
-            {
-              "word": "lo que me faltaba",
-              "translation": "真是缺这个不可，这正是我所欠缺的（反语）",
-              "note": "lo que me faltaba 是西班牙口语中极为高频的反语表达，字面意思为『这正是我所缺少的』，实际含义为『这真是雪上加霜、我最不需要的就是这个』；语气从轻微的无奈到强烈的愤慨均可，完全取决于语境；类似表达：¡lo que me faltaba por ver!（我还缺这个见识！）；这类反语固定句式是理解西班牙口语幽默的核心。"
-            }
-          ]
+          "word": "enésimo",
+          "translation": "第N个，不知第几个，数不清的",
+          "note": "enésimo/a 源自数学术语『第n项』，在口语中表示『多得数不清、又一次重复的』，带有疲惫或无奈的情感色彩；el enésimo diagnóstico（又一个诊断）暗示作者已对频繁就医感到习以为常；类似用法：por enésima vez（又一次，不知第几次了）；是B2-C1口语化书面表达的高价值词汇，能精准传递说话者的疲惫感而无需冗长解释。"
+        },
+        {
+          "word": "inquisidoras",
+          "translation": "审问式的，刨根问底的",
+          "note": "inquisidor/a 源自 Inquisición（宗教裁判所），本指『审判官』，形容词化后意为『追根究底的、审问式的』；preguntas inquisidoras（审问式的问题）带有强烈的负面色彩，暗示对方的问题越界且充满审判意味；这一词汇的历史文化背景（西班牙宗教裁判所）赋予了它独特的语义厚度，使用此词本身即是一种文化典故的激活。"
+        },
+        {
+          "word": "tesitura",
+          "translation": "处境，两难局面；（音乐）音域",
+          "note": "tesitura 在音乐中指『声部或乐器的音域范围』，在日常语言中引申为『特定的处境、两难局面』；en la tesitura de（处于……的两难境地）是正式书面语的固定搭配；这一词汇的跨领域用法（音乐→处境）是西语词汇引申的典型案例，也是C1词汇的标志性特征；比 situación 或 dilema 更具文学色彩。"
+        },
+        {
+          "word": "lo que me faltaba",
+          "translation": "真是缺这个不可，这正是我所欠缺的（反语）",
+          "note": "lo que me faltaba 是西班牙口语中极为高频的反语表达，字面意思为『这正是我所缺少的』，实际含义为『这真是雪上加霜、我最不需要的就是这个』；语气从轻微的无奈到强烈的愤慨均可，完全取决于语境；类似表达：¡lo que me faltaba por ver!（我还缺这个见识！）；这类反语固定句式是理解西班牙口语幽默的核心。"
         }
       ]
     }
