@@ -28,35 +28,35 @@
     },
     {
       "id": 2,
-      "es": "Es la segunda misión del programa Artemis, desarrollado por la Agencia Nacional del Espacio y la Atmósfera estadounidense (NASA) en cooperación con otras agencias espaciales (entre ellas, la Agencia Espacial Europea) cuyo objetivo es poner astronautas en el suelo lunar antes de 2028 y establecer allí una base permanente que sirva para misiones aún más ambiciosas, como un <strong>hipotético</strong> viaje a Marte.",
+      "es": "Es la segunda misión del programa Artemis, desarrollado por la Agencia Nacional del Espacio y la Atmósfera estadounidense (NASA) <strong>en cooperación con</strong> otras agencias espaciales (entre ellas, la Agencia Espacial Europea) cuyo objetivo es poner astronautas en el suelo lunar antes de 2028 y establecer allí una base permanente que sirva para misiones aún más ambiciosas, como un <strong>hipotético</strong> viaje a Marte.",
       "zh": "这是阿尔忒弥斯计划的第二次任务。该计划由美国国家航空航天局（NASA）与其他航天机构（包括欧洲航天局）合作开展，目标是在2028年前将宇航员送上月球表面，并在那里建立永久基地，为更具雄心的任务服务，例如一次假想中的火星之旅。",
       "vocab": [
-        {
-          "word": "hipotético",
-          "translation": "假想的，假设性的",
-          "note": "hipotético/a 源自希腊语 hypothesis（假设），在科学和新闻语境中用于描述尚未实现、仅存于设想阶段的事物；注意与 teórico（理论上的）的区别：hipotético 更强调『尚未被证实或实现』的不确定性，而 teórico 侧重『基于理论推导』；同族词：hipótesis、hipotéticamente。"
-        },
         {
           "word": "en cooperación con",
           "translation": "与……合作，联合",
           "note": "en cooperación con 是新闻和外交文体的固定搭配，比 con（和）更正式，强调机构间有组织的协作关系；类似表达：en colaboración con（在……协作下）、en asociación con（与……联合）；三者语义相近但使用场景略有差异，en cooperación con 多用于政府和国际机构语境。"
+        },
+        {
+          "word": "hipotético",
+          "translation": "假想的，假设性的",
+          "note": "hipotético/a 源自希腊语 hypothesis（假设），在科学和新闻语境中用于描述尚未实现、仅存于设想阶段的事物；注意与 teórico（理论上的）的区别：hipotético 更强调『尚未被证实或实现』的不确定性，而 teórico 侧重『基于理论推导』；同族词：hipótesis、hipotéticamente。"
         }
       ]
     },
     {
       "id": 3,
-      "es": "Esta misión y este programa traen consigo la misma carga política e ideológica que pesó en la primera carrera espacial (1957-1972). Si aquella fue una competición entre Estados Unidos y la Unión Soviética, esta es una <strong>pugna</strong> entre Washington y China, que también ha manifestado su intención de poner a seres humanos en la Luna.",
+      "es": "Esta misión y este programa <strong>traen consigo</strong> la misma carga política e ideológica que pesó en la primera carrera espacial (1957-1972). Si aquella fue una competición entre Estados Unidos y la Unión Soviética, esta es una <strong>pugna</strong> entre Washington y China, que también ha manifestado su intención de poner a seres humanos en la Luna.",
       "zh": "这次任务和这一计划带有与第一次太空竞赛（1957-1972年）同样沉重的政治与意识形态包袱。如果说那一次是美国与苏联之间的竞争，那么这一次则是华盛顿与北京之间的角力——中国同样已表明将人类送上月球的意图。",
       "vocab": [
-        {
-          "word": "pugna",
-          "translation": "角力，争夺，激烈竞争",
-          "note": "pugna 在政治和外交语境中指两方之间的激烈对抗，比 competición 语气更强，带有冲突性和零和博弈色彩；动词形式 pugnar por 意为『为……而争夺』；作者在此刻意用 pugna 替换上文的 competición，是有意为之的词汇升级，暗示当前竞争更具对抗性。"
-        },
         {
           "word": "traen consigo",
           "translation": "带来，伴随而来",
           "note": "traer consigo 是固定搭配，意为『随之带来、伴随产生』，consigo 为反身代词第三人称形式（= con + sí mismo）；这一结构在新闻评论中用于描述某事件或政策所附带的后果或影响，比 causar 或 producir 更强调『携带、附带』的伴随关系。"
+        },
+        {
+          "word": "pugna",
+          "translation": "角力，争夺，激烈竞争",
+          "note": "pugna 在政治和外交语境中指两方之间的激烈对抗，比 competición 语气更强，带有冲突性和零和博弈色彩；动词形式 pugnar por 意为『为……而争夺』；作者在此刻意用 pugna 替换上文的 competición，是有意为之的词汇升级，暗示当前竞争更具对抗性。"
         }
       ]
     },
@@ -96,7 +96,7 @@
     },
     {
       "id": 6,
-      "es": "La ambición de demostrar fuerza y adelantarse a China está llevando a Estados Unidos a actuar con cierta <strong>imprudencia</strong>. La cápsula Orion se ha lanzado hacia la Luna sin haberse probado antes con humanos. Esta actitud <strong>temeraria</strong> encaja con la visión de los magnates de Silicon Valley, entregados a la conquista del espacio en competencia con las tradicionales empresas del sector y cuya relevancia para el actual Gobierno de EE UU <strong>eclipsa</strong> a la de la NASA, que estuvo sin director durante un año.",
+      "es": "La ambición de demostrar fuerza y adelantarse a China está llevando a Estados Unidos a actuar con cierta imprudencia. La cápsula Orion se ha lanzado hacia la Luna sin haberse probado antes con humanos. Esta actitud <strong>temeraria</strong> encaja con la visión de los magnates de Silicon Valley, entregados a la conquista del espacio en competencia con las tradicionales empresas del sector y cuya relevancia para el actual Gobierno de EE UU <strong>eclipsa</strong> a la de la NASA, que estuvo sin director durante un año.",
       "zh": "展示实力、抢先中国的野心正驱使美国行事有些鲁莽。猎户座飞船在未经载人测试的情况下便已发射升空。这种冒险态度与硅谷科技大亨们的理念一脉相承——他们全身心投入太空征服事业，与传统航天企业展开竞争，而他们对当前美国政府的影响力已经盖过了NASA——后者甚至有长达一年的时间没有局长。",
       "vocab": [
         {
@@ -130,7 +130,7 @@
     },
     {
       "id": 8,
-      "es": "La exploración espacial siempre ha tenido un valor más simbólico que práctico y su impacto en la innovación científica y técnica es relativamente menor. Los motivos por los que se lleva a cabo este programa pueden no ser los más nobles y puede no hacerse de la manera más segura. Pero en la Orion vuelan las ilusiones de todos quienes quieran ver en ella un símbolo de que el ser humano nunca ha dejado de creer en que puede algún día hacer lo que hoy parece imposible y llegar a donde no ha llegado nunca. Y eso es siempre digno de admiración y aplauso.",
+      "es": "La exploración espacial siempre ha tenido un valor más simbólico que práctico y su impacto en la innovación científica y técnica es relativamente menor. Los motivos por los que se <strong>lleva a cabo</strong> este programa pueden no ser los más nobles y puede no hacerse de la manera más segura. Pero en la Orion vuelan las ilusiones de todos quienes quieran ver en ella un símbolo de que el ser humano nunca ha dejado de creer en que puede algún día hacer lo que hoy parece imposible y llegar a donde no ha llegado nunca. Y eso es siempre <strong>digno de</strong> admiración y aplauso.",
       "zh": "太空探索的象征价值始终大于其实用价值，其对科学与技术创新的影响也相对有限。推动这一计划实施的动机或许并不高尚，执行方式也未必最为安全。但猎户座飞船上承载着所有愿意将其视为一种象征的人的梦想——象征着人类从未停止相信：终有一天，能够做到今天看似不可能的事，抵达从未抵达过的地方。而这，永远值得钦佩与喝彩。",
       "vocab": [
         {
