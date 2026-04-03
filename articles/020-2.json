@@ -1,0 +1,130 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "时评·专栏",
+  "difficulty": "C1",
+  "wordCount": "约550词",
+  "title": "Pequeñas desgracias con importancia",
+  "subtitle": "有分量的小小不幸",
+  "resumenEs": "La columnista parte de la novela autobiográfica de Miriam Toews sobre el suicidio de su hermana para reflexionar sobre el caso de Noelia Castillo, una mujer cuya eutanasia fue retrasada dos años por recursos judiciales interpuestos por su padre. La autora argumenta que Noelia estuvo rodeada de violencias hasta el último momento —legales, mediáticas y sociales— y concluye que, ante vidas y mentes inhabitables, la única respuesta ética del entorno es acompañar y respetar la decisión de quien pide morir con dignidad, sin interponer el propio criterio moral.",
+  "resumenZh": "专栏作者以米里亚姆·托伊斯关于姐姐自杀的自传体小说为引，对诺埃利亚·卡斯蒂略案展开反思。诺埃利亚的安乐死申请因父亲提起的司法诉讼被推迟了两年。作者认为，诺埃利亚直至最后一刻都被各种暴力所包围——法律上的、媒体上的、社会上的——并得出结论：面对无法承受的生命与精神状态，周围人唯一合乎伦理的回应，是陪伴并尊重那个请求安静离去之人的决定，而非以自身的道德标准加以干涉。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "La escritora Miriam Toews perdió a su hermana mayor después de que esta se suicidara tras una larga enfermedad mental. Años más tarde, en todas las entrevistas que dio Toews a propósito de su nuevo libro, solo repetía una frase como un mantra: \"Si pudiera dar la vuelta atrás en el tiempo, ayudaría a mi hermana a morir\".",
+      "zh": "作家米里亚姆·托伊斯失去了她的姐姐——在经历了漫长的精神疾病折磨之后，姐姐选择了自杀。数年后，托伊斯在为新书接受的每一次采访中，都像念咒语一样反复重复着同一句话：『如果我能回到过去，我会帮助我姐姐去死。』",
+      "vocab": [
+        {
+          "word": "a propósito de",
+          "translation": "关于，以……为契机，就……而言",
+          "note": "a propósito de 是固定介词短语，意为『就……话题、以……为由头』，常用于引出讨论背景；注意与 a propósito（故意地、顺便一提）区分：a propósito de 后接名词，引出话题；a propósito 单独使用时意为『故意』或用于转换话题；两者形式相近，语义截然不同，是高频混淆点。"
+        },
+        {
+          "word": "mantra",
+          "translation": "咒语；反复念叨的话，口头禅",
+          "note": "mantra 源自梵语，本指印度教和佛教中的『神圣咒语』，在现代西语中引申为『被反复重复、几乎具有仪式感的话语或信念』；como un mantra（像咒语一样）是固定比喻，暗示重复的强迫性和近乎宗教般的执念；这类来自东方语言的借词在西语中越来越常见，体现了语言的全球化渗透。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Lo contó todo en el best seller internacional Pequeñas desgracias sin importancia (Sexto Piso, 2022). Uno de los mejores libros que he leído sobre el duelo y sobre aprender a aceptar la decisión de los otros, aunque eso signifique perder lo que más quieres en el mundo. Miriam Toews se dio cuenta de que había estado toda la vida intentando que su hermana viviera sin escucharla a ella de verdad.",
+      "zh": "她将这一切都写进了国际畅销书《无关紧要的小小不幸》（第六楼出版社，2022年）。这是我读过的关于哀伤、关于学会接受他人决定的最好的书之一——尽管这意味着失去你在这个世界上最爱的人。米里亚姆·托伊斯意识到，她一生都在努力让姐姐活下去，却从未真正倾听过她。",
+      "vocab": [
+        {
+          "word": "duelo",
+          "translation": "哀伤，悼念；丧亲之痛；决斗",
+          "note": "duelo 是一词多义的重要词汇：在心理和文学语境中意为『失去亲人后的哀伤过程』（hacer el duelo，经历哀伤）；在历史语境中意为『决斗』（batirse en duelo）；两个义项来自不同词源，前者源自拉丁语 dolus（痛苦），后者源自 duellum（双人战斗）；在本文语境中专指前者，是心理健康话语的核心词汇。"
+        },
+        {
+          "word": "se dio cuenta de que",
+          "translation": "意识到，认识到，发现",
+          "note": "darse cuenta de 是西语中表达『意识到、认识到』的最核心固定搭配，相当于英语 to realize；注意它与 realizar 的假朋友陷阱：realizar 在西语中意为『实现、完成』，而非『意识到』；darse cuenta de 后接 que 引导的从句时，从句动词时态需与主句保持一致：se dio cuenta de que había estado（她意识到她一直在……）。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Nadie mejor que Toews para hablar del sufrimiento, del dolor que produce querer salvar a una hermana que a su vez solo quiere estar muerta, de las contradicciones, del arrepentimiento, de lo que se dice por pura desesperación y se convierte en puñal para los otros y también del dificilísimo camino de acompañar a quien no puede seguir aquí.",
+      "zh": "没有人比托伊斯更能诉说这种痛苦——那种想要拯救一个只想死去的姐姐所带来的煎熬，那些矛盾，那些悔恨，那些出于纯粹绝望而说出口、却化为刺向他人的匕首的话语，以及那条极其艰难的路：陪伴一个无法继续留在这个世界上的人。",
+      "vocab": [
+        {
+          "word": "puñal",
+          "translation": "匕首，短刀；（比喻）刺伤人心的话",
+          "note": "puñal 本义为『匕首、短剑』，在此作比喻，指那些出于绝望脱口而出、却深深伤害他人的话语；convertirse en puñal para los otros（化为刺向他人的匕首）是极具张力的比喻；同族词：puño（拳头、刀柄）——puñal 即『握在拳中的刀』；西语中以武器喻言语的表达极为丰富：palabras que hieren（伤人的话）、dardos verbales（言语飞镖）。"
+        },
+        {
+          "word": "acompañar a quien no puede seguir aquí",
+          "translation": "陪伴那个无法继续留在这个世界上的人",
+          "note": "这是全段最具文学性的表达，作者用 quien no puede seguir aquí（无法继续留在这里的人）委婉替代『想要死去的人』；这种委婉语（eufemismo）的使用体现了作者对这一话题的审慎态度；acompañar 在西语临终关怀和心理学语境中是核心词汇，强调『陪伴』而非『拯救』的态度转变，与全文主旨高度呼应。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Me ha vuelto muy vívidamente esta maravillosa y luminosísima novela después del caso de Noelia Castillo que nos ha estremecido a todos esta semana, por la brutalidad de su biografía, pero sobre todo por la brutalidad con la que el caso se ha expuesto mediáticamente y por la brutalidad también con la que tanta gente se ha intentado interponer en el único deseo que tenía Noelia; el de dejar de sufrir y el de morir tranquila.",
+      "zh": "这部美妙而充满光芒的小说在这周诺埃利亚·卡斯蒂略案之后，以极为鲜活的方式重新浮现在我脑海中。这个案子令我们所有人为之震颤——因为她人生经历的残酷，但更因为这个案子在媒体上被呈现的方式之残酷，以及那么多人试图阻拦诺埃利亚唯一心愿的方式之残酷：那个心愿，就是停止痛苦，安静地离去。",
+      "vocab": [
+        {
+          "word": "me ha vuelto",
+          "translation": "（它）重新回到了我脑海中，（它）又浮现了",
+          "note": "volver 在此为不及物用法，主语是『小说』，意为『重新浮现、再度出现在脑海中』；这是西语中以物为主语的常见句式：me volvió el recuerdo（记忆重新涌现）、me vuelven las ganas（欲望又回来了）；这种句式将主动权赋予事物而非人，体现了西语思维中对情感的被动接受感。"
+        },
+        {
+          "word": "estremecido",
+          "translation": "震颤，震撼，深受触动",
+          "note": "estremecer 意为『使颤抖、使震撼』，可指身体的颤抖（el frío me estremeció，寒冷让我颤抖）或情感上的强烈震动；nos ha estremecido a todos（令我们所有人为之震颤）是新闻评论中描述社会事件情感冲击的高频表达；名词 estremecimiento（颤抖、震撼）；近义词：conmover（感动）、sacudir（震动）。"
+        },
+        {
+          "word": "interponer",
+          "translation": "插手阻拦；提出（法律异议）",
+          "note": "interponer 有两个重要语义：在日常语境中意为『插入、介入、阻拦』（interponerse en el camino，挡在路上）；在法律语境中意为『提出（上诉、异议）』（interponer un recurso，提起上诉）——本段两个义项均有涉及：tanta gente se ha intentado interponer（那么多人试图插手阻拦）以及下文的 los recursos que interpuso su padre（父亲提起的上诉）。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "He leído mucho estos días sobre que a Noelia le falló la sociedad y el Estado, yo no lo tengo nada claro, tampoco sé quién falló en la vida de Noelia, de lo que sí que estoy segura es de que Noelia se fue rodeada de violencias y de que se siguieron prolongando hasta el último segundo de su vida. Fueron violencia esos dos años que se prorrogó su eutanasia, fueron violencia todos los recursos que interpuso su padre. Hasta fue violencia, disfrazada de altruismo y de bondad, ese mensaje millonario mandado en el último momento para que ella pensara su decisión.",
+      "zh": "这些天我读了很多关于『社会和国家辜负了诺埃利亚』的文章，但我对此并不确定，我也不知道是谁辜负了诺埃利亚的一生。我唯一确定的是：诺埃利亚离去时被各种暴力所包围，而这些暴力一直延续到她生命的最后一秒。那两年安乐死申请被一再推迟，是暴力；她父亲提起的所有上诉，是暴力。甚至那条在最后时刻被数百万人转发的消息——以利他主义和善意为伪装，让她重新考虑自己的决定——也是暴力。",
+      "vocab": [
+        {
+          "word": "prorrogó",
+          "translation": "延期，推迟，续期",
+          "note": "prorrogar 意为『将某事的期限延长、推迟』，是法律和行政语境的核心词汇；名词 prórroga（延期、续期）在体育（加时赛）、法律（期限延长）和行政（签证续签）等多个领域均高频出现；词根 pro-（向前）+ rogare（请求）——即『向前请求延续』；prórroga de visado（签证续期）、prórroga del contrato（合同续期）。"
+        },
+        {
+          "word": "mensaje millonario",
+          "translation": "被数百万人转发的消息，病毒式传播的消息",
+          "note": "millonario/a 本义为『百万富翁的、价值百万的』，在社交媒体语境中引申为『被数百万人看到/转发的』；mensaje millonario（被数百万人传播的消息）是新兴的网络新闻词汇；类似用法：una publicación millonaria（一条爆款帖子）、un vídeo millonario（一个播放量达百万的视频）；这类词义扩展反映了数字时代对传统词汇的语义改造。"
+        },
+        {
+          "word": "disfrazada de",
+          "translation": "伪装成，披着……的外衣",
+          "note": "disfrazarse de 本义为『乔装打扮成』（disfrazarse de pirata，扮成海盗），在此作比喻，指某种行为『以……为伪装掩盖其真实性质』；violencia disfrazada de altruismo（披着利他主义外衣的暴力）是全文道德批判力度最强的表达之一；这类揭示表象与本质矛盾的比喻是C1批判性写作的标志性手法。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Creo que va siendo hora de que empecemos a aprender que hay vidas inhabitables y cabezas inhabitables y que, desde nuestros privilegios, no somos nadie para juzgar el dolor y el sufrimiento ajeno y las decisiones que se tomen desde ahí. Yo creo que, si una persona pide con tanta desesperación que la dejen morir tranquila, lo único que deberíamos hacer el resto es cuidarla, asistirla, abrazarla y acompañarla en su decisión y en la entereza con la que dijo que no a seguir sufriendo.",
+      "zh": "我认为，是时候开始学习承认：有些生命是无法承受的，有些内心世界是无法承受的；而我们从自己的特权出发，没有资格评判他人的痛苦与煎熬，也没有资格评判从那种处境中做出的决定。我相信，如果一个人如此绝望地请求被允许安静地离去，我们其他人唯一应该做的，就是照料她、陪伴她、拥抱她，陪她走完这个决定，陪她走完她拒绝继续受苦时所展现出的那份坚毅。",
+      "vocab": [
+        {
+          "word": "va siendo hora de",
+          "translation": "是时候……了，早该……了",
+          "note": "va siendo hora de + 动词原形/que + 虚拟式 是西语中表达『某事早该发生、时机已到』的固定句式，ir + gerundio 结构强调渐进性，暗示这一时机是逐渐成熟的；比 es hora de 语气更强，带有轻微的不耐烦或紧迫感；这一结构在社论和评论文章中极为高频，是表达立场的有力句式。"
+        },
+        {
+          "word": "inhabitables",
+          "translation": "无法居住的；无法承受的，难以为继的",
+          "note": "inhabitable 本义为『不适合居住的』（una casa inhabitable，一栋无法居住的房子），作者将其创造性地用于 vidas inhabitables（无法承受的生命）和 cabezas inhabitables（无法承受的内心世界），以空间隐喻描述极度痛苦的主观体验；这种词汇的创造性迁移是C1写作能力的重要体现，也是本文最具原创性的表达之一。"
+        },
+        {
+          "word": "entereza",
+          "translation": "坚毅，意志坚定，完整性",
+          "note": "entereza 意为『面对困境时的精神完整性和坚定意志』，比 valentía（勇气）更强调内在的精神统一和不妥协；源自 entero/a（完整的、坚定的）；作者用 la entereza con la que dijo que no a seguir sufriendo（她拒绝继续受苦时所展现的坚毅）为诺埃利亚的决定赋予了尊严感，是全文情感最高点；近义词：fortaleza（坚强）、firmeza（坚定）。"
+        }
+      ]
+    }
+  ]
+}

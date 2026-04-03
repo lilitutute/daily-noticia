@@ -1,0 +1,157 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "读者来信",
+  "difficulty": "B2-C1",
+  "wordCount": "约700词",
+  "title": "Justicia para quienes no tienen voz / Otro mundo posible / Hija / Noticia inédita",
+  "subtitle": "为无声者伸张正义 / 另一个世界是可能的 / 女儿 / 一则前所未有的新闻",
+  "resumenEs": "Cuatro cartas al director que reflejan preocupaciones muy distintas de la sociedad española actual: la primera denuncia la violencia vicaria y la indefensión institucional de madres e hijos atrapados en sistemas de custodia fallidos; la segunda ofrece una reflexión poética sobre el agotamiento ante la jerga bélica y la esperanza que persiste en la naturaleza; la tercera aborda con humor e ironía la precariedad económica de los jóvenes españoles que retrasan la maternidad y paternidad; la cuarta, brevísima y humorística, celebra como noticia extraordinaria haber visto a un pasajero de metro sin mirar el móvil.",
+  "resumenZh": "四封读者来信，折射出当代西班牙社会的不同关切：第一封揭露替代性暴力（violencia vicaria）及母子在失灵监护体制中的无助处境；第二封以诗意笔触表达对战争话语的疲惫，以及自然界中依然存在的希望；第三封以幽默和自嘲探讨西班牙年轻人因经济困境而推迟生育的现实；第四封极为简短，以幽默口吻将地铁上一名没有盯着手机的乘客描述为一件『前所未有的大新闻』。",
+  "letters": [
+    {
+      "letterNumber": 1,
+      "title": "Justicia para quienes no tienen voz",
+      "titleZh": "为无声者伸张正义",
+      "author": "Margarita Vázquez",
+      "location": "Logroño",
+      "paragraphs": [
+        {
+          "id": 1,
+          "es": "Cada vez que recojo a mi hijo de dos años tras las visitas con su padre, no solo abrazo su cuerpo, sino que intento rescatar su luz. Vuelve sucio, hambriento, incluso enfermo y con una mirada de desamparo que ningún niño debería conocer. Mi denuncia por violencia de género fue archivada, pero el maltrato no cesó; simplemente mutó en violencia vicaria. Hoy, mi hijo es un rehén del sistema. Mientras Servicios Sociales me recuerda que su bienestar es \"mi responsabilidad\", me veo obligada a enviar maletas con comida y pañales que su progenitor se niega a proveer. Para él, el niño no es un hijo sino una herramienta de castigo contra mí. Muchos expertos advierten que la infancia es la gran olvidada. Sin embargo, las instituciones siguen priorizando el \"derecho de visita\" de un padre por encima de la dignidad y seguridad de un menor vulnerable. El Estado no puede seguir siendo cómplice de este maltrato invisible bajo el pretexto de una supuesta coparentalidad que, en la práctica, es negligencia protegida. ¿Cuántas miradas apagadas más necesita el sistema para reaccionar? Somos muchas las que pasamos por esto y no pedimos privilegios; solo exigimos justicia para quienes no tienen voz.",
+          "zh": "每次在探视结束后接回两岁的儿子，我不只是在拥抱他的身体，更是在努力找回他眼中的光。他回来时浑身脏污、饥肠辘辘，甚至带着病，眼神里流露出一种无助，而那种神情不应该出现在任何一个孩子脸上。我的性别暴力举报被归档存查，但虐待并未停止，只是变了一种形式——演变成了替代性暴力。如今，我的儿子成了这个体制的人质。社会服务部门提醒我，孩子的福祉是『我的责任』，而我却不得不在行李箱里装上食物和尿不湿送过去，因为孩子的父亲拒绝提供这些。在他眼里，孩子不是儿子，而是惩罚我的工具。许多专家警告说，儿童是被遗忘的群体。然而，各机构仍在将父亲的『探视权』置于一个脆弱未成年人的尊严与安全之上。国家不能继续以所谓共同抚养的名义，成为这种隐形虐待的帮凶——而那种共同抚养，在实践中不过是受到庇护的疏于照管。这个体制还需要看到多少双熄灭的眼神，才会有所反应？我们当中有很多人都经历着这一切，我们不是在要求特权，我们只是在为那些没有声音的人寻求正义。",
+          "vocab": [
+            {
+              "word": "violencia vicaria",
+              "translation": "替代性暴力（通过伤害子女来伤害母亲的暴力形式）",
+              "note": "violencia vicaria 是西班牙性别暴力话语中的专业术语，指施暴者通过伤害、威胁或利用子女来控制和伤害母亲的暴力形式；vicario/a 源自拉丁语 vicarius（代理的、替代的），即『以孩子为替代对象』施加的暴力；这一概念由西班牙心理学家Sonia Vaccaro提出，近年在西班牙立法和媒体中高度关注。"
+            },
+            {
+              "word": "archivada",
+              "translation": "被归档存查，被撤销（指控诉）",
+              "note": "archivar una denuncia 在法律语境中意为『将举报或诉讼归档处理』，即司法机关决定不予立案或终止调查；这是西班牙性别暴力受害者面临的常见困境之一；archivar 本义为『归档、存档』，在此语境下带有强烈的负面含义——举报被『搁置』而非被认真对待。"
+            },
+            {
+              "word": "mutó en",
+              "translation": "演变为，变异为，转化为",
+              "note": "mutar en 意为『转变为另一种形态』，源自生物学术语 mutación（基因突变），在此比喻暴力形式的『变异』；这一用词极为精准，暗示虐待如同病毒一样在被压制后以新的形式重新出现；动词 mutar 在新闻中也常用于描述病毒变异：el virus mutó（病毒发生了变异）。"
+            },
+            {
+              "word": "coparentalidad",
+              "translation": "共同抚养，联合育儿",
+              "note": "coparentalidad 是家庭法和社会学术语，指离异父母共同承担子女抚养责任的制度安排；co-（共同）+ parentalidad（亲职）；作者在此加上 supuesta（所谓的）表达讽刺，指出这一制度在存在暴力的情况下沦为施暴者的保护伞；这一词汇在西班牙家庭法改革讨论中极为高频。"
+            },
+            {
+              "word": "miradas apagadas",
+              "translation": "熄灭的眼神，黯淡无光的目光",
+              "note": "mirada apagada（熄灭的眼神）是全文最具文学张力的意象，与开头的 rescatar su luz（找回他的光）形成呼应，构成贯穿全文的光明与熄灭的对比；apagado/a 本义为『熄灭的』（apagar la luz，关灯），用于描述眼神时传递出极强的情感冲击力，是西语情感写作的典型手法。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "letterNumber": 2,
+      "title": "Otro mundo posible",
+      "titleZh": "另一个世界是可能的",
+      "author": "Carlos Miguel Vega Gómez",
+      "location": "León",
+      "paragraphs": [
+        {
+          "id": 1,
+          "es": "Llevo tres semanas conjugando verbos bélicos y conceptos apocalípticos. Meses si hablamos de Gaza, casi un lustro si miramos a Ucrania o millones de años si pensamos en el sapiens que pasó por el sílex al último neandertal. Vivo con esa jerga, con los neologismos de la guerra y su crueldad. Ya ni la siento. El zumbido del dron, el estallido del misil, las esquirlas de metralla en la cara de los niños. Salgo al balcón, ese en el que aplaudía hace cinco años, y me encuentro, contradictorio, el susurro sordo de otro mundo posible. Allí, en la copa discreta del almendro, el zumbido es el de la abeja, el disparo es el de la tierna flor al cielo y el único estallido es, imparable, el de la primavera. Otro mundo no solo es posible, sino que es real. Lejos del estruendo vacío de las ansias de poder, se abre camino una vez más, en silencio pleno, casi de puntillas, la vida. Muy a pesar del hombre.",
+          "zh": "我已经花了三周时间与战争动词和末日概念为伍。如果说到加沙，那就是好几个月；如果看向乌克兰，那将近五年；如果想到那个用燧石对付最后一个尼安德特人的智人，那就是数百万年。我与那套行话共存，与战争及其残酷所催生的新词共存。我已经麻木了。无人机的嗡嗡声，导弹的爆炸声，弹片嵌入孩子们脸上。我走上阳台——就是五年前我曾在那里鼓掌的那个阳台——却出乎意料地，感受到了另一个可能世界发出的低沉私语。就在那里，在杏树不起眼的树冠上，嗡嗡声是蜜蜂的嗡嗡声，那一声『砰』是娇嫩的花朵向天空绽放，而唯一的爆裂声，势不可挡，是春天的爆裂声。另一个世界不只是可能的，而且是真实存在的。远离权力欲望那空洞的喧嚣，生命再一次悄然开辟出自己的道路，在完全的寂静中，几乎是踮着脚尖。尽管人类竭力阻挠。",
+          "vocab": [
+            {
+              "word": "lustro",
+              "translation": "五年，一个五年期",
+              "note": "lustro 是表示『五年』的正式词汇，源自古罗马每五年举行一次的 lustrum（净化仪式）；在西语中 lustro 比 cinco años 更具文学色彩，常见于正式写作和新闻；类似的时间单位词：decenio/década（十年）、siglo（世纪）、milenio（千年）；掌握这类精确时间词汇有助于提升书面表达的层次。"
+            },
+            {
+              "word": "esquirlas de metralla",
+              "translation": "弹片，炮弹碎片",
+              "note": "esquirla 指『碎片、裂片』，尤指爆炸物产生的金属碎片；metralla 本指『散弹、弹片』，两词组合 esquirlas de metralla 是战争报道的高频词组；esquirla 也可用于非战争语境：esquirlas de vidrio（玻璃碎片）；这类具体感官词汇在作者的战争意象群中具有极强的视觉冲击力。"
+            },
+            {
+              "word": "de puntillas",
+              "translation": "踮着脚尖，悄无声息地",
+              "note": "de puntillas 本义为『踮起脚尖走路』，引申为『悄悄地、不引人注意地』；作者用 casi de puntillas（几乎是踮着脚尖）描述生命悄然重生，与前文战争的喧嚣形成极致对比；同族词：punta（尖端）、puntero（指针）；这一表达的拟人化用法是本文诗意风格的典型体现。"
+            },
+            {
+              "word": "muy a pesar del hombre",
+              "translation": "尽管人类竭力阻挠，令人类遗憾的是",
+              "note": "a pesar de 是表示让步的固定搭配，意为『尽管、不顾』；muy a pesar de alguien 意为『令某人十分遗憾地、尽管某人不愿意』；结尾句 muy a pesar del hombre（尽管人类竭力阻挠）是全文的点睛之笔，将人类定位为生命延续的阻碍者，语气简洁而震撼，是典型的C1修辞手法。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "letterNumber": 3,
+      "title": "Hija",
+      "titleZh": "女儿",
+      "author": "Adrián Romero Jurado",
+      "location": "Madrid",
+      "paragraphs": [
+        {
+          "id": 1,
+          "es": "A mi gata la he llamado más de una vez \"hija\". Mi novia y yo solemos tratarla como nuestro retoño: ella tiene sus amistades y amoríos, sus gustos musicales, y hasta sabe qué carrera va a estudiar y en qué universidad. A veces me pregunto si, detrás de ese delirante papel de creernos padres, se esconde una incómoda verdad: que andamos cerca de los 30; que la posibilidad de un trabajo estable solo pasa por aprobar unas oposiciones; que una hipoteca es misión imposible. En toda esa ecuación, tener un hijo —uno de verdad— resulta un gusto demasiado caro. Así que llamo a mi gata \"hija\", y es lo que hay.",
+          "zh": "我不止一次叫我的猫『女儿』。我和女友通常把她当作我们的孩子来对待：她有自己的朋友圈和恋爱史，有自己的音乐品味，甚至我们已经知道她将来要读什么专业、上哪所大学。有时我会想，在这种自以为是父母的荒诞角色扮演背后，是否隐藏着一个令人不安的真相：我们快三十岁了；想要一份稳定的工作，唯一的出路是通过公务员考试；而房贷则是一项不可能完成的任务。在这整个方程式里，生一个孩子——一个真正的孩子——是一种太过昂贵的奢侈。所以我叫我的猫『女儿』，就是这样。",
+          "vocab": [
+            {
+              "word": "retoño",
+          "translation": "嫩芽；孩子，后代（口语）",
+              "note": "retoño 本义为植物的『嫩芽、新枝』，在口语中亲切地指『孩子、后代』；这一词汇的植物隐喻（孩子如同新生的嫩芽）体现了西语中自然意象与家庭语言的深度融合；在本文语境中用来称呼猫，制造了温馨的幽默效果；近义口语词：cría（幼崽/孩子）、vástago（后裔，较正式）。"
+            },
+            {
+              "word": "amoríos",
+              "translation": "风流韵事，恋爱游戏，情事",
+              "note": "amorío 是 amor（爱）的指小词，但含义已发生偏移，特指『短暂的、不认真的恋爱或风流韵事』，带有轻松调侃的色彩；复数 amoríos 暗示多段感情经历；作者将其用于描述猫的『感情生活』，是全文幽默风格的典型体现；注意与 amor（爱情）的语义差异：amorío 更轻浮，amor 更深沉。"
+            },
+            {
+              "word": "solo pasa por",
+              "translation": "唯一的途径是，只能通过",
+              "note": "pasar por 在此意为『必须经过某一途径』，solo pasa por（唯一的出路在于）是口语化的强调句式；这一结构将复杂的社会现实压缩为一句话，极具讽刺力度；pasar por 是多义高频动词：pasar por alto（忽视）、pasar por un mal momento（经历困难时期）、hacerse pasar por（冒充）。"
+            },
+            {
+              "word": "es lo que hay",
+              "translation": "就是这样，没办法，现实如此",
+              "note": "es lo que hay 是西班牙口语中极为高频的固定表达，表示『现实就是如此，无可奈何地接受』，带有淡淡的宿命感和自嘲色彩；作者以此作为全文结尾，将整篇来信的情感基调——幽默背后的无奈——浓缩在这四个字中；这一表达在日常对话中使用频率极高，是理解西班牙口语文化的重要窗口。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "letterNumber": 4,
+      "title": "Noticia inédita",
+      "titleZh": "一则前所未有的新闻",
+      "author": "Pedro Rivas Magdaleno",
+      "location": "Madrid",
+      "paragraphs": [
+        {
+          "id": 1,
+          "es": "A pesar de los cambios que se están produciendo en la sociedad, a veces ves un poco de luz en el túnel y te encuentras con situaciones que creías ya no ibas a volver a presenciar en tu vida. Pero no es así. Recientemente, en un trayecto en el metro, ocurrió algo sencillamente muy difícil de creer: uno de los pasajeros, humano por más señas (creo), ¡no iba mirando el móvil! Nada más, ahí lo dejo.",
+          "zh": "尽管社会正在发生种种变化，有时你还是能看到隧道尽头的一线光明，遇到一些你以为这辈子再也不会亲眼目睹的情景。但事实并非如此。最近，在一次地铁乘车途中，发生了一件简直令人难以置信的事：其中一名乘客——据我所知应该是个人类（我想）——竟然没有盯着手机！就这些，我把它留在这里了。",
+          "vocab": [
+            {
+              "word": "inédita",
+              "translation": "前所未有的，未曾发表的，全新的",
+              "note": "inédito/a 本义为『未出版的、未发表的』（una obra inédita，一部未出版的作品），引申为『前所未有的、史无前例的』；标题 noticia inédita（前所未有的新闻）是全文幽默的核心——将一件极其普通的事（不看手机）包装成『历史性事件』；这种故意的语义落差（hyperbole）是西语幽默写作的经典手法。"
+            },
+            {
+              "word": "humano por más señas",
+              "translation": "据各种特征判断是个人类，顺便一提是个人类",
+              "note": "por más señas 是固定短语，意为『据其各种特征、顺便补充说明』，通常用于进一步描述某人的身份特征；作者在此用 humano por más señas（据特征判断是个人类）加上括号里的 creo（我想），制造了荒诞的幽默效果——暗示在地铁上不看手机的人已经稀有到让人怀疑其是否是人类。"
+            },
+            {
+              "word": "ahí lo dejo",
+              "translation": "就说到这里，我把它留在这里",
+              "note": "ahí lo dejo 是西班牙口语和社交媒体中极为流行的收尾表达，意为『我就说这么多，其余的你们自己体会』，带有故意留白、让读者自行领悟的意味；在此语境下，作者用这四个字模拟了社交媒体上『扔下一个梗就走』的网络语言风格，与整封信的幽默基调完美呼应。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "时事评论",
+  "difficulty": "C1",
+  "wordCount": "约750词",
+  "title": "La Luna de los plutócratas",
+  "subtitle": "财阀们的月球",
+  "resumenEs": "El artículo analiza el lanzamiento de la misión Artemis 2 hacia la Luna, señalando que, a diferencia de la primera carrera espacial, esta está marcada por la rivalidad entre EE UU y China y por la ambición de la oligarquía tecnológica estadounidense. Critica la imprudencia de lanzar la cápsula sin pruebas previas con humanos y la influencia de magnates como Musk y Bezos, pero concluye reconociendo el valor simbólico e inspirador de la exploración espacial.",
+  "resumenZh": "文章分析了阿尔忒弥斯2号登月任务的发射，指出与第一次太空竞赛不同，此次任务带有美中竞争的烙印以及美国科技寡头阶层的野心。文章批评了在未经载人测试情况下发射飞船的鲁莽行为和科技大亨的影响力，但最终肯定了太空探索的象征意义与激励价值。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "El miércoles, a las 18.30 hora local, un cohete SLS, el más potente jamás construido, <strong>despegaba</strong> del Centro Espacial Kennedy, en Florida (EE UU) y ponía rumbo a la Luna. A bordo de una cápsula Orion, de más de tres metros de longitud y cinco de diámetro, cuatro astronautas —tres estadounidenses y un canadiense— tienen previsto dar la vuelta al satélite y regresar. Si lo logran, serán los primeros humanos en <strong>sobrevolarlo</strong> desde 1972.",
+      "zh": "周三当地时间18点30分，有史以来最强大的SLS火箭从美国佛罗里达州肯尼迪航天中心升空，向月球进发。四名宇航员——三名美国人和一名加拿大人——乘坐一艘长逾三米、直径五米的猎户座飞船，计划绕月飞行后返回地球。如果成功，他们将成为自1972年以来首批飞越月球的人类。",
+      "vocab": [
+        {
+          "word": "despegaba",
+          "translation": "起飞，升空",
+          "note": "despegar 由 des-（分离）+ pegar（粘附）构成，字面义为『脱离地面粘附状态』，是航空航天语境中『起飞』的标准用词；名词形式 despegue 在新闻标题中极为高频；注意与 aterrizar（着陆）构成反义对，掌握 des- 前缀有助于举一反三：desconectar、deshacer、desplegar。"
+        },
+        {
+          "word": "sobrevolarlo",
+          "translation": "飞越（月球）",
+          "note": "sobrevolar 由 sobre-（在……之上）+ volar（飞行）构成，表示『在某地上空飞越而不降落』；sobre- 是高产前缀，同类构词：sobrevivir（幸存）、sobrepasar（超越）、sobresalir（突出）；在此次任务语境中专指绕月飞行而非登陆，与 alunizar（登月着陆）形成重要区别。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Es la segunda misión del programa Artemis, desarrollado por la Agencia Nacional del Espacio y la Atmósfera estadounidense (NASA) en cooperación con otras agencias espaciales (entre ellas, la Agencia Espacial Europea) cuyo objetivo es poner astronautas en el suelo lunar antes de 2028 y establecer allí una base permanente que sirva para misiones aún más ambiciosas, como un <strong>hipotético</strong> viaje a Marte.",
+      "zh": "这是阿尔忒弥斯计划的第二次任务。该计划由美国国家航空航天局（NASA）与其他航天机构（包括欧洲航天局）合作开展，目标是在2028年前将宇航员送上月球表面，并在那里建立永久基地，为更具雄心的任务服务，例如一次假想中的火星之旅。",
+      "vocab": [
+        {
+          "word": "hipotético",
+          "translation": "假想的，假设性的",
+          "note": "hipotético/a 源自希腊语 hypothesis（假设），在科学和新闻语境中用于描述尚未实现、仅存于设想阶段的事物；注意与 teórico（理论上的）的区别：hipotético 更强调『尚未被证实或实现』的不确定性，而 teórico 侧重『基于理论推导』；同族词：hipótesis、hipotéticamente。"
+        },
+        {
+          "word": "en cooperación con",
+          "translation": "与……合作，联合",
+          "note": "en cooperación con 是新闻和外交文体的固定搭配，比 con（和）更正式，强调机构间有组织的协作关系；类似表达：en colaboración con（在……协作下）、en asociación con（与……联合）；三者语义相近但使用场景略有差异，en cooperación con 多用于政府和国际机构语境。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Esta misión y este programa traen consigo la misma carga política e ideológica que pesó en la primera carrera espacial (1957-1972). Si aquella fue una competición entre Estados Unidos y la Unión Soviética, esta es una <strong>pugna</strong> entre Washington y China, que también ha manifestado su intención de poner a seres humanos en la Luna.",
+      "zh": "这次任务和这一计划带有与第一次太空竞赛（1957-1972年）同样沉重的政治与意识形态包袱。如果说那一次是美国与苏联之间的竞争，那么这一次则是华盛顿与北京之间的角力——中国同样已表明将人类送上月球的意图。",
+      "vocab": [
+        {
+          "word": "pugna",
+          "translation": "角力，争夺，激烈竞争",
+          "note": "pugna 在政治和外交语境中指两方之间的激烈对抗，比 competición 语气更强，带有冲突性和零和博弈色彩；动词形式 pugnar por 意为『为……而争夺』；作者在此刻意用 pugna 替换上文的 competición，是有意为之的词汇升级，暗示当前竞争更具对抗性。"
+        },
+        {
+          "word": "traen consigo",
+          "translation": "带来，伴随而来",
+          "note": "traer consigo 是固定搭配，意为『随之带来、伴随产生』，consigo 为反身代词第三人称形式（= con + sí mismo）；这一结构在新闻评论中用于描述某事件或政策所附带的后果或影响，比 causar 或 producir 更强调『携带、附带』的伴随关系。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Pero, al contrario que la competición por ser los pioneros en el espacio, inspirada por un deseo de exploración científica y cierta ambición ideológica de liderar el progreso de la humanidad, esta misión está <strong>manchada</strong> por la <strong>descarnada</strong> ambición de la oligarquía tecnológica hegemónica en el actual EE UU. El objetivo declarado de NASA es \"asegurar la superioridad estadounidense en el espacio\". \"Estamos ganando: en el espacio, en la Tierra y en todo lo que hay entre medias\", escribió el presidente Donald Trump antes incluso del despegue de la Artemis 2.",
+      "zh": "然而，与那场以科学探索欲望和引领人类进步的某种意识形态抱负为动力的太空先驱竞赛不同，此次任务被当今美国占据主导地位的科技寡头阶层赤裸裸的野心所玷污。NASA宣称的目标是『确保美国在太空中的优势地位』。『我们正在赢：在太空、在地球，以及两者之间的一切领域』，美国总统唐纳德·特朗普甚至在阿尔忒弥斯2号发射之前便如此写道。",
+      "vocab": [
+        {
+          "word": "manchada",
+          "translation": "玷污的，染上污点的",
+          "note": "manchar 本义为『弄脏、留下污渍』，在道德和政治语境中引申为『玷污、损害纯洁性或正当性』；作者用 manchada 将此次任务与第一次太空竞赛形成道德对比，词语选择本身即是强烈的价值判断；同族词：mancha（污点）、inmaculado（无瑕的，im- 否定 + macula 污点）。"
+        },
+        {
+          "word": "descarnada",
+          "translation": "赤裸裸的，毫不掩饰的",
+          "note": "descarnado/a 由 des-（去除）+ carne（肉）构成，字面义为『去肉见骨的』，引申为『毫无遮掩、直白残酷的』；在政治评论中常修饰 ambición、realidad、crítica 等词，语气极强；注意 des- 前缀的去除义：despojar（剥夺）、desnudar（裸露）均有类似的『去除覆盖』含义。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Las obsesiones de la actual Casa Blanca se notan también en otras cosas. Esta es la primera misión lunar con una mujer (Christina Koch) y un afroamericano (Victor Glover) en la tripulación, algo que la NASA no puede promocionar tanto como <strong>antaño</strong> por el visceral rechazo del movimiento MAGA a la <strong>discriminación positiva</strong>.",
+      "zh": "当前白宫的执念还体现在其他方面。这是首次有女性（克里斯蒂娜·科赫）和非裔美国人（维克多·格洛弗）加入机组的登月任务，但由于MAGA运动对平权行动的本能排斥，NASA如今已无法像从前那样大力宣传这一点。",
+      "vocab": [
+        {
+          "word": "antaño",
+          "translation": "从前，昔日",
+          "note": "antaño 是书面语和文学语体中表示『从前、过去』的副词，比 antes 更具文学色彩和怀旧感；在评论和散文中常与 hoy en día 或 actualmente 形成时间对比；类似的文体副词：otrora（昔日，更正式）、en su día（当年）；掌握这类时间副词有助于提升书面表达的文体层次。"
+        },
+        {
+          "word": "discriminación positiva",
+          "translation": "平权行动，积极差别对待",
+          "note": "discriminación positiva 是西语对 affirmative action 的对应表达，指为纠正历史不平等而对弱势群体给予优先待遇的政策；这是一个典型的政治敏感词组，其本身在政治立场上存在争议：支持者视之为『积极措施』，反对者（如文中的MAGA运动）则将其定性为『逆向歧视』，理解这一张力对阅读政治评论至关重要。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "La ambición de demostrar fuerza y adelantarse a China está llevando a Estados Unidos a actuar con cierta <strong>imprudencia</strong>. La cápsula Orion se ha lanzado hacia la Luna sin haberse probado antes con humanos. Esta actitud <strong>temeraria</strong> encaja con la visión de los magnates de Silicon Valley, entregados a la conquista del espacio en competencia con las tradicionales empresas del sector y cuya relevancia para el actual Gobierno de EE UU <strong>eclipsa</strong> a la de la NASA, que estuvo sin director durante un año.",
+      "zh": "展示实力、抢先中国的野心正驱使美国行事有些鲁莽。猎户座飞船在未经载人测试的情况下便已发射升空。这种冒险态度与硅谷科技大亨们的理念一脉相承——他们全身心投入太空征服事业，与传统航天企业展开竞争，而他们对当前美国政府的影响力已经盖过了NASA——后者甚至有长达一年的时间没有局长。",
+      "vocab": [
+        {
+          "word": "temeraria",
+          "translation": "鲁莽的，冒险的，不计后果的",
+          "note": "temerario/a 源自 temer（恐惧），原义为『无所畏惧的』，现代语境中带有负面含义，指『明知有风险仍不顾后果地行事』；比 imprudente 语气更强，暗示主观上的无视风险；法律搭配：conducción temeraria（危险驾驶）；注意作者在同一段落中先用 imprudencia 再用 temeraria，形成批评力度的递进。"
+        },
+        {
+          "word": "eclipsa",
+          "translation": "使黯然失色，盖过，遮蔽",
+          "note": "eclipsar 源自 eclipse（日食/月食），字面义为『遮蔽光芒』，引申为『使某人或某事物的重要性相形见绌』；在政治和商业评论中是描述权力消长的生动比喻，比 superar（超越）更强调对方被动地失去光彩；这类天文词汇的比喻用法在西语评论中十分常见，如 brillar（发光→出众）、orbitar（绕轨道→围绕某人转）。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Blue Origin (del fundador de Amazon, Jeff Bezos), y SpaceX, del dueño de X y Tesla, Elon Musk —que, horas antes del despegue, dio los primeros pasos para sacar la compañía a Bolsa— están compitiendo por desarrollar un sistema que permita la siguiente fase del programa: el <strong>alunizaje</strong> en el polo sur de la Luna en 2028. Un negocio de cientos de miles de millones de dólares que, como todos los grandes negocios dependientes del Gobierno de Trump, es cuanto menos <strong>vidrioso</strong>.",
+      "zh": "亚马逊创始人杰夫·贝索斯旗下的蓝色起源，以及X和特斯拉的所有者埃隆·马斯克旗下的SpaceX——后者在发射前数小时迈出了公司上市的第一步——正在竞相开发一套系统，以支撑该计划的下一阶段：2028年在月球南极着陆。这是一笔数千亿美元的生意，而与所有依赖特朗普政府的大生意一样，至少可以说是颇为微妙敏感的。",
+      "vocab": [
+        {
+          "word": "alunizaje",
+          "translation": "月球着陆，登月",
+          "note": "alunizaje 由 luna（月球）+ 后缀 -aje 构成，专指在月球表面着陆；-aje 是表示『动作或结果』的名词后缀，同类构词规律：aterrizar → aterrizaje（陆地着陆）、amarar → amaraje（水面降落）、despegar → despegue——西语通过替换词根来区分不同着陆地点，构词逻辑极为清晰。"
+        },
+        {
+          "word": "vidrioso",
+          "translation": "微妙敏感的，棘手的",
+          "note": "vidrioso/a 本义为『像玻璃一样易碎的』（源自 vidrio，玻璃），在政治和商业评论中引申为『敏感微妙、稍有不慎便会破裂的』；作者用 cuanto menos vidrioso（至少可以说是颇为微妙的）这一轻描淡写的表达反而强化了讽刺效果，是典型的低调陈述（understatement）修辞手法；同族词：vidrio（玻璃）、vidriera（玻璃橱窗）。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "La exploración espacial siempre ha tenido un valor más simbólico que práctico y su impacto en la innovación científica y técnica es relativamente menor. Los motivos por los que se lleva a cabo este programa pueden no ser los más nobles y puede no hacerse de la manera más segura. Pero en la Orion vuelan las ilusiones de todos quienes quieran ver en ella un símbolo de que el ser humano nunca ha dejado de creer en que puede algún día hacer lo que hoy parece imposible y llegar a donde no ha llegado nunca. Y eso es siempre digno de admiración y aplauso.",
+      "zh": "太空探索的象征价值始终大于其实用价值，其对科学与技术创新的影响也相对有限。推动这一计划实施的动机或许并不高尚，执行方式也未必最为安全。但猎户座飞船上承载着所有愿意将其视为一种象征的人的梦想——象征着人类从未停止相信：终有一天，能够做到今天看似不可能的事，抵达从未抵达过的地方。而这，永远值得钦佩与喝彩。",
+      "vocab": [
+        {
+          "word": "llevar a cabo",
+          "translation": "实施，执行，完成",
+          "note": "llevar a cabo 是西语最重要的固定搭配之一，意为『将某事从头到尾完成、付诸实施』，cabo 本义为『末端、尽头』；比 realizar 或 hacer 更强调『从开始到完成』的全程性；类似结构：llevar a término（完成）、poner en marcha（启动）、sacar adelante（推进完成）——四者构成描述项目推进的核心表达群。"
+        },
+        {
+          "word": "digno de",
+          "translation": "值得……的，配得上……的",
+          "note": "digno/a de + 名词/动词原形 是固定结构，表示『值得、配得上』；digno 源自拉丁语 dignus，与 dignidad（尊严）、dignificar（使有尊严）同族；常见搭配：digno de mención（值得一提）、digno de confianza（值得信赖）、digno de admiración（值得钦佩）——掌握这一结构可大幅提升书面表达的正式程度。"
+        }
+      ]
+    }
+  ]
+}

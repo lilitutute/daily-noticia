@@ -1,0 +1,273 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "语言文化",
+  "difficulty": "C1",
+  "wordCount": "约1100词",
+  "title": "Academias de la lengua española: ¿descriptoras o prescriptoras del lenguaje?",
+  "subtitle": "西班牙语学院：语言的描述者还是规范者？",
+  "resumenEs": "El artículo analiza el debate entre prescriptivismo y descriptivismo lingüístico, desencadenado por las críticas del académico Arturo Pérez Reverte a la RAE. Traza la evolución histórica de ambas corrientes, explica el giro descriptivista de la RAE a lo largo del siglo XX y la creación de la ASALE, y concluye que la tensión entre normar y describir es inherente a toda academia de la lengua, proponiendo como posible solución un espacio intermedio para usos en transición.",
+  "resumenZh": "文章围绕学者兼作家阿图罗·佩雷斯-雷韦特对皇家西班牙语学院的批评，分析了语言规范主义与描述主义之间的争论。文章梳理了两种思潮的历史演变，阐释了皇家学院在20世纪逐步转向描述主义的过程及西班牙语学院协会的成立，最后指出规范与描述之间的张力是所有语言学院的内在属性，并提出以『观察期词汇区』作为可能的折中方案。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "¿Cuál es la función de una academia de la lengua? ¿Debe limitarse a registrar el uso que los hablantes hacen del idioma, o está ahí para distinguir lo correcto de lo incorrecto y establecer unas normas? Lo primero, el \"descriptivismo\", y lo segundo, el \"prescriptivismo\", son dos corrientes lingüísticas históricamente opuestas, que hoy vuelven a <strong>ponerse de manifiesto</strong> en el reciente artículo del académico y escritor español Arturo Pérez Reverte y las reacciones que ha <strong>suscitado</strong>.",
+      "zh": "语言学院的职能是什么？它应该仅限于记录使用者对语言的实际运用，还是应该在此区分正确与错误、制定规范？前者称为『描述主义』，后者称为『规范主义』，这是历史上长期对立的两种语言学思潮，如今因西班牙学者兼作家阿图罗·佩雷斯-雷韦特的近期文章及其引发的反响，再度显现出来。",
+      "vocab": [
+        {
+          "word": "ponerse de manifiesto",
+          "translation": "显现出来，变得明显",
+          "note": "固定搭配，意为『使某事变得显而易见、重新浮现』；manifiesto 作名词还有『宣言』之义（如 Manifiesto Comunista）；近义搭配：poner de relieve（凸显）、sacar a la luz（揭示），三者均表示『使隐藏之物显现』，但 ponerse de manifiesto 更强调自然浮现，无需外力推动。"
+        },
+        {
+          "word": "suscitado",
+          "translation": "引发，激起",
+          "note": "suscitar 是B2-C1高频新闻动词，表示『引发（讨论、反应、争议等）』，比 causar 或 provocar 更正式；常见搭配：suscitar debate（引发争论）、suscitar reacciones（激起反应）、suscitar dudas（引起疑虑）。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Reverte <strong>denuncia</strong> en su artículo que la Real Academia Española (RAE) está abandonando su papel normativo, <strong>doblegándose</strong> a usos mayoritarios en prensa y redes sociales y perdiendo de vista la \"autoridad superior de los grandes escritores\". Las respuestas apuntan al papel de la academia como \"descriptora\", aunque fuentes internas de la RAE afirman que se analizarán las críticas de Pérez Reverte y se abordarán debates y propuestas.",
+      "zh": "雷韦特在文章中批评皇家西班牙语学院（RAE）正在放弃其规范职能，向报刊和社交网络上的主流用法妥协，并逐渐忽视『伟大作家的至高权威』。各方回应则指向学院作为『描述者』的角色，尽管RAE内部消息人士表示，将对佩雷斯-雷韦特的批评进行分析，并就相关争论和建议展开讨论。",
+      "vocab": [
+        {
+          "word": "denuncia",
+          "translation": "批评，揭露，指责",
+          "note": "denunciar 是典型的一词多义词：在法律语境中指『举报』（denunciar un delito），在新闻评论中则常指『公开批评、揭露某种不当现象』；本段属于后者。区分这两种用法是阅读西语新闻的基本功。"
+        },
+        {
+          "word": "doblegándose",
+          "translation": "屈服于，向……妥协",
+          "note": "doblegar 本义为『使弯曲』，引申为『使屈服』；反身形式 doblegarse a 表示主动屈服于某压力；词根 dobl- 含『弯折』之义，同族词：doblar（折叠/转弯）、doble（双重的）；作者用此词带有强烈批判色彩，暗示学院在压力下丧失原则。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Durante siglos, la lengua que interesaba en los entornos académicos y las universidades no era la cotidiana, sino la lengua escrita de prestigio, especialmente textos literarios canónicos u obras de grandes autores. El objetivo principal no era entender cómo hablaba la gente, sino cómo debía escribirse y hablarse correctamente, tomando como modelo a esos escritores. Esta tradición es la raíz del prescriptivismo.",
+      "zh": "几个世纪以来，学术界和大学所关注的语言并非日常口语，而是具有声望的书面语言，尤其是经典文学文本或伟大作家的作品。其主要目标不是理解人们如何说话，而是以这些作家为范本，确立正确的书写和表达方式。这一传统正是规范主义的根源。",
+      "vocab": [
+        {
+          "word": "a raíz de",
+          "translation": "由于，起因于，在……之后",
+          "note": "固定搭配，raíz 本义为『植物的根』，a raíz de 引申为『直接起源于、由……直接触发』；与 a causa de 相比更强调『直接触发』的关系；本段 raíz 单独使用，意为『根源』，两种用法均需掌握：la raíz del problema（问题的根源）vs. a raíz de este debate（由于这场争论）。"
+        },
+        {
+          "word": "canónicos",
+          "translation": "经典的，权威认可的",
+          "note": "canónico/a 源自 canon（经典作品集、准则），在文学语境中指『被学术界公认为典范的』；注意与宗教法律用法区分：derecho canónico（教会法）；同族词：canonizar（封圣；使经典化）。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "El prescriptivismo lingüístico sostiene que existen formas correctas e incorrectas de usar la lengua, y que una de las tareas del lingüista es establecer normas, basadas en la lengua escrita, los autores prestigiosos, o el uso por parte de las élites culturales y educativas. En este enfoque, el cambio lingüístico suele verse como corrupción, y la variación, como error.",
+      "zh": "语言规范主义主张，语言的使用存在正确与错误之分，语言学家的任务之一是以书面语言、权威作家或文化教育精英的用法为基础制定规范。在这一框架下，语言变化通常被视为腐化，而语言变异则被视为错误。",
+      "vocab": [
+        {
+          "word": "sostiene",
+          "translation": "主张，坚持认为",
+          "note": "sostener 在学术和论证语境中表示『主张、坚持某一立场』，是学术写作的核心动词；比 decir 更强调『有理据地坚持』；常见搭配：sostener una tesis（坚持一个论点）、sostener que...（主张……）；同族词：sostenible（可持续的）、sostenimiento（维持）。"
+        },
+        {
+          "word": "enfoque",
+          "translation": "视角，方法，框架",
+          "note": "enfoque 由 enfocar（聚焦）派生，在学术和新闻语境中指『分析问题的角度或方法论框架』；高频搭配：desde este enfoque（从这一视角）、enfoque científico（科学方法）、cambiar de enfoque（转换视角）；是C1学术写作的必备词汇。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Durante la mayor parte de la historia de la RAE, desde su creación en 1713, esta ha sido su misión, tal y como <strong>atestigua</strong> su lema: \"Limpia, fija y da esplendor\", que data de 1715. Y esta es la función que, según Pérez Reverte, está abandonando lamentablemente la RAE, en una visión que dice compartir con otros académicos literatos.",
+      "zh": "在RAE自1713年成立以来的大部分历史中，这一直是其使命，正如其创立于1715年的院训所证明的那样：『清洁、固定、赋予光彩』。而这正是佩雷斯-雷韦特所认为RAE正在遗憾地放弃的职能，他表示这一看法也得到了其他文学院士的认同。",
+      "vocab": [
+        {
+          "word": "atestigua",
+          "translation": "证明，证实，作证",
+          "note": "atestiguar 由 a- + testigo（证人）构成，意为『以事实或证据证明某事』；在论证文体中常用于以具体事物佐证抽象论点；近义词：evidenciar（证明）、demostrar（证明）、dar fe de（证实）；注意与 testificar（出庭作证，更偏法律语境）的区别。"
+        },
+        {
+          "word": "data de",
+          "translation": "可追溯至，始于",
+          "note": "datar de 是固定搭配，表示『某事物的起源或历史可追溯至某时间点』；在历史和文化报道中极为高频；注意 data 在此是动词 datar 的第三人称单数现在时，而非英语的『数据』（西语中『数据』为 datos 或 dato）——典型假朋友陷阱。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "A finales del siglo XIX y sobre todo en el XX, la lingüística empieza a definirse como ciencia empírica. Aquí surge el descriptivismo, que propone que la lingüística no debe decir cómo se debe hablar, sino describir cómo hablan realmente los hablantes. Para esta corriente, todas las variedades (dialectales, coloquiales, no estándar) son sistemas completos, no versiones \"defectuosas\". Este cambio implica un <strong>desplazamiento</strong> del interés académico: de los textos literarios a los hablantes reales y sus usos lingüísticos.",
+      "zh": "19世纪末、尤其是20世纪，语言学开始将自身定义为一门实证科学。描述主义由此兴起，主张语言学不应规定人们应该如何说话，而应描述使用者的实际语言行为。在这一思潮看来，所有语言变体（方言的、口语的、非标准的）都是完整的语言系统，而非『有缺陷的』版本。这一转变意味着学术兴趣的转移：从文学文本转向真实的语言使用者及其语言实践。",
+      "vocab": [
+        {
+          "word": "desplazamiento",
+          "translation": "转移，位移，取代",
+          "note": "desplazamiento 由 desplazar（移动、取代）派生，在学术语境中指『重心或焦点的转移』；在物理学中指『位移』，在社会学中指『人口迁移』（desplazamiento forzado，强制迁移）；是跨领域的高价值词汇；动词 desplazar 还有『取代某人职位』之义：fue desplazado por su rival（被对手取代）。"
+        },
+        {
+          "word": "corriente",
+          "translation": "思潮，流派；水流；普通的",
+          "note": "corriente 是典型的一词多义词：作名词可指『水流/电流』、『思想流派/思潮』；作形容词意为『普通的、常见的』（una palabra corriente，一个普通词汇）；本段中 esta corriente 指『这一（学术）思潮』；掌握其多义性对阅读不同类型文章至关重要。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "El descriptivismo lingüístico en la RAE no aparece de golpe, sino como un proceso gradual que se consolida a lo largo del siglo XX, especialmente cuando la Academia deja de concebir el español exclusivamente desde España y empieza a asumirlo como una lengua <strong>pluricéntrica</strong>.",
+      "zh": "RAE内部的语言描述主义并非一蹴而就，而是一个在整个20世纪逐步巩固的过程，尤其是当学院不再将西班牙语仅仅从西班牙的视角加以理解，开始将其视为一种多中心语言之后。",
+      "vocab": [
+        {
+          "word": "de golpe",
+          "translation": "突然，一下子，一蹴而就",
+          "note": "de golpe 是固定搭配，意为『突然、一下子』；golpe 本义为『打击、一击』，由此衍生出多个固定表达：de golpe y porrazo（突然间）、golpe de estado（政变）、golpe de suerte（好运）；本段 no aparece de golpe 与后文 proceso gradual 形成对比，是理解句意的关键。"
+        },
+        {
+          "word": "pluricéntrica",
+          "translation": "多中心的",
+          "note": "pluricéntrico/a 由 pluri-（多）+ céntrico（中心的）构成；pluri- 是拉丁语前缀，表示『多』，同族词：plurilingüe（多语的）、plurinacional（多民族的）；在语言学中，『多中心语言』指不存在单一标准，而是在多个地区形成各自规范中心的语言，是理解本文核心论点的关键术语。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "El verdadero <strong>punto de inflexión</strong> llega con la incorporación activa de las academias fuera de España y la creación de la Asociación de Academias de la Lengua Española (ASALE) en 1951. Actualmente cuenta con 23 corporaciones, en América, España, Filipinas y Guinea Ecuatorial, e incluye países en los que el español nunca ha sido lengua oficial pero en los que hay una gran cantidad de hablantes. Por ejemplo, la Academia Norteamericana de la Lengua Española (ANLE), que atiende a más de 60 millones de hispanohablantes en Estados Unidos.",
+      "zh": "真正的转折点出现在西班牙以外的各语言学院积极加入、以及1951年西班牙语学院协会（ASALE）成立之时。该协会目前拥有23个成员机构，分布于美洲、西班牙、菲律宾和赤道几内亚，还涵盖了一些西班牙语从未成为官方语言、但拥有大量使用者的国家。例如，北美西班牙语学院（ANLE）服务于美国逾6000万西班牙语使用者。",
+      "vocab": [
+        {
+          "word": "punto de inflexión",
+          "translation": "转折点，拐点",
+          "note": "punto de inflexión 是固定搭配，源自数学术语（曲线的『拐点』），在新闻和历史叙述中引申为『事物发展方向发生根本性转变的时刻』；近义表达：punto de quiebre（断裂点）、hito（里程碑）；三者均描述重要转变，但 punto de inflexión 更强调方向性的改变。"
+        },
+        {
+          "word": "cuenta con",
+          "translation": "拥有，包含",
+          "note": "contar con 是高频固定搭配，有两种核心含义：①『拥有、具备』（La organización cuenta con 23 miembros，该组织拥有23个成员）；②『依靠、指望』（Cuento contigo，我依靠你）；两种含义在新闻中均极为常见，需根据语境判断。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "El descriptivismo se consolida claramente en obras <strong>panhispánicas</strong> elaboradas conjuntamente por todas las academias, como la Nueva gramática de la lengua española (2009), el Diccionario panhispánico de dudas (2005), o el Diccionario de americanismos (2010). En estas obras, se describen usos reales antes de valorarlos, se reconoce la variación geográfica y social, y la norma se presenta como resultado del uso, no como imposición externa.",
+      "zh": "描述主义在所有学院联合编撰的全西班牙语世界规范性著作中得到了明确巩固，例如《西班牙语新语法》（2009年）、《泛西班牙语疑难词典》（2005年）以及《美洲西班牙语词典》（2010年）。在这些著作中，实际用法先于评价被加以描述，地理和社会变异得到认可，规范被呈现为用法的结果，而非外部强加的规定。",
+      "vocab": [
+        {
+          "word": "panhispánicas",
+          "translation": "全西班牙语世界的，泛西班牙语的",
+          "note": "panhispánico/a 由 pan-（全、泛）+ hispánico（西班牙语的）构成；pan- 是希腊语前缀，表示『全部、涵盖一切』，同族词：panamericano（泛美的）、pandemia（大流行病，pan- + demos 人民）；理解 pan- 前缀有助于举一反三地理解大量国际词汇。"
+        },
+        {
+          "word": "conjuntamente",
+          "translation": "共同地，联合地",
+          "note": "conjuntamente 由 conjunto（共同的、整体的）+ -mente 构成；-mente 是西语副词后缀，相当于英语 -ly；conjunto 本身也是高频词：en conjunto（整体上）、trabajo en conjunto（合作）；注意 conjunto 作名词还有『集合、套装、乐队』等多种含义。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "El debate no es solo técnico, sino ideológico y académico. El prescriptivismo está ligado a autoridad cultural, tradición literaria, estandarización y educación formal. El descriptivismo está ligado a método científico, observación empírica e igualdad entre variedades lingüísticas.",
+      "zh": "这场争论不仅是技术层面的，更是意识形态和学术层面的。规范主义与文化权威、文学传统、语言标准化和正规教育相关联。描述主义则与科学方法、实证观察以及各语言变体之间的平等地位相关联。",
+      "vocab": [
+        {
+          "word": "ligado a",
+          "translation": "与……相关联，与……挂钩",
+          "note": "estar ligado a 是固定搭配，意为『与某事物紧密相连、密不可分』；ligar 本义为『捆绑、连接』，引申为抽象的关联关系；近义搭配：estar vinculado a（与……相关）、estar asociado a（与……关联）；三者语义相近，但 ligado 更强调内在的、难以分割的联系。"
+        },
+        {
+          "word": "estandarización",
+          "translation": "标准化",
+          "note": "estandarización 由 estándar + -ización 构成；-ización 是高产名词后缀，表示『使……化的过程』，对应英语 -ization；同类构词：normalización（规范化）、globalización（全球化）、digitalización（数字化）；掌握这一后缀可快速理解大量学术和新闻词汇。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Lo que es innegable es que el lenguaje y los hablantes evolucionan. \"Ca si no fuessen, errarían en las cosas que ouiessen de fazer\" (\"Porque, de no ser así, se equivocarían en lo que deben hacer\", dicho en castellano alfonsí, del siglo XIII) y los textos actuales se leerían con este estilo.",
+      "zh": "有一点是不可否认的：语言和使用者都在演变。『Ca si no fuessen, errarían en las cosas que ouiessen de fazer』（『因为，若非如此，他们在应做之事上便会犯错』，这是13世纪阿方索时代的卡斯蒂利亚语）——如果语言不演变，今天的文本也将以这种风格书写。",
+      "vocab": [
+        {
+          "word": "innegable",
+          "translation": "不可否认的",
+          "note": "innegable 由 in-（否定）+ negable（可否认的）构成；in- 是拉丁语否定前缀，同族词：inevitable（不可避免的）、inaudito（前所未闻的）、incuestionable（无可置疑的）；注意 in- 在 b/p 前变为 im-：imposible、improbable；掌握这一前缀规律可大幅扩充词汇量。"
+        },
+        {
+          "word": "de no ser así",
+          "translation": "若非如此，如果不是这样的话",
+          "note": "de no ser así 是重要的虚拟条件句结构，由 de + 动词原形 构成，表示假设条件，相当于 si no fuera así；这一结构在正式书面语中比 si 条件句更简洁；类似结构：de haberlo sabido（如果早知道的话）、de ser posible（如果可能的话）。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Es cierto que los nuevos usos pueden <strong>chirriar</strong> a oídos de numerosos hablantes (incluso de los que se consideran descriptivistas), pero muchos de dichos usos son <strong>pasajeros</strong> y, si perduran, es porque habrán pasado el filtro democrático del uso mayoritario sostenido.",
+      "zh": "诚然，新的语言用法可能会让许多使用者听起来刺耳（甚至包括那些自认为是描述主义者的人），但这些用法中有许多是短暂的，如果能够延续下来，那是因为它们经过了持续多数使用这一民主筛选机制的检验。",
+      "vocab": [
+        {
+          "word": "chirriar",
+          "translation": "发出刺耳声；令人不适，听着别扭",
+          "note": "chirriar 本义为『发出嘎吱声、刺耳声』（如门轴的摩擦声），在此作比喻用法，指新语言用法『听起来别扭、令人不适』；这类感官动词的比喻用法在西语评论中十分生动：chirriar a los oídos（听着刺耳）是固定搭配，类似汉语的『听着不顺耳』。"
+        },
+        {
+          "word": "pasajeros",
+          "translation": "短暂的，过眼云烟的；乘客",
+          "note": "pasajero/a 是典型的一词多义词：作名词意为『乘客』（A1基础词）；作形容词意为『短暂的、转瞬即逝的』（B2-C1）；本段属于后者；同族词：pasar（经过）、paso（步骤/经过）——词根 pas- 均含『经过、流逝』之义，形容词义由此引申。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "Este conflicto no es exclusivo del español, sino que se da en todas las lenguas. El escritor británico Stephen Fry, en su contribución a la obra What makes us human? (\"¿Qué nos hace humanos?\"), dedica estas líneas a los prescriptivistas del inglés, entre los que él mismo se incluía en el pasado (traducción propia):",
+      "zh": "这一冲突并非西班牙语所独有，而是存在于所有语言之中。英国作家斯蒂芬·弗莱在其为《是什么让我们成为人类？》一书所作的文章中，将以下这段话献给英语规范主义者——他本人过去也曾是其中之一（译文为作者自译）：",
+      "vocab": [
+        {
+          "word": "exclusivo",
+          "translation": "独有的，专属的，排他的",
+          "note": "exclusivo/a 在此意为『某事物仅属于某一对象』；注意其多种用法：no es exclusivo de（并非……所独有）是新闻中的常见句式；名词 exclusiva 指『独家报道』或『独家权利』；动词 excluir（排除）、名词 exclusión（排斥）构成完整词族，在社会议题报道中极为高频。"
+        },
+        {
+          "word": "se da en",
+          "translation": "存在于，发生在，出现在",
+          "note": "darse en 是固定搭配，意为『在某环境或条件下存在、发生』；比 ocurrir 或 existir 更强调『在特定条件下自然产生』；常见句式：este fenómeno se da en todas las culturas（这一现象存在于所有文化中）；darse 还有『发生』（darse cuenta，意识到）等多种用法。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "\"¿Pero sienten burbujas en el estómago y <strong>salivan</strong> de disfrute por el lenguaje? ¿Dejan que el deslizar de la punta de la lengua sobre el paladar los <strong>sumerja</strong> en un éxtasis eufórico y embriagador? ¿Emparejan palabras imposibles por puro sexo fonético? ¿Usan la lengua para seducir, encandilar, excitar, satisfacer, reafirmar y estimular a sus interlocutores? ¿Hacen algo de esto? Lo dudo. Están demasiado ocupados mirando con desdén al dependiente de la tienda por su errata en un cartel\".",
+      "zh": "『但他们会因语言而感到胃里起泡、垂涎欲滴吗？他们会让舌尖滑过上颚的感觉将自己沉浸在一种欣喜若狂、令人陶醉的极乐之中吗？他们会纯粹出于语音的性感而将不可能的词语配对吗？他们会用语言去诱惑、迷住、激发、满足、肯定和刺激自己的对话者吗？他们做过这些吗？我表示怀疑。他们太忙了，忙着因店员在招牌上写了个错别字而对其投以鄙视的目光。』",
+      "vocab": [
+        {
+          "word": "salivan",
+          "translation": "分泌唾液，垂涎",
+          "note": "salivar 由 saliva（唾液）+ -ar 构成，是典型的由名词派生动词的构词方式；-ar 后缀将名词转化为动词极为常见：agua → aguar（加水稀释）、polvo → polvorear（撒粉）；此处 salivar de disfrute（因享受而垂涎）是生动的感官比喻，与上文 burbujas en el estómago 共同构成身体反应的意象群。"
+        },
+        {
+          "word": "desdén",
+          "translation": "蔑视，轻视，不屑",
+          "note": "desdén 是B2-C1的高频情感词汇，表示『轻蔑、不屑一顾』；固定搭配：mirar con desdén（以蔑视的目光看待）、tratar con desdén（轻蔑地对待）；形容词形式：desdeñoso/a（轻蔑的）；近义词：desprecio（鄙视，程度更强）、menosprecio（轻视）。"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "es": "En conclusión, el debate <strong>suscitado</strong> por las palabras de Pérez Reverte no es, en realidad, una disputa coyuntural ni un simple desacuerdo personal, sino la manifestación visible de una tensión histórica que <strong>atraviesa</strong> toda la reflexión sobre el lenguaje. La RAE se encuentra hoy en un punto de equilibrio complejo entre dos misiones legítimas pero potencialmente contradictorias: orientar normativamente a los hablantes y describir con rigor científico una lengua viva, diversa y en permanente cambio. Quizás un término medio sería la creación de una sección con palabras o usos en cuarentena, hasta que el paso del tiempo dicte sentencia. En cualquier caso, es en esa tensión permanente –incómoda, imperfecta, pero necesaria– donde reside la función real de una academia de la lengua hoy.",
+      "zh": "总而言之，佩雷斯-雷韦特的言论所引发的这场争论，实际上并非一场偶发性的纷争，也不是简单的个人意见分歧，而是贯穿所有语言思考的历史性张力的可见显现。RAE如今处于两项合理却可能相互矛盾的使命之间的复杂平衡点上：为使用者提供规范性指导，以及以科学的严谨性描述一门鲜活的、多元的、处于持续变化中的语言。或许一个折中方案是设立一个『观察期』词汇区，收录处于过渡状态的词语或用法，静待时间作出裁决。无论如何，语言学院今天真正的职能，正寓于这种永久性的张力之中——令人不适、不够完美，却不可或缺。",
+      "vocab": [
+        {
+          "word": "coyuntural",
+          "translation": "偶发性的，特定时机下的，形势性的",
+          "note": "coyuntural 源自 coyuntura（时机、形势、关节），在政治和经济新闻中极为高频；coyuntura 本义为『骨骼关节』，引申为『特定历史时机或形势』；medidas coyunturales（应急措施）vs. medidas estructurales（结构性措施）是政策报道中的经典对比，掌握这一区别对阅读经济政治新闻至关重要。"
+        },
+        {
+          "word": "atraviesa",
+          "translation": "贯穿，穿越，横跨",
+          "note": "atravesar 本义为『穿越、横穿』（atravesar la calle，穿过街道），在抽象语境中引申为『贯穿、渗透』（una tensión que atraviesa toda la historia，贯穿整个历史的张力）；还可表示『经历困难时期』：el país atraviesa una crisis（该国正经历危机）——三种用法均为高频，需根据语境判断。"
+        },
+        {
+          "word": "dicte sentencia",
+          "translation": "作出裁决，宣判",
+          "note": "dictar sentencia 是法律领域的固定搭配，意为『宣读判决』；本文将其用于比喻语境——『让时间作出裁决』，是将语言演变类比为司法审判的修辞手法；sentencia 除『判决』外还有『格言、警句』之义（las sentencias de Séneca，塞内卡的格言）；dictar 本身也是高频动词：dictar normas（制定规范）、dictar clases（授课）。"
+        }
+      ]
+    }
+  ]
+}
