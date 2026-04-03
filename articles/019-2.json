@@ -11,229 +11,269 @@
   "paragraphs": [
     {
       "id": 1,
-      "es": "Las enfermedades cardiovasculares son la primera causa de muerte en el mundo. En España han quedado segundas en los dos últimos años, por detrás -por poco- de las oncológicas, aunque siguen siendo la principal causa de muerte entre las mujeres españolas. En torno a 120.000 personas mueren al año en nuestro país por estas patologías. En EEUU, la mitad de los adultos padece alguna enfermedad cardiovascular y la Asociación Estadounidense del Corazón (AHA, por sus siglas en inglés) proyecta que la cifra aumentará para 2050 por el incremento de la hipertensión, la diabetes y la obesidad.",
+      "es": "Las enfermedades cardiovasculares son la primera causa de muerte en el mundo. En España han quedado segundas en los dos últimos años, por detrás -por poco- de las oncológicas, aunque siguen siendo la principal causa de muerte entre las mujeres españolas. En torno a 120.000 personas mueren al año en nuestro país por estas <strong>patologías</strong>. En EEUU, la mitad de los adultos <strong>padece</strong> alguna enfermedad cardiovascular y la Asociación Estadounidense del Corazón (AHA, por sus siglas en inglés) <strong>proyecta</strong> que la cifra aumentará para 2050 por el incremento de la hipertensión, la diabetes y la obesidad.",
       "zh": "心血管疾病是全球第一大死亡原因。在西班牙，过去两年心血管疾病死亡人数位居第二，仅以微弱差距落后于肿瘤疾病，但仍是西班牙女性的首要死亡原因。我国每年约有12万人死于这类疾病。在美国，半数成年人患有某种心血管疾病，美国心脏协会（AHA）预测，随着高血压、糖尿病和肥胖症的增加，这一数字到2050年还将继续上升。",
       "vocab": [
         {
           "word": "patologías",
-          "translation": "疾病，病症",
-          "note": "patología 源自希腊语 pathos（痛苦、疾病）+ logos（学说），在医学新闻中是『疾病、病症』的正式用词，比 enfermedad 更书面；同族词：patológico/a（病理性的）、patólogo（病理学家）；词根 patho- 在英西两语中均高频出现：empatía（共情）、simpatía（好感）均含此词根。"
+          "translation": "疾病，病症（医学正式用词）",
+          "note": "patología 源自希腊语 pathos（痛苦）+ logos（学说），是医学新闻中替代 enfermedad 的正式书面词，尤其用于泛指一类疾病群；形容词 patológico/a 可描述病理性行为或状态（una dependencia patológica，病态依赖）；词根 patho- 跨语言高产：empatía（共情）、simpatía（好感）均含此词根，理解词根有助于举一反三。"
+        },
+        {
+          "word": "padece",
+          "translation": "患有，遭受（疾病或痛苦）",
+          "note": "padecer 比 tener 更正式，专用于描述长期承受疾病或痛苦的状态，带有持续性和被动承受的含义；padecer una enfermedad（患有疾病）、padecer las consecuencias（承受后果）；注意与 sufrir 的细微差异：sufrir 更强调急性痛苦的主观感受，padecer 更强调慢性病症的客观状态；两者在医学报道中均极为高频。"
         },
         {
           "word": "proyecta",
-          "translation": "预测，预计；规划",
-          "note": "proyectar 是典型的一词多义词：在此意为『预测、预计（未来数据）』；还可表示『规划、筹划』（proyectar un viaje，规划旅行）以及『投影、放映』（proyectar una película，放映电影）；名词 proyección 在经济和医学报道中常指『预测数据』，需与 predicción（预测）区分：proyección 更强调基于模型的推算。"
+          "translation": "预测，预计（基于模型推算）",
+          "note": "proyectar 在此意为『基于数据模型预测未来趋势』，比 predecir（预言）更强调方法论上的推算依据；名词 proyección（预测数据、预测值）在经济和医学报道中是核心词汇；注意 proyectar 的多义性：还可表示『规划』（proyectar un edificio）和『放映』（proyectar una película），需根据语境判断。"
         }
       ]
     },
     {
       "id": 2,
-      "es": "En estos factores son clave la alimentación y el ejercicio. En EEUU, donde más del 40% de los adultos y más del 20% de los niños padecen obesidad, solo uno de cada cuatro adultos y uno de cada cinco jóvenes (6 a 17 años) cumplen con las recomendaciones nacionales de actividad física. Según la Encuesta Europea de Salud en España (EESE), en nuestro país el 54,1% de adultos vive con exceso de peso (un 37,6% con sobrepeso y un 16,5% con obesidad), cifra que no deja de aumentar. Esta epidemia silenciosa se alimenta de un sedentarismo crónico: casi el 36% de la población declara no realizar ninguna actividad física en su tiempo libre. La actividad física infantil no es mejor: el estudio PASOS (de la Gasol Foundation) indica que el 33% de los menores españoles tiene exceso de peso y que solo el 36% cumple con la recomendación de actividad física de la OMS.",
+      "es": "En estos factores son clave la alimentación y el ejercicio. En EEUU, donde más del 40% de los adultos y más del 20% de los niños padecen obesidad, solo uno de cada cuatro adultos y uno de cada cinco jóvenes (6 a 17 años) cumplen con las recomendaciones nacionales de actividad física. Según la Encuesta Europea de Salud en España (EESE), en nuestro país el 54,1% de adultos vive con exceso de peso (un 37,6% con sobrepeso y un 16,5% con obesidad), cifra que no deja de aumentar. Esta <strong>epidemia silenciosa</strong> se alimenta de un <strong>sedentarismo crónico</strong>: casi el 36% de la población declara no realizar ninguna actividad física en su tiempo libre. La actividad física infantil no es mejor: el estudio PASOS (de la Gasol Foundation) indica que el 33% de los menores españoles tiene exceso de peso y que solo el 36% cumple con la recomendación de actividad física de la OMS.",
       "zh": "饮食和运动是其中的关键因素。在美国，逾40%的成年人和逾20%的儿童患有肥胖症，而只有四分之一的成年人和五分之一的青少年（6至17岁）达到了全国体育锻炼建议标准。根据西班牙欧洲健康调查（EESE），我国54.1%的成年人体重超标（37.6%超重，16.5%肥胖），且这一数字持续攀升。这场无声的流行病以长期久坐为温床：近36%的人口表示在闲暇时间从不进行任何体育活动。儿童体育活动状况同样不容乐观：PASOS研究（由加索尔基金会开展）显示，33%的西班牙未成年人体重超标，仅36%达到世卫组织的体育活动建议标准。",
       "vocab": [
         {
-          "word": "se alimenta de",
-          "translation": "以……为食；以……为养分，依赖……滋长",
-          "note": "alimentarse de 本义为『以……为食物』，在此作比喻用法，表示某现象『以某条件为滋养、依赖某因素而加剧』；这类将抽象概念具象化的比喻在西语新闻评论中极为常见；类似用法：nutrirse de（从……中汲取养分）、crecer a la sombra de（在……庇护下滋长）。"
+          "word": "epidemia silenciosa",
+          "translation": "无声的流行病，隐性流行病",
+          "note": "epidemia silenciosa 是公共卫生报道中的固定比喻表达，用于描述那些『缺乏急性症状、在社会中悄然蔓延却危害深远』的健康问题，如肥胖、糖尿病、抑郁症等；silenciosa（无声的）强调其隐蔽性，与传染病的急性暴发形成对比；掌握这类固定比喻搭配是理解西语健康新闻的重要一步。"
         },
         {
-          "word": "sedentarismo",
-          "translation": "久坐不动的生活方式，缺乏运动",
-          "note": "sedentarismo 由 sedentario（久坐的）+ -ismo 构成；sedentario 源自拉丁语 sedere（坐），同族词：sede（总部、驻地）、sedimento（沉积物）——词根 sed- 均含『坐、沉』之义；-ismo 后缀表示某种习惯、倾向或主义，如 consumismo（消费主义）、activismo（行动主义）。"
+          "word": "sedentarismo crónico",
+          "translation": "长期久坐不动的生活方式，慢性缺乏运动",
+          "note": "sedentarismo 由 sedentario（久坐的，源自拉丁语 sedere『坐』）+ -ismo 构成，指『以缺乏运动为特征的生活方式』；crónico/a（慢性的，长期的）来自希腊语 chronos（时间），强调持续性；两词组合 sedentarismo crónico 在西班牙公共卫生报道中是高频固定搭配，区别于偶发性的缺乏运动，强调已成为根深蒂固的生活习惯。"
         }
       ]
     },
     {
       "id": 3,
-      "es": "Ante el negro panorama que se presenta para el corazón de las nuevas generaciones, la AHA acaba de publicar en su revista Circulation una actualización de sus guías dietéticas para 2026, con una clara idea: lo que comemos hoy, determinará la salud de nuestro corazón en unas décadas. La asociación estadounidense publica guías de este tipo basadas en evidencia cada cinco años. La Guía Alimentaria 2026 para Mejorar la Salud Cardiovascular: Declaración Científica de la Asociación Americana del Corazón actualiza la guía de 2021 con los últimos avances científicos.",
+      "es": "Ante el <strong>negro panorama</strong> que se presenta para el corazón de las nuevas generaciones, la AHA acaba de publicar en su revista Circulation una <strong>actualización</strong> de sus guías dietéticas para 2026, con una clara idea: lo que comemos hoy, determinará la salud de nuestro corazón en unas décadas. La asociación estadounidense publica guías de este tipo <strong>basadas en evidencia</strong> cada cinco años. La Guía Alimentaria 2026 para Mejorar la Salud Cardiovascular: Declaración Científica de la Asociación Americana del Corazón actualiza la guía de 2021 con los últimos avances científicos.",
       "zh": "面对新一代人心脏健康所呈现的严峻前景，美国心脏协会刚刚在其期刊《循环》上发布了2026年版饮食指南更新，核心理念明确：我们今天的饮食，将决定数十年后我们的心脏健康。该美国协会每五年发布一次此类循证指南。《2026年改善心血管健康饮食指南：美国心脏协会科学声明》以最新科学进展对2021年版指南进行了更新。",
       "vocab": [
         {
           "word": "negro panorama",
           "translation": "严峻前景，黯淡局面",
-          "note": "negro/a 在西语中除字面的『黑色』外，常用于比喻『悲观、严峻、不乐观』；固定表达：panorama negro（严峻局面）、futuro negro（黯淡未来）、verlo todo negro（对一切都悲观）；注意 negro 的这一比喻用法在新闻中极为高频，是理解西语情感色彩词汇的重要一环。"
+          "note": "negro/a 在西语中除字面的『黑色』外，是描述悲观、严峻处境的高频形容词；固定表达：panorama negro（严峻局面）、futuro negro（黯淡未来）、verlo todo negro（对一切都悲观）；注意这一比喻用法与 oscuro（黑暗的、不明朗的）的区别：negro 更口语化、情感色彩更强，oscuro 更中性，侧重『不透明、不明朗』。"
         },
         {
           "word": "basadas en evidencia",
           "translation": "基于证据的，循证的",
-          "note": "basado/a en evidencia 是医学和科学新闻的核心固定搭配，对应英语 evidence-based；evidencia 在西语中指『证据、实证』，注意与英语假朋友区分：英语 evidence 对应西语 evidencia，但西语 evidente 意为『显而易见的』，对应英语 obvious；medicina basada en evidencia（循证医学）是医疗报道的高频术语。"
+          "note": "basado/a en evidencia 对应英语 evidence-based，是医学和科学新闻的核心固定搭配；evidencia 在西语中指『实证、证据』，注意假朋友陷阱：英语 evidence 对应西语 evidencia，但西语 evidente 意为『显而易见的』，对应英语 obvious；medicina basada en evidencia（循证医学）、guías basadas en evidencia（循证指南）是医疗报道的标志性表达。"
         }
       ]
     },
     {
       "id": 4,
-      "es": "\"Nuestras guías para 2026 pueden parecer familiares, ya que no han variado mucho con respecto a las recomendaciones de 2021. Hemos constatado que la evidencia científica que respalda estas guías se ha fortalecido. Este mayor respaldo científico impulsa algunas actualizaciones importantes, aunque sutiles, que garantizan que las guías se mantengan alineadas con los conocimientos científicos más recientes y sólidos sobre dieta y salud cardiovascular\", afirma Alice H. Lichtenstein, presidenta voluntaria del comité de redacción de la declaración científica e investigadora principal y líder de la Directiva sobre Dieta y Prevención de Enfermedades Crónicas en el Centro de Investigación de Nutrición Humana Jean Mayer del USDA sobre el Envejecimiento en la Universidad de Tufts en Boston\".",
+      "es": "\"Nuestras guías para 2026 pueden parecer familiares, ya que no han variado mucho con respecto a las recomendaciones de 2021. Hemos <strong>constatado</strong> que la evidencia científica que <strong>respalda</strong> estas guías se ha fortalecido. Este mayor respaldo científico impulsa algunas actualizaciones importantes, aunque sutiles, que garantizan que las guías se mantengan <strong>alineadas con</strong> los conocimientos científicos más recientes y sólidos sobre dieta y salud cardiovascular\", afirma Alice H. Lichtenstein, presidenta voluntaria del comité de redacción de la declaración científica e investigadora principal y líder de la Directiva sobre Dieta y Prevención de Enfermedades Crónicas en el Centro de Investigación de Nutrición Humana Jean Mayer del USDA sobre el Envejecimiento en la Universidad de Tufts en Boston.",
       "zh": "『我们2026年版指南看起来可能并不陌生，因为与2021年的建议相比变化不大。我们发现，支撑这些指南的科学证据已经得到了进一步强化。这种更为充分的科学支持推动了一些重要但细微的更新，确保指南与有关饮食和心血管健康的最新、最扎实的科学认知保持一致，』爱丽丝·H·利希滕斯坦表示。她是该科学声明起草委员会的志愿主席，同时也是波士顿塔夫茨大学美国农业部让·迈耶人类营养研究中心老龄化研究项目饮食与慢性病预防指导委员会的首席研究员及负责人。",
       "vocab": [
         {
           "word": "constatado",
-          "translation": "证实，确认，查明",
-          "note": "constatar 意为『通过观察或调查加以证实、确认』，是学术和新闻报道中表达『有据可查的确认』的正式动词；比 confirmar 更强调通过实证过程得出结论；近义词：verificar（核实）、corroborar（佐证）；三者均为C1学术写作的核心动词。"
+          "translation": "证实，确认（通过实证过程）",
+          "note": "constatar 意为『通过观察或调查加以证实、确认』，比 confirmar 更强调实证过程的严谨性，暗示结论来自系统性验证而非单纯核实；在学术和新闻语境中，hemos constatado que（我们已证实……）是表达研究发现的正式句式；近义词梯度：observar（观察到）< verificar（核实）< constatar（证实）< demostrar（证明）。"
+        },
+        {
+          "word": "respalda",
+          "translation": "支撑，支持，为……提供依据",
+          "note": "respaldar 本义来自 espalda（背部），字面义为『用背部支撑』，引申为『为某事物提供支持或依据』；在科学语境中，la evidencia que respalda（支撑……的证据）是极为高频的固定搭配；名词 respaldo（支持、依据、靠背）；注意与 apoyar（支持）的区别：respaldar 更强调提供实质性依据，apoyar 更强调立场上的支持。"
         },
         {
           "word": "alineadas con",
           "translation": "与……保持一致，与……对齐",
-          "note": "alinearse con 是固定搭配，本义为『排成一列』，在政策、科学和外交语境中引申为『与……立场或标准保持一致』；mantenerse alineado con（持续与……保持一致）是机构文件和新闻报道的高频表达；近义搭配：estar en línea con（与……一致）、coincidir con（与……吻合）。"
+          "note": "alinearse con 本义为『排成一列』，在政策、科学和外交语境中引申为『与……立场或标准保持一致』；mantenerse alineado con（持续与……保持一致）是机构文件的高频表达；注意 alinearse con（主动对齐）与 coincidir con（恰好吻合）的差异：前者强调主动调整以保持一致，后者强调自然吻合。"
         }
       ]
     },
     {
       "id": 5,
-      "es": "La nueva guía no hace prohibiciones estrictas, se centra en un patrón de alimentación flexible pero firme en sus pilares. Su diseño, según la AHA, busca brindar flexibilidad para personalizar un patrón alimentario saludable que se ajuste a las preferencias personales, las prácticas étnicas y religiosas, las necesidades y el presupuesto, y las diferentes etapas de la vida. Considera que es el mejor enfoque para fomentar la adherencia a estos hábitos saludables a lo largo de la vida.",
+      "es": "La nueva guía no hace prohibiciones estrictas, se centra en un patrón de alimentación flexible pero firme en sus <strong>pilares</strong>. Su diseño, según la AHA, busca brindar flexibilidad para <strong>personalizar</strong> un patrón alimentario saludable que se ajuste a las preferencias personales, las prácticas étnicas y religiosas, las necesidades y el presupuesto, y las diferentes etapas de la vida. Considera que es el mejor enfoque para fomentar la <strong>adherencia</strong> a estos hábitos saludables a lo largo de la vida.",
       "zh": "新指南并不设置严格禁令，而是聚焦于一种在核心原则上坚定、整体上灵活的饮食模式。据AHA介绍，该指南的设计旨在提供灵活性，使人们能够根据个人偏好、民族和宗教习俗、自身需求与预算以及人生不同阶段，定制健康的饮食模式。AHA认为，这是促进人们终身坚持健康习惯的最佳方式。",
       "vocab": [
         {
-          "word": "adherencia",
-          "translation": "依从性，坚持，遵从",
-          "note": "adherencia 在医学和公共卫生语境中是专业术语，指『患者或个体对治疗方案、健康建议的持续遵从程度』；源自 adherir（粘附、坚持），词根 adher- 含『粘附』之义；同族词：adhesión（加入、支持）、adherente（附着的）；英语对应词 adherence 是医学文献的核心词汇。"
+          "word": "pilares",
+          "translation": "支柱，核心原则，基石",
+          "note": "pilar 本义为建筑中的『柱子、支柱』，在抽象语境中比喻『支撑某体系或理念的核心要素』；los pilares de una sociedad（社会的支柱）、los pilares de la democracia（民主的基石）是新闻和政论中的高频表达；注意与 base（基础）的区别：pilar 更强调垂直支撑的结构性作用，base 更强调水平的基础地位。"
         },
         {
-          "word": "a lo largo de",
-          "translation": "在……期间，贯穿……，沿着",
-          "note": "a lo largo de 是高频固定搭配，表示时间上的『贯穿整个……期间』或空间上的『沿着……』；a lo largo de la vida（贯穿一生）、a lo largo del río（沿河）；注意与 a lo lejos（在远处）区分；在时间语境中近义于 durante，但 a lo largo de 更强调连续性和全程覆盖。"
+          "word": "personalizar",
+          "translation": "个性化定制，因人而异地调整",
+          "note": "personalizar 意为『根据个人特点或需求进行定制调整』，在医疗、教育和科技语境中均极为高频；名词 personalización（个性化）是当代健康和科技报道的核心词汇；注意与 individualizar（个别化处理）的区别：personalizar 更强调贴合个人偏好，individualizar 更强调针对个体的差异化对待，两者在医学语境中常互换使用。"
+        },
+        {
+          "word": "adherencia",
+          "translation": "依从性，持续遵从（医学专业术语）",
+          "note": "adherencia 在医学和公共卫生语境中是专业术语，指『患者或个体对治疗方案、健康建议的持续遵从程度』；adherencia al tratamiento（治疗依从性）是临床研究的核心指标；源自 adherir（粘附、坚持），词根含『粘附』之义；低依从性（baja adherencia）是慢性病管理失败的首要原因，这一概念在健康政策报道中不可回避。"
         }
       ]
     },
     {
       "id": 6,
-      "es": "\"Para que la alimentación saludable sea más accesible y sostenible, recomendamos centrarse en los hábitos alimenticios generales en lugar de en nutrientes o alimentos específicos. Este enfoque es práctico y se puede adaptar a las diferentes etapas de la vida, sin dejar de lado las nueve características clave\", recalca Lichtenstein. \"Estas recomendaciones se aplican a cualquier lugar donde comas: en casa, en la escuela, en el trabajo, en restaurantes o en tu comunidad. Lo importante es progresar, no alcanzar la perfección. Cada vez que eliges una alternativa más saludable, das un paso hacia una vida más sana\".",
+      "es": "\"Para que la alimentación saludable sea más accesible y sostenible, recomendamos centrarse en los hábitos alimenticios generales en lugar de en nutrientes o alimentos específicos. Este enfoque es práctico y se puede adaptar a las diferentes etapas de la vida, sin <strong>dejar de lado</strong> las nueve características clave\", <strong>recalca</strong> Lichtenstein. \"Estas recomendaciones se aplican a cualquier lugar donde comas: en casa, en la escuela, en el trabajo, en restaurantes o en tu comunidad. Lo importante es progresar, no alcanzar la perfección. Cada vez que eliges una alternativa más saludable, das un paso hacia una vida más sana\".",
       "zh": "『为了让健康饮食更易实现、更可持续，我们建议将重点放在整体饮食习惯上，而非具体的营养素或食物。这一方式切实可行，可适应人生不同阶段，同时不忽视九项核心特征，』利希滕斯坦强调道。『这些建议适用于任何就餐场所：家中、学校、工作单位、餐厅或社区。重要的是不断进步，而非追求完美。每当你选择一种更健康的替代品，就是向更健康的生活迈进了一步。』",
       "vocab": [
         {
-          "word": "recalca",
-          "translation": "强调，着重指出",
-          "note": "recalcar 意为『反复强调、着重指出』，比 decir 或 afirmar 语气更强，暗示所说内容值得特别注意；在引语归因动词中，新闻常用：afirmar（表示）、señalar（指出）、subrayar（强调）、recalcar（着重强调）、apuntar（提及）——掌握这组动词有助于精准理解作者对引语重要性的判断。"
+          "word": "dejar de lado",
+          "translation": "将……搁置一旁，忽视，不顾",
+          "note": "dejar de lado 是固定搭配，意为『将某事物排除在外、刻意忽略』；sin dejar de lado（在不忽视……的前提下）是其否定形式，表示『兼顾』；近义表达对比：dejar de lado（主动搁置）、pasar por alto（无意忽略）、hacer caso omiso de（故意无视）——三者均表示『忽视』，但主动性和意图程度依次递增。"
         },
         {
-          "word": "sin dejar de lado",
-          "translation": "同时不忽视，不放弃",
-          "note": "dejar de lado 是固定搭配，意为『将……搁置一旁、忽视』；sin dejar de lado 则为其否定形式，表示『在做某事的同时不忽略另一事』；近义表达：sin perder de vista（不忽视）、teniendo en cuenta（考虑到）；dejar de lado 在辩论和政策文本中极为高频。"
+          "word": "recalca",
+          "translation": "着重强调，反复强调",
+          "note": "recalcar 意为『反复强调、着重指出』，是新闻引语归因动词中语气最强的一档；新闻引语归因动词语气梯度：apuntar（提及）< señalar（指出）< afirmar（表示）< subrayar（强调）< recalcar（着重强调）；recalcar 的使用暗示作者认为该引语内容是受访者特别希望读者注意的核心观点，准确识别这一信号是精读新闻的关键。"
         }
       ]
     },
     {
       "id": 7,
-      "es": "Estas son las nueve claves de un patrón alimentario saludable para el corazón según la AHA:\n\n-Ajustar lo que se come a lo que nos movemos. Intente equilibrar la cantidad de comida que ingiere con su nivel de actividad física para alcanzar y mantener un peso corporal saludable.\n\n-Consumir abundantes frutas y verduras, y elegir una amplia variedad: incluya diferentes colores, texturas y tipos de productos, y recuerde que incluso los alimentos enlatados y congelados pueden ser nutritivos y económicos.\n\n-Optar por alimentos elaborados principalmente con cereales integrales en lugar de cereales refinados: alimentos como el pan integral, el arroz integral y la avena son mejores opciones que los cereales refinados, incluidos el pan blanco o el arroz blanco.\n\n-Elegir fuentes de proteínas saludables: sustituya la carne por fuentes vegetales como las legumbres, incluyendo frijoles, guisantes y lentejas, junto con frutos secos y semillas; consuma pescado y mariscos con regularidad; seleccione productos lácteos bajos en grasa o sin grasa; y si desea consumir carne roja, elija cortes magros, evite los procesados y limite el tamaño de las porciones.\n\n-Escoger fuentes de grasas insaturadas (como el aceite de oliva) en lugar de fuentes de grasas saturadas (mantequillas, grasas animales): reemplace las grasas saturadas con grasas insaturadas saludables, incluidas las que se encuentran en los frutos secos, las semillas, los aguacates y los aceites vegetales no tropicales.\n\n-Optar por alimentos mínimamente procesados en lugar de ultraprocesados: opte por alimentos lo más cercanos posible a su estado natural, con un mínimo de ingredientes comerciales añadidos, en lugar de aquellos que están altamente procesados con aditivos.\n\n-Minimizar la ingesta de azúcares añadidos en bebidas y alimentos: limite las bebidas azucaradas que consume y los alimentos con azúcar añadido que ingiere.\n\n-Elegir alimentos bajos en sodio y preparar los alimentos con poca o ninguna sal: tenga en cuenta las fuentes ocultas de sal en los alimentos preparados y envasados comercialmente, y sazone sus alimentos con opciones más saludables como hierbas, especias o limón en lugar de sal.\n\n-Si no consume alcohol, no empiece; si lo consume, limite su consumo: el alcohol puede aumentar el riesgo de padecer hipertensión y otros problemas de salud, así que si no bebe, no empiece a hacerlo.",
+      "es": "Estas son las nueve claves de un patrón alimentario saludable para el corazón según la AHA:\n\n-Ajustar lo que se come a lo que nos movemos. Intente equilibrar la cantidad de comida que ingiere con su nivel de actividad física para alcanzar y mantener un peso corporal saludable.\n\n-Consumir abundantes frutas y verduras, y elegir una amplia variedad: incluya diferentes colores, texturas y tipos de productos, y recuerde que incluso los alimentos enlatados y congelados pueden ser nutritivos y económicos.\n\n-Optar por alimentos elaborados principalmente con cereales integrales en lugar de cereales refinados: alimentos como el pan integral, el arroz integral y la avena son mejores opciones que los cereales refinados, incluidos el pan blanco o el arroz blanco.\n\n-Elegir fuentes de proteínas saludables: sustituya la carne por fuentes vegetales como las legumbres, incluyendo frijoles, guisantes y lentejas, junto con frutos secos y semillas; consuma pescado y mariscos con regularidad; seleccione productos lácteos bajos en grasa o sin grasa; y si desea consumir carne roja, elija <strong>cortes magros</strong>, evite los procesados y limite el tamaño de las porciones.\n\n-Escoger fuentes de grasas insaturadas (como el aceite de oliva) en lugar de fuentes de grasas saturadas (mantequillas, grasas animales): reemplace las grasas saturadas con grasas insaturadas saludables, incluidas las que se encuentran en los frutos secos, las semillas, los aguacates y los aceites vegetales no tropicales.\n\n-Optar por alimentos <strong>mínimamente procesados</strong> en lugar de <strong>ultraprocesados</strong>: opte por alimentos lo más cercanos posible a su estado natural, con un mínimo de ingredientes comerciales añadidos, en lugar de aquellos que están altamente procesados con aditivos.\n\n-Minimizar la <strong>ingesta</strong> de azúcares añadidos en bebidas y alimentos: limite las bebidas azucaradas que consume y los alimentos con azúcar añadido que ingiere.\n\n-Elegir alimentos bajos en sodio y preparar los alimentos con poca o ninguna sal: tenga en cuenta las fuentes ocultas de sal en los alimentos preparados y envasados comercialmente, y sazone sus alimentos con opciones más saludables como hierbas, especias o limón en lugar de sal.\n\n-Si no consume alcohol, no empiece; si lo consume, limite su consumo: el alcohol puede aumentar el riesgo de padecer hipertensión y otros problemas de salud, así que si no bebe, no empiece a hacerlo.",
       "zh": "以下是AHA关于心脏健康饮食模式的九项核心原则：\n\n——根据运动量调整饮食量。尽量使摄入的食物量与体育活动水平相平衡，以达到并维持健康的体重。\n\n——大量食用蔬果，并选择多种多样的品种：涵盖不同颜色、质地和类型的产品，并记住即使是罐装和冷冻食品也可以兼顾营养与经济实惠。\n\n——选择以全谷物而非精制谷物为主要原料的食品：全麦面包、糙米和燕麦等食品优于精制谷物，包括白面包和白米饭。\n\n——选择健康的蛋白质来源：用豆类（包括芸豆、豌豆和扁豆）等植物性来源以及坚果和种子替代肉类；定期食用鱼类和海鲜；选择低脂或脱脂乳制品；如需食用红肉，应选择瘦肉部位，避免加工肉制品并控制份量。\n\n——选择不饱和脂肪来源（如橄榄油）而非饱和脂肪来源（黄油、动物脂肪）：用健康的不饱和脂肪替代饱和脂肪，包括坚果、种子、牛油果和非热带植物油中所含的脂肪。\n\n——选择最低限度加工食品而非超加工食品：尽量选择接近天然状态、添加商业配料最少的食品，而非含有大量添加剂的高度加工食品。\n\n——尽量减少饮料和食物中的添加糖摄入：限制含糖饮料的饮用量以及含添加糖食品的摄入量。\n\n——选择低钠食品，烹饪时少用盐或不用盐：注意商业预制和包装食品中隐藏的盐分来源，用香草、香料或柠檬等更健康的选择代替盐来为食物调味。\n\n——不饮酒者不要开始饮酒；已饮酒者应限制饮酒量：酒精会增加患高血压和其他健康问题的风险，因此如果不喝酒，就不要开始。",
       "vocab": [
         {
-          "word": "ingesta",
-          "translation": "摄入量，摄取",
-          "note": "ingesta 是医学和营养学的正式术语，指『食物或物质的摄入量』；动词形式 ingerir（摄入、吞咽）是同族词；注意与 ingreso（收入、入院）区分，两者词形相近但含义完全不同——ingreso 源自 ingresar（进入、入账），而 ingesta 源自 ingerir（吞咽）。"
-        },
-        {
           "word": "cortes magros",
           "translation": "瘦肉部位",
-          "note": "magro/a 意为『脂肪含量低的、精瘦的』，在肉类语境中专指『瘦肉』；注意与 flaco（消瘦的，指人）区分：描述食物用 magro，描述人的体型用 flaco 或 delgado；同族词：magra（瘦肉片）、adelgazar（减肥，使变瘦）——词根含『少脂』之义。"
+          "note": "magro/a 意为『脂肪含量极低的、精瘦的』，在肉类语境中专指『瘦肉』；注意与描述人体型的 flaco/delgado 区分：描述食物脂肪含量用 magro，描述人消瘦用 flaco 或 delgado；corte（切割部位）在肉类语境中指『某一特定部位的切法』，如 corte de ternera（小牛肉部位）；两词组合 cortes magros 是营养学报道的专业表达。"
+        },
+        {
+          "word": "mínimamente procesados / ultraprocesados",
+          "translation": "最低限度加工的 / 超加工的",
+          "note": "这组对立词是当代营养学报道的核心概念对：mínimamente procesado（最低限度加工，即接近天然状态）vs. ultraprocesado（超加工，即经过多重工业处理、含大量添加剂）；ultra- 前缀表示『超越、极度』，同类词：ultravioleta（紫外线）、ultrasónico（超声波）；NOVA食品分类系统将食品分为四级，ultraprocesados 属于第四级，是当前公共卫生政策的核心议题。"
+        },
+        {
+          "word": "ingesta",
+          "translation": "摄入量，摄取（医学正式术语）",
+          "note": "ingesta 是医学和营养学的正式术语，专指『食物或物质进入体内的量』；动词 ingerir（摄入、吞咽）是同族词；注意高度相似的假朋友陷阱：ingreso 意为『收入、入院』，源自 ingresar（进入、入账），与 ingesta 词根不同——ingesta 源自 ingerir（吞咽），两者形近义远，是医学西语阅读中的常见混淆点。"
         }
       ]
     },
     {
       "id": 8,
-      "es": "En enero, el Gobierno de Trump publicó sus propias guías dietéticas (Dietary Guidelines for Americans 2025-2030) con gran polémica ya que, si bien coincide con las guías elaboradas por asociaciones y sociedades cardiológicas de todo el mundo en el tema de los ultraprocesados y la sal, es bastante permisiva con el alcohol y presenta la carne roja como una fuente de proteínas valiosa.",
+      "es": "En enero, el Gobierno de Trump publicó sus propias guías dietéticas (Dietary Guidelines for Americans 2025-2030) con gran <strong>polémica</strong> ya que, <strong>si bien</strong> coincide con las guías elaboradas por asociaciones y sociedades cardiológicas de todo el mundo en el tema de los ultraprocesados y la sal, es bastante <strong>permisiva</strong> con el alcohol y presenta la carne roja como una fuente de proteínas valiosa.",
       "zh": "今年1月，特朗普政府发布了其自己的饮食指南（《2025-2030年美国人饮食指南》），引发了巨大争议。尽管该指南在超加工食品和盐的问题上与全球各心脏病学协会和学会的指南保持一致，但在酒精问题上相当宽松，并将红肉定位为宝贵的蛋白质来源。",
       "vocab": [
         {
           "word": "polémica",
-          "translation": "争议，论战，争论",
-          "note": "polémica 指围绕某议题产生的公开争论或舆论风波，比 debate（辩论）更强调对立性和争议性；形容词 polémico/a（有争议的）在新闻中极为高频：una decisión polémica（一项有争议的决定）；动词 polemizar（展开论战）；注意与英语 polemic 的对应关系，是跨语言迁移价值高的词汇。"
+          "translation": "争议，论战，舆论风波",
+          "note": "polémica 指围绕某议题产生的公开对立性争论，比 debate（辩论）更强调对抗性和社会撕裂感；形容词 polémico/a（有争议的）在新闻中极为高频：una medida polémica（一项有争议的措施）；动词 polemizar（展开论战）；注意与英语 polemic 的对应关系——两者均源自希腊语 polemos（战争），暗示争论的激烈程度。"
         },
         {
           "word": "si bien",
-          "translation": "尽管，虽然",
-          "note": "si bien 是书面语中表示让步关系的固定连接词，相当于 aunque，但语体更正式；常见于新闻、法律和学术文本；句式结构：si bien + [让步内容], [主要论点]；注意与 si bien es cierto que（固然……）区分，后者让步语气更强，常用于承认对方论点后转折。"
+          "translation": "尽管，虽然（书面让步连接词）",
+          "note": "si bien 是书面语中表示让步关系的固定连接词，相当于 aunque，但语体更正式，多见于新闻、法律和学术文本；句式结构：si bien + [让步内容], [主要论点]；与 aunque 的细微差别：si bien 更常用于承认对方部分正确后转入批评，语气更为客观克制；是C1书面表达的标志性连接词。"
+        },
+        {
+          "word": "permisiva",
+          "translation": "宽松的，纵容的，过于放任的",
+          "note": "permisivo/a 源自 permitir（允许），意为『在某方面过于宽松、缺乏约束』，带有轻微的负面评价色彩；ser permisivo con（在……方面过于宽松）是固定搭配；注意与 flexible（灵活的）的区别：flexible 是中性词，permisivo 暗含批评，指宽松到不应该的程度；在政策评论中，用 permisivo 描述某项规定即意味着作者认为该规定力度不足。"
         }
       ]
     },
     {
       "id": 9,
-      "es": "La AHA es mucho más cauta, como todas las sociedades de Cardiología a nivel global, y reconoce que sigue abierto el debate sobre la cantidad de proteínas y el riesgo de enfermedades cardiovasculares, pero es tajante al afirmar que actualmente consumimos demasiada carne y pocas proteínas de origen vegetal. No recomienda eliminar la carne roja del todo, pero sí \"intercambiarla\" con frecuencia por legumbres o pescado. Los cardiólogos insisten: el patrón que realmente salva vidas es aquel donde la proteína vegetal es la protagonista.",
+      "es": "La AHA es mucho más <strong>cauta</strong>, como todas las sociedades de Cardiología a nivel global, y reconoce que sigue abierto el debate sobre la cantidad de proteínas y el riesgo de enfermedades cardiovasculares, pero es <strong>tajante</strong> al afirmar que actualmente consumimos demasiada carne y pocas proteínas de origen vegetal. No recomienda eliminar la carne roja del todo, pero sí \"intercambiarla\" con frecuencia por legumbres o pescado. Los cardiólogos insisten: el patrón que realmente salva vidas es aquel donde la proteína vegetal es la <strong>protagonista</strong>.",
       "zh": "与全球所有心脏病学学会一样，AHA的态度要审慎得多。它承认关于蛋白质摄入量与心血管疾病风险的争论仍未有定论，但在以下方面态度鲜明：我们目前摄入了过多的肉类，而植物性蛋白质摄入不足。它并不建议完全戒除红肉，但确实建议经常用豆类或鱼类『替换』红肉。心脏病学家坚持认为：真正能够挽救生命的饮食模式，是以植物性蛋白质为主角的模式。",
       "vocab": [
         {
+          "word": "cauta",
+          "translation": "审慎的，谨慎的，小心翼翼的",
+          "note": "cauto/a 意为『行事谨慎、不轻易表态』，在科学和政策语境中是正面词汇，暗示基于充分证据才得出结论；与下文 tajante 形成鲜明对比：cauta 描述AHA在争议问题上的审慎态度，tajante 描述其在确定性问题上的鲜明立场；近义词：prudente（稳重的）、circunspecto（周全的）——三者程度依次递增，circunspecto 最为正式。"
+        },
+        {
           "word": "tajante",
-          "translation": "斩钉截铁的，明确的，毫不含糊的",
-          "note": "tajante 源自 tajar（切割），字面义为『切割般锋利的』，引申为『态度明确、毫不含糊、不留余地的』；在新闻中常用于描述官员或专家的强硬表态：ser tajante en（在……上态度鲜明）；近义词：contundente（有力的、决定性的）、categórico（断然的）；三者均描述强硬立场，但 tajante 更强调不容置疑的语气。"
+          "translation": "斩钉截铁的，毫不含糊的，态度鲜明的",
+          "note": "tajante 源自 tajar（切割），字面义为『切割般锋利的』，引申为『态度明确、不留余地』；在新闻中常用于描述官员或专家的强硬表态：ser tajante en（在……上态度鲜明）；近义词对比：contundente（有力的，强调论据充分）、categórico（断然的，强调绝对性）、tajante（斩钉截铁，强调语气不容置疑）——三者均描述强硬立场，语义侧重略有不同。"
         },
         {
           "word": "protagonista",
           "translation": "主角，核心角色",
-          "note": "protagonista 源自希腊语 protos（第一）+ agonistes（竞争者），本指戏剧中的主角；在新闻和评论中广泛用于比喻『某议题或局面的核心角色』：ser el protagonista de（成为……的主角）；动词 protagonizar（主演；成为……的主角）在政治新闻中极为高频：protagonizar una crisis（成为危机的主角）。"
+          "note": "protagonista 源自希腊语 protos（第一）+ agonistes（竞争者），本指戏剧主角；在新闻和评论中广泛用于比喻『某议题或局面的核心角色』；动词 protagonizar（主演；成为……的主角）在政治新闻中极为高频：protagonizar una crisis（成为危机的主角）、protagonizar un escándalo（成为丑闻的当事人）；这类戏剧词汇向新闻语言的迁移是西语修辞的重要特征。"
         }
       ]
     },
     {
       "id": 10,
-      "es": "Una de las advertencias más potentes de este nuevo documento es que la salud del corazón no empieza a preocupar a los 50 años. \"Las enfermedades cardiovasculares comienzan en la infancia; incluso los factores prenatales pueden contribuir a un mayor riesgo en los niños a medida que crecen. Por lo tanto, es importante que se adopten hábitos alimenticios saludables desde la niñez y que se mantengan a lo largo de toda la vida\", subraya Lichtenstein, quien añade que la mejor manera de lograrlo \"es que los adultos sirvan de ejemplo con una alimentación saludable para el corazón, tanto dentro como fuera del hogar\".",
+      "es": "Una de las advertencias más potentes de este nuevo documento es que la salud del corazón no empieza a preocupar a los 50 años. \"Las enfermedades cardiovasculares comienzan en la infancia; incluso los factores <strong>prenatales</strong> pueden contribuir a un mayor riesgo en los niños a medida que crecen. Por lo tanto, es importante que se adopten hábitos alimenticios saludables desde la niñez y que se mantengan a lo largo de toda la vida\", <strong>subraya</strong> Lichtenstein, quien añade que la mejor manera de lograrlo \"es que los adultos sirvan de <strong>ejemplo</strong> con una alimentación saludable para el corazón, tanto dentro como fuera del hogar\".",
       "zh": "这份新文件最有力的警示之一是：对心脏健康的关注不应等到50岁才开始。『心血管疾病始于儿童期；甚至产前因素也可能随着孩子的成长而增加其患病风险。因此，从儿童期就养成健康的饮食习惯并终身坚持，至关重要，』利希滕斯坦强调道。她补充说，实现这一目标的最佳方式，『是成年人在家内外都以有益心脏健康的饮食方式以身作则』。",
       "vocab": [
         {
-          "word": "a medida que",
-          "translation": "随着……，与……同步",
-          "note": "a medida que 是表示同步进行的固定连接词，引导时间状语从句，强调两个过程同步发展；比 cuando（当……时）更强调渐进性和同步性；近义表达：conforme（随着）、según（随着）；三者均可表达『随着……的发展』，但 a medida que 最为正式，在学术和新闻写作中最为常见。"
+          "word": "prenatales",
+          "translation": "产前的，出生前的",
+          "note": "prenatal 由拉丁语前缀 pre-（之前）+ natalis（出生的，源自 nasci『出生』）构成；同族词群：natal（出生的）、natalidad（出生率）、postnatal（产后的）、neonatal（新生儿的）；理解 pre-/post- 前缀规律可快速推断大量医学词汇：preoperatorio（术前的）、postoperatorio（术后的）、precoz（早熟的）。"
+        },
+        {
+          "word": "subraya",
+          "translation": "强调，着重指出（引语归因动词）",
+          "note": "subrayar 本义为『在文字下方画线』，引申为『着重强调』；作为引语归因动词，subrayar 暗示作者认为该引语是受访者特别希望读者注意的重点内容；与同段出现的 añade（补充说）形成对比：subrayar 标记核心观点，añadir 标记补充信息；准确识别这组归因动词的语气差异是精读新闻的基本功。"
         },
         {
           "word": "sirvan de ejemplo",
           "translation": "起到榜样作用，以身作则",
-          "note": "servir de + 名词 是重要固定结构，意为『充当……的角色、起到……的作用』；servir de ejemplo（起到榜样作用）、servir de modelo（充当范本）、servir de pretexto（充当借口）；注意 servir de 与 servir para 的区别：servir de 强调角色定位，servir para 强调功能用途。"
+          "note": "servir de + 名词 是重要固定结构，意为『充当……的角色、起到……的作用』；servir de ejemplo（起到榜样作用）、servir de modelo（充当范本）、servir de pretexto（充当借口）；注意 servir de 与 servir para 的本质区别：servir de 强调角色定位（充当什么），servir para 强调功能用途（用来做什么）——两者形式相近，混淆率极高。"
         }
       ]
     },
     {
       "id": 11,
-      "es": "La recomendación de AHA es clara: los niños deben seguir este patrón cardiosaludable a partir del primer año de vida. No se trata de poner a dieta a los más pequeños, sino de que los adultos actúen como modelos: si en la despensa de casa entran frutas y legumbres en lugar de zumos azucarados y bollería, el riesgo cardiovascular del niño cuando sea adulto se reduce drásticamente.",
+      "es": "La recomendación de AHA es clara: los niños deben seguir este patrón <strong>cardiosaludable</strong> a partir del primer año de vida. No se trata de poner a dieta a los más pequeños, sino de que los adultos actúen como modelos: si en la <strong>despensa</strong> de casa entran frutas y legumbres en lugar de zumos azucarados y bollería, el riesgo cardiovascular del niño cuando sea adulto se reduce <strong>drásticamente</strong>.",
       "zh": "AHA的建议明确：儿童应从出生后第一年起就遵循这一有益心脏健康的饮食模式。这并非要让幼儿节食，而是要让成年人起到榜样作用：如果家中储物柜里放的是水果和豆类，而非含糖果汁和糕点，孩子成年后的心血管风险将大幅降低。",
       "vocab": [
         {
-          "word": "no se trata de",
-          "translation": "这并非是……，问题不在于……",
-          "note": "no se trata de + 名词/动词原形 是极为重要的固定句式，用于澄清误解、纠正错误理解，相当于『这不是……的问题』；完整结构常为 no se trata de X, sino de Y（不是X，而是Y）；正面形式 se trata de 意为『这是关于……的问题、涉及的是……』；两者均是西语论证文体的核心句式。"
+          "word": "cardiosaludable",
+          "translation": "有益心脏健康的",
+          "note": "cardiosaludable 是由 cardio-（心脏，源自希腊语 kardia）+ saludable（健康的）合成的复合形容词，是西班牙营养学和心脏病学报道的专业术语；cardio- 是高产医学前缀：cardiología（心脏病学）、cardiovascular（心血管的）、cardiopatía（心脏病）；这类专业复合词的构词逻辑一旦掌握，可快速推断大量医学新词。"
+        },
+        {
+          "word": "despensa",
+          "translation": "食品储藏室，储物柜，食品柜",
+          "note": "despensa 指家中专门存放食品的储藏空间，在西班牙文化中是家庭饮食习惯的象征性场所；在营养学报道中，『改变家中 despensa 的内容』是描述饮食干预的常用比喻，暗示从源头改变饮食环境；同族词：dispensar（分发、配药）、dispensario（诊所）——词根含『分配、储备』之义。"
         },
         {
           "word": "drásticamente",
-          "translation": "大幅地，急剧地，彻底地",
-          "note": "drásticamente 由 drástico（激烈的、大幅的）+ -mente 构成；drástico/a 源自希腊语 drastikos（有效的、强力的），在新闻中常修饰变化幅度：reducirse drásticamente（大幅下降）、aumentar drásticamente（急剧上升）；近义副词：considerablemente（相当大幅度地）、significativamente（显著地）——三者程度依次递减。"
+          "translation": "大幅地，急剧地，根本性地",
+          "note": "drásticamente 由 drástico（激烈的、大幅的）+ -mente 构成；drástico/a 源自希腊语 drastikos（有效的、强力的），在新闻中常修饰变化幅度：reducirse drásticamente（大幅下降）、aumentar drásticamente（急剧上升）；注意与近义副词的程度差异：ligeramente（轻微地）< moderadamente（适度地）< considerablemente（相当大幅度地）< drásticamente（大幅地）< radicalmente（根本性地）。"
         }
       ]
     },
     {
       "id": 12,
-      "es": "Seguir estas nueve reglas no solo protege las arterias. Si bien las directrices están diseñadas específicamente para mejorar la salud cardiovascular, en general coinciden con las recomendaciones dietéticas para otras afecciones como la diabetes tipo 2, la enfermedad renal, algunos tipos de cáncer y la salud cerebral. Esto se debe principalmente a factores de riesgo comunes que afectan tanto a la salud física como a la cognitiva, como la hipertensión, el colesterol alto, la hiperglucemia, el sobrepeso y la disminución de la función renal, todos ellos influenciados por la alimentación.",
+      "es": "Seguir estas nueve reglas no solo protege las arterias. Si bien las directrices están diseñadas específicamente para mejorar la salud cardiovascular, en general coinciden con las recomendaciones dietéticas para otras <strong>afecciones</strong> como la diabetes tipo 2, la enfermedad renal, algunos tipos de cáncer y la salud cerebral. <strong>Esto se debe principalmente a</strong> factores de riesgo comunes que afectan tanto a la salud física como a la cognitiva, como la hipertensión, el colesterol alto, la <strong>hiperglucemia</strong>, el sobrepeso y la disminución de la función renal, todos ellos influenciados por la alimentación.",
       "zh": "遵循这九项原则不仅能保护动脉。尽管这些指导方针是专门为改善心血管健康而设计的，但总体上与针对其他疾病的饮食建议相吻合，例如2型糖尿病、肾病、某些类型的癌症以及大脑健康。这主要是因为存在同时影响身体健康和认知健康的共同风险因素，如高血压、高胆固醇、高血糖、超重以及肾功能下降，而这些因素均受饮食影响。",
       "vocab": [
         {
           "word": "afecciones",
-          "translation": "疾病，病症，不适",
-          "note": "afección 在医学语境中是『疾病、病症』的正式用词，与 patología、enfermedad 近义，但 afección 更常指慢性或功能性疾病，语气相对温和；动词 afectar（影响、侵袭）是同族词：una enfermedad que afecta al corazón（一种侵袭心脏的疾病）；注意假朋友陷阱：英语 affection 意为『感情』，而西语 afección 意为『疾病』。"
+          "translation": "病症，疾患（医学正式用词）",
+          "note": "afección 在医学语境中是『疾病、病症』的正式用词，与 patología、enfermedad 近义，但 afección 更常指慢性或功能性疾病，语气相对温和；注意高价值假朋友陷阱：英语 affection 意为『感情、喜爱』，而西语 afección 意为『疾病』——两者形式完全相同，含义天差地别，是西语学习者最常踩的假朋友之一。"
         },
         {
-          "word": "esto se debe a",
-          "translation": "这是由于……，这归因于……",
-          "note": "esto se debe a 是表达因果关系的固定句式，意为『这是由……造成的』；deberse a 比 ser causado por 更简洁自然，是新闻和学术写作中解释原因的首选表达；完整句式：esto se debe principalmente a（这主要是由于）、esto se debe en parte a（这部分归因于）；掌握这一结构可大幅提升因果论证的流畅度。"
+          "word": "esto se debe principalmente a",
+          "translation": "这主要是由于……，这主要归因于……",
+          "note": "deberse a 是表达因果关系的核心固定句式，意为『由……造成、归因于……』；比 ser causado por 更简洁自然，是新闻和学术写作中解释原因的首选表达；程度副词的搭配：esto se debe principalmente a（主要归因于）、esto se debe en parte a（部分归因于）、esto se debe exclusivamente a（完全归因于）——掌握这组搭配可精准表达因果关系的程度。"
+        },
+        {
+          "word": "hiperglucemia",
+          "translation": "高血糖（症）",
+          "note": "hiperglucemia 由 hiper-（超过、过高）+ glucemia（血糖水平）构成；glucemia 源自希腊语 glukus（甜）+ haima（血液）；hiper- 是医学高产前缀：hipertensión（高血压）、hipercolesterolemia（高胆固醇血症）、hiperactividad（多动症）；对应词 hipoglucemia（低血糖）使用 hipo-（低于）前缀；掌握 hiper-/hipo- 对立前缀可快速推断大量医学术语。"
         }
       ]
     },
     {
       "id": 13,
-      "es": "\"Lo que ingieres influye significativamente en cómo funciona tu cuerpo y en los cambios que experimenta con la edad\", apunta Lichtenstein. \"Una alimentación saludable puede favorecer la salud y el bienestar a lo largo de la vida, más allá de la salud cardiovascular\".",
+      "es": "\"Lo que ingieres influye significativamente en cómo funciona tu cuerpo y en los cambios que experimenta con la edad\", <strong>apunta</strong> Lichtenstein. \"Una alimentación saludable puede favorecer la salud y el bienestar a lo largo de la vida, <strong>más allá de</strong> la salud cardiovascular\".",
       "zh": "『你所摄入的食物对你的身体运作方式以及随年龄发生的变化有着显著影响，』利希滕斯坦指出。『健康的饮食可以促进贯穿一生的健康与福祉，其益处超越心血管健康本身。』",
       "vocab": [
         {
           "word": "apunta",
-          "translation": "指出，提及，点明",
-          "note": "apuntar 作引语归因动词时，意为『简要指出、顺带提及』，语气比 afirmar（断言）或 subrayar（强调）更轻，暗示所引内容是补充性观点而非核心主张；新闻引语归因动词的语气梯度：apuntar（提及）< señalar（指出）< afirmar（表示）< subrayar（强调）< recalcar（着重强调）——准确区分这组动词是精读新闻的关键。"
+          "translation": "提及，顺带指出（引语归因动词，语气最轻）",
+          "note": "apuntar 作引语归因动词时，意为『简要提及、顺带指出』，是归因动词中语气最轻的一档，暗示所引内容是补充性观点而非核心主张；与全文其他归因动词对比：apuntar（提及）< señalar（指出）< afirmar（表示）< subrayar（强调）< recalcar（着重强调）；作者在文章结尾处选用 apunta 而非 subraya，暗示这句话是画龙点睛的补充，而非全文最重要的论点。"
         },
         {
           "word": "más allá de",
-          "translation": "超越，不仅限于，在……之外",
-          "note": "más allá de 是固定搭配，本义为『在……更远处』，在抽象语境中引申为『超出……的范围、不仅限于……』；是学术和评论写作中表达『范围超越』的核心表达：más allá de las cifras（超越数字本身）、más allá de lo esperado（超出预期）；近义表达：más que（不只是）、por encima de（高于、超越）。"
+          "translation": "超越，不仅限于，在……范围之外",
+          "note": "más allá de 本义为『在……更远处』，在抽象语境中引申为『超出……的范围』；是学术和评论写作中表达『范围超越』的核心表达：más allá de las cifras（超越数字本身）、más allá de lo esperado（超出预期）；近义表达对比：más que（不只是，程度较弱）、por encima de（高于，强调层级）、más allá de（超越，强调范围边界）——三者侧重略有不同。"
         }
       ]
     }
   ]
 }
-
-
-
-
-
