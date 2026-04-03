@@ -1,0 +1,302 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "教育评论",
+  "difficulty": "C1",
+  "wordCount": "约950词",
+  "title": "Aulas grandes y pizarras, por favor",
+  "subtitle": "请还给我们大教室和黑板",
+  "resumenEs": "El autor defiende que la reducción del tamaño de las aulas universitarias ha resultado contraproducente: ha eliminado la socialización, el compañerismo y la dinámica de grupo que caracterizaban la educación anterior. Propone recuperar las aulas grandes, reducir la diversificación de grados y reivindicar el uso de la pizarra frente al PowerPoint, integrando a la vez las ventajas de la tecnología moderna.",
+  "resumenZh": "作者认为，大学缩减班级规模的做法适得其反：它消除了过去教育中的社交互动、同学情谊和集体动力。他主张恢复大教室、减少专业过度细分，并重新重视黑板相对于PPT的价值，同时融合现代技术的优势。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Hace años que, en varias universidades, se optó por reducir el número de alumnos por aula, de manera que, en lugar de acoger a no menos de 100 estudiantes en cada clase, se pasó a tener unos 40, que a veces no son más de 20 y, en el mejor de los casos, unos 70, dependiendo de la <strong>asistencia</strong>. Se dijo, en su momento, que la docencia era más <strong>eficiente</strong> cuando se impartía a menos estudiantes, pudiendo tener un trato más personalizado por parte del profesorado.",
+      "zh": "多年前，多所大学选择缩减每个教室的学生人数，从原本每堂课容纳不少于100名学生，变为约40人，有时甚至不超过20人，而在最好的情况下，根据出勤情况，也不过70人左右。当时的说法是，向较少学生授课时，教学效果更好，教师能够提供更具针对性的个性化指导。",
+      "vocab": [
+        {
+          "word": "asistencia",
+          "translation": "出勤，到课率；援助",
+          "note": "asistencia 是典型的一词多义词：在教育语境中指『出勤率』，在医疗语境中指『救助护理』；动词 asistir a 意为『出席、参加』，注意不要受英语 assist（帮助）影响而误解为『协助』。"
+        },
+        {
+          "word": "eficiente",
+          "translation": "高效的，有效率的",
+          "note": "eficiente 与 eficaz 是学习者常混淆的一对词：eficiente 强调『以较少资源达成目标』（效率），eficaz 强调『能够达成预期效果』（效果）；两者在教育和政策文本中均高频出现，辨析清楚对阅读理解至关重要。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Pues bien, no ha ocurrido exactamente así. Aunque siempre se dice lo contrario, cada nueva generación de estudiantes es intelectualmente más interesante que la anterior. Puede que no tengan exactamente los mismos conocimientos de cultura general que las generaciones pasadas, pero <strong>atesoran</strong> otros saberes que no poseen sus antiguos y, sobre todo, manejan otras <strong>destrezas</strong>. En los últimos años ha ganado mucho terreno la creatividad, la espontaneidad, la capacidad reivindicativa e incluso la atención.",
+      "zh": "然而，事情并没有完全如此发展。尽管人们总是说相反的话，但每一代新学生在智识上都比上一代更有趣。他们或许没有和过去几代人完全相同的通识文化知识，但他们积累了前辈所不具备的其他知识，尤其是掌握了其他技能。近年来，创造力、自发性、维权意识乃至专注力都大有长进。",
+      "vocab": [
+        {
+          "word": "atesoran",
+          "translation": "积累，珍藏（知识、经验）",
+          "note": "atesorar 本义为『积累财富、囤积珍宝』，引申为对知识或品质的积累与珍藏；语气比 acumular 更具文学色彩，暗含珍视之意，在正式评论文体中用于描述无形资产的积累。"
+        },
+        {
+          "word": "destrezas",
+          "translation": "技能，技巧",
+          "note": "destreza 专指通过练习获得的『实操技能』，与 habilidad（能力，更广泛）和 competencia（胜任力，更正式）构成近义词组；三者在教育政策文本中均高频出现，辨析有助于精准理解。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Esta afirmación puede <strong>extrañar sobremanera</strong>, hasta que se repara en que las redes les han dado a los jóvenes una mayor cantidad de información, que les permite establecer analogías. Además, han perdido la humillante <strong>sumisión</strong> al poder que hace que nuestra sociedad actual sea más igualitaria que la de 30 años atrás.",
+      "zh": "这一说法可能令人大感意外，直到人们意识到：社交网络给年轻人提供了更大量的信息，使他们能够建立类比联系。此外，他们已经摆脱了对权威那种令人屈辱的顺从，这使得当今社会比30年前更加平等。",
+      "vocab": [
+        {
+          "word": "extrañar sobremanera",
+          "translation": "令人大感意外，极为出乎意料",
+          "note": "sobremanera 是副词，意为『极度地、非常』，属于正式书面用语，相当于 en extremo 或 muchísimo；前缀 sobre- 在此表示『超出常规程度』，同类词还有 sobrehumano、sobrepasar，有构词参考价值。"
+        },
+        {
+          "word": "sumisión",
+          "translation": "顺从，屈从，服从",
+          "note": "sumisión 由动词 someter（使服从）派生，在社会和政治评论中常带有负面含义，暗示被迫或不自愿的屈从；注意与 obediencia（服从，中性）的区别：sumisión 语气更强，含有尊严受损的隐含意味。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Finalmente, jamás se había observado en una persona joven semejante capacidad de atención y de saber convivir con la soledad, cosa fácil de comprobar viéndoles con sus pantallas. Ese <strong>pantallismo</strong> se suele valorar como algo negativo (y, desde luego, puede serlo), pero también cabe pensar en cómo <strong>reconducir</strong> esa superior capacidad atencional adquirida, y de eso no se habla jamás.",
+      "zh": "最后，在年轻人身上，从未观察到如此强的专注力以及与孤独共处的能力，这一点从他们盯着屏幕的样子便可轻易验证。这种『屏幕依赖』通常被视为负面现象（当然，它确实可能如此），但也不妨思考如何引导这种已经习得的卓越专注力——而这个话题从未被提及。",
+      "vocab": [
+        {
+          "word": "pantallismo",
+          "translation": "屏幕依赖，沉迷屏幕的现象",
+          "note": "pantallismo 是作者由 pantalla（屏幕）加后缀 -ismo 自造的新词，-ismo 用于构成表示某种行为倾向或社会现象的名词，如 consumismo、individualismo；这种构词方式在西语评论文体中很常见，读者需能识别并推断其含义。"
+        },
+        {
+          "word": "reconducir",
+          "translation": "引导，重新疏导，转化利用",
+          "note": "reconducir 由 re-（再次）+ conducir（引导、驾驶）构成，表示『将某事物重新引向正确方向』；在教育和政策语境中常用于描述对负面现象的积极转化，比 redirigir 更强调过程的持续性。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Por lo demás, los estudiantes cada vez son más conscientes de los enormes riesgos de manipulación y <strong>desinformación</strong> de las redes sociales, bastante más que muchos boomers, por cierto, ya que muchos de ellos se pasan el día viendo vídeos cortos en Facebook, Instagram o hasta en TikTok.",
+      "zh": "此外，学生们对社交网络操控和虚假信息风险的警觉程度越来越高，事实上比许多婴儿潮一代还要高得多，毕竟后者中有很多人整天在Facebook、Instagram甚至TikTok上刷短视频。",
+      "vocab": [
+        {
+          "word": "desinformación",
+          "translation": "虚假信息，信息误导",
+          "note": "desinformación 由 des-（否定、逆向）+ información 构成，在新闻和政治语境中专指『故意散布的虚假或误导性信息』，与 información errónea（无意的错误信息）有本质区别；是当代媒体素养话题的核心词汇。"
+        },
+        {
+          "word": "conscientes de",
+          "translation": "意识到，对……有清醒认识",
+          "note": "ser consciente de + 名词/从句 是固定搭配，表示『对某事有清醒认识』；注意与 darse cuenta de（意识到，强调某一时刻的顿悟）的区别：ser consciente de 更强调持续的认知状态，而非瞬间的发现。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Sin embargo, las universidades parecen haberse quedado en ese período, bastante <strong>naíf</strong>, de las aulas pequeñas, la llamada «innovación docente» y los PowerPoints que, por cierto, aburren o <strong>avergüenzan</strong> —vergüenza ajena— cada día más a los alumnos. La mayoría de estos ya se ha dado cuenta de que demasiados profesores solo los leen, como si ellos fueran analfabetos, con una nula capacidad de improvisación, adaptación o ampliación de la información.",
+      "zh": "然而，各大学似乎停留在那个相当天真的阶段：小教室、所谓的『教学创新』以及PPT——而PPT如今越来越让学生感到无聊或替人尴尬。大多数学生已经意识到，太多教师只是照本宣科地朗读PPT，仿佛学生是文盲一般，毫无即兴发挥、灵活调整或拓展信息的能力。",
+      "vocab": [
+        {
+          "word": "naíf",
+          "translation": "天真的，幼稚的，不切实际的",
+          "note": "naíf 是法语借词，在西语评论文体中用于形容某种观点或做法『过于天真、缺乏现实感』，带有轻微讽刺意味；注意与 ingenuo（天真无邪，中性或褒义）的区别：naíf 在批评语境中语气更为负面。"
+        },
+        {
+          "word": "avergüenzan",
+          "translation": "令人感到羞耻，使人尴尬",
+          "note": "avergonzar 是使役动词，表示『使某人感到羞耻或尴尬』；原文中的 vergüenza ajena 是固定短语，专指『替别人感到尴尬』（即中文的『替人尴尬』），是西语中极具表现力的文化词汇，值得整体记忆。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Es cierto que los alumnos actuales <strong>aparentan</strong> un mayor infantilismo en demasiados casos, sobre todo en el trato con el profesorado, aunque ello es muy probablemente debido a que la mayoría no conoce el mundo laboral porque no necesita trabajar —a diferencia de <strong>antaño</strong>—, y han vivido en un entorno innecesariamente paternalista de proximidad familiar al que cuesta renunciar.",
+      "zh": "诚然，当今学生在很多情况下表现出更强的幼稚化倾向，尤其是在与教师的相处方式上。不过，这很可能是因为大多数学生不了解职场，因为他们不需要工作——这与从前不同——，而且他们生活在一种不必要的家长式、家庭亲密氛围中，难以割舍。",
+      "vocab": [
+        {
+          "word": "aparentan",
+          "translation": "表现出，显露出（表面上）",
+          "note": "aparentar 表示『在外表上显示出某种样子』，暗含『表象与实质可能不符』的意味；注意与 parecer（看起来，更中性）的区别：aparentar 更强调主观上呈现出的外在形象，常用于批评性语境。"
+        },
+        {
+          "word": "antaño",
+          "translation": "从前，昔日",
+          "note": "antaño 是书面语和文学语体中表示『从前、过去』的副词，比 antes 更具文学色彩和怀旧感；在评论和散文中常与 hoy en día 或 actualmente 形成对比，是C1级别文体词汇的典型代表。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "A la vez, se ha dejado atrás algo que era fundamental y que, de hecho, constituía un feliz acontecimiento vital. El aula grande, con muchos estudiantes, permitía socializar y sentir que se formaba parte de una <strong>pluralidad</strong> de personas que perseguían un mismo objetivo, creándose unas dinámicas de grupo que, por desgracia, prácticamente se han perdido.",
+      "zh": "与此同时，有一些根本性的东西被抛在了身后，而那些东西实际上曾是人生中令人愉快的经历。大教室里学生众多，让人得以社交，感受到自己是一群追求共同目标的人群中的一员，由此形成的集体动力，如今已几乎消失殆尽。",
+      "vocab": [
+        {
+          "word": "pluralidad",
+          "translation": "多元性，众多，多样性",
+          "note": "pluralidad 在社会和政治语境中常指『多元性、多样性』，强调群体的丰富构成；注意与 diversidad（多样性，更强调差异）的区别：pluralidad 更侧重『数量上的众多与并存』，在民主和教育话题中高频出现。"
+        },
+        {
+          "word": "dinámicas de grupo",
+          "translation": "集体动力，群体互动机制",
+          "note": "dinámica de grupo 是心理学和教育学的固定术语，指群体内部成员之间的互动模式和影响机制；dinámica 本义为物理学中的『动力学』，引申为任何系统内部的运作规律，在社会科学文本中极为常见。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "El <strong>compañerismo</strong> es complicadísimo ahora al haber poquísimas personas en las clases, puesto que es difícil encontrar siempre a personas afines en grupos tan pequeños con los que, además, se pueda socializar fuera de las aulas o empezar a establecer relaciones de por vida; estas, en muchos casos, beneficiosas también en el futuro ámbito laboral. En este sentido, la tremenda —y, en muchos casos, absurda— <strong>diversificación</strong> de grados tampoco favorece la creación de esos grupos de interacción inmediata.",
+      "zh": "如今，由于班级人数极少，同学情谊的培养变得极为困难，因为在如此小的群体中，很难总能找到志同道合的人，更难以在课堂之外进行社交，或开始建立终身的人际关系——而这些关系在很多情况下，对未来的职业发展也大有裨益。从这个角度来看，专业方向的过度——且在许多情况下毫无意义的——细分，同样不利于形成那种即时互动的群体。",
+      "vocab": [
+        {
+          "word": "compañerismo",
+          "translation": "同学情谊，同伴精神",
+          "note": "compañerismo 由 compañero（同伴）加后缀 -ismo 构成，表示同伴之间的互助与情谊；-ismo 在此不表示意识形态，而是表示某种集体精神或行为风气，类似用法还有 compañerismo、solidarismo，注意与意识形态类 -ismo 词汇区分。"
+        },
+        {
+          "word": "diversificación",
+          "translation": "多元化，细分化",
+          "note": "diversificación 由 diversificar（使多样化）派生，在教育语境中指专业方向的过度细分；动词 diversificar 本身在经济新闻中也极为常见，如 diversificar la economía（使经济多元化），掌握整个词族有助于跨语境理解。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Los dobles grados —y sus complicaciones horarias— son aún peores en este sentido, y además, por desgracia, no representan una ventaja en el mercado laboral. Ya sabe casi todo el mundo que, pese al <strong>esfuerzo denodado</strong> de los alumnos por aprender todas las asignaturas, favorecen en demasiados casos un aprendizaje superficial de no pocas materias que no se acaban de <strong>asimilar</strong> debidamente, más allá del dineral que cuestan.",
+      "zh": "双学位——及其复杂的课程安排——在这方面更为糟糕，而且遗憾的是，它们在就业市场上并不代表任何优势。几乎所有人都清楚，尽管学生们为学好所有科目付出了不懈努力，但在太多情况下，双学位助长了对相当多课程的浅尝辄止，这些内容最终未能得到应有的消化吸收，更不用说其高昂的费用了。",
+      "vocab": [
+        {
+          "word": "esfuerzo denodado",
+          "translation": "不懈的努力，坚定的付出",
+          "note": "denodado 意为『勇敢的、坚定不移的』，是书面语中修饰 esfuerzo 的固定搭配，整体表达比 gran esfuerzo 更正式、更具文学色彩；denodado 源自古语，在现代西语中几乎只出现在这一固定搭配中，属于值得整体记忆的词组。"
+        },
+        {
+          "word": "asimilar",
+          "translation": "消化吸收（知识），融会贯通",
+          "note": "asimilar 在教育语境中专指对知识的深度理解与内化，与 memorizar（死记硬背）形成对比；此外 asimilar 在社会学中还指移民群体对新文化的『同化』，是跨语境的高频词汇。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Se piensa poco en ello, pero <strong>convendría</strong> reducir el número de grados y aumentar el de posgrados de especialización, favoreciendo con ello aulas más amplias que, paradójicamente, permiten mayor posibilidad de interacción entre el profesor y los estudiantes que la que se observa en aulas pequeñas, espacios en los que casi nadie se <strong>atreve a</strong> hablar.",
+      "zh": "人们很少思考这个问题，但减少本科专业数量、增加专业化研究生项目将是明智之举，这样反而有利于形成更大的班级——而更大的班级，矛盾的是，反而比小教室提供了更多师生互动的可能性，因为在小教室里，几乎没有人敢开口说话。",
+      "vocab": [
+        {
+          "word": "convendría",
+          "translation": "应当，有必要，明智的做法是",
+          "note": "convendría 是 convenir 的条件式，用于提出建议时语气比 hay que 或 se debe 更委婉、更具说服力；convenir 本义为『适合、有益』，条件式 convendría 在社论和评论文体中是提出改革建议的标志性表达。"
+        },
+        {
+          "word": "atreve a",
+          "translation": "敢于，有勇气去做",
+          "note": "atreverse a + 动词原形 是固定搭配，表示『鼓起勇气做某事』；注意其反义表达 no atreverse a 在描述社会现象时极为常见，暗示某种心理障碍或社会压力；名词形式 atrevimiento 表示『大胆、冒失』。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Con grupos más amplios, no solo se aumentan las oportunidades de hallar estudiantes participativos y que los demás se animen viéndoles, sino que existen también mejores oportunidades de que los estudiantes vuelvan a ser el actor social que un día fueron, y que tanto hizo avanzar a la sociedad de tantos lugares con sus <strong>reivindicaciones</strong> de un mundo mejor, diferente en cada época, compartiendo <strong>vivencias</strong> que se recuerdan para siempre y que inspiraban una empatía y experiencia en las personas que es difícil desarrollar en solitario.",
+      "zh": "班级规模更大，不仅增加了发现积极参与的学生、并带动其他人效仿的机会，也为学生重新成为他们曾经扮演过的社会角色提供了更好的条件——正是这一角色，凭借对更美好世界的诉求，在不同时代推动了许多地方的社会进步。学生们共同分享那些令人铭记一生的经历，这些经历激发出一种共情与阅历，而这种品质在孤立状态下是难以培养的。",
+      "vocab": [
+        {
+          "word": "reivindicaciones",
+          "translation": "诉求，维权主张，社会抗争",
+          "note": "reivindicación 在社会和政治语境中专指『通过集体行动提出的权利诉求』，比 demanda（要求）更强调正当性和斗争性；动词 reivindicar 在劳工运动、学生运动等话题中极为高频，是理解西语社会新闻的核心词汇。"
+        },
+        {
+          "word": "vivencias",
+          "translation": "亲身经历，生命体验",
+          "note": "vivencia 是西语特有的词汇，指深刻影响个人的亲身体验，比 experiencia 更强调情感层面的内化与共鸣；这个词在哲学和文学语境中源自 vivir（生活），在日常语境中也越来越常见，是值得掌握的高价值词汇。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "Por último, existe un elemento que, por desgracia, ha caído en <strong>desuso</strong> y que, bien utilizado, es mejor que muchísimos PowerPoints: la pizarra. Permite improvisar, sobre todo, adaptando las explicaciones visualmente a las dudas <strong>sobre la marcha</strong> planteadas por los alumnos u observadas por el profesor.",
+      "zh": "最后，有一样东西遗憾地已经被弃用，但若善加利用，它胜过许多PPT：黑板。黑板尤其允许即兴发挥，能够根据学生提出的或教师观察到的即时疑问，对讲解内容进行视觉化的实时调整。",
+      "vocab": [
+        {
+          "word": "desuso",
+          "translation": "废弃不用，过时",
+          "note": "caer en desuso 是固定短语，意为『逐渐被废弃、不再使用』，在文化和技术评论中极为常见；desuso 由 des-（否定）+ uso（使用）构成，整个短语可用于描述语言、工具、习俗等的消亡过程。"
+        },
+        {
+          "word": "sobre la marcha",
+          "translation": "即时，随机应变地，在进行中",
+          "note": "sobre la marcha 是固定副词短语，意为『在进行过程中、即时处理』，强调不经预先计划的灵活应对；在教育和职场语境中极为常用，相当于英语的 on the go 或 as you go，是B2以上学习者应掌握的惯用表达。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "Un profesor que da la clase de pie y mira a la cara a los estudiantes para preocuparse de que vayan entendiendo, obviamente, y no uno que se sienta en la mesa y solamente lee <strong>despacito</strong> unos apuntes —que, en la actualidad, es casi mejor que <strong>cuelgue</strong> en la web—. Además, las pizarras electrónicas añaden una buena cantidad de utilidades que las hacen extraordinariamente dinámicas para el alumnado. No hay que imaginar ya encerados y tizas, sino rotuladores electrónicos cuya escritura se borra con la mano, o de golpe si conviene.",
+      "zh": "一位站着上课、直视学生面孔以确认他们是否理解的教师，显然优于那种坐在桌边、慢悠悠地朗读讲义的教师——而那些讲义，在当今时代，几乎还不如直接挂到网上。此外，电子黑板增添了大量功能，使其对学生而言极具互动性。如今无需再想象粉笔和黑板，而是电子触控笔，书写内容可用手擦除，或在需要时一键清空。",
+      "vocab": [
+        {
+          "word": "despacito",
+          "translation": "慢悠悠地，极其缓慢地",
+          "note": "despacito 是 despacio（慢慢地）的指小词形式，加后缀 -ito 后带有轻微讽刺或调侃意味，暗示慢得令人不耐烦；西语指小词后缀 -ito/-ita 不仅表示『小』，还可传递情感色彩，是理解语气的重要工具。"
+        },
+        {
+          "word": "cuelgue",
+          "translation": "（将文件）上传，挂到网上",
+          "note": "colgar 本义为『悬挂』，在数字语境中引申为『上传、发布到网络』，如 colgar un vídeo、colgar apuntes en la web；这是西语数字词汇中典型的语义迁移案例，注意此处为虚拟式，表示建议或假设。"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "es": "En resumen, no se trata de volver al pasado, sino de recuperar del pasado aquello que fue útil y que hoy se ha perdido. Es mucho más fácil compartir conocimientos de todo tipo en grupos grandes, que, por cierto, <strong>ocasionalmente</strong> —solo ocasionalmente— también pueden ser online, si el espacio virtual excepcional o eventualmente favorece, por diversas razones que sería largo apuntar, el aprendizaje de una materia. En un momento en el que estamos deseando inspirar la lectura en los jóvenes —como en todas las épocas, por otra parte—, qué mejor que aprovechar que se pasan el día leyendo pantallas, <strong>descubriéndoles</strong> el universo inagotable de los libros.",
+      "zh": "总而言之，问题不在于回到过去，而在于从过去找回那些曾经有用、如今已经失落的东西。在大班级中分享各类知识要容易得多——顺带一提，偶尔——仅仅是偶尔——也可以采用线上形式，前提是虚拟空间在特定情况下出于种种原因（细说起来篇幅太长）确实有利于某门课程的学习。在我们渴望激发年轻人阅读兴趣的当下——这在任何时代都是如此——，还有什么比利用他们整天盯着屏幕阅读这一习惯更好的方式，引领他们发现书籍那取之不尽的世界呢。",
+      "vocab": [
+        {
+          "word": "ocasionalmente",
+          "translation": "偶尔，有时",
+          "note": "ocasionalmente 在此被作者刻意重复强调（『solo ocasionalmente』），用于限定线上教学的适用范围；注意与 eventualmente 的区别：ocasionalmente 强调『频率低』，而 eventualmente 在西语中意为『在某些特定情况下』，并非英语 eventually（最终）的对应词，是典型假朋友。"
+        },
+        {
+          "word": "descubriéndoles",
+          "translation": "向他们揭示，引领他们发现",
+          "note": "此处 descubrir + 间接宾语代词 les 构成『向某人揭示某物』的结构，le/les 作间接宾语表示动作的受益对象；这一结构在西语中极为常见，如 enseñarles、mostrarles，学习者需熟练掌握间接宾语代词的位置规则。"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "es": "Todo ello recoge así la mejor parte de los frutos de la inteligencia artificial y permite contar con ella, por cierto, como asistente para una más eficiente, previsible, exigente, igualitaria y difícilmente <strong>contestable</strong> evaluación, tema en el que será inevitable <strong>adentrarse</strong> en un futuro inmediato, todavía impactado por la crisis repentina de los actuales métodos de evaluación con el advenimiento de la inteligencia artificial generativa.",
+      "zh": "这一切汇聚了人工智能成果中最精华的部分，并使我们得以将其作为助手，用于更高效、更可预期、更严格、更公平且难以质疑的评估——这是一个在不久的将来不可避免需要深入探讨的议题，而当下这一领域仍受到生成式人工智能到来所引发的现有评估方法危机的冲击。",
+      "vocab": [
+        {
+          "word": "contestable",
+          "translation": "可质疑的，可反驳的",
+          "note": "contestable 由 contestar（回答、质疑）派生，在学术和法律语境中意为『可被质疑或反驳的』；原文中 difícilmente contestable 意为『难以质疑的』，注意西语 contestar 与英语 contest（竞争、质疑）是同源词，但日常含义以『回答』为主，需根据语境判断。"
+        },
+        {
+          "word": "adentrarse",
+          "translation": "深入探讨，深入研究",
+          "note": "adentrarse en 由 dentro（内部）派生，字面义为『深入内部』，在学术和评论语境中引申为『深入探讨某一话题』；固定搭配 adentrarse en un tema / una cuestión 在正式文体中极为常见，比 profundizar en 更强调进入未知领域的探索感。"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "es": "Insisto, no hay que volver a las aulas de mediados del siglo XX, sino recuperar de ellas aquello que las hizo <strong>inmortales</strong>, eliminando las razones por las que, paradójicamente, murieron. Entre otras, un profesorado, salvo excepciones, <strong>absentista</strong>, autoritario y tedioso, dictador de apuntes, que en nada, absolutamente en nada, se parece a muchos de los profesores de hoy en día. Y sin renunciar a una más que benéfica tecnología con la que no pudieron ni soñar nuestros antepasados.",
+      "zh": "我再次强调，我们不必回到二十世纪中叶的教室，而是要从中找回那些使其永恒的东西，同时消除那些——矛盾的是——导致其消亡的原因。其中之一，便是教师群体（除少数例外）的缺席主义、威权主义和枯燥乏味，以及照本宣科式的教学方式——这与当今许多教师截然不同，毫无相似之处。同时，也不应放弃那项我们的前辈连梦都不敢梦的、大有裨益的技术。",
+      "vocab": [
+        {
+          "word": "inmortales",
+          "translation": "不朽的，永恒的",
+          "note": "inmortal 由 in-（否定）+ mortal（会死的）构成，在此用于比喻那些大教室所承载的教育精神的永恒价值；作者用『murieron』（死去）与之形成反讽对比，这种修辞手法在评论文体中值得关注。"
+        },
+        {
+          "word": "absentista",
+          "translation": "缺席主义的，惯于旷课/旷职的",
+          "note": "absentista 由 absentismo（缺席主义）派生，在劳工和教育语境中专指习惯性缺席或不履行职责的行为倾向；absentismo laboral（职场缺勤现象）是西班牙社会新闻的高频话题词，掌握整个词族有助于理解相关报道。"
+        }
+      ]
+    }
+  ]
+}
