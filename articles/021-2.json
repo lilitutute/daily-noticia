@@ -1,0 +1,183 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "旅游·人文",
+  "difficulty": "B2",
+  "wordCount": "约800词",
+  "title": "Tai O, el Hong Kong rural donde la vida discurre a unos metros por encima del agua",
+  "subtitle": "大澳：生活在水面上几米处的乡村香港",
+  "resumenEs": "El artículo describe Tai O, un pequeño pueblo de pescadores situado en la isla de Lantau, Hong Kong, que contrasta radicalmente con el dinamismo urbano de la metrópolis. Fundado por los tankas hace más de 300 años, el pueblo conserva su arquitectura de palafitos, sus mercados de productos del mar y su ritmo de vida pausado. El texto repasa sus principales atractivos: el puente levadizo Rope-Drawn, el mercado local con sus curiosidades gastronómicas, los avistamientos del delfín rosado chino, el puente marítimo más largo del mundo y la cercanía del Gran Buda de Tian Tan y el monasterio Po Lin.",
+  "resumenZh": "本文介绍了大澳——位于香港大屿山岛上的一个小渔村，与香港大都市的喧嚣形成鲜明对比。大澳由疍家人在300多年前建立，至今保留着高脚屋建筑、海鲜市场和悠闲的生活节奏。文章依次介绍了其主要景点：绳索拉动的手动吊桥、充满特色食品的本地市场、中华白海豚的观赏机会、世界最长的跨海大桥，以及附近的天坛大佛和宝莲禅寺。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Está en el reverso del caos hiperurbano de Hong Kong, del frenético ritmo al que se multiplican las fachadas futuristas y la <strong>vorágine</strong> tecnológica de última generación. A escasa distancia de la ciudad que está considerada el Manhattan asiático, hay un rincón que se mantiene tal y como era en sus orígenes este bosque de rascacielos. Un pequeño pueblo de pescadores al que se puede llegar en una combinación de metro y autobús y donde el calendario, más que avanzar en el tiempo, parece <strong>aferrarse</strong> a la memoria.",
+      "zh": "它存在于香港超级都市喧嚣的另一面，远离那种疯狂的节奏——在那里，未来主义风格的建筑立面不断涌现，最新一代的技术浪潮令人目不暇接。距离这座被誉为亚洲曼哈顿的城市不远处，有一个角落，保持着这片摩天大楼森林最初的模样。这是一个小渔村，乘坐地铁和公共汽车的组合便可抵达，在那里，时间与其说是向前流逝，不如说是紧紧抓住记忆不肯放手。",
+      "vocab": [
+        {
+          "word": "vorágine",
+          "translation": "漩涡，急流；混乱的旋涡，令人眩晕的节奏",
+          "note": "vorágine 本义为『水流漩涡』，在新闻和文学语境中常作比喻，指令人应接不暇的快节奏或混乱状态；常见搭配：la vorágine de la vida moderna（现代生活的漩涡）、verse atrapado en una vorágine（陷入漩涡之中）。"
+        },
+        {
+          "word": "aferrarse",
+          "translation": "紧紧抓住，执着于，死守",
+          "note": "aferrarse a 意为『紧紧抓住某物不放』，既可指物理上的抓握，也可指对信念、记忆或习惯的执着坚守；注意固定介词搭配 aferrarse a，不可省略；近义词 agarrarse a 更口语化，aferrarse 更强调执念和不愿放手。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Tai O se esconde en Lantau, una de las 262 islas que, junto a la península de Kowloon, <strong>conforman</strong> esta Región Administrativa Especial de China. Es también donde se <strong>emplaza</strong> el aeropuerto Chek Lap Kok, hub principal de la aerolínea Cathay Pacific, con la que desde hace 10 años llegan los únicos vuelos directos desde Madrid y Barcelona. Una isla que se considera el patio de recreo de la megalópolis por la serenidad que confiere su naturaleza en contraste con la jungla de asfalto.",
+      "zh": "大澳隐匿于大屿山——这是262座岛屿之一，与九龙半岛共同构成这一中国特别行政区。这里也是赤鱲角机场的所在地，该机场是国泰航空的主要枢纽，10年来，从马德里和巴塞罗那出发的唯一直飞航班均由此抵港。这座岛屿被视为这座超级大都市的休闲后花园，因为其自然风光所赋予的宁静与沥青丛林形成了鲜明对比。",
+      "vocab": [
+        {
+          "word": "conforman",
+          "translation": "构成，组成，形成",
+          "note": "conformar 在此意为『共同构成某一整体』，与 formar 和 constituir 近义，但 conformar 更强调多个部分合并为一个整体的过程；常见于地理、政治和组织描述：los países que conforman la UE（构成欧盟的国家）。"
+        },
+        {
+          "word": "emplaza",
+          "translation": "坐落，位于；（正式）传唤",
+          "note": "emplazarse 在地理语境中意为『（建筑或设施）坐落于某处』，比 estar ubicado 更正式；在法律语境中 emplazar a alguien 意为『传唤某人出庭』，是典型的一词多义词，需根据语境判断。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Justo aquí, en la costa occidental, aparece esta villa <strong>adormilada</strong> sobre las aguas tranquilas, con sus casitas de colores apoyadas en los postes, tan frágil y solitaria que parece flotar a la deriva. Al fondo, las montañas conforman una barrera como para resguardar la esencia rural, como para proteger el humilde espíritu pesquero que aún sigue constituyendo la principal actividad económica.",
+      "zh": "就在这里，在西海岸，这座昏昏欲睡的村落出现在平静的水面上，色彩斑斓的小屋依靠木桩支撑，如此脆弱而孤寂，仿佛在随波漂流。远处，山峦构成一道屏障，仿佛是为了守护这里的乡村本质，保护那朴实的渔村精神——而这种精神至今仍是当地的主要经济活动。",
+      "vocab": [
+        {
+          "word": "adormilada",
+          "translation": "昏昏欲睡的，沉寂的，慵懒的",
+          "note": "adormilado/a 由 adormecer（使入睡）派生，形容一种半睡半醒、慵懒沉静的状态；用于描述地方时，暗指节奏缓慢、与世无争；注意与 dormido（睡着的）的区别：adormilado 强调介于清醒与沉睡之间的朦胧状态。"
+        },
+        {
+          "word": "a la deriva",
+          "translation": "随波漂流，漫无目的地漂荡",
+          "note": "a la deriva 是固定短语，本义为船只失去动力后随水流漂荡，引申为『漫无目的、失去方向』；常见搭配：ir a la deriva（随波逐流）、dejarse llevar a la deriva（任由自己漂流）；在文学描写中常用于营造孤独漂泊的意境。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "A Tai O llegaron los tankas hace más de 300 años. Una población procedente del sur de China a la que se conocía como \"los habitantes de los botes\", puesto que ocupaban un bajo <strong>escalón</strong> dentro de la sociedad y vivían en precarias embarcaciones. Estas gentes que practicaban la pesca artesanal, el comercio de la sal y la búsqueda de perlas, con el tiempo, fueron construyendo sus casas como <strong>palafitos</strong>, amontonadas unas sobre otras, dibujando una suerte de vecindario.",
+      "zh": "300多年前，疍家人来到大澳。这是一个来自中国南方的族群，被称为『船上的居民』，因为他们在社会上处于较低的阶层，居住在简陋的船只上。这些人以手工捕鱼、盐业贸易和采珠为生，随着时间的推移，逐渐建起了高脚屋式的房屋，一栋紧挨一栋，形成了一种独特的邻里社区。",
+      "vocab": [
+        {
+          "word": "escalón",
+          "translation": "台阶；（社会）阶层，层级",
+          "note": "escalón 本义为『楼梯的一级台阶』，在社会学语境中引申为『社会等级中的某一层级』；这一空间隐喻（社会如同阶梯）在西语中极为常见：escalar posiciones（向上攀升）、estar en lo más alto de la escala social（处于社会阶梯顶端）。"
+        },
+        {
+          "word": "palafitos",
+          "translation": "高脚屋，水上木桩屋",
+          "note": "palafito 是建筑术语，指建在水上或湿地上、以木桩为基础的房屋，是东南亚和南美部分地区的传统民居形式；这一词汇在旅游和人文地理文章中高频出现，掌握它有助于阅读此类题材的西语文本。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Desde entonces, la vida discurre sobre <strong>pilotes</strong> a unos metros por encima del agua. Y bajo los pies, en las <strong>raídas</strong> callejuelas de madera y bambú (algunas también de cemento) se escucha el continuo murmullo de la corriente. Así se aprecia desde Rope-Drawn, un pequeño puente levadizo peatonal, de acción manual, que sirve de acceso al pueblo. Es el mejor punto para captar la extraña belleza de este enclave al que, en un alarde de originalidad, fue apodado la Venecia de Hong Kong.",
+      "zh": "从那时起，生活便在木桩上展开，距水面几米之高。脚下，在破旧的木头和竹子小巷中（有些也铺有水泥），可以听到水流不断的低语声。这一切从绳索拉动桥（Rope-Drawn）上便可感受到——这是一座小型人行吊桥，靠人力手动操作，是进入村庄的通道。这里是捕捉这片飞地奇异之美的最佳地点，而这片飞地也被人以一种颇具创意的方式冠以『香港的威尼斯』之名。",
+      "vocab": [
+        {
+          "word": "pilotes",
+          "translation": "桩，木桩，支柱",
+          "note": "pilote 是建筑术语，指打入地基或水底用以支撑建筑的桩柱；与上文 palafito 形成语义呼应——palafito 指整栋高脚屋，pilote 特指支撑它的桩柱；掌握这类建筑词汇有助于阅读旅游和建筑类西语文本。"
+        },
+        {
+          "word": "raídas",
+          "translation": "破旧的，磨损的，老旧的",
+          "note": "raído/a 由动词 raer（刮磨、磨损）的过去分词转化而来，形容因长期使用而磨损破旧的物品；多用于描述织物、地面或建筑材料；注意与 roto（破碎的）的区别：raído 强调磨损的过程，roto 强调已经断裂的结果。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Conectado por pasajes tan <strong>angostos</strong> que no permiten la circulación de coches, aquí la bicicleta es el medio de transporte principal, el modo en el que los lugareños se desplazan por tierra firme. Hay un fuerte aroma a pescado en las proximidades del mercado local, donde la mayoría de los puestos ofrecen productos del océano. Es también el lugar donde los pescadores secan sus capturas al sol (desde los calamares hasta las langostas, pasando por los pulpos y el pepino de mar), y los puestos exhiben rarezas como la pasta de camarón fermentado y las yemas saladas de huevo de pato, con las que se hace el moon cake (pastel de la luna), mezclado con raíces de flor de loto. También se vende colágeno, extraído del estómago de los peces, con el que se cocina una sopa que (dicen) rejuvenece.",
+      "zh": "由于通道极为狭窄，无法通行汽车，自行车成为这里的主要交通工具，也是当地居民在陆地上出行的方式。本地市场附近弥漫着浓烈的鱼腥味，大多数摊位出售海洋产品。这里也是渔民晒干渔获的地方（从鱿鱼到龙虾，再到章鱼和海参），摊位上还陈列着各种稀奇食品，如发酵虾酱和咸鸭蛋黄——后者与莲花根混合，用来制作月饼。此外还出售从鱼肚中提取的胶原蛋白，用来烹制一种据说能使人返老还童的汤。",
+      "vocab": [
+        {
+          "word": "angostos",
+          "translation": "狭窄的，窄小的",
+          "note": "angosto/a 是描述空间狭窄的正式书面词，比口语中的 estrecho 更具文学色彩，常见于旅游和文学描写；两者可互换，但 angosto 更多出现在书面语和描述性文体中：callejuelas angostas（狭窄的小巷）、un paso angosto（一条窄道）。"
+        },
+        {
+          "word": "rarezas",
+          "translation": "稀奇之物，罕见品，奇特食品",
+          "note": "rareza 由 raro（罕见的、奇特的）+ 后缀 -eza 构成，意为『稀有性、奇特之物』；后缀 -eza 将形容词转化为抽象名词，表示某种性质或具有该性质的事物：belleza（美）、tristeza（悲伤）、naturaleza（自然）。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Poco más se puede hacer en Tai O que <strong>empaparse</strong> de su atmósfera genuina, que pone el foco en la sencillez de la vida, sin urgencias ni artificios. Pasear por la calle Kat Hing, adornada con coloridos farolillos de papel, y cuando aprieta el hambre, comer en Tai O Heritage, que <strong>antaño</strong> fue la comisaría de policía que protegía de los ataques piratas y hoy es un restaurante y hotel que ofrece platos típicos en una terraza acristalada y nueve habitaciones en lo que fueron las celdas.",
+      "zh": "在大澳，除了沉浸于其真实的氛围之中，几乎没有什么别的事可做——那种氛围将焦点放在生活的简单上，没有紧迫，没有矫饰。漫步于吉庆街，街道上点缀着色彩鲜艳的纸灯笼；当饥饿袭来，可以去大澳文物酒店用餐——这里昔日曾是保护当地免受海盗袭击的警察局，如今已成为一家餐厅兼酒店，在玻璃露台上提供当地特色菜肴，并在昔日的牢房中开设了九间客房。",
+      "vocab": [
+        {
+          "word": "empaparse",
+          "translation": "沉浸于，深度体验，被……浸透",
+          "note": "empaparse de 本义为『被液体浸透、湿透』，引申为『深度沉浸于某种氛围或文化之中』；这一感官隐喻在旅游写作中极为高频：empaparse de la cultura local（沉浸于当地文化）；注意固定介词搭配 empaparse de。"
+        },
+        {
+          "word": "antaño",
+          "translation": "昔日，往昔，从前",
+          "note": "antaño 是表示『过去、从前』的正式文学词汇，比 antes 更具时间距离感和怀旧色彩，常见于旅游、历史和文学写作；对应词 hogaño（当今、如今）较少使用，但两者形成古今对比的修辞效果。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Otro plan estupendo es dar un paseo en barco, no solo para contemplar la villa desde la perspectiva del mar, sino también para <strong>avistar</strong> al simpático delfín blanco chino, conocido como delfín rosado. Una especie de la que se estima que únicamente quedan en esta área una <strong>cincuentena</strong> de ejemplares, amenazados por la polución y la contaminación acústica subacuática derivada del tráfico marino. Aunque verlos requiere un golpe de suerte, su ausencia se compensará con la magnífica visión del HZMB Main Bridge, el puente marítimo más largo del mundo (tiene 55 kilómetros), que conecta Hong Kong con Macao y la China continental, y que tiene también la peculiaridad de contar con un túnel de seis kilómetros sumergido bajo las aguas.",
+      "zh": "另一个绝佳的活动是乘船游览，不仅可以从海上的视角欣赏村落，还能寻觅可爱的中华白海豚，即粉红海豚。据估计，该物种在这一区域仅剩约五十头，受到海上交通所产生的污染和水下噪音污染的威胁。尽管亲眼目睹它们需要一些运气，但它们的缺席将由港珠澳大桥的壮观景色来弥补——这是世界上最长的跨海大桥（全长55公里），连接香港、澳门与中国大陆，还有一个独特之处：桥中设有一段长达6公里的水下隧道。",
+      "vocab": [
+        {
+          "word": "avistar",
+          "translation": "发现，望见，（远远）看到",
+          "note": "avistar 意为『在远处发现或看到某物』，尤其用于观察野生动物或远处目标；比 ver 更强调距离感和发现的偶然性；常见搭配：avistar ballenas（观鲸）、avistar aves（观鸟）；是旅游和自然类文本的高频词。"
+        },
+        {
+          "word": "cincuentena",
+          "translation": "约五十，五十左右",
+          "note": "后缀 -ena 加在整十数词后，构成表示『大约……个』的集合数词：una decena（约十个）、una veintena（约二十个）、una treintena（约三十个）；这一构词规律极具迁移价值，掌握后可快速理解同类表达。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Tai O, en sí mismo, merece una visita pausada. Pero a ello se suma que muy cerca se <strong>alza</strong> majestuoso el Gran Buda (Tian Tan) sobre la colina de Ngong Ping, a la que se llega gracias a un teleférico de suelo acristalado. Un buda de 34 metros de altura y 250 toneladas de bronce que representa la armonía entre el hombre, la naturaleza y la fe. Eso sí, contemplarlo de cerca requiere subir 268 escalones en una <strong>gesta</strong> que simboliza la superación de los obstáculos para alcanzar la iluminación.",
+      "zh": "大澳本身就值得细细游览。而锦上添花的是，附近的昂坪山丘上巍然矗立着天坛大佛，乘坐玻璃底缆车即可抵达。这尊高34米、重250吨的铜佛象征着人、自然与信仰之间的和谐。不过，若想近距离瞻仰，需要攀登268级台阶，这一壮举象征着克服障碍、走向觉悟的历程。",
+      "vocab": [
+        {
+          "word": "alza",
+          "translation": "矗立，耸立，高高伫立",
+          "note": "alzarse 在描述建筑或自然景观时意为『高高矗立、巍然耸立』，比 estar 更具视觉张力和文学色彩；常见搭配：alzarse sobre（耸立于……之上）、alzarse en el horizonte（在地平线上矗立）；是旅游和建筑描写文体的高频词。"
+        },
+        {
+          "word": "gesta",
+          "translation": "壮举，英雄事迹，艰难的行动",
+          "note": "gesta 本指中世纪史诗中记载的英雄事迹（如 Cantar de Mio Cid），在现代语境中引申为『需要付出努力的壮举或挑战』；作者用此词描述爬268级台阶，带有幽默的夸张色彩；近义词：hazaña（壮举）、proeza（英勇行为）。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Igual de impresionante es el monasterio budista Po Lin, un complejo de templos fundado en 1906 en el que descansan tres estatuas de buda (el pasado, el presente y el futuro) y una bonita iconografía. Aquí una campana suena cada siete minutos, exactamente 108 veces al día, porque una leyenda dice que con su <strong>tañer</strong> se curan 108 tipos de males. Alrededor, exuberante vegetación <strong>tapiza</strong> las laderas en este Hong Kong alejado del hormigón.",
+      "zh": "同样令人印象深刻的是宝莲禅寺——这是一座创建于1906年的佛教寺院建筑群，供奉着三尊佛像（分别代表过去、现在和未来），并有精美的图像装饰。这里每隔七分钟便会敲响一次钟声，每天恰好108次，因为传说钟声的鸣响能治愈108种病痛。四周，茂盛的植被覆盖着山坡，这里是远离混凝土的香港。",
+      "vocab": [
+        {
+          "word": "tañer",
+          "translation": "（钟、铃的）鸣响，敲响",
+          "note": "tañer 是专指钟、铃、弦乐器发声的动词，带有浓厚的文学和宗教色彩；名词 tañido 指钟声或弦乐声；在日常口语中更常用 sonar（响）或 repicar（敲响），tañer 出现时往往标志着文体较为正式或诗意。"
+        },
+        {
+          "word": "tapiza",
+          "translation": "覆盖，铺满，像地毯一样铺展",
+          "note": "tapizar 本义为『铺地毯、给家具包布』，引申为『像地毯一样覆盖某一表面』；la vegetación tapiza las laderas（植被覆盖山坡）是旅游和自然写作的典型比喻；同族词：tapiz（挂毯、地毯）、tapicería（室内装潢、织物工艺）。"
+        }
+      ]
+    }
+  ]
+}
