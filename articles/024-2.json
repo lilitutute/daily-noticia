@@ -11,7 +11,7 @@
   "paragraphs": [
     {
       "id": 1,
-      "es": "El patinete eléctrico es ya una presencia habitual en nuestras ciudades. Se ha vendido como el símbolo de la micromovilidad moderna. Como una solución que promete desatascar las ciudades, realizar desplazamientos en menos tiempo y reducir las emisiones. Sin embargo, detrás de su estilo moderno se esconde una trampa silenciosa: estos vehículos podrían amenazar la salud y la seguridad de la juventud.",
+      "es": "El patinete eléctrico es ya una presencia habitual en nuestras ciudades. Se ha vendido como el símbolo de la micromovilidad moderna. Como una solución que promete <strong>desatascar</strong> las ciudades, realizar desplazamientos en menos tiempo y reducir las emisiones. Sin embargo, detrás de su estilo moderno se esconde una <strong>trampa silenciosa</strong>: estos vehículos podrían amenazar la salud y la seguridad de la juventud.",
       "zh": "电动滑板车已成为我们城市中随处可见的存在。它被塑造成现代微出行的象征，被誉为一种能缓解城市拥堵、缩短通勤时间、减少排放的解决方案。然而，光鲜外表之下隐藏着一个无声的陷阱：这类交通工具可能正在威胁青少年的健康与安全。",
       "vocab": [
         {
@@ -28,7 +28,7 @@
     },
     {
       "id": 2,
-      "es": "La Organización Mundial de la Salud destaca a la inactividad física como una de las pandemias silenciosas del siglo XXI. Para combatirla, el transporte activo –caminar o ir en bicicleta– es la herramienta más eficaz. Esto es así porque integra el ejercicio en el día a día, especialmente en trayectos habituales como ir y venir del centro educativo.",
+      "es": "La Organización Mundial de la Salud destaca a la inactividad física como una de las <strong>pandemias silenciosas</strong> del siglo XXI. Para combatirla, el <strong>transporte activo</strong> –caminar o ir en bicicleta– es la herramienta más eficaz. Esto es así porque integra el ejercicio en el día a día, especialmente en trayectos habituales como ir y venir del centro educativo.",
       "zh": "世界卫生组织将缺乏体力活动列为21世纪最重要的隐性流行病之一。而应对这一问题最有效的工具，正是主动出行——步行或骑自行车。原因在于，这种方式将运动融入日常生活，尤其是上下学等固定通勤场景中。",
       "vocab": [
         {
@@ -45,7 +45,7 @@
     },
     {
       "id": 3,
-      "es": "¿Roban los patinetes eléctricos esta oportunidad a los más jóvenes? Algunos estudios actuales han evaluado esta preocupación.\n\nUn trabajo reciente demuestra que su uso supone un gasto energético menor que caminar. Es lógico: no es un medio de transporte activo, sino pasivo y asistido. Al reemplazar la caminata o la bicicleta, favorece la pérdida de actividad física diaria, como señala otro estudio. Además, como permiten llegar hasta la puerta del destino, hace menos atractiva la movilidad híbrida con transporte público.",
+      "es": "¿Roban los patinetes eléctricos esta oportunidad a los más jóvenes? Algunos estudios actuales han evaluado esta preocupación.\n\nUn trabajo reciente demuestra que su uso supone un <strong>gasto energético</strong> menor que caminar. Es lógico: no es un medio de transporte activo, sino pasivo y asistido. Al reemplazar la caminata o la bicicleta, favorece la pérdida de actividad física diaria, como señala otro estudio. Además, como permiten llegar hasta la puerta del destino, hace menos atractiva la <strong>movilidad híbrida</strong> con transporte público.",
       "zh": "电动滑板车是否剥夺了年轻人的这一机会？目前已有研究对此进行了评估。\n\n近期一项研究表明，骑电动滑板车的能量消耗低于步行。这并不难理解：它不是主动出行工具，而是被动的辅助出行工具。正如另一项研究所指出的，以电动滑板车取代步行或骑行，会导致日常体力活动的减少。此外，由于电动滑板车可以直接骑到目的地门口，也降低了与公共交通结合的混合出行方式的吸引力。",
       "vocab": [
         {
@@ -62,7 +62,7 @@
     },
     {
       "id": 4,
-      "es": "Si un joven sustituye un trayecto de 15 minutos a pie por uno de 5 minutos en patinete eléctrico pierde una parte crucial de su actividad física diaria e interacción con el entorno. El impacto en la salud pública es demoledor si multiplicamos por millones de jóvenes. En última instancia, también aumenta el riesgo de enfermedades no transmisibles a largo plazo.",
+      "es": "Si un joven sustituye un trayecto de 15 minutos a pie por uno de 5 minutos en patinete eléctrico pierde una parte crucial de su actividad física diaria e interacción con el entorno. El impacto en la salud pública es <strong>demoledor</strong> si multiplicamos por millones de jóvenes. En última instancia, también aumenta el riesgo de <strong>enfermedades no transmisibles</strong> a largo plazo.",
       "zh": "如果一个年轻人将15分钟的步行路程换成5分钟的电动滑板车通勤，他就失去了日常体力活动和与周围环境互动的重要机会。将这一影响乘以数百万青少年，其对公共健康的冲击将是毁灭性的。从长远来看，这也会增加罹患非传染性疾病的风险。",
       "vocab": [
         {
@@ -79,7 +79,7 @@
     },
     {
       "id": 5,
-      "es": "En un futuro se deberían analizar los posibles efectos negativos del uso del patinete eléctrico en la salud psicosocial. Por ejemplo, este vehículo podría estar transformando la experiencia social del desplazamiento al centro educativo. Esto es así porque reduce las oportunidades de interacción social que ofrece el transporte activo, disminuye las conversaciones y el intercambio de experiencias.",
+      "es": "En un futuro se deberían analizar los posibles efectos negativos del uso del patinete eléctrico en la salud <strong>psicosocial</strong>. Por ejemplo, este vehículo podría estar transformando la experiencia social del desplazamiento al centro educativo. Esto es así porque reduce las oportunidades de interacción social que ofrece el transporte activo, disminuye las conversaciones y el <strong>intercambio de experiencias</strong>.",
       "zh": "未来还应进一步研究电动滑板车使用对心理社会健康的潜在负面影响。例如，这种交通工具可能正在改变青少年上下学途中的社交体验——因为它减少了主动出行所提供的社交互动机会，压缩了交流与分享经历的空间。",
       "vocab": [
         {
@@ -96,7 +96,7 @@
     },
     {
       "id": 6,
-      "es": "Además, el auge de la micromovilidad asistida ha traído consigo un incremento preocupante en el número de accidentes. Los datos son claros: según la Dirección General de Tráfico, 459 personas fueron hospitalizadas en España durante 2024 por accidentes con vehículos de movilidad personal (principalmente patinetes eléctricos). Esto supone un 34 % más que en el año anterior. La cifra de fallecidos casi se duplica, con un aumento de 10 a 19.",
+      "es": "Además, el auge de la micromovilidad asistida ha <strong>traído consigo</strong> un incremento preocupante en el número de accidentes. Los datos son claros: según la <strong>Dirección General de Tráfico</strong>, 459 personas fueron hospitalizadas en España durante 2024 por accidentes con vehículos de movilidad personal (principalmente patinetes eléctricos). Esto supone un 34 % más que en el año anterior. La cifra de fallecidos casi se duplica, con un aumento de 10 a 19.",
       "zh": "此外，辅助微出行的兴起也带来了令人忧虑的事故数量攀升。数据一目了然：根据西班牙交通总局的统计，2024年全年共有459人因个人出行工具（主要是电动滑板车）事故住院，比上一年增加34%。死亡人数几乎翻倍，从10人上升至19人。",
       "vocab": [
         {
@@ -113,7 +113,7 @@
     },
     {
       "id": 7,
-      "es": "Los datos de otras ciudades europeas confirman esta tendencia. En Alemania, por ejemplo, los fallecidos aumentaron en un 27 %. La mitad de los heridos fueron menores de 25 años.",
+      "es": "Los datos de otras ciudades europeas <strong>confirman esta tendencia</strong>. En Alemania, por ejemplo, los fallecidos aumentaron en un 27 %. La mitad de los heridos fueron menores de 25 años.",
       "zh": "欧洲其他城市的数据也印证了这一趋势。以德国为例，死亡人数增加了27%，受伤者中有一半是25岁以下的年轻人。",
       "vocab": [
         {
@@ -125,7 +125,7 @@
     },
     {
       "id": 8,
-      "es": "Otros estudios también revelan que, en jóvenes, los patinetes eléctricos causan más accidentes en comparación con las bicicletas. Las lesiones que producen incluyen fracturas complejas, lesiones cerebrales traumáticas y lesiones de la médula espinal. La velocidad que alcanzan, en combinación con la inestabilidad de sus pequeñas ruedas y la falta de infraestructuras específicas para ellos, convierte el desplazamiento en un riesgo.",
+      "es": "Otros estudios también revelan que, en jóvenes, los patinetes eléctricos causan más accidentes en comparación con las bicicletas. Las lesiones que producen incluyen fracturas complejas, <strong>lesiones cerebrales traumáticas</strong> y lesiones de la <strong>médula espinal</strong>. La velocidad que alcanzan, en combinación con la inestabilidad de sus pequeñas ruedas y la falta de infraestructuras específicas para ellos, convierte el desplazamiento en un riesgo.",
       "zh": "其他研究也揭示，在青少年群体中，电动滑板车造成的事故多于自行车。其导致的伤害包括复杂骨折、创伤性脑损伤和脊髓损伤。电动滑板车的行驶速度，加上小轮径带来的不稳定性以及专用基础设施的缺失，使得每一次出行都潜藏风险。",
       "vocab": [
         {
@@ -142,7 +142,7 @@
     },
     {
       "id": 9,
-      "es": "Diversos factores se combinan para crear este cóctel peligroso. Entre ellos, la falsa sensación de seguridad, el bajo uso del casco, la falta de educación vial y la inexperiencia de los jóvenes al maniobrar a altas velocidades en entornos urbanos, congestionados y carentes de infraestructuras adecuadas.",
+      "es": "Diversos factores se combinan para crear este <strong>cóctel peligroso</strong>. Entre ellos, la falsa sensación de seguridad, el bajo uso del casco, la falta de <strong>educación vial</strong> y la inexperiencia de los jóvenes al maniobrar a altas velocidades en entornos urbanos, congestionados y carentes de infraestructuras adecuadas.",
       "zh": "多重因素叠加，共同调制出这杯危险的「鸡尾酒」：虚假的安全感、头盔佩戴率低、交通安全意识薄弱，以及青少年在拥挤、缺乏配套基础设施的城市环境中高速行驶时的经验不足。",
       "vocab": [
         {
@@ -159,7 +159,7 @@
     },
     {
       "id": 10,
-      "es": "La solución a esta encrucijada no es prohibir, sino promover alternativas saludables y sostenibles. La bicicleta, no necesariamente eléctrica, es la clave para la movilidad en los trayectos urbanos de corta y media distancia.\n\nLa bicicleta ofrece una triple ventaja que el patinete eléctrico no puede igualar. Este es el «modelo de la triple S»:\n\nSalud. Proporciona un gasto energético, por lo que contribuye a la actividad física diaria y a la mejora de aspectos psicosociales.\n\nSostenibilidad. Es un medio de cero emisiones, alineado perfectamente con la lucha contra el cambio climático.\n\nSeguridad. Aunque el riesgo existe, el diseño de la bicicleta, su estabilidad y la infraestructura ciclista mejoran la seguridad percibida y real.",
+      "es": "La solución a esta <strong>encrucijada</strong> no es prohibir, sino promover alternativas saludables y sostenibles. La bicicleta, no necesariamente eléctrica, es la clave para la movilidad en los trayectos urbanos de corta y media distancia.\n\nLa bicicleta ofrece una triple ventaja que el patinete eléctrico no puede igualar. Este es el «modelo de la triple S»:\n\nSalud. Proporciona un gasto energético, por lo que contribuye a la actividad física diaria y a la mejora de aspectos psicosociales.\n\nSostenibilidad. Es un medio de cero emisiones, <strong>alineado</strong> perfectamente con la lucha contra el cambio climático.\n\nSeguridad. Aunque el riesgo existe, el diseño de la bicicleta, su estabilidad y la infraestructura ciclista mejoran la seguridad percibida y real.",
       "zh": "面对这一两难困境，解决之道不在于禁止，而在于推广健康、可持续的替代方案。自行车——不一定是电动的——才是城市短途和中距离出行的关键。\n\n自行车拥有电动滑板车无法比拟的三重优势，即「三S模型」：\n\n健康（Salud）：有一定的能量消耗，有助于日常体力活动，并对心理社会健康产生积极影响。\n\n可持续性（Sostenibilidad）：零排放出行方式，与应对气候变化的目标高度契合。\n\n安全（Seguridad）：尽管风险依然存在，但自行车的结构设计、稳定性以及自行车专用基础设施，均有助于提升主观与客观安全性。",
       "vocab": [
         {
@@ -176,7 +176,7 @@
     },
     {
       "id": 11,
-      "es": "Desde la Red Española por una Infancia Activa y Saludable insistimos en que el futuro de la movilidad juvenil debe ser activo, no asistido. Es fundamental que las políticas urbanas, los educadores y las familias prioricen la creación de entornos seguros y atractivos para que los jóvenes puedan caminar y pedalear.\n\nAlgunas pautas para mejorar la salud pública y la del planeta suponen invertir en:\n\nCarriles bici seguros y segregados.\n\nAcciones de peatonalización y pacificación del tráfico.\n\nFacilitar que se puedan compartir calzadas con vehículos motorizados.\n\nProgramas de educación vial activa dentro y fuera de los contextos escolares.\n\nCampañas que destaquen los beneficios físicos y mentales del pedaleo.",
+      "es": "Desde la Red Española por una Infancia Activa y Saludable insistimos en que el futuro de la movilidad juvenil debe ser activo, no asistido. Es fundamental que las políticas urbanas, los educadores y las familias prioricen la creación de entornos seguros y atractivos para que los jóvenes puedan caminar y pedalear.\n\nAlgunas pautas para mejorar la salud pública y la del planeta suponen invertir en:\n\nCarriles bici seguros y segregados.\n\nAcciones de <strong>peatonalización</strong> y <strong>pacificación del tráfico</strong>.\n\nFacilitar que se puedan compartir calzadas con vehículos motorizados.\n\nProgramas de educación vial activa dentro y fuera de los contextos escolares.\n\nCampañas que destaquen los beneficios físicos y mentales del pedaleo.",
       "zh": "西班牙积极健康儿童网络坚持认为，青少年出行的未来应当是主动的，而非被动辅助的。城市政策制定者、教育工作者和家庭，都有责任优先营造安全、有吸引力的环境，让年轻人能够放心步行和骑行。\n\n以下是改善公众健康与地球健康的几项投资方向：\n\n建设安全、隔离的自行车道。\n\n推进步行化改造和交通稳静化措施。\n\n创造条件，使自行车与机动车能够安全共享路面。\n\n在校内外开展主动式交通安全教育项目。\n\n发起宣传活动，传播骑行对身心健康的益处。",
       "vocab": [
         {
@@ -193,7 +193,7 @@
     },
     {
       "id": 12,
-      "es": "El patinete eléctrico es una herramienta de movilidad, pero no de salud. Debemos asegurar que la próxima generación no cambie la oportunidad de ser activa por la comodidad de ser asistida. El camino hacia una juventud más sana y un planeta más verde pasa por volver a poner la energía en las piernas de los jóvenes.",
+      "es": "El patinete eléctrico es una herramienta de movilidad, pero no de salud. Debemos asegurar que la próxima generación no cambie la oportunidad de ser activa por la comodidad de ser asistida. El camino hacia una juventud más sana y un planeta más verde pasa por volver a <strong>poner la energía en las piernas</strong> de los jóvenes.",
       "zh": "电动滑板车是一种出行工具，但不是一种健康工具。我们必须确保下一代不会用主动生活的机会换取被动辅助的便利。通往更健康的青少年和更绿色的地球之路，在于让年轻人重新用自己的双腿去驱动前行。",
       "vocab": [
         {
@@ -205,3 +205,4 @@
     }
   ]
 }
+
