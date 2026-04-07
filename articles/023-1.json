@@ -1,0 +1,137 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "健康·经济",
+  "difficulty": "B2",
+  "wordCount": "约650词",
+  "title": "El 'efecto Ozempic' ya se asoma en la cesta de la compra española: el gasto cae un 3,1% en los hogares que lo utilizan",
+  "subtitle": "『Ozempic效应』已现身西班牙购物篮：使用该药物的家庭支出下降3.1%",
+  "resumenEs": "El artículo analiza cómo el uso creciente de fármacos adelgazantes basados en GLP-1, como Ozempic o Wegovy, está modificando los hábitos de compra en España. Los hogares usuarios registran una caída del 3,1% en gasto y del 3,8% en volumen, con descensos notables en chocolate, patatas fritas y alcohol, y aumentos en frutas, huevos y aceite de oliva. El fenómeno afecta principalmente a la clase media de entre 50 y 64 años, con mayor concentración en Andalucía. Aunque el gasto farmacéutico asociado crece a ritmo acelerado, la patronal advierte de que su impacto estructural sobre el conjunto de la población sigue siendo limitado.",
+  "resumenZh": "本文分析了以Ozempic、Wegovy为代表的GLP-1类减重药物的日益普及如何改变西班牙的购物习惯。使用该类药物的家庭支出下降3.1%、购物量下降3.8%，巧克力、薯片和酒精饮料消费明显减少，而水果、鸡蛋和橄榄油则有所增加。这一现象主要影响50至64岁的中产阶级，以安达卢西亚地区最为集中。尽管相关药品支出快速增长，但行业协会指出，其对整体人口购物习惯的结构性影响目前仍然有限。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "El <strong>auge</strong> de medicamentos adelgazantes como Ozempic, Mounjaro o Wegovy empieza a reflejarse en algo tan cotidiano como el contenido del carrito de la compra en España. La preocupación por el peso, el control del apetito y la adopción de hábitos más saludables ha dejado de ser una cuestión estrictamente individual para influir ya en las decisiones diarias de consumo. En este contexto, estos tratamientos están presentes en aproximadamente el 6% de los hogares, con un volumen de gasto estimado en torno a 5.400 millones de euros, según datos de Worldpanel by Numerator. En estos hogares se observa además un cambio claro en el comportamiento de compra, con una caída del 3,8% en el volumen de la cesta y del 3,1% en el gasto en el último año, lo que sugiere una <strong>huella</strong> creciente de este fenómeno en el día a día del gran consumo.",
+      "zh": "Ozempic、Mounjaro、Wegovy等减重药物的兴起，开始体现在西班牙人日常生活中最平常的事物上——购物车里装的东西。对体重的关注、对食欲的控制以及对更健康生活习惯的养成，已不再是纯粹的个人事务，而是开始影响日常消费决策。在此背景下，根据Worldpanel by Numerator的数据，这类药物已进入约6%的西班牙家庭，估计相关支出规模约为54亿欧元。此外，这些家庭的购物行为也出现了明显变化：过去一年中，购物篮体量下降3.8%，支出下降3.1%，表明该现象在日常大众消费领域的影响正日益加深。",
+      "vocab": [
+        {
+          "word": "auge",
+          "translation": "兴起，鼎盛，高峰",
+          "note": "常与介词 en 搭配构成 en auge（处于上升期），强调上升过程中的高点，比 crecimiento 更有动态感。"
+        },
+        {
+          "word": "huella",
+          "translation": "痕迹，印记，影响",
+          "note": "本义为脚印，引申为可被观察到的持续性影响；dejar huella（留下印记）、huella ecológica（生态足迹）是高频搭配。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Este cambio se refleja también en la composición de la cesta de la compra. En los hogares con usuarios de GLP-1 disminuye el peso de categorías asociadas al consumo <strong>indulgente</strong>, como las tabletas de chocolate (-17,9%), las patatas fritas y otros fritos (-13,5%), el vino (-12,5%) o la cerveza (-11,4%). En paralelo, ganan relevancia productos más básicos o percibidos como saludables, entre ellos frutas, huevos o aceite de oliva, con incrementos que en algunos casos alcanzan el 24,8%. Este <strong>desplazamiento</strong> apunta a una sustitución progresiva hacia opciones más equilibradas, en un contexto marcado además por una mayor inclinación general hacia una alimentación más saludable. Según datos de Kantar, el 51% de los españoles señala el control del peso como una de sus principales preocupaciones, el 47% afirma intentar limitar el consumo de ultraprocesados y el 43% reconoce reducir la <strong>ingesta</strong> de dulces. Estos datos refuerzan una tendencia hacia hábitos de compra más conscientes y orientados a la salud, con diferencias por edad que reflejan distintas formas de entender el bienestar.",
+      "zh": "这一变化也体现在购物篮的构成上。在使用GLP-1药物的家庭中，与放纵性消费相关的品类占比有所下降，如板状巧克力（-17.9%）、薯片及其他油炸食品（-13.5%）、葡萄酒（-12.5%）和啤酒（-11.4%）。与此同时，更基础或被视为健康的产品地位上升，包括水果、鸡蛋和橄榄油，部分品类增幅高达24.8%。这种转移指向一种向更均衡选择的渐进式替代，背景是整体上对更健康饮食的更大倾向。根据Kantar的数据，51%的西班牙人将体重控制列为主要关切之一，47%表示努力限制超加工食品的摄入，43%承认减少了甜食的摄取量。这些数据强化了一种向更有意识、以健康为导向的购物习惯转变的趋势，不同年龄段之间的差异也反映出对健康的不同理解方式。",
+      "vocab": [
+        {
+          "word": "indulgente",
+          "translation": "放纵的，不加节制的",
+          "note": "consumo indulgente 是消费研究中的固定术语，指出于享乐而非需求驱动的消费；与英语 indulgent 是真朋友，可放心对应。"
+        },
+        {
+          "word": "desplazamiento",
+          "translation": "转移，替代，位移",
+          "note": "由 desplazar 派生；在经济分析中指结构性替代，desplazar a alguien 则表示『取代某人』，注意区分两种用法。"
+        },
+        {
+          "word": "ingesta",
+          "translation": "摄入量，摄取",
+          "note": "医学和营养学术语，比口语化的 consumo 更精确；动词形式为 ingerir，名词 ingestión 也存在但远不如 ingesta 常用。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Desde el punto de vista demográfico, estos consumidores se concentran principalmente en la clase media, que representa el 32,1%, y en el <strong>tramo</strong> de edad entre 50 y 64 años, que alcanza el 35,2%, una proporción superior a la que este grupo tiene en el conjunto de la población española, situada en el 32,4%. A continuación se sitúa la franja de mayores de 65 años, que supone el 31,5% de los usuarios, en línea con el envejecimiento progresivo de la población. En cuanto a la distribución geográfica, casi uno de cada cuatro usuarios se localiza en Andalucía, seguida del área de Levante, con un 16,8%, y el área metropolitana de Barcelona, con un 11,7%.",
+      "zh": "从人口结构来看，这类消费者主要集中在中产阶级（占32.1%）以及50至64岁年龄段（占35.2%），这一比例高于该群体在西班牙总人口中的占比（32.4%）。其次是65岁以上人群，占用户总数的31.5%，与人口持续老龄化的趋势相符。在地理分布上，近四分之一的用户位于安达卢西亚，其次是莱万特地区（16.8%）和巴塞罗那都市圈（11.7%）。",
+      "vocab": [
+        {
+          "word": "tramo",
+          "translation": "区间，段，档次",
+          "note": "在统计文体中指数轴上划定的连续范围；常见搭配：tramo de edad（年龄段）、tramo impositivo（税率档次），与 franja 近义但更强调数值区间。"
+        },
+        {
+          "word": "en línea con",
+          "translation": "与……一致，符合……",
+          "note": "新闻和报告中的高频固定搭配，相当于 de acuerdo con 但语气更正式，常用于将数据与趋势挂钩。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Desde su llegada a España en 2019, tras su aprobación en Europa un año antes, los tratamientos basados en GLP-1 han pasado de estar vinculados principalmente a la diabetes tipo 2 a <strong>consolidarse</strong> como un fenómeno en expansión, impulsado por su efecto en la pérdida de peso y por una demanda creciente. Esta evolución se refleja en el aumento del gasto farmacéutico asociado a su <strong>principio activo</strong>, con crecimientos anuales del 78% en 2021, del 44,5% en 2022, del 42% en 2023 y del 36,2% en 2024. Estas cifras evidencian tanto una mayor prescripción como un interés creciente por parte de los consumidores. En este contexto, un estudio de JP Morgan publicado este año plantea que el número de usuarios podría alcanzar los 30 millones en 2030 en Estados Unidos, lo que equivale al 9% de la población total del país.",
+      "zh": "自2019年进入西班牙市场（此前一年已获欧洲批准）以来，基于GLP-1的治疗方案已从主要与2型糖尿病相关，逐步发展为一种持续扩张的现象，其背后是该药物在减重方面的效果以及不断增长的需求。这一演变体现在相关活性成分药品支出的增长上：2021年同比增长78%，2022年增长44.5%，2023年增长42%，2024年增长36.2%。这些数据既反映了处方量的增加，也体现了消费者兴趣的持续上升。在此背景下，摩根大通今年发布的一项研究预测，到2030年美国用户数量可能达到3000万，相当于该国总人口的9%。",
+      "vocab": [
+        {
+          "word": "consolidarse",
+          "translation": "巩固，确立，站稳脚跟",
+          "note": "反身用法 consolidarse como 是新闻文体的高频结构，意为『确立自身作为……的地位』，比 convertirse en 更强调经过积累后趋于稳固的过程。"
+        },
+        {
+          "word": "principio activo",
+          "translation": "活性成分，有效成分",
+          "note": "药学固定术语，指药物中产生疗效的化学成分；在新闻报道中常用于区分品牌药与其所含的通用化学物质。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Un estudio publicado en la revista JAMA Network Open, basado en el análisis de casi dos millones de tiques de compra de más de 1.100 participantes en Dinamarca, muestra que las personas que inician tratamientos con fármacos GLP-1 tienden a comprar productos con menos calorías, azúcares, grasas saturadas y carbohidratos, y algo más de proteína. También se reduce la compra de ultraprocesados, lo que apunta a una dieta más <strong>ajustada</strong> y de mejor calidad.",
+      "zh": "发表于《JAMA Network Open》杂志的一项研究，基于对丹麦逾1100名参与者近200万张购物小票的分析显示，开始接受GLP-1药物治疗的人群倾向于购买热量、糖分、饱和脂肪和碳水化合物含量更低的产品，蛋白质含量则略有提升。超加工食品的购买量也有所减少，表明饮食结构更为精简、质量更高。",
+      "vocab": [
+        {
+          "word": "ajustada",
+          "translation": "精简的，严格控制的，贴合的",
+          "note": "一词多义：可指衣物『合身』、预算『紧张』，此处指饮食『经过严格控制、去除多余部分的』；注意根据语境判断，避免只联想到『紧身』这一含义。"
+        },
+        {
+          "word": "apuntar a",
+          "translation": "指向，表明，暗示",
+          "note": "新闻文体高频搭配，用于从数据或现象推导结论，语气比 indicar 更委婉，比 sugerir 更有方向感。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "En paralelo, el fenómeno también plantea implicaciones sobre la <strong>rentabilidad</strong> de determinadas categorías. Según Joan Riera, Client Service Director de Worldpanel by Numerator, el cambio de hábitos en estos consumidores tiene un impacto directo en la rentabilidad de categorías como los ultraprocesados y las bebidas alcohólicas. Esta visión refuerza la idea de que, aunque su alcance todavía es parcial, su efecto ya resulta significativo en segmentos concretos del gran consumo.",
+      "zh": "与此同时，这一现象也对特定品类的盈利能力产生了影响。据Worldpanel by Numerator客户服务总监Joan Riera表示，这些消费者的习惯变化对超加工食品和酒精饮料等品类的盈利能力产生了直接冲击。这一观点强化了如下判断：尽管其覆盖范围目前仍属局部，但在大众消费的特定细分领域，其影响已不可忽视。",
+      "vocab": [
+        {
+          "word": "rentabilidad",
+          "translation": "盈利能力，收益率",
+          "note": "由形容词 rentable（有利可图的）加后缀 -idad 构成；同类构词：sostenible→sostenibilidad、viable→viabilidad，掌握此规律可快速理解大量经济类名词。"
+        },
+        {
+          "word": "plantear",
+          "translation": "提出，引发，摆出（问题或影响）",
+          "note": "比 presentar 更正式，强调主动提出一个需要思考或应对的议题；plantear una pregunta、plantear implicaciones 均为新闻文体常见搭配。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Sin embargo, desde la <strong>patronal</strong> de distribución Asedas subrayan que el porcentaje de población que utiliza estos tratamientos aún no alcanza un nivel suficiente como para provocar por sí solo cambios <strong>estructurales</strong> en los hábitos de compra del conjunto de la población, por lo que su impacto global sigue siendo, por el momento, limitado.",
+      "zh": "然而，来自零售业雇主协会Asedas的声音则强调，目前使用这类药物的人口比例尚未达到足以单独引发整体人口购物习惯结构性变化的水平，因此其全局影响目前仍然有限。",
+      "vocab": [
+        {
+          "word": "patronal",
+          "translation": "雇主协会，企业主联合会；（形容词）雇主的",
+          "note": "既可作名词（la patronal，雇主方）也可作形容词（organización patronal）；与 sindicato（工会，代表劳方）相对，是劳资关系报道中的核心词汇对。"
+        },
+        {
+          "word": "estructural",
+          "translation": "结构性的，根本性的",
+          "note": "在经济和社会分析中，cambio estructural 特指深层次、长期性的系统变化，与 coyuntural（周期性的、短期的）相对，两词常成对出现于政策分析文本中。"
+        }
+      ]
+    }
+  ]
+}

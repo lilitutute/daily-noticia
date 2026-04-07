@@ -1,0 +1,170 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会·语言",
+  "difficulty": "B2",
+  "wordCount": "约900词",
+  "title": "La generación alfa no llama, no escribe 'emails' y juega con la ortografía: \"La regla es la pereza\"",
+  "subtitle": "阿尔法世代不打电话、不写邮件，还把拼写当游戏：「规则就是懒」",
+  "resumenEs": "El artículo explora los hábitos comunicativos de la generación alfa (nacidos entre 2010 y 2025) a través de testimonios de adolescentes españoles. Sus rasgos definitorios son tres: una ortografía funcional que prioriza la velocidad y la expresividad sobre la corrección formal; el abandono casi total del correo electrónico, reducido a usos técnicos residuales; y la evitación de las llamadas telefónicas con desconocidos. El uso de stickers como lenguaje visual y tribal completa el retrato de una generación que ha rediseñado la comunicación según el principio de la mínima molestia y la máxima naturalidad.",
+  "resumenZh": "本文通过西班牙青少年的亲身证言，探讨了阿尔法世代（2010至2025年出生）的沟通习惯。其三大核心特征为：以速度和表达力优先于正式规范的功能性拼写；电子邮件的近乎彻底废弃，仅剩技术性残余用途；以及对陌生人电话的主动回避。表情包贴纸作为视觉性、部落性语言的使用，完成了这幅以『最小麻烦、最大自然』为原则重塑沟通方式的世代画像。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "\"Las tildes las pongo siempre y las comas también, pero los puntos no. Y las mayúsculas solo las que me salen en automático\", dice Valeria, de Oviedo, de 15 años. \"Yo soy como un diccionario andante, a mí me puedes escribir con las letras mezcladas o como quieras, pero no puedes confundir 'a ver' con 'haber', esas cosas me <strong>ponen de los nervios</strong>\", dice Mariam, de 14 años y de Guadalajara.",
+      "zh": "『我一直都打重音符号，逗号也打，但句号不打。大写字母只用自动弹出来的那些，』来自奥维耶多、15岁的瓦莱里亚说。『我就像一本会走路的词典，你可以把字母混着写或者随便怎么写给我，但你不能把a ver和haber搞混，那种事情让我抓狂，』来自瓜达拉哈拉、14岁的玛丽亚姆说。",
+      "vocab": [
+        {
+          "word": "ponen de los nervios",
+          "translation": "让人抓狂，令人烦透了",
+          "note": "poner de los nervios 是西班牙口语中极高频的固定表达，意为『使某人极度烦躁、抓狂』；主语通常是令人烦恼的事物或人：eso me pone de los nervios（那件事让我抓狂）；近义表达：sacar de quicio、poner nervioso，但 poner de los nervios 语气最强烈。"
+        },
+        {
+          "word": "tildes",
+          "translation": "重音符号，声调符号（´）",
+          "note": "tilde 在西班牙语中专指标注重音的符号（´），是西语拼写的核心规则之一；注意与英语 tilde（~）的区别——西语中波浪号叫 virgulilla；tilde 的使用规则（规则重音、不规则重音、区别性重音）是西语学习者的必修内容。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Ambas ejemplifican que la ortografía en el mundo digital no ha muerto para la generación alfa (los nacidos entre 2010 y 2025), pero está muy <strong>tocada</strong>. La mayoría sabe cómo se escriben todas las palabras, o casi todas, pero les duelen poco los ojos al ver mensajes reales escritos así: \"As hablado con tu padre ??\", \"Le e dicho q si me d jan ir\", \"I que te a dicho ??\". Mientras el contexto dé sentido, todo vale.",
+      "zh": "两人的话都说明，拼写在数字世界中对阿尔法世代而言并未消亡，但已经伤痕累累。大多数人知道所有单词（或几乎所有单词）的正确写法，但看到这样写的真实消息时，他们的眼睛也不太会感到刺痛：『As hablado con tu padre ??』（你和你爸说了吗？）、『Le e dicho q si me d jan ir』（我跟他说了让我去的话）、『I que te a dicho ??』（那他跟你说什么了？）。只要上下文能说清楚意思，一切都行。",
+      "vocab": [
+        {
+          "word": "tocada",
+          "translation": "受损的，伤痕累累的，受到冲击的",
+          "note": "estar tocado/a 在口语中意为『受到损伤、处于不佳状态』，比 dañado 更口语化，带有一种『虽未彻底崩溃但已大打折扣』的含义；常见搭配：estar tocado pero no hundido（受伤但未沉没，即未被彻底击垮）；也可指人精神上受到打击。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "La generación alfa nació con la llegada del iPad en 2010. Ya no son la primera generación digital, sino la que vio pantallas desde que empezó a hablar. Una de las decisiones que parece que han tomado como generación es pasar de <strong>cortesías</strong> y ser más naturales, mucho más naturales: la ortografía debe bastar para entenderse y transmitir tanta personalidad y emoción como sea posible, los <strong>engorros</strong> del email y sus introducciones, despedidas y esperas son como el fax para la generación anterior. Tampoco les convence hablar por teléfono con gente si hay otras formas de comunicarse. Todo son decisiones para ahorrarse tiempo y molestias.",
+      "zh": "阿尔法世代随着2010年iPad的问世而诞生。他们已不再是第一代数字原住民，而是从开口说话起就与屏幕为伴的一代。作为一代人，他们似乎做出了一个共同决定：抛开客套，变得更自然，非常非常自然——拼写只需够用来理解彼此、传递尽可能多的个性和情感就行；电子邮件那些繁琐的开头、结尾和等待，对他们来说就像传真机之于上一代人。如果有其他沟通方式，他们也不太愿意打电话。一切都是为了省时省力。",
+      "vocab": [
+        {
+          "word": "cortesías",
+          "translation": "礼节，客套，礼貌用语",
+          "note": "cortesía 指社交场合中的礼貌行为或客套话；pasar de cortesías 是口语表达，意为『不在乎礼节、省去客套』；pasar de 在西班牙口语中意为『对……漠不关心、不屑于』，是青少年语言的高频表达：paso de estudiar（我懒得学习）。"
+        },
+        {
+          "word": "engorros",
+          "translation": "麻烦，繁琐，令人头疼的事",
+          "note": "engorro 是口语化名词，指令人烦恼的繁琐事务；形容词 engorroso/a（繁琐的、麻烦的）更为常见：un trámite engorroso（繁琐的手续）；与 molestia 相比，engorro 更强调程序上的繁复和低效，而非情感上的不适。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "\"La regla es la pereza\", dice Iker, de 16 años y de Madrid. \"Que sea más corto y escribas menos\", añade Lucía, también de Madrid y de 13 años. ¿El objetivo es gastar menos microsegundos en cada mensaje? \"Sí\", confirma esta adolescente. Cristian, de 14 años y de Murcia, explica la teoría básica: \"Coges las letras <strong>clave</strong> de una palabra que se podrían decir para que se entienda\", dice. O sea, quitan letras para <strong>agilizar</strong>, pero luego las añaden por otro lado: \"Yo pongo más vocales para que no quede así como muy seco\", explica Valeria. Un ejemplo sería este mensaje real de WhatsApp: \"fuaaaaaa noseeeee\".",
+      "zh": "『规则就是懒，』来自马德里、16岁的伊克尔说。『要更短，少写点，』同样来自马德里、13岁的卢西亚补充道。目标是在每条消息上少花几微秒吗？『是的，』这位青少年确认道。来自穆尔西亚、14岁的克里斯蒂安解释了基本理论：『你抓住一个词里能让人听懂的关键字母，』他说。也就是说，他们删减字母来提速，但又从另一个方向添加字母：『我会多加几个元音，这样看起来不会那么干，』瓦莱里亚解释道。一个真实的WhatsApp消息例子是：『fuaaaaaa noseeeee』（哇啊啊啊啊不知道哦哦哦哦）。",
+      "vocab": [
+        {
+          "word": "clave",
+          "translation": "关键的，核心的；钥匙，密码",
+          "note": "clave 作形容词时意为『关键的、核心的』，不随名词性别变化（invariable）：la palabra clave、el elemento clave；作名词时意为『钥匙、密码、关键』；这种形容词不变格的用法在西语中较特殊，需特别记忆。"
+        },
+        {
+          "word": "agilizar",
+          "translation": "加速，使更流畅，提高效率",
+          "note": "agilizar 由 ágil（敏捷的）+ 后缀 -izar 构成，意为『使某事变得更快捷、更高效』；常见搭配：agilizar los trámites（简化手续）、agilizar el proceso（加快流程）；后缀 -izar 将形容词转化为动词，是西语构词的核心规律。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "\"Me sale solo. No me importa si lo escribo mal o bien, solo que se entienda\", dice Joan, de 16 años y de Tarragona. Aunque pone un <strong>reparo</strong>: \"Cuando no conoces mucho a alguien, hablas normal. Pero si te vas haciendo amigo, ya hablas como te apetece\".",
+      "zh": "『自然而然就这样了。我不在乎写得对不对，只要能让人看懂就行，』来自塔拉戈纳、16岁的胡安说。不过他也提出了一个保留意见：『跟不太熟的人说话，你会说得正常一点。但如果越来越熟了，就随心所欲地说了。』",
+      "vocab": [
+        {
+          "word": "reparo",
+          "translation": "保留意见，顾虑，异议",
+          "note": "poner reparos（a algo）是固定搭配，意为『对某事提出异议或保留意见』；单独使用 un reparo 指一个具体的顾虑；注意与 reparar（修理、注意到）的区别——reparo 作名词时专指异议，与动词含义差异较大。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "En esta evolución lingüística son clave los stickers, que son fotomemes a menudo con frases añadidas y un toque de <strong>jeroglífico</strong>: \"Tengo un amigo que es experto en stickers. El tío literalmente me habla con stickers. En vez de decir: 'quedamos', me manda un sticker random, yo qué sé, una foto de un famoso o algo así. Y si lo pillo, lo pillo. Y, si no, me aguanto. Es una cosa loca\", dice Iker.",
+      "zh": "在这场语言演变中，表情包贴纸至关重要——它们是带有附加文字、略带象形文字意味的图片表情包：『我有个朋友是贴纸专家。那家伙字面意义上用贴纸跟我说话。他不说咱们约一下，而是发给我一个随机贴纸，我也不知道，就是某个名人的照片之类的。如果我能看懂，那就看懂了。看不懂的话，我也只能忍着。真是疯狂，』伊克尔说。",
+      "vocab": [
+        {
+          "word": "jeroglífico",
+          "translation": "象形文字；（比喻）难以解读的东西",
+          "note": "jeroglífico 本指古埃及象形文字，在口语中引申为『难以理解、需要解读的东西』；用在此处带有幽默色彩，暗指贴纸语言像象形文字一样需要解码；常见口语用法：esto es un jeroglífico（这简直像天书）。"
+        },
+        {
+          "word": "me aguanto",
+          "translation": "我只能忍着，我将就，没办法",
+          "note": "aguantarse 在口语中意为『忍受、将就、没有其他选择只能接受』，带有一种无奈的接受感；常见于西班牙口语：si no te gusta, te aguantas（不喜欢的话你就忍着吧）；比 resignarse 更口语化，语气更随意。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Los stickers que usan los adultos son bastante repetitivos. En el mundo alfa hay más variedad: \"En mi grupo de amigas sí tenemos nuestros stickers\", dice Carolina, de 17 años y de Cádiz. \"Pero con otra gente no los uso porque <strong>está feo</strong>\", añade. La variedad de usos es delicada: se crean fácilmente a partir de una foto. El porno es un uso común, pero también el insulto. \"No tenemos stickers de personas famosas. He visto casos de stickers para un fin que no es el correcto\", dice María, de 17 años y de Valencia. \"Sticker de profesores, de esos he visto muchos\", dice Iker.",
+      "zh": "成年人使用的贴纸相当重复。在阿尔法世代的世界里，种类更多：『在我的女生朋友群里，我们确实有自己的贴纸，』来自加的斯、17岁的卡罗利娜说。『但跟其他人就不用，因为那样不太好，』她补充道。贴纸的使用场景很微妙：只需一张照片就能轻松创建。色情是一种常见用途，侮辱也是。『我们没有名人的贴纸。我见过有人把贴纸用于不正当目的，』来自瓦伦西亚、17岁的玛丽亚说。『老师的贴纸，那种我见过很多，』伊克尔说。",
+      "vocab": [
+        {
+          "word": "está feo",
+          "translation": "不太好看，不太妥当，有点失礼",
+          "note": "estar feo 在口语中意为『（某行为）不太得体、有点失礼』，是西班牙口语中评价社交行为的常见表达；注意与 ser feo（长得丑）的区别：estar feo 评价行为，ser feo 描述外貌；类似用法：está feo llegar tarde（迟到不太好）。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "El email es un <strong>vestigio</strong> del pasado que sirve para abrir cuentas en redes, pero no para dar información si no es por obligación. \"Lo uso si hay que iniciar sesión en algo y tienen que mandarte un código. Si no, nunca\", dice Valeria, de 15 años, de Madrid. \"Yo para enviar los apuntes a imprimir\", dice María. \"Yo me mando correos a mí misma para pasarme la foto del ordenador al móvil\", dice Carolina. Son todos usos <strong>ridículos</strong> y menores.",
+      "zh": "电子邮件是过去的遗迹，只用来注册社交账号，除非迫不得已否则不用来传递信息。『如果需要登录某个东西，他们得给你发验证码，我才用。不然，从来不用，』来自马德里、15岁的瓦莱里亚说。『我用来把笔记发出去打印，』玛丽亚说。『我给自己发邮件，把电脑上的照片传到手机，』卡罗利娜说。这些都是些可笑的、微不足道的用途。",
+      "vocab": [
+        {
+          "word": "vestigio",
+          "translation": "遗迹，残余，痕迹",
+          "note": "vestigio 指某一已消逝事物留下的痕迹或残余，带有历史感和消亡感；常见搭配：los vestigios de una civilización（一个文明的遗迹）、un vestigio del pasado（过去的残余）；比 resto 更强调历史性和象征性的残存。"
+        },
+        {
+          "word": "ridículos",
+          "translation": "可笑的，荒唐的，微不足道的",
+          "note": "ridículo/a 在此指『微不足道、不值一提』，带有轻蔑色彩；注意 hacer el ridículo（出洋相）是固定搭配；ridículo 还可作名词：quedar en ridículo（显得可笑）；这是一个情感色彩强烈的评价词，在新闻和评论中高频出现。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "En algunos momentos <strong>puntuales</strong> sirven para una comunicación indispensable, como en el caso de adolescentes que aún no tienen móvil. \"A mi amiga que está en el instituto y no tiene tablet ni móvil ni nada, le mando un correo y le digo dónde vamos a quedar\", añade Carolina. O para profesores de otras generaciones.",
+      "zh": "在某些特定情况下，电子邮件确实用于不可或缺的沟通，比如那些还没有手机的青少年。『我有个在中学读书的朋友，她没有平板也没有手机什么都没有，我就给她发邮件告诉她我们在哪里碰面，』卡罗利娜补充道。或者用来联系其他世代的老师。",
+      "vocab": [
+        {
+          "word": "puntuales",
+          "translation": "特定的，具体的，个别的",
+          "note": "puntual 最常见的意思是『守时的』，但在 en momentos puntuales 这一搭配中意为『在特定的、具体的时刻』，是一个典型的语境依赖词；注意这一用法与『守时』含义的区分：casos puntuales（个别情况）、de forma puntual（偶尔、在特定情况下）。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Un uso clásico de los móviles es el de teléfono. Lo emplean solo con conocidos y <strong>procuran</strong> avisar antes de llamar: \"Normalmente escribo porque puedo esperar para recibir una respuesta. Una llamada suena hasta que lo apagas y me parece que puede ser molesto\", dice Amets, de 15 años y de Madrid. Todas las respuestas son variantes similares: \"No suelo llamar a no ser que sea por algo urgente, prefiero hablar por mensajes. Y nunca llamo a desconocidos, ni le cojo el teléfono a números que no reconozco\", dice Verónica, de 15 años y de Guadalajara.",
+      "zh": "手机的经典用途是打电话。他们只与熟人通话，并且尽量在打电话前先发消息告知：『我通常发消息，因为我可以等待回复。电话会一直响直到你挂掉，我觉得这可能会让人烦，』来自马德里、15岁的阿梅茨说。所有回答都是类似的变体：『我一般不打电话，除非是紧急的事，我更喜欢发消息聊。而且我从不给陌生人打电话，也不接我不认识的号码，』来自瓜达拉哈拉、15岁的韦罗妮卡说。",
+      "vocab": [
+        {
+          "word": "procuran",
+          "translation": "尽量，努力做到，设法",
+          "note": "procurar + 不定式 意为『尽力去做某事、设法实现某目标』，比 intentar 更强调主动努力和有意识的尝试；常见搭配：procurar no molestar（尽量不打扰）、procura llegar a tiempo（尽量准时到达）；在正式和书面语中使用频率高于口语。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "\"Si es un familiar o un amigo, no me importa escribirles antes de llamarles o llamarles directamente, pero si es un desconocido no le llamo <strong>en absoluto</strong>\", dice Mariam, de 14 años.",
+      "zh": "『如果是家人或朋友，我不介意先发消息再打电话，或者直接打，但如果是陌生人，我根本不会打，』14岁的玛丽亚姆说。",
+      "vocab": [
+        {
+          "word": "en absoluto",
+          "translation": "根本不，完全不，绝对不",
+          "note": "en absoluto 是强烈否定的固定短语，意为『完全不、根本不』；注意这是一个典型的假朋友陷阱：字面看似肯定（absoluto=绝对），实际上在否定句中表达强烈否定；常见用法：¿Te molesta? — En absoluto.（你介意吗？——根本不。）"
+        }
+      ]
+    }
+  ]
+}

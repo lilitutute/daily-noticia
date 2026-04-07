@@ -1,0 +1,98 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "文化·哲学",
+  "difficulty": "C1",
+  "wordCount": "约450词",
+  "title": "La Luna por amor",
+  "subtitle": "为爱奔月",
+  "resumenEs": "El artículo es un editorial filosófico que reflexiona sobre el deseo humano de conocer a partir de tres referencias clásicas: la afirmación de Aristóteles sobre la curiosidad natural del ser humano, la anécdota de Tales de Mileto cayendo en un pozo mientras observaba los astros, y la idea platónica del conocimiento como impulso erótico hacia el bien, la verdad y la belleza. El texto toma como pretexto el vuelo de la misión Artemis 2 para argumentar que la exploración espacial no contradice nuestra humanidad, sino que la cumple: incluso en un mundo que 'se cae a pedazos', el afán de saber sigue siendo la mejor expresión de nuestra naturaleza.",
+  "resumenZh": "本文是一篇哲学性社论，以三个古典典故为基础，探讨人类对知识的渴望：亚里士多德关于人类天生好奇心的断言、米利都的泰勒斯仰望星空坠入井中的轶事，以及柏拉图将知识视为对善、真、美的情欲冲动的理念。文章以阿尔忒弥斯2号任务的飞行为引子，论证太空探索并不与人类本性相悖，而恰恰是人类本性的实现：即便在一个『正在分崩离析』的世界里，求知的渴望仍是我们本性最美好的表达。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Lo escribió Aristóteles hace casi 2.500 años al comienzo de su Metafísica. Y con el paso de los siglos, aquella intuición no ha hecho más que <strong>corroborarse</strong>: todos los seres humanos desean, por naturaleza, conocer. Y esa <strong>pulsión</strong>, que para su maestro Platón adquiría la forma de un rapto literalmente erótico, tuvo siempre como primera motivación el asombro. Una inquietud que, las más de las veces, nos sorprendió mirando al cielo.",
+      "zh": "亚里士多德在近2500年前，在其《形而上学》的开篇写下了这句话。随着岁月流逝，那一直觉只是不断得到印证：所有人类天生都渴望认知。而这种冲动——在其师柏拉图那里，以一种字面意义上的情欲迷狂的形式呈现——始终以惊奇作为第一动力。这种不安的好奇心，往往在我们仰望天空时悄然降临。",
+      "vocab": [
+        {
+          "word": "corroborarse",
+          "translation": "得到印证，被证实，获得佐证",
+          "note": "corroborar 意为『以证据加以证实、印证』，比 confirmar 更强调通过积累性证据来强化某一论断；在学术和新闻文体中极为高频；名词 corroboración（佐证）也常见；注意此处用反身形式 corroborarse，表示『（某一观点）自身得到了印证』。"
+        },
+        {
+          "word": "pulsión",
+          "translation": "冲动，驱力，本能冲力",
+          "note": "pulsión 是心理学术语，源自弗洛伊德理论中的 Trieb（驱力），指一种来自内部的、本能性的心理驱动力；比 impulso 更强调其深层的、近乎生理性的强迫力量；在哲学和精神分析语境中是核心词汇。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Existe otra antigua leyenda, previsiblemente falsa pero que merecería ser verdadera, en la que un filósofo aún más antiguo, Tales de Mileto, cayó en un pozo mientras caminaba observando los astros. El olvido de las cosas más mundanas y próximas, y su concentración en las esferas celestes, le hicieron tropezar mientras una muchacha tracia sonreía al comprobar el <strong>ensimismamiento</strong> —otra bonita palabra que obsesionó a Ortega— del sabio. Un sabio que, por cierto, observó con tanta precisión la regularidad del cielo que fue capaz de predecir un eclipse.",
+      "zh": "还有另一个古老的传说——很可能是虚构的，但值得成为真实——其中一位更为古老的哲学家，米利都的泰勒斯，在仰望星辰行走时跌入了一口井中。对最世俗、最近在眼前之物的遗忘，以及对天球的全神贯注，使他绊倒在地，而一位色雷斯少女则微笑着，目睹了这位智者的沉醉忘我——这也是另一个令奥尔特加着迷的美丽词汇。这位智者，顺带一提，以极高的精确度观测了天象的规律性，以至于能够预测日食。",
+      "vocab": [
+        {
+          "word": "ensimismamiento",
+          "translation": "沉醉忘我，自我沉浸，出神",
+          "note": "ensimismamiento 由 en sí mismo（在自身之中）构成，指一种完全沉浸于自身思想、忘却外部世界的状态；西班牙哲学家奥尔特加·伊·加塞特曾专门论述这一概念，将其与人类的内省能力联系起来；比 abstracción 更强调主体性的自我封闭。"
+        },
+        {
+          "word": "tracia",
+          "translation": "色雷斯的，来自色雷斯的",
+          "note": "tracio/a 是形容词，指古代色雷斯（Tracia）地区的人或事物；色雷斯位于今巴尔干半岛东部，是古希腊世界的边缘地带；这一典故出自柏拉图《泰阿泰德篇》，色雷斯女仆嘲笑泰勒斯的故事是西方哲学史上最著名的轶事之一。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "En parte por la rotación de los astros, pero también por las cosas que pasaron en la Tierra, el tiempo pasó, y los seres humanos siguieron obsesionados con comprender los misterios del cielo. Y bien que lo consiguieron, gracias al esfuerzo y la valentía de quienes se atrevieron a dudar y a <strong>jugarse el pellejo</strong>. Porque lo de arriesgar la piel por querer saber del espacio y las estrellas es algo que no pocos <strong>ensayaron</strong> antes, incluso, de abandonar la gravedad terrestre que nos ata al suelo.",
+      "zh": "部分因为天体的运转，也因为地球上发生的种种，时间流逝，而人类始终痴迷于理解天空的奥秘。他们确实做到了，得益于那些敢于质疑、敢于以身犯险之人的努力与勇气。因为为了探知宇宙与星辰而甘冒生命之险，这是不少人在挣脱将我们束缚于地面的地球引力之前便已经历过的事。",
+      "vocab": [
+        {
+          "word": "jugarse el pellejo",
+          "translation": "以身犯险，冒生命危险，拿命去赌",
+          "note": "jugarse el pellejo 是生动的口语固定短语，pellejo 本指动物的『皮、皮囊』，引申为人的生命；整个短语意为『拿自己的命去赌、冒极大的生命风险』；近义表达：jugarse la vida、arriesgar el pellejo；这类身体隐喻在西语口语和新闻中极为常见。"
+        },
+        {
+          "word": "ensayaron",
+          "translation": "尝试，试验，实践",
+          "note": "ensayar 本义为『排练、试验』，在此引申为『尝试、付诸实践』；名词 ensayo 既指『排练』，也指文学体裁『随笔/论文』；这一词的多义性在西语学习中极为重要：ensayo clínico（临床试验）、ensayo literario（文学随笔）。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "En el horizonte inmediato, siempre la Luna: una esfera lo suficientemente distante como para <strong>fascinarnos</strong>, y lo bastante próxima como para <strong>empujarnos</strong> a la aventura. Si la previsión se cumple, cuatro astronautas de la misión Artemis 2 estarán hoy, lunes, más cerca de nuestro satélite de lo que lo hemos estado en los últimos 50 años. Se aproximarán sin pisar la superficie, como quien acaricia la puerta de una antigua casa, para recordar que seguimos siendo capaces de encontrar el camino.",
+      "zh": "在眼前的地平线上，始终是月亮：一个遥远到足以令我们着迷、又近到足以驱使我们踏上冒险之旅的天体。如果预期成真，阿尔忒弥斯2号任务的四名宇航员今天——周一——将比过去50年来任何时候都更接近我们的卫星。他们将在不踏上月面的情况下靠近，如同轻抚一座古老房屋的门扉，以此提醒我们：我们依然有能力找到回家的路。",
+      "vocab": [
+        {
+          "word": "fascinarnos",
+          "translation": "令我们着迷，使我们神往",
+          "note": "fascinar 意为『使某人深深着迷、神往』，比 gustar 语气强烈得多，带有一种近乎无法抗拒的吸引力；注意此处的句式结构：lo suficientemente + 形容词 + como para + 不定式，意为『足够……以至于能够……』，是表达程度与结果关系的高级句型。"
+        },
+        {
+          "word": "empujarnos",
+          "translation": "驱使我们，推动我们，促使我们",
+          "note": "empujar 本义为『推、推动』，在此引申为『驱使、促使某人采取行动』；empujar a alguien a hacer algo（驱使某人做某事）是固定搭配；与上文 fascinarnos 形成对比：月亮既令人着迷（情感层面），又驱使人行动（意志层面）。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Querer mirar más allá de la Tierra no <strong>enmienda</strong> ni <strong>desdice</strong> nuestra condición humana. Más bien, la cumple. De ahí que siempre busquemos comprender, volver a medir, mirar más lejos y predecir lo que vendrá. Este mundo se cae a pedazos y a cada paso insistimos en demostrarnos voraces, falibles y crueles. Pero, por fortuna, nuestra naturaleza sigue siendo más fuerte que nosotros y nos lleva a querer seguir entendiendo. Y si Platón no se equivocaba, ese afán no es más que el signo de nuestro apetito de bien, de verdad y de belleza.",
+      "zh": "渴望凝视地球之外，并不修正也不否定我们的人类本性。恰恰相反，它成全了这种本性。正因如此，我们始终寻求理解、反复丈量、望向更远处、预测将要来临之事。这个世界正在分崩离析，而我们每走一步都在证明自身的贪婪、易错与残忍。但幸运的是，我们的本性依然比我们自身更为强大，引领我们继续渴望理解。如果柏拉图没有错，那么这种渴望不过是我们对善、对真、对美的胃口的印记。",
+      "vocab": [
+        {
+          "word": "enmienda",
+          "translation": "修正，纠正，改变",
+          "note": "enmendar 意为『修正、纠正某一错误或缺陷』；名词 enmienda 在政治语境中指『修正案』（enmienda constitucional，宪法修正案）；此处 no enmienda nuestra condición 意为『并不修正或改变我们的人类本性』，暗含一种对人性本质不变性的哲学判断。"
+        },
+        {
+          "word": "desdice",
+          "translation": "否定，与……相悖，收回（之前的说法）",
+          "note": "desdeckir 由前缀 des-（否定）+ decir（说）构成，意为『否认、与……相矛盾、收回前言』；desdecirse de algo（收回某事）是固定搭配；此处 no desdice nuestra condición 意为『并不与我们的人类本性相悖』；这是一个构词清晰、语义精确的高级词汇。"
+        }
+      ]
+    }
+  ]
+}

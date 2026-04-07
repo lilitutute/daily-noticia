@@ -1,0 +1,144 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "城市·人文",
+  "difficulty": "C1",
+  "wordCount": "约700词",
+  "title": "La importancia de una pescadería de barrio",
+  "subtitle": "一家街坊鱼店的重量",
+  "resumenEs": "El artículo es una columna de opinión que toma como pretexto el cierre de la pescadería Alofer, en el barrio madrileño de Lavapiés, para reflexionar sobre la desaparición del comercio de barrio. El autor combina la nostalgia personal —el espectáculo de los peces voladores, las anécdotas vividas allí— con una crítica al capitalismo de grandes superficies que homogeneiza las ciudades, a la presión turística que vacía los bajos comerciales y al relevo generacional que prefiere tiendas de nicho frente a los oficios tradicionales. El texto cierra con una nota de esperanza: algunos empleados de Alofer han encontrado un nuevo local cercano para continuar.",
+  "resumenZh": "本文是一篇专栏评论，以马德里拉瓦皮耶斯街区的阿洛费尔鱼店关门为引子，反思街坊小商业的消亡。作者将个人怀旧情感——飞鱼奇观、在那里经历的轶事——与对大型连锁资本主义的批判相结合：这种资本主义正在同质化城市，旅游业压力掏空了沿街商铺，而新一代人也更倾向于开设小众特色店，而非传承传统手艺。文章以一丝希望作结：阿洛费尔的部分员工已在附近找到新店面，得以延续。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "En el barrio de Lavapiés había peces voladores. Lo cuentan los más viejos del lugar, y los no tan viejos, yo mismo lo he visto con estos <strong>ojitos</strong>: lubinas, doradas, percas que volaban por los aires trazando trayectorias parabólicas, escapando del abrazo cierto de la gravedad, pasando de las manos de un pescadero a otro, como en un espectáculo circense. El más difícil todavía.",
+      "zh": "拉瓦皮耶斯街区曾有飞鱼。老街坊们这样讲，不那么老的人也这样讲，我自己也亲眼目睹过：鲈鱼、鲷鱼、鲈鲈，在空中划出抛物线轨迹飞翔，挣脱引力确凿的怀抱，从一个鱼贩的手中传到另一个手中，宛如一场马戏表演。难度系数极高。",
+      "vocab": [
+        {
+          "word": "ojitos",
+          "translation": "小眼睛（亲昵指小词，强调亲历）",
+          "note": "con estos ojitos 是西班牙口语固定表达，意为『亲眼目睹、用自己的眼睛看到的』，后缀 -ito 在此不表示体积小，而是增添亲切感和情感强调；完整说法常为 con estos ojitos que se ha de comer la tierra（用这双终将入土的眼睛）；这类指小词的情感功能是西语语用学的核心内容。"
+        },
+        {
+          "word": "El más difícil todavía",
+          "translation": "难度更高的还在后头；压轴好戏",
+          "note": "el más difícil todavía 是马戏表演的经典报幕语，意为『最难的节目还没上』，在西语文化中已成为固定习语，用于强调某事的难度或出人意料性；作者用此短语独立成句，制造幽默的戏剧效果。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "La pescadería Alofer: buenísima calidad a buenísimos precios, un sitio de barrio que todo el mundo conocía, que todo el mundo comentaba por ese <strong>pintoresquismo</strong> barrial que va desapareciendo en la ciudad podrida. Allí parecía latir el vientre de un barco pesquero en las <strong>gélidas</strong> aguas del Gran Sol, o un submarino nuclear comandado por Sean Connery, y, sin embargo, estaba ahí al lado, en la calle Esgrima, haciendo semiesquina. Siempre le regalaban un langostino a mi hijita.",
+      "zh": "阿洛费尔鱼店：品质极佳，价格极优，一个街坊里人人皆知的地方，人人都会提起——正是因为那种正在腐烂的城市中日渐消失的街坊风情。在那里，仿佛能感受到一艘渔船的腹腔在大索尔渔场冰冷的海水中跳动，或是一艘由肖恩·康纳利指挥的核潜艇——然而它就在附近，在击剑街上，占着半个街角。他们总会送给我小女儿一只大虾。",
+      "vocab": [
+        {
+          "word": "pintoresquismo",
+          "translation": "风情，如画的特质，地方色彩",
+          "note": "pintoresquismo 由 pintoresco（如画的、富有地方色彩的）+ 后缀 -ismo 构成，指一种充满地方特色、生动鲜活的氛围；后缀 -ismo 将形容词转化为抽象名词，表示某种性质或风格的总体特征；比 encanto 更强调视觉性和文化独特性。"
+        },
+        {
+          "word": "gélidas",
+          "translation": "冰冷的，极寒的",
+          "note": "gélido/a 是文学性形容词，意为『极度寒冷的』，比 frío 语气强烈得多，带有诗意色彩；常见于文学和新闻描写：aguas gélidas（冰冷的海水）、viento gélido（刺骨的寒风）；词根 gel- 与英语 gelid、gel 同源，均与『冷冻』相关。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Alofer echa el cierre por el retiro de su capitán, Fernando Alonso, que manejaba los cuchillos como un bólido de Fórmula 1. Alonso tiene 64 años y lleva en este barco cincuenta y tantos (la pescadería, desde 1936), respaldado por una <strong>abnegada</strong> tripulación de una docena con las manos hinchadas por el frío y las escamas, con olor persistente a puerto, acompañados de todos esos peces de mirada vacía y expresión estúpida (¡quién fuera pez!), de tantas gambas que miran a la gamba de al lado como diciendo: \"Llévate a esta que yo no he hecho nada\".",
+      "zh": "阿洛费尔因其船长费尔南多·阿隆索的退休而关门——他挥舞刀具的速度堪比一级方程式赛车。阿隆索今年64岁，在这艘船上已航行了五十多年（鱼店自1936年开业），身后是一支十余人的忘我船员队伍，他们的双手因寒冷和鱼鳞而肿胀，身上带着挥之不去的港口气息，身旁陪伴着那些眼神空洞、表情愚钝的鱼（真想做条鱼啊！），还有那么多虾，每只都望着旁边的虾，仿佛在说：『把那只带走吧，我什么都没做。』",
+      "vocab": [
+        {
+          "word": "abnegada",
+          "translation": "忘我的，无私奉献的，克己的",
+          "note": "abnegado/a 由前缀 ab-（远离）+ negado（否定的）构成，意为『否定自我、无私奉献的』；名词 abnegación（无私、克己）在宗教和道德语境中极为高频；比 dedicado 更强调自我牺牲的道德维度，常用于赞扬那些默默付出的劳动者。"
+        },
+        {
+          "word": "quién fuera pez",
+          "translation": "真想做条鱼啊（表达羡慕的虚拟式感叹）",
+          "note": "quién fuera + 名词/形容词 是西语表达羡慕或感叹的固定句式，使用过去虚拟式（fuera = fuese），意为『要是我是……该多好』；这是西语虚拟式最具文学价值的用法之一：¡quién fuera joven!（要是我还年轻该多好！）。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Cada pescadero ocupaba su <strong>púlpito</strong>, como un dream team de lo submarino, los miembros de Kraftwerk impartiendo la doctrina de la lubina a la espalda, de los filetes de merluza, de los ácidos grasos omega-3 corriendo por las venas. Alonso no cuida tanto su salud cardiovascular: fuma puritos, como buen capitán, y se pasó la vida durmiendo tres horas para navegar hasta Mercamadrid antes del amanecer y <strong>arribar</strong> al puerto de Lavapiés a tiempo para alimentar a sus vecinos.",
+      "zh": "每位鱼贩各占其讲坛，宛如水下世界的梦之队，如同Kraftwerk乐队的成员，传授着清蒸鲈鱼、鳕鱼片、以及在血管中奔流的欧米伽3脂肪酸的教义。阿隆索对自己的心血管健康倒不那么上心：他抽小雪茄，不愧是个好船长，一生只睡三小时，为的是在黎明前驾船驶往马德里中央批发市场，再及时抵达拉瓦皮耶斯港，为街坊邻居提供食粮。",
+      "vocab": [
+        {
+          "word": "púlpito",
+          "translation": "讲坛，布道台",
+          "note": "púlpito 本指教堂中神父布道的高台，作者将其用于描述鱼贩站立的工作台，制造了一种庄严的幽默效果；这种将世俗场景与宗教词汇并置的修辞手法（反讽性崇高化）是西语专栏写作的典型风格。"
+        },
+        {
+          "word": "arribar",
+          "translation": "抵达，到港，驶抵",
+          "note": "arribar 是正式或文学性动词，意为『（船只）抵达港口』，在此延续了全文的航海隐喻；比 llegar 更具文学色彩，专用于船只或正式场合的到达；名词 arribo（抵达）在拉丁美洲西语中比西班牙本土更为常用。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Se vivían en aquella pescadería aventuras memorables: una vez que iba a por mero, le di la <strong>vez</strong> por error a dos señoras diferentes y se montó una <strong>reyerta</strong> digna de una taberna marinera: tuve que salir a cuatro patas entre las piernas de las combatientes.",
+      "zh": "在那家鱼店里发生过许多难忘的冒险：有一次我去买石斑鱼，误把排队号给了两位不同的女士，结果引发了一场堪比水手酒馆的争斗：我不得不四肢着地，从两位战斗者的腿间爬出去。",
+      "vocab": [
+        {
+          "word": "vez",
+          "translation": "（排队的）顺序，号次",
+          "note": "dar la vez 是西班牙口语固定表达，意为『在排队时把自己的位置或顺序让给某人』；这是 vez 的一个特殊用法，与 turno（轮次）近义；在西班牙的市场和商店文化中，排队秩序（el orden de la vez）是极为重要的社会规范。"
+        },
+        {
+          "word": "reyerta",
+          "translation": "争斗，打架，口角冲突",
+          "note": "reyerta 是正式书面词，指激烈的争吵或肢体冲突，常见于新闻报道：una reyerta entre vecinos（邻里争斗）；作者用这个正式词汇描述菜市场里的小冲突，制造了庄重与滑稽并存的幽默效果——这是专栏写作中『高低词汇混搭』的经典修辞技巧。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Desaparecen así los comercios de barrio: el capitalismo que promete animar la pequeña iniciativa privada, el <strong>emprendizaje</strong> cotidiano, acaba absorbiendo los negocios en torno a las grandes empresas que <strong>homogenizan</strong> nuestras vidas. En el futuro, nadie tendrá carnicerías, pescaderías, mueblerías, bares, un proyecto de vida. Trabajaremos para Carrefour, Ikea, Starbucks, Granier o Panaria, todos empleados. Los ritmos vitales lo provocan: siempre me digo que tengo que ir más al mercado, a las tiendas, y menos a las grandes cadenas, pero me come la jornada, el trabajo, la crianza.",
+      "zh": "街坊小商业就这样消亡：那种承诺激励小型私人创业、日常创业精神的资本主义，最终将生意吸纳进同质化我们生活的大企业周围。未来，没有人会拥有肉铺、鱼店、家具店、酒吧，也不会有一个人生项目。我们都将为家乐福、宜家、星巴克、格拉尼耶或帕纳里亚打工，人人都是雇员。生活节奏造成了这一切：我总对自己说要多去市场、多去小店，少去大型连锁，但一天的时间被工作、被育儿吞噬殆尽。",
+      "vocab": [
+        {
+          "word": "emprendizaje",
+          "translation": "创业，创业精神，创业实践",
+          "note": "emprendizaje 是由 emprender（创业）+ 后缀 -aje 构成的新造词，在西班牙语媒体和政治话语中日益常见，指创业行为和创业文化；后缀 -aje 通常表示某种行为或过程：aprendizaje（学习过程）、aterrizaje（着陆过程）；作者用此词带有一丝讽刺意味。"
+        },
+        {
+          "word": "homogenizan",
+          "translation": "同质化，使千篇一律",
+          "note": "homogeneizar 意为『使变得均质、千篇一律』，是社会学和文化批评的核心词汇；在全球化批判语境中极为高频：la globalización homogeneiza las culturas（全球化使文化同质化）；反义词 diversificar（多样化）常与之对比使用。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Me dijo la directora de un mercado de abastos que las nuevas generaciones no quieren seguir con la carnicería o la pescadería familiar (faltan profesionales en estos oficios) y prefieren poner una tienda de sal del Himalaya o una <strong>pistachería</strong>, una tienda especializada en cheesecakes o en tiramisú, o una fresería donde venden fresas cubiertas de chocolate, o una tienda de gofres con forma de genital.",
+      "zh": "一家菜市场的负责人告诉我，新一代人不愿意继承家里的肉铺或鱼店（这些行业正面临人才短缺），而宁愿开一家喜马拉雅盐专卖店或开心果店，一家专门卖芝士蛋糕或提拉米苏的店，或是一家卖巧克力草莓的草莓铺，抑或一家卖生殖器形状华夫饼的店。",
+      "vocab": [
+        {
+          "word": "pistachería",
+          "translation": "开心果专卖店",
+          "note": "pistachería 是作者列举的一系列荒诞小众店铺之一，由 pistacho（开心果）+ 后缀 -ería 构成；后缀 -ería 表示『出售某物的店铺』，是西语最高产的构词后缀之一：panadería（面包店）、carnicería（肉铺）、pescadería（鱼店）；掌握此规律可快速理解大量店铺名称。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Los dos hijos de Alonso tampoco quieren dedicarse al pescado. Pero Alofer tendrá continuidad, según informa el heroico medio <strong>hiperlocal</strong> XLavapiés: algunos empleados han encontrado un local cercano (¡milagro!) para seguir abasteciendo a su fiel clientela. Me lo apunto: el número 5 de Mesón de Paredes. Prometo ir más, aunque la vida me coma. Quizás los peces sigan volando en Lavapiés, un lugar donde cualquier cosa podía pasar, pero donde cada vez pueden pasar menos.",
+      "zh": "阿隆索的两个儿子也不想从事鱼业。但据英雄般的超本地媒体XLavapiés报道，阿洛费尔将得以延续：部分员工已在附近找到了一处店面（奇迹！），得以继续为忠实顾客供货。我记下了：梅松德帕雷德斯街5号。我承诺会多去，哪怕生活将我吞噬。也许飞鱼仍将在拉瓦皮耶斯飞翔——这是一个曾经什么都可能发生的地方，但能发生的事情越来越少了。",
+      "vocab": [
+        {
+          "word": "hiperlocal",
+          "translation": "超本地的，聚焦极小地理范围的",
+          "note": "hiperlocal 是数字媒体时代的新词，由前缀 hiper-（超级、极度）+ local 构成，指专注于极小地理范围（一个街区、一条街道）的新闻媒体或内容；前缀 hiper- 在西语中极为高产：hipermercado（大型超市）、hiperconexión（超连接）、hiperactivo（多动的）。"
+        },
+        {
+          "word": "me coma",
+          "translation": "将我吞噬，占据我所有时间",
+          "note": "comerse a alguien 在口语中意为『占据某人的全部时间和精力、将其吞噬』；作者在全文中多次使用这一表达（me come la jornada / aunque la vida me coma），形成首尾呼应的修辞结构；这种身体性的时间隐喻是西语专栏写作的鲜明风格。"
+        }
+      ]
+    }
+  ]
+}

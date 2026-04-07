@@ -1,0 +1,201 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "教育·社会",
+  "difficulty": "B2-C1",
+  "wordCount": "约900词",
+  "title": "Nuevo rumbo educativo en China: más recreos y menos tareas para paliar las consecuencias de la feroz competitividad en el país",
+  "subtitle": "中国教育新方向：增加课间休息、减少作业，以缓解激烈竞争带来的后果",
+  "resumenEs": "El artículo analiza cómo China intenta reformar su sistema educativo para aliviar la presión académica que sufren los estudiantes desde edades tempranas. El modelo actual, heredero de los exámenes imperiales y marcado por el gaokao, genera altos niveles de ansiedad, insomnio y depresión entre los menores. El Gobierno ha anunciado medidas como la prohibición de tareas excesivas, la limitación de exámenes y la obligación de respetar el tiempo de recreo. Sin embargo, los expertos advierten de que las reformas administrativas serán insuficientes mientras persistan las expectativas sociales que equiparan el éxito personal con el rendimiento académico.",
+  "resumenZh": "本文分析了中国如何尝试改革教育体系，以缓解学生从小承受的学业压力。现行模式脱胎于科举制度，以高考为核心，导致未成年人中焦虑、失眠和抑郁问题高发。政府已宣布一系列措施，包括禁止布置过多作业、限制考试频率以及明确保障课间休息时间。然而，专家警告称，只要社会上将个人成功等同于学业成绩的观念依然根深蒂固，行政层面的改革就难以从根本上解决问题。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "El Century Park de Shanghai, el mayor pulmón verde de la capital económica de China, es famoso por combinar estilos occidentales y chinos. Amplias zonas de jardines europeos clásicos conviven con estanques rodeados de piedras y plantas acuáticas, conectados por los tradicionales puentes curvos. Normalmente, entre semana, este lugar se llena por las mañanas de jubilados que practican taichí y juegan al badminton. Pero desde finales de marzo, la escena ha cambiado: cada vez es más frecuente ver grupos de escolares trotando por sus senderos, en fila, bajo la supervisión de profesores.",
+      "zh": "上海世纪公园是中国经济中心最大的城市绿肺，以融合中西风格而闻名。宽阔的欧式古典花园与石块环绕、水草丛生的池塘相映成趣，由传统拱桥相连。平日上午，这里通常聚满了打太极、打羽毛球的退休老人。但自三月下旬起，景象悄然改变：越来越多的学生方队在老师的带领下，列队跑过公园小径。",
+      "vocab": [
+        {
+          "word": "pulmón verde",
+          "translation": "城市绿肺，城市绿地",
+          "note": "固定隐喻表达，专指城市中起到净化空气作用的大型绿地；是城市规划和环境报道中的高频词汇，可直接套用。"
+        },
+        {
+          "word": "entre semana",
+          "translation": "在工作日，周一至周五",
+          "note": "固定搭配，与 el fin de semana 相对；注意不说 en la semana，这是学习者的常见错误。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "«Ahora nos obligan a sacar a los niños a pasear a los parques en horas lectivas», explica Tian, una joven maestra de primaria que vigila a una veintena de alumnos de nueve años. La orden forma parte de una nueva batería de medidas impulsadas por las autoridades nacionales para aliviar la presión académica que asfixia a los estudiantes desde edades cada vez más tempranas. Tian no oculta su escepticismo: «Luego vuelven a clase revolucionados, llenos de energía. Así es muy difícil que se concentren».",
+      "zh": "「现在我们被要求在上课时间带孩子去公园散步，」田老师说道，她是一位年轻的小学老师，正在看管约二十名九岁学生。这项指令是全国当局推出的一系列新措施的组成部分，旨在缓解从越来越小的年龄就开始压垮学生的学业压力。田老师并不掩饰自己的怀疑：「他们回来之后都亢奋得很，精力充沛。这样根本没法集中注意力。」",
+      "vocab": [
+        {
+          "word": "batería de medidas",
+          "translation": "一系列措施，一揽子举措",
+          "note": "固定搭配，batería 本义为电池组或炮兵连，引申为『一整套』；在政策报道中极为常用，类似搭配还有 batería de preguntas（连珠炮式提问）。"
+        },
+        {
+          "word": "asfixiar",
+          "translation": "使窒息，压垮，令人喘不过气",
+          "note": "本义为使人窒息，在新闻文体中常用作隐喻，表示压力沉重到令人无法承受；比 agobiar 语气更强烈、更具画面感。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "A Lu Bei, madre treintañera, le hizo gracia la primera vez que escuchó a su hija de siete años balbucear números mientras dormía. Pensó que era una anécdota divertida para contar a los amigos. Pero aquello dejó de hacerle gracia cuando comenzó a repetirse con mayor intensidad. Su hija repetía en sueños operaciones matemáticas que no lograba sacarse de la cabeza durante el día. El caso de esta familia no es una excepción.",
+      "zh": "三十多岁的母亲卢蓓第一次听到七岁的女儿在睡梦中喃喃数数时，觉得挺好笑的，以为是个可以讲给朋友听的趣事。但当这种情况愈演愈烈、不断重复时，她就笑不出来了。她的女儿在梦里反复演算着白天怎么也甩不掉的数学题。这个家庭的遭遇并非个例。",
+      "vocab": [
+        {
+          "word": "treintañero/a",
+          "translation": "三十多岁的人",
+          "note": "由数词加后缀 -añero/a 构成，同类词：veintañero（二十多岁）、cuarentón（四十多岁）；掌握此构词规律可举一反三。"
+        },
+        {
+          "word": "balbucear",
+          "translation": "含糊地说，喃喃自语，牙牙学语",
+          "note": "既可指婴儿咿呀学语，也可指成人因睡意或情绪激动而说话不清晰；此处指睡梦中不自觉的断续低语。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "China arrastra desde hace décadas un modelo educativo basado en la competición feroz, la memorización y una obsesión cultural por el rendimiento académico. Un sistema que hunde sus raíces en los antiguos exámenes imperiales -el keju- y que en la era moderna se ha transformado en una maquinaria de selección masiva cuyo máximo símbolo es el gaokao, la temida prueba de acceso a la universidad que cada año paraliza al país. Este clima tiene también raíces demográficas : la política del hijo único, vigente durante casi 40 años, concentró sobre un solo descendiente todas las expectativas familiares.",
+      "zh": "数十年来，中国一直背负着一套以激烈竞争、死记硬背和对学业成绩的文化执念为核心的教育模式。这一体系的根源可追溯至古代科举制度，在现代演变为一套大规模选拔机制，其最高象征便是令人生畏的高考——这场每年都让全国为之屏息的大学入学考试。这种氛围也有其人口学根源：实施近40年的独生子女政策，将整个家庭的期望全部压在了唯一的孩子身上。",
+      "vocab": [
+        {
+          "word": "arrastrar",
+          "translation": "拖拽；长期背负，积习难改",
+          "note": "在新闻文体中引申为『长期带着某种负担难以摆脱』；arrastrar un problema 是分析性报道的高频搭配，强调问题的历史惯性。"
+        },
+        {
+          "word": "hundir las raíces en",
+          "translation": "根植于，根源在于",
+          "note": "固定隐喻搭配，与 tener raíces en 近义但更具文学性；常用于追溯某一现象的历史或文化根源。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Muchos expertos señalan que la ansiedad escolar comienza ahora en primaria, incluso antes. Las guarderías adelantan contenidos, los padres encadenan clases extraescolares -matemáticas avanzadas, piano, programación- y los niños crecen con la sensación de que cualquier paso en falso puede condenar su futuro. El cuello de botella no está solo en el gaokao. El zhongkao, el examen de acceso a la secundaria superior (lo que sería el paso a nuestro bachillerato), se ha convertido en un filtro igual de angustioso: cerca de la mitad de los estudiantes quedan fuera y son derivados hacia una formación profesional que aún arrastra cierto estigma entre las clases medias urbanas.",
+      "zh": "许多专家指出，学业焦虑如今从小学就开始了，甚至更早。幼儿园抢先教授小学内容，家长接连安排课外班——奥数、钢琴、编程——孩子们在成长过程中始终带着一种感觉：任何一步走错，都可能葬送自己的未来。瓶颈并不只在高考。中考——普通高中入学考试（相当于西班牙的bachillerato入学门槛）——已成为同样令人焦虑的筛选关卡：近一半学生被拒之门外，被分流至职业教育，而职业教育在城市中产阶级中至今仍背负着一定的污名。",
+      "vocab": [
+        {
+          "word": "paso en falso",
+          "translation": "失误，走错一步，失足",
+          "note": "固定短语，字面义为『踏错一步』，引申为可能造成严重后果的错误决定；dar un paso en falso 是最常见的动词搭配。"
+        },
+        {
+          "word": "cuello de botella",
+          "translation": "瓶颈，制约因素",
+          "note": "与英语 bottleneck 完全对应的真朋友，是经济、管理和社会分析报道中的通用隐喻，可直接套用。"
+        },
+        {
+          "word": "estigma",
+          "translation": "污名，耻辱标签，社会偏见",
+          "note": "在社会学语境中专指社会对某一群体或选择的负面标签化；比 vergüenza 更强调来自外部社会的集体性偏见。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Hay estudios que reflejan el coste de esta presión. Una investigación nacional realizada hace cuatro años por la Academia China de Ciencias situó en el 17,5% la prevalencia de trastornos mentales entre niños de 6 a 16 años: ansiedad, insomnio y depresión leve. Otro estudio de la Universidad de Tsinghua, basado en 420.000 adolescentes, detectó riesgo depresivo en el 14,8% de los encuestados. «Algunos muestran desinterés por el mundo real y una marcada incapacidad para socializar», advertía el psicólogo Peng Kaiping, uno de los autores.",
+      "zh": "多项研究揭示了这种压力的代价。中国科学院四年前开展的一项全国性调查显示，6至16岁儿童中精神障碍的患病率高达17.5%，涵盖焦虑、失眠和轻度抑郁。清华大学另一项基于42万名青少年的研究发现，14.8%的受访者存在抑郁风险。「一些孩子表现出对现实世界的漠然，以及明显的社交障碍，」该研究作者之一、心理学家彭凯平警告道。",
+      "vocab": [
+        {
+          "word": "prevalencia",
+          "translation": "患病率，流行率",
+          "note": "流行病学术语；与 incidencia（发病率，指新增病例）相对，prevalencia 包含所有现存病例，两词在健康报道中常被混淆。"
+        },
+        {
+          "word": "marcada",
+          "translation": "明显的，突出的，显著的",
+          "note": "marcado/a 是新闻文体的高频修饰词，强调『可被清晰观察到』的程度；比 grande 更精确，比 notable 更口语化。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "El diario Sixth Tone, con sede en Shanghai, contaba recientemente que la línea telefónica de atención psicológica de emergencia ha registrado un aumento constante de llamadas de menores desde su creación en 2021. «Al principio, solo una cuarta parte estaba relacionada con niños y adolescentes. Ahora roza el 30%», señalaba Jin Jin, responsable del servicio en el Centro de Salud Mental de la ciudad. Detrás de ese porcentaje hay historias de estudiantes de apenas 12 años incapaces de dormir, de niños que desarrollan miedo a los exámenes o que, como la hija de Lu Bei, arrastran las matemáticas hasta los sueños.",
+      "zh": "总部位于上海的《第六声》报近日报道，自2021年成立以来，心理援助紧急热线接到的未成年人来电数量持续增加。「最初，只有四分之一与儿童和青少年有关，现在已接近30%，」该市心理健康中心热线负责人金金表示。这个比例背后，是一个个真实的故事：12岁的学生彻夜难眠，孩子们对考试产生恐惧，或者像卢蓓的女儿一样，把数学题带进了梦里。",
+      "vocab": [
+        {
+          "word": "rozar",
+          "translation": "接近，逼近（某数值）；擦过，轻触",
+          "note": "本义为轻轻擦过，在数据报道中引申为『接近但尚未达到某个数字』；比 acercarse a 更口语化，常用于强调数值已非常接近某一门槛。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Ante este panorama, desde el Gobierno central están intentando corregir el rumbo. El Ministerio de Educación acaba de anunciar un nuevo paquete de medidas para aliviar la carga académica. Entre ellas, «la prohibición de asignar tareas excesivas», la limitación de la frecuencia de los exámenes y, en un gesto simbólico pero revelador, la orden expresa de no «invadir» el tiempo de recreo. En un país donde algunos colegios habían llegado a suprimir los descansos para dedicar más minutos al estudio, la directriz suena casi revolucionaria.",
+      "zh": "面对这一局面，中央政府正试图纠偏转向。教育部刚刚宣布了一套新的减负措施，包括「禁止布置过多作业」、限制考试频率，以及一项颇具象征意味却耐人寻味的规定——明确要求不得「侵占」课间休息时间。在一个部分学校曾取消课间休息以争取更多学习时间的国家，这一指令听起来几乎称得上革命性。",
+      "vocab": [
+        {
+          "word": "corregir el rumbo",
+          "translation": "纠偏，调整方向，转变航向",
+          "note": "航海隐喻固定搭配，rumbo 本义为航向；在政策报道中专指意识到偏差后的主动修正，比 cambiar la política 更强调纠错的主动性。"
+        },
+        {
+          "word": "revelador",
+          "translation": "耐人寻味的，说明问题的，揭示性的",
+          "note": "由动词 revelar（揭示）派生；在新闻评论中指某个细节虽小却能反映更深层的问题，比 significativo 更强调『暴露了隐藏信息』的含义。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Las nuevas normas también prohíben que los centros educativos castiguen a los profesores en función de los resultados académicos de sus alumnos, una práctica que había contribuido a inflar la presión. Y van más allá: las guarderías no podrán adelantar contenidos de primaria, una estrategia habitual impulsada por familias que buscan que sus hijos partan con ventaja. Estas medidas se suman a iniciativas anteriores, como una política para recortar deberes y limitar el lucrativo negocio de las academias privadas. También la introducción de más vacaciones y de mayor actividad física.",
+      "zh": "新规还禁止学校根据学生的学业成绩对教师进行处罚，这一做法此前助推了压力的不断膨胀。新规更进一步：幼儿园将不得提前教授小学内容，而这正是许多家庭为让孩子抢占先机而惯常采用的策略。这些措施是对此前一系列举措的延续，包括削减作业量、限制利润丰厚的校外培训机构等政策，以及增加假期和体育活动。",
+      "vocab": [
+        {
+          "word": "inflar",
+          "translation": "推高，使膨胀，夸大",
+          "note": "本义为充气，在经济和社会报道中引申为使数值或压力不正常地升高；inflar los precios（哄抬价格）、inflar las expectativas（过度拔高期望）均为常见搭配。"
+        },
+        {
+          "word": "lucrativo",
+          "translation": "利润丰厚的，有利可图的",
+          "note": "与英语 lucrative 是真朋友；在报道中形容某行业盈利能力强，常隐含对逐利动机的批评色彩。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "«El problema no es solo el sistema educativo, sino las expectativas sociales», apunta la psicóloga infantil Zhang Yue, que duda de que las reformas administrativas sean suficientes para desmontar una cultura profundamente arraigada. «Mientras los padres sigan creyendo que el éxito depende exclusivamente de las notas, la presión encontrará la forma de mantenerse», advierte.",
+      "zh": "「问题不只在于教育体系，更在于社会期待，」儿童心理学家张悦指出，她对行政层面的改革是否足以撼动一种根深蒂固的文化持怀疑态度。「只要家长们仍然相信成功完全取决于成绩，压力就总会找到维持自身的方式，」她警告道。",
+      "vocab": [
+        {
+          "word": "desmontar",
+          "translation": "拆解，瓦解，推翻",
+          "note": "本义为拆卸机械，引申为系统性地瓦解某种结构或观念；比 eliminar 更强调需要逐步拆解的复杂性，常用于描述根深蒂固的制度或文化。"
+        },
+        {
+          "word": "arraigado",
+          "translation": "根深蒂固的，深入人心的",
+          "note": "profundamente arraigado 是新闻和社会分析中的高频固定搭配，专用于描述难以改变的习俗、观念或制度。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "En el gigante asiático, la educación ha sido históricamente el gran ascensor social. En un país de más de 1.400 millones de habitantes, la competencia es una realidad estadística. Cada familia, desde las grandes ciudades hasta las zonas rurales, intenta asegurar que sus hijos no queden rezagados en una carrera que empieza cada vez antes.",
+      "zh": "在这个亚洲巨人身上，教育历来是最重要的社会阶层跃升通道。在一个拥有逾14亿人口的国家，竞争是一种统计学意义上的必然。无论是大城市还是农村地区，每个家庭都在竭力确保自己的孩子不在这场越来越早就已开跑的竞赛中落后。",
+      "vocab": [
+        {
+          "word": "ascensor social",
+          "translation": "社会阶层流动的通道，向上流动的电梯",
+          "note": "固定隐喻表达，指能够帮助人改变社会阶层的机制；与 movilidad social 相关，但 ascensor social 更强调向上流动的通道本身。"
+        },
+        {
+          "word": "rezagado",
+          "translation": "落后的，掉队的，被甩在后面的",
+          "note": "quedar rezagado 是固定搭配，在教育、经济和竞争类报道中极为常用；比 atrasado 更强调在竞争中相对于他人的落后。"
+        }
+      ]
+    }
+  ]
+}
+
