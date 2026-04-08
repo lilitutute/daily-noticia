@@ -1,0 +1,217 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "教育·科技",
+  "difficulty": "B2",
+  "wordCount": "约750词",
+  "title": "El debate | ¿Está preparando la Universidad para un mundo con Inteligencia Artificial?",
+  "subtitle": "争鸣｜大学正在为人工智能时代做好准备吗？",
+  "resumenEs": "La IA ha llegado a la universidad y ya no hay vuelta atrás. Pero ¿está el sistema preparado? Óscar Espiritusanto cree que sí es posible adaptarse, siempre que la IA se use como herramienta para ampliar el pensamiento y no para sustituirlo. María Solano va un paso más allá: si la universidad no actúa con urgencia, la IA no generará igualdad sino una nueva brecha entre quienes sepan usarla con criterio y quienes se dejen llevar por ella. Los dos coinciden en lo esencial: la técnica se aprende, pero el pensamiento crítico, la ética y el conocimiento de fondo son lo que realmente marca la diferencia.",
+  "resumenZh": "人工智能已经进入大学校园，这一点无法回避。但问题是：大学准备好了吗？奥斯卡·埃斯皮里图桑托认为适应是可能的，前提是把人工智能当作拓展思维的工具，而不是替代思维的捷径。玛丽亚·索拉诺则更进一步：如果大学不尽快行动，人工智能带来的不会是平等，而是一道新的鸿沟——横亘在有判断力地使用它的人和被它牵着走的人之间。两人的核心观点一致：技术可以学，但批判性思维、伦理意识和扎实的知识底子，才是真正拉开差距的东西。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "La revolución tecnológica ha <strong>irrumpido</strong> en la enseñanza superior planteando la cuestión de cómo utilizarla y cómo formar respecto a ella a un alumnado que constituirá la primera generación que la empleará con naturalidad en su entorno laboral. Para el Director del Área de Innovación Educativa en la Fundación Cibervoluntarios y profesor universitario Óscar Espiritusanto es preciso adaptarse al nuevo entorno sin alarmismo pero sin crear expectativas irreales. Por su parte la investigadora y docente universitaria María Solano advierte de que si no se adopta una enseñanza adecuada, en pocos años estaremos <strong>abocados</strong> a una nueva brecha social.",
+      "zh": "技术革命已强势闯入高等教育领域，由此引发了一系列问题：如何使用人工智能，又如何围绕它培养学生——这一代学生将成为第一批在职场中自然运用人工智能的人。网络志愿者基金会教育创新部主任、大学教授奥斯卡·埃斯皮里图桑托认为，必须在不制造恐慌、也不构建不切实际期望的前提下适应新环境。研究员兼大学讲师玛丽亚·索拉诺则警告称，若不采取适当的教学方式，数年之内我们将不可避免地面临新的社会鸿沟。",
+      "vocab": [
+        {
+          "word": "irrumpido",
+          "translation": "闯入，突然出现，强势介入",
+          "note": "irrumpir en 是固定搭配，强调以突然、强势的方式进入某一领域或空间；比 entrar 更具冲击感，常用于描述新技术、危机或人物对某一领域的颠覆性介入。"
+        },
+        {
+          "word": "abocados",
+          "translation": "注定走向，不可避免地面临",
+          "note": "estar abocado a 是固定搭配，意为『注定面临某种（通常是负面的）结果』；由 abocar（引向、导向）派生，在新闻和政论文体中极为常见，如 estar abocado al fracaso（注定失败）。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "La Inteligencia Artificial lo está cambiando todo. Impregna cada parte de nuestra sociedad, de nuestro día a día y, por supuesto, su influencia alcanza también a la comunidad universitaria. No es la primera vez que vivimos un <strong>punto de inflexión</strong> semejante. Ante estos cambios, nos vienen a la mente las palabras atribuidas a Charles Darwin: \"No es la especie más fuerte la que sobrevive, ni la más inteligente, sino la que mejor se adapta al cambio\". Eso es exactamente lo que deben tener claro tanto docentes como estudiantes universitarios. La adaptación no es opcional, es una <strong>asignatura troncal</strong> y obligatoria.",
+      "zh": "人工智能正在改变一切。它渗透进我们社会的每一个角落、每一个日常瞬间，当然，其影响也延伸至大学群体。这并非我们第一次经历如此重大的转折点。面对这些变化，达尔文的名言浮现脑海：『存活下来的，不是最强壮的物种，也不是最聪明的，而是最能适应变化的。』这正是大学教师和学生都必须清醒认识到的。适应不是选项，而是一门必修的核心课程。",
+      "vocab": [
+        {
+          "word": "punto de inflexión",
+          "translation": "转折点，拐点",
+          "note": "源自数学术语（曲线曲率改变方向之处），在新闻和商业语境中引申为事物发展方向发生根本性转变的关键时刻；与英语 inflection point 完全对应，是分析性报道的高频表达。"
+        },
+        {
+          "word": "asignatura troncal",
+          "translation": "核心必修课，主干课程",
+          "note": "西班牙教育体系中的专用术语，指课程体系中不可缺少的核心科目；作者在此将其用作比喻，意指「适应变化」是每个人都无法回避的必修功课，这种将教育术语迁移至隐喻的写法是西语评论文体的常见手法。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Personalmente me considero <strong>ciberoptimista</strong>, pero no ciberutópico. La historia no conoce disrupción sin oportunidad, y la IA no será una excepción. Todas las revoluciones tecnológicas a lo largo de la historia han aportado valor y desarrollo a nuestra sociedad y está también lo hará. Hablamos de una herramienta extraordinaria cuando aprendemos a utilizarla bien. Lo que no tengo tan claro es si disponemos del tiempo necesario para procesar este aprendizaje y si contamos, a día de hoy, con docentes lo suficientemente preparados para liderar el reto. La tecnología avanza a una velocidad <strong>vertiginosa</strong>, con actualizaciones constantes que superan con creces la capacidad de respuesta del sistema universitario.",
+      "zh": "就我个人而言，我自认是一个网络乐观主义者，但不是网络乌托邦主义者。历史上从未有过没有机遇伴随的颠覆，人工智能也不会例外。纵观历史，每一次技术革命都为社会带来了价值与发展，这一次也不例外。当我们学会善用它时，我们面对的是一件非凡的工具。但我不那么确定的是：我们是否有足够的时间来消化这一学习过程，以及我们今天是否拥有足够准备好的教师来引领这一挑战。技术以令人眩晕的速度向前推进，持续不断的更新迭代远远超出了大学体系的应对能力。",
+      "vocab": [
+        {
+          "word": "ciberoptimista",
+          "translation": "网络乐观主义者，对数字技术持乐观态度的人",
+          "note": "由前缀 ciber-（源自 cibernética，网络/数字）加 optimista 构成；ciber- 是构词能力极强的前缀，可与大量名词或形容词结合，如 ciberespacio（网络空间）、ciberataque（网络攻击）、ciberutópico（网络乌托邦主义的），掌握此前缀可大幅扩展词汇量。"
+        },
+        {
+          "word": "vertiginosa",
+          "translation": "令人眩晕的，飞速的，急剧的",
+          "note": "由 vértigo（眩晕）派生；在新闻文体中专用于形容速度或变化之快令人难以跟上，比 rápida 更具画面冲击力；常见搭配：velocidad vertiginosa（极速）、crecimiento vertiginoso（急速增长）。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Nos enfrentamos, por tanto, a la tarea de integrar una herramienta que avanza a un ritmo más rápido que nuestro propio proceso de aprendizaje. Quizás la respuesta esté más allá de las aulas universitarias. Países como Estonia llevan años integrando la <strong>alfabetización digital</strong> y la IA desde la escuela primaria, preparando con antelación a una generación que, cuando llegue al aula universitaria, ya habrá interiorizado que su futura profesión estará impregnada de inteligencia artificial en mayor o menor medida y que ya tiene un contexto ético y un pensamiento crítico sobre la misma. Si esto se hace bien, los resultados pueden ser muy positivos. Si se improvisa o se obvia, el riesgo es enorme.",
+      "zh": "因此，我们面临的任务是整合一种比我们自身学习进程推进得更快的工具。答案或许超出了大学课堂的范畴。爱沙尼亚等国多年来已将数字素养和人工智能教育纳入小学课程，提前培育出这样一代人：当他们走进大学课堂时，已经内化了一个认知——自己未来的职业将在不同程度上被人工智能所渗透，并已具备相应的伦理框架和批判性思维。若做得好，成效将十分可观；若流于即兴或视而不见，风险将极为巨大。",
+      "vocab": [
+        {
+          "word": "alfabetización digital",
+          "translation": "数字素养，数字扫盲教育",
+          "note": "alfabetización 本义为扫盲（教人读写），引申为使人掌握某一领域基本能力的教育过程；alfabetización digital 是教育政策和科技报道中的核心术语，类似构词：alfabetización financiera（金融素养）、alfabetización mediática（媒体素养）。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Sin embargo, esta alfabetización no puede dirigirse exclusivamente al alumnado. Capacitar a los docentes para este nuevo escenario es importante y requiere recursos reales. El interrogante reside en cómo vamos a materializar esta transformación: ¿Crearemos la figura de un <strong>AI Officer</strong> en la universidad, como ya hacen algunas empresas?, ¿o constituiremos comités multidisciplinares encargados de definir una estrategia educativa en torno a la IA? Todas estas son preguntas legítimas que encierran complejos desafíos económicos, éticos, de privacidad y de gestión de datos que muchos docentes y estudiantes universitarios no tienen resueltos y a los que es urgente dar respuesta.",
+      "zh": "然而，这种素养教育不能只针对学生。为教师赋能以应对这一新场景同样重要，且需要切实的资源投入。问题在于我们将如何落实这一转型：我们是否会在大学设立「人工智能官」这一职位，就像一些企业已经在做的那样？还是组建跨学科委员会，专门负责制定围绕人工智能的教育战略？这些都是合理的追问，背后隐藏着复杂的经济、伦理、隐私与数据管理挑战——许多教师和学生尚未找到答案，而给出回应已迫在眉睫。",
+      "vocab": [
+        {
+          "word": "AI Officer",
+          "translation": "人工智能官，首席人工智能负责人",
+          "note": "源自英语企业管理术语，类比 Chief Information Officer（首席信息官）等职位；指专门负责制定和监督机构人工智能战略的高级职位；该词在西语科技和教育报道中直接沿用英文原词，是当前的新兴词汇。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Y sin embargo, como decía al principio, soy ciberoptimista y a pesar de esto, lo que más me preocupa cuando imparto la asignatura de Inteligencia Artificial en la universidad no es el posible fraude académico, ni la proliferación de trabajos generados con IA. Lo que más me inquieta, en línea con lo que advierte el profesor Senén Barro, uno de los investigadores españoles más reputados en el campo de la IA, es la <strong>delegación cognitiva</strong>: la tentación de dejar el pensamiento y la capacidad de reflexionar en una máquina o herramienta. Permitir que las máquinas piensen por nosotros.",
+      "zh": "然而，正如我开篇所说，我是一个网络乐观主义者。尽管如此，当我在大学讲授人工智能这门课时，最令我忧虑的既不是可能发生的学术欺诈，也不是人工智能生成作业的泛滥。最令我不安的——与西班牙人工智能领域最负盛名的研究者之一塞嫩·巴罗教授的警告一脉相承——是「认知委托」：将思考与反思的能力拱手让给机器或工具的诱惑。让机器替我们思考。",
+      "vocab": [
+        {
+          "word": "delegación cognitiva",
+          "translation": "认知委托，认知外包",
+          "note": "认知科学与教育学术语，指将本应由人脑完成的思考、判断、推理过程转交给外部工具（尤其是人工智能）代为完成；delegación 本义为授权委托，此处强调的是主动放弃认知自主权的危险性，是本文的核心概念。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "El riesgo no está en usar la IA. Está en usarla mal: como sustituto del esfuerzo cognitivo en lugar de como lo que debería ser, un <strong>exoesqueleto intelectual</strong> que amplíe lo que somos capaces de hacer. Un exoesqueleto nos permite levantar más peso del que podríamos solo con nuestros músculos. Del mismo modo, la IA puede ayudarnos a programar aunque no seamos desarrolladores, generar análisis de datos que antes requerirían semanas, meses o incluso años, incluso explorar territorios del conocimiento que solos no lograríamos. Pero para que eso funcione, el músculo tiene que estar ahí. Y el músculo cognitivo se construye en el aula, con el esfuerzo, con el aprendizaje y, en muchos casos, con la frustración y los errores que nos permiten mejorar.",
+      "zh": "风险不在于使用人工智能，而在于用错方式：将其作为认知努力的替代品，而非它本应成为的东西——一副能够放大我们能力边界的智识外骨骼。外骨骼让我们能举起仅凭自身肌肉无法承受的重量。同理，人工智能可以帮助我们编程，即便我们不是开发者；可以生成此前需要数周、数月乃至数年才能完成的数据分析；甚至可以带我们探索单凭自身无法抵达的知识疆域。但要让这一切成为可能，肌肉本身必须存在。而认知肌肉，是在课堂上，通过努力、学习，以及许多时候通过那些让我们得以进步的挫折与错误，一点一点锻造出来的。",
+      "vocab": [
+        {
+          "word": "exoesqueleto intelectual",
+          "translation": "智识外骨骼，认知增强框架",
+          "note": "作者创造的核心比喻：exoesqueleto（外骨骼）本是工程与医学术语，指穿戴在人体外部以增强力量的机械装置；此处将其迁移至认知领域，形象地说明人工智能应当是「放大人类能力」的工具而非「取代人类思考」的替代品，是本文最具说服力的修辞亮点。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Por suerte, en nuestro país la <strong>brecha</strong> no es una cuestión de acceso. Según la Fundación CYD, el 89% de los universitarios españoles ya usa la IA. El problema es cómo la utilizan. Habrá quienes la usen para ejercer esa delegación cognitiva, reduciendo su capacidad de reflexión, y quienes la utilicen como un exoesqueleto del pensamiento para llegar a lugares que, hasta hoy, eran inaccesibles para la mente humana. Los segundos llegarán al mercado laboral con ventaja y se desarrollarán mejor como profesionales. Y esta diferencia de uso es una elección libre de cada estudiante y de cada docente, que deberán aprender a adaptarse a este nuevo <strong>ecosistema</strong>.",
+      "zh": "幸运的是，在我们国家，鸿沟并不是一个关于获取渠道的问题。根据CYD基金会的数据，89%的西班牙大学生已经在使用人工智能。问题在于他们如何使用。有人会用它来实施认知委托，削弱自身的反思能力；有人则会将其作为思维的外骨骼，抵达迄今为止人类思维无法企及的地方。后者将带着优势进入职场，作为专业人士也将发展得更好。而这种使用方式的差异，是每一位学生和每一位教师的自由选择——他们都需要学会适应这一新的生态系统。",
+      "vocab": [
+        {
+          "word": "brecha",
+          "translation": "鸿沟，差距，裂口",
+          "note": "本义为墙壁或防线上被打开的缺口，在社会和科技语境中引申为群体间的不平等差距；brecha digital（数字鸿沟）、brecha social（社会鸿沟）、brecha de género（性别差距）均为高频固定搭配，是社会议题报道的核心词汇。"
+        },
+        {
+          "word": "ecosistema",
+          "translation": "生态系统；（比喻）由多方参与者构成的复杂环境",
+          "note": "生态学术语，在科技、商业和教育报道中广泛用作比喻，指由多个相互依存的主体（平台、用户、机构、规则）共同构成的复杂环境；与英语 ecosystem 完全对应，是当代科技新闻的超高频词。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "La revolución de la Inteligencia (no tan inteligente) Artificial (no tan artificial) ha entrado de lleno en todos los ámbitos de la vida y la Universidad no podía quedar al margen. No podía, por tres razones. La primera, que la van a usar. Esta generación de jóvenes que planifica su vida alrededor de la expresión \"me renta\" está encantada de poder recurrir a un buscador potente que le sintetice los resultados y que, además, le genere un contenido de apariencia muy profesional que ellos tardarían horas en producir. La segunda, que se la van a demandar en el entorno profesional. Los profesores tendremos que adaptar nuestras asignaturas para introducir temas específicos en los que se analicen oportunidades, retos y riesgos de la IA. Han llegado a nuestras aulas para adquirir el pensamiento crítico necesario que les permita tomar decisiones éticas y acertadas en un futuro entorno laboral, y la IA estará allí. La tercera, es que no debemos obviar su potencial, sino aprender a <strong>gobernarlo</strong> con acierto, y la Universidad, tanto desde la investigación como desde la docencia, debe ser un <strong>acicate</strong> para la mejor alfabetización digital de la sociedad.",
+      "zh": "这场（并不那么智能的）人工（并不那么人工的）智能革命已全面渗入生活的每一个领域，大学不可能置身事外。不可能，原因有三。其一，学生们会用它。这一代习惯用「值不值」来规划人生的年轻人，乐于借助一个强大的搜索工具来整合结果，还能生成外观极为专业、自己却需要数小时才能完成的内容。其二，职场会要求他们会用它。教师们必须调整课程，引入专门分析人工智能机遇、挑战与风险的议题。学生们来到我们课堂，是为了习得批判性思维，以便在未来的职场中做出符合伦理、判断准确的决策——而人工智能届时将无处不在。其三，我们不应回避其潜力，而应学会善加驾驭，大学无论从研究还是教学层面，都应成为推动社会提升数字素养的有力催化剂。",
+      "vocab": [
+        {
+          "word": "gobernarlo",
+          "translation": "驾驭它，管控它，治理它",
+          "note": "gobernar 本义为治理、执政，在科技语境中引申为对某种强大力量或工具实施有效管控；此处宾语代词 lo 指代 potencial（潜力），gobernar el potencial 意为「将潜力纳入有序管控之下」，体现了作者对人工智能「善用而非放任」的核心立场。"
+        },
+        {
+          "word": "acicate",
+          "translation": "刺激，催化剂，推动力",
+          "note": "本义为马刺（骑马时刺激马匹加速的尖刺），引申为激励某人或某事加速前进的外部刺激；比 estímulo 更具文学色彩，常见于正式书面语和评论文体；近义词 incentivo 更中性，acicate 则带有一种主动施压、促其奋进的含义。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Ahora bien, aunque el punto de partida sea que la IA tiene que estar en las universidades, la cautela necesaria de cualquier movimiento en esta <strong>vetusta</strong> institución de enseñanza obliga a plantearse con prudencia cuáles son los riesgos de su uso para poder sortearlos. Nuestros universitarios tienen que ser el motor del futuro y necesitamos que estén preparados con excelencia, no tanto en la técnica, que se aprende más rápido de lo que parece, como en la esencia del conocimiento. Al final, el que sea más filosófico hará el mejor prompt y el que sea más culto descubrirá mejor las alucinaciones e incongruencias a las que la IA nos empieza a tener acostumbrados.",
+      "zh": "话虽如此，即便出发点是人工智能必须进入大学，这一古老教育机构在任何变革中所必需的审慎态度，也要求我们冷静思考其使用风险，以便加以规避。我们的大学生必须成为未来的引擎，我们需要他们做好充分准备——与其说是技术层面的准备（那比想象中学得更快），不如说是知识本质层面的准备。归根结底，哲学素养越深厚的人，写出的提示词越出色；学识越渊博的人，越能识破人工智能已让我们逐渐习以为常的幻觉与矛盾。",
+      "vocab": [
+        {
+          "word": "vetusta",
+          "translation": "古老的，历史悠久的，陈旧的",
+          "note": "源自拉丁语 vetustus，是书面语中形容历史悠久、带有某种庄重甚至保守气息的形容词；比 antigua 更具文学色彩，常隐含「因年代久远而略显僵化」的语义；作者用此词形容大学，既是对其历史积淀的尊重，也暗含对其变革迟缓的温和批评。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Porque aquí está el principal riesgo de la IA, un temor que nos <strong>ronda</strong> a todos la cabeza sin saber verbalizarlo aún de manera adecuada: si no lo remediamos, en menos de una década, asistiremos a una nueva brecha social que generará nuevos pobres y nuevos ricos, parias del pensamiento y gestores del saber, la brecha entre los que sepan manejar la IA y los que se dejen arrastrar por ella. Y la única manera de evitar esa <strong>distopía</strong> es la formación integral de los estudiantes que aglutine técnica, ética y conocimiento. Poco podemos esperar de ineficaces legislaciones y menos aún de las empresas tecnológicas prestas a usar cualquier medio con el fin de multiplicar sus ingresos.",
+      "zh": "因为这才是人工智能最主要的风险所在——一种萦绕在所有人脑海中、却尚无法准确言说的恐惧：若不加以补救，不出十年，我们将目睹一道新的社会鸿沟的形成，催生出新的穷人与新的富人，思想的贱民与知识的掌管者——这道鸿沟，横亘在能够驾驭人工智能的人与被其裹挟的人之间。而避免这一反乌托邦图景的唯一出路，是融合技术、伦理与知识的学生全面培养。我们对那些低效的立法不抱太多期望，对那些随时准备不择手段扩大营收的科技企业就更不必说了。",
+      "vocab": [
+        {
+          "word": "ronda",
+          "translation": "萦绕，盘旋，徘徊于",
+          "note": "rondar 本义为在某地周围巡逻或徘徊，引申为某种念头、恐惧或感觉持续萦绕心头；rondar la cabeza 是固定表达，意为「在脑海中挥之不去」；类似用法：una idea que me ronda（一个萦绕我的想法）、la muerte le ronda（死亡在其周围徘徊）。"
+        },
+        {
+          "word": "distopía",
+          "translation": "反乌托邦，恶托邦",
+          "note": "utopía（乌托邦）的反义词，由希腊语前缀 dys-（坏、恶）加 topos（地方）构成，指一种社会极度压抑、技术或权力被滥用的虚构或预想中的黑暗未来；在当代科技与社会批评中使用频率极高，与 utopía 构成一对核心对立概念。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Creo que la brecha entre los que dominen la IA y los que se dejen dominar por ella va a venir dada por la capacidad de los universitarios de descubrir los límites de esta tecnología y eso se consigue con pensamiento crítico. El problema es que, para aplicar pensamiento crítico frente a una respuesta de la IA, hay que tener pensamiento previo, de modo que quien haya adquirido más conocimientos estará en mejor posición para contrastar los que la IA le da. El que no tenga con qué contrastar, caerá en las <strong>garras</strong> del pensamiento acrítico porque no podrá hacer más que creerse la respuesta –correcta o incorrecta, sesgada o no– de la IA de turno. No se puede poner en duda aquello que no se sabe.",
+      "zh": "我认为，能否驾驭人工智能与被其驾驭之间的鸿沟，将取决于大学生发现这一技术局限性的能力，而这需要批判性思维来实现。问题在于，要对人工智能的回答施以批判性思维，首先必须拥有前置的思考积累——因此，知识储备越丰富的人，越能有效核验人工智能给出的内容。没有任何知识可供比对的人，将落入非批判性思维的掌控之中，因为他们除了相信当下那个人工智能的回答——无论正确与否、有无偏见——别无选择。对自己不知道的事，是无法提出质疑的。",
+      "vocab": [
+        {
+          "word": "garras",
+          "translation": "爪子；（比喻）掌控，魔爪",
+          "note": "本义为动物的利爪，在比喻用法中指某种强大、危险力量的控制；caer en las garras de algo/alguien 是固定搭配，意为「落入……的掌控之中」，带有强烈的无力感和被动受困的含义；类似表达：caer en las garras del vicio（陷入恶习的掌控）。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "De hecho, derivada segunda del pensamiento acrítico es esa lenta pero <strong>paulatina</strong> caída por la pendiente deslizante de la falta de autoestima: dado que ya no saben casi nada y la IA parece saberlo casi todo, dejan de fiarse de ellos mismos. Y, sin conocimientos ni experiencia previa, no disponen de la valiosa intuición que en tantas ocasiones nos hace dudar de los resultados que nos da una máquina. Este fenómeno se conoce como \"<strong>sesgo de automatización</strong>\" y pone de manifiesto que, cuanto más se usa la IA en la toma de decisiones, más tiende el humano a imitar sus errores y menos se fía de su propio criterio.",
+      "zh": "事实上，非批判性思维的第二个衍生后果，是那种缓慢却持续的自尊滑落：由于学生们几乎什么都不知道，而人工智能似乎无所不知，他们便开始不再信任自己。在缺乏知识积累与前置经验的情况下，他们也失去了那种宝贵的直觉——正是这种直觉，常常让我们对机器给出的结果产生怀疑。这一现象被称为「自动化偏见」，它揭示了一个规律：人工智能被越多地用于决策，人类就越倾向于复制它的错误，越不信任自己的判断。",
+      "vocab": [
+        {
+          "word": "paulatina",
+          "translation": "逐渐的，缓慢而持续的",
+          "note": "强调变化以极其缓慢、几乎难以察觉的节奏持续推进；比 gradual 更强调过程的迟缓性，常与 lenta 连用构成 lenta pero paulatina（缓慢而持续的）这一固定搭配，在描述社会或心理层面的渐变时尤为常见。"
+        },
+        {
+          "word": "sesgo de automatización",
+          "translation": "自动化偏见",
+          "note": "认知心理学术语，指人类在决策过程中过度信任自动化系统（如算法、人工智能）的输出结果，即便面对明显错误也倾向于服从机器判断而非自身判断；sesgo（偏见、偏差）是认知科学和社会学的核心词汇，常见搭配：sesgo cognitivo（认知偏见）、sesgo de confirmación（确认偏见）。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "Los cientos de alumnos que han pasado por mis clases en las últimas décadas recuerdan bien el más importante de los conceptos de cualquiera de las asignaturas que imparto: para ser buen profesional hay que ser buena persona. Mi temor, ahora que la IA ha llegado a la Universidad, es que, <strong>obnubilados</strong> por las rápidas respuestas sin ética de un desordenado conjunto de fuentes, la IA les haga olvidar que son ellos, y sólo ellos, las buenas personas.",
+      "zh": "数十年来走过我课堂的数百名学生，都清楚地记得我所有课程中最重要的那个概念：要成为优秀的专业人士，首先要成为一个好人。如今人工智能已走进大学，我的忧虑在于：被那些来自杂乱信息源、毫无伦理可言的快速答案所迷惑，学生们或许会忘记——是他们，也只有他们，才是那个好人。",
+      "vocab": [
+        {
+          "word": "obnubilados",
+          "translation": "被蒙蔽的，被迷惑的，头脑模糊的",
+          "note": "源自拉丁语 obnubilare（用云遮蔽），意指判断力或理性被某种强烈的情绪、诱惑或外力所遮蔽，无法清醒思考；比 confundidos 更强调一种主动被外力蒙蔽的状态，带有强烈的文学色彩，常见于正式书面语和评论文体。"
+        }
+      ]
+    }
+  ]
+}
+

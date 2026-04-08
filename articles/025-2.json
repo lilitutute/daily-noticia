@@ -1,0 +1,166 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会与劳工权益",
+  "difficulty": "C1",
+  "wordCount": "约650词",
+  "title": "Cuando el cliente deja de tener (siempre) la razón",
+  "subtitle": "当『顾客永远是对的』不再成立",
+  "resumenEs": "El artículo analiza el impacto cultural de la Ley Karin en Chile, que por primera vez cuestiona el principio de que 『el cliente siempre tiene la razón』. Aunque las denuncias por violencia laboral son pocas, la ley impulsa un cambio cultural profundo: el buen trato es exigible en ambas direcciones, y la dignidad del trabajador ya no puede sacrificarse en nombre de la satisfacción del cliente.",
+  "resumenZh": "本文分析了智利《卡琳法》的文化影响。该法律首次挑战了『顾客永远是对的』这一原则。尽管劳动暴力投诉数量不多，但该法律正在推动深层文化变革：良好对待应是双向的，工人的尊严不能再以顾客满意为由而被牺牲。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Las cifras recientemente publicadas sobre la implementación de la Ley Karin muestran que menos del 10% de las <strong>denuncias</strong> presentadas son por violencia laboral. Esto podría llevar a pensar que no existe o que hay muy poca violencia en el mundo laboral. Sin embargo, la realidad no es así y por ello uno de los aspectos más relevantes de la normativa es justamente instalar explícitamente el derecho al buen trato en las relaciones de trabajo.",
+      "zh": "近期公布的《卡琳法》实施数据显示，所提交的投诉中不足10%涉及劳动暴力。这或许会让人以为职场中并不存在暴力，或暴力现象极为罕见。然而现实并非如此，正因如此，该法规最重要的意义之一，恰恰在于明确将良好对待权利写入劳动关系之中。",
+      "vocab": [
+        {
+          "word": "denuncias",
+          "translation": "投诉；举报；控告",
+          "note": "denuncia 在法律语境中指向有关部门正式举报违法行为，比口语中的 queja（抱怨）更正式，搭配动词 presentar una denuncia（提出投诉）或 interponer una denuncia（提起控告）。"
+        },
+        {
+          "word": "normativa",
+          "translation": "法规；规范性文件",
+          "note": "normativa 作名词时泛指一套规章制度或法规体系，比 ley（具体法律）范围更广，常见于新闻和政策文本，如 normativa laboral（劳动法规）、normativa vigente（现行规定）。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Por primera vez, el ordenamiento laboral chileno <strong>tensiona</strong> un principio profundamente <strong>arraigado</strong>, especialmente en sectores como el comercio y los servicios: la idea de que 『el cliente siempre tiene la razón』. Bajo la promesa de calidad y excelencia en la atención, este principio ha tendido a encubrir prácticas de violencia cotidiana que durante años fueron naturalizadas como parte del trabajo y como un costo inevitable de la relación con clientes, usuarios o público general.",
+      "zh": "智利劳动法律体系首次向一项根深蒂固的原则发起挑战，尤其是在商业和服务业领域：即『顾客永远是对的』这一理念。以服务质量和卓越体验为名，这一原则长期掩盖了日常暴力行为，多年来这些行为被视为工作的一部分，以及与顾客、用户或公众打交道时不可避免的代价而被习以为常。",
+      "vocab": [
+        {
+          "word": "tensiona",
+          "translation": "向……施压；使……产生张力",
+          "note": "tensionar 由名词 tensión（张力、紧张）加 -ar 构成，在社会和法律评论中常用于描述某一规则或原则受到挑战、被置于压力之下，语气比 cuestionar（质疑）更强调结构性冲突。"
+        },
+        {
+          "word": "arraigado",
+          "translation": "根深蒂固的；扎根的",
+          "note": "arraigado 来自动词 arraigar（生根），字面义为『已扎根』，常与 profundamente 搭配，形容观念、习俗或偏见在社会中长期存在且难以改变，是社会评论文体的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Cada vez es más frecuente observar en espacios de atención al público letreros, de diseño sobrio y tono cordial, que informan que no se admiten faltas de respeto ni agresiones verbales o físicas hacia quienes trabajan allí, y que, en virtud de la Ley Karin, el establecimiento se reserva el derecho de admisión y expulsión. No buscan amenazar ni <strong>interpelar</strong> con dureza. No se imponen visualmente. Sin embargo, su contenido resulta, en términos culturales, profundamente <strong>subversivo</strong>.",
+      "zh": "如今越来越常见的是，在公共服务场所出现设计简洁、语气友善的告示牌，告知顾客不得对工作人员有任何不尊重行为或言语、肢体攻击，并声明依据《卡琳法》，该场所保留拒绝入内及驱逐的权利。这些告示并非意在威胁，也不是要强硬地问责。它们在视觉上并不强势。然而，其内容在文化层面却具有深刻的颠覆性。",
+      "vocab": [
+        {
+          "word": "interpelar",
+          "translation": "质问；问责；追究",
+          "note": "interpelar 在正式语境中指公开质问或要求某人就其行为作出解释，比 preguntar（问）更具对抗性，常见于议会辩论（interpelar a un ministro）或新闻评论中。"
+        },
+        {
+          "word": "subversivo",
+          "translation": "颠覆性的；破坏性的",
+          "note": "subversivo 来自拉丁语 subvertere（从下方翻转），在政治语境中常指颠覆现有秩序，在文化评论中则指挑战主流规范或惯例，语气强烈，带有结构性批判的色彩。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Lo que estos mensajes comunican —sin decirlo de manera explícita— es una <strong>redefinición</strong> del vínculo entre clientes, empresas y trabajadores: el hecho de ser cliente o usuario no habilita el maltrato. El buen trato es exigible en ambos sentidos. En ese gesto, aparentemente simple, se <strong>condensa</strong> un desplazamiento relevante del foco tradicional, que ya no se sitúa exclusivamente en la experiencia del cliente, sino también en la dignidad de quien trabaja.",
+      "zh": "这些告示所传递的信息——尽管并未明言——是对顾客、企业与工人三者关系的一次重新定义：身为顾客或用户，并不赋予任何人施以虐待的权利。良好对待是双向可要求的。在这个看似简单的举动中，凝聚着一次意义深远的焦点转移——关注的中心不再仅仅是顾客的体验，也包括劳动者的尊严。",
+      "vocab": [
+        {
+          "word": "redefinición",
+          "translation": "重新定义；再界定",
+          "note": "前缀 re- 表示『重新』，定义 definición 加上 re- 构成 redefinición，在社会评论和政策文本中常用于描述对既有概念或关系的根本性重构，是高频学术词汇。"
+        },
+        {
+          "word": "condensa",
+          "translation": "凝聚；浓缩；集中体现",
+          "note": "condensar 字面义为物理上的『凝结、压缩』，引申为将复杂内容或意义集中体现于某一事物之中，在文学和评论文体中常用于强调某个细节所承载的深层含义。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Este cambio dialoga con <strong>hallazgos</strong> ampliamente documentados por investigaciones sobre el uso de la autoridad en Chile, particularmente los desarrollados por la socióloga Kathya Araujo. Sus estudios muestran cómo, en nuestra sociedad, la autoridad suele confundirse con autoritarismo y el ejercicio del poder se expresa frecuentemente a través del trato. En ese marco, el maltrato opera como un mecanismo cotidiano de <strong>jerarquización</strong> y control, muchas veces naturalizado y legitimado en nombre de la eficiencia, la exigencia o la satisfacción del cliente.",
+      "zh": "这一变化与智利权威使用研究中大量记录的发现相呼应，尤其是社会学家卡提亚·阿劳霍的研究成果。她的研究揭示了在我们社会中，权威往往与威权主义相混淆，权力的行使频繁地通过对待方式来体现。在这一框架下，虐待作为一种日常的等级化与控制机制运作，往往以效率、严格要求或顾客满意为名而被视为理所当然、合情合理。",
+      "vocab": [
+        {
+          "word": "hallazgos",
+          "translation": "研究发现；发现物",
+          "note": "hallazgo 来自动词 hallar（发现），在学术和新闻语境中专指研究或调查所得出的发现与结论，比 descubrimiento 更常用于社会科学领域，是论文和报告中的高频词。"
+        },
+        {
+          "word": "jerarquización",
+          "translation": "等级化；层级化",
+          "note": "由 jerarquía（等级制度）+ -izar + -ción 构成，指将社会关系按等级排列的过程，后缀 -ización 表示某种过程或趋势，如 globalización、digitalización，掌握此后缀可快速理解大量抽象名词。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Para quienes trabajan en servicios —especialmente mujeres— esta lógica ha implicado la <strong>normalización</strong> de gritos, humillaciones, amenazas o descalificaciones como parte inherente del trabajo. No es casual que más del 50% de las denuncias jurídicamente aprobadas bajo la Ley Karin correspondan a mujeres, ni que los sectores con mayor concentración de casos sean aquellos con alta exposición al público, como el comercio, la enseñanza y los servicios <strong>administrativos</strong>.",
+      "zh": "对于服务业从业者——尤其是女性——而言，这种逻辑意味着将叫骂、羞辱、威胁或贬低视为工作固有组成部分的常态化。《卡琳法》框架下经司法认定的投诉中逾50%来自女性，这并非偶然；案件高度集中于商业、教育及行政服务等高度面向公众的行业，同样并非偶然。",
+      "vocab": [
+        {
+          "word": "normalización",
+          "translation": "常态化；正常化",
+          "note": "normalización 在社会学语境中指将本不正常的现象逐渐视为理所当然的过程，带有批判色彩；在技术或政策语境中则指标准化，需结合语境区分两种含义。"
+        },
+        {
+          "word": "administrativos",
+          "translation": "行政的；管理的",
+          "note": "administrativo 是假朋友：它与英语 administrative 形近，含义也相近，但在西语职场中 servicios administrativos 常特指前台、文员等直接面向公众的行政服务岗位，范围比英语更具体。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Que la violencia en el trabajo aparezca hoy con una menor proporción de denuncias no implica que se trate de un fenómeno <strong>residual</strong>. Más bien <strong>da cuenta de</strong> una forma de violencia históricamente invisibilizada, naturalizada y, en muchos casos, ni siquiera reconocida como tal. Durante años, este tipo de prácticas ha operado como una externalidad del trabajo, más que como una vulneración de derechos.",
+      "zh": "职场暴力投诉比例偏低，并不意味着这是一种边缘性现象。这恰恰揭示了一种在历史上长期被忽视、被视为理所当然，乃至在许多情况下根本未被认定为暴力的暴力形式。多年来，此类行为一直被当作工作的外部性问题来对待，而非对权利的侵犯。",
+      "vocab": [
+        {
+          "word": "residual",
+          "translation": "残余的；边缘性的；次要的",
+          "note": "residual 来自 residuo（残余物），在社会评论中用于形容某一现象被视为无足轻重或即将消失的，作者在此用反问语气否定这一判断，强调职场暴力并非边缘问题。"
+        },
+        {
+          "word": "da cuenta de",
+          "translation": "揭示；反映；说明",
+          "note": "dar cuenta de 是重要固定搭配，意为『揭示、反映某一现实』，与 darse cuenta de（意识到）形态相近但含义不同，前者是他动的『揭示』，后者是自反的『意识到』，极易混淆。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "La Ley Karin ha sido cuestionada —con razón— por las dificultades prácticas de su implementación y por las tensiones que introduce en la gestión organizacional. Sin embargo, evaluar su impacto únicamente desde el número de denuncias resulta <strong>insuficiente</strong>. Su principal efecto, al menos en esta etapa inicial, no está solo en el plano jurídico, sino en el cambio cultural que ayuda a <strong>gestar</strong> y su impacto en nuestra sociedad.",
+      "zh": "《卡琳法》因其实施中的实际困难以及对组织管理带来的张力而受到质疑——这些质疑不无道理。然而，仅凭投诉数量来评估其影响是远远不够的。其主要效果，至少在这一初始阶段，不仅体现在法律层面，更体现在它所推动孕育的文化变革及其对我们社会的影响。",
+      "vocab": [
+        {
+          "word": "insuficiente",
+          "translation": "不充分的；不足够的",
+          "note": "前缀 in- 在此表示否定，suficiente（足够的）加 in- 变为 insuficiente，注意 in- 在 b、p 前变为 im-（如 imposible、improbable），在 r 前变为 ir-（如 irresponsable）。"
+        },
+        {
+          "word": "gestar",
+          "translation": "孕育；酝酿；催生",
+          "note": "gestar 字面义为生物学上的『妊娠、孕育』，引申为在社会或文化层面逐渐酝酿、催生某种变化，常用于描述深层变革的形成过程，语气比 generar 更强调渐进性。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Cuando una empresa visibiliza públicamente que cuidará a su gente incluso frente a sus clientes, está enviando una señal clara: el trabajo no implica tolerar lo intolerable. Las cifras actuales pueden parecer bajas, pero los cambios culturales profundos rara vez comienzan con grandes números. Suelen iniciarse así: con mensajes pequeños, <strong>persistentes</strong>, que contribuyen a <strong>redefinir</strong> lo que una sociedad considera aceptable en el mundo del trabajo.",
+      "zh": "当一家企业公开表明即便面对顾客也会保护自己的员工时，它传递出一个清晰的信号：工作并不意味着要容忍不可容忍之事。目前的数字或许看起来偏低，但深层的文化变革鲜少从大数字开始。它们往往就是这样起步的：从一条条微小而持续的信息开始，逐渐重新定义一个社会对职场中何为可接受行为的认知。",
+      "vocab": [
+        {
+          "word": "persistentes",
+          "translation": "持续的；坚持不懈的",
+          "note": "persistente 来自动词 persistir（坚持、持续），强调在时间上的持续性和不间断性，比 continuo（连续的）更突出主动坚持的意志，常用于描述社会变革或个人努力。"
+        },
+        {
+          "word": "redefinir",
+          "translation": "重新定义",
+          "note": "前缀 re- 表示『重新』，此处 redefinir 与第4段的 redefinición 同根，作者在文章首尾呼应，强调《卡琳法》的核心意义在于对社会规范的根本性重构，是全文的关键词。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "语言与文化",
+  "difficulty": "B2",
+  "wordCount": "约650词",
+  "title": "Son las nueve de la tarde",
+  "subtitle": "现在是晚上九点",
+  "resumenEs": "El artículo reflexiona sobre la ambigüedad lingüística en español al nombrar las partes del día: mañana, tarde y noche. El autor explora cómo las convenciones horarias modernas han roto la antigua correspondencia entre el lenguaje y los ciclos naturales de luz solar, generando contradicciones como decir 'las nueve de la tarde' cuando ya es de noche.",
+  "resumenZh": "本文探讨西班牙语在划分一天各时段时存在的语言模糊性：早晨、下午与夜晚。作者分析了现代时间惯例如何打破了语言与自然光照周期之间的古老对应关系，由此产生了诸如『晚上九点还叫下午』这样的矛盾说法。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Tenemos un buen <strong>jaleo</strong> para nombrar las tres partes del día que se establecieron en función de la luz del Sol. Para empezar, en español solemos acudir a un plural cuando expresamos buenos deseos, pese a que nos estamos refiriendo a un singular: 『Buenos días』, 『buenas tardes』, 『buenas noches』, igual que hacemos con 『felices Pascuas』, 『mis condolencias』, 『recuerdos』, 『saludos』, 『abrazos』, 『felicidades』… El singular les parecía <strong>ramplón</strong> a nuestros antepasados, que prefirieron transmitir un valor más amplio, no reducido a un momento sino extensible a todos los que vengan.",
+      "zh": "要给根据日光划分的一天三个时段命名，我们可真是乱成一锅粥。首先，西班牙语在表达问候时通常使用复数形式，尽管我们指的是单数概念：『Buenos días（早上好）』、『buenas tardes（下午好）』、『buenas noches（晚上好）』，就像我们说『felices Pascuas（复活节快乐）』、『mis condolencias（我的慰问）』、『recuerdos（问候）』、『saludos（致意）』、『abrazos（拥抱）』、『felicidades（祝贺）』一样……我们的祖先觉得单数形式过于平淡，更愿意传递一种更宽泛的意涵——不局限于某一个时刻，而是延伸至所有将要到来的时刻。",
+      "vocab": [
+        {
+          "word": "jaleo",
+          "translation": "混乱；乱象；嘈杂",
+          "note": "jaleo 是口语色彩浓厚的词，指混乱、嘈杂或麻烦的状况，常见搭配 armar un jaleo（惹出乱子）、menudo jaleo（真是一团糟），在正式文体中较少使用。"
+        },
+        {
+          "word": "ramplón",
+          "translation": "平庸的；粗俗的；缺乏品味的",
+          "note": "ramplón 形容缺乏精致感或格调的事物，带有轻蔑语气，比 ordinario 或 vulgar 更书面，常用于文学和文化评论语境。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Deseamos 『buenos días』 solamente por la mañana. 『Día』 se opone a 『noche』, y sin embargo también designa las 24 horas de una fecha, que incluyen la noche. Si decimos 『el envío tardó cuatro días en llegar』, ahí van incluidas sus respectivas horas nocturnas aunque no se mencionen (de igual modo que los <strong>genéricos</strong> incluyen los dos sexos aunque tampoco se expliciten). El <strong>significante</strong> que nombra el todo puede nombrar la parte, como ocurre igualmente con 『jornada』, que vale para el día entero o ceñirse al horario laboral (『jornada completa』, 『media jornada』…).",
+      "zh": "我们只在早晨说『buenos días（早上好）』。『Día（天/日）』与『noche（夜晚）』相对，然而它同时也指一个日期的完整24小时，其中包含夜晚。如果我们说『el envío tardó cuatro días en llegar（快递花了四天才到）』，其中已默认包含各自对应的夜间时段，即便并未明说（就如同泛指性词语涵盖两种性别，即便也未明确提及）。指称整体的能指也可以用来指称其中的部分，『jornada』同样如此——它既可指完整的一天，也可仅指工作时间（『jornada completa（全职）』、『media jornada（半职）』……）。",
+      "vocab": [
+        {
+          "word": "genéricos",
+          "translation": "泛指性词语；通称",
+          "note": "在语言学语境中，genérico 指不特指某一具体个体、而是泛指整个类别的词语用法，如用 el hombre 泛指人类，是语法分析中的重要概念。"
+        },
+        {
+          "word": "significante",
+          "translation": "能指；语言符号的形式面",
+          "note": "这是索绪尔语言学术语：significante 指符号的声音或形式层面，与 significado（所指，即概念层面）相对，是语言学入门必学的一对概念。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "También pisamos un suelo <strong>resbaladizo</strong> con la palabra 『mediodía』. Siempre dudamos si el mediodía se produce a las 12.00 (la mitad de 24) o si designa el tiempo de la comida, coincidente ahora con el <strong>cénit</strong> del Sol. Cuando nos informan de que 『habrá lluvias a mediodía』, ¿a qué momento se refieren? Esa ambigüedad horaria se debe a que, frente a las costumbres de nuestros ancestros, ya no comemos en función del ciclo solar, sino del reloj. (Comer, por cierto, también designa el todo y la parte: comemos al comer y comemos al cenar, de modo que la cena es una comida).",
+      "zh": "『mediodía（正午）』这个词同样让我们踩在一块滑溜溜的地面上。我们总是拿不准：mediodía 究竟是指12点整（24小时的一半），还是指吃午饭的时间——而这个时间如今恰好与太阳到达天顶的时刻重合。当有人告诉我们『habrá lluvias a mediodía（正午将有降雨）』，他们指的到底是哪个时刻？这种时间上的模糊性，源于与祖先的习惯不同，我们如今吃饭不再依照太阳的运行周期，而是依照时钟。（顺带一提，comer 这个词也同时指称整体和部分：我们在吃午饭时『comer』，在吃晚饭时也『comer』，因此晚饭也是一顿『comida』。）",
+      "vocab": [
+        {
+          "word": "resbaladizo",
+          "translation": "滑溜的；棘手的",
+          "note": "resbaladizo 字面义为『容易滑倒的』，引申为『难以把握的、棘手的』，文中以 pisar un suelo resbaladizo（踩在滑溜的地面上）作比喻，形容某个概念边界模糊、难以界定。"
+        },
+        {
+          "word": "cénit",
+          "translation": "天顶；顶点；鼎盛时期",
+          "note": "cénit 本是天文学术语，指太阳运行到正上方的最高点，引申义为『巅峰、鼎盛』，如 en el cénit de su carrera（在其职业生涯的顶峰），是有迁移价值的词。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Más problema aún hallaremos con los dos siguientes segmentos: 『Buenas tardes』 y 『buenas noches』. Las artificiales convenciones horarias de hoy han <strong>difuminado</strong> sus límites. Todos diríamos que la tarde comienza tras el mediodía, pero en este caso la lengua tiende a considerar como tal las 12.00. Por eso decimos 『son las dos de la tarde』 (la una de la tarde en Canarias). Y no 『son las dos del mediodía』; ni 『las dos de la mañana』 (esto queda para la madrugada, <strong>paradójicamente</strong>).",
+      "zh": "在接下来的两个时段——『Buenas tardes（下午好）』和『buenas noches（晚上好）』上，我们会遇到更多麻烦。当今人为制定的时间惯例已经模糊了它们之间的界限。我们都会说下午从正午之后开始，但在这种情况下，语言倾向于将12点整视为下午的起点。因此我们说『son las dos de la tarde（现在是下午两点）』（加那利群岛则说下午一点）。而不说『son las dos del mediodía』，也不说『las dos de la mañana』——矛盾的是，后者反而是用来指凌晨两点的。",
+      "vocab": [
+        {
+          "word": "difuminado",
+          "translation": "模糊化的；淡化的",
+          "note": "difuminar 本是绘画术语，指将线条或色彩晕开使其模糊，引申为使界限或差异变得不清晰，比 borrar（抹去）更强调渐进性的模糊过程。"
+        },
+        {
+          "word": "paradójicamente",
+          "translation": "矛盾地；悖论式地",
+          "note": "由名词 paradoja（悖论）派生的副词，后缀 -mente 相当于中文的『……地』，是构词能力极强的副词后缀，如 lógicamente、sorprendentemente，掌握后可快速识别大量副词。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "¿Y cuándo acaba la tarde? Tradicionalmente, cuando llega la oscuridad, una vez que se ha puesto el Sol. En el presente abril, el astro rey se está ocultando en España sobre las nueve. Y el 23 de junio no lo hará hasta las 21.50 (con alguna diferencia según la zona), hora que expresaríamos con un aproximado 『son las diez menos diez』. Y hasta casi finales de agosto, el Sol no se esconderá antes de las 21.00, si bien la claridad seguirá unos 25 minutos más, con el <strong>crepúsculo</strong>. En esta fase del año, esto nos llevaría a considerar la posibilidad de cenar 『a las nueve de la tarde』. La <strong>contradicción</strong> que sentimos al leer esta locución explica la locura a la que hoy nos conducen las agujas del reloj.",
+      "zh": "那么下午什么时候结束？按照传统，是黑暗降临之时，也就是太阳落山之后。今年四月，太阳在西班牙大约九点落山。而6月23日，太阳要到21点50分才会落下（各地略有差异），这个时间我们会大概说成『son las diez menos diez（差十分十点）』。直到八月底前，太阳都不会在21点之前落山，而暮色还会再持续约25分钟。在一年的这个阶段，这就让我们不得不考虑『a las nueve de la tarde（下午九点）』吃晚饭的可能性。读到这个说法时我们感受到的矛盾，正好说明了时钟的指针如今将我们带入了怎样的荒诞境地。",
+      "vocab": [
+        {
+          "word": "crepúsculo",
+          "translation": "暮色；黄昏；曙光",
+          "note": "crepúsculo 既可指日落后的暮色（黄昏），也可指日出前的晨曦（黎明），需结合语境判断，是文学和气象文体中的常用词，比口语中的 atardecer 更具诗意。"
+        },
+        {
+          "word": "contradicción",
+          "translation": "矛盾；自相矛盾",
+          "note": "由前缀 contra-（对抗）+ dicción（言辞）构成，字面义为『言辞相互对立』，同族词有 contradecir（反驳）、contradictorio（矛盾的），contra- 是高频前缀，值得掌握。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "La acción humana ha ido <strong>desorganizando</strong> la vieja correspondencia entre la lengua y la luz. Ya no dividimos nuestros ritmos biológicos en función de los condicionantes naturales, sino de extraños intereses de los que nadie se <strong>responsabiliza</strong>. Será muy difícil regresar a los tiempos en que la gente se levantaba con el alba y se acostaba con el ocaso, pero tanto el lenguaje como el desarrollo de la actividad humana resultarían más lógicos si al menos no le robáramos una hora más a la noche cada marzo. (Yo voto por el llamado 『horario de invierno』).",
+      "zh": "人类的行为已逐渐打乱了语言与光照之间古老的对应关系。我们不再依照自然条件来划分生物节律，而是依照某些无人为之负责的奇怪利益。要回到人们闻鸡起舞、日落而息的时代，恐怕已是难上加难，但如果我们至少不在每年三月再从夜晚偷走一个小时，无论是语言还是人类活动的开展，都会更加合乎逻辑。（我投票支持所谓的『冬令时』。）",
+      "vocab": [
+        {
+          "word": "desorganizando",
+          "translation": "逐渐打乱；使无序化",
+          "note": "前缀 des- 表示逆转或否定，organizar（组织）加上 des- 变为 desorganizar（使混乱），ir + 动名词结构（ir desorganizando）强调动作的渐进性，是西语中表达持续变化的重要句型。"
+        },
+        {
+          "word": "responsabiliza",
+          "translation": "承担责任；使负责",
+          "note": "responsabilizarse de 是固定搭配，意为『对……承担责任』，注意与 ser responsable de（在状态上负有责任）的区别：responsabilizarse 强调主动承担的行为。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "De alguien torpe se dice que 『no sabe distinguir el día de la noche』. No vamos a caer todos en eso, pero de momento ya no sabemos <strong>distinguir</strong> la noche de la tarde.",
+      "zh": "人们常说某个笨人『连白天和黑夜都分不清』。我们倒不至于都落到那个地步，但眼下，我们已经分不清夜晚和下午了。",
+      "vocab": [
+        {
+          "word": "distinguir",
+          "translation": "区分；辨别",
+          "note": "distinguir 后接介词 de，构成 distinguir A de B（将A与B区分开来）的固定结构，与 diferenciar（区别）近义，但 distinguir 更强调感知层面的辨别能力，diferenciar 更强调分析层面的差异说明。"
+        }
+      ]
+    }
+  ]
+}
