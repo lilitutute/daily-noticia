@@ -1,0 +1,190 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "心理·生活",
+  "difficulty": "B1-B2",
+  "wordCount": "约750词",
+  "title": "La psicología explica por qué hay personas que no le dan importancia a su cumpleaños",
+  "subtitle": "心理学解释：为什么有些人对自己的生日毫不在意",
+  "resumenEs": "Aunque celebrar el cumpleaños es una tradición muy extendida, hay personas a quienes ese día no les dice nada especial. Lejos de ser una señal de amargura, la psicología identifica tres perfiles que explican este comportamiento: quienes aprendieron a no esperar nada para no decepcionarse, quienes simplemente tienen la cabeza en otra parte, y quienes tienen una autoestima tan sólida que no necesitan celebraciones externas para sentirse bien. En los tres casos, no se trata de un problema, sino de formas distintas de relacionarse con uno mismo.",
+  "resumenZh": "尽管庆祝生日是一种广泛流行的传统，但有些人对这一天并没有什么特别的感觉。心理学认为，这远非消极或冷漠的表现，而是可以用三种心理特征来解释：有人学会了不抱期待以免失望，有人只是心思放在别处，还有人拥有足够稳固的自我价值感，根本不需要外部庆祝来感到快乐。三种情况都不是问题，而是与自我相处的不同方式。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Celebrar el cumpleaños es una tradición <strong>extendida</strong> en muchos países del mundo. En España, como en muchos otros lugares, suele ser un día en el que la persona que cumple años recibe felicitaciones y vive una celebración. En ella es común que nos juntemos con nuestros seres queridos más cercanos y se coma una tarta de cumpleaños sobre la que se colocan velas que el cumpleañero sopla después de que le hayan cantado el 'cumpleaños feliz'.",
+      "zh": "庆祝生日是世界许多国家普遍流行的传统。在西班牙，和其他许多地方一样，生日通常是寿星收到祝福、欢聚庆祝的一天。庆祝活动中，我们通常会与最亲近的人聚在一起，吃一块插着蜡烛的生日蛋糕——在大家唱完生日歌之后，由寿星将蜡烛吹灭。",
+      "vocab": [
+        {
+          "word": "extendida",
+          "translation": "普遍的，广泛流行的",
+          "note": "extender 的过去分词作形容词，核心含义是「向外延伸、铺展」，引申为「广泛传播、普及」；una tradición extendida（一种普遍流行的传统）、una práctica muy extendida（一种非常普遍的做法）；注意与 extenso（篇幅长的、面积大的）区分——extendido 强调「传播范围广」，extenso 强调「本身体量大」。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Además, la familia y los amigos suelen hacer regalos al cumpleañero, de modo que sirvan como una especie de demostración de su cariño, rindiendo <strong>homenaje</strong> a que ha cumplido un año más. Sin embargo, aunque esta tradición es muy común y normal desde hace años, no todo el mundo vive igual la celebración. De hecho, seguro que conoces a alguien a quien no le gusta celebrar su cumpleaños o que no lo pasa especialmente bien cuando tiene que soplar las velas o recibir felicitaciones.",
+      "zh": "此外，家人和朋友通常会为寿星准备礼物，作为表达心意的一种方式，向他又长大了一岁致以敬意。然而，尽管这一传统多年来十分普遍，并非所有人都以同样的方式度过生日。事实上，你身边一定有这样的人：不喜欢庆祝生日，或者在吹蜡烛、接受祝福时并不觉得特别开心。",
+      "vocab": [
+        {
+          "word": "rendir homenaje",
+          "translation": "致敬，表达敬意，纪念",
+          "note": "固定搭配，rendir 在此意为「给予、奉上」（而非「屈服」），homenaje 为「敬意、致敬」；rendir homenaje a alguien/algo 是书面语和正式场合的高频表达；同族搭配：rendir cuentas（汇报、问责）、rendir tributo（缴纳贡品/致敬）——掌握 rendir + 名词 的结构可举一反三。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "En estos casos, puede que socialmente, esas reacciones sean percibidas como algo negativo. Es decir, puede que muchos crean que quien no quiere celebrar su cumpleaños es alguien que está <strong>amargado</strong> o que no tiene ilusión, ya que no suele ser lo más habitual, en general.",
+      "zh": "在这些情况下，这样的反应在社交层面可能会被视为负面信号。也就是说，很多人可能会认为，不想庆祝生日的人是一个心情苦闷、对生活失去热情的人——毕竟这通常不是最常见的态度。",
+      "vocab": [
+        {
+          "word": "amargado",
+          "translation": "心情苦闷的，充满怨恨的，愤世嫉俗的",
+          "note": "由 amargar（使痛苦、使苦涩）派生，字面含义与 amargo（苦的）同根；作形容词时描述一种因长期失望或怨恨而形成的消极心态，比 triste（悲伤）更强调内心的积怨与愤懑；构词价值高：amargo → amargar → amargado → amargura（苦涩、痛苦）一脉相承。"
+        },
+        {
+          "word": "ilusión",
+          "translation": "热情，期待，憧憬（西班牙语语境）",
+          "note": "典型的「假朋友」陷阱：在英语中 illusion 意为「幻觉、错觉」，但在西班牙语日常用语中，ilusión 最常见的意思是「对某事的热情与期待」；no tener ilusión 意为「对生活失去热情、提不起劲」；tener mucha ilusión por algo 意为「对某事充满期待」——与英语含义几乎相反，务必注意。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Pero esta reacción o postura sobre quienes no le dan importancia a su cumpleaños tiene un <strong>trasfondo</strong> mucho más profundo de lo que muchos pueden imaginar y, además, está <strong>respaldado</strong> por la psicología. Te lo explicamos a continuación.",
+      "zh": "但对于那些不重视生日的人，这种反应或态度背后有着比许多人想象的更深层的原因，而且这一点也得到了心理学的支持。接下来我们为你详细解释。",
+      "vocab": [
+        {
+          "word": "trasfondo",
+          "translation": "深层背景，内在根源，潜在含义",
+          "note": "由 tras-（在……之后、深层）加 fondo（底部、背景）构成；指表象之下隐藏的深层动机、背景或含义；新闻和评论文体高频词，如 el trasfondo político de una decisión（一项决定的政治背景）、un trasfondo emocional（情感根源）；前缀 tras- 表示「穿越、在后面」，可迁移至 traspasar（穿越）、trascender（超越）等词。"
+        },
+        {
+          "word": "respaldado",
+          "translation": "得到支持的，有依据的，被背书的",
+          "note": "respaldar 本义为「靠在椅背上」，引申为「支持、背书、为……提供依据」；estar respaldado por 是固定搭配，意为「得到……的支持/证实」，常见于学术和新闻语境：respaldado por estudios científicos（有科学研究支撑）、respaldado por datos（有数据支持）；名词形式 respaldo 也常用：contar con el respaldo de（获得……的支持）。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "No celebrar el cumpleaños o no darle importancia es algo que, en cierto modo, <strong>desafía</strong> las expectativas sociales habituales, pero hay explicaciones que darían sentido a que alguien se salga de la norma respecto a su cumpleaños. Esto es lo que se explica desde el vídeo de Psicología Invisible titulado 'La Psicología de las personas a las que no les Importa su cumpleaños'. Este contenido analiza las diversas razones psicológicas que llevan a que alguien no le guste el día de su cumpleaños o no lo quiera celebrar. «La ciencia ha encontrado que detrás de este comportamiento pueden existir razones muy diferentes: desde experiencias emocionales de la infancia hasta formas más profundas de independencia psicológica», indican.",
+      "zh": "不庆祝生日或对其漠然，在某种程度上挑战了通常的社会期待，但心理学可以为这种「不按常规出牌」的行为提供合理解释。这正是「隐形心理学」频道一期题为《那些不在乎生日的人的心理学》的视频所探讨的内容。该视频分析了导致某人不喜欢或不想庆祝生日的多种心理原因。「科学发现，这种行为背后可能存在截然不同的原因：从童年时期的情感经历，到更深层的心理独立性，」视频中如此指出。",
+      "vocab": [
+        {
+          "word": "desafía",
+          "translation": "挑战，违背，不服从",
+          "note": "desafiar 由 des-（否定/逆向）加 afiar（古语，意为信任、依赖）演变而来，现代含义为「挑战、对抗、违背」；desafiar las expectativas（打破期待）、desafiar la lógica（违背逻辑）是新闻文体高频搭配；名词形式 desafío（挑战）同样极为常用：un gran desafío（一大挑战）。"
+        },
+        {
+          "word": "salirse de la norma",
+          "translation": "不按常规，打破惯例，偏离常态",
+          "note": "固定搭配，salirse de 表示「偏离、脱离」，norma 为「规范、常态」；整体意为「不符合普遍标准或社会期待」；同族表达：salirse de lo común（不同寻常）、salirse del guion（脱离剧本/即兴发挥）；与 seguir la norma（遵循规范）构成对立。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "La explicación, que se basa en diferentes estudios y referencias teóricas, pasa por identificar tres perfiles principales: aquellos que desarrollaron una <strong>indefensión aprendida</strong> para evitar decepciones, individuos con <strong>ceguera temporal</strong> enfocados en metas externas, y personas con una sólida autodeterminación que no dependen de la validación externa.",
+      "zh": "这一解释基于多项研究和理论参考，核心在于识别三种主要心理特征：为避免失望而形成「习得性无助」的人、因专注于外部目标而产生「时间盲视」的人，以及拥有强烈自我决定感、不依赖外部认可的人。",
+      "vocab": [
+        {
+          "word": "indefensión aprendida",
+          "translation": "习得性无助",
+          "note": "心理学核心概念，indefensión 由 in-（否定）加 defensa（防御）构成，意为「无力自我保护的状态」；aprendida（习得的）强调这种无助感并非天生，而是通过反复的负面经历学习而来；构词价值：前缀 in- 表否定，可迁移至 incapaz（无能的）、inseguro（不安全的）、inútil（无用的）等大量词汇。"
+        },
+        {
+          "word": "validación externa",
+          "translation": "外部认可，来自他人的肯定",
+          "note": "validación 由 validar（验证、认可）派生，externa 指「来自自身以外」；validación externa 在心理学语境中指依赖他人的评价、赞美或庆祝来确认自我价值；与之对立的是 validación interna（内在认可）；动词 validar 在日常语境中也常用：validar una idea（认可一个想法）、validar un billete（验票）。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "El primer perfil tiene que ver con 'la indefensión aprendida', descubierta por el psicólogo Martin Seligman, que indica que, tras repetirse varias decepciones, por ejemplo, sobre lo que esperábamos que ocurriera en un cumpleaños, el cerebro se <strong>protege</strong> para no decepcionarse, por lo que no tiene expectativas sobre ese día, algo que se basa también en lo que indican los estudios de Wolfram Schultz. A su vez, el 'efecto aniversario' y las 'contingencias de la autoestima' que estudió Jennifer Crocker, hablan también de ese miedo a que se repita una experiencia decepcionante del pasado con un cumpleaños o a que, si no va todo como esperaban, se decepcionen y se sientan mal.",
+      "zh": "第一种心理特征与「习得性无助」有关。心理学家马丁·塞利格曼发现，在经历多次失望之后——比如生日时的期待屡屡落空——大脑会启动自我保护机制，不再对那一天抱有任何期待。这一机制也与沃尔夫拉姆·舒尔茨的研究结论相吻合。与此同时，「周年效应」以及詹妮弗·克罗克研究的「自尊依存性」，也揭示了同一种恐惧：害怕过去那段令人失望的生日经历重演，或者担心一旦事情不如预期，就会再次感到失落和难受。",
+      "vocab": [
+        {
+          "word": "contingencias de la autoestima",
+          "translation": "自尊依存性，自尊的条件性来源",
+          "note": "contingencia 本义为「偶然性、不确定性」，在心理学中引申为「自尊建立在某些外部条件之上」的状态；contingencias de la autoestima 指一个人的自我价值感依赖于特定事件（如生日庆祝、他人认可）是否发生；构词：contingente（依条件而定的）→ contingencia（条件性、偶然性）。"
+        },
+        {
+          "word": "a su vez",
+          "translation": "与此同时，反过来，依次",
+          "note": "高频固定搭配，用于引出与前文相关联或递进的内容，意为「在此基础上、同样地、轮到……」；是学术写作和新闻文体中连接论点的常用过渡语，比 también 更正式，比 además 更强调「依次推进」的逻辑关系。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Como segundo perfil, la psicología indica que hay quien tiene una especie de 'ceguera temporal' que le hace que su cumpleaños no sea tan importante, porque su mente está <strong>enfocada</strong> en otras cosas, siendo para él o ella un día más. «No todo el mundo que ignora su cumpleaños lo hace por heridas del pasado, existe otro grupo completamente diferente. Hay personas que sinceramente ni siquiera se acuerdan de su cumpleaños, no porque estén tristes, no porque estén evitando algo, simplemente su mente está ocupada en otras cosas», explican.",
+      "zh": "作为第二种心理特征，心理学指出，有些人存在一种「时间盲视」，使得生日对他们来说并不那么重要，因为他们的注意力完全集中在其他事情上，生日对他们而言不过是普通的一天。「并非所有忽视生日的人都是因为过去的伤痛，还有一个完全不同的群体。有些人真的连自己的生日都记不住——不是因为悲伤，不是因为在逃避什么，只是他们的思绪被其他事情占满了，」视频中解释道。",
+      "vocab": [
+        {
+          "word": "enfocada",
+          "translation": "专注于，聚焦于",
+          "note": "enfocar 由 en- 加 foco（焦点）构成，本义为「对焦、聚焦」，引申为「将注意力集中于某事」；estar enfocado en algo 是日常和学术语境的高频搭配；构词价值：foco → enfocar → enfoque（视角、方法论）——enfoque 在学术写作中极为常用，如 desde un enfoque psicológico（从心理学视角）。"
+        },
+        {
+          "word": "heridas del pasado",
+          "translation": "过去的伤痛，旧日的创伤",
+          "note": "固定搭配，herida 本义为「伤口」，在心理和情感语境中引申为「内心创伤、情感伤害」；heridas del pasado 是描述心理创伤来源的常用表达；同族词：herir（伤害）→ herida（伤口/创伤）→ hiriente（伤人的、刺耳的）。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Por último, el tercer tipo de personas que no le dan importancia a su cumpleaños, desde el punto de vista psicológico, pueden ser aquellos que tienen un nivel de madurez y <strong>bienestar</strong> mental que no precisan de esa celebración o reconocimientos para estar felices o tranquilos. Según el vídeo, Edward Deci y Richard Ryan, creadores de la 'teoría de la autodeterminación', explican que las personas con mayor bienestar psicológico «no dependen tanto de eventos externos para sentirse bien consigo mismas». Dan a entender que su valor personal es <strong>intrínseco</strong> y no depende de una celebración o de que otros les canten una canción.",
+      "zh": "最后，从心理学角度来看，第三种对生日漠然的人，可能是那些拥有足够心理成熟度和心理健康水平的人——他们不需要庆祝或外部认可就能感到快乐和平静。根据视频，「自我决定理论」的创始人爱德华·德西和理查德·瑞安解释说，心理健康水平较高的人「不那么依赖外部事件来感觉良好」。他们的言下之意是，这类人的个人价值感是内在的，不依赖于一场庆祝，也不依赖于别人为他们唱一首生日歌。",
+      "vocab": [
+        {
+          "word": "bienestar",
+          "translation": "幸福感，身心健康，福祉",
+          "note": "由 bien（好）加 estar（状态）构成，字面意为「处于良好状态」；在心理学、社会学和政策领域极为常用：bienestar psicológico（心理健康）、bienestar social（社会福祉）、estado de bienestar（福利国家）；构词逻辑清晰，与 malestar（不适、不安）构成对立。"
+        },
+        {
+          "word": "intrínseco",
+          "translation": "内在的，本质的，固有的",
+          "note": "源自拉丁语 intrinsecus（在内部），指某种价值或属性来自事物本身而非外部赋予；在心理学中与 extrínseco（外在的）构成核心对立：motivación intrínseca（内在动机）vs. motivación extrínseca（外在动机）；是B2-C1学术写作的高频词，可迁移至哲学、经济学等多个领域。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Añaden que el concepto introducido por Philip Brickman, la '<strong>cinta hedónica</strong>', que es la tendencia humana a perseguir constantemente el siguiente pico de felicidad, no influye en este tipo de personas, que se han «bajado de esa rueda» y están igual de bien un día al azar que el día de su cumpleaños.",
+      "zh": "他们还补充道，菲利普·布里克曼提出的「享乐跑步机」概念——即人类不断追逐下一个幸福高峰的倾向——对这类人并不起作用。他们已经「从那个轮子上下来了」，无论是随机的某一天还是生日当天，他们的状态都同样良好。",
+      "vocab": [
+        {
+          "word": "cinta hedónica",
+          "translation": "享乐跑步机，快乐适应机制",
+          "note": "hedónico 源自希腊语 hēdonē（快乐），与英语 hedonism（享乐主义）同根；cinta 本义为「传送带、跑步机皮带」，cinta hedónica 整体比喻人类像在跑步机上一样不断追求更高的快乐却永远停在原地；词根 hedon- 可迁移至 hedonismo（享乐主义）、hedonista（享乐主义者）。"
+        },
+        {
+          "word": "bajarse de la rueda",
+          "translation": "从轮子上下来，跳出循环，摆脱惯性",
+          "note": "比喻性固定表达，rueda（轮子）在此指周而复始、令人疲惫的循环模式；bajarse de 意为「从……上下来、退出」；与 cinta hedónica 呼应，形象地描述那些不再被外部刺激驱动的人；类似表达：salir de la rueda（跳出循环）、romper el ciclo（打破循环）。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Este vídeo indica como cuestiones clave las siguientes: «Por qué el cerebro trata los cumpleaños como una máquina de predicción emocional (neurociencia), el pequeño momento en la infancia que puede cambiar tus expectativas sobre celebrar, qué dice la Self-Determination Theory sobre las personas que no necesitan <strong>validación</strong> externa, la diferencia entre evitar tu cumpleaños por libertad o por miedo y por qué algunas personas que no celebran su cumpleaños podrían ser psicológicamente más <strong>estables</strong> de lo que parece».",
+      "zh": "该视频将以下几点列为核心议题：「为什么大脑将生日视为一台情感预测机器（神经科学视角）；童年中某个微小的时刻如何改变你对庆祝活动的期待；自我决定理论对那些不需要外部认可的人有何解读；出于自由还是出于恐惧而回避生日，两者之间有何区别；以及为什么一些不庆祝生日的人在心理上可能比表面看起来更为稳定。」",
+      "vocab": [
+        {
+          "word": "validación",
+          "translation": "认可，验证，肯定",
+          "note": "validar（验证、认可）的名词形式；在心理学语境中专指通过他人的认可来确认自我价值；在技术和法律语境中则指「验证有效性」；构词：válido（有效的）→ validar → validación → invalidar（使无效）——前缀 in- 的否定用法再次体现。"
+        },
+        {
+          "word": "estables",
+          "translation": "稳定的，平稳的",
+          "note": "源自拉丁语 stabilis，与英语 stable 同源，是真正的「好朋友」而非假朋友；在心理学语境中 psicológicamente estable 意为「心理状态平稳、不易受外界波动影响」；构词：estable → estabilidad（稳定性）→ estabilizar（使稳定）→ inestable（不稳定的）——-izar 后缀表「使……化」，构词价值极高。"
+        }
+      ]
+    }
+  ]
+}

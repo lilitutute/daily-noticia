@@ -1,0 +1,166 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会·生活",
+  "difficulty": "B1-B2",
+  "wordCount": "约700词",
+  "title": "\"El carnet de conducir ya no es una urgencia entre los jóvenes\": por qué deciden sacárselo cada vez más tarde, sobre todo los hombres",
+  "subtitle": "「驾照不再是年轻人的当务之急」：为何越来越多的人选择推迟考驾照，尤其是男性",
+  "resumenEs": "Hace veinte años, sacarse el carnet de conducir al cumplir los 18 era casi un rito de paso. Hoy, los datos muestran que cada vez más jóvenes lo retrasan hasta los 25 o 30 años, especialmente los hombres. Detrás de este cambio no hay una sola causa: el transporte público, los patinetes, la prolongación de los estudios y una menor afición por el mundo del motor han hecho que el coche deje de ser imprescindible para moverse con autonomía. El carnet sigue siendo importante, pero ya no es el símbolo de libertad que era antes.",
+  "resumenZh": "二十年前，年满18岁就去考驾照几乎是一种成年仪式。如今，数据显示越来越多的年轻人将这件事推迟到25岁甚至30岁，尤其是男性。这一变化背后并非单一原因：公共交通、电动滑板车、学业延长以及对汽车文化兴趣的减退，共同使得汽车不再是自主出行的必需品。驾照依然重要，但它已不再是从前那个象征自由的符号。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Hace dos décadas, era habitual que los jóvenes se sacaran el carnet de conducir poco después de cumplir la mayoría de edad. Así lo indican los datos de la Dirección General de Tráfico (DGT): de los 602.015 nuevos permisos emitidos en el 2000, 442.141 (73,44 %) correspondieron a personas menores de 25 años. Sacarse el carnet se integraba de forma casi natural en el paso a la vida adulta y se convertía en la principal herramienta para moverse, estudiar o trabajar con <strong>autonomía</strong>.",
+      "zh": "二十年前，年轻人在刚刚成年后不久就去考驾照，这几乎是惯常做法。西班牙交通总局（DGT）的数据印证了这一点：2000年颁发的602,015张新驾照中，有442,141张（占73.44%）属于25岁以下的人。考驾照以一种近乎自然的方式融入了步入成年生活的过程，成为自主出行、求学或工作的主要工具。",
+      "vocab": [
+        {
+          "word": "mayoría de edad",
+          "translation": "成年，法定成年年龄",
+          "note": "固定搭配，mayoría 在此意为「达到某一标准的状态」而非「多数」；cumplir la mayoría de edad 意为「年满成年」（西班牙为18岁）；与之对应的是 minoría de edad（未成年）；注意 mayoría 的两种常见含义：①多数（la mayoría de la gente）②成年（mayoría de edad）——语境决定含义。"
+        },
+        {
+          "word": "autonomía",
+          "translation": "自主性，独立性",
+          "note": "由希腊语 auto-（自我）加 nomos（法则、管理）构成，指不依赖他人自主行动的能力；前缀 auto- 构词价值极高：autónomo（自主的）、autoestima（自尊）、autodeterminación（自决）、autoescuela（驾校，字面为「自我学校」）——本文中多次出现，一脉相承。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "20 años después, la situación ha cambiado mucho. Según el último anuario estadístico de la DGT, en 2024 se emitieron 605.762 nuevos carnets (una cifra muy similar a la de 2004), pero solo el 58,6 % correspondió a personas menores de 25 años. Este descenso de 15 puntos porcentuales refleja cómo se ha transformado la relación con el coche y los <strong>hábitos de movilidad</strong> en esta generación.",
+      "zh": "二十年后，情况发生了很大变化。根据DGT最新统计年鉴，2024年共颁发605,762张新驾照（与2004年数字非常接近），但其中仅有58.6%属于25岁以下人群。这15个百分点的下降，折射出这一代人与汽车的关系以及出行习惯所经历的深刻转变。",
+      "vocab": [
+        {
+          "word": "hábitos de movilidad",
+          "translation": "出行习惯，移动方式",
+          "note": "movilidad 由 móvil（移动的）加名词后缀 -idad 构成，指人或物在空间中移动的能力与方式；在城市规划、交通和社会学领域是核心术语；后缀 -idad 将形容词转化为名词，构词价值极高：flexible → flexibilidad、sostenible → sostenibilidad、accesible → accesibilidad。"
+        },
+        {
+          "word": "puntos porcentuales",
+          "translation": "百分点",
+          "note": "注意与 porcentaje（百分比）的区别：porcentaje 指比率本身，puntos porcentuales 指两个比率之间的差值；如从60%降至45%，下降了15个百分点（puntos porcentuales），而非15%；这一区分在数据新闻和经济报道中至关重要，混淆会导致严重误读。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "En las autoescuelas, el cambio en los hábitos de los nuevos conductores es <strong>palpable</strong>. Los instructores lo perciben día a día en sus aulas y prácticas. Víctor Asensio Lázaro, profesor de autoescuela, confirma la tendencia reflejada en los datos: \"El carnet de conducir ya no es una urgencia para las personas jóvenes. Antes, a los 18 años todos queríamos sacárnoslo. Hoy, muchos lo hacen entre los 25 y los 30 años\".",
+      "zh": "在驾校里，新学员习惯的变化显而易见。教练们在日常教学中每天都能感受到这一点。驾校教练维克托·阿森西奥·拉萨罗证实了数据所反映的趋势：「驾照对年轻人来说已经不再是当务之急。以前，18岁的时候大家都想去考。现在，很多人在25到30岁之间才去考。」",
+      "vocab": [
+        {
+          "word": "palpable",
+          "translation": "显而易见的，可感知的，切实的",
+          "note": "源自拉丁语 palpare（触摸），本义为「可用手触摸到的」，引申为「明显到几乎可以感知的」；在新闻和评论文体中用于强调某种变化或现象已经非常明显，无需数据佐证；近义词 evidente（明显的）更中性，palpable 更强调「感官上的直接感受」；英语 palpable 同源同义。"
+        },
+        {
+          "word": "sacárselo / sacarse el carnet",
+          "translation": "考取驾照，拿到驾照",
+          "note": "sacar 在此为「取得、获得」的引申义，sacarse algo 意为「通过努力获得某证书或资格」；这是西班牙口语中的高频固定搭配：sacarse el carnet（考驾照）、sacarse una carrera（读完大学）、sacarse una foto（拍照）——同一动词在不同搭配中含义差异显著，需结合语境理解。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Según Asensio, la razón no es solo económica: \"Se trata de comodidad y hábitos de movilidad. La afición por el mundo del motor ha disminuido, y hoy existen alternativas que antes no había: patinetes eléctricos, bicicletas compartidas y transporte público eficiente. Además, la <strong>prolongación</strong> de los estudios hace que muchas personas se desplacen sin coche hasta los 22 o 23 años\".",
+      "zh": "据阿森西奥分析，原因不仅仅是经济层面的：「这关乎便利性和出行习惯。对汽车文化的热情已经减退，而如今存在着以前没有的替代选择：电动滑板车、共享单车和高效的公共交通。此外，学业的延长使得很多人在22、23岁之前都不需要开车出行。」",
+      "vocab": [
+        {
+          "word": "prolongación",
+          "translation": "延长，延续，拉长",
+          "note": "prolongar（延长）的名词形式，由 pro-（向前）加 longus（长）构成；前缀 pro- 表「向前延伸」，构词迁移：prolongar → prolongación → prolongado（延长的）；近义词 extensión 更强调空间或范围的扩展，prolongación 更强调时间维度的延伸。"
+        },
+        {
+          "word": "afición",
+          "translation": "爱好，热情，兴趣",
+          "note": "由 aficionar（使产生兴趣）派生，指对某事物持续的热爱与兴趣；afición por el mundo del motor 意为「对汽车/摩托车文化的热情」；构词：afición → aficionado（爱好者、业余的）——aficionado 在英语中已作为借词使用，指「某领域的热情爱好者」。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "No obstante, si se observa hasta los 29 años, la diferencia también es notable: en el 2000, el 85 % de los conductores lo había obtenido antes de esa edad; en 2024, esa proporción cae al 69 %, lo que <strong>evidencia</strong> que el retraso no afecta solo al tramo más joven, sino a toda la etapa temprana de la vida adulta.",
+      "zh": "然而，若将观察范围扩展至29岁，差异同样显著：2000年，85%的驾驶人在这一年龄之前已取得驾照；而2024年，这一比例降至69%。这表明，推迟考驾照的趋势不仅影响最年轻的群体，而是波及整个成年早期阶段。",
+      "vocab": [
+        {
+          "word": "evidencia",
+          "translation": "（此处）表明，证明；（名词）证据",
+          "note": "一词多义：作动词时意为「证明、表明」（lo que evidencia que…即「这表明……」）；作名词时意为「证据、明证」（la evidencia científica 科学证据）；注意与英语假朋友的区别：英语 evidence 只作名词，西语 evidenciar 则是动词；此外，en evidencia 意为「暴露、出丑」，语义完全不同。"
+        },
+        {
+          "word": "tramo",
+          "translation": "区间，阶段，路段",
+          "note": "本义为道路或楼梯的「一段」，引申为时间、年龄或数据的「区间、段落」；tramo de edad（年龄区间）、tramo de renta（收入区间）是统计和政策报道的高频搭配；与 etapa（阶段，更强调过程性）区分——tramo 更强调可量化的划分段落。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "El cambio en la edad para obtener el carnet no se da de manera <strong>uniforme</strong> entre hombres y mujeres. Entre los hombres, la caída es mucho más <strong>pronunciada</strong>: en 2000, el 81 % de los nuevos conductores obtuvo el carnet antes de cumplir 25 años, mientras que en 2024 esta proporción bajó al 57 %. En el caso de las mujeres, la variación es más moderada: del 66,11 % al 60,8 %, lo que sugiere que, aunque la tendencia general al retraso existe, las mujeres mantienen un patrón más estable en cuanto a la edad para sacarse el carnet.",
+      "zh": "考驾照年龄的变化在男女之间并不均等。男性的降幅要明显得多：2000年，81%的新驾驶人在25岁之前取得驾照，而2024年这一比例降至57%。女性的变化则相对温和：从66.11%降至60.8%。这表明，尽管推迟的总体趋势存在，女性在考驾照年龄方面保持着更为稳定的模式。",
+      "vocab": [
+        {
+          "word": "uniforme",
+          "translation": "均匀的，一致的，无差别的",
+          "note": "由 uni-（单一）加 forme（形态）构成，意为「各部分保持一致、没有差异」；no se da de manera uniforme 意为「并非以均等方式发生」；前缀 uni- 构词迁移：unificar（统一）、unilateral（单边的）、univoco（单义的）；注意名词 uniforme 还有「制服」的含义——同形异义。"
+        },
+        {
+          "word": "pronunciada",
+          "translation": "明显的，显著的，突出的",
+          "note": "pronunciado/a 本义为「发音清晰的」，引申为「特征鲜明、程度显著」；una caída pronunciada（明显的下降）、una diferencia pronunciada（显著的差异）是数据报道的高频搭配；这一引申义与英语 pronounced（明显的）完全对应，属于真正的「好朋友」。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "A pesar de eso, desde la DGT aclaran que la edad media para obtener el permiso B sigue <strong>situándose</strong> entre 18 y 24 años, por lo que la mayoría de las personas sigue sacándose el carnet dentro de ese rango. Lo que ha cambiado es que ahora muchas personas pueden <strong>retrasar</strong> la obtención del permiso sin que ello limite su capacidad de moverse en el día a día, gracias a alternativas de transporte más accesibles y eficientes.",
+      "zh": "尽管如此，DGT澄清指出，B类驾照的平均取得年龄仍在18至24岁之间，因此大多数人仍在这一区间内考取驾照。真正发生变化的是：如今许多人可以推迟考驾照，而这并不会影响他们的日常出行能力——得益于更便捷、更高效的交通替代方案。",
+      "vocab": [
+        {
+          "word": "situándose",
+          "translation": "位于，处于，维持在",
+          "note": "situarse 的现在分词，反身动词，意为「处于某一位置或水平」；sigue situándose entre… 是统计报道中描述数据区间的标准句式；构词：situar（放置、定位）→ situarse（处于）→ situación（情况、状况）——situación 是西语中最高频的名词之一，由此可见词根的迁移价值。"
+        },
+        {
+          "word": "retrasar",
+          "translation": "推迟，延迟，拖后",
+          "note": "由 re-（向后）加 trasar / atrasar 演变而来，意为「使时间向后移动」；retrasar la obtención（推迟取得）是本文核心概念；构词：retrasar → retraso（延迟、滞后）→ retrasado（延误的、落后的）；注意 retraso mental 在现代西语中已逐渐被 discapacidad intelectual 替代，使用时需注意语境。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Como ya pasaba antes, el lugar de residencia es clave: \"En ciudades grandes como Madrid, Barcelona, Valencia o Sevilla, los jóvenes pueden desplazarse sin coche gracias al transporte público, lo que permite <strong>posponer</strong> el carnet sin problemas. En pueblos o ciudades pequeñas, donde el transporte público es limitado, el coche sigue siendo <strong>imprescindible</strong> desde joven\".",
+      "zh": "和以前一样，居住地至关重要：「在马德里、巴塞罗那、瓦伦西亚或塞维利亚这样的大城市，年轻人可以依靠公共交通出行，这使得推迟考驾照毫无障碍。而在农村或小城市，公共交通有限，汽车从年轻时起就是不可或缺的。」",
+      "vocab": [
+        {
+          "word": "posponer",
+          "translation": "推迟，延后",
+          "note": "由 pos-（在……之后）加 poner（放置）构成，意为「将某事放到更后面的时间」；与 retrasar 近义但有细微差别：posponer 更强调主动的决定性推迟，retrasar 更强调客观上的延误；前缀 pos-/post- 构词迁移：posguerra（战后）、posgrado（研究生）、postergar（搁置）。"
+        },
+        {
+          "word": "imprescindible",
+          "translation": "不可或缺的，必不可少的",
+          "note": "由 im-（否定）加 prescindir（舍弃、不依赖）加 -ible（可……的）构成，字面意为「无法被舍弃的」；是表达「绝对必要」的强烈程度词，比 necesario（必要的）语气更强；构词：prescindir de（不依赖、放弃）→ prescindible（可有可无的）→ imprescindible（不可或缺的）——前缀 im- 的否定用法再次体现。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "En resumen, la obtención del carnet ya no está <strong>dictada</strong> únicamente por la necesidad. La decisión de conducir se ha convertido en un reflejo de estilos de vida, prioridades personales y posibilidades de movilidad. \"El coche sigue siendo importante, pero ya no es el símbolo de libertad que empujaba a las personas a sacarse el carnet a los 18 años\", concluye Asensio.",
+      "zh": "总而言之，考驾照不再仅仅由需求所驱动。是否开车的决定，已经成为生活方式、个人优先事项和出行条件的折射。「汽车依然重要，但它已不再是那个曾经驱使人们在18岁就去考驾照的自由象征，」阿森西奥最后说道。",
+      "vocab": [
+        {
+          "word": "dictada por",
+          "translation": "由……所决定的，被……所支配的",
+          "note": "dictar 本义为「口述、颁布」，在此引申为「决定、支配」；estar dictado por algo 意为「被某种力量所主导」，是评论文体中描述「驱动因素」的正式表达；类似用法：una decisión dictada por el miedo（被恐惧支配的决定）、normas dictadas por el mercado（市场主导的规则）。"
+        },
+        {
+          "word": "reflejo de",
+          "translation": "……的折射，……的体现，……的反映",
+          "note": "reflejo 本义为「反射、倒影」，引申为「某种现象对深层现实的映射」；ser un reflejo de 是社会评论中极为常用的句式，意为「折射出、体现了」；构词：reflejar（反映）→ reflejo（折射/反射）→ reflexión（反思）——同一词根在不同语境下含义各有侧重。"
+        }
+      ]
+    }
+  ]
+}

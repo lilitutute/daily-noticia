@@ -1,0 +1,200 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技·社会",
+  "difficulty": "B2-C1",
+  "wordCount": "约600词",
+  "title": "Dónde se juega realmente la brecha de género en tecnología",
+  "subtitle": "科技行业的性别差距，究竟在哪里形成",
+  "resumenEs": "La brecha de género en tecnología no se debe a un solo factor, sino a una acumulación de pequeñas fricciones que operan dentro de las organizaciones: sesgos en la selección, desigualdad en el acceso a proyectos estratégicos, redes informales que excluyen y criterios de promoción poco transparentes. Un estudio chileno pone el foco no en cuántas mujeres entran al sector, sino en lo que les ocurre una vez dentro. Cerrar esta brecha no es solo una cuestión de equidad: la pérdida de talento y diversidad tiene un coste directo sobre la innovación y el crecimiento económico.",
+  "resumenZh": "科技行业的性别差距并非源于单一因素，而是组织内部一系列细小摩擦的累积：招聘中的隐性偏见、战略项目机会的不平等分配、将女性排除在外的非正式人脉网络，以及不透明的晋升标准。一项智利研究将焦点从「有多少女性进入这个行业」转向「她们进入之后经历了什么」。弥合这一差距不仅是公平问题：人才流失与多样性不足，对创新能力和经济增长都造成了直接代价。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "El estudio <em>Mejores prácticas de género en la industria TI</em>, desarrollado por Talento Digital para Chile junto a Ipsos, aporta una mirada distinta a un problema ampliamente <strong>diagnosticado</strong>: la brecha de género en tecnología no se explica por un único factor, sino por una <strong>acumulación</strong> de fricciones a lo largo de toda la trayectoria laboral.",
+      "zh": "由智利数字人才机构联合益普索开展的《IT行业性别最佳实践》研究，为一个已被广泛诊断的问题提供了新的视角：科技行业的性别差距并非由单一因素造成，而是贯穿整个职业轨迹的种种摩擦不断累积的结果。",
+      "vocab": [
+        {
+          "word": "ampliamente diagnosticado",
+          "translation": "已被广泛诊断的，已有充分研究记录的",
+          "note": "diagnosticar 本义为医学诊断，在社会科学和政策语境中引申为「对问题进行系统性分析和定性」；ampliamente（广泛地）修饰其程度；这一搭配暗示该问题已有大量研究，但尚未解决——是评论文体中表达「老问题、新视角」的常用句式；名词 diagnóstico 在后文也频繁出现。"
+        },
+        {
+          "word": "acumulación",
+          "translation": "积累，累积",
+          "note": "acumular（积累）的名词形式，由 ad-（朝向）加 cumulus（堆积）演变而来；在本文语境中强调性别差距并非单点问题，而是长期叠加的结果；构词迁移：acumular → acumulación → acumulado（积累的）→ acumulativo（累积性的）；acumulativo 在描述系统性问题时尤为有用，如 efecto acumulativo（累积效应）。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "A partir de entrevistas a líderes del ecosistema y una encuesta a población general, el análisis muestra que estas fricciones —muchas veces invisibles— operan de manera <strong>sistemática</strong>: desde procesos de selección con <strong>sesgos</strong> sutiles hasta dinámicas cotidianas que condicionan quién accede a oportunidades, visibilidad y crecimiento. No son grandes decisiones aisladas, sino microdesigualdades que, repetidas en el tiempo, terminan definiendo trayectorias profesionales divergentes entre distintos grupos.",
+      "zh": "通过对行业生态系统领导者的访谈以及面向普通民众的问卷调查，分析表明这些摩擦——往往是隐性的——以系统性方式运作：从招聘流程中的细微偏见，到日常动态中对谁能获得机会、曝光度和成长空间的隐性制约。这些并非孤立的重大决策，而是在时间中不断重复的微小不平等，最终为不同群体塑造出截然不同的职业轨迹。",
+      "vocab": [
+        {
+          "word": "sistemática",
+          "translation": "系统性的，有规律的，非偶发的",
+          "note": "强调某种现象并非偶然或个别，而是以可预测的、结构性的方式反复发生；在社会议题报道中，sistemático/a 是区分「个案问题」与「结构性问题」的关键词；构词：sistema → sistemático → sistemáticamente；近义词 estructural（结构性的）语气更强，常与 sistemático 搭配使用：discriminación sistemática y estructural（系统性结构性歧视）。"
+        },
+        {
+          "word": "sesgos",
+          "translation": "偏见，偏差，倾向性",
+          "note": "B2-C1高频词，本义为裁缝术语「斜裁」，引申为「偏离中立立场的倾向」；在社会科学、统计学和新闻语境中极为常用：sesgo de género（性别偏见）、sesgo cognitivo（认知偏差）、sesgo de selección（选择性偏差）；注意与 prejuicio（偏见，更强调主观情感）区分——sesgo 更强调系统性、可测量的偏差。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Quién accede a proyectos estratégicos, quién recibe <strong>retroalimentación</strong> útil para crecer o quién participa en las redes informales donde circulan oportunidades y visibilidad profesional. Cuando estas pequeñas diferencias se repiten en el tiempo, terminan construyendo trayectorias laborales muy distintas para hombres y mujeres.",
+      "zh": "谁能参与战略项目，谁能获得有助于成长的有效反馈，谁能进入那些流通着机会与职业曝光度的非正式人脉网络——当这些细小差异在时间中不断重复，最终便为男性和女性构建出截然不同的职业轨迹。",
+      "vocab": [
+        {
+          "word": "retroalimentación",
+          "translation": "反馈，回馈",
+          "note": "由 retro-（向后、返回）加 alimentación（输入、供给）构成，是英语 feedback 的西语对应词；在职场、教育和工程语境中均为高频词；前缀 retro- 表「向后、返回」，构词迁移价值高：retroactivo（追溯性的）、retroceder（后退）、retrospectiva（回顾）。"
+        },
+        {
+          "word": "redes informales",
+          "translation": "非正式人脉网络，私下关系网",
+          "note": "red 本义为「网」，在职场语境中指人际关系网络；informal 强调这些网络存在于正式组织架构之外，如饭局、私下交流、行业圈子等；这一概念在性别研究中至关重要，因为非正式网络往往是机会和信息流通的真实渠道，而女性常被排除在外。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Uno de los aportes más relevantes del estudio es precisamente ese cambio de foco. La conversación deja de centrarse únicamente en el acceso —cuántas mujeres entran a carreras STEM— y <strong>pone el énfasis</strong> en lo que ocurre dentro de las organizaciones: cómo se evalúa, cómo se promueve, cómo se distribuyen los proyectos estratégicos y cómo se construyen las redes de influencia.",
+      "zh": "这项研究最重要的贡献之一，正是这种焦点的转移。讨论不再仅仅聚焦于准入问题——有多少女性进入STEM专业——而是将重点放在组织内部发生的事情上：如何评估、如何晋升、战略项目如何分配，以及影响力网络如何构建。",
+      "vocab": [
+        {
+          "word": "poner el énfasis en",
+          "translation": "将重点放在，着重强调",
+          "note": "固定搭配，énfasis 源自希腊语，意为「强调、重点」；poner el énfasis en 是学术写作和新闻评论中表达「论述重心转移」的标准句式；近义搭配：hacer hincapié en（着重强调，语气更强）、centrarse en（聚焦于）；三者可互换但语体略有差异：poner el énfasis 最为中性正式。"
+        },
+        {
+          "word": "cambio de foco",
+          "translation": "焦点转移，视角转换",
+          "note": "foco 本义为「焦点、光源」，引申为「关注重心」；cambio de foco 在评论文体中是描述「分析视角或政策重心发生转变」的常用表达；构词：foco → enfocar → enfoque（方法论、视角）——enfoque 在学术写作中极为高频，如 desde un nuevo enfoque（从新视角出发）。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "En esa línea, el diagnóstico es claro en identificar puntos críticos. La selección y evaluación siguen siendo espacios donde <strong>persisten</strong> estándares diferenciados; la permanencia depende más de la experiencia diaria que de las políticas formales; y el principal <strong>cuello de botella</strong> está en la progresión hacia roles de liderazgo, donde la representación femenina cae de manera significativa.",
+      "zh": "在此基础上，这份诊断清晰地指出了几个关键节点。招聘与评估环节仍是差异化标准持续存在的领域；员工留存更多取决于日常体验，而非正式政策；而最主要的瓶颈在于向领导岗位的晋升通道，女性代表性在这一环节大幅下滑。",
+      "vocab": [
+        {
+          "word": "persisten",
+          "translation": "持续存在，依然存在，顽固延续",
+          "note": "persistir 由 per-（贯穿、持续）加 sistere（站立、维持）构成，强调某种现象在时间推移后仍未消除；在社会问题报道中，persistir 比 continuar 或 seguir 更强调「顽固性、难以根除」的含义；构词：persistir → persistente（持续的）→ persistencia（持续性）。"
+        },
+        {
+          "word": "cuello de botella",
+          "translation": "瓶颈，关键障碍",
+          "note": "固定搭配，字面意为「瓶子的颈部」，比喻流程或系统中导致整体速度受限的关键节点；在商业、经济和工程语境中极为常用；与英语 bottleneck 完全对应，是典型的形象化固定搭配，不可逐字翻译。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Pero el valor del estudio no está solo en describir estas dinámicas, sino en <strong>traducirlas</strong> en recomendaciones concretas. Más que grandes declaraciones, propone intervenciones específicas en procesos clave: estandarizar evaluaciones, <strong>transparentar</strong> criterios de carrera, incorporar patrocinio real para mujeres con alto potencial y evitar que la flexibilidad, aunque formalmente permitida, termine siendo penalizada en la práctica.",
+      "zh": "但这项研究的价值不仅在于描述这些动态，更在于将其转化为具体建议。研究提出的不是宏大宣言，而是针对关键流程的具体干预措施：标准化评估体系、公开透明化职业晋升标准、为高潜力女性引入真正的导师赞助机制，以及避免弹性工作制在正式允许的同时，在实际操作中却遭到隐性惩罚。",
+      "vocab": [
+        {
+          "word": "traducirlas en",
+          "translation": "将其转化为，把……落实为",
+          "note": "traducir 本义为「翻译」，在此为引申义「转化、转换」；traducir X en Y 是固定句式，意为「将X转化/落实为Y」，是政策和学术写作中表达「从理论到实践」的高频表达；如 traducir datos en decisiones（将数据转化为决策）、traducir ideas en acciones（将想法付诸行动）。"
+        },
+        {
+          "word": "transparentar",
+          "translation": "使透明化，公开，使清晰可见",
+          "note": "由 transparente（透明的）加动词化后缀 -ar 构成，意为「使某事变得透明、公开可查」；后缀 -izar/-ar 将形容词转化为动词的构词模式极为常见且高产：flexible → flexibilizar、digital → digitalizar、formal → formalizar——掌握这一规律可大幅扩展词汇量。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "No se trata solo de una discusión de equidad, sino de <strong>eficiencia</strong>: la pérdida de talento, la menor diversidad cognitiva y el costo de reemplazo tienen impactos directos en la productividad de las empresas.",
+      "zh": "这不仅仅是一场关于公平的讨论，更是一个效率问题：人才流失、认知多样性的降低以及替换成本，都对企业生产力产生直接影响。",
+      "vocab": [
+        {
+          "word": "no se trata solo de… sino de…",
+          "translation": "这不仅仅是……的问题，更是……的问题",
+          "note": "高频论证句式，tratarse de 意为「涉及、关乎」；no solo… sino（también）是递进转折结构，将论点从单一维度扩展至更广视角；这一句式在社论、报告和演讲中极为常见，掌握后可直接套用于写作：No se trata solo de X, sino de Y（这不只是X的问题，更是Y的问题）。"
+        },
+        {
+          "word": "diversidad cognitiva",
+          "translation": "认知多样性",
+          "note": "指团队成员在思维方式、问题解决路径和知识背景上的差异；cognitivo 源自拉丁语 cognoscere（认识、了解），与英语 cognitive 同源；在管理学和创新研究中，diversidad cognitiva 被视为提升决策质量和创新能力的关键因素，常与 diversidad de género（性别多样性）并列使用。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Las cifras ayudan a <strong>dimensionarlo</strong>: hoy, solo un 26,7% de los empleos tecnológicos son ocupados por mujeres y apenas un 11% de los cargos ejecutivos en TI cuentan con presencia femenina. Esta <strong>subrepresentación</strong> no es neutra: implica una pérdida concreta de talento disponible, menor diversidad en la toma de decisiones y, en consecuencia, una menor capacidad de innovación.",
+      "zh": "数据有助于衡量这一问题的规模：目前，仅有26.7%的科技岗位由女性担任，IT领域高管职位中女性占比更是仅有11%。这种代表性不足并非中性现象：它意味着可用人才的实际流失、决策层多样性的降低，以及由此导致的创新能力下滑。",
+      "vocab": [
+        {
+          "word": "dimensionarlo",
+          "translation": "衡量其规模，量化其影响",
+          "note": "dimensionar 由 dimensión（维度、规模）加动词化后缀 -ar 构成，意为「评估某事的真实规模或影响范围」；ayudar a dimensionar 是新闻和报告写作中引出数据的常用句式，相当于「帮助我们理解其量级」；体现了 -ar 后缀将名词动词化的构词规律。"
+        },
+        {
+          "word": "subrepresentación",
+          "translation": "代表性不足，比例偏低",
+          "note": "由 sub-（低于、不足）加 representación（代表性）构成；前缀 sub- 表「低于标准、不足」，构词迁移价值极高：subempleo（就业不足）、subestimar（低估）、subdesarrollado（欠发达的）；与之对应的 sobrerrepresentación（过度代表）同样常见。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "A nivel global, además, distintos análisis han advertido que la exclusión de las mujeres del mundo digital ha significado grandes pérdidas económicas para los países. En otras palabras, no estamos solo frente a una brecha social, sino frente a un <strong>costo directo</strong> para el crecimiento.",
+      "zh": "此外，在全球层面，多项分析已经警示，将女性排除在数字世界之外已给各国造成巨大经济损失。换言之，我们面对的不仅是一道社会鸿沟，更是对经济增长的直接代价。",
+      "vocab": [
+        {
+          "word": "han advertido",
+          "translation": "已经警示，已经指出",
+          "note": "advertir 是典型的一词多义词：①警告、提醒（最常见）；②注意到、察觉（较正式）；在本句中为①，意为「各项分析已发出警告」；注意与 avisar（通知、告知）区分——advertir 更强调对潜在风险的警示，avisar 更中性；另一常见搭配：advertir de los riesgos（警示风险）。"
+        },
+        {
+          "word": "en otras palabras",
+          "translation": "换言之，也就是说",
+          "note": "固定过渡短语，用于对前文进行重新表述或提炼核心结论；与 es decir 功能相同但语体略正式；写作中的常用过渡语系列：en otras palabras / es decir / dicho de otro modo / esto es——四者均表「换句话说」，可交替使用以避免重复。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Cerrar esta brecha, entonces, no depende únicamente de atraer más mujeres al mundo tecnológico; sino de <strong>intervenir</strong> en las decisiones diarias que configuran la experiencia laboral y de alinear cultura, procesos y liderazgo en torno a ese objetivo. Y esto exige avanzar desde el diagnóstico a la acción. Tanto el sector público como el privado tienen un rol clave en incorporar estas prácticas en sus decisiones de gestión, en sus políticas y en la forma en que desarrollan talento.",
+      "zh": "因此，弥合这一差距，不仅仅取决于吸引更多女性进入科技世界，而在于干预那些塑造日常工作体验的决策，并将文化、流程与领导力统一对齐于这一目标。这要求从诊断推进到行动。公共部门和私营部门都在将这些实践融入管理决策、政策制定以及人才培养方式中扮演着关键角色。",
+      "vocab": [
+        {
+          "word": "intervenir en",
+          "translation": "干预，介入，对……进行干预",
+          "note": "intervenir 由 inter-（在……之间）加 venir（来）构成，本义为「介入其中」；在政策和社会科学语境中指「主动介入以改变现状」；构词：intervenir → intervención（干预措施）→ intervencionismo（干预主义）；前缀 inter- 表「在……之间、相互」，可迁移至 interactuar（互动）、intercambiar（交换）、interdependiente（相互依赖的）。"
+        },
+        {
+          "word": "alinear… en torno a",
+          "translation": "围绕……使……对齐，统一协调于",
+          "note": "alinear 本义为「使成一条线、对齐」，在管理和战略语境中引申为「使不同要素朝同一方向协调运作」；en torno a 意为「围绕、以……为核心」；alinear cultura, procesos y liderazgo en torno a un objetivo 是战略管理写作的标准表达，体现了从分散到统一的系统性思维。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "El estudio ofrece una guía para avanzar en esa dirección. Y, sobre todo, invita a mirar el problema desde donde realmente se <strong>juega</strong>: no en el discurso, sino en las prácticas. Porque es ahí —en lo cotidiano— donde se define no solo la equidad, sino también la productividad y el futuro de nuestra economía.",
+      "zh": "这项研究为朝这一方向推进提供了指引。更重要的是，它邀请我们从问题真正被决定的地方来审视它：不在话语层面，而在实际做法中。因为正是在那里——在日常之中——不仅公平得以定义，生产力与我们经济的未来同样如此。",
+      "vocab": [
+        {
+          "word": "donde se juega",
+          "translation": "在……被决定的地方，真正的角力场",
+          "note": "jugarse 在此为反身用法，意为「被决定、被押注于」，如 aquí se juega el futuro（未来在此被决定）；这是西语中极具表现力的惯用句式，字面为「在哪里被博弈」，引申为「真正的关键所在」；类似用法：en eso se juega todo（一切都押在这上面）、se juega mucho（风险很高、关系重大）。"
+        },
+        {
+          "word": "lo cotidiano",
+          "translation": "日常之事，日常层面",
+          "note": "cotidiano（日常的）加定冠词 lo 构成名词化结构，意为「日常性的事物/层面」；lo + 形容词 是西语中将形容词名词化的重要语法结构，表示「……的事物/方面」：lo esencial（本质所在）、lo importante（重要的是）、lo cotidiano（日常层面）——掌握这一结构可大幅提升表达的抽象层次。"
+        }
+      ]
+    }
+  ]
+}

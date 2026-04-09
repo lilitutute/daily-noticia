@@ -1,0 +1,195 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与环境",
+  "difficulty": "B2",
+  "wordCount": "约900词",
+  "title": "Así captan los satélites \"el latido de la sociedad\": de la luz nocturna de los ricos a los apagones de las crisis humanas",
+  "subtitle": "卫星如何捕捉『社会的心跳』：从富人的夜间灯光到人道主义危机中的大停电",
+  "resumenEs": "Un nuevo estudio publicado en Nature, basado en más de un millón de imágenes satelitales, confirma que la contaminación lumínica global ha aumentado un 16% desde 2014. Sin embargo, el análisis revela dinámicas opuestas: mientras regiones en desarrollo como India y China se iluminan más, Europa reduce su brillo por políticas energéticas, y zonas en conflicto como Siria y Ucrania se oscurecen drásticamente. Los investigadores advierten además de limitaciones técnicas en la detección satelital de ciertos tipos de luz.",
+  "resumenZh": "一项发表于《自然》杂志、基于逾百万张卫星图像的新研究证实，全球光污染自2014年以来增加了16%。然而分析揭示出截然相反的趋势：印度、中国等发展中地区愈发明亮，欧洲因能源政策而减少光照，叙利亚、乌克兰等冲突地区则急剧变暗。研究人员还指出卫星在探测某些光源类型时存在技术局限。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "La <strong>contaminación lumínica</strong> sigue aumentando. No es una novedad; las noches de la Tierra son cada vez más brillantes desde hace tiempo. Pero el nuevo trabajo publicado en Nature que confirma esta tendencia, también ha detectado que en partes del planeta la luz artificial está de retirada. En algunas zonas se debe a conflictos o crisis, como en Ucrania, Siria o Venezuela. Pero en otros, como en Europa, gracias a la transición tecnológica y la <strong>concienciación</strong> de los daños que provoca esta polución en los ecosistemas y los propios humanos, la noche se está recuperando.",
+      "zh": "光污染持续加剧。这并不是什么新鲜事；长久以来，地球的夜晚变得越来越明亮。但这项发表于《自然》杂志、印证了这一趋势的新研究，同时也发现地球上某些地方的人工光照正在减退。在部分地区，这源于冲突或危机，如乌克兰、叙利亚和委内瑞拉。而在另一些地方，如欧洲，得益于技术转型以及对这种污染给生态系统和人类自身所造成危害的认知提升，夜晚正在逐渐恢复。",
+      "vocab": [
+        {
+          "word": "contaminación lumínica",
+          "translation": "光污染",
+          "note": "lumínico/a 来自拉丁语 lumen（光），同族词有 luminoso（发光的）、iluminar（照明）、luminosidad（亮度），掌握这一词根可快速识别大量与光相关的词汇。"
+        },
+        {
+          "word": "concienciación",
+          "translation": "意识提升；觉醒",
+          "note": "由动词 concienciar（使意识到）派生的名词，指社会层面对某一问题认知程度的提高，在环保和社会议题报道中高频出现，注意与 conciencia（良知；意识）区分，后者是状态，前者是过程。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Apoyados en 1,16 millones de imágenes capturadas por tres satélites distintos, investigadores de la NASA y varias universidades han confirmado que la esfera terrestre es hoy más brillante que nunca. Según la instrumentación usada en el proyecto Black Marble, la iluminación artificial captada desde el espacio ha aumentado en un 16% desde 2014. Pero tras ese aumento neto se oculta también otra realidad: en el mismo periodo de tiempo ha habido zonas del planeta en las que ha bajado la <strong>radiancia</strong> de las luces (medida en <strong>vatios</strong> por metro cuadrado).",
+      "zh": "借助三颗不同卫星拍摄的116万张图像，美国宇航局和多所大学的研究人员证实，地球如今比以往任何时候都更加明亮。根据『黑色大理石』项目所使用的仪器，自2014年以来，从太空捕捉到的人工照明增加了16%。但在这一净增长背后，还隐藏着另一个现实：在同一时期，地球上部分地区的光辐射亮度（以瓦特每平方米为单位）有所下降。",
+      "vocab": [
+        {
+          "word": "radiancia",
+          "translation": "辐射亮度；辐照度",
+          "note": "radiancia 是物理学术语，指单位面积、单位立体角内的辐射功率，来自词根 radi-（辐射），同族词有 radiación（辐射）、irradiar（照射），是遥感和天文报道中的专业词汇。"
+        },
+        {
+          "word": "vatios",
+          "translation": "瓦特（功率单位）",
+          "note": "vatio 是功率的国际单位，源自发明家 James Watt 的姓氏，文中以 vatios por metro cuadrado（瓦特每平方米）作为辐射亮度的计量单位，科技报道中常见。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "『Podemos considerar estas dinámicas como el latido de la sociedad』, dice Zhe Zhu, director del Laboratorio de Teledetección Ambiental Global de la Universidad de Connecticut (Estados Unidos) y primer autor del estudio. 『Con estos datos diarios, podemos observar el impacto de las crisis. Vemos cómo responde la sociedad ante grandes <strong>perturbaciones</strong>』, añade Zhu. Y completa: 『La disminución de la luminosidad no siempre es señal de pobreza o <strong>declive</strong>; a veces, como vemos en Europa, es señal de adaptación y de políticas gubernamentales que funcionan en tiempo real』.",
+      "zh": "『我们可以将这些动态视为社会的心跳，』康涅狄格大学全球环境遥感实验室主任、该研究第一作者朱哲说道。『借助这些每日数据，我们可以观察到危机的影响。我们能看到社会如何应对重大扰动，』朱哲补充道。他进一步表示：『亮度的下降并不总是贫困或衰退的信号；有时，正如我们在欧洲所见，它是适应能力的体现，也是政府政策实时发挥效用的信号。』",
+      "vocab": [
+        {
+          "word": "perturbaciones",
+          "translation": "扰动；干扰；冲击",
+          "note": "perturbación 在科学语境中指对系统稳定状态的干扰，在社会语境中指重大冲击或动荡，动词形式为 perturbar，比 alteración 更强调对原有秩序的破坏性影响。"
+        },
+        {
+          "word": "declive",
+          "translation": "衰退；下滑；衰落",
+          "note": "declive 字面义为『斜坡、下坡』，引申为经济、社会或文明的衰退，常见搭配 en declive（处于衰退中），比 decadencia 更常用于描述可量化的下滑趋势。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Los países de Europa occidental están entre los que han reducido su iluminación nocturna y lo han hecho poco a poco. 『Es un signo de madurez tecnológica y conciencia ambiental, impulsada por <strong>mandatos</strong> de ahorro energético y la transición a sistemas LED mejor dirigidos』, cuenta Zhu en un correo. En total, la radiancia de origen artificial ha bajado un 4% en Europa desde 2014. Destacan los descensos de Francia, cuyas noches han perdido el 33% de su iluminación, y Reino Unido con un 22%. 『En España, el cambio de radiancia neto es de -52,444 [medido en nanovatios por cm2], con un aumento del brillo de 71,687 y un descenso de -124,131』, <strong>detalla</strong> Zhu.",
+      "zh": "西欧国家是减少夜间照明的地区之一，且这一过程是循序渐进的。『这是技术成熟度和环保意识的体现，由节能指令的推动以及向更精准LED系统的过渡所驱动，』朱哲在一封邮件中表示。总体而言，欧洲人工光源辐射亮度自2014年以来下降了4%。其中法国降幅最为突出，其夜间照明减少了33%，英国则减少了22%。『在西班牙，净辐射亮度变化为-52,444（以纳瓦特每平方厘米计），其中亮度增加71,687，下降-124,131，』朱哲详细说明道。",
+      "vocab": [
+        {
+          "word": "mandatos",
+          "translation": "指令；授权；任务",
+          "note": "mandato 在政策语境中指具有约束力的官方指令或授权，与英语 mandate 是同源词，但注意在政治语境中 mandato 还可指『任期』（如 mandato presidencial），是一词多义词。"
+        },
+        {
+          "word": "detalla",
+          "translation": "详细说明；列举细节",
+          "note": "detallar 由名词 detalle（细节）派生，在新闻引语中常用于引出具体数据或补充说明，比 explicar 更强调信息的精确性和具体性，是学术和新闻写作中的高频动词。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Pero donde más ha descendido la contaminación lumínica es allí donde ha descendido todo. 『En nuestro estudio, regiones como Siria (-95%), Ucrania (-75%) y Venezuela (-26%) muestran el oscurecimiento más drástico, ya que la luz suele ser víctima de los conflictos y el <strong>colapso</strong> sistémico』, explica el investigador de la Universidad de Connecticut. Por el contrario, el oscurecimiento provocado por políticas gubernamentales es más estructurado y gradual. 『Si bien el porcentaje de disminución en Europa es menor que en una zona de guerra, representa un cambio <strong>intencional</strong> y mucho más generalizado en la forma en que las sociedades desarrolladas interactúan con la noche』, termina Zhu.",
+      "zh": "然而，光污染下降最显著的地方，恰恰是一切都在下滑的地方。『在我们的研究中，叙利亚（-95%）、乌克兰（-75%）和委内瑞拉（-26%）等地区呈现出最为剧烈的变暗，因为灯光往往是冲突和系统性崩溃的牺牲品，』这位康涅狄格大学研究人员解释道。相比之下，由政府政策主导的变暗过程则更为有序、渐进。『尽管欧洲的降幅百分比低于战区，但它代表着发达社会与夜晚互动方式上一种有意为之、且更为普遍的转变，』朱哲最后说道。",
+      "vocab": [
+        {
+          "word": "colapso",
+          "translation": "崩溃；瓦解；衰竭",
+          "note": "colapso 来自拉丁语 collapsus，可指系统、经济、建筑或身体的全面崩溃，搭配动词 sufrir un colapso（遭遇崩溃）或 provocar el colapso（导致崩溃），是新闻报道中的高频词。"
+        },
+        {
+          "word": "intencional",
+          "translation": "有意为之的；蓄意的",
+          "note": "intencional 由 intención（意图）+ -al 构成，强调行为出于主观意志，与 deliberado（蓄意的）近义，但 intencional 更中性，deliberado 有时带有负面含义，如 daño deliberado（蓄意伤害）。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Entre las partes del planeta habitado donde más ha aumentado la iluminación nocturna están varias regiones de India y China. En estos países se combinan el desarrollo industrial <strong>expansivo</strong>, el crecimiento acelerado de las ciudades y la creciente electrificación de las zonas rurales. Algo similar estaría sucediendo en el conjunto del sudeste asiático. Entre las zonas más iluminadas, que contrastan con los desiertos que las <strong>circundan</strong>, están las urbes de Oriente Medio. Aunque mitigada, la iluminación nocturna sigue la divisoria entre países ricos y pobres.",
+      "zh": "在夜间照明增长最为显著的有人居住地区中，印度和中国的多个地区位列其中。这些国家兼具扩张性工业发展、城市快速增长以及农村地区日益推进的电气化进程。东南亚整体也正在经历类似的变化。在最为明亮的地区中，与周围沙漠形成鲜明对比的是中东各大城市。尽管有所缓和，夜间照明仍然沿着贫富国家之间的分界线分布。",
+      "vocab": [
+        {
+          "word": "expansivo",
+          "translation": "扩张性的；扩展的",
+          "note": "expansivo 来自 expansión（扩张），在经济语境中描述快速向外扩展的增长模式，注意它还有『开朗、外向』的含义（una persona expansiva），是一词多义词，需结合语境判断。"
+        },
+        {
+          "word": "circundan",
+          "translation": "环绕；围绕",
+          "note": "circundar 由前缀 circun-（围绕，来自拉丁语 circum）+ dar 构成，同族词有 circunferencia（圆周）、circunstancia（情况，字面义为『周围的事物』），掌握 circun- 前缀有助于理解大量词汇。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "『La relación entre las emisiones de luz per cápita y el PIB per cápita es bastante fuerte dentro de un país, pero no directamente <strong>comparable</strong> entre países』, recuerda Christopher Kyba, profesor de teledetección de luz nocturna en la Universidad Ruhr de Bochum (Alemania) y coautor del estudio. 『Actualmente, estas relaciones se mantienen; sin embargo, si imaginamos un futuro en el que las ciudades estén iluminadas de forma más <strong>sostenible</strong>, es probable que la relación entre las emisiones de luz nocturnas y la riqueza se rompa en algún momento』, añade este investigador.",
+      "zh": "『人均光排放量与人均GDP之间的关系在一国内部相当强，但在国家之间并不能直接比较，』波鸿鲁尔大学夜间光遥感教授、该研究共同作者克里斯托弗·基巴提醒道。『目前这些关系仍然成立；然而，如果我们设想一个城市以更可持续方式照明的未来，夜间光排放与财富之间的关系很可能在某个时刻会被打破，』这位研究人员补充道。",
+      "vocab": [
+        {
+          "word": "comparable",
+          "translation": "可比较的；具有可比性的",
+          "note": "comparable 与英语 comparable 是同源词，用法也相近，但注意否定形式 incomparable 在西语中还有『无与伦比的』这一褒义含义，与英语 incomparable 用法一致，是假朋友的反例。"
+        },
+        {
+          "word": "sostenible",
+          "translation": "可持续的；可维持的",
+          "note": "sostenible 来自 sostener（支撑、维持），在环境和经济语境中专指『可持续发展』，是当代新闻和政策文本的核心词汇，同族词有 sostenibilidad（可持续性）、insostenible（不可持续的）。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Kyba lleva desde 2009 investigando la contaminación lumínica. Debió ser de los primeros en alertar que el exceso de iluminación amenazaba con ocultar las estrellas, con alterar la vida animal, afectando incluso al canto de los pájaros, o alterar la salud humana, dañando la producción de <strong>melatonina</strong>, por ejemplo. Siempre avisó contra el aumento de radiancia artificial. 『Los estudios previos generalmente se centraban en la escala nacional o continental. Por lo tanto, observaron un aumento generalizado, y el nuevo estudio coincide con esa conclusión』, recuerda el profesor. 『La novedad <strong>radica en</strong> que analizamos lo que ocurre en escalas espaciales [y temporales] mucho menores. Descubrimos que no se trata de un proceso constante de incremento, sino más bien de un aumento y un debilitamiento simultáneos dentro de países que, en conjunto, experimentan más brillo』, reconoce ahora.",
+      "zh": "基巴自2009年起便开始研究光污染。他应当是最早发出警告的人之一——过度照明威胁着遮蔽星空、干扰动物生活，甚至影响鸟类鸣唱，或损害人类健康，例如破坏褪黑素的分泌。他始终对人工辐射亮度的增加保持警惕。『此前的研究通常聚焦于国家或大陆尺度，因此观察到的是普遍性的增长，而新研究与这一结论相吻合，』这位教授回忆道。『新颖之处在于，我们分析了更小空间（和时间）尺度上发生的变化。我们发现，这并非一个持续增长的过程，而是在整体上变得更亮的国家内部，增亮与减暗同时并存，』他如今坦言。",
+      "vocab": [
+        {
+          "word": "melatonina",
+          "translation": "褪黑素",
+          "note": "melatonina 是调节睡眠节律的激素，在光污染和健康议题报道中高频出现，词根 -tonina 来自希腊语 tonos（张力），同族词有 serotonina（血清素），了解这些词根有助于记忆医学词汇。"
+        },
+        {
+          "word": "radica en",
+          "translation": "在于；根源在于",
+          "note": "radicar en 是重要固定搭配，意为『（问题、原因、价值）在于……』，比 estar en 更正式，常用于学术和新闻文体中点明核心所在，如 el problema radica en（问题在于）。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Sin embargo, Kyba teme que buena parte de la luz se escape al ojo de los satélites. 『Parte de la atenuación se debe a un desafortunado problema de diseño instrumental: el satélite no observa las mismas <strong>longitudes de onda</strong> de luz que el sistema visual humano, por lo que los cambios de longitudes de onda más largas (luz naranja e infrarroja) de las lámparas de sodio de alta presión a la luz blanca de los LED a menudo se registran como disminuciones de luz por el instrumento, aunque una persona probablemente diría que el área se <strong>iluminó</strong>』, recuerda.",
+      "zh": "然而，基巴担心有相当一部分光线逃过了卫星的『眼睛』。『部分衰减源于一个令人遗憾的仪器设计问题：卫星所观测的光波长与人类视觉系统所感知的并不相同，因此从高压钠灯到LED白光的波长变化（橙色光和红外光），往往被仪器记录为光照减少，而实际上一个人可能会说该区域变得更亮了，』他提醒道。",
+      "vocab": [
+        {
+          "word": "longitudes de onda",
+          "translation": "波长",
+          "note": "longitud de onda 是物理学基础术语，字面义为『波的长度』，在光学和遥感报道中高频出现，longitud 本义为『长度』，与 latitud（纬度）、altitud（海拔）构成一组地理和物理常用词。"
+        },
+        {
+          "word": "iluminó",
+          "translation": "变亮了；被照亮了",
+          "note": "iluminar 由前缀 i-（in-的变体，表示『进入』）+ lumen（光）构成，既可作及物动词（iluminar una sala，照亮房间），也可作反身动词（el cielo se iluminó，天空亮了），注意两种用法的区别。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "La tecnológica es la principal crítica que hace Alejandro Sánchez de Miguel, del Departamento de Física de la Tierra y Astrofísica de la Universidad Complutense, que no ha participado en este estudio. 『Estos satélites no ven el azul, que es la parte más <strong>contaminante</strong>, pero sí ven el infrarrojo』, recuerda Sánchez de Miguel. 『Tenemos las lámparas de sodio, por ejemplo, que emiten mucho en infrarrojo y nada en azul y contaminan algo, y tenemos lo contrario, los LED que contaminan mucho en azul y nada en infrarrojo. Cuando se hace un cambio de sodio a LED, el satélite ve una bajada, pero es falsa』, explica.",
+      "zh": "技术层面的问题是马德里康普顿斯大学地球物理与天体物理系研究员亚历杭德罗·桑切斯·德·米格尔提出的主要批评，他并未参与这项研究。『这些卫星看不到蓝光——而蓝光恰恰是污染最严重的部分——但却能看到红外线，』桑切斯·德·米格尔提醒道。『以钠灯为例，它们在红外线波段发射大量光，在蓝光波段几乎没有，污染程度相对较低；而LED恰恰相反，在蓝光波段污染严重，在红外线波段几乎没有。当从钠灯换成LED时，卫星看到的是光照下降，但这是假象，』他解释道。",
+      "vocab": [
+        {
+          "word": "contaminante",
+          "translation": "污染性的；污染物",
+          "note": "contaminante 既可作形容词（污染性的），也可作名词（污染物），来自动词 contaminar（污染），后缀 -ante 表示『正在进行……的』，同类词有 irritante（刺激性的）、dominante（主导的）。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Aun así, Sánchez de Miguel reconoce la <strong>aportación</strong> de este nuevo trabajo: 『Muestra lo dinámica que es la cuestión de la contaminación lumínica』. Pero termina <strong>lamentando</strong> que no haya un satélite europeo midiendo la iluminación nocturna y que haya que conformarse con la fotografía astronáutica, 『como las imágenes tomadas por los astronautas de la Artemis, que han visto cómo es realmente la noche iluminada』.",
+      "zh": "尽管如此，桑切斯·德·米格尔仍承认这项新研究的贡献：『它展示了光污染问题的动态性有多强。』但他最后遗憾地表示，目前没有欧洲卫星专门测量夜间照明，只能依赖航天摄影，『比如阿尔忒弥斯号宇航员拍摄的图像，他们亲眼看到了夜晚被照亮的真实面貌。』",
+      "vocab": [
+        {
+          "word": "aportación",
+          "translation": "贡献；提供的内容",
+          "note": "aportación 来自动词 aportar（提供、贡献），在学术评论中常指某项研究对领域知识的新增贡献，与 contribución 近义，但 aportación 在西班牙西语中更为常用，拉美更多用 contribución。"
+        },
+        {
+          "word": "lamentando",
+          "translation": "遗憾地表示；感到惋惜",
+          "note": "lamentar 表示对某事感到遗憾或惋惜，比 sentir（感到）更正式，常用于新闻引语中表达专家或官员的批评性立场，搭配 que + 虚拟式，如 lamentar que no haya（遗憾没有……）。"
+        }
+      ]
+    }
+  ]
+}
