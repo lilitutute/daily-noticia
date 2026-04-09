@@ -11,7 +11,7 @@
   "paragraphs": [
     {
       "id": 1,
-      "es": "Prestamos atención a qué comemos, observamos qué alimentos son o no saludables, hacemos cambios en nuestras cestas de la compra, estamos siempre pendientes de las noticias sobre alimentación… pero ¿cómo comemos? ¿Nos fijamos en el momento de la comida, en el acto de comer en sí, o solo en el contenido del plato?",
+      "es": "Prestamos atención a qué comemos, observamos qué alimentos son o no saludables, hacemos cambios en nuestras cestas de la compra, estamos siempre <strong>pendientes de</strong> las noticias sobre alimentación… pero ¿cómo comemos? ¿Nos fijamos en el momento de la comida, en el acto de comer <strong>en sí</strong>, o solo en el contenido del plato?",
       "zh": "我们关注吃什么，观察哪些食物健康、哪些不健康，调整购物篮里的内容，时刻留意饮食相关的新闻……但我们有没有想过：我们是怎么吃的？我们是否关注进餐的那个时刻、吃这个行为本身，还是只盯着盘子里的东西？",
       "vocab": [
         {
@@ -28,7 +28,7 @@
     },
     {
       "id": 2,
-      "es": "El objetivo del estudio es analizar la influencia de los dispositivos digitales para registrar las emociones y las <strong>conductas alimentarias</strong>, tanto al preparar comida casera como alimentos más procesados. Se analiza, además, cómo interfiere comer en soledad o acompañado, el uso del teléfono móvil mientras se come y la posible interacción con el desarrollo de <strong>trastornos de la conducta alimentaria</strong> (TCA) y otros problemas relacionados con la ingesta.",
+      "es": "El objetivo del estudio es analizar la influencia de los dispositivos digitales para registrar las emociones y las <strong>conductas alimentarias</strong>, tanto al preparar comida casera como alimentos más procesados. Se analiza, además, cómo interfiere comer en soledad o acompañado, el uso del teléfono móvil mientras se come y la posible interacción con el desarrollo de <strong>trastornos</strong> de la conducta alimentaria (TCA) y otros problemas relacionados con la ingesta.",
       "zh": "该研究的目标是分析数字设备对情绪和饮食行为的影响，涵盖自制餐食和加工食品的准备过程。此外，研究还分析了独自进食与结伴进食的差异、进餐时使用手机的影响，以及这些行为与饮食失调（TCA）及其他摄食相关问题之间可能存在的关联。",
       "vocab": [
         {
@@ -79,7 +79,7 @@
     },
     {
       "id": 5,
-      "es": "De este estudio también se desprende que se consume más cantidad de comida, <strong>cifrándolo</strong> en aproximadamente un treinta por ciento más de calorías cuando se come con el móvil, y lo más importante: interfiere en esa regulación interna. Básicamente, cuando se come con el teléfono en la mano, desatendemos nuestra hambre y damos por finalizada la ingesta cuando se acaba la comida, pero eso no quiere decir siempre que estemos saciados, y mucho menos satisfechos.",
+      "es": "De este estudio también se desprende que se consume más cantidad de comida, <strong>cifrándolo en</strong> aproximadamente un treinta por ciento más de calorías cuando se come con el móvil, y lo más importante: interfiere en esa regulación interna. Básicamente, cuando se come con el teléfono en la mano, desatendemos nuestra hambre y <strong>damos por finalizada</strong> la ingesta cuando se acaba la comida, pero eso no quiere decir siempre que estemos saciados, y mucho menos satisfechos.",
       "zh": "研究还揭示，食物摄入量会增加——边刷手机边吃饭时热量摄入约多出30%——而更重要的是：这会干扰内在的调节机制。简而言之，手持手机进食时，我们忽视了饥饿感，并在食物吃完时便认为进食结束，但这并不总意味着我们已经饱了，更谈不上满足。",
       "vocab": [
         {
@@ -96,7 +96,7 @@
     },
     {
       "id": 6,
-      "es": "La saciedad tarda una media de treinta minutos en registrarse en el centro de esta, que se encuentra en el <strong>hipotálamo</strong>. Por lo tanto, si se come en intervalos menores de tiempo, no se llegará a percibir, y esto puede ocasionar <strong>picoteos</strong> posteriores. Como nutricionista, que se pique o que se complemente la comida si hay hambre después no tendría mayor importancia si no fuera porque muchas personas pelean con su hambre y sienten culpa si después de comer siguen teniendo apetito.",
+      "es": "La saciedad tarda una media de treinta minutos en registrarse en el centro de esta, que se encuentra en el hipotálamo. Por lo tanto, si se come en intervalos menores de tiempo, no se llegará a percibir, y esto puede ocasionar <strong>picoteos</strong> posteriores. Como nutricionista, que se pique o que se complemente la comida si hay hambre después no tendría mayor importancia si no fuera porque muchas personas <strong>pelean con su hambre</strong> y sienten culpa si después de comer siguen teniendo apetito.",
       "zh": "饱腹感平均需要三十分钟才能被位于下丘脑的饱腹中枢所感知。因此，如果进食时间短于这一间隔，饱腹感便无法被察觉，这可能导致餐后的零食行为。作为营养师，如果饭后仍有饥饿感而去加餐或吃点零食，本身并无大碍——问题在于，许多人与自己的饥饿感对抗，并在饭后仍有食欲时感到愧疚。",
       "vocab": [
         {
@@ -130,7 +130,7 @@
     },
     {
       "id": 8,
-      "es": "Por otro lado, cambia mucho la experiencia de comer de manera solitaria o acompañado. Comer en compañía puede modificar la velocidad, la duración y la cantidad de la ingesta. La ingesta suele aumentar cuando el contexto social permite más tiempo para repetir platos, mientras que puede acortarse y comerse más rápido si el <strong>comensal</strong> se siente observado y/o juzgado.",
+      "es": "Por otro lado, cambia mucho la experiencia de comer de manera solitaria o acompañado. Comer en compañía puede modificar la velocidad, la duración y la cantidad de la ingesta. La ingesta suele aumentar cuando el contexto social permite más tiempo para <strong>repetir platos</strong>, mientras que puede acortarse y comerse más rápido si el <strong>comensal</strong> se siente observado y/o juzgado.",
       "zh": "另一方面，独自进食与结伴进食的体验差异很大。结伴用餐可以改变进食的速度、时长和摄入量。当社交情境允许更多时间添加食物时，摄入量通常会增加；而如果用餐者感到被观察或被评判，则可能缩短用餐时间、加快进食速度。",
       "vocab": [
         {
@@ -164,7 +164,7 @@
     },
     {
       "id": 10,
-      "es": "Es imposible <strong>desvincular</strong> la función de regulación emocional que ejerce la comida sobre nosotros, ni analizar la alimentación sin tener en cuenta este factor. Por tanto, no basta con comprobar la calidad nutricional de la alimentación de cada persona, sino que también es necesario prestar atención a los factores sociales, ambientales y psicológicos que influyen en su manera de comer para poder hacer una evaluación completa.",
+      "es": "Es imposible <strong>desvincular</strong> la función de regulación emocional que ejerce la comida sobre nosotros, ni analizar la alimentación sin tener en cuenta este factor. Por tanto, <strong>no basta con</strong> comprobar la calidad nutricional de la alimentación de cada persona, sino que también es necesario prestar atención a los factores sociales, ambientales y psicológicos que influyen en su manera de comer para poder hacer una evaluación completa.",
       "zh": "食物对我们所发挥的情绪调节功能是无法割裂的，分析饮食行为也不能忽视这一因素。因此，仅仅核查每个人饮食的营养质量是不够的，还必须关注影响其进食方式的社会、环境和心理因素，才能做出全面的评估。",
       "vocab": [
         {
@@ -181,7 +181,7 @@
     },
     {
       "id": 11,
-      "es": "Si nos quedamos solo en el análisis de las características nutricionales de sus elecciones, estaremos <strong>apelando</strong> de nuevo a la supuesta falta de voluntad o de conciencia al elegir unos alimentos u otros. Y la realidad es mucho más compleja. Comer rápido, distraído, en soledad o bajo presión no es una cuestión de irresponsabilidad individual, sino el reflejo de un estilo de vida que dificulta la conexión con las señales internas y con el propio acto de alimentarse.",
+      "es": "Si nos quedamos solo en el análisis de las características nutricionales de sus elecciones, estaremos <strong>apelando</strong> de nuevo a la <strong>supuesta</strong> falta de voluntad o de conciencia al elegir unos alimentos u otros. Y la realidad es mucho más compleja. Comer rápido, distraído, en soledad o bajo presión no es una cuestión de irresponsabilidad individual, sino el reflejo de un estilo de vida que dificulta la conexión con las señales internas y con el propio acto de alimentarse.",
       "zh": "如果我们只停留在对食物选择营养特征的分析上，就会再次诉诸那种所谓的意志力不足或意识缺乏的论断。而现实要复杂得多。快速进食、分心进食、独自进食或在压力下进食，并非个人不负责任的问题，而是一种生活方式的折射——这种生活方式使人难以与内在信号以及进食行为本身建立连接。",
       "vocab": [
         {
@@ -198,7 +198,7 @@
     },
     {
       "id": 12,
-      "es": "Por eso, mejorar la alimentación no pasa únicamente por decirle a la gente qué debe comer, sino también por preguntarnos cómo está comiendo, en qué condiciones lo hace y qué lugar ocupa la comida en su día a día. Solo cuando ampliamos la mirada y dejamos de <strong>reducir</strong> la nutrición a una lista de alimentos saludables o no saludables, podemos acompañar de forma más realista, más humana y también más eficaz los cambios en la conducta alimentaria. En definitiva, para entender la alimentación de una persona no basta con mirar el plato; también hay que mirar el contexto en el que se come.",
+      "es": "Por eso, mejorar la alimentación no pasa únicamente por decirle a la gente qué debe comer, sino también por preguntarnos cómo está comiendo, en qué condiciones lo hace y qué lugar ocupa la comida en su día a día. Solo cuando <strong>ampliamos la mirada</strong> y dejamos de reducir la nutrición a una lista de alimentos saludables o no saludables, podemos acompañar de forma más realista, más humana y también más eficaz los cambios en la conducta alimentaria. <strong>En definitiva</strong>, para entender la alimentación de una persona no basta con mirar el plato; también hay que mirar el contexto en el que se come.",
       "zh": "因此，改善饮食不仅仅在于告诉人们应该吃什么，还在于追问他们是怎么吃的、在什么条件下吃的，以及食物在他们日常生活中占据怎样的位置。只有当我们拓宽视野，不再将营养简化为一张健康食物与不健康食物的清单，才能以更贴近现实、更人性化、也更有效的方式陪伴饮食行为的改变。归根结底，要理解一个人的饮食，光看盘子里的东西是不够的，还要看他在什么情境下进食。",
       "vocab": [
         {

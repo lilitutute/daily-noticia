@@ -11,7 +11,7 @@
   "paragraphs": [
     {
       "id": 1,
-      "es": "Tengo 27 años, es sábado, he salido a divertirme con mis amigas y, de nuevo, la pregunta: \"¿Y tú no bebes nada?\". A lo que yo respondo: \"No\". Y entonces, lo que solo era una pregunta da paso a un <strong>interrogatorio</strong>: \"¿Nunca has bebido?\" \"¿Por qué no bebes?\" \"¿Cómo aguantas?\" \"¿No te aburres?\". Tras el interrogatorio, o contesto y sigo divirtiéndome, o entro en modo socióloga reflexiva.",
+      "es": "Tengo 27 años, es sábado, he salido a divertirme con mis amigas y, de nuevo, la pregunta: \"¿Y tú no bebes nada?\". A lo que yo respondo: \"No\". Y entonces, lo que solo era una pregunta <strong>da paso a</strong> un <strong>interrogatorio</strong>: \"¿Nunca has bebido?\" \"¿Por qué no bebes?\" \"¿Cómo aguantas?\" \"¿No te aburres?\". Tras el interrogatorio, o contesto y sigo divirtiéndome, o entro en modo socióloga reflexiva.",
       "zh": "我27岁，今天是周六，我和朋友们出来玩，然后又是那个问题：「你什么都不喝吗？」我回答：「不喝。」于是，原本只是一个问题，变成了一场审讯：「你从来没喝过酒吗？」「你为什么不喝？」「你怎么撑得住？」「你不觉得无聊吗？」审讯结束后，要么我回答完继续玩，要么我切换到反思社会学家模式。",
       "vocab": [
         {
@@ -45,7 +45,7 @@
     },
     {
       "id": 3,
-      "es": "Y es que beber, o no beber, debería ser una elección personal, libre y <strong>consciente</strong>. Pero mientras la primera opción esté normalizada, la segunda seguirá siendo cuestionada, y yo, cansada.",
+      "es": "Y es que beber, o no beber, debería ser una elección personal, libre y <strong>consciente</strong>. Pero mientras la primera opción esté normalizada, la segunda <strong>seguirá siendo cuestionada</strong>, y yo, cansada.",
       "zh": "喝酒或不喝酒，本应是一种个人的、自由的、有意识的选择。但只要第一种选择还是被视为常态，第二种就会继续受到质疑——而我，已经累了。",
       "vocab": [
         {
@@ -113,7 +113,7 @@
     },
     {
       "id": 7,
-      "es": "Pero lo más triste de todo es que a ningún futbolista de nuestra Selección, ante el espectáculo tan <strong>intolerable</strong> que estaba teniendo lugar, se le pasara por la cabeza la idea de parar el partido hasta que cesaran los insultos racistas. Si alguno de ellos lo hubiera hecho, sus padres estarían todavía más orgullosos de él.",
+      "es": "Pero lo más triste de todo es que a ningún futbolista de nuestra Selección, ante el espectáculo tan intolerable que estaba teniendo lugar, se le <strong>pasara por la cabeza</strong> la idea de parar el partido hasta que <strong>cesaran</strong> los insultos racistas. Si alguno de ellos lo hubiera hecho, sus padres estarían todavía más orgullosos de él.",
       "zh": "但最令人悲哀的是，面对正在发生的如此令人无法容忍的一幕，我们国家队的球员中竟然没有一个人想到要暂停比赛，直到种族主义侮辱停止为止。如果其中有人那样做了，他的父母会为他感到更加骄傲。",
       "vocab": [
         {
@@ -130,8 +130,8 @@
     },
     {
       "id": 8,
-      "es": "Hace unos días, Masterchef 14 presentó a una concursante italiana luciendo un delantal con la inscripción \"la mafiosa\", entre risas y aplausos. Más de un millón de espectadores lo vieron en la televisión pública. A los italianos residentes en España se nos ha acabado la paciencia. La mafia no es <strong>folklore</strong>. No es un disfraz. Es la misma organización que mató a Falcone y Borsellino, que ha destruido familias enteras, que ha dejado huérfanos a miles de niños, que ha asesinado a más de 10.000 personas y que sigue operando hoy.",
-      "zh": "几天前，《厨艺大师》第14季让一位意大利参赛者穿着印有「黑手党女人」字样的围裙亮相，现场笑声与掌声不断。超过一百万名观众在公共电视台目睹了这一幕。我们这些旅居西班牙的意大利人已经忍无可忍。黑手党不是民俗文化，不是一套戏服。它是那个杀死了法尔科内和博尔塞利诺的组织，是那个摧毁了无数家庭、让数千名孩子成为孤儿、杀害了逾万人、至今仍在运作的组织。",
+      "es": "Hace unos días, Masterchef 14 presentó a una concursante italiana luciendo un delantal con la inscripción \"la mafiosa\", entre risas y aplausos, <strong>banalizando</strong> así una tragedia real. Más de un millón de espectadores lo vieron en la televisión pública. A los italianos residentes en España se nos ha acabado la paciencia. La mafia no es <strong>folklore</strong>. No es un disfraz. Es la misma organización que mató a Falcone y Borsellino, que ha destruido familias enteras, que ha dejado huérfanos a miles de niños, que ha asesinado a más de 10.000 personas y que sigue operando hoy.",
+      "zh": "几天前，《厨艺大师》第14季让一位意大利参赛者穿着印有「黑手党女人」字样的围裙亮相，现场笑声与掌声不断，就这样将一段真实的悲剧娱乐化。超过一百万名观众在公共电视台目睹了这一幕。我们这些旅居西班牙的意大利人已经忍无可忍。黑手党不是民俗文化，不是一套戏服。它是那个杀死了法尔科内和博尔塞利诺的组织，是那个摧毁了无数家庭、让数千名孩子成为孤儿、杀害了逾万人、至今仍在运作的组织。",
       "vocab": [
         {
           "word": "folklore",
