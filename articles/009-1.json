@@ -1,0 +1,169 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "劳工与心理健康",
+  "difficulty": "B2",
+  "wordCount": "约550词",
+  "title": "Sobrecarga de trabajo y salud mental",
+  "subtitle": "工作过载与心理健康",
+  "resumenEs": "El número de bajas laborales por problemas de salud mental se ha duplicado en España desde 2016. El profesor Adrián Todolí analiza las causas jurídicas de este fenómeno, señalando que los cambios tecnológicos, la desregulación laboral y el debilitamiento sindical han incrementado la presión sobre los trabajadores, y propone legislación que mida y limite la sobrecarga.",
+  "resumenZh": "西班牙因心理健康问题导致的病假人数自2016年以来翻了一番。劳动法教授阿德里安·托多利从法律角度分析了这一现象的成因，指出技术变革、劳动力市场去监管化及工会力量削弱加剧了对工人的压力，并呼吁立法对工作过载加以衡量和限制。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Cada día hay datos preocupantes del creciente <strong>deterioro</strong> de la salud mental de los trabajadores. Desde 2016 el número de procesos de <strong>incapacidad temporal</strong> vinculados a problemas de salud mental se han duplicado: de unas 280.000 bajas de entonces se ha pasado a las 643.000 en 2024. Además las bajas por <strong>trastornos mentales</strong> son más graves. Mientras la incapacidad temporal ordinaria dura unos 45 días, en las perturbaciones mentales la baja media es de 116 días, según el Estudio socioeconómico de la evolución de la incapacidad temporal y la siniestralidad en España dirigido por los investigadores José María Peiró y Lorenzo Serrano, de la Universidad de Valencia (IVIE).",
+      "zh": "每天都有令人忧虑的数据显示，劳动者的心理健康状况持续恶化。自2016年以来，与心理健康问题相关的临时工作能力丧失案例数量翻了一番：从当时的约28万例病假增至2024年的64.3万例。此外，因精神障碍导致的病假情况更为严重。据瓦伦西亚大学（IVIE）研究人员何塞·玛利亚·佩罗和洛伦索·塞拉诺主导的《西班牙临时工作能力丧失及工伤事故社会经济演变研究》显示，普通临时工作能力丧失的平均持续时间约为45天，而精神障碍导致的病假平均时长则达116天。",
+      "vocab": [
+        {
+          "word": "deterioro",
+          "translation": "恶化，退化，损耗",
+          "note": "由动词『deteriorar(se)』派生的名词，表示状态逐渐变差的过程，固定搭配为『deterioro de la salud/del medio ambiente/de las condiciones』，是新闻中描述负面趋势的高频词。"
+        },
+        {
+          "word": "incapacidad temporal",
+          "translation": "临时工作能力丧失，病假（法律术语）",
+          "note": "西班牙劳动法中的固定术语，简称『IT』，指因疾病或事故导致暂时无法工作并依法领取补贴的状态，与『invalidez permanente（永久残疾）』相对。"
+        },
+        {
+          "word": "trastornos mentales",
+          "translation": "精神障碍，心理疾患",
+          "note": "医学和法律文书中的规范表达，『trastorno』比『enfermedad mental』更中性，涵盖范围更广，包括焦虑症、抑郁症等，是世卫组织分类体系中的标准用词。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Abundan las evidencias que conectan la <strong>sobrecarga</strong> del trabajo y la salud mental. Josh Dizieza en Cuán duro nos harán trabajar los robots, en The Verge, <strong>constata</strong> las consecuencias físicas y mentales de la sobrecarga de trabajo en empleados de Amazon que al terminar la jornada caen dormidos en su coche en el <strong>parquin</strong> del almacén antes de regresar a su casa.",
+      "zh": "将工作过载与心理健康相关联的证据比比皆是。乔什·迪兹耶萨在《The Verge》发表的《机器人会让我们工作多拼命》一文中，记录了亚马逊员工因工作过载承受的身心双重后果——他们在下班后往往在仓库停车场的车里直接睡着，才能撑到回家。",
+      "vocab": [
+        {
+          "word": "sobrecarga",
+          "translation": "过载，超负荷，过重负担",
+          "note": "前缀『sobre-』表示『超过、过度』，可与大量名词结合，如『sobrepeso（超重）』『sobreexplotación（过度开采）』『sobrecalentamiento（过热）』，是构词能力极强的前缀。"
+        },
+        {
+          "word": "constata",
+          "translation": "证实，记录，查明",
+          "note": "动词『constatar』表示通过观察或调查确认某事实的存在，比『confirmar』更强调亲身核实的过程，是新闻和学术文体中描述实证发现的高频词。"
+        },
+        {
+          "word": "parquin",
+          "translation": "停车场",
+          "note": "英语『parking』的西班牙语音译借词，书写形式也可见『párking』，是典型的外来词适应西语拼写规则的例子，在日常口语和新闻中均十分常见。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "En base a estos estudios y sus investigaciones Adrián Todolí, <strong>catedrático</strong> de Derecho del Trabajo de la Universidad de Valencia, ha profundizado desde la perspectiva jurídica sobre las causas de este fenómeno. Su propósito era <strong>discernir</strong> si el aumento de las bajas era un problema de <strong>absentismo laboral</strong> o de la intensidad del trabajo que está enfermando a quienes lo desempeñan.",
+      "zh": "基于上述研究及自身调查，瓦伦西亚大学劳动法正教授阿德里安·托多利从法律视角深入探究了这一现象的成因。他的目的是辨明：病假人数的增加，究竟是旷工问题，还是工作强度本身正在让从业者患病。",
+      "vocab": [
+        {
+          "word": "catedrático",
+          "translation": "（大学）正教授，讲席教授",
+          "note": "西班牙高校职称体系中的最高级别，相当于中国的『正教授』或英美的『full professor』，与『profesor titular（副教授级）』和『profesor asociado（兼职讲师）』构成职称阶梯。"
+        },
+        {
+          "word": "discernir",
+          "translation": "辨别，分辨，判断",
+          "note": "C1级词汇，强调通过理性分析区分两种相似或容易混淆的事物，比『distinguir』更正式，常出现在学术和法律文体中，固定搭配为『discernir entre A y B』。"
+        },
+        {
+          "word": "absentismo laboral",
+          "translation": "旷工，缺勤，职场缺席现象",
+          "note": "劳动经济学中的固定术语，指员工无正当理由缺席工作的现象，与本文中因真实疾病导致的病假形成对比，作者正是要区分这两种情况。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "En La huida del trabajo: sobrecarga de trabajo, salud mental y derechos fundamentales (Aranzadi), el profesor Todolí asegura que la evidencia científica es <strong>concluyente</strong>. Las exigencias excesivas de trabajo condicionan de manera <strong>determinante</strong> la salud mental de los trabajadores en España.",
+      "zh": "在《逃离工作：工作过载、心理健康与基本权利》（Aranzadi出版社）一书中，托多利教授指出，科学证据是决定性的：过度的工作要求对西班牙劳动者的心理健康产生了决定性的影响。",
+      "vocab": [
+        {
+          "word": "concluyente",
+          "translation": "决定性的，确凿的，不容置疑的",
+          "note": "由动词『concluir』派生，形容证据或结论具有终结争议的力度，比『claro』或『evidente』语气更强，常用于学术和法律文体中强调论据的充分性。"
+        },
+        {
+          "word": "determinante",
+          "translation": "决定性的，起关键作用的",
+          "note": "由动词『determinar』派生，作形容词时强调某因素对结果起主导作用，固定搭配为『de manera/forma determinante』，是学术写作中表达强因果关系的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Entre las causas de este deterioro apunta la introducción de cambios tecnológicos y organizativos, la pérdida de fuerza de los <strong>sindicatos</strong> y la <strong>desregulación</strong> del mercado de trabajo. Considera que estos elementos han favorecido un incremento del poder <strong>unilateral</strong> del empleador para exigir niveles de esfuerzo y velocidad aprovechando situaciones de inseguridad contractual como los despidos, la <strong>temporalidad</strong> o la precariedad generalizada.",
+      "zh": "在分析这一恶化趋势的成因时，他指出了技术与组织变革的引入、工会力量的削弱以及劳动力市场的去监管化。他认为，这些因素共同助长了雇主单方面权力的扩张，使其得以借助解雇、临时合同或普遍化的不稳定就业状态等合同不安全感，强行要求工人提高劳动强度和速度。",
+      "vocab": [
+        {
+          "word": "sindicatos",
+          "translation": "工会，劳工联合会",
+          "note": "西班牙最具代表性的两大工会为『CCOO（工人委员会）』和『UGT（总工会）』，在劳动法和新闻报道中频繁出现，是理解西班牙劳动关系的关键词。"
+        },
+        {
+          "word": "desregulación",
+          "translation": "去监管化，放松管制",
+          "note": "前缀『des-』表示否定或逆转，与『regulación（监管）』结合，同类词如『descentralización』『desindustrialización』『desempleo』，是经济和政策新闻中的核心词汇。"
+        },
+        {
+          "word": "unilateral",
+          "translation": "单方面的，一方决定的",
+          "note": "前缀『uni-（单一）』加词根『lateral（侧面、方面）』，与『bilateral（双边的）』『multilateral（多边的）』构成一组对比词，在法律和外交文体中高频出现。"
+        },
+        {
+          "word": "temporalidad",
+          "translation": "临时就业状态，合同不稳定性",
+          "note": "在西班牙劳动语境中专指高比例的临时合同现象，西班牙曾长期是欧盟临时就业率最高的国家之一，该词是劳工议题报道中的核心术语。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Todolí <strong>desmonta</strong> mitos. Una mayor carga de trabajo no equivale a mayor productividad. La sobrecarga de trabajo perjudica tanto a la productividad como a la salud. También estima que la reducción de la jornada de trabajo no resuelve la cuestión. El gobierno propone reducir la jornada laboral, me parece muy bien. Pero si te reducen la jornada y te hacen trabajar más acabas igual de <strong>agotado</strong> y cuando llegas a tu casa no tienes energía para tus hijos.",
+      "zh": "托多利对一些迷思进行了驳斥。工作量更大并不等于生产效率更高——工作过载对生产力和健康都有害。他也认为缩短工时并不能从根本上解决问题：『政府提议缩短工作时间，我觉得很好。但如果工时缩短了，却让你干更多活，你最终同样精疲力竭，回到家也没有精力陪孩子。』",
+      "vocab": [
+        {
+          "word": "desmonta",
+          "translation": "驳斥，拆解，推翻（论点或迷思）",
+          "note": "『desmontar』本义为拆卸机械，引申为系统性地推翻某种论点或错误观念，固定搭配为『desmontar mitos/argumentos/teorías』，是新闻评论中的高频比喻用法。"
+        },
+        {
+          "word": "agotado",
+          "translation": "精疲力竭的，耗尽的",
+          "note": "由动词『agotar』派生，本义为耗尽资源，形容人时表示体力或精力完全耗尽，比『cansado（累）』程度更深，是描述职业倦怠的核心词汇。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Constata el fenómeno de la huida del trabajo que se produce cuando los jóvenes abandonan el empleo porque piensan que no vale la pena trabajar por lo que les pagan y los mayores prefieren la <strong>prejubilación</strong> porque no pueden soportar ciertas condiciones.",
+      "zh": "他记录了『逃离工作』这一现象：年轻人因认为以所得薪酬工作不值得而辞职离场，而年长工人则因无法承受某些工作条件而倾向于选择提前退休。",
+      "vocab": [
+        {
+          "word": "prejubilación",
+          "translation": "提前退休，早退休",
+          "note": "前缀『pre-（在……之前）』加『jubilación（退休）』，指在法定退休年龄之前离开劳动市场，通常通过与雇主协议或特殊计划实现，是西班牙劳动新闻中的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Considera prioritario una legislación protectora que mida la sobrecarga. Pone el ejemplo de Polonia que ha establecido un máximo de consumo de <strong>kilojulios</strong> de energía por hora en trabajos físicos: superada esa cantidad se entiende que se pone en peligro la salud de la persona. Otro campo en el que resulta necesario <strong>fortalecer</strong> el papel de los sindicatos.",
+      "zh": "他认为，当务之急是制定能够衡量工作过载的保护性立法。他举了波兰的例子：该国已为体力劳动设定了每小时能量消耗的千焦上限，一旦超过该数值，即视为对人体健康构成威胁。他还指出，这也是另一个需要强化工会作用的领域。",
+      "vocab": [
+        {
+          "word": "kilojulios",
+          "translation": "千焦（能量单位）",
+          "note": "国际单位制能量单位，1千焦=1000焦耳，在营养学中常见（食品热量标注），在本文中用于衡量体力劳动的能量消耗，体现了将劳动强度量化为物理指标的立法思路。"
+        },
+        {
+          "word": "fortalecer",
+          "translation": "强化，加强，巩固",
+          "note": "由『fuerte（强壮）』派生，后缀『-ecer』表示『使……变得』，同类词如『enriquecer（使丰富）』『debilitar（使削弱）』『establecer（建立）』，构词规律值得掌握。"
+        }
+      ]
+    }
+  ]
+}

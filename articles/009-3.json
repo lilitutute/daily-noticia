@@ -1,0 +1,127 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与社会",
+  "difficulty": "B2",
+  "wordCount": "约650词",
+  "title": "La adicción a las redes no es solo cosa de niños",
+  "subtitle": "网络成瘾不只是孩子的问题",
+  "resumenEs": "El juicio de Los Ángeles contra Meta y YouTube por generar adicción en menores abre la puerta a miles de demandas similares. Sin embargo, el artículo plantea que el problema no es exclusivo de los niños: los adultos también estamos enganchados a las redes sociales. Prohibir el acceso a los menores resulta insuficiente si los mayores no dan ejemplo, y la verdadera batalla contra la adicción digital se libra también en el hogar.",
+  "resumenZh": "洛杉矶针对Meta和YouTube使未成年人成瘾的诉讼为数千起类似案件开了先例。然而，本文指出这一问题并非未成年人所独有：成年人同样深陷社交媒体的成瘾困境。若长辈无法以身作则，单纯禁止未成年人使用网络远远不够，对抗数字成瘾的真正战场也在家庭之中。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Kaley G. M. nació en California hace 20 años. A los seis comenzó a ver vídeos de YouTube. Con ocho empezó a producir y a subir contenido a un canal que creó en esa plataforma. Un año después le regalaron su primer móvil y se abrió una cuenta en Instagram; después, entró en TikTok y más tarde en Snapchat. Según cuenta María Porcel, la corresponsal de este diario en Los Ángeles, desde los seis años, Kaley ha tenido ansiedad, depresión y problemas de <strong>dismorfia corporal</strong>. Sus abogados han tenido claro desde el principio que la culpa de su sufrimiento la tienen los <strong>algoritmos</strong> de las redes sociales, los filtros de belleza y el <strong>scroll infinito</strong> de estas plataformas, donde pasaba hasta 16 horas al día. Era adicta.",
+      "zh": "Kaley G. M.出生在加利福尼亚州，今年20岁。六岁时她开始在YouTube上看视频，八岁时开始在自己创建的频道上制作并上传内容。一年后她收到了第一部手机，注册了Instagram账号；此后又相继加入TikTok和Snapchat。据本报驻洛杉矶记者玛丽亚·波塞尔报道，从六岁起，Kaley就患有焦虑症、抑郁症和躯体变形障碍。她的律师从一开始就坚信，她所受苦难的根源在于社交媒体的算法、美颜滤镜以及这些平台的无限滚动功能——她每天在这些平台上花费多达16小时。她已经上瘾了。",
+      "vocab": [
+        {
+          "word": "dismorfia corporal",
+          "translation": "躯体变形障碍，体像障碍",
+          "note": "前缀『dis-』表示『异常、障碍』，可构成大量医学词汇，如『disfunción』（功能障碍）、『dislexia』（阅读障碍），掌握这一前缀有助于推断同类词汇的含义。"
+        },
+        {
+          "word": "algoritmos",
+          "translation": "算法",
+          "note": "『algoritmo』源自阿拉伯数学家al-Khwarizmi的名字，在科技新闻中指平台用于推送内容的自动化规则系统，是当代媒体批评话语中的核心词汇，注意其复数形式在讨论平台机制时更为常见。"
+        },
+        {
+          "word": "scroll infinito",
+          "translation": "无限滚动（功能）",
+          "note": "『scroll』是直接借自英语的外来词，在西语科技文体中已广泛使用，『scroll infinito』特指社交媒体平台设计中内容永不终止的滚动机制，是讨论平台成瘾性设计时的高频术语。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "En 2023, la familia de la joven denunció a las empresas propietarias de las redes que usaba su hija por generarle dependencia —alegaron que si ponían límites al uso de las aplicaciones, tenía ataques de pánico—. Las dueñas de TikTok y Snapchat llegaron a un <strong>acuerdo</strong> antes del comienzo del juicio y no han sido juzgadas, pero Meta —matriz de Facebook, Instagram y WhatsApp— y YouTube, de Google, siguieron adelante y han acabado condenadas: un jurado de Los Ángeles las considera culpables de generar adicción entre los menores y engancharlos a sus plataformas; además, las <strong>tilda</strong> de \"negligentes\", pues entiende que son conscientes de los riesgos de su diseño adictivo.",
+      "zh": "2023年，这名年轻女性的家人以使其女儿产生依赖为由，起诉了她所使用的各社交网络的所属公司——他们声称，一旦限制女儿使用这些应用程序，她就会出现恐慌发作。TikTok和Snapchat的所有方在庭审开始前达成了庭外和解，未被起诉；但Meta——Facebook、Instagram和WhatsApp的母公司——以及谷歌旗下的YouTube坚持应诉，最终被判有罪：洛杉矶一陪审团认定两家公司对使未成年人产生成瘾并将其留在平台上负有责任，并将其定性为『玩忽职守』，认为它们明知自身成瘾性设计存在风险。",
+      "vocab": [
+        {
+          "word": "acuerdo",
+          "translation": "和解协议，协议",
+          "note": "『llegar a un acuerdo』是法律和商业文体中的高频固定搭配，特指诉讼双方在庭审前或庭审中达成庭外和解，注意与『alcanzar un acuerdo』可互换使用，两者语义相同。"
+        },
+        {
+          "word": "tilda",
+          "translation": "将……定性为，给……贴上标签",
+          "note": "『tildar a alguien/algo de + 形容词/名词』是固定搭配，语气上带有主观评判甚至负面标签的含义，比中性的『llamar』或『considerar』更强调定性的主观性，在新闻评论中极为常见。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "El de Los Ángeles solo es el primero de los juicios que se han celebrado contra estas plataformas, pero hay miles de <strong>denuncias</strong> presentadas por familias y asociaciones que buscan proteger a los menores, y la demanda que ha ganado Kaley puede hacer que se presenten muchas más. Es lógico, muchísimos niños están enganchados a las redes y el contenido que se difunde en ellas les afecta, muchas veces negativamente.",
+      "zh": "洛杉矶的审判只是针对这些平台系列诉讼中的第一起，但目前已有数千起由家庭和社会团体提出的投诉，旨在保护未成年人，而Kaley胜诉的案件可能会引发更多类似诉讼。这是合乎逻辑的——大量儿童沉迷于社交网络，其中传播的内容对他们产生了影响，且往往是负面影响。",
+      "vocab": [
+        {
+          "word": "denuncias",
+          "translation": "投诉，举报，起诉",
+          "note": "『denuncia』在法律语境中指向当局正式提出的投诉或举报，与『demanda』（民事诉讼）有所区别：『denuncia』侧重于向检察机关或警方的举报行为，『demanda』则特指民事诉讼请求。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Pero al contrario del \"¿nadie va a pensar en los niños?\" que dice la esposa del reverendo Lovejoy en Los Simpson, en este asunto parece que solo vemos el problema en ellos. Yo mismo he escrito en este espacio sobre la necesidad de proteger a los menores de las plataformas, de limitar su uso y, sobre todo, de la importancia de <strong>formarlos</strong> para que conozcan lo bueno y lo malo de usarlas. Hay países que ya han tomado medidas: Francia ya <strong>tramita</strong> una ley para prohibir el acceso a los menores de 15 años, el presidente del Gobierno español anunció la misma medida para los menores de 16 y Australia ya la ha puesto en marcha, aunque los chicos ya se están saltando el veto.",
+      "zh": "然而，与《辛普森一家》中洛夫乔伊牧师的妻子所说的『难道没有人为孩子们想想吗？』相反，在这一问题上，我们似乎只看到了孩子身上的问题。我自己也曾在这个专栏写过保护未成年人免受平台侵害的必要性、限制其使用的必要性，以及最重要的——培养他们了解使用这些平台利弊的重要性。已有一些国家采取了措施：法国正在推进一项禁止15岁以下未成年人访问社交媒体的法律，西班牙政府首相宣布了针对16岁以下未成年人的同类措施，澳大利亚已付诸实施，尽管年轻人已经开始绕过这一禁令。",
+      "vocab": [
+        {
+          "word": "formarlos",
+          "translation": "培养他们，对他们进行教育",
+          "note": "『formar』在教育语境中指系统性地培养某人的知识、能力或价值观，比『enseñar』（教授）更强调全面塑造的过程，固定搭配为『formar a alguien para que + 虚拟式』，表示培养某人以使其能够做某事。"
+        },
+        {
+          "word": "tramita",
+          "translation": "正在推进（立法程序），办理",
+          "note": "『tramitar』指按照官方程序逐步推进某项事务，在政治和法律新闻中常用于描述法案的立法进程，固定搭配为『tramitar una ley/un proyecto de ley』，注意与『aprobar』（通过）的区别：前者指过程，后者指结果。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "A priori, estas políticas no están mal; es crucial proteger a los más vulnerables, pero ¿cómo vamos a prohibir a un menor que use las redes cuando sus hermanos mayores y sus padres están <strong>constantemente</strong> en ellas? ¿Cómo evitar que se conviertan en adictos a las pantallas cuando a la primera de cambio les plantamos delante un móvil con sus dibujos favoritos? ¿Cómo vamos a prohibir que se comuniquen —con los medios de hoy— con sus <strong>iguales</strong>?",
+      "zh": "从表面上看，这些政策并无不妥；保护最脆弱的群体至关重要。但当哥哥姐姐和父母都无时无刻不在刷社交媒体时，我们又如何能禁止未成年人使用呢？当我们一有机会就把播放着他们最爱动画片的手机塞到他们面前时，又如何防止他们成为屏幕成瘾者？我们又如何禁止他们用当今的方式与同龄人交流呢？",
+      "vocab": [
+        {
+          "word": "constantemente",
+          "translation": "不断地，持续地，无时无刻不",
+          "note": "『constantemente』由形容词『constante』加副词后缀『-mente』构成，西语副词的构词规律统一为『形容词阴性形式 + -mente』，如『frecuentemente』、『evidentemente』，掌握这一规律可快速识别大量副词。"
+        },
+        {
+          "word": "iguales",
+          "translation": "同龄人，同辈",
+          "note": "『iguales』在社会学和教育学语境中作名词使用，特指年龄、地位相近的同辈群体，是英语『peers』的对应表达，注意其在此处并非形容词『相等的』，属于典型的一词多义现象。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Por otro lado, como escribió el periodista David Streitfeld en The New York Times hace un par de semanas, este asunto nos afecta, pero lo dejamos de lado porque, al final, somos millones las personas que usamos las redes cada día, y también estamos enganchados: \"Esas tecnologías se han <strong>integrado</strong> en la vida humana en menos de una generación. Y eso no significa que la gente apruebe las redes sociales o le gusten. Sino que no pueden imaginarse la vida sin ellas\".",
+      "zh": "另一方面，正如记者大卫·斯特雷特菲尔德几周前在《纽约时报》上所写的，这一问题同样影响着我们，但我们却将其搁置一旁——因为归根结底，每天使用社交网络的有数以百万计的人，我们同样深陷其中：『这些技术在不到一代人的时间里已经融入了人类生活。这并不意味着人们认可社交媒体或喜欢它，而是他们无法想象没有它的生活。』",
+      "vocab": [
+        {
+          "word": "integrado",
+          "translation": "融入的，整合的",
+          "note": "『integrarse en』是固定搭配，意为融入某一群体、系统或生活方式，与『incorporarse a』近义，但『integrarse』更强调深度融合、成为不可分割的一部分，而非单纯加入。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Llevamos tiempo <strong>reflexionando</strong> sobre cómo afectan las redes a los menores y cómo protegerlos de los malvados \"tecnoligarcas\", pero quizá sea el momento de admitir que también los adultos hemos perdido el control y necesitemos pensar en nuestra adicción a internet, a tratar de levantar la cabeza del móvil. La batalla contra las apps no solo se gana en los tribunales, también se <strong>libra</strong> en casa.",
+      "zh": "我们已经思考了很长时间，探讨社交网络如何影响未成年人，以及如何保护他们免受邪恶『科技寡头』的侵害。但也许现在是时候承认，成年人同样已经失去了控制，我们也需要正视自己对网络的成瘾，尝试从手机屏幕上抬起头来。对抗应用程序的战役不仅在法庭上打响，也在家中展开。",
+      "vocab": [
+        {
+          "word": "reflexionando",
+          "translation": "反思，深思",
+          "note": "『reflexionar sobre algo』是固定搭配，意为对某一问题进行深入思考，比『pensar en』更强调系统性和批判性的思考过程，在评论和学术文体中语气更为正式。"
+        },
+        {
+          "word": "libra",
+          "translation": "（战役）打响，进行",
+          "note": "『librarse』本义为『摆脱』，但『librar una batalla/guerra』是固定搭配，意为『进行一场战斗』，本文结尾用『la batalla... se libra en casa』形成与『se gana en los tribunales』的对仗，是新闻评论中常见的修辞手法。"
+        }
+      ]
+    }
+  ]
+}
