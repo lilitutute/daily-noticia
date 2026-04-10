@@ -1,0 +1,134 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "人文·哲学",
+  "difficulty": "C1",
+  "wordCount": "约700词",
+  "title": "¿Cuán felices somos?",
+  "subtitle": "我们究竟有多幸福？",
+  "resumenEs": "El artículo reflexiona con ironía sobre la obsesión moderna por medir la felicidad a través de rankings mundiales, cuestionando si realmente sabemos qué es la felicidad. A través del ejemplo del reino de Bután y su Índice de Felicidad Nacional Bruta, el autor pone en duda la utilidad de tales mediciones. Apoyándose en el pensamiento de Schopenhauer, concluye que quizás lo que deberíamos medir no es la felicidad, sino la ausencia de dolor, que el filósofo consideraba la forma más realista de bienestar.",
+  "resumenZh": "本文以讽刺的笔调反思现代社会对幸福排名的痴迷，质疑我们是否真的知道幸福是什么。通过不丹王国及其「国民幸福总值」指数的例子，作者对此类测量的实际意义提出质疑。文章借助叔本华的思想得出结论：也许我们真正应该衡量的不是幸福，而是痛苦的缺失——哲学家认为这才是最现实的幸福形式。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Cada cierto tiempo vuelven a aparecer rankings mundiales de felicidad. El de este año viene desde Finlandia, mientras otros lo hacen desde distintas naciones y centros de investigación. Tales rankings vienen ordenados por países que pueden ser felices o menos felices que otros. Hace algunos años, Bután pasó por ser el país más feliz del <strong>orbe</strong>, y eso solo porque dicho lugar, ubicado en el borde oriental del Himalaya, constituye un reino budista que <strong>desechó</strong> el conocido PIB y lo cambio por el FNB, que es algo así como el Índice de Felicidad Nacional Bruta de ese país. Entonces, y en un momento en que nadie tiene suficientemente claro qué es la felicidad y qué habría que hacer o no hacer para lograrla, o en el que se manejan algunas definiciones harto banales en ambos sentidos, estamos ocupados de medir eso que no sabemos bien qué es o en qué consiste.",
+      "zh": "每隔一段时间，全球幸福排名就会再度出现。今年的排名来自芬兰，其他排名则来自不同国家和研究机构。这些排名按国家排列，有的国家比其他国家更幸福，有的则相反。几年前，不丹曾被认为是全球最幸福的国家，仅仅因为这个位于喜马拉雅山脉东缘的佛教王国抛弃了众所周知的GDP，转而采用FNB——即该国的「国民幸福总值」指数。然而，在一个没有人真正清楚幸福是什么、该如何追求或避免什么才能实现它的时代，在一个对幸福的定义往往极为肤浅的时代，我们却忙着去测量这个自己都说不清楚的东西。",
+      "vocab": [
+        {
+          "word": "orbe",
+          "translation": "世界，全球，天下",
+          "note": "orbe 是「世界、全球」的书面语和文学用词，比 mundo 更正式、更具文学色彩；常见于新闻标题和庄重文体中，如 en todo el orbe（遍及全球）；源自拉丁语 orbis（圆形、圆盘），暗含「圆形大地」的古典意象。"
+        },
+        {
+          "word": "desechó",
+          "translation": "抛弃，舍弃，丢弃",
+          "note": "desechar 意为「主动放弃、丢弃不用」，比 abandonar 更强调经过判断后的主动舍弃；常用于抛弃想法、方案、旧有标准等抽象事物；名词形式 desecho（废弃物、垃圾）在环保类文章中高频，注意两者词义差异。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "¿De dónde habrá surgido este <strong>obstinado</strong> afán por medirlo todo y con la más absoluta precisión? ¿Y por qué es tan bajo el turismo que llega a Bután y por qué <strong>decrece</strong> su población? En ese país hay nada menos que un Ministerio de la Felicidad y puedo imaginar a algún lugareño que marcha con una pancarta en la puerta de ese recinto, en la que pone: «¡No soy feliz!»",
+      "zh": "这种执着于用绝对精确度衡量一切的狂热究竟从何而来？为什么来不丹的游客如此之少，为什么它的人口还在减少？这个国家甚至设有一个「幸福部」，我不禁想象，某个当地居民或许正举着一块牌子在那栋建筑门口游行，上面写着：「我不幸福！」",
+      "vocab": [
+        {
+          "word": "obstinado",
+          "translation": "执拗的，固执的，顽固的",
+          "note": "obstinado/a 形容「固执己见、不肯改变」，语气比 terco 更书面，带有一种近乎盲目坚持的含义；此处修饰 afán（狂热、渴望），形成「执拗的狂热」这一讽刺性搭配；名词形式 obstinación（固执）在哲学和心理学文本中常见。"
+        },
+        {
+          "word": "decrece",
+          "translation": "减少，缩减，下降",
+          "note": "decrecer 意为「逐渐减少、缩减」，前缀 de- 表「向下、减少」，词根 crecer 意为「增长」；与 disminuir 近义，但 decrecer 更强调数量或规模的持续性下降趋势，常用于人口、经济数据等统计语境。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Los distintos países van cambiando de lugar de un ranking a otro, o dentro de un mismo ranking de una medición a otra efectuada un par de años más tarde que la anterior. Chile, por ejemplo, acaba de caer del lugar 45 al 50. ¿Qué nos pasó en ese <strong>lapso</strong>?",
+      "zh": "不同国家在各排名之间不断变换位置，或在同一排名中，从一次测量到几年后的下一次测量之间位次发生变化。例如，智利刚刚从第45位跌至第50位。在这段时间里，我们究竟经历了什么？",
+      "vocab": [
+        {
+          "word": "lapso",
+          "translation": "一段时间，时间间隔，期间",
+          "note": "lapso 指两个时间点之间的「间隔、时段」，是正式书面语；与 período 和 plazo 近义，但 lapso 更强调两个事件之间流逝的时间，且常用于较短的时间段；注意不要与英语 lapse（失误、失效）混淆，是假朋友。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "La literatura de auto ayuda y crecimiento personal suele hablar del «arte de la felicidad», y donde «arte» no se refiere a ninguna creación, sino simplemente a cualquier trabajo muy bien hecho, desde un tratamiento de conductos hasta una cirugía abdominal o de un pase gol que acaba de hacer un talentoso futbolista. Todos pasan a ser considerados «artistas en lo suyo», algo que también puede suceder <strong>tratándose</strong> de un muy buen punto que se consigue durante un partido de tenis o de un trabajo de <strong>fontanería</strong> que hemos encargado en nuestra casa a un buen y confiable maestro.",
+      "zh": "自助和个人成长类文学通常谈论「幸福的艺术」，而这里的「艺术」并不指任何创作，而仅仅指任何做得极好的工作——从根管治疗到腹部手术，或是一位天才足球运动员刚刚完成的助攻传球。所有人都被视为「各自领域的艺术家」，无论是网球比赛中打出的一记精彩得分，还是我们委托给一位技艺精湛、值得信赖的师傅在家里完成的管道维修工作，皆是如此。",
+      "vocab": [
+        {
+          "word": "tratándose",
+          "translation": "当涉及……时，就……而言",
+          "note": "tratándose de 是固定短语，意为「当涉及……的情况时」，相当于 en el caso de 或 cuando se trata de；这是 tratar 的众多用法之一——tratar de（关于）、tratarse de（是……的问题）、tratar con（与……打交道），需结合语境区分。"
+        },
+        {
+          "word": "fontanería",
+          "translation": "管道工程，水管安装，管道维修",
+          "note": "fontanería 指「水管安装与维修」这一行业，fontanero/a 是「水管工」；该词在西班牙西语中使用，拉美西语中更常用 plomería / plomero；词根来自 fuente（泉水、水源），体现了西语词汇的历史文化痕迹。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "De los desplazamientos de cada país por uno u otro de los rankings —unos al <strong>alza</strong> y otros a la baja— suelen dar cuenta algunos medios con singular entusiasmo para ver a cuáles de esos países le está yendo mejor y a cuáles peor.",
+      "zh": "对于各国在不同排名中的位次变动——有的上升，有的下降——一些媒体通常以异乎寻常的热情加以报道，热衷于比较哪些国家表现更好，哪些更差。",
+      "vocab": [
+        {
+          "word": "alza",
+          "translation": "上涨，上升，涨幅",
+          "note": "al alza 是固定搭配，意为「处于上升趋势」，与 a la baja（下降趋势）构成对立词组；在经济、股市和排名类新闻中极为高频，如 los precios están al alza（价格在上涨）；名词 alza 本身也可单独使用，意为「涨幅、上升」。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Sobre esto de felicidad, el destacado filósofo Arthur Schopenhauer (1788-1860), seleccionó en vida varios dichos y textos breves —fueron nada menos que medio <strong>centenar</strong> de ellos— acerca de lo que venimos hablando, esto es, la felicidad. Tales dichos y textos del filósofo germano no fueron escritos de una sola vez ni para formar parte de un mismo libro, sino que algún editor los fue recogiendo uno a uno para formar luego un solo volumen, <strong>titulándolo</strong> —cómo no— El arte de ser feliz, y varios de ellos concluyen que no hay búsqueda más eficaz de la felicidad, sea esta lo que sea, que evitar el dolor.",
+      "zh": "关于幸福这一话题，著名哲学家亚瑟·叔本华（1788-1860）在世时精选了若干格言与短文——多达整整五十篇——围绕我们正在讨论的主题，即幸福。这位德国哲学家的这些格言与短文并非一次性写就，也并非为同一本书而作，而是由某位编辑逐一收集，最终汇编成一卷，书名——理所当然地——定为《幸福的艺术》。其中多篇的结论是：无论幸福究竟是什么，追求幸福最有效的方式莫过于避免痛苦。",
+      "vocab": [
+        {
+          "word": "centenar",
+          "translation": "约一百，百余",
+          "note": "centenar 意为「约一百个」，medio centenar 即「约五十个」；西语中这类「集合数词」构词规律值得掌握：docena（约十二）、decena（约十）、veintena（约二十）、centena/centenar（约一百）——均可加 medio 表「一半」。"
+        },
+        {
+          "word": "titulándolo",
+          "translation": "将其命名为，给它取名为",
+          "note": "titular algo 意为「给……命名、取标题」，此处 titulándolo 是副动词结构，表示伴随动作「同时将其命名为……」；副动词（gerundio）在西语中表示与主句动作同时发生或紧随其后的动作，是书面语中常见的简洁表达方式。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "«Hay que abrir a la felicidad todas las puertas» —invitó el filósofo— aunque «al menos nueve décimas partes de nuestra felicidad se basan exclusivamente en la salud», concluyendo, con bastante realismo, que quien es inteligente no aspira a la felicidad, sino a la ausencia de dolor: «A la cabeza está la afirmación de que una felicidad absoluta y positiva no es posible, sino que tan solo se puede esperar un estado comparativamente menos <strong>doloroso</strong>. Comprender esto puede contribuir en mucho a que seamos <strong>partícipes</strong> del bienestar que la vida permite…». «Lo mejor que se puede encontrar en el mundo es un presente indoloro, tranquilo y soportable», anotó finalmente Schopenhauer.",
+      "zh": "「应当向幸福敞开所有的门，」哲学家如此劝诫——尽管「我们幸福的至少十分之九完全建立在健康之上」，他以相当现实的态度得出结论：聪明的人追求的不是幸福，而是痛苦的缺失：「首要的论断是：一种绝对而积极的幸福是不可能的，我们所能期待的，不过是一种相对而言痛苦较少的状态。理解这一点，将大有助于我们分享生命所允许的那份幸福……」「世间所能找到的最好之物，是一个无痛、平静、尚可承受的当下，」叔本华最终写道。",
+      "vocab": [
+        {
+          "word": "doloroso",
+          "translation": "痛苦的，令人痛苦的",
+          "note": "doloroso/a 来自 dolor（痛苦、疼痛），形容「令人感到痛苦的」；注意与 dolido/a（感到受伤的，情感上的）区分——doloroso 侧重客观描述某事物令人痛苦，dolido 侧重主观感受到被伤害；indoloro（无痛的）是其反义词，在医学语境中常见。"
+        },
+        {
+          "word": "partícipes",
+          "translation": "参与者，分享者",
+          "note": "partícipe 意为「参与某事、分享某物的人」；ser partícipe de algo 是固定搭配，意为「参与、分享某事物」；与 participante 相比，partícipe 更书面，且更强调「共同享有」而非单纯「参加活动」；动词形式为 participar。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Entonces, «si solo pensamos en escapar en lo posible del dolor y el sufrimiento», ¿no deberíamos medir este último y no aquello que llamamos «felicidad»?",
+      "zh": "那么，「如果我们只想着尽可能逃离痛苦与苦难」，我们难道不应该去衡量后者，而不是我们所谓的「幸福」吗？",
+      "vocab": [
+        {
+          "word": "sufrimiento",
+          "translation": "苦难，痛苦，折磨",
+          "note": "sufrimiento 由 sufrir（受苦）加名词后缀 -miento 构成，指持续性的精神或肉体苦难；与 dolor 相比，sufrimiento 更强调主观承受的持续过程，dolor 更偏向具体的疼痛感；两词在哲学和文学文本中常并列出现，形成递进语气。"
+        }
+      ]
+    }
+  ]
+}

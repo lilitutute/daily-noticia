@@ -1,0 +1,168 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技·健康",
+  "difficulty": "B2",
+  "wordCount": "约600词",
+  "title": "Esto es lo que pasa en tu cerebro si estás dos semanas sin un iPhone",
+  "subtitle": "如果两周不用iPhone，你的大脑会发生什么",
+  "resumenEs": "El periodista de CNN Bill Weir pasó 14 días sin su iPhone, sustituyéndolo por un teléfono básico, en un experimento científico que midió su actividad cerebral antes y después. Los resultados mostraron mejoras notables: mayor actividad cerebral, tiempos de reacción un 23% más rápidos y mejor conectividad neuronal. Además de los datos científicos, Weir describió cómo la ausencia del smartphone le obligó a replantear hábitos automáticos y le permitió estar más presente en su entorno. El artículo repasa también los principales efectos negativos del smartphone en el cerebro, como el brain rot, el brain drain, el Google Effect y la amnesia digital.",
+  "resumenZh": "CNN记者比尔·韦尔进行了一项科学实验：用一部基础手机替代iPhone生活14天，并在实验前后测量大脑活动。结果显示显著改善：大脑活动增强、反应时间提升23%、神经连接更有序。除科学数据外，韦尔还描述了没有智能手机如何迫使他重新审视自动化习惯，并让他更专注于周围的环境。文章还梳理了智能手机对大脑的主要负面影响，包括「脑腐」、「脑力流失」、「谷歌效应」和「数字失忆症」。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Durante medio siglo, Apple ha transformado como pocas empresas nuestra relación con la tecnología. El iPhone, en particular, ha pasado de ser un mero <strong>dispositivo</strong> a convertirse en una extensión de nuestro cuerpo que actúa como brújula, cámara, agenda, billetera, refugio y distracción.",
+      "zh": "半个世纪以来，苹果公司以少有企业能及的方式改变了我们与技术的关系。iPhone尤其如此——它已从一个单纯的设备，演变为我们身体的延伸，充当着指南针、相机、日程本、钱包、避风港和消遣工具。",
+      "vocab": [
+        {
+          "word": "dispositivo",
+          "translation": "设备，装置，器件",
+          "note": "dispositivo 在科技新闻中是「电子设备」的通用词，可指手机、平板、传感器等一切电子装置；与 aparato（器具，更口语）和 equipo（设备，多指成套设备）相比，dispositivo 更正式，且更常用于单个电子元件或智能终端。"
+        },
+        {
+          "word": "mero",
+          "translation": "单纯的，仅仅是，不过是",
+          "note": "mero/a 是强调「仅此而已、不过如此」的限定形容词，语气上带有轻描淡写或贬低的意味；un mero dispositivo 意为「只不过是一个设备」，与英语 mere 用法高度对应，是假朋友中难得的正面案例。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Por eso, <strong>desprenderse</strong> de él es impensable para muchos. Quien sí se ha atrevido ha sido Bill Weir, periodista de la CNN que, para celebrar el 50 aniversario de la compañía, se sometió a un radical experimento: pasar 14 días sin tocar su iPhone.",
+      "zh": "因此，对许多人来说，与它分离是难以想象的。敢于尝试的人是CNN记者比尔·韦尔——为庆祝苹果公司成立50周年，他接受了一项激进的实验：连续14天不碰自己的iPhone。",
+      "vocab": [
+        {
+          "word": "desprenderse",
+          "translation": "与……分离，放弃，摆脱",
+          "note": "desprenderse de algo 是固定搭配，意为「从某物上脱离、放弃某物」；前缀 des- 表「分离、去除」，prender 本义为「抓住、固定」，字面义为「把自己从……上解开」；比 separarse de 更强调主动放弃依附关系。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Durante ese período, metió el dispositivo en una caja y los sustituyó por un 'dumb phone', un teléfono básico tipo concha, sin pantalla táctil, sin aplicaciones, sin mapas interactivos, sin cámara de alta resolución. Solo llamadas, SMS y el viejo sistema T9 para escribir.",
+      "zh": "在此期间，他将手机锁进一个盒子，用一部「功能机」代替——一部翻盖式基础手机，没有触摸屏，没有应用程序，没有交互地图，没有高分辨率摄像头。只有通话、短信，以及古老的T9输入法。",
+      "vocab": [
+        {
+          "word": "sustituyó",
+          "translation": "替换，取代，用……代替",
+          "note": "sustituir A por B 是固定搭配，意为「用B替换A」；注意介词搭配：sustituir algo por algo（用……替换……），不要与 reemplazar 混淆——reemplazar A por/con B 同义，但 sustituir 更正式，且在科技和医学文体中更常见。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Weir colaboró con científicos de la Western University de Ontario, que midieron su actividad cerebral antes y después del experimento. Los resultados fueron muy <strong>llamativos</strong>. «Según todos los indicadores, mi cerebro había mejorado», cuenta. En concreto, su actividad cerebral aumentó, sus tiempos de reacción mejoraron un 23% y la <strong>conectividad</strong> neuronal apareció más organizada y coordinada.",
+      "zh": "韦尔与安大略省西部大学的科学家合作，他们在实验前后分别测量了他的大脑活动。结果非常引人注目。「根据所有指标，我的大脑有所改善，」他说。具体而言，他的大脑活动增强，反应时间提升了23%，神经连接也呈现出更有序、更协调的状态。",
+      "vocab": [
+        {
+          "word": "llamativos",
+          "translation": "引人注目的，显著的，惹眼的",
+          "note": "llamativo/a 来自 llamar（呼唤），字面义为「会呼唤注意力的」，既可形容颜色鲜艳、外表惹眼，也可形容数据或结果「显著、令人瞩目」；在新闻文体中修饰研究结果时语气偏中性，比 sorprendente（令人惊讶的）更客观。"
+        },
+        {
+          "word": "conectividad",
+          "translation": "连接性，连通性",
+          "note": "conectividad 由 conectar 加名词后缀 -idad 构成，-idad 是将形容词或动词转化为抽象名词的高频后缀，如 creatividad、flexibilidad、productividad；掌握这一构词规律可推断大量科技和学术词汇。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Al margen de los datos científicos, el periodista relató cómo la experiencia transformó su rutina: «Al principio era muy molesto. Te acostumbras como a cualquier otra cosa, pero luego te das cuenta de que eso se refleja en otras decisiones que tomo a lo largo del día». La ausencia de un smartphone, asegura, le obligó a <strong>replantearse</strong> hábitos cotidianos que daba por automáticos. «Me costaba más pedir un Uber con este teléfono tan <strong>torpe</strong> que ir en bicicleta o caminar», comenta.",
+      "zh": "除科学数据之外，这位记者还讲述了这段经历如何改变了他的日常：「起初非常烦人。你会像适应其他任何事情一样慢慢习惯，但随后你会意识到，这反映在我一整天所做的其他决定上。」他表示，没有智能手机迫使他重新审视那些被他视为自动化的日常习惯。「用这部笨手机叫Uber比骑自行车或步行更麻烦，」他说。",
+      "vocab": [
+        {
+          "word": "replantearse",
+          "translation": "重新审视，重新思考，反思",
+          "note": "replantearse algo 意为「重新提出并思考某问题」；前缀 re- 表「再次」，plantear 意为「提出（问题）」，合起来即「重新摆上台面审视」；在新闻和自我反思类文章中极为常见，比 reconsiderar 更强调从根本上重新审视。"
+        },
+        {
+          "word": "torpe",
+          "translation": "笨拙的，迟钝的，不灵便的",
+          "note": "torpe 形容人或物「笨拙、不灵活」；此处形容功能机操作不便，语气带有口语化的轻微抱怨；注意 torpe 不含英语 torpedo 的含义，是典型假朋友——torpedo 在西语中是「鱼雷」，与 torpe 词源不同。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "También experimentó cambios significativos en su interacción con los que le rodeaban: «No podía <strong>aislarme</strong> del mundo en mi teléfono como lo haría con un smartphone». Esto se tradujo, afirma, en una mayor conexión con el entorno. «Probablemente habría estado con el móvil mientras me cortaban el pelo. En cambio, tuve una conversación increíble con alguien».",
+      "zh": "他在与周围人的互动方面也经历了显著变化：「我无法像用智能手机那样，把自己隔绝在手机里。」他表示，这转化为与周围环境更深的连接。「如果有手机，我剪头发的时候大概会一直盯着屏幕。结果，我和一个人进行了一次很棒的对话。」",
+      "vocab": [
+        {
+          "word": "aislarme",
+          "translation": "将自己隔离，与……隔绝",
+          "note": "aislarse de algo/alguien 是固定搭配，意为「将自己与……隔绝」；动词 aislar 来自 isla（岛），字面义为「使成为孤岛」；在描述社交隔离或数字孤立时极为常用，名词形式 aislamiento（隔离、孤立）在新闻中同样高频。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "El hecho de estar más presente le ayudó igualmente a percibir que mirar el móvil es casi como un acto reflejo. «Noté que mi atención se <strong>desviaba</strong>. De verdad. Intentaba anotarlo en mi diario y sentí ese impulso de la memoria muscular que me empujaba a cogerlo», confiesa. El periodista subraya que, a lo largo del día, cogemos el móvil más de 200 veces, con lo que, desde su punto de vista, «el simple hecho de poder pasar junto a él sin mirarlo y sin cogerlo me pareció una <strong>victoria</strong>».",
+      "zh": "更专注于当下这件事同样帮助他意识到，看手机几乎是一种条件反射。「我注意到自己的注意力会飘走。真的。我试着在日记里记录这件事，却感受到一种肌肉记忆的冲动推着我去拿手机，」他坦言。这位记者强调，我们一天之中拿起手机超过200次，因此在他看来，「仅仅是能够从手机旁边经过而不去看它、不去拿它，就已经是一种胜利了」。",
+      "vocab": [
+        {
+          "word": "desviaba",
+          "translation": "偏离，转移，走神",
+          "note": "desviarse 意为「偏离轨道、转移方向」；la atención se desvía 是描述「注意力分散、走神」的固定表达；前缀 des- 表「偏离」，vía 意为「道路」，字面义为「偏离道路」；同族词 desvío（绕行、偏差）在交通和比喻语境中均常见。"
+        },
+        {
+          "word": "victoria",
+          "translation": "胜利，成功，战胜",
+          "note": "victoria 在此处用于日常语境，将克制拿手机的小事比喻为「胜利」，带有幽默的自嘲语气；这种将小事「英雄化」的表达方式在西语口语和新闻评论中很常见，体现了说话者对该行为难度的认可。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "En la última década, los científicos han intensificado su investigación sobre el impacto del smartphone en el cerebro. Aunque las conclusiones siguen evolucionando al ritmo <strong>acelerado</strong> de nuestros hábitos digitales, los estudios más recientes apuntan a relevantes efectos negativos sobre la atención, la memoria y el control <strong>cognitivo</strong>.",
+      "zh": "过去十年间，科学家们加大了对智能手机影响大脑的研究力度。尽管研究结论仍在随着我们数字习惯的快速演变而不断更新，但最新研究指向了对注意力、记忆力和认知控制的显著负面影响。",
+      "vocab": [
+        {
+          "word": "acelerado",
+          "translation": "加速的，快速的，急促的",
+          "note": "acelerado/a 来自 acelerar（加速），此处修饰 ritmo（节奏），al ritmo acelerado de 意为「以……的快速节奏」；注意 acelerado 也可形容人「急躁、冒失」，是一词多义词，需结合语境判断。"
+        },
+        {
+          "word": "cognitivo",
+          "translation": "认知的，认知方面的",
+          "note": "cognitivo/a 是心理学和神经科学的核心形容词，来自拉丁语 cognoscere（认识、了解）；control cognitivo（认知控制）、capacidad cognitiva（认知能力）是学术和科普新闻的固定搭配；后缀 -ivo 表「与……相关的」，同族词 cognición（认知）。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Uno de los fenómenos más estudiados es el 'brain rot', término <strong>popularizado</strong> en 2024 para describir el deterioro mental vinculado al consumo excesivo de contenido rápido y superficial en redes sociales, especialmente por el hábito del 'scrolling' (deslizamiento) continuo. Otro concepto estudiado es el 'brain drain' o 'drenaje cerebral', expresión <strong>acuñada</strong> en 2017 por investigadores de la University of Chicago tras demostrar que la mera presencia cercana del móvil, aunque no se esté usando, reduce la capacidad de concentración.",
+      "zh": "研究最多的现象之一是「脑腐」（brain rot）——这一术语于2024年广泛流传，用于描述因过度消费社交媒体上快速、浅薄内容而导致的精神退化，尤其与持续「刷屏」的习惯有关。另一个被研究的概念是「脑力流失」（brain drain），这一表达由芝加哥大学研究人员于2017年创造，他们证明：即便不在使用手机，仅仅是手机放在附近，也会降低专注力。",
+      "vocab": [
+        {
+          "word": "popularizado",
+          "translation": "被普及的，被广泛传播的",
+          "note": "popularizar 意为「使普及、使广为人知」，由 popular 加后缀 -izar 构成；-izar 是西语中将形容词或名词转化为动词的高频后缀，如 modernizar（现代化）、digitalizar（数字化）、normalizar（正常化）——掌握这一后缀可大幅扩展词汇量。"
+        },
+        {
+          "word": "acuñada",
+          "translation": "创造（新词），铸造，确立",
+          "note": "acuñar 本义为「铸造硬币」，引申为「创造新词或新表达」；acuñar un término/una expresión（创造一个术语/表达）是学术和新闻文体中描述词汇起源的固定搭配，比 inventar 更正式，且专用于语言创造领域。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "También destaca el llamado 'Google Effect', identificado por la Columbia University en 2011, que explica cómo tendemos a <strong>memorizar</strong> menos información cuando sabemos que podemos encontrarla fácilmente en internet. Esta dependencia de la tecnología estaría relacionada con la llamada 'amnesia digital', detectada en estudios recientes entre universitarios y asociada a una menor <strong>retención</strong> de datos por confiar en exceso en los dispositivos.",
+      "zh": "同样值得关注的是所谓的「谷歌效应」——由哥伦比亚大学于2011年发现，解释了当我们知道某些信息可以在网上轻松找到时，为何倾向于记忆更少的内容。这种对技术的依赖与所谓的「数字失忆症」有关——近期针对大学生的研究发现了这一现象，并将其与过度依赖设备导致的数据留存能力下降相关联。",
+      "vocab": [
+        {
+          "word": "memorizar",
+          "translation": "记忆，背诵，记住",
+          "note": "memorizar 意为「主动将信息存入记忆」，强调有意识地记忆；与 recordar（回忆起）和 aprender de memoria（背诵）有所不同——memorizar 侧重记忆的过程，recordar 侧重提取已有记忆，是认知科学类文章的高频动词。"
+        },
+        {
+          "word": "retención",
+          "translation": "留存，保留，记忆保持",
+          "note": "retención 来自 retener（保留、留住），在认知科学语境中专指「信息在记忆中的留存能力」；retención de datos/información 是神经科学和教育学报道的固定搭配；后缀 -ción 将动词名词化，同族词 retener（保留）、retentiva（记忆力）。"
+        }
+      ]
+    }
+  ]
+}
