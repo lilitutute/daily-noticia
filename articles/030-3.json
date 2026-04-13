@@ -1,0 +1,96 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "文化·媒体",
+  "difficulty": "C1",
+  "wordCount": "约500词",
+  "title": "La burbuja podcaster",
+  "subtitle": "播客泡沫",
+  "resumenEs": "Este artículo de opinión critica con ironía y humor el fenómeno del videopodcast contemporáneo: su estética clónica (sofás hundidos, neón, ladrillo visto), sus poses afectadas, su superficialidad intelectual y el uso indiscriminado de anglicismos. El autor lamenta que, en una época en que se lee poco, proliferen creadores de contenido que transmiten datos sin contrastar ni profundizar, y que el público los consuma sin espíritu crítico.",
+  "resumenZh": "这篇评论文章以讽刺和幽默的笔调，批判当代视频播客现象：千篇一律的美学（深陷沙发、霓虹灯、裸砖墙）、矫揉造作的姿势、浅薄的知识内容，以及对英语借词的滥用。作者感叹，在一个阅读越来越少的时代，内容创作者却大量涌现，传播着未经核实、缺乏深度的信息，而受众则毫无批判地照单全收。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "El videopodcast emergente que se caracteriza por la presencia de plantas, neón y ladrillo visto, pero —sobre todo— por tener en set sofás con mucho fondo (los tendrían de oferta en algún almacén para mayoristas), de modo que la postura del presentador siempre imita a un plátano, a un escriba egipcio, a un reloj <strong>derretido</strong> de Dalí. Añaden a la pose el clásico gesto la mano debajo del <strong>mentón</strong> con el índice junto a la mejilla, sugiriendo una escucha activa. A veces creo que están pensando en otra cosa, a tenor de los goles que les meten sus invitados.",
+      "zh": "新兴视频播客的标配：植物、霓虹灯和裸砖墙——但最重要的是，摄影棚里那些极度深陷的沙发（大概是在某家批发仓库打折买来的），让主持人的坐姿永远在模仿一根香蕉、一位埃及抄写员，或达利笔下融化的时钟。他们还在这个姿势上叠加一个经典手势：手托下巴，食指贴着脸颊，暗示自己在专注倾听。但看他们被嘉宾说的话带跑的样子，我有时觉得他们根本在想别的事。",
+      "vocab": [
+        {
+          "word": "derretido",
+          "translation": "融化的，软塌塌的",
+          "note": "derretido/a 来自 derretir（融化），本指固体受热液化；此处指达利名画《记忆的永恒》中软塌塌的时钟，用来比喻主持人瘫在深陷沙发里的姿态——这是西语评论写作中「文化引用」（referencia cultural）的典型手法，用一个众所周知的视觉意象瞬间传递嘲讽效果。"
+        },
+        {
+          "word": "mentón",
+          "translation": "下巴，颏部",
+          "note": "mentón 是「下巴」的正式解剖学用词，比口语化的 barbilla 更书面；两词近义，但 barbilla 更常用于日常口语，mentón 更常见于医学、美容和正式描述语境；此处与 mejilla（脸颊）、índice（食指）共同构成对「思考者姿势」的精准解剖式描写。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Mi tipo favorito de podcast es aquel en el que los participantes se ríen a <strong>carcajadas</strong>, pero de esos no hay tantos. Me gustan los que exploran algún tema en profundidad, pero es aquí donde la mayoría se <strong>estrellan</strong>; en vez de compartir conocimientos, vomitan datos curiosos <strong>hilvanados</strong> sin orden ni concierto tras patearse el resto de podcast del mismo tema, y de ahí las construcciones y malas traducciones que sufrimos a diario en todas partes: el [eventualmente] y el [actualmente], el [abusivo], el [controversial] y el [delusional], por no hablar de todas esas palabras anglosajonas que tienen un equivalente (anterior y preciso) en nuestro idioma. Pero no le vas a pedir peras al olmo de la viralidad.",
+      "zh": "我最喜欢的播客类型是参与者开怀大笑的那种，但这样的并不多。我喜欢深入探讨某个话题的播客，然而大多数人恰恰在这里翻车：他们不是分享知识，而是把听遍同类播客后搜集来的冷知识东拼西凑、毫无章法地堆砌出来。由此催生了我们每天在各处遭受的那些错误用法和劣质翻译：「eventualmente」（实为「最终」，被误用为「可能」）、「actualmente」（实为「目前」，被误用为「实际上」）、「abusivo」、「controversial」和「delusional」——更别提那些在我们语言中早有精确对应词的英语借词了。但你不能指望病毒式传播这棵榆树结出梨子来。",
+      "vocab": [
+        {
+          "word": "carcajadas",
+          "translation": "开怀大笑，哈哈大笑",
+          "note": "carcajada 指「响亮的大笑声」，reírse a carcajadas 是固定搭配，意为「开怀大笑、捧腹大笑」；比 reírse mucho 更生动，带有声音响亮、无法抑制的含义；近义表达 desternillarse de risa（笑得岔气）语气更夸张，soltar una carcajada（爆发出一阵大笑）则强调突发性。"
+        },
+        {
+          "word": "estrellan",
+          "translation": "碰壁，失败，撞毁",
+          "note": "estrellarse 本义为「猛烈撞击、摔碎」，引申为「彻底失败、碰壁」；estrellarse en/contra algo（在某事上碰壁）是口语和评论文体中描述努力落空的生动表达；与 fracasar（失败）相比，estrellarse 更强调「满怀冲劲却迎头撞上」的戏剧性失败过程。"
+        },
+        {
+          "word": "hilvanados",
+          "translation": "串联的，粗略拼凑的",
+          "note": "hilvanar 本义为裁缝术语「用疏针粗缝、假缝」，引申为「粗略地将内容串联起来」；hilvanados sin orden ni concierto（毫无章法地拼凑）中，sin orden ni concierto 是固定短语，意为「杂乱无章、毫无条理」；hilvanar 的比喻义暗含「表面连接、实则松散」的批评意味。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Me recomiendan a menudo podcasts sobre temas que me interesan. <strong>Rarísima</strong> vez me encuentro con algo que no sean miradas a cámara y una voz adelantándome que voy a escuchar «lo que nadie quiere que sepas». Tanto si se trata de podcast sobre temas <strong>ignotos</strong> (tan ignotos como la génesis de Toy Story) o de <strong>cháchara</strong> insustancial (donde no se ríe nadie, ni siquiera ellos), hay una puesta en escena que te advierte de la calidad del videopodcast: Hombre o mujer solo frente a la cámara con muñecos funkos de fondo. Hombre o mujer haciendo el escriba con el dedo índice sobre la mejilla. «Cinco cosas que no te habían contado sobre vivir en Yakutia. Uno: hace mucho frío».",
+      "zh": "人们经常向我推荐我感兴趣话题的播客。但极少情况下，我能遇到不是对着镜头眼神空洞、同时配着一个声音预告我即将听到「没人想让你知道的事」的内容。无论是关于所谓神秘话题的播客（神秘程度堪比《玩具总动员》的诞生始末），还是毫无营养的闲聊（连他们自己都笑不出来，更别说观众了），有一种布景会提前告诉你这个视频播客的质量：一男一女独自面对镜头，背景是一堆Funko公仔。一男一女摆出食指贴颊的抄写员姿势。「关于在雅库茨克生活，没人告诉过你的五件事。第一：非常冷。」",
+      "vocab": [
+        {
+          "word": "rarísima",
+          "translation": "极少，极罕见",
+          "note": "rarísima 是 rara 的绝对最高级（superlativo absoluto），加后缀 -ísimo/a 表「极度」；rarísima vez（极少情况下）是强调「几乎从不」的固定表达；西语最高级后缀 -ísimo 构词能力极强，可附加于大多数形容词，如 facilísimo、importantísimo，是B2以上必须掌握的构词法。"
+        },
+        {
+          "word": "ignotos",
+          "translation": "鲜为人知的，神秘的，不为人知的",
+          "note": "ignoto/a 来自拉丁语 ignotus（未知的），意为「鲜为人知、尚未被发现的」；是书面语和文学语体中的高级词汇，比 desconocido 更正式、更具古典色彩；作者在此处用 ignotos 带有强烈讽刺意味——将《玩具总动员》的诞生称为「神秘话题」，嘲讽播客将平庸内容包装成深奥秘密。"
+        },
+        {
+          "word": "cháchara",
+          "translation": "闲聊，废话，唠叨",
+          "note": "cháchara 是口语词，指「无意义的闲聊、废话连篇」，带有明显的贬义；与 charla（聊天，中性）和 conversación（对话，正式）相比，cháchara 专门用于批评内容空洞的谈话；在媒体批评语境中，cháchara insustancial（毫无营养的废话）是强烈的否定性表达。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Tiene gracia que en las épocas en las que menos se lee haya tanta gente interesada en escribir o en transmitir ideas, porque a priori para transmitir algo primero hay que conocerlo. Y como hay tanta gente sin <strong>pudor</strong>, nos topamos con un sinfín de videopodcast donde se le da <strong>pábulo</strong> a datos y opiniones que ni se contrastan ni se confrontan. Y tragamos como <strong>ocas</strong> en fábricas de paté.",
+      "zh": "有意思的是，在阅读最少的时代，却有那么多人热衷于写作或传播想法——而从逻辑上说，要传递某样东西，首先得了解它。正因为有那么多毫无羞耻心的人，我们才会遭遇数不尽的视频播客，在那里，未经核实、从不对质的数据和观点被大肆传播。而我们，就像鹅肝酱工厂里的鹅，照单全收。",
+      "vocab": [
+        {
+          "word": "pudor",
+          "translation": "羞耻心，廉耻，羞涩",
+          "note": "pudor 意为「羞耻感、廉耻心」，sin pudor（毫无羞耻心）是批评某人厚颜无耻、不知收敛的常用表达；pudor 还可指「性方面的羞涩、矜持」，需结合语境判断；近义词 vergüenza（羞耻、难为情）更口语，pudor 更书面，且更强调道德层面的自我约束意识。"
+        },
+        {
+          "word": "pábulo",
+          "translation": "养料，素材，推波助澜",
+          "note": "pábulo 本义为「食物、养料」，dar pábulo a algo 是固定搭配，意为「为某事提供素材、助长某事发展」，带有贬义，暗示「不应该被助长的东西却得到了滋养」；是C1以上书面语的精准表达，比 alimentar 或 fomentar 更具文学色彩。"
+        },
+        {
+          "word": "ocas",
+          "translation": "鹅",
+          "note": "oca 是「鹅」的西语词（也可用 ganso/a）；此处 tragamos como ocas en fábricas de paté（我们像鹅肝酱工厂里的鹅一样吞咽）是全文最精彩的比喻——鹅被强制填食以产出鹅肝酱，暗指观众被动地被灌输未经筛选的内容；这一比喻将「被动消费」与「强制喂食」画上等号，讽刺力度极强。"
+        }
+      ]
+    }
+  ]
+}

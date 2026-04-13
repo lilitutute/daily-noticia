@@ -1,0 +1,159 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会·时事",
+  "difficulty": "C1",
+  "wordCount": "约900词",
+  "title": "China, con 1.405 millones de habitantes, se enfrenta al abismo demográfico",
+  "subtitle": "拥有14.05亿人口的中国，正面临人口深渊",
+  "resumenEs": "China registró en 2025 solo 7,92 millones de nacimientos, la cifra más baja desde 1949, en una crisis demográfica que el académico Yi Fuxian atribuye a tres factores: la escasa renta disponible de los hogares, la caída de los matrimonios y el deterioro de los valores familiares provocado por décadas de planificación familiar. La 'Política del hijo único', vigente desde 1979, aceleró un declive que ahora resulta muy difícil de revertir, pese a las medidas natalistas del gobierno. El artículo ilustra la crisis a través del testimonio de Dajiao, una mujer de 40 años que se considera beneficiaria de dicha política y no desea más hijos.",
+  "resumenZh": "2025年，中国新生儿数量仅为792万，创1949年以来最低纪录。学者易富贤将这场人口危机归因于三个因素：家庭可支配收入偏低、结婚人数持续下降，以及数十年计划生育政策对家庭价值观的侵蚀。自1979年起实施的「独生子女政策」加速了这一衰退，如今即便政府推出各种鼓励生育措施，也极难逆转。文章通过40岁女性「大脚」的亲身证言呈现了这场危机——她自认是该政策的受益者，不愿再生育。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Dajiao no es más que una madre, pero prefiere no <strong>desvelar</strong> su identidad real. En esta China de silencios crecientes hasta los niños, <strong>menguantes</strong>, se han convertido en tema delicado. No son pues sus llantos, sino la ausencia de ellos, lo que quita el sueño a un país que sigue hundiéndose en su particular crisis demográfica.",
+      "zh": "「大脚」只是一位母亲，但她不愿透露自己的真实身份。在这个沉默日益蔓延的中国，就连孩子——越来越少的孩子——也已成为敏感话题。因此，让这个国家辗转难眠的，不是孩子的哭声，而是哭声的缺席——这个国家正持续深陷其特有的人口危机。",
+      "vocab": [
+        {
+          "word": "desvelar",
+          "translation": "透露，揭示，披露",
+          "note": "desvelar 有两个截然不同的义项：①揭示、披露（此处用法）②使人失眠；前缀 des- 表「去除」，velo 意为「面纱」，字面义为「揭开面纱」；巧妙的是，文章结尾处「quita el sueño」（令人失眠）与 desvelar 的第②义形成隐性呼应，是作者有意为之的文字游戏。"
+        },
+        {
+          "word": "menguantes",
+          "translation": "日益减少的，衰减的",
+          "note": "menguante 来自 menguar（减少、缩减），天文术语中指「月亏」（luna menguante，下弦月），引申为「数量持续减少的」；此处修饰 niños，与 crecientes（增长的）构成对比——silencios crecientes（日益增多的沉默）vs. niños menguantes（日益减少的孩子）——是文学性新闻写作的精妙对仗。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Las últimas cifras oficiales abren una nueva <strong>sima</strong>. Solo 7,92 millones de bebés nacieron en China a lo largo de 2025, según datos difundidos a principios de año por su Oficina Nacional de Estadística. Estos suponen una caída del 17% con respecto a los 9,54 millones de 2024, menos de la mitad de los 16,55 registrados hace una década en 2016, y la marca más baja que <strong>consta</strong> desde 1949, cuando comienzan los archivos formales.",
+      "zh": "最新官方数据揭开了一道新的深渊。据中国国家统计局年初发布的数据，2025年全年仅有792万名婴儿在中国出生。这一数字较2024年的954万下降17%，不足2016年1655万的一半，也是自1949年正式档案记录开始以来的最低值。",
+      "vocab": [
+        {
+          "word": "sima",
+          "translation": "深渊，深坑，无底洞",
+          "note": "sima 指地质上的「深坑、竖井」，比 abismo（深渊）更具地质学色彩；此处与标题中的 abismo 形成呼应，两词均比喻「极度严峻的危机处境」；abrir una sima（揭开一道深渊）是新闻评论中描述数据创历史新低的强烈隐喻表达。"
+        },
+        {
+          "word": "consta",
+          "translation": "有记录，见于档案，有据可查",
+          "note": "constar 在此处意为「有正式记录、见于文献」，是法律和新闻文体中表示「有据可查」的正式用词；la marca más baja que consta（有记录以来的最低值）是数据报道的常见句式；注意 constar de 则意为「由……组成」，是完全不同的用法，切勿混淆。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "El invierno demográfico representa un fenómeno global, pero sus <strong>gélidas</strong> manifestaciones en China resultan en gran medida <strong>autoinfligidas</strong>. La 'Política del hijo único', quizá la mayor campaña de ingeniería social en la historia de la humanidad, habría prevenido hasta 400 millones de nacimientos desde su entrada en vigor en 1979, la mayoría niñas. «El descenso de la fertilidad es un <strong>contagio</strong> global inevitable, como una enorme roca rodando cuesta abajo, y la 'Política del hijo único' le dio una patada decisiva, acelerando su caída», <strong>metaforiza</strong> Yi. «Será muy difícil para China volver a empujarla cuesta arriba».",
+      "zh": "人口寒冬是一种全球现象，但其在中国的冰冷表现，在很大程度上是自我造成的。「独生子女政策」或许是人类历史上规模最大的社会工程运动，自1979年实施以来，据估计已阻止了多达4亿名婴儿的出生，其中大多数是女孩。「生育率下降是一种不可避免的全球传染，就像一块巨石滚坡而下，而独生子女政策给了它决定性的一脚，加速了它的坠落，」易富贤以比喻道。「中国要再把它推回坡上，将极为困难。」",
+      "vocab": [
+        {
+          "word": "gélidas",
+          "translation": "冰冷的，极寒的",
+          "note": "gélido/a 意为「极度寒冷的」，比 frío 语气强烈得多，带有文学色彩；此处与 invierno demográfico（人口寒冬）形成隐喻延伸，gélidas manifestaciones 意为「冰冷的（即严酷的）表现」——这是新闻写作中「延伸隐喻」（metáfora extendida）的典型范例，值得学习。"
+        },
+        {
+          "word": "autoinfligidas",
+          "translation": "自我造成的，自食其果的",
+          "note": "autoinfligido/a 由前缀 auto-（自我）加 infligir（施加、造成）的过去分词构成；在政治和社会评论中指「自食其果的政策后果」；daño autoinfligido（自我伤害）在心理学语境中也常见；这一构词法（auto- + 动词过去分词）可类推出大量词汇，如 autoimpuesto（自我施加的）。"
+        },
+        {
+          "word": "contagio",
+          "translation": "传染，蔓延，扩散",
+          "note": "contagio 本为医学术语，此处用作比喻，将生育率下降比作一种在全球蔓延的「传染病」；这一隐喻与后文的「roca rodando cuesta abajo」（滚坡巨石）共同构成段落的双重比喻结构，是C1文学性新闻写作的修辞亮点。"
+        },
+        {
+          "word": "metaforiza",
+          "translation": "以比喻表达，用隐喻描述",
+          "note": "metaforizar 意为「使用隐喻来表达」，是新闻引语中描述说话者使用比喻手法的专业动词；比 compara 更精确地指出说话者在使用隐喻修辞；在文学评论和新闻写作分析中是C1以上的精准引述动词，与 ironiza（讽刺道）、apostilla（补充道）同属高级引述动词。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "El académico descompone el fenómeno en tres problemáticos factores. El primero, siempre, económico. «La renta disponible de los hogares representa entre el 60 y el 70% del PIB a nivel internacional, en Taiwán el 59%, pero en China solo el 44%, lo que hace que criar hijos resulte menos <strong>asequible</strong> para las familias chinas». Un informe publicado en 2024 por el Yuwa Population Research Institute concluía que el coste medio de mantener a un <strong>vástago</strong> hasta la mayoría de edad asciende en China a 538.000 yuanes (67.200 euros), más de 6,3 veces su PIB per cápita, frente al 4,11 de Estados Unidos o el 4,26 de Japón, solo superado por el 7,79 de Corea del Sur.",
+      "zh": "这位学者将这一现象分解为三个棘手的因素。第一个，永远是经济因素。「家庭可支配收入在国际上占GDP的60%至70%，台湾地区为59%，但中国大陆仅为44%，这使得养育子女对中国家庭而言负担更重。」北京育娲人口研究所2024年发布的一份报告得出结论：在中国，将一个孩子养育至成年的平均成本为53.8万元人民币（67,200欧元），是其人均GDP的6.3倍以上，而美国为4.11倍，日本为4.26倍，仅次于韩国的7.79倍。",
+      "vocab": [
+        {
+          "word": "asequible",
+          "translation": "负担得起的，可及的，实惠的",
+          "note": "asequible 意为「在经济或能力上可以承受的」，是经济和消费类新闻的高频词；注意不要与 accesible（可进入的、易接近的）混淆——asequible 侧重「价格或成本上的可负担性」，accesible 侧重「物理或社会层面的可及性」；英语对应词为 affordable。"
+        },
+        {
+          "word": "vástago",
+          "translation": "子女，后代，孩子",
+          "note": "vástago 本义为植物的「嫩芽、枝条」，引申为「子女、后代」；在正式书面语和文学文体中用于替代 hijo/a，语气更典雅；与 descendiente（后裔，更正式）和 retoño（嫩芽/孩子，更口语化）构成一组近义词，体现了西语词汇的丰富层次。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "El segundo factor de Yi es «fisiológico»: las mujeres casadas en edad fértil, simplemente, <strong>escasean</strong>. «El número de matrimonios cayó de 13,47 millones en 2013 a 6,11 en 2024, una tendencia que continuará». El tercer y último factor es cultural. «Décadas de políticas de planificación familiar y educación antirreligiosa han <strong>socavado</strong> los valores familiares», señala. «Una encuesta de 2022 reveló que, aunque el número medio de hijos deseados por las mujeres chinas era de 1,64, este descendía a 1,54 para las nacidas después de 1990 y a 1,48 para las nacidas después del 2000».",
+      "zh": "易富贤的第二个因素是「生理性」的：已婚育龄女性数量正在减少。「结婚人数从2013年的1347万对降至2024年的611万对，这一趋势将持续下去。」第三个也是最后一个因素是文化层面的。「数十年的计划生育政策和反宗教教育已经侵蚀了家庭价值观，」他指出。「2022年的一项调查显示，尽管中国女性平均期望生育子女数为1.64个，但1990年后出生的女性这一数字降至1.54，2000年后出生的则降至1.48。」",
+      "vocab": [
+        {
+          "word": "escasean",
+          "translation": "稀缺，短缺，越来越少",
+          "note": "escasear 意为「数量不足、越来越稀少」，是描述资源或人口短缺的正式动词；与名词 escasez（短缺、匮乏）同族；注意 escasear 是不及物动词，不能带宾语，而 escasez de algo（某物的短缺）则是名词搭配；在经济和人口学报道中极为高频。"
+        },
+        {
+          "word": "socavado",
+          "translation": "侵蚀，动摇，掏空",
+          "note": "socavar 本义为「在地下挖掘、掏空地基」，引申为「逐渐削弱、从根基上动摇」；socavar los valores/la confianza/las bases（侵蚀价值观/信任/基础）是政治和社会评论中的高频搭配；比 debilitar（削弱）更强调从内部、从根基处的破坏性侵蚀。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Todas estas circunstancias se <strong>plasman</strong> en el caso de Dajiao. Ha cumplido 40 años, tuvo un bebé a los 37 y no desea más. Influye el desembolso económico, pero <strong>subyace</strong> asimismo otro motivo: su propia experiencia como niña de la 'Política del hijo único'. «Crecí siendo hija única y fui feliz. Formo parte de una generación que creció sin hermanos en un país que no era rico y pudo disfrutar de la concentración de todos los recursos familiares». Por ello, no duda en considerarse una «beneficiaria de esa política».",
+      "zh": "所有这些情况都具体体现在大脚的案例中。她已年满40岁，37岁生了一个孩子，不想再生。经济支出是一个因素，但背后还潜藏着另一个原因：她自己作为独生子女政策下成长的女孩的亲身经历。「我作为独生女长大，我很快乐。我属于一代在不富裕的国家里没有兄弟姐妹长大、却能享受家庭全部资源集中投入的人。」因此，她毫不犹豫地将自己视为「那项政策的受益者」。",
+      "vocab": [
+        {
+          "word": "plasman",
+          "translation": "体现，具体呈现，凝结于",
+          "note": "plasmarse en algo 意为「以具体形式体现于某事物中」；动词 plasmar 来自 plasma（可塑物质），字面义为「赋予形状」，引申为「将抽象概念具体化、使之成形」；plasmarse en（体现于）是论述性文章中连接理论与案例的高频过渡表达。"
+        },
+        {
+          "word": "subyace",
+          "translation": "潜藏，深层存在，根植于",
+          "note": "subyacer 意为「潜藏在表面之下、作为深层原因存在」；前缀 sub-（在……之下）加 yacer（躺、存在），字面义为「躺在下面」；subyacer bajo/en algo（潜藏于……之下）是分析性文章揭示深层原因的精准用词，比 existir 或 haber 更强调「隐而不显」的特质。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Su testimonio ilustra las dificultades que afrontan las autoridades a la hora de revertir sus exigencias a la sociedad. Así, la represión ha dado paso a todo tipo de medidas <strong>natalistas</strong>, como una <strong>prestación</strong> nacional que concede a cada familia 3.600 yuanes (450 euros) anuales por cada descendiente menor de tres años, o la promesa de ampliar la cobertura de los seguros médicos para incluir los gastos derivados de los nacimientos. «Ahora es más fácil inscribir a los niños en las guarderías públicas», comenta Dajiao. «También hay más parques y más instalaciones infantiles. En mi urbanización, por ejemplo, instalaron de manera gratuita una zona de juegos». Nada, en cualquier caso, que le haga cambiar de opinión.",
+      "zh": "她的证言揭示了当局在扭转其对社会施加的要求时所面临的困难。就这样，压制让位于各种鼓励生育的措施，例如一项全国性补贴——每个三岁以下子女每年向家庭发放3600元人民币（450欧元）——以及扩大医疗保险覆盖范围、纳入生育相关费用的承诺。「现在把孩子送入公立托儿所更容易了，」大脚说。「也有了更多公园和儿童设施。比如在我的小区，他们免费安装了一个游乐区。」但无论如何，这些都不足以让她改变主意。",
+      "vocab": [
+        {
+          "word": "natalistas",
+          "translation": "鼓励生育的，促进出生率的",
+          "note": "natalista 来自 natalidad（出生率），指「以提高出生率为目标的」政策或措施；medidas natalistas（鼓励生育措施）是人口学和政策新闻的专业术语；与之对应的 antinatalista（限制生育的）在讨论独生子女政策时同样高频。"
+        },
+        {
+          "word": "prestación",
+          "translation": "补贴，福利，津贴",
+          "note": "prestación 在社会福利语境中指「政府或机构提供的经济补贴或服务」，如 prestación por desempleo（失业救济金）、prestación por maternidad（生育津贴）；与 subsidio（补贴，更强调经济援助）和 ayuda（援助，更口语）近义，但 prestación 更正式，且强调制度性保障。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "La disminución generalizada de los nacimientos es síntoma de un problema profundo en la esencia de la vida comunitaria. «En las inscripciones en huesos <strong>oraculares</strong> [los textos más antiguos de la cultura china, originados en el siglo XIV a.C.] el carácter de 'emperador' aparece como un pictograma del <strong>receptáculo</strong> de una flor, símbolo de fertilidad, lo que implica que la responsabilidad primordial del gobierno es sostener a la población». Una sabiduría tan ancestral como universal. «En 'El espíritu de las leyes', Montesquieu sostenía que el crecimiento de la población es un indicador clave de buen gobierno y prosperidad nacional», compara Yi. «Para restablecer la capacidad de regeneración de la población, se requieren reformas transformadoras, capaces de cambiar el paradigma en lo social, económico, político, cultural y ético», concluye. «Esto no es algo que pueda lograr un solo país; requiere colaboración a escala global».",
+      "zh": "出生人数的普遍减少，是社区生活本质中深层问题的症状。「在甲骨文（中国文化最古老的文字，起源于公元前14世纪）中，'帝'字呈现为一朵花的花托的象形文字，象征生育，这意味着政府最根本的责任是养育人口。」这是一种既古老又普世的智慧。「孟德斯鸠在《论法的精神》中主张，人口增长是良好治理和国家繁荣的关键指标，」易富贤援引道。「要恢复人口的再生能力，需要变革性的改革，能够在社会、经济、政治、文化和伦理层面改变范式，」他总结道。「这不是一个国家能够独立实现的，需要全球规模的合作。」",
+      "vocab": [
+        {
+          "word": "oraculares",
+          "translation": "甲骨的，神谕的，占卜的",
+          "note": "oracular 来自 oráculo（神谕、占卜），形容「与占卜或神谕相关的」；huesos oraculares 是「甲骨」的西语译法，指中国古代用于占卜的龟甲和兽骨，其上刻有中国最早的成熟文字体系；这一译法体现了西语新闻在处理文化专有名词时的翻译策略。"
+        },
+        {
+          "word": "receptáculo",
+          "translation": "容器，花托，承接物",
+          "note": "receptáculo 在植物学中专指「花托」（花朵各部分着生的茎端），来自拉丁语 receptaculum（容纳之所）；文中用于解释「帝」字的甲骨文字形——花托作为承载花朵的结构，象征孕育与生命的容纳；这一植物学术语在文化阐释语境中的运用，体现了C1文本的跨学科词汇特征。"
+        }
+      ]
+    }
+  ]
+}
