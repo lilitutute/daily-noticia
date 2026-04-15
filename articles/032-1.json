@@ -1,452 +1,198 @@
 {
   "date": "西语外刊阅读",
   "brand": "公众号【西语SuperO】",
-  "category": "政治·外交",
-  "difficulty": "C1",
-  "wordCount": "约2800词",
-  "title": "Intervención del presidente del Gobierno, Pedro Sánchez",
-  "subtitle": "西班牙首相佩德罗·桑切斯演讲（清华大学）",
-  "resumenEs": "En su conferencia en la Universidad de Tsinghua, Pedro Sánchez articula su discurso en torno a una metáfora central: el mapa que el jesuita Matteo Ricci tuvo que corregir en 1583 al comprender que el mundo no tenía un único centro. A partir de esta imagen, defiende que vivimos una multipolaridad irreversible —no un trasvase de hegemonías, sino una multiplicación de polos de poder y prosperidad— y que España y Europa eligen abrazarla con realismo y esperanza.\n\nPara que ese orden funcione, Sánchez identifica tres elementos imprescindibles. Primero, un multilateralismo reforzado: los organismos internacionales deben reformarse para ser más representativos y democráticos, con un Consejo de Seguridad renovado y, por primera vez, una mujer al frente de la ONU. Segundo, equilibrio comercial: el déficit con China —que creció un 18% en un año y representa el 74% del déficit total español— resulta insostenible y alimenta el aislacionismo europeo. Tercero, provisión compartida de bienes públicos globales: sin la colaboración activa de las grandes potencias, objetivos como la lucha climática o la erradicación de la pobreza son sencillamente inalcanzables.\n\nEl discurso se cierra retomando la metáfora inicial: los astronautas de la Artemis 2 contemplaron desde el espacio una esfera azul sin extremos ni fronteras. Esa visión es la que Sánchez propone como guía: ver el mundo tal y como es, no como dictan el poder o los prejuicios, y asumir que cooperar es el único deber a la altura del milagro que representa la vida humana en el universo.",
-  "resumenZh": "桑切斯在清华大学的演讲围绕一个核心隐喻展开：1583年，耶稣会士利玛窦来华后意识到世界并无唯一中心，将地图彻底重绘。以此为起点，他主张当今世界正经历不可逆转的多极化——不是霸权的转移，而是权力与繁荣极点的倍增——西班牙和欧洲选择以现实主义和希望的态度拥抱这一现实。\n\n为使多极秩序稳定运转，桑切斯提出三个要素。第一，强化多边主义：国际机构须改革，使其更具代表性和民主性，包括改革安理会，并呼吁历史上首次由女性领导联合国。第二，贸易平衡：与中国的贸易逆差一年增长18%、已占西班牙总逆差74%，不可持续，且助长了欧洲孤立主义。第三，共同提供全球公共产品：没有大国积极合作，气候行动、消除贫困等目标根本无法实现。\n\n演讲以重拾开篇隐喻收尾：阿尔忒弥斯2号宇航员从太空看到一个没有边缘、没有边界的蓝色球体。这一视角正是桑切斯所提出的指引：以世界本来的样子去看待它，而非以权力或偏见所规定的方式，并承认，与这个宇宙中的人类生命奇迹相匹配的责任，就是彼此理解、携手合作。",
+  "category": "科技与数字生活",
+  "difficulty": "B2",
+  "wordCount": "约700词",
+  "title": "Solo el 13% de los emails está escrito por personas y más de la mitad cae en el filtro de spam: \"No es un dato técnico, es un cambio estructural\"",
+  "subtitle": "仅13%的电子邮件由真人撰写，超过一半被垃圾邮件过滤器拦截：「这不是技术数据，而是结构性变革」",
+  "resumenEs": "Un análisis de Hostinger revela que el 87% del tráfico global de emails es generado por sistemas automatizados y que más de la mitad no supera los filtros de spam. Según el director regional de la compañía, el email ha dejado de ser un canal abierto para convertirse en un ecosistema filtrado por algoritmos, lo que supone un cambio estructural que afecta especialmente al marketing masivo y obliga a priorizar la reputación del remitente.",
+  "resumenZh": "Hostinger的一项分析显示，全球87%的电子邮件流量由自动化系统生成，超过一半无法通过垃圾邮件过滤器。该公司西班牙区域总监指出，电子邮件已从开放的沟通渠道演变为由算法高度过滤的生态系统，这一结构性变革尤其冲击了大规模营销邮件，并迫使发件人将声誉管理置于首位。",
   "paragraphs": [
     {
       "id": 1,
-      "es": "Respetados presidente y canciller de la Universidad de Tsinghua. Profesores, profesoras. Alumnos y alumnas de la Universidad de Tsinghua. Da jia hao.\n\nEs un verdadero honor estar en este <strong>templo del saber</strong>. Un <strong>referente</strong> global de docencia e investigación. Un lugar en el que los seres humanos exploramos los límites de la ciencia y de nuestra imaginación. Y también encontramos en esos límites nuevas formas de cooperar y de prosperar.\n\nPermítanme comenzar hablando precisamente de eso: de ciencia y también de imaginación. Con una historia que ocurrió no muy lejos de aquí, hace más de cuatro siglos.",
-      "zh": "尊敬的清华大学校长和教务长，各位教授，清华大学的同学们，大家好。\n\n能够置身于这座知识的殿堂，是我莫大的荣幸。这里是全球教学与研究的典范，是人类探索科学与想象力边界的地方，也是我们在这些边界之处寻得合作与繁荣新途径的地方。\n\n请允许我从这里谈起：谈科学，也谈想象力。从一个发生在距此不远、四百多年前的故事说起。",
+      "es": "La inteligencia artificial (IA) puede darle la <strong>puntilla</strong> a los correos electrónicos, una forma de comunicación cada vez menos usada, especialmente entre los jóvenes, que lo ven como un <strong>vestigio</strong> del pasado. Muchos usuarios reciben cada día un <strong>aluvión</strong> de emails que no les interesan lo más mínimo. Un análisis de Hostinger, uno de los principales proveedores mundiales de alojamiento y dominios web, revela uno de los motivos de esa <strong>intrascendencia</strong> que rodea a la mayoría de comunicaciones electrónicas que recibimos: el 87% del tráfico global de correos electrónicos es generado por sistemas automatizados, es decir, no están escritos por personas. Otro dato muy llamativo de su informe es que solo el 44% de los emails pasaron los controles de seguridad (anti-spam y antivirus) de los destinatarios y lograron llegar hasta la bandeja de entrada.",
+      "zh": "人工智能（AI）可能会给电子邮件带来致命一击。电子邮件这种沟通方式的使用越来越少，尤其是在年轻人中间，他们将其视为过去的遗迹。许多用户每天都会收到大量对他们毫无吸引力的邮件。全球主要网络托管和域名服务商之一Hostinger的一项分析，揭示了我们所收到的大多数电子邮件显得无足轻重的原因之一：全球87%的电子邮件流量由自动化系统生成，也就是说，并非由真人撰写。报告中另一个引人注目的数据是，只有44%的电子邮件通过了收件人的安全检查（反垃圾邮件和防病毒），最终成功进入收件箱。",
       "vocab": [
         {
-          "word": "templo del saber",
-          "translation": "知识的殿堂",
-          "note": "templo del saber 是「知识殿堂」的固定表达，用于正式演讲中对大学或学术机构的崇高称谓；templo 本义为「神庙、圣殿」，将大学比作神圣场所，体现了对知识的崇敬；这是政治演讲和学术致辞中的经典开场修辞，属于「奉承听众」（captatio benevolentiae）的传统修辞策略。"
+          "word": "puntilla",
+          "translation": "致命一击；最后一击",
+          "note": "固定搭配 dar la puntilla，意为「给予致命一击、彻底终结某事」，源自斗牛术语，指最后补刀，常用于新闻中描述某事物的终结。"
         },
         {
-          "word": "referente",
-          "translation": "标杆，参照，典范",
-          "note": "referente 意为「可供参照的典范、标杆」，是当代西班牙语中极为高频的词汇，尤其在教育、商业和政治语境中；ser un referente（成为标杆）、referente mundial/global（全球标杆）是固定搭配；注意 referente 在此为名词，而非形容词，不要与 referido（所提及的）混淆。"
+          "word": "vestigio",
+          "translation": "遗迹；残余；痕迹",
+          "note": "常用于正式或书面语，指某事物消亡后留下的痕迹或残余，搭配介词 de，如 vestigio del pasado（过去的遗迹）。"
+        },
+        {
+          "word": "aluvión",
+          "translation": "大量涌来；洪流",
+          "note": "本义为「洪水、冲积物」，引申为比喻义「大量涌来的事物」，如 un aluvión de críticas（铺天盖地的批评），是新闻文体中的高频比喻词。"
+        },
+        {
+          "word": "intrascendencia",
+          "translation": "无足轻重；微不足道",
+          "note": "由前缀 in-（否定）+ trascendencia（重要性）构成，掌握该构词规律可类推 ineficacia、incapacidad 等大量同类词。"
         }
       ]
     },
     {
       "id": 2,
-      "es": "En 1583, un jesuita italiano llamado Matteo Ricci llegó a China. En su <strong>austero</strong> equipaje, traía consigo algunos libros, un astrolabio y un mapa del mundo.\n\nEra un mapa europeo. Correcto en sus proporciones, muy avanzado en el nivel del detalle, pero <strong>sesgado</strong> en su perspectiva. Porque lo que hacía era mostrar el mundo tal y como Occidente lo veía: con Europa en el centro y Asia en su margen derecho. En los confines de la tierra. Al verlo, los cartógrafos de la corte imperial le preguntaron al jesuita por qué aparecía China en aquel extremo de aquel mapa. Y el sabio europeo comprendió por primera vez que el Mar Mediterráneo era el centro de su mundo, pero no del de otros. Cada mundo tenía su centro y por eso Matteo Ricci <strong>rehízo</strong> por completo su mapa. Esta vez, usando como eje el océano Pacífico y capturando en él a todo el continente Euroasiático.",
-      "zh": "1583年，一位名叫利玛窦的意大利耶稣会士来到中国。他简朴的行囊中，带着几本书、一架星盘和一幅世界地图。\n\n那是一幅欧洲地图。比例准确，细节精良，但视角有所偏颇——它所呈现的，是西方眼中的世界：欧洲居于中心，亚洲位于右侧边缘，处于大地的尽头。看到这幅地图，皇家宫廷的制图师们问这位耶稣会士，为何中国出现在地图的那个角落。这位欧洲学者第一次意识到：地中海是他的世界中心，却不是其他人的世界中心。每个世界都有自己的中心。于是，利玛窦将地图彻底重绘，这一次以太平洋为轴心，将整个欧亚大陆纳入其中。",
+      "es": "La efectividad de los emails está cayendo. \"Lo que durante años fue una herramienta de comunicación entre personas se ha convertido en una <strong>infraestructura</strong> digital dominada por <strong>automatismos</strong>\", concluyen los autores del estudio, cuyas conclusiones se han sacado tras procesar 1.000 millones de emails anonimizados que se mandaron durante el mes de enero de 2026.",
+      "zh": "电子邮件的有效性正在下降。「多年来作为人与人之间沟通工具的电子邮件，已经演变为一种由自动化机制主导的数字基础设施」，研究报告的作者们如此总结。该报告的结论来自对2026年1月期间发送的10亿封匿名电子邮件的处理分析。",
       "vocab": [
         {
-          "word": "austero",
-          "translation": "简朴的，朴素的，简陋的",
-          "note": "austero/a 意为「摒弃奢华、崇尚简朴」，可形容人的生活方式、物品或风格；equipaje austero（简朴的行囊）暗示利玛窦作为传教士的清贫生活；名词 austeridad（紧缩、节俭）在经济语境中指「财政紧缩政策」，是近年欧债危机报道中的高频词，与此处的文化含义有所不同。"
+          "word": "infraestructura",
+          "translation": "基础设施；底层架构",
+          "note": "由 infra-（在……之下）+ estructura（结构）构成，前缀 infra- 还可生成 infrarrojo（红外线）、infravalorar（低估）等词，构词价值高。"
         },
         {
-          "word": "sesgado",
-          "translation": "有偏见的，偏颇的，带有倾向性的",
-          "note": "sesgado/a 来自 sesgo（偏差、倾斜），意为「带有主观偏见或单一视角、不客观的」；sesgo 在统计学中指「偏差」，在社会科学中指「认知偏见」；mapa sesgado（带有偏见的地图）是演讲的核心隐喻——地图的物理偏斜象征着认知的偏颇，这一双关贯穿全文。"
-        },
-        {
-          "word": "rehízo",
-          "translation": "重新制作，彻底重做",
-          "note": "rehízo 是 rehacer（重新做、彻底改造）的第三人称单数简单过去时；前缀 re-（再次）加 hacer（做），字面义为「重新做一遍」；rehacer un mapa/una vida/un acuerdo（重绘地图/重建生活/重新谈判协议）是该动词的常见搭配；不规则变位：rehago, rehaces... rehízo, rehícimos。"
+          "word": "automatismos",
+          "translation": "自动化机制；自动化行为",
+          "note": "后缀 -ismo 在此表示「某种机制或行为方式」，与 automatización（自动化过程）有细微差别，automatismo 更强调自动运作的状态或惯性。"
         }
       ]
     },
     {
       "id": 3,
-      "es": "Han pasado más de 400 años de aquello, más de 400 años. Pero todavía hay, por desgracia, gente que sigue viendo el mundo como aparecía en ese primer mapa <strong>distorsionado</strong> por Ricci. Digo distorsionado porque yo sé que el mundo no era así. Sé que, en el año 1583, China era ya una gran potencia que representaba una cuarta parte de la población y del PIB global. Que comerciaba con medio planeta. Y que lideraba la ciencia y la tecnología en muchos ámbitos.\n\nLo sé porque, por aquel entonces, España como bien nos ha recordado el presidente de la Universidad, también era un gran imperio. Un imperio que intercambiaba materias primas, bienes manufacturados con la Dinastía Ming a través del corredor de Manila. Y que <strong>surcaba</strong> los océanos con brújulas magnéticas, mosquetes, con timones de <strong>codaste</strong>. En definitiva, con tecnologías todas estas de origen chino.",
-      "zh": "那已是400多年前的事了，400多年前。然而遗憾的是，至今仍有人用利玛窦那幅被扭曲的地图的眼光来看世界。我说「被扭曲」，是因为我知道世界并非如此。我知道，在1583年，中国已是一个代表全球四分之一人口和GDP的大国，与世界许多地区进行贸易，并在诸多领域引领着科学与技术。\n\n我之所以知道，是因为彼时的西班牙——正如大学校长所提及的——也是一个大帝国。一个通过马尼拉走廊与明朝交换原材料和制成品的帝国，一个以磁罗盘、火枪和尾柱舵犁波斩浪的帝国——归根结底，这些技术全部源自中国。",
+      "es": "\"Hay algo que me parece especialmente relevante y que cambia por completo las reglas del juego: el email ha dejado de ser un canal abierto para convertirse en un <strong>ecosistema</strong> altamente filtrado por algoritmos de confianza\", explica Walter Guido, director regional de España en Hostinger. \"Que más de la mitad del tráfico global ni siquiera llegue a la bandeja de entrada no es un dato técnico, es un <strong>cambio estructural</strong>\".",
+      "zh": "「有一点我认为尤为重要，它彻底改变了游戏规则：电子邮件已不再是一个开放的渠道，而是演变成了一个由信任算法高度过滤的生态系统」，Hostinger西班牙区域总监Walter Guido解释道。「全球超过一半的邮件流量甚至无法进入收件箱，这不是一个技术数据，而是一种结构性变革。」",
       "vocab": [
         {
-          "word": "distorsionado",
-          "translation": "被扭曲的，失真的，变形的",
-          "note": "distorsionado/a 来自 distorsionar（扭曲、使失真），指「偏离真实形态或客观事实的」；在演讲语境中，桑切斯用 mapa distorsionado（被扭曲的地图）指代「以欧洲为中心的偏颇世界观」，将地理概念升华为认识论批判；distorsión de la realidad（对现实的扭曲）是政治话语中的常见表达。"
+          "word": "ecosistema",
+          "translation": "生态系统；（数字）生态圈",
+          "note": "在科技新闻中，ecosistema 常被用作比喻，指由多个相互依存的平台、工具或参与者构成的数字环境，是B2以上新闻文体的高频词。"
         },
         {
-          "word": "surcaba",
-          "translation": "犁波，穿越，纵横驰骋于",
-          "note": "surcar 本义为「犁地、开沟」，引申为「在水面或空中划出航迹、穿越」；surcar los océanos/los mares（犁波大洋/纵横海洋）是描述航海的文学性表达，比 cruzar（穿越）更具动感和史诗色彩；在诗歌和演讲中也用于 surcar los cielos（翱翔天际）。"
-        },
-        {
-          "word": "codaste",
-          "translation": "尾柱，尾龙骨（船舶术语）",
-          "note": "codaste 是造船术语，指「船尾的垂直结构支柱」，timón de codaste（尾柱舵）是中国发明的先进舵装置，使船只能够更精确地控制方向；桑切斯在此列举磁罗盘、火枪、尾柱舵，均为中国发明，用具体的技术细节强化「中国文明对世界的贡献」这一论点，体现了演讲准备的深度。"
+          "word": "cambio estructural",
+          "translation": "结构性变革",
+          "note": "新闻和经济类文章中的固定搭配，强调变化发生在底层机制层面而非表面现象，类似搭配还有 reforma estructural（结构性改革）。"
         }
       ]
     },
     {
       "id": 4,
-      "es": "La España de entonces conocía de la grandeza de China. Sabía que Beijing no era la <strong>periferia</strong> del mundo, sino uno de sus centros.\n\nY la España actual también lo sabe. Sabe que China está reconstruyendo su grandeza. Que es ya el primer exportador de bienes de todo el planeta y el cuarto en servicios. Que la industria y su ciencia están transformando la lucha contra el calentamiento global y también reduciendo la pobreza. Y que, como tal, China <strong>está llamada a</strong> jugar un papel esencial en el futuro del mundo.\n\nPor eso para mí, querido presidente, profesores y profesoras, es un auténtico honor el poder dirigirme a este centro de pensamiento como español y también como europeo.",
-      "zh": "彼时的西班牙深知中国的伟大，知道北京不是世界的边缘，而是世界的中心之一。\n\n今日的西班牙同样深知这一点。它深知中国正在重新走向强盛，知道中国已是全球最大的货物出口国、第四大服务出口国，知道中国的工业与科学正在改变应对全球变暖的格局，也在减少贫困。正因如此，中国注定要在世界的未来扮演举足轻重的角色。\n\n因此，对我而言，尊敬的校长、各位教授，能够以一个西班牙人、同时也是一个欧洲人的身份，在这座思想殿堂发表演讲，是莫大的荣幸。",
+      "es": "La mayor parte de los emails que circulan hoy en día son notificaciones, promociones, alertas y envíos <strong>transaccionales</strong> generados por plataformas empresariales, redes sociales, herramientas de software como servicio (SaaS) o sistemas de marketing. Es decir, contenidos poco atractivos. Aunque la IA generativa está contribuyendo a personalizar algo más los textos de los correos, el usuario detecta con una mirada si lo que tiene delante es una comunicación <strong>prefabricada</strong> y, en ese caso, tiende a <strong>desecharla</strong> o ignorarla.",
+      "zh": "如今流通的大多数电子邮件是由企业平台、社交网络、软件即服务（SaaS）工具或营销系统生成的通知、促销、提醒和事务性邮件，也就是说，都是吸引力不强的内容。尽管生成式AI正在帮助对邮件文本进行更多个性化处理，但用户一眼就能判断出面前的是否是一封预制的邮件，如果是的话，往往倾向于将其丢弃或忽略。",
       "vocab": [
         {
-          "word": "periferia",
-          "translation": "边缘，外围，外围地带",
-          "note": "periferia 本义为「圆的外围、边缘地带」，在地缘政治中指「处于权力或文明中心之外的边缘地区」；periferia vs. centro（边缘 vs. 中心）是后殖民主义理论的核心概念对；桑切斯用 Beijing no era la periferia del mundo（北京不是世界的边缘）直接挑战欧洲中心主义叙事，是演讲的核心政治立场之一。"
+          "word": "transaccionales",
+          "translation": "事务性的；交易性的",
+          "note": "假朋友提示：虽然形似英语 transactional，但在西语营销语境中特指由用户行为触发的自动邮件（如订单确认、密码重置），并非泛指「交易的」。"
         },
         {
-          "word": "está llamada a",
-          "translation": "注定要，肩负……使命",
-          "note": "estar llamado/a a + 动词不定式 意为「注定要、被召唤去做某事」，带有使命感和历史必然性的含义；这是政治演讲中表达「历史角色」的经典句式；比 tiene que（必须）或 debe（应当）更强调「命运与使命」的维度，常用于描述国家、机构或个人的历史担当。"
+          "word": "prefabricada",
+          "translation": "预制的；套路化的",
+          "note": "前缀 pre-（预先）+ fabricada（制造的），在此语境中比喻邮件内容千篇一律、缺乏真诚，掌握 pre- 可类推 predeterminado、preestablecido 等词。"
+        },
+        {
+          "word": "desecharla",
+          "translation": "丢弃它；舍弃它",
+          "note": "desechar 与 descartar 均有「舍弃」之意，但 desechar 更强调因无用而丢弃，语气比 descartar 更决断，常用于描述对垃圾信息的处理。"
         }
       ]
     },
     {
       "id": 5,
-      "es": "Hay quienes se <strong>obstinan</strong> en interpretar la realidad en clave de suma cero. En narrar el crecimiento de unos como una pérdida para el resto. O en argumentar que profundizar determinadas relaciones implica renunciar a otras.\n\nPero yo creo que esta lectura no es sólo es equivocada. Es también peligrosa, por <strong>inmovilista</strong>. Porque nos convierte en prisioneros del pasado y limita las posibilidades que nos ofrece el futuro. Porque incurre en el error de asumir que el mundo que vemos, de los mapas antiguos, es el único mundo posible.\n\nEn mi opinión, lo que está ocurriendo hoy en día no es un <strong>trasvase</strong> de hegemonías. Es una multiplicación de polos. No sólo de poder, sino también de prosperidad. Y esto es una gran noticia para Europa. Porque por primera vez en la historia contemporánea, el progreso <strong>germina</strong> de forma simultánea en muchos lugares del planeta.",
-      "zh": "有些人执意用零和博弈的逻辑来解读现实，将某些人的增长叙述为其他人的损失，或者论证深化某些关系意味着放弃其他关系。\n\n但我认为，这种解读不仅是错误的，还是危险的——因为它是守旧的。它将我们变成过去的囚徒，限制了未来向我们敞开的可能性。因为它犯了一个错误：以为我们在旧地图上看到的世界，是唯一可能的世界。\n\n在我看来，当今世界正在发生的，不是霸权的转移，而是极点的倍增——不仅是权力的极点，也是繁荣的极点。这对欧洲来说是一个好消息。因为在当代历史上，进步第一次在地球许多地方同时萌发。",
+      "es": "Pero la desconexión de los emails con el gran público no procede de la automatización. O no solo. \"Un correo escrito por una persona, pero enviado de forma masiva, sin <strong>consentimiento</strong> o sin <strong>segmentación</strong>, tiene muchas más papeletas de fracasar que uno automatizado, pero relevante y esperado\", ilustra Guido. La cuestión no es tanto quién lo escribe, sino para qué y cómo se envía.",
+      "zh": "但电子邮件与大众之间的脱节并非源于自动化，或者说不仅仅是自动化的问题。「一封由真人撰写、却以大规模群发方式发出、未经用户同意或缺乏受众细分的邮件，比一封自动生成但内容相关且在用户预期之内的邮件，失败的概率要高得多」，Guido举例说明道。问题与其说是谁来写，不如说是为何发、如何发。",
       "vocab": [
         {
-          "word": "obstinan",
-          "translation": "执意，固执坚持，一意孤行",
-          "note": "obstinarse en algo 意为「固执地坚持某种立场或做法，不顾劝阻」；比 insistir（坚持）更强调「顽固、不理性的执念」，带有批评色彩；obstinado/a（顽固的）是常见形容词；桑切斯用 hay quienes se obstinan（有些人执意）批评零和思维的持有者，语气中带有明显的不认同。"
+          "word": "consentimiento",
+          "translation": "同意；授权；许可",
+          "note": "在数字营销和数据保护语境中，consentimiento 是法律术语，指用户明确授权接收信息，与 GDPR 等隐私法规密切相关，语气比 permiso 正式。"
         },
         {
-          "word": "inmovilista",
-          "translation": "守旧的，抗拒变革的，保守僵化的",
-          "note": "inmovilista 指「反对变革、固守现状的」，名词 inmovilismo（守旧主义、抗拒变革）是政治评论的常见词；前缀 in-（否定）加 móvil（运动的），字面义为「不动的」；在政治语境中，inmovilista 是批评某种思想或政策「阻碍进步」的强烈负面标签。"
-        },
-        {
-          "word": "trasvase",
-          "translation": "转移，流转，从一处转向另一处",
-          "note": "trasvase 本义为「液体从一个容器倒入另一个容器」，引申为「权力、资源或人口从一方转移至另一方」；trasvase de hegemonías（霸权的转移）是地缘政治分析中的精准术语，暗指「旧霸主衰落、新霸主崛起」的零和叙事；桑切斯否定这一框架，提出「multiplicación de polos」（极点倍增）的替代叙事。"
-        },
-        {
-          "word": "germina",
-          "translation": "萌发，生根发芽，孕育",
-          "note": "germinar 本义为「种子发芽」，引申为「思想、运动或进程开始出现、生根」；el progreso germina（进步萌发）是将社会发展比作自然生长的有机隐喻，带有积极、充满生命力的含义；在政治演讲中，植物生长隐喻（如 germinar、florecer、brotar）常用于描述希望与新生，是修辞上的「生命力」策略。"
+          "word": "segmentación",
+          "translation": "细分；分众",
+          "note": "营销和传播领域的核心词汇，指按照特定标准将受众划分为不同群体，动词形式为 segmentar，后缀 -ción 表示动作或结果，构词规律强。"
         }
       ]
     },
-
-
-
-
-   {
-  "id": 6,
-  "es": "Lugares, además, que no se parecen entre sí. Que no tienen la misma cultura. Tampoco el mismo sistema político o tampoco las mismas condiciones sociales. Y que no necesitan pedir permiso a nadie para crecer. Eso está ocurriendo aquí en China, en Asia. Pero también en el continente africano, o también en una región muy próxima a España como es América Latina.\n\nEsa <strong>multipolaridad</strong> que describo no es una hipótesis. Tampoco es un deseo. Es ya una realidad. La nueva realidad en la que vive el mundo. Y, <strong>por tanto</strong>, debemos <strong>asumir</strong>la. No podemos cambiarla. Solo podemos elegir entre negarla o abrazarla.\n\nY el Gobierno de España, el conjunto de la sociedad española elige abrazarla. Lo hace desde el realismo, también desde el <strong>pragmatismo</strong> y, sin duda alguna, desde la responsabilidad. Pero me gustaría subrayar que lo hacemos también desde la esperanza. Porque pensamos que, si España, Europa y China supieron prosperar juntos en el pasado, no hay razones que puedan hacernos pensar que no podemos volver a hacerlo.",
-  "zh": "这些地方彼此各不相同，文化不同，政治制度不同，社会条件也不同，而且它们不需要向任何人请示便可自主发展。这正在中国、在亚洲发生，也在非洲大陆发生，还在与西班牙关系紧密的拉丁美洲发生。\n\n我所描述的这种多极化，不是一个假设，也不是一种愿望，而是已经成为现实——世界正在经历的新现实。因此，我们必须接受它，我们无法改变它，我们只能选择否认它，或者拥抱它。\n\n西班牙政府，整个西班牙社会，选择拥抱它。这种选择基于现实主义，也基于务实主义，毫无疑问，也基于责任感。但我想强调，我们同样是带着希望做出这一选择的。因为我们相信，如果西班牙、欧洲和中国曾经能够共同繁荣，就没有理由认为我们不能再次做到。",
-  "vocab": [
     {
-      "word": "asumir",
-      "translation": "接受（现实）；承担（责任）",
-      "note": "一词两义易混：asumir una realidad（接受现实）≠ asumir una responsabilidad（承担责任），前者强调认知层面的接纳，后者强调行动层面的担当，需根据搭配判断。"
-    },
-    {
-      "word": "multipolaridad",
-      "translation": "多极化，多极格局",
-      "note": "构词规律：multi-（多）+ polar（极点的）+ -idad（名词后缀），同样的构词逻辑可生成 pluralidad、flexibilidad、estabilidad 等大量政治新闻词汇，掌握 -idad 后缀可批量理解抽象名词。"
-    },
-    {
-      "word": "por tanto",
-      "translation": "因此，所以",
-      "note": "与 por lo tanto 完全同义，但 por tanto 更常见于正式演讲和书面语；与 sin embargo、no obstante 一起作为论述类写作的核心连接词掌握。"
-    },
-    {
-      "word": "pragmatismo",
-      "translation": "务实主义，实用主义",
-      "note": "后缀 -ismo 构成主义／思想流派词，同族词有 realismo、idealismo、populismo，掌握这一后缀可批量理解政治词汇。"
-    }
-  ]
-},
-
-    {
-      "id": 7,
-      "es": "Evidentemente, no va a ser fácil. Lo sabemos. Hay cuestiones, también, que nos separan. Asuntos en los que no compartimos la misma opinión. En los que competimos. También <strong>discrepamos</strong>. Puntos en los que no vamos a estar de acuerdo. Tal vez no logremos nunca estar de acuerdo.\n\nPero la humanidad avanza cuando construimos sobre lo que nos une. No cuando profundizamos las <strong>zanjas</strong> que nos dividen. Con ese espíritu trabajamos desde España con muchos otros países como Brasil, como India, como Sudáfrica, como México. Y por supuesto también en nuestras relaciones con China.\n\nLa propuesta de España, por tanto, es clara: es construir una relación basada en el respeto mutuo. Un respeto que nos permita, entre otras cosas, cooperar en todos los ámbitos posibles. Competir en lo que sea necesario. Y gestionar también nuestras diferencias cuando resulten inevitables.",
-      "zh": "显然，这不会容易。我们深知这一点。也有一些问题将我们分开——我们意见不一的事务，我们相互竞争的领域，我们存在分歧的地方，我们不会达成一致的议题，也许永远无法达成一致。\n\n但人类是在立足于共同点的基础上不断前进的，而不是靠加深彼此之间的鸿沟。西班牙正是带着这种精神与巴西、印度、南非、墨西哥等许多国家合作，当然也包括与中国的关系。\n\n因此，西班牙的主张是明确的：建立一种基于相互尊重的关系。这种尊重使我们能够在所有可能的领域开展合作，在必要之处展开竞争，并在分歧不可避免时妥善管控。",
+      "id": 6,
+      "es": "También hay un componente cultural. Las nuevas generaciones, directamente, lo consideran un canal de comunicación <strong>obsoleto</strong> y poco <strong>ágil</strong>. Incluso para temas laborales, donde ven mejor usar sistemas de mensajería instantánea vinculados al entorno profesional, como Slack. Para su vida privada, directamente, lo ignoran o limitan su uso a lo imprescindible, como recibir códigos cuando abren cuentas en plataformas.",
+      "zh": "这其中也有文化因素。新一代人直接将电子邮件视为一种过时且不够灵活的沟通渠道。即便是在工作事务上，他们也更倾向于使用与职业环境挂钩的即时通讯系统，比如Slack。至于私人生活，他们直接忽略电子邮件，或将其使用限制在不可或缺的场合，比如在平台上注册账户时接收验证码。",
       "vocab": [
         {
-          "word": "zanjas",
-          "translation": "沟壑，壕沟，鸿沟",
-          "note": "zanja 本义为「挖掘出的沟渠、壕沟」，引申为「将人或群体分隔开的深层分歧」；profundizar las zanjas que nos dividen（加深分裂我们的沟壑）是政治演讲中描述「激化矛盾」的有力隐喻；与 abismo（深渊）和 brecha（裂缝）构成同一语义场，但 zanja 更强调「人为挖掘、可以避免」的主动性。"
+          "word": "obsoleto",
+          "translation": "过时的；废弃的",
+          "note": "正式书面词，比口语中的 anticuado（老旧的）语气更强，常用于描述技术、制度或方法已被时代淘汰，在科技新闻中高频出现。"
         },
         {
-          "word": "discrepamos",
-          "translation": "存在分歧，意见相左，不一致",
-          "note": "discrepar de/en algo 意为「在某事上持不同意见、存在分歧」；比 no estar de acuerdo（不同意）更正式，且更强调「双方立场的客观差异」而非单方面的拒绝；名词 discrepancia（分歧）在外交和法律文书中极为常见；桑切斯在此将 competir（竞争）、discrepar（分歧）和 no estar de acuerdo（不一致）并列，展现了对中西关系复杂性的坦诚承认。"
+          "word": "ágil",
+          "translation": "灵活的；敏捷的；高效的",
+          "note": "一词多义：既可形容人动作敏捷，也可形容流程、工具高效便捷，在科技和管理语境中常见，注意与英语 agile 含义高度重合但并非假朋友。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Para Guido, el cambio estructural al que se refiere, el hecho de que menos de la mitad de los emails que se mandan lleguen a destino, tiene al menos dos <strong>derivadas</strong>. La primera: el mailing masivo como instrumento de marketing, tal y como se concebía hace años, está prácticamente <strong>amortizado</strong>. \"No porque haya dejado de funcionar en términos creativos, sino porque cada vez tiene más dificultades para superar los filtros de entrada\", apunta. La batalla no empieza en el contenido, sino en la entrega.",
+      "zh": "在Guido看来，他所提到的这一结构性变革——不到一半的邮件能够送达目的地——至少带来两个衍生影响。第一：大规模群发邮件作为营销工具，正如多年前所设想的那样，已基本走到了尽头。「不是因为它在创意层面失效了，而是因为它越来越难以突破入口过滤器」，他指出。这场战役不是从内容开始的，而是从送达开始的。",
+      "vocab": [
+        {
+          "word": "derivadas",
+          "translation": "衍生影响；派生结果",
+          "note": "本为数学术语「导数」，在新闻和分析文体中引申为「由某一情况衍生出的后果或影响」，是C1级别的一词多义词，体现西语书面语的隐喻性用法。"
+        },
+        {
+          "word": "amortizado",
+          "translation": "摊销完毕的；已走到尽头的",
+          "note": "本义为财务术语「摊销、还清」，在此语境中比喻某种做法已耗尽其价值、基本被淘汰，是新闻文体中常见的经济词汇转喻用法。"
         }
       ]
     },
     {
       "id": 8,
-      "es": "Y España defiende esta misma visión en todos los lugares del mundo y en todas las capitales. Lo hace en Madrid, nuestra capital. En Bruselas, la capital de Europa. Y lo hace en el resto del mundo de igual manera.\n\nPero para que esa visión funcione y para que el mundo pueda prosperar bajo el nuevo orden multipolar, necesitaremos tres cosas muy importantes a la hora de desarrollar en los próximos meses y años. Tres elementos que me gustaría compartir con todos ustedes.\n\nEl primero es que no es posible una <strong>multilateralidad</strong> eficiente sin un <strong>multilateralismo</strong> reforzado.",
-        "zh": "西班牙在世界各地、在所有首都捍卫同样的愿景——在我们的首都马德里，在欧洲的首都布鲁塞尔，在世界其他地方同样如此。\n\n但若要让这一愿景真正发挥作用，若要让世界在新的多极秩序下实现繁荣，那么在未来几个月乃至几年里推进这一进程时，我们需要三项非常重要的东西。三个要素，我希望与大家分享。\n\n第一个要素是：没有强化的多边主义，就不可能有高效运作的多边格局。",
-  "vocab": [
-    {
-      "word": "multilateralidad / multilateralismo",
-      "translation": "多边性 / 多边主义",
-      "note": "构词辨析：同一词根 multilateral 派生出两个词——-idad 后缀构成「客观状态/性质」（多边性），-ismo 后缀构成「原则/实践体系」（多边主义）；同样的规律适用于 pluralidad vs. pluralismo、neutralidad vs. neutralismo。"
+      "es": "La segunda: la confianza se ha convertido en la <strong>métrica</strong> principal. \"Antes medíamos aperturas o conversiones; ahora, el primer objetivo es mucho más básico y más exigente: ser considerado un <strong>remitente</strong> legítimo\". La reputación del remitente, es decir, que el sistema identifique al emisor como confiable o no, explica en un porcentaje muy alto (un 34%, según el estudio) los emails que se bloquean antes de llegar a la bandeja de entrada, al sospechar el sistema que pueden ser phishing (robo de información sensible mediante técnicas de suplantación de entidades legítimas), otros tipos de software malicioso o redes de bots.",
+      "zh": "第二：信任已成为最核心的衡量指标。「以前我们衡量的是打开率或转化率；现在，首要目标更基础也更苛刻：被视为合法的发件人。」发件人的声誉——即系统是否将发件方识别为可信——在很大程度上（据研究显示高达34%）解释了邮件在进入收件箱之前就遭到拦截的原因，因为系统怀疑这些邮件可能是网络钓鱼（通过冒充合法机构来窃取敏感信息）、其他类型的恶意软件或僵尸网络。",
+      "vocab": [
+        {
+          "word": "métrica",
+          "translation": "衡量指标；度量标准",
+          "note": "在数字营销和数据分析语境中，métrica 专指可量化的绩效指标（如点击率、转化率），是英语 metric 的直接对应词，属高频商业词汇。"
+        },
+        {
+          "word": "remitente",
+          "translation": "发件人；寄件人",
+          "note": "易混辨析：remitente 指发送方，destinatario 指接收方，两者在邮件和信件语境中成对出现，务必区分清楚。"
         }
       ]
     },
     {
       "id": 9,
-      "es": "Hay quienes creen que el sistema multilateral está muerto. Estamos viendo, por desgracia, muchos casos en los medios de comunicación de crisis, de guerras que están sucediendo en el mundo. Piensan que efectivamente, ese mundo multilateral está muerto, que es pasado. Y yo quiero decir aquí que <strong>discrepo</strong> profundamente de ese análisis. Y lo hago <strong>enérgicamente</strong>.\n\nYo pienso que los instrumentos de gobernanza global funcionaron en el siglo XX y que son hoy más necesarios que nunca. Que las reglas y la cooperación <strong>transfronteriza</strong> son las únicas herramientas que permitirán a la humanidad superar la emergencia climática y los demás desafíos de esta era.\n\nYo creo que el mundo multipolar necesita un sistema multilateral robusto, no para imponer una visión única, sino para convertir el <strong>crisol</strong> de nuestras miradas en una fortaleza para toda la humanidad. No para acabar con nuestras diferencias, sino para lidiar con ellas de forma pacífica, con respeto.",
-      "zh": "有些人认为多边体系已经死亡。我们遗憾地在媒体上看到了世界上正在发生的许多危机和战争。他们认为，那个多边世界确实已经死去，已成过去。我想在此明确表示，我对这一分析深感不认同，而且是强烈地不认同。\n\n我认为，全球治理工具在二十世纪发挥了作用，今天比以往任何时候都更加必要。规则和跨境合作是人类克服气候紧急状态及这个时代其他挑战的唯一工具。\n\n我相信，多极世界需要一个强健的多边体系——不是为了强加某种单一愿景，而是为了把我们多元视角的交汇与融合，转化为全人类的力量。不是为了消除我们的分歧，而是为了以和平、尊重的方式处理这些分歧。",
+      "es": "Lo más importante para que un email llegue a ser leído por su destinatario es, pues, que pase los filtros automáticos del servicio de correo electrónico. Si se consigue superar ese <strong>escollo</strong>, entran en escena otras cuestiones que pueden captar la atención del usuario, como el asunto del email. \"Ahí se suelen cometer errores, como ser excesivamente agresivo, artificioso o directamente engañoso. Eso puede generar aperturas <strong>puntuales</strong>, pero erosiona la confianza a largo plazo\", sostiene Guido.",
+      "zh": "因此，一封电子邮件能够被收件人读到，最重要的是通过邮件服务的自动过滤器。一旦成功跨越这道障碍，其他能够吸引用户注意力的因素才会登场，比如邮件的主题行。「在这方面往往会犯错，比如措辞过于强硬、矫揉造作，甚至直接带有欺骗性。这或许能带来一时的打开率，但会长期侵蚀用户信任」，Guido表示。",
       "vocab": [
         {
-          "word": "enérgicamente",
-          "translation": "强烈地，有力地，坚决地",
-          "note": "enérgicamente 是 enérgico/a（有力的、坚决的）的副词形式，意为「以充沛的力量和坚定的态度」；在政治演讲中，discrepo enérgicamente（强烈不认同）是表达立场鲜明反对的正式用语；比 firmemente（坚定地）更强调情感力度，比 rotundamente（断然地）更强调主动投入的能量。"
+          "word": "escollo",
+          "translation": "障碍；难关；暗礁",
+          "note": "本义为「水下礁石」，比喻义为「难以逾越的障碍」，常见于正式书面语和新闻文体，比 obstáculo 更具文学色彩。"
         },
         {
-          "word": "transfronteriza",
-          "translation": "跨境的，跨越国界的",
-          "note": "transfronterizo/a 由前缀 trans-（穿越）加 frontera（边界）构成，意为「跨越国家边界的」；cooperación transfronteriza（跨境合作）是国际关系和欧盟政策文件中的高频术语；在气候、卫生、安全等议题上，transfronterizo 强调问题的「无国界性质」，是论证多边主义必要性的关键词。"
-        },
-        {
-          "word": "crisol",
-          "translation": "熔炉，坩埚，多元汇聚之所",
-          "note": "crisol 本义为「冶金用的坩埚」，用于熔化和提纯金属；引申为「将不同元素融合成更强大整体的场所或过程」；crisol de culturas（文化熔炉）是描述多元文化融合的经典表达；桑切斯用 convertir el crisol de nuestras miradas en una fortaleza（将我们各异目光的熔炉转化为力量）暗示多元视角的融合能产生比单一视角更强大的力量。"
+          "word": "puntuales",
+          "translation": "一时的；个别的；偶发的",
+          "note": "典型假朋友：puntual 最常见义并非「准时的」，在此语境中意为「个别的、偶发的」，如 aperturas puntuales 指零星的打开行为，需根据语境判断含义。"
         }
       ]
     },
     {
       "id": 10,
-      "es": "Porque la multipolaridad sin reglas conduce a la rivalidad y de la rivalidad solo surgen guerras, conflictos comerciales y ruina.\n\nPor eso desde España llamamos a una renovación profunda de la <strong>arquitectura</strong> multilateral. Hay que hacerla más eficiente, más transparente, más responsable y también más inclusiva y plural.\n\nPorque si el multilateralismo quiere seguir siendo útil, tiene que cambiar y reflejar mejor los equilibrios de poder y las sensibilidades del mundo actual. No podemos permitir que el pasado <strong>asfixie</strong> el futuro de los organismos multilaterales.\n\nPor eso pienso que Occidente debe renunciar a parte de sus <strong>cuotas</strong> de representación en favor de la estabilidad global y la confianza de los países del sur.",
-      "zh": "因为没有规则的多极化将导致对抗，而对抗只会带来战争、贸易冲突和毁灭。\n\n因此，西班牙呼吁对多边体系架构进行深刻革新，使其更高效、更透明、更负责任，也更具包容性和多元性。\n\n因为多边主义若想继续发挥作用，就必须改变，更好地反映当今世界的权力平衡和各方关切。我们不能让过去扼杀多边机构的未来。\n\n因此，我认为西方必须放弃部分代表权份额，以取得全球稳定和南方国家的信任。",
+      "es": "Luego está el tema de la personalización. \"Cambiar el nombre del destinatario no es personalizar, es automatizar con maquillaje. El usuario detecta rápidamente cuándo hay un esfuerzo genuino detrás y cuándo no\", dice el ejecutivo de Hostinger. Por último está la frecuencia: \"Conviene no confundir <strong>visibilidad</strong> con <strong>saturación</strong>\", señala Guido.",
+      "zh": "接下来是个性化的问题。「更改收件人的姓名不是个性化，而是披着化妆品的自动化。用户能很快察觉背后是否有真诚的用心」，这位Hostinger高管说道。最后是频率问题：「最好不要把曝光度和信息过载混为一谈」，Guido指出。",
       "vocab": [
         {
-          "word": "arquitectura",
-          "translation": "架构，体系，制度框架",
-          "note": "arquitectura 在政治和制度语境中指「某一体系的整体结构与设计」；arquitectura multilateral/financiera/de seguridad（多边/金融/安全架构）是国际关系文献中的标准术语；将制度体系比作建筑，暗示其需要「设计、建造和维护」，是政策讨论中的常见隐喻。"
+          "word": "visibilidad",
+          "translation": "曝光度；可见度",
+          "note": "在营销语境中，visibilidad 指品牌或内容被受众看到的程度，后缀 -idad 将形容词 visible 转化为名词，同类构词如 credibilidad、rentabilidad 极为常见。"
         },
         {
-          "word": "asfixie",
-          "translation": "窒息，扼杀，使无法呼吸",
-          "note": "asfixiar 本义为「使窒息、剥夺氧气」，引申为「以压迫性方式阻止某事物发展」；que el pasado asfixie el futuro（让过去扼杀未来）是极具冲击力的政治隐喻，将守旧势力比作阻断氧气的力量；比 bloquear（阻碍）或 impedir（妨碍）更强调「致命性的扼杀」。"
-        },
-        {
-          "word": "cuotas",
-          "translation": "份额，配额，比例",
-          "note": "cuota 在国际组织语境中指「成员国在机构中的投票权、代表权或出资比例」；cuotas de representación（代表权份额）是讨论IMF、世界银行、联合国安理会改革时的核心术语；桑切斯呼吁西方让渡部分 cuotas 给南方国家，是对现行国际秩序的直接批评，在外交场合具有相当的政治分量。"
+          "word": "saturación",
+          "translation": "饱和；过载；信息轰炸",
+          "note": "在传播和营销语境中，saturación 指受众因接收信息过多而产生疲劳和抵触，与 visibilidad 形成对比，是分析用户体验时的高频词。"
         }
       ]
-    },
-    {
-      "id": 11,
-      "es": "Por eso pienso que debemos transformar cuanto antes las Naciones Unidas con una Asamblea General mucho más fuerte, con un Consejo de Seguridad más representativo y con un sistema de toma de decisiones más democrático en el que todas las regiones tengan de verdad voz y voto, y las potencias medias pueden jugar además un papel <strong>aglutinador</strong> y <strong>armonizador</strong>, que es lo que se espera de ellas.\n\nY también desde España pensamos que sería bueno que por primera vez en la historia una mujer liderara la Secretaría General de Naciones Unidas.",
-      "zh": "因此，我认为我们必须尽快改革联合国：建立一个更强大的联合国大会，一个更具代表性的安理会，以及一个更民主的决策体系——在这样的体系中，所有地区都应真正拥有发言权和投票权，而中等强国也能够发挥凝聚各方、协调彼此的作用——这正是人们对它们的期待。\n\n西班牙也认为，历史上第一次由女性担任联合国秘书长，将是一件好事。",
-      "vocab": [
-        {
-          "word": "aglutinador",
-          "translation": "凝聚的，团结各方的，黏合性的",
-          "note": "aglutinador/a 来自 aglutinar（将分散元素黏合在一起），意为「能够将不同力量或立场凝聚在一起的」；papel aglutinador（凝聚性角色）在外交语境中指「能够弥合分歧、促成共识的中间人角色」；桑切斯将此定性为中等强国（如西班牙）在多极世界中的独特价值，是演讲中的自我定位策略。"
-        },
-        {
-          "word": "armonizador",
-          "translation": "协调的，调和的，促进和谐的",
-          "note": "armonizador/a 来自 armonizar（使协调、使和谐），意为「能够调和不同立场、促进各方协调的」；与 aglutinador（凝聚）并列，构成对中等强国外交角色的完整描述：既能将各方聚拢（aglutinar），又能协调各方立场（armonizar）；这一双重角色定位是桑切斯为西班牙在国际舞台上设计的战略身份。"
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "es": "El segundo elemento que necesitaría compartir con todos ustedes es que ese nuevo orden multipolar debe funcionar y debe hacerlo con unas relaciones comerciales que sean equilibradas y <strong>recíprocas</strong>. No podemos pasar del desequilibrio del siglo XX a otro distinto en el siglo XXI.\n\nY para que ese desarrollo sea estable, sostenible, sano, el orden multipolar necesitará una economía más horizontal y más justa, en el que no haya regiones perdedoras y otras ganadoras, sino cadenas de suministro realmente globales que creen empleo, riqueza en todas las <strong>latitudes</strong> del planeta y compartan las <strong>externalidades</strong> negativas de forma proporcionada.",
-      "zh": "我想与大家分享的第二个要素是：新的多极秩序必须运转，而且必须建立在平衡和对等的贸易关系之上。我们不能从二十世纪的失衡走向二十一世纪另一种形式的失衡。\n\n为使这种发展稳定、可持续、健康，多极秩序将需要一种更加扁平、更加公正的经济——在这种经济中，不存在输家地区和赢家地区，而是真正全球化的供应链，在地球各个纬度创造就业和财富，并按比例分担负面外部效应。",
-      "vocab": [
-        {
-          "word": "recíprocas",
-          "translation": "对等的，互惠的，相互的",
-          "note": "recíproco/a 意为「双方对等、互相给予同等条件的」；relaciones comerciales recíprocas（对等贸易关系）是贸易谈判中的核心概念，强调「你给我什么，我给你什么」的对等原则；这是桑切斯对中欧贸易关系的核心诉求，与后文提到的贸易逆差直接相关。"
-        },
-        {
-          "word": "latitudes",
-          "translation": "纬度；（比喻）地区，各地",
-          "note": "latitud 本义为地理学「纬度」，引申为「地球上的各个地区、各个角落」；en todas las latitudes del planeta（在地球各个纬度/各地）是描述「全球范围」的文学性表达，比 en todo el mundo 更具地理感和诗意；在政治演讲中，这类地理隐喻能增强表达的宏观视野感。"
-        },
-        {
-          "word": "externalidades",
-          "translation": "外部效应，外部性",
-          "note": "externalidad 是经济学术语，指「某经济活动对非直接参与方产生的成本或收益」；externalidades negativas（负面外部效应）如污染、社会成本等，是市场失灵的经典案例；桑切斯在此将经济学专业术语引入政治演讲，要求各方「按比例分担负面外部效应」，实为呼吁中国承担更多全球化的社会和环境成本。"
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "es": "¿Por qué digo esto? Porque la Unión Europea está haciendo su parte. Se puede discutir si lo hace con mayor o menor rapidez, con dificultades, sin duda alguna, lo reconozco, pero está haciendo su parte.\n\nSolo en la última década hemos firmado acuerdos comerciales con 25 países. Hemos incrementado en un 80% nuestras importaciones del llamado sur global y hemos creado más de 25 millones de puestos de trabajo anuales fuera de nuestras fronteras.\n\nNecesitamos que China haga lo mismo. Que se abra para que Europa no tenga que cerrarse. Que nos ayude a corregir el actual <strong>déficit</strong> comercial que tenemos con ella.\n\nUn déficit que no es equilibrado, que creció nuevamente un 18% sólo el año pasado y que resulta <strong>insostenible</strong> para nuestras sociedades en el medio y en el largo plazo. Y es insostenible por los movimientos <strong>aislacionistas</strong> que alimenta y por los agravios y el dolor social que provoca. Para que se hagan una idea, nuestro déficit comercial con China supone ya el 74% del déficit total de nuestro país.",
-      "zh": "我为何这样说？因为欧盟正在尽自己的一份力。人们可以讨论它做得快还是慢，过程中也确实存在困难，这一点我承认，但欧盟确实在行动。\n\n仅在过去十年，我们就与25个国家签署了贸易协议，将来自所谓全球南方的进口增加了80%，并在欧盟之外创造了逾2500万个年度就业岗位。\n\n我们需要中国做同样的事——进一步开放自身，这样欧洲就不必走向封闭。我们希望中国帮助我们纠正当前与其之间的贸易逆差。\n\n这一逆差并不平衡，仅去年一年就再度增长了18%，从中长期来看对我们的社会而言是不可持续的。它之所以不可持续，是因为它助长了孤立主义运动，引发了社会不满和痛苦。举个例子，我们与中国的贸易逆差已占我国总逆差的74%。",
-      "vocab": [
-        {
-          "word": "déficit",
-          "translation": "逆差，赤字，不足",
-          "note": "déficit 在贸易语境中指「进口额超过出口额的差额」（贸易逆差），在财政语境中指「支出超过收入的差额」（财政赤字）；déficit comercial（贸易逆差）是本段的核心概念；注意西班牙语中 déficit 的复数形式为 déficits 或保持不变，视文体而定。"
-        },
-        {
-          "word": "insostenible",
-          "translation": "不可持续的，难以为继的",
-          "note": "insostenible 由前缀 in-（否定）加 sostenible（可持续的）构成，意为「在经济、社会或环境层面无法长期维持的」；resultar insostenible（变得不可持续）是政策辩论中描述某种状况「已到临界点」的警示性表达；桑切斯在此将贸易逆差定性为 insostenible，是向-施压的外交话语策略。"
-        },
-        {
-          "word": "aislacionistas",
-          "translation": "孤立主义的，保护主义的",
-          "note": "aislacionista 来自 aislacionismo（孤立主义），指「主张本国退出国际合作、以贸易壁垒保护本国市场」的政治倾向；movimientos aislacionistas（孤立主义运动）在此暗指欧洲内部因对华贸易逆差而兴起的保护主义和民粹主义浪潮；桑切斯以此警告：若不纠正贸易失衡，将助推欧洲的孤立主义，最终损害双方利益。"
-        }
-      ]
-    },
-
-
-
-
-
-    {
-  "id": 14,
-  "es": "Por tanto, creo que es importante que lo corrijamos, que cooperemos y que construyamos conjuntamente una economía globalizada, equilibrada, que genere prosperidad compartida. El tercer elemento que necesitaremos para que el orden multipolar funcione es una mayor <strong>implicación</strong> por parte de las grandes potencias y las medianas potencias en la gestión y la <strong>provisión</strong> de lo que los académicos llaman los bienes públicos globales. Por ejemplo, la lucha contra el cambio climático, la seguridad, la defensa, la lucha contra la desigualdad. En definitiva, potencias emergentes, potencias consolidadas debemos <strong>proveer</strong> esos bienes públicos globales. El tamaño no solo implica poder, también <strong>conlleva</strong> una responsabilidad que no se puede delegar. Porque los grandes problemas del siglo XXI no necesitan visado, cruzan fronteras y son de todos.",
-  "zh": "因此，我认为重要的是，我们应当共同纠正这一问题，相互合作，携手构建一个全球化、均衡的经济体系，创造共同繁荣。要使多极秩序有效运转，我们需要的第三个要素，是各大国和中等强国更多地参与管理和提供学者们所称的全球公共产品——例如应对气候变化、维护安全与防务、消除不平等。总而言之，无论是新兴大国还是成熟大国，我们都必须提供这些全球公共产品。体量不仅意味着权力，也意味着一种无法推卸的责任。因为二十一世纪的重大问题不需要签证，它们穿越国界，属于所有人。",
-  "vocab": [
-    {
-      "word": "implicación",
-      "translation": "参与，投入；牵连，含义",
-      "note": "一词多义陷阱：implicación 在政治语境中意为「积极参与、介入」（≈ participación），但在法律或日常语境中可指「牵连、涉案」，在逻辑语境中又可指「蕴含、含义」，需根据上下文判断。"
-    },
-    {
-      "word": "conllevar",
-      "translation": "意味着，附带，伴随（某种后果或责任）",
-      "note": "与 implicar 易混：conllevar 强调「必然附带某种后果或负担」，语气更重，多用于责任、代价等负面或严肃搭配；implicar 则更中性，泛指「涉及、意味着」。"
-    },
-    {
-      "word": "en definitiva",
-      "translation": "总而言之，归根结底",
-      "note": "固定搭配，用于演讲或论述中收拢前文多个论点、引出核心结论，语气比 en resumen 更强调「这才是本质」，是C1写作和口语的高频总结句式。"
     }
   ]
-},
-
-    {
-      "id": 15,
-      "es": "Pienso, por ejemplo, en la lucha contra el cambio climático o en los desafíos que provoca la salud global, en el desarrollo de una inteligencia artificial responsable, en el control del armamento nuclear, en la <strong>erradicación</strong> de la pobreza y en la <strong>salvaguarda</strong>, como he dicho antes, de la salud global. Ámbitos estos últimos en los que la financiación ha caído un 23% en este último año, un 23%.\n\nSin la colaboración de las grandes potencias y, por supuesto, también China, estos objetivos no son difíciles, son sencillamente <strong>inalcanzables</strong>. Sé que China es plenamente consciente y está haciendo mucho, y lo celebro. Pero creo que China puede hacer más.",
-      "zh": "我想到的，例如，是应对气候变化的斗争，是全球卫生带来的挑战，是负责任人工智能的发展，是核武器控制，是消除贫困，以及如我之前所说的，全球卫生的保障。在后几个领域，资金在过去一年已下降了23%——整整23%。\n\n没有大国的合作，当然也包括中国，这些目标不是困难，而是根本无法实现。我知道中国对此深有认知，也正在做出很多贡献，对此我表示赞赏。但我认为中国可以做得更多。",
-      "vocab": [
-        {
-          "word": "erradicación",
-          "translation": "根除，消灭，彻底消除",
-          "note": "erradicación 来自 erradicar（根除），词根 radix 意为「根」，字面义为「连根拔除」；erradicación de la pobreza（消除贫困）是联合国可持续发展目标（SDGs）的核心表述，也是国际发展话语中最高频的术语之一；比 eliminación（消除）更强调「从根源上彻底清除」的彻底性。"
-        },
-        {
-          "word": "salvaguarda",
-          "translation": "保障，保护，维护",
-          "note": "salvaguarda 意为「对某重要事物的保护与维护」，名词形式；动词 salvaguardar（保障、捍卫）同族；在国际法和政策文件中，salvaguarda de derechos/de la salud（权利/卫生保障）是正式用语；比 protección（保护）更强调「主动防御、防止受损」的制度性保障含义。"
-        },
-        {
-          "word": "inalcanzables",
-          "translation": "无法实现的，遥不可及的",
-          "note": "inalcanzable 由前缀 in-（否定）加 alcanzable（可实现的）构成；桑切斯在此刻意区分 difíciles（困难的）和 inalcanzables（根本无法实现的），这一语义升级是演讲中的修辞强化手法——不是「很难做到」，而是「根本不可能做到」，以此强调中国参与的绝对必要性。"
-        }
-      ]
-    },
-    {
-      "id": 16,
-      "es": "Por ejemplo, exigiendo, como está haciendo, que el derecho internacional se cumpla y cesen los conflictos en el Líbano, en Irán, en Gaza, en Cisjordania y también en Ucrania. Porque el derecho internacional es la base de todo. Compartiendo su tecnología con los países más <strong>desfavorecidos</strong>, <strong>condonando</strong> deuda, contribuyendo a la financiación del sistema mediante la participación en procesos de <strong>canje</strong>.",
-      "zh": "例如，像像中国现在正在做的那样，要求国际法得到遵守，并推动黎巴嫩、伊朗、加沙、约旦河西岸以及乌克兰的冲突尽快停止。因为国际法是一切的基础。与最弱势的国家分享技术，免除债务，通过参与债务互换进程为体系的融资作出贡献。",
-      "vocab": [
-        {
-          "word": "desfavorecidos",
-          "translation": "弱势的，处境不利的，贫困的",
-          "note": "desfavorecido/a 意为「在经济、社会或政治上处于不利地位的」；países desfavorecidos（弱势国家）在发展合作话语中是「发展中国家」或「最不发达国家」的委婉表达；前缀 des-（否定）加 favorecido（被优待的），字面义为「未获优待的」；比 pobres（贫穷的）更正式，且更强调结构性不平等而非单纯的经济状态。"
-        },
-        {
-          "word": "condonando",
-          "translation": "免除，豁免，减免（债务）",
-          "note": "condonar 在金融和外交语境中专指「免除债务、豁免还款义务」；condonar deuda（免除债务）是国际发展融资的核心机制之一，尤其在讨论非洲债务问题时极为高频；比 perdonar（原谅）更正式，且专用于债务和法律义务的豁免，不用于人际关系的宽恕。"
-        },
-        {
-          "word": "canje",
-          "translation": "互换，交换，兑换",
-          "note": "canje 意为「以物易物式的交换、互换」；procesos de canje de deuda（债务互换进程）是国际金融中的专业机制，指债权国将债务转换为债务国在环境保护、教育等领域的投资承诺；canje de deuda por naturaleza（债务换自然）是近年气候融资的热门机制；动词形式 canjear（兑换、互换）同族。"
-        }
-      ]
-    },
-    {
-      "id": 17,
-      "es": "Naturalmente, Europa también tendrá que <strong>redoblar</strong> sus esfuerzos sobre todo ahora que Estados Unidos ha decidido retirarse de muchos de estos frentes. La contribución de Europa es y será esencial. Por tanto, les pido <strong>humildemente</strong> que también ustedes lo vean así que no incurran en el error de Mateo Ricci y se dejen engañar por los mapas.\n\nPorque Europa puede parecer pequeña en un mapamundi, pero en realidad es todo lo contrario. Los datos son estos: la Unión Europea es en este momento el mayor bloque comercial del mundo y la segunda mayor economía. Es también el primer receptor de Inversión Extranjera Directa. Es el segundo ecosistema más innovador. Tiene también población cualificada. Es la segunda economía más productiva del planeta y la primera en niveles de satisfacción vital, de cohesión social y de bienestar.",
-      "zh": "当然，欧洲也必须加倍努力，尤其是在美国已决定从许多这些领域撤退的当下。欧洲的贡献过去是、将来也将是不可或缺的。因此，我谦逊地请求你们也这样看待这一问题——不要犯利玛窦的错误，不要被地图所蒙骗。\n\n因为欧洲在世界地图上看起来可能很小，但现实恰恰相反。数据如下：欧盟目前是全球最大的贸易集团，第二大经济体；也是外国直接投资的第一目的地；是第二大创新生态系统；拥有高素质人口；是全球第二大生产力经济体，也是生活满意度、社会凝聚力和福祉水平排名第一的经济体。",
-      "vocab": [
-        {
-          "word": "redoblar",
-          "translation": "加倍，倍增，进一步强化",
-          "note": "redoblar 意为「将某事物的力度或数量加倍」；redoblar esfuerzos/la presión/la vigilancia（加倍努力/压力/警惕）是政治和外交话语中的高频搭配；前缀 re-（再次）加 doblar（使加倍），字面义为「再次加倍」；比 aumentar（增加）更强调「在已有基础上进一步强化」的紧迫性。"
-        },
-        {
-          "word": "humildemente",
-          "translation": "谦逊地，谦卑地",
-          "note": "humildemente 是 humilde（谦逊的）的副词形式；les pido humildemente（我谦逊地请求你们）是外交演讲中的经典谦辞策略——说话者以谦卑姿态提出实则相当有分量的政治要求，以降低对方的防御性；这种「以退为进」的修辞手法在外交场合极为常见，体现了演讲者的高超话语技巧。"
-        }
-      ]
-    },
-    {
-      "id": 18,
-      "es": "Con esto no quiero presumir de nada ni ocultar muchas de nuestras <strong>carencias</strong>, que las tenemos. Con esto, lo que quiero decir es que Europa es un actor clave en la estabilidad, en la prosperidad y en la paz del mundo y que sin una Europa unida y, por tanto, <strong>fragmentada</strong>, no puede haber ni habrá un orden internacional estable ni un futuro próspero para la humanidad, como tampoco podrá haberlo sin la participación de este gran país que es China. Por eso estamos llamados a entendernos y a cooperar.",
-      "zh": "说这些，我不是要炫耀什么，也不是要掩盖我们的许多不足——那些不足确实存在。我要说的是，欧洲是世界稳定、繁荣与和平的关键力量；如果没有一个团结的欧洲，换言之，如果欧洲陷于分裂，就不可能有、也不会有稳定的国际秩序，也不会有人类繁荣的未来；正如没有中国这个伟大国家的参与，同样不可能实现。这正是我们注定要相互理解、携手合作的原因。",
-      "vocab": [
-        {
-          "word": "carencias",
-          "translation": "不足，缺陷，匮乏",
-          "note": "carencia 意为「某种必要事物的缺失或不足」；nuestras carencias（我们的不足）在此是桑切斯主动承认欧洲局限性的自谦表达，在修辞上起到「先抑后扬」的效果——承认不足，反而使后续对欧洲优势的论述更具可信度；carencia afectiva（情感缺失）、carencia de recursos（资源匮乏）是常见搭配。"
-        },
-        {
-          "word": "fragmentada",
-          "translation": "分裂的，碎片化的，四分五裂的",
-          "note": "fragmentado/a 来自 fragmentar（使碎裂），意为「被分割成无法协调运作的碎片」；此处桑切斯的逻辑是：「没有团结的欧洲」等同于「分裂的欧洲」（sin una Europa unida = una Europa fragmentada），这一等式是对欧洲内部分裂风险的隐性警告；fragmentación（碎片化）是当代欧洲政治讨论的核心焦虑之一。"
-        }
-      ]
-    },
-    {
-      "id": 19,
-      "es": "Estimados profesores y alumnos, <strong>concluyo</strong> ya. Cuatro siglos después de que Mateo Ricci llegase a China y tuviera que corregir su mapa, la humanidad sigue buscando el ángulo más justo para ver el mundo tal y como es, y no como dictan el poder o los <strong>prejuicios</strong>.",
-      "zh": "尊敬的各位教授和同学们，演讲就要结束了。四个世纪之后，在利玛窦来到中国并不得不修正他的地图之后，人类仍在寻找最公正的角度，去看清世界本来的样子，而不是权力或偏见所规定的样子。",
-      "vocab": [
-        {
-          "word": "concluyo",
-          "translation": "我就此结束，我来总结",
-          "note": "concluir 在演讲语境中意为「结束、作结」；concluyo ya（我就要结束了）是西语演讲中宣告进入结语的标准过渡句。"
-        },
-        {
-          "word": "prejuicios",
-          "translation": "偏见，先入为主的判断",
-          "note": "prejuicio 意为「在充分了解之前形成的负面判断或固有观念」；前缀 pre-（之前）加 juicio（判断），字面义为「预先的判断」；el poder o los prejuicios（权力或偏见）在此构成一对，指两种扭曲人们认识世界的力量——一种来自外部强制，一种来自内部认知局限；与演讲开篇的「mapa sesgado」（偏颇的地图）形成首尾呼应。"
-        }
-      ]
-    },
-    {
-      "id": 20,
-      "es": "Hace unos días, cuatro astronautas estadounidenses viajaron más lejos de la Tierra de lo que lo ha hecho ningún otro ser humano. Y, desde allí, obtuvieron quizá ese ángulo. Desde allí, vieron la Tierra como lo que es realmente: una <strong>esfera</strong> sin extremos ni fronteras.\n\nUna esfera azul única, <strong>irrepetible</strong>, en el entorno más <strong>hostil</strong> a la vida que pueda existir. Los humanos somos el resultado de ese milagro. Tal vez el único en el universo. Y, por tanto, nuestro deber es entendernos y cooperar para hacer que ese milagro siga prosperando.\n\nMuchas gracias. Xie xie.",
-      "zh": "几天前，四名美国宇航员飞离地球的距离，比任何人类以往都更远。从那里，他们或许获得了那样的视角：他们看到了地球真正的样子——一个没有边界、没有尽头的球体。\n\n一个蓝色的球体，独一无二，不可复制，存在于对生命最为严酷的环境之中。我们人类，是这个奇迹的产物。也许是宇宙中唯一的奇迹。因此，我们的责任是相互理解、携手合作，让这个奇迹继续繁荣。\n\n非常感谢。谢谢。",
-      "vocab": [
-        {
-          "word": "esfera",
-          "translation": "球体，球形；领域，范围",
-          "note": "esfera 本义为「球体、球形」，在此回归其最基本的几何含义——地球是一个球体，没有「边缘」也没有「中心」，从而在视觉上彻底否定了利玛窦第一幅地图的欧洲中心主义；esfera 同时也有「领域、范围」之义（如 esfera política，政治领域），但此处桑切斯刻意选用其物理含义，以宇宙视角为演讲画上句号，修辞上极为精妙。"
-        },
-        {
-          "word": "irrepetible",
-          "translation": "不可复制的，独一无二的，绝无仅有的",
-          "note": "irrepetible 由前缀 ir-（否定）加 repetible（可重复的）构成，意为「在宇宙中独一无二、无法被复制或替代的」；这一词在此承载了极大的哲学分量——地球不仅是我们的家园，更是已知宇宙中唯一孕育生命的地方；irrepetible 比 único（唯一的）更强调「这种唯一性的脆弱与珍贵」，为呼吁合作提供了最深层的存在主义理由。"
-        },
-        {
-          "word": "hostil",
-          "translation": "敌对的，充满敌意的，恶劣的",
-          "note": "hostil 意为「对某事物的存在或发展构成威胁的」；entorno hostil a la vida（对生命充满敌意的环境）指宇宙空间的极端条件——真空、辐射、极端温差——使地球上的生命显得弥足珍贵。"
-        }
-      ]
-    }
-  ],
-  "notas_finales": {
-    "estructura_retorica": {
-      "titulo": "演讲整体修辞结构分析",
-      "contenido": "桑切斯的演讲采用了经典的「框架叙事」（narrative framing）结构：以利玛窦的地图故事开篇，建立核心隐喻（地图=世界观），展开三大政策论点，最后以阿尔忒弥斯2号从太空俯瞰地球的意象收尾，完成隐喻的升华——从一幅被修正的平面地图，到从太空看到的真实球体，象征人类认知的终极进步。这种「开篇隐喻—论点展开—隐喻升华」的三段式结构，是政治演讲中最具感召力的修辞范式之一。"
-    },
-    "vocabulario_diplomatico": {
-      "titulo": "外交话语核心词汇总结",
-      "lista": [
-        "multipolaridad（多极化）— 演讲核心概念，贯穿全文",
-        "multilateralismo（多边主义）— 第一要素的关键词",
-        "bienes públicos globales（全球公共产品）— 第三要素的理论框架",
-        "déficit comercial（贸易逆差）— 对华贸易诉求的核心数据",
-        "respeto mutuo（相互尊重）— 中西关系定位的基础原则",
-        "suma cero（零和）— 被批判的错误思维框架",
-        "potencias medias（中等强国）— 西班牙的自我定位"
-      ]
-    }
-  }
 }
-
-
-
-
-

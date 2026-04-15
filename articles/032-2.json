@@ -1,0 +1,160 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "心理健康与科学研究",
+  "difficulty": "B2",
+  "wordCount": "约420词",
+  "title": "La música electrónica favorece la regulación emocional en jóvenes con ansiedad o depresión",
+  "subtitle": "电子音乐有助于焦虑或抑郁青年的情绪调节",
+  "resumenEs": "Un estudio de la Universidad de Valladolid revela que los conciertos de música electrónica pueden funcionar como mecanismo de regulación emocional colectiva para jóvenes con trastornos de adaptación. Los participantes con diagnóstico previo experimentaron una conexión emocional más profunda y transformadora, convirtiendo emociones negativas en estados positivos, mientras que quienes no tenían diagnóstico vivieron el evento principalmente como ocio.",
+  "resumenZh": "巴利亚多利德大学的一项研究揭示，电子音乐演唱会可以作为一种集体情绪调节机制，对患有适应障碍的青年尤为有效。有诊断的参与者体验到更深刻、更具转化性的情感连接，能将负面情绪转化为积极状态；而无诊断的参与者则主要将演唱会视为一种娱乐体验。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "La música electrónica como arma contra la depresión y la ansiedad. Contextos colectivos como los conciertos pueden convertirse en una herramienta de <strong>regulación emocional</strong> y <strong>contención</strong> afectiva para jóvenes con trastornos de adaptación, según un estudio desarrollado por el Laboratorio de Emprendimiento Social de la Universidad de Valladolid.",
+      "zh": "电子音乐，对抗抑郁和焦虑的利器。根据巴利亚多利德大学社会创业实验室开展的一项研究，演唱会等集体场合可以成为患有适应障碍的青年进行情绪调节和情感支撑的工具。",
+      "vocab": [
+        {
+          "word": "regulación emocional",
+          "translation": "情绪调节",
+          "note": "心理学核心固定搭配，搭配动词常为 favorecer、promover、facilitar la regulación emocional，在心理健康类文章中高频出现。"
+        },
+        {
+          "word": "contención",
+          "translation": "容纳；支撑；遏制",
+          "note": "典型一词多义词：在心理学语境中指『情感承托、提供安全感』，在政治或军事语境中则指『遏制、控制』，务必结合语境判断。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "La investigación, realizada durante un concierto del DJ Steve Aoki en el festival Cosquín Rock 2024, <strong>apunta a que</strong> los jóvenes con diagnóstico previo de trastornos de ajuste experimentan una conexión emocional más profunda, estable y transformadora que aquellos sin diagnóstico para quienes tiene un impacto más recreativo.",
+      "zh": "这项研究在2024年Cosquín Rock音乐节DJ Steve Aoki的演唱会期间进行，研究指出，有适应障碍既往诊断的青年所体验到的情感连接比无诊断的青年更深刻、更稳定、更具转化性，而对于后者来说，演唱会的影响更多是娱乐性的。",
+      "vocab": [
+        {
+          "word": "apunta a que",
+          "translation": "表明；指向；暗示",
+          "note": "学术和新闻文体中引出研究结论的常用固定搭配，后接陈述式，比 indica que 语气更谨慎，暗示结论尚未完全确定，常见于科研报道。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Para ello, se estudió a un grupo de veinte jóvenes adultos —diez con diagnóstico previo de trastornos de adaptación y diez sin él— durante el concierto, mediante una tecnología (Sociograph) que permite registrar la actividad electrodermal grupal como <strong>indicador</strong> de atención y emoción compartidas.",
+      "zh": "为此，研究人员在演唱会期间对二十名青年成人进行了研究——其中十名有适应障碍既往诊断，十名没有——借助一种名为Sociograph的技术，该技术能够记录群体皮肤电活动，作为共同注意力和共同情绪的指标。",
+      "vocab": [
+        {
+          "word": "indicador",
+          "translation": "指标；指示器",
+          "note": "学术和新闻文体高频词，由 indicar 加后缀 -dor 构成，表示『用于衡量或显示某事物的工具或数据』，同类构词如 regulador、generador 极为常见。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Los participantes con diagnóstico mantuvieron niveles elevados y constantes de conexión emocional a lo largo de todo el concierto, interpretando la experiencia como una forma de \"escape emocional\", relajación y desconexión del <strong>malestar</strong> cotidiano.",
+      "zh": "有诊断的参与者在整场演唱会中保持了持续且稳定的高水平情感连接，将这一体验诠释为一种『情感逃离』、放松以及从日常不适中抽离的方式。",
+      "vocab": [
+        {
+          "word": "malestar",
+          "translation": "不适；不安；不满",
+          "note": "由 mal-（不好）+ estar（状态）构成，可指身体不适，也可指心理上的焦虑或社会层面的不满情绪，前缀 mal- 还可生成 malentendido、malgastar 等词。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "En este grupo, emociones negativas como la ansiedad <strong>tendieron a</strong> transformarse, tras el concierto, en estados positivos como la felicidad, la sorpresa o el optimismo.",
+      "zh": "在这一群体中，焦虑等负面情绪在演唱会结束后，往往转化为快乐、惊喜或乐观等积极状态。",
+      "vocab": [
+        {
+          "word": "tendieron a",
+          "translation": "倾向于；往往",
+          "note": "tender a + 动词原形是表达『倾向性、规律性』的重要固定搭配，比 soler + 动词原形语气更正式，常用于学术文体描述统计趋势或行为规律。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Por el contrario, los jóvenes sin diagnóstico presentaron respuestas emocionales más variables y reactivas con <strong>picos</strong> de atención ligados a estímulos espectaculares concretos —como los efectos visuales o el lanzamiento de tartas al público—, pero sin una vivencia de transformación emocional <strong>sostenida</strong>.",
+      "zh": "相反，无诊断的青年表现出更多变、更被动反应式的情绪回应，注意力高峰与具体的视觉奇观相关联——如视觉特效或向观众抛蛋糕——但并未出现持续性的情感转化体验。",
+      "vocab": [
+        {
+          "word": "picos",
+          "translation": "峰值；高峰点",
+          "note": "本义为『山峰、鸟喙』，在数据和科学语境中引申为『峰值、最高点』，如 pico de atención、pico de demanda，是新闻和学术文体中的高频比喻词。"
+        },
+        {
+          "word": "sostenida",
+          "translation": "持续的；持久的",
+          "note": "易混辨析：sostenido 强调在一段时间内持续维持某种状态，continuo 更强调不间断，学术文体中 sostenido 更常用于描述情绪、增长等需要主动维持的状态。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Para ellos, el concierto fue valorado <strong>fundamentalmente</strong> como una experiencia de ocio, diversión y socialización.",
+      "zh": "对他们而言，演唱会从根本上被评价为一种休闲、娱乐和社交的体验。",
+      "vocab": [
+        {
+          "word": "fundamentalmente",
+          "translation": "从根本上；主要地；本质上",
+          "note": "在学术和新闻文体中用于强调某事物的核心性质或主要原因，比 principalmente 语气更强，暗含『这才是本质』的判断色彩。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "El análisis <strong>conjunto</strong> de los datos biométricos, los cuestionarios y la observación del entorno sugiere que la música electrónica puede actuar como un mecanismo de regulación emocional colectiva para jóvenes en situación de vulnerabilidad psicológica.",
+      "zh": "对生物特征数据、问卷调查和环境观察的综合分析表明，电子音乐可以作为一种集体情绪调节机制，对处于心理脆弱状态的青年尤为有效。",
+      "vocab": [
+        {
+          "word": "conjunto",
+          "translation": "综合的；联合的；整体的",
+          "note": "作形容词时意为『综合的、联合的』，如 análisis conjunto、esfuerzo conjunto；作名词时意为『整体、集合』，是典型的一词多义词，需注意词性变化。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "El estudio <strong>destaca</strong> que los temas con letra y los momentos de mayor carga sensorial generaron una respuesta emocional más estable en el grupo diagnosticado, mientras que los pasajes instrumentales y los estímulos visuales provocaron reacciones más fluctuantes en el grupo sin diagnóstico.",
+      "zh": "研究强调，有歌词的曲目和感官刺激最强的时刻，在有诊断的群体中引发了更稳定的情绪反应；而纯器乐段落和视觉刺激则在无诊断群体中引发了更多波动性的反应。",
+      "vocab": [
+        {
+          "word": "destaca",
+          "translation": "强调；突出；指出",
+          "note": "新闻文体中引出重要信息的高频动词，比 menciona 语气更强，暗示所引内容是作者或研究者认为最值得关注的部分，常见搭配还有 cabe destacar que。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Por otra parte, la experiencia compartida, la sincronización corporal y emocional y la intensa estimulación sensorial <strong>favorecen</strong> procesos de cohesión grupal y contagio emocional que <strong>amplifican</strong> el impacto afectivo de la música, especialmente en quienes parten de una mayor necesidad de regulación emocional.",
+      "zh": "此外，共同体验、身体与情感的同步以及强烈的感官刺激，有助于促进群体凝聚和情绪感染的过程，从而放大音乐的情感影响力，尤其对于那些有更强烈情绪调节需求的人而言更为显著。",
+      "vocab": [
+        {
+          "word": "favorecen",
+          "translation": "有利于；促进；助长",
+          "note": "favorecer 在学术文体中是表达『促进某一过程或结果』的核心动词，比 ayudar a 更正式，常用于描述条件与结果之间的促进关系，后直接接名词。"
+        },
+        {
+          "word": "amplifican",
+          "translation": "放大；增强；扩大",
+          "note": "源自拉丁语词根 ampli-（宽广），amplificar 在科学和媒体语境中均高频出现，同族词有 amplitud（幅度）、amplio（广泛的），词根迁移价值高。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Los autores aclaran que el estudio no <strong>plantea</strong> la música electrónica como terapia clínica, pero sí como un recurso cultural con potencial para complementar estrategias de promoción del bienestar psicológico en jóvenes, fuera de los entornos sanitarios tradicionales.",
+      "zh": "研究作者澄清，该研究并非将电子音乐定位为临床疗法，而是将其视为一种具有潜力的文化资源，可以在传统医疗环境之外，作为促进青年心理健康策略的补充。",
+      "vocab": [
+        {
+          "word": "plantea",
+          "translation": "提出；定位；设定",
+          "note": "plantear 是新闻和学术文体的高频动词，可接名词（plantear una pregunta）或从句（plantear que...），比 proponer 更强调『将某事作为议题或框架提出』。"
+        }
+      ]
+    }
+  ]
+}

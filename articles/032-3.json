@@ -1,0 +1,74 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "时事评论与人文随笔",
+  "difficulty": "C1",
+  "wordCount": "约350词",
+  "title": "Esa extinción de la que usted me habla",
+  "subtitle": "您所说的那场灭绝",
+  "resumenEs": "A partir de una conversación informal sobre si estamos solos en el universo y de una entrevista al astrofísico Michel Mayor, el autor reflexiona sobre la extinción inevitable de la humanidad. Lejos del dramatismo, propone que recordar nuestra finitud nos libera de lo superfluo y nos devuelve al presente.",
+  "resumenZh": "作者从一次关于宇宙中是否存在其他生命的闲聊出发，结合对天体物理学家米歇尔·马约尔的采访，思考人类不可避免的灭绝。他没有渲染悲剧色彩，而是认为，时常想起自身的有限性，反而能让我们从琐碎中解脱，回归当下。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "A veces no hace falta más: basta con saber valorarlo. Había una mesa, bebidas y unos bocadillos para el almuerzo, lo que en Valencia llamamos esmorzaret. De pronto, en uno de esos silencios que <strong>preceden</strong> a un estruendo, uno de los amigos se puso a pensar en la misión que le estaba dando la vuelta a la Luna, nos miró al resto y, aún con la boca medio llena, <strong>soltó</strong> su frase como si fuera igual que las demás frases: \"Pues yo no creo que estemos solos en el universo\". Le miramos. Nos miramos. Tratamos de <strong>apurar</strong> los bocadillos, que era lo único que podíamos hacer.",
+      "zh": "有时候不需要更多：懂得珍惜就够了。桌上摆着饮料和几个三明治当午餐，也就是我们瓦伦西亚人所说的esmorzaret。突然，在那种大喧嚣前夕特有的沉默里，一个朋友开始思考那项正在绕月飞行的任务，他看了看我们其他人，嘴里还塞着东西，就像说一句普通的话一样随口抛出了这句话：「我不觉得我们在宇宙中是孤独的。」我们看着他，彼此对视。我们试着赶紧把三明治吃完，那是我们唯一能做的事。",
+      "vocab": [
+        {
+          "word": "preceden",
+          "translation": "先于；在……之前",
+          "note": "preceder a 是固定搭配，意为『在时间或顺序上先于某事物』，与英语 precede 同源但并非完全假朋友，注意西语中需加介词 a。"
+        },
+        {
+          "word": "soltó",
+          "translation": "随口说出；脱口而出",
+          "note": "soltar 本义为『松开、释放』，soltar una frase/palabra 是固定搭配，指『随口说出、脱口而出』，带有不经思考、自然流露的语气，是口语和文学文体的高频用法。"
+        },
+        {
+          "word": "apurar",
+          "translation": "赶紧吃完；加快；催促",
+          "note": "一词多义：apurar 可指『赶紧用完/吃完某物』，也可指『使人为难、催逼』，还可作反身动词 apurarse 表示『着急、担心』，需结合语境判断。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "El periodista Nuño Domínguez publicó este martes la entrevista que le hizo a Michael Mayor, un hombre de 84 años que cayó por la grieta de un glaciar de los Alpes, se hizo astrofísico y, luego, descubrió el primer exoplaneta. Mayor le dio a Nuño un titular <strong>imbatible</strong>: \"La gente piensa que la humanidad es eterna, pero nos extinguiremos\". Es curioso cuando se vuelve noticia lo que todo el mundo conoce: señal de que vivimos de <strong>espaldas a</strong> lo más obvio. A la extinción, por ejemplo.",
+      "zh": "记者Nuño Domínguez本周二发表了他对Michel Mayor的采访。Mayor是一位84岁的老人，曾跌入阿尔卑斯山冰川的裂缝，后来成为天体物理学家，并发现了第一颗系外行星。Mayor给了Nuño一个无懈可击的标题：「人们以为人类是永恒的，但我们终将灭绝。」有趣的是，当人尽皆知的事情变成新闻时，恰恰说明我们背对着最显而易见的事实而活着。比如，灭绝这件事。",
+      "vocab": [
+        {
+          "word": "imbatible",
+          "translation": "无懈可击的；无法超越的",
+          "note": "由前缀 im-（否定）+ batible（可击败的）构成，前缀 im- 在 b/p 开头的词前替代 in-，如 imposible、improbable，掌握这一规律可类推大量同类词。"
+        },
+        {
+          "word": "espaldas a",
+          "translation": "背对着；背离；无视",
+          "note": "固定搭配 vivir/estar de espaldas a，意为『背对某事、对某事视而不见』，是书面语和新闻评论中表达『漠视现实』的高频比喻表达。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Está bien que te recuerden el día en el que no seremos ya nada, porque te <strong>alivia</strong> de los errores más graves y le <strong>quita importancia a</strong> todas las cosas. También puede interpretarse al revés: si el futuro no existe, lo único <strong>cabal</strong> será centrar los esfuerzos en esto de ahora, tan fugaz e inevitable. \"En unos 2.000 millones de años ya no estaremos en la zona habitable del sistema solar. Y eso sin tener en cuenta a los humanos locos y peligrosos\", decía el experto en la entrevista. Es difícil dejar de tenerlos en cuenta, señor Mayor, si somos cada día más conscientes de la extinción. Lo único que nos preguntamos es para cuándo. De momento, almuercen. Almuercen que nunca se sabe, y quizá luego ya es tarde.",
+      "zh": "有人提醒你终将化为虚无的那一天，其实是件好事，因为它能让你从最严重的错误中解脱出来，也让一切事情都变得不那么重要。当然也可以反过来理解：如果未来并不存在，那么唯一明智的做法就是把精力集中在此刻，这短暂而无可避免的当下。「大约再过二十亿年，我们就不再处于太阳系的宜居带了。而这还没把那些疯狂而危险的人类算进去，」这位专家在采访中说道。Mayor先生，如果我们每天都越来越清醒地意识到灭绝的存在，就很难把那些人排除在外。我们唯一的疑问是：什么时候。眼下，先吃午饭吧。吃吧，谁也说不准，也许等一下就来不及了。",
+      "vocab": [
+        {
+          "word": "alivia",
+          "translation": "减轻；解脱；缓解",
+          "note": "aliviar 常见搭配为 aliviar el dolor/la carga/la tensión，在此语境中指从心理负担中解脱，注意与 relevar（替换、解除职务）区分，两者不可互换。"
+        },
+        {
+          "word": "quita importancia a",
+          "translation": "淡化……的重要性；让……变得无足轻重",
+          "note": "固定搭配 quitarle importancia a algo，意为『降低某事的重要性、不把某事当回事』，反义搭配为 darle importancia a，两者在新闻和口语中均高频出现。"
+        },
+        {
+          "word": "cabal",
+          "translation": "明智的；合理的；正确的",
+          "note": "B2以上的高频词，常见于 estar en sus cabales（神志清醒）和 lo más cabal（最明智之举），在正式文体中表达『符合理性、恰当合理』，比 razonable 更具文学色彩。"
+        }
+      ]
+    }
+  ]
+}
