@@ -1,0 +1,217 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与数字监管",
+  "difficulty": "B2",
+  "wordCount": "约750词",
+  "title": "El Gobierno impondrá desde octubre el prefijo 400 para las llamadas comerciales",
+  "subtitle": "西班牙政府将于十月起强制商业电话使用400前缀",
+  "resumenEs": "El Gobierno español ha aprobado una orden ministerial que obliga a las empresas a usar el prefijo 400 para todas sus llamadas comerciales a partir de octubre de 2025, dentro del Plan Antiestafas. La medida busca que los usuarios identifiquen de inmediato la naturaleza publicitaria de una llamada y reduce el margen para el fraude por suplantación. Paralelamente, la CNMC ha regulado un registro de alias para mensajes de texto que entrará en pleno funcionamiento en junio de 2026.",
+  "resumenZh": "西班牙政府批准了一项部长令，要求企业从2025年10月起必须使用400前缀拨打所有商业电话，此举是反诈骗计划的一部分。该措施旨在让用户立即识别来电的商业性质，并压缩冒充身份实施欺诈的空间。与此同时，国家市场与竞争委员会（CNMC）已规范建立短信发件人别名注册制度，将于2026年6月全面运行。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "El Ministerio para la Transformación Digital y de la Función Pública ha aprobado una <strong>orden ministerial</strong> que obliga a las empresas a realizar todas sus comunicaciones comerciales telefónicas exclusivamente a través de números que comiencen por el prefijo 400. La medida, que se <strong>inscribe en</strong> el Plan Antiestafas impulsado por el Gobierno, entrará en vigor en un plazo de seis meses, lo que establece octubre como la fecha límite para que los operadores de telecomunicaciones bloqueen sistemáticamente cualquier llamada de ventas que no utilice esta identificación.",
+      "zh": "数字化转型与公共职能部批准了一项部长令，要求企业所有商业电话通信必须专门通过以400前缀开头的号码进行。该措施隶属于政府推动的反诈骗计划，将在六个月内正式生效，这意味着十月是电信运营商系统性拦截所有不使用该标识的销售来电的最后期限。",
+      "vocab": [
+        {
+          "word": "orden ministerial",
+          "translation": "部长令；部级法规",
+          "note": "西班牙行政法律文体的核心固定搭配，指由某一部委颁布的具有法律约束力的行政命令，层级低于皇家法令（real decreto），在政策新闻中高频出现。"
+        },
+        {
+          "word": "inscribe en",
+          "translation": "隶属于；纳入；归入",
+          "note": "固定搭配 inscribirse en，在新闻文体中意为『将某措施纳入某一更大框架或计划之中』，比 formar parte de 更正式，常用于政策和法规报道。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "De acuerdo con el texto de la orden ministerial, a la que ha tenido acceso EL PAÍS/Cinco Días, esta nueva numeración de nueve dígitos tiene como objetivo principal permitir que el usuario identifique de forma <strong>inmediata</strong> la naturaleza comercial de la llamada antes de descolgar. El Gobierno busca con esta medida frenar la <strong>saturación</strong> de comunicaciones no solicitadas y reducir los márgenes de maniobra para el fraude telefónico mediante la <strong>suplantación</strong> de identidad.",
+      "zh": "根据《国家报》/《五日报》获取的部长令文本，这一新的九位数号码段的主要目标是让用户在接听之前立即识别来电的商业性质。政府希望通过这一措施遏制未经请求的通信泛滥，并压缩通过身份冒充实施电话诈骗的操作空间。",
+      "vocab": [
+        {
+          "word": "saturación",
+          "translation": "泛滥；过载；饱和",
+          "note": "在传播和监管语境中，saturación 指某类信息或通信的过度涌入，与上一篇文章中的用法一致，是描述信息过载问题的高频词，动词形式为 saturar。"
+        },
+        {
+          "word": "suplantación",
+          "translation": "冒充；身份伪造",
+          "note": "suplantación de identidad 是法律和网络安全领域的固定搭配，指冒充他人或机构身份，动词为 suplantar，注意与 reemplazar（替换）区分，suplantar 含有欺骗性。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "La implementación de este código específico da <strong>cumplimiento a</strong> la Ley de Servicios de Atención a la Clientela (SAC), ratificada el pasado mes de diciembre. Dicha legislación ya <strong>preveía</strong> la necesidad de establecer un rango numérico diferenciado para las actividades de prospección comercial. Una vez que los números 400 estén plenamente operativos, las operadoras tendrán la obligación técnica de filtrar e interceptar aquellas llamadas que intenten <strong>eludir</strong> la normativa utilizando números móviles convencionales o numeración geográfica para fines publicitarios.",
+      "zh": "这一特定代码的实施是对去年十二月批准的《客户服务法》（SAC）的落实。该法律已预见到有必要为商业推广活动建立独立的号码段。一旦400号段全面投入使用，运营商将承担技术义务，过滤并拦截那些试图使用普通手机号码或地理号码规避法规、用于广告目的的来电。",
+      "vocab": [
+        {
+          "word": "da cumplimiento a",
+          "translation": "履行；落实；执行",
+          "note": "固定搭配 dar cumplimiento a，法律和行政文体的核心表达，意为『使某一法律或规定得到执行』，比 cumplir con 更正式，常见于法规和政策新闻。"
+        },
+        {
+          "word": "preveía",
+          "translation": "预见；预先规定",
+          "note": "prever 在法律文体中常指『法律条文预先设定某种情况或需求』，与日常义『预测未来』有所不同，是法规报道中的高频动词。"
+        },
+        {
+          "word": "eludir",
+          "translation": "规避；绕过；逃避",
+          "note": "易混辨析：eludir 指有意绕过规则或责任，evitar 则泛指避免某事，在法律和监管语境中 eludir la normativa 是固定搭配，语气含有主观故意。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Los nuevos números con el código 400 funcionarán bajo un sistema de <strong>unidireccionalidad</strong>. Esto significa que los usuarios podrán recibir las llamadas, pero no podrán devolverlas a través de esa misma vía. Según fuentes ministeriales, este diseño técnico garantiza una protección adicional para los clientes, evitando las estafas basadas en el \"callback\" o rellamada, donde los usuarios devuelven llamadas perdidas a números desconocidos que resultan tener <strong>tarificaciones</strong> especiales o ser parte de redes de fraude.",
+      "zh": "新的400号段将在单向通信系统下运行。这意味着用户可以接听来电，但无法通过同一渠道回拨。据部委消息人士称，这一技术设计为客户提供了额外保护，可防范基于「回拨」的诈骗——即用户回拨未接来电，却发现对方号码设有特殊计费标准或属于诈骗网络。",
+      "vocab": [
+        {
+          "word": "unidireccionalidad",
+          "translation": "单向性",
+          "note": "由 uni-（单一）+ dirección（方向）+ -al + -idad 层层派生而成，是展示西语构词能力的典型例子，掌握 uni-、bi-、multi- 等数量前缀可类推大量技术词汇。"
+        },
+        {
+          "word": "tarificaciones",
+          "translation": "计费标准；收费方式",
+          "note": "源自 tarifa（费率、价目表），后缀 -ción 表示动作或结果，tarificación 指对通话或服务设定收费标准的行为，在电信和消费者权益类报道中高频出现。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "La normativa establece <strong>asimismo</strong> que los operadores de telecomunicaciones deben ofrecer a sus clientes la posibilidad técnica de desconectarse globalmente del servicio de llamadas comerciales vinculadas al rango 400. De esta manera, el usuario podrá <strong>optar por</strong> no recibir ninguna comunicación bajo este prefijo, simplificando el proceso de gestión de la privacidad que anteriormente dependía de registros externos o aplicaciones de terceros.",
+      "zh": "法规同样规定，电信运营商必须为客户提供从技术层面完全退出400号段商业来电服务的选项。这样一来，用户可以选择不接收任何该前缀下的通信，从而简化此前依赖外部注册或第三方应用的隐私管理流程。",
+      "vocab": [
+        {
+          "word": "asimismo",
+          "translation": "同样；此外；也",
+          "note": "正式书面语和法律文体中的高频连接副词，用于引出并列的补充信息，比 también 更正式，在法规条文和新闻报道中常见于段落开头。"
+        },
+        {
+          "word": "optar por",
+          "translation": "选择；决定采取",
+          "note": "固定搭配 optar por + 名词/动词原形，意为『主动选择某一选项』，比 elegir 更强调在多个选项中做出决定，在政策和消费者权益报道中高频出现。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "En el caso de que un ciudadano reciba una llamada con fines de venta desde una numeración no autorizada tras la entrada en vigor de la medida, el protocolo ministerial permite la denuncia directa ante la Oficina de Atención al Usuario de Telecomunicaciones (OAUT) o ante la Comisión Nacional de los Mercados y la Competencia (CNMC). Estas instituciones serán las encargadas de supervisar el cumplimiento y, en su caso, <strong>incoar</strong> los <strong>expedientes sancionadores</strong> correspondientes contra las empresas infractoras.",
+      "zh": "若某公民在该措施生效后收到来自未授权号码的销售来电，部委规程允许其直接向电信用户服务办公室（OAUT）或国家市场与竞争委员会（CNMC）进行投诉。这两个机构将负责监督合规情况，并在必要时对违规企业启动相应的处罚程序。",
+      "vocab": [
+        {
+          "word": "incoar",
+          "translation": "启动（法律程序）；提起",
+          "note": "法律文体专用动词，意为『正式启动某一行政或司法程序』，常见搭配为 incoar un expediente/un procedimiento，在行政法规报道中是C1级别的高频词。"
+        },
+        {
+          "word": "expedientes sancionadores",
+          "translation": "处罚程序；行政处罚案卷",
+          "note": "法律和行政文体的核心固定搭配，expediente 指『案卷、档案』，sancionador 指『具有惩处性质的』，合在一起特指行政机关对违规行为启动的正式处罚程序。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Respecto a las llamadas de atención al cliente, el Gobierno ha <strong>delimitado</strong> que solo podrán efectuarse mediante números cortos atribuidos específicamente para tal fin, rangos gratuitos (800 y 900) o números geográficos vinculados a la sede de la empresa. Esta distinción busca separar la atención solicitada por el usuario de la <strong>prospección</strong> comercial activa. Una orden previa, vigente desde marzo de 2025, ya prohibía el uso de numeración móvil para servicios de atención al cliente y establecía los rangos 800 y 900 como los canales preferentes para estas comunicaciones.",
+      "zh": "关于客户服务来电，政府已明确规定，此类来电只能通过专门指定的短号码、免费号段（800和900）或与企业总部绑定的地理号码进行。这一区分旨在将用户主动寻求的客服与主动商业推销区分开来。此前一项于2025年3月生效的命令已禁止使用手机号码提供客户服务，并将800和900号段确立为此类通信的优先渠道。",
+      "vocab": [
+        {
+          "word": "delimitado",
+          "translation": "明确界定；划定范围",
+          "note": "delimitar 由 de- + limitar 构成，强调『精确划定边界或范围』，比 definir 更强调界限的清晰性，在法规和政策文本中常用于描述对权限或适用范围的精确规定。"
+        },
+        {
+          "word": "prospección",
+          "translation": "商业开发；潜在客户开拓",
+          "note": "本义为地质『勘探』，在商业语境中引申为『主动寻找潜在客户』，prospección comercial 是营销和法律文体的固定搭配，与被动响应的 atención al cliente 形成对比。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "El impacto de las medidas previas del Plan Antiestafas ofrece <strong>métricas</strong> sobre la escala del problema en España. Desde marzo de 2025, los operadores de telecomunicaciones han bloqueado aproximadamente 192 millones de llamadas con intenciones fraudulentas y 17 millones de mensajes de texto (SMS). La acción <strong>conjunta</strong> de las telecos ha permitido interceptar comunicaciones antes de que lleguen al terminal del usuario final. En el caso específico de Telefónica, la compañía intercepta actualmente cerca de 500.000 llamadas fraudulentas cada día a través de su red.",
+      "zh": "反诈骗计划前期措施的成效为西班牙问题的规模提供了量化数据。自2025年3月以来，电信运营商已拦截约1.92亿个具有欺诈意图的来电和1700万条短信。各电信公司的联合行动使得这些通信在到达终端用户之前就被截获。就Telefónica而言，该公司目前每天通过其网络拦截近50万个诈骗电话。",
+      "vocab": [
+        {
+          "word": "métricas",
+          "translation": "量化指标；数据指标",
+          "note": "在数字和商业语境中，métricas 专指用于衡量效果的可量化数据，是英语 metrics 的直接对应词，与上一篇文章中的用法一致，属B2以上新闻文体高频词。"
+        },
+        {
+          "word": "conjunta",
+          "translation": "联合的；协同的",
+          "note": "acción conjunta 是新闻文体描述多方协作的固定搭配，conjunta 作形容词需与名词性别数一致，注意与副词 conjuntamente（共同地）的用法区分。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "El plan gubernamental también aborda el fraude por suplantación de identidad en la mensajería móvil, técnica conocida como \"smishing\". La CNMC ha aprobado este mes de abril la circular que regula la creación del Registro de alias para mensajes de texto. Este registro será una base de datos oficial donde las empresas y administraciones públicas deberán <strong>inscribir</strong> los códigos alfanuméricos que utilizan como identificadores de remitente en sus envíos de SMS, MMS y servicios de comunicación enriquecida (RCS).",
+      "zh": "政府计划还涉及移动短信中的身份冒充欺诈，即俗称的「短信钓鱼」（smishing）。CNMC于今年四月批准了规范建立短信别名注册制度的通告。该注册系统将成为一个官方数据库，企业和公共行政机构须在其中登记其在发送短信、彩信和富媒体通信服务（RCS）时用作发件人标识的字母数字代码。",
+      "vocab": [
+        {
+          "word": "inscribir",
+          "translation": "登记；注册；录入",
+          "note": "inscribir 在行政语境中指『将信息正式录入官方数据库或名册』，反身形式 inscribirse 指主动报名或注册，与 registrar 近义但 inscribir 更强调纳入正式名单的动作。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "A partir del próximo 7 de junio, los operadores de telefonía estarán obligados a bloquear cualquier mensaje cuyo remitente alfanumérico no figure en esta base de datos verificada. El objetivo es que el nombre que aparece en la pantalla del móvil, como el de una entidad bancaria o un organismo público, corresponda <strong>fehacientemente</strong> con el emisor real. Para inscribir un alias, las entidades deberán <strong>acreditar</strong> documentalmente su vinculación legal con la marca o el nombre comercial que pretenden utilizar.",
+      "zh": "从今年6月7日起，电信运营商将被强制拦截所有发件人字母数字代码未出现在该验证数据库中的短信。目标是确保手机屏幕上显示的名称——如某家银行或公共机构的名称——与真实发件人确实相符。为登记别名，相关机构须以文件形式证明其与所申请使用的品牌或商业名称之间的法律关联。",
+      "vocab": [
+        {
+          "word": "fehacientemente",
+          "translation": "确凿地；有据可查地",
+          "note": "法律和行政文体的高频副词，强调某事有充分的文件或证据支撑，比 claramente 或 definitivamente 更正式，常见于合同、法规和官方声明中。"
+        },
+        {
+          "word": "acreditar",
+          "translation": "证明；证实；认证",
+          "note": "在法律和行政语境中，acreditar 指『以文件或证据证明某一事实或资质』，比 demostrar 更正式，常见搭配为 acreditar documentalmente、acreditar su identidad。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "El calendario técnico definido por el regulador establece que, tras la publicación de la circular en el Boletín Oficial del Estado (BOE), las empresas dispondrán de un mes para cargar de forma masiva los alias que ya utilizan. Posteriormente, se iniciará un periodo de pruebas técnicas en los sistemas de filtrado de los operadores que se <strong>prolongará</strong> hasta el 6 de junio de 2026, fecha en la que el sistema deberá alcanzar su plena <strong>madurez operativa</strong> para todo tipo de remitentes, incluidos los internacionales. La obligación de registro y bloqueo afectará por igual a las empresas extranjeras que operen en el mercado nacional.",
+      "zh": "监管机构制定的技术时间表规定，在通告于《国家官方公报》（BOE）发布后，企业将有一个月时间批量上传其已在使用的别名。此后，将在运营商过滤系统中启动技术测试阶段，该阶段将持续至2026年6月6日，届时系统须对所有类型的发件人（包括国际发件人）达到完全成熟的运行状态。注册和拦截义务将同等适用于在国内市场运营的外国企业。",
+      "vocab": [
+        {
+          "word": "prolongará",
+          "translation": "延续；持续；延长",
+          "note": "prolongarse 作反身动词，意为『（某一过程或状态）持续延伸至某一时间点』，比 durar 更强调时间跨度的延伸感，在政策时间表和项目规划报道中高频出现。"
+        },
+        {
+          "word": "madurez operativa",
+          "translation": "运行成熟度；完全投入运营",
+          "note": "技术和项目管理领域的固定搭配，指系统或机制达到稳定、完整运行的状态，madurez 本义为『成熟』，在此为比喻用法，是科技政策报道中的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "El Gobierno separa así <strong>reglamentariamente</strong> el spam comercial del fraude técnico. Mientras el spam se refiere a llamadas de números reales que resultan molestas pero legítimas desde un punto de vista técnico, el fraude implica un delito de suplantación para el robo de datos o activos económicos. Con el nuevo prefijo 400 y el registro de alias de la CNMC, el Ejecutivo pretende <strong>cerrar el espacio de actuación</strong> para ambos fenómenos en el territorio nacional.",
+      "zh": "政府由此在法规层面将商业垃圾信息与技术性欺诈区分开来。垃圾信息是指来自真实号码的来电，从技术角度看虽令人烦扰但属合法；而欺诈则涉及以冒充身份窃取数据或经济资产的犯罪行为。通过新的400前缀和CNMC别名注册制度，行政当局意图在全国范围内压缩这两种现象的操作空间。",
+      "vocab": [
+        {
+          "word": "reglamentariamente",
+          "translation": "在法规层面；依照规章",
+          "note": "由 reglamento（法规）派生，后缀 -mente 将形容词 reglamentario 转化为副词，在行政和法律报道中用于强调某一区分或规定具有正式法规依据。"
+        },
+        {
+          "word": "cerrar el espacio de actuación",
+          "translation": "压缩操作空间；封堵行动余地",
+          "note": "新闻和政策文体中的固定比喻表达，意为『通过监管手段使某类行为失去可操作的空间』，cerrar + espacio 的搭配在描述监管收紧时极为常见。"
+        }
+      ]
+    }
+  ]
+}
