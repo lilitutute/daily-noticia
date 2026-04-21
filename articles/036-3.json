@@ -1,0 +1,185 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "语言与文化",
+  "difficulty": "C1",
+  "wordCount": "约900词",
+  "title": "¿Cómo explicarlo? Nuevas palabras para un nuevo mundo",
+  "subtitle": "如何言说？新世界需要新词语",
+  "resumenEs": "En un momento en que el lenguaje político se llena de hipérboles y violencia verbal, varios autores y lingüistas reflexionan sobre el poder de las palabras para construir o destruir realidades. Desde diccionarios de emociones inventadas hasta advertencias sobre la corrupción del discurso público, el artículo explora por qué elegir bien las palabras importa más que nunca.",
+  "resumenZh": "在政治话语充斥夸张与语言暴力的当下，多位作家与语言学家探讨了词语构建或摧毁现实的力量。从发明情感词汇的词典，到对公共话语腐化的警示，本文探索了为何精心选词比以往任何时候都更加重要。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Tras una estruendosa primavera, pronto llegará el verano con su metálica luz azul. El mundo se renueva a cada segundo, pero ¿y el lenguaje? Más allá de las actualizaciones de los diccionarios, que estampan el sello oficial a términos como farlopa, milenial o hashtag, de un tiempo a esta parte se publican muchos libros en torno a las palabras. Son obras de distinto <strong>pelaje</strong>, pero tienen en común que aportan reflexiones sobre la necesidad actual de <strong>remozar</strong> el lenguaje. Como decía Pier Paolo Pasolini, el mundo que debe construir la palabra es el mundo en el que vivimos.",
+      "zh": "经历了一个喧嚣的春天，夏日即将带着它那金属质感的蓝色光芒如期而至。世界每时每刻都在更新，但语言呢？除了词典的例行更新——为farlopa、milenial或hashtag等词盖上官方认可的印章——近来有大量围绕词语主题的书籍相继出版。这些作品风格各异，但都有一个共同点：它们都在思考当下革新语言的必要性。正如皮尔·保罗·帕索里尼所说，词语所要构建的世界，正是我们所生活的世界。",
+      "vocab": [
+        {
+          "word": "pelaje",
+          "translation": "（此处引申）类型，种类",
+          "note": "本义为动物的毛色/毛质，在口语和书面语中常用于『de distinto pelaje』（各种各样的），是一个有较强修辞色彩的固定搭配。"
+        },
+        {
+          "word": "remozar",
+          "translation": "翻新，更新，使焕然一新",
+          "note": "前缀 re- 表示『再次』，词根来自 mozo（年轻），整体意为『使重新年轻化』，常用于建筑、形象或语言的『焕新』语境，比 renovar 更具文学色彩。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Son publicaciones como La palabra que vence a la muerte, de Rob Riemen (Taurus); No hablarás. Imperio, identidad y política del lenguaje, de James Griffiths (Alianza); Diccionario de tristezas sin nombre, de John Koenig (Capitán Swing); Los nombres del mundo, de Ewan Clayton (Siruela); 20 razones para amar la lingüística, de Lorena Pérez Hernández (Plataforma); Lo que el lenguaje esconde, de varios autores (Filosofía&Co); La palabra que construye el mundo, de Pier Paolo Pasolini (Altamarea), o la reedición del clásico de Michel Foucault Las palabras y las cosas (Siglo XXI).",
+      "zh": "这些出版物包括：罗布·里门的《战胜死亡的词语》（Taurus出版社）；詹姆斯·格里菲斯的《不可言说：帝国、身份与语言政治》（Alianza出版社）；约翰·科尼格的《无名忧愁词典》（Capitán Swing出版社）；伊万·克莱顿的《世界的名字》（Siruela出版社）；洛雷娜·佩雷斯·埃尔南德斯的《爱上语言学的20个理由》（Plataforma出版社）；多位作者合著的《语言所隐藏的》（Filosofía&Co出版社）；皮尔·保罗·帕索里尼的《构建世界的词语》（Altamarea出版社），以及米歇尔·福柯经典之作《词与物》的再版（Siglo XXI出版社）。",
+      "vocab": [
+        {
+          "word": "reedición",
+          "translation": "再版，重版",
+          "note": "前缀 re- 表示『再次』，edición 意为『版本/出版』，reedición 即『再次出版』；同族词还有 reeditar（再版）、editar（编辑/出版）、editorial（出版社/社论）。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "\"El lenguaje no crea la realidad. No crea materia. Pero sí crea un <strong>halo</strong> de visibilidad en torno a determinados elementos o eventos del mundo y saca otros de nuestro campo de atención, ayudándonos así a coordinarnos en una dirección concreta para influir en nuestro entorno tanto positiva como negativamente. Solo hay que analizar los discursos recientes de líderes internacionales para <strong>constatarlo</strong>. Saturar los titulares de amenazas <strong>hiperbólicas</strong>, como 'Una civilización entera morirá esta noche', claramente no mejora el mundo. Crear marcos lingüísticos de negociación, cooperación y mediación, sí\", reflexiona Lorena Pérez Hernández, catedrática en Filología Inglesa y doctora en Lingüística cognitiva de la universidad de La Rioja.",
+      "zh": "「语言并不创造现实，不创造物质。但它确实在世界上某些特定元素或事件周围营造出一种可见性的光晕，同时将其他事物从我们的注意力范围内移走，从而帮助我们朝着某个具体方向协调行动，对我们的环境产生或正面或负面的影响。只需分析近期国际领导人的演讲，便可印证这一点。用『整个文明今晚将走向灭亡』之类的夸张威胁充斥新闻标题，显然无助于改善世界。而构建谈判、合作与调解的语言框架，则能做到这一点。」里奥哈大学英语语言文学教授、认知语言学博士洛雷娜·佩雷斯·埃尔南德斯如此反思道。",
+      "vocab": [
+        {
+          "word": "halo",
+          "translation": "光晕，光环；（引申）氛围，笼罩感",
+          "note": "与英语 halo 同源，但在西语中除宗教/天文含义外，常用于抽象语境，表示某种事物『笼罩』或『围绕』另一事物的无形氛围。"
+        },
+        {
+          "word": "constatarlo",
+          "translation": "证实它，证明它",
+          "note": "constatar 意为『证实、核实』，是新闻和学术文体中的高频词，注意它不等于 contestar（回答），两者形近易混。"
+        },
+        {
+          "word": "hiperbólicas",
+          "translation": "夸张的，极度夸大的",
+          "note": "来自修辞学术语 hipérbole（夸张法），形容词形式为 hiperbólico/a，在新闻评论中常用于批评言论过度渲染，语气带有负面评价色彩。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Foucault ya <strong>advirtió</strong> de que el poder produce verdades y silencia cosas. Hay que estar atentos al peligro de que el discurso oficial —o lo que ahora se llama \"relato\"— se identifique con un hecho social absoluto, como si la actualidad estuviera exclusivamente definida por la palabra crueldad: en la retórica de Trump algunos de los verbos más usados son aniquilar, aplastar, destruir y ganar. \"Una de las mayores víctimas de la administración Trump no ha sido, como dice el viejo refrán, la verdad —que es la primera víctima de la guerra—. Han sido las palabras\", <strong>denunció</strong> hace poco la historiadora Mary Beard en la BBC.",
+      "zh": "福柯早已警告，权力制造真相，也让某些事物陷入沉默。我们必须警惕官方话语——或如今所称的『叙事』——被等同于绝对社会事实的危险，仿佛当下现实完全由『残酷』一词所定义：在特朗普的修辞中，最常用的动词包括消灭、碾压、摧毁和获胜。「特朗普政府最大的受害者，并非如那句古老谚语所说的真相——真相是战争的第一个牺牲品。受害的是词语本身，」历史学家玛丽·比尔德不久前在BBC上如此抨击道。",
+      "vocab": [
+        {
+          "word": "advirtió",
+          "translation": "警告，提醒（advertir的第三人称单数过去时）",
+          "note": "advertir 常见搭配为 advertir de que + 陈述句，或 advertir a alguien de algo，注意它与英语 advertise（做广告）是典型假朋友，含义完全不同。"
+        },
+        {
+          "word": "denunció",
+          "translation": "谴责，抨击，揭露（denunciar的第三人称单数过去时）",
+          "note": "denunciar 在新闻文体中语气强烈，表示公开揭露或强烈批评，比 criticar 更正式、更具控诉色彩；名词形式为 denuncia（举报/谴责）。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Ante la actual corrupción de palabras como libertad o grandeza, Rob Riemen <strong>aboga por</strong> una resistencia moral y cultural. \"Proteger el sentido de las palabras es fundamental. El peligro salta cuando las palabras pierden su sentido, y la gente no sabe en verdad de qué se está hablando. Es cuando la política se transforma en voces que solo dan propaganda y más propaganda\", reflexiona en conversación telefónica.",
+      "zh": "面对自由、伟大等词语当下遭受的腐化，罗布·里门倡导一种道德与文化上的抵抗。「保护词语的意义至关重要。当词语失去其含义，人们真的不知道在谈论什么的时候，危险便随之而来。正是在这时，政治便蜕变为只会输出宣传、不断宣传的声音，」他在电话采访中如此反思道。",
+      "vocab": [
+        {
+          "word": "aboga por",
+          "translation": "倡导，主张，支持",
+          "note": "abogar por 是固定搭配，意为『为……辩护/倡导』，来自 abogado（律师），在政论和评论文体中极为常见，相当于英语的 advocate for。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Frente a ello, el pensador holandés apuesta por una gramática de la vida, por el uso de palabras como perdón, que de un <strong>plumazo</strong> \"consigue doblegar la muerte, <strong>insuflando</strong> vida a la persona que la recibe\", afirma. Pronunciar o escuchar términos como perdón o gracias, si es de corazón, puede llegar a implicar una transformación entre una persona y otra. No es tan raro. El ser humano es eminentemente lingüístico, y una palabra puede salvar o nos puede herir.",
+      "zh": "对此，这位荷兰思想家押注于一种生命的语法，主张使用『原谅』这样的词语——它能一举「征服死亡，向接受它的人注入生命」，他如此断言。发出或听到『原谅』『谢谢』这样的词语，若是发自内心，便可能在两个人之间引发一场真实的转变。这并不奇怪。人类本质上是语言的存在，一个词语可以拯救我们，也可以伤害我们。",
+      "vocab": [
+        {
+          "word": "plumazo",
+          "translation": "一笔；（de un plumazo）一举，一下子",
+          "note": "de un plumazo 是固定短语，字面义为『一笔之间』，引申为『轻而易举地、一下子』，常用于强调某事被迅速完成或解决，是新闻评论中的常见表达。"
+        },
+        {
+          "word": "insuflando",
+          "translation": "注入，吹入（insuflar的现在分词）",
+          "note": "insuflar 来自拉丁语，字面义为『向……吹气』，在文学和医学语境中均有使用；此处与 insuflar vida（注入生命）搭配，语气庄重而富有诗意。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Y cuando no se encuentran palabras que se ajusten a lo que se quiere expresar, hay que <strong>echar mano de</strong> la imaginación. Es el caso del escritor John Koenig, que decidió crear y compartir conceptos ideados por él, al comprobar que muchas cosas que sentía no tenían un fiel reflejo en el lenguaje en circulación. Así, primero en un blog y, más tarde, en su libro Diccionario de tristezas sin nombre, Koenig se inventó, por ejemplo, el término sonder —sentimiento de que cada persona con la que te cruzas en la calle tiene su propia vida y es protagonista de su propia historia—; anemoia —cuando miras fotos antiguas y sientes una <strong>punzada</strong> de nostalgia por un tiempo que nunca has vivido—; o eliptismo —tristeza de no saber cómo acabará la Historia de la humanidad—. En varias entrevistas, Koenig ha confesado que el motor de inspiración de su diccionario fue su fascinación por expresiones como duende en español, saudade en portugués o hygge en danés, que no existen en inglés.",
+      "zh": "而当找不到能够准确表达所想之物的词语时，就必须借助想象力。作家约翰·科尼格便是如此——他发现自己感受到的许多事物在现有语言中找不到准确的对应，于是决定自己创造并分享这些概念。就这样，先是在一个博客上，后来又在他的著作《无名忧愁词典》中，科尼格发明了诸如：sonder——当你意识到街上每一个与你擦肩而过的人都有着自己的生活、都是自己故事的主角时的那种感受；anemoia——当你翻看老照片，对一个你从未经历过的年代涌起一阵乡愁时的感觉；以及eliptismo——因不知道人类历史将如何收场而生出的悲伤。科尼格在多次采访中坦言，他词典的灵感来源，是他对西班牙语中duende、葡萄牙语中saudade、丹麦语中hygge这类在英语中无对应词的表达的深深着迷。",
+      "vocab": [
+        {
+          "word": "echar mano de",
+          "translation": "借助，利用，求助于",
+          "note": "echar mano de 是固定搭配，意为『动用、借助某种资源或手段』，在口语和书面语中均十分常见，相当于 recurrir a，但语气更口语化、更生动。"
+        },
+        {
+          "word": "punzada",
+          "translation": "刺痛，一阵（情感上的）刺痛感",
+          "note": "punzada 本义为针刺般的疼痛，引申用于描述情感上突然涌现的强烈感受，如 una punzada de nostalgia（一阵乡愁），是文学语境中描写情绪的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Andando en el tiempo, la palabra sonder de Koenig cobró vida propia en internet, donde se calcula que cada sesenta segundos se envían más de 251 millones de correos electrónicos y 18 millones de mensajes de texto. Esta asombrosa red que nos conecta unos con otros supone un cambio <strong>sistémico</strong> de escritura, lo que implica una cierta reordenación del pensamiento, según Ewan Clayton, autor de Los nombres del mundo. Pero él es optimista, y no cree que la escritura a mano vaya a desaparecer nunca, ni la conversación. Probablemente, todo suma. \"El texto escrito reproduce el habla, es a la vez menos y más que el habla: no registra la entonación, la velocidad, el volumen, los gestos ni las expresiones faciales, elementos que nos ayudan a interpretar los <strong>matices</strong> del significado de la palabra hablada\", reflexiona Clayton.",
+      "zh": "随着时间推移，科尼格的sonder一词在互联网上获得了自己的生命——据估计，互联网上每六十秒就有超过2.51亿封电子邮件和1800万条短信被发送出去。《世界的名字》一书的作者伊万·克莱顿认为，这张将我们彼此相连的惊人网络意味着书写方式的系统性变革，进而引发了思维方式的某种重新排列。但他持乐观态度，认为手写和对话都不会消失。或许，一切都在叠加累积。「书面文字再现了言语，它既少于言语，又多于言语：它无法记录语调、语速、音量、手势和面部表情——而这些元素恰恰帮助我们理解口语词义的细微差别，」克莱顿如此反思道。",
+      "vocab": [
+        {
+          "word": "sistémico",
+          "translation": "系统性的，系统层面的",
+          "note": "sistémico 强调影响整个系统结构的变化，与 sistemático（有条理的、系统化的）易混：sistemático 侧重方法有序，sistémico 侧重波及整体系统，在社会学和医学文本中尤需区分。"
+        },
+        {
+          "word": "matices",
+          "translation": "细微差别，微妙之处（matiz的复数）",
+          "note": "matiz 本义为色彩的『色调』，引申为语言、情感或观点中的『细微差别』，是B2以上文体中的高频词，常见搭配为 los matices de（……的细微之处）。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Las palabras, ya se sabe, vienen y van. La RAE lleva retiradas de la circulación más de 2.700 <strong>vocablos</strong> que reflejaron una época que ya fue. Son términos como demoñejo —del demonio—, palacra —pepita de oro—, o fardialedra —dinerillo suelto—. A su vez, en la calle circulan ya otras rabiosamente contemporáneas, como ecoansiedad, IA-zofi y viral.",
+      "zh": "众所周知，词语来来去去。西班牙皇家语言学院已将超过2700个反映了某个逝去时代的词汇从流通中撤除，例如demoñejo（与魔鬼有关）、palacra（金块）或fardialedra（零散小钱）。与此同时，街头已在流通着另一些极具当代气息的词语，如ecoansiedad（生态焦虑）、IA-zofi（AI哲学）和viral（病毒式传播）。",
+      "vocab": [
+        {
+          "word": "vocablos",
+          "translation": "词汇，词语（vocablo的复数）",
+          "note": "vocablo 是比 palabra 更正式的书面语词，多出现在语言学讨论和学术文体中；与 vocabulario（词汇量/词汇表）同根，但 vocablo 特指单个词语。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "A la hora de usar unas u otras, no es tontería pensar qué <strong>sendas</strong> lingüísticas se eligen para transitar. Porque escribir y hablar construye —y también destruye— mundos. El lenguaje como mecanismo de comunicación \"es útil y a la vez peligroso\". \"Pero en lo que realmente destaca es como instrumento de conceptualización, coordinación y acción y, por lo tanto, como medio para ejercer influencia, poder y cambios\", indica Lorena Pérez.",
+      "zh": "在选用词语时，思考自己选择行走哪条语言之路并非多余。因为书写与言说既能构建世界，也能摧毁世界。语言作为交流机制，「既有用，又危险」。「但它真正出类拔萃之处，在于它作为概念化、协调与行动的工具，因此也是施加影响、行使权力与推动变革的媒介，」洛雷娜·佩雷斯指出。",
+      "vocab": [
+        {
+          "word": "sendas",
+          "translation": "（各自的）道路，小径（senda的复数）",
+          "note": "senda 本义为小路、小径，此处用作比喻，指语言选择的『路径』；注意 sendas 还有一个完全不同的用法——作限定词时意为『各自的、各一个的』（如 sendos libros = 各自一本书），需根据语境区分。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "El idioma ruso tiene la palabra skloka, que significa hostilidad despreciable, la personificación de un espíritu maligno de un grupo contra otro, arrastrado por la bajeza moral. Tal y como está la actualidad, tal vez está bien identificar esa sensación y <strong>vigilarla</strong>, antes de <strong>anegarnos</strong> en montañas de skloka. Habrá que reflexionar en las palabras que se usan. Es un grandísimo poder. En su libertad, cada persona tiene la capacidad de pensar por su cuenta. Eso no lo hace nada ni nadie más. Y menos que nadie, las máquinas.",
+      "zh": "俄语中有一个词skloka，意指一种可鄙的敌意，是一个群体对另一个群体的恶意精神的化身，由道德的卑劣所驱动。面对当下的现实，或许我们有必要识别这种感受并加以警惕，以免被堆积如山的skloka所淹没。我们需要反思自己所使用的词语。这是一种极其巨大的力量。在各自的自由中，每个人都有能力独立思考。这是任何事物、任何人都无法替代的。尤其是机器。",
+      "vocab": [
+        {
+          "word": "vigilarla",
+          "translation": "警惕它，监视它（vigilar + 宾格代词）",
+          "note": "vigilar 意为『监视、警惕、看守』，是新闻和政论文体中的常见动词；此处代词 la 指代前文的『那种感受』，体现了西语中动词与宾格代词连写的构词规则。"
+        },
+        {
+          "word": "anegarnos",
+          "translation": "淹没我们，使我们沉溺（anegar + 反身代词）",
+          "note": "anegar 本义为『淹水、泛滥』，引申为被某种负面事物所『淹没』，此处用反身形式 anegarse en 表示『沉溺于、被……所淹没』，是一个富有表现力的书面语动词。"
+        }
+      ]
+    }
+  ]
+}

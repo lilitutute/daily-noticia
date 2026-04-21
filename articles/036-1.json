@@ -1,0 +1,192 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会与性别议题",
+  "difficulty": "B2",
+  "wordCount": "约850词",
+  "title": "Cuarto Propio en Wikipedia: las editoras que hacen justicia a las mujeres en internet desde hace más de una década",
+  "subtitle": "维基百科上的『自己的房间』：十余年来为女性伸张正义的编辑者们",
+  "resumenEs": "Un grupo de mujeres edita Wikipedia voluntariamente desde 2015 para corregir la escasa y sesgada representación femenina en la enciclopedia digital. Frente a la brecha de género en el voluntariado editor, los discursos reaccionarios y el avance de la inteligencia artificial, el colectivo sigue creando y mejorando biografías de mujeres olvidadas o mal contadas, convencido de que ocupar el espacio digital es un acto político y feminista.",
+  "resumenZh": "一群女性自2015年起自愿编辑维基百科，致力于纠正这部数字百科全书中女性代表性不足与叙述偏颇的问题。面对编辑志愿者群体中的性别差距、反动话语的抬头以及人工智能的扩张，该团体坚持为被遗忘或被错误记录的女性创建和完善传记词条，坚信占据数字空间本身就是一种政治与女性主义行动。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Un grupo de editoras se reúne cada martes —ordenador en mano— para corregir una zona ciega del conocimiento digital: la ausencia y el <strong>sesgo</strong> con el que se cuenta la historia de las mujeres en Wikipedia, la plataforma <strong>cofundada</strong> hace 25 años por los estadounidenses Jimmy Wales y Larry Sanger, en una era de internet que hoy parece remota.",
+      "zh": "每周二，一群女性编辑手持电脑聚在一起，致力于纠正数字知识领域的一处盲区：维基百科中女性历史叙述的缺失与偏颇。这一平台由美国人吉米·威尔士和拉里·桑格于25年前共同创立，彼时的互联网时代如今看来已恍若隔世。",
+      "vocab": [
+        {
+          "word": "sesgo",
+          "translation": "偏见，偏差，偏颇",
+          "note": "sesgo 本义为『斜切、斜线』，引申为观点或数据上的『偏差/偏颇』，是新闻和学术文体中的高频词，常见搭配有 sesgo de género（性别偏见）、sesgo cognitivo（认知偏差）。"
+        },
+        {
+          "word": "cofundada",
+          "translation": "共同创立的（cofundar的过去分词）",
+          "note": "前缀 co- 表示『共同』，可与大量动词结合构成新词，如 coautor（共同作者）、codirector（联合导演）、coexistir（共存），掌握此前缀可举一反三。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "En la biblioteca del Museo Reina Sofía de Madrid, ocho de ellas están alrededor de una mesa en una tarde de marzo. En las pantallas de sus ordenadores conviven una ventana de Wikipedia y otra de Zoom para conversar y coordinarse con otras participantes en línea. Editan de forma voluntaria y gratuita desde hace más de diez años. \"Quien venga, es bienvenido\", dice Carmen Galdón (Madrid, 61 años), doctora en Ciencias Sociales y fundadora de este proyecto.",
+      "zh": "三月的一个下午，八位成员围坐在马德里索菲亚王后国家博物馆图书馆的一张桌子旁。她们的电脑屏幕上同时开着维基百科和Zoom两个窗口，用于与在线参与者交流协作。十余年来，她们一直以志愿者身份免费进行编辑工作。「欢迎任何人加入，」该项目创始人、社会科学博士卡门·加尔东（马德里，61岁）说道。",
+      "vocab": [
+        {
+          "word": "conviven",
+          "translation": "共存，并存（convivir的第三人称复数现在时）",
+          "note": "convivir 由 con-（共同）+ vivir（生活）构成，本义为『共同生活/共处』，此处引申为两个窗口『并存』于屏幕上，是一个构词透明、语义延伸自然的词。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Su apuesta viene de la mano con otras de este <strong>calibre</strong> en diferentes partes del mundo —como Wikiesfera o Arte+Feminismo—. Aprender a detectar cómo una biografía reduce a una mujer a ser \"la esposa de\" o \"la hija de\", comentan las editoras, es parte de su trabajo. \"El lenguaje dice mucho y no basta con incluir mujeres\", afirma su fundadora. \"Es fundamental cómo las incluyes. Si no haces seguimiento y si no cuidas el enfoque, <strong>reproduces</strong> estereotipos\", apunta.",
+      "zh": "她们的行动与世界各地其他同等规模的项目携手并进——如Wikiesfera或Arte+Feminismo。编辑们表示，学会识别一篇传记如何将女性简化为『某人之妻』或『某人之女』，是她们工作的一部分。「语言说明了很多问题，仅仅纳入女性是不够的，」创始人表示。「纳入的方式至关重要。如果不加以跟进，不注意叙述角度，就会复制刻板印象，」她补充道。",
+      "vocab": [
+        {
+          "word": "calibre",
+          "translation": "（此处引申）规模，量级，水准",
+          "note": "calibre 本义为枪管口径或管道直径，引申为人或事物的『水准、量级』，de este calibre 是固定搭配，意为『同等规模/同等分量的』，是评论文体中的常见表达。"
+        },
+        {
+          "word": "reproduces",
+          "translation": "复制，再生产（reproducir的第二人称单数现在时）",
+          "note": "在社会学和性别研究语境中，reproducir 常指对偏见、不平等或权力结构的『再生产/复制』，语气比 repetir 更正式，带有批判性含义。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "En más de una década -empezaron en octubre de 2015- han creado y mejorado cientos de entradas: científicas contemporáneas, atletas olvidadas, <strong>represaliadas</strong> en dictadura, galeristas fundamentales del arte español, lideresas medioambientales, una lista de seudónimos y nombres artísticos de escritoras y colectivos latinoamericanos como la Asociación de Mujeres Afectadas por Esterilizaciones Forzadas, organización que representa a las mujeres que fueron víctimas de esterilizaciones forzadas en diferentes provincias del Perú durante el gobierno de Alberto Fujimori. Historias que estaban dispersas, mal contadas o ausentes.",
+      "zh": "十余年间——她们于2015年10月起步——已创建并完善了数百个词条：当代女科学家、被遗忘的女运动员、独裁时期遭受迫害的女性、西班牙艺术界举足轻重的女画廊主、女性环保领袖、女作家笔名与艺名列表，以及拉丁美洲团体，如『受强制绝育影响女性协会』——该组织代表了在阿尔韦托·藤森执政期间在秘鲁各省遭受强制绝育的受害女性。这些都是曾经散落各处、被错误叙述或付之阙如的历史。",
+      "vocab": [
+        {
+          "word": "represaliadas",
+          "translation": "遭受迫害的、受到报复的（女性，represaliar的过去分词）",
+          "note": "represalia 意为『报复、打击报复』，represaliado/a 指『因政治原因遭受迫害的人』，在涉及独裁政权和历史记忆的新闻文本中是高频词，注意与 represión（镇压）区分：前者强调针对个人的打击，后者强调系统性压制。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Una investigación publicada en PLOS One sostiene que un escaso 11,6% era el porcentaje de editoras activas en la plataforma en 2021. Otro estudio con una revisión <strong>exploratoria</strong> de la conocida enciclopedia libre desde 2007 hasta 2022 concluyó que la brecha era significativa entre el voluntariado editor y provocaba <strong>disparidades</strong> de género en el contenido. El trabajo fue elaborado por investigadores de la Universitat de Barcelona y del grupo STEAM de la Universitat Oberta de Catalunya (UOC) y menciona algunas barreras que impiden que las mujeres participen más en Wikipedia, entre ellas, las experiencias de rechazo, la falta de tiempo y la propiedad del conocimiento.",
+      "zh": "发表于《PLOS One》的一项研究指出，2021年平台上活跃的女性编辑仅占区区11.6%。另一项对这部知名自由百科全书2007年至2022年间进行探索性回顾的研究得出结论：编辑志愿者群体中的性别差距十分显著，并导致了内容上的性别不均衡。该研究由巴塞罗那大学和加泰罗尼亚开放大学STEAM小组的研究人员合作完成，并提及了阻碍女性更多参与维基百科的若干障碍，包括遭受拒绝的经历、时间匮乏以及知识所有权问题。",
+      "vocab": [
+        {
+          "word": "exploratoria",
+          "translation": "探索性的（exploratorio/a）",
+          "note": "exploratoria 来自 explorar（探索），在学术文体中 revisión exploratoria 是固定搭配，指『初步摸底式的文献综述』，区别于 revisión sistemática（系统性综述），前者范围更广、结论更开放。"
+        },
+        {
+          "word": "disparidades",
+          "translation": "差距，不均衡，悬殊（disparidad的复数）",
+          "note": "disparidad 是学术和新闻文体中描述不平等的高频词，比 diferencia 更正式，常与 de género、social、económica 搭配，强调差距的结构性与不公平性。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "La enciclopedia virtual más grande del mundo exige referencias. Y encontrarlas, especialmente para mujeres del pasado, puede convertirse en una tarea <strong>titánica</strong>. \"Si ya es complicado encontrar fuentes sobre escritores medievales, imagínate sobre escritoras\", dice Consuelo Fernández (Madrid, 72 años), licenciada en Ciencia Económica, jubilada y colaboradora del proyecto desde sus inicios.",
+      "zh": "这部世界上最大的虚拟百科全书要求引用参考资料。而找到这些资料，尤其是针对历史上的女性，可能会成为一项艰巨无比的任务。「如果连找中世纪男作家的资料都已经很难，你可以想象找女作家的资料有多难，」经济学学士、退休人员、项目创始成员孔苏埃洛·费尔南德斯（马德里，72岁）说道。",
+      "vocab": [
+        {
+          "word": "titánica",
+          "translation": "艰巨的，巨大的，超人的",
+          "note": "titánico/a 来自希腊神话中的泰坦神族（Titanes），引申为『需要超人力量的、极其艰巨的』，在书面语中常修饰 tarea、esfuerzo、labor 等词，是一个有较强修辞色彩的形容词。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Mucha de esa documentación fue el resultado de <strong>conversatorios</strong> que han organizado. De allí salen nombres, temas, referencias y preguntas que luego se transforman en artículos. \"Hablamos de memoria democrática, de menopausia, de acompañamiento al final de la vida, de ciencia, de feminismo\", enumera Galdón. \"Escuchamos, tomamos referencias, identificamos entradas posibles y después editamos\", cuenta.",
+      "zh": "许多文献资料都来源于她们组织的专题研讨会。从中涌现出人名、议题、参考资料和问题，这些内容随后转化为词条文章。「我们谈论民主记忆、更年期、临终陪伴、科学、女性主义，」加尔东一一列举道。「我们聆听、收集参考资料、识别可能的词条，然后进行编辑，」她讲述道。",
+      "vocab": [
+        {
+          "word": "conversatorios",
+          "translation": "专题研讨会，座谈会（conversatorio的复数）",
+          "note": "conversatorio 在拉丁美洲西语中广泛使用，指一种以对话和互动为主的小型研讨形式，比 conferencia（讲座）更强调参与性和双向交流，是了解拉美学术文化语境的重要词汇。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Otras aparecen en <strong>editatonas</strong> (recuperación de biografías de mujeres narradas por otras mujeres) multitudinarias o talleres. Los hombres también son bienvenidos. \"Trabajamos con todos los detalles posibles. Sacamos fuentes de debajo de las piedras\", cuenta Marisa González (Bilbao, 82 años), artista pionera en la aplicación de nuevas tecnologías e integrante del grupo desde hace ocho años. Editar Wikipedia, dicen, es un trabajo acompañado de curiosidad y obsesión. \"Todo lo que se publique en Wikipedia tiene que estar <strong>sustentado</strong> en fuentes sólidas: libros, estudios, prensa. Tener esa información es fundamental\", detalla Galdón.",
+      "zh": "另一些词条则来自大规模的『编辑马拉松』（由女性叙述、恢复女性传记的活动）或工作坊。男性同样受到欢迎。「我们尽可能挖掘每一个细节，把资料从石头缝里抠出来，」毕尔巴鄂艺术家、新技术应用先驱、加入团队已八年的玛丽莎·冈萨雷斯（毕尔巴鄂，82岁）说道。她们表示，编辑维基百科是一项需要好奇心与执念相伴的工作。「维基百科上发布的所有内容都必须有扎实的来源支撑：书籍、研究、新闻报道。掌握这些信息至关重要，」加尔东详述道。",
+      "vocab": [
+        {
+          "word": "editatonas",
+          "translation": "编辑马拉松（女性传记集中编辑活动）",
+          "note": "editatona 是由 editar（编辑）+ 后缀 -atona（仿照 maratón 构成）创造的新词，专指维基百科社区中集中为女性创建词条的活动，体现了西语利用后缀造新词的活跃构词能力。"
+        },
+        {
+          "word": "sustentado",
+          "translation": "支撑的，依托的（sustentar的过去分词）",
+          "note": "sustentar 意为『支撑、维持、依托』，在学术文体中 sustentado en 是固定搭配，表示论点或内容『以……为依据』，比 basado en 更正式，语气更强调支撑的可靠性。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Wikipedia acaba de cumplir 25 años y el aniversario ha llegado en un momento delicado para la edición y creación de textos. Aunque sigue siendo una fuente central de información, recibe menos visitas directas desde la expansión de la inteligencia artificial en los buscadores web. \"La <strong>paradoja</strong> es que la IA se nutre en gran parte de Wikipedia, pero la <strong>invisibiliza</strong>\", explica Galdón.",
+      "zh": "维基百科刚刚迎来25周年，而这一周年纪念恰逢文本编辑与创作的敏感时期。尽管它依然是核心信息来源，但自人工智能在网络搜索引擎中大规模扩张以来，直接访问量已有所下降。「矛盾之处在于，人工智能在很大程度上以维基百科为养料，却让它变得不可见，」加尔东解释道。",
+      "vocab": [
+        {
+          "word": "paradoja",
+          "translation": "悖论，矛盾现象",
+          "note": "paradoja 在新闻和评论文体中极为常见，用于指出表面矛盾却同时为真的现象；形容词形式为 paradójico/a，副词为 paradójicamente，是一个高频学术词汇。"
+        },
+        {
+          "word": "invisibiliza",
+          "translation": "使……不可见，使……被忽视（invisibilizar的第三人称单数现在时）",
+          "note": "后缀 -izar 是西语中极为能产的动词化后缀，可将名词或形容词变为动词，如 invisibilizar（使不可见）、visibilizar（使可见）、normalizar（使正常化），掌握此后缀可大幅扩充词汇量。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "La enciclopedia colaborativa se financia a través de pequeñas donaciones. \"Si la gente deja de entrar, deja de donar\", <strong>advierte</strong> la socióloga. A esto se suman ataques ideológicos como los de Elon Musk, que ha cuestionado abiertamente el proyecto y ha lanzado su alternativa personal y conservadora escrita con IA. \"Si quiere sustituirla por otra cosa, es porque algo le preocupa. Wikipedia no responde a un pensamiento único\", <strong>sentencia</strong> Galdón.",
+      "zh": "这部协作式百科全书依靠小额捐款维持运营。「如果人们不再访问，就会停止捐款，」这位社会学家警告道。此外还有来自意识形态层面的攻击，例如埃隆·马斯克公开质疑该项目，并推出了他个人的、由人工智能撰写的保守派替代品。「如果他想用别的东西取而代之，说明有什么东西让他感到不安。维基百科不服从于任何单一思想，」加尔东斩钉截铁地说道。",
+      "vocab": [
+        {
+          "word": "advierte",
+          "translation": "警告，提醒（advertir的第三人称单数现在时）",
+          "note": "advertir 是假朋友：它与英语 advertise（做广告）形近，但含义为『警告、提醒、告诫』，切勿混淆；常见搭配为 advertir de que + 陈述句，或 advertir a alguien de algo。"
+        },
+        {
+          "word": "sentencia",
+          "translation": "（此处）斩钉截铁地说，断言（sentenciar的第三人称单数现在时）",
+          "note": "sentenciar 本义为法律上的『宣判』，在新闻文体中用作引语动词时，表示说话人以不容置疑的口吻『断言』某事，语气比 dice 或 afirma 更强硬、更具终结性。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "El avance de discursos reaccionarios también <strong>atraviesa</strong> su trabajo. Su fundadora reconoce la existencia de una reacción antifeminista, especialmente entre algunos jóvenes, pero se resiste al <strong>derrotismo</strong>. \"Prefiero poner el foco en el porcentaje que no está ahí\", dice. Y continúa: \"El desánimo te deja sin votar, sin editar, sin hablar\". El feminismo, afirma, no es excluyente, también caben los hombres: \"Deben estar. Sin ellos no vamos a ninguna parte\".",
+      "zh": "反动话语的蔓延同样渗透进她们的工作之中。创始人承认反女性主义的反弹确实存在，尤其是在部分年轻人中间，但她拒绝向失败主义屈服。「我宁愿把目光放在那些还没有走到那一步的人身上，」她说。她接着补充道：「沮丧会让你停止投票、停止编辑、停止发声。」她表示，女性主义并不排斥任何人，男性同样有一席之地：「他们必须在场。没有他们，我们哪儿也去不了。」",
+      "vocab": [
+        {
+          "word": "atraviesa",
+          "translation": "穿越，贯穿，渗透（atravesar的第三人称单数现在时）",
+          "note": "atravesar 本义为『穿越、横穿』，在社会评论文体中常用于抽象语境，表示某种现象或力量『渗透/贯穿』某个领域或群体，是一个语义延伸丰富的高频动词。"
+        },
+        {
+          "word": "derrotismo",
+          "translation": "失败主义，悲观主义",
+          "note": "derrotismo 由 derrota（失败/败北）+ 后缀 -ismo 构成，指一种认为失败不可避免、放弃抵抗的消极心态；后缀 -ismo 可构成大量表示思想倾向或主义的词，如 feminismo、pesimismo、activismo。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Después de 10 años, el grupo ha atravesado maternidades, cuidados, enfermedades y duelos. Al final, la idea vuelve al inicio: ocupar internet, existir en la red con nombre propio. \"Por eso es tan importante estar aquí\", afirma Galdón.",
+      "zh": "十年过去，这个团队共同经历了生育、照护、疾病与哀痛。最终，一切回归最初的那个念头：占据互联网，以自己的名字存在于网络之中。「这正是我们在这里的意义所在，」加尔东说道。",
+      "vocab": [
+        {
+          "word": "duelos",
+          "translation": "哀痛，丧亲之痛（duelo的复数）",
+          "note": "duelo 有两个主要含义：一是『决斗』，二是『哀悼、丧亲之痛』；此处为第二义，在心理学和社会议题文本中 proceso de duelo（哀伤历程）是常见搭配，需根据语境判断含义。"
+        }
+      ]
+    }
+  ]
+}

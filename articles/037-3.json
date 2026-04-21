@@ -1,0 +1,98 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "职场与社会评论",
+  "difficulty": "B2",
+  "wordCount": "约600词",
+  "title": "Trabajar gratis",
+  "subtitle": "免费劳动",
+  "resumenEs": "La autora denuncia con ironía la práctica habitual de invitar a profesionales autónomos a participar en eventos culturales y académicos sin remuneración, ocultando deliberadamente ese dato bajo eufemismos o lenguaje burocrático. Frente a quienes cobran por organizar dichos eventos, propone que las invitaciones a trabajar gratis lo digan claramente desde el principio.",
+  "resumenZh": "作者以讽刺笔调揭露了一种普遍现象：文化和学术活动的组织者惯于邀请自由职业者无偿参与，却用委婉语或官僚式语言刻意回避这一事实。面对那些靠组织活动领薪的人，她建议：如果邀请别人免费工作，请从一开始就把话说清楚。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Cada día me llegan al correo ofertas para trabajar gratis en programas ajenos, festivales de pago y cursos de verano en universidades privadas. Casi siempre son de gente que no conozco pero intuyo que cobran por organizar los eventos a los que me invitan. Sin embargo, encuentran apropiado que yo no lo haga. Consideran quizá que viajar a una ciudad de provincias para dormir en un hotel de tres estrellas y comer dos días seguidos un menú del día con otros compañeros es compensación suficiente y apropiada por mi esfuerzo. Sin embargo, nunca dicen expresamente: te ofrezco trabajo a cambio de comida y posta en un hotel con dispensadores de jabón <strong>taladrados</strong> en el azulejo. Lo que hacen es <strong>obviar</strong> el tema como si fuera un dato irrelevante, y hasta esquivarlo activamente, negándose a proporcionar la cifra en cuestión junto con el resto de datos específicos como la fecha, el lugar del evento y el tema a tratar.",
+      "zh": "每天都有邮件涌入我的收件箱，邀请我免费参与别人的项目、收费节庆活动以及私立大学的暑期课程。这些邀请几乎总是来自我不认识的人，但我直觉上感到，他们是有报酬的——正是他们在组织那些邀请我参加的活动。然而，他们却觉得我不拿报酬理所当然。他们或许认为，千里迢迢赶赴某个省城，住三星级酒店，连续两天和同行们一起吃商务套餐，就是对我付出的充分且合理的补偿。然而，他们从不明说：我用食宿换你的劳动，住的是那种肥皂盒用螺丝钉拧在瓷砖上的酒店。他们的做法是将报酬问题一笔带过，仿佛这是无关紧要的细节，甚至主动回避，拒绝在提供日期、活动地点和议题等具体信息的同时，一并告知那个关键数字。",
+      "vocab": [
+        {
+          "word": "taladrados",
+          "translation": "钻孔固定的，用钻头打入的（taladrar的过去分词）",
+          "note": "taladrar 意为『用钻头钻孔』，此处作者用这个细节描写廉价酒店的简陋，语气带有讽刺；名词 taladro 指电钻，掌握这个词根可联想到 perforar（穿孔）等同族词。"
+        },
+        {
+          "word": "obviar",
+          "translation": "回避，绕过，对……视而不见",
+          "note": "obviar 是假朋友：它与英语 obvious（明显的）同根，但含义相反——不是『使明显』，而是『绕开、略去不提』；在正式文体中常用于描述刻意回避某个问题的行为。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "O diciendo que \"ese asunto del que usted me habla\" puede ser consultado en el <strong>epígrafe</strong> correspondiente de la normativa que adjuntamos junto con otros aspectos de carácter general. Como si, a la hora de decidir si quieres hacer un trabajo, preguntar por los <strong>honorarios</strong> implica una preocupación <strong>mezquina</strong>, típica de almas mercenarias, frente a la generosidad luminosa del que ofrece la alternativa más pura de compartir lo que tienes sin esperar nada a cambio. Esta ambigüedad me resulta mucho más problemática que la propia propuesta. A veces hasta parece deliberada, pero no quiero pensar mal.",
+      "zh": "或者告诉我，『您所提及的那个事项』可以在随函附上的规章制度相应条款中查阅，连同其他一般性事项一并说明。仿佛在决定是否接受一份工作时，询问酬劳是一种小家子气的表现，是雇佣兵灵魂的典型特征——与那种慷慨无私、纯粹分享、不求回报的光辉姿态相比，显得格外庸俗。这种模糊态度在我看来比邀请本身更成问题。有时候甚至像是蓄意为之，但我不想以小人之心度君子之腹。",
+      "vocab": [
+        {
+          "word": "epígrafe",
+          "translation": "条款，章节标题；题词",
+          "note": "epígrafe 在法律和行政文体中指文件的『条款/章节』，在文学中指书籍或章节开头的『题词』；此处作者模仿官僚语气使用此词，带有明显的讽刺效果。"
+        },
+        {
+          "word": "honorarios",
+          "translation": "酬劳，报酬（尤指专业人士的费用）",
+          "note": "honorarios 专指医生、律师、顾问等自由职业者的『专业报酬』，与 sueldo（工资）或 salario（薪资）不同——后两者指雇佣关系下的固定薪酬，而 honorarios 强调按项目或服务收取的费用。"
+        },
+        {
+          "word": "mezquina",
+          "translation": "小气的，吝啬的，卑劣的",
+          "note": "mezquino/a 含义较强，不仅指『吝啬』，还带有道德上的贬义，暗示格局小、心胸狭隘；比 tacaño（抠门的）语气更重，在书面语中常用于带有鄙视色彩的评价。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Naturalmente que hay contextos en los que hablar de dinero no tiene lugar. En la vida académica, es natural y hasta necesario reunir a estudiosos de disciplinas <strong>colindantes</strong> en un hotel o museo para que compartan su investigación y <strong>polinicen</strong> con sus ideas instituciones lejanas. La fertilización cruzada es la madre de las revoluciones intelectuales, como observaba Thomas Kuhn en La estructura de las revoluciones científicas. Lo mismo pasa con los eventos sectoriales, donde las empresas mandan a sus comerciales a vender sus últimos productos junto a la competencia, hacer networking y cotillear. También está Bruselas en general. En todos estos casos, los participantes reciben un sueldo de la institución académica, la empresa comercial o de la administración, que financia su participación en estas actividades y paga los gastos extras del viaje, como el café del aeropuerto o el taxi a casa desde el avión.",
+      "zh": "当然，也有一些场合本就不适合谈钱。在学术生活中，将相邻学科的学者汇聚于某家酒店或博物馆，让他们分享研究成果、用思想为远方的机构授粉，这不仅自然，甚至是必要的。正如托马斯·库恩在《科学革命的结构》中所观察到的，交叉授粉是智识革命之母。行业活动也是如此——企业派出销售人员，与竞争对手并肩推介最新产品、拓展人脉、交流八卦。布鲁塞尔的各类活动大体也是这个逻辑。在所有这些情形中，参与者都从所在的学术机构、商业企业或行政部门领取薪酬，由其资助参与这些活动，并报销差旅附加费用，比如机场咖啡或从机场打车回家的费用。",
+      "vocab": [
+        {
+          "word": "colindantes",
+          "translation": "相邻的，毗邻的（colindar的现在分词，此处作形容词）",
+          "note": "colindar 意为『毗邻、接壤』，本用于描述地理上的相邻，此处引申为学科上的『相近/交叉』；前缀 co- 表示共同，-lindar 来自 linde（边界），构词逻辑清晰。"
+        },
+        {
+          "word": "polinicen",
+          "translation": "授粉；（此处引申）以思想相互启发（polinizar的虚拟式现在时）",
+          "note": "polinizar 本为生物学术语（授粉），此处用作比喻，指思想或知识的『交叉传播』；虚拟式的使用是因为前有 para que + 虚拟式，表示目的，这是西语中非常重要的语法结构。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Para los que trabajan cada día en la misma oficina con las mismas personas, probablemente es agradable cambiar de escenario y respirar aire fresco de vez en cuando. Por no hablar del resto de beneficios <strong>implícitos</strong> que ofrece alejarse de casa y cambiar el despacho por la barra del bar.",
+      "zh": "对于每天在同一间办公室与同一批人共事的人来说，偶尔换个环境、呼吸一下新鲜空气，大概是件惬意的事。更不用说离家出走、以吧台换办公桌所带来的其他种种隐性福利了。",
+      "vocab": [
+        {
+          "word": "implícitos",
+          "translation": "隐含的，不言而喻的（implícito的复数）",
+          "note": "implícito 与 explícito 构成一对反义词，前者指『不明说但默认存在的』，后者指『明确表达的』；两者都是B2以上学术和评论文体中的高频词，对应英语的 implicit 与 explicit。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Sin embargo, para el ejército de profesionales <strong>autónomos</strong> que vivimos de escribir libros y colaborar en periódicos, televisiones y radios, o hacer proyectos para museos, fundaciones y teatros, universidades e instituciones culturales en general, salir de viaje implica dejar de hacer nuestro trabajo y por lo tanto de cobrar para hacer otra cosa, que puede ser divertida o interesante pero que debería quedar lo suficientemente clara desde el comienzo de la interacción. Por eso me atrevo a sugerir que, la próxima vez que nos inviten a trabajar gratis, lo anuncien claramente en el asunto del mensaje. Estas son algunas sugerencias: oportunidad de visibilidad no remunerada. Colaboración no <strong>retribuida</strong> con mención en cartel. Ponencia voluntaria en evento con entrada de pago. Muchas gracias por su colaboración.",
+      "zh": "然而，对于我们这支庞大的自由职业者队伍——靠写书、为报纸、电视台和广播电台供稿，或为博物馆、基金会、剧院、大学及各类文化机构承接项目为生的人——出门旅行意味着放下手头的工作，也就意味着停止收入，去做另一件事。那件事或许有趣，或许令人愉快，但从一开始就应该说清楚。因此，我斗胆建议：下次邀请我们免费工作时，请在邮件主题栏里写明。以下是几点建议：无偿曝光机会。无报酬合作，海报上有署名。收费活动中的自愿演讲。感谢您的配合。",
+      "vocab": [
+        {
+          "word": "autónomos",
+          "translation": "自由职业者；自主的（autónomo的复数）",
+          "note": "autónomo 在劳动法和日常语境中专指『自由职业者/个体经营者』（即不受雇于固定单位的人），与 trabajador por cuenta propia 同义；前缀 auto- 表示『自我』，构词能力极强。"
+        },
+        {
+          "word": "retribuida",
+          "translation": "有报酬的，获得报偿的（retribuir的过去分词）",
+          "note": "retribuir 意为『给予报酬、回报』，no retribuida 即『无偿的』，与 remunerado 近义但更正式；前缀 re- 表示『回』，tri- 来自拉丁语『给予』，构词逻辑为『给予回报』。"
+        }
+      ]
+    }
+  ]
+}

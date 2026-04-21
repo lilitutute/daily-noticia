@@ -1,0 +1,110 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与娱乐",
+  "difficulty": "B2",
+  "wordCount": "约450词",
+  "title": "Las microseries generadas por IA están revolucionando el entretenimiento chino",
+  "subtitle": "AI生成的微短剧正在颠覆中国娱乐业",
+  "resumenEs": "Las microseries animadas generadas por inteligencia artificial se han disparado en popularidad en China, reduciendo los costes de producción hasta un 90% y desplazando al formato de acción real. Sin embargo, el modelo enfrenta obstáculos crecientes: nuevas regulaciones gubernamentales, saturación del mercado y la dificultad de generar vínculos emocionales duraderos con la audiencia.",
+  "resumenZh": "人工智能生成的动画微短剧在中国迅速走红，将制作成本压缩高达90%，并逐步取代真人拍摄模式。然而，这一模式面临日益严峻的挑战：政府新出台的监管规定、市场过度饱和，以及难以与观众建立持久情感联结的固有局限。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "En la serie animada 'El gato naranja, sacerdote taoísta: la lucha contra el rey zombi', un gato <strong>atigrado</strong> vestido con una túnica holgada utiliza amuletos mágicos y lazos láser para enfrentarse a una <strong>manada</strong> de gatitos muertos vivientes y despiadados. Estas aventuras felinas se presentan en docenas de episodios de dos minutos, o microseries, un formato de entretenimiento que fusiona los programas de televisión tradicionales con las publicaciones desplazables de las redes sociales. Las telenovelas animadas con IA protagonizadas por gatos que hablan pueden parecer un nicho, pero se han puesto de moda en China. El gato maestro taoísta ha logrado medio millón de visualizaciones.",
+      "zh": "在动画系列《橘猫道士：大战僵尸王》中，一只身着宽松道袍的虎斑猫手持魔法符咒和激光绳索，与一群凶残的僵尸小猫展开激战。这些猫咪冒险故事以数十集两分钟短片的形式呈现，即微短剧——一种将传统电视节目与社交媒体滑动浏览内容融合在一起的娱乐形式。以会说话的猫为主角、由AI制作的动画肥皂剧或许听起来小众，却在中国掀起了一股热潮。这位道士猫大师已累计获得五十万次播放量。",
+      "vocab": [
+        {
+          "word": "atigrado",
+          "translation": "虎斑的，有虎纹的",
+          "note": "atigrado 由 tigre（老虎）+ 后缀 -ado 构成，表示『具有老虎花纹特征的』；西语中大量形容词通过 -ado/-ada 后缀由名词派生，如 manchado（有斑点的）、rayado（有条纹的），掌握此规律可举一反三。"
+        },
+        {
+          "word": "manada",
+          "translation": "（动物的）群，一群",
+          "note": "manada 专指动物的群体，不同动物有对应的专用词：manada 多用于狼、马等，bandada 用于鸟群，cardumen 用于鱼群；切勿与 grupo（人的群体）混用，否则语感不自然。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "La industria del entretenimiento china se ha visto <strong>sacudida</strong> por el formato micro. El tiempo total dedicado a ver series más largas cayó un 15% <strong>interanual</strong> en enero, mientras que el tiempo de visualización en Red Fruit, una aplicación de microseries propiedad de ByteDance, la empresa china que hay detrás de TikTok, se duplicó con creces.",
+      "zh": "中国娱乐业已被微短剧格式所撼动。今年一月，观看长剧的总时长同比下降了15%，而字节跳动旗下——即TikTok背后那家中国公司——微短剧应用『红果』的观看时长则翻了不止一番。",
+      "vocab": [
+        {
+          "word": "sacudida",
+          "translation": "被撼动，被震荡（sacudir的过去分词）",
+          "note": "sacudir 本义为『摇晃、抖动』，在新闻文体中常以 verse sacudido por 的结构出现，表示某行业或社会被某事件『强烈冲击』，是描述颠覆性变化的高频隐喻动词。"
+        },
+        {
+          "word": "interanual",
+          "translation": "同比的，年度间的",
+          "note": "interanual 由 inter-（之间）+ anual（年度的）构成，是财经和新闻报道中的核心词汇，专指与上一年同期相比的变化，即『同比』；类似构词还有 intermensual（月度环比）、intertrimestral（季度环比）。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "El modelo de negocio se basa en una reducción agresiva de los costes. Las versiones de acción real utilizan actores aficionados y decorados muy básicos, pero están siendo superadas por las nuevas herramientas de animación con IA. La <strong>proliferación</strong> de estas en el último año ha permitido reducir los costes de producción hasta en un 90%, según estiman los analistas del banco HSBC. Fuentes del sector afirman que el volumen de microseries de acción real rodadas en algunas regiones se ha reducido en un 80%, mientras que los ya escasos salarios de los actores se han <strong>recortado</strong> a la mitad. Un productor afirma que, a principios de abril, solo tenía constancia de unas pocas microseries no animadas con IA que se estaban rodando en China.",
+      "zh": "这一商业模式建立在激进的成本压缩之上。真人版微短剧使用业余演员和极为简陋的布景，但正在被新兴的AI动画工具所取代。据汇丰银行分析师估计，过去一年间这些工具的大量涌现已将制作成本压缩了高达90%。业内消息人士称，部分地区真人微短剧的拍摄量已减少了80%，而本就微薄的演员片酬更是被腰斩。一位制片人表示，四月初他所知道的仍在中国拍摄的非AI动画微短剧寥寥无几。",
+      "vocab": [
+        {
+          "word": "proliferación",
+          "translation": "激增，大量涌现，扩散",
+          "note": "proliferación 来自 proliferar（激增、扩散），在新闻文体中常用于描述技术、内容或现象的快速蔓延，语气比 aumento（增加）更强，暗含难以控制的扩张态势；常见搭配有 proliferación de herramientas、proliferación nuclear。"
+        },
+        {
+          "word": "recortado",
+          "translation": "削减，缩减（recortar的过去分词）",
+          "note": "recortar 本义为『剪裁』，在经济和新闻语境中专指对预算、薪资、福利的『削减』，是财经报道中的高频词；名词形式 recorte（削减/裁员）同样极为常见，如 recortes salariales（薪资削减）。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Sin embargo, el modelo basado en la IA se enfrenta a dificultades. Desde el 1 de abril, las autoridades <strong>reguladoras</strong> exigen que todas las microseries animadas que no cuenten ya con autorización para su emisión en streaming sean retiradas de las plataformas en línea. Según afirman, las nuevas series deben solicitar autorización antes de su <strong>estreno</strong> en línea.",
+      "zh": "然而，这一基于AI的模式正面临重重困难。自四月一日起，监管当局要求所有尚未获得流媒体播出许可的动画微短剧从网络平台下架。当局表示，新系列必须在上线前申请审批授权。",
+      "vocab": [
+        {
+          "word": "reguladoras",
+          "translation": "监管的，监管机构的（regulador/a的复数）",
+          "note": "regulador/a 来自 regular（规范、调节），autoridades reguladoras 是新闻文体中的固定搭配，指政府监管机构；动词 regular、名词 regulación（监管）和 regulador（监管者）构成一个高频词族。"
+        },
+        {
+          "word": "estreno",
+          "translation": "首映，首播，首次上线",
+          "note": "estreno 专指影视作品的『首次公映/首播』，动词形式为 estrenar；注意它与 principio 或 inicio（开始）不同，estreno 特指作品面向公众的『首次亮相』，是娱乐新闻中的核心词汇。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Fuentes del sector afirman que el volumen de microseries de acción real rodadas en algunas regiones se ha reducido en un 80%, mientras que los ya escasos salarios de los actores se han recortado a la mitad. Los demás problemas de este modelo también se están haciendo más evidentes. Uno de ellos es la competencia excesiva. China ha producido tantas microseries generadas por IA que, a pesar de sus presupuestos reducidos, cada vez son menos los que consiguen suficientes visualizaciones para generar ingresos. Otro problema es la propia naturaleza de este tipo de entretenimiento. A la gente le cuesta crear <strong>vínculos</strong> emocionales con los personajes de las microseries; como espectadores, son menos <strong>fieles</strong>.",
+      "zh": "业内消息人士称，部分地区真人微短剧的拍摄量已减少了80%，而本就微薄的演员片酬更是被腰斩。这一模式的其他问题也愈发凸显。其中之一是过度竞争：中国生产的AI微短剧数量如此之多，以至于尽管预算低廉，能够获得足够播放量以产生收益的作品越来越少。另一个问题则源于这类娱乐内容的本质：观众很难与微短剧中的角色建立情感联结，作为受众，他们的忠诚度也更低。",
+      "vocab": [
+        {
+          "word": "vínculos",
+          "translation": "纽带，联结，情感连接（vínculo的复数）",
+          "note": "vínculo 在心理学和社会学语境中专指人与人或人与事物之间的『情感/社会联结』，crear vínculos 是固定搭配；比 conexión 更强调情感深度，比 relación 更强调内在的绑定感。"
+        },
+        {
+          "word": "fieles",
+          "translation": "忠实的，忠诚的（fiel的复数）",
+          "note": "fiel 在媒体和营销语境中常指受众或用户的『忠诚度』，如 espectadores fieles（忠实观众）、seguidores fieles（忠实粉丝）；注意它与英语 faithful 是同源词，含义一致，不是假朋友。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Los gigantes tecnológicos chinos están intentando <strong>adaptarse</strong>. Uno de ellos, Alibaba, ha lanzado una nueva temporada de una serie animada de larga duración llamada 'El cazador de demonios'. Cuenta con más de diez millones de seguidores. En la épica batalla por la audiencia, las series más largas aún pueden tener una oportunidad.",
+      "zh": "中国科技巨头们正在努力适应这一局面。其中，阿里巴巴推出了一部名为《捉妖记》的长篇动画系列的新一季，该剧已拥有逾千万粉丝。在这场争夺受众的史诗级角力中，长剧或许仍有一席之地。",
+      "vocab": [
+        {
+          "word": "adaptarse",
+          "translation": "适应，调整（adaptarse a）",
+          "note": "adaptarse 是反身动词，常与介词 a 搭配，构成 adaptarse a + 名词/动词原形，意为『适应某事物』；名词形式 adaptación 在媒体语境中还有『改编』之义（如 adaptación cinematográfica，电影改编），一词多义需注意。"
+        }
+      ]
+    }
+  ]
+}
