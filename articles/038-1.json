@@ -1,0 +1,231 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会与经济",
+  "difficulty": "B2",
+  "wordCount": "约900词",
+  "title": "Un 70% de jóvenes propietarios y límite de casas que se pueden comprar: el modelo chino para controlar los precios de la vivienda",
+  "subtitle": "七成年轻人拥有住房、限购政策并行：中国调控房价的模式",
+  "resumenEs": "China presenta una paradoja llamativa: más del 70% de los jóvenes menores de 35 años son propietarios de vivienda, mientras el sector inmobiliario atraviesa su mayor crisis desde 2021. El modelo chino combina propiedad estatal del suelo, restricciones de compra por número de inmuebles y condiciones hipotecarias más duras para terceras viviendas. Detrás de la alta tasa de propiedad juvenil no hay solo política pública, sino una profunda presión cultural que convierte el piso en requisito previo al matrimonio.",
+  "resumenZh": "中国呈现出一个引人注目的悖论：35岁以下年轻人中超过70%拥有住房，而房地产行业自2021年起却陷入历史性危机。中国模式将国家土地所有制、按套数限购政策与第三套房更严苛的贷款条件结合在一起。年轻人高房产拥有率的背后，不仅有公共政策的推动，更有将住房视为婚姻前提的深层文化压力。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Li Wei tiene dos apartamentos en la costa de Yantai. El primero lo compró hace 12 años, cuando el metro cuadrado parecía una apuesta segura en esta ciudad portuaria del noreste de China, entonces en plena <strong>ebullición</strong>. El segundo llegó poco después, con la idea de ponerlo a nombre de su hijo cuando este fuera a casarse. Ahora, con 46 años y buenos ahorros acumulados, Li quiere adquirir un tercer piso aprovechando la caída reciente de los precios. Pero en China, <strong>especular</strong> con una tercera vivienda no es tan sencillo.",
+      "zh": "李伟在烟台海岸拥有两套公寓。第一套购于12年前，彼时这座中国东北部港口城市正处于鼎盛时期，每平方米的价格看起来是一笔稳赚不赔的投资。第二套紧随其后，打算等儿子结婚时登记在他名下。如今，46岁的李伟积累了丰厚的储蓄，想趁近期房价下跌之机再购入第三套。然而在中国，投机购买第三套住房并非易事。",
+      "vocab": [
+        {
+          "word": "ebullición",
+          "translation": "沸腾；（引申）蓬勃发展，热火朝天",
+          "note": "ebullición 本义为液体的『沸腾』状态，在新闻文体中常以 en plena ebullición 的固定搭配出现，形容某地或某行业『正处于高速发展/极度活跃』的状态；动词形式 ebullir 较少用，更常见的是名词搭配。"
+        },
+        {
+          "word": "especular",
+          "translation": "投机，炒（房/股）",
+          "note": "especular 是典型的假朋友：它与英语 speculate 同源，但西语中 especular con algo 专指『以某物进行投机买卖』；名词 especulación（投机）、形容词 especulativo（投机性的）构成高频词族，在房产和金融新闻中极为常见。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "El Gobierno local de Yantai, donde viven más de tres millones de personas, eliminó el año pasado las restricciones sobre las dos únicas viviendas que puede registrar una familia bajo su nombre. Ahora pueden ser hasta tres. Pero el primer muro que ha encontrado Li, dueño de una academia, está en el banco. \"Si es un crédito para una tercera propiedad, me exigen un pago inicial por encima del 75% del valor total\", cuenta. Además, el <strong>tipo de interés hipotecario</strong> ya no es el <strong>preferente</strong> que obtuvo en sus dos primeras compras.",
+      "zh": "烟台市政府（该市人口逾三百万）去年取消了此前规定家庭名下最多只能登记两套住房的限制，现在最多可登记三套。然而，身为一家培训机构老板的李伟首先碰壁于银行。他说：「如果是第三套房的贷款，银行要求首付超过房屋总价的75%。」此外，贷款利率也不再是他购买前两套时享受的优惠利率。",
+      "vocab": [
+        {
+          "word": "tipo de interés hipotecario",
+          "translation": "房贷利率，按揭利率",
+          "note": "tipo de interés 是金融新闻中的核心固定搭配，意为『利率』；hipotecario/a 来自 hipoteca（抵押贷款/按揭），后缀 -ario 表示『与……相关的』，如 bancario（银行的）、tributario（税务的）、presupuestario（预算的），掌握此后缀可快速识别大量金融形容词。"
+        },
+        {
+          "word": "preferente",
+          "translation": "优惠的，优先的；（此处）优惠利率的",
+          "note": "preferente 来自 preferir（偏好），意为『享有优先/优惠待遇的』；tipo preferente 即『优惠利率』，是金融文体的固定搭配；注意 preferente 还可指股票中的『优先股』（acción preferente），一词多义需结合语境判断。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "El apartamento que estaba mirando Li, de 90 metros cuadrados en el centro de Yantai, <strong>ronda</strong> los dos millones de yuanes, que al cambio son alrededor de 245.000 euros, un precio mucho más <strong>asequible</strong> que en megaciudades como Pekín o Shanghai. Si un extranjero quisiera comprar esa vivienda, también encontraría restricciones. Normalmente solo podría adquirir una casa en China, y debe ser para uso propio y residencial, nunca para alquiler o inversión. Antes de efectuar la compra, debe además demostrar que ha trabajado o estudiado en el país asiático durante al menos un año con permiso de residencia.",
+      "zh": "李伟看中的那套公寓位于烟台市中心，面积90平方米，售价约200万元人民币，折合约24.5万欧元，比北京、上海等超大城市的房价实惠得多。如果外国人想购买这套住房，同样会遭遇诸多限制。通常情况下，外国人在中国只能购买一套住房，且必须用于本人自住，不得用于出租或投资。此外，在完成购房手续之前，还须证明其持有居留许可在华工作或学习至少满一年。",
+      "vocab": [
+        {
+          "word": "ronda",
+          "translation": "约为，大约在……左右（rondar的第三人称单数现在时）",
+          "note": "rondar + 数字 是新闻和口语中表达『大约、接近某数值』的高频表达，如 ronda los 30 años（年近三十）、el paro ronda el 12%（失业率约为12%）；比 aproximadamente 更简洁自然，是提升表达地道性的实用词。"
+        },
+        {
+          "word": "asequible",
+          "translation": "负担得起的，价格合理的；易于理解的",
+          "note": "asequible 是典型的一词多义词：在经济语境中指价格『可负担的』（precio asequible），在认知语境中指内容『易于理解的』（lenguaje asequible）；注意与英语 accessible 部分重叠但不完全对应，切勿直接套用。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Mientras Li tropieza con límites para hacerse con una tercera vivienda, en España los precios han <strong>escalado</strong> hasta máximos históricos sin que existan barreras comparables para quien quiera comprar varias propiedades, más allá de su capacidad financiera. En ciudades como Madrid y Barcelona el debate político gira en torno a cómo contener alquileres y ampliar la oferta pública, mientras que en grandes urbes chinas el dilema ha sido durante años cómo frenar el exceso.",
+      "zh": "就在李伟为购买第三套住房屡遭限制之际，西班牙的房价却已攀升至历史高位，而对于有意购置多套房产者，除自身财力之外几乎不存在任何可比的门槛。在马德里、巴塞罗那等城市，政治讨论的焦点在于如何遏制租金上涨、扩大公共住房供给；而在中国各大城市，多年来的难题恰恰相反——如何抑制过热。",
+      "vocab": [
+        {
+          "word": "escalado",
+          "translation": "攀升，急剧上涨（escalar的过去分词）",
+          "note": "escalar 本义为『攀登、爬升』，在新闻文体中引申为价格、冲突或紧张局势的『急剧升级/攀升』；常见搭配：escalar posiciones（晋升）、el conflicto escala（冲突升级）、los precios escalan（价格飙升）；名词 escalada 指『（价格/冲突的）急剧上升』。"
+        },
+        {
+          "word": "gira en torno a",
+          "translation": "围绕……展开，以……为核心",
+          "note": "girar en torno a 是新闻和学术文体中描述讨论或争议『核心焦点』的高频固定搭配；girar alrededor de 与之近义但稍口语化；注意 en torno a 本身也是独立的介词短语，可替换 sobre 或 acerca de，语气更正式。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "En Pekín hay una frase que los funcionarios repiten en discursos oficiales: \"Las viviendas son para vivir, no para especular\". No es un simple <strong>eslogan</strong>. Es la síntesis de un modelo que durante dos décadas convirtió la propiedad inmobiliaria en la <strong>piedra angular</strong> de la prosperidad familiar china y, al mismo tiempo, en una herramienta de control económico y social del régimen.",
+      "zh": "北京有一句官员在官方讲话中反复援引的话：「房子是用来住的，不是用来炒的。」这不是一句简单的口号，而是一种模式的精髓所在——这种模式在二十年间将房产所有权塑造为中国家庭繁荣的基石，同时也将其打造为政权进行经济和社会管控的工具。",
+      "vocab": [
+        {
+          "word": "eslogan",
+          "translation": "口号，标语",
+          "note": "eslogan 是西班牙语对英语 slogan 的音译借词，在政治和广告语境中指简短有力的宣传口号；西语中此类英语借词还有 estrés（stress）、fútbol（football）、líder（leader），了解借词规律有助于快速识词。"
+        },
+        {
+          "word": "piedra angular",
+          "translation": "基石，核心支柱",
+          "note": "piedra angular 字面义为建筑中的『角石/基石』，是固定的隐喻搭配，表示某事物是整个体系的『核心支撑』；类似的建筑隐喻还有 pilar fundamental（根本支柱）、columna vertebral（脊梁/核心）、cimiento（基础），在政治经济文本中极为常见。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Hoy, cuando en España los jóvenes miran asustados un inaccesible mercado, China ofrece una llamativa paradoja: un país donde la mayoría de los jóvenes son propietarios, pero donde el sector inmobiliario <strong>atraviesa</strong> una de las mayores crisis de su historia.",
+      "zh": "如今，当西班牙年轻人望着高不可攀的楼市望而生畏之际，中国却呈现出一个引人注目的悖论：一个大多数年轻人都拥有住房的国家，其房地产行业却正经历着有史以来最严重的危机之一。",
+      "vocab": [
+        {
+          "word": "atraviesa",
+          "translation": "正经历，正处于（atravesar的第三人称单数现在时）",
+          "note": "atravesar 本义为『穿越、横渡』，在新闻文体中以 atravesar una crisis / un período 的结构表示『正经历某一艰难阶段』，是描述危机或困境的高频隐喻动词；类似用法：el país atraviesa momentos difíciles（国家正处于艰难时期）。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "En China, todo el suelo urbano es, en última instancia, propiedad del Estado. Los gobiernos locales tradicionalmente han vendido derechos de uso por décadas a promotores privados, y esos ingresos han sido durante años una fuente esencial de financiación municipal. Esa estructura permitió una expansión <strong>vertiginosa</strong>: urbanizaciones enteras levantadas en meses, nuevas ciudades conectadas por trenes de alta velocidad, millones de metros cuadrados construidos para absorber la migración del campo a la ciudad. El resultado fue una tasa de propiedad cercana al 90% en el conjunto de los hogares urbanos, una cifra <strong>impensable</strong> en la mayoría de países europeos.",
+      "zh": "在中国，所有城市土地归根结底属于国家所有。地方政府历来将数十年的土地使用权出售给私人开发商，这些收入多年来一直是地方财政的重要来源。这一结构推动了令人眩晕的扩张：整片住宅区在数月内拔地而起，新城市通过高铁相互连接，数以百万计的平方米住房被建造出来，以承接农村向城市的人口迁移。最终结果是城镇家庭住房拥有率接近90%——这一数字在大多数欧洲国家是难以想象的。",
+      "vocab": [
+        {
+          "word": "vertiginosa",
+          "translation": "令人眩晕的，极速的，急剧的",
+          "note": "vertiginoso/a 来自 vértigo（眩晕），形容速度或变化之快令人『头晕目眩』；在新闻文体中常用于描述经济增长、价格变动或社会变革的『急速』程度，如 crecimiento vertiginoso（急速增长）、caída vertiginosa（急剧下跌）。"
+        },
+        {
+          "word": "impensable",
+          "translation": "难以想象的，不可思议的",
+          "note": "impensable 由 in-（否定）+ pensable（可想象的）构成；前缀 in- 在西语中是最能产的否定前缀之一：inaccesible（难以进入的）、inviable（不可行的）、insostenible（不可持续的）、inalcanzable（难以企及的），掌握 in- 可快速理解大量B2-C1词汇。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "El modelo dependía de que los precios siguieran subiendo. Durante casi 20 años, la vivienda en China fue la inversión más segura. Pero hubo una <strong>ruptura</strong> en 2021, cuando Pekín lanzó una campaña contra el endeudamiento excesivo de las grandes inmobiliarias. Gigantes como Evergrande <strong>colapsaron</strong> bajo montañas de deuda. Decenas de proyectos quedaron paralizados. La confianza se evaporó. Desde entonces, los precios han caído en muchas ciudades.",
+      "zh": "这一模式依赖于房价的持续上涨。近20年间，住房是中国最安全的投资。然而2021年出现了转折点——北京发起了一场针对大型房企过度负债的整治行动。恒大等巨头在债务山下轰然倒塌，数十个项目陷入停工，市场信心随之蒸发。此后，许多城市的房价持续下跌。",
+      "vocab": [
+        {
+          "word": "ruptura",
+          "translation": "断裂，决裂，转折点",
+          "note": "ruptura 来自 romper（打破），在新闻文体中既可指关系的『决裂』（ruptura diplomática），也可指趋势或模式的『断裂/转折』；动词 romper con algo 意为『与某事物决裂/打破某惯例』，是描述重大变化的高频表达。"
+        },
+        {
+          "word": "colapsaron",
+          "translation": "崩溃，垮塌（colapsar的第三人称复数简单过去时）",
+          "note": "colapsar 来自英语借词 collapse，在西语中已完全融入，可用于企业、建筑、系统或身体的『崩溃/垮塌』；名词 colapso 同样高频，如 colapso financiero（金融崩溃）、colapso del sistema（系统崩溃）；注意它比 fracasar（失败）语气更强，强调突然性。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Pero China <strong>presume de</strong> que la mayoría de encuestas urbanas coinciden en que más del 70% de los menores de 35 años es propietario de una vivienda. En algunos sondeos la proporción supera incluso el 80% si se contabilizan viviendas registradas a nombre de los padres, pero destinadas al hijo. Es un contraste radical con el caso de España, donde la tasa de propiedad entre jóvenes se ha <strong>desplomado</strong> desde la crisis financiera de 2008 y hoy se sitúa en niveles históricamente bajos.",
+      "zh": "然而中国引以为傲的是：大多数城市调查均显示，35岁以下年轻人中超过70%拥有住房。若将登记在父母名下、实际留给子女的住房一并计入，部分调查中这一比例甚至超过80%。这与西班牙的情况形成了鲜明对比——自2008年金融危机以来，西班牙年轻人的住房拥有率已大幅下滑，目前处于历史低位。",
+      "vocab": [
+        {
+          "word": "presume de",
+          "translation": "以……为傲，自夸拥有（presumir de的第三人称单数）",
+          "note": "presumir de 是固定搭配，意为『以某事自豪/自夸』；注意这是假朋友陷阱：presumir 不等于英语 presume（假定），而更接近 boast（自夸）；类似搭配：presumir de éxito（以成功自傲）、presumir de inteligente（自诩聪明）。"
+        },
+        {
+          "word": "desplomado",
+          "translation": "暴跌，骤降（desplomarse的过去分词）",
+          "note": "desplomarse 由 des-（否定/逆转）+ plomo（铅）构成，形容像铅块一样『急速坠落』；在经济新闻中专指数据的『骤降/暴跌』，比 bajar（下降）语气强烈得多；常见搭配：los precios se desplomaron（价格暴跌）、la bolsa se desplomó（股市崩盘）。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "\"Es importante entender el contexto cultural de este país antes de analizar los números\", explica un responsable comercial de Lianjia, una de las mayores agencias inmobiliarias chinas. \"Durante años, comprar vivienda no ha sido solo una decisión financiera, sino un <strong>requisito</strong> social. Especialmente para los hombres. En muchísimas familias, llegar al matrimonio sin un piso en propiedad era visto como una falta de estabilidad o incluso de responsabilidad\".",
+      "zh": "「在分析数据之前，理解这个国家的文化背景至关重要，」链家——中国最大的房产中介之一——的一位业务负责人解释道。「多年来，购房不仅仅是一项财务决策，更是一种社会必要条件。尤其对男性而言。在很多家庭中，结婚时没有一套自有住房，会被视为缺乏稳定性，甚至是不负责任的表现。」",
+      "vocab": [
+        {
+          "word": "requisito",
+          "translation": "必要条件，前提，要求",
+          "note": "requisito 在正式文体中指完成某事所必须满足的『前提条件』，如 requisitos de acceso（入学条件）、requisito previo（先决条件）；注意与 requerimiento 的区别：requisito 是客观存在的条件，requerimiento 更强调主动提出的要求或法律传唤。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "El agente, que lleva más de una década vendiendo viviendas en ciudades de segundo nivel como Yantai, lo describe <strong>sin rodeos</strong>: \"Cuando una pareja se plantea casarse, la conversación sobre la casa surge de inmediato. Y en la práctica, la presión recae sobre el novio y su familia. Los padres del chico suelen ayudar con el pago inicial, los abuelos aportan ahorros, y el joven asume una hipoteca elevada para poder presentarse ante la familia de la novia con una propiedad ya comprada\".",
+      "zh": "这位在烟台等二线城市从事房产销售逾十年的中介直言不讳：「当一对情侣打算结婚时，关于房子的话题立刻就会浮出水面。而实际上，压力落在男方和他的家庭身上。男孩的父母通常帮忙支付首付，祖父母拿出积蓄，年轻人则背负高额房贷，只为能在女方家人面前亮出一套已购置的房产。」",
+      "vocab": [
+        {
+          "word": "sin rodeos",
+          "translation": "直截了当，开门见山，不拐弯抹角",
+          "note": "sin rodeos 是固定搭配，字面义为『不绕弯子』，表示说话『直接、不兜圈子』；类似表达还有 sin ambages、al grano、con franqueza；动词 andarse con rodeos 意为『说话拐弯抹角』，是其反义固定搭配。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Según explica, esa dinámica ha tenido efectos profundos en el mercado. \"Durante años vimos a chicos muy jóvenes firmando préstamos a 30 años por importes muy altos en relación con su salario. No porque quisieran especular, sino porque sentían que era el paso previo <strong>imprescindible</strong> para casarse. La vivienda se convirtió en una especie de <strong>dote</strong> moderna. Sin piso, no había boda\".",
+      "zh": "据他介绍，这种动态对市场产生了深远影响。「多年来，我们看到很多非常年轻的小伙子签下30年期贷款，贷款金额相对于其薪资而言极为高昂。这不是因为他们想投机，而是因为他们觉得这是结婚前不可或缺的一步。住房变成了一种现代版的嫁妆。没有房子，就没有婚礼。」",
+      "vocab": [
+        {
+          "word": "imprescindible",
+          "translation": "不可或缺的，必不可少的",
+          "note": "imprescindible 由 in-（否定）+ prescindible（可省略的）构成；prescindible 来自 prescindir de（舍弃、不考虑），两者构成反义对；imprescindible 在新闻和学术文体中极为常见，语气比 necesario 更强，强调『绝对不能缺少』。"
+        },
+        {
+          "word": "dote",
+          "translation": "嫁妆；天赋，才能",
+          "note": "dote 是一词多义词：在历史和文化语境中指婚嫁时的『嫁妆/聘礼』，在日常语境中常以复数 dotes 出现，意为个人的『天赋、才能』，如 dotes de liderazgo（领导才能）；两种含义差异极大，需根据语境判断。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "El trabajador de Lianjia <strong>subraya</strong> que esta presión cultural contribuyó a sostener la demanda incluso cuando los precios estaban en máximos. \"Había momentos en que el mercado estaba claramente <strong>sobrecalentado</strong>, pero las compras seguían. No era solo inversión; era demostrar que el hijo estaba preparado para formar una familia\".",
+      "zh": "这位链家员工强调，这种文化压力在房价处于峰值时仍支撑着市场需求。「有些时候市场明显已经过热，但购房行为依然持续。这不仅仅是投资；更是在证明儿子已经做好了组建家庭的准备。」",
+      "vocab": [
+        {
+          "word": "subraya",
+          "translation": "强调，着重指出（subrayar的第三人称单数现在时）",
+          "note": "subrayar 本义为『在文字下划线』，引申为『强调、着重指出』，是新闻引语中最常用的动词之一；同义表达按语气由弱到强排列：señala（指出）→ destaca（突出）→ subraya（强调）→ insiste en（坚持认为）→ advierte（警告），掌握这一系列动词可大幅提升阅读精度。"
+        },
+        {
+          "word": "sobrecalentado",
+          "translation": "过热的（sobrecalentar的过去分词）",
+          "note": "sobrecalentado 由 sobre-（过度）+ calentado（加热的）构成；前缀 sobre- 表示『超过、过度』，可构成大量经济和新闻词汇：sobreendeudamiento（过度负债）、sobreoferta（供过于求）、sobrevalorado（高估的）、sobrepasar（超越），是极具构词价值的前缀。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "Otro empleado inmobiliario reconoce que la situación ha cambiado un poco en los últimos años. \"Con la crisis inmobiliaria y el alto desempleo juvenil, muchos jóvenes ahora dudan. Ya no están tan dispuestos a cargar con deudas enormes si no ven estabilidad laboral. Pero en muchas ciudades todavía es muy habitual que la primera pregunta cuando una pareja anuncia su <strong>compromiso</strong> sea: '¿Y la casa?'\".",
+      "zh": "另一位房产从业者承认，近年来情况已有所改变。「受房地产危机和高青年失业率影响，很多年轻人现在开始犹豫了。如果看不到工作稳定的前景，他们不再那么愿意背负巨额债务。但在很多城市，当一对情侣宣布订婚时，第一个问题仍然是：'那房子呢？'」",
+      "vocab": [
+        {
+          "word": "compromiso",
+          "translation": "订婚；承诺；妥协",
+          "note": "compromiso 是典型的一词多义词，也是假朋友：它与英语 compromise（妥协）同源，但西语中最常见的含义是『承诺/约定』或『订婚』（anunciar su compromiso = 宣布订婚）；在外交语境中也可指『妥协方案』；切勿默认等同于英语含义。"
+        }
+      ]
+    }
+  ]
+}
