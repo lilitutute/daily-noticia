@@ -1,0 +1,125 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "职场与社会",
+  "difficulty": "B2",
+  "wordCount": "约650词",
+  "title": "Un ascenso o la vida: por qué la generación Z rechaza ser jefa",
+  "subtitle": "升职还是生活：Z世代为何拒绝当上司",
+  "resumenEs": "Cada vez más jóvenes de la generación Z y algunos millennials rechazan conscientemente los ascensos laborales, argumentando que la mejora salarial no compensa la carga mental y la pérdida de vida personal. Este fenómeno, conocido como conscious unbossing o minimalismo profesional, no refleja falta de ambición sino el rechazo a un modelo de liderazgo percibido como insostenible. Expertos señalan que el problema no es la actitud de los jóvenes, sino empresas que no han actualizado sus estructuras de mando.",
+  "resumenZh": "越来越多的Z世代年轻人和部分千禧一代有意识地拒绝职场晋升，理由是薪资涨幅无法弥补随之而来的心理负担和个人生活的丧失。这一现象被称为「有意识的去领导化」或「职业极简主义」，折射出的不是缺乏上进心，而是对一种被视为不可持续的领导模式的拒绝。专家指出，问题的根源不在于年轻人的态度，而在于那些未能更新管理架构的企业。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "\"Los jóvenes no quieren ser jefes\", se lee con frecuencia en redes sociales y medios de comunicación, a menudo con intención de criticarlos, quizá, por su falta de ambición. Los miembros de la generación Z, pero también algunos <strong>mileniales</strong>, <strong>esgrimen</strong> que no les <strong>renta</strong> promocionar en sus empresas y asumir (más) responsabilidades porque la mejora salarial no compensa la carga mental que deberán enfrentar. Así, optan por mantenerse en sus puestos y no convertirse en jefes porque en sus actuales puestos tienen un horario y unas tareas con las que se sienten cómodos. Dicho de otro modo: tienen unas condiciones laborales compatibles con su vida personal.",
+      "zh": "「年轻人不想当上司」，这句话在社交媒体和新闻媒体上频繁出现，往往带着批评的意味——也许是批评他们缺乏上进心。Z世代成员，以及部分千禧一代，声称在公司晋升、承担（更多）责任对他们来说不划算，因为薪资的提升无法弥补随之而来的心理负担。因此，他们选择留在现有岗位、不去当上司——因为在现有岗位上，他们有着令自己感到舒适的工作时间和任务安排。换句话说：他们拥有与个人生活相兼容的工作条件。",
+      "vocab": [
+        {
+          "word": "mileniales",
+          "translation": "千禧一代（millenials的西班牙语借词）",
+          "note": "mileniales 是英语 millennials 的西班牙语音译，指1981至1996年间出生的一代人；西语中也写作 millennials（保留英语拼写）；与之相关的代际词汇：generación Z（Z世代，1997-2012年）、generación X（X世代，1965-1980年）、baby boomers（婴儿潮一代，1946-1964年）。"
+        },
+        {
+          "word": "esgrimen",
+          "translation": "援引，以……为论据（esgrimir的第三人称复数现在时）",
+          "note": "esgrimir 本义为『击剑、挥舞武器』，在新闻和论辩文体中引申为『援引某论据/以某理由为武器』，如 esgrimir un argumento（援引论据）、esgrimir razones（以理由为据）；这一隐喻用法在评论文章中极为高频，是提升阅读精度的关键词。"
+        },
+        {
+          "word": "renta",
+          "translation": "（此处）划算，值得（rentarle a alguien = 对某人有利可图）",
+          "note": "rentar 本义为『产生收益』，口语中 no me renta 意为『对我来说不划算/不值得』，是西班牙口语的高频表达；注意 renta 作名词时意为『收入、租金』（renta básica = 基本收入），动词与名词含义有所延伸，需结合语境判断。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "En los comentarios de ese artículo de Susana Carrizosa, algunos lectores aplaudían la decisión de quienes optan por no mandar: \"Vida sabia. Otros valores\", concretó José María Imízcoz. Por su parte, Elena Alma contó lo que ha visto entre sus compañeros del sector tecnológico: \"Las personas más felices que he conocido han sido las que han sabido dejar de correr detrás de la <strong>zanahoria</strong> y <strong>plantarse</strong> en un momento concreto: habían alcanzado una situación decente y sabían que no llegarían a ser CEO. Seguían trabajando bien, pero sin renunciar a vivir\".",
+      "zh": "在苏珊娜·卡里索萨那篇文章的评论区，一些读者对那些选择不当上司的人表示赞赏：「活得明智，价值观不同，」何塞·马里亚·伊米斯科斯如此评论。而埃莱娜·阿尔马则分享了她在科技行业同事中观察到的现象：「我认识的最幸福的人，是那些懂得停止追逐胡萝卜、在某个时刻选择站定的人：他们已经达到了一个体面的处境，也清楚自己不会成为CEO。他们依然好好工作，但没有放弃好好生活。」",
+      "vocab": [
+        {
+          "word": "zanahoria",
+          "translation": "胡萝卜；（引申）诱饵，画饼",
+          "note": "zanahoria 字面义为『胡萝卜』，此处用的是『用胡萝卜吊着驴子前行』的隐喻，指永远追不到的诱饵或激励；correr detrás de la zanahoria（追着胡萝卜跑）是固定隐喻，等同于中文『画饼充饥』或『追逐虚无的奖励』；这类动物寓言隐喻在西语中极为丰富。"
+        },
+        {
+          "word": "plantarse",
+          "translation": "停下来，站定，拒绝再前进",
+          "note": "plantarse 本义为『植物扎根』，引申为人『停在某处、拒绝继续前进』，带有主动选择、坚定立场的含义；注意与 pararse（停下来，较中性）的区别：plantarse 强调主动的、有意识的『不再往前走』，常用于描述对某种压力的抵制。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Algunos vendrán con la <strong>cantinela</strong> de que los jóvenes de hoy son unos <strong>flojos</strong> por justificar el rechazo a un ascenso por considerar que las nuevas condiciones no son compatibles con su vida, igual que se pronuncian cuando no aguantan horas y horas en sus empresas por el sueldo que tienen —el sueldo medio de los menores de 25 años, por cierto, no superó los 1.500 euros en 2024, el INE—, pero lo que sucede en muchas empresas es que los más jóvenes, con el tiempo, van asumiendo cada vez más tareas y, de facto, más responsabilidades, sin que se les recompense económicamente.",
+      "zh": "有些人会老调重弹，说如今的年轻人太懒散，以新条件与生活不兼容为由拒绝晋升——就像他们批评年轻人不肯在公司里熬无数个小时、就凭那点薪水一样——顺带一提，据西班牙国家统计局数据，2024年25岁以下年轻人的平均工资未超过1500欧元。但实际情况是，在许多企业里，年轻人随着时间推移承担了越来越多的任务，事实上也承担了更多责任，却得不到任何经济上的回报。",
+      "vocab": [
+        {
+          "word": "cantinela",
+          "translation": "老调，陈词滥调，没完没了的重复",
+          "note": "cantinela 本义为单调重复的『小曲』，引申为令人厌倦的『老生常谈/陈词滥调』；venir con la cantinela de que…（又来那套……的老调）是固定口语表达，带有明显的不耐烦语气；近义词 letanía（连祷文，引申为没完没了的抱怨）语气类似。"
+        },
+        {
+          "word": "flojos",
+          "translation": "懒散的，软弱的，不努力的（flojo的复数）",
+          "note": "flojo/a 本义为『松弛的、软的』，在口语中引申为『懒散的、不努力的』，如 ser muy flojo en el trabajo（工作上很懒散）；注意在拉美西语中 flojo 还可意为『胆小的』；与之对应的反义词 trabajador（勤劳的）、esforzado（努力的）。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "En LinkedIn es donde más se habla de estos temas por ser una red social dedicada al ámbito laboral. Un usuario dedicó una larga publicación sobre lo que se ha llamado <strong>conscious unbossing</strong>, un término que, trasladado al español, sería algo como <strong>desjefización consciente</strong>, pero también se resume en la expresión \"minimalismo profesional\" (cumplir el contrato laboral y mantener la vida privada). En su texto decía que los miembros de la generación Z lo que no quieren es \"ser jefes como los de antes\". \"Muchos jóvenes no rechazan el liderazgo, rechazan el modelo de liderazgo que ven. No dicen 'no quiero crecer', dicen 'no quiero quemarme', 'no quiero perder mi vida por un cargo'\".",
+      "zh": "领英是讨论这类话题最活跃的平台，因为它是一个专注于职场领域的社交网络。一位用户发表了一篇长文，探讨被称为「conscious unbossing」的现象——这个词译成西班牙语大约是「有意识的去领导化」，也可以用「职业极简主义」来概括（即履行劳动合同、同时维护私人生活）。他在文中写道，Z世代成员不想要的是「像以前那样当上司」。「很多年轻人拒绝的不是领导力本身，而是他们所看到的领导力模式。他们说的不是'我不想成长'，而是'我不想精疲力竭'，'我不想为了一个职位赔上自己的生活'。」",
+      "vocab": [
+        {
+          "word": "conscious unbossing / desjefización consciente",
+          "translation": "有意识的去领导化，主动选择不当上司",
+          "note": "conscious unbossing 是近年职场社会学新词，由 conscious（有意识的）+ unbossing（去领导化）构成；西班牙语对应词 desjefización 由 des-（否定/逆转）+ jefe（上司）+ -ización（名词化后缀，表示『……化的过程』）构成；后缀 -ización 极为能产：digitalización（数字化）、globalización（全球化）、automatización（自动化）。"
+        },
+        {
+          "word": "quemarse",
+          "translation": "精疲力竭，职业倦怠（burnout的西语表达）",
+          "note": "quemarse 字面义为『被烧焦』，在职场语境中是英语 burnout（职业倦怠）的西语惯用表达；名词形式为 quemado/a（精疲力竭的人）或 síndrome del quemado（职业倦怠综合征）；注意这一隐喻与中文『燃尽』高度对应，是跨语言的共同隐喻。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Otra publicación más reciente de un experimentado director de marketing advertía de que, si se trata de una crisis de liderazgo, es una que solo afecta a las empresas que no tienen en cuenta las reclamaciones de los más jóvenes, las que se han quedado <strong>ancladas</strong> en el pasado: \"El rol de mando intermedio lleva años convirtiéndose en una <strong>trampa</strong> silenciosa [...] sin autoridad real, sin recursos suficientes y con una responsabilidad que crece más rápido que el reconocimiento. ¿Y encima se supone que tienen que querer eso?\", se preguntaba. \"El liderazgo del futuro no va a ser menos. Va a ser diferente. Cuando lo hagamos atractivo de nuevo, con propósito real, límites sanos y autoridad que acompañe a la responsabilidad, veremos cómo vuelven las manos levantadas\", concluía su entrada.",
+      "zh": "另一篇由一位资深营销总监发表的近期文章警告说，如果这是一场领导力危机，那它只影响那些无视年轻人诉求、停留在过去的企业：「中层管理岗位多年来已悄然变成一个陷阱……没有真正的权威，没有足够的资源，而责任的增长速度却远超认可度。还要求他们心甘情愿地接受这一切？」他反问道。「未来的领导力不会是更少，而是不同。当我们重新让它变得有吸引力——赋予真正的目标、健康的边界、与责任相匹配的权威——我们就会看到举手的人重新出现，」他在文末如此总结。",
+      "vocab": [
+        {
+          "word": "ancladas",
+          "translation": "停滞于，固守于，被锚定在（anclar的过去分词）",
+          "note": "anclar 本义为『抛锚、用锚固定船只』，引申为思想或组织『停滞不前、固守某种状态』；quedarse anclado en el pasado（停留在过去）是固定搭配，带有明显的批评色彩；名词 ancla（锚）和 anclaje（锚定/固定）同族，在政治经济文本中也常见。"
+        },
+        {
+          "word": "trampa",
+          "translation": "陷阱，圈套",
+          "note": "trampa 在字面义上指捕猎用的『陷阱』，在引申义上指令人难以脱身的『圈套/困境』；caer en una trampa（落入陷阱）、tender una trampa（设下圈套）是核心固定搭配；注意 trampa 还可指考试或游戏中的『作弊』（hacer trampa = 作弊），一词多义需结合语境。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "A este rechazo a ser jefe por la falta de compensación o por preferir cuidar la vida personal, igual que sucedió con el <strong>quiet quitting</strong> —aquello de cumplir estrictamente con tus horarios y tus tareas—, lo han <strong>tildado</strong> de tendencia, pero al fin y al cabo es un derecho: el de recibir un salario y tener unas condiciones <strong>acordes</strong> a las responsabilidades y al puesto que uno ocupa.",
+      "zh": "这种因缺乏相应补偿或更倾向于照顾个人生活而拒绝当上司的态度，就像曾经的「安静离职」——即严格按照工作时间和任务要求完成工作——一样，被人们冠以「趋势」之名。但归根结底，这是一种权利：获得与自身责任和所担任职位相匹配的薪资与工作条件的权利。",
+      "vocab": [
+        {
+          "word": "quiet quitting",
+          "translation": "安静离职（只做合同规定内的工作，不多付出）",
+          "note": "quiet quitting 是2022年起流行的英语职场新词，指员工不辞职但只完成最低限度工作要求的行为；西语媒体直接借用英语原词，有时也译为 renuncia silenciosa；注意它与 conscious unbossing 的区别：前者是『不多做』，后者是『不往上走』，两者都是对传统职场文化的抵制。"
+        },
+        {
+          "word": "tildado",
+          "translation": "被冠以……之名，被称为，被贴上……标签（tildar的过去分词）",
+          "note": "tildar de + 名词/形容词 是固定搭配，意为『给某人/某事贴上……的标签』，通常带有轻微的批评或不认同语气，如 tildar de vago（被扣上懒惰的帽子）、tildar de radical（被称为激进分子）；比 llamar 更强调标签化的主观性。"
+        },
+        {
+          "word": "acordes",
+          "translation": "与……相符的，与……相匹配的（acorde的复数）",
+          "note": "acorde a / con 是固定搭配，意为『与……相称/相匹配』，如 un salario acorde a las responsabilidades（与责任相匹配的薪资）、condiciones acordes con el puesto（与岗位相符的条件）；注意 acorde 作名词时意为音乐中的『和弦』，是典型的一词多义。"
+        }
+      ]
+    }
+  ]
+}
