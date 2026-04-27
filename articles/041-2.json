@@ -1,0 +1,115 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "文学与社会",
+  "difficulty": "C1",
+  "wordCount": "约1100词",
+  "title": "Hipopótamos y novelas",
+  "subtitle": "河马与小说",
+  "resumenEs": "El escritor colombiano Juan Gabriel Vásquez reflexiona sobre el legado de Pablo Escobar a través de dos hilos narrativos: el impacto duradero del narcotráfico en la sociedad colombiana y la historia de los hipopótamos que el capo introdujo en su hacienda. Un encuentro casual con la foto de un hipopótamo cazado le reveló la clave narrativa de su novela El ruido de las cosas al caer.",
+  "resumenZh": "哥伦比亚作家胡安·加夫列尔·巴斯克斯通过两条叙事线索反思巴勃罗·埃斯科瓦尔的遗产：毒品走私对哥伦比亚社会的持久影响，以及毒枭引入庄园的河马的故事。一张偶然看到的被猎杀河马的照片，让他找到了小说《坠落之声》的叙事密钥。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "El terrorista Pablo Escobar, uno de los grandes asesinos del siglo pasado, murió <strong>abaleado</strong> sobre un tejado de Medellín a finales de 1993. Había escapado un año y medio atrás de la cárcel La Catedral, construida por él mismo para permitir ese eventual escape, y esa huida <strong>sumió</strong> a Colombia y a sus instituciones en una crisis tan aguda que se creó un ejército entero cuya única misión era capturarlo vivo o muerto. Eso sucedió por fin a comienzos de diciembre, un día que era soleado en mi ciudad, y no se me han diluido en la memoria las caras de mis compañeros de la facultad de Derecho cuando nos enteramos de la noticia: había en ellas algo que solo puedo llamar alivio. He vuelto a pensar en ese día porque Colombia entera está hablando una vez más del legado de Escobar, pero esta vez refiriéndose a una de sus facetas más extrañas: la obligación de lidiar con una población de hipopótamos —169, según los conteos oficiales— que se han convertido con los años en un enorme problema ambiental, además de una metáfora maravillosa.",
+      "zh": "恐怖分子巴勃罗·埃斯科瓦尔，上个世纪最凶残的杀手之一，于1993年底在麦德林的一处屋顶上中弹身亡。一年半前，他从自己亲手建造、专为日后逃脱而设计的『大教堂』监狱越狱，这次出逃使哥伦比亚及其各项机构陷入了极度危机，以至于专门组建了一支军队，其唯一使命就是将他活捉或击毙。这一切终于在十二月初的某天实现，那天我所在的城市阳光明媚。当我们得知这个消息时，法学院同学们脸上的神情至今未在我记忆中消散：那神情里有某种我只能称之为如释重负的东西。我之所以重新想起那一天，是因为整个哥伦比亚再次谈论起埃斯科瓦尔的遗产，但这一次谈论的是他最奇特的一面：如何应对一群河马——据官方统计有169头——这些年来已演变为一个巨大的环境问题，同时也是一个绝妙的隐喻。",
+      "vocab": [
+        {
+          "word": "abaleado",
+          "translation": "中弹身亡的，被枪击的",
+          "note": "abalar/abalear 是拉丁美洲西班牙语用词，意为『用子弹射击』，由 bala（子弹）派生而来；在西班牙本土更常用 disparar 或 matar a tiros，这是一个典型的拉美区域词汇，体现了西语的地域变体。"
+        },
+        {
+          "word": "sumió",
+          "translation": "使陷入，使沉浸于",
+          "note": "sumir 意为『使深陷于某种状态』，常见搭配为 sumir en + 名词，如 sumir en la crisis（使陷入危机）、sumir en el caos（使陷入混乱），是文学和新闻文体中描述急剧恶化状态的高频动词。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "No es de extrañarse: así ha ocurrido siempre todo lo relacionado con esos años. Vuelvo a la muerte de Escobar. Con ella se cerraba, o creíamos que se cerraba, una década de guerra abierta entre los carteles de la droga y el Estado colombiano que nos había puesto a los colombianos en medio de las balas y las bombas: en su lucha contra el demonio de la extradición, Escobar había descubierto que no solo se ganaban batallas asesinando a quienes la <strong>propugnaban</strong> –jueces, legisladores, candidatos a la presidencia–, sino también a los ciudadanos sin discriminación alguna. Las bombas con las que crecí, que Pablo Escobar mandaba poner en centros comerciales en el Día de la Madre, o en aviones de aviación comercial, o en edificios simbólicos (la agencia de Inteligencia del Estado, por ejemplo, o frente a la Cámara de Comercio), convirtieron la vida de una generación o de varias en un campo minado: todos sabíamos que cualquiera podía salir de su casa y no volver nunca. De manera que la desaparición violenta de Escobar –en nuestras memorias vive la imagen de su cuerpo muerto sobre los tejados y el grupo de los hombres armados rodeándolo como un trofeo de caza– provocó la ilusión de que terminaba la influencia <strong>nefasta</strong> que había tenido sobre la vida en Colombia.",
+      "zh": "这并不令人意外：与那些年相关的一切，向来如此。我回到埃斯科瓦尔之死。随着他的死，一个时代画上了句号——或者我们以为画上了句号——那是毒品集团与哥伦比亚国家之间长达十年的公开战争，这场战争让哥伦比亚人置身于枪林弹雨之中：在与引渡这个恶魔的斗争中，埃斯科瓦尔发现，不仅可以通过暗杀那些倡导引渡的人来赢得战役——法官、立法者、总统候选人——还可以无差别地屠杀普通市民。我在炸弹声中长大，那些炸弹是巴勃罗·埃斯科瓦尔命人安置的：在母亲节的购物中心，在民航客机上，在标志性建筑里（比如国家情报局，或商会门前）。这一切将一代乃至数代人的生活变成了一片雷区：我们都知道，任何人都可能走出家门，再也回不来。因此，埃斯科瓦尔的暴力消亡——他死在屋顶上的形象和一群武装男子将他团团围住如同猎物战利品的画面至今留存在我们记忆中——制造了一种幻觉：他对哥伦比亚生活所施加的那种灾难性影响终于结束了。",
+      "vocab": [
+        {
+          "word": "propugnaban",
+          "translation": "倡导，主张，极力推动",
+          "note": "propugnar 意为『积极倡导、大力推动某一立场或措施』，语气比 defender（捍卫）更强调主动出击和公开鼓吹，是政治和法律文体中的正式用词，常用于描述对某一政策的坚定支持。"
+        },
+        {
+          "word": "nefasta",
+          "translation": "灾难性的，极其有害的，不祥的",
+          "note": "nefasto/a 源自拉丁语，意为『不吉利的、带来灾祸的』，在现代西语中用于描述造成严重负面影响的人或事物，语气强烈，比 negativo 或 dañino 更具文学色彩和情感力度。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "La realidad no podía ser más distinta. Escobar sigue presente entre nosotros de mil maneras, de lo grande a lo pequeño, de lo definitivo a lo banal. Está presente porque el narcotráfico de esos años <strong>trastocó</strong> para siempre los valores de toda la sociedad colombiana, que ahora vive luchando todos los días contra una cultura mafiosa y corrupta que lo ha <strong>impregnado</strong> todo: la política, el fútbol, la manera de hacer negocios, la estética del cuerpo de las mujeres, la forma que tienen los hombres de mirarlo. Desde la forma como las drogas definen la agenda internacional de Colombia hasta las series de televisión frívolas o logradas, desde la literatura que ha intentado contar lo sucedido hasta las camisetas con la cara de Escobar que los imbéciles del mundo entero se ponen con orgullo, Escobar sigue presente. Y es aquí donde aparecen los hipopótamos cuya eutanasia ha sido decidida por el Gobierno actual y ha provocado debates intensos entre animalistas, ambientalistas y meros indignados profesionales. En mi país, tan agobiado por mil violencias, hundido como está en una guerra que ya parece eterna, la posibilidad de matar a una especie invasora nos tiene hablando de eutanasia, de caridad y de derechos.",
+      "zh": "现实却截然相反。埃斯科瓦尔以千种方式继续存在于我们之中，从宏大到渺小，从根本到琐碎。他之所以仍在，是因为那些年的毒品走私永久性地颠覆了整个哥伦比亚社会的价值观，如今这个社会每天都在与一种渗透了一切的黑手党式腐败文化搏斗：政治、足球、做生意的方式、女性的身体审美、男性看待这一切的眼光。从毒品如何左右哥伦比亚的国际议程，到轻浮或精良的电视剧；从试图讲述往事的文学，到全世界各地的蠢货们骄傲地穿着印有埃斯科瓦尔头像的T恤——埃斯科瓦尔依然无处不在。正是在这里，河马登场了——现任政府已决定对其实施安乐死，这在动物权利倡导者、环保人士和职业愤怒者之间引发了激烈争论。在我的国家，这个被千种暴力压垮、深陷一场看似永无止境的战争的国家，消灭一个入侵物种的可能性，却让我们谈起了安乐死、慈悲与权利。",
+      "vocab": [
+        {
+          "word": "trastocó",
+          "translation": "颠覆，彻底打乱，使混乱",
+          "note": "trastocar 意为『将原有秩序彻底打乱、颠覆』，比 cambiar 更强调破坏性的根本性改变；注意与 trastornar（使精神紊乱）区分：trastocar 侧重秩序和价值观的颠覆，trastornar 更多指精神或情绪上的扰乱。"
+        },
+        {
+          "word": "impregnado",
+          "translation": "渗透，浸透，充斥",
+          "note": "impregnar 本义为液体『浸透、渗入』某物，引申为某种文化、气氛或影响『无处不在地渗透』某一领域，是文学和评论文体中描述深层影响的常用隐喻动词，比 influir 更强调全面渗透的程度。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Los primeros ejemplares llegaron a Colombia a comienzos de los años ochenta. Eran parte del proyecto <strong>megalómano</strong> de Escobar: un zoológico construido en la más extensa propiedad del mafioso, la Hacienda Nápoles, cuyas cuatro mil hectáreas le servían de cuartel general, lugar de recreo y aeropuerto con varias pistas para que despegaran y aterrizaran los aviones de la droga. En el zoológico había animales que la mayoría de los colombianos sólo había podido ver en enciclopedias o en documentales: delfines rosados, flamencos de colores vivos, rinocerontes y elefantes y canguros y guacamayas amazónicas y hasta un loro capaz de recitar la alineación de la selección colombiana de fútbol. Todos los que Escobar trajo de lejos, comprados en el mercado negro por un hombre que tenía todo el dinero del mundo, llegaron en un avión Hércules de nombre impagable: El arca de Noé. Así sucedió con los tres hipopótamos machos y la hembra que vino más tarde. En ese paraíso mafioso, con toda el agua que hubieran podido desear y sin ninguno de los <strong>depredadores</strong> de su hábitat original, los hipopótamos se pusieron a la tarea de reproducirse. Tras la desaparición de Escobar, cuando sus propiedades pasaron a manos del Estado y entraron en un espiral de abandono y decadencia, los hipopótamos salieron de su <strong>cautiverio</strong> a buscarse la vida, y colonizaron –la palabra no es inapropiada– aquella zona del valle del río Magdalena.",
+      "zh": "最初的几头河马于八十年代初抵达哥伦比亚。它们是埃斯科瓦尔那个妄自尊大计划的一部分：在这位黑手党头目最大的庄园——拿波勒斯庄园——修建的一座动物园。那四千公顷的土地既是他的指挥总部，也是休闲之所，还设有多条跑道供毒品飞机起降。动物园里有大多数哥伦比亚人只在百科全书或纪录片中见过的动物：粉红色海豚、色彩鲜艳的火烈鸟、犀牛、大象、袋鼠、亚马逊金刚鹦鹉，甚至还有一只能背诵哥伦比亚国家足球队首发阵容的鹦鹉。所有这些由埃斯科瓦尔从远方带来、由这个拥有世间一切财富的人在黑市购得的动物，都乘坐一架名字妙不可言的大力神运输机抵达：『诺亚方舟』号。三头雄性河马和后来加入的一头雌性河马也是如此。在那个黑手党天堂里，拥有充足的水源，又没有任何原栖息地的天敌，河马们便开始了繁殖大业。埃斯科瓦尔消亡后，他的财产转入国家手中，陷入废弃与衰败的螺旋，河马们走出囚笼，自谋生路，并——这个词并不为过——殖民了马格达莱纳河谷的那片区域。",
+      "vocab": [
+        {
+          "word": "megalómano",
+          "translation": "妄自尊大的，有夸大狂的",
+          "note": "由希腊语前缀 mega-（巨大）+ manía（狂热、偏执）构成，megalomanía 指一种自我膨胀、渴望权力和宏大的心理状态；mega- 前缀在现代词汇中极为活跃，如 megaproyecto、megaciudad，掌握后可类推大量词汇。"
+        },
+        {
+          "word": "depredadores",
+          "translation": "捕食者，天敌，掠食动物",
+          "note": "depredador 源自 depredar（掠夺、捕食），在生态学中专指『捕食其他动物的天敌』；在社会和经济语境中也可比喻性地指『掠夺性的人或机构』，如 empresas depredadoras（掠夺性企业）。"
+        },
+        {
+          "word": "cautiverio",
+          "translation": "囚禁，圈养，被俘状态",
+          "note": "cautiverio 指动物或人被关押、失去自由的状态，由 cautivo（囚犯、被俘者）派生；en cautiverio 是固定搭配，常用于描述动物园或监狱中的圈养状态，与 libertad（自由）形成对比。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "En 2009 ya se habían convertido en un serio problema ambiental. Los hipopótamos son animales agresivos y territoriales, y consumen los recursos que las especies <strong>autóctonas</strong> necesitan para vivir; uno de ellos, Pepe, había atacado a los campesinos de la zona. Un pequeño ejército de hombres armados se constituyó para darle <strong>cacería</strong>, y acabaron por tener éxito. Yo estaba por esos años atravesando una crisis intensa, que es como los novelistas nos referimos a veces a lo que los demás ven simplemente como la escritura de una novela. Era la historia de un piloto que en los años setenta comienza a llevar drogas ilegales a Estados Unidos; pero la historia se negaba a tomar forma, a convencerme de su necesidad: se negaba a ser urgente, y cierta forma de la urgencia es la única razón válida que necesito para emprender ese viaje con mapas en blanco que es una ficción de cierta complejidad. Y entonces, un día, me topé con una foto publicada a doble página en una revista: allí estaba el cuerpo brutal del hipopótamo muerto, una bestia del color de las perlas negras y tonelada y media de peso, rodeado de sus cazadores.",
+      "zh": "到2009年，河马已成为严重的环境问题。河马是具有攻击性的领地动物，会消耗本土物种赖以生存的资源；其中一头名叫『佩佩』的河马曾袭击当地农民。一支由武装人员组成的小队伍奉命对其展开追猎，最终得手。那几年，我正经历一场强烈的危机——这是小说家有时用来描述别人眼中不过是写一部小说的说法。那是一个飞行员的故事，他在七十年代开始向美国运送毒品；但这个故事拒绝成形，拒绝让我相信它存在的必要性：它拒绝变得紧迫，而某种形式的紧迫感是我踏上那段以空白地图为伴的旅程——即一部具有一定复杂性的虚构作品——所需的唯一有效理由。就在那时，某天，我偶然看到一本杂志上的一张跨页照片：那头死去的河马的庞大躯体就在那里，一头黑珍珠色、重达一吨半的巨兽，被猎手们团团围住。",
+      "vocab": [
+        {
+          "word": "autóctonas",
+          "translation": "本土的，原生的，土著的",
+          "note": "autóctono/a 由希腊语 auto-（自身）+ chthon（土地）构成，意为『源自本地、非外来引入的』，在生态学中指本土物种，与 invasor/a（入侵的）相对；auto- 前缀还出现在 autónomo、autobiografía 等词中。"
+        },
+        {
+          "word": "cacería",
+          "translation": "猎捕，追猎，狩猎行动",
+          "note": "cacería 指一次具体的狩猎行动或追捕行动，由 caza（狩猎）派生；dar cacería a 意为『追猎、追捕某目标』，在新闻中也可比喻性地用于追捕逃犯，如 dar cacería al fugitivo（追捕逃犯）。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "De repente, sin saber muy bien por qué, recordé mi propia visita al zoológico de la Hacienda Nápoles, allá por 1983 o 1984, y entraron como una marea los recuerdos de esa época. Era la primera vez que pensaba en ellos –en esas anécdotas, en esos miedos–, y comprendí que la novela no debía contar tan sólo la historia del piloto, <strong>anclada</strong> en los años setenta, sino también la de un hombre de mi generación que visita, a través de la vida del piloto, los años difíciles que dieron forma a nuestras vidas: que nos marcaron y nos siguen marcando. Para cuando llegué al final de El ruido de las cosas al caer, que así se llama ese libro, la imagen del hipopótamo cazado se había quedado lejos, <strong>anclada</strong> en la primera página. Pero ha seguido haciendo parte de mis conversaciones todos estos años, los 15 que han pasado desde la publicación de la novela, y no parece que se vaya a ir a ninguna parte. Los hipopótamos de la realidad colombiana siguen, como ese hipopótamo de ficción, haciendo parte de mis días.",
+      "zh": "突然间，不太明白为何，我想起了自己大约在1983年或1984年参观拿波勒斯庄园动物园的经历，那个年代的记忆如潮水般涌来。那是我第一次想起它们——那些往事，那些恐惧——我意识到，这部小说不应只讲述那个停留在七十年代的飞行员的故事，还应讲述一个与我同代的人的故事，他借助飞行员的人生，重访那些塑造了我们生命的艰难岁月：那些曾经并继续在我们身上留下印记的岁月。当我写完《坠落之声》——那本书就叫这个名字——时，那头被猎杀的河马的形象已退至远处，停留在第一页。但在此后的这些年里，在小说出版后的15年间，它始终是我谈话的一部分，似乎并不打算离去。哥伦比亚现实中的河马，就像那头虚构的河马一样，依然是我日常生活的一部分。",
+      "vocab": [
+        {
+          "word": "anclada",
+          "translation": "停留于，固定于，扎根于",
+          "note": "anclar 本义为船只『抛锚、停泊』，引申为某事物或某人『停留、固定在某一时间或状态中』；anclado en 是文学和评论文体的常见搭配，如 anclado en el pasado（停留在过去），带有无法前行的隐喻意味。"
+        }
+      ]
+    }
+  ]
+}
