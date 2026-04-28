@@ -1,0 +1,89 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会与时评",
+  "difficulty": "C1",
+  "wordCount": "约600词",
+  "title": "Nuestra burbuja",
+  "subtitle": "我们的泡沫",
+  "resumenEs": "El artículo analiza la crisis de vivienda en España: la especulación internacional, el crecimiento demográfico sin infraestructuras, y la complicidad de quienes se benefician de los precios altos. El autor critica la falta de voluntad política para regular el mercado y propone tres reformas clave: limitar la vivienda como refugio de inversión, exigir más al turismo y cambiar la mentalidad rentista.",
+  "resumenZh": "文章分析西班牙住房危机：国际投机、人口增长却基础设施不足，以及那些从高房价中获益者的共谋。作者批评政界缺乏监管市场的政治意愿，并提出三项关键改革：限制住房作为投资避风港、向旅游业索取更多补偿，以及改变食利者心态。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "En España ya no se puede pronunciar la palabra «vivienda» así aislada. Con la palabra vivienda ha pasado lo mismo que con expresiones compuestas que no se pueden disociar, tipo coche bomba, caja fuerte, hombre araña o pez espada. Ya no se puede hablar de la vivienda, sino del <strong>problema de la vivienda</strong>. Las dificultades de acceso a un alquiler o una compra razonable, que no implique un esfuerzo mensual <strong>inalcanzable</strong> para un salario medio, han convertido el asunto en un dolor de cabeza para los ciudadanos, que son los que afrontan sus necesidades básicas de manera heroica, y para los responsables políticos y sociales, que no dan con la tecla para <strong>atajar</strong> este disparate. Varias ciudades españolas han ascendido, o mejor sería decir descendido, a la categoría de centro urbano especulativo, algunas incluso localizadas en territorio vacacional, al modo en que sucedió en París, Londres y Nueva York hace décadas. Esto significa que el capital internacional <strong>apalanca</strong> en una propiedad su capital salvaguardado mientras <strong>machaca</strong> el mercado local. La segunda gran revelación es que España ha aumentado su población y nadie ha hecho nada para compensarlo. Basta utilizar el transporte público en Madrid para tomar conciencia de que muchas más personas se disputan el mismo espacio, la misma frecuencia de servicio y las mismas infraestructuras sin reinversión.",
+      "zh": "在西班牙，『住房』这个词已经无法单独说出口了。『住房』这个词的遭遇，和那些无法拆分的复合词一样，比如炸弹车、保险箱、蜘蛛侠或剑鱼。人们不再谈论住房，而是谈论住房问题。获得合理租房或购房机会的困难——不需要普通工资难以承受的每月支出——已将这一问题变成公民的头痛之事，他们正在英勇地应对自己的基本需求；同时也令政治和社会责任人头疼，他们找不到解决这一荒谬局面的方法。几个西班牙城市已经晋升——或者更应该说是沦落——为投机性城市中心，其中一些甚至位于度假区，就像几十年前巴黎、伦敦和纽约发生的那样。这意味着国际资本将其保全的资金押注于房产，同时碾压本地市场。第二个重大发现是，西班牙人口增加了，但没有人采取任何措施加以弥补。只需乘坐马德里的公共交通，就能意识到越来越多的人在争夺同样的空间、同样的服务频次和同样缺乏再投资的基础设施。",
+      "vocab": [
+        {
+          "word": "inalcanzable",
+          "translation": "难以企及的，遥不可及的，无法实现的",
+          "note": "in-（否定）+ alcanzable（可达到的，源自 alcanzar 达到）构成，形容某目标或标准超出了普通人的能力范围；在社会评论中常用于描述工资与生活成本之间的鸿沟，如 precio inalcanzable（高不可攀的价格）。"
+        },
+        {
+          "word": "atajar",
+          "translation": "制止，遏制，走捷径解决",
+          "note": "atajar 本义为『走捷径、抄近路』，引申为『迅速制止或遏制某一问题』；no dar con la tecla para atajar（找不到解决的方法）是文中的生动搭配，tecla（琴键/按键）在此比喻『正确的解决方案』，整体是西语中常见的惯用表达。"
+        },
+        {
+          "word": "apalanca",
+          "translation": "以……为杠杆，将资金押注于",
+          "note": "apalancar 源自 palanca（杠杆），在金融语境中意为『以杠杆方式投入资金、利用某资产放大收益』，对应英语 to leverage；此处比喻国际资本将房产作为保值增值的工具，是金融词汇向新闻评论渗透的典型例子。"
+        },
+        {
+          "word": "machaca",
+          "translation": "碾压，摧毁，打垮",
+          "note": "machacar 本义为『捣碎、研磨』，引申为『彻底摧毁或压制某事物』，语气强烈，带有暴力色彩；在经济评论中用于描述强势资本对本地市场的破坏性冲击，比 perjudicar（损害）更具画面感和情感力度。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "La industria de la construcción recibe subvenciones para levantar vivienda asequible y concesiones de suelo público, pero ante cualquier otra acción regulatoria sólo hay crítica destructiva y mala fe. Hay un discurso basado en el <strong>fatalismo</strong>, ese que predica que los mercados vandalizados se autorregulan, y que genera miedo a intervenir. La especulación inmobiliaria es algo a lo que aún juega una parte de la población. Hay muchas personas que al saber que los pisos están caros piensan para sí que esto les favorece, ya que son propietarios de una o dos viviendas y eso les da un <strong>colchón</strong> de seguridad. También los seres diminutos tienen su propio delirio de grandeza diminuto. Las personas solemos forzar la información que recibimos para quedarnos con lo que nos favorece y no perturbarnos con la verdad desnuda. Formar parte de una burbuja nos hace flotar de felicidad. Los <strong>fondos buitre</strong> se amparan detrás de esta indefinición de los políticos que no se atreven a pinchar las ilusiones vanas. Eso cuando no aprovechan los momentos de crisis financiera, como hicieron bajo la complicidad de alcaldes como Gallardón o Botella, y quedarse entonces con los subvencionados pisos de protección oficial a 70.000 euros para venderlos hoy a 400.000.",
+      "zh": "建筑行业获得补贴用于建造经济适用房和公共土地使用权，但面对任何其他监管行动，只有破坏性批评和恶意。有一种基于宿命论的话语，鼓吹被破坏的市场会自我调节，并制造出干预的恐惧。房地产投机仍是一部分人参与其中的游戏。许多人得知房价上涨时，心里暗自庆幸这对自己有利，因为他们拥有一两套房产，这给了他们一个安全垫。就连渺小的存在也有自己渺小的妄自尊大。我们通常会对接收到的信息进行筛选，只留下对自己有利的部分，而不被赤裸的真相所困扰。成为泡沫的一部分让我们飘飘欲仙。秃鹫基金躲在那些不敢戳破虚幻泡沫的政客的模糊立场背后。更不用说他们还会趁金融危机之机，就像在加拉东或博特利亚等市长的默许下所做的那样，以7万欧元的价格收购补贴性保障房，如今再以40万欧元出售。",
+      "vocab": [
+        {
+          "word": "fatalismo",
+          "translation": "宿命论，听天由命的态度",
+          "note": "fatalismo 由 fatal（命中注定的）+ -ismo（主义）构成，指一种认为事物发展不可改变、人力无法干预的消极世界观；在政治评论中，作者用此词批判那种认为市场问题会自然解决、无需干预的放任主义逻辑。"
+        },
+        {
+          "word": "colchón",
+          "translation": "床垫；（比喻）缓冲，安全垫",
+          "note": "colchón 本义为『床垫』，在经济和日常语境中引申为『缓冲资金或安全保障』，如 colchón de seguridad（安全垫）、colchón de ahorros（储蓄缓冲）；这类将日常物品转化为经济隐喻的用法在西语中极为常见，生动直观。"
+        },
+        {
+          "word": "fondos buitre",
+          "translation": "秃鹫基金，掠夺性投资基金",
+          "note": "fondo buitre 是金融术语，字面义为『秃鹫基金』，指专门在危机时期以极低价格收购困境资产、再高价出售以牟取暴利的投机性基金；buitre（秃鹫）的比喻生动揭示了这类基金趁人之危的掠夺性本质，是理解当代住房和金融议题的关键词。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "La única buena noticia en meses ha sido la acción judicial del Ministerio de Consumo para multar a Airbnb por anunciar pisos turísticos fraudulentos. A ello le podríamos unir el tope y la congelación parcial de alquileres, aunque estas son medidas sin auditar con rigor pueden empujar al pequeño fraude, a injusticias <strong>particularizadas</strong> y otras <strong>retorcimientos</strong> de la buena voluntad en apaño grosero. Entonces, se preguntarán algunos, ¿nos cruzamos de brazos mientras vemos cómo cada cual resuelve su <strong>papeleta</strong>? Parece obvio que impedir que el parque de vivienda sea refugio del ahorro local y la inversión internacional sería bastante práctico. Otro desafío es exigir al negocio turístico una mayor compensación por el encarecimiento de la vivienda que provoca. Y la más determinante de todas las reformas, la de la mentalidad del <strong>rentista</strong> para que participe en el mercado de la vivienda no como un desalmado tiburón, sino como un ser racional y de visión colectiva. ¿Batalla perdida?",
+      "zh": "几个月来唯一的好消息是消费部对Airbnb发布欺诈性旅游公寓广告提起司法诉讼并予以罚款。我们还可以加上租金上限和部分冻结措施，尽管这些措施若不经过严格审计，可能会助长小规模欺诈、个案性不公正以及其他将善意扭曲为粗劣变通的行为。那么，有人会问，难道我们就袖手旁观，看着每个人各自解决自己的难题吗？阻止住房存量成为本地储蓄和国际投资的避风港，这显然是相当务实的做法。另一个挑战是要求旅游业为其造成的住房价格上涨提供更多补偿。而所有改革中最具决定性的，是改变食利者的心态，让他们参与住房市场时不是作为冷酷无情的鲨鱼，而是作为具有集体视野的理性存在。这是一场注定失败的战役吗？",
+      "vocab": [
+        {
+          "word": "particularizadas",
+          "translation": "个案性的，针对特定个人的，个别化的",
+          "note": "particularizado/a 由 particularizar（具体化、个别化）派生，指影响范围局限于特定个人或案例的情况；在法律和社会评论中，injusticias particularizadas 指那些因政策漏洞而对特定个人造成的不公正，区别于系统性不公正。"
+        },
+        {
+          "word": "retorcimientos",
+          "translation": "扭曲，变形，曲解",
+          "note": "retorcimiento 由 retorcer（扭曲、拧转）派生，本义为物理上的扭转，引申为对规则、善意或逻辑的『歪曲、曲解』；此处 retorcimientos de la buena voluntad（对善意的扭曲）是一个生动的隐喻，描述好政策被钻空子变成投机工具的现象。"
+        },
+        {
+          "word": "papeleta",
+          "translation": "难题，棘手的事；（原义）选票，票据",
+          "note": "papeleta 本义为『小纸条、选票』，在口语中引申为『棘手的难题、麻烦事』，如 resolver su papeleta（解决自己的难题）；这是一个典型的词义引申，从具体的纸张延伸为抽象的困境，是西语口语和评论文体中的高频表达。"
+        },
+        {
+          "word": "rentista",
+          "translation": "食利者，靠租金或利息生活的人",
+          "note": "rentista 由 renta（租金、收益）+ -ista（从事某活动的人）构成，指依靠房产租金或金融收益而非劳动为生的人；在政治经济学中，mentalidad rentista（食利者心态）带有批判色彩，指一种不创造价值、只坐收渔利的短视思维。"
+        }
+      ]
+    }
+  ]
+}
