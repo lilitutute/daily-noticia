@@ -1,0 +1,250 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与社会",
+  "difficulty": "B2",
+  "wordCount": "约1100词",
+  "title": "La traducción no se rinde ante la IA",
+  "subtitle": "翻译行业不向人工智能投降",
+  "resumenEs": "La irrupción de la IA generativa está transformando el sector de la traducción e interpretación en España: el volumen de negocio cae, las tarifas bajan y un 17% de los autónomos considera abandonar la profesión. Sin embargo, traductores, empresas y universidades se reinventan apostando por la especialización, el criterio humano y las nuevas competencias tecnológicas como respuesta a la automatización.",
+  "resumenZh": "生成式人工智能的冲击正在改变西班牙的翻译与口译行业：业务量下滑、收费降低，17%的自由职业者考虑放弃这一职业。然而，译者、企业和高校正在通过专业化、人类判断力和新技术能力来重塑自身，以应对自动化浪潮。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Concha Ortiz lleva 33 años adaptándose y <strong>reinventándose</strong> como traductora e intérprete. Tres décadas en las que, como nos cuenta, la irrupción de la inteligencia artificial no ha sido la primera revolución que la ha tocado vivir: antes ya vivió la aparición de internet y las búsquedas online, los glosarios y bases terminológicas, los programas de traducción y la interpretación simultánea remota. Todas ellas superadas e incorporadas a su trabajo.",
+      "zh": "孔查·奥尔蒂斯作为翻译和口译员已经适应并不断自我革新了33年。在这三十年里，正如她所讲述的，人工智能的冲击并非她经历的第一场革命：此前她已经历了互联网的出现和在线搜索、术语表和术语数据库、翻译软件以及远程同声传译。所有这些都被她克服并融入了自己的工作之中。",
+      "vocab": [
+        {
+          "word": "reinventándose",
+          "translation": "不断自我革新，重塑自身",
+          "note": "reinventarse 由 re-（再次）+ inventar（发明、创造）构成，意为『彻底重新定义自己的职业定位或工作方式』；在职场和商业语境中极为常见，如 reinventarse profesionalmente（职业转型）；re- 前缀表示『重新』，可类推 reformar、reconstruir、replantear 等大量词汇。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "¿Qué está pasando con la IA y la interpretación? [Ha habido ocasiones en las que, en algunos grandes congresos internacionales, en vez de poner intérpretes humanas, han puesto IA, que crea unos subtítulos que se generan en pantalla en el evento o en la reunión por Zoom]. Pero, a su juicio, la interpretación realizada con IA, con subtítulos en directo, no funciona para un entorno comunicativo de ese tipo.",
+      "zh": "人工智能与口译领域正在发生什么？『有些情况下，在一些大型国际会议上，他们没有安排人工口译员，而是使用了人工智能，它在活动现场或Zoom会议中实时生成屏幕字幕。』但在她看来，由人工智能通过实时字幕完成的口译，在这类沟通环境中并不奏效。",
+      "vocab": [
+        {
+          "word": "a su juicio",
+          "translation": "在她/他看来，依其判断",
+          "note": "a juicio de alguien 是表达个人观点的固定搭配，意为『根据某人的判断或评估』；juicio 本义为『审判、判断』，在此引申为个人的主观评价；比 en su opinión 更正式，常见于新闻报道引述专家或当事人看法的场合。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "En la última Gala de los Goya, Ortiz puso voz a Susan Sarandon tras la <strong>polémica</strong> por la utilización de subtítulos en 2025 durante la intervención de Richard Gere, transmitiendo en directo y poniendo la emoción a sus palabras. Como si fuese magia, de la de antes de la IA.",
+      "zh": "在最近一届戈雅奖颁奖典礼上，奥尔蒂斯为苏珊·萨兰登进行了现场口译，此前2025年理查·基尔发言时使用字幕一事曾引发争议。她进行了现场直播口译，将情感注入对方的话语之中。就像魔法一样——人工智能时代之前的那种魔法。",
+      "vocab": [
+        {
+          "word": "polémica",
+          "translation": "争议，论战，引发争议的事件",
+          "note": "polémica 源自希腊语 polemikos（战争的），指围绕某一问题产生的公开争论或舍战；作形容词 polémico/a 意为『有争议的』，如 una decisión polémica（一项有争议的决定）；两种词性在新闻报道中均极为高频。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "[Desde la facultad te enseñan que el traductor o el intérprete es una persona invisible, porque la mejor traducción es la que no se detecta. Pero, en la situación actual y con la irrupción de la IA, probablemente hayamos hecho mal la tarea al no <strong>visibilizar</strong> el valor que aportamos], <strong>esgrime</strong> Arancha Caballero, presidenta de la Asociación Nacional de Empresas de Traducción e Interpretación (ANETI). Un reto que afecta de forma clara a su sector, sí, pero también a muchas otras profesiones.",
+      "zh": "『从大学起就教导你，译者或口译员是一个隐形的人，因为最好的翻译是察觉不到翻译痕迹的翻译。但在当前形势下，随着人工智能的冲击，我们可能在没有让自身价值可见这件事上做得不够好。』全国翻译与口译企业协会（ANETI）主席阿兰查·卡瓦列罗如此主张道。这一挑战确实明显影响着她所在的行业，但同样影响着许多其他职业。",
+      "vocab": [
+        {
+          "word": "visibilizar",
+          "translation": "使……可见，让……被看见，提升……的曝光度",
+          "note": "visibilizar 由 visible（可见的）+ -izar（使……化）构成，意为『让原本被忽视的事物或群体获得社会关注和认可』；在社会运动、职场权益和文化政策讨论中极为常见，如 visibilizar a las mujeres en la ciencia（提升女性在科学领域的可见度）。"
+        },
+        {
+          "word": "esgrime",
+          "translation": "援引，提出（论点），挥舞（武器）",
+          "note": "esgrimir 本义为『击剑、挥舞武器』，在论辩和新闻语境中引申为『有力地提出或援引某一论据』；esgrimir un argumento（提出论据）是评论文体中的高频引述动词，比 decir（说）更强调论点的攻击性和说服力。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "La inteligencia artificial está cambiando radical y aceleradamente el mundo laboral, cuestionando cuál será el espacio que queda para las personas. Estudios como el publicado por el Fondo Monetario Internacional estiman que hasta un 70% del empleo en los países desarrollados -un 40% a nivel global- podría verse afectado y, si bien puede aumentar la productividad de ciertas profesiones, en más de la mitad de los casos sus salarios e, incluso, su propia existencia podrían estar en riesgo.",
+      "zh": "人工智能正在以激进而迅猛的速度改变劳动世界，令人质疑留给人类的空间将会有多大。国际货币基金组织发布的研究等估计，发达国家高达70%的就业岗位——全球范围内为40%——可能受到影响，尽管它可以提高某些职业的生产力，但在超过一半的情况下，其薪资乃至职业本身的存续都可能面临风险。",
+      "vocab": [
+        {
+          "word": "si bien",
+          "translation": "尽管，虽然",
+          "note": "si bien 是书面语中表示让步关系的连接词，相当于 aunque（尽管），但语气更正式、更常见于新闻和学术文体；注意与条件句中的 si（如果）区分：si bien 后接陈述式，表达的是已知事实的让步，而非假设条件。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "[Llevamos mucho tiempo trabajando con la traducción automática, una forma de inteligencia artificial, pero que se ponga al alcance de mucha gente de una manera tan fácil, casi gratuita, y con esta campaña de marketing de las tecnológicas es algo con lo que no podemos competir], comenta Caballero. Los clientes están confiando en las promesas de los proveedores de herramientas de traducción generada por IA y el impacto real se está sintiendo de una manera acelerada en el último año, perdiendo clientes y obligando a los profesionales a <strong>replantearse</strong> un modelo de negocio que, en 2023, generó 700 millones de euros en ingresos.",
+      "zh": "『我们使用机器翻译——一种人工智能形式——已经很长时间了，但它以如此简便、几乎免费的方式向大众普及，加上科技公司的营销攻势，这是我们无法竞争的。』卡瓦列罗评论道。客户们正在相信人工智能翻译工具供应商的承诺，过去一年里实际冲击正在以加速的方式显现，不断流失客户，迫使从业者重新审视一个在2023年创造了7亿欧元收入的商业模式。",
+      "vocab": [
+        {
+          "word": "replantearse",
+          "translation": "重新审视，重新思考，反思",
+          "note": "replantearse 由 re-（重新）+ plantearse（思考、提出问题）构成，意为『在新情况下对原有假设或模式进行根本性的重新审视』；在职场和商业语境中，replantearse el modelo de negocio（重新审视商业模式）是当代经济新闻的高频搭配。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Dado que en España no existe la <strong>colegiación</strong> obligatoria del traductor es difícil conocer la cifra exacta de ejercientes, si bien el Listado Oficial de Traductores Jurados del Ministerio de Asuntos Exteriores, actualizado a 2024, ofrece una cifra de más de 14.000. Otros estudios como el realizado por la ANETI cifraban en casi 10.000 el número de proveedores de servicios lingüísticos en 2023, de los cuales un 88,9 % son autónomos —y un 72,1% mujeres—.",
+      "zh": "由于西班牙没有对译者实行强制性行业注册制度，很难确切知道从业人数，尽管外交部2024年更新的官方宣誓译员名单提供了超过14,000人的数字。ANETI等机构开展的其他研究估计，2023年语言服务提供者数量接近10,000人，其中88.9%为自由职业者——72.1%为女性。",
+      "vocab": [
+        {
+          "word": "colegiación",
+          "translation": "行业协会注册，执业资格登记",
+          "note": "colegiación 由 colegio（行业协会、学院）派生，指专业人员在官方行业协会进行强制性注册以获得执业资格的制度；在西班牙，医生、律师、建筑师等职业实行 colegiación obligatoria（强制注册），而译者则不然，这一制度差异直接影响行业数据的可追踪性。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "El impacto de la IA es claro, con caídas en el volumen de negocio de la traducción clásica del 37 al 29% del total y descensos en las tarifas por la prestación de los servicios de <strong>postedición</strong> (de entre el 13% para los profesionales independientes y el 29% para las empresas). Un escenario que explica por qué hasta un 17% de los autónomos se plantean ya abandonar la profesión, de acuerdo con la European Language Industry Survey 2026.",
+      "zh": "人工智能的冲击显而易见：传统翻译业务量从占总量的37%跌至29%，译后编辑服务收费也有所下降（自由职业者降幅13%，企业降幅29%）。这一局面解释了为何根据《2026年欧洲语言产业调查》，高达17%的自由职业者已在考虑放弃这一职业。",
+      "vocab": [
+        {
+          "word": "postedición",
+          "translation": "译后编辑，机器翻译后期修订",
+          "note": "postedición（也写作 posedición）指由人工译者对机器翻译输出进行审核、修正和润色的工作流程，是人机协作翻译模式的核心环节；随着AI翻译的普及，posteditor（译后编辑员）已成为翻译行业的新兴职业方向。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "La buena noticia es que, incluso en plena crisis, también se observa una parte positiva: algunos clientes optan por volver a los servicios tradicionales. Lo que las empresas de servicios lingüísticos aportan, como nos señala la presidenta de ANETI, es el manejo profesional de las herramientas informáticas, la validación y el control de riesgos frente a los errores y <strong>alucinaciones</strong> de la IA, la especialización en campos específicos (científicos, jurídicos, ingeniería o medicina, entre otros), la adaptación del tono de los mensajes a los diferentes públicos y su capacidad de gestión y coordinación de grandes equipos en un entorno internacional y multicultural.",
+      "zh": "好消息是，即便在危机之中，也能观察到积极的一面：一些客户选择回归传统服务。正如ANETI主席所指出的，语言服务企业所提供的价值在于：专业化地运用信息技术工具、针对人工智能错误和『幻觉』进行验证与风险管控、在特定领域（科学、法律、工程或医学等）的专业化能力、根据不同受众调整信息语气的能力，以及在国际多元文化环境中管理和协调大型团队的能力。",
+      "vocab": [
+        {
+          "word": "alucinaciones",
+          "translation": "幻觉；（AI）虚构内容，捏造信息",
+          "note": "alucinación 本为医学术语，指感知到不存在事物的幻觉；在人工智能语境中，alucinaciones de la IA 指大语言模型以高度自信的语气生成事实错误或凭空捏造信息的现象，对应英语 hallucinations；这一术语的跨领域借用是理解当代AI讨论的关键。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "El impacto, en cualquier caso, <strong>trasciende</strong> el mercado laboral y se hace notar también en los centros de formación, que se esfuerzan por reaccionar y <strong>afianzar</strong> el valor humano frente a la traducción mediante inteligencia artificial.",
+      "zh": "无论如何，这一冲击超越了劳动力市场，在培训机构中同样显现出来——这些机构正在努力回应，并在面对人工智能翻译时巩固人类价值。",
+      "vocab": [
+        {
+          "word": "trasciende",
+          "translation": "超越，超出……范围，影响深远",
+          "note": "trascender 由 tras-（超越）+ cender（攀升）构成，意为『超出某一既定范围或界限』；在评论文体中，trascender el mercado laboral（超越劳动力市场）表达某一现象的影响已蔓延至更广泛的领域；同根词 trascendente（深远的）、trascendencia（重要性）同样高频。"
+        },
+        {
+          "word": "afianzar",
+          "translation": "巩固，强化，稳固",
+          "note": "afianzar 源自 fianza（担保、保证），意为『使某事物更加稳固或不可动摇』；在教育和职业语境中，afianzar el valor humano（巩固人类价值）强调主动强化而非被动维持；afianzarse（站稳脚跟）是其反身形式，如 afianzarse en el mercado（在市场站稳脚跟）。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "En cualquier caso, los estudios de traducción mantienen una oferta amplia, 72 titulaciones de grado activas (61 en centros públicos y 11 en privados) y 24 universidades afiliadas a la Asociación de Universidades del Estado Español con Titulaciones Oficiales de Traducción e Interpretación (AUnETI).",
+      "zh": "无论如何，翻译专业仍保持着广泛的课程供给：72个在读本科学位（61个在公立院校，11个在私立院校），以及24所加入西班牙国家翻译与口译官方学位大学协会（AUnETI）的高校。",
+      "vocab": []
+    },
+    {
+      "id": 12,
+      "es": "[Percibimos a la IA como una amenaza, pero tenemos que verla como una herramienta. Hemos salido de muchos <strong>atolladeros</strong> parecidos a lo largo de la historia de la traducción y estamos preparados], reflexiona Cristina Álvarez de Morales, decana de la Facultad de Traducción e Interpretación de Universidad de Granada (UGR), un referente en este campo y la segunda más antigua de España. Álvarez reconoce un descenso muy reciente de la demanda de plazas, si bien apunta a que no es generalizado y sí es, por el contrario, compatible con el mantenimiento de un alto grado de atracción a nivel nacional e internacional.",
+      "zh": "『我们将人工智能视为一种威胁，但我们必须把它看作一种工具。在翻译史上，我们已经走出过许多类似的困境，我们已经做好了准备。』格拉纳达大学（UGR）翻译与口译学院院长克里斯蒂娜·阿尔瓦雷斯·德·莫拉莱斯如此思考道。该学院是这一领域的标杆，也是西班牙历史第二悠久的同类院校。阿尔瓦雷斯承认招生需求近期有所下降，但指出这并非普遍现象，相反，与在国内外保持高度吸引力的状态是相容的。",
+      "vocab": [
+        {
+          "word": "atolladeros",
+          "translation": "困境，泥潭，僵局",
+          "note": "atolladero 本义为『泥泞的陷坑、车辆陷入的泥地』，引申为『难以脱身的困境或僵局』；salir de un atolladero（走出困境）是固定搭配，比 problema（问题）更强调深陷其中、难以自拔的处境，是评论和叙事文体中的生动隐喻。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "La Universidad, lejos de dar la espalda al nuevo fenómeno, ha creado guías de inteligencia artificial y comités éticos, mantiendo diversos proyectos de innovación docente en la materia e incorporando asignaturas de herramientas informáticas y especialidades de postgrado en tecnologías de la traducción.",
+      "zh": "该大学非但没有对这一新现象视而不见，反而创建了人工智能指南和伦理委员会，维持着多个相关教学创新项目，并将信息技术工具课程和翻译技术研究生专业纳入培养体系。",
+      "vocab": [
+        {
+          "word": "lejos de",
+          "translation": "非但没有……，远非……",
+          "note": "lejos de + 不定式 是表达强烈反差的固定句式，意为『与预期相反，不仅没有……』；如 lejos de mejorar, empeoró（非但没有改善，反而恶化了）；这一结构在新闻和评论文体中极为常见，用于强调实际行动与消极预期之间的落差。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "[Nuestros alumnos mantienen un grado de <strong>empleabilidad</strong> muy alto. Son alumnos muy versátiles con competencias tecnológicas], apunta Álvarez. No solo en las ocupaciones tradicionales, sino también en campos diferentes como la mediación lingüística; la interpretación de conferencias en zonas de conflicto; la posedición -corrección y control de las traducciones automatizadas-; la <strong>localización</strong> -adaptación al contexto y realidad cultural- en videojuegos y productos multimedia; la escritura técnica; la accesibilidad turística y museística, o la accesibilidad para personas con discapacidades y lengua de signos.",
+      "zh": "『我们的学生保持着非常高的就业能力。他们是具备技术能力的高度复合型人才。』阿尔瓦雷斯指出。不仅体现在传统职业上，也体现在不同的新兴领域：语言调解；冲突地区的会议口译；译后编辑——对自动翻译进行校对和质量控制；视频游戏和多媒体产品的本地化——即对文化背景和现实的适配；技术写作；旅游和博物馆无障碍服务；以及面向残障人士的无障碍服务和手语。",
+      "vocab": [
+        {
+          "word": "empleabilidad",
+          "translation": "就业能力，职场竞争力",
+          "note": "empleabilidad 由 emplear（雇用）派生，指个人在劳动力市场中获得并维持工作的综合能力，涵盖技能、适应性和市场需求匹配度；这是当代教育政策和职业规划话语的核心词，对应英语 employability。"
+        },
+        {
+          "word": "localización",
+          "translation": "本地化，文化适配",
+          "note": "localización 在翻译和科技行业中是专业术语，指将产品（软件、游戏、影视等）不仅进行语言翻译，更进行文化、习俗、界面等全方位适配的过程；与单纯的 traducción（翻译）不同，localización 强调对目标市场文化现实的深度融合。"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "es": "[Soy traductor, pero también programador. Estudié ambas cosas a la vez porque me gustaba mucho la tecnología enfocada a la lingüística, y ahora mismo trabajo como escritor técnico para una empresa de software], explica Arnau Calderón, graduado en 2023, y cuya combinación formativa no era frecuente tan solo hace unos pocos años. Para él la irrupción de la IA no fue una sorpresa, ya que vivió toda la carrera con la amenaza de la automatización de la traducción. Algo que, pese al salto reciente, no es ninguna novedad: los programas de traducción asistida por ordenador como Trados se lanzaron en la <strong>década</strong> de los ochenta del siglo pasado.",
+      "zh": "『我是译者，但也是程序员。我同时学习了这两个专业，因为我非常喜欢面向语言学的技术，现在我在一家软件公司担任技术写作员。』2023年毕业的阿尔瑙·卡尔德隆解释道，他的这种复合型教育背景在短短几年前还并不常见。对他来说，人工智能的冲击并不令人意外，因为他整个大学生涯都是在翻译自动化的威胁下度过的。尽管近期出现了跨越式发展，但这并非新鲜事：Trados等计算机辅助翻译软件早在上世纪八十年代就已推出。",
+      "vocab": [
+        {
+          "word": "década",
+          "translation": "十年，年代",
+          "note": "década 指连续的十年时间段，如 la década de los ochenta（八十年代）；注意与 decenio（同义，但更正式）的区别：década 在日常和新闻语体中更为常用；源自希腊语 deka（十），同根词有 decálogo（十诫）、decena（十个）。"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "es": "Arnau es muy consciente de los riesgos del uso de los modelos basados en el lenguaje (LLM, Large Language Models) que están actualmente en la base de la IA generativa: [Está programada para contestar de forma muy fluida, y cuando no sabe algo te va a contestar igualmente. Si le corriges te dará la razón, e incluso las gracias, aunque vaya a seguir haciendo lo mismo. Antes se decía que errar es humano, pero ahora es también cosa de ordenadores].",
+      "zh": "阿尔瑙对使用大型语言模型（LLM）的风险有着清醒的认识，这类模型目前是生成式人工智能的基础：『它被设计成以非常流畅的方式回答问题，当它不知道某事时，它同样会给你一个答案。如果你纠正它，它会承认你是对的，甚至会道谢，尽管它之后还是会继续犯同样的错误。以前说犯错是人之常情，但现在也是计算机的常情了。』",
+      "vocab": [
+        {
+          "word": "errar es humano",
+          "translation": "犯错是人之常情",
+          "note": "errar es humano 是源自拉丁语谚语 errare humanum est 的西语版本，意为『犯错是人类的本性』；文中作者将其改写为 errar es también cosa de ordenadores（犯错也是计算机的事），形成幽默的反转，讽刺AI同样会出错，是理解西语文化典故的好例子。"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "es": "José Moya, graduado en traducción e interpretación por la universidad granadina en 2022, trabaja como <strong>lingüista computacional</strong>, un perfil a caballo entre la lengua, la informática y la inteligencia artificial que se dirige a [enseñar a las computadoras cómo tratar a las personas]. Ya al elegir su tema para el trabajo de fin de grado lo tenía claro: como todo el mundo hablaba del metaverso, él quería saber cómo sería el mundo de la traducción en ese entorno, centrándose en analizar las posibilidades de la traducción automática con realidad aumentada y la posedición.",
+      "zh": "何塞·莫亚，2022年毕业于格拉纳达大学翻译与口译专业，现从事计算语言学家工作——这是一个介于语言、计算机科学和人工智能之间的复合型职业，致力于『教计算机如何与人打交道』。早在选择毕业论文题目时，他就已经想清楚了方向：当所有人都在谈论元宇宙时，他想了解翻译世界在那个环境中会是什么样子，重点分析增强现实场景下机器翻译与译后编辑的可能性。",
+      "vocab": [
+        {
+          "word": "lingüista computacional",
+          "translation": "计算语言学家",
+          "note": "lingüística computacional 是语言学与计算机科学的交叉学科，研究如何用计算机处理、理解和生成人类语言；a caballo entre（介于……之间）是描述跨学科或跨领域职业的常用搭配，字面义为『骑在……之间』，生动形象。"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "es": "Posteriormente continuó formándose y especializándose con el Máster en Tradumática de la Universidad Autónoma de Barcelona; trabajó en el sector en Estados Unidos y retornó creando su propia empresa orientada a la accesibilidad, con ámbitos de investigación novedosos como la detección de enfermedades y patologías de las personas <strong>desatendidas</strong> a través de la tonalidad de la voz.",
+      "zh": "此后，他继续深造，在巴塞罗那自治大学攻读翻译技术学硕士；在美国从事相关行业工作后回国，创立了自己的无障碍导向企业，研究领域颇具创新性，包括通过声调检测被忽视人群的疾病和病理状况。",
+      "vocab": [
+        {
+          "word": "desatendidas",
+          "translation": "被忽视的，得不到关注的，缺乏服务的",
+          "note": "desatendido/a 由 des-（否定）+ atendido（被照料的）构成，指在医疗、社会或政策层面未能获得足够关注和服务的群体；personas desatendidas 在公共卫生语境中特指那些因地理、经济或社会原因而被医疗体系边缘化的人群。"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "es": "Moya tiene claro cuál es el camino para su profesión: [La velocidad ya no es la ventaja <strong>diferencial</strong>; el criterio sí. Y cuanto más delicado es el contexto, más importante sigue siendo el ser humano].",
+      "zh": "莫亚对自己职业的发展方向看得很清楚：『速度已不再是差异化优势；判断力才是。而且情境越微妙，人类的存在就越重要。』",
+      "vocab": [
+        {
+          "word": "diferencial",
+          "translation": "差异化的，区别性的，独特的",
+          "note": "diferencial 由 diferencia（差异）派生，作形容词意为『构成区别、形成竞争优势的』；ventaja diferencial（差异化优势）是商业和职场语境中的核心概念，指某一产品、服务或人才相较于竞争对手的独特优势，对应英语 differential advantage 或 unique selling point。"
+}
+      ]
+    }
+  ]
+}

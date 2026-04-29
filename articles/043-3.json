@@ -1,0 +1,76 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "人文与随笔",
+  "difficulty": "C1",
+  "wordCount": "约400词",
+  "title": "Yo a tu edad",
+  "subtitle": "在你这个年纪，我已经……",
+  "resumenEs": "El artículo reflexiona sobre la tiranía de las comparaciones generacionales. El autor distingue entre vivir y acumular tiempo, y critica la costumbre de medir el éxito propio en función de la edad y los logros ajenos. La verdadera epifanía, sostiene, no llega con los años sino con la vida: comprender que cada uno lleva su propio ritmo y que el éxito o el fracaso solo tienen sentido en relación con uno mismo.",
+  "resumenZh": "文章反思了代际比较的暴政。作者区分了『活着』与『积累时间』的不同，批判了以年龄和他人成就来衡量自身成功的习惯。他主张，真正的顿悟不随岁月而来，而随生活而来：理解每个人都有自己的节奏，成功或失败只有相对于自身才有意义。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Hay biografías que <strong>abruman</strong>, tan <strong>precoces</strong> y llenas de vida. Importa apreciar esa diferencia, que es crucial: la diferencia entre la vida y el tiempo, porque hay quien vive mucho en pocos años y hay quien convierte su vida en una acumulación del tiempo, a la espera de que pase algo que igual no pasa nunca. Ocurre, claro, que la vida es una idea distinta para cada cual, como lo son el éxito y el fracaso. La vida, de hecho, puede ser algo distinto en nosotros mismos, según la hora a la que se nos pregunte.",
+      "zh": "有些人的传记令人不知所措，如此早熟，又如此充盈。有一个关键的区别值得我们去体会：生活与时间的区别——有人在短短几年里活得丰盛，有人却将自己的一生变成时间的积累，等待着某件也许永远不会发生的事。当然，生活对每个人来说都是不同的概念，成功与失败亦然。事实上，就连对我们自己而言，生活也可能因被问及的时刻不同而意味着不同的东西。",
+      "vocab": [
+        {
+          "word": "abruman",
+          "translation": "令人不知所措，使人压抑，使人叹服",
+          "note": "abrumar 意为『以过于强烈的方式给人造成心理压迫或震撼』，可以是负面的压迫感，也可以是正面的震撼与折服；abrumador/a（令人窒息的、压倒性的）是其高频形容词形式，如 una cantidad abrumadora（压倒性的数量）。"
+        },
+        {
+          "word": "precoces",
+          "translation": "早熟的，超前的，过早发展的",
+          "note": "precoz 源自拉丁语 praecox（提前成熟的果实），形容在正常年龄之前就展现出某种才能或成就；niño precoz（神童）、talento precoz（早熟的才华）是常见搭配；注意其复数形式为 precoces，不规则变化。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Será por eso que se da tanta importancia a la edad de las personas. Es lo primero que vamos a mirar cuando buscamos información de cualquiera: los años que tenga. Así nos hacemos una idea de si son jóvenes o viejos, o sea de si lo son en relación a nosotros. En eso reside el punto crítico: en la comparación, porque es sabido que nosotros somos, aunque sea sin querer, la medida de todas las cosas.",
+      "zh": "也许正因如此，人们才如此看重年龄。当我们查阅任何人的信息时，首先关注的就是他的岁数。由此我们判断他们是年轻还是年老——也就是说，相对于我们自己而言是否如此。关键所在正是这里：在于比较，因为众所周知，我们自己——哪怕是不自觉地——是衡量一切事物的尺度。",
+      "vocab": [
+        {
+          "word": "la medida de todas las cosas",
+          "translation": "万物的尺度，衡量一切的标准",
+          "note": "这是对古希腊哲学家普罗泰戈拉名言『人是万物的尺度』（El hombre es la medida de todas las cosas）的化用；作者将其个人化为『我们自己是万物的尺度』，讽刺人类以自身为中心进行比较的本能；识别这类文化典故是C1阅读能力的重要体现。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Algunas personas escribieron a los 20 años su primer libro y a los 23 el segundo, y a los 30 ya eran escritores de <strong>renombre</strong>. A algunos médicos o periodistas o funcionarios o arquitectos les llegó antes el reconocimiento que la madurez, sin la que no se sabe bien de qué sirve el reconocimiento. Uno puede sentir la <strong>plenitud</strong> según con quién se compare. Uno puede creer que va tarde o va muy rápido según con quién se compare. En cambio, no hay edad en la que se aprenda que cada uno lleva su ritmo para alcanzar metas distintas: esa <strong>epifanía</strong>, tan liberadora, no la dan los años, sino la vida.",
+      "zh": "有些人20岁写出第一本书，23岁写出第二本，30岁便已是声名显赫的作家。一些医生、记者、公务员或建筑师，名声比成熟来得更早——而没有成熟，名声究竟有何用处，实在难说。一个人是否感到圆满，取决于与谁相比。一个人是否觉得自己落后或超前，也取决于与谁相比。然而，没有哪个年龄能让人学会：每个人都有自己的节奏去实现各自不同的目标。那种顿悟——如此令人解脱——不是岁月给予的，而是生活给予的。",
+      "vocab": [
+        {
+          "word": "renombre",
+          "translation": "声誉，名望，盛名",
+          "note": "renombre 由 re-（强调）+ nombre（名字）构成，意为『广为人知的好名声』；de renombre（享有盛誉的）是固定搭配，如 un escritor de renombre（一位享有盛誉的作家）；比 fama（名气）更强调持久的社会认可，语体更为正式典雅。"
+        },
+        {
+          "word": "plenitud",
+          "translation": "圆满，充实，完整感",
+          "note": "plenitud 由 pleno（充满的、完整的）派生，指一种内心充盈、无所欠缺的状态；sentir la plenitud（感到圆满）在心理和哲学语境中指个体对自身生命状态的高度满足感；与 felicidad（幸福）不同，plenitud 更强调完整性而非单纯的快乐。"
+        },
+        {
+          "word": "epifanía",
+          "translation": "顿悟，突然的领悟，启示",
+          "note": "epifanía 源自希腊语 epiphaneia（显现），本为宗教术语（主显节），在文学和心理语境中引申为『突然领悟某一深刻真理的时刻』；詹姆斯·乔伊斯将其引入现代文学理论，此后成为描述人生关键领悟时刻的核心词汇。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Será la vida la que nos someta al rigor de las comparaciones ajenas, y quizá tengamos que <strong>sobreponernos</strong> al yo a tu edad ya tenía piso y yo a tu edad ya había ahorrado y yo a tu edad ya sabía qué quería hacer y con quién, como si la vida fuera siempre la misma y al mismo coste. Como si no cambiaran las cosas y los precios. Como si no bastara con llegar a la conclusión de que, antes que afectarse por el juicio de los demás, conviene ser justo con nuestros tiempos: que el éxito o el fracaso nunca lo son en relación a los demás, sino con uno mismo.",
+      "zh": "是生活将我们置于他人比较的严苛之下，也许我们必须学会超越那些『在你这个年纪我已经有房了』『在你这个年纪我已经存够钱了』『在你这个年纪我已经知道自己想做什么、想和谁在一起了』——仿佛生活永远是一样的，代价也永远相同。仿佛事物和物价从未改变。仿佛得出这样的结论还不够：与其被他人的评判所左右，不如对自己的时间保持公正——成功或失败，从来都不是相对于他人而言的，而是相对于自己。",
+      "vocab": [
+        {
+          "word": "sobreponernos",
+          "translation": "克服，超越，战胜",
+          "note": "sobreponerse a 由 sobre-（在……之上）+ ponerse（置于）构成，意为『凌驾于某种困难或负面情绪之上、将其克服』；比 superar（克服）更强调主动的心理抵抗和意志力；sobreponerse a la adversidad（战胜逆境）是文学和心理语境中的经典搭配。"
+        }
+      ]
+    }
+  ]
+}

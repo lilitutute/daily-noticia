@@ -1,0 +1,229 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会与时评",
+  "difficulty": "C1",
+  "wordCount": "约1400词",
+  "title": "El debate | ¿Se debe prohibir la compra de tabaco a mayores de edad?",
+  "subtitle": "辩论 | 应该禁止成年人购买烟草吗？",
+  "resumenEs": "Reino Unido ha aprobado una ley que prohíbe vender tabaco a los nacidos desde 2009. El debate enfrenta dos posturas: Ubaldo Cuadrado defiende el desmantelamiento progresivo de la industria tabaquera por su impacto devastador en la salud pública; Jordi Gracia advierte de que las prohibiciones generan mercados negros, criminalizan conductas personales y privan al Estado de importantes ingresos fiscales.",
+  "resumenZh": "英国已通过一项法律，禁止向2009年后出生的人销售烟草。这场辩论呈现两种立场：乌瓦尔多·夸德拉多以烟草业对公共健康的毁灭性影响为由，支持逐步拆解烟草产业；豪尔迪·格拉西亚则警告，禁令会催生黑市、将个人行为入罪，并使国家损失大量税收。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Reino Unido cuenta, desde el pasado día 21, con una Ley de Tabaco y Vapeo cuya ambición es lograr la primera generación libre de la adicción del tabaco. Para ello, ha dado luz verde a una medida <strong>pionera</strong>: prohibir la venta de tabaco a todos los nacidos a partir del día 1 de enero de 2009. La norma es tan <strong>audaz</strong> como conflictiva, y ha devuelto a la actualidad los límites entre lo individual y lo colectivo: la soberanía de cada cual para decidir sobre lo que le conviene —también perjudicarse— y la responsabilidad del Estado sobre la salud pública.",
+      "zh": "自本月21日起，英国拥有了一部《烟草与电子烟法》，其雄心在于实现第一个摆脱烟草成瘾的世代。为此，该法律批准了一项开创性措施：禁止向所有2009年1月1日及以后出生的人销售烟草。这项法规既大胆又充满争议，并将个人与集体之间的边界重新带回公众视野：每个人决定对自己有利之事的自主权——包括伤害自己的权利——以及国家对公共健康的责任。",
+      "vocab": [
+        {
+          "word": "pionera",
+          "translation": "开创性的，先驱性的，首创的",
+          "note": "pionero/a 源自法语 pionnier（先锋、开路者），形容某措施或人物在某领域率先行动、开创先例；medida pionera（开创性措施）是新闻报道中的高频搭配，比 innovador（创新的）更强调『第一个这样做』的历史意义。"
+        },
+        {
+          "word": "audaz",
+          "translation": "大胆的，勇敢的，冒险的",
+          "note": "audaz 源自拉丁语 audax，形容某行动或决策超出常规、需要相当勇气；在政治和社会评论中常带有褒贬两用的色彩，既可赞扬魄力，也可暗示鲁莽；名词形式为 audacia（大胆、冒险精神）。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Jordi Gracia, catedrático de Literatura y antiguo subdirector de Opinión de este periódico, además de constante consumidor de cigarrillos defiende lo primero. La postura partidaria de la prohibición la sostiene Ubaldo Cuadrado, vicepresidente de la asociación Nofumadores.",
+      "zh": "豪尔迪·格拉西亚，文学教授，本报前观点版副主编，同时也是一名长期烟民，持前一种立场。支持禁令的立场由无烟协会副主席乌瓦尔多·夸德拉多来阐述。",
+      "vocab": []
+    },
+    {
+      "id": 3,
+      "es": "Una industria que esclaviza. UBALDO CUADRADO. La verdadera pregunta ya no es si la venta de tabaco debería dejar de ser legal —la evidencia científica sobre su impacto es <strong>incontestable</strong>—, sino cuándo y cómo dejará de serlo. No sería la primera vez que una sociedad retira del mercado productos cuya peligrosidad resulta incompatible con la salud: ocurrió con la talidomida, que provocaba graves malformaciones fetales; con el plomo en la gasolina, causante de enfermedades cardiovasculares y <strong>neurotóxicas</strong> y disminución del cociente intelectual; con el amianto, al producir mesotelioma, cáncer de pulmón y otros; o con el pesticida DDT, por carcinógeno y por acabar con la biodiversidad. A pesar de los intereses económicos, acabaron siendo retirados. El cigarrillo mata a ocho millones de personas al año. ¿Cómo de poderosas son las corporaciones tabaqueras para que este veneno siga aún en el mercado?",
+      "zh": "【奴役人的产业】乌瓦尔多·夸德拉多。真正的问题已不再是烟草销售是否应该停止合法化——科学证据对其影响的证明无可辩驳——而是何时以及如何实现这一点。这并非社会首次将危害性与健康不相容的产品撤出市场：沙利度胺曾导致严重的胎儿畸形；含铅汽油导致心血管疾病、神经毒性损害和智商下降；石棉导致间皮瘤、肺癌等疾病；农药DDT则因致癌性和破坏生物多样性而被禁用。尽管存在经济利益的阻力，这些产品最终都被撤出了市场。香烟每年夺走800万人的生命。烟草公司究竟有多强大，才能让这种毒药至今仍在市场上流通？",
+      "vocab": [
+        {
+          "word": "incontestable",
+          "translation": "无可辩驳的，不容置疑的",
+          "note": "in-（否定）+ contestable（可质疑的，源自 contestar 反驳）构成，意为『无法被反驳或质疑的』；在学术和新闻论证中，evidencia incontestable（无可辩驳的证据）是强化论点的常见表达，比 claro（清楚的）语气更强，带有终结争论的意味。"
+        },
+        {
+          "word": "neurotóxicas",
+          "translation": "神经毒性的，对神经系统有害的",
+          "note": "由 neuro-（神经，源自希腊语 neuron）+ tóxico（有毒的）构成的复合形容词；neuro- 是医学和神经科学的高频前缀，如 neurológico（神经学的）、neurodegenerativo（神经退行性的），掌握后可快速理解大量医学词汇。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "¿Sería preferible una prohibición inmediata a la abolición progresiva? Desde un punto de vista ético, probablemente sí. Pero la experiencia sugiere que el incremento gradual contribuiría a que los cambios sean irreversibles. En Ambición Moral, de Rutger Bregman, se plantea precisamente esa tensión entre idealismo y eficacia: alcanzar objetivos ambiciosos puede exigir transiciones graduales y compromisos imperfectos. El propio final de la esclavitud atlántica, institución con la que las cuatro grandes tabaqueras guardan una profunda <strong>interrelación</strong>, fue un proceso largo, lleno de concesiones, en el que incluso se compensó a las miles de familias propietarias de seres humanos para hacer viable políticamente su <strong>desmantelamiento</strong>.",
+      "zh": "立即禁止是否比逐步废除更可取？从伦理角度来看，答案或许是肯定的。但经验表明，渐进式推进有助于使变革不可逆转。鲁特格尔·布雷格曼的《道德野心》一书中恰恰探讨了理想主义与实效之间的张力：实现宏大目标可能需要渐进式过渡和不完美的妥协。大西洋奴隶制的终结本身——四大烟草公司与这一制度有着深刻的历史关联——也是一个漫长的过程，充满了让步，甚至向数千个拥有人类的家庭支付了补偿，以使其在政治上具有可行性。",
+      "vocab": [
+        {
+          "word": "interrelación",
+          "translation": "相互关联，内在联系",
+          "note": "inter-（相互）+ relación（关系）构成，强调两个事物之间双向的、深层的联系；inter- 是构词能力极强的前缀，如 interdependencia（相互依存）、interacción（互动）、intercambio（交流），掌握后可类推大量词汇。"
+        },
+        {
+          "word": "desmantelamiento",
+          "translation": "拆解，瓦解，废除",
+          "note": "由 desmantelar（拆除、瓦解）加名词后缀 -miento 构成；desmantelar 源自 manto（外套、覆盖物），字面义为『揭去覆盖』，引申为『系统性地拆除或废除某一结构或机构』；在政治和社会评论中常用于描述对某一制度的彻底废除。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "No debemos perder de vista lo extraordinariamente dañina que es la industria tabaquera, especialmente en España. Mientras países de nuestro entorno como el Reino Unido, Suecia, Dinamarca o Bélgica, con <strong>prevalencias</strong> en torno al 12% de fumadores, han hecho los deberes en las últimas décadas, en España sigue fumando uno de cada cuatro adultos; la edad de inicio ronda los 14 años y, en el último <strong>lustro</strong>, hemos normalizado ver a menores enganchados a la nicotina mediante dispositivos de vapeo. El <strong>lobby</strong> tabaquero en España es directamente responsable de 60.000 muertes al año. El cultivo en Extremadura y la manufactura en Canarias han contribuido a generar una clase política que, por intereses económicos, bloquea medidas clave para desnormalizar el tabaco. Nos situamos así junto a países como Grecia, Italia o Bulgaria, donde, por la debilidad del Estado frente a las tabaqueras, el humo sigue socialmente aceptado. Que esto ocurra cuando 7 de cada 10 españoles apoyan medidas más restrictivas sólo se explica por la capacidad de este lobby para frenar leyes destinadas a proteger la salud.",
+      "zh": "我们不应忽视烟草业的极度危害性，尤其是在西班牙。当英国、瑞典、丹麦或比利时等周边国家的吸烟率已降至约12%、在过去几十年间完成了应有的功课时，西班牙每四个成年人中仍有一人吸烟；开始吸烟的年龄约为14岁，而在过去五年里，我们已将未成年人通过电子烟设备沉迷尼古丁的现象视为常态。西班牙的烟草游说团体直接导致每年6万人死亡。埃斯特雷马杜拉的烟草种植和加那利群岛的烟草制造，共同催生了一个出于经济利益而阻碍去烟草化关键措施的政治阶层。我们因此与希腊、意大利或保加利亚等国并列，在这些国家，由于国家面对烟草公司时的软弱，吸烟依然被社会所接受。当十分之七的西班牙人支持更严格的措施时，这种情况的发生只能用这一游说团体阻止保护健康立法的能力来解释。",
+      "vocab": [
+        {
+          "word": "prevalencias",
+          "translation": "患病率，流行率，普遍程度",
+          "note": "prevalencia 是流行病学核心术语，指某一疾病或行为在特定人群中某一时间点的比例；与 incidencia（发病率，指新增病例）不同，prevalencia 统计的是现存病例总量；动词 prevalecer（占主导、流行）是其词根。"
+        },
+        {
+          "word": "lustro",
+          "translation": "五年，一个五年期",
+          "note": "lustro 是西语中表示『五年』的专用词，源自古罗马每五年举行一次的人口普查仪式（lustrum）；在新闻和文学中常用于替代 cinco años，使表达更为简洁优雅，是B2以上学习者应掌握的时间词汇。"
+        },
+        {
+          "word": "lobby",
+          "translation": "游说团体，利益集团",
+          "note": "lobby 是从英语借入的外来词，指通过非正式渠道向政界施压、为特定利益集团争取政策倾斜的组织；在西语中已完全融入政治评论词汇，动词形式为 lobear 或 hacer lobby；了解这一词有助于理解大量涉及政商关系的新闻报道。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Eso es, en esencia, lo que propone hoy el llamado <strong>endgame</strong> del tabaco: no criminalizar al fumador, sino transformar su entorno mientras procedemos a algo tan difícil como necesario, desmantelar la bomba atómica de muerte que es la industria tabaquera. A un fumador adulto no se le impedirá su consumo de un día para otro, pero todo a su alrededor comenzará a cambiar: sus hijos no podrán acceder nunca al tabaco gracias a la prohibición generacional, impulsada por Reino Unido; cada vez tendrá menos puntos de venta; con el <strong>empaquetado neutro</strong> el producto pierde atractivo; y su precio aumenta de forma sostenida. No es una prohibición súbita, sino una estrategia: de lo cotidiano a la excepción, de la normalidad a la incomodidad, hasta que dejar de fumar no sea una imposición, sino la consecuencia natural.",
+      "zh": "这在本质上就是如今所谓烟草『终局』策略所提出的：不是将吸烟者入罪，而是在我们推进一项既艰难又必要的工作——拆解烟草业这颗死亡原子弹——的同时，改变其周围的环境。成年吸烟者不会在一夜之间被禁止消费，但他们周围的一切将开始改变：得益于英国推动的代际禁令，他们的子女将永远无法获得烟草；销售点将越来越少；标准化包装使产品失去吸引力；价格持续上涨。这不是突然的禁令，而是一种策略：从日常到例外，从常态到不便，直到戒烟不再是一种强制，而是自然而然的结果。",
+      "vocab": [
+        {
+          "word": "endgame",
+          "translation": "终局，最终目标，收官策略",
+          "note": "endgame 是从英语借入的术语，源自国际象棋的『残局』阶段，在公共卫生政策中指通过一系列渐进措施最终彻底消除某一有害现象的长期战略；tobacco endgame 是国际控烟领域的专业概念，指将吸烟率降至可忽略不计水平的终极目标。"
+        },
+        {
+          "word": "empaquetado neutro",
+          "translation": "标准化包装，素色包装",
+          "note": "empaquetado neutro 指去除品牌标识、统一使用素色包装并附加健康警示图片的烟草包装政策，旨在削弱品牌吸引力；neutro 在此意为『中性的、去品牌化的』，是控烟政策的核心术语，澳大利亚是全球首个实施该政策的国家。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Para llegar en España a esta Generación Libre de Tabaco y Nicotina tendremos que <strong>contrarrestar</strong> la propaganda de la industria, especialmente la que habla de libertad individual y de ley seca, y compara tabaco con alcohol. Ambos son dañinos, pero la nicotina es cuatro veces más adictiva y genera dependencia similar a la cocaína y la heroína. ¿Se puede hablar de libertad con un producto que causa adicción? ¿Frente a un producto que enganchará a casi 9 de cada 10 fumadores del futuro antes su mayoría de edad? Con las tabaqueras nunca debemos olvidar que deben el origen de sus fortunas a la propiedad de seres humanos tratados como ganado. Ese desprecio por las vidas humanas parece estar grabado a fuego en su ADN.",
+      "zh": "要在西班牙实现这一无烟草无尼古丁的世代，我们必须抵制烟草业的宣传，尤其是那些谈论个人自由和禁酒令的宣传，以及将烟草与酒精相提并论的说法。两者都有害，但尼古丁的成瘾性是酒精的四倍，其依赖性与可卡因和海洛因相当。面对一种会导致成瘾的产品，还能谈论自由吗？面对一种将在未来近十分之九的吸烟者成年之前就令其上瘾的产品？对于烟草公司，我们永远不应忘记，它们财富的起源依赖于将人类当作牲畜一样拥有。这种对人类生命的蔑视似乎已深深烙印在它们的基因之中。",
+      "vocab": [
+        {
+          "word": "contrarrestar",
+          "translation": "抵消，抵制，对抗",
+          "note": "contra-（对抗）+ restar（减去、削弱）构成，意为『通过采取相反行动来中和或削弱某种影响』；在政治和公共卫生语境中，contrarrestar la propaganda（抵制宣传）是常见搭配，比 combatir（对抗）更强调通过平衡力量来抵消影响。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Ubaldo Cuadrado es vicepresidente de Nofumadores.",
+      "zh": "乌瓦尔多·夸德拉多是无烟协会副主席。",
+      "vocab": []
+    },
+    {
+      "id": 9,
+      "es": "El tabaco, la clandestinidad y los impuestos. JORDI GRACIA. <strong>Hartarse</strong> de torreznos es malo de toda maldad, como seguramente lo es doblar la ración de hamburguesas y filetes a los muchachos en crecimiento o lo es <strong>chalarse</strong> por las patatas fritas y comerlas como si no hubiese un mañana (ni dos). Incluso <strong>pirrarse</strong> por el chocolate y zamparse entre episodio y episodio la tableta entera tiene pinta de ser letal, sin mencionar los atracones de cacahuetes, ganchitos o cualquier otra mala hierba (¿hierba, qué hierba?). Meterse en el cuerpo vía inhalación compulsiva dos cajetillas de humo profundamente tóxico es delirantemente absurdo, en el borde de la autodestrucción con obsolescencia programada, así que, en efecto, fumar es claramente nocivo, adictivo y destructivo, aunque seamos muchos quienes simplemente no concebimos una buena vida y una buena salud (emocional, moral y con los psicólogos y psiquiatras a lo menos 20.000 millas de distancia) sin nuestra dosis de toxicidad elástica, extensa y a menudo desmedida. Esto no es un elogio del tabaquismo, es la constatación de que este se convierte en un soporte vital y el clima natural que mata la ansiedad, la <strong>desazón</strong>, la impaciencia y reduce la irritabilidad ante la paciencia que exige el mundo para domar los defectos ajenos, regular los propios y vivir sin sentir que está uno al borde de un ataque de nervios, cuando todo va bien.",
+      "zh": "【烟草、地下交易与税收】豪尔迪·格拉西亚。吃腻猪油渣是十足的坏事，就像给正在长身体的孩子加倍供应汉堡和牛排一样，或者疯狂迷恋薯片、吃起来没个头一样。甚至对巧克力着了迷、在追剧间隙把整块巧克力一扫而光，看起来也是致命的，更别提大嚼花生、玉米条或任何其他『野草』（草？什么草？）。通过强迫性吸入把两包深度有毒的烟雾塞进身体，是一种近乎疯狂的荒谬，处于带有计划性报废色彩的自我毁灭边缘。所以，吸烟确实明显有害、令人上瘾、具有破坏性——尽管我们中有许多人根本无法想象，没有我们那份弹性的、广泛的、往往过度的毒性摄入，怎么过好日子、保持良好的健康状态（情绪上、道德上，以及让心理医生和精神科医生离得越远越好）。这不是对吸烟的颂扬，而是对这样一个事实的确认：吸烟成为一种生命支撑和自然氛围，它消解焦虑、烦躁和不耐烦，在这个需要耐心来驯服他人缺点、调节自身缺点、在一切顺利时不感觉自己处于崩溃边缘的世界里，降低了易怒情绪。",
+      "vocab": [
+        {
+          "word": "Hartarse",
+          "translation": "吃腻，吃撑，对……感到厌倦",
+          "note": "hartarse de 意为『过度食用某物直至厌倦』或『对某事感到受够了』；harto/a 作形容词意为『吃饱的、厌倦的』，如 estoy harto de esperar（我等够了）；这是一个兼具字面义和引申义的高频口语词，在日常对话和评论文体中均大量出现。"
+        },
+        {
+          "word": "chalarse",
+          "translation": "为……着迷，对……痴狂",
+          "note": "chalarse por 是西班牙口语表达，意为『对某事物极度痴迷、失去理智地喜爱』；chalado/a 作形容词意为『疯狂的、着了迷的』，语气轻松幽默，常用于描述对食物、人或爱好的过度迷恋，是理解西班牙日常口语的重要词汇。"
+        },
+        {
+          "word": "pirrarse",
+          "translation": "极度迷恋，为……神魂颠倒",
+          "note": "pirrarse por 与 chalarse por 近义，同为西班牙口语，表示对某事物的强烈痴迷；两者语气相近，但 pirrarse 更强调无法自控的渴望，如 me pirra el chocolate（我超爱巧克力）；这类口语化动词是C1阶段理解地道西班牙语的关键。"
+        },
+        {
+          "word": "desazón",
+          "translation": "烦躁，不安，内心不适",
+          "note": "desazón 由 des-（否定）+ sazón（成熟、恰到好处）构成，字面义为『不在状态』，引申为一种难以名状的内心不适、烦闷或焦躁感；比 ansiedad（焦虑）更轻微、更弥散，是文学和评论文体中描述情绪状态的精准词汇。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Todo el mundo sabe que el imperio de la ley seca fue un gran invento de EE UU y que llevamos aplicando la misma norma a la amplísima gama de drogas que llenan los pulmones, la sangre y el cerebro de un porcentaje significativo de la población enganchada a multitud de sustancias. Las medidas prohibitivas y represivas han tenido un éxito razonablemente descriptible al no lograr en cien años ninguno de sus objetivos. De hecho, han conseguido bastante más: llenar cárceles de pobres <strong>mulas</strong>, <strong>camellos</strong> y otras especialidades en busca de métodos agónicos de supervivencia, fomentar la <strong>clandestinidad</strong> de las operaciones de tráfico de estupefacientes, enriquecer salvajemente la industria de la transformación de materias primas hasta lograr un fentanilo formidablemente potente (y aceras y aceras de ciudades ricas pobladas de cadáveres ambulantes), encadenar masacres sin cuento y guerras limitadas de clanes de la droga en casi todos los países, incluida España.",
+      "zh": "众所周知，禁酒令是美国的一项伟大发明，而我们已将同样的规则应用于极为广泛的毒品范畴，这些毒品充斥着大量上瘾人群的肺部、血液和大脑。禁止性和压制性措施取得了可以相当准确描述的成功——在一百年里没有实现其任何目标。事实上，它们取得了更多成就：用可怜的运毒骡子、街头毒贩和其他寻求苟延残喘生存方式的人填满了监狱；助长了毒品走私活动的地下化；野蛮地富裕了原材料加工产业，直至制造出效力惊人的芬太尼（以及富裕城市街道上游荡的行尸走肉）；在几乎所有国家——包括西班牙——引发了数不清的屠杀和毒品集团之间的局部战争。",
+      "vocab": [
+        {
+          "word": "mulas",
+          "translation": "运毒骡子，人体藏毒者",
+          "note": "mula 本义为『骡子』，在毒品走私语境中指被迫或受雇将毒品藏于体内或行李中运输的底层人员；这是一个典型的隐喻词义延伸，以骡子的『驮运』功能比喻人被当作工具使用，是理解毒品相关新闻报道的必备词汇。"
+        },
+        {
+          "word": "camellos",
+          "translation": "街头毒贩，小毒贩",
+          "note": "camello 本义为『骆驼』，在西班牙俚语中专指街头小毒贩；与 mula（运毒者）不同，camello 指直接向终端用户销售毒品的人；这一隐喻同样取自动物的『驮运』意象，是西班牙语毒品相关俚语中最具代表性的词汇之一。"
+        },
+        {
+          "word": "clandestinidad",
+          "translation": "地下状态，秘密活动，非法隐蔽",
+          "note": "clandestinidad 由形容词 clandestino（秘密的、非法的）派生，指某活动被迫转入地下、脱离公众和法律监管的状态；en la clandestinidad（在地下）是固定搭配，常用于描述被禁止后转入非法渠道运作的现象，是理解禁令副作用的核心词。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Las posturas <strong>legalizadoras</strong> del consumo controlado de drogas han perdido la batalla hace tiempo, sin que quede nada claro quién ha ganado, más allá de la industria poderosísima del narco, sus refugios bancarios y la triunfal <strong>hipocresía</strong> de una sociedad cuyas élites (y no élites) consumen a destajo múltiples sustancias prohibidas y perseguidas.",
+      "zh": "支持毒品受控合法化消费的立场早已败下阵来，而除了强大的毒品产业、其银行避风港以及一个社会的得意洋洋的虚伪——这个社会的精英（以及非精英）大量消费着各种被禁止和被追查的物质——之外，谁赢得了这场战役并不清楚。",
+      "vocab": [
+        {
+          "word": "legalizadoras",
+          "translation": "主张合法化的，支持合法化的",
+          "note": "legalizar（使合法化）的形容词派生形式，posturas legalizadoras 指支持将某种行为或物质合法化的政策立场；-dor/-dora 后缀在此表示『倾向于……的、主张……的』，如 reformador（改革派的）、conservador（保守的）。"
+        },
+        {
+          "word": "hipocresía",
+          "translation": "虚伪，伪善，言行不一",
+          "note": "hipocresía 源自希腊语 hypokrisis（表演、假装），指表面上遵守某种道德标准而私下违反的行为；在社会批评中，hipocresía social（社会虚伪）是揭露精英阶层双重标准的有力词汇，形容词形式为 hipócrita（虚伪的）。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Prohibir a la muchachada nacida el 1 de enero de 2009 la compra de tabaco quizá solo destaca por su inmoderada <strong>candidez</strong>: la compra al detalle de tabaco ya fue nuestra ruta al consumo (pitillo a pitillo) porque no teníamos para los paquetes enteros, y el coste creciente de las cajetillas ha echado a mucha gente, con <strong>transversalidad</strong> de clase, a liarse los pitis. El efecto inmediato de esa medida es la criminalización pública del tabaco —diría que muy avanzada entre nosotros— a través de dificultar su acceso a los más jóvenes y, a la vez, el efecto secundario será la automática creación de canales paralelos de acceso al tabaco sin control público ni fiscal con el brillo, la chispa de una clandestinidad siempre irresistible (más la victimización asociada: no nos comprenden).",
+      "zh": "禁止2009年1月1日出生的年轻人购买烟草，也许只是以其过度的天真而显得突出：零散购买烟草（一支一支地买）曾经就是我们走向消费的路径，因为我们买不起整包烟，而烟盒价格的不断上涨已经让许多人——跨越阶层——开始自己卷烟。这一措施的直接效果是对烟草的公开犯罪化——我认为在我们这里已经相当深入——通过增加年轻人获取烟草的难度；与此同时，其副作用将是自动创建不受公共或税务管控的烟草平行获取渠道，带着地下活动那永远无法抗拒的光芒与火花（加上随之而来的受害者化：没人理解我们）。",
+      "vocab": [
+        {
+          "word": "candidez",
+          "translation": "天真，单纯，幼稚",
+          "note": "candidez 由形容词 cándido（天真无邪的、单纯的）派生，源自拉丁语 candidus（洁白的），在评论文体中常带有讽刺色彩，暗示某种想法或政策过于幼稚、脱离现实；比 ingenuidad（天真）更强调令人忍俊不禁的单纯。"
+        },
+        {
+          "word": "transversalidad",
+          "translation": "跨阶层性，横向覆盖性",
+          "note": "transversalidad 由 transversal（横向的、跨越的）派生，在社会学语境中指某一现象或政策跨越不同社会阶层、群体或领域的特性；con transversalidad de clase 意为『不分阶层地』，是当代西班牙政治和社会评论的高频表达。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "¿Es una buena idea para contener el consumo entre los más jóvenes? No lo sé. Sí sé que vuelve a <strong>infantilizarlos</strong> (ciertamente a ellos no se les va a ocurrir cómo eludir la prohibición…), sobrevalora la adicción de por vida que genera ese consumo tantas veces meramente social y solo caprichoso, y a lo mejor, y es lo peor de todo, igual nos deja sin los ingentes impuestos (¿un 80%?) que pagamos los adictos al tabaco, tanto si hacemos uso de los hospitales públicos como si no. Es verdad: se llama bendito Estado del bienestar, y yo me siento orgullosísimo de haber destinado en él el equivalente de un sueldo al año desde hace unos 45, aunque no haya pisado un hospital más que por un quiste (sin incidencia tabáquica: ¿quizá alguna hamburguesa de más?).",
+      "zh": "这是遏制年轻人消费的好主意吗？我不知道。我确实知道的是，这再次将他们婴儿化（他们当然不会想到如何绕过禁令……），高估了那种消费所产生的终身成瘾性——那种消费很多时候不过是社交性的、只是一时兴起，而且也许——这才是最糟糕的——可能让我们失去烟草成瘾者所缴纳的巨额税款（约80%？），无论我们是否使用公立医院。确实：这叫做神圣的福利国家，我为自己在过去约45年里每年向其贡献了相当于一份薪水的税款而感到无比自豪——尽管我进医院不过是为了一个囊肿（与烟草无关：也许是多吃了几个汉堡？）。",
+      "vocab": [
+        {
+          "word": "infantilizarlos",
+          "translation": "将他们婴儿化，把他们当小孩对待",
+          "note": "infantilizar 由 infantil（儿童的）+ -izar（使……化）构成，意为『将成年人当作无行为能力的儿童对待，剥夺其自主判断权』；在政治和社会评论中，infantilizar a la ciudadanía（将公民婴儿化）是批评过度家长式管理的有力表达。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "Jordi Gracia es catedrático de Literatura Española en la Universidad de Barcelona y ha sido subdirector de Opinión y adjunto a la dirección de EL PAÍS.",
+      "zh": "豪尔迪·格拉西亚是巴塞罗那大学西班牙文学教授，曾任《国家报》观点版副主编及副主任。",
+      "vocab": []
+    }
+
+  ]
+}
