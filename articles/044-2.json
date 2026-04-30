@@ -1,0 +1,459 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "经济与科技",
+  "difficulty": "C1",
+  "wordCount": "约3500词",
+  "title": "Los robots y la alta tecnología que están transformando China",
+  "subtitle": "正在改变中国的机器人与高科技",
+  "resumenEs": "El artículo analiza la transformación estructural de la industria manufacturera china en las últimas dos décadas: el desplazamiento desde sectores de baja tecnología hacia sectores de tecnología media y alta, el aumento de la productividad laboral, la consolidación de China como superexportadora de productos complejos, y el crecimiento acelerado de la inversión en capital físico e I+D como motores del ascenso en la cadena de valor global.",
+  "resumenZh": "文章分析了过去二十年中国制造业的结构性转型：从低技术行业向中高技术行业的转移、劳动生产率的提升、中国作为复杂产品超级出口国的地位巩固，以及实物资本和研发投资的加速增长作为攀升全球价值链的驱动力。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "De acuerdo con la mayoría de los indicadores, el sector manufacturero de China es el mayor del mundo y ha crecido más deprisa que el de cualquier otra economía importante en los últimos 25 años. El sector manufacturero ha generado en conjunto unos 5 billones de dólares de valor <strong>agregado</strong>; y en el 2024 empleó a unos 70 millones de trabajadores en empresas manufactureras por encima de un tamaño determinado. La cuota de China en la industria manufacturera mundial ha experimentado fuertes aumentos: pasó de un 6% en el 2000 a un 26% en el 2015; y, pese a los <strong>altibajos</strong> de algunos años, se acercó a un 30% en el 2024.",
+      "zh": "根据大多数指标，中国制造业是全球规模最大的，在过去25年里增长速度超过任何其他主要经济体。制造业整体创造了约5万亿美元的增加值；2024年，规模以上制造业企业共雇用了约7000万名工人。中国在全球制造业中的份额大幅提升：从2000年的6%增至2015年的26%；尽管部分年份有所起伏，2024年已接近30%。",
+      "vocab": [
+        {
+          "word": "agregado",
+          "translation": "增加的；（经济）附加的，总计的",
+          "note": "valor agregado（增加值）是经济学核心术语，指生产过程中新创造的价值，即产出价值减去中间投入成本；对应英语 value added；agregado 作形容词意为『汇总的、附加的』，如 demanda agregada（总需求）、producto interior bruto（GDP）的计算即基于此概念。"
+        },
+        {
+          "word": "altibajos",
+          "translation": "起伏，波动，高低变化",
+          "note": "altibajos 由 alto（高）+ bajo（低）复合而成，专指某一指标或状况的不规则波动；固定用复数形式，如 los altibajos del mercado（市场的起伏）、los altibajos de la vida（人生的起起落落）；是经济和日常语境中描述波动性的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Tras el rápido desarrollo económico con la entrada en la OMC, el país registró un crecimiento decisivo del comercio manufacturero y pasó de exportar 0,18 billones de dólares a 2,17 entre el 2000 y el 2015 gracias al aumento de la demanda mundial de productos chinos en este período. Al mismo tiempo, aumentó su cuota en las exportaciones mundiales de un 4,19% a un 13,80%. Entre el 2015 y el 2024, en cambio, la cuota de las exportaciones mundiales experimentó una tasa de crecimiento lenta, puesto que pasó de un 13,80% a un 14,64%, pese a que el volumen de las exportaciones aumentó un 57,60%, hasta alcanzar en el 2024 los 3,42 billones de dólares.",
+      "zh": "加入世贸组织后，随着经济的快速发展，中国制造业贸易实现了决定性增长，出口额从2000年的0.18万亿美元增至2015年的2.17万亿美元，这得益于该时期全球对中国产品需求的增加。与此同时，其在全球出口中的份额从4.19%提升至13.80%。然而，2015年至2024年间，全球出口份额的增长速度放缓，仅从13.80%升至14.64%，尽管出口量增长了57.60%，2024年达到3.42万亿美元。",
+      "vocab": [
+        {
+          "word": "OMC",
+          "translation": "世界贸易组织（WTO）",
+          "note": "OMC 是 Organización Mundial del Comercio 的缩写，即英语中的 WTO（World Trade Organization）；中国于2001年正式加入OMC，这一事件被视为中国制造业腾飞的重要制度性节点；了解国际经济组织的西语缩写是阅读经济类文章的基础。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "En el 2000, el <strong>superávit</strong> comercial de China fue solo de 24.110 millones de dólares, pero creció de los 593.900 millones a los 992.580 millones entre el 2015 y el 2024, por lo que el superávit comercial puede reflejar las fuerzas económicas generales. El superávit comercial facilita los ingresos para las generaciones futuras, que disfrutan de bienestar económico, y se convierte en posibles fondos de inversión para la <strong>acumulación</strong> de capital físico y humano, con el consiguiente efecto de crecimiento económico chino a largo plazo.",
+      "zh": "2000年，中国贸易顺差仅为241.1亿美元，但在2015年至2024年间从5939亿美元增至9925.8亿美元，因此贸易顺差可以反映整体经济实力。贸易顺差为未来世代提供了享受经济福祉的收入来源，并转化为实物资本和人力资本积累的潜在投资资金，从而对中国长期经济增长产生相应的推动效应。",
+      "vocab": [
+        {
+          "word": "superávit",
+          "translation": "顺差，盈余，结余",
+          "note": "superávit 源自拉丁语 superavit（超过），指收入或出口超过支出或进口的差额；与 déficit（逆差、赤字）相对；superávit comercial（贸易顺差）、superávit presupuestario（财政盈余）是经济新闻中的核心术语对。"
+        },
+        {
+          "word": "acumulación",
+          "translation": "积累，积聚，堆积",
+          "note": "acumulación 由 acumular（积累）派生，在经济学中特指资本、财富或知识的持续积聚过程；acumulación de capital（资本积累）是马克思主义经济学和发展经济学的核心概念，指将剩余价值转化为新的生产性资产的过程。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Los logros del país en producción y exportación de productos manufacturados han sido elogiados por las economías desarrolladas y las economías en desarrollo. El avance de China en el sector manufacturero es sin duda importante, pero hay un par de puntos que deben mencionarse al considerar la lograda <strong>reestructuración</strong> de las últimas décadas y, en particular, de los últimos diez años. En resumen, la evaluación de las tendencias manufactureras muestra que el panorama ha mejorado relativamente; es decir, por una parte, un crecimiento gradual del sector tecnológico y un aumento de su cuota; y, por otra, un crecimiento lento de la producción y una <strong>contracción</strong> de la cuota en los sectores de baja tecnología.",
+      "zh": "该国在制造品生产和出口方面的成就受到发达经济体和发展中经济体的广泛赞誉。中国在制造业领域的进步无疑意义重大，但在考量过去几十年——尤其是过去十年——所取得的结构调整成就时，有几点值得特别提及。总体而言，对制造业趋势的评估表明，整体格局已相对改善：一方面，科技行业实现了渐进式增长，其份额不断提升；另一方面，低技术行业的产出增长缓慢，份额出现收缩。",
+      "vocab": [
+        {
+          "word": "reestructuración",
+          "translation": "重组，结构调整，重构",
+          "note": "re-（重新）+ estructuración（结构化）构成，指对某一经济体、企业或行业的内部结构进行根本性调整；reestructuración industrial（产业重组）、reestructuración económica（经济结构调整）是发展经济学的核心词汇，强调主动的系统性变革而非自然演变。"
+        },
+        {
+          "word": "contracción",
+          "translation": "收缩，萎缩，紧缩",
+          "note": "contracción 由 contraer（收缩）派生，在经济语境中指产出、就业或市场份额的下降；与 expansión（扩张）相对；contracción económica（经济收缩）特指GDP负增长阶段，是宏观经济分析的基础词汇。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "B. Empleo en sectores complejos. En tanto que mayor economía en desarrollo, China ha generado un empleo masivo en la industria manufacturera; y el empleo en las empresas industriales por encima de un tamaño determinado ha experimentado una fuerte mejora y ha pasado de 50 millones a un máximo de 90 millones de puestos de trabajo entre el 2000 y el 2014, lo que supone un gran aumento de en torno a un 80%. Sin embargo, el empleo en el sector manufacturero ha descendido de forma drástica desde el 2015. Al parecer, las ganancias de productividad han superado el crecimiento de la demanda de productos manufacturados. En realidad, la pérdida de puestos de trabajo en la industria manufacturera china no es más que el resultado de una <strong>reestructuración impulsada por la productividad</strong>.",
+      "zh": "B. 复杂行业的就业。作为最大的发展中经济体，中国在制造业创造了大规模就业；规模以上工业企业就业人数大幅增长，从2000年的5000万增至2014年的峰值9000万，增幅约达80%。然而，自2015年起，制造业就业人数急剧下降。生产率的提升似乎已超过制造品需求的增长。事实上，中国制造业就业岗位的流失，不过是生产率驱动型结构调整的结果。",
+      "vocab": [
+        {
+          "word": "reestructuración impulsada por la productividad",
+          "translation": "生产率驱动型结构调整",
+          "note": "impulsado/a por（由……驱动）是经济分析中描述因果关系的常见结构，如 crecimiento impulsado por la exportación（出口驱动型增长）、cambio impulsado por la tecnología（技术驱动型变革）；掌握这一句式可快速理解大量经济政策文本中的核心论断。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Por un lado, se calcula para el cambio en el empleo en 12 sectores de baja tecnología, como el procesado de alimentos, el textil, la confección, los productos de cuero, el mobiliario y la fabricación de papel, cuya mano de obra se redujo en un 37,81%, hasta los 24,34 millones en el 2024. En concreto, la cuota del empleo se contrajo en el sector manufacturero de modo más drástico en los sectores del textil y la confección, que pasaron de un 10,49% a un 6,76%, con una pérdida de 4,46 millones de puestos de trabajo. Los sectores de baja tecnología muestran una tendencia a la baja en el empleo manufacturero total, pero su caída es inevitable y está en <strong>consonancia</strong> con lo que está ocurriendo en los países desarrollados.",
+      "zh": "一方面，12个低技术行业（如食品加工、纺织、服装、皮革制品、家具和造纸）的就业变化测算显示，其劳动力规模缩减了37.81%，至2024年降至2434万人。具体而言，纺织和服装行业的就业份额在制造业中降幅最为显著，从10.49%降至6.76%，流失了446万个工作岗位。低技术行业在制造业总就业中呈现下降趋势，但这一下滑不可避免，与发达国家的发展态势相吻合。",
+      "vocab": [
+        {
+          "word": "consonancia",
+          "translation": "一致，吻合，协调",
+          "note": "consonancia 本为音乐术语，指音符之间的和谐共鸣，引申为两种现象或观点之间的高度吻合；en consonancia con（与……相一致）是正式文体中表达对应关系的固定搭配，如 en consonancia con las tendencias globales（与全球趋势相吻合），比 de acuerdo con 更强调内在的一致性。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "A. Hacia la sofisticación manufacturera. Como principio económico, la sofisticación media de la producción aumenta en términos nacionales con la renta per cápita. El PIB per cápita chino pasó de 960 dólares en el 2000 a 8.174 dólares en el 2015, y alcanzó los 13.445 dólares en el 2024, lo que permite suponer que la economía en general se habría visto impulsada por el cambio en la <strong>productividad laboral</strong>. Algunos señalarán acertadamente que la productividad laboral es una relación entre una medida de la cantidad de output y una medida de la cantidad de input laboral. Por lo general, la medida del output es el valor añadido o el output bruto (ingresos empresariales), y la cantidad de input laboral es una medida relacionada del empleo. Existe un consenso generalizado acerca de la importancia de la productividad para el nivel de vida y la vitalidad económica.",
+      "zh": "A. 走向制造业精密化。作为一项经济原则，一国生产的平均精密化程度随人均收入的提高而上升。中国人均GDP从2000年的960美元增至2015年的8174美元，2024年达到13445美元，由此可以推断，整体经济应已受到劳动生产率变化的推动。有人会正确地指出，劳动生产率是产出量与劳动投入量之间的比率。通常，产出的衡量指标是增加值或总产出（企业收入），劳动投入量则是与就业相关的衡量指标。关于生产率对生活水平和经济活力的重要性，学界已形成广泛共识。",
+      "vocab": [
+        {
+          "word": "productividad laboral",
+          "translation": "劳动生产率",
+          "note": "productividad laboral 是衡量单位劳动投入所产生产出的核心经济指标；productividad（生产率）由 producir（生产）派生，laboral 源自 labor（劳动）；与之相关的概念还有 productividad total de los factores（全要素生产率）和 productividad del capital（资本生产率），是理解经济增长理论的基础词汇组。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Lo más llamativo del desarrollo de la industria manufacturera no fue el lento ritmo de crecimiento de la producción global, sino la <strong>transición interna</strong> de la estructura manufacturera. La sofisticación de la estructura manufacturera china ha progresado de modo considerable año tras año. Existen diferencias claras en los patrones de cambio estructural entre los sectores de crecimiento rápido y los de crecimiento lento. Los resultados indican que la ampliación de la base industrial y el avance en la sofisticación de los productos son importantes <strong>motores</strong> de la industrialización del país.",
+      "zh": "制造业发展中最引人注目的，并非整体产出增长速度的放缓，而是制造业结构的内部转型。中国制造业结构的精密化程度年复一年地取得了显著进展。快速增长行业与缓慢增长行业之间的结构变化模式存在明显差异。研究结果表明，工业基础的扩大和产品精密化程度的提升，是推动该国工业化的重要动力。",
+      "vocab": [
+        {
+          "word": "motores",
+          "translation": "驱动力，引擎，推动因素",
+          "note": "motor 本义为『发动机、电机』，在经济和社会分析中引申为推动某一进程发展的核心力量；motores del crecimiento（增长引擎）、motores de la innovación（创新驱动力）是经济报道的高频隐喻搭配，体现了西语将机械动力概念迁移至社会科学的典型用法。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "De entrada, en una comparación entre los sectores de baja tecnología y los de tecnología media y alta en la última década, se aprecian claramente los diferentes patrones de cambio estructural. Los sectores de baja tecnología sufrieron una disminución de su cuota en la producción manufacturera, que, con una pérdida de 10 puntos porcentuales, pasó de un 31,89% a un 21,04%, mientras que los sectores de tecnología media y alta registraron un notable aumento y pasaron de un 57,50% a un 74,19%, con una ganancia de casi 17 puntos porcentuales.",
+      "zh": "首先，对过去十年低技术行业与中高技术行业的比较，清晰呈现出不同的结构变化模式。低技术行业在制造业产出中的份额有所下降，减少了10个百分点，从31.89%降至21.04%；而中高技术行业则实现了显著增长，从57.50%升至74.19%，增加了近17个百分点。",
+      "vocab": [
+        {
+          "word": "de entrada",
+          "translation": "首先，一开始，第一点",
+          "note": "de entrada 是口语和书面语均常用的话语标记，意为『首先、一开始就』，用于引出论述的第一个要点或强调某事从一开始就具有某种特征；比 en primer lugar 更口语化，常见于评论和分析文体中，如 de entrada, hay que señalar que...（首先需要指出的是……）。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Por otra parte, la proporción del empleo en 12 sectores complejos (de tecnología media y alta), como la maquinaria, la automoción, los productos químicos, los productos farmacéuticos, los equipos eléctricos y los productos informáticos y electrónicos, con respecto al total de la industria manufacturera han aumentado mucho entre el 2015 y el 2024. En primer lugar, el empleo en esos sectores bajó un 9,21%, hasta los 44,45 millones, frente a una tasa de un -36,36% en el sector de baja tecnología. Resulta especialmente impresionante que el empleo en el sector informático y electrónico aumentara un 2,78%, hasta los 9,35 millones, mientras que el del automóvil lo hiciera en un 2,38%, hasta los 4,83 millones.",
+      "zh": "另一方面，2015年至2024年间，12个复杂行业（中高技术行业）——如机械、汽车、化工、制药、电气设备以及计算机和电子产品——的就业占制造业总就业的比例大幅提升。首先，这些行业的就业人数下降了9.21%，至4445万人，而低技术行业的降幅则高达-36.36%。尤为令人印象深刻的是，计算机和电子行业的就业人数增长了2.78%，达到935万人，汽车行业增长了2.38%，达到483万人。",
+      "vocab": [
+        {
+          "word": "sectores complejos",
+          "translation": "复杂行业，技术密集型行业",
+          "note": "complejo/a 在经济和产业分析语境中意为『技术复杂度高、需要大量知识和资本投入的』，对应英语 complex 或 sophisticated；sectores complejos 与 sectores de baja tecnología（低技术行业）形成对比，是本文分析框架的核心分类概念。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Si bien no cabe duda de que el crecimiento de la productividad ha desempeñado un papel principal en la disminución del empleo en el sector manufacturero, su papel ha sido mucho mayor de lo que se creía; en especial, en los sectores tecnológicos. Por ello, es posible que China <strong>ascienda</strong> en la cadena de valor.",
+      "zh": "尽管生产率的提升无疑在制造业就业减少中发挥了主要作用，但其作用远比人们此前认为的更为重要——尤其是在技术行业。因此，中国有可能在价值链上实现攀升。",
+      "vocab": [
+        {
+          "word": "cadena de valor",
+          "translation": "价值链",
+          "note": "cadena de valor 是由管理学家迈克尔·波特提出的核心概念，指企业或国家在产品从原材料到最终消费者的全过程中所参与的各个增值环节；ascender en la cadena de valor（在价值链上攀升）意为从低附加值的劳动密集型环节向高附加值的技术密集型环节转移，是理解中国产业升级战略的关键词。"
+        }
+      ]
+    },
+      {
+        "id": 12,
+        "es": "C. 'Superexportadora' de productos complejos. Existe una relación <strong>bidireccional</strong> entre el desarrollo tecnológico y los resultados comerciales: la tecnología impulsa el comercio, y el comercio es uno de los factores que configuran el progreso tecnológico en China. La dinámica de la fuerza manufacturera parece haber permitido que las exportaciones chinas crecieran a un ritmo más rápido que la producción manufacturera. Según los datos disponibles, las exportaciones de productos manufacturados representaron un 20% de la producción manufacturera de China en el 2024, frente a un 14% en el 2015. Si nos remontamos al año 2000, las exportaciones manufactureras solo representaron un 3% de todas las ventas de la industria manufacturera china.",
+        "zh": "C. 复杂产品的『超级出口国』。技术发展与贸易绩效之间存在双向关系：技术推动贸易，而贸易是塑造中国技术进步的因素之一。制造业实力的动态发展似乎使中国出口的增速超过了制造业产出的增速。根据现有数据，2024年制造品出口占中国制造业产出的20%，而2015年这一比例为14%。若追溯至2000年，制造业出口仅占中国制造业全部销售额的3%。",
+        "vocab": [
+          {
+            "word": "bidireccional",
+            "translation": "双向的，双方向的",
+            "note": "bi-（二、双，源自拉丁语）+ direccional（方向性的）构成，意为『在两个方向上同时发生或作用』；relación bidireccional（双向关系）在经济学中指两个变量相互影响、互为因果的关系，对应英语 two-way 或 bidirectional relationship；同前缀词还有 bilingüe（双语的）、bilateral（双边的）。"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "es": "Desde el 2001, una economía más abierta ha llevado a China a una posición de mayor <strong>ventaja competitiva</strong>. Esa apertura ha traído consigo un aumento de los rendimientos y un uso más eficiente de diversos recursos, como la mano de obra. Las exportaciones chinas de productos manufacturados alcanzaron los 3,42 billones de dólares en el 2024, lo que supone un aumento de un 90%. Dicho aumento superó en 1,23 billones de dólares el total alcanzado en el 2015. Es evidente que los productos manufacturados constituyen la mayor parte de las exportaciones chinas y representaron entre un 90% y un 95% del total de las exportaciones entre el 2005 y el 2024, con una clara estabilidad a lo largo del período.",
+        "zh": "自2001年起，更加开放的经济使中国跻身更具竞争优势的地位。这种开放带来了回报的提升和各类资源（如劳动力）的更高效利用。2024年，中国制造品出口额达到3.42万亿美元，增幅达90%。这一增量比2015年的总量高出1.23万亿美元。显而易见，制造品构成了中国出口的主体，在2005年至2024年间始终占出口总额的90%至95%，整个时期保持了明显的稳定性。",
+        "vocab": [
+          {
+            "word": "ventaja competitiva",
+            "translation": "竞争优势",
+            "note": "ventaja competitiva 是迈克尔·波特竞争理论的核心概念，指某一企业或国家相较于竞争对手所具备的持续性优势；ventaja（优势）源自古法语 avantage，competitive 对应西语 competitivo/a；与之相关的概念有 ventaja comparativa（比较优势，李嘉图理论）和 ventaja absoluta（绝对优势，亚当·斯密理论）。"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "es": "En primer lugar, gran parte del impulso de las exportaciones se ha desplazado hacia sectores <strong>intensivos en tecnología</strong>, que desempeñan un papel cada vez más destacado. La cuota de los productos complejos en el total de las exportaciones de productos manufacturados ha oscilado entre un 52% y un 56%. En conjunto, el volumen exportador de ese sector aumentó un 68,87%, hasta alcanzar los 1,79 billones de dólares. Lo novedoso del sólido crecimiento de las exportaciones chinas es el aumento del volumen de exportación de automóviles, que se <strong>disparó</strong> hasta los 117.350 millones de dólares, un incremento de nueve veces.",
+        "zh": "首先，出口增长的主要动力已向技术密集型行业转移，这些行业发挥着日益突出的作用。复杂产品在制造品出口总额中的份额在52%至56%之间波动。总体而言，该行业的出口量增长了68.87%，达到1.79万亿美元。中国出口强劲增长的新亮点是汽车出口量的激增，飙升至1173.5亿美元，增长了九倍。",
+        "vocab": [
+          {
+            "word": "intensivos en tecnología",
+            "translation": "技术密集型的",
+            "note": "intensivo en + 名词 是描述生产要素密集程度的固定结构，如 intensivo en mano de obra（劳动密集型）、intensivo en capital（资本密集型）、intensivo en conocimiento（知识密集型）；这一句式源自要素禀赋理论，是经济地理和国际贸易分析的基础表达框架。"
+          },
+          {
+            "word": "disparó",
+            "translation": "激增，飙升，猛涨",
+            "note": "disparar 本义为『开枪、发射』，在经济语境中引申为某一数值的急剧上升，带有速度快、幅度大的双重含义；dispararse los precios（价格飙升）、dispararse las exportaciones（出口激增）是新闻报道中的高频隐喻，比 aumentar（增加）更具视觉冲击力。"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "es": "En segundo lugar, los sectores de crecimiento lento quedaron <strong>rezagados</strong> en relación con los de mayor éxito. De hecho, las exportaciones de textiles y artículos relacionados disminuyeron de un 22,64% a un 8,74% del total de productos manufacturados, por más que el volumen absoluto de sus exportaciones haya crecido un 9,11%, hasta alcanzar los 298.300 millones de dólares durante el mismo período.",
+        "zh": "其次，增长缓慢的行业相对于表现更佳的行业而言已落后。事实上，纺织品及相关产品的出口额占制造品总额的比例从22.64%降至8.74%，尽管其出口的绝对量在同期增长了9.11%，达到2983亿美元。",
+        "vocab": [
+          {
+            "word": "rezagados",
+            "translation": "落后的，滞后的，掉队的",
+            "note": "rezagado/a 由 rezagar（使落后）派生，意为『在竞争或发展中处于落后位置』；quedar rezagado（落后、掉队）是固定搭配，常用于比较不同行业、国家或群体的发展速度；比 atrasado（落后的）更强调相对于他者的动态落差，是经济和社会分析的常用词。"
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "es": "En tercer lugar, las exportaciones de alta tecnología de China pasaron de 655.610 millones de dólares en el 2015 a 979.420 millones en el 2021, y bajaron a 881.950 millones en el 2024. No cabe duda de que China se ha convertido en uno de los exportadores de alta tecnología del mundo. Así, las exportaciones de máquinas de procesamiento automático de datos aumentaron un 35,16%, hasta alcanzar los 205.860 millones de dólares. Además, las exportaciones de baterías de iones de litio alcanzaron los 61.130 millones de dólares en el 2024. Esos productos de alta tecnología han registrado un crecimiento especialmente rápido en los últimos diez años.",
+        "zh": "第三，中国高技术产品出口额从2015年的6556.1亿美元增至2021年的9794.2亿美元，随后在2024年回落至8819.5亿美元。毋庸置疑，中国已成为全球高技术产品出口大国之一。其中，自动数据处理设备出口增长了35.16%，达到2058.6亿美元。此外，锂离子电池出口额2024年达到611.3亿美元。这些高技术产品在过去十年中实现了尤为迅猛的增长。",
+        "vocab": [
+          {
+            "word": "no cabe duda de que",
+            "translation": "毋庸置疑，不容置疑",
+            "note": "no cabe duda de que + 陈述式 是表达强烈确定性的固定句式，意为『这一点没有任何疑问的余地』；caber 在此意为『有空间、有可能』，no cabe（没有余地）强调逻辑上的必然性；比 es obvio que（显然）更正式，常见于学术和新闻评论文体。"
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "es": "Desde un punto de vista objetivo, la economía china se ha beneficiado de la competencia comercial, que ha contribuido a mantener la competitividad de muchos sectores manufactureros. La fuerte competencia mundial en materia de importaciones ha ejercido una presión extraordinaria sobre el proceso de modernización del desarrollo de la industria manufacturera y, al mismo tiempo, ha afectado también a los sectores de tecnología avanzada en todo el mundo. Las importaciones de productos manufacturados aumentaron de un modo sin <strong>precedentes</strong> y pasaron de 0,18 billones de dólares en el 2000 a 1,21 billones en el 2015 y luego a 1,52 billones en el 2024. En un total de diez años (2015-2024), el superávit comercial de China en productos manufacturados registró un aumento de 12,60 billones de dólares.",
+        "zh": "从客观角度来看，中国经济从贸易竞争中获益，这有助于维持众多制造业行业的竞争力。全球进口领域的激烈竞争对制造业发展的现代化进程施加了巨大压力，同时也影响到了全球各地的先进技术行业。制造品进口额以前所未有的速度增长，从2000年的0.18万亿美元增至2015年的1.21万亿美元，进而增至2024年的1.52万亿美元。在整整十年间（2015—2024年），中国制造品贸易顺差累计增加了12.60万亿美元。",
+        "vocab": [
+          {
+            "word": "sin precedentes",
+            "translation": "前所未有的，史无前例的",
+            "note": "sin precedentes 由 sin（没有）+ precedentes（先例，precedente 的复数）构成，意为『在历史上没有可比先例的』；是新闻和学术文体中描述极端或突破性现象的高频表达，对应英语 unprecedented；注意 precedente 还可作名词单独使用，如 sentar un precedente（开创先例）。"
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "es": "Durante esa transición estructural, se destinaron más recursos a la actividad de <strong>intensificación del capital</strong>; y la capacidad de transformar el éxito de las exportaciones en un cambio estructural en la manufactura puede explicar el fenómeno superexportador. Una evaluación más precisa de la producción manufacturera y las exportaciones de China indica que el crecimiento de la productividad ha estado relacionado con la inversión de capital y la actividad innovadora.",
+        "zh": "在这一结构性转型过程中，更多资源被投入到资本深化活动中；将出口成功转化为制造业结构变革的能力，或许可以解释这一超级出口国现象。对中国制造业产出和出口的更精确评估表明，生产率的增长与资本投资和创新活动密切相关。",
+        "vocab": [
+          {
+            "word": "intensificación del capital",
+            "translation": "资本深化，资本密集化",
+            "note": "intensificación del capital 指在生产过程中每单位劳动力所配备的资本量不断增加的过程，是工业化升级的核心机制；对应英语 capital deepening；与 acumulación de capital（资本积累）的区别在于，intensificación 强调资本与劳动的比率变化，而非资本总量的增加。"
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "es": "D. Rápido crecimiento del capital físico. La inversión en capital físico (como plantas, maquinaria y equipos) transforma con el tiempo un sector relativamente <strong>intensivo en mano de obra</strong> en otro relativamente intensivo en capital, como ha ocurrido en China. Durante la última década, la inversión manufacturera como proporción de la inversión total se ha mantenido relativamente estable, entre un 32,09% y un 34,38%. Es razonable suponer que sea difícil generar ganancias superiores en productividad sin un aumento <strong>concomitante</strong> de la inversión total, lo que constituye una prueba más del éxito de la competitividad industrial.",
+        "zh": "D. 实物资本的快速增长。对实物资本（如厂房、机械和设备）的投资，随着时间推移将一个相对劳动密集型的行业转变为相对资本密集型的行业，中国正是如此。过去十年，制造业投资占总投资的比例保持相对稳定，介于32.09%至34.38%之间。可以合理推断，若无总投资的同步增长，难以实现更高的生产率提升，这进一步印证了产业竞争力的成功。",
+        "vocab": [
+          {
+            "word": "intensivo en mano de obra",
+            "translation": "劳动密集型的",
+            "note": "与前文 intensivo en tecnología 结构相同，mano de obra（劳动力，字面义为『手的工作』）是西语中指代人工劳动力的固定表达；intensivo en mano de obra 对应英语 labor-intensive，是描述发展中国家早期工业化阶段生产特征的核心术语。"
+          },
+          {
+            "word": "concomitante",
+            "translation": "伴随的，同步的，相伴而生的",
+            "note": "concomitante 源自拉丁语 concomitans（同行的），意为『与某一主要现象同时发生、相互伴随的』；在学术和正式文体中，aumento concomitante（同步增长）强调两种现象在时间上的并行性和内在关联性；比 simultáneo（同时的）更强调因果或功能上的伴随关系。"
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "es": "El capital físico manufacturero de China (activos totales) se expandió a un ritmo espectacular y pasó de 1,15 a 12,56 billones de dólares entre el 2001 y el 2015, lo que supone un aumento de casi diez veces. Sin embargo, entre el 2015 y el 2024, el capital físico manufacturero aumentó un 53,66%, hasta alcanzar los 19,30 billones de dólares. En un entorno empresarial diferente, los sectores manufactureros de China deberían tener un rendimiento diferente en la <strong>acumulación de capital</strong> a lo largo del tiempo.",
+        "zh": "中国制造业实物资本（总资产）以惊人的速度扩张，从2001年的1.15万亿美元增至2015年的12.56万亿美元，增长了近十倍。然而，2015年至2024年间，制造业实物资本增长了53.66%，达到19.30万亿美元。在不同的商业环境下，中国各制造业行业在资本积累方面的表现理应有所差异。",
+        "vocab": [
+          {
+            "word": "activos totales",
+            "translation": "总资产",
+            "note": "activos totales 是会计和财务分析的基础术语，指企业或行业拥有的全部资产的总和，包括固定资产、流动资产等；activo（资产）与 pasivo（负债）构成资产负债表的两端；在宏观经济分析中，activos totales 常用于衡量某一行业的资本规模和积累程度。"
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "es": "En primer lugar, la técnica de producción difiere de un sector a otro: el ritmo de crecimiento del capital físico en los 12 sectores de baja tecnología fue solo de un 16,51%, hasta alcanzar los 2,87 billones de dólares, muy por debajo de la media de un 53,66%, por lo que la cuota se redujo drásticamente y pasó de un 19,77% a un 14,86% en esos sectores de baja tecnología. El sector textil disminuyó un 12,56%, hasta los 341.210 millones de dólares, mientras que el volumen absoluto del capital físico en el sector de la confección cayó drásticamente un 26,8%, hasta los 153.290 millones de dólares.",
+        "zh": "首先，不同行业的生产技术存在差异：12个低技术行业实物资本的增长率仅为16.51%，达到2.87万亿美元，远低于53.66%的平均水平，因此其份额大幅缩减，从19.77%降至14.86%。纺织行业下降了12.56%，至3412.1亿美元，而服装行业实物资本的绝对量则急剧下降了26.8%，至1532.9亿美元。",
+        "vocab": [
+          {
+            "word": "muy por debajo de",
+            "translation": "远低于，大幅低于",
+            "note": "muy por debajo de 是表达数量或程度差距悬殊的固定表达，其中 por debajo de（低于）通过 muy 加以强化；对应表达还有 muy por encima de（远高于）；这类程度副词短语在数据分析和比较性文章中极为常见，掌握其用法有助于快速理解数量关系。"
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "es": "En segundo lugar, los 12 sectores tecnológicos avanzaron un 67,11%, muy por encima de la tasa de los sectores de baja tecnología. Su participación en el capital físico de la industria manufacturera se expandió hasta un 75,50% en el 2024, con un aumento de 7 puntos porcentuales. Los datos más detallados muestran que se han producido aumentos espectaculares en el capital físico de varios sectores tecnológicos, con tres grandes ganadores que han superado a todos los sectores manufactureros: el primero es el sector de la informática y la electrónica, que acumuló fundamentalmente su capital hasta alcanzar los 2,94 billones de dólares, con un aumento de un 172,41%; el segundo es el de los equipos eléctricos, que se duplicó hasta los 1,87 billones de dólares; y el tercero es el automovilístico, que aumentó un 70,65% hasta alcanzar los 1,64 billones de dólares.",
+        "zh": "其次，12个技术行业增长了67.11%，远高于低技术行业的增速。其在制造业实物资本中的份额扩大至2024年的75.50%，增加了7个百分点。更详细的数据显示，多个技术行业的实物资本出现了惊人增长，三大赢家超越了所有制造业行业：第一是计算机和电子行业，其资本积累大幅增长，达到2.94万亿美元，增幅172.41%；第二是电气设备行业，翻倍至1.87万亿美元；第三是汽车行业，增长70.65%，达到1.64万亿美元。",
+        "vocab": [
+          {
+            "word": "se duplicó",
+            "translation": "翻倍，增加了一倍",
+            "note": "duplicar 由 duplo（双倍，源自拉丁语 duplus）派生，意为『使数量变为原来的两倍』；duplicarse（翻倍）是其反身形式，强调自然增长的结果；注意与 triplicar（增至三倍）、cuadruplicar（增至四倍）构成的数量倍增词族，是经济数据报道的核心词汇。"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "es": "En tercer lugar, y de modo más significativo, la <strong>intensificación del capital</strong> en la industria manufacturera ha aumentado notablemente en los últimos 25 años, si tomamos como indicador el capital físico por trabajador. Nuestro análisis muestra que el capital físico por trabajador aumentó un 83,70%, hasta alcanzar los 327.182 dólares en los sectores intensivos en capital entre el 2015 y el 2024; y que el capital físico por trabajador en las industrias intensivas en mano de obra también creció hasta alcanzar los 161.316 dólares, lo que supone un incremento de un 93,12%, una tasa ligeramente superior a la de los sectores intensivos en capital.",
+        "zh": "第三，也是最为显著的一点：若以人均实物资本为指标，过去25年制造业的资本深化程度显著提升。分析显示，2015年至2024年间，资本密集型行业的人均实物资本增长了83.70%，达到327182美元；劳动密集型行业的人均实物资本也增至161316美元，增幅达93.12%，略高于资本密集型行业的增速。",
+        "vocab": [
+          {
+            "word": "capital físico por trabajador",
+            "translation": "人均实物资本，每名工人的实物资本量",
+            "note": "por trabajador（每名工人）是构建人均指标的标准介词结构，类似用法有 por habitante（人均）、por hora（每小时）；capital físico por trabajador 是衡量资本深化程度的核心指标，反映了技术进步和投资积累使每位工人所能支配的资本设备量的变化。"
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "es": "Hoy en día casi todos los sectores manufactureros de China cuentan con más maquinaria y equipo que hace una década, aunque algunos, como el textil, la confección y los productos de cuero, han disminuido en términos absolutos en la cuota de capital físico, aunque con una cifra más alta por trabajador en el 2024.",
+        "zh": "如今，中国几乎所有制造业行业拥有的机械和设备都多于十年前，尽管纺织、服装和皮革制品等行业在实物资本份额上出现了绝对量的下降，但2024年的人均资本量仍高于此前水平。",
+        "vocab": [
+          {
+            "word": "en términos absolutos",
+            "translation": "以绝对量计，从绝对数值来看",
+            "note": "en términos absolutos 与 en términos relativos（相对而言）构成一对分析工具，前者指不考虑比例关系的实际数值变化，后者指相对于参照系的变化；这一区分在经济分析中至关重要，因为绝对量增长与相对份额下降可以同时成立，如本句所示。"
+          }
+        ]
+      },
+        {
+          "id": 25,
+          "es": "E. Más I+D para la innovación en la manufactura. Los datos relativos a la inversión en investigación y desarrollo (I+D) también pueden utilizarse para evaluar el crecimiento de la industria manufacturera china. Esos indicadores relacionados son tan sólidos como los datos de inversión de capital a la hora de determinar la competitividad. Igualmente importante es la proporción de la producción china que se <strong>reinvierte</strong> en I+D, ya que dicha ratio es un indicador del compromiso futuro de una economía con la competencia basada en las nuevas tecnologías. En la actualidad, todos los países reconocen el papel de la I+D en la relación entre tecnología, crecimiento económico y creación de empleo.",
+          "zh": "E. 更多研发投入推动制造业创新。研发（I+D）投资数据同样可用于评估中国制造业的增长。这些相关指标在判断竞争力方面与资本投资数据同样可靠。同等重要的是中国产出中再投入研发的比例，因为这一比率是衡量一个经济体未来致力于基于新技术竞争的指标。目前，所有国家都认识到研发在技术、经济增长与就业创造三者关系中所发挥的作用。",
+          "vocab": [
+            {
+              "word": "reinvierte",
+              "translation": "再投入，重新投资",
+              "note": "reinvertir 由 re-（重新）+ invertir（投资）构成，意为『将收益或产出重新投入生产或研发活动』；reinversión de beneficios（利润再投资）是企业财务的核心概念；与 invertir（初次投资）的区别在于 re- 强调循环性和持续性，体现了一种将产出转化为未来竞争力的战略逻辑。"
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "es": "Esa dinámica se refleja en el fuerte crecimiento del gasto en I+D en la economía china. En dicho sentido, la <strong>intensidad de I+D</strong> de la economía china ha crecido rápidamente y ha pasado de un 1% en el 2000 a un 2,06% en el 2015, y se prevé que alcance un 2,69% en el 2024; en cambio, la inversión en I+D en la mayoría de las economías en desarrollo no ha experimentado grandes cambios durante el mismo período. Curiosamente, China se ha fijado el ambicioso objetivo de aumentar el gasto en I+D hasta un 3% del PIB en el 2030, y dos tercios de esa cantidad procederán del sector manufacturero. Por lo tanto, la realidad es que la I+D, la innovación y la fabricación van de la mano. Es importante destacar que el gasto en I+D en el sector manufacturero chino casi se ha <strong>duplicado</strong> hasta alcanzar los 304.800 millones de dólares en los últimos diez años.",
+          "zh": "这一动态体现在中国经济研发支出的强劲增长上。就此而言，中国经济的研发强度快速提升，从2000年的1%增至2015年的2.06%，预计2024年将达到2.69%；相比之下，同期大多数发展中经济体的研发投资并未发生重大变化。值得关注的是，中国已设定了雄心勃勃的目标：到2030年将研发支出提升至GDP的3%，其中三分之二将来自制造业。因此，现实情况是：研发、创新与制造业密不可分。值得强调的是，过去十年中国制造业研发支出几乎翻倍，达到3048亿美元。",
+          "vocab": [
+            {
+              "word": "intensidad de I+D",
+              "translation": "研发强度",
+              "note": "intensidad de I+D 指研发支出占GDP或产出的百分比，是衡量一个国家或行业创新投入力度的标准指标，对应英语 R&D intensity；I+D 是 Investigación y Desarrollo 的缩写，对应英语 R&D（Research and Development）；这一指标常被用于国际竞争力比较和科技政策评估。"
+            },
+            {
+              "word": "van de la mano",
+              "translation": "密不可分，相辅相成，携手并进",
+              "note": "ir de la mano（手牵手走）是西语中描述两个事物紧密关联、相互依存的固定隐喻表达；在学术和政策文本中，A y B van de la mano 意为『A与B相辅相成、不可分割』；比 están relacionados（相互关联）更生动，强调协同共进的关系。"
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "es": "Cuando se examina por grupos industriales, se aprecia una gran variedad en el rendimiento de la I+D en el sector manufacturero chino. Por un lado, el gasto en I+D está dominado por seis sectores intensivos en tecnología, con un ritmo que se duplica entre el 2015 y el 2024. Eso se debe en parte al fuerte crecimiento de la I+D en el sector informático y electrónico, que representó un 22% en el 2024. Los dos siguientes sectores con mejor rendimiento en términos de crecimiento y cuantía son los de equipos eléctricos y automoción, que en el 2024 representaron un 11,69% y un 9,37%, respectivamente. El cuarto es el sector de la maquinaria, con un 12,29%. Además, el sector químico ocupó el quinto lugar, con un 5,56%. Y, lo que es más interesante, la industria <strong>farmacéutica</strong> aumentó un 126,95%, con una cuota de un 5,28% durante ese período y con una tasa de crecimiento superior a la media de los sectores de alta tecnología. Esos seis sectores tecnológicos representaron un 66,16% en el 2024, frente a un 61,66% en el 2015.",
+          "zh": "按产业集群分析，中国制造业研发绩效呈现出高度多样性。一方面，研发支出由六个技术密集型行业主导，2015年至2024年间增速翻倍。这在一定程度上源于计算机和电子行业研发的强劲增长，该行业2024年占比达22%。增长幅度和总量方面表现次优的两个行业是电气设备和汽车，2024年分别占11.69%和9.37%。第四位是机械行业，占12.29%。此外，化工行业位居第五，占5.56%。尤为值得关注的是，制药行业增长了126.95%，该时期占比5.28%，增速超过高技术行业的平均水平。这六个技术行业2024年合计占比66.16%，高于2015年的61.66%。",
+          "vocab": [
+            {
+              "word": "farmacéutica",
+              "translation": "制药的，药学的；制药行业",
+              "note": "farmacéutico/a 源自希腊语 pharmakon（药物），作形容词意为『与药物研发和生产相关的』，作名词意为『药剂师』；industria farmacéutica（制药行业）、empresa farmacéutica（制药企业）是医疗和经济新闻的高频词；同根词有 farmacia（药店、药学）、fármaco（药物）。"
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "es": "Por su parte, los sectores de baja tecnología experimentaron un pequeño crecimiento en la inversión en I+D, con una tasa de crecimiento de un 22,80% en el sector textil y un 10,10% en el sector de la confección, lo cual es <strong>insignificante</strong>.",
+          "zh": "另一方面，低技术行业的研发投资增长微乎其微，纺织行业增速为22.80%，服装行业为10.10%，这一水平可谓微不足道。",
+          "vocab": [
+            {
+              "word": "insignificante",
+              "translation": "微不足道的，无关紧要的，可忽略不计的",
+              "note": "insignificante 由 in-（否定）+ significante（有意义的）构成，意为『数量或重要性小到几乎不值得关注』；在数据分析语境中，una tasa insignificante（微不足道的增速）是作者对低技术行业研发投入的明确价值判断，语气比 pequeño（小的）更具否定性。"
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "es": "Cuando se examina de forma más detenida, vemos que la orientación manufacturera de la última década ha cambiado la industria china hacia la generación de productos tecnológicos de alta tecnología, cruciales para construir su economía. Un gran cambio en los patrones de financiación de la I+D en tecnología ha llevado a una amplia <strong>dispersión</strong> de la tecnología en todo el mundo. Por ejemplo, el gasto en I+D por trabajador en la industria manufacturera aumentó un 146,78%, hasta alcanzar los 4.400 dólares. Se observan tendencias similares en el sector informático y electrónico, donde el gasto en I+D por trabajador aumentó un 152,14%, hasta alcanzar los 7.176 dólares, mientras que en el sector de los equipos eléctricos aumentó un 122,66%, hasta alcanzar los 5.749 dólares, y en el sector automovilístico se registró una tasa de crecimiento casi duplicada, hasta alcanzar los 5.907 dólares por trabajador. Además, el sector farmacéutico experimentó una tasa de crecimiento de un 151,87%, hasta alcanzar los 7.745 dólares por trabajador. En marcado contraste, el sector textil solo aumentó hasta los 1.306 dólares, con un lento ritmo de un 29,56% durante ese período.",
+          "zh": "进一步深入审视，可以发现过去十年制造业的发展方向已将中国产业引向高技术产品的生产，这对构建其经济体系至关重要。技术研发融资模式的重大转变推动了技术在全球范围内的广泛扩散。例如，制造业人均研发支出增长了146.78%，达到4400美元。计算机和电子行业呈现出类似趋势，人均研发支出增长了152.14%，达到7176美元；电气设备行业增长了122.66%，达到5749美元；汽车行业的增速接近翻倍，达到每名工人5907美元。此外，制药行业的增速达到151.87%，人均研发支出达到7745美元。与此形成鲜明对比的是，纺织行业仅增至1306美元，同期增速缓慢，仅为29.56%。",
+          "vocab": [
+            {
+              "word": "dispersión",
+              "translation": "扩散，传播，分散",
+              "note": "dispersión 由 dispersar（分散、扩散）派生，在科技和经济语境中指知识、技术或资本向更广泛地域或行业的传播扩散；dispersión tecnológica（技术扩散）对应英语 technology diffusion，是创新经济学的核心概念，描述新技术从发源地向外部扩散并被采用的过程。"
+            },
+            {
+              "word": "en marcado contraste",
+              "translation": "与此形成鲜明对比，截然不同",
+              "note": "en marcado contraste（con）是学术和评论文体中引出对比论据的固定表达，marcado（显著的、鲜明的）强化了对比的程度；类似表达还有 en contraposición a（与……相对）、a diferencia de（不同于）；掌握这类话语连接词有助于快速把握文章的论证结构。"
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "es": "El mensaje es muy claro: en la industria manufacturera, la producción y la I+D no son separables, están íntimamente ligadas. La proximidad entre la <strong>profundización</strong> de la I+D y la transición de la industria manufacturera es muy importante para el campo de la tecnología de <strong>vanguardia</strong>. Mediante la inversión persistente en actividades de I+D, las compañías manufactureras chinas situadas a la vanguardia de la ciencia y la tecnología transmiten con rapidez nuevos conocimientos y perspectivas tecnológicas a productos y servicios de alto valor. Para aprovechar plenamente el potencial industrial, la industria manufacturera china va a mantener una fuerza dinámica en el gasto creciente en I+D.",
+          "zh": "信息十分明确：在制造业中，生产与研发不可分割，二者紧密相连。研发深化与制造业转型之间的紧密关联，对于前沿技术领域至关重要。通过对研发活动的持续投入，处于科技前沿的中国制造企业能够迅速将新知识和技术洞见转化为高价值产品和服务。为充分挖掘产业潜力，中国制造业将在持续增长的研发支出上保持强劲动力。",
+          "vocab": [
+            {
+              "word": "profundización",
+              "translation": "深化，深入推进，加深",
+              "note": "profundización 由 profundizar（深化）派生，源自 profundo（深的），意为『使某一过程或现象向更深层次发展』；profundización de la I+D（研发深化）与前文 intensificación del capital（资本深化）在构词逻辑上相似，都强调质的深入而非量的简单积累。"
+            },
+            {
+              "word": "vanguardia",
+              "translation": "前沿，先锋，最前沿",
+              "note": "vanguardia 源自法语 avant-garde（前卫），本为军事术语指『前锋部队』，引申为某一领域最先进、最前沿的位置；a la vanguardia de（处于……前沿）、tecnología de vanguardia（前沿技术）是科技和商业报道的高频搭配；对应英语 cutting-edge 或 state-of-the-art。"
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "es": "F. Mirar al futuro. Una industria manufacturera sólida es <strong>indispensable</strong> para la salud de la economía china. El caso de China muestra que la manufactura es necesaria para desarrollar sectores con mayor productividad y pasar de sectores de baja tecnología a sectores de tecnología media y alta. De hecho, China perdió puestos de trabajo en los sectores de fabricación de baja tecnología y puestos de trabajo de menor <strong>cualificación</strong> en todos los sectores manufactureros, pero compensó esas pérdidas con ganancias en puestos de trabajo de alto valor en sectores intensivos en tecnología.",
+          "zh": "F. 展望未来。强大的制造业对中国经济的健康发展不可或缺。中国的案例表明，制造业对于发展生产率更高的行业、从低技术行业向中高技术行业转型是必要的。事实上，中国在低技术制造行业以及所有制造业行业中的低技能岗位有所流失，但通过在技术密集型行业获得高价值就业岗位，弥补了这些损失。",
+          "vocab": [
+            {
+              "word": "indispensable",
+              "translation": "不可或缺的，必不可少的",
+              "note": "indispensable 由 in-（否定）+ dispensable（可省略的）构成，意为『在任何情况下都不能缺少的』；比 necesario（必要的）语气更强，强调缺失将导致严重后果；ser indispensable para（对……不可或缺）是政策和战略分析文本中的高频句式。"
+            },
+            {
+              "word": "cualificación",
+              "translation": "技能水平，资质，职业资格",
+              "note": "cualificación 指劳动者所具备的专业技能、知识和资质水平；puestos de trabajo de menor cualificación（低技能岗位）与 puestos de trabajo de alto valor（高价值岗位）形成对比，是劳动经济学分析就业结构变化的核心概念对；西班牙语中 cualificación 与 calificación 在此义上可互换使用。"
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "es": "En los próximos años, la industrialización masiva en muchas provincias ampliará de forma absoluta y definitiva la capacidad manufacturera de China en sectores tecnológicos estratégicos <strong>emergentes</strong>, lo que puede tener un <strong>efecto multiplicador</strong> en el crecimiento de la productividad en el plano nacional.",
+          "zh": "未来几年，许多省份的大规模工业化将全面且决定性地扩大中国在战略性新兴技术行业的制造能力，这可能对全国层面的生产率增长产生乘数效应。",
+          "vocab": [
+            {
+              "word": "emergentes",
+              "translation": "新兴的，崛起中的",
+              "note": "emergente 由 emerger（涌现、浮现）派生，源自拉丁语 emergere（从水中升起），在经济和科技语境中指正在快速发展、尚未完全成熟但潜力巨大的行业或市场；sectores emergentes（新兴行业）、economías emergentes（新兴经济体）是国际经济报道的核心词汇。"
+            },
+            {
+              "word": "efecto multiplicador",
+              "translation": "乘数效应",
+              "note": "efecto multiplicador 是凯恩斯宏观经济学的核心概念，指初始投资或支出通过经济循环产生数倍于原始规模的最终影响；multiplicador（乘数）源自 multiplicar（乘、倍增）；在产业政策分析中，efecto multiplicador 常用于论证战略性投资对整体经济的溢出效益。"
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "es": "China llegó tarde al entorno manufacturero mundial y, ahora que está muy expuesta a la competencia internacional, veremos si tendrá dificultades para mantener su fuerte ritmo en la <strong>carrera tecnológica</strong>.",
+          "zh": "中国进入全球制造业舞台较晚，如今已高度暴露于国际竞争之中，我们将拭目以待，看它能否在这场技术竞赛中维持强劲的发展势头。",
+          "vocab": [
+            {
+              "word": "carrera tecnológica",
+              "translation": "技术竞赛，科技竞争",
+              "note": "carrera 本义为『赛跑、竞速』，在地缘政治和经济语境中引申为国家或企业之间争夺技术领先地位的激烈竞争；carrera tecnológica（技术竞赛）、carrera armamentística（军备竞赛）、carrera espacial（太空竞赛）是同一隐喻框架下的系列表达，均强调竞争的速度性和零和博弈特征。"
+            }
+          ]
+        }
+      ]
+    }

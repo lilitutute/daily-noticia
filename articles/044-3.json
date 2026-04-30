@@ -1,0 +1,88 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与文化随笔",
+  "difficulty": "B2",
+  "wordCount": "约700词",
+  "title": "El pez Babel",
+  "subtitle": "巴别鱼",
+  "resumenEs": "El artículo toma como hilo conductor el 'pez Babel' de la novela de ciencia ficción de Douglas Adams —una criatura imaginaria capaz de traducir cualquier idioma— para reflexionar sobre la silenciosa pero vertiginosa irrupción de la traducción automática por IA en nuestra vida cotidiana. El autor celebra los avances, pero recuerda la advertencia del propio Adams: entenderse demasiado también puede ser peligroso.",
+  "resumenZh": "文章以道格拉斯·亚当斯科幻小说中的『巴别鱼』——一种能翻译任何语言的虚构生物——为线索，反思人工智能自动翻译悄然而迅猛地闯入我们日常生活的现象。作者在赞叹技术进步的同时，也援引亚当斯本人的警告：过于相互理解，同样可能是危险的。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Desde que leí la Guía del autoestopista galáctico, el <strong>descacharrante</strong> clásico de la ciencia ficción que escribió Douglas Adams a finales de los setenta, quiero un pez Babel. Según la guía, es pequeño, amarillo, parece una <strong>sanguijuela</strong> y es la criatura más rara del Universo. Se alimenta de la energía de las ondas cerebrales ajenas, y si la introduces en tu oído excreta en tu mente una matriz telepática que te hace comprender todas las lenguas. Me gustaba pensar que en el futuro iríamos por el mundo con nuestro pez en la oreja entendiéndolo todo.",
+      "zh": "自从读了道格拉斯·亚当斯在七十年代末写下的那部令人捧腹的科幻经典《银河系漫游指南》，我就一直想要一条巴别鱼。根据指南的描述，它体型娇小，通体金黄，形似水蛭，是宇宙中最奇异的生物。它以他人脑电波的能量为食，将其塞入耳中后，它会在你的脑海中分泌出一种心灵感应矩阵，使你能够理解所有语言。我曾喜欢设想，未来的我们将带着耳中的鱼游走世界，无所不懂。",
+      "vocab": [
+        {
+          "word": "descacharrante",
+          "translation": "令人捧腹的，滑稽可笑的，爆笑的",
+          "note": "descacharrante 是西班牙口语词，源自 cacharros（破烂玩意儿），意为『滑稽到令人忍俊不禁、几乎笑到东西都摔碎』；语气比 gracioso（有趣的）或 divertido（好玩的）强烈得多，带有一种夸张的幽默色彩，常用于描述喜剧作品或极为搞笑的情形。"
+        },
+        {
+          "word": "sanguijuela",
+          "translation": "水蛭；（比喻）吸血鬼，榨取者",
+          "note": "sanguijuela 本义为『水蛭』，一种吸血的环节动物；引申义指『榨取他人钱财或精力的人』；源自 sangre（血）；在本文中用于描述巴别鱼的外形，是一个生动的比喻性描述，也体现了亚当斯式荒诞幽默的文风。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Y resulta que, como tantas otras cosas que suceden muy lentamente hasta que después pasan de pronto, tengo uno en casa desde hace una semana sin darme cuenta, probablemente porque tiene pinta de móvil y aún no es usado como pez por demasiada gente. Lo he probado en una importante conferencia de negocios internacional (es decir, he llamado desde el dormitorio a mi pareja que hacía el <strong>paripé</strong> en el salón) y la traducción simultánea del teléfono ha funcionado relativamente bien: yo escuchaba una voz sintética masculina en español y él, otra femenina en inglés. Poseen esta función algunos móviles de alta gama de Google, Apple y Samsung, pero también existen en el mercado auriculares genéricos que prometen lo mismo por 30 o 40 euros.",
+      "zh": "结果发现，就像许多事情一样，慢慢发生着，直到某一刻突然成真——一周前，我已经在不知不觉中拥有了一条，大概是因为它看起来像部手机，而且还没有太多人把它当鱼来用。我在一场重要的国际商务会议上测试了它（也就是说，我从卧室打电话给在客厅里装模作样配合的伴侣），手机的同声传译功能运转得还算不错：我听到的是西班牙语的合成男声，他听到的则是英语的合成女声。谷歌、苹果和三星的部分高端手机具备这一功能，市面上也有售价三四十欧元的通用耳机，承诺提供同样的效果。",
+      "vocab": [
+        {
+          "word": "paripé",
+          "translation": "装模作样，走过场，假装",
+          "note": "paripé 是西班牙口语词，意为『为了应付或欺骗他人而做出的虚假表演或姿态』；hacer el paripé（装模作样、走过场）是固定搭配，带有轻松幽默的色彩；本文中作者用它自嘲地描述伴侣配合测试翻译功能的情形，是理解西语口语文体的典型词汇。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "La incorporación de la traducción por inteligencia artificial en el hardware ha sido el último paso de una tecnología que ha avanzado rápida y <strong>sigilosamente</strong> en el software. Tras la pandemia, los programas de videollamadas empezaron a transcribir reuniones, ahora subtituladas en directo. Las aplicaciones de compraventa la integraron incluso en mensajes privados: la comunicación con las francesas de Vinted y los italianos de Wallapop se hizo más fácil, incluso sin darnos cuenta de que hablábamos idiomas distintos. Algunos podcasts comenzaron a publicar versiones en español que sonaban raras, pero que resultaban comprensibles. El foro Reddit aparecía en nuestro idioma en las búsquedas, a pesar de ser estadounidense. YouTube empezó a traducir directamente el audio de sus vídeos. En Instagram o TikTok se imita artificialmente el movimiento de los labios de la persona para que el resultado sea menos extraño. WhatsApp permite traducir conversaciones enteras sin <strong>fricción</strong>. En X, desde hace unas semanas, la traducción se realiza por defecto, y mi pantalla se ha llenado de mensajes escritos originalmente en japonés, y de personas maravilladas porque la red en la que viven es ahora mucho más grande y rica.",
+      "zh": "将人工智能翻译整合进硬件，是这项技术在软件领域悄然而迅速推进的最后一步。疫情之后，视频通话软件开始转录会议内容，如今已实现实时字幕。二手交易应用甚至将其整合进私信功能：与Vinted上的法国卖家和Wallapop上的意大利买家沟通变得更加顺畅，甚至让人忘记了彼此说的是不同语言。一些播客开始发布西班牙语版本，听起来虽然有些奇怪，但尚可理解。Reddit论坛虽是美国平台，却在搜索结果中以我们的语言呈现。YouTube开始直接翻译视频音频。Instagram和TikTok则人工模拟说话者的嘴唇动作，使效果不那么违和。WhatsApp允许无障碍地翻译整段对话。X平台几周前开始默认进行翻译，我的屏幕上充满了原本用日语写成的消息，以及那些惊叹于自己所在的网络如今变得更加广阔而丰富的人们。",
+      "vocab": [
+        {
+          "word": "sigilosamente",
+          "translation": "悄悄地，悄无声息地，不动声色地",
+          "note": "sigilosamente 由 sigiloso（悄无声息的）派生，源自 sigilo（秘密、悄然），意为『以不引人注意的方式进行』；在本文中，rápida y sigilosamente（迅速而悄然地）精准描述了AI翻译技术渗透日常生活的方式——速度极快却几乎未被察觉，是全文核心观察的文学性表达。"
+        },
+        {
+          "word": "fricción",
+          "translation": "摩擦；（比喻）阻力，障碍，不顺畅",
+          "note": "fricción 本义为物理上的『摩擦』，在科技和用户体验语境中引申为『操作过程中的障碍、不便或额外步骤』；sin fricción（无摩擦地、无障碍地）是互联网产品设计的核心概念，对应英语 frictionless，强调用户体验的流畅性和零阻力。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "¿Son de buena calidad todas estas traducciones? En absoluto, y a veces resultan incomprensibles por la falta de contexto cultural, para <strong>desesperación</strong> de traductores e intérpretes profesionales, dos de los oficios más afectados por la IA. Pero como en todo lo relacionado con esta tecnología, que algo sea más o menos <strong>pasable</strong> y cumpla su función parece suficiente, aunque cometa errores graves. En la página de los AirPods de Apple aparece una nota significativa sobre la interpretación en tiempo real: [Utiliza modelos generativos y los resultados generados pueden ser inexactos, inesperados u ofensivos. Comprueba la información importante para verificar su exactitud].",
+      "zh": "这些翻译的质量都好吗？完全不是，有时因为缺乏文化语境而令人费解，这令专业译者和口译员深感绝望——他们是受人工智能冲击最深的两个职业。但就像与这项技术相关的一切一样，某样东西只要还算过得去、能完成基本功能，似乎就已足够，即便它会犯严重错误。苹果AirPods页面上有一条意味深长的注释，关于实时口译功能：『使用生成式模型，所生成的结果可能不准确、出乎意料或具有冒犯性。请核实重要信息以确认其准确性。』",
+      "vocab": [
+        {
+          "word": "desesperación",
+          "translation": "绝望，沮丧，令人抓狂",
+          "note": "desesperación 由 desesperar（使绝望）派生，源自 esperar（希望、等待）加否定前缀 des-，意为『完全失去希望或耐心的状态』；para desesperación de（令……深感绝望）是固定介词短语，用于引出某一现象对特定群体造成的强烈负面影响，语气比 para disgusto de（令……不快）更为强烈。"
+        },
+        {
+          "word": "pasable",
+          "translation": "还过得去的，勉强可以的，凑合的",
+          "note": "pasable 由 pasar（通过）派生，意为『勉强达到可接受标准、不好也不坏』；是评价质量时表达中性偏低满意度的口语词，对应英语 passable 或 decent enough；本文中 más o menos pasable（还算过得去）精准捕捉了公众对AI翻译质量的普遍态度——不够好，但够用。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Adams avisó de lo contrario, porque entenderse demasiado también puede ser un problema: [El pobre pez Babel, al <strong>derribar</strong> eficazmente todas las barreras de comunicación entre las diferentes razas y culturas, ha producido más guerras y más sangre que ninguna otra cosa en la historia de la creación].",
+      "zh": "亚当斯却发出了相反的警告，因为过于相互理解同样可能是个问题：『可怜的巴别鱼，通过有效地打破不同种族和文化之间的一切沟通壁垒，在整个创世史上制造了比任何其他事物都更多的战争与流血。』",
+      "vocab": [
+        {
+          "word": "derribar",
+          "translation": "推倒，打破，摧毁",
+          "note": "derribar 意为『使某物倒塌或被消除』，可用于物理意义（derribar un muro，推倒一堵墙）和抽象意义（derribar barreras，打破壁垒）；本文引用亚当斯原文中的 derribar barreras de comunicación（打破沟通壁垒），与当今AI翻译的现实形成跨越半个世纪的呼应，是全文最具文学张力的收尾。"
+        }
+      ]
+    }
+  ]
+}
