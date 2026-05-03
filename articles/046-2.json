@@ -1,0 +1,178 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会与职场",
+  "difficulty": "B2",
+  "wordCount": "约900词",
+  "title": "¿Ascender en el trabajo? El 57% de los españoles lo rechaza si eso le va a robar calidad de vida",
+  "subtitle": "晋升？57%的西班牙人拒绝以生活质量为代价",
+  "resumenEs": "Dos informes recientes revelan que más de la mitad de los trabajadores españoles rechaza ascender si eso implica perder bienestar. Este fenómeno, conocido como quiet ambition y conscious unbossing, refleja un cambio profundo en los valores laborales: el modelo clásico que equipara ascenso con éxito ya solo representa al 18% de la fuerza laboral. Las causas van desde la precariedad salarial hasta la búsqueda de conciliación, pasando por una redefinición generacional de qué significa prosperar.",
+  "resumenZh": "两份最新报告显示，超过半数的西班牙劳动者拒绝晋升，如果这意味着失去个人幸福感。这一现象被称为『静默雄心』和『有意识地不当老板』，反映了职场价值观的深刻转变：将晋升等同于成功的传统模式如今仅代表18%的劳动力。其成因涵盖薪资与生活成本的落差、对工作与生活平衡的追求，以及新一代人对『成功』定义的根本性重构。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "La forma de relacionarse y prosperar en el trabajo nada tiene que ver con las generaciones anteriores. Más de la mitad de los españoles (57%) no aspira a ascender profesionalmente, según un reciente informe de Infojobs. Otro estudio, Talent Trends 2025 de MichaelPage, concluye que el 55% de los trabajadores rechazaría un ascenso si esa nueva situación laboral afectara a su bienestar.",
+      "zh": "如今人们在工作中的相处方式和晋升追求与前几代人截然不同。根据Infojobs最新报告，超过半数的西班牙人（57%）并不渴望职业晋升。MichaelPage的另一项研究《2025人才趋势》得出结论：55%的劳动者会拒绝晋升，如果新的工作状态会影响其个人幸福感。",
+      "vocab": [
+        {
+          "word": "aspira a",
+          "translation": "渴望，有志于，追求",
+          "note": "aspirar a + 名词/不定式 是固定搭配，意为『怀有某种志向或渴望』；aspirar a un puesto（谋求职位）、aspirar a la perfección（追求完美）；同根词：aspiración（抱负）、aspirante（候选人）；注意 aspirar 还有『吸入』的物理含义，是典型的一词多义词。"
+        },
+        {
+          "word": "nada tiene que ver con",
+          "translation": "与……毫无关系，截然不同",
+          "note": "tener que ver con（与……有关）是高频固定搭配；加否定词 nada 后语气极强，表示『完全不相干』；¿qué tiene que ver?（这有什么关系？）、no tiene nada que ver（毫不相干）在口语和书面语中均极为常见，是B2级别必须掌握的表达。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Esos dos informes revelan transformaciones en la aspiración laboral y el concepto de éxito. «Hoy detectamos un claro desinterés por asumir responsabilidades en el puesto de trabajo, lo que encaja en el fenómeno de la quiet ambitio (ambición silenciosa) que ha llegado para quedarse de la mano de la Generación Z», afirma Carlos González Reyes, profesor de Estudis d'Ecomomía i Empresa de la Universitat Oberta de Catalunya (UOC). Esta nueva filosofía laboral tiene un lema muy claro: «la vida es lo que pasa fuera del trabajo». Así que hoy se prioriza como nunca el bienestar personal y el tiempo libre por encima de la ambición laboral, los puestos de poder o las jornadas maratonianas, aunque se paguen horas extra.",
+      "zh": "这两份报告揭示了职业抱负和成功概念的转变。『如今我们发现人们对承担工作职责明显缺乏兴趣，这与Z世代带来的、已成定局的『静默雄心』现象相吻合』，加泰罗尼亚开放大学（UOC）经济与商业研究系教授卡洛斯·冈萨雷斯·雷耶斯表示。这种新的职场哲学有一个非常明确的信条：『生活是发生在工作之外的事情』。因此，如今人们前所未有地将个人幸福和自由时间置于职业抱负、权力职位或马拉松式工作时长之上，即便后者提供加班费也不例外。",
+      "vocab": [
+        {
+          "word": "encaja en",
+          "translation": "与……吻合，契合，嵌入",
+          "note": "encajar en 源自 caja（箱子），本义为『恰好放入箱中』，引申为『与某一框架或概念完全吻合』；encajar en un patrón（符合某一模式）、no encaja（不合适、格格不入）；比 corresponder a（对应）更强调精确的契合感，是新闻分析文体的高频动词。"
+        },
+        {
+          "word": "ha llegado para quedarse",
+          "translation": "已成定局，已扎根，不会消失",
+          "note": "llegar para quedarse 是固定短语，意为『某一现象或趋势已永久性地确立下来』；对应英语 here to stay；在科技、社会和文化报道中极为常见，如 el teletrabajo ha llegado para quedarse（远程办公已成定局）；掌握这一短语有助于快速识别作者对某一趋势的判断态度。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Podría pensarse, viendo el panorama, que la alergia a mandar se ha apoderado de las oficinas. Pero esta creciente tendencia a esquivar nuevas responsabilidades tiene otras explicaciones. «Durante muchos años las organizaciones han asociado el ascenso a una mejora salarial, pero en la actualidad ese incremento económico ya no compensa el coste real que esa asunción de responsabilidad tendrá en pérdida de bienestar», añade González Reyes.",
+      "zh": "看到这番景象，人们可能会认为对管理的抵触情绪已经占领了办公室。但这种日益增长的回避新责任的趋势还有其他解释。『多年来，各组织将晋升与薪资提升挂钩，但如今那种经济增长已无法弥补承担责任所带来的真实代价——个人幸福感的损失』，冈萨雷斯·雷耶斯补充道。",
+      "vocab": [
+        {
+          "word": "apoderado de",
+          "translation": "占领，控制，支配",
+          "note": "apoderarse de 是固定搭配，源自 poder（权力），意为『完全掌控、占据某事物』；el miedo se apoderó de él（恐惧控制了他）、la tristeza se apoderó del ambiente（悲伤笼罩了整个氛围）；比 dominar（主导）更强调突然性和全面性的占领。"
+        },
+        {
+          "word": "esquivar",
+          "translation": "回避，躲避，绕开",
+          "note": "esquivar 意为『有意识地避开某人、某事或某种情况』；esquivar responsabilidades（回避责任）、esquivar una pregunta（回避问题）、esquivar un golpe（躲避一击）；比 evitar（避免）更强调主动的、有技巧的规避动作，带有灵活闪躲的动态感。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "«Estamos ante un paradigma: hay personas –ya no son minoría marginal– que dicen 'no' al ascenso a cualquier precio», afirma la socióloga Natàlia Cantó-Milà, profesora de Estudis d'Arts i Humanitats de la UOC. Y esto, continúa, «no es una redefinición del concepto de éxito; es un claro cuestionamiento del modelo». Hasta ahora el ascenso laboral era sinónimo de éxito profesional. Pero esto ya no es así y las personas «que ponen la carrera y el éxito delante de todo, cada vez son menos». El modelo clásico ya solo representa al 18% de la fuerza laboral, rezan estos estudios. Son los que vinculan el triunfo profesional exclusivamente a los ascensos visibles en el trabajo.",
+      "zh": "『我们正面临一个范式：有些人——他们已不再是边缘少数——对不惜一切代价的晋升说『不』』，UOC艺术与人文研究系社会学家纳塔利亚·坎托-米拉教授表示。她继续说，这『不是对成功概念的重新定义，而是对这一模式的明确质疑』。迄今为止，职业晋升一直是职业成功的同义词。但如今已不再如此，『将事业和成功置于一切之上的人越来越少』。这些研究显示，传统模式如今仅代表18%的劳动力。他们是那些将职业成功完全与工作中可见晋升挂钩的人。",
+      "vocab": [
+        {
+          "word": "rezan",
+          "translation": "（文件、文本）写道，载明，显示",
+          "note": "rezar 本义为『祈祷』，但用于文件或研究报告时意为『（文本）如此写道、载明』；如 el contrato reza que...（合同规定……）、como reza el informe（如报告所示）；这是典型的一词多义，混淆两义是常见错误，掌握此义可大幅提升阅读正式文本的能力。"
+        },
+        {
+          "word": "cuestionamiento",
+          "translation": "质疑，对……提出根本性疑问",
+          "note": "cuestionamiento 由 cuestionar（质疑）派生，指对某一既有模式或假设提出根本性挑战；比 crítica（批评）更强调对基础合理性的追问；poner en cuestión（使……受到质疑）是同义固定短语；同根词：cuestión（问题）、cuestionario（问卷）、incuestionable（无可置疑的）。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Por el contrario, el 54% de los trabajadores consultados prioriza el progreso en su trabajo sin necesidad de cuotas de poder o reconocimiento público. ¿La receta ante este nuevo panorama? «Crecer profesionalmente no tendría que implicar necesariamente dirigir equipos», responde González-Reyes. Y muchas empresas empiezan ya a tomar nota «y apuestan por carreras duales, donde se puede progresar desde la experiencia técnica sin asumir liderazgos, lo que permite retener un talento que de otra forma se podría desconectar».",
+      "zh": "相反，54%的受访劳动者优先考虑在工作中取得进步，而无需权力配额或公众认可。面对这一新局面，解决方案是什么？『职业成长不一定意味着必须管理团队』，冈萨雷斯-雷耶斯回答道。许多企业已开始注意到这一点，『并押注于双轨职业发展路径，员工可以通过技术经验取得进步而无需承担领导职责，这有助于留住那些否则可能脱离的人才』。",
+      "vocab": [
+        {
+          "word": "tomar nota",
+          "translation": "注意到，记在心上，据此调整",
+          "note": "tomar nota de 是固定搭配，字面义为『记笔记』，引申为『将某事纳入考量、据此调整行动』；las empresas toman nota（企业开始注意并回应）表示机构对新趋势作出调整；比 tener en cuenta（考虑到）更强调将信息转化为行动的意图。"
+        },
+        {
+          "word": "retener",
+          "translation": "留住，挽留，保留",
+          "note": "retener 源自拉丁语 retinere（握住不放），在职场语境中 retener talento（留住人才）是人力资源管理的核心概念；同根词：retención（留存率）、retentiva（记忆力）；与 mantener（维持）的区别：retener 更强调主动阻止某人或某物离开的努力。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Ese rechazo a mandar y liderar tiene también otro nombre. Se trata del conscious unbossing, lo que podía traducirse como el deseo consciente de no querer ser jefe o «desvinculación consciente». No es por falta de compromiso laboral, ni por cuestión de dinero; esta tendencia va de la mano con la filosofía del «quiet ambitio», la que busca, por encima de todo, tiempo para vivir. Los trabajadores más jóvenes han interiorizado que «el cambio de posición va a suponer más responsabilidad, más estrés y menos equilibrio personal», indica González. Así que renunciar a un ascenso no implica que se tenga miedo a mandar o que ahora haya más inseguridades sobre capacidades en el mundo laboral. Simplemente es una «propuesta de valor». Cobrar, por ejemplo, 400 euros más al mes no compensa con las horas de más que habrá que pasar en el trabajo para ganar ese dinero.",
+      "zh": "这种对管理和领导的拒绝还有另一个名字：『有意识地不当老板』（conscious unbossing），可以译为有意识地不想成为上司，或『有意识的脱离』。这不是因为缺乏工作投入，也不是钱的问题；这一趋势与『静默雄心』哲学携手并进，后者追求的首要目标是拥有生活的时间。年轻一代劳动者已经内化了这样一个认知：『职位变动将意味着更多责任、更多压力和更少的个人平衡』，冈萨雷斯指出。因此，拒绝晋升并不意味着害怕管理，也不意味着对自身职场能力更加不自信。这只是一种『价值主张』。例如，每月多收入400欧元，并不足以弥补为赚取这笔钱而需要在工作中多付出的时间。",
+      "vocab": [
+        {
+          "word": "interiorizado",
+          "translation": "内化的，已深入内心的",
+          "note": "interiorizar 由 interior（内部）+ -izar 构成，意为『将外部的观念或价值观吸收为自身内在的一部分』；-izar 是构词价值极高的后缀（见前文 monetizar、mercantilizar）；同根词：interior（内部）、interioridad（内心世界）；对应心理学概念 internalization（内化）。"
+        },
+        {
+          "word": "propuesta de valor",
+          "translation": "价值主张，价值提案",
+          "note": "propuesta de valor 是商业管理的核心术语，指某一选择所提供的综合价值与代价的权衡；作者将其用于个人职业决策，暗示年轻一代以理性的成本效益思维看待晋升；propuesta 由 proponer（提出）派生，同根词：proposición（命题）、proponer（提议）。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Se busca, como nunca, trabajar para vivir y no vivir para trabajar. Aunque se sepa que se va a cobrar más, ese incremento de sueldo ya no motiva y menos cuando se intuye que ese dinero no va a compensar la pérdida en bienestar personal. «Si tener más tiempo para uno mismo no queda garantizado, el sueldo deja de ser atractivo», reitera González Reyes. El estudio de Infojobs que confirma que el 57% de los trabajadores no quiere ascender revela que el 19% de esos consultados lo tiene muy claro y no aceptaría en estos momentos más responsabilidades, mientras que el 39% no es tan contundente, pero sí deja claro muy poco interés por promocionarse dentro de la empresa.",
+      "zh": "人们前所未有地追求为生活而工作，而非为工作而生活。即便知道薪资会增加，那种薪资涨幅也不再具有激励作用，尤其是当人们预感那笔钱无法弥补个人幸福感的损失时。『如果无法保证拥有更多属于自己的时间，薪资就失去了吸引力』，冈萨雷斯·雷耶斯再次强调。确认57%劳动者不想晋升的Infojobs研究显示，19%的受访者态度非常明确，目前不会接受更多责任；而39%的人虽不那么斩钉截铁，但也明确表示对在公司内部晋升兴趣寥寥。",
+      "vocab": [
+        {
+          "word": "contundente",
+          "translation": "斩钉截铁的，有力的，确凿的",
+          "note": "contundente 源自拉丁语 contundere（猛击），引申为『论据充分、态度明确、无可辩驳的』；una respuesta contundente（斩钉截铁的回答）、una victoria contundente（压倒性的胜利）、pruebas contundentes（确凿证据）；是新闻和辩论文体中描述强度和确定性的高频形容词。"
+        },
+        {
+          "word": "reitera",
+          "translation": "重申，再次强调",
+          "note": "reiterar 由 re-（再次）+ iterar（重复）构成，意为『再次明确表达同一观点以加强语气』；在新闻引语中比 repite（重复）更正式，暗示说话者在强调核心立场；同根词：reiteración（反复强调）；re- 前缀表示『再次』，构词价值极高。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "«Esto no significa, opina Gozález-Reyes, que haya una crisis de vocación directiva». Lo que revelan esos estudios, opina, «es que hay una crisis del modelo tradicional de liderazgo». La socióloga Natàlia Cantó-Milà abre otro frente, el de la conciliación por situaciones sobrevenidas, para explicar esta nueva radiografía laboral. «Hay personas para las que ascender implica aumentar responsabilidades y eso, a la vez, supone asumir tareas de las que no quieren saber nada: creen que prosperar en el trabajo implicará poner más horas a disposición del ocupador, que muchas veces no tienen por tenerlas asignadas a tareas de personas dependientes o para ellos mismos».",
+      "zh": "『这并不意味着存在管理志向的危机』，冈萨雷斯-雷耶斯认为。这些研究所揭示的，『是传统领导模式的危机』，他表示。社会学家纳塔利亚·坎托-米拉开辟了另一个维度——因突发情况导致的工作与生活平衡问题——来解释这一新的职场图景。『有些人认为晋升意味着增加责任，而这同时意味着承担他们根本不想涉及的任务：他们认为在工作中取得进步将意味着要为雇主投入更多时间，而这些时间他们往往没有，因为已被分配给照料依赖他人的任务或留给自己』。",
+      "vocab": [
+        {
+          "word": "conciliación",
+          "translation": "（工作与生活的）平衡，调和",
+          "note": "conciliación 由 conciliar（调和）派生，源自拉丁语 conciliare（使和解）；在职场语境中，conciliación laboral y familiar（工作与家庭的平衡）是西班牙社会政策的核心议题；同根词：conciliar（调和）、conciliador（调解者）、reconciliar（重新和解）。"
+        },
+        {
+          "word": "sobrevenidas",
+          "translation": "突发的，意外出现的",
+          "note": "sobrevenido/a 由 sobrevenir（突然发生）派生，源自 sobre-（突然）+ venir（来）；situaciones sobrevenidas 指生活中意外出现的情况（如家人生病、照护需求），非事先计划；sobre- 前缀在此表示『突然、意外』，与 sobrecarga 中的『超过』义不同，体现了前缀的多义性。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "En un entorno laboral precario, con un aumento del costa de la vida que no se corresponde con los sueldos, juega también en contra el hecho de que asumir más responsabilidades no siempre conlleva una vida más desahogada. Con ese dinero no se vive mejor. Así que muchos ya ni se plantean esa posibilidad. Y se da la paradoja, destaca, Cantó-Mila, con un fenómeno cada vez más repetido en esas condiciones laborales precarias y cuando la posibilidad de ascenso ni se sueña. «Ha aumentado el número de personas que tienen que aceptar dos trabajos para sobrevivir», afirma.",
+      "zh": "在一个不稳定的劳动环境中，生活成本的上涨与薪资水平不相匹配，承担更多责任并不总能带来更宽裕的生活，这一事实也构成了额外的阻力。那笔钱并不能让生活变得更好。因此，许多人甚至不再考虑这种可能性。坎托-米拉强调，这里出现了一个悖论，而且是一个在这种不稳定劳动条件下、当晋升可能性连做梦都不敢想时越来越普遍的现象：『不得不接受两份工作才能维持生计的人数在增加』，她表示。",
+      "vocab": [
+        {
+          "word": "conlleva",
+          "translation": "意味着，伴随着，带来",
+          "note": "conllevar 由 con-（共同）+ llevar（携带）构成，意为『某事物必然伴随或带来另一事物』；conllevar riesgos（伴随风险）、conllevar consecuencias（带来后果）；比 implicar（意味着）更强调两件事物之间的必然伴随关系，是B2级别的重要动词。"
+        },
+        {
+          "word": "desahogada",
+          "translation": "宽裕的，舒适的，不拮据的",
+          "note": "desahogado/a 由 desahogar（舒缓）派生，源自 des-（解除）+ ahogar（窒息），字面义为『不再被压迫窒息』，引申为『经济上宽裕、生活无忧』；与 ahogado（被债务压垮的）形成对比；vida desahogada（宽裕的生活）是描述经济状况的高频表达。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "El mercado laboral, además, «se está aún ajustando a nuevas prioridades como la salud mental, la conciliación y la autonomía y todo eso obliga a repensar qué quiere decir liderar y en qué condiciones», concluye González-Reyes.",
+      "zh": "此外，劳动力市场『仍在适应心理健康、工作与生活平衡以及自主性等新优先事项，而这一切都迫使我们重新思考领导意味着什么，以及在何种条件下领导』，冈萨雷斯-雷耶斯总结道。",
+      "vocab": [
+        {
+          "word": "repensar",
+          "translation": "重新思考，反思，重新审视",
+          "note": "repensar 由 re-（重新）+ pensar（思考）构成，意为『对已有观念进行根本性的重新审视』；re- 是构词价值极高的前缀：redefinir（重新定义）、replantear（重新提出）、reformular（重新表述）；在政策和社会议题报道中极为常见，掌握 re- 前缀可快速理解大量同类词汇。"
+        }
+      ]
+    }
+  ]
+}

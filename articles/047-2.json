@@ -1,0 +1,288 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与医疗",
+  "difficulty": "B2",
+  "wordCount": "约850词",
+  "title": "La inteligencia artificial ya razona como un médico: supera a los doctores en el diagnóstico de urgencias",
+  "subtitle": "人工智能已能像医生一样推理：在急诊诊断中超越医生",
+  "resumenEs": "Un estudio publicado en la revista Science por investigadores de Harvard demuestra que los modelos de lenguaje de última generación, concretamente la serie o1 de OpenAI, superan a los médicos en el diagnóstico clínico de urgencias, identificando correctamente el diagnóstico en el 78,3% de los casos más difíciles frente al 44,5% de los facultativos. Sin embargo, los autores advierten que la IA no está lista para sustituir al médico: carece de capacidad para interpretar señales visuales y auditivas, pierde rendimiento ante historiales muy extensos, y debe superar ensayos clínicos rigurosos antes de integrarse en la práctica hospitalaria. La visión dominante es la de una colaboración: la IA como asistente que detecta errores diagnósticos antes de que ocurran.",
+  "resumenZh": "哈佛大学研究人员在《科学》杂志发表的一项研究表明，最新一代大型语言模型——具体为OpenAI的o1系列——在急诊临床诊断中超越了医生，在最具挑战性的病例中正确识别诊断的比例为78.3%，而医生仅为44.5%。然而，作者警告称AI尚未准备好取代医生：它无法解读视觉和听觉信号，面对过长的病历时表现下降，且在进入医院实践前必须通过严格的临床试验。主流观点是人机协作模式：AI充当医生的得力助手，在诊断错误发生前将其识别拦截。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Como nos muestra 'House' y tantas otras series de misterios hospitalarios, la medicina siempre ha tenido algo de detectivesco. Ante un paciente que entra por la puerta de urgencias con síntomas difusos, el profesional debe separar el grano de la paja, priorizar pruebas y lanzar una hipótesis diagnóstica en cuestión de minutos. Una investigación que publica esta semana la revista 'Science' revela que los modelos de lenguaje (LLM) de última generación no solo igualan, sino que superan la capacidad de razonamiento clínico de los médicos en escenarios de alta presión.",
+      "zh": "正如《豪斯医生》和众多其他医院悬疑剧所展示的，医学向来带有几分侦探色彩。面对一位带着模糊症状走进急诊室的患者，医生必须去粗取精、优先安排检查，并在几分钟内提出诊断假设。《科学》杂志本周发表的一项研究揭示，最新一代大型语言模型（LLM）不仅能与医生的临床推理能力相媲美，在高压场景下更是全面超越了医生。",
+      "vocab": [
+        {
+          "word": "detectivesco",
+          "translation": "侦探式的，充满推理色彩的",
+          "note": "detectivesco/a 由 detective + 后缀 -esco 构成；-esco 是西语中将名词转化为形容词的后缀，表示『具有……风格或特征的』；同类构词：kafkiano（卡夫卡式的）、dantesco（但丁式的、地狱般的）、quijotesco（堂吉诃德式的）；这类后缀常出现在文学和文化评论中，是C1级别的重要构词知识。"
+        },
+        {
+          "word": "separar el grano de la paja",
+          "translation": "去粗取精，去伪存真，分清主次",
+          "note": "这是一个源自农业的固定成语，字面义为『将谷粒从秸秆中分离』，引申为『从大量信息中筛选出真正有价值的部分』；对应中文成语『去粗取精』或『沙里淘金』；同类农业隐喻：sembrar（播种→埋下伏笔）、cosechar（收割→收获成果）；了解这类成语对理解西语文化思维至关重要。"
+        },
+        {
+          "word": "en cuestión de minutos",
+          "translation": "在几分钟之内，转瞬之间",
+          "note": "en cuestión de + 时间名词 是固定结构，意为『在……的时间范围内、只需……时间』；en cuestión de segundos（转瞬之间）、en cuestión de horas（几小时之内）；cuestión 本义为『问题、事项』，在此结构中作『范围、量级』解；比 en pocos minutos 更强调时间之短令人印象深刻。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "La IA logró identificar el diagnóstico correcto en el 78,3% de los casos más desafiantes, frente al 44,5% que alcanzaron los médicos",
+      "zh": "在最具挑战性的病例中，AI正确识别诊断的比例达到78.3%，而医生仅为44.5%。",
+      "vocab": [
+        {
+          "word": "desafiantes",
+          "translation": "具有挑战性的，难以应对的",
+          "note": "desafiante 由 desafiar（挑战）派生，源自 des-（去除）+ afiar（磨利，古语），引申为『向某人发起挑战、考验』；casos desafiantes（具有挑战性的病例）是医学和科技报道的高频表达；同根词：desafío（挑战、难题）、desafiador（挑战者）；比 difícil（困难的）更强调主动挑战的对抗性。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Durante décadas, los casos clínicos complejos han sido el examen final que las máquinas no lograban aprobar con nota. Pero el paradigma ha cambiado. Un equipo multidisciplinar de la Facultad de Medicina de Harvard y el Centro Médico Beth Israel Deaconess ha puesto a prueba la serie o1 de OpenAI —un modelo diseñado específicamente para «pensar» antes de responder— frente a cientos de facultativos. Los resultados son contundentes: la IA logró identificar el diagnóstico correcto en el 78,3% de los casos más desafiantes, frente al 44,5% que alcanzaron los médicos con acceso a herramientas de búsqueda en estudios previos.",
+      "zh": "几十年来，复杂的临床病例一直是机器无法高分通过的终极考试。但范式已经改变。哈佛大学医学院和贝斯以色列女执事医疗中心的一支跨学科团队，将OpenAI的o1系列——一个专门设计为『先思考后作答』的模型——与数百名医生进行了对比测试。结果令人信服：在最具挑战性的病例中，AI正确识别诊断的比例达到78.3%，而此前研究中可使用搜索工具的医生仅达到44.5%。",
+      "vocab": [
+        {
+          "word": "paradigma",
+          "translation": "范式，典范，思维框架",
+          "note": "paradigma 源自希腊语 paradeigma（范例、模式），在科学哲学中指『某一时代被普遍接受的思维框架和方法论体系』；el paradigma ha cambiado（范式已经改变）是科技报道宣告重大突破的经典句式；同根词：paradigmático（典范性的）；托马斯·库恩（Thomas Kuhn）的『范式转移』（cambio de paradigma）是理解这一词的最佳语境。"
+        },
+        {
+          "word": "contundentes",
+          "translation": "有力的，确凿的，令人信服的",
+          "note": "contundente 源自拉丁语 contundere（猛击、粉碎），本义为『造成钝伤的』，引申为『论据或证据强有力、无可辩驳的』；resultados contundentes（确凿的结果）、argumento contundente（有力的论据）是新闻和学术写作的高频表达；同根词：contusión（挫伤、钝伤）；这种从物理打击到论证力度的语义转移是西语隐喻思维的典型体现。"
+        },
+        {
+          "word": "facultativos",
+          "translation": "医生，医疗从业者；（形容词）可选择的",
+          "note": "facultativo 作名词时是『医生、医疗人员』的正式称谓，源自 facultad（能力；学院）；作形容词时意为『可选择的、非强制的』（asistencia facultativa = 自愿出席）；这是一词多义的典型案例；同根词：facultad（能力；大学学院）、facultar（授权）；在医疗报道中，facultativo 比 médico 更正式，常见于官方文件和学术文章。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Lo más sorprendente del hallazgo no es que la máquina sea una enciclopedia andante, sino su capacidad para manejarse en el caos. Los investigadores utilizaron datos reales de pacientes del departamento de urgencias en Massachusetts, sin filtros ni ediciones. En las etapas iniciales del triaje, donde la información es escasa y está fragmentada en notas de enfermería y constantes vitales, la IA demostró una agudeza superior.",
+      "zh": "这一发现最令人惊讶之处，并非机器是一部行走的百科全书，而在于它在混乱中应对自如的能力。研究人员使用了马萨诸塞州急诊科真实患者的数据，未经任何筛选或编辑。在分诊初期阶段——此时信息匮乏，且分散在护理记录和生命体征数据中——AI展现出了更为敏锐的判断力。",
+      "vocab": [
+        {
+          "word": "enciclopedia andante",
+          "translation": "行走的百科全书，博学多识的人",
+          "note": "enciclopedia andante 是一个固定比喻表达，andante 由 andar（行走）派生，意为『行走的、移动的』；字面义为『一部会走路的百科全书』，用于形容知识极为渊博的人或系统；andante 在音乐术语中还指『行板（中速）』；同根词：andar（走路）、andador（学步车）、andanza（经历、冒险）。"
+        },
+        {
+          "word": "triaje",
+          "translation": "分诊，检伤分类",
+          "note": "triaje 源自法语 triage（筛选、分类），是急诊医学的核心术语，指『根据患者病情严重程度进行优先级排序的过程』；在灾难医学和急诊室中，triaje 决定哪些患者优先接受治疗；这一词已被西语医学界广泛采用，是理解急诊医疗报道的必备词汇；同根词（法语来源）：triar（筛选）。"
+        },
+        {
+          "word": "agudeza",
+          "translation": "敏锐，锐利，洞察力",
+          "note": "agudeza 由 agudo（尖锐的、敏锐的）派生，源自拉丁语 acutus（尖的）；在认知语境中指『思维的敏锐度和洞察力』；agudeza visual（视觉敏锐度）、agudeza mental（思维敏锐度）是常见搭配；同根词：agudo（尖锐的；急性的）、agudizar（使加剧）、acudir（前往，同源）；医学中 dolor agudo（急性疼痛）与 dolor crónico（慢性疼痛）相对。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "«El modelo demostró una fortaleza distintiva bajo condiciones de incertidumbre, utilizando incluso datos de historias clínicas fragmentados y no estructurados de forma eficaz», explican los autores del estudio. Mientras que los médicos suelen necesitar acumular evidencias para dar solidez a su juicio, la capacidad de procesamiento de la IA le permite conectar puntos que el ojo humano, presionado por el reloj de urgencias, a veces pasa por alto.",
+      "zh": "『该模型在不确定条件下展现出独特的优势，甚至能有效利用碎片化、非结构化的病历数据，』研究作者解释道。医生通常需要积累足够的证据才能对自己的判断有把握，而AI的处理能力使其能够将人眼在急诊室时钟的压力下有时会忽略的线索串联起来。",
+      "vocab": [
+        {
+          "word": "fortaleza distintiva",
+          "translation": "独特优势，显著长处",
+          "note": "fortaleza 由 fuerte（强壮的）派生，本义为『要塞、堡垒』，引申为『优势、强项』；distintivo/a 由 distinguir（区分）派生，意为『与众不同的、独特的』；fortaleza distintiva 在商业和学术语境中是描述某一主体核心竞争力的正式表达；同根词：fortalecer（强化）、distinción（区别；荣誉）、distinguido（杰出的）。"
+        },
+        {
+          "word": "pasa por alto",
+          "translation": "忽视，忽略，漏掉",
+          "note": "pasar por alto 是固定短语，意为『忽略、未能注意到某事』；alto 在此不表示『高』而表示『越过、跳过』；类似结构：pasar por encima（凌驾于……之上）、pasar por alto un error（忽略一个错误）；比 ignorar（忽视）更口语化，且更强调无意识的遗漏而非故意忽视；是西语口语和书面语中极为常用的固定搭配。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Pese a la rotundidad de los datos, los científicos mantienen la cautela y advierten que esto no significa que las máquinas estén listas para pasar consulta en solitario. Arjun (Raj) Manrai, profesor de Informática Biomédica en Harvard y coautor del estudio, es tajante: «No creo que nuestros hallazgos signifiquen que la IA reemplace a los médicos. Lo que sí significa es que estamos presenciando un cambio profundo en la tecnología que remodelará la medicina», ha explicado en un encuentro con la prensa.",
+      "zh": "尽管数据结果十分确凿，科学家们仍保持审慎，并警告说这并不意味着机器已经准备好独立出诊。哈佛大学生物医学信息学教授、该研究共同作者阿尔琼（拉杰）·曼拉伊态度明确：『我不认为我们的研究结果意味着AI会取代医生。它真正意味着的是，我们正在见证一场将重塑医学的深刻技术变革，』他在一次媒体见面会上解释道。",
+      "vocab": [
+        {
+          "word": "rotundidad",
+          "translation": "确凿性，无可辩驳性，明确性",
+          "note": "rotundidad 由 rotundo（圆满的、明确的、无可辩驳的）派生，源自拉丁语 rotundus（圆形的）；pese a la rotundidad de los datos（尽管数据结果十分确凿）是新闻评论的高频表达；rotundo 还可形容声音洪亮（voz rotunda）或否定断然（un no rotundo = 断然拒绝）；同根词：rotar（旋转）、rotación（旋转）、rotonda（环形交叉路口）。"
+        },
+        {
+          "word": "pasar consulta en solitario",
+          "translation": "独立出诊，单独接诊患者",
+          "note": "pasar consulta 是西班牙语医疗语境的固定表达，意为『出诊、接诊患者』；en solitario 意为『独自、单独地』；两者组合描述AI独立承担医生职责的场景；同根词：consulta（诊所；咨询）、consultorio（诊所）、consultor（顾问）；solitario 同根词：solo（单独的）、soledad（孤独）、aislado（孤立的）。"
+        },
+        {
+          "word": "tajante",
+          "translation": "斩钉截铁的，态度明确的，毫不含糊的",
+          "note": "tajante 由 tajar（切割）派生，本义为『切割锋利的』，引申为『态度或言辞干脆利落、毫不含糊』；es tajante（态度明确）在引述专家观点时极为常见；同根词：tajar（切割）、tajo（切口；峡谷）、atajo（捷径，字面义为『切短的路』）；比 claro（清楚的）或 directo（直接的）更强调斩断一切模糊空间的决断感。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Los científicos mantienen la cautela: esto no significa que las máquinas estén listas para pasar consulta",
+      "zh": "科学家们保持审慎：这并不意味着机器已准备好独立出诊。",
+      "vocab": [
+        {
+          "word": "mantienen la cautela",
+          "translation": "保持审慎，保持谨慎态度",
+          "note": "cautela 源自拉丁语 cautela（谨慎、预防），意为『小心谨慎、防范于未然的态度』；mantener la cautela（保持审慎）是科学和医学报道中描述研究者不过度解读结果的标准表达；同根词：cauteloso（谨慎的）、precaución（预防措施）、cautelar（预防性的，如 medida cautelar = 预防性措施）；比 ser cuidadoso（小心的）更正式，带有主动防范风险的意味。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "La visión de los expertos es la de una colaboración estrecha. El doctor Adam Rodman, internista y coautor de la investigación, subraya que la IA podría funcionar como un sistema de seguridad pasiva. «Se puede imaginar fácilmente un sistema que se ejecute sobre el registro electrónico y que mejore la calidad al identificar errores diagnósticos u oportunidades perdidas antes de que ocurran», señala Rodman.",
+      "zh": "专家们的愿景是紧密协作。研究共同作者、内科医生亚当·罗德曼博士强调，AI可以作为一种被动安全系统发挥作用。『不难想象这样一个系统：它运行在电子病历之上，通过在诊断错误或漏诊机会发生之前将其识别出来，从而提升医疗质量，』罗德曼指出。",
+      "vocab": [
+        {
+          "word": "internista",
+          "translation": "内科医生，内科专科医师",
+          "note": "internista 由 interno（内部的）派生，指『专门从事内科学（medicina interna）的医生』，负责诊治不需要手术的成人疾病；与之对应的专科：cardiólogo（心脏科医生）、neurólogo（神经科医生）、cirujano（外科医生）；了解医学专科词汇是阅读医疗报道的基础；-ista 后缀表示从事某职业或持某观点的人：pianista、periodista、capitalista。"
+        },
+        {
+          "word": "oportunidades perdidas",
+          "translation": "漏诊机会，错失的诊断时机",
+          "note": "oportunidad perdida 字面义为『失去的机会』，在医学语境中特指『本可以做出诊断或干预但被错过的时机』，即临床上的『漏诊』或『延误诊断』；perdida 由 perder（失去）派生；同根词：pérdida（损失）、perdedor（失败者）；这一表达在医疗质量管理和患者安全领域是核心概念。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "No se trata de sustituir el estetoscopio por una pantalla, sino de dotar al médico de un segundo par de ojos infalibles.",
+      "zh": "这不是要用屏幕取代听诊器，而是要为医生配备第二双永不出错的眼睛。",
+      "vocab": [
+        {
+          "word": "estetoscopio",
+          "translation": "听诊器",
+          "note": "estetoscopio 由希腊语 stethos（胸部）+ skopein（观察）构成，是医生最具代表性的诊断工具；在此句中作为『传统医学实践』的象征符号，与『屏幕』（数字技术）形成对比；同类医疗器械词汇：termómetro（体温计）、tensiómetro（血压计）、bisturí（手术刀）；了解这类词汇有助于理解医疗报道中的隐喻表达。"
+        },
+        {
+          "word": "infalibles",
+          "translation": "永不出错的，万无一失的，绝对可靠的",
+          "note": "infalible 由 in-（否定）+ falible（可能出错的）构成，源自拉丁语 fallere（欺骗、出错）；un segundo par de ojos infalibles（第二双永不出错的眼睛）是全文最具文学色彩的比喻，将AI的高准确率形象化；同根词：fallar（失败；出故障）、fallo（故障；判决）、falso（虚假的）；infalible 在天主教语境中还特指教皇的『无误性』（infalibilidad papal）。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "El estudio también pone el foco en lo que la máquina aún no sabe hacer. La práctica clínica depende en gran medida de señales visuales y auditivas: la palidez de la piel, el tono de voz o el sonido de una respiración fatigada, áreas donde los modelos actuales de texto todavía están en pañales. Además, los investigadores advierten que el rendimiento de la IA cae cuando se enfrenta a historiales médicos demasiado extensos, como hospitalizaciones de larga duración, donde el exceso de datos termina por confundir al algoritmo.",
+      "zh": "这项研究也聚焦于机器尚不擅长的领域。临床实践在很大程度上依赖视觉和听觉信号：皮肤的苍白、声音的音调或疲惫的呼吸声——在这些领域，目前的文本模型仍处于起步阶段。此外，研究人员警告说，当AI面对过于冗长的病历时，例如长期住院记录，其表现会下降，因为过量的数据最终会让算法陷入混乱。",
+      "vocab": [
+        {
+          "word": "están en pañales",
+          "translation": "还处于起步阶段，还在襁褓之中，非常不成熟",
+          "note": "estar en pañales 字面义为『还穿着尿布』，是描述某事物极不成熟、尚处于初级阶段的固定俚语；pañal（尿布）源自 paño（布料）；这一表达在科技报道中极为常见，用于描述尚未成熟的技术；类似表达：estar en ciernes（处于萌芽阶段）、dar los primeros pasos（迈出第一步）；比 ser inmaduro（不成熟）更口语化、更生动。"
+        },
+        {
+          "word": "palidez",
+          "translation": "苍白，面色苍白",
+          "note": "palidez 由 pálido（苍白的）派生，源自拉丁语 pallidus（苍白的）；在临床医学中，palidez（苍白）是贫血、休克或循环衰竭的重要体征；同根词：palidecer（变苍白）、pálido（苍白的）；注意与 palidez 形成对比的词：rubor（红晕）、sonrosado（红润的）；这类描述肤色的词汇在医学和文学描写中均极为常见。"
+        },
+        {
+          "word": "rendimiento",
+          "translation": "性能，表现，效率",
+          "note": "rendimiento 由 rendir（产出、表现）派生，在科技语境中指『系统或算法的性能表现』，在经济语境中指『产出率、收益率』，在体育语境中指『竞技表现』；rendimiento de la IA（AI的性能）、rendimiento académico（学业表现）、rendimiento deportivo（运动表现）是三个最常见的搭配；同根词：rendir（产出）、rendición（投降；产出）、rendirse（投降；精疲力竭）。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "La precisión en una tarea definida es solo una dimensión de la medicina real. «El diagnóstico es importante, pero es solo una parte. La mayoría de lo que hacemos diariamente es razonamiento de gestión, que requiere contexto y entender quién es el paciente», recalca Rodman. Por ello, el equipo hace un llamamiento a no saltarse los estándares de seguridad: antes de que estos sistemas lleguen a la cabecera del paciente, deben superar ensayos clínicos rigurosos, al igual que cualquier fármaco o dispositivo médico.",
+      "zh": "在特定任务上的精准度只是真实医学的一个维度。『诊断很重要，但它只是其中一部分。我们日常工作的大部分是管理推理，这需要背景信息，需要了解患者是谁，』罗德曼强调道。因此，研究团队呼吁不要跳过安全标准：在这些系统进入患者床旁之前，必须像任何药物或医疗设备一样，通过严格的临床试验。",
+      "vocab": [
+        {
+          "word": "recalca",
+          "translation": "强调，着重指出，反复申明",
+          "note": "recalcar 由 re-（再次）+ calcar（踩踏、描摹）构成，字面义为『反复踩踏使其留下印记』，引申为『反复强调某一观点使其深入人心』；比 subrayar（强调，字面义为『在下面划线』）更强调反复性；同根词：calcar（描摹；照搬）、calco（描摹；照搬）；在引述专家观点时，recalcar、subrayar、destacar、enfatizar 是四个最常用的动词，语气依次递增。"
+        },
+        {
+          "word": "llamamiento",
+          "translation": "呼吁，号召，倡议",
+          "note": "llamamiento 由 llamar（呼叫）派生，意为『向公众或特定群体发出的正式呼吁』；hacer un llamamiento a（呼吁……）是新闻和政治语境的固定搭配；同根词：llamada（电话；呼唤）、llamar（呼叫）、llamativo（引人注目的）；比 petición（请愿）更强调公开性和紧迫性，比 exigencia（要求）语气更温和。"
+        },
+        {
+          "word": "cabecera del paciente",
+          "translation": "患者床旁，临床一线",
+          "note": "cabecera 由 cabeza（头部）派生，本义为『床头』；cabecera del paciente（患者床旁）是医学术语，指『直接面对患者的临床实践场景』，与实验室或研究环境相对；medicina a la cabecera del paciente（床旁医学）强调直接的临床接触；同根词：cabeza（头部）、cabecero（床头板）、encabezar（领导、位居首位）。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "La integración de estos algoritmos en el día a día de un hospital abre interrogantes urgentes sobre la responsabilidad y la transparencia. Los expertos coinciden en que la eficacia debe ir de la mano de la equidad. Si una máquina sugiere un tratamiento basándose en un razonamiento que el médico no puede desgranar del todo, el riesgo de sesgos o errores sistémicos sigue presente.",
+      "zh": "将这些算法整合到医院日常工作中，引发了关于责任归属和透明度的紧迫问题。专家们一致认为，有效性必须与公平性携手并进。如果一台机器基于医生无法完全解析的推理过程提出治疗建议，系统性偏差或错误的风险依然存在。",
+      "vocab": [
+        {
+          "word": "ir de la mano",
+          "translation": "携手并进，相辅相成，同步推进",
+          "note": "ir de la mano 字面义为『手牵手走路』，引申为『两者紧密相连、缺一不可、同步发展』；la eficacia debe ir de la mano de la equidad（有效性必须与公平性携手并进）是政策和伦理讨论的高频表达；类似表达：ir de la mano con、caminar juntos、ser inseparables；这类身体动作隐喻在西语中极为丰富，是理解西语思维方式的重要窗口。"
+        },
+        {
+          "word": "desgranar",
+          "translation": "逐一剖析，细细解读，抽丝剥茧",
+          "note": "desgranar 本义为『将谷粒从穗上一粒粒剥下』，引申为『将复杂事物逐一分解、细细剖析』；no puede desgranar del todo（无法完全解析）描述AI的『黑箱』问题——医生看不透其推理过程；同根词：grano（谷粒；粉刺）、granero（粮仓）；与前文 separar el grano de la paja 形成呼应，都是农业隐喻在认知语境中的运用。"
+        },
+        {
+          "word": "sesgos",
+          "translation": "偏差，偏见，系统性倾向",
+          "note": "sesgo 本义为『斜切、偏斜』，在统计学和AI语境中指『算法或数据中存在的系统性偏差』；sesgo algorítmico（算法偏差）、sesgo de género（性别偏见）、sesgo de confirmación（确认偏误）是当代科技伦理讨论的核心词汇；同根词：sesgado（有偏见的）、sesgar（使偏斜）；掌握 sesgo 是理解AI伦理和社会公平议题报道的关键。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "Si una máquina se basa en un razonamiento que el médico no puede desgranar, el riesgo de sesgos o errores sigue presente",
+      "zh": "如果一台机器基于医生无法完全解析的推理过程作出判断，系统性偏差或错误的风险依然存在。",
+      "vocab": [
+        {
+          "word": "sigue presente",
+          "translation": "依然存在，仍然存在，尚未消除",
+          "note": "sigue presente 由 seguir（继续）+ presente（存在的）构成，意为『某一风险或问题尚未消除、依然存在』；这一结构在风险评估和警示性写作中极为常见；类似表达：persiste（持续存在）、no ha desaparecido（尚未消失）、continúa latente（仍潜伏着）；seguir + adjetivo/participio 是描述状态持续的重要句型。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "«Sin una eficacia, equidad y seguridad robustas y demostradas, muchos sistemas de IA seguirán siendo insuficientes para el uso clínico», advierten Ashley Hopkins y Erik Cornelisse en un análisis que acompaña al estudio de 'Science'.",
+      "zh": "『如果没有经过充分验证的强健有效性、公平性和安全性，许多AI系统将继续不足以用于临床，』阿什利·霍普金斯和埃里克·科内利斯在《科学》杂志随附的一篇分析文章中警告道。",
+      "vocab": [
+        {
+          "word": "robustas",
+          "translation": "强健的，稳健的，经得起考验的",
+          "note": "robusto/a 源自拉丁语 robustus（坚硬如橡木的），本义为『体格强壮的』，在科技和统计语境中引申为『方法或系统在各种条件下均表现稳定可靠的』；eficacia robusta（稳健的有效性）是临床研究和AI评估的标准表达；同根词：roble（橡树，同源）、robustez（稳健性）、fortalecer（强化）；比 fuerte（强的）更强调在压力下的稳定性。"
+        },
+        {
+          "word": "demostradas",
+          "translation": "经过验证的，有据可查的，已被证明的",
+          "note": "demostrado/a 由 demostrar（证明、演示）派生，源自拉丁语 demonstrare（指出、证明）；robustas y demostradas（强健且经过验证的）强调不仅要有理论上的有效性，还需要有实证支撑；同根词：demostración（证明；示范）、demostrar（证明）、monstrar（展示，古语）；在科学写作中，demostrado 是区分假设与已验证结论的关键词。"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "es": "El camino hacia una medicina asistida por IA parece imparable, pero como ocurre con las grandes innovaciones en salud, el ritmo lo marcará (o lo debería marcar) la seguridad del paciente y no la velocidad de los procesadores.",
+      "zh": "通往AI辅助医学的道路似乎势不可挡，但正如医疗领域的重大创新一样，决定其节奏的应该是——或者说本应是——患者安全，而非处理器的运算速度。",
+      "vocab": [
+        {
+          "word": "imparable",
+          "translation": "势不可挡的，无法阻止的",
+          "note": "imparable 由 in-（否定）+ parable（可停止的，来自 parar = 停止）构成，意为『无法被阻止的、势不可挡的』；un avance imparable（势不可挡的进步）在科技报道中是描述技术趋势的高频词；同根词：parar（停止）、parada（停靠站）、imparar（无法停止）；比 inevitable（不可避免的）更强调动态的冲击力。"
+        },
+        {
+          "word": "el ritmo lo marcará",
+          "translation": "将决定其节奏，将主导其步伐",
+          "note": "marcar el ritmo 字面义为『打节拍』，引申为『决定某事的速度和节奏』；这一音乐隐喻在政策和科技讨论中极为常见；作者用括号内的 o lo debería marcar（或者说本应是）表达一种规范性判断，暗示现实与理想之间可能存在落差；同根词：ritmo（节奏）、rítmico（有节奏的）、arritmia（心律不齐，医学术语）。"
+        }
+      ]
+    }
+  ]
+}

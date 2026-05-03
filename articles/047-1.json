@@ -1,0 +1,208 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "经济与社会",
+  "difficulty": "B2",
+  "wordCount": "约900词",
+  "title": "La renta de los recién jubilados supera a la de los jóvenes por primera vez en la historia",
+  "subtitle": "史上首次：刚退休者的收入超过年轻人",
+  "resumenEs": "Por primera vez en la historia de España, los hogares de personas recién jubiladas (65-74 años) obtienen ingresos superiores a los de los jóvenes menores de 35 años. Esta inversión del llamado «ciclo vital» económico se explica por la revalorización de las pensiones ligada a la inflación, las largas carreras laborales de los 'boomer' y la extrema vulnerabilidad de los salarios jóvenes ante los shocks económicos. Mientras los ingresos de los mayores crecieron casi un 13% en dos años, los de los jóvenes apenas avanzaron un 6%, y en 2024 los sueldos de entrada al mercado laboral incluso cayeron.",
+  "resumenZh": "西班牙历史上首次出现刚退休人群（65-74岁）的家庭收入超过35岁以下年轻人的情况。这一『生命周期』经济规律的逆转，源于与通胀挂钩的养老金增值、婴儿潮一代漫长而稳定的职业生涯，以及年轻人薪资在经济冲击面前的极度脆弱性。过去两年，老年人收入增长近13%，而年轻人仅增长约6%，2024年初入职场者的薪资甚至出现下降。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Una familia de españoles que acaban de jubilarse obtiene unas rentas que superan a la de un hogar cuyos miembros se encuentran en sus primeros años inmersos en el mercado laboral. Los ingresos anuales del colectivo de población que se encuentra entre los 65 y ... los 74 años -la primera etapa del retiro laboral- rozan los 32.000 euros brutos. Mientras que las rentas que perciben los jóvenes menores de 35 años se sitúan en el entorno de los 31.000 euros.",
+      "zh": "刚刚退休的西班牙家庭所获得的收入，已经超过了那些成员正处于职业生涯初期、刚刚踏入劳动力市场的家庭。65至74岁人群——退休生活的第一阶段——的年收入接近32000欧元税前。而35岁以下年轻人的收入则在31000欧元左右。",
+      "vocab": [
+        {
+          "word": "inmersos en",
+          "translation": "沉浸于，深陷于，全身心投入于",
+          "note": "inmerso/a 由 inmersión（浸入）派生，源自拉丁语 immergere（浸入），意为『完全投身于某一环境或活动之中』；inmersos en el mercado laboral（深陷劳动力市场）是书面语的高频表达；同根词：inmersión（浸入、沉浸式学习）、sumergir（使沉入）、emergir（浮现）；比 metidos en（投入于）更正式，带有全身心投入的意味。"
+        },
+        {
+          "word": "rozan",
+          "translation": "接近，逼近，触及",
+          "note": "rozar 本义为『轻轻摩擦、擦过』，在数字语境中引申为『接近某一数值但尚未达到』；rozan los 32.000 euros（接近32000欧元）比 se acercan a（接近）更生动，带有『几乎触碰到』的动态感；同根词：roce（摩擦、轻触）、rozadura（擦伤）；这种用身体动作描述数字的隐喻在西语经济报道中极为常见。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Apenas son 1.000 euros anuales de diferencia entre un colectivo de población y el otro, pero esa pequeña brecha ha consolidado una nueva realidad socioeconómica: la de que una parte de los jubilados gana más dinero en un año que sus predecesores. Una circunstancia que los españoles no habían visto nunca en la historia, según indican el análisis de los microdatos de la última Encuesta Financiera de las Familias elaborada por el Banco de España.",
+      "zh": "两个群体之间每年仅相差1000欧元，但这一小小的差距已经巩固了一种新的社会经济现实：部分退休人员一年内赚的钱比他们的前辈更多。根据西班牙银行编制的最新家庭金融调查微观数据分析显示，这是西班牙人在历史上从未见过的情况。",
+      "vocab": [
+        {
+          "word": "brecha",
+          "translation": "差距，裂口，鸿沟",
+          "note": "brecha 本义为『城墙上被攻破的缺口』，引申为『两者之间的差距或分歧』；brecha salarial（薪资差距）、brecha de género（性别差距）、brecha digital（数字鸿沟）是社会经济报道的核心词组；同根词：abrir brecha（开辟先例、打开缺口）、brecha generacional（代际差距）；是理解当代社会议题报道的必备词汇。"
+        },
+        {
+          "word": "microdatos",
+          "translation": "微观数据，个体层面数据",
+          "note": "microdatos 由 micro-（微小）+ datos（数据）构成；在统计学和经济学中，microdatos 指针对个人或家庭层面收集的原始数据，与 macrodatos（宏观数据）或 agregados（汇总数据）相对；micro- 前缀极为常见：microeconomía（微观经济学）、microempresa（微型企业）、microscopio（显微镜）；掌握 micro- 前缀可快速理解大量学术词汇。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "De esta forma, se rompe por primera vez el patrón de lo que el supervisor denomina como el «ciclo vital» económico por el que, a medida que avanza la edad de una persona, sus ingresos van disminuyendo al llegar a la jubilación situándose por debajo de los más jóvenes. Esa radiografía comienza a ser distinta después de que quienes van accediendo al retiro después de años trabajados en su vida laboral, perciben prestaciones -sobre todo pensiones, pero también de otro tipo por sus ahorros- que les llevan a una situación económica mejor que la de sus nietos, e incluso hijos, dependiendo de los casos.",
+      "zh": "就这样，监管机构所称的经济『生命周期』规律被首次打破——按照这一规律，随着年龄增长，人的收入在退休时会逐渐减少，降至低于年轻人的水平。这幅图景开始发生变化，因为那些在漫长职业生涯后陆续退休的人，所获得的福利——主要是养老金，但也包括其储蓄带来的其他类型收益——使他们的经济状况好于自己的孙辈，甚至在某些情况下好于子辈。",
+      "vocab": [
+        {
+          "word": "ciclo vital",
+          "translation": "生命周期，人生周期",
+          "note": "ciclo vital 是经济学和社会学的核心概念，指人一生中收入、消费和储蓄随年龄变化的规律性模式；vital 源自拉丁语 vita（生命），同根词：vitalidad（活力）、vital（至关重要的；生命的）、revitalizar（重新激活）；ciclo 同根词：reciclaje（回收利用）、ciclismo（自行车运动）；两个词根均极为高产。"
+        },
+        {
+          "word": "radiografía",
+          "translation": "X光片；（引申）全面透视，深度分析",
+          "note": "radiografía 本义为医学上的『X光片』，在新闻和分析文体中引申为『对某一现象的全面透视和深度呈现』；esta radiografía（这幅图景）是西语新闻评论的高频隐喻，暗示对社会现实的穿透性分析；同根词：radio（射线；收音机）、radiación（辐射）、radiólogo（放射科医生）；医学隐喻在西语社会分析中极为丰富。"
+        },
+        {
+          "word": "prestaciones",
+          "translation": "福利，补贴，社会保障给付",
+          "note": "prestación 由 prestar（提供、借出）派生，在社会保障语境中专指『国家或社会保险体系向个人提供的各类给付』；prestaciones sociales（社会福利）、prestación por desempleo（失业救济金）、prestación de jubilación（退休金）是高频搭配；同根词：prestar（借出；提供）、préstamo（贷款）、prestamista（放贷人）。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "El crecimiento de los ingresos de los 'boomer' de los dos últimos años ha duplicado al registrado por los menores de 35 años, cuyas rentas han avanzado un 6% en ese mismo periodo, según el supervisor",
+      "zh": "据监管机构数据，过去两年婴儿潮一代收入的增长幅度是35岁以下人群的两倍，后者同期收入仅增长了6%。",
+      "vocab": [
+        {
+          "word": "boomer",
+          "translation": "婴儿潮一代（1946-1964年出生者）",
+          "note": "boomer 是英语 baby boomer 的缩略形式，指二战后出生高峰期（约1946-1964年）出生的一代人；在西语中已广泛使用，无需翻译；与之对应的代际词汇：Generación X（X世代，1965-1980）、millennial（千禧一代，1981-1996）、Generación Z（Z世代，1997-2012）；了解这些代际标签是理解当代社会议题报道的基础。"
+        },
+        {
+          "word": "ha duplicado",
+          "translation": "已翻倍，已是……的两倍",
+          "note": "duplicar 由 duplo（双重的，源自拉丁语 duplus）派生，意为『使成为两倍』；ha duplicado al registrado（是所记录数值的两倍）中 al 是 a + el 的缩合，指代前文的增长率；同根词：duplicado（副本）、duplicidad（两面性）；数字倍数词根：triple（三倍）、cuádruple（四倍）、múltiple（多倍）。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Además, la evolución de lo que perciben unos y otros ha dibujado un panorama dispar en los últimos 15 años, como revela el Banco de España. Mientras que los ingresos de los mayores han ido siempre hacia arriba, sin ningún contratiempo e independientemente de la gran recesión, la crisis del covid o el impacto de la guerra en Ucrania... la nómina de los jóvenes es mucho más vulnerable a cualquier tipo de 'shock' que aparezca en la economía: se desplomó un 20% en la crisis financiera; y volvió a hacerlo un 10% tras la pandemia. A pesar de los avances posteriores, las recuperaciones nunca han logrado mejorar su posición al estado inicial que tenían antes de esos acontecimientos.",
+      "zh": "此外，西班牙银行揭示，过去15年间两个群体收入的演变呈现出截然不同的图景。老年人的收入始终向上，没有任何波折，无论是大衰退、新冠疫情还是乌克兰战争的冲击……而年轻人的薪资对经济中出现的任何『冲击』都极为脆弱：在金融危机中暴跌了20%；疫情后又再次下跌10%。尽管此后有所回升，但每次复苏都从未能将其恢复到那些事件发生前的初始水平。",
+      "vocab": [
+        {
+          "word": "dispar",
+          "translation": "迥异的，悬殊的，不均等的",
+          "note": "dispar 源自拉丁语 dispar（不相等的），由 dis-（分离、否定）+ par（相等的）构成；un panorama dispar（截然不同的图景）在经济报道中形容两组数据或趋势之间的显著差异；同根词：par（相等；平局）、impar（奇数的）、disparidad（差异、悬殊）、disparate（荒谬的事）；比 diferente（不同的）更强调差距之大。"
+        },
+        {
+          "word": "contratiempo",
+          "translation": "挫折，意外阻碍，不顺",
+          "note": "contratiempo 由 contra-（对抗）+ tiempo（时间、时机）构成，字面义为『逆时机而来的事』，引申为『意外的阻碍或不顺』；sin ningún contratiempo（没有任何波折）在经济语境中指收入从未受到负面冲击；同根词：tiempo（时间）、a tiempo（及时）、a destiempo（不合时宜地）；contra- 前缀：contradecir（反驳）、contrarrestar（抵消）。"
+        },
+        {
+          "word": "se desplomó",
+          "translation": "暴跌，骤降，崩塌",
+          "note": "desplomarse 由 des-（强化/逆转）+ plomo（铅）构成，字面义为『像铅块一样坠落』，引申为『急剧下跌、崩溃』；在经济报道中 desplomarse 比 caer（下跌）更强调速度之快和幅度之大；同根词：plomo（铅）、aplomar（使垂直）；类似的暴跌词汇：derrumbarse（崩塌）、hundirse（沉没、崩溃）、desmoronarse（瓦解）。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "La explicación de esta realidad es una combinación de varios factores que han coincidido al mismo tiempo para lograr este avance de las rentas de los mayores frente a la de sus vástagos. Los incrementos de renta registrados por el supervisor en este informe, con datos de 2024, indican que «han sido especialmente importantes» entre los jóvenes y los de mayor edad. Es decir, que ambos colectivos han ganado más en los dos últimos años. Pero con notables diferencias. Mientras que en el caso de los menores de 35 años la renta mediana -de la que se vale con más frecuenta el Banco de España para evitar las distorsiones de los extremos que arrojan las medias- ha crecido algo más del 6%, entre los 'boomer' lo ha hecho casi un 13%. Es decir, un incremento de rentas que a avanzado el doble de rápido entre los recién jubilados que entre los que van accediendo al mercado laboral o se encuentran en sus primeros años de cotización.",
+      "zh": "这一现实的解释是多重因素同时叠加的结果，共同推动了老年人收入相对于其子孙辈的增长。监管机构在这份以2024年数据为基础的报告中记录的收入增长表明，年轻人和老年人群体的增幅『都尤为显著』。也就是说，两个群体在过去两年里都赚得更多了。但差异十分明显。35岁以下人群的中位收入——西班牙银行更频繁地使用这一指标，以避免均值因极端值而产生的失真——增长了略超6%，而婴儿潮一代则增长了近13%。也就是说，刚退休者的收入增速是刚进入劳动力市场或处于缴费初期的年轻人的两倍。",
+      "vocab": [
+        {
+          "word": "vástagos",
+          "translation": "子孙，后代，苗裔",
+          "note": "vástago 本义为植物的『嫩芽、新枝』，引申为『后代、子孙』；在文学和正式文体中用于指代子女或后代，比 hijos（子女）更文雅，带有血脉传承的意象；同根词：retoño（新芽；引申为后代）；这类植物隐喻在西语中描述家族关系极为常见：raíces（根；根源）、rama（枝；分支）、árbol genealógico（家谱树）。"
+        },
+        {
+          "word": "renta mediana",
+          "translation": "中位收入，收入中位数",
+          "note": "mediana 在统计学中指『将数据集从小到大排列后位于正中间的数值』，与 media（平均数）不同；mediana 不受极端值影响，更能反映典型水平；同根词：medio（中间的）、mediar（居中调解）、mediocre（平庸的，字面义为『处于中间的山坡』）；理解 mediana vs. media 的区别是阅读经济统计报道的基础。"
+        },
+        {
+          "word": "cotización",
+          "translation": "社保缴费，养老金缴纳",
+          "note": "cotización 由 cotizar（缴纳社保费用）派生，在西班牙社会保障体系中专指『劳动者向社会保险体系缴纳的费用』；años de cotización（缴费年限）直接决定退休金水平；同根词：cotizar（缴费；在股市报价）、cotización bursátil（股票报价）；注意 cotizar 在金融语境中还有『股票报价』的含义，是一词多义词。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "La revalorización de las pensiones vinculada a la evolución de la inflación -con tasas de subida de hasta el 8%, como ocurrió en 2023-, unido al retiro de toda una generación que acumula importantes bases de cotización y carreras laborales extensas y sin altibajos -periodos de paro, ERE, etc.-, les proporciona una pensión de jubilación media que ya supera los 1.700 euros al mes, según las últimas estadísticas de la Seguridad Social, para el caso de un trabajador asalariado del régimen general, que son la mayoría.",
+      "zh": "与通货膨胀走势挂钩的养老金增值——涨幅高达8%，如2023年所发生的那样——加之整整一代人的退休，这一代人积累了重要的缴费基数和漫长而平稳的职业生涯——没有失业期、企业裁员等波折——根据社会保障部门最新统计数据，这使得普通制度下受雇劳动者（占大多数）的平均退休金已超过每月1700欧元。",
+      "vocab": [
+        {
+          "word": "revalorización",
+          "translation": "增值，重新估值，价值提升",
+          "note": "revalorización 由 re-（重新）+ valorización（增值）构成，意为『使某物价值重新提升』；在养老金语境中特指『根据通胀指数对养老金进行的定期上调』；同根词：valor（价值）、valorar（评估）、devaluación（贬值）、revalorizar（使增值）；re- 前缀再次出现，强化了其『重新、再次』的构词功能。"
+        },
+        {
+          "word": "altibajos",
+          "translation": "起伏，波折，高低不平",
+          "note": "altibajos 由 alto（高）+ bajo（低）构成，字面义为『高高低低』，引申为『生活或事业中的起伏波折』；sin altibajos（没有起伏波折）在职业语境中指职业生涯平稳、未曾中断；这一词的构词方式与前文 vaivenes（去了又来）类似，都是用对立词组合描述动态变化；同类构词：claroscuro（明暗对比）、agridulce（苦甜参半）。"
+        },
+        {
+          "word": "ERE",
+          "translation": "企业裁员计划（Expediente de Regulación de Empleo）",
+          "note": "ERE 是 Expediente de Regulación de Empleo 的缩写，指西班牙企业在经济困难时向劳动部门申请的集体裁员或减薪方案；是西班牙劳动法的核心概念，在经济危机报道中极为高频；了解西语新闻中的常见缩写对提升阅读效率至关重要：INE（国家统计局）、PIB（国内生产总值）、IPC（消费者价格指数）。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Frente a esa realidad, choca la de los más jóvenes. Cohabitan varios registros que así lo certifican. Por ejemplo, el de de que los trabajadores que comienzan su actividad en el mercado laboral han visto caer el sueldo que cobran por primera vez en la última década. A pesar del crecimiento del empleo de los últimos ejercicios, la nómina de los jóvenes fue de 1.372 euros brutos (sin restar impuestos) en 2024 frente a los 1.387 euros que recibían en 2023, según el INE. Se trata de un recorte de unos 15 euros cada mes, cuantía que impacta en unas nóminas ya de por sí exiguas y cuya caída contrasta con el dinamismo que han mostrado las remuneraciones del resto de trabajadores.",
+      "zh": "与这一现实形成鲜明对比的是年轻人的处境。多项数据印证了这一点。例如，刚进入劳动力市场的工人十年来首次经历薪资下降。尽管近年来就业持续增长，据国家统计局数据，年轻人2024年的薪资为1372欧元税前（未扣税），低于2023年的1387欧元。这相当于每月减少约15欧元，这一削减对本已微薄的薪资造成冲击，其下降趋势与其他劳动者薪酬所展现的活力形成鲜明对比。",
+      "vocab": [
+        {
+          "word": "choca",
+          "translation": "形成冲突，形成鲜明对比；令人震惊",
+          "note": "chocar 本义为『碰撞、相撞』，在对比语境中引申为『与……形成强烈反差、令人感到突兀』；frente a esa realidad, choca la de los más jóvenes（与这一现实形成鲜明对比的是年轻人的处境）是新闻评论的高频句式；同根词：choque（碰撞、冲突）、chocante（令人震惊的）；比 contrasta（对比）更强调反差之大令人感到不适或惊讶。"
+        },
+        {
+          "word": "exiguas",
+          "translation": "微薄的，极少的，不足的",
+          "note": "exiguo/a 源自拉丁语 exiguus（极少的），意为『数量极少、远远不够的』；nóminas exiguas（微薄的薪资）在劳工报道中是描述低收入的典雅书面表达；比 bajas（低的）或 pequeñas（小的）更正式，带有一种『少得可怜』的批判色彩；同根词：exigüidad（极度匮乏）；是C1级别书面语的重要形容词。"
+        },
+        {
+          "word": "remuneraciones",
+          "translation": "薪酬，报酬，劳动所得",
+          "note": "remuneración 由 remunerar（酬劳）派生，源自拉丁语 remunerare（给予回报），指『对劳动或服务的全部经济补偿』，比 salario（工资）范围更广，包含奖金、福利等；同根词：remunerar（酬劳）、remunerado（有偿的）；与 sueldo（月薪）、nómina（工资单）、salario（工资）构成薪酬类词汇的完整体系。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Los ingresos de los mayores no se han visto afectados por las crisis, mientras que los de los jóvenes han tardado en recuperarse de cada 'shock' económico que ha afectado a España",
+      "zh": "老年人的收入未受危机影响，而年轻人的收入在每次冲击西班牙的经济震荡后都需要很长时间才能恢复。",
+      "vocab": [
+        {
+          "word": "no se han visto afectados",
+          "translation": "未受影响，没有受到波及",
+          "note": "verse afectado/a por 是固定被动结构，意为『受到……的影响』；verse + participio 是西语中表达被动经历的常用句式，比 ser afectado 更强调主体亲身经历的感受；类似结构：verse obligado a（被迫……）、verse envuelto en（卷入……）、verse sorprendido por（被……惊到）；掌握这一句式可大幅提升书面表达的地道程度。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "La precariedad económica por la que atraviesan los asalariados de menor edad se ha visto acentuada sobre todo si se compara con la evolución general de los salarios de los españoles. El sueldo medio de los ocupados mejoró otro 5% el año pasado en un continuo ascenso que se ha visto impulsado desde el final de la gran recesión de 2013, según Estadística. Esa tendencia se ha visto rota exclusivamente en el colectivo de trabajadores con menos de 24 años, cuyos ingresos han sido 200 euros inferiores a lo largo del último ejercicio.",
+      "zh": "年轻受薪劳动者所经历的经济不稳定状况尤为突出，特别是与西班牙整体薪资走势相比时更是如此。据统计局数据，在职人员的平均薪资去年又提升了5%，延续了自2013年大衰退结束以来的持续上升趋势。这一趋势唯独在24岁以下劳动者群体中遭到打破，该群体在过去一个财年中的收入低了200欧元。",
+      "vocab": [
+        {
+          "word": "precariedad",
+          "translation": "不稳定性，脆弱性，朝不保夕的状态",
+          "note": "precariedad 由 precario（不稳定的、朝不保夕的）派生，源自拉丁语 precarius（靠祈求得来的），意为『缺乏稳定性和保障的状态』；precariedad laboral（劳动不稳定性）是当代西班牙社会议题的核心词汇；同根词：precario（不稳定的）、precarizar（使不稳定化）；比 inestabilidad（不稳定）更强调生存层面的脆弱和无保障感。"
+        },
+        {
+          "word": "acentuada",
+          "translation": "加剧的，凸显的，更为突出的",
+          "note": "acentuar 由 acento（重音、强调）派生，意为『使某一特征更加突出、加剧』；se ha visto acentuada（被进一步凸显）是书面语的高频被动结构；同根词：acento（重音；口音）、acentuar（强调；加重音）、desacentuar（弱化）；在经济和社会报道中，acentuar 常用于描述某一趋势或问题的加剧。"
+        },
+        {
+          "word": "ejercicio",
+          "translation": "财年，会计年度；练习；行使",
+          "note": "ejercicio 是典型的一词多义词：① 在经济和财务语境中指『财政年度、会计年度』（el último ejercicio = 上一财年）；② 指『练习、训练』（ejercicio físico = 体育锻炼）；③ 指『行使（权利或职责）』（ejercicio del poder = 权力的行使）；在阅读经济报道时，ejercicio 几乎总是指『财年』，是理解财经新闻的关键词。"
+        }
+      ]
+    }
+  ]
+}

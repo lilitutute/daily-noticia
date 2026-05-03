@@ -1,0 +1,205 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "教育与社会科学",
+  "difficulty": "B2",
+  "wordCount": "约900词",
+  "title": "El nivel socioeconómico de los padres afecta al esfuerzo de sus hijos",
+  "subtitle": "父母的社会经济地位影响子女的努力程度",
+  "resumenEs": "Un estudio publicado en American Sociological Review demuestra que los niños de familias privilegiadas muestran mayor esfuerzo cognitivo que los de entornos desfavorecidos, especialmente sin recompensas. La causa no es la personalidad ni la inteligencia, sino factores estructurales: la escasez percibida genera estrés y sobrecarga cognitiva. Sin embargo, pequeños incentivos como el reconocimiento social pueden reducir significativamente esta brecha, con implicaciones directas para las políticas educativas.",
+  "resumenZh": "发表于《美国社会学评论》的一项研究表明，优越家庭的孩子比弱势环境中的孩子表现出更强的认知努力，尤其是在没有奖励的情况下。原因不在于个性或智力，而在于结构性因素：感知到的匮乏会产生压力和认知超负荷。然而，小小的激励——如社会认可——可以显著缩小这一差距，对教育政策具有直接启示。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "El nivel socioeconómico de los padres influye en el esfuerzo escolar que realizan sus hijos. Según un estudio publicado recientemente en la revista American Sociological Review, los alumnos de familias <strong>privilegiadas</strong> muestran un mayor <strong>empeño</strong> cognitivo que los de los entornos desfavorecidos, sobre todo cuando no hay recompensa. Pero la brecha puede compensarse con incentivos: cuando se ofrecen pequeños premios —por ejemplo, un reconocimiento social—, los niños de familias con menos recursos trabajan con un nivel de implicación similar al de sus compañeros más aventajados.",
+      "zh": "父母的社会经济地位影响子女在学校的努力程度。根据最近发表在《美国社会学评论》杂志上的一项研究，来自优越家庭的学生表现出比弱势环境中的学生更强的认知投入，尤其是在没有奖励的情况下。但这一差距可以通过激励措施加以弥补：当提供小奖励——例如社会认可——时，来自资源较少家庭的孩子的参与程度与条件更好的同学相近。",
+      "vocab": [
+        {
+          "word": "privilegiadas",
+          "translation": "优越的，享有特权的，条件优渥的",
+          "note": "privilegiado/a 由 privilegio（特权）派生，意为『享有他人所没有的优势或资源』；在社会议题报道中，familias privilegiadas 与 familias desfavorecidas 构成核心对立，是阶层分析的基础词汇；同根词 privilegio（特权）、privilegiar（优待）可举一反三。"
+        },
+        {
+          "word": "empeño",
+          "translation": "努力，投入，坚持",
+          "note": "empeño 意为『为实现某一目标而持续付出的努力和决心』；con empeño（努力地）是固定搭配；注意一词多义：empeño 还有『典当』的含义（casa de empeños 即当铺），需根据语境区分，是容易误解的词。"
+        },
+        {
+          "word": "aventajados",
+          "translation": "条件优越的，占有优势的，出类拔萃的",
+          "note": "aventajado/a 由 aventajar（超越、占优势）派生，源自 ventaja（优势）；menos aventajados（条件较差的）与 más aventajados（条件更好的）在教育和社会报道中是描述阶层差异的高频表达；掌握 ventaja（优势）这一词根可延伸至 desventaja（劣势）、ventajoso（有利的）等词。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "El trabajo dice que la motivación está <strong>condicionada</strong> por el entorno social porque «los recursos familiares y el nivel de seguridad que experimentan los niños en su vida cotidiana juegan un papel fundamental». Al contrario, crecer con <strong>carencias</strong>, como falta de medios económicos o de tiempo de atención parental, «dificulta la concentración sostenida en una tarea». Según los autores de la investigación, «los rasgos de personalidad o la inteligencia no explican estas diferencias».",
+      "zh": "研究指出，动机受社会环境的制约，因为『家庭资源以及孩子在日常生活中所体验到的安全感发挥着根本性作用』。相反，在匮乏中成长——如缺乏经济资源或父母陪伴时间——『会妨碍对任务的持续专注』。研究作者表示，『个性特征或智力并不能解释这些差异』。",
+      "vocab": [
+        {
+          "word": "condicionada",
+          "translation": "受制约的，被条件限制的，取决于……的",
+          "note": "estar condicionado/a por（受……制约）是社会科学分析的核心句式，强调外部因素对个体行为的系统性影响；与 determinado（被决定的）相比，condicionado 更强调影响而非完全决定，保留了主体能动性；同根词 condición（条件）、incondicional（无条件的）可举一反三。"
+        },
+        {
+          "word": "carencias",
+          "translation": "匮乏，缺乏，不足",
+          "note": "carencia 由 carecer de（缺乏）派生，指某种必要资源或条件的长期缺失；比 falta（缺少）更强调系统性和持续性；常见搭配：carencias económicas（经济匮乏）、carencias afectivas（情感缺失）；carecer de + 名词（缺乏……）是新闻和学术文体的高频句式。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Ya existía evidencia científica que mostraba que el origen social influye en el éxito académico, pues los niños de entornos favorecidos tienen la posibilidad de acceder a más libros, viajes, visitas culturales o clases particulares que ayudan a mejorar sus resultados escolares, pero desde el punto de vista de la sociología no se había <strong>abordado</strong> apenas el tema del esfuerzo.",
+      "zh": "已有科学证据表明，社会出身影响学业成功，因为来自优越环境的孩子有机会获得更多书籍、旅行、文化参观或补习课程，这些都有助于提高他们的学业成绩；但从社会学角度来看，努力这一议题几乎尚未被涉及。",
+      "vocab": [
+        {
+          "word": "abordado",
+          "translation": "被涉及，被探讨，被处理",
+          "note": "abordar 本义为『靠近并登上船只』，引申为『主动接触或处理某一话题、问题或人』；abordar un tema（探讨一个话题）、abordar un problema（处理一个问题）是学术和新闻文体的高频搭配；比 tratar（处理）更强调主动性和直面性，是B2级别的重要动词。"
+        },
+        {
+          "word": "apenas",
+          "translation": "几乎不，勉强，刚刚",
+          "note": "apenas 是容易误解的副词，有两个截然不同的用法：① 表否定程度：『几乎不』，如本文 no se había abordado apenas（几乎尚未被涉及）；② 表时间紧接：『刚一……就……』，如 apenas llegó, sonó el teléfono（他刚到电话就响了）；混淆两义是中高级学习者的常见错误。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "El estudio, liderado por la Universidad Carlos III de Madrid y en el que también ha participado el Centro de Investigación en Ciencias Sociales de Berlín, aporta una nueva perspectiva en el debate sobre la <strong>meritocracia</strong>. Frente al discurso que interpreta el esfuerzo como algo puramente individual, que depende de la fuerza de voluntad, este trabajo apunta a «la profunda influencia del contexto social incluso en algo aparentemente tan personal como el esfuerzo», <strong>poniendo de relieve</strong> «los factores sistemáticos que dan forma al comportamiento individual».",
+      "zh": "这项由马德里卡洛斯三世大学主导、柏林社会科学研究中心参与的研究，为精英主义争论提供了新视角。面对将努力解读为纯粹个人意志力的话语，这项研究指向『社会背景对努力这一表面上极为个人化的事物的深刻影响』，揭示了『塑造个体行为的系统性因素』。",
+      "vocab": [
+        {
+          "word": "meritocracia",
+          "translation": "精英主义，任人唯贤制度，绩效主义",
+          "note": "meritocracia 由拉丁语 meritum（功绩）+ 希腊语 -cracia（统治，同根词：democracia、burocracia）构成，指以个人才能和努力决定社会地位的制度理念；掌握 -cracia 这一后缀可举一反三：aristocracia（贵族统治）、tecnocracia（技术官僚制）等，构词价值极高。"
+        },
+        {
+          "word": "poniendo de relieve",
+          "translation": "揭示，凸显，强调",
+          "note": "poner de relieve 是高频固定短语，字面义为『使某物从背景中凸显出来』（relieve 即浮雕），引申为『使某一事实变得清晰可见』；比 destacar（突出）更正式；同类短语：poner de manifiesto（表明）、poner en evidencia（揭露），掌握 poner de/en + 名词 这一构式可大幅扩展表达。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "«No queremos reforzar una idea simple de la narrativa de la meritocracia, que sugiere que lo único que hace falta es que todo el mundo se esfuerce. De hecho, este estudio demuestra que una razón por la que los niños menos aventajados no se esfuerzan tanto es la falta de recursos con que crecen. No es que sean <strong>vagos</strong>, es que hay razones estructurales que condicionan la voluntad», señala Jonas Radl.",
+      "zh": "『我们不想强化精英主义叙事中的简单化观念——即认为所需要的只是每个人都努力就够了。事实上，这项研究表明，弱势儿童努力程度不足的一个原因，正是他们成长过程中所缺乏的资源。不是说他们懒惰，而是存在制约意志力的结构性原因』，拉德尔指出。",
+      "vocab": [
+        {
+          "word": "vagos",
+          "translation": "懒惰的；（另义）模糊的、不清晰的",
+          "note": "vago/a 是典型的一词多义词：① 『懒惰的』，如本文 no es que sean vagos（不是说他们懒惰）；② 『模糊的、不明确的』，如 una idea vaga（一个模糊的想法）、recuerdo vago（模糊的记忆）；两义均常见于B2级别文本，混淆两义是常见错误。"
+        },
+        {
+          "word": "lo único que hace falta",
+          "translation": "所需要的唯一事情就是……",
+          "note": "lo + 形容词/副词 + que 是西语中将形容词名词化的重要结构：lo único（唯一的事）、lo importante（重要的是）、lo curioso（有趣的是）；hacer falta（需要、必要）是固定搭配，比 necesitar 更口语化；两者结合构成新闻评论中极为常见的强调句式。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "En el estudio se señala que «la mera percepción de la escasez» por parte de los niños «afecta negativamente a la activación de las funciones ejecutivas del cerebro, incluso manteniendo constantes las condiciones materiales». «La escasez percibida produce preocupación y estrés, lo que, a su vez, conduce a una <strong>sobrecarga</strong>: el aumento de cortisol <strong>socava</strong> el esfuerzo», advierte.",
+      "zh": "研究指出，儿童对匮乏的『单纯感知』『会对大脑执行功能的激活产生负面影响，即便物质条件保持不变』。『感知到的匮乏会产生担忧和压力，进而导致超负荷：皮质醇水平的升高会削弱努力』，研究警告道。",
+      "vocab": [
+        {
+          "word": "sobrecarga",
+          "translation": "超负荷，过载，负担过重",
+          "note": "sobrecarga 由 sobre-（超过、过度）+ carga（负荷）构成；sobre- 是构词价值极高的前缀，表示『超过正常限度』：sobrevalorar（高估）、sobrepasar（超越）、sobresalir（脱颖而出）；掌握此前缀可举一反三，快速理解大量新词。"
+        },
+        {
+          "word": "socava",
+          "translation": "削弱，动摇，侵蚀",
+          "note": "socavar 本义为『在地下挖掘、掏空基础』，引申为『逐渐削弱或破坏某事物的根基』；是B2-C1级别的高频学术动词，常见于政治、社会和科学报道：socavar la confianza（动摇信任）、socavar la democracia（侵蚀民主）；比 debilitar（削弱）更强调渐进性和不可逆性。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Otras razones que los autores mencionan en el estudio para explicar el coste del esfuerzo son los estilos de <strong>crianza</strong> —las familias con mayor nivel socioeconómico son más <strong>propensas</strong> a fomentar la autonomía y la independencia de sus hijos, según este trabajo—, la influencia social de los compañeros de colegio o los riesgos ambientales: a más pobreza, más amenazas para la salud, la autoestima y la seguridad física.",
+      "zh": "研究作者提到的解释努力代价的其他原因还包括：养育方式——根据这项研究，社会经济地位较高的家庭更倾向于培养子女的自主性和独立性——、同学的社会影响，以及环境风险：贫困程度越深，对健康、自尊和人身安全的威胁就越大。",
+      "vocab": [
+        {
+          "word": "crianza",
+          "translation": "养育，抚养，育儿方式",
+          "note": "crianza 由 criar（养育）派生，源自拉丁语 creare（创造、培育）；estilos de crianza（养育方式）是教育和心理报道的高频词；同根词构词价值高：criar（养育）、criatura（婴儿、生物）、creación（创造）——同一词根在不同演变路径下产生了意义相关的词族。"
+        },
+        {
+          "word": "propensas",
+          "translation": "倾向于……的，容易……的",
+          "note": "propenso/a a + 不定式/名词 是固定搭配，意为『有某种倾向或容易做某事』；ser propenso a（倾向于）在新闻和学术文体中极为常见，如 ser propenso a errores（容易出错）、ser propenso a enfermedades（易患疾病）；比 tender a（趋向于）更强调内在倾向性。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Radl y su equipo realizaron un experimento en el que participaron 1.360 alumnos de 5º de Primaria de 35 colegios de Madrid y Berlín, que tuvieron que resolver tareas cognitivas sencillas diseñadas para medir la concentración, la atención y el autocontrol. En total se obtuvieron 10 conjuntos de datos con 13.600 observaciones cada uno. Ésta y otras tareas similares fueron planteadas y ejecutadas en tres escenarios: uno sin recompensas, otro en el que se premiaba con pequeños juguetes por hacer la tarea y otro en el que, aparte de recompensar con pequeños juguetes, los tres mejores participantes recibían un reconocimiento social.",
+      "zh": "拉德尔及其团队进行了一项实验，共有来自马德里和柏林35所学校的1360名小学五年级学生参与，他们需要完成旨在测量专注力、注意力和自我控制能力的简单认知任务。共获得10组数据，每组13600个观测值。这些及类似任务在三种情境下被提出和执行：一种无奖励，一种以小玩具奖励完成任务，另一种除小玩具奖励外，前三名参与者还获得社会认可。",
+      "vocab": [
+        {
+          "word": "autocontrol",
+          "translation": "自我控制，自律，自制力",
+          "note": "autocontrol 由 auto-（自我）+ control 构成；auto- 是构词价值极高的前缀，源自希腊语 autos（自身）：autoestima（自尊）、autonomía（自主）、autocrítica（自我批评）、autosuficiente（自给自足的）；掌握此前缀可快速理解大量心理学和社会学词汇。"
+        },
+        {
+          "word": "aparte de",
+          "translation": "除……之外（还），不仅……而且",
+          "note": "aparte de 是高频介词短语，表示『在已有基础上额外增加』，与 además de 近义但更口语化；注意与 aparte（另外、分开地）区分；常见搭配：aparte de eso（除此之外）、aparte de ser（除了是……之外）；是写作和口语中替换 además 的实用表达。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "En primer lugar, examinaron las diferencias socioeconómicas en la dirección del esfuerzo; es decir, en la decisión de realizar o no una tarea que requiere trabajo. Los resultados mostraron que, sin incentivos, los alumnos eligieron hacer la tarea sólo en el 45% de los casos, mientras que con incentivos el porcentaje <strong>rozó</strong> el 100%, pero aquí no se encontraron diferencias socioeconómicas. En segundo lugar, los investigadores analizaron la intensidad del esfuerzo. Aquí vieron que, sin incentivos, los niños de familias más privilegiadas ejercían una intensidad de esfuerzo del 34% de una desviación típica superior a la de los niños de entornos socioeconómicos más desfavorecidos.",
+      "zh": "首先，他们检验了努力方向上的社会经济差异，即是否决定完成一项需要付出的任务。结果显示，在没有激励的情况下，学生仅在45%的情况下选择完成任务，而有激励时这一比例接近100%，但此处未发现社会经济差异。其次，研究人员分析了努力强度。他们发现，在没有激励的情况下，来自优越家庭的孩子的努力强度比来自弱势社会经济环境的孩子高出34%的一个标准差。",
+      "vocab": [
+        {
+          "word": "rozó",
+          "translation": "接近，几乎达到，擦边",
+          "note": "rozar 本义为『轻触、擦过』，引申为『非常接近某一数值或状态但未完全达到』；rozar el 100%（接近100%）、rozar la perfección（近乎完美）是新闻数据报道中的高频表达；比 acercarse a（接近）更生动，带有『擦边而过』的动态感，是B2级别值得掌握的形象动词。"
+        },
+        {
+          "word": "en primer lugar... en segundo lugar",
+          "translation": "首先……其次……",
+          "note": "en primer/segundo/tercer lugar 是学术写作和口头论证中组织论点的标准话语连接词，比 primero/segundo 更正式；完整序列：en primer lugar、en segundo lugar、por último/finalmente；掌握这一序列是提升写作逻辑性和正式度的基础。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Sin embargo, la diferencia se redujo «considerablemente» al introducir incentivos. Esta diferencia del 34% de una desviación típica entre unos y otros cayó al 22% en la situación de recompensa y al 19% cuando se les daba además un reconocimiento social. Los investigadores proponen aplicar estos hallazgos a políticas educativas, bajo la <strong>premisa</strong> de que «los incentivos en el aula pueden reducir las desigualdades socioeconómicas».",
+      "zh": "然而，引入激励措施后，差距『显著』缩小。两组之间34%标准差的差距在有奖励的情况下降至22%，在额外给予社会认可时降至19%。研究人员建议将这些发现应用于教育政策，前提是『课堂激励措施可以减少社会经济不平等』。",
+      "vocab": [
+        {
+          "word": "al + 动词原形",
+          "translation": "在……的时候，一……就……",
+          "note": "al + 动词原形 是西语中表示时间同步或紧接的重要语法结构：al introducir incentivos（在引入激励时）、al llegar（一到达）、al verlo（一看到他）；相当于 cuando + 动词，但更简洁，在书面语和新闻文体中极为常见，是B2级别必须掌握的核心语法点。"
+        },
+        {
+          "word": "premisa",
+          "translation": "前提，基本假设，出发点",
+          "note": "premisa 源自拉丁语 praemissa（预先设定的），在逻辑和学术语境中指推理的前提条件；bajo la premisa de que（以……为前提）是引出核心假设的固定句式；比 suposición（假设）更正式，强调该假设是整个论证的逻辑基础，是学术阅读中的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "«Las recompensas, el aprendizaje <strong>lúdico</strong> y el reconocimiento social pueden contribuir a reducir las diferencias en el esfuerzo de niños de distintas clases sociales», sostiene Radl, que cree en los beneficios de la <strong>gamificación</strong>: «Los incentivos, aunque sean simbólicos, proporcionan motivación, sobre todo a esos chicos que tienen problemas para concentrarse o que han desarrollado una actitud negativa hacia la escuela». Plantea utilizar esta idea en la lucha contra el abandono escolar, dando incentivos simbólicos básicos a los alumnos <strong>rezagados</strong> durante las clases de refuerzo.",
+      "zh": "『奖励、游戏化学习和社会认可可以有助于减少不同社会阶层儿童在努力程度上的差异』，拉德尔坚持道，他相信游戏化的益处：『激励措施，即便是象征性的，也能提供动力，尤其是对那些难以集中注意力或已对学校产生负面态度的孩子』。他提出将这一理念用于对抗辍学，在补课期间为落后学生提供基本的象征性激励。",
+      "vocab": [
+        {
+          "word": "lúdico",
+          "translation": "游戏性的，娱乐性的，寓教于乐的",
+          "note": "lúdico/a 源自拉丁语 ludus（游戏、竞技），意为『与游戏或娱乐相关的』；aprendizaje lúdico（游戏化学习）是教育报道的高频词；同根词：ludoteca（玩具图书馆）；注意与 gamificación 的区别：lúdico 强调游戏的性质，gamificación 强调将游戏机制应用于非游戏场景的方法论。"
+        },
+        {
+          "word": "rezagados",
+          "translation": "落后的，掉队的，滞后的",
+          "note": "rezagado/a 由 rezagar（使落后、拖延）派生，源自 zaga（后部、后方），意为『在进度或发展上落后于他人』；alumnos rezagados（学习落后的学生）是教育政策报道的高频表达；同根词：a la zaga（落后地）、rezago（落后、滞后）；比 atrasado（落后的）更强调相对于群体的位置差距。"
+        }
+      ]
+    }
+  ]
+}

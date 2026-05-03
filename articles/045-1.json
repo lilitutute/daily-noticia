@@ -1,0 +1,163 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与人工智能",
+  "difficulty": "B2",
+  "wordCount": "约850词",
+  "title": "Por qué a la IA le gustan tanto los duendecillos y Japón",
+  "subtitle": "为什么AI如此热衷于小妖精和日本",
+  "resumenEs": "El artículo explora dos curiosos sesgos detectados en los modelos de IA: la obsesión de ChatGPT con los duendes y goblins, resultado accidental del entrenamiento de su personalidad friki; y la tendencia de los chatbots a mencionar Japón de forma desproporcionada en cualquier idioma. A través de estos ejemplos, los investigadores advierten de que todos los modelos están sesgados y que el riesgo real es creer que son objetivos.",
+  "resumenZh": "文章探讨了在AI模型中发现的两个奇特偏差：ChatGPT对小妖精和地精的执念——这是其『极客』人格训练的意外产物；以及聊天机器人在任何语言中都不成比例地频繁提及日本的倾向。研究人员通过这些案例警告：所有模型都存在偏差，而真正的风险在于相信它们是客观的。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "『Pero aquí está el molesto duendecillo de las cavernas』 o 『una dinámica de lo más brutal, digna de un duende』 son dos respuestas que ChatGPT dio a un usuario de Reddit en febrero. 『Desde las versiones 5.3 y 5.4, ha empezado a comparar cualquier cosa negativa con un duende』, añadía. A más gente le pasaba algo así: 『Después de la actualización 5.4, ChatGPT usa duende en casi todas las conversaciones. A veces es <strong>gremlin</strong>. En un chat reciente mío apareció duende tres veces en cuatro mensajes』, decía otro usuario del célebre foro tecnológico Hacker News. Tanto duendecillo ha obligado a OpenAI a mirarlo y publicar un artículo en su blog: 『De dónde salen los duendecillos』.",
+      "zh": "『但这里有一个烦人的洞穴小妖精』或『这是一种极为残酷的动态，堪称妖精级别』——这是ChatGPT在二月份给一位Reddit用户的两条回复。『从5.3和5.4版本开始，它开始把任何负面的事情都比作妖精』，该用户补充道。不少人都遇到了类似情况：『5.4更新后，ChatGPT在几乎每次对话中都会用到duende（妖精）。有时是gremlin（小鬼）。在我最近的一次聊天中，四条消息里出现了三次妖精』，著名技术论坛Hacker News上的另一位用户说道。如此频繁的小妖精出没，迫使OpenAI正视这一问题，并在其博客上发表了一篇文章：『小妖精从哪里来』。",
+      "vocab": [
+        {
+          "word": "gremlin",
+          "translation": "小鬼，捣蛋精灵（传说中破坏机械的小妖怪）",
+          "note": "gremlin 是英语借词，源自二战时期英国飞行员的俚语，指传说中专门破坏飞机和机械设备的小妖怪；在现代语境中泛指导致技术故障的神秘力量或捣蛋精灵；与 duende（西班牙语妖精）同属奇幻生物词族，两者在本文中交替出现，构成AI怪异行为的核心意象。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "La respuesta breve es: fue un accidente. Hasta hace poco, una de las personalidades que podía tomar ChatGPT para sus respuestas era <strong>friki</strong> (nerdy en el original inglés). En el entrenamiento de esa personalidad, animaron al modelo a que usara metáforas de criaturas fantásticas: 『Sin querer, dimos recompensas altas a las metáforas con criaturas. A partir de ahí, los duendes se <strong>propagaron</strong>』, dice el artículo de OpenAI.",
+      "zh": "简短的答案是：这是一次意外。直到不久前，ChatGPT在回复中可以采用的人格之一是『极客』风格（英文原版为nerdy）。在训练这种人格时，他们鼓励模型使用奇幻生物的比喻：『我们无意中给予了生物比喻很高的奖励分数。从那以后，妖精就扩散开来了』，OpenAI的文章如是说。",
+      "vocab": [
+        {
+          "word": "friki",
+          "translation": "极客，书呆子，对某事物痴迷的人",
+          "note": "friki 是英语 freak 的西班牙语音译借词，在现代西语中指对科技、游戏、漫画等亚文化高度痴迷的人，语气已从最初的贬义转为中性甚至带有自豪感；与 nerdy（书呆子气的）近义，但 friki 在西班牙语语境中更强调对特定领域的深度热情，是Z世代常用的身份认同词汇。"
+        },
+        {
+          "word": "propagaron",
+          "translation": "扩散，蔓延，传播",
+          "note": "propagarse 由 propagar（传播）的反身形式构成，源自拉丁语 propagare（繁殖、延伸），意为『从一个起点向外自发扩散』；在生物、信息和文化语境中均可使用，如 el virus se propagó（病毒扩散）、las ideas se propagaron（思想传播）；本文中描述妖精比喻在模型中的自发蔓延，带有一种失控扩散的隐喻色彩。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Estas reacciones raras o inesperadas de los modelos de IA son más comunes de lo que parece. Un grupo de investigadores españoles acaba de publicar un artículo científico con otro <strong>hallazgo</strong> sorprendente: a los chatbots de IA les <strong>chifla</strong> hablar de Japón. 『Fue una sorpresa ver cómo Japón comenzaba a sobresalir en las respuestas de los modelos』, dice Carla Pérez Almendros, profesora de la Universidad de Cardiff y coautora del trabajo. Ya se sabe que los modelos están sesgados hacia los valores occidentales, pero esta pasión japonesa iba más allá: 『En inglés, Japón es el país más nombrado, porque quitamos EE UU o Reino Unido, pero más interesante aún era ver que lo mismo pasaba en castellano o en chino, porque ahí es donde habríamos esperado que EE UU, por ejemplo, fuera el preferido. Pero no, ahí estaba Japón』, explica Pérez Almendros.",
+      "zh": "AI模型这类奇怪或出乎意料的反应比看起来更为普遍。一组西班牙研究人员刚刚发表了一篇科学论文，揭示了另一个令人惊讶的发现：AI聊天机器人对谈论日本简直着迷。『看到日本开始在模型的回复中脱颖而出，这是一个惊喜』，卡迪夫大学教授、该研究的共同作者卡拉·佩雷斯·阿尔门德罗斯说道。众所周知，模型存在偏向西方价值观的倾向，但这种对日本的热情超出了这一范畴：『在英语中，日本是被提及最多的国家——因为我们排除了美国和英国——但更有趣的是，同样的情况也出现在西班牙语和中文中，因为在那里我们本来预期美国会是首选。但不，日本就在那里』，佩雷斯·阿尔门德罗斯解释道。",
+      "vocab": [
+        {
+          "word": "hallazgo",
+          "translation": "发现，发现物，研究成果",
+          "note": "hallazgo 由 hallar（发现）派生，指经过探索或研究而得到的发现；在学术语境中，hallazgo sorprendente（令人惊讶的发现）是论文和科普报道的标准表达，对应英语 finding；注意与 descubrimiento（发现，更强调首次揭示）的细微区别：hallazgo 更侧重具体的研究结果。"
+        },
+        {
+          "word": "chifla",
+          "translation": "（口语）痴迷，着迷，超级喜欢",
+          "note": "chiflar 是西班牙口语动词，意为『对某事物极度喜爱、着迷』；le chifla + 不定式/名词（某人对……痴迷）是固定句式，如 le chifla el fútbol（他超爱足球）；语气比 le gusta mucho（非常喜欢）更口语化、更夸张，是理解西语媒体轻松文风的重要词汇。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Los empleados de OpenAI lo tuvieron más fácil para ver cómo habían crecido los duendecillos y gremlins en las respuestas de ChatGPT: observaron un crecimiento de 175% y un 52%, respectivamente, desde el lanzamiento de ChatGPT 5.1: 『Si el comportamiento fuera simplemente una tendencia amplia de internet, debería extenderse de manera más <strong>uniforme</strong>』, escribían en OpenAI. En cambio, las menciones a criaturas fantásticas estaban <strong>concentradas</strong> en la personalidad friki. Esa personalidad era solo el 2,5% de todas las respuestas que daba ChatGPT a sus usuarios, pero ahí estaban el 66,7% de las menciones de duende. Los duendecillos estaban, por tanto, enormemente <strong>sobrerrepresentados</strong> cuando se activaba la personalidad friki.",
+      "zh": "OpenAI的员工更容易看清妖精和小鬼在ChatGPT回复中是如何增长的：自ChatGPT 5.1发布以来，他们分别观察到175%和52%的增长。『如果这种行为只是互联网的一种普遍趋势，它应该会更均匀地扩散』，OpenAI的文章写道。然而，对奇幻生物的提及却集中在极客人格中。该人格仅占ChatGPT给用户所有回复的2.5%，但其中却集中了66.7%的妖精提及。因此，当极客人格被激活时，小妖精的出现率被严重高估了。",
+      "vocab": [
+        {
+          "word": "uniforme",
+          "translation": "均匀的，一致的，统一的",
+          "note": "uniforme 由 uni-（单一）+ forme（形式，源自拉丁语 forma）构成，意为『在各部分或各情况下保持一致、没有明显差异』；extenderse de manera uniforme（均匀扩散）在统计和数据分析中指某一现象在各类别中平均分布，与本文中妖精集中于特定人格的现象形成对比；作名词时意为『制服』。"
+        },
+        {
+          "word": "sobrerrepresentados",
+          "translation": "被过度代表的，占比失调地偏高的",
+          "note": "sobrerrepresentado/a 由 sobre-（超过）+ representado（被代表的）构成，指某一群体或现象在样本或结果中出现的比例远超其实际应有的比例；与 infrarrepresentado（代表性不足的）相对，是统计学、社会学和媒体研究中描述样本偏差的核心术语。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Para evitar que su modelo específico de programación Codex, lógicamente más friki, se llenara de gremlins, los programadores tuvieron que pedir al modelo que los suprima. Para los amantes de criaturas fantásticas, OpenAI publica cinco líneas de código que suprime las instrucciones antiduendes.",
+      "zh": "为了避免其专门面向编程的Codex模型——逻辑上极客属性更强——充斥小鬼，程序员们不得不要求模型压制它们。对于奇幻生物爱好者，OpenAI公布了五行代码，可以解除反妖精指令。",
+      "vocab": [
+        {
+          "word": "suprima",
+          "translation": "压制，抑制，消除",
+          "note": "suprimir 源自拉丁语 supprimere（向下压），意为『阻止某事物出现或传播、将其消除』；在内容审核和模型训练语境中，suprimir un comportamiento（压制某种行为）指通过技术手段阻止模型产生特定输出；同根词有 supresión（压制、删除）、supresor（抑制器）。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "¿Y lo de Japón? 『Nuestra hipótesis sin confirmar es que todos los modelos tienen un entrenamiento de seguridad, y hay un sesgo de países occidentales como EE UU, que intentan mitigar』, dice José Camacho Collados, también profesor en la Universidad de Cardiff y coautor. 『A la vez, hay países problemáticos, quizá Rusia, Israel, Oriente Medio y bastantes más, así que Japón está en una buena posición, porque es una cultura que a la gente le gusta, se menciona mucho, y además es neutral, así que es una combinación perfecta para que los modelos den como ejemplo. De hecho, después de Japón, está India, que puede ser parecido』, añade.",
+      "zh": "那么日本的问题呢？『我们未经证实的假设是，所有模型都有一套安全训练，其中存在对美国等西方国家的偏向，他们试图加以缓解』，同为卡迪夫大学教授和共同作者的何塞·卡马乔·科拉多斯说道。『与此同时，存在一些『敏感』国家，也许是俄罗斯、以色列、中东地区以及更多，所以日本处于一个有利位置：它是一种人们喜爱的文化，被频繁提及，而且是『中立的』，因此对于模型来说，这是作为举例的完美组合。事实上，日本之后是印度，情况可能类似』，他补充道。",
+      "vocab": [
+        {
+          "word": "sesgo",
+          "translation": "偏差，偏见，偏向",
+          "note": "sesgo 本义为『斜切、斜线』，引申为『对某一方向或群体的系统性倾斜』；在统计学和AI语境中，sesgo（bias）指模型或数据集对特定群体、文化或观点的不成比例的偏向；sesgado（有偏见的）、sesgo de confirmación（确认偏误）是相关高频词，是理解AI伦理讨论的核心词汇。"
+        },
+        {
+          "word": "mitigar",
+          "translation": "缓解，减轻，降低",
+          "note": "mitigar 源自拉丁语 mitigare（使温和），意为『减轻某种负面影响的程度』；在AI安全和政策语境中，mitigar sesgos（缓解偏差）、mitigar riesgos（降低风险）是标准表达；比 eliminar（消除）更现实，承认问题难以完全根除，只能加以控制。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Esta inflación de duendes y de Japón es un ejemplo más de los <strong>sesgos</strong> de estos modelos y de por qué siempre hay que preguntar con cuidado y tratar sus respuestas con <strong>escepticismo</strong>: 『Todos están sesgados』, dice Pérez Almendros. 『A veces a propósito, con el objetivo de que las respuestas no sean ofensivas o sean más representativas, y otras veces son los datos de entrenamiento los que están sesgados. El riesgo es que creamos que son objetivos, que representan la realidad, porque no es así』, añade.",
+      "zh": "妖精和日本的这种通货膨胀式泛滥，是这些模型偏差的又一例证，也说明了为何始终需要谨慎提问，并以怀疑的态度对待其回答：『所有模型都存在偏差』，佩雷斯·阿尔门德罗斯说。『有时是有意为之，目的是让回答不具冒犯性或更具代表性；其他时候则是训练数据本身存在偏差。风险在于我们相信它们是客观的，认为它们代表现实，但事实并非如此』，她补充道。",
+      "vocab": [
+        {
+          "word": "escepticismo",
+          "translation": "怀疑主义，质疑态度，审慎的不信任",
+          "note": "escepticismo 源自希腊语 skeptikos（善于思考、质疑的），指对某一主张或信息保持批判性质疑而非轻易接受的态度；在科学和媒体素养语境中，tratar con escepticismo（以怀疑态度对待）是批判性思维的核心表达；escéptico/a（怀疑论者）是其形容词/名词形式。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "En OpenAI, tienen una respuesta similar, aunque más <strong>dulcificada</strong>: los duendes son 『un ejemplo poderoso de cómo las señales de recompensa pueden moldear el comportamiento del modelo de maneras inesperadas, y de cómo los modelos pueden aprender a generalizar recompensas de ciertas situaciones a otras no relacionadas』, dicen.",
+      "zh": "OpenAI给出了类似的回应，尽管措辞更为温和：妖精是『一个有力的例子，说明奖励信号如何以意想不到的方式塑造模型行为，以及模型如何学会将某些情境中的奖励泛化到其他不相关的情境中』，他们表示。",
+      "vocab": [
+        {
+          "word": "dulcificada",
+          "translation": "被软化的，被美化的，措辞温和的",
+          "note": "dulcificado/a 由 dulcificar（使甜化、使温和）派生，源自 dulce（甜的），意为『将原本尖锐或负面的内容以更温和、更易接受的方式表达』；在媒体批评语境中，una respuesta dulcificada（措辞温和的回应）暗示官方表态回避了问题的严重性，带有轻微的批评色彩。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Estas influencias al menos podemos entenderlas. Pero hay otras que no. Anthropic, creadores de Claude, publicaron hace unos meses el extraño lenguaje que pueden compartir dos modelos de la misma familia para intercambiar información. Descubrieron que si a un chatbot le dices que los búhos son su animal favorito y luego le pides que escriba listas de números al azar (como 285, 574, 384), otro modelo aprende de esos números que también le <strong>flipan</strong> los búhos. ¿Cómo puede ser? Los investigadores creen que esconden, sin querer, pequeñas pistas secretas. Es un modo mucho más peligroso de <strong>contaminar</strong> sesgos.",
+      "zh": "这些影响至少我们还能理解。但还有一些我们无法理解的。Claude的创造者Anthropic几个月前发表了关于同一家族两个模型之间可以共享的奇特语言的研究。他们发现，如果你告诉一个聊天机器人猫头鹰是它最喜欢的动物，然后让它写出随机数字列表（如285、574、384），另一个模型会从这些数字中学到它也对猫头鹰着迷。这怎么可能？研究人员认为这些数字无意中隐藏了微小的秘密线索。这是一种危险得多的偏差污染方式。",
+      "vocab": [
+        {
+          "word": "flipan",
+          "translation": "（口语）令人着迷，超级喜欢，为之疯狂",
+          "note": "flipar 是西班牙青年口语动词，意为『对某事物极度兴奋或着迷』；le flipan los búhos（他对猫头鹰着迷）与前文 le chifla 用法相似，均表达强烈的喜爱，但 flipar 语气更强烈、更年轻化，常见于Z世代和网络语境；也可表示『震惊、难以置信』，如 me flipa que haga eso（他那样做让我震惊）。"
+        },
+        {
+          "word": "contaminar",
+          "translation": "污染，感染，使受到影响",
+          "note": "contaminar 本义为『使受到有害物质的污染』，在信息和AI语境中引申为『将错误、偏差或不良倾向引入原本干净的系统或数据中』；contaminar sesgos（污染偏差）是本文创造性使用的表达，将偏差的传播比作病毒式污染，生动描述了模型间偏差传递的危险性。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Nadie sabe con certeza qué pasa en el fondo en estos casos. 『A mí me interesa cómo los modelos se contaminan unos a otros』, dice Joseba Fernández de Landa, investigador postdoctoral en el Centro HiTZ de la EHU (Universidad del País Vasco) y coautor del artículo de Japón. 『El hecho de que distintos modelos respondan con sesgos parecidos podría indicar algún tipo de contaminación y que tienden a <strong>homogeneizarse</strong> entre sí. Pero esto ocurre en gran medida por interferencia humana: somos nosotros quienes, por ahora, elegimos las estrategias y los datos de entrenamiento. Y al usar los modelos, podemos <strong>auditar</strong> sus fallos y avisar a los desarrolladores, como con los duendes. A partir de ahí, los desarrolladores pueden decidir si corregirlos o no, del mismo modo que nosotros podemos elegir usarlos o no』, explica.",
+      "zh": "没有人确切知道这些情况背后究竟发生了什么。『我感兴趣的是模型之间如何相互污染』，巴斯克大学（EHU）HiTZ中心博士后研究员、日本研究论文的共同作者霍塞巴·费尔南德斯·德·兰达说道。『不同模型以相似偏差作出回应这一事实，可能表明存在某种污染，它们倾向于相互同质化。但这在很大程度上是由于人为干预：目前是我们选择训练策略和数据。在使用模型时，我们可以审计其缺陷并通知开发者，就像妖精事件一样。从那时起，开发者可以决定是否纠正，就像我们可以选择是否使用它们一样』，他解释道。",
+      "vocab": [
+        {
+          "word": "homogeneizarse",
+          "translation": "同质化，趋于一致，变得相似",
+          "note": "homogeneizarse 由 homogéneo（同质的，源自希腊语 homos 同 + genos 种类）派生，意为『不同个体或系统逐渐失去差异性、趋向统一』；在AI和文化研究中，homogeneización（同质化）是一个警示性概念，指多样性的消失；与 diversificar（多样化）相对。"
+        },
+        {
+          "word": "auditar",
+          "translation": "审计，审查，核查",
+          "note": "auditar 源自英语 audit，意为『对某一系统、账目或流程进行系统性检查和评估』；在AI伦理领域，auditar modelos（审计模型）指对AI系统的行为、偏差和决策过程进行独立核查，是AI问责制的核心机制；auditoria（审计）是其名词形式。"
+        }
+      ]
+    }
+  ]
+}

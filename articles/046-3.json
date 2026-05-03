@@ -1,0 +1,473 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "历史与政治",
+  "difficulty": "C1",
+  "wordCount": "约2000词",
+  "title": "Siete palabras que explican aquella Latinoamérica de ruido y furia",
+  "subtitle": "七个词，读懂那个喧嚣与愤怒的拉丁美洲",
+  "resumenEs": "El autor recorre siete momentos clave de la historia latinoamericana entre 1976 y 1990 a través de siete palabras que los definen: desaparecido, narco, revolución, petróleo, democracia, invasión y privatizar. Cada término condensa una herida, una transformación o una traición que marcó a generaciones enteras. El texto combina crónica histórica con reflexión lingüística: las palabras no solo nombran hechos, sino que revelan cómo una región entera fue moldeada —y a veces destruida— por sus propias contradicciones.",
+  "resumenZh": "作者以七个关键词为线索，回溯1976年至1990年间拉丁美洲七个历史转折时刻：失踪者、毒枭、革命、石油、民主、入侵与私有化。每个词都浓缩了一道伤口、一次变革或一场背叛，深刻影响了整整几代人。文章将历史纪实与语言反思融为一体：这些词不仅命名了事件，更揭示了整个地区如何被自身的矛盾所塑造——乃至摧毁。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "1976, Argentina: Desaparecido",
+      "zh": "1976年，阿根廷：失踪者",
+      "vocab": []
+    },
+    {
+      "id": 2,
+      "es": "Al principio parecía lo mismo de siempre: la Argentina llevaba décadas repitiendo esos golpes de Estado militares, tanques en la calle, marchas en la radio. Ya sabíamos: había que comprar fideos, encerrarse en casa y escuchar una radio uruguaya. Esta vez podría ser un poco más difícil: parte de la izquierda estaba armada, los sindicatos obreros resistían y los comandos clandestinos del Gobierno democrático ya habían matado a más de 1.000 militantes en 1975.",
+      "zh": "起初看起来和往常一样：阿根廷几十年来一直在重复那些军事政变——坦克上街，收音机里播放进行曲。我们都知道该怎么做：买些面条，待在家里，收听乌拉圭的广播。这一次可能会难一些：左翼的一部分已经武装起来，工人工会在抵抗，而民主政府的秘密突击队在1975年已经杀害了1000多名活动人士。",
+      "vocab": [
+        {
+          "word": "golpes de Estado",
+          "translation": "军事政变",
+          "note": "golpe de Estado 是固定政治术语，字面义为『对国家的一击』，指以武力非法夺取政权；golpe 单独使用时泛指『打击、一击』；同类政治词汇：golpista（政变者、支持政变的）、contragolpe（反政变）；这一词组在拉美政治史报道中极为高频，是理解20世纪拉美历史的核心词汇。"
+        },
+        {
+          "word": "sindicatos obreros",
+          "translation": "工人工会",
+          "note": "sindicato 指『工会、行业联合组织』，源自希腊语 syndikos（代理人）；obrero/a 指『工人、劳工』，源自 obra（工作）；两词组合特指代表工人阶级利益的劳工组织；同根词：sindicalismo（工联主义）、sindicalista（工会成员）、obra（作品、工程）、obrar（行动）。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Ese 24 de marzo aquellos militares, siguiendo a un general Videla, prometieron restaurar el orden. Prohibieron encuentros, libros, películas, periódicos. Las grandes ciudades parecían heladas, camiones y patrullas sin cesar, disparos en la noche, y pronto empezaron a aparecer cadáveres y, sobre todo, ausencias. Padres y madres no conseguían saber dónde estaban sus hijos: por más que preguntaban, denunciaban, desesperaban, nadie les decía nada. Algunas madres empezaron a reunirse para pedir por ellos. Poco a poco, por infidencias raras, empezaron a saber que muchos habían sido secuestrados, torturados, quizás asesinados.",
+      "zh": "那个3月24日，那些军人在比德拉将军的率领下，承诺恢复秩序。他们禁止集会、书籍、电影、报纸。大城市仿佛被冻结了，卡车和巡逻队川流不息，夜里枪声不断，很快开始出现尸体，尤其是——缺席。父母们无法得知孩子在哪里：无论怎么询问、举报、绝望地寻找，没有人告诉他们任何事情。一些母亲开始聚集在一起为孩子请愿。渐渐地，通过一些奇怪的泄露，她们开始得知许多人已被绑架、折磨，也许已经遇害。",
+      "vocab": [
+        {
+          "word": "infidencias",
+          "translation": "泄露的秘密，不忠实的透露，背信的消息",
+          "note": "infidencia 由 in-（否定）+ fidelidad（忠诚）派生，指『违背保密义务而泄露的信息』；在拉美语境中常用于指秘密渠道流出的消息；同根词：infiel（不忠的）、fidelidad（忠诚）、infidelidad（不忠）；注意与 confidencia（秘密倾诉）的区别：infidencia 强调背叛性质，confidencia 强调信任性质。"
+        },
+        {
+          "word": "secuestrados",
+          "translation": "被绑架的，被劫持的",
+          "note": "secuestrar 意为『绑架、劫持』，名词 secuestro（绑架）在拉美政治和社会新闻中极为常见；同根词：secuestrador（绑架者）；注意在法律语境中 secuestro 还可指『财产扣押』；这一词在阿根廷军政府语境下具有特殊的政治含义，指国家机器对公民的非法拘押。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "En 1979 los pedidos, las preguntas internacionales, los rumores habían crecido tanto que el general Videla tuvo que contestar la pregunta de un periodista verdadero, José Ignacio López: \"Si el hombre apareciera tendría un tratamiento equis y si la aparición se convirtiera en certeza de su fallecimiento tiene un tratamiento zeta. Pero mientras sea desaparecido no puede tener ningún tratamiento especial, es una incógnita, es un desaparecido, no tiene entidad, no está… ni muerto ni vivo, está desaparecido\".",
+      "zh": "到1979年，各方请愿、国际追问和种种传言已经增长到如此程度，以至于比德拉将军不得不回答一位真正的记者——何塞·伊格纳西奥·洛佩斯——的提问：『如果这个人出现了，他将得到某种处理；如果出现转化为对其死亡的确认，则有另一种处理。但只要他还是失踪者，就不能得到任何特殊处理，他是一个未知数，他是一个失踪者，他没有实体，他不在……既非死亦非生，他失踪了。』",
+      "vocab": [
+        {
+          "word": "tratamiento equis / zeta",
+          "translation": "某种处理方式（用字母代替具体内容）",
+          "note": "equis 是字母 X 的西班牙语名称，zeta 是字母 Z 的名称；在此语境中比德拉故意用字母代替具体内容，以官僚语言掩盖暴行；这种用法揭示了极权话语的典型特征：用抽象符号消解具体的人的存在；equis 在口语中也常用于泛指『某个不确定的事物』，如 una persona equis（某个人）。"
+        },
+        {
+          "word": "incógnita",
+          "translation": "未知数，谜，不确定因素",
+          "note": "incógnita 源自拉丁语 incognitus（未知的），在数学中指『未知数』（方程中的 x），在普通语境中指『谜团、不确定因素』；比德拉用这一数学术语描述活生生的人，是极权语言将人非人化的典型体现；同根词：incógnito（隐姓埋名的）、cognición（认知）、reconocer（认出）。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Acababa de surgir esa palabra, desaparecido, el gran aporte léxico argentino que muchos idiomas retomaron. El terrorismo de Estado impidió que se supiera exactamente cuántos fueron. En general decimos 30.000 para decir que fueron muchos, que dolieron tanto.",
+      "zh": "就这样，『失踪者』这个词诞生了——阿根廷对词汇的重大贡献，被许多语言所借用。国家恐怖主义阻止了人们确切地知道究竟有多少人。我们通常说三万，是为了说他们很多，他们的痛苦如此之深。",
+      "vocab": [
+        {
+          "word": "aporte léxico",
+          "translation": "词汇贡献，对语言的词汇贡献",
+          "note": "aporte 由 aportar（贡献、提供）派生，意为『贡献、供给』；léxico/a 源自希腊语 lexikon（词汇的），指与词汇相关的；aporte léxico 指某一语言或文化为人类词汇库所贡献的新词；同根词：léxico（词汇表）、lexicografía（词典编纂学）、aportar（贡献）、aportación（贡献，近义词）。"
+        },
+        {
+          "word": "terrorismo de Estado",
+          "translation": "国家恐怖主义",
+          "note": "terrorismo de Estado 是政治学核心概念，指国家机器本身对本国公民系统性地使用恐怖手段；与普通 terrorismo（恐怖主义）的区别在于施暴主体是国家而非非国家行为者；这一概念在阿根廷1976-1983年军政府语境下具有特定的历史和法律含义，是理解拉美人权史的关键术语。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "1977, Colombia: Narco",
+      "zh": "1977年，哥伦比亚：毒枭",
+      "vocab": []
+    },
+    {
+      "id": 7,
+      "es": "Nadie sabrá cuál fue precisamente el día; sobre el lugar abundan las versiones. Pero parece cierto que una tarde de mediados de 1977, en algún punto de la Antioquia colombiana, media docena de pesados se reunieron. Cada uno llevaba tres o cuatro escoltas, sus armas, sus miradas. Hubo abrazos, los chistes, aguardiente, y es probable que el primero en hablar haya sido ese muchacho un poco gordo, sus 28 años, que destacaba en el negocio.",
+      "zh": "没有人能确切知道是哪一天；关于地点，说法众多。但似乎可以确定的是，1977年中某个下午，在哥伦比亚安蒂奥基亚的某处，半打大人物聚在了一起。每个人都带着三四名保镖、武器和审视的目光。有拥抱，有玩笑，有甘蔗酒，而第一个开口的很可能是那个略显肥胖、28岁、在这行里出类拔萃的年轻人。",
+      "vocab": [
+        {
+          "word": "pesados",
+          "translation": "（口语）大人物，大佬，举足轻重的人",
+          "note": "pesado/a 字面义为『沉重的』，在拉美口语中引申为『大人物、有分量的人、大佬』；这是典型的语义转移：物理上的『重』隐喻社会地位上的『分量』；pesado 还有『令人厌烦的、烦人的』含义（es muy pesado = 他很烦人），是一词多义的典型；同根词：peso（重量、货币单位）、pesar（重量、悲伤）。"
+        },
+        {
+          "word": "aguardiente",
+          "translation": "甘蔗酒，烈酒（拉美常见蒸馏酒）",
+          "note": "aguardiente 由 agua（水）+ ardiente（燃烧的）构成，字面义为『燃烧的水』，指高度蒸馏烈酒；在哥伦比亚特指以甘蔗为原料的茴香味烈酒，是当地文化符号；ardiente 源自 arder（燃烧），同根词：ardor（热情、灼热感）、incendio（火灾）。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Pablo Escobar les dijo lo que ya sabían: que esto de la coca nomás empezaba, que los gringos eran un barril sin fondo, que había para que todos se hicieran millonarios y que sería una pendejada que perdieran tiempo y plata peleándose entre ellos: que si se aliaban les iría bacano.",
+      "zh": "巴勃罗·埃斯科瓦尔告诉他们他们已经知道的事：可卡因这门生意才刚刚开始，美国佬是个无底洞，足够让所有人都成为百万富翁，如果他们互相争斗浪费时间和金钱那才是蠢事——如果联合起来，日子会过得很爽。",
+      "vocab": [
+        {
+          "word": "nomás",
+          "translation": "（拉美口语）才，就，只是，不过",
+          "note": "nomás 是 no más 的口语连写形式，在拉美西语中极为常见，用法灵活：① 表示『才刚刚』（nomás empezaba = 才刚开始）；② 表示『就』（pasa nomás = 进来就好了）；③ 表示『只是』（es nomás una idea = 只是个想法）；是区分拉美西语与伊比利亚西语的重要口语特征。"
+        },
+        {
+          "word": "bacano",
+          "translation": "（哥伦比亚口语）很棒，很爽，很好",
+          "note": "bacano 是哥伦比亚俚语，表示『极好的、令人满意的』；类似表达在不同拉美国家各有其词：墨西哥用 chido/chingón，阿根廷用 copado，委内瑞拉用 chévere，西班牙用 guay/mola；了解这些地域性俚语是理解拉美口语文化多样性的重要维度。"
+        },
+        {
+          "word": "pendejada",
+          "translation": "（拉美口语）蠢事，愚蠢的行为",
+          "note": "pendejada 由 pendejo（蠢货、懦夫）派生，指『愚蠢的行为或决定』；-ada 后缀表示『某种行为或其结果』：tontería（蠢事，来自 tonto）、barbaridad（蛮横之举，来自 bárbaro）；这类后缀构词在西语口语中极为丰富。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Los hermanos Ochoa, Carlos Lehder y Rodríguez Gacha discutieron condiciones, aceptaron: cada uno seguiría comerciando por su cuenta pero compartirían rutas, transportes, información, sus influencias. Al principio fue sólo cocaína, pero era duro y los jefes tuvieron que contratar mucho soldado. No les gustaba verlos vagos, así que los mandaron a secuestrar, extorsionar, matar por precios razonables.",
+      "zh": "奥乔亚兄弟、卡洛斯·莱德尔和罗德里格斯·加查讨论了条件，接受了：每人继续各自经营，但共享路线、运输、信息和各自的影响力。起初只有可卡因，但这行很艰难，头目们不得不雇用大量打手。他们不喜欢看到这些人闲着，于是派他们去绑架、勒索、以合理的价格杀人。",
+      "vocab": [
+        {
+          "word": "extorsionar",
+          "translation": "勒索，敲诈",
+          "note": "extorsionar 由 extorsión（勒索）派生，源自拉丁语 extorquere（强行扭出），意为『以威胁手段强迫他人交出钱财或利益』；同根词：extorsión（勒索罪）、extorsionador（勒索者）；注意与 chantaje（敲诈勒索，尤指以揭露秘密相威胁）的细微区别：extorsión 更强调暴力威胁，chantaje 更强调信息威胁。"
+        },
+        {
+          "word": "vagos",
+          "translation": "游手好闲的，懒散的；闲人",
+          "note": "vago/a 作形容词意为『懒散的、无所事事的』，作名词指『游手好闲的人』；源自拉丁语 vagus（漂泊的）；同根词：vagar（漫游、游荡）、vagabundo（流浪汉）、vaguedad（模糊性）；注意 vago 还有『模糊的、不明确的』含义（una idea vaga = 一个模糊的想法），是一词多义词。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Nada personal: les gustaba mucho ganar plata. Se compraban hipopótamos y rinocerontes, rubias y morenas, fincas y escondites, sus aviones. En los 15 años siguientes los conjurados cambiarían su país, lo volverían más moderno, más violento, más corrupto, más acaudalado —y, por supuesto, se traicionarían y matarían los unos a los otros.",
+      "zh": "没有私人恩怨：他们只是非常喜欢赚钱。他们购置河马和犀牛、金发和黑发女郎、农庄和藏身处，还有他们的飞机。在随后的15年里，这些同谋者改变了他们的国家，让它变得更现代、更暴力、更腐败、更富有——当然，他们也相互背叛、相互残杀。",
+      "vocab": [
+        {
+          "word": "conjurados",
+          "translation": "同谋者，共谋者，密谋集团成员",
+          "note": "conjurado 由 conjurar（密谋、共谋）派生，源自拉丁语 conjurare（共同发誓），指『参与秘密阴谋的人』；conjurar 还有『驱魔、消除（危险）』的含义（conjurar una crisis = 化解危机），是一词多义词；同根词：conjura/conjuración（阴谋）、jurar（发誓）、juramento（誓言）。"
+        },
+        {
+          "word": "acaudalado",
+          "translation": "富有的，财力雄厚的",
+          "note": "acaudalado 由 acaudalar（积累财富）派生，源自 caudal（财富、水流量）；caudal 本义为『河流的流量』，引申为『财富积累』，是理解西语隐喻思维的有趣案例；同根词：caudal（财富；流量）、caudaloso（水量丰富的）；比 rico（富有的）更正式，常见于书面语。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Aquel grupo no se puso un nombre: no se les ocurrió. Tuvieron que esperar hasta 1982 para que sus enemigos de la DEA empezaran a llamarlos cartel —de Medellín, de Cali—: un racimo de empresas con intereses compartidos. Aquellos señores aportaron miles de muertes y un concepto al mundo: hasta entonces, la palabra narco no existía. Desde entonces nos cambió tanto que pasó a ser, tristeza pura, una que nos define.",
+      "zh": "那个团伙没有给自己起名字：他们没想到这一点。他们不得不等到1982年，才由他们的敌人——美国缉毒局——开始称他们为卡特尔——麦德林卡特尔、卡利卡特尔：一个拥有共同利益的企业集群。那些先生们向世界贡献了数千条生命和一个概念：在此之前，『毒枭』这个词并不存在。从那以后，它改变了我们太多，以至于——纯粹的悲哀——它成了定义我们的词之一。",
+      "vocab": [
+        {
+          "word": "racimo",
+          "translation": "一串，一簇，集群",
+          "note": "racimo 本义为『一串葡萄或果实』，引申为『一组聚集在一起的事物』；作者用 un racimo de empresas（一个企业集群）来定义卡特尔，是极具画面感的比喻；同根词：racimar（聚集成串）；类似的集合隐喻：ramo（一束花）、manojo（一把）、cúmulo（一堆、积云）。"
+        },
+        {
+          "word": "narco",
+          "translation": "毒枭，毒品犯罪分子；与毒品相关的",
+          "note": "narco 源自希腊语 narkē（麻木、麻醉），原为前缀 narco-（麻醉的），如 narcótico（麻醉品）、narcotráfico（毒品走私）；作独立名词使用是20世纪80年代后的现象，正是本文所追溯的词汇起源；narco 如今已成为全球通用词，被英语、法语、葡萄牙语等多种语言借用，是拉美对世界词汇的重要贡献之一。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "1979, Nicaragua: Revolución",
+      "zh": "1979年，尼加拉瓜：革命",
+      "vocab": []
+    },
+    {
+      "id": 13,
+      "es": "Entonces pareció un principio; ahora sabemos que fue un mal final. El 19 de julio de 1979 los jefes de una organización que llevaba 20 años de pelea —política, militar, social— tomaban Managua, echaban al último de los Somoza —tras 30 años de dictadura sanguinaria— y anunciaban el principio de un estado socialista. El \"sandinismo\" estaba encabezado por militantes duros como Daniel Ortega o Tomás Borge pero incluía a escritores y poetas como Ramírez, Belli, Cardenal, Chamorro. Su triunfo pareció la demostración de que, pese a tantas derrotas, el camino cubano y guerrillero al socialismo todavía funcionaba. En todo el mundo lo celebraron las izquierdas y muchos jóvenes viajaron, en los meses siguientes, a prestar sus manos a esa revolución.",
+      "zh": "那时看起来像是一个开始；如今我们知道那是一个糟糕的结局。1979年7月19日，一个经历了20年斗争——政治的、军事的、社会的——的组织的领导人占领了马那瓜，驱逐了最后一个索摩查——在30年血腥独裁之后——并宣布社会主义国家的开始。『桑地诺主义』由丹尼尔·奥尔特加或托马斯·博尔赫等强硬活动人士领导，但也包括拉米雷斯、贝利、卡德纳尔、查莫罗等作家和诗人。他们的胜利似乎证明，尽管经历了如此多的失败，走古巴式游击队道路通向社会主义的方式仍然有效。全世界的左翼都为此庆祝，许多年轻人在随后几个月里前往那场革命，贡献自己的双手。",
+      "vocab": [
+        {
+          "word": "sanguinaria",
+          "translation": "嗜血的，血腥的，残酷的",
+          "note": "sanguinario/a 由 sangre（血）派生，意为『嗜好流血、极度残忍的』；sangre 是构词极为丰富的词根：sangriento（血腥的）、sangrar（流血）、consanguíneo（血亲的）、desangrar（使失血）；sanguinario 比 violento（暴力的）程度更深，专指对流血杀戮有特殊偏好的残忍。"
+        },
+        {
+          "word": "encabezado por",
+          "translation": "由……领导，以……为首",
+          "note": "encabezar 由 cabeza（头）派生，意为『处于……的首位、领导』；encabezado por（由……领导）是新闻和历史文本的高频被动结构；同根词：cabeza（头部、领导人）、cabecilla（小头目，含贬义）、descabezar（斩首、去掉领导层）；cabeza 作为身体部位词在西语中有极丰富的引申义。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "Pasada la euforia inicial pasaron cosas. Peleas internas, luchas de poder, esos gestos más y más autoritarios y el ataque de una guerrilla —la \"Contra\"— pagada por Estados Unidos que dejó miles de muertos. Años después el sandinismo permitió elecciones y las perdió. En 2004 su jefe Ortega recuperó el poder y ya no lo soltó. En 2018 miles de ciudadanos se hartaron, salieron a la calle, gritaron libertades; el Gobierno de Ortega y su señora mató a cientos y encarceló y desterró a muchos más. En aquellos días de 1979 Nicaragua parecía decir que la palabra revolución todavía significaba algo; ahora, si acaso, ha ayudado a mostrar que su significado es el contrario del que siempre quisimos creer.",
+      "zh": "初期的热情过后，事情开始发生。内部争斗、权力角逐、越来越威权的姿态，以及美国资助的游击队——『反抗军』——的袭击，留下了数千名死者。多年后桑地诺主义允许举行选举，并且输掉了选举。2004年其领导人奥尔特加重新夺回权力，此后再未放手。2018年数千名公民忍无可忍，走上街头，高呼自由；奥尔特加政府和他的妻子杀害了数百人，并监禁和流放了更多人。在1979年的那些日子里，尼加拉瓜似乎在说『革命』这个词仍然意味着什么；如今，它充其量帮助证明了：这个词的含义与我们一直想要相信的恰恰相反。",
+      "vocab": [
+        {
+          "word": "se hartaron",
+          "translation": "忍无可忍，受够了，厌倦透了",
+          "note": "hartarse de 是固定搭配，意为『对某事感到极度厌倦、再也无法忍受』；harto/a 作形容词意为『受够了的、厌倦的』；estar harto de（受够了……）是口语高频表达；同根词：hartura（饱足感、厌倦）、hartar（使厌倦、使吃饱）；注意 harto 还可作副词表示程度『非常』（harto difícil = 相当困难），是一词多义词。"
+        },
+        {
+          "word": "desterró",
+          "translation": "流放，驱逐出境，放逐",
+          "note": "desterrar 由 des-（去除）+ tierra（土地、国土）构成，字面义为『将某人从其土地上驱除』，即『流放、放逐』；同根词：destierro（流放、放逐状态）、tierra（土地）、aterrar（使恐惧；使落地）、enterrar（埋葬）；掌握 tierra 词根可理解大量相关词汇。"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "es": "1981, Venezuela: Petróleo",
+      "zh": "1981年，委内瑞拉：石油",
+      "vocab": []
+    },
+    {
+      "id": 16,
+      "es": "Primero fue el mecanismo clásico sudaca: unos señores más claritos llegados desde lejos se llevaban los productos de la tierra. La tierra venezolana cubría mares de petróleo: desde principios del siglo XX lo explotaron empresas norteamericanas, trabajadores muy locales. Y así siguió hasta que, en 1976, un presidente, Carlos Andrés Pérez, lo nacionalizó y creó una empresa pública llamada PDVSA. Cuando lo decidió, un barril de petróleo costaba unos 10 dólares; cinco años después se vendía por 40.",
+      "zh": "首先是经典的南美模式：一些从远方来的肤色较浅的先生们带走了这片土地的产出。委内瑞拉的土地之下蕴藏着石油的海洋：从20世纪初起，美国公司开采它，当地工人劳作其中。就这样延续下去，直到1976年，一位总统——卡洛斯·安德烈斯·佩雷斯——将其国有化，并创建了一家名为委内瑞拉国家石油公司（PDVSA）的国有企业。当他做出这一决定时，一桶石油约值10美元；五年后售价达到40美元。",
+      "vocab": [
+        {
+          "word": "sudaca",
+          "translation": "（口语，含贬义/自嘲）南美的，南美人",
+          "note": "sudaca 是 sudamericano（南美人）的口语缩略形式，在西班牙常带有贬义（外国人对南美移民的蔑称），但在拉美内部有时被自嘲性地使用；作者在此用 mecanismo clásico sudaca 带有自嘲和批判的双重色彩；了解这类带有社会语境的词汇对理解西语文化态度至关重要。"
+        },
+        {
+          "word": "más claritos",
+          "translation": "肤色更浅的（委婉指白人殖民者）",
+          "note": "claritos 是 claro（浅色的）的指小词形式（-ito 后缀），在此指『肤色较浅的人』，是作者对欧洲殖民者和北美资本家的委婉讽刺表达；-ito/-ita 后缀在西语中极为丰富，可表示小（casita = 小房子）、亲昵（mamita）或讽刺（claritos）；语境决定其情感色彩，是理解西语语用学的重要维度。"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "es": "El dinero rodaba y rodaba. Caracas se llenó de grandes edificios de ese estilo tan peculiar, el brutalismo. Sus bares y restaurantes eran pioneros de la globalización que vendían, antes que nadie, las bebidas y comidas del planeta, y sus calles veían pasar los coches ostentosos —que solían llevar un arma en la gaveta. Los venezolanos ricos se habían hecho muy ricos; los pobres seguían pobres. Pero les quedaba todavía un quinto de las reservas de mineral del mundo, mucho camino por delante.",
+      "zh": "钱滚滚而来。加拉加斯建满了那种极具特色的风格——粗野主义——的大型建筑。那里的酒吧和餐厅是全球化的先驱，比任何地方都早地出售来自世界各地的饮料和食物，街道上豪车穿梭——车里通常在抽屉里放着一把枪。富有的委内瑞拉人变得更加富有；穷人依然贫穷。但他们还拥有世界矿产储量的五分之一，前路还很长。",
+      "vocab": [
+        {
+          "word": "brutalismo",
+          "translation": "粗野主义（建筑风格）",
+          "note": "brutalismo 源自法语 béton brut（原始混凝土），指20世纪50-70年代流行的建筑风格，以裸露混凝土、几何体量和功能主义为特征；在拉美，brutalismo 与石油繁荣时期的国家建设密切相关；brutalismo 与 brutalidad（残暴）同根，但建筑语境中无贬义，是了解拉美城市文化史的重要词汇。"
+        },
+        {
+          "word": "gaveta",
+          "translation": "抽屉；（拉美）手套箱，储物格",
+          "note": "gaveta 在西班牙语中指『抽屉』，在拉美口语中常特指汽车的『手套箱』（西班牙通常用 guantera）；这是拉美西语与伊比利亚西语词汇差异的典型案例；同类词汇差异：拉美 carro vs. 西班牙 coche（汽车）、拉美 computadora vs. 西班牙 ordenador（电脑）。"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "es": "No era fácil. En esos años Venezuela vivió todos los dramas de vivir de la exportación de siempre lo mismo. Los vaivenes del globo y sus mercados sacudían al país; las deudas tomadas en momentos de euforia lo hundían en cada depresión. La peor llegó en febrero de 1989: los pobres caraqueños no soportaron más sus vidas ajustadas y rodeadas de ese lujo —ajeno. Se levantaron, pelearon contra la Policía y el Ejército; tras dos semanas, unos 3.000 habían sido asesinados. El \"Caracazo\" fue el principio de un fin. Tres años después un coronel Chávez intentaría un golpe militar \"contra la corrupción de los políticos\". El coronel fracasó, fue encarcelado. En 1998 ganaría las elecciones con el 56% de los votos, asumiría y, por supuesto, se volvería potente gracias al petróleo.",
+      "zh": "这并不容易。那些年里，委内瑞拉经历了依赖单一商品出口的所有戏剧性困境。全球及其市场的起伏震荡着这个国家；在繁荣时期借下的债务在每次萧条中将其拖入深渊。最严重的一次发生在1989年2月：加拉加斯的穷人再也无法忍受他们那拮据的生活，以及周围那些与他们无关的奢华。他们揭竿而起，与警察和军队搏斗；两周后，约3000人被杀害。『加拉加斯暴动』是一个终结的开始。三年后，查韦斯上校尝试发动军事政变，『反对政客的腐败』。上校失败了，被投入监狱。1998年他以56%的得票率赢得选举，就任总统，当然，凭借石油变得强大无比。",
+      "vocab": [
+        {
+          "word": "vaivenes",
+          "translation": "起伏，波动，动荡不定",
+          "note": "vaivén 由 va（去，来自 ir）+ y + viene（来，来自 venir）构成，字面义为『去了又来』，形容『反复的摇摆、起伏不定』；los vaivenes del mercado（市场的起伏）、los vaivenes de la vida（生活的起起落落）是固定搭配；这一词的构词方式本身就是西语动态思维的体现。"
+        },
+        {
+          "word": "ajustadas",
+          "translation": "拮据的，紧巴巴的，受限制的",
+          "note": "ajustado/a 由 ajustar（调整、收紧）派生，在经济语境中指『资金紧张、入不敷出的』；vidas ajustadas（拮据的生活）与后文 lujo ajeno（与己无关的奢华）形成鲜明对比，是作者刻意构建的语言张力；同根词：ajuste（调整）、ajuste estructural（结构性调整，新自由主义经济政策术语）。"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "es": "1985, Uruguay: Democracia",
+      "zh": "1985年，乌拉圭：民主",
+      "vocab": []
+    },
+    {
+      "id": 20,
+      "es": "La dictadura militar uruguaya había durado casi 12 años; en Argentina no llegó a los 8, en Chile pasó los 17: nunca sabremos cuántas personas mataron, cuántas vidas destruyeron, cuántas ilusiones. Sí sabemos que, con distintas suertes, los generales dieron vuelta a las economías de sus países según las órdenes del generalísimo Henry Kissinger: que exportaran sus materias primas y no jodieran más. Poco a poco el hartazgo de sus pueblos se volvió más fuerte que su miedo, y los generales debieron escapar. El fin de aquellas dictaduras abrió unos años de esperanza basados en la recuperación de lo perdido y añorado: pocas veces ha tenido tanto peso la palabra democracia.",
+      "zh": "乌拉圭军事独裁持续了近12年；在阿根廷不足8年，在智利超过17年：我们永远不会知道他们杀了多少人，摧毁了多少生命，毁灭了多少幻想。我们确实知道的是，那些将军们以各自不同的方式，按照『大将军』亨利·基辛格的命令改造了本国经济：出口原材料，别再添乱。渐渐地，人民的忍无可忍变得比他们的恐惧更强大，将军们不得不逃离。那些独裁政权的终结开启了几年充满希望的岁月，建立在对失去之物和渴望之物的重新找回之上：『民主』这个词很少有过如此沉重的分量。",
+      "vocab": [
+        {
+          "word": "hartazgo",
+          "translation": "极度厌倦，忍无可忍，积怨已久的厌烦",
+          "note": "hartazgo 由 hartar（使厌倦、使吃饱）派生，-azgo 后缀表示『某种状态或行为的结果』；比前文出现的 hartarse（动词）更强调长期积累的集体性厌倦；同类后缀：liderazgo（领导力，来自 liderar）、noviazgo（恋爱关系，来自 novio）；hartazgo 在政治语境中常描述民众对独裁或腐败积累已久的愤怒。"
+        },
+        {
+          "word": "añorado",
+          "translation": "被渴望的，被怀念的，朝思暮想的",
+          "note": "añorado/a 由 añorar（思念、渴望）派生，源自加泰罗尼亚语 enyorar，意为『对失去或远离之物的深切思念』；lo añorado（所渴望之物）在此指独裁期间被压制的自由和民主；同根词：añoranza（思乡、怀念）；比 extrañar（想念）更文学化，带有更深的历史和情感厚度。"
+        },
+        {
+          "word": "no jodieran más",
+          "translation": "（粗口）别再添乱，别再搞事",
+          "note": "joder 是西语中最常见的粗口动词之一，本义为性行为，引申为『搞砸、添乱、烦扰』；no jodieran más 在此语境中意为『别再制造麻烦、别再反抗』；作者故意用粗口转述基辛格的政策逻辑，是一种强烈的讽刺修辞手法；了解 joder 的语用范围是理解西语口语和文学讽刺的重要维度。"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "es": "En Uruguay las primeras elecciones fueron en noviembre de 1984; ese 1 de marzo asumió el poder un partido de la derecha tolerante, que permitió la vuelta de los exiliados y la liberación de los presos políticos: entre ellos un hombre que se había pasado siete años en un pozo y después pasaría cinco presidiendo el país. Con el tiempo y las vicisitudes, una buena mitad de los latinoamericanos dejó de creer que la democracia era la solución de sus problemas. Lo creímos sin dudas cuando no la teníamos; ahora, tras ejercerla durante cuatro décadas, resulta más difícil. Si la palabra democracia no se llena de nuevos sentidos se irá perdiendo detrás de los más viejos y, más temprano que tarde, ya no sabremos de qué estábamos hablando.",
+      "zh": "在乌拉圭，第一次选举于1984年11月举行；那年3月1日，一个宽容的右翼政党上台执政，允许流亡者回国，释放政治犯：其中有一个人在地洞里度过了七年，之后又花了五年主持国家大政。随着时间流逝和种种变故，相当一半的拉丁美洲人不再相信民主是解决他们问题的方案。当我们没有民主时，我们毫无疑问地相信它；如今，在践行了四十年之后，这变得更加困难。如果『民主』这个词不被注入新的含义，它将逐渐消失在那些更古老的含义背后，迟早有一天，我们将不再知道我们曾经在谈论什么。",
+      "vocab": [
+        {
+          "word": "vicisitudes",
+          "translation": "变故，起伏，命运的无常",
+          "note": "vicisitud 源自拉丁语 vicissitudo（轮替、变化），指『生活或历史中的种种变化与起伏，尤指困难和逆境』；con el tiempo y las vicisitudes（随着时间和种种变故）是书面语的典雅表达；比 cambios（变化）更强调命运无常的沧桑感；这一词在历史叙事和文学中极为常见，是C1级别的重要词汇。"
+        },
+        {
+          "word": "ejercerla",
+          "translation": "践行它（民主），行使它",
+          "note": "ejercer 意为『行使、践行、从事（职业或权利）』；ejercer la democracia（践行民主）、ejercer un derecho（行使权利）、ejercer de médico（从事医生职业）；同根词：ejercicio（练习、行使）、ejercicio del poder（权力的行使）；la 是指代前文 democracia 的宾格代词，体现了西语代词回指的语法特征。"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "es": "1989, Panamá: Invasión",
+      "zh": "1989年，巴拿马：入侵",
+      "vocab": []
+    },
+    {
+      "id": 23,
+      "es": "Quizás unas décadas antes no habría llamado la atención: durante la primera mitad del siglo XX las invasiones norteamericanas en Centroamérica eran pura rutina. Pero tras el desastre de la bahía de Cochinos, Cuba, 1961, parecía que el líder del mundo libre había decidido actuar a través de ejércitos locales. Hasta que, aquella noche tibia de diciembre, varios miles de soldados de EE UU avanzaron sobre Panamá.",
+      "zh": "也许在几十年前这不会引起任何关注：在20世纪上半叶，美国入侵中美洲纯属家常便饭。但在1961年古巴猪湾灾难之后，『自由世界的领袖』似乎已决定通过当地军队来行动。直到那个温暖的十二月夜晚，数千名美国士兵向巴拿马推进。",
+      "vocab": [
+        {
+          "word": "bahía de Cochinos",
+          "translation": "猪湾（古巴地名，1961年美国入侵失败事件）",
+          "note": "bahía 意为『海湾』；cochino/a 意为『猪、肮脏的』；Bahía de Cochinos（猪湾）是古巴南部海湾，1961年美国中情局支持的古巴流亡者在此登陆试图推翻卡斯特罗政权，惨遭失败，成为冷战史上美国外交政策的重大挫败；英语称 Bay of Pigs；了解这一历史背景是理解此后美国拉美政策转变的关键。"
+        },
+        {
+          "word": "noche tibia",
+          "translation": "温暖的夜晚，温热的夜晚",
+          "note": "tibio/a 意为『温热的、不冷不热的』，介于 frío（冷）和 caliente（热）之间；作者用 noche tibia de diciembre 描述热带巴拿马的十二月夜晚，与北半球读者对十二月寒冷的预设形成反差，是细节中暗含的地理提示；tibio 在引申义中还可指『态度不坚定的、不冷不热的』（una respuesta tibia = 不温不火的回应）。"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "es": "La gobernaba entonces Manuel Antonio Noriega, un exagente de la CIA que consiguió hacerse con el escaso ejército local para usurpar la presidencia. Como dictador progringo tomó medidas raras: cerró, por ejemplo, la Escuela de las Américas, el centro militar junto al Canal donde el Ejército de EE UU formaba oficiales ñamericanos en dictadura, represión, tortura. El presidente Bush I se enfadó, lo acusó —­siguiendo el protocolo— de narcotraficante y, tras unos meses de bravatas, le mandó a sus muchachos de las boinas verdes.",
+      "zh": "当时统治巴拿马的是曼努埃尔·安东尼奥·诺列加，一个前中情局特工，他设法掌控了当地规模有限的军队，篡夺了总统职位。作为一个亲美独裁者，他却采取了一些奇怪的举措：例如，他关闭了美洲学校——那个位于运河旁的军事中心，美国军队在那里培训拉美官员，教授独裁、镇压和酷刑。老布什总统被激怒了，按照惯例指控他为毒品走私犯，在几个月的虚张声势之后，派出了他的绿色贝雷帽小伙子们。",
+      "vocab": [
+        {
+          "word": "progringo",
+          "translation": "亲美的，亲北美的",
+          "note": "progringo 由前缀 pro-（支持、亲……）+ gringo（对北美人，尤其是美国人的俗称）构成；gringo 在拉美广泛使用，语气从中性到轻蔑不等，视语境而定；pro- 是构词价值极高的前缀：proeuropeo（亲欧的）、progubernamental（亲政府的）、prooccidental（亲西方的）；作者用 progringo 而非 proestadounidense，语气中带有明显的讽刺色彩。"
+        },
+        {
+          "word": "bravatas",
+          "translation": "虚张声势，恐吓性的大话，威胁性言辞",
+          "note": "bravata 由 bravo（勇猛的、粗野的）派生，指『为了恐吓对方而发出的夸张威胁，但未必付诸行动』；tras unos meses de bravatas（在几个月的虚张声势之后）暗示美国先用外交威胁，最终诉诸武力；同根词：bravo（勇猛的；叫好声）、bravuconería（吹牛、逞强）；比 amenazas（威胁）更强调言过其实的表演性。"
+        },
+        {
+          "word": "boinas verdes",
+          "translation": "绿色贝雷帽（美国陆军特种部队）",
+          "note": "boina 指『贝雷帽』，verde 指『绿色』；Boinas Verdes（绿色贝雷帽）是美国陆军特种部队（Special Forces）的俗称，因其标志性绿色贝雷帽而得名；这一称呼在冷战时期的拉美语境中带有强烈的帝国主义干涉色彩；对应英语 Green Berets；是理解拉美反美情绪历史根源的重要文化符号。"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "es": "Eran más de 27.000, respaldados por 300 aviones —algunos muy nuevitos, que había que testear. Las fuerzas libertarias tomaron el control en unas horas y se quedaron unas semanas más para mostrar su amor. Noriega se había refugiado en la Embajada vaticana pero tras unos días se entregó. Ya estaba maduro: se lo llevaron preso a Estados Unidos, donde lo condenaron a 40 años de cárcel; se murió sin haber cumplido 30.",
+      "zh": "他们超过27000人，由300架飞机提供支援——其中一些是崭新的，需要测试一下。『解放军』在几个小时内取得了控制权，又多待了几周来展示他们的爱。诺列加躲进了梵蒂冈大使馆，但几天后投降了。他已经熟透了：他们把他作为囚犯带到美国，在那里被判处40年监禁；他在服满30年之前就死去了。",
+      "vocab": [
+        {
+          "word": "testear",
+          "translation": "测试，试验",
+          "note": "testear 是英语 test 的西语动词化形式，加 -ear 后缀构成；-ear 是西语中将外来词动词化的常用后缀：chatear（聊天，来自 chat）、googlear（谷歌搜索）、twittear（发推文）；作者用 había que testear（需要测试一下）描述美国用巴拿马平民测试新式武器，语气平淡中暗含强烈讽刺，是全文最犀利的反讽之一。"
+        },
+        {
+          "word": "ya estaba maduro",
+          "translation": "他已经熟透了（时机成熟，可以收网了）",
+          "note": "maduro/a 本义为『成熟的（水果）』，引申为『时机成熟的、准备好的』；ya estaba maduro 在此是一个农业隐喻，将诺列加比作一颗熟透可以采摘的果实，暗示美国等待时机收网；这种将政治事件农业化的隐喻在西语中极为常见：cosechar（收割成果）、sembrar（播种）、dar frutos（结出果实）。"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "es": "No se sabe cuántos civiles fueron muertos. Las cifras oscilan entre 200 y 4.000: formas de la ignorancia. El ataque fue un éxito. Sus jefes lo llamaron Operation Just Cause, porque esto de las feikniús tiene más años que San Pitopato y a nadie le gusta demasiado usar esa palabra, invasión, que siempre queda fea.",
+      "zh": "没有人知道有多少平民被杀。数字在200到4000之间摇摆：无知的各种形态。这次袭击是一次成功。它的指挥者将其称为『正义事业行动』，因为假新闻这回事比圣彼托帕托还要古老，没有人太喜欢使用那个词——入侵——它听起来总是很难看。",
+      "vocab": [
+        {
+          "word": "feikniús",
+          "translation": "假新闻（fake news 的西语音译写法）",
+          "note": "feikniús 是作者对英语 fake news 的西语拼音化写法，刻意用西语正字法拼写英语发音；这种写法本身就是一种讽刺手法，暗示『假新闻』并非新事物，不过是换了个英文名字；作者紧接着用 tiene más años que San Pitopato（比圣彼托帕托还古老）进一步强化这一讽刺，San Pitopato 是西语中虚构的古老人物，相当于中文的『老祖宗』。"
+        },
+        {
+          "word": "oscilan entre",
+          "translation": "在……之间摇摆，在……之间浮动",
+          "note": "oscilar entre A y B 是固定搭配，意为『在A和B两个数值或状态之间波动』；源自拉丁语 oscillare（摆动，如钟摆）；las cifras oscilan（数字浮动）在统计和新闻报道中极为常见；同根词：oscilación（波动、振荡）、oscilante（摇摆不定的）；物理学中 oscilar 指『振荡』。"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "es": "1990, México: Privatizar",
+      "zh": "1990年，墨西哥：私有化",
+      "vocab": []
+    },
+    {
+      "id": 28,
+      "es": "Antes de ser estrepitosamente multimillonario el hombre era riquísimo. Pero probablemente nunca habría superado tan triste condición si el Gobierno mexicano de Carlos Salinas de Gortari no le hubiese vendido, diciembre de 1990, la empresa telefónica estatal monopólica, Telmex.",
+      "zh": "在成为震天响的亿万富翁之前，这个人已经非常富有了。但如果不是墨西哥卡洛斯·萨利纳斯·德戈尔塔里政府在1990年12月将国家垄断电话公司Telmex卖给他，他很可能永远无法超越这种悲哀的状态。",
+      "vocab": [
+        {
+          "word": "estrepitosamente",
+          "translation": "震天响地，轰轰烈烈地，喧嚣地",
+          "note": "estrepitosamente 由 estrepitoso（喧嚣的、轰动的）+ -mente 构成；estrepitoso 源自 estrépito（巨响、喧嚣）；作者用 estrepitosamente multimillonario（震天响的亿万富翁）形容斯利姆财富的规模之大、声势之响，是极具讽刺色彩的副词用法；同根词：estrépito（喧嚣）、estrepitoso（轰动的）、estruendo（轰鸣声）。"
+        },
+        {
+          "word": "monopólica",
+          "translation": "垄断性的，独家的",
+          "note": "monopólico/a 由 monopolio（垄断）派生，源自希腊语 mono-（单一）+ polein（出售）；empresa telefónica estatal monopólica（国家垄断电话公司）精准描述了Telmex私有化前的市场地位；同根词：monopolio（垄断）、monopolizar（垄断）、oligopolio（寡头垄断）；mono- 前缀：monarca（君主）、monólogo（独白）、monotonía（单调）。"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "es": "El señor Carlos Slim Helú pagó unos 400 millones de dólares, se hizo con el control del mercado mexicano de las comunicaciones y cinco años después estaba entre los 10 hombres más ricos del mundo. Pasaron 35 años, su empresa sigue dominando el mercado de los teléfonos mexicanos —y su dueño sigue en las grandes ligas millonarias, con empresas que van desde el tabaco a la minería, los hoteles a los bancos, casi todo el resto. Pero, más allá de detalles menores, la operación Telmex descolla porque inaugura y representa la tendencia que dominaría la década: la privatización de bienes públicos.",
+      "zh": "卡洛斯·斯利姆·埃卢先生支付了约4亿美元，掌控了墨西哥通信市场，五年后跻身全球十大富豪之列。35年过去了，他的公司仍然主导着墨西哥电话市场——而其所有者仍在亿万富翁的大联盟中，旗下企业从烟草到矿业、从酒店到银行，几乎涵盖其他一切。但抛开细枝末节，Telmex这笔交易之所以脱颖而出，是因为它开创并代表了主导那个十年的趋势：公共资产的私有化。",
+      "vocab": [
+        {
+          "word": "descolla",
+          "translation": "脱颖而出，鹤立鸡群，格外突出",
+          "note": "descollar 由 des-（强化）+ cuello（脖子）构成，字面义为『伸长脖子超出众人』，引申为『在同类中格外突出、出类拔萃』；比 destacar（突出）更文学化，带有一种自然高出一头的画面感；同根词：cuello（脖子、领子）、collar（项圈）；这一词在文学和新闻评论中常用于描述某一事件或人物在历史中的特殊地位。"
+        },
+        {
+          "word": "grandes ligas",
+          "translation": "大联盟，顶级圈子，最高层次",
+          "note": "grandes ligas 源自美国职业棒球的 Major Leagues（大联盟），在拉美西语中引申为『任何领域的最高层次或顶级圈子』；estar en las grandes ligas（跻身顶级圈子）、jugar en las grandes ligas（在最高层次竞争）是体育隐喻进入商业和政治语言的典型案例；这一表达在拉美比在西班牙更为常见，体现了北美文化对拉美语言的影响。"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "es": "Avanzaba entonces la revolución neoliberal del presidente Reagan y la premier Thatcher, que liberó a los más ricos de impuestos y controles estatales. Su base fue una campaña mundial sobre la ineficacia de los Estados: sus publicistas convencieron a millones de que la misma estructura que manejaba los ejércitos, las leyes, los dineros de un país no era capaz de gestionar sus servicios públicos y debía venderlos a señores muy ricos. Así consiguieron que distintos países americanos entregaran sus servicios de agua y energía, sus transportes, sus minerales y tanto más a grandes empresas extranjeras, generalmente europeas, con frecuencia públicas. Se llamó privatizar —privar quedaba feo— y empujó a muchos millones de latinoamericanos hacia la pobreza y la marginalidad.",
+      "zh": "那时，里根总统和撒切尔首相的新自由主义革命正在推进，它将最富有的人从税收和国家管控中解放出来。其基础是一场关于国家无能的全球性宣传运动：他们的公关人员说服了数百万人相信，同一套管理着一个国家的军队、法律和财政的机构，却没有能力管理其公共服务，因此必须将其出售给非常富有的先生们。就这样，他们使美洲各国将其供水和能源服务、交通运输、矿产资源以及更多资产移交给大型外国企业——通常是欧洲企业，而且往往是国有企业。这被称为私有化——因为『剥夺』听起来太难看——并将数以千万计的拉丁美洲人推向贫困和边缘化。",
+      "vocab": [
+        {
+          "word": "publicistas",
+          "translation": "公关人员，宣传人员，广告从业者",
+          "note": "publicista 在此指『从事宣传和舆论塑造的专业人员』，而非仅指广告人；源自 publicidad（广告、公开性）；作者用 publicistas 而非 propagandistas（宣传者），是一种讽刺性的语言选择，暗示新自由主义意识形态的推广本质上是一场精心策划的商业宣传；同根词：publicidad（广告）、público（公众）、publicar（发布）。"
+        },
+        {
+          "word": "privar quedaba feo",
+          "translation": "『剥夺』听起来太难看",
+          "note": "privatizar（私有化）与 privar（剥夺、使失去）同根，均来自拉丁语 privare（使私有化、剥夺）；作者一针见血地指出：privatizar 不过是 privar 的委婉说法——将公共资产『私有化』本质上就是『剥夺』公众所有权；quedar feo（显得难看、不好听）是口语固定表达，指某种说法在道德或形象上令人不适；这是全文最精辟的语言批判之一。"
+        },
+        {
+          "word": "marginalidad",
+          "translation": "边缘化，社会边缘状态",
+          "note": "marginalidad 由 marginal（边缘的）派生，源自 margen（边缘、利润）；在社会学语境中指『被排斥在主流社会经济体系之外的状态』；同根词：margen（边缘）、marginar（边缘化）、marginado（被边缘化的人）；注意 margen 还有『利润空间』的经济含义（margen de beneficio = 利润率），是一词多义词。"
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+
+
+

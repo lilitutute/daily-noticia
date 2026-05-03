@@ -1,0 +1,113 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "文学随笔",
+  "difficulty": "C1",
+  "wordCount": "约500词",
+  "title": "Los libros únicos",
+  "subtitle": "独一无二的书",
+  "resumenEs": "La autora narra cómo leyó un libro singular —Ahora bien, del argentino Camilo Sánchez— a lo largo de un viernes lluvioso y triste, moviéndose por la ciudad. El libro, que orbita en torno a la relación entre François Cheng y Jacques Lacan, la acompañó sin intentar dar respuestas, creando vacíos llenos de significado. El ensayo termina con una reflexión sobre los libros únicos: aquellos que nos despojan de toda farsa y nos devuelven a la inocencia y el silencio.",
+  "resumenZh": "作者讲述了她如何在一个多雨而忧郁的周五，辗转于城市各处，读完了阿根廷作家卡米洛·桑切斯的奇特之书《Ahora bien》。这本围绕弗朗索瓦·程与雅克·拉康关系展开的作品，并不试图给出答案，而是以充满意义的空白陪伴了她。文章最终升华为对『独一无二的书』的思考：那些剥去我们一切伪装、将我们带回纯真与沉默的书。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Lo leí a lo largo de un viernes en el que hubo lluvia y luego sol y temperatura alta y <strong>algodonosa</strong>. Lo leí a bordo de un taxi, en un portal donde me refugié de la lluvia, bajo la sombra de un árbol, en el <strong>palier</strong> de un edificio mientras esperaba que se hiciera la hora de entrevistar a una persona. Yo me movía, pero el libro se mantenía estable dentro de mí.",
+      "zh": "我在一个周五读完了它，那天先是下雨，后来放晴，气温高而棉絮般柔软。我在出租车上读，在躲雨的门廊里读，在一棵树的阴影下读，在一栋楼的电梯前厅里读——当时我在等待采访某人的时间到来。我在移动，但这本书在我内心保持着稳定。",
+      "vocab": [
+        {
+          "word": "algodonosa",
+          "translation": "棉絮般的，柔软蓬松的",
+          "note": "algodonoso/a 由 algodón（棉花）+ 后缀 -oso/a（富有……性质的）构成；-oso/a 是构词价值极高的后缀，表示『充满某种性质』：nebuloso（多雾的）、vaporoso（如雾气般的）、luminoso（明亮的）；作者用 temperatura algodonosa 描述那种高温下空气黏稠柔软的质感，是极具文学性的通感表达。"
+        },
+        {
+          "word": "palier",
+          "translation": "电梯前厅，楼层过道，楼梯平台",
+          "note": "palier 是法语借词，指楼梯或电梯口的公共缓冲空间；在西班牙语中广泛使用，尤其在阿根廷和西班牙城市生活语境中；这类法语借词在西语中相当常见，如 buffet、carné、debut，了解这一现象有助于理解西语词汇的来源多样性。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Era, por dos o tres motivos, un día tristísimo, y esas páginas me ataron al mundo, o sea, hicieron que toda <strong>inermidad</strong> desapareciera <strong>engullida</strong> por su delicadeza. El libro era mucho más fuerte que yo y me ponía, a la vez, más triste y más feliz, como esas canciones melancólicas que escuchamos cuando nos sentimos mal, <strong>ensañándonos</strong> con el daño para que el dolor drene.",
+      "zh": "那是一个因两三件事而极度悲伤的日子，而那些书页将我系于世界，也就是说，让所有的脆弱无助都消失了，被书的细腻所吞噬。这本书比我强大得多，同时让我更悲伤也更快乐，就像那些我们在感觉糟糕时听的忧郁歌曲——用伤痛折磨自己，好让痛苦得以流淌排出。",
+      "vocab": [
+        {
+          "word": "inermidad",
+          "translation": "脆弱无助，手无寸铁的状态，无防御能力",
+          "note": "inermidad 由 inerme（手无寸铁的、无防御的）派生，源自拉丁语 in-（无）+ arma（武器）；inerme 本义为『未携带武器的』，引申为『毫无防御、极度脆弱的』；这一词根与 arma（武器）、armado（武装的）、desarmar（解除武装）同源，掌握词根 arm- 可举一反三。"
+        },
+        {
+          "word": "engullida",
+          "translation": "被吞噬，被囫囵吞下",
+          "note": "engullir 意为『狼吞虎咽地吞下、完全吞噬』，比 tragar（吞咽）更强调速度之快和吞噬之彻底；在文学语境中常用于比喻：engullido por la oscuridad（被黑暗吞噬）、engullido por el olvido（被遗忘淹没）；作者用 engullida por su delicadeza（被书的细腻所吞噬）构成一种温柔的悖论。"
+        },
+        {
+          "word": "ensañándonos",
+          "translation": "折磨自己，对……残忍，变本加厉地伤害",
+          "note": "ensañarse con 是固定搭配，意为『对某人或某事残忍地、反复地施加伤害，甚至在对方已无力抵抗时仍不停止』；本文中 ensañándonos con el daño（用伤痛折磨自己）描述了人们听悲伤音乐时主动加深痛苦的心理机制；名词形式 ensañamiento 在犯罪报道中指『残忍加重情节』。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Se titula Ahora bien, lo escribió el argentino Camilo Sánchez. Podría decirse que cuenta la relación entre el poeta y traductor François Cheng y el psicoanalista Jacques Lacan, la manera en que revisaron juntos los ideogramas chinos, ciertos escritos, pero no hay manera de definirlo. Es una obra que no <strong>hace pie</strong> en ninguna parte, crea vacíos <strong>repletos</strong> de significado, se desliza de un capítulo breve al siguiente con una arbitrariedad encantadora: de la ocupación nazi en París a las mujeres de Lacan a un encuentro con la poeta Olga Orozco a la disección de un poema chino. Es una criatura paciente, lenta, inhumana.",
+      "zh": "书名叫《Ahora bien》，作者是阿根廷人卡米洛·桑切斯。可以说它讲述了诗人兼翻译家程抱一与精神分析学家雅克·拉康之间的关系，以及他们共同研读汉字、某些文本的方式，但这本书无法被定义。这是一部无处落脚的作品，它创造出充满意义的空白，以一种迷人的随意性从一个简短章节滑向下一个：从巴黎的纳粹占领到拉康的女人们，到与诗人奥尔加·奥罗斯科的一次相遇，再到对一首中国诗歌的解剖。它是一个耐心的、缓慢的、非人性的生命体。",
+      "vocab": [
+        {
+          "word": "hace pie",
+          "translation": "站稳脚跟，找到立足点，触底",
+          "note": "hacer pie 本义为游泳时『脚能踩到底』，引申为『找到稳固的立足点或依托』；no hacer pie en ninguna parte（无处落脚）在文学批评中形容一部作品拒绝被归类、无法被任何既有框架所定义；这一身体动作隐喻在西语中极为丰富，如 perder pie（失去立足点）、tener los pies en la tierra（脚踏实地）。"
+        },
+        {
+          "word": "repletos",
+          "translation": "充满的，塞满的，充斥的",
+          "note": "repleto/a 由 re-（强化）+ pleto（满，源自拉丁语 plenus）构成，意为『完全充满、塞得满满的』；比 lleno（满的）语气更强，强调充盈到极致；常见搭配：repleto de（充满……）、estar repleto（吃得很撑）；同根词：pleno（完全的）、plenitud（充实、丰盈）。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Según el libro, cierto día Lacan le dijo a Marguerite Duras, a quien admiraba <strong>febrilmente</strong>: «No debe de saber que ha escrito lo que ha escrito. Porque se perdería». Ojalá Camilo Sánchez tampoco lo sepa. El libro no intenta encontrar respuesta a una pregunta que <strong>late</strong> por debajo —¿por qué a Lacan le interesaba la escritura china?— porque cualquier respuesta sería un <strong>griterío</strong> y rompería el hechizo.",
+      "zh": "据书中记载，某天拉康对他狂热崇拜的玛格丽特·杜拉斯说：『她一定不知道自己写了什么。因为如果知道，她就会迷失。』但愿卡米洛·桑切斯也不知道。这本书并不试图回答一个在底部悸动的问题——为什么拉康对中国书写感兴趣？——因为任何答案都将是一片喧嚣，会打破这个魔咒。",
+      "vocab": [
+        {
+          "word": "febrilmente",
+          "translation": "狂热地，如痴如醉地，发烧般地",
+          "note": "febrilmente 由 febril（发烧的、狂热的）+ -mente（副词后缀）构成，源自 fiebre（发烧）；-mente 是西语副词构成的标准后缀，相当于英语 -ly；febril 在情感语境中形容『近乎病态的强烈热情』，比 apasionadamente（热情地）更强调失控的强度；同根词：fiebre（发烧、热潮）、febricitar（发烧）。"
+        },
+        {
+          "word": "late",
+          "translation": "跳动，悸动；（引申）潜藏，暗涌",
+          "note": "latir 本义为心脏『跳动』，引申为某种情感或问题在表面之下『悸动、涌动』；una pregunta que late por debajo（在底部悸动的问题）是极具文学性的隐喻，将抽象的问题赋予生命体征；同根词：latido（心跳）、palpitar（悸动，近义词）；掌握这类身体动词的引申义是理解文学文本的关键。"
+        },
+        {
+          "word": "griterío",
+          "translation": "喧嚣，嘈杂的叫喊声，一片嘈杂",
+          "note": "griterío 由 gritar（喊叫）+ 后缀 -ío（表示集体性、持续性的声音）构成；-ío 是构词价值较高的后缀，表示某种声音或行为的集体持续状态：gentío（人群）、caserío（村庄建筑群）；作者用 griterío 比喻任何明确答案都会打破文学沉默的魔力，是全文最精妙的比喻之一。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Terminé de leerlo mientras horneaba un pan y sentí que, por un rato, podía permitirme cierto alivio, cierta inexistencia. Los libros únicos nos dejan sin <strong>farsa</strong>, nos devuelven al <strong>vértigo</strong> de lo inocente. Nos dan la fertilidad del silencio.",
+      "zh": "我在烤面包的时候读完了它，感到有那么一会儿，我可以允许自己获得某种解脱，某种不存在感。独一无二的书剥去我们所有的伪装，将我们带回纯真的眩晕之中。它们赐予我们沉默的丰饶。",
+      "vocab": [
+        {
+          "word": "farsa",
+          "translation": "闹剧，伪装，虚伪的表演",
+          "note": "farsa 本义为戏剧中的『闹剧、滑稽剧』，引申为『虚假的表演、欺骗性的伪装』；sin farsa（没有伪装）在本文中指真正的好书能剥去我们日常生活中的社会表演；同根词：farsante（骗子、伪君子）；与 hipocresía（虚伪）相比，farsa 更强调表演性和戏剧性。"
+        },
+        {
+          "word": "vértigo",
+          "translation": "眩晕；（引申）令人晕眩的速度或强度，令人头晕的感受",
+          "note": "vértigo 本义为医学上的『眩晕症』，引申为任何令人头晕目眩、失去平衡感的强烈体验；el vértigo de lo inocente（纯真的眩晕）是作者创造的诗性表达，暗示真正的纯真状态令人既迷失又着迷；常见搭配：vértigo ante（面对……的眩晕）、a una velocidad de vértigo（以令人眩晕的速度）。"
+        },
+        {
+          "word": "fertilidad del silencio",
+          "translation": "沉默的丰饶，静默的生产力",
+          "note": "fertilidad（肥沃、丰饶）源自拉丁语 fertilis（能生育的），通常用于土地或生命；作者将其与 silencio（沉默）并置，构成一个悖论式隐喻——沉默不是空洞，而是孕育意义的土壤；这种将抽象概念具象化的隐喻手法（名词 + de + 抽象名词）是C1级别文学写作的核心修辞策略。"
+        }
+      ]
+    }
+  ]
+}
