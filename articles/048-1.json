@@ -1,0 +1,159 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会与科技",
+  "difficulty": "B2",
+  "wordCount": "约600词",
+  "title": "El 60% de los jóvenes apoyan prohibir el acceso a redes sociales a menores de 16 años",
+  "subtitle": "60%的年轻人支持禁止16岁以下未成年人使用社交网络",
+  "resumenEs": "Un informe del Centro Reina Sofía de Fad Juventud revela que el 57% de los jóvenes españoles ha sufrido algún tipo de agresión digital en el último año, cifra que sube al 69% entre los adolescentes de 15 a 19 años. A pesar de usar masivamente las redes sociales, el 60% de los jóvenes apoya prohibir el acceso a menores de 16 años. Las formas más frecuentes de ciberviolencia incluyen el stalking, el control de pareja, los insultos y los discursos de odio. Como respuesta, Fad Juventud lanza una campaña de concienciación y pide canales de denuncia más accesibles en las plataformas.",
+  "resumenZh": "西班牙青年基金会索菲亚王后中心发布的一份报告显示，57%的西班牙年轻人在过去一年中遭受过某种形式的数字暴力，在15至19岁青少年中这一比例升至69%。尽管年轻人大量使用社交网络，仍有60%支持禁止16岁以下未成年人访问社交平台。网络暴力最常见的形式包括网络跟踪骚扰、伴侣控制、侮辱和仇恨言论。对此，青年基金会发起了一项意识宣传活动，并呼吁平台提供更便捷的举报渠道。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Las redes sociales se han vuelto el principal canal de socialización de los jóvenes en España. El 79% de los españoles entre los 15 y los 29 años asegura usarlas <strong>de forma masiva</strong> como su vía para relacionarse, también para informarse y entretenerse. Sin embargo, cuando se les pregunta si los menores de 16 años deberían acceder a ellas, 6 de cada 10 responde que no. Que habría que prohibir el acceso a los menores a las redes sociales.",
+      "zh": "社交网络已成为西班牙年轻人社交的主要渠道。79%的15至29岁西班牙人表示『大量使用』社交网络作为社交、获取信息和娱乐的方式。然而，当被问及16岁以下未成年人是否应该访问社交网络时，十人中有六人回答：不应该。他们认为应当禁止未成年人访问社交网络。",
+      "vocab": [
+        {
+          "word": "de forma masiva",
+          "translation": "大量地，大规模地",
+          "note": "固定搭配，de forma + 形容词 是新闻中极常见的副词结构，如 de forma gradual（逐步地）、de forma voluntaria（自愿地），可替换 de manera + 形容词。"
+        },
+        {
+          "word": "relacionarse",
+          "translation": "社交，与他人建立联系",
+          "note": "relacionarse 是 relación 的动词反身形式，注意它是不及物的反身用法，后接 con：relacionarse con alguien（与某人交往），不能直接带宾语。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "El dato lo <strong>arroja</strong> el informe Código 505, publicado este martes por el Centro Reina Sofía de Fad Juventud, un estudio basado en encuestas a 1.500 jóvenes acerca de las ciberviolencias que viven en el entorno digital. Las motivaciones para <strong>vetar</strong> el uso de las redes sociales en menores de edad se explican desde una de las cifras más relevantes de la medición: el 57% de los jóvenes encuestados ha sufrido algún tipo de agresión digital en el último año.",
+      "zh": "这一数据来自青年基金会索菲亚王后中心本周二发布的『505号报告』，该研究基于对1500名年轻人的问卷调查，内容涉及他们在数字环境中所经历的网络暴力。禁止未成年人使用社交网络的动机，可以从这项调查中最重要的数据之一得到解释：57%的受访年轻人在过去一年中遭受过某种形式的数字暴力。",
+      "vocab": [
+        {
+          "word": "arroja",
+          "translation": "（数据）显示，得出，产生",
+          "note": "arrojar 本义为『抛出、投掷』，在新闻和学术文体中常用于数据语境：los datos arrojan（数据显示），是比 mostrar 或 revelar 更正式的表达。"
+        },
+        {
+          "word": "vetar",
+          "translation": "否决，禁止，封禁",
+          "note": "vetar 源自拉丁语 veto（我禁止），在政治语境中指『行使否决权』，在日常语境中泛指『禁止某人或某事』，比 prohibir 更强调主动的权力行使。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "La edad es el factor que más <strong>condiciona</strong> la exposición. Entre los adolescentes de 15 a 19 años, el porcentaje de víctimas sube al 69%. Es también entre los adolescentes donde más se admite haber ejercido conductas violentas: el 32% reconoce haber agredido, frente al 20% entre los mayores de 24. El stalking (acoso en internet), el control por parte de la pareja, los insultos, la <strong>difamación</strong> y los discursos de odio son las formas más frecuentes. De los encuestados, el 71% asegura haber estado expuesto a la ciberviolencia, ya sea como víctima directa o como testigo en su entorno cercano.",
+      "zh": "年龄是影响暴露程度最大的因素。在15至19岁青少年中，受害者比例升至69%。同样也是在青少年群体中，承认曾实施暴力行为的比例最高：32%的人承认曾有过攻击行为，而24岁以上人群中这一比例为20%。网络跟踪骚扰、伴侣控制、侮辱、诽谤和仇恨言论是最常见的形式。在受访者中，71%表示曾接触过网络暴力，无论是作为直接受害者还是身边的目击者。",
+      "vocab": [
+        {
+          "word": "condiciona",
+          "translation": "制约，影响，决定",
+          "note": "condicionar 意为『对……产生制约性影响』，比 afectar（影响）更强调因果关系，常用于分析性文体：el contexto condiciona el resultado（背景制约结果）。"
+        },
+        {
+          "word": "difamación",
+          "translation": "诽谤，名誉损害",
+          "note": "difamación 特指通过散布虚假信息损害他人名誉，是法律术语；注意与 insulto（侮辱，针对人格的言语攻击）的区别：difamación 强调虚假性和名誉损害，insulto 强调冒犯性。"
+        },
+        {
+          "word": "ya sea... o...",
+          "translation": "无论是……还是……，不管是……或……",
+          "note": "ya sea... ya sea... 或 ya sea... o... 是固定让步结构，相当于英语 whether... or...，常用于列举两种情况均成立的场景，语气比 o...o... 更正式。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Anna Sanmartín, la directora de Investigación de Fad Juventud, ha explicado que esta elevada cifra se entiende porque existen conductas violentas que se han <strong>normalizado</strong> en el ámbito digital, con <strong>repercusiones</strong> que van más allá de las redes sociales. El 58% de las víctimas declara haber sufrido algún impacto emocional o en su vida cotidiana. Uno de los datos que ha resaltado la investigadora ha sido que el 29% de quienes recibieron algún tipo de agresión digital no hizo nada, principalmente porque no lo consideró grave o lo asumió como algo normal en internet.",
+      "zh": "青年基金会研究部主任安娜·桑马丁解释说，这一高数字可以理解，因为存在一些在数字领域已被正常化的暴力行为，其影响远不止于社交网络。58%的受害者表示在情感或日常生活中受到了某种影响。这位研究员着重指出的数据之一是：29%遭受过某种数字暴力的人什么都没做，主要是因为他们认为这不严重，或将其视为网络上的正常现象。",
+      "vocab": [
+        {
+          "word": "normalizado",
+          "translation": "被正常化的，被视为常态的",
+          "note": "normalizar 由 normal + -izar 构成，-izar 是将名词/形容词转化为动词的高产后缀，如 criminalizar（犯罪化）、digitalizar（数字化）、privatizar（私有化）。"
+        },
+        {
+          "word": "repercusiones",
+          "translation": "影响，后果，连锁反应",
+          "note": "repercusión 强调某一事件产生的间接的、扩散性的后果，比 consecuencia（直接后果）更强调波及范围广；固定搭配：tener repercusiones en（对……产生影响）。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "La directora de Talento para el Futuro, Elsa Arnaiz, ha resaltado que <strong>en un clima de</strong> constante confrontación en el mundo, donde nadie quiere ver happy clips (vídeos felices) y flores, se ha permitido que la violencia sea el lenguaje para expresar ideas y pensamientos, de relacionarse con el otro. De ahí uno de los datos más relevantes de la investigación: El principal agresor, de quienes han experimentado ciberviolencia, es la pareja (43%), seguido de desconocidos (36%) y pares (28%). El 18% de las víctimas asegura que ha sufrido agresiones por las mismas personas tanto online como offline.",
+      "zh": "未来人才部主任埃尔莎·阿尔纳伊斯强调，在当今世界持续对立的氛围中，没有人想看到快乐的短视频和鲜花，暴力已被允许成为表达想法和观点、与他人建立关系的语言。由此引出这项研究中最重要的数据之一：在经历过网络暴力的人中，主要施暴者是伴侣（43%），其次是陌生人（36%）和同龄人（28%）。18%的受害者表示，曾遭受同一批人在线上和线下的双重攻击。",
+      "vocab": [
+        {
+          "word": "en un clima de",
+          "translation": "在……的氛围中，在……的环境下",
+          "note": "en un clima de + 名词 是新闻和政治评论的高频固定搭配，如 en un clima de tensión（在紧张气氛中）、en un clima de incertidumbre（在不确定的环境下），比 en un ambiente de 更正式。"
+        },
+        {
+          "word": "pares",
+          "translation": "同龄人，同辈",
+          "note": "par 在此作名词，指『同等地位或年龄的人』，即英语的 peers；注意与形容词 par（相等的）及数学术语『偶数』区分，需根据语境判断含义。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "A pesar de esta exposición habitual a la violencia en redes, los insultos o el acoso son las conductas que más preocupan a los jóvenes en internet. Lo que más preocupa es ser víctima de la <strong>difusión no consensuada</strong> de imágenes íntimas (un 48%) y evitar los fraudes o las <strong>estafas</strong> online (45%). Desde Fad Juventud proponen la campaña de concienciación y sensibilización <strong>Desconecta la ciberviolencia</strong>. La directora de Comunicación, Beatriz Pestaña, ha señalado que la idea es que, a través de la visibilización de las distintas formas de violencia digital, quienes la ejercen reconozcan su actuar como una agresión y quienes la permiten como espectadores comiencen a mostrarse en desacuerdo, contribuyendo así a frenar la práctica.",
+      "zh": "尽管年轻人习惯性地暴露于网络暴力之中，侮辱和骚扰仍是他们在网络上最担忧的行为。最令他们担心的是成为亲密图像未经同意传播的受害者（48%），以及避免遭受网络欺诈（45%）。青年基金会提出了『断开网络暴力』意识宣传活动。传播部主任贝阿特里斯·佩斯塔尼亚指出，这一活动的核心理念是：通过让各种形式的数字暴力可见，使施暴者认识到自己的行为是一种侵害，使旁观者开始表示反对，从而共同遏制这种行为。",
+      "vocab": [
+        {
+          "word": "difusión no consensuada",
+          "translation": "未经同意的传播，非自愿扩散",
+          "note": "consensuado/a 由 consensuar（达成共识）派生，意为『经过双方同意的』；no consensuada 即『未经当事人同意的』，是描述『报复性色情』（revenge porn）等行为的法律和新闻规范用语，比口语说法更正式准确。"
+        },
+        {
+          "word": "estafas",
+          "translation": "诈骗，欺诈",
+          "note": "estafa 专指以欺骗手段骗取财物的行为，对应法律术语；注意与 fraude（舞弊、欺诈，更广泛，包括税务欺诈等）的区别：estafa 更强调直接骗取个人财物的行为。"
+        },
+        {
+          "word": "concienciación y sensibilización",
+          "translation": "意识提升与敏感化教育",
+          "note": "这两个词常成对出现：concienciación 指让人意识到某问题的存在，sensibilización 指培养对该问题的情感共鸣和敏感度；两者合用构成公益宣传活动的标准表达。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Las soluciones para luchar contra la ciberviolencia son un debate abierto. A pesar de que el 61% de los jóvenes consultados aseguran que la mejor manera de evitar la exposición a estas agresiones es la <strong>restricción</strong> al acceso, el 84% considera que la situación mejoraría con canales fáciles de denuncia en las plataformas, o que las mismas compañías detecten y eliminen de manera inmediata los contenidos violentos de las redes.",
+      "zh": "打击网络暴力的解决方案仍是一个开放性的讨论议题。尽管61%的受访年轻人认为避免遭受这些侵害的最佳方式是限制访问，但84%的人认为，如果平台提供便捷的举报渠道，或由平台公司自行即时检测并删除网络上的暴力内容，情况将会得到改善。",
+      "vocab": [
+        {
+          "word": "restricción",
+          "translation": "限制，管控",
+          "note": "restricción 由 restringir（限制）派生，源自拉丁语 restringere（束紧）；注意构词规律：restringir → restricción，类似 describir → descripción，动词词干变化时名词后缀统一为 -ción。"
+        },
+        {
+          "word": "denuncia",
+          "translation": "举报，投诉，检举",
+          "note": "denuncia 在西语中既指向警方或司法机构的正式『报案』，也指向平台的『举报』；canales de denuncia（举报渠道）是数字平台治理的核心词汇，比 queja（投诉，更偏向消费者权益）语气更正式、更具法律含义。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "El pasado febrero, el presidente del Gobierno, Pedro Sánchez, lanzó un ambicioso plan para frenar a las grandes plataformas tecnológicas y garantizar un entorno digital seguro. Una de las medidas con mayor impacto <strong>potencial</strong> fue justamente la prohibición del acceso a redes sociales a los menores de 16 años. Una restricción que Australia aprobó a finales de 2024, a la que Francia se sumó en enero de este año y, que en Reino Unido lleva meses en debate en el Parlamento.",
+      "zh": "今年二月，西班牙政府总统佩德罗·桑切斯发布了一项雄心勃勃的计划，旨在约束大型科技平台并保障安全的数字环境。其中潜在影响最大的措施之一，正是禁止16岁以下未成年人访问社交网络。这一限制措施已于2024年底在澳大利亚获批，法国于今年一月跟进，英国则已在议会讨论数月。",
+      "vocab": [
+        {
+          "word": "potencial",
+          "translation": "潜在的；潜力（名词）",
+          "note": "potencial 既可作形容词（潜在的），也可作名词（潜力）；impacto potencial（潜在影响）中作形容词；注意它是假朋友：西语 potencial 不等于英语 potential 在所有语境下的用法，作名词时 tener potencial 才对应英语 to have potential。"
+        },
+        {
+          "word": "se sumó",
+          "translation": "加入，跟进，随之效仿",
+          "note": "sumarse a 是固定搭配，意为『加入某一行动或趋势』，比 unirse a 更强调主动跟进已有的潮流或措施；在新闻报道中极为常见：España se suma a la iniciativa（西班牙加入这一倡议）。"
+        }
+      ]
+    }
+  ]
+}
