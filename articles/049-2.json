@@ -1,0 +1,219 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "文化与艺术",
+  "difficulty": "C1",
+  "wordCount": "约1100词",
+  "title": "El revolucionario estudio de animación japonés Ghibli, premio Princesa de Asturias de Comunicación y Humanidades",
+  "subtitle": "革命性的日本动画工作室吉卜力荣获阿斯图里亚斯王妃传播与人文奖",
+  "resumenEs": "El Studio Ghibli, fundado en 1985 por Hayao Miyazaki, Isao Takahata y el productor Toshio Suzuki, ha sido galardonado con el Premio Princesa de Asturias de Comunicación y Humanidades 2026. El jurado destaca su sensibilidad, sus valores humanistas y su capacidad para crear historias universales que trascienden generaciones y fronteras. El artículo repasa la historia del estudio, su método de trabajo artesanal, sus principales obras y premios, así como la enorme influencia cultural que ha ejercido en todo el mundo, desde cineastas como Guillermo del Toro hasta los millones de usuarios que recrearon imágenes con estilo Ghibli usando herramientas de IA.",
+  "resumenZh": "吉卜力工作室由宫崎骏、高畑勋和制片人铃木敏夫于1985年创立，荣获2026年阿斯图里亚斯王妃传播与人文奖。评审团高度评价其敏锐的感受力、人文主义价值观，以及创作超越代际与国界的普世故事的能力。文章回顾了工作室的历史、手工艺式的创作方式、主要作品与所获奖项，以及其在全球产生的深远文化影响——从吉尔莫·德尔·托罗等电影人，到数百万使用AI工具以吉卜力风格重现图像的普通用户。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "El Studio Ghibli, la productora de animación más famosa del mundo fuera de Hollywood, la <strong>cuna</strong> de las obras maestras de Hayao Miyazaki e Isao Takahata, es el ganador del Premio Princesa de Asturias de Comunicación y Humanidades 2026. Más allá de su impresionante aportación al mundo del cine y al del arte en general, desde Ghibli siempre ha habido un extremo cuidado en resaltar valores como el amor al medioambiente y un riguroso cariño por la creación que hace a esta empresa indiscutible <strong>merecedora</strong> del <strong>galardón</strong> en ese apartado. Entre las joyas del estudio están La princesa Mononoke, El viaje de Chihiro, Porco Rosso, Mi vecino Totoro, Ponyo en el acantilado y El viento se levanta, de Miyazaki; La tortuga roja, del neerlandés Michaël Dudok de Witt, el único no japonés que ha dirigido para Ghibli, o La tumba de las luciérnagas y El cuento de la princesa Kaguya, de Takahata.",
+      "zh": "吉卜力工作室是好莱坞以外全球最著名的动画制作公司，是宫崎骏和高畑勋众多杰作的摇篮，荣获2026年阿斯图里亚斯王妃传播与人文奖。除了对电影界乃至整个艺术世界的卓越贡献之外，吉卜力始终极为注重弘扬对自然环境的热爱，以及对创作的严谨珍视，这使得这家公司无可争议地当之无愧于这一奖项。工作室的珍品包括宫崎骏的《幽灵公主》《千与千寻》《红猪》《龙猫》《悬崖上的金鱼姬》和《起风了》；荷兰人迈克尔·度德威特执导的《红海龟》——他是唯一一位为吉卜力执导影片的非日本人；以及高畑勋的《萤火虫之墓》和《辉夜姬物语》。",
+      "vocab": [
+        {
+          "word": "cuna",
+          "translation": "摇篮，发源地",
+          "note": "cuna 本义为婴儿『摇篮』，引申为『某一事物的发源地或诞生之所』；ser la cuna de（是……的摇篮）是文化和历史报道的高频隐喻；同根词：acunar（摇篮中摇晃；孕育）。"
+        },
+        {
+          "word": "merecedora",
+          "translation": "当之无愧的，值得……的",
+          "note": "merecedor/a 由 merecer（值得、应得）派生；ser merecedor/a de（当之无愧于）是颁奖和评价语境的固定表达；注意性数变化：merecedor（阳性）、merecedora（阴性）；同根词：mérito（功绩）、merecido（应得的）。"
+        },
+        {
+          "word": "galardón",
+          "translation": "奖项，荣誉奖",
+          "note": "galardón 是『奖项』的书面语高级表达，比 premio 更正式典雅，常见于文化和颁奖报道；固定搭配：otorgar un galardón（授予奖项）、recibir el galardón（获得奖项）；同根词：galardonar（授奖）、galardonado（获奖者）。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "El jurado, presidido por el director del Museo del Prado, Miguel Falomir, destaca en su argumentación la <strong>sensibilidad</strong> y los <strong>valores humanistas</strong> de las creaciones del estudio, que además ha <strong>transformado excepcionalmente la creatividad en conocimiento y comunicación</strong>. <strong>Mediante un proceso artesanal de gran imaginación, ha creado historias universales llenas de sensibilidad y de valores humanistas: la empatía, la tolerancia y la amistad, así como el respeto por las personas y la naturaleza. Sus películas trascienden generaciones y fronteras, y son un referente para los desafíos de la sociedad globalizada y la protección del medioambiente</strong>, resalta el acta, leída este mediodía en Oviedo.",
+      "zh": "评审团由普拉多博物馆馆长米格尔·法洛米尔担任主席，在评审陈述中着重指出工作室作品的『敏锐感受力』和『人文主义价值观』，并强调其『以卓越的方式将创造力转化为知识与传播』。评审决议在奥维耶多于当天正午宣读，其中写道：『通过富有想象力的手工艺式创作过程，吉卜力创造了充满感受力与人文主义价值观的普世故事：共情、包容与友谊，以及对人与自然的尊重。其影片超越代际与国界，是应对全球化社会挑战和保护自然环境的重要参照。』",
+      "vocab": [
+        {
+          "word": "sensibilidad",
+          "translation": "感受力，敏锐性，情感细腻度",
+          "note": "sensibilidad 在艺术语境中指『对美、情感和细节的敏锐感知能力』，是评价艺术家和作品的核心词汇；注意与 sensibilización（意识培养，更偏向社会议题）的区别；同根词：sensible（敏感的）、sensato（明智的，注意区分）。"
+        },
+        {
+          "word": "valores humanistas",
+          "translation": "人文主义价值观",
+          "note": "humanista 由 humano（人的）+ -ista 构成，指『以人的尊严、潜能和理性为核心的思想体系』；valores humanistas 在文化奖项和教育政策报道中极为常见；同根词：humanidad（人类；人道）、humanitario（人道主义的）、deshumanizar（去人性化）。"
+        },
+        {
+          "word": "trascienden",
+          "translation": "超越，跨越，超出……范围",
+          "note": "trascender 源自拉丁语 transcendere（跨越），在文化语境中意为『超越某一界限产生更广泛的影响』；trascender generaciones y fronteras（超越代际与国界）是文化评论的高频表达；同根词：trascendencia（重要性；超越性）、trascendental（至关重要的）。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "En las últimas ediciones han sido reconocidos con este premio el filósofo Byung-Chul Han (2025), la historietista y cineasta francoiraní Marjane Satrapi (2024) o el filósofo italiano Nuccio Ordine (2023). En realidad, detrás del Studio Ghibli, junto a los directores mencionados, había una tercera cabeza, la pensante más allá de la creación artística, la <strong>locomotora</strong> que impulsó su nacimiento: el productor Toshio Suzuki pensó que había que mantener unido al equipo creativo de Nausicaä del valle del viento (1984), y en 1985 fundó el estudio con Miyazaki y Takahata. Sobre la elección del nombre Ghibli, con el que bautizaron los pilotos italianos de combate en la Primera Guerra Mundial a un viento caliente en Libia procedente del Sahara, <strong>sobrevuelan</strong> muchas leyendas.",
+      "zh": "近几届获得该奖项的人士包括哲学家韩炳哲（2025年）、法裔伊朗漫画家兼电影导演玛嘉·莎塔碧（2024年）和意大利哲学家努乔·奥尔迪内（2023年）。事实上，在吉卜力工作室背后，除了上述两位导演之外，还有第三个核心人物——那个超越艺术创作本身的思考者，推动工作室诞生的『火车头』：制片人铃木敏夫认为有必要将《风之谷》（1984年）的创作团队凝聚在一起，于是在1985年与宫崎骏和高畑勋共同创立了这家工作室。关于『吉卜力』这个名字的由来——一战期间意大利战斗机飞行员用它来命名一种从撒哈拉沙漠吹向利比亚的热风——流传着许多传说。",
+      "vocab": [
+        {
+          "word": "locomotora",
+          "translation": "火车头，驱动力，核心推动者",
+          "note": "locomotora 本义为『火车头』，引申为『推动某一事业或组织前进的核心力量』；ser la locomotora de（是……的火车头）在商业和文化报道中是描述关键驱动者的生动隐喻；同根词：locomoción（运动）、locomotor（运动的）。"
+        },
+        {
+          "word": "sobrevuelan",
+          "translation": "萦绕，笼罩，飘荡于……之上",
+          "note": "sobrevolar 本义为『在……上空飞越』，在此用作隐喻，描述传说『萦绕』在某一话题周围；sobrevolar + 抽象名词是文学性写作的高级表达；同根词：volar（飞）、vuelo（飞行）、sobre-（在……之上）。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "El dinero lo encontraron en Yasuyoshi Tokuma, empresario a la <strong>vieja usanza</strong>, dueño de un imperio del entretenimiento. Su muerte en 2000 impulsó a Ghibli a buscar una independencia financiera, que logró en 2005, aunque con un <strong>precario</strong> equilibrio. En 2014 cerró sus puertas, al menos en la sección de producción, tras la primera retirada de Miyazaki (actualmente tiene 85 años). En 2017 volvió a ponerse en marcha la maquinaria. Desde entonces solo han estrenado Earwig y la bruja (2020), de Gorö Miyazaki, y El chico y la garza (2023). Takahata, el único al que Miyazaki consideraba a su altura, su amigo desde los inicios de ambos y su gran <strong>acicate</strong> profesional, falleció en 2018.",
+      "zh": "他们在德间康快身上找到了资金——这位老派实业家拥有一个娱乐帝国。2000年德间去世后，吉卜力开始寻求财务独立，并于2005年实现，尽管维持着一种脆弱的平衡。2014年，在宫崎骏第一次退休后，工作室关闭了大门，至少制作部门如此（宫崎骏目前85岁）。2017年，机器重新运转起来。此后工作室仅发行了宫崎吾朗执导的《安雅与魔女》（2020年）和《你想活出怎样的人生》（2023年）。高畑勋——唯一一位被宫崎骏视为与自己旗鼓相当的人，两人自各自职业生涯初期便是挚友，也是宫崎骏巨大的职业激励——于2018年辞世。",
+      "vocab": [
+        {
+          "word": "vieja usanza",
+          "translation": "老派作风，旧式风格",
+          "note": "a la vieja usanza 是固定表达，意为『按照旧时的方式或风格』；usanza 源自 usar（使用、习惯），指『习俗、惯例』；这一表达带有对传统做派的温情描述；类似表达：a la antigua（老派地）、a la manera de（以……的方式）。"
+        },
+        {
+          "word": "precario",
+          "translation": "脆弱的，不稳定的，岌岌可危的",
+          "note": "precario/a 源自拉丁语 precarius（靠祈求获得的），形容『随时可能失去的不稳定状态』；precario equilibrio（脆弱的平衡）是新闻报道的高频搭配；同根词：precariedad（不稳定性）、precarización（不稳定化）——后者在劳动报道中极为常见。"
+        },
+        {
+          "word": "acicate",
+          "translation": "激励，刺激，动力",
+          "note": "acicate 本义为马刺（骑马时刺激马匹的尖刺），引申为『激励某人前进的动力或刺激』；ser un acicate para（成为……的激励）是书面语的高级表达；比 motivación（动力）更强调来自外部的刺激性推动力。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Suzuki además comprendió que el <strong>porvenir</strong> de Ghibli pasaba por la distribución mundial de sus trabajos y por ofrecer nuevas experiencias a sus numerosísimos fans. El museo Ghibli abrió en 2001, y desde noviembre de 2022 hay también un parque temático. En septiembre de 2022 se anunció que la cadena Nippon TV había adquirido el 42,3% de las acciones de Ghibli, lo que garantiza su futuro financiero, y el acuerdo incluía su independencia artística. Suzuki, el único que le lleva la contraria a Miyazaki, que influye en sus decisiones y que incluso le señala temas para futuros trabajos, ha buscado proteger el futuro.",
+      "zh": "铃木敏夫还意识到，吉卜力的未来在于将作品面向全球发行，并为数量庞大的粉丝提供全新体验。吉卜力博物馆于2001年开放，自2022年11月起还设有一座主题公园。2022年9月宣布，日本电视台收购了吉卜力42.3%的股份，从而保障了其财务未来，且协议中包含艺术独立性条款。铃木是唯一一个敢于反驳宫崎骏、影响其决策、甚至为其未来作品指点题材的人，他一直致力于守护吉卜力的未来。",
+      "vocab": [
+        {
+          "word": "porvenir",
+          "translation": "未来，前途，前景",
+          "note": "porvenir 由 por（通过）+ venir（到来）构成，字面义为『即将到来的事』，是『未来』的书面语表达；比 futuro 更文学化，常见于评论和文学文体；固定搭配：asegurar el porvenir（保障未来）、un porvenir incierto（前途未卜）。"
+        },
+        {
+          "word": "llevar la contraria",
+          "translation": "唱反调，持相反意见，反驳",
+          "note": "llevar la contraria a alguien 是固定搭配，意为『故意持与某人相反的立场』；contraria 由 contrario（相反的）派生；这一表达带有『顶撞、不服从』的含义，比 contradecir（反驳）更口语化，更强调习惯性的对立姿态。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "El chico y la garza (2023), el duodécimo largometraje de Miyazaki, ha sido la última producción del estudio. Junichi Nishioka, uno de los vicepresidentes del Studio Ghibli, contaba en 2022 que Miyazaki proseguía con su rutina de llegar al estudio a las diez de la mañana y ponerse a trabajar tras una idea, un hilo del que salga su siguiente filme. <strong>Es la única forma en la que puede vivir. No puede cambiar ahora</strong>, contaba el primogénito de Miyazaki, Gorö, que durante un tiempo fue designado posible sucesor, hasta que la baja calidad de sus filmes le <strong>apartó</strong> del proceso creativo.",
+      "zh": "《你想活出怎样的人生》（2023年）是宫崎骏的第十二部长片，也是工作室迄今最后一部作品。吉卜力工作室副社长西冈纯一在2022年讲述，宫崎骏仍保持着每天上午十点到达工作室、围绕一个想法、一根线索开始工作的日常习惯，期待从中生发出下一部影片。『这是他唯一能够生活的方式，他现在无法改变了，』宫崎骏的长子宫崎吾朗说道——他曾一度被指定为可能的接班人，直到其影片质量欠佳将他排除在创作流程之外。",
+      "vocab": [
+        {
+          "word": "primogénito",
+          "translation": "长子，头生子",
+          "note": "primogénito/a 由 primo-（第一）+ génito（出生的，来自 generar）构成，专指『第一个出生的孩子』；是法律和家庭语境的正式用词；同根词：primero（第一）、génesis（起源）、engendrar（生育）；对应词：segundogénito（次子）、benjamín（最小的孩子）。"
+        },
+        {
+          "word": "apartó",
+          "translation": "将……排除，使……远离，撤离",
+          "note": "apartar 由 a- + parte（部分）构成，意为『将某人或某物从某一位置或群体中移开』；apartar del proceso creativo（排除在创作流程之外）在此带有被动淘汰的含义；固定搭配：apartarse de（远离）、apartar la mirada（移开视线）。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "El trabajo de Miyazaki está muy marcado por el lado <strong>artesano</strong>. En el libro Compartir casa con el hombre interminable, del estadounidense Steve Alpert, el primer gaijin (no japonés) que trabajó en Studio Ghibli, y además desde una posición de privilegio, como responsable de 1996 a 2011 de las ventas internacionales, contaba: <strong>Él dibuja los story boards, que en Ghibli reciben el nombre de ekonte, y allí se convertían en una combinación de story board y guion gráfico, un menú completo para cada película. Miyazaki divide el ekonte en cinco partes: A, B, C, D y E. No son como los actos de una obra teatral, pero cada parte era aproximadamente el 20% de la película. Cuando un filme se anunciaba, Miyazaki ya había hecho la A, con imágenes espléndidas y con todo detalle, y la mayor parte de la B la tenía en la cabeza. La película empezaba a producirse cuando Miyazaki empezaba a dibujar la parte C</strong>. Normalmente, en la parte D, comenzaban las dudas. Y sin idea de cómo acabar, <strong>el proceso se ralentizaba hasta convertirse en un goteo</strong>.",
+      "zh": "宫崎骏的工作深深打上了手工艺的烙印。在美国人史蒂夫·阿尔伯特所著的《与永无止境之人共居》一书中——他是第一位在吉卜力工作室任职的外国人（非日本人），且身处要职，担任1996年至2011年间的国际销售负责人——他讲述道：『他绘制分镜脚本，在吉卜力被称为绘コンテ（ekonte），在那里它演变为分镜脚本与图像剧本的结合，是每部电影的完整菜单。宫崎骏将绘コンテ分为A、B、C、D、E五个部分，并非像戏剧的幕次那样划分，但每个部分大约占影片的20%。当一部影片宣布立项时，宫崎骏已经完成了A部分，画面精美、细节完整，B部分的大半也已在他脑中成形。影片开始制作，是在宫崎骏开始绘制C部分的时候。』通常到D部分，疑虑便开始涌现。在不知道如何收尾的情况下，『整个流程便会放缓，变成涓涓细流』。",
+      "vocab": [
+        {
+          "word": "artesano",
+          "translation": "手工艺的，工匠式的",
+          "note": "artesano/a 作名词指『工匠』，作形容词指『手工艺式的、注重手工精细度的』；lado artesano（手工艺的一面）在此强调宫崎骏创作的非工业化、纯手工特质；同根词：artesanía（手工艺）、artesanal（手工的）——后者在食品和文化报道中极为常见。"
+        },
+        {
+          "word": "se ralentizaba",
+          "translation": "放缓，减速，变慢",
+          "note": "ralentizar 由 ralentí（怠速，源自法语 ralenti）派生，意为『使速度减慢』；ralentizarse 是反身形式，指『自行放缓』；在经济报道中 ralentización（放缓）极为常见：ralentización del crecimiento（增长放缓）；同根词：lento（慢的）、lentitud（缓慢）。"
+        },
+        {
+          "word": "goteo",
+          "translation": "涓涓细流，点滴，缓慢渗出",
+          "note": "goteo 由 gota（水滴）派生，本义为『液体一滴一滴地流出』，引申为『极其缓慢的进展』；convertirse en un goteo（变成涓涓细流）在此描述创作进度几乎停滞；同根词：gota（水滴）、gotear（滴落）、desgotear（滴干）。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Entre los premios logrados por Ghibli, hay que destacar que Hayao Miyazaki ganó, con El viaje de Chihiro, el primer Oscar al largo de animación obtenido por una película no estadounidense, y la primera Palma de Oro de Honor a una empresa productora en 2024. Miyazaki recibió la Concha de Oro de Honor de San Sebastián en 2023 y el Oscar de Honor en 2014. También es impresionante la increíble cantidad de fans que ha logrado en todo el mundo: hay podcasts y libros hasta con las recetas de comida que aparecen en sus películas. Tanto que OpenAI reconoció en abril de 2025 que su herramienta Imagen había <strong>superado todas las expectativas</strong> porque millones de usuarios habían usado la nueva herramienta para recrear fotos familiares o históricas con el estilo del estudio.",
+      "zh": "在吉卜力所获奖项中，值得特别指出的是：宫崎骏凭借《千与千寻》荣获首个由非美国电影获得的奥斯卡最佳动画长片奖，以及2024年首个颁给制作公司的荣誉金棕榈奖。宫崎骏还于2023年获得圣塞巴斯蒂安电影节荣誉金贝壳奖，并于2014年获得奥斯卡荣誉奖。同样令人印象深刻的是，吉卜力在全球积累了数量惊人的粉丝：甚至有播客和书籍专门收录其电影中出现的食物食谱。以至于OpenAI在2025年4月承认，其图像生成工具的表现远超预期，原因是数百万用户使用这一新工具以吉卜力风格重现家庭或历史照片。",
+      "vocab": [
+        {
+          "word": "superado todas las expectativas",
+          "translation": "远超预期，超出所有期望",
+          "note": "superar las expectativas 是固定搭配，意为『超越预先设定的期望值』；在商业和科技报道中极为常见；注意 expectativa 与 esperanza（希望）的区别：expectativa 更强调基于预测的期待，esperanza 更强调情感上的盼望。"
+        },
+        {
+          "word": "recrear",
+          "translation": "重现，再创作，重新演绎",
+          "note": "recrear 有两个含义：①『重新创造、再现』（recrear una escena = 重现一个场景）；②『使娱乐、使放松』（recrearse en = 沉浸享受于）；在此为第一种含义；同根词：recreación（重现；娱乐）、recreativo（娱乐性的）——注意两种含义在不同语境下均常见。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Por supuesto, la lista de artistas influidos por el estilo Ghibli es igualmente <strong>abrumadora</strong>. En el estreno en el certamen de Toronto de 2023 de El chico y la garza, el cineasta mexicano Guillermo del Toro explicó: <strong>Miyazaki es un hombre con una exquisita destreza técnica, pero que también ha decidido confiar en nosotros su biografía más íntima a través de su obra. Estoy seguro de que es mucho más fácil conocerlo como ser humano viendo sus películas que haciendo un largo viaje por carretera con él. Esa es la marca de un auténtico autor. Hay un aspecto confesional y temerario en sus películas. La estructura no está limitada por el orden aristotélico occidental de tres actos con una introducción, nudo y desenlace… Él no lo hace así. Miyazaki prueba, una y otra vez, que no se trata de dejarte extasiado, sino de contar lo dulce y lo amargo de la vida. La pérdida, el amor, la belleza… todo a la vez</strong>.",
+      "zh": "当然，受吉卜力风格影响的艺术家名单同样令人叹为观止。在2023年多伦多电影节《你想活出怎样的人生》的首映式上，墨西哥电影导演吉尔莫·德尔·托罗解释道：『宫崎骏是一个拥有精湛技艺的人，但他同时也决定通过作品向我们倾诉他最私密的人生故事。我确信，通过观看他的电影来了解他作为一个人，要比与他进行一次漫长的公路旅行容易得多。这就是一位真正的作者的标志。他的电影中有一种忏悔式的、大胆的面向。其结构不受西方亚里士多德式三幕结构——开端、发展、结局——的束缚……他不是这样做的。宫崎骏一次又一次地证明，重要的不是让你如痴如醉，而是讲述生活的甘与苦。失去、爱、美……一切同时呈现。』",
+      "vocab": [
+        {
+          "word": "abrumadora",
+          "translation": "令人叹为观止的，压倒性的，庞大到令人不知所措的",
+          "note": "abrumador/a 由 abrumar（压垮、使不知所措）派生，形容数量或程度之大令人难以承受；una lista abrumadora（令人叹为观止的名单）、una mayoría abrumadora（压倒性多数）是新闻高频表达；同根词：abrumar（压垮）、agobiar（使不堪重负，近义词）。"
+        },
+        {
+          "word": "destreza",
+          "translation": "技艺，技巧，娴熟",
+          "note": "destreza 源自 diestro（右手的；灵巧的），本义为『用右手的灵巧』，引申为『高超的技艺』；destreza técnica（精湛技艺）是艺术和体育评论的高频表达；同根词：diestro（灵巧的；斗牛士）、ambidiestro（双手灵巧的）。"
+        },
+        {
+          "word": "temerario",
+          "translation": "大胆的，鲁莽的，无所畏惧的",
+          "note": "temerario/a 源自拉丁语 temerarius（轻率的），指『不顾风险、大胆冒险的』；在此语境中带有正面含义，指宫崎骏在创作中毫无保留地袒露自我的勇气；注意它也可带贬义（鲁莽的）：una conducción temeraria（危险驾驶）；同根词：temer（害怕）、temeroso（胆怯的）——注意 temerario 与 temeroso 含义相反。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Paco Roca, historietista y director de cine, contaba también cuando se estrenó el último filme de Miyazaki: <strong>Recuerdo ver de pequeño Heidi, cuando ni sabía, claro, quién era Miyazaki ni que trabajaba en ella, y sentir el placer de ver la vida dibujada. Veías cómo untaban queso fundido en pan y así provocaban emociones como la placidez. Por eso Miyazaki es el maestro del costumbrismo, en una mentalidad completamente alejada de Occidente, muy animista. Cuando dibujé Arrugas pensé en cómo lo haría él</strong>.",
+      "zh": "漫画家兼电影导演帕科·罗卡在宫崎骏最后一部影片上映时也讲述道：『我记得小时候看《海蒂》，那时当然不知道宫崎骏是谁，也不知道他参与了这部作品，但我感受到了看到生活被画出来的那种愉悦。你看到他们把融化的奶酪涂在面包上，就这样激发出一种宁静的情绪。这就是为什么宫崎骏是风俗描绘的大师，他的心态与西方完全不同，非常万物有灵。当我画《皱纹》时，我想的是他会怎么做。』",
+      "vocab": [
+        {
+          "word": "placidez",
+          "translation": "宁静，平和，安详",
+          "note": "placidez 由 plácido（宁静的）派生，源自拉丁语 placidus（平静的）；描述一种温和、平静的内心状态；比 tranquilidad（平静）更强调一种令人愉悦的安详感；同根词：plácido（宁静的）、aplacar（平息）、complacer（使满意）。"
+        },
+        {
+          "word": "costumbrismo",
+          "translation": "风俗描绘，日常生活写实主义",
+          "note": "costumbrismo 是西班牙语文学和艺术的特有概念，指『通过细腻描绘日常生活习俗和风土人情来呈现社会面貌的创作风格』；由 costumbre（习俗）+ -ismo 构成；在此作者将宫崎骏对日常细节的极致刻画与这一传统相联系；同根词：costumbre（习俗）、acostumbrar（使习惯）。"
+        },
+        {
+          "word": "animista",
+          "translation": "万物有灵论的，泛灵论的",
+          "note": "animista 由 anima（灵魂）+ -ista 构成，指『相信自然界万物皆有灵魂的世界观』；宫崎骏作品中的精灵、神灵和自然生命力正是这一世界观的体现；同根词：ánima（灵魂）、animado（有活力的；动画的）、animar（鼓励；赋予生命）。"
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+
+

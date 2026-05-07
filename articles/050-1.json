@@ -1,0 +1,115 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与社会",
+  "difficulty": "B2",
+  "wordCount": "约450词",
+  "title": "Meta identificará a los usuarios menores de edad por sus huesos",
+  "subtitle": "Meta将通过骨骼特征识别未成年用户",
+  "resumenEs": "Meta ha anunciado un sistema de inteligencia artificial que analizará rasgos físicos —como la altura y la estructura ósea— junto con pistas contextuales en comentarios y perfiles, para detectar si un usuario es menor de edad en Instagram y Facebook. Si el sistema concluye que una cuenta pertenece a un menor de 13 años, la desactivará; si determina que tiene entre 13 y 17 años pero se registró como adulto, la trasladará a las 'cuentas para adolescentes', con restricciones de privacidad. El anuncio llega tras una condena de 375 millones de dólares en Nuevo México por no proteger a los menores, y se enmarca en una estrategia más amplia para reducir la exposición legal de la compañía.",
+  "resumenZh": "Meta宣布推出一套人工智能系统，将通过分析身高、骨骼结构等体征特征，结合评论、个人简介等上下文线索，检测Instagram和Facebook用户是否为未成年人。若系统判定某账户属于13岁以下用户，将予以停用；若判定用户年龄在13至17岁之间但注册时填报了成年人信息，则将其自动转入『青少年账户』，并附加隐私限制。此次公告发布于新墨西哥州因未保护未成年人而对Meta作出3.75亿美元罚款判决后不久，是该公司降低法律风险的更广泛战略的组成部分。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Instagram y Facebook utilizarán inteligencia artificial para analizar fotografías y vídeos de los usuarios en busca de <strong>indicios</strong> físicos que sugieran que la persona que aparece en ellos es menor de edad. Es la nueva apuesta de Meta para tratar de frenar su <strong>exposición legal</strong> en varios territorios en los que opera y donde ha sido condenada en ocasiones por no tomar las medidas de precaución necesarias para proteger a los usuarios más jóvenes.",
+      "zh": "Instagram和Facebook将利用人工智能分析用户的照片和视频，寻找可能表明画面中人物为未成年人的体征线索。这是Meta的新举措，旨在遏制其在多个运营地区的法律风险——该公司曾多次因未采取必要的预防措施保护年轻用户而被判定有责。",
+      "vocab": [
+        {
+          "word": "indicios",
+          "translation": "线索，迹象，征兆",
+          "note": "indicio 指『指向某一结论的间接证据或迹象』，是法律和新闻语境的高频词；比 señal（信号）更强调推断性，比 prueba（证据）更间接；固定搭配：indicios de（……的迹象）、sin indicios de（没有……的迹象）。"
+        },
+        {
+          "word": "exposición legal",
+          "translation": "法律风险，法律责任敞口",
+          "note": "exposición 在金融和法律语境中指『风险敞口、暴露于某种风险之中的程度』，对应英语 legal exposure；frenar la exposición legal（遏制法律风险）是企业法务报道的核心表达；同根词：exponer（暴露）、expuesto（暴露的）、exposición（展览；风险敞口）。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "El sistema que ha creado examinará <strong>rasgos fisonómicos</strong> como la altura o la estructura ósea para estimar una franja de edad general. La compañía, no obstante, se ha apresurado a aclarar que no es reconocimiento facial y que el algoritmo <strong>no identifica a la persona específica que aparece en la imagen</strong>. Lo que hace es únicamente decidir si esa persona tiene menos años de los que dice tener.",
+      "zh": "该系统将检测身高或骨骼结构等体征特征，以估算大致年龄范围。然而，公司急于澄清，这并非人脸识别，算法『不会识别图像中出现的具体人物』。它的唯一功能是判断该人物是否比其所声称的年龄更小。",
+      "vocab": [
+        {
+          "word": "rasgos fisonómicos",
+          "translation": "体征特征，面部及身体特征",
+          "note": "rasgo 意为『特征、特点』；fisonómico/a 由 fisonomía（面相、外貌特征）派生，源自希腊语 physiognomia；rasgos fisonómicos 在医学和生物识别语境中指『可观察到的外貌特征』；同根词：fisonomía（外貌）、fisiología（生理学，注意区分）。"
+        },
+        {
+          "word": "se ha apresurado a",
+          "translation": "急于，赶紧，迫不及待地",
+          "note": "apresurarse a + 动词原形 是固定搭配，意为『急忙去做某事』，在新闻语境中常暗示企业或官员在舆论压力下的防御性快速回应；比 rápidamente（快速地）更强调主动性和紧迫感；同根词：prisa（急忙）、apresurado（匆忙的）。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "No operará solo sobre imágenes. Meta combinará el análisis visual con la revisión de comentarios, descripciones de perfil y <strong>pies de foto</strong> en busca de <strong>pistas contextuales</strong> que indiquen que la cuenta pertenece a alguien menor de 13 años o a un adolescente que haya mentido sobre su edad al registrarse. El algoritmo será capaz de detectar, por ejemplo, menciones a celebraciones de cumpleaños o referencias a cursos escolares concretos.",
+      "zh": "该系统不仅针对图像。Meta将把视觉分析与评论、个人简介描述和图片说明的审查相结合，寻找可能表明账户属于13岁以下用户或注册时谎报年龄的青少年的上下文线索。例如，该算法能够检测到生日庆祝的提及或对具体年级的引用。",
+      "vocab": [
+        {
+          "word": "pies de foto",
+          "translation": "图片说明，图注",
+          "note": "pie de foto 字面义为『照片的脚』，是『图片说明文字』的固定表达，对应英语 caption；pie 在此指『底部、脚注』；类似表达：pie de página（页脚）、al pie de la letra（逐字地）；同根词：pie（脚）、pieza（件）。"
+        },
+        {
+          "word": "pistas contextuales",
+          "translation": "上下文线索，情境提示",
+          "note": "pista 本义为『赛道；踪迹』，引申为『线索、提示』；contextual 由 contexto（语境、背景）派生；pistas contextuales（上下文线索）在AI和语言学语境中指『从周围信息推断含义的依据』；同根词：contexto（语境）、contextualizar（将……置于语境中）。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Si concluye que una cuenta podría pertenecer a un menor de 13 años, la <strong>desactivará</strong>. El usuario tendrá que verificar su edad para evitar que la cuenta sea eliminada de forma permanente. Si determina que el usuario tiene entre 13 y 17 años pero se había registrado como adulto, lo trasladará automáticamente a las llamadas <strong>cuentas para adolescentes</strong>, privadas por defecto, con mensajes directos restringidos a contactos ya conocidos y con comentarios potencialmente dañinos ocultos.",
+      "zh": "若系统判定某账户可能属于13岁以下用户，将予以停用。用户须验证年龄以避免账户被永久删除。若系统判定用户年龄在13至17岁之间但注册时填报了成年人信息，则将其自动转入所谓的『青少年账户』——默认设为私密，私信仅限已知联系人，潜在有害评论将被隐藏。",
+      "vocab": [
+        {
+          "word": "desactivará",
+          "translation": "停用，禁用，使失效",
+          "note": "desactivar 由 des-（逆转）+ activar（激活）构成，意为『使某一功能或账户停止运作』；在科技报道中 desactivar una cuenta（停用账户）与 eliminar（删除）不同：desactivar 是可逆的暂停，eliminar 是永久删除；同根词：activo（活跃的）、activar（激活）、reactivar（重新激活）。"
+        },
+        {
+          "word": "cuentas para adolescentes",
+          "translation": "青少年账户",
+          "note": "这是Meta于2024年推出的专属账户类型，英文原名 Teen Accounts；privadas por defecto（默认私密）是其核心特征之一；por defecto 是科技语境的固定表达，对应英语 by default，意为『在用户不做任何设置的情况下自动生效的状态』。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Meta ha identificado ya a <strong>cientos de millones</strong> de adolescentes en este sistema desde 2024, según la propia compañía. El anuncio llega pocas semanas después de que un jurado en Nuevo México declarara a Meta <strong>culpable</strong> de inducir a error a los consumidores sobre la seguridad de sus plataformas y de no proteger a los menores de potenciales <strong>depredadores</strong>. La multa asciende a 375 millones de dólares. La empresa, ante la posibilidad de que se le obligara a introducir cambios estructurales en sus servicios, llegó a amenazar con retirar Facebook e Instagram del estado.",
+      "zh": "据公司自身披露，Meta自2024年以来已通过该系统识别出『数亿』名青少年。此次公告发布于新墨西哥州陪审团裁定Meta因误导消费者对平台安全性的认知、未能保护未成年人免受潜在掠食者侵害而承担责任后数周。罚款金额高达3.75亿美元。面对可能被强制要求对服务进行结构性改革的前景，该公司甚至威胁要将Facebook和Instagram撤出该州。",
+      "vocab": [
+        {
+          "word": "culpable",
+          "translation": "有罪的，应负责任的",
+          "note": "culpable 在法律语境中指『被裁定有罪或有责任的』；declarar culpable（裁定有罪）是法庭报道的核心表达；注意与 responsable（负责任的，更中性）的区别：culpable 带有明确的道德或法律谴责含义；同根词：culpa（过错）、culpar（归咎于）、inculpar（指控）。"
+        },
+        {
+          "word": "depredadores",
+          "translation": "掠食者；（网络语境）性侵犯者，猎食者",
+          "note": "depredador 本义为生态学中的『捕食者』，在网络安全和儿童保护语境中专指『在网上以欺骗手段接近并伤害未成年人的成年人』，对应英语 predator；这一词在儿童保护报道中是核心词汇；同根词：depredar（掠夺）、presa（猎物）。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "No es el único frente judicial abierto. Junto con otras grandes tecnológicas, Meta <strong>acumula</strong> demandas por protección de la infancia en múltiples <strong>jurisdicciones</strong>, lo que la ha llevado a desarrollar este sistema automatizado. En su comunicado, la compañía reclama no obstante que deben ser las tiendas de aplicaciones (la App Store de Apple y Google Play) las que verifiquen la edad de los usuarios antes de instalar cualquier app, y que esa información se traslade a los desarrolladores.",
+      "zh": "这并非唯一悬而未决的司法战线。与其他大型科技公司一道，Meta在多个司法管辖区积累了大量儿童保护相关诉讼，这促使其开发了这套自动化系统。然而，公司在声明中主张，应由应用商店（苹果App Store和谷歌Play）在用户安装任何应用程序之前完成年龄验证，并将该信息传递给开发者。",
+      "vocab": [
+        {
+          "word": "acumula",
+          "translation": "积累，累积，堆积",
+          "note": "acumular 在此指Meta在多地『积累』了越来越多的诉讼；acumular demandas（积累诉讼）在法律报道中是描述企业面临多方诉讼压力的标准表达；同根词：acumulación（积累）、cúmulo（堆积；积云）、acumulador（蓄电池）。"
+        },
+        {
+          "word": "jurisdicciones",
+          "translation": "司法管辖区，法律管辖范围",
+          "note": "jurisdicción 源自拉丁语 iurisdictio（法律管辖），指『某一法律体系或法院的管辖范围』；en múltiples jurisdicciones（在多个司法管辖区）是跨国企业法律报道的核心表达；同根词：jurídico（法律的）、jurisprudencia（法学；判例法）、juris-（法律，拉丁语前缀）。"
+        }
+      ]
+    }
+  ]
+}

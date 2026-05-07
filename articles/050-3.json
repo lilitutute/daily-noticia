@@ -1,0 +1,176 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "文学与散文",
+  "difficulty": "C1",
+  "wordCount": "约800词",
+  "title": "Niño estrábico con lentes",
+  "subtitle": "戴眼镜的斜视男孩",
+  "resumenEs": "El escritor nicaragüense Sergio Ramírez narra en este ensayo autobiográfico cómo el estrabismo y la visión deficiente de su ojo izquierdo marcaron su infancia y su identidad. Desde su primer recuerdo —ver doble sin saberlo— hasta el diagnóstico tardío a los diez años, el texto recorre la burla escolar, el descubrimiento de las gafas como símbolo de superioridad y la adaptación neurológica que su cerebro desarrolló para suplir la falta de visión binocular. El ensayo concluye con una reflexión sobre cómo ese exilio interior, provocado por ser diferente, fue construyendo desde temprano la soledad y la melancolía que alimentan su vocación literaria.",
+  "resumenZh": "尼加拉瓜作家塞尔希奥·拉米雷斯在这篇自传体散文中，讲述了斜视和左眼视力缺陷如何塑造了他的童年与身份认同。从他最早的记忆——在不自知的情况下看到双影——到十岁时的迟来诊断，文章穿越了校园嘲弄、眼镜作为优越感象征的发现，以及大脑为弥补双目视觉缺失而发展出的神经适应机制。散文以一段反思作结：正是因与众不同而被迫走向内心的流亡，从早年起便构建了滋养他文学使命的孤独与忧郁。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Mi primer recuerdo es el de una mañana de mucho sol. Debo tener tres años. En el corredor de la casa, la Mercedes Alvarado, la muchacha que ayuda a mi madre en todo, me alza de la <strong>batea</strong> donde me ha bañado, y me deposita sobre la tapa de la máquina de coser. Me seca, me envuelve en una sábana, y se va a botar el agua jabonosa sobre las plantas del patio.",
+      "zh": "我最早的记忆是一个阳光灿烂的早晨。那时我大概三岁。在屋子的走廊里，帮我母亲做所有家务的姑娘梅塞德斯·阿尔瓦拉多把我从她给我洗澡的木盆里抱起来，放在缝纫机的盖板上。她擦干我，用一条床单把我裹起来，然后去把肥皂水泼到院子里的植物上。",
+      "vocab": [
+        {
+          "word": "batea",
+          "translation": "木盆，洗澡盆，浅木槽",
+          "note": "batea 是拉丁美洲西班牙语中常见的词汇，指用于洗涤或沐浴的浅木盆；在西班牙本土更常用 barreño 或 palangana；这类地区性词汇是理解拉美文学的重要组成部分，体现了西班牙语在不同地区的丰富变体。"
+        },
+        {
+          "word": "botar",
+          "translation": "倒掉，扔掉（拉美用法）",
+          "note": "botar 在拉丁美洲西班牙语中意为『扔掉、倒掉』，对应西班牙本土的 tirar 或 echar；在西班牙，botar 主要指『使球弹跳』；这是西班牙语地区差异的经典案例，阅读拉美文学时需特别注意。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Pero mientras se aleja veo que una imagen suya, más débil, comienza a <strong>desprenderse</strong> hacia un lado desde la principal, como si fuera un fantasma que emana de su cuerpo, o un holograma, y luego la estoy viendo dos veces. Veo dos veces su <strong>trenza</strong> gorda y brillante que le cae a un lado del cuello. Así recordaré a partir de entonces las imágenes de las personas y de las cosas, sin extrañeza. Ver doble es lo natural para mí, y no sé que no se pueda ver de otra manera.",
+      "zh": "但当她走远时，我看到她的一个更模糊的影像开始从主体影像向一侧分离，仿佛是从她身体中散发出的幽灵，或是一个全息影像，然后我就看到了两个她。我看到两条她那粗而发亮、垂在脖子一侧的辫子。从那以后，我就这样记住人和事物的影像，毫不觉得奇怪。对我来说，看到双影是自然的，我不知道还可以用其他方式看世界。",
+      "vocab": [
+        {
+          "word": "desprenderse",
+          "translation": "分离，脱落，从……中分出",
+          "note": "desprenderse 由 des-（分离）+ prender（抓住）构成，本义为『松开、脱落』，在此描述双影从主体影像中『分裂出来』的视觉体验；这一动词的选择极具文学性，将医学症状转化为诗意的视觉描写；同根词：prender（点燃；抓住）、desprendimiento（脱落；慷慨）。"
+        },
+        {
+          "word": "trenza",
+          "translation": "辫子，编发",
+          "note": "trenza 指将头发编织成的『辫子』；trenza gorda y brillante（粗而发亮的辫子）是本段最具画面感的细节，作者用这一具体意象锚定了他生命中最早的视觉记忆；同根词：trenzar（编辫子）、entrenzado（编织的）。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "No fue hasta mis 10 años que la misma Mercedes Alvarado descubrió que yo no veía bien con mi ojo izquierdo, porque me golpeaba con obstáculos al caminar, y se lo advirtió a mi madre. Nadie había hecho cuentas de que un niño <strong>bizco</strong>, como yo era, podía tener defectos serios en la visión. Se burlaban de mí los otros niños, por lo de bizco, asunto que entró en la costumbre del trato en la escuela, y en la sustancia de mis <strong>silencios retraídos</strong>. Uno era <strong>renco</strong> por causa de la poliomielitis; había otro que tenía una nube en el ojo, o la mano seca. Yo era bizco. Y en el patio de recreo me llamaban Vizconde, Biscocho, Bizcotela.",
+      "zh": "直到我十岁，还是梅塞德斯·阿尔瓦拉多发现我左眼视力不好——因为我走路时总是撞到障碍物——并把这件事告诉了我母亲。没有人想到一个斜视的孩子，就像我一样，可能有严重的视力缺陷。其他孩子因为我斜视而嘲笑我，这成了学校里待我方式的惯例，也成了我沉默退缩的内在质地。有人因小儿麻痹症而跛脚；有人眼睛上有一层白翳，或者手臂萎缩。我是斜视。在操场上，他们叫我『子爵』、『饼干』、『比斯科特拉』。",
+      "vocab": [
+        {
+          "word": "bizco",
+          "translation": "斜视的，对眼的",
+          "note": "bizco/a 是描述斜视（estrabismo）的口语词，带有轻蔑色彩；文中的绰号 Vizconde（子爵）、Biscocho（饼干）、Bizcotela 都是对 bizco 的谐音戏谑，展示了儿童语言欺凌的残酷创意；了解这类口语词有助于理解文学中的社会边缘化描写。"
+        },
+        {
+          "word": "silencios retraídos",
+          "translation": "退缩的沉默，内向的沉默",
+          "note": "retraído/a 由 retraer（退缩、收回）派生，指『性格内向、不愿与人交往的』；silencios retraídos 是作者对自身内向性格的诗意表达，将沉默本身描述为具有质地和内容的存在；同根词：retraerse（退缩）、retraimiento（内向、退缩）。"
+        },
+        {
+          "word": "renco",
+          "translation": "跛脚的，瘸腿的",
+          "note": "renco/a 是描述因腿部残疾而行走不便的口语词，在拉丁美洲比 cojo 更常用；文中通过列举不同身体缺陷的孩子（renco、nube en el ojo、mano seca、bizco），构建了一幅边缘儿童群像，暗示作者并非孤独的异类，而是更广泛的弱势群体的一员。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Alarmados, mis padres me llevaron a Managua a una consulta con el doctor Fernando Agüero, el oculista más reconocido del país, quien se volvería luego líder de la oposición contra la dictadura de los Somoza, y <strong>congregaba multitudes</strong> en las plazas. Me diagnosticó un daño <strong>congénito</strong> en ese ojo izquierdo, que tenía una estructura diferente, sacando a mi madre de su falsa creencia de que me había quedado bizco al año de nacido a consecuencia de la debilidad provocada por una diarrea.",
+      "zh": "父母惊慌之下带我去马那瓜就诊，找到了全国最知名的眼科医生费尔南多·阿圭罗——他后来成为反对索莫萨独裁政权的反对派领袖，在广场上汇聚万众。他诊断出我左眼有先天性损伤，那只眼睛的结构与正常的不同，从而打破了我母亲的错误认知——她一直以为我在一岁时因腹泻引起的虚弱而变成了斜视。",
+      "vocab": [
+        {
+          "word": "congregaba multitudes",
+          "translation": "汇聚万众，召集大批人群",
+          "note": "congregar 源自拉丁语 congregare（聚集），意为『将人群聚集在一起』；congregar multitudes（汇聚万众）是描述政治领袖或宗教人物号召力的经典表达；作者在此用一句话将眼科医生与政治领袖的双重身份并置，是拉美文学中历史与个人记忆交织的典型手法。"
+        },
+        {
+          "word": "congénito",
+          "translation": "先天性的，天生的",
+          "note": "congénito/a 由 con-（共同）+ genitus（出生的）构成，医学术语，指『出生时即存在的（缺陷或特征）』；daño congénito（先天性损伤）与后天获得的损伤相对；同根词：generar（产生）、género（性别；类型）、engendrar（孕育）。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "A mí no se me había ocurrido antes taparme el ojo derecho para comprobar la visión del izquierdo, como el doctor Agüero lo había hecho al examinarme; pero ahora podía darme cuenta de que, si veía las formas y los colores con el ojo enfermo, no podía distinguir bien los rostros, y mucho menos leer, porque las letras aparecían en un <strong>amasijo</strong> de contornos brillantes, ni orientarme con seguridad al caminar. Y aunque era imposible recuperar nada de la visión, me mandó usar anteojos, con los que volví a Masatepe <strong>envanecido</strong> porque me daban superioridad sobre los demás de mi edad. Era unas gafas de pasta, de aros redondos, como las de Harold Lloyd, y sólo el lente que correspondía al ojo enfermo tenía aumento.",
+      "zh": "我以前从未想过遮住右眼来检验左眼的视力，就像阿圭罗医生检查我时所做的那样；但现在我意识到，用那只有病的眼睛，虽然能看到形状和颜色，却无法清楚地辨认面孔，更无法阅读——因为字母呈现为一团闪亮轮廓的混乱堆叠——也无法在行走时确定方向。尽管视力已无法恢复，医生还是让我戴上眼镜，戴着它我回到了马萨特佩，心中充满自得，因为眼镜让我比同龄人多了一份优越感。那是一副塑料框、圆镜片的眼镜，就像哈罗德·劳埃德戴的那种，只有对应病眼的那片镜片有度数。",
+      "vocab": [
+        {
+          "word": "amasijo",
+          "translation": "一团混乱，乱糟糟的堆积",
+          "note": "amasijo 由 amasar（揉捏、混合）派生，本义为『揉成一团的面团』，引申为『杂乱无章的混合物』；un amasijo de contornos brillantes（一团闪亮轮廓的混乱堆叠）是本文最具视觉冲击力的比喻，将阅读障碍转化为触觉和视觉的双重意象；同根词：masa（面团；群众）、amasar（揉捏；积累财富）。"
+        },
+        {
+          "word": "envanecido",
+          "translation": "自得的，自鸣得意的，洋洋自得的",
+          "note": "envanecido/a 由 envanecer（使自满）派生，源自 vano（空洞的、虚荣的）；描述一种因外在事物而产生的自我优越感；作者用这个词带有温柔的自嘲：眼镜本是医疗器具，却成了童年虚荣心的来源；同根词：vano（徒劳的）、vanidad（虚荣）、vanidoso（爱慕虚荣的）。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Debía, además, taparme una hora diaria el ojo sano con un <strong>parche</strong> de plástico prensado al anteojo, para que el otro recuperara su eje; aunque hasta hoy, muchas veces, el ojo enfermo se desvía por su cuenta, y aparezco en las fotos como si me estuviera durmiendo. Y vuelve a veces ese fantasma de imagen que desprende lentamente en el campo de visión, como una señal que me llega del pasado, desde el lejano territorio de la infancia.",
+      "zh": "此外，我每天还需要用一块夹在眼镜上的塑料眼罩遮住健康的眼睛一小时，以帮助另一只眼睛恢复视轴；尽管直到今天，那只有病的眼睛仍时常自行偏转，让我在照片里看起来像是在打瞌睡。有时那个幽灵影像又会回来，在视野中缓缓分离，像一个从过去传来的信号，来自童年那片遥远的领地。",
+      "vocab": [
+        {
+          "word": "parche",
+          "translation": "眼罩，补丁，贴片",
+          "note": "parche 本义为『补丁、贴片』，在医疗语境中指『眼罩』；parche ocular（眼罩）是弱视治疗的传统方法；parche 在日常语境中还可指临时解决方案（una solución parche = 权宜之计）；同根词：parchar（打补丁）、remendar（修补）。"
+        },
+        {
+          "word": "campo de visión",
+          "translation": "视野，视觉范围",
+          "note": "campo de visión 是眼科和光学的专业术语，指『眼睛在固定方向时能看到的全部范围』；作者在此将医学术语与文学意象融合：视野不仅是生理概念，也是记忆和时间的隐喻空间；campo 在不同语境中含义丰富：campo de batalla（战场）、campo semántico（语义场）。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Si la doble imagen pasó a ser natural en mi vida, nunca podré saber cómo es el mundo real de la tercera dimensión para alguien que puede componer las imágenes con el <strong>concurso</strong> de ambos ojos. Mi cerebro creó desde el principio un atajo para suplir el defecto, porque siempre he tenido la sensación de mirar a profundidad, y dar volúmenes a las cosas, lo cual viene a ser el trabajo de mi ojo único útil, que recibe señales para crear así una ilusión de planos y relieves por la fuerza de la necesidad. Como muchas de las ilusiones en la vida, que resultan de la necesidad. O las ilusiones que suele crear el escritor, que sólo tienen sustancias porque él lo quiere.",
+      "zh": "如果说双影已成为我生命中自然的一部分，我将永远无法知道，对于一个能用双眼共同构建图像的人来说，真实的三维世界是什么样的。我的大脑从一开始就创造了一条捷径来弥补这一缺陷，因为我一直有一种向深处凝视、赋予事物体积的感觉——这正是我那唯一有用的眼睛的工作，它接收信号，凭借需求的力量创造出平面与起伏的幻觉。就像生命中许多由需求催生的幻觉一样。或者像作家惯于创造的那些幻觉——它们之所以有实质，只因为他愿意如此。",
+      "vocab": [
+        {
+          "word": "concurso",
+          "translation": "共同作用，协力；（另义）竞赛",
+          "note": "concurso 在此作『共同参与、协力』解（con el concurso de ambos ojos = 借助双眼的共同作用），是书面语的正式用法；日常语境中 concurso 更常指『竞赛、比赛』；这一词多义是理解书面语的重要挑战；同根词：concurrir（共同参与）、concurrencia（人群；同时发生）。"
+        },
+        {
+          "word": "atajo",
+          "translation": "捷径，近路",
+          "note": "atajo 本义为『抄近路』，引申为『绕过困难的快捷方法』；mi cerebro creó un atajo（我的大脑创造了一条捷径）将神经适应机制比作认知捷径，是科学与文学语言的精妙融合；谚语：no hay atajo sin trabajo（没有不费力的捷径）。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Y también fui compensado con un oído agudo, una bendición para mí como escritor, pues puedo escuchar con nitidez las conversaciones en la mesa de al lado en los restaurantes, o en los autobuses. Y para crearme un sustituto del mundo tridimensional, que se consigue cuando se fusionan dos perspectivas distintas proveídas por ambos ojos, mi cerebro lo que hace es crear un <strong>remedo</strong> de <strong>estereopsis</strong>, la sensación de profundidad mediante un solo ojo, como una estrategia para entender el espacio, un modelo mental sustituto.",
+      "zh": "我还得到了另一种补偿——敏锐的听觉，这对我作为作家是一种恩赐，因为我能清晰地听到餐厅或公共汽车上邻桌的谈话。为了给自己创造一个三维世界的替代品——那种当双眼提供的两种不同视角融合时才能获得的体验——我的大脑所做的，是创造一种立体视觉的模拟：用单眼产生深度感，作为理解空间的策略，一种替代性的心理模型。",
+      "vocab": [
+        {
+          "word": "remedo",
+          "translation": "模拟，仿制，拙劣的模仿",
+          "note": "remedo 由 remedar（模仿）派生，指『对某一事物的不完整或拙劣的模仿』；un remedo de estereopsis（立体视觉的模拟）在此并非贬义，而是描述大脑的创造性补偿机制；同根词：remedar（模仿）、imitar（模仿，更中性）、remedo（模仿物）。"
+        },
+        {
+          "word": "estereopsis",
+          "translation": "立体视觉，双眼深度感知",
+          "note": "estereopsis 是眼科和神经科学术语，源自希腊语 stereos（立体的）+ opsis（视觉），指『大脑融合双眼图像产生深度感知的能力』；作者用这一专业术语后立即给出通俗解释（la sensación de profundidad mediante un solo ojo），是优秀科普写作的典范。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Ser bizco me hizo alejarme de los demás, y contribuyó a darme el carácter <strong>retraído</strong> que tuve desde entonces; y ese <strong>exilio forzado</strong> hacia dentro de mí mismo fue llenando desde el principio mi atmósfera de escritor. Es lo que Cervantes convoca en el Quijote bajo el nombre de <strong>melancolía</strong>, tan emparentado con la soledad.",
+      "zh": "斜视让我与他人疏远，助长了我从那时起便有的内向性格；那种被迫走向内心的流亡，从一开始就不断填满我作为作家的精神氛围。这正是塞万提斯在《堂吉诃德》中以『忧郁』之名所召唤的东西——与孤独如此血脉相连。",
+      "vocab": [
+        {
+          "word": "retraído",
+          "translation": "内向的，退缩的，不善交际的",
+          "note": "retraído/a 由 retraer（退缩）派生，描述『倾向于回避社交、退守内心』的性格特质；在本文中多次出现（silencios retraídos、carácter retraído），构成作者自我描述的核心词汇；同根词：retraerse（退缩）、retraimiento（内向）、atraer（吸引，反向构词）。"
+        },
+        {
+          "word": "exilio forzado",
+          "translation": "被迫的流亡，强制性的放逐",
+          "note": "exilio 通常指政治上的『流亡、放逐』，作者将其用于内心世界：ese exilio forzado hacia dentro de mí mismo（那种被迫走向内心的流亡），将童年的社会排斥比作一种内在的政治放逐；这一隐喻在拉美文学中极具分量，因为流亡是该地区文学的核心主题之一。"
+        },
+        {
+          "word": "melancolía",
+          "translation": "忧郁，忧思，melancholia",
+          "note": "melancolía 源自希腊语 melas（黑色）+ khole（胆汁），古代医学认为忧郁源于黑胆汁过多；在文学传统中，melancolía 与创造力、孤独和深刻的内省密切相关；作者以塞万提斯的《堂吉诃德》作结，将个人的身体缺陷升华为文学传统中的精神谱系，是全文最具分量的收笔。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "经济与社会",
+  "difficulty": "B2",
+  "wordCount": "约600词",
+  "title": "La 'tasa' de vivir solo en España: «En las condiciones actuales supone una carga económica sobredimensionada»",
+  "subtitle": "西班牙独居『税』：『在当前条件下，这是一种过度的经济负担』",
+  "resumenEs": "Un análisis de EsadeEcPol revela que vivir solo en España supone una carga económica desproporcionada, especialmente para los hogares unipersonales menores de 65 años con renta baja. El coste de la vivienda puede superar el 60% de sus ingresos, muy por encima del umbral del 40% considerado como sobrecarga. El problema se agrava porque el mercado residencial no ofrece suficientes viviendas pequeñas y asequibles, y los hogares jóvenes carecen de colchón patrimonial. El informe propone orientar la construcción hacia tipologías ajustadas a la demanda real, facilitar la segregación de grandes viviendas y apostar por el alquiler asequible para personas que viven solas.",
+  "resumenZh": "EsadeEcPol的一项分析揭示，在西班牙独居意味着承受不成比例的经济负担，尤其对65岁以下低收入独居家庭而言。住房成本可能超过其收入的60%，远高于被视为过度负担的40%门槛。问题因住房市场缺乏足够的小型可负担住房而加剧，且年轻家庭缺乏财产缓冲。报告建议将建设导向符合实际需求的住房类型，推动大型住宅分割，并大力发展面向独居人士的可负担租赁住房。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Vivir solo siempre ha sido más caro. Un soltero debe afrontar la totalidad de las facturas de suministros, la comida y el elemento por el que más dinero se va de la cuenta a final de mes: el alquiler. Un análisis publicado por EsadeEcPol analiza precisamente esa <strong>tasa de vivir solo</strong> en Europa y en España. Los <strong>hogares unipersonales</strong> en nuestro país constituyen el 29% del total y, aunque la cifra es menor que la de la media europea, el análisis destaca que especialmente en el tramo entre 35 y 45 años el peso de estos hogares ha pasado del 11,2% al 13,1% entre 2022 y 2025.",
+      "zh": "独居一直以来都更为昂贵。单身人士必须独自承担全部水电费账单、食物开销，以及每月末从账户中流出最多资金的那一项：房租。EsadeEcPol发布的一项分析，正是针对欧洲和西班牙的这种独居『税』展开研究。西班牙的独居家庭占家庭总数的29%，尽管这一数字低于欧洲平均水平，但分析指出，尤其在35至45岁年龄段，独居家庭的比重在2022年至2025年间已从11.2%上升至13.1%。",
+      "vocab": [
+        {
+          "word": "tasa de vivir solo",
+          "translation": "独居『税』，独居附加成本",
+          "note": "tasa 本义为『税率、费率』，此处用引号表示隐喻：独居者因无法分摊固定成本而额外承担的经济代价，被形象地称为一种『税』；这种隐喻用法在经济评论中极具表达力；同根词：tasa de interés（利率）、tasa de desempleo（失业率）、tasación（估价）。"
+        },
+        {
+          "word": "hogares unipersonales",
+          "translation": "独居家庭，单人户",
+          "note": "unipersonal 由 uni-（单一）+ personal（人的）构成，是统计和社会学的专业术语；hogar unipersonal（单人户）是Eurostat等机构的标准分类；uni- 是高产前缀：unicornio（独角兽）、uniforme（制服）、unilateral（单边的）、unificar（统一）。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "En España, el hogar más frecuente es el que se clasifica como 'otros tipos', según Eurostat, es decir, los que conforman los hijos mayores de edad que viven con sus padres o adultos que comparten piso. Esade destaca que el dato revela las dificultades de <strong>emancipación</strong>, entre otras cosas, porque asumir un hogar solo <strong>dispara</strong> los costes y aumenta las <strong>brechas</strong>.",
+      "zh": "据欧盟统计局数据，西班牙最常见的家庭类型被归类为『其他类型』，即由与父母同住的成年子女或合租的成年人构成的家庭。Esade指出，这一数据揭示了独立生活的困难——部分原因在于独自承担一个家庭的开销会使成本急剧上升，并加大各方面的差距。",
+      "vocab": [
+        {
+          "word": "emancipación",
+          "translation": "独立，自立，（从父母处）独立生活",
+          "note": "emancipación 在社会学语境中专指『年轻人脱离父母家庭、独立生活』的过程；dificultades de emancipación（独立生活的困难）是西班牙住房报道的核心词汇；同根词：emancipar（使独立）、emancipado（已独立的）；历史语境中也指『解放奴隶』。"
+        },
+        {
+          "word": "dispara",
+          "translation": "使急剧上升，使飙升",
+          "note": "disparar 本义为『开枪、射击』，在经济语境中用作隐喻，意为『使某一数值急剧上升』；disparar los costes（使成本飙升）、disparar la inflación（推高通胀）是财经报道的高频表达；同根词：disparo（枪声；急升）、disparado（飙升的）。"
+        },
+        {
+          "word": "brechas",
+          "translation": "差距，鸿沟，缺口",
+          "note": "brecha 本义为墙壁上的『缺口、裂口』，引申为『群体之间的差距』；brecha salarial（薪资差距）、brecha de género（性别差距）、brecha digital（数字鸿沟）是西班牙语社会报道的三大高频搭配；同根词：abrir una brecha（打开缺口）。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Además del grupo entre 35 y 45 años, los hogares unipersonales también aumentan ligeramente (del 5,3% al 6,4%) entre los jóvenes entre 18 y 35 años. <strong>Los hogares unipersonales menores de 65 años de renta baja tienen sistemáticamente más dificultades para llegar a fin de mes que los mayores</strong>, destaca el análisis. El caso de España es especialmente preocupante: la proporción de hogares de una persona de menores de 65 años con dificultades económicas ha <strong>escalado</strong> al 30%, mientras que en el caso de los mayores supone el 20%. <strong>No quiere decir que los hogares de mayores de 65 años estén exentos de vulnerabilidad económica, pero los menores presentan una vulnerabilidad desproporcionada</strong>, destacan.",
+      "zh": "除35至45岁年龄段外，18至35岁年轻人中的独居家庭比例也略有上升（从5.3%升至6.4%）。分析指出，『65岁以下低收入独居家庭在月底收支平衡方面系统性地面临比老年人更大的困难』。西班牙的情况尤为令人担忧：65岁以下独居家庭中面临经济困难的比例已攀升至30%，而老年人群体中这一比例为20%。报告强调：『这并不意味着65岁以上独居家庭不存在经济脆弱性，但年轻群体呈现出不成比例的脆弱性。』",
+      "vocab": [
+        {
+          "word": "llegar a fin de mes",
+          "translation": "月底收支平衡，勉强维持生计",
+          "note": "llegar a fin de mes 是固定表达，意为『收入刚好够撑到月底』；dificultades para llegar a fin de mes（月底收支平衡的困难）是描述经济拮据的最常用口语表达；类似表达：no llegar a fin de mes（入不敷出）、vivir al día（过一天算一天）。"
+        },
+        {
+          "word": "escalado",
+          "translation": "攀升，急剧上升",
+          "note": "escalar 本义为『攀爬、登山』，在统计语境中用作隐喻，描述数值的快速上升；ha escalado al 30%（已攀升至30%）比 ha aumentado 更强调上升的速度和幅度；同根词：escala（规模；音阶；梯子）、escalada（攀升；升级）、escalera（楼梯）。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "La explicación es que en esos hogares el coste de la vivienda supera el 60% de sus ingresos si tienen <strong>renta baja</strong>. En cifras, una persona entre el 40% que menos cobra con unos ingresos de 1.702,9 euros brutos al mes (unos 1.350 netos), destinaría más de 810 euros a la vivienda. Pero incluso entre los hogares unipersonales de renta alta el esfuerzo alcanzaría el 25%. Los primeros están muy por encima del 40%, el porcentaje a partir del cual se considera que existe una <strong>sobrecarga</strong>.",
+      "zh": "原因在于，对于低收入独居家庭而言，住房成本超过其收入的60%。以具体数字来看，一个处于收入最低40%群体、月收入约1702.9欧元税前（约1350欧元税后）的人，将需要花费超过810欧元用于住房。但即便是高收入独居家庭，这一支出比例也将达到25%。前者远超40%这一被视为过度负担的门槛。",
+      "vocab": [
+        {
+          "word": "renta baja / renta alta",
+          "translation": "低收入 / 高收入",
+          "note": "renta 在此指『收入』（而非『租金』，尽管两者同词）；renta baja（低收入）、renta media（中等收入）、renta alta（高收入）是社会经济分析的标准分层术语；注意 renta 的一词多义：renta del trabajo（劳动收入）vs. renta de alquiler（租金收入）。"
+        },
+        {
+          "word": "sobrecarga",
+          "translation": "过度负担，超载",
+          "note": "sobrecarga 由 sobre-（超过）+ carga（负担）构成，在住房经济学中专指『住房支出占收入比例超过40%的状态』，是欧盟统计局的官方指标；umbral de sobrecarga（过度负担门槛）是住房政策报道的核心术语；同根词：cargar（承担）、carga（负担）、sobrecargar（使超载）。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Esade destaca que la brecha no es un fenómeno exclusivamente español, pero en nuestro país <strong>es especialmente marcada</strong>. Las pensiones estabilizan las rentas para los hogares mayores y reducen su vulnerabilidad, pero para los hogares jóvenes la situación es todavía más difícil por los precios al alza y no tener <strong>colchón patrimonial</strong>. Los precios son otra causa de desigualdad ya que un hogar de una sola persona tiene que asumir un coste cada vez mayor de viviendas más caras. Ahí influye también la situación del mercado ya que no hay suficientes viviendas pequeñas para una persona: <strong>Los hogares unipersonales pagan por un espacio que no necesitan porque la oferta de viviendas pequeñas y asequibles es estructuralmente insuficiente</strong>.",
+      "zh": "Esade指出，这一差距并非西班牙独有的现象，但在西班牙『尤为突出』。养老金稳定了老年家庭的收入并降低了其脆弱性，但对于年轻家庭而言，由于价格持续上涨且缺乏财产缓冲，情况更为艰难。价格是另一个造成不平等的原因，因为独居家庭不得不承担日益高涨的住房成本。市场状况也在其中发挥作用——市场上没有足够多适合单人居住的小型住房：『独居家庭为自己并不需要的空间付费，因为小型可负担住房的供给在结构上严重不足。』",
+      "vocab": [
+        {
+          "word": "especialmente marcada",
+          "translation": "尤为突出，格外明显",
+          "note": "marcado/a 由 marcar（标记）派生，作形容词意为『显著的、突出的』；especialmente marcada（尤为突出）是学术和新闻报道中强调程度的常用表达；比 muy notable 更书面；同根词：marca（品牌；标记）、marcar（标记；影响）、marcador（记分牌）。"
+        },
+        {
+          "word": "colchón patrimonial",
+          "translation": "财产缓冲，资产储备",
+          "note": "colchón 本义为『床垫』，引申为『缓冲、储备』；colchón patrimonial（财产缓冲）指通过积累的资产（房产、储蓄等）抵御经济风险的能力；colchón de ahorros（储蓄缓冲）是同类表达；patrimonio（财产、遗产）在此指个人或家庭积累的资产总量。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Así, el análisis concluye que <strong>vivir solo supone, en las condiciones actuales, una carga económica desproporcionada</strong>. Por el coste de la vivienda, por la composición del <strong>parque residencial</strong> y por otras barreras de acceso a la propiedad. Para resolverlo, la autora propone orientar la construcción a tipologías ajustadas a la demanda real, facilitar la <strong>segregación</strong> de grandes viviendas en zonas de alta demanda y apostar por el alquiler asequible destinado a personas que viven solas.",
+      "zh": "由此，分析得出结论：『在当前条件下，独居意味着承受不成比例的经济负担。』原因在于住房成本、住房存量的构成，以及其他进入产权市场的壁垒。为解决这一问题，作者建议将建设导向符合实际需求的住房类型，在高需求地区推动大型住宅的分割改造，并大力发展面向独居人士的可负担租赁住房。",
+      "vocab": [
+        {
+          "word": "parque residencial",
+          "translation": "住房存量，住宅存量",
+          "note": "parque 在此是技术性术语，指『某一类型资产的全部存量』；parque residencial（住宅存量）、parque automovilístico（汽车保有量）、parque de viviendas（住房存量）是西班牙语经济和政策报道的固定表达；这一用法来自法语 parc，与『公园』含义完全不同。"
+        },
+        {
+          "word": "segregación",
+          "translation": "分割，拆分（大型住宅）",
+          "note": "segregación 通常指社会层面的『隔离、分离』（如种族隔离），但在房地产语境中专指『将一套大型住宅在法律上分割为多套独立小户型』的操作；这是一词多义的典型案例，需根据语境判断；同根词：segregar（分离）、segregado（被分离的）、integración（整合，反义词）。"
+        }
+      ]
+    }
+  ]
+}

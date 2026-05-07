@@ -1,0 +1,182 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与法律",
+  "difficulty": "B2",
+  "wordCount": "约900词",
+  "title": "Un tribunal chino pone límites al despido de un trabajador sustituido por la IA",
+  "subtitle": "中国法院为被AI取代的劳动者遭受解雇划定边界",
+  "resumenEs": "El Tribunal Popular Intermedio de Hangzhou ha declarado ilegal el despido de un empleado al que su empresa intentó sustituir por IA tras degradarle el puesto y rebajarle el salario un 40%. La firma alegó un 'cambio sustancial en las circunstancias objetivas' para rescindir el contrato, pero el tribunal rechazó ese argumento al considerar que la automatización voluntaria para reducir costes no equivale a una imposibilidad de cumplir el contrato. El fallo, que obliga a la empresa a pagar 260.000 yuanes de indemnización, se suma a casos similares en Cantón y Pekín, y marca una línea roja en China: la IA no puede usarse como pretexto para eludir obligaciones laborales, aunque los tribunales tampoco pueden impedir que la automatización elimine empleos.",
+  "resumenZh": "杭州市中级人民法院裁定，一家企业在降低员工职级并削减其40%薪资后试图以AI取代该员工，此举构成违法解雇。该公司援引『客观情况发生重大变化』条款申请解除劳动合同，但法院驳回了这一主张，认为企业主动推进自动化以降低成本，并不等同于合同无法继续履行。该判决要求企业支付26万元人民币赔偿金，与广州、北京的类似案例共同划定了一条红线：AI不能被用作规避劳动义务的借口——但法院同样无法阻止自动化消灭就业岗位。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Hangzhou, la ciudad donde nacieron el gigante tecnológico Alibaba o el modelo DeepSeek y uno de los <strong>escaparates</strong> de la ambición china en inteligencia artificial (IA), ha lanzado una advertencia judicial sobre los límites laborales de esa misma tecnología. El Tribunal Popular Intermedio de esta urbe del este de China ha declarado ilegal el despido de un empleado al que su empresa intentó sustituir por IA después de <strong>degradar</strong> su puesto y rebajarle el salario un 40%. El fallo, difundido en vísperas del Día Internacional de los Trabajadores como parte de una serie de casos paradigmáticos sobre la protección de derechos laborales en el sector, marca una <strong>línea roja</strong> en un país decidido a liderar esta nueva revolución tecnológica, pero cada vez más atento a que sus costes no erosionen la estabilidad social.",
+      "zh": "杭州——阿里巴巴科技巨头和DeepSeek模型的诞生地，中国人工智能雄心的橱窗之一——就这一技术本身的劳动边界发出了司法警告。中国东部这座城市的市中级人民法院裁定，一家企业在降低员工职级并削减其40%薪资后试图以AI取代该员工，此举构成违法解雇。该判决在国际劳动节前夕公布，作为劳动权益保护领域系列典型案例之一，在这个决心引领新技术革命、却日益警惕其代价侵蚀社会稳定的国家划定了一条红线。",
+      "vocab": [
+        {
+          "word": "escaparates",
+          "translation": "橱窗，展示窗口",
+          "note": "escaparate 本义为商店的『橱窗』，引申为『展示某种实力或形象的平台』；ser un escaparate de（成为……的展示窗口）是新闻评论的高频隐喻；同根词：escapar（逃跑）——两词同源但含义已完全分离，注意区分。"
+        },
+        {
+          "word": "degradar",
+          "translation": "降职，降级；（另义）降解，贬低",
+          "note": "degradar 在劳动语境中指『降低职级』，在环境语境中指『降解』，在道德语境中指『贬低人格』；三种含义在新闻中均常见，是典型的一词多义词，需根据语境判断。"
+        },
+        {
+          "word": "línea roja",
+          "translation": "红线，不可逾越的界限",
+          "note": "línea roja 是直接从英语 red line 借译的政治外交术语，指『不可逾越的底线』；在新闻报道中极为常见：marcar una línea roja（划定红线）、cruzar una línea roja（越过红线）；了解这类英语借译表达是理解当代西语新闻的重要能力。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "El protagonista del caso es un trabajador de 35 años, identificado por los medios chinos con el apellido Zhou, que se incorporó en 2022 a una empresa de tecnología financiera (conocidas como fintech) como supervisor de control de calidad de modelos de IA. La tarea de este técnico sénior consistía en revisar <strong>discrepancias</strong> producidas por los grandes modelos de lenguaje, parecidos a ChatGPT o Gemini, con el objetivo de garantizar resultados precisos. Entre otras funciones, emparejaba consultas de usuarios con sistemas de IA y <strong>filtraba</strong> contenidos ilegales o que pudieran vulnerar la privacidad, según el expediente citado por la agencia de noticias Xinhua.",
+      "zh": "案件的主角是一名35岁的劳动者，中国媒体以周姓对其进行报道，他于2022年加入一家金融科技公司，担任AI模型质量控制主管。这位高级技术人员的工作是审核大型语言模型（类似ChatGPT或Gemini）产生的偏差，以确保结果准确。据新华社援引的案卷记录，他的职责还包括将用户查询与AI系统进行匹配，以及过滤违法或可能侵犯隐私的内容。",
+      "vocab": [
+        {
+          "word": "discrepancias",
+          "translation": "偏差，差异，不一致之处",
+          "note": "discrepancia 指两个结果或观点之间的『不一致、出入』；在技术语境中指模型输出与预期之间的偏差，在观点语境中指意见分歧；固定搭配：discrepancia entre A y B（A与B之间的差异）；同根词：discrepar（存在分歧）、discrepante（有分歧的）。"
+        },
+        {
+          "word": "filtraba",
+          "translation": "过滤，筛选，审核",
+          "note": "filtrar 本义为液体『过滤』，在数字和内容审核语境中指『筛除不符合标准的内容』；filtrar contenidos（过滤内容）是互联网治理报道的核心词汇；同根词：filtro（过滤器；滤镜）、filtración（过滤；泄露）——注意 filtración 还可指信息『泄露』。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Con el tiempo, esas tareas pasaron a ser asumidas por la IA. En enero de 2025, la compañía propuso trasladar a Zhou a un puesto de menor categoría, lo que implicaba un <strong>recorte salarial</strong> de 25.000 yuanes mensuales a 15.000, es decir, de unos 3.200 euros a 1.900. Ante la negativa de Zhou, la empresa <strong>rescindió</strong> su contrato alegando una reorganización interna y una reducción del personal. Zhou reclamó una compensación mayor ante la instancia arbitral, que concluyó que el despido había sido improcedente y respaldó su reclamación.",
+      "zh": "随着时间推移，这些工作逐渐由AI承担。2025年1月，公司提议将周某调至较低职级的岗位，这意味着月薪从25000元降至15000元，即从约3200欧元降至1900欧元。面对周某的拒绝，公司以内部重组和裁员为由解除了其劳动合同。周某向仲裁机构申请更高赔偿，仲裁机构认定该解雇属于违法解雇，并支持了其诉求。",
+      "vocab": [
+        {
+          "word": "recorte salarial",
+          "translation": "薪资削减，降薪",
+          "note": "recorte 由 recortar（削减、裁剪）派生，在经济和劳动报道中专指『削减』；recorte salarial（降薪）、recorte presupuestario（预算削减）、recorte de plantilla（裁员）是三个最常见的搭配；同根词：cortar（切割）、recortar（削减）、recorte（削减；剪报）。"
+        },
+        {
+          "word": "rescindió",
+          "translation": "解除（合同），终止",
+          "note": "rescindir 是法律术语，专指『正式解除合同或协议』；rescindir un contrato（解除合同）是劳动法报道的核心词汇；比 cancelar（取消）更正式，且专用于具有法律约束力的合同；同根词：rescisión（解除，名词形式）。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "La compañía llevó en agosto el caso ante un tribunal de distrito y, tras perder en primera instancia, recurrió ante el tribunal intermedio. La firma sostenía que el avance de la IA había transformado el proyecto en el que Zhou trabajaba y que sus funciones podían ser asumidas por la propia tecnología. En términos jurídicos, intentó <strong>acogerse a</strong> una cláusula de la ley china de contratos laborales que permite rescindir un contrato cuando se produce un <strong>cambio sustancial en las circunstancias objetivas</strong> que impide seguir cumpliéndolo.",
+      "zh": "公司于8月将案件提交区级法院，一审败诉后向中级法院提起上诉。公司主张，AI的进步已经改变了周某所在项目的性质，其职能可由技术本身承担。在法律层面，公司试图援引中国劳动合同法中的一项条款，该条款允许在发生『客观情况重大变化』导致合同无法继续履行时解除合同。",
+      "vocab": [
+        {
+          "word": "acogerse a",
+          "translation": "援引，依据，诉诸（法律条款）",
+          "note": "acogerse a 是固定搭配，本义为『寻求庇护于』，在法律语境中意为『援引某一条款或权利作为依据』；acogerse a una cláusula（援引条款）、acogerse al derecho de asilo（申请庇难权）；比 invocar（援引）更强调主动寻求保护的姿态。"
+        },
+        {
+          "word": "cambio sustancial en las circunstancias objetivas",
+          "translation": "客观情况发生重大变化",
+          "note": "这是中国劳动合同法的核心法律术语，sustancial 意为『实质性的、重大的』（注意：不是 substantial 的假朋友，含义相同但拼写不同）；circunstancias objetivas（客观情况）强调变化必须来自外部客观因素，而非企业主观决策。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "La corte intermedia rechazó ese argumento y recordó que ese concepto suele aplicarse a acontecimientos como traslados, fusiones o cambios estructurales de una empresa, no a una decisión voluntaria para reducir costes. En declaraciones a la cadena pública CCTV, Shi Guoqiang, juez de esa corte, resumió que la tecnología actual no tiene la capacidad de sustituir los puestos de trabajo de los humanos. Finalmente, el tribunal concluyó que la firma no había demostrado que el contrato de Zhou se hubiera vuelto imposible de cumplir y consideró que la alternativa ofrecida al trabajador no era razonable. En consecuencia, confirmó que la rescisión había sido <strong>ilícita</strong> y que la empresa debía pagarle una <strong>indemnización</strong> de 260.000 yuanes, alrededor de 33.000 euros.",
+      "zh": "中级法院驳回了这一主张，并指出该概念通常适用于企业迁址、合并或结构性变化等情形，而非出于降低成本目的的主动决策。该法院法官石国强在接受中央电视台采访时表示，现有技术尚不具备取代人类工作岗位的能力。最终，法院认定公司未能证明周某的劳动合同已无法继续履行，且认为向劳动者提供的替代方案不合理。据此，法院确认解除合同行为违法，公司须向其支付26万元人民币赔偿金，约合3.3万欧元。",
+      "vocab": [
+        {
+          "word": "ilícita",
+          "translation": "违法的，非法的",
+          "note": "ilícito/a 由 il-（否定）+ lícito（合法的）构成，是法律文体中描述『违法行为』的标准用词；注意与 ilegal 的细微区别：ilegal 强调违反具体法律条文，ilícito 更广泛，指违反法律或道德规范；两者在新闻中常可互换。"
+        },
+        {
+          "word": "indemnización",
+          "translation": "赔偿金，补偿金",
+          "note": "indemnización 由 indemnizar（赔偿）派生，源自拉丁语 indemnis（无损失的）；在劳动法语境中专指『因违法解雇或损害而支付的赔偿金』；固定搭配：pagar una indemnización（支付赔偿金）、indemnización por despido（解雇赔偿金）。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "El caso tiene algo de <strong>paradoja</strong>. Hangzhou, capital de la provincia oriental de Zhejiang y hogar de casi 12 millones de personas, se ha presentado en los últimos años como uno de los nuevos polos tecnológicos chinos. Más amable y mucho menos saturada que Pekín o Shanghái, ha dado cobijo a algunas de las empresas más <strong>punteras</strong> del sector. A DeepSeek, el modelo de IA generativa que sacudió a comienzos del año pasado el sector logrando resultados punteros a bajo coste, se suman otras como Unitree Robotics, Deep Robotics, BrainCo, Manycore Tech o Game Science, que la prensa china agrupa bajo la etiqueta de los <strong>seis pequeños dragones</strong> de Hangzhou. Son firmas que encarnan la nueva ambición de las autoridades comunistas bajo el paraguas de la autosuficiencia: avanzar en grandes modelos de lenguaje, robótica, interfaces cerebro-máquina o software industrial.",
+      "zh": "这个案件带有几分悖论色彩。杭州是浙江省省会，拥有近1200万人口，近年来已将自身定位为中国新兴科技中心之一。相比北京或上海，这里更宜居、远没有那么拥挤，吸引了一批行业内最前沿的企业落户。除了DeepSeek——这个以低成本实现顶尖成果、去年年初震动行业的生成式AI模型——还有宇树科技、深度机器人、BrainCo、曼孚科技和游戏科学等企业，中国媒体将其归入杭州『六小龙』的标签之下。这些公司在自主可控的旗帜下，承载着共产党当局的新雄心：在大型语言模型、机器人技术、脑机接口和工业软件领域持续推进。",
+      "vocab": [
+        {
+          "word": "paradoja",
+          "translation": "悖论，矛盾现象",
+          "note": "paradoja 源自希腊语 paradoxon（违反常理的），指『表面上自相矛盾但实则揭示深层真相的现象』；tener algo de paradoja（带有几分悖论色彩）是评论性文体的高频表达；同根词：paradójico（悖论性的）、paradójicamente（矛盾地）。"
+        },
+        {
+          "word": "punteras",
+          "translation": "前沿的，顶尖的，领先的",
+          "note": "puntero/a 由 punta（尖端）派生，意为『处于最前沿的』；empresas punteras（前沿企业）、tecnología puntera（尖端技术）是科技报道的高频表达；注意 puntero 还可作名词，指『教鞭』或『鼠标指针』，需根据语境区分。"
+        },
+        {
+          "word": "bajo el paraguas de",
+          "translation": "在……的旗帜下，在……的保护伞下",
+          "note": "bajo el paraguas de 字面义为『在雨伞下』，引申为『在某一框架、政策或保护机制的庇护之下』；是政治和商业报道的固定隐喻；类似表达：bajo el amparo de（在……庇护下）、bajo la égida de（在……主导下）。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "La decisión llega en un momento sensible para China. El país ha hecho de la IA uno de los <strong>pilares</strong> de su <strong>pugna</strong> con Estados Unidos, pero arrastra al mismo tiempo una presión persistente sobre el empleo juvenil y los trabajadores de oficina, precisamente los más expuestos a la automatización de tareas administrativas, creativas o de análisis. Según la Oficina Nacional de Estadísticas, la tasa de desempleo entre jóvenes de 16 a 24 años, excluyendo estudiantes, se situó en marzo en el 16,9%, ocho décimas por encima del dato de febrero. La tasa general de paro urbano fue del 5,4%.",
+      "zh": "这一判决在中国的敏感时刻到来。中国已将AI列为与美国博弈的支柱之一，但与此同时，青年就业和办公室工作者的就业压力持续存在——而这些人恰恰是最容易受到行政、创意或分析类任务自动化冲击的群体。据国家统计局数据，3月份16至24岁青年（不含在校学生）失业率为16.9%，比2月份高出0.8个百分点。城镇总体失业率为5.4%。",
+      "vocab": [
+        {
+          "word": "pilares",
+          "translation": "支柱，核心组成部分",
+          "note": "pilar 本义为建筑『柱子』，引申为『支撑某一体系或战略的核心要素』；hacer de algo uno de los pilares（将某事列为支柱之一）是政策报道的高频表达；同根词：pilastra（壁柱）；注意与 columna（柱子；专栏）的区别：pilar 更强调支撑功能，columna 更强调形态。"
+        },
+        {
+          "word": "pugna",
+          "translation": "博弈，角力，争斗",
+          "note": "pugna 源自拉丁语 pugna（战斗），在新闻中指国家或势力之间的『竞争性对抗』；en pugna con（与……角力）、pugna tecnológica（科技博弈）是地缘政治报道的高频词；比 competencia（竞争）更强调对抗性，比 guerra（战争）更隐晦。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "El de Hangzhou no es un caso aislado. En 2024, el Tribunal Intermedio de Cantón examinó un proceso similar, en el que el puesto de una diseñadora gráfica había sido sustituido por la IA. Entonces, también concluyó que la actualización tecnológica que alegaba la empresa no podía considerarse, por sí sola, una <strong>circunstancia objetiva</strong> que justificara la ruptura unilateral del contrato. En Pekín, la Oficina Municipal de Recursos Humanos y Seguridad Social difundió en 2025 un caso de arbitraje sobre un recopilador de datos cartográficos desplazado por la IA, cuyo despido también se consideró ilegal.",
+      "zh": "杭州案并非孤例。2024年，广州市中级法院审理了一起类似案件，一名平面设计师的岗位被AI取代。彼时，法院同样认定公司援引的技术升级，单凭这一点本身，不能被视为可以正当化单方面解除合同的『客观情况』。2025年，北京市人力资源和社会保障局公布了一起仲裁案例，涉及一名被AI取代的地图数据采集员，其解雇同样被认定为违法。",
+      "vocab": [
+        {
+          "word": "por sí sola",
+          "translation": "单凭这一点，仅靠自身，独自",
+          "note": "por sí solo/a 是固定表达，意为『仅凭某一因素本身，不借助其他条件』；在法律和论辩语境中极为重要：no puede justificarse por sí solo（单凭这一点无法自证正当）；注意性数变化：por sí solo（阳性）、por sí sola（阴性）。"
+        },
+        {
+          "word": "unilateral",
+          "translation": "单方面的",
+          "note": "unilateral 由 uni-（单一）+ lateral（侧面的）构成，指『仅由一方决定、不经另一方同意的』；ruptura unilateral del contrato（单方面解除合同）是劳动法的核心概念；对应词：bilateral（双边的）、multilateral（多边的）。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "La lectura más prudente del fallo de Hangzhou no es que China haya prohibido los despidos vinculados a la IA, sino que intentará impedir que la automatización sirva para <strong>eludir</strong> obligaciones laborales y abaratar el coste de las reestructuraciones. En una columna publicada en el digital Fengmian, el periodista Jiang Jingjing advertía contra una interpretación demasiado amplia del fallo: <strong>Es un viejo problema, y la IA no es más que un nuevo pretexto</strong>. Su conclusión apunta a los límites de la vía judicial, ya que los tribunales no pueden garantizar que la IA no sustituya empleos. <strong>Solo pueden procurar que, cuando ocurra, el trabajador reciba una compensación económica justa conforme a la ley</strong>, escribe. El desafío, añade, está ahora en convertir las directrices oficiales sobre <strong>un desarrollo favorable al empleo</strong> en medidas concretas para gestionar el impacto laboral que inevitablemente tendrá la IA.",
+      "zh": "对杭州判决最为审慎的解读，并非中国已禁止与AI相关的解雇，而是将努力阻止自动化被用作规避劳动义务、压低重组成本的借口。记者江静静在凤面数字媒体发表的一篇专栏文章中，警告不要对该判决作出过于宽泛的解读：『这是一个老问题，AI不过是一个新借口。』他的结论指向司法途径的局限性——法院无法保证AI不会取代工作岗位。『法院只能努力确保，当这种情况发生时，劳动者依法获得公正的经济补偿，』他写道。他补充说，现在的挑战在于将官方关于『有利于就业的发展』的指导方针，转化为切实可行的措施，以应对AI不可避免地带来的就业冲击。",
+      "vocab": [
+        {
+          "word": "eludir",
+          "translation": "规避，逃避，绕开",
+          "note": "eludir 源自拉丁语 eludere（躲开），意为『巧妙地绕开义务或责任』；比 evitar（避免）更强调有意识地钻空子；固定搭配：eludir obligaciones（规避义务）、eludir impuestos（逃税）、eludir responsabilidades（推卸责任）。"
+        },
+        {
+          "word": "pretexto",
+          "translation": "借口，托词",
+          "note": "pretexto 源自拉丁语 praetextum（遮掩物），指『用来掩盖真实意图的表面理由』；no es más que un pretexto（不过是一个借口）是论辩性文体的高频表达；注意与 excusa（辩解，更偏向为错误辩护）的区别：pretexto 更强调虚假性和欺骗意图。"
+        },
+        {
+          "word": "directrices",
+          "translation": "指导方针，指令，准则",
+          "note": "directriz（复数 directrices）源自 dirigir（指导），在政策语境中指『官方发布的指导性原则或方针』；比 norma（规范）更具方向性，比 ley（法律）约束力更弱；固定搭配：directrices oficiales（官方指导方针）、seguir las directrices（遵循准则）。"
+        }
+      ]
+    }
+  ]
+}
+

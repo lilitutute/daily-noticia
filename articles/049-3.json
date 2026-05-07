@@ -1,0 +1,176 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会与性别",
+  "difficulty": "B2",
+  "wordCount": "约850词",
+  "title": "El ocio imposible de las profesoras chilenas",
+  "subtitle": "智利女教师们不可能拥有的休闲时光",
+  "resumenEs": "La autora, investigadora con 20 años de experiencia entrevistando a docentes chilenas, denuncia que las profesoras de hoy enfrentan una triple jornada: el trabajo en el aula, el cuidado de familiares en casa y las tareas domésticas. La distribución clásica de ocho horas para el trabajo, el descanso y el ocio es una ficción para ellas, porque el sistema de cuidados es caro, los hombres siguen desvinculados del hogar y el Estado no ofrece infraestructura suficiente. El ocio —ese tiempo para respirar y desconectarse— ha desaparecido de sus vidas. La autora rechaza los discursos de autocuidado como solución superficial y exige un reconocimiento estructural: el ocio es un derecho, y alguien debe empezar a sostener a quienes sostienen a todos.",
+  "resumenZh": "作者是一位拥有20年采访智利教师经验的研究者，她指出当今女教师面临三重负担：课堂教学、在家照料家人以及家务劳动。经典的『三个八小时』分配对她们而言是一种虚构——因为照护服务价格高昂，男性仍游离于家务之外，国家也未能提供足够的基础设施支撑。休闲——那段用于喘息和放松的时间——已从她们的生活中消失。作者拒绝将自我关怀话语作为肤浅的解决方案，并呼吁从结构层面予以正视：休闲是一种权利，必须有人开始支撑那些支撑着所有人的女性。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Hace poco, en el contexto del Día Internacional de los Trabajadores, me llegó esta imagen. Ocho horas para el trabajo, ocho para el descanso y ocho para lo demás. Pensé en las profesoras que entrevisto. Llevo 20 años trabajando en esto. He escuchado a normalistas, a las que enseñaron bajo dictadura, a las que <strong>atravesaron</strong> las reformas de los 90 y los 2000. Cada generación tuvo sus dificultades. Pero las profesoras que entrevisto hoy me tienen <strong>genuinamente</strong> preocupada. Algo ha cambiado.",
+      "zh": "不久前，在国际劳动节的背景下，我看到了这样一张图。八小时用于工作，八小时用于休息，八小时用于其他。我想到了我采访的那些女教师。我在这个领域工作了20年。我倾听过师范学校毕业的教师、在独裁统治下执教的教师、经历了90年代和2000年代改革的教师。每一代人都有各自的困难。但我今天采访的女教师们让我真正感到担忧。有些事情已经改变了。",
+      "vocab": [
+        {
+          "word": "atravesaron",
+          "translation": "经历，穿越，度过（艰难时期）",
+          "note": "atravesar 本义为『穿越、横渡』，在此引申为『经历某一困难时期』；atravesar una crisis（经历危机）、atravesar reformas（经历改革）是新闻和叙事文体的高频表达；比 vivir（经历）更强调穿越困难的过程感。"
+        },
+        {
+          "word": "genuinamente",
+          "translation": "真正地，真诚地，发自内心地",
+          "note": "genuinamente 由 genuino（真实的、纯正的）派生，源自拉丁语 genuinus（天生的）；强调情感或态度的真实性，不是表演出来的；比 verdaderamente（真正地）更强调内在的真诚；同根词：genuino（真实的）、ingenuidad（天真，同源但含义已分离）。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "La premisa es simple y antigua: ocho horas de descanso, ocho de trabajo, ocho de ocio. Una distribución que nació como <strong>demanda obrera</strong> en el siglo XIX y que, en teoría, organiza la vida adulta en sociedades que aspiran al bienestar. En la práctica, esa ecuación fue diseñada pensando en las mujeres que se quedaban en la casa. Y hoy, muchas profesoras chilenas han <strong>colapsado</strong> en una sola jornada interminable.",
+      "zh": "前提简单而古老：八小时休息，八小时工作，八小时休闲。这种分配方式诞生于19世纪的工人运动诉求，理论上组织着那些追求福祉的社会中成年人的生活。但在实践中，这一方程式的设计是以留守家中的女性为前提的。而今天，许多智利女教师已经崩溃在一段无休无止的单一连续工作中。",
+      "vocab": [
+        {
+          "word": "demanda obrera",
+          "translation": "工人诉求，劳工运动要求",
+          "note": "demanda 在此指『诉求、要求』（非法律意义上的『起诉』）；obrero/a 指『工人、劳动者』，是劳工运动和社会史的核心词汇；demanda obrera（工人诉求）、movimiento obrero（工人运动）是理解19世纪社会史报道的必备表达。"
+        },
+        {
+          "word": "colapsado",
+          "translation": "崩溃，压缩，合并成一体",
+          "note": "colapsar 在此用法特殊：han colapsado en una sola jornada 意为『三段时间崩塌压缩成了一段』，是隐喻用法；colapsar 通常指系统或人『崩溃、瘫痪』；同根词：colapso（崩溃）、colapsarse（崩溃）——注意这里的创意用法值得学习。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Los cuidados se han <strong>profesionalizado</strong> y, con ello, se han encarecido. Contratar a alguien que cuide a un adulto mayor, a un hijo pequeño o a un familiar en situación de <strong>dependencia</strong> es hoy un privilegio que pocas familias de ingresos medios pueden sostener. Las profesoras llegan cada mañana al colegio a hacerse cargo del bienestar emocional de estudiantes que atraviesan una crisis de salud mental sin precedentes. El informe de Fundación Colunga lo documenta, pero las profesoras lo saben antes de que llegue cualquier informe; lo ven en sus salas todos los días, en los silencios y en los estallidos.",
+      "zh": "照护工作已经专业化，随之而来的是价格的上涨。雇用专人照料老人、幼儿或有依赖需求的家庭成员，如今是中等收入家庭中很少能够负担的特权。女教师们每天早晨来到学校，承担起学生的情感健康照护——这些学生正经历着前所未有的心理健康危机。科隆加基金会的报告记录了这一现象，但女教师们在任何报告到来之前就已经知道了；她们每天在课堂上都能看到，从那些沉默中，从那些情绪爆发中。",
+      "vocab": [
+        {
+          "word": "profesionalizado",
+          "translation": "专业化的，职业化的",
+          "note": "profesionalizar 由 profesional + -izar 构成，意为『使某一领域变得专业化、需要专业人员来承担』；los cuidados se han profesionalizado（照护工作已专业化）暗示原本由家庭成员免费承担的工作，现在需要付费雇用专业人员；-izar 后缀构词规律：comercializar（商业化）、mercantilizar（市场化）。"
+        },
+        {
+          "word": "dependencia",
+          "translation": "依赖，依存状态；（福利语境）需要照护的状态",
+          "note": "dependencia 在社会福利语境中专指『因年老、残疾或疾病而无法自理、需要他人照护的状态』；situación de dependencia（依赖状态）是西班牙语社会政策的核心术语；同根词：depender（依赖）、dependiente（依赖的；店员）、independencia（独立）。"
+        },
+        {
+          "word": "estallidos",
+          "translation": "爆发，突然爆发的情绪，崩溃",
+          "note": "estallido 由 estallar（爆炸、爆发）派生，本义为『爆炸声』，引申为『情绪或社会矛盾的突然爆发』；en los silencios y en los estallidos（在沉默中和在爆发中）构成对比，生动描述学生心理危机的两种表现形式；同根词：estallar（爆炸；爆发）、estallido social（社会动荡）。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Y cuando suena el timbre de salida, el trabajo no termina. Muchas vuelven a casa para cuidar a sus padres con enfermedades crónicas, para hacerse cargo de sus hijos pequeños, para cocinar, limpiar y sostener una tercera jornada que la sociedad no nombra pero que <strong>estructura silenciosamente</strong> la vida de millones de mujeres. Las que siempre han sido buenas cuidadoras —por algo eligieron la pedagogía— terminan <strong>echándose encima</strong> responsabilidades que desbordan cualquier agenda razonable. Es, en parte, una trampa de la propia vocación.",
+      "zh": "而当下课铃声响起，工作并没有结束。许多人回到家中，照料患有慢性病的父母，照看年幼的孩子，做饭、打扫，维持着第三段工作——社会不为其命名，却悄然构建着数百万女性生活的第三段工作。那些一直以来都是优秀照护者的人——她们选择教育事业不是没有原因的——最终将超出任何合理日程的责任全部揽在自己身上。这在某种程度上，是职业使命感本身设下的陷阱。",
+      "vocab": [
+        {
+          "word": "estructura silenciosamente",
+          "translation": "悄然构建，无声地塑造",
+          "note": "silenciosamente 在此是关键副词，强调这种结构性影响是『不被命名、不被看见』的；estructura（动词，构建）+ silenciosamente 的组合是本文的核心论点之一：无偿照护工作在沉默中组织着女性的生活；这种副词修饰动词的用法在论说文中极具表达力。"
+        },
+        {
+          "word": "echándose encima",
+          "translation": "揽在自己身上，将……压在自己肩上",
+          "note": "echarse encima algo 是固定搭配，意为『主动或被动地将某种负担承担到自己身上』；encima 本义为『在……上面』；这一表达比 asumir（承担）更强调重量感和身体性的压迫意象；同根词：echar（扔；倒）、encima（上面）。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Yo no tengo ese problema. Yo tengo una esposa. Esa frase le dijo un colega hombre a su compañera, casi como un chiste, mientras la profesora corría a buscar a sus hijos al after school. Ella le respondió que también quería una esposa. Una persona sobre la cual <strong>recayera</strong> el cuidado sin remuneración, sin reconocimiento, sin horario de término. Él sonrió incómodo. En su comentario se hacía visible una <strong>infraestructura</strong> —doméstica, afectiva, logística— que sostiene la vida profesional de muchas personas. Y esa infraestructura tiene, casi siempre, nombre de mujer.",
+      "zh": "『我没有那个问题，我有一个妻子。』一位男同事对他的女同事说了这句话，几乎像是一个玩笑，而此时那位女教师正赶着去课后班接孩子。她回答说她也想要一个妻子。一个可以承担无偿照护、无需认可、没有下班时间的人。他尴尬地笑了。他的评论让一种基础设施变得可见——家务的、情感的、后勤的——这种基础设施支撑着许多人的职业生活。而这种基础设施，几乎总是以女性的名字命名。",
+      "vocab": [
+        {
+          "word": "recayera",
+          "translation": "落在……身上，由……承担",
+          "note": "recaer 由 re-（再次）+ caer（落下）构成，意为『（责任、重担）落在某人身上』；recayera 是虚拟式过去未完成时，用于 sobre la cual recayera（落在她身上的）这一关系从句中；固定搭配：recaer sobre alguien（落在某人身上）、recaer la responsabilidad（责任落在……）。"
+        },
+        {
+          "word": "infraestructura",
+          "translation": "基础设施；（引申）支撑体系",
+          "note": "infraestructura 由 infra-（在……之下）+ estructura（结构）构成，本义为『基础设施』（道路、电网等），在此创造性地用于描述支撑职业生活的『隐形家务体系』；这一词的隐喻用法是本文最具思想深度的表达之一，将无偿家务劳动比作社会运转的基础设施。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "El resultado es predecible: el descanso se recorta, y el ocio desaparece. Vale detenerse en esa palabra: ocio. En español carga una <strong>connotación</strong> sospechosa. Pero el ocio no es vagancia. Es el espacio en que una persona se desconecta de lo urgente: tejer, ir al gimnasio, bailar, juntarse con amigas, salir a caminar sin destino. Es el tiempo en que el cuerpo y la mente respiran. Para las profesoras que cuidan en sus casas después de cuidar en sus salas, ese tiempo no existe. Han sido <strong>colonizadas</strong> por una tercera jornada que nadie paga, que se suma a horas largas de traslado en sistemas de transporte sobre todo en las grandes ciudades como Santiago.",
+      "zh": "结果是可以预见的：休息被压缩，休闲消失了。值得在这个词上停留片刻：休闲。在西班牙语中，它带有一种可疑的含义。但休闲不是懒散。它是一个人从紧迫事务中抽离的空间：织毛衣、去健身房、跳舞、与朋友相聚、漫无目的地散步。它是身体和心灵得以呼吸的时间。对于那些在课堂上照护完学生、回家还要继续照护的女教师来说，这段时间根本不存在。她们已被第三段工作所殖民——没有人为此付费，这还要叠加在漫长的通勤时间之上，尤其是在圣地亚哥这样的大城市。",
+      "vocab": [
+        {
+          "word": "connotación",
+          "translation": "含义，隐含意义，附加意涵",
+          "note": "connotación 指一个词在字面意义之外所携带的文化或情感联想；与 denotación（字面意义）相对；cargar una connotación（带有某种含义）是语言学和文化评论的固定表达；同根词：connotar（暗示）、denotar（表示）、notación（符号）。"
+        },
+        {
+          "word": "colonizadas",
+          "translation": "被殖民，被占领，被侵占",
+          "note": "colonizar 本义为『殖民、开拓殖民地』，在此用作隐喻：han sido colonizadas por una tercera jornada（被第三段工作所殖民），将时间的被侵占比作殖民侵略；这种政治隐喻的创意用法是C1级别写作的重要特征；同根词：colonia（殖民地）、colonialismo（殖民主义）、descolonizar（去殖民化）。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "La sociedad, mientras tanto, ha convertido el <strong>autocuidado</strong> en una demanda moral. Hay discursos en todas partes sobre la importancia de dormir bien, meditar, establecer límites. Pero esas son prescripciones para quienes pueden pagar a alguien más para que cuide en su lugar. El bienestar como <strong>mercancía</strong> es bienestar para pocos. Decirle a una profesora que cuida a su madre con alzhéimer, a sus hijos y a 40 estudiantes que tiene que priorizarse es, en el mejor de los casos, una ingenuidad.",
+      "zh": "与此同时，社会已将自我关怀变成了一种道德要求。到处都有关于好好睡觉、冥想、设定边界的重要性的话语。但这些处方是为那些能够花钱雇人代为照护的人准备的。作为商品的幸福，是少数人的幸福。告诉一位同时照料患阿尔茨海默症的母亲、自己的孩子和40名学生的女教师『你必须优先照顾自己』，往好里说，是一种天真。",
+      "vocab": [
+        {
+          "word": "autocuidado",
+          "translation": "自我关怀，自我照护",
+          "note": "autocuidado 由 auto-（自我）+ cuidado（照护）构成；auto- 是极高产的前缀：autogestión（自我管理）、autoempleo（自雇）、autosuficiencia（自给自足）；作者批判将 autocuidado 商品化的话语，认为它将结构性问题转化为个人责任。"
+        },
+        {
+          "word": "mercancía",
+          "translation": "商品，货物",
+          "note": "mercancía 指可以买卖的『商品』，源自 mercado（市场）；el bienestar como mercancía（作为商品的幸福）是本文的核心批判概念，指幸福感被商业化、只有付得起钱的人才能获得；同根词：mercado（市场）、mercantil（商业的）、comercio（贸易）。"
+        },
+        {
+          "word": "ingenuidad",
+          "translation": "天真，幼稚，不切实际的想法",
+          "note": "ingenuidad 由 ingenuo（天真的）派生，源自拉丁语 ingenuus（天生自由的、坦率的）；在此带有批评意味，指某种建议脱离现实、过于简单化；注意与 genuino（真实的）同源但含义已分离；同根词：ingenuo（天真的）、ingenuamente（天真地）。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Lo que necesitamos no es otra campaña de autocuidado. Necesitamos <strong>transparentar</strong> lo que ocurre: que el Estado y el mercado no están cuidando de manera suficiente ni asequible; que muchos hombres siguen desvinculados de las labores domésticas; que no enseñamos a niños y adolescentes a hacerse cargo del hogar; que todo ese peso recae, casi siempre, sobre una mujer. No aspiro a que las profesoras tengan una esposa. Aspiro a que reconozcamos que el ocio es un derecho, que las ocho horas que les corresponden no pueden seguir siendo una jornada de cuidados que nadie <strong>contabiliza</strong> ni ve.",
+      "zh": "我们需要的不是又一场自我关怀运动。我们需要让正在发生的事情变得透明：国家和市场提供的照护既不充分也不可负担；许多男性仍然游离于家务劳动之外；我们没有教导儿童和青少年承担家务；所有这些重量，几乎总是落在一个女人身上。我不渴望女教师们拥有一个妻子。我渴望我们承认休闲是一种权利，属于她们的那八小时不能继续成为一段没有人统计、没有人看见的照护工作。",
+      "vocab": [
+        {
+          "word": "transparentar",
+          "translation": "使透明，揭示，让……变得可见",
+          "note": "transparentar 由 transparente（透明的）+ -ar 构成，意为『使某一隐藏的现实变得可见、公开』；在社会批评和政策语境中，transparentar lo que ocurre（让正在发生的事情变得透明）是呼吁揭示结构性问题的有力表达；同根词：transparencia（透明度）、transparente（透明的）。"
+        },
+        {
+          "word": "contabiliza",
+          "translation": "统计，计入，纳入核算",
+          "note": "contabilizar 在此指将无偿照护工作『纳入统计、予以承认』；nadie contabiliza（没有人统计）与前文 nadie paga（没有人付费）形成呼应，共同指向无偿家务劳动的不可见性；同根词：contabilidad（会计）、cuenta（账户）、contar（计算；讲述）。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "En otros países hay gimnasios con guarderías, hay after school estatales hasta las 19.00 horas que se pagan <strong>acorde al salario</strong>. Y si dos veces a la semana llegas a la hora de cierre, se entiende que la mamá pasó a descansar del cuidado y no abandonó al hijo/a. En Chile, en algunas escuelas los directores han dejado espacio dentro de la jornada laboral para que las profesoras cuidadoras puedan tener un momento de ocio. Las profesoras chilenas están sosteniendo demasiado, como muchas otras trabajadoras. Por más que hagamos algunas medidas, la reflexión es de fondo. Alguien va a tener que empezar a <strong>sostener</strong> a las profesoras chilenas que educan a nuestros hijos.",
+      "zh": "在其他国家，有附设托儿所的健身房，有开放到晚上7点、按工资水平收费的国家课后托管服务。如果一周两次你在关门时才来接孩子，大家会理解这位妈妈是去休息了，而不是遗弃了孩子。在智利，一些学校的校长已经在工作时间内为有照护责任的女教师留出了一些休闲时间。智利女教师们承担得太多了，正如许多其他女性劳动者一样。无论我们采取多少措施，这都是一个根本性的反思。必须有人开始支撑那些教育我们子女的智利女教师。",
+      "vocab": [
+        {
+          "word": "acorde al salario",
+          "translation": "按照工资水平，与收入相符",
+          "note": "acorde a/con 是固定搭配，意为『与……相符、按照……比例』；acorde al salario（按工资水平）在社会政策语境中指『根据收入高低差异化收费』的累进制原则；同根词：acuerdo（协议）、acordar（商定）、de acuerdo（同意）。"
+        },
+        {
+          "word": "sostener",
+          "translation": "支撑，维持，承托",
+          "note": "sostener 贯穿全文，是作者的核心动词：女教师们在『sostener』（支撑）学生、家人和社会，但没有人来『sostener』她们；文章最后一句 empezar a sostener a las profesoras 形成首尾呼应；注意 sostener 与 soportar 的区别：sostener 更强调主动支撑，soportar 更强调被动忍受。"
+        }
+      ]
+    }
+  ]
+}
