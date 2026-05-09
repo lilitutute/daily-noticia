@@ -1,0 +1,81 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "文学与随笔",
+  "difficulty": "C1",
+  "wordCount": "约400词",
+  "title": "Struwwelpeter",
+  "subtitle": "蓬头彼得",
+  "resumenEs": "Un narrador recibe en casa a un pariente pequeño y, tras la cena, lo lleva a su estudio para mostrarle libros y juguetes de su infancia. El momento culmina cuando el niño descubre el Struwwelpeter, un viejo libro de cuentos alemán, y pide que se lo cuenten. El narrador reflexiona sobre el lazo de sangre y memoria que une a las generaciones, evocando a su abuela alemana que le contaba esas mismas historias.",
+  "resumenZh": "叙述者在家中接待一位年幼的亲戚，晚饭后带他去书房，展示自己童年时的书籍与玩具。当孩子发现那本古老的德国故事书《蓬头彼得》并要求讲故事时，整个场景达到高潮。叙述者由此沉思血脉与记忆将几代人相连的纽带，并追忆起曾为自己讲述这些故事的德国祖母。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Uno de mis parientes más jóvenes viene a cenar a casa. Se concentra en el camión de juguete que le regalo, se mantiene en un silencio <strong>tozudo</strong>. Cuando terminamos de cenar le digo que vayamos a mi estudio. Se levanta, pide que le dé la mano para atravesar el pasillo. Ya en el estudio, le muestro libros de mi infancia, de esos que llaman pop up y despliegan figuras en tres dimensiones. Él pasa las páginas mirando construcciones de papel que tienen más de 50 años, <strong>ajadas</strong> por el toqueteo de mis manos infantiles, un rastro fósil que no puede percibir.",
+      "zh": "我一位年幼的亲戚来家里吃晚饭。他专注于我送给他的玩具卡车，沉默着，带着一股倔劲。晚饭结束后，我提议去我的书房。他站起来，要我牵着他的手穿过走廊。到了书房，我给他看我童年时的书——那种叫做立体书的，能展开三维图案的书。他翻着书页，看着那些有着五十多年历史的纸质构造，那是被我儿时双手翻摸而留下的褶皱，一道他无从感知的化石痕迹。",
+      "vocab": [
+        {
+          "word": "tozudo",
+          "translation": "固执的，倔强的",
+          "note": "tozudo 专指一种顽固不化、难以说服的性格，比 terco 更带有负面色彩，常用于描述人的态度或沉默，近义词 obstinado 则更多用于正式书面语。"
+        },
+        {
+          "word": "ajadas",
+          "translation": "褶皱的，磨损的，憔悴的",
+          "note": "ajar 指「因反复使用或时间流逝而使物品或人显得陈旧、起皱」，可用于布料、纸张，也可形容人的面容（rostro ajado），是一个有文学色彩的词。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Bajo de un placard un perro de plástico blando, Pluto, con el que aparezco en una foto, tomada en la galería de la casa de mi abuela alemana, a los dos años. Un perro que tiene mi edad. Le toca las orejas, habla como un loro: leeme ese cuento, quién es el señor de esa foto (no sé cómo explicarle que la única foto que hay en mi estudio es de mi editor uruguayo, Homero Alsina Thevenet, entonces le digo que era mi maestro). De pronto mira un libro viejo que está en un estante. Lo señala. Se lo <strong>acerco</strong>. Le digo: \"Es el Struwwelpeter, me lo contaba tu bisabuela\". Pasa las páginas, <strong>acaricia</strong> la melena de ese muchacho que se negaba a cortarse el pelo y las uñas.",
+      "zh": "我从柜子里取出一只软塑料小狗——普鲁托，我在两岁时与它合影，照片摄于我德国祖母家的走廊。一只与我同龄的小狗。他摸了摸它的耳朵，像鹦鹉一样喋喋不休：给我讲那个故事，照片里的先生是谁（我不知道如何向他解释，书房里唯一一张照片上的人是我的乌拉圭编辑奥梅罗·阿尔西纳·特韦内特，于是我告诉他那是我的老师）。突然，他看到书架上一本旧书，用手指着它。我把书递到他面前，说：「这是《蓬头彼得》，是你曾祖母讲给我听的。」他翻着书页，抚摸着那个拒绝剪头发和指甲的男孩的蓬乱长发。",
+      "vocab": [
+        {
+          "word": "acerco",
+          "translation": "把……递近，拿给",
+          "note": "acercar algo a alguien 意为「把某物移近某人、递给某人」，注意与 aproximarse（自己靠近）的方向区别：acercar 是他动用法，aproximarse 是自动用法。"
+        },
+        {
+          "word": "acaricia",
+          "translation": "抚摸，轻抚",
+          "note": "acariciar 专指「温柔地抚摸」，比 tocar 更具情感温度，在文学语境中也可用于抽象对象，如 acariciar una idea（心中萦绕某个念头），是一个兼具日常与文学价值的词。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Dice. \"Contame\". No sé alemán, recuerdo la historia porque mi abuela me la tradujo cientos de veces. La <strong>dulcifico</strong>, no le digo que el muchacho terminó con los dedos mutilados por negarse a un corte de uñas. Él se sienta en mi <strong>regazo</strong> en un movimiento inesperado y <strong>conmovedor</strong>. ¿Por qué se acerca así, como si yo le perteneciera? Me pregunto si este pequeño instante quedará grabado en sus recuerdos como quedará en los míos.",
+      "zh": "他说：「讲给我听。」我不懂德语，记得这个故事是因为祖母给我翻译过无数遍。我将故事柔化了，没有告诉他那个男孩因拒绝剪指甲而最终手指残缺。他出人意料地、令人动容地坐到了我的膝上。他为何如此靠近，仿佛我是属于他的？我不禁想，这个小小的瞬间，是否会像留在我记忆中一样，也留在他的记忆里。",
+      "vocab": [
+        {
+          "word": "dulcifico",
+          "translation": "将……柔化，使……温和",
+          "note": "dulcificar 由 dulce（甜、温柔）+ 后缀 -ficar（使……化）构成，表示「使某事物变得温和或不那么残酷」，同类构词有 simplificar、clarificar、intensificar。"
+        },
+        {
+          "word": "regazo",
+          "translation": "膝上，怀抱",
+          "note": "regazo 专指「坐着时大腿形成的可供人依偎的空间」，即英语的 lap，在文学语境中常带有温情与庇护的象征意味，是一个有情感色彩的具体名词。"
+        },
+        {
+          "word": "conmovedor",
+          "translation": "令人动容的，感人的",
+          "note": "conmovedor 来自 conmover（感动、触动），注意与 emocionante 的细微差别：conmovedor 更侧重内心深处被触动乃至鼻酸的感受，emocionante 则泛指令人激动或兴奋。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Ese <strong>lazo</strong> de sangre y memoria, yo contándole el cuento que me contaba mi abuela. Le digo que hay helado, pregunta si es de chocolate, le digo que sí. Se baja de mi regazo, me extiende la mano y vamos juntos por el pasillo, atravesando las grandes, las hermosas aguas, hacia nuestros futuros inciertos.",
+      "zh": "那是一条血脉与记忆编织的纽带——我讲着祖母曾讲给我听的故事。我告诉他有冰淇淋，他问是不是巧克力味的，我说是。他从我膝上滑下来，向我伸出手，我们一起走过走廊，穿越那片浩瀚而美丽的水域，走向各自不确定的未来。",
+      "vocab": [
+        {
+          "word": "lazo",
+          "translation": "纽带，联结；蝴蝶结；套索",
+          "note": "lazo 是典型的一词多义词：既指实物「蝴蝶结、套索」，也指抽象的「情感纽带、联结」，此处为引申义，在文学和情感语境中 lazo de sangre（血脉纽带）是常见固定搭配。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会与教育",
+  "difficulty": "B2",
+  "wordCount": "约600词",
+  "title": "Azotes con vara contra los acosadores escolares: la mano dura de Singapur contra el 'bullying'",
+  "subtitle": "藤条惩戒校园霸凌者：新加坡对欺凌行为的铁腕政策",
+  "resumenEs": "Singapur ha reforzado su política disciplinaria escolar permitiendo el castigo corporal, incluidos los azotes con vara, como último recurso contra el acoso escolar. La medida, defendida por el ministro de Educación, se aplica bajo un protocolo estricto y se enmarca en un sistema legal más amplio conocido por su tolerancia cero, aunque choca con las recomendaciones de organismos internacionales como UNICEF y la OMS.",
+  "resumenZh": "新加坡强化了校园纪律政策，允许将体罚（包括藤条鞭打）作为对抗校园欺凌的最后手段。该措施由教育部长为其辩护，须在严格程序下执行，并与该国以零容忍著称的更广泛法律体系相契合，但与联合国儿童基金会和世界卫生组织等国际机构的建议相悖。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Singapur ha vuelto a <strong>tensar la cuerda</strong> entre disciplina y pedagogía. En una ciudad-Estado donde el extremo orden público es una <strong>seña de identidad</strong>, el Gobierno ha decidido reforzar su arsenal contra el acoso escolar con una polémica medida: los castigos corporales, incluidos los azotes con vara, serán una herramienta legítima en las aulas para luchar contra el bullying, aunque siempre como último recurso.",
+      "zh": "新加坡再度在纪律与教育理念之间绷紧了那根弦。在这个以极度公共秩序为标志性特征的城市国家，政府决定以一项颇具争议的措施强化其对抗校园欺凌的手段：体罚——包括藤条鞭打——将作为课堂上打击欺凌行为的合法工具，但始终作为最后手段。",
+      "vocab": [
+        {
+          "word": "tensar la cuerda",
+          "translation": "绷紧绳子；加剧紧张态势",
+          "note": "固定搭配，字面义为「拉紧绳子」，引申为「在两种对立力量或立场之间制造或加剧张力」，新闻中常用于描述政策或外交上的强硬姿态。"
+        },
+        {
+          "word": "seña de identidad",
+          "translation": "标志性特征，身份标识",
+          "note": "固定搭配，相当于英语的 hallmark 或 defining feature，常用于描述某个国家、机构或人物最具代表性的特质，新闻评论中高频出现。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "El ministro de Educación, Desmond Lee, defendió esta semana en el Parlamento un enfoque que combina firmeza y control institucional. Según explicó, las escuelas solo <strong>recurrirán</strong> a este tipo de sanción cuando \"todas las demás medidas resulten insuficientes\", y siempre bajo un protocolo estricto: autorización previa del director, aplicación por profesores acreditados y evaluación individual del alumno, teniendo en cuenta su madurez y la capacidad del castigo para generar aprendizaje.",
+      "zh": "教育部长德斯蒙德·李本周在议会为一种兼顾坚定立场与制度管控的做法进行辩护。他解释称，学校只有在「所有其他措施均告不足」时才会诉诸此类处罚，且须遵循严格程序：须经校长事先授权，由经认证的教师执行，并对学生进行个案评估，综合考量其心智成熟度以及该惩戒能否起到教育效果。",
+      "vocab": [
+        {
+          "word": "recurrirán",
+          "translation": "将诉诸，将求助于",
+          "note": "recurrir a 是重要固定搭配，意为「求助于、诉诸某手段或方法」，注意不要与 ocurrir（发生）混淆，两者拼写相近但含义完全不同。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "\"No se utilizará nunca de forma aislada\", insistió Lee. El castigo físico forma parte de un paquete más amplio de medidas que incluyen \"seguimiento psicológico, asesoramiento y acompañamiento tras la sanción\". La intención, subrayó el ministro, no es <strong>punitiva</strong> en sí misma, sino <strong>correctiva</strong>: reconducir conductas en un entorno que prioriza la seguridad colectiva sobre la indulgencia.",
+      "zh": "「绝不会单独使用，」李部长强调。体罚是一套更广泛措施的组成部分，其中包括「惩戒后的心理跟踪、辅导与陪伴」。部长强调，其目的本身并非惩罚性的，而是矫正性的：在一个将集体安全置于宽容之上的环境中，引导行为回归正轨。",
+      "vocab": [
+        {
+          "word": "punitiva",
+          "translation": "惩罚性的",
+          "note": "punitivo/a 源自拉丁语 punire（惩罚），是法律和教育语境中的高频词，同族词有 impunidad（有罪不罚）、punible（应受惩处的），掌握词根 pun- 可举一反三。"
+        },
+        {
+          "word": "correctiva",
+          "translation": "矫正性的，纠正性的",
+          "note": "correctivo/a 与 punitivo/a 在本文中形成对比，前者强调「纠正行为」，后者强调「施加惩罚」，这一辨析在教育学和法律讨论中极为常见。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "El nuevo marco disciplinario, anunciado tras un año de revisión y varios casos de acoso que sacudieron a la opinión pública, contempla sanciones <strong>escalonadas</strong>. Los \"infractores primerizos\" por faltas graves pueden enfrentarse a detención, suspensión o una rebaja en su calificación de conducta. En situaciones agravadas, los alumnos varones (especialmente en los últimos cursos de primaria y secundaria) pueden recibir hasta tres azotes. Las alumnas, en cambio, quedan excluidas de esta práctica por el Código de Procedimiento Penal, que prohíbe expresamente el castigo corporal femenino.",
+      "zh": "这一新纪律框架在经过一年审查、以及数起震动舆论的欺凌事件后宣布出台，设有分级处罚机制。因严重违规而「初次违纪」的学生，可能面临拘留、停课或品行评分降级。在情节加重的情况下，男生（尤其是小学高年级和中学阶段）最多可被鞭打三下。而女生则依据《刑事诉讼法》明确豁免于此类处罚，该法典明令禁止对女性施以体罚。",
+      "vocab": [
+        {
+          "word": "escalonadas",
+          "translation": "分级的，逐步递进的",
+          "note": "escalonado/a 来自 escalón（台阶），引申为「按阶梯式递进的」，常见搭配有 sanciones escalonadas（分级处罚）、aumento escalonado（逐步增加），是政策文本中的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "La política de Singapur choca frontalmente con organismos internacionales como UNICEF o la Organización Mundial de la Salud, que advierten de los efectos <strong>nocivos</strong> del castigo físico en menores. Diversos estudios citados por estas entidades <strong>vinculan</strong> su uso frecuente con problemas de salud mental y conductas agresivas a largo plazo. Lee no rehuyó la crítica, pero matizó: \"El contexto en nuestras escuelas es diferente\", dijo, aludiendo a la regulación estricta y al carácter excepcional de la medida.",
+      "zh": "新加坡的政策与联合国儿童基金会、世界卫生组织等国际机构正面相悖，这些机构警告体罚对未成年人的有害影响。上述机构援引的多项研究将体罚的频繁使用与长期心理健康问题及攻击性行为相关联。李部长没有回避批评，但作出了补充说明：「我们学校的情况有所不同，」他说，并援引严格的监管机制和该措施的例外性质为由。",
+      "vocab": [
+        {
+          "word": "nocivos",
+          "translation": "有害的，有毒的",
+          "note": "nocivo/a 是B2级高频形容词，常用于医学、环境和社会议题，近义词 dañino 更口语化，而 nocivo 多见于正式文体和学术报告，如 efectos nocivos、sustancias nocivas。"
+        },
+        {
+          "word": "vinculan",
+          "translation": "将……与……相关联",
+          "note": "vincular A con B 是学术和新闻写作中的核心搭配，意为「将A与B建立关联」，比 relacionar 更强调因果或实证联系，常见于研究报告的表述中。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Más allá del aula, la ofensiva contra el acoso incluye el ámbito digital. Con la próxima entrada en funcionamiento de una comisión de seguridad en línea, las víctimas de ciberacoso, filtración de datos personales o abuso de imágenes íntimas podrán <strong>canalizar</strong> denuncias de forma más ágil. Las escuelas actuarán como primer <strong>dique</strong> de contención, ofreciendo apoyo psicológico y orientación para escalar los casos.",
+      "zh": "反欺凌攻势不止于课堂，还延伸至数字领域。随着一个网络安全委员会即将投入运作，网络欺凌、个人数据泄露或私密图像滥用的受害者将能够更便捷地提交投诉。学校将充当第一道防线，提供心理支持和指导，以便将案件逐级上报。",
+      "vocab": [
+        {
+          "word": "canalizar",
+          "translation": "疏导，引导，通过渠道传递",
+          "note": "canalizar 字面义为「修建运河」，引申为「通过特定渠道引导（资源、诉求、情绪等）」，后缀 -izar 表示「使……化」，同类词有 centralizar、digitalizar、priorizar。"
+        },
+        {
+          "word": "dique",
+          "translation": "堤坝；（引申）屏障，防线",
+          "note": "dique 本义为「堤坝、防波堤」，在政治和社会评论中常用作隐喻，表示「阻止某种负面力量扩散的屏障」，固定搭配 dique de contención（防护堤）在新闻中极为常见。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "El endurecimiento de las normas escolares <strong>encaja</strong> en un ecosistema legal más amplio donde Singapur ha construido su reputación de tolerancia cero. El castigo corporal no es una anomalía educativa, sino una extensión de un sistema judicial que todavía contempla la <strong>flagelación</strong> para delitos como robo, fraude o violaciones de la ley migratoria. Introducido durante la época colonial británica, este castigo sigue vigente para varones menores de 50 años.",
+      "zh": "校规的收紧契合于一个更广泛的法律生态系统，新加坡正是凭借这一体系建立起零容忍的声誉。体罚并非教育领域的异常现象，而是一套司法体系的延伸——该体系至今仍将鞭刑列为盗窃、欺诈或违反移民法等罪行的惩处手段。这一刑罚源于英国殖民时期，至今仍适用于50岁以下的男性。",
+      "vocab": [
+        {
+          "word": "encaja",
+          "translation": "契合，嵌入，吻合",
+          "note": "encajar en 是固定搭配，意为「与……相契合、嵌入某框架」，比 coincidir con 更强调结构上的嵌合关系，在分析性文章中常用于说明某一现象与更大背景的内在一致性。"
+        },
+        {
+          "word": "flagelación",
+          "translation": "鞭打，鞭刑",
+          "note": "flagelación 是法律和历史文体中的正式用词，动词为 flagelar，比文中的 azotes 更具书面色彩，了解两者的语体差异有助于阅读不同风格的西语文本。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "No es la única norma que sorprende al visitante. En Singapur, hogar de cinco millones y medio de personas, está prohibido vender chicle (una ley destinada a mantener la limpieza urbana) y las multas por tirar basura, fumar en zonas no autorizadas o comer en el transporte público pueden ser <strong>cuantiosas</strong>. El vandalismo, incluso en forma de grafitis, puede <strong>acarrear</strong> también azotes. La ciudad funciona como un engranaje donde la disciplina no es negociable y el civismo se impone, muchas veces, a golpe de ley.",
+      "zh": "这并非唯一令游客感到惊讶的规定。在这个拥有五百五十万人口的国家，销售口香糖被明令禁止（此法旨在维护城市清洁），乱扔垃圾、在非指定区域吸烟或在公共交通上饮食的罚款金额可能相当可观。就连涂鸦形式的破坏行为，也可能招致鞭打。这座城市如同一部精密运转的齿轮机器，纪律不容商量，公民行为规范往往靠法律强制推行。",
+      "vocab": [
+        {
+          "word": "cuantiosas",
+          "translation": "数额巨大的，可观的",
+          "note": "cuantioso/a 是假朋友陷阱：它与英语 quantitative 无关，专指「数量或金额巨大」，常用于 multas cuantiosas（巨额罚款）、pérdidas cuantiosas（重大损失）等搭配。"
+        },
+        {
+          "word": "acarrear",
+          "translation": "招致，引发，带来（负面后果）",
+          "note": "acarrear 本义为「搬运、拖运」，引申为「引发某种（通常是负面的）后果」，是新闻和法律文体中的高频词，常见搭配：acarrear consecuencias / sanciones / problemas。"
+        }
+      ]
+    }
+  ]
+}
