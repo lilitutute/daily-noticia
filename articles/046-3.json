@@ -413,7 +413,7 @@
         }
       ]
     },
-    {
+     {
       "id": 29,
       "es": "El señor Carlos Slim Helú pagó unos 400 millones de dólares, se hizo con el control del mercado mexicano de las comunicaciones y cinco años después estaba entre los 10 hombres más ricos del mundo. Pasaron 35 años, su empresa sigue dominando el mercado de los teléfonos mexicanos —y su dueño sigue en las <strong>grandes ligas</strong> millonarias, con empresas que van desde el tabaco a la minería, los hoteles a los bancos, casi todo el resto. Pero, más allá de detalles menores, la operación Telmex <strong>descolla</strong> porque inaugura y representa la tendencia que dominaría la década: la privatización de bienes públicos.",
       "zh": "卡洛斯·斯利姆·埃卢先生支付了约4亿美元，掌控了墨西哥通信市场，五年后跻身全球十大富豪之列。35年过去了，他的公司仍然主导着墨西哥电话市场——而其所有者仍在亿万富翁的大联盟中，旗下企业从烟草到矿业、从酒店到银行，几乎涵盖其他一切。但抛开细枝末节，Telmex这笔交易之所以脱颖而出，是因为它开创并代表了主导那个十年的趋势：公共资产的私有化。",
@@ -431,24 +431,24 @@
       ]
     },
     {
-  "id": 30,
-  "es": "Avanzaba entonces la revolución neoliberal del presidente Reagan y la premier Thatcher, que liberó a los más ricos de impuestos y controles estatales. Su base fue una campaña mundial sobre la ineficacia de los Estados: sus <strong>publicistas</strong> convencieron a millones de que la misma estructura que manejaba los ejércitos, las leyes, los dineros de un país no era capaz de gestionar sus servicios públicos y debía venderlos a señores muy ricos. Así consiguieron que distintos países americanos entregaran sus servicios de agua y energía, sus transportes, sus minerales y tanto más a grandes empresas extranjeras, generalmente europeas, con frecuencia públicas. Se llamó privatizar —<strong>privar quedaba feo</strong>— y empujó a muchos millones de latinoamericanos hacia la pobreza y la <strong>marginalidad</strong>.",
-  "zh": "那时，里根总统和撒切尔首相的新自由主义革命正在推进，它将最富有的人从税收和国家管控中解放出来。其基础是一场关于国家无能的全球性宣传运动：他们的公关人员说服了数百万人相信，同一套管理着一个国家的军队、法律和财政的机构，却没有能力管理其公共服务，因此必须将其出售给非常富有的先生们。就这样，他们使美洲各国将其供水和能源服务、交通运输、矿产资源以及更多资产移交给大型外国企业——通常是欧洲企业，而且往往是国有企业。这被称为私有化——因为『剥夺』听起来太难看——并将数以千万计的拉丁美洲人推向贫困和边缘化。",
-  "vocab": [
-    {
-      "word": "publicistas",
-      "translation": "公关人员，宣传人员，广告从业者",
-      "note": "publicista 在此指『从事宣传和舆论塑造的专业人员』，而非仅指广告人；源自 publicidad（广告、公开性）；作者用 publicistas 而非 propagandistas（宣传者），是一种讽刺性的语言选择，暗示新自由主义意识形态的推广本质上是一场精心策划的商业宣传；同根词：publicidad（广告）、público（公众）、publicar（发布）。"
-    },
-    {
-      "word": "privar quedaba feo",
-      "translation": "『剥夺』听起来太难看",
-      "note": "privatizar（私有化）与 privar（剥夺、使失去）同根，均来自拉丁语 privare（使私有化、剥夺）；作者一针见血地指出：privatizar 不过是 privar 的委婉说法——将公共资产『私有化』本质上就是『剥夺』公众所有权；quedar feo（显得难看、不好听）是口语固定表达；这是全文最精辟的语言批判之一。"
-    },
-    {
-      "word": "marginalidad",
-      "translation": "边缘化，社会边缘状态",
-      "note": "marginalidad 由 marginal（边缘的）派生，源自 margen（边缘、利润）；在社会学语境中指『被排斥在主流社会经济体系之外的状态』；同根词：margen（边缘）、marginar（边缘化）、marginado（被边缘化的人）；注意 margen 还有『利润空间』的经济含义（margen de beneficio = 利润率），是一词多义词。"
+      "id": 30,
+      "es": "Avanzaba entonces la revolución neoliberal del presidente Reagan y la premier Thatcher, que liberó a los más ricos de impuestos y controles estatales. Su base fue una campaña mundial sobre la ineficacia de los Estados: sus <strong>publicistas</strong> convencieron a millones de que la misma estructura que manejaba los ejércitos, las leyes, los dineros de un país no era capaz de gestionar sus servicios públicos y debía venderlos a señores muy ricos. Así consiguieron que distintos países americanos entregaran sus servicios de agua y energía, sus transportes, sus minerales y tanto más a grandes empresas extranjeras, generalmente europeas, con frecuencia públicas. Se llamó privatizar —<strong>privar quedaba feo</strong>— y empujó a muchos millones de latinoamericanos hacia la pobreza y la <strong>marginalidad</strong>.",
+      "zh": "那时，里根总统和撒切尔首相的新自由主义革命正在推进，它将最富有的人从税收和国家管控中解放出来。其基础是一场关于国家无能的全球性宣传运动：他们的公关人员说服了数百万人相信，同一套管理着一个国家的军队、法律和财政的机构，却没有能力管理其公共服务，因此必须将其出售给非常富有的先生们。就这样，他们使美洲各国将其供水和能源服务、交通运输、矿产资源以及更多资产移交给大型外国企业——通常是欧洲企业，而且往往是国有企业。这被称为私有化——因为『剥夺』听起来太难看——并将数以千万计的拉丁美洲人推向贫困和边缘化。",
+      "vocab": [
+        {
+          "word": "publicistas",
+          "translation": "公关人员，宣传人员，广告从业者",
+          "note": "publicista 在此指『从事宣传和舆论塑造的专业人员』，而非仅指广告人；源自 publicidad（广告、公开性）；作者用 publicistas 而非 propagandistas（宣传者），是一种讽刺性的语言选择，暗示新自由主义意识形态的推广本质上是一场精心策划的商业宣传；同根词：publicidad（广告）、público（公众）、publicar（发布）。"
+        },
+        {
+          "word": "privar quedaba feo",
+          "translation": "『剥夺』听起来太难看",
+          "note": "privatizar（私有化）与 privar（剥夺、使失去）同根，均来自拉丁语 privare（使私有化、剥夺）；作者一针见血地指出：privatizar 不过是 privar 的委婉说法——将公共资产『私有化』本质上就是『剥夺』公众所有权；quedar feo（显得难看、不好听）是口语固定表达；这是全文最精辟的语言批判之一。"
+        },
+        {
+          "word": "marginalidad",
+          "translation": "边缘化，社会边缘状态",
+          "note": "marginalidad 由 marginal（边缘的）派生，源自 margen（边缘、利润）；在社会学语境中指『被排斥在主流社会经济体系之外的状态』；同根词：margen（边缘）、marginar（边缘化）、marginado（被边缘化的人）；注意 margen 还有『利润空间』的经济含义（margen de beneficio = 利润率），是一词多义词。"
         }
       ]
     }
