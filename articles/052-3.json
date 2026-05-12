@@ -1,0 +1,126 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "读者来信",
+  "difficulty": "B2",
+  "wordCount": "约450词",
+  "title": "Hay lugares que no cambian, pero uno sí",
+  "subtitle": "有些地方不会变，但人会变",
+  "resumenEs": "Tres lectores escriben al periódico desde perspectivas muy distintas: un emigrante español en Luxemburgo reflexiona sobre el precio de quedarse frente al de irse; una periodista rinde homenaje a Soledad Gallego-Díaz, primera directora de El País, como pionera del periodismo feminista; y una trabajadora de la hostelería en Barcelona denuncia las duras condiciones del sector y la falta de reconocimiento social.",
+  "resumenZh": "三位读者从截然不同的视角致信报社：一位旅居卢森堡的西班牙移民思考留下与离开各自的代价；一位记者向《国家报》首位女性主编索莱达·加列戈-迪亚斯致敬，称其为女性主义新闻业的先驱；一位巴塞罗那餐饮业从业者则揭露行业的艰辛处境与社会认可的缺失。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Vuelvo a Madrid y todo sigue en su sitio: las calles, los bares, la luz de siempre. Y, sin embargo, algo ya no <strong>encaja</strong> igual. Recuerdo cuando ese era todo mi horizonte. Un sueldo de poco más de 1.100 euros al mes, insuficiente para construir nada estable, planes que se <strong>aplazaban</strong>, esa sensación de estar siempre a punto de empezar algo que nunca terminaba de llegar. No era infelicidad. Era más bien una espera larga, silenciosa.",
+      "zh": "我回到马德里，一切都还在原处：街道、酒吧、那一贯的光线。然而，有些东西已不再像从前那样契合。我记得那时这里就是我全部的视野。每月一千一百多欧元的薪水，不足以构建任何稳定的东西，计划一再推迟，总有一种随时都要开始某件事、却始终等不到的感觉。那不是不幸福，更像是一种漫长而沉默的等待。",
+      "vocab": [
+        {
+          "word": "encaja",
+          "translation": "契合，吻合，嵌入",
+          "note": "encajar 表示「与某事物完美吻合、嵌合」，此处用于抽象感受，表达「某种感觉不再与现实相符」，固定搭配 no encaja 在口语和书面语中均常用于描述格格不入的状态。"
+        },
+        {
+          "word": "aplazaban",
+          "translation": "被推迟，被搁置",
+          "note": "aplazar 意为「将某事推迟到更晚的时间」，比 retrasar 更强调主动决定延期，常用于计划、会议、决定等，名词形式为 aplazamiento（延期）。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Hace cinco años me fui. No por valentía. Más bien por <strong>agotamiento</strong>. Cambié de idioma, de clima, de costumbres. Perdí cercanía, <strong>espontaneidad</strong>, parte de lo que hacía fácil la vida. Gané otras cosas más lentas: estabilidad, margen, futuro. Luxemburgo no tiene el sol de Madrid ni su manera de estirar las tardes. A veces echo de menos esa ligereza. Pero aquí, siendo el mismo, la vida empezó a moverse. No siempre hay alternativas. O no son justas. Pero a veces existen, aunque impliquen dejar atrás más de lo que uno querría. Y entonces la pregunta cambia: no es si compensa irse, sino qué precio tiene quedarse.",
+      "zh": "五年前我离开了。不是因为勇气，更多是因为精疲力竭。我换了语言、气候和生活习惯。我失去了亲近感、随性，以及那些曾让生活变得轻松的东西。我换来了另一些来得更慢的东西：稳定、余地、未来。卢森堡没有马德里的阳光，也没有那种把傍晚拉得悠长的方式。有时我会想念那种轻盈。但在这里，作为同一个我，生活开始流动了。并非总有选择，或者选择并不公平。但有时它确实存在，尽管意味着要留下比自己希望的更多。于是问题变了：不再是离开是否值得，而是留下的代价是什么。",
+      "vocab": [
+        {
+          "word": "agotamiento",
+          "translation": "精疲力竭，耗尽",
+          "note": "agotamiento 来自 agotar（耗尽），既可指体力上的「筋疲力尽」，也可指资源的「耗尽」，如 agotamiento de recursos，注意与 cansancio（疲倦）的区别：agotamiento 程度更深，暗示已到极限。"
+        },
+        {
+          "word": "espontaneidad",
+          "translation": "随性，自发性，自然流露",
+          "note": "espontaneidad 是 espontáneo（自发的、随性的）的名词形式，后缀 -dad 构成抽象名词，同类构词如 naturalidad、sinceridad、creatividad，掌握此后缀可大量扩词。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Emiliano Cánovas Argudo. Luxemburgo | Conocí personalmente a Soledad Gallego-Díaz en un curso de verano de la Universidad Menéndez y Pelayo (UIMP) que se celebró en Valencia en 1994. Era la codirectora de aquel intensivo estival dedicado a las mujeres y los medios de comunicación. Quienes coincidimos allí ya estábamos en el <strong>arduo</strong> camino de abrir la perspectiva de género en los medios de comunicación. Pero casi todo estaba por hacer. Fue un auténtico regalo recibir su <strong>maestría</strong>. Sol, por su labor periodística en EL PAÍS se convirtió en un <strong>faro</strong> que siempre ha estado presente en mi periplo profesional.",
+      "zh": "埃米利亚诺·卡诺瓦斯·阿尔古多，卢森堡 | 我与索莱达·加列戈-迪亚斯的私人相识，始于1994年在瓦伦西亚举办的门德斯-佩拉约国际大学暑期课程。她是那届以女性与传媒为主题的集训课程的联合主任。当时与会的我们，已走在将性别视角引入媒体这条艰辛道路上，但几乎一切都有待开拓。能够聆听她的教诲，是一份真正的馈赠。索尔凭借她在《国家报》的新闻工作，成为一座始终照亮我职业旅途的灯塔。",
+      "vocab": [
+        {
+          "word": "arduo",
+          "translation": "艰辛的，艰巨的",
+          "note": "arduo 是B2级书面语形容词，形容任务或道路极为艰难费力，比 difícil 更具文学色彩，常见搭配：arduo trabajo、ardua tarea、arduo camino，多用于正式或评论文体。"
+        },
+        {
+          "word": "maestría",
+          "translation": "精湛技艺，大师风范；硕士学位",
+          "note": "maestría 是一词多义词：在学术语境中指「硕士学位」，在此处则指「大师级的技艺与智慧」，两种含义在西语中均十分常见，阅读时需根据语境判断。"
+        },
+        {
+          "word": "faro",
+          "translation": "灯塔；（引申）指路明灯",
+          "note": "faro 本义为「灯塔」，在评论和文学语境中常用作隐喻，指「为他人指引方向的榜样或精神支柱」，是西语中极为常见的修辞意象，类似中文的「指路明灯」。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Desde los diferentes puestos que ocupó me interesó y conecté con su saber hacer y su bien pensar. Me emocionó verla convertirse en la primera directora de su periódico, aunque no era su meta. Quede esta carta como reconocimiento a una <strong>pionera</strong>, a una maestra del periodismo. Porque sin mujeres, sin los problemas, los <strong>quehaceres</strong> y las creaciones de las mujeres no hay periodismo. Sin feminismo no hay periodismo, porque dejamos fuera del foco a más del 50% de la población.",
+      "zh": "无论她身处哪个职位，我都对她的专业素养与思想深度深感兴趣，并与之产生共鸣。看到她成为报社首位女性主编，我深受感动，尽管那并非她的目标。愿这封信成为对一位先驱、一位新闻业导师的致敬。因为没有女性，没有女性的问题、日常事务与创造，就没有新闻业。没有女性主义，就没有新闻业，因为我们将超过50%的人口排除在了视野之外。",
+      "vocab": [
+        {
+          "word": "pionera",
+          "translation": "先驱者，开拓者（女性）",
+          "note": "pionero/a 指「在某领域率先开拓的人」，来自法语 pionnier（步兵、开路人），在新闻和历史文体中极为常见，注意性别变化：pionero（男）/ pionera（女）。"
+        },
+        {
+          "word": "quehaceres",
+          "translation": "日常事务，琐事，职责",
+          "note": "quehacer 由 que（什么）+ hacer（做）构成，泛指「需要去做的事情、日常职责」，复数 quehaceres 更常见，如 quehaceres domésticos（家务），在此处引申为女性在社会中承担的各类事务。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Ana Gaitero Alonso. León | Trabajo en hostelería desde hace años y creo que muchas veces los clientes no son conscientes de lo duro que puede llegar a ser este sector. Jornadas larguísimas, horarios que cambian constantemente, fines de semana trabajando y un nivel de exigencia física y mental muy alto que pocas veces se reconoce. La mayoría seguimos atendiendo con una sonrisa, incluso después de diez horas de pie o de <strong>aguantar</strong> faltas de respeto que se han <strong>normalizado</strong> demasiado.",
+      "zh": "安娜·盖泰罗·阿隆索，莱昂 | 我在餐饮业工作多年，我认为顾客很多时候并不清楚这个行业有多辛苦。超长的工作时间、不断变动的班次、周末照常上班，以及极高的体力与精神要求，而这些几乎从未得到应有的认可。大多数人依然带着微笑服务，即便已经站了十个小时，即便忍受着那些已被过度正常化的无礼对待。",
+      "vocab": [
+        {
+          "word": "aguantar",
+          "translation": "忍受，承受，撑住",
+          "note": "aguantar 是高频动词，可接人或事物作宾语，表示「忍受某种不愉快的事」，与 soportar 近义但更口语化；soportar 在书面语中更常见，且 soportar ≠ 英语 support（支持）。"
+        },
+        {
+          "word": "normalizado",
+          "translation": "被正常化的，被视为常态的",
+          "note": "normalizar 在社会议题中专指「将本不正常的现象逐渐视为理所当然」，是当代社会评论的高频词，后缀 -izar 表示「使……化」，同类词有 naturalizar、invisibilizar、criminalizar。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Porque sí, la hostelería también implica <strong>lidiar</strong> con clientes que creen que pagar una cuenta les da derecho a tratar mal a quien tienen delante. Barcelona vive en gran parte del turismo y de la restauración, pero cuesta entender por qué un sector tan importante continúa funcionando muchas veces a base de cansancio extremo y <strong>precariedad</strong>. Quizás ha llegado el momento de valorar más a quienes hacen posible que salga bien.",
+      "zh": "没错，餐饮业也意味着要应对那些认为付了账单就有权对面前的人颐指气使的顾客。巴塞罗那的经济很大程度上依赖旅游业和餐饮业，但令人费解的是，如此重要的一个行业，至今仍常常靠着从业者的极度疲惫和不稳定处境来维系运转。也许是时候更加珍视那些让一切得以顺利运转的人了。",
+      "vocab": [
+        {
+          "word": "lidiar",
+          "translation": "应对，周旋，与……搏斗",
+          "note": "lidiar con 是固定搭配，本义为「斗牛」，引申为「费力应对某人或某困难局面」，比 tratar con 更强调过程的艰辛与对抗性，是口语和新闻中的高频表达。"
+        },
+        {
+          "word": "precariedad",
+          "translation": "不稳定性，脆弱处境，precariedad劳动",
+          "note": "precariedad 在劳动议题中专指「就业或生活条件的不稳定与脆弱」，是西语社会新闻的核心词汇，形容词为 precario，如 empleo precario（不稳定就业）、condiciones precarias（恶劣条件）。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Lea Hahneiser Rodríguez. Barcelona",
+      "zh": "莱亚·哈内瑟·罗德里格斯，巴塞罗那",
+      "vocab": []
+    }
+  ]
+}
