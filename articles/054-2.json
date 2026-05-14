@@ -1,0 +1,142 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会与经济",
+  "difficulty": "C1",
+  "wordCount": "约750词",
+  "title": "Joven rico, joven pobre",
+  "subtitle": "富有的年轻人，贫穷的年轻人",
+  "resumenEs": "El artículo critica el relato generacional que presenta a todos los jóvenes como víctimas del mercado inmobiliario, ignorando las profundas desigualdades económicas dentro de la propia generación. Apoyándose en datos de una encuesta reciente, el autor argumenta que la clase social, no la edad, es el factor determinante en el acceso a la vivienda.",
+  "resumenZh": "本文批判了将所有年轻人一概描绘为房地产市场受害者的代际叙事，指出这一论调忽视了同代人内部深刻的经济不平等。作者援引近期调查数据论证：决定住房可及性的关键因素是社会阶层，而非年龄。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Hace unos días, en estas mismas páginas, el gran Martín Caparrós escribía que le daba \"vergüencita\" recordar que sigue habiendo clases. Lo hacía a <strong>raíz de</strong> esta deriva tan de moda en el debate sobre las generaciones acerca de lo mal que lo tienen los jóvenes de hoy en día, aparentemente por culpa de sus padres y madres que han tenido (y parece que siguen teniendo) una vida de lujo a costa de sus pobres <strong>retoños</strong>. Las generalizaciones casan mal con la realidad, pero lamentablemente abundan en el discurso público. Una de ellas es la que dice que la ciudad expulsa a los jóvenes, así, sin más, como si el hecho de ser joven hoy constituyera una categoría económica, una clase social específica. Como si por el solo hecho de ser joven, sin apelar a otros atributos, te convirtieras en víctima inmobiliaria, incapaz de pagar los elevados precios de las viviendas en la mayoría de las grandes ciudades de nuestro país. Así, se dice, se denuncia y se tuitea que \"los jóvenes\" están siendo expulsados de las ciudades, cuando lo cierto es que la ciudad está expulsando a los jóvenes... pobres.",
+      "zh": "几天前，就在这同一版面上，伟大的马丁·卡帕罗斯写道，想到阶级依然存在，他感到有些『羞愧』。他这样写，是缘于当下代际讨论中颇为流行的一种偏向——关于当今年轻人处境有多糟糕，表面上是因为他们的父母曾经过着（而且似乎仍在过着）奢华的生活，代价是牺牲了自己可怜的子女。以偏概全与现实格格不入，却不幸在公共话语中大行其道。其中一种说法是：城市正在驱逐年轻人——就这么简单，仿佛今天身为年轻人本身就构成一种经济类别、一个特定的社会阶层。仿佛仅凭年轻这一事实，无需诉诸其他任何属性，你就自动成了房地产的受害者，无力支付全国大多数大城市高昂的房价。于是人们说、人们控诉、人们在推特上发帖：『年轻人』正在被城市驱逐——而事实是，城市正在驱逐的，是……贫穷的年轻人。",
+      "vocab": [
+        {
+          "word": "raíz de",
+          "translation": "起因于，源于",
+          "note": "a raíz de 是固定介词短语，意为由于、起因于某事，常用于说明某一讨论或现象的直接诱因，与 a causa de 近义，但 a raíz de 更强调某事件作为直接导火索，语气更正式。"
+        },
+        {
+          "word": "retoños",
+          "translation": "子女，后代（口语带感情色彩）",
+          "note": "retoño 本义为植物的嫩芽，引申为子女或后代，带有亲昵或略带调侃的口语色彩，在此语境中作者用它带有轻微讽刺意味，比中性词 hijos 更具文学表现力。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "El problema de la vivienda está causando <strong>estragos</strong> en el conjunto de la sociedad, de tal modo que desde hace tiempo aparece como la primera preocupación de la mayoría de la ciudadanía en todos los sondeos, pero afecta especialmente a aquellos que desearían <strong>emanciparse</strong>, es decir, los jóvenes. Un ejemplo de ello es la edad media de emancipación, que en España se sitúa en los 30 años, significativamente por encima del resto de países europeos. Pueden <strong>aducirse</strong> cuestiones culturales para explicar esa brecha con nuestros vecinos, además de históricas. También puede señalarse que el retraso en la emancipación de los jóvenes españoles respecto de sus pares del resto de Europa no es nuevo, pero nada de esto soluciona un problema que hoy en día se percibe como de difícil solución.",
+      "zh": "住房问题正在对整个社会造成严重破坏，以至于长期以来在各项民调中都高居大多数民众最关切问题的首位，但它对那些希望独立自主的人——也就是年轻人——的影响尤为突出。其中一个例证是独立离家的平均年龄：西班牙为30岁，明显高于其他欧洲国家。可以援引文化和历史因素来解释与邻国之间的这一差距。也可以指出，西班牙年轻人相对于其他欧洲同龄人在独立方面的滞后并非新现象，但这些都无法解决一个如今被普遍认为难以解决的问题。",
+      "vocab": [
+        {
+          "word": "estragos",
+          "translation": "严重破坏，惨重损失",
+          "note": "estrago 几乎只用于复数形式，causar estragos en 是固定搭配，意为对……造成严重破坏，是新闻文体中描述危机或灾害影响的高频表达，语气强烈，比 daños（损害）程度更深。"
+        },
+        {
+          "word": "emanciparse",
+          "translation": "独立自主，离家独立",
+          "note": "emanciparse 在社会语境中专指年轻人离开父母家庭、经济独立自立门户，名词为 emancipación，是西班牙社会议题报道中的核心词汇，注意与法律语境中的解放、获得自由含义区分。"
+        },
+        {
+          "word": "aducirse",
+          "translation": "援引，列举（理由）",
+          "note": "aducir 意为援引论据或理由加以说明，是正式书面语和学术文体中的高频动词，比 mencionar（提及）或 citar（引用）更强调将某论点作为佐证提出，常见于论说文体。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Lo que sí es nuevo es este enfoque generacional de la problemática, que forma parte de un relato más general, básico y <strong>simplón</strong> como marcan los cánones de las explicaciones actuales sobre lo que nos pasa como sociedad y en base a un esquema igualmente básico de pobre víctima inocente de un <strong>victimario</strong> abusador, ambos nítidamente definidos por factores que nada tienen que ver con la economía. Según este relato, la actual generación de jóvenes españoles estaría siendo víctima de la codicia de las generaciones anteriores, que habrían adquirido propiedades inmobiliarias en condiciones muy ventajosas (¿?) y hoy en día estarían <strong>acaparando</strong> el mercado de la vivienda en las grandes ciudades, impidiendo que la generación joven pueda acceder a él. La maldad boomer no tiene límites, según este relato de buenos buenísimos y malos malísimos en el que brillan por su ausencia tanto la complejidad como los grandes jugadores globales.",
+      "zh": "真正新颖的，是这种对问题的代际化解读。它是一套更宏观叙事的组成部分——一套简单粗浅的叙事，符合当下社会解释的惯常套路：以一个简单的框架，将无辜的可怜受害者与施暴的欺凌者对立起来，两者都被与经济毫不相干的因素清晰界定。按照这一叙事，当代西班牙年轻人正在成为前代人贪婪的受害者——那些人据说在极为优惠的条件下（？）购置了房产，如今正垄断着大城市的住房市场，阻止年轻一代进入。按照这套非黑即白、好人极好坏人极坏的叙事，嬉婴潮一代的恶意没有边界——而复杂性和全球大玩家的身影，在这套叙事中则完全缺席。",
+      "vocab": [
+        {
+          "word": "simplón",
+          "translation": "过于简单化的，幼稚的",
+          "note": "simplón 是 simple 的增强贬义形式，后缀 -ón 在西班牙语中有时表示程度加深或带有负面色彩，如 criticón（爱批评的人）、preguntón（爱问问题的人），此处带有明显的讽刺语气。"
+        },
+        {
+          "word": "victimario",
+          "translation": "施害者，加害方",
+          "note": "victimario 是 víctima（受害者）的对应词，指造成伤害的一方，在社会学和新闻评论中常与 víctima 成对出现，构成受害者-施害者的叙事框架，是C1级社会议题词汇。"
+        },
+        {
+          "word": "acaparando",
+          "translation": "垄断，囤积，独占",
+          "note": "acaparar 意为大量囤积或独占某资源，使他人无法获取，在经济和社会新闻中常用于批评性语境，如 acaparar el mercado（垄断市场）、acaparar recursos（独占资源），语气带有负面色彩。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "En este cuento infantil no hay ricos ni pobres, aparentemente. Solo boomers y los pobres <strong>treintañeros</strong>, a los que se les llama según la <strong>manida</strong> clasificación de Howe y Strauss, es decir, millennials y zetas. Clasificación que, por otra parte, se ha adoptado sin que tenga ningún sentido, por pura pereza intelectual. La crisis inmobiliaria se transforma así, por arte de magia, de un conflicto económico de primera magnitud a una riña entre generaciones, a un <strong>berrinche</strong> doméstico.",
+      "zh": "在这个童话故事里，表面上既没有富人也没有穷人。只有嬉婴潮一代，和可怜的三十多岁的人——后者被冠以豪-施特劳斯那套老生常谈的分类标签，即千禧一代和Z世代。而这套分类，说到底是在毫无意义的情况下被照单全收的，纯属智识上的懒惰。于是，住房危机就这样魔法般地从一场头等重要的经济冲突，变成了一场代际口角，一场家庭闹剧。",
+      "vocab": [
+        {
+          "word": "treintañeros",
+          "translation": "三十多岁的人",
+          "note": "后缀 -añero/-añera 与数字结合表示某个年龄段的人，如 veintañero（二十多岁）、cuarentañero（四十多岁），是西班牙语中描述年龄段的构词规律，掌握此后缀可举一反三。"
+        },
+        {
+          "word": "manida",
+          "translation": "老生常谈的，陈腐的，被用滥的",
+          "note": "manido/a 意为因过度使用而失去新意的，常修饰论点、说法、分类等，是新闻评论文体中表达批评性态度的形容词，与 trillado（老套的）近义，语气带有轻蔑色彩。"
+        },
+        {
+          "word": "berrinche",
+          "translation": "撒泼，闹脾气，无理取闹",
+          "note": "berrinche 本指儿童的哭闹撒泼，在此用作隐喻，将代际争论贬低为幼稚的家庭闹剧，语气极具讽刺性，是作者用以降低代际叙事严肃性的修辞手法，属口语化贬义词。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Pues bien, lo que señalaba Caparrós lo viene a <strong>corroborar</strong> una magnífica encuesta sobre el problema de la vivienda que ha publicado recientemente la organización More in Common. Según los datos de la encuesta, sobre una muestra de 5.723 entrevistas representativas de la población española, ciertamente los treintañeros aparecen como un grupo con menos propietarios de una vivienda (56%), claramente por detrás de los jubilados, con más del 80%. Esta diferencia puede deberse a la edad, pero también puede muy bien ser que los jóvenes sean una generación que ve especialmente complicado su acceso a la propiedad.",
+      "zh": "好，卡帕罗斯所指出的观点，正好得到了More in Common组织近期发布的一项关于住房问题的精彩调查的印证。根据这项调查数据——样本为5723份具有西班牙人口代表性的访谈——三十多岁的人确实是住房自有率最低的群体（56%），明显落后于退休人员的80%以上。这一差距可能与年龄有关，但也很可能说明年轻人是一个在获取房产方面面临格外困难的一代。",
+      "vocab": [
+        {
+          "word": "corroborar",
+          "translation": "印证，证实，佐证",
+          "note": "corroborar 意为通过新的证据证实已有观点，比 confirmar（确认）更强调用独立证据加以支撑，是学术和新闻文体中描述论点得到验证的高频词，名词为 corroboración。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Ahora bien, la encuesta nos descubre que, siendo esto así, no lo es para todos los jóvenes. Entre los treintañeros que ingresan más de 2.500 euros y viven solos, el 68% es propietario de una vivienda. En cambio, entre los que ingresan menos de 1.500, sólo lo es el 44%. Un <strong>diferencial</strong> de más de 20 puntos. En el otro extremo, el 19% de los jóvenes con menos ingresos vive con sus padres, por sólo el 8% de los jóvenes más <strong>pudientes</strong>. Para redondear el cuadro, los datos muestran que el porcentaje de propietarios entre los treintañeros ricos es casi exactamente igual al de propietarios entre los jubilados con menos ingresos (68%).",
+      "zh": "然而，调查揭示出：尽管情况如此，对所有年轻人来说并非如此。在月收入超过2500欧元且独居的三十多岁人群中，68%拥有住房；而在月收入不足1500欧元的同龄人中，这一比例仅为44%，相差逾20个百分点。另一个极端是：收入最低的年轻人中有19%与父母同住，而最富裕的年轻人中这一比例仅为8%。为使这幅图景更加完整，数据还显示：富裕三十多岁人群的住房自有率，与收入最低的退休人员的住房自有率几乎完全相同（均为68%）。",
+      "vocab": [
+        {
+          "word": "diferencial",
+          "translation": "差距，差异值",
+          "note": "diferencial 作名词时指两个数值之间的差距，在经济和统计新闻中极为高频，如 diferencial salarial（薪酬差距）、diferencial de tipos（利率差），比 diferencia 更精确，强调可量化的数值差异。"
+        },
+        {
+          "word": "pudientes",
+          "translation": "富裕的，有钱有势的",
+          "note": "pudiente 来自古语动词 poder（有能力、有财力），意为经济条件优越的，是新闻和文学文体中描述富裕阶层的雅词，比 rico（富有的）更委婉正式，常见于社会议题报道。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Ni todos los jóvenes son <strong>parias</strong> inmobiliarios ni todos los jubilados han tenido una \"vida cañón\", como alguien dice. Las generaciones existen, sí, pero no determinan el nivel de vida. Dentro de cada generación hay ricos y pobres, gente que ha vivido y vive bien y gente que las ha pasado <strong>canutas</strong>. Las generaciones definen valores, horizontes vitales y un cierto aire del tiempo, una huella generacional. Los pisos son otra cosa, que tiene que ver con la herencia, que va por barrios. O mejor dicho, por familias.",
+      "zh": "并非所有年轻人都是房地产的弃民，也并非所有退休人员都过过有人所说的『爽日子』。代际差异确实存在，但它并不决定生活水平。每一代人内部都有富有者和贫穷者，有生活得好的人，也有吃尽苦头的人。代际归属定义的是价值观、人生视野和某种时代气息——一种代际烙印。而房子是另一回事，它与遗产有关，而遗产因街区而异。或者更准确地说，因家庭而异。",
+      "vocab": [
+        {
+          "word": "parias",
+          "translation": "弃民，社会底层，被遗弃者",
+          "note": "paria 源自印度种姓制度中的最低等级，引申为被社会排斥、处于边缘的人，在新闻评论中用作隐喻，语气强烈，带有对社会不公的批判色彩，是C1级高频政论词汇。"
+        },
+        {
+          "word": "canutas",
+          "translation": "艰难，苦日子",
+          "note": "pasarlas canutas 是西班牙固定口语习语，意为经历极大困难或艰辛，相当于中文的『吃苦头、过苦日子』，是典型的惯用语，需整体记忆，不可逐字拆解理解。"
+        }
+      ]
+    }
+  ]
+}
