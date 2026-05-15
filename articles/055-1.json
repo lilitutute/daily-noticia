@@ -1,0 +1,288 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "人文与生命叙事",
+  "difficulty": "C1",
+  "wordCount": "约1100词",
+  "title": "¿Puedo acabar con mi vida en tu casa?",
+  "subtitle": "我可以在你家结束我的生命吗？",
+  "resumenEs": "La autora, enferma de EM/SFC, narra la última visita de su amiga Beth, también paciente de la misma enfermedad, quien eligió morir en su casa tras años de sufrimiento físico y cognitivo. El texto explora el duelo, la aceptación y el amor como respuesta ante una muerte elegida.",
+  "resumenZh": "作者本人患有ME/CFS，她讲述了同样身患此病的好友贝丝最后一次来访的故事——贝丝在多年身心煎熬后，选择在她家离世。文章探讨了悲痛、接纳，以及以爱作为回应一个人自主选择死亡的方式。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Si mi amiga Beth Mazur me hubiera preguntado: \"¿Te importa si acabo con mi vida cuando te visite?\". Habría dicho que no y habría hecho todo lo posible por <strong>impedírselo</strong>. Pero no me lo preguntó.",
+      "zh": "如果我的朋友贝丝·马祖尔曾问过我：『你介意我来拜访你时结束自己的生命吗？』我会说不介意，并会竭尽所能阻止她。但她没有问我。",
+      "vocab": [
+        {
+          "word": "impedírselo",
+          "translation": "阻止她（做）那件事",
+          "note": "这是 impedir + se + lo 的组合，其中 se 替代间接宾语 le（因后接直接宾语 lo），lo 指代前文提到的行为，是西班牙语双宾语代词的典型用法，le + lo → se + lo 是B2必掌握的语法规则。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Cuando llegó a Santa Fe a mediados de diciembre de 2023, mi marido John y yo acabábamos de terminar de construir nuestra casita, un pequeño alojamiento de invitados, y Beth era nuestra segunda huésped. Ella y yo nos habíamos visto en persona solo unas cuantas veces. Sin embargo, cuando su visita de cinco días llegaba a su fin, nos sentíamos tan cómodos juntos que John y yo le pedimos que se quedara durante Janucá y Navidad. El único problema, bromeó John, era que ya se nos habían acabado los chocolates que había traído.",
+      "zh": "2023年12月中旬，她来到圣达菲时，我丈夫约翰和我刚刚建好我们的小屋——一间小小的客房，而贝丝是我们的第二位客人。她和我只见过几次面。然而，当她五天的拜访即将结束时，我们彼此已如此自在，约翰和我请她留下来过光明节和圣诞节。约翰开玩笑说，唯一的问题是她带来的巧克力已经被我们吃完了。",
+      "vocab": [
+        {
+          "word": "bromeó",
+          "translation": "开玩笑说，打趣道",
+          "note": "bromear 意为开玩笑，名词为 broma（玩笑），常见搭配 gastar una broma（开玩笑捉弄人）、en broma（开玩笑地），注意与 burlarse de（嘲笑、取笑）区分：bromear 语气轻松友好，burlarse 带有嘲弄意味。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Más de una década antes, Beth y yo nos conocimos en un grupo en línea de pacientes que parecía, en parte, grupo de laboratorio y, en parte, campo de refugiados. Ambas estábamos enfermas de <strong>encefalomielitis</strong> miálgica/síndrome de fatiga crónica o EM/SFC, una enfermedad devastadora que la medicina ha abandonado en su mayor parte.",
+      "zh": "十多年前，贝丝和我在一个网络患者群体中相识，那个群体一半像实验室小组，一半像难民营。我们都患有肌痛性脑脊髓炎/慢性疲劳综合征（ME/CFS），这是一种毁灭性的疾病，在很大程度上已被医学界所遗弃。",
+      "vocab": [
+        {
+          "word": "encefalomielitis",
+          "translation": "脑脊髓炎",
+          "note": "由词根 encéfalo-（大脑）+ mielo-（脊髓）+ -itis（炎症）构成，掌握 -itis 这一表示炎症的后缀可推导 hepatitis（肝炎）、artritis（关节炎）等大量医学词汇，是构词价值极高的希腊语后缀。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Como periodista científica, me sorprendió encontrarme lo bastante <strong>desesperada</strong> como para ir tras tratamientos en la frontera de la ciencia. Beth, también exalumna del MIT y científica informática, tenía un enfoque relajado y razonado que hacía que me sintiera segura al examinar incluso las ideas más extrañas.",
+      "zh": "作为一名科学记者，我惊讶地发现自己竟已绝望到去追寻科学前沿的治疗方法。贝丝同样是MIT校友，也是一名计算机科学家，她那种从容而理性的方式让我在审视哪怕最奇特的想法时也感到安心。",
+      "vocab": [
+        {
+          "word": "desesperada",
+          "translation": "绝望的，走投无路的",
+          "note": "desesperado/a 来自 desesperar（使绝望），前缀 des- 表示否定，esperar 本有希望之义，desesperar 即失去希望，注意与英语 desperate 高度对应，是少见的真朋友，名词为 desesperación。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "A lo largo de los años, escribí investigaciones sobre ciencia que era casi fraudulenta y un libro de memorias y ciencia sobre la EM. Beth, más callada pero con un mayor <strong>alcance</strong>, cofundó la organización de defensa #MEAction, y transformó una comunidad de pacientes enfadada y caótica en una fuerza coordinada para el cambio. Organizó protestas, <strong>presionó</strong> al Congreso, instó a Google a reescribir sus páginas médicas sobre la EM.",
+      "zh": "多年来，我撰写了关于近乎欺诈性科学的调查报道，以及一本关于ME的回忆录与科普书。贝丝更为低调，但影响力更广，她共同创立了倡导组织#MEAction，将一个愤怒而混乱的患者群体转变为推动变革的协调力量。她组织抗议活动，向国会施压，敦促谷歌重写其关于ME的医疗页面。",
+      "vocab": [
+        {
+          "word": "alcance",
+          "translation": "影响力，覆盖范围，触达",
+          "note": "alcance 来自 alcanzar（达到、触及），在媒体和社会议题中指某人或某事物所能影响或触及的范围，如 tener un gran alcance（影响力广泛），是新闻和公共传播领域的核心词汇。"
+        },
+        {
+          "word": "presionó",
+          "translation": "施压，游说，向……施加压力",
+          "note": "presionar a alguien 意为向某人施加压力，在政治新闻中常指游说或施压立法机构，名词为 presión，常见搭配 hacer presión sobre / ejercer presión sobre（对……施压），是政治报道的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Cada mañana, durante su visita a Santa Fe, yo le llevaba panqués sin gluten mientras ella se esforzaba <strong>laboriosamente</strong> para ponerse en posición vertical. Cada tarde se <strong>acurrucaba</strong> en el sofá mientras nuestro gato, Lao, se acomodaba en el hueco perfecto entre su barriga y la almohadilla térmica, y nuestro perro, Roo, apoyaba la garganta en los dedos rascadores de Beth. Yo masajeaba la cabeza y el cuello de Beth; sentíamos dolor en los mismos lugares, así que mis dedos sabían dónde ir. Sentí que canalizaba todas las caricias tranquilizadoras que John me había dado, agradecida por estar lo bastante bien como para transmitir el consuelo.",
+      "zh": "在她拜访圣达菲期间，每天早晨我都会给她送去无麸质松饼，而她则费力地挣扎着坐起身来。每天下午她蜷缩在沙发上，我们的猫老子恰好蜷进她肚子和热敷垫之间的完美空隙，我们的狗鲁把喉咙搭在贝丝那会挠痒的手指上。我给贝丝按摩头部和颈部；我们在同样的地方感到疼痛，所以我的手指知道该去哪里。我感觉自己在传递约翰给予我的所有抚慰，心怀感激，因为我的状态已经好到足以将这份安慰传递给她。",
+      "vocab": [
+        {
+          "word": "laboriosamente",
+          "translation": "费力地，艰辛地",
+          "note": "laboriosamente 是 laborioso（费力的、勤劳的）的副词形式，后缀 -mente 将形容词转化为副词，这是西班牙语最核心的副词构词规律，注意 laborioso 有两个含义：费力的（此处）和勤劳的，需结合语境判断。"
+        },
+        {
+          "word": "acurrucaba",
+          "translation": "蜷缩，蜷成一团",
+          "note": "acurrucarse 是反身动词，意为将身体蜷缩成一团，常用于描述人或动物蜷缩取暖或寻求安慰的姿态，是文学和叙事文体中描绘亲密温暖场景的生动词汇，无直接英语对应词。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Había pasado por cuatro años brutales —múltiples neurocirugías, convulsiones, parálisis—, pero últimamente había mejorado. La visita de Beth me pareció sorprendentemente normal; incluso fuimos a un spa. Para ella, sin embargo, la enfermedad nunca ofreció cambios drásticos. Simplemente avanzaba, <strong>implacable</strong>.",
+      "zh": "我经历了四年残酷的岁月——多次神经外科手术、癫痫发作、瘫痪——但近来已有所好转。贝丝的来访在我看来出奇地正常，我们甚至去了一家水疗中心。然而对她而言，疾病从未提供过剧烈的变化，只是冷酷无情地向前推进。",
+      "vocab": [
+        {
+          "word": "implacable",
+          "translation": "冷酷无情的，无法阻挡的",
+          "note": "implacable 由 in-（否定）+ placar（平息、安抚）构成，意为无法被平息或阻止的，常用于描述疾病、命运或对手的无情推进，是文学和新闻文体中极具表现力的形容词，名词为 implacabilidad。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Hablamos de todo lo que la EM nos había <strong>arrebatado</strong>. A ella le había robado su carrera, los hijos que imaginó, el snowboard, a menudo incluso la fuerza para levantarse de la cama. Pero el peor robo fue su brillante mente de tecnóloga. Me dijo que se sentía constantemente <strong>conmocionada</strong>, como si cada intento de relacionarse con el mundo requiriera aplastar su frágil cerebro contra un muro de hormigón.",
+      "zh": "我们谈到了ME从我们身上夺走的一切。它夺走了她的事业、她曾想象中的孩子、滑雪板，甚至常常连起床的力气也一并夺走。但最惨烈的劫夺，是她那颗闪耀的技术人头脑。她告诉我，她感到持续不断的震荡，仿佛每一次试图与世界建立联系，都需要将她脆弱的大脑砸向一堵混凝土墙。",
+      "vocab": [
+        {
+          "word": "arrebatado",
+          "translation": "夺走，抢走，剥夺",
+          "note": "arrebatar 意为猛然夺走，比 quitar（拿走）语气更强烈，强调突然性和暴力性，在文学叙事中常用于描述疾病、命运或死亡对人的剥夺，名词为 arrebato（突然的冲动或夺取）。"
+        },
+        {
+          "word": "conmocionada",
+          "translation": "受到震荡的，被冲击的",
+          "note": "conmocionado/a 来自 conmoción（震荡、冲击），在医学语境中指脑震荡状态，在情感语境中指受到强烈冲击，此处兼具两义，是一词多义的典型，注意与 conmovido（被感动的）区分。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "\"Siento que en realidad no existo\", me dijo, con la voz <strong>entrecortada</strong>. Su disfunción cognitiva no se notaba —desde fuera, su genialidad seguía resplandeciendo—, pero esa invisibilidad <strong>agudizaba</strong> su frustración. Había probado cientos de tratamientos, cada uno de los cuales exigía investigación, dinero, riesgo, a veces viajes, y siempre reavivar la esperanza. Ninguno había restaurado su cerebro lesionado.",
+      "zh": "『我感觉自己实际上并不存在，』她声音哽咽地对我说。她的认知功能障碍并不明显——从外表看，她的才华依然熠熠生辉——但这种不可见性反而加剧了她的挫败感。她尝试过数百种治疗方法，每一种都需要调研、金钱、风险，有时还要长途跋涉，而且每次都要重新燃起希望。但没有一种能修复她受损的大脑。",
+      "vocab": [
+        {
+          "word": "entrecortada",
+          "translation": "哽咽的，断断续续的（声音）",
+          "note": "entrecortado/a 由 entre-（之间）+ cortado（切断）构成，描述声音因情绪激动而断断续续、哽咽的状态，是文学叙事中描写情感场景的高频词，与 voz 搭配极为固定。"
+        },
+        {
+          "word": "agudizaba",
+          "translation": "加剧，使恶化，使更尖锐",
+          "note": "agudizar 来自 agudo（尖锐的、严重的），意为使某种负面状况变得更严重或更尖锐，名词为 agudización，在医学和社会议题新闻中是描述问题恶化的高频词，比 empeorar 更书面化。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Además de su sufrimiento físico y cognitivo, a veces veía cómo la depresión <strong>retorcía</strong> sus pensamientos en espirales oscuras y pegajosas. Una vez, cuando sentí que caía, le pedí que recordara una época en la que se sintiera segura. Se acordaba de cuando tenía 19 años y salía con sus amigos de la universidad. La invité a sumergirse en aquel sentimiento, pero su voz se volvió ronca: \"¡Ha pasado tanto tiempo! Ya nunca me siento segura\".",
+      "zh": "除了身体和认知上的痛苦，我有时还能看到抑郁症如何将她的思绪扭曲成黑暗而黏稠的漩涡。有一次，当我感觉她快要坠落时，我请她回忆一段感到安全的时光。她想起了19岁时和大学朋友们出去玩的日子。我邀请她沉浸在那种感觉里，但她的声音变得沙哑：『已经过去太久了！我再也感觉不到安全了。』",
+      "vocab": [
+        {
+          "word": "retorcía",
+          "translation": "扭曲，拧转",
+          "note": "retorcer 本义为拧转、扭曲物体，在心理和文学语境中引申为将思想或情感扭曲变形，retorcer los pensamientos 是极具表现力的隐喻表达，名词为 retorcimiento，形容词 retorcido 还可意为阴险狡诈的。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Había luchado contra la depresión con tanta fuerza como contra la EM, y probó un tratamiento tras otro. Los antidepresivos le habían fallado, pero estaba a punto de volver a tomarlos. En vísperas del solsticio de invierno, encendimos el fuego. Ella apoyó la cabeza en mi <strong>regazo</strong>; acaricié su pelo inmensamente suave. \"Si supiera que nunca me pondré mejor\", dijo \"acabaría con mi vida, pero sé cuánto daño haría eso a la gente que amo. Pero entonces solo viviría para los demás, y…\"",
+      "zh": "她与抑郁症的抗争和与ME的抗争同样顽强，一种治疗接着一种地尝试。抗抑郁药让她失望了，但她正准备再次服用。冬至前夕，我们点燃了壁炉。她把头靠在我的膝上，我抚摸着她那极为柔软的头发。『如果我知道自己永远不会好转，』她说，『我会结束自己的生命，但我知道这会给我爱的人带来多大的伤害。可那样的话，我就只是为了别人而活，而且……』",
+      "vocab": [
+        {
+          "word": "regazo",
+          "translation": "膝盖（坐着时的大腿部位），怀抱",
+          "note": "regazo 专指人坐着时大腿形成的可供依靠的空间，与 rodilla（膝盖骨）不同，apoyar la cabeza en el regazo（把头枕在膝上）是文学叙事中描绘亲密关怀场景的固定表达，是有温度的具体词汇。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "La escuché, pues conocía demasiado bien los pensamientos que pueden venir con el sufrimiento. Esperaba que al ser sencillamente <strong>testigo</strong> de su dolor aliviara ese peso en ella. Al final, bostezando, me levanté de donde nos estábamos acurrucando para irme a la cama. Los ojos de Lao estaban cerrados de placer. Beth estaba acariciando su pelaje, con la respiración tranquila.",
+      "zh": "我静静地听着，因为我太了解痛苦中可能涌现的那些念头。我希望，仅仅作为她痛苦的见证者，就能减轻她肩上的重量。最后，我打着哈欠，从我们蜷缩的地方起身去睡觉。老子的眼睛因满足而微闭。贝丝正在抚摸它的毛，呼吸平稳而安详。",
+      "vocab": [
+        {
+          "word": "testigo",
+          "translation": "见证者，目击者",
+          "note": "testigo 通常指法律或事件中的证人，在此用于心理和情感语境，ser testigo del dolor de alguien 意为见证某人的痛苦而不试图改变或评判，是心理咨询和叙事文学中具有特定内涵的表达。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "Por la mañana, recibí un correo electrónico suyo con los resultados de sus pruebas cognitivas: en algunas áreas, estaba en el primer <strong>percentil</strong>, el último de la escala. Me pregunté por qué me lo había enviado; por supuesto que le creí cuando me contó sobre eso. Entonces llamó a nuestra puerta un conductor de FedEx con chocolates que Beth había encargado para reponer los que nos habíamos comido. \"¿Sabías que hay alguien tirado ahí?\", me dijo. Beth había creado un nido junto al arroyo congelado con una manta y una almohada. A su lado había un vaso vacío, cubierto de residuos.",
+      "zh": "早晨，我收到了她发来的一封电子邮件，附有她认知测试的结果：在某些领域，她处于第一百分位，即量表的最末端。我不禁想，她为什么要把这个发给我；当然，当她告诉我这些时我是相信她的。这时，一位联邦快递的司机敲响了我们的门，带来了贝丝为补充我们吃掉的那些而订购的巧克力。『你知道外面有人躺在那里吗？』他对我说。贝丝在结冰的小溪旁用一条毯子和一个枕头筑了一个巢。她身旁有一个空杯子，上面覆着残留物。",
+      "vocab": [
+        {
+          "word": "percentil",
+          "translation": "百分位数，百分位",
+          "note": "percentil 是统计学术语，指将数据从低到高排列后某数值所处的位置百分比，primer percentil（第一百分位）意为处于最低的1%区间，是医学和教育评估报告中的核心数据词汇。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "Poco después de encontrarla, recibí un mensaje de texto que había programado para después de su muerte: \"Por favor, no te sientas mal de ninguna manera: no puedo imaginar una mejor última noche. Incluso Roo y Lao se unieron al consuelo\". Ridículamente, se <strong>disculpaba</strong> por no haber limpiado nuestra casita. La policía revisó un cuaderno que había dejado. Junto a un testamento <strong>garabateado</strong>, escribió: \"Me siento en paz. Es una sensación poderosa\".",
+      "zh": "发现她后不久，我收到了一条她预先设定好在她死后发送的短信：『请不要有任何自责：我无法想象有比这更好的最后一夜。连鲁和老子也加入了这份安慰。』荒诞的是，她还为没有打扫我们的小屋而道歉。警察查看了她留下的一本笔记本。在一份潦草写就的遗嘱旁，她写道：『我感到平静。这是一种强大的感觉。』",
+      "vocab": [
+        {
+          "word": "disculpaba",
+          "translation": "道歉，致歉",
+          "note": "disculparse por 意为为某事道歉，与 pedir perdón 近义，但 disculparse 更正式书面，pedir perdón 更口语直接；注意 disculpa 既可作名词（道歉）也可作动词命令式（请原谅），是一词多义的常见词。"
+        },
+        {
+          "word": "garabateado",
+          "translation": "潦草写就的，涂鸦的",
+          "note": "garabatear 意为潦草书写或涂鸦，名词 garabato 指潦草的字迹或涂鸦，是描写书写状态的生动词汇，在叙事文学中常用于暗示匆忙、随意或情绪激动状态下的书写。"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "es": "Después de que todos se marcharon y mis lágrimas <strong>jadeantes</strong> se redujeron a un goteo, me senté tranquilamente en mi casa. Parecía como si pudiera sentir en mi cuerpo la noticia de su muerte extendiéndose, mientras los llantos pasaban de la familia a los amigos íntimos y a la gente de todo el mundo. Intenté imaginarme sus pensamientos de la noche anterior: ¿La había hecho enojar? ¿Estaba justificada su decisión o había cometido un terrible error?",
+      "zh": "所有人都离开后，我那喘息般的泪水渐渐平息为涓涓细流，我静静地坐在屋里。仿佛能感受到她死亡的消息在我身体里蔓延，而哭泣声也从家人传向挚友，再传向世界各地的人们。我试着想象她前一晚的心思：我有没有让她生气？她的决定是否正当，还是她犯了一个可怕的错误？",
+      "vocab": [
+        {
+          "word": "jadeantes",
+          "translation": "喘息的，气喘吁吁的",
+          "note": "jadeante 来自 jadear（喘息、气喘），在此修饰 lágrimas（泪水），形成极具表现力的通感修辞，将哭泣时的喘息状态赋予泪水本身，是文学叙事中描绘强烈情绪的典型用法。"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "es": "Me detuve. Tenía que creer en sus palabras y en mi propia experiencia: se sentía amada cuando murió. Además, yo no podía juzgar su decisión sin saber lo que era vivir dentro de su cuerpo y su cerebro. Tres años antes había estado a punto de hacerlo, pero al final no. Durante esos tres años se había <strong>entregado</strong> al mundo, y siguió luchando por los enfermos de EM. Me ofreció su amistad y apoyó a todos los que la rodeaban. En lugar de juzgar su decisión de marcharse, me sentí agradecida por todas las veces en que decidió quedarse.",
+      "zh": "我停下来。我必须相信她的话和我自己的亲身感受：她死去时感到被爱。而且，如果不了解活在她的身体和大脑里是什么感受，我无法评判她的决定。三年前她曾几乎付诸行动，但最终没有。在那三年里，她将自己奉献给了这个世界，继续为ME患者而战。她给予了我友谊，支撑着身边所有的人。与其评判她离去的决定，我更感激她每一次选择留下来。",
+      "vocab": [
+        {
+          "word": "entregado",
+          "translation": "奉献，投身，全身心付出",
+          "note": "entregarse a 是固定搭配，意为将自己全身心投入或奉献给某事/某人，比 dedicarse a 更强调情感上的全情投入和自我给予，是文学和人文叙事中描绘奉献精神的高频表达。"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "es": "¿Por qué aquí y ahora? ¿Acaso imaginó lo que esto <strong>provocaría</strong> en mí? ¿Dónde si no? Yo no habría querido que su pareja la encontrara, o su madre, o una amiga con niños en casa. Quizá la dulzura de nuestro tiempo juntas hizo posible su <strong>aterrador</strong> acto. Quizá confiaba en que yo tendría la fuerza necesaria para afrontarlo. ¿Tenía yo esa fuerza? Pensé en cómo había soportado el frío de la noche. Eso tenía que haber sido por mi bien, pues protegió la nueva casita de imágenes traumáticas.",
+      "zh": "为什么是这里，为什么是现在？她是否预想到这会在我心中引发什么？除了这里，还能去哪里？我不希望是她的伴侣发现她，或者她的母亲，或者一个家里有孩子的朋友。也许我们共处时光的温柔，使她那可怕的举动成为可能。也许她相信我有足够的力量去承受。我真的有那份力量吗？我想到她是如何忍受那一夜的寒冷的。那一定是为了我好，因为这保护了新建的小屋免受创伤性画面的侵扰。",
+      "vocab": [
+        {
+          "word": "provocaría",
+          "translation": "会引发，会在……中激起",
+          "note": "provocar 意为引发、激起某种反应或情感，此处为条件句中的将来时，provocar en alguien（在某人心中引发）是固定搭配，在心理和情感叙事中极为常用，注意与英语 provoke 高度对应。"
+        },
+        {
+          "word": "aterrador",
+          "translation": "令人恐惧的，可怕的",
+          "note": "aterrador 来自 aterrar（使恐惧），后缀 -dor 表示引发某种感受的，可推导 consolador（令人安慰的）、esperanzador（令人充满希望的）等同类构词，是描述强烈情感反应的高频形容词。"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "es": "Estaba segura de que <strong>reflexionaría</strong> sobre estas preguntas durante años. Pero sentí una claridad inmediata: sin importar si estaba de acuerdo con su decisión, aceptarla y cuidar de su comunidad tras su muerte eran formas de amarla. Escribí un hilo en las redes sociales en el que le contaba a la comunidad lo que entendía sobre su muerte. Durante una semana, celebramos shivas diarios en línea, que reunieron a decenas de personas de todo el mundo. Su funeral atrajo a cientos de personas en persona y en Zoom.",
+      "zh": "我确信自己会在未来多年里反复思索这些问题。但我立刻感到一种清明：无论我是否认同她的决定，接受它并在她身后照料她的社群，都是爱她的方式。我在社交媒体上发了一条长帖，向社群讲述我对她死亡的理解。一周内，我们每天在网上举行悼念聚会，汇聚了来自世界各地的数十人。她的葬礼吸引了数百人亲临现场，也有人通过Zoom参与。",
+      "vocab": [
+        {
+          "word": "reflexionaría",
+          "translation": "会反思，会深思",
+          "note": "reflexionar sobre 是固定搭配，意为对某事进行深入思考和反省，比 pensar en（想到）更强调系统性的内省，名词为 reflexión，是哲学、文学和新闻评论文体中的核心词汇。"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "es": "La gente contó anécdotas que revelaron un alcance que yo no había visto. Formó a investigadores y convenció a los Centros para el Control y Prevención de Enfermedades de que crearan centros de investigación EM/SFC. Ella y su pareja fueron de las primeras personas en advertir que la pandemia de covid podía <strong>desencadenar</strong> una oleada de casos de EM/CFS. Se convirtió en la madrina de activistas del covid persistente, y les enseñó cómo volverse influyentes, elaborar estrategias y cuidarse mutuamente. Había sido tan modesta con su trabajo que no me había dado cuenta de que era la maga oculta detrás de casi todos los cambios importantes. Mi amiga era un gigante.",
+      "zh": "人们讲述的种种轶事揭示出一种我未曾看见的影响力。她培训了研究人员，说服疾病控制与预防中心建立ME/CFS研究中心。她和她的伴侣是最早警告新冠疫情可能引发大量ME/CFS病例的人之一。她成为长新冠活动人士的教母，教导他们如何发挥影响力、制定策略、相互关照。她对自己的工作如此谦逊，以至于我没有意识到，她是几乎所有重大变革背后隐藏的魔法师。我的朋友，是一位巨人。",
+      "vocab": [
+        {
+          "word": "desencadenar",
+          "translation": "引发，触发，unleash",
+          "note": "desencadenar 本义为解开锁链，引申为触发或引爆某种连锁反应，常用于描述疾病、危机或冲突的爆发，是新闻和医学文体中描述触发机制的高频词，名词为 desencadenante（诱因、触发因素）。"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "es": "También nos enteramos de quién era antes de la enfermedad: la que les ganaba a todos en el juego de los corazones durante la universidad; una alegre snowboarder de casco rosa rodeada de amigos. Su familia y yo construimos un altar en un tocón de árbol junto al arroyo. Sobre él, colocamos un amuleto protector en forma de palma llamado hamsa, una caja de donativos de la sinagoga de Polonia en el periodo de antes de la guerra, figuritas de un perro y un gato y, por supuesto, un poco de chocolate. Un año después, su familia regresó. Hicimos barcos rojos de origami y los llenamos de flores y un poco de sus cenizas. Los barcos <strong>flotaron</strong> por el arroyo, quedaron atrapados un momento y luego se liberaron. No pude retenerla. Pero pude <strong>acompañarla</strong>, casi hasta el final.",
+      "zh": "我们也了解到了她患病前是什么样的人：大学时在红心牌游戏中赢过所有人的那个女孩；一个戴着粉色头盔、被朋友们簇拥着的快乐滑雪者。她的家人和我在小溪旁的一截树桩上建了一座祭坛。我们在上面摆放了一个手掌形的护身符哈姆萨、一个来自战前波兰犹太会堂的捐款箱、一只狗和一只猫的小摆件，当然，还有一点巧克力。一年后，她的家人回来了。我们折了红色的纸船，把花朵和她的一小撮骨灰放进去。纸船在小溪里漂流，短暂地被什么卡住，然后又自由地漂走了。我没能留住她。但我能够陪伴她，几乎到最后。",
+      "vocab": [
+        {
+          "word": "flotaron",
+          "translation": "漂浮，漂流",
+          "note": "flotar 意为漂浮在液体或空气中，在此用于描述纸船漂流的具体动作，同时在全文结尾的语境中具有强烈的象征意味，名词为 flotación，形容词 flotante 意为漂浮的、浮动的。"
+        },
+        {
+          "word": "acompañarla",
+          "translation": "陪伴她，陪同她",
+          "note": "acompañar a alguien 是固定搭配，意为陪伴某人，在文章结尾处承载了全文最深的情感重量：作者无法阻止贝丝的离去，但给予了她最后的陪伴，动词 acompañar 在西班牙语文化中具有深厚的人文温度。"
+        }
+      ]
+    }
+  ]
+}
