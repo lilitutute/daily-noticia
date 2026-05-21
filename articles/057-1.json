@@ -1,0 +1,233 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与社会",
+  "difficulty": "C1",
+  "wordCount": "约950词",
+  "title": "La revolución de la IA te saturará de trabajo",
+  "subtitle": "AI革命将让你工作过载",
+  "resumenEs": "El autor argumenta que la revolución de la IA no elimina el trabajo, sino que lo transfiere silenciosamente de los profesionales al consumidor. A través de la historia del autoservicio —desde la lavadora hasta los cajeros automáticos— demuestra que esta tendencia sobrecarga a las personas con trabajo invisible y no remunerado, mientras las empresas se benefician y las estadísticas laborales no capturan la pérdida real.",
+  "resumenZh": "作者论证，AI革命并非消灭工作，而是悄悄将工作从专业人士转移给消费者。通过自助服务的历史——从洗衣机到ATM机——他证明这一趋势正在用无形的、无偿的劳动使人们不堪重负，而企业从中获益，劳动统计数据却无法捕捉到真实的损失。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Mi esposa y yo encontramos hace poco una rata en nuestro jardín. Normalmente habría llamado a un <strong>exterminador</strong>, pero en su lugar recurrí a ChatGPT, que me sugirió que instalara una trampa <strong>cebada</strong> con carne. Lo hice y sentí una pequeña <strong>oleada</strong> de satisfacción, la satisfacción de ocuparse de algo uno mismo, sin pagar a un profesional y sin esperar a que apareciera uno. (No funcionó. La rata ignoró la trampa).",
+      "zh": "不久前，我和妻子在花园里发现了一只老鼠。通常我会打电话给灭虫公司，但这次我转而求助于ChatGPT，它建议我安装一个用肉作诱饵的捕鼠夹。我照做了，感到一阵小小的满足——那种自己动手解决问题、无需花钱请专业人士、也无需等待专业人士上门的满足感。（结果没用。老鼠对陷阱视而不见。）",
+      "vocab": [
+        {
+          "word": "exterminador",
+          "translation": "灭虫工，消灭害虫的人",
+          "note": "exterminador 来自 exterminar（消灭、根除），后缀 -dor 表示执行某动作的人，在此指专业灭虫服务人员，是全文开篇具体例子中的关键词，也隐喻了AI时代专业服务被自助取代的核心主题。"
+        },
+        {
+          "word": "cebada",
+          "translation": "用诱饵引诱的，加了饵料的",
+          "note": "cebado/a 来自 cebar（喂食、用诱饵引诱），trampa cebada 指装有诱饵的陷阱，cebo 指诱饵，这一词在狩猎和捕鼠语境中极为具体，作者用这个日常细节开篇，营造出亲切的叙事语气。"
+        },
+        {
+          "word": "oleada",
+          "translation": "一阵，浪潮，涌动",
+          "note": "oleada 来自 ola（波浪），本义为大浪，引申为某种感受或现象的突然涌现，una oleada de satisfacción（一阵满足感）是文学叙事中描述情绪瞬间涌现的生动表达，在新闻中也常见 oleada de refugiados（难民潮）等用法。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "La experiencia personal de un académico de Oxford no suele ser <strong>representativa</strong>, pero sé que no soy el único que últimamente se ha convertido en su propio exterminador, reparador o contador. Aproximadamente una cuarta parte de los estadounidenses recurrieron a la inteligencia artificial para que les ayudara a declarar sus impuestos. Un estudio de 1,1 millones de conversaciones de ChatGPT descubrió que casi tres cuartas partes de los mensajes no estaban relacionados con el trabajo. La gente recurría con más frecuencia a ChatGPT para obtener orientación práctica: sobre salud, reparaciones domésticas, decisiones financieras y otros asuntos sobre los que antes podía haber opinado o gestionado un profesional.",
+      "zh": "一位牛津学者的个人经历通常不具有代表性，但我知道自己并非唯一一个近来成为自己的灭虫工、维修工或会计师的人。大约四分之一的美国人借助人工智能帮助申报税款。一项针对110万条ChatGPT对话的研究发现，近四分之三的消息与工作无关。人们越来越多地向ChatGPT寻求实用指导：关于健康、家庭维修、财务决策以及其他以前可能由专业人士提供意见或处理的事务。",
+      "vocab": [
+        {
+          "word": "representativa",
+          "translation": "有代表性的，典型的",
+          "note": "representativo/a 来自 representar（代表），意为能够代表更广泛群体或现象的，作者在此以自嘲语气承认自己作为牛津学者的局限性，随即用数据证明这一现象的普遍性，是论说文中先退后进的典型修辞策略。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Se nos ha dicho que la IA le quitará el trabajo a la gente. Lo que nadie menciona es que muchos de esos empleos <strong>recaerán</strong> sobre nosotros. La revolución de la IA implica una enorme transferencia de <strong>mano de obra</strong>, no del trabajador a la máquina, sino del trabajador al consumidor. La capacidad de hacerlo todo nosotros mismos puede ser satisfactoria, pero puede <strong>sobrecargarnos</strong> gradualmente de trabajo sin que nos demos cuenta. Las tareas que antes <strong>delegábamos</strong> seguirán haciéndose. Simplemente saldrán de la fuerza de trabajo y se trasladarán al hogar como nuevas formas de trabajo invisible y no <strong>remunerado</strong>.",
+      "zh": "我们被告知AI将夺走人们的工作。没有人提到的是，这些工作中有许多将落到我们自己身上。AI革命意味着一场巨大的劳动力转移——不是从工人转移到机器，而是从工人转移到消费者。凡事自己动手的能力可能令人满足，但它可能在我们不知不觉中逐渐让我们工作过载。那些我们曾经委托他人完成的任务仍将被完成，只是会从劳动力市场中消失，以新的无形、无偿劳动形式转移到家庭中。",
+      "vocab": [
+        {
+          "word": "recaerán",
+          "translation": "落到，落在……身上",
+          "note": "recaer sobre/en 是固定搭配，意为责任或负担落到某人身上，来自 caer（落下），前缀 re- 强调再次或转移，在法律和社会议题中极为高频，如 la responsabilidad recae en（责任落在……身上），是描述责任转移的核心动词。"
+        },
+        {
+          "word": "mano de obra",
+          "translation": "劳动力，人工",
+          "note": "mano de obra 是经济学核心术语，字面义为手的工作，指人类劳动投入，与 capital（资本）相对，transferencia de mano de obra（劳动力转移）是本文的核心概念，在劳动经济学报道中极为高频。"
+        },
+        {
+          "word": "sobrecargarnos",
+          "translation": "使我们过载，使我们负担过重",
+          "note": "sobrecargar 由 sobre-（超过）+ cargar（装载、负担）构成，意为超出正常承载能力地加以负担，是描述工作量或压力超限的高频词，名词为 sobrecarga，在劳动和心理健康议题中常见 sobrecarga de trabajo（工作过载）。"
+        },
+        {
+          "word": "delegábamos",
+          "translation": "委托，委派，授权他人完成",
+          "note": "delegar 意为将任务或权力委托给他人，在管理和日常语境中极为高频，delegar tareas（委托任务）是固定搭配，名词为 delegación，注意 delegar en alguien（委托给某人）的介词用法。"
+        },
+        {
+          "word": "remunerado",
+          "translation": "有报酬的，有偿的",
+          "note": "remunerado/a 来自 remunerar（支付报酬），trabajo no remunerado（无偿劳动）是劳动经济学和女性主义经济学的核心概念，指家务劳动、照料工作等不计入GDP的劳动，与本文关于劳动转移的核心论点直接相关。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "El movimiento hacia el autoservicio es una de las fuerzas más poderosas y menos apreciadas de la historia del trabajo. Consideremos la lavadora. En muchas ciudades del siglo XIX, el lavado de ropa era una de las principales ocupaciones de servicios urbanos y una de las más duras. El trabajo consistía en <strong>acarrear</strong> agua, cortar leña, hervir la ropa blanca en <strong>lejía</strong> y <strong>tallar</strong> cada prenda a mano en el lavadero, <strong>escurrir</strong>, secar, <strong>almidonar</strong> y planchar con pesadas planchas planas calentadas en una estufa. Consumía la mayor parte de una semana. Las lavanderas trabajaban en todas partes: incluso las familias que cocinaban y cosían por su cuenta le pagaban a alguien para que les lavara la ropa. En la década de 1880, cuando las lavanderas negras de Atlanta organizaron una huelga, la ropa blanca se amontonó y la ciudad se paralizó.",
+      "zh": "向自助服务的转变是劳动史上最强大却最不受重视的力量之一。让我们来看看洗衣机。在19世纪的许多城市，洗衣是城市服务业的主要职业之一，也是最艰苦的职业之一。这项工作包括挑水、劈柴、用碱液煮白色衣物、在洗衣板上手工搓洗每件衣物、拧干、晾干、上浆，以及用在炉子上加热的沉重熨斗熨烫。这几乎占据了一周的大部分时间。洗衣女工无处不在：即便是自己做饭、缝纫的家庭，也会雇人来洗衣服。1880年代，当亚特兰大的黑人洗衣女工组织罢工时，白色衣物堆积如山，整座城市陷入瘫痪。",
+      "vocab": [
+        {
+          "word": "acarrear",
+          "translation": "搬运，挑运，运送",
+          "note": "acarrear 意为费力地搬运或运输，比 transportar（运输）更强调体力劳动的艰辛，在此描述19世纪洗衣女工挑水的繁重劳动，同时 acarrear 还有引发、带来（后果）的引申义，如 acarrear problemas（引发问题）。"
+        },
+        {
+          "word": "lejía",
+          "translation": "碱液，漂白水",
+          "note": "lejía 指用于漂白和消毒的碱性溶液，在历史语境中指草木灰制成的碱液，用于煮洗白色衣物，在现代语境中指家用漂白水（次氯酸钠溶液），是描述传统洗衣劳动的具体历史词汇。"
+        },
+        {
+          "word": "tallar",
+          "translation": "搓洗，用力擦洗",
+          "note": "tallar 本义为雕刻或切割，在洗衣语境中指在洗衣板上用力搓洗衣物，是拉美西语中描述手工搓洗动作的口语化动词，在西班牙则更常用 restregar 或 frotar，是了解拉美西语特色用法的典型例子。"
+        },
+        {
+          "word": "escurrir",
+          "translation": "拧干，沥干，挤干水分",
+          "note": "escurrir 意为将液体从物体中挤压出去，在洗衣语境中指拧干衣物，名词为 escurridor（沥水架），注意 escurrirse 作反身动词意为滑脱，与前文 escurrírseles 呼应，体现了西班牙语动词的多义性。"
+        },
+        {
+          "word": "almidonar",
+          "translation": "上浆，给衣物上淀粉浆",
+          "note": "almidonar 来自 almidón（淀粉），指将淀粉溶液涂抹在衣物上使其挺括的传统工艺，是19世纪洗衣流程中的重要步骤，这一细节生动还原了当时洗衣劳动的繁琐程度，也是理解历史语境的关键词汇。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "La lavadora, junto con la infraestructura que la hizo posible —agua corriente, electricidad, detergentes sintéticos— acabó gradualmente con ese mundo. Pero no acabó con el trabajo. Los clientes compraron máquinas y lavaron ellos mismos. La lavandera fue <strong>desplazada</strong> por sus antiguos clientes. La historiadora Ruth Schwartz Cowan documentó otra <strong>ironía</strong>. El ama de casa acabó haciendo más trabajo doméstico, con más frecuencia, a un nivel más alto… y no remunerado. Los hombres dejaron de usar cuellos y puños <strong>desmontables</strong>, lo que significaba que había que lavar camisas enteras. La ropa de los niños se cambiaba a diario en lugar de semanalmente. La lavandera perdió su trabajo. El ama de casa ganó una tarea.",
+      "zh": "洗衣机，连同使其成为可能的基础设施——自来水、电力、合成洗涤剂——逐渐终结了那个世界。但它没有终结劳动。顾客们购买了机器，自己洗起了衣服。洗衣女工被她们昔日的客户所取代。历史学家露丝·施瓦茨·科万记录了另一个讽刺。家庭主妇最终做了更多的家务，频率更高，标准更高……而且是无偿的。男人们不再使用可拆卸的领子和袖口，这意味着整件衬衫都需要清洗。孩子们的衣服从每周换洗改为每天换洗。洗衣女工失去了工作，家庭主妇却多了一项任务。",
+      "vocab": [
+        {
+          "word": "desplazada",
+          "translation": "被取代，被排挤，被置换",
+          "note": "desplazado/a 来自 desplazar（移位、取代），在劳动经济学中指某一职业群体被新技术或新群体所取代，名词为 desplazamiento，在当代AI讨论中 desplazamiento laboral（劳动力置换）是核心术语，与全文主题高度契合。"
+        },
+        {
+          "word": "ironía",
+          "translation": "讽刺，反讽，吊诡之处",
+          "note": "ironía 在修辞学中指言语与实际含义相反的表达，在日常语境中泛指事与愿违、出人意料的吊诡情形，作者在此指洗衣机本应解放女性，却反而增加了家庭主妇劳动量这一历史悖论，是全文论证链条中的关键转折词。"
+        },
+        {
+          "word": "desmontables",
+          "translation": "可拆卸的，可拆装的",
+          "note": "desmontable 来自 desmontar（拆卸），意为可以被拆下来单独处理的，19世纪男士衬衫的领子和袖口是可拆卸的，脏了只需单独清洗，洗衣机普及后改为整件衬衫清洗，这一细节是理解家务劳动增加这一历史论点的关键。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Ese patrón se ha repetido desde entonces. El autoservicio hace que escanear y <strong>embolsar</strong> sea tarea del comprador. Internet da a los viajeros acceso directo a los horarios de los vuelos y a las reseñas de los hoteles que antes eran controlados por los agentes. Los corredores de bolsa en línea ponen una terminal de transacciones en cada bolsillo. Y los celulares eliminan al cajero del banco y en su lugar te ponen a ti. Estamos acostumbrados a ser nuestros propios asistentes de caja, agentes de viajes y cajeros. Manejar estas tareas nosotros mismos a menudo hace que nuestras vidas sean más eficientes. Pero la IA está extendiendo ahora la economía de las tareas a territorios que antes requerían años de formación, como el derecho y la medicina.",
+      "zh": "此后这一模式不断重演。自助结账让扫描和装袋成为购物者的任务。互联网让旅行者直接获取以前由旅行社掌控的航班时刻表和酒店评价。在线股票经纪商把一个交易终端放进了每个人的口袋。手机则取代了银行柜员，让你自己顶上。我们已经习惯于成为自己的收银员、旅行社和银行柜员。自己处理这些任务往往让我们的生活更高效。但AI如今正将任务经济扩展到以前需要多年培训的领域，比如法律和医疗。",
+      "vocab": [
+        {
+          "word": "embolsar",
+          "translation": "装袋，将物品装入袋中",
+          "note": "embolsar 来自 bolsa（袋子），意为将物品装入购物袋，在超市自助结账语境中指顾客自行装袋这一原本由收银员完成的工作，是描述自助服务转移劳动的具体例子，名词为 embolsado。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Hay beneficios <strong>tangibles</strong>. Un hombre dijo que su familia utilizó Claude para reducir la factura de un hospital de 195.000 dólares a menos de 33.000, identificando cargos duplicados y errores de codificación. Un chatbot les proporcionó servicios de contabilidad a los que de otro modo no habrían tenido acceso. Cuando la lavadora se hizo lo suficientemente barata para la clase media, supuso una fuerza <strong>democratizadora</strong>. Millones de familias tuvieron acceso a ropa limpia en un horario regular. Lo mismo ocurre hoy en día.",
+      "zh": "这其中有切实的好处。一名男子说，他的家人使用Claude将一张19.5万美元的医院账单降低到不足3.3万美元，方法是识别出重复收费和编码错误。一个聊天机器人为他们提供了原本无法获得的会计服务。当洗衣机变得足够便宜、中产阶级也能负担得起时，它成为了一股民主化力量，数百万家庭得以定期获得干净的衣物。今天也是如此。",
+      "vocab": [
+        {
+          "word": "tangibles",
+          "translation": "切实的，有形的，实实在在的",
+          "note": "tangible 来自拉丁语 tangere（触摸），意为可以被感知或证实的，与 intangible（无形的）相对，在论说文中 beneficios tangibles（切实的好处）是承认对立观点的标准表达，体现了作者论证的平衡性。"
+        },
+        {
+          "word": "democratizadora",
+          "translation": "民主化的，使普及化的",
+          "note": "democratizador/a 来自 democratizar（民主化、使普及），在科技和社会语境中指将原本只有少数人能获得的资源或服务向大众开放，是描述技术社会影响的高频词，名词为 democratización，在AI讨论中极为常见。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Sin embargo, el autoservicio no reproduce automáticamente el <strong>criterio</strong> de un profesional. El especialista en facturación se fija en el código que al paciente no se le ocurrió cuestionar. El contador señala la <strong>deducción</strong> que el contribuyente no sabía que existía. La herramienta responde a lo que tú le preguntas, mientras que el experto te dice lo que tienes que preguntar. Ese es el <strong>intercambio</strong> de la IA: mayor acceso pero menor <strong>pericia</strong>.",
+      "zh": "然而，自助服务并不能自动复制专业人士的判断力。账单专员会注意到患者根本没想到要质疑的那个代码。会计师会指出纳税人根本不知道存在的那项扣除。工具回答你提出的问题，而专家告诉你应该提什么问题。这就是AI的交换：更广泛的获取，但更少的专业技能。",
+      "vocab": [
+        {
+          "word": "criterio",
+          "translation": "判断力，标准，准则",
+          "note": "criterio 既指判断某事的标准，也指个人的判断能力和辨别力，在此指专业人士凭借经验积累形成的综合判断力，这正是AI工具所缺乏的，是全文论证中区分工具与专家的核心概念词。"
+        },
+        {
+          "word": "deducción",
+          "translation": "扣除，抵扣；推断",
+          "note": "deducción 在税务语境中指可从应税收入中扣除的项目，在逻辑语境中指演绎推理，是典型的一词多义词，此处为税务含义，deducción fiscal（税收抵扣）是财务新闻的高频术语。"
+        },
+        {
+          "word": "intercambio",
+          "translation": "交换，权衡，取舍",
+          "note": "intercambio 本义为互换，在此引申为得失之间的权衡取舍，对应英语 trade-off，是经济学和政策分析中描述利弊权衡的核心概念，作者用这个词精准概括了AI自助服务的本质：得到便利，失去专业深度。"
+        },
+        {
+          "word": "pericia",
+          "translation": "专业技能，专业知识，精通",
+          "note": "pericia 指通过长期训练和实践积累的专业能力，比 habilidad（技能）更强调深度和专业性，名词 perito 指专家或鉴定人，在法律和技术语境中高频出现，是描述专业知识价值的核心词汇。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "En segundo lugar, ningún acto de autoservicio se siente como una gran carga. Notamos los honorarios del contador que no pagamos. Rara vez notamos la tarde que pasamos haciendo su trabajo. Esto tiene un nombre: <strong>descuido del costo de oportunidad</strong>, la tendencia bien documentada a pasar por alto el valor de aquello a lo que renunciamos cuando el costo es tiempo y no dinero. A medida que más consumidores recurren a la IA, los profesionales pueden ser más difíciles de encontrar; es difícil encontrar una línea de caja con personal o una sucursal bancaria con un <strong>cajero</strong>.",
+      "zh": "其次，没有哪一项自助服务行为会让人感觉是沉重的负担。我们会注意到没有支付的会计费用，却很少注意到我们花了一个下午做他的工作。这有一个名字：机会成本忽视——一种有充分记录的倾向，即当成本是时间而非金钱时，人们往往忽略所放弃事物的价值。随着越来越多的消费者转向AI，专业人士可能越来越难找到；就像现在很难找到有人值守的收银台或有柜员的银行网点一样。",
+      "vocab": [
+        {
+          "word": "descuido del costo de oportunidad",
+          "translation": "机会成本忽视",
+          "note": "costo de oportunidad（机会成本）是经济学核心概念，指为获得某物而放弃的最高价值替代选择，descuido（忽视）指人们系统性地低估时间成本的认知偏差，这一概念是作者论证AI劳动转移被低估的理论基础。"
+        },
+        {
+          "word": "cajero",
+          "translation": "银行柜员，收银员",
+          "note": "cajero 在银行语境中指柜员，在超市语境中指收银员，cajero automático（ATM机）是固定搭配，作者在此用银行柜员和有人值守收银台的消失，类比专业人士因AI普及而逐渐消失的趋势，形成有力的现实呼应。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Cuando el trabajo se traslada al consumidor, el trabajo desaparece de las <strong>estadísticas laborales</strong>. Una empresa puede sustituir a un empleado por una máquina o ceder la tarea al cliente; en ambos casos, ha desaparecido un trabajo remunerado. Si tú realizas el trabajo en tu casa, nadie te cuenta las horas. Por eso la revolución digital mejora la <strong>productividad laboral</strong> —y <strong>dispara</strong> las ganancias de las empresas— pero deja a la gente <strong>sobresaturada</strong>. La lavandera desapareció de las estadísticas mucho antes de que desapareciera de la memoria. Muchos más oficios y profesiones están a punto de sufrir el mismo cambio. Puede que la revolución de la IA aún no te haya quitado el trabajo. Pero ya te ha puesto a trabajar.",
+      "zh": "当工作转移给消费者时，它就从劳动统计数据中消失了。一家企业可以用机器取代员工，也可以将任务转交给客户；两种情况下，一份有偿工作都消失了。如果你在家里完成这项工作，没有人会统计你的工时。这就是为什么数字革命提升了劳动生产率——并让企业利润飙升——却让人们不堪重负。洗衣女工从统计数据中消失，远早于她从记忆中消失。更多的行业和职业即将经历同样的转变。AI革命也许还没有夺走你的工作，但它已经让你开始干活了。",
+      "vocab": [
+        {
+          "word": "estadísticas laborales",
+          "translation": "劳动统计数据，就业统计",
+          "note": "estadísticas laborales 是经济学和政策分析的核心术语，指衡量就业、失业、工资等劳动市场状况的数据体系，作者指出这一体系的根本缺陷：它只统计有偿劳动，无法捕捉转移给消费者的无偿劳动，是全文最具批判性的制度性观察。"
+        },
+        {
+          "word": "productividad laboral",
+          "translation": "劳动生产率",
+          "note": "productividad laboral 指单位劳动投入所产生的产出量，是衡量经济效率的核心指标，作者在此揭示一个悖论：当工作转移给消费者后，企业的劳动生产率数据会上升，但这种上升是以消费者的隐性劳动为代价的。"
+        },
+        {
+          "word": "dispara",
+          "translation": "使飙升，触发，引爆",
+          "note": "disparar 本义为开枪、射击，引申为使某数值急剧上升，disparar las ganancias（使利润飙升）是财经新闻的高频表达，这一军事隐喻生动传达了利润增长的爆发性和突然性，是西班牙语商业报道中的标志性用法。"
+        },
+        {
+          "word": "sobresaturada",
+          "translation": "过度饱和的，不堪重负的",
+          "note": "sobresaturado/a 由 sobre-（超过）+ saturado（饱和的）构成，意为超出正常承载极限的，在此呼应标题中的 saturará，形成首尾呼应，作者用这个词总结全文核心论点：AI革命的真正代价是消费者被无形劳动所淹没。"
+        }
+      ]
+    }
+  ]
+}

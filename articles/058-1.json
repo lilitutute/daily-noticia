@@ -1,0 +1,176 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "教育与神经科学",
+  "difficulty": "B2",
+  "wordCount": "约700词",
+  "title": "Infancias desconectadas: el costo de vivir tras una pantalla",
+  "subtitle": "断联的童年：活在屏幕后面的代价",
+  "resumenEs": "El artículo analiza el impacto negativo del exceso de pantallas en la infancia y lo contrasta con los beneficios científicamente comprobados del contacto con la naturaleza. Apoyándose en un estudio publicado en 2026, describe una 'cascada de efectos' positivos que la naturaleza desencadena en el cerebro, y concluye con un llamado urgente a integrar entornos naturales en la educación.",
+  "resumenZh": "本文分析了儿童过度使用屏幕的负面影响，并将其与科学证实的自然接触益处进行对比。依托一项2026年发表的研究，文章描述了自然环境在大脑中触发的『连锁效应』，并以将自然环境融入教育的紧迫呼吁作为结尾。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Niños y niñas pasan aproximadamente cuatro horas al día conectados a dispositivos electrónicos después del colegio. Al año, esto se traduce en 1.460 horas o 60 días en plataformas digitales. De acuerdo con los resultados de un estudio de Qustodio en Estados Unidos, España y Reino Unido, un <strong>sexto</strong> de la infancia se vive detrás de una pantalla. Otro dato preocupante lo aporta la Octava Radiografía Digital 2025, que revela que el 55% de los menores usó por primera vez un celular, tablet o computador antes de los siete años, es decir, antes de entrar a segundo básico, una etapa en la que deberían estar desarrollando habilidades sociales, <strong>motoras</strong> y lingüísticas. Pero lo digital llegó primero.",
+      "zh": "儿童在放学后每天大约花四小时连接电子设备。换算成全年，这意味着在数字平台上度过了1460小时，即60天。根据Qustodio在美国、西班牙和英国开展的一项研究结果，六分之一的童年是在屏幕后面度过的。另一个令人担忧的数据来自2025年第八次数字扫描报告，该报告显示，55%的未成年人在七岁之前首次使用手机、平板电脑或电脑，也就是说，在进入小学二年级之前——这一阶段本应发展社交、运动和语言能力。但数字世界抢先一步。",
+      "vocab": [
+        {
+          "word": "sexto",
+          "translation": "六分之一；第六",
+          "note": "sexto 作序数词意为第六，作分数词意为六分之一，un sexto de（六分之一的）是固定分数表达，西班牙语分数构成规律：二分之一 mitad，三分之一 tercio，四分之一 cuarto，五分之一 quinto，六及以上直接用序数词，是数学和统计表达的基础词汇。"
+        },
+        {
+          "word": "motoras",
+          "translation": "运动的，动作的",
+          "note": "motor/motora 在医学和教育语境中指与肌肉运动和身体动作相关的，habilidades motoras（运动技能）分为 motricidad fina（精细运动，如握笔）和 motricidad gruesa（大运动，如跑跳），是儿童发展领域的核心术语。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Estas cifras reflejan una infancia que se está criando cada vez más bajo techo, en espacios cerrados, frente a estímulos artificiales y acelerados. Y mientras eso ocurre, se están perdiendo horas vitales de interacción con los árboles, el viento y la tierra, dejando de lado innumerables beneficios que la naturaleza ofrece para el <strong>bienestar</strong> general y la transformación del cerebro.",
+      "zh": "这些数字反映出一代越来越多在室内、在封闭空间里、面对人工化和快节奏刺激中成长的儿童。与此同时，与树木、风和土地互动的宝贵时光正在流逝，自然为整体健康和大脑发育所提供的无数益处也被搁置一旁。",
+      "vocab": [
+        {
+          "word": "bienestar",
+          "translation": "健康，幸福，福祉",
+          "note": "bienestar 由 bien（好）+ estar（状态）构成，指身心良好的整体状态，在公共卫生和心理学语境中是核心术语，bienestar general（整体健康）、bienestar emocional（情感健康）是固定搭配，与英语 well-being 对应，是现代健康话语中的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Una investigación con importante participación chilena, publicada en enero de 2026 en la revista Neuroscience & Biobehavioral Reviews, lo confirma con precisión. Los investigadores describieron una \"<strong>cascada</strong> de efectos\" que se <strong>desencadena</strong> de forma secuencial al exponernos a entornos naturales. Se habla de cuatro cambios positivos, en los que cada uno abre la puerta al siguiente.",
+      "zh": "一项有智利研究人员重要参与、于2026年1月发表在《神经科学与生物行为评论》杂志上的研究精确地证实了这一点。研究人员描述了一种在我们接触自然环境时依次触发的『连锁效应』。研究提出了四种积极变化，每一种都为下一种打开大门。",
+      "vocab": [
+        {
+          "word": "cascada",
+          "translation": "瀑布；连锁，级联",
+          "note": "cascada 本义为瀑布，在科学语境中引申为一系列依次触发的连锁反应，cascada de efectos（连锁效应）是神经科学和生物学中的专业表达，对应英语 cascade effect，这一隐喻生动描述了自然接触引发的多米诺式积极反应。"
+        },
+        {
+          "word": "desencadena",
+          "translation": "触发，引发，unleash",
+          "note": "desencadenar 来自 cadena（链条），前缀 des- 表示解开，字面义为解开锁链，引申为触发一系列连锁反应，与 desatar 近义，在科学语境中常用于描述生理或心理机制的启动，名词为 desencadenante（触发因素）。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Primero, el cerebro procesa más fácilmente lo que ve. Las ciudades y las pantallas <strong>bombardean</strong> con estímulos caóticos que exigen un esfuerzo <strong>perceptivo</strong> constante. La naturaleza, en cambio, se organiza en patrones <strong>fractales</strong> (las ramas de un árbol, las olas del mar, la forma de las nubes) que el cerebro procesa de manera mucho más eficiente y con menos esfuerzo. En otras palabras, trabaja menos y descansa más.",
+      "zh": "第一，大脑更轻松地处理所见之物。城市和屏幕以混乱的刺激轰炸大脑，要求持续的感知努力。自然界则相反，它以分形模式组织（树枝、海浪、云朵的形状），大脑处理这些模式效率更高、所需努力更少。换句话说，大脑工作更少，休息更多。",
+      "vocab": [
+        {
+          "word": "bombardean",
+          "translation": "轰炸，狂轰滥炸",
+          "note": "bombardear 本义为炮轰或空袭，在媒体和认知科学语境中引申为以大量信息或刺激持续冲击某人，bombardear con información（信息轰炸）是固定搭配，是描述信息过载的高频隐喻动词，名词为 bombardeo。"
+        },
+        {
+          "word": "perceptivo",
+          "translation": "感知的，知觉的",
+          "note": "perceptivo/a 来自 percepción（感知），指与感官接收和处理信息相关的，esfuerzo perceptivo（感知努力）指大脑处理感官输入所消耗的认知资源，是神经科学和认知心理学的专业术语，名词为 percepción。"
+        },
+        {
+          "word": "fractales",
+          "translation": "分形的，分形图案",
+          "note": "fractal 来自拉丁语 fractus（破碎的），指在不同尺度上呈现相似结构的几何图案，由数学家曼德布罗特提出，自然界中树枝、海岸线、雪花等均呈分形结构，研究表明人类大脑对分形图案有天然的处理优势，是本文神经科学论证的关键概念。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Segundo, baja el estrés. Con la carga sensorial reducida, el sistema de alarma del cuerpo se calma, el corazón late más despacio, la <strong>amígdala</strong> cerebral reduce su actividad y disminuyen los pensamientos negativos <strong>repetitivos</strong>.",
+      "zh": "第二，压力降低。随着感官负荷的减少，身体的警报系统平静下来，心跳减慢，大脑杏仁核活动减弱，反复出现的负面想法也随之减少。",
+      "vocab": [
+        {
+          "word": "amígdala",
+          "translation": "杏仁核",
+          "note": "amígdala 来自希腊语，意为杏仁，指大脑颞叶内形似杏仁的神经结构，是处理恐惧、焦虑等情绪反应的核心区域，在压力和创伤研究中极为重要，amígdala hiperactiva（过度活跃的杏仁核）与焦虑障碍密切相关，是神经科学报道的必备词汇。"
+        },
+        {
+          "word": "repetitivos",
+          "translation": "重复的，反复的",
+          "note": "repetitivo/a 在心理学语境中常见于 pensamientos repetitivos（反复思维）或 rumiación（反刍思维），指无法停止地反复思考负面事件，是焦虑和抑郁的核心症状之一，与前文外刊中出现的 rumiación 概念直接对应。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "En tercer lugar, se recupera la atención. Con menor estrés, el tipo de atención que usamos a diario, esa que empleamos para concentrarnos en una tarea, tomar decisiones o ignorar distracciones, cede el paso a un modo más <strong>restaurador</strong>. Es lo opuesto a la atención <strong>forzada</strong> que exigen las pantallas.",
+      "zh": "第三，注意力得到恢复。随着压力降低，我们日常使用的那种注意力——用于专注于任务、做出决策或忽略干扰的注意力——让位于一种更具恢复性的模式。这与屏幕所要求的强迫性注意力截然相反。",
+      "vocab": [
+        {
+          "word": "restaurador",
+          "translation": "恢复性的，修复性的",
+          "note": "restaurador/a 来自 restaurar（恢复、修复），在心理学中 atención restauradora（恢复性注意力）源自卡普兰夫妇的注意力恢复理论（ART），指在自然环境中自发产生的、无需努力的注意状态，与 atención dirigida（定向注意力）相对，是环境心理学的核心术语。"
+        },
+        {
+          "word": "forzada",
+          "translation": "强迫的，强制的，费力的",
+          "note": "forzado/a 来自 forzar（强迫、强制），atención forzada 指需要主动努力维持的定向注意力，长时间使用会导致认知疲劳，与 atención involuntaria（非自主注意力，自然触发）相对，是注意力研究中的基础概念对。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Finalmente, el cuarto efecto deja al cerebro en estado de un <strong>loop</strong> perpetuo. Las redes neuronales asociadas al pensamiento <strong>autorreferencial</strong> (ese circuito que activa la mente cuando <strong>divagamos</strong>, nos juzgamos o reproducimos mentalmente conversaciones del pasado) muestran menor actividad tras la exposición a la naturaleza, con un estado mental más tranquilo y menos <strong>disperso</strong>.",
+      "zh": "最后，第四种效应使大脑进入一种持续循环的状态。与自我参照思维相关的神经网络（即当我们漫无目的地思考、自我评判或在脑海中重播过去对话时激活的回路），在接触自然后显示出更低的活动水平，心理状态更平静、更少涣散。",
+      "vocab": [
+        {
+          "word": "loop",
+          "translation": "循环，回路",
+          "note": "loop 来自英语，在西班牙语科技和神经科学语境中已广泛使用，指循环往复的状态或回路，在此描述自然接触带来的持续性积极循环状态，与计算机编程中的循环概念类比，是当代西语科技报道中的常见借词。"
+        },
+        {
+          "word": "autorreferencial",
+          "translation": "自我参照的，自我指涉的",
+          "note": "autorreferencial 由 auto-（自我）+ referencial（参照的）构成，在神经科学中指与自我相关的思维加工，默认模式网络（red neuronal por defecto）是其对应的神经基础，该网络在走神、自我反思时活跃，自然接触可降低其过度活动，是本文最专业的神经科学术语。"
+        },
+        {
+          "word": "divagamos",
+          "translation": "漫无目的地思考，走神，游荡",
+          "note": "divagar 意为漫无目的地游荡或思维游离，在认知科学中对应 mind-wandering（思维游荡），指注意力从当前任务脱离、陷入自发性思维的状态，名词为 divagación，是描述走神和默认模式网络激活的核心词汇。"
+        },
+        {
+          "word": "disperso",
+          "translation": "涣散的，分散的，不集中的",
+          "note": "disperso/a 来自 dispersar（分散），在认知语境中指注意力涣散、思维不集中的状态，mente dispersa（涣散的心智）与 mente enfocada（专注的心智）构成对比，是描述注意力质量的高频形容词，名词为 dispersión。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Estos efectos son relevantes para cualquier edad. Pero en la infancia, cuando el cerebro está en pleno desarrollo, su importancia es aún mayor. Un niño o niña que crece y se educa con acceso cotidiano a entornos naturales no solo tiene mayor tranquilidad general. Está construyendo, literalmente, una <strong>arquitectura</strong> cerebral más sana.",
+      "zh": "这些效应对任何年龄段都有意义。但在童年时期，当大脑正处于全面发育阶段，其重要性更为突出。一个在日常接触自然环境中成长和受教育的孩子，不仅拥有更高的整体平静感，而且从字面意义上说，正在构建一个更健康的大脑架构。",
+      "vocab": [
+        {
+          "word": "arquitectura",
+          "translation": "架构，结构；建筑",
+          "note": "arquitectura 在神经科学语境中指大脑的结构性组织方式，arquitectura cerebral（大脑架构）是描述神经连接和脑区发育的隐喻性表达，强调早期经历对大脑物理结构的塑造作用，是儿童发展和神经科学报道中的高频比喻词。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Hoy es necesario avanzar hacia una forma de educar que integre de manera activa la naturaleza en los procesos de aprendizaje, poniendo mayor énfasis en experiencias al aire libre y en el entorno real. Es posible <strong>compatibilizar</strong> ambos mundos aprovechando las horas escolares para enseñar en espacios distintos a las salas de clase. Añadir el contacto con la naturaleza como parte del aprendizaje es una necesidad <strong>respaldada</strong> por la ciencia y también por la experiencia en terreno, donde hemos visto en la práctica que los niños y niñas que aprenden en exteriores lo hacen distinto, mejor y de manera más sana. Si sabemos que la naturaleza calma, enfoca y desarrolla mejor el cerebro, seguir <strong>relegándola</strong> es una decisión errada. Recuperar ese vínculo con la tierra es urgente si queremos formar niños y niñas que se conviertan en adultos más equilibrados, atentos y felices.",
+      "zh": "今天，有必要推进一种将自然主动融入学习过程的教育方式，更加重视户外体验和真实环境中的学习。利用学校时间在教室以外的空间教学，可以实现两个世界的兼容。将自然接触纳入学习内容是一种既有科学支撑、也有实地经验印证的需求——在实践中我们看到，在户外学习的孩子学得不同、更好、也更健康。如果我们知道自然能平静、专注并更好地发展大脑，继续将其边缘化就是一个错误的决定。如果我们想培养出更平衡、更专注、更快乐的成年人，迫切需要重建与土地的联结。",
+      "vocab": [
+        {
+          "word": "compatibilizar",
+          "translation": "使兼容，使并存，调和",
+          "note": "compatibilizar 意为使两种看似矛盾的事物能够共存，来自 compatible（兼容的），在教育和政策语境中极为高频，如 compatibilizar trabajo y familia（平衡工作与家庭），是描述寻求平衡解决方案的核心动词，名词为 compatibilidad。"
+        },
+        {
+          "word": "respaldada",
+          "translation": "支撑的，背书的，有依据的",
+          "note": "respaldado/a 来自 respaldar（支持、背书），本义为靠背支撑，引申为为某观点或行动提供支持和依据，respaldado por la ciencia（有科学依据的）是学术和新闻文体中的高频表达，名词为 respaldo（支持、依据）。"
+        },
+        {
+          "word": "relegándola",
+          "translation": "将其边缘化，将其搁置",
+          "note": "relegar 意为将某事物置于次要或被忽视的位置，来自拉丁语 relegare（流放），relegar a un segundo plano（置于次要地位）是固定搭配，在此指将自然教育边缘化的教育政策倾向，是批评性论述中的高频动词。"
+        }
+      ]
+    }
+  ]
+}

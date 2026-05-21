@@ -1,0 +1,331 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "文学与人文",
+  "difficulty": "C1",
+  "wordCount": "约1300词",
+  "title": "¿Fui una hija horrible o una simplemente honesta?",
+  "subtitle": "我是个可怕的女儿，还是只是一个诚实的女儿？",
+  "resumenEs": "La autora, escritora de ficción, reflexiona sobre la tensión entre su libertad creativa y el dolor que su obra causó en su madre. A través de recuerdos de la infancia marcados por los episodios depresivos maternos y del conflicto desatado por un cuento publicado, explora las preguntas de culpa, amor, honestidad artística y reconciliación.",
+  "resumenZh": "作者是一位小说作家，她反思自身创作自由与作品给母亲带来的伤痛之间的张力。通过对童年时母亲抑郁发作的记忆，以及一篇已发表短篇小说所引发的冲突，她探讨了关于愧疚、爱、艺术诚实与和解的深层问题。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Durante tres días en 2002, mi madre se encerró en nuestra habitación para visitas en Santa Mónica, furiosa y deprimida por mi segundo cuento publicado. Sabía que vería mi obra como un cruel <strong>espejo de feria</strong>, así que cuando el cuento se publicó en la Santa Monica Review, guardé mis cuatro ejemplares en una repisa muy alta. Al ser tan llamativamente idénticos, le llamaron la atención.",
+      "zh": "2002年，我的母亲把自己关在我们圣莫尼卡家的客房里整整三天，因为我发表的第二篇短篇小说而愤怒又沮丧。我知道她会把我的作品视为一面残忍的哈哈镜，所以当这篇小说在《圣莫尼卡评论》上发表时，我把四本样刊藏在了一个很高的架子上。但它们太显眼地一模一样，还是引起了她的注意。",
+      "vocab": [
+        {
+          "word": "espejo de feria",
+          "translation": "哈哈镜，游乐场的变形镜",
+          "note": "espejo de feria 本指游乐场中会扭曲人形象的变形镜，在此用作隐喻，指作品对现实的夸张或变形呈现——既有真实的影子，又经过了艺术的扭曲，是文学批评语境中极具表现力的比喻。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "La madre de la historia, Helen, se privaba de la comida y privaba a su hija adolescente, Leah, de afecto. Hija de <strong>supervivientes</strong> del Holocausto, Helen era una madre \"fría\" que crió a una niña nerviosa atraída por la ciencia y la seguridad de los hechos. En cambio, mi madre me abrazaba y me besaba. Me enseñó a leer, me seleccionaba novelas conforme crecía y crió a una escritora que producía —como se lo señalé cuando mi primer cuento publicado la angustió— ficción.",
+      "zh": "故事中的母亲海伦克扣自己的饮食，也对她十几岁的女儿莉亚吝惜情感。作为大屠杀幸存者的后代，海伦是一位『冷漠』的母亲，养育出一个神经质的、被科学和事实的确定性所吸引的女孩。而我的母亲则拥抱我、亲吻我。她教我读书，随着我的成长为我挑选小说，养育出一位作家——正如我在她因我第一篇发表的短篇小说而苦恼时指出的——写的是虚构作品。",
+      "vocab": [
+        {
+          "word": "supervivientes",
+          "translation": "幸存者",
+          "note": "superviviente 来自 supervivir（幸存），前缀 super- 表示超越，vivir 意为生存，合起来即在极端条件下存活下来的人，在历史和新闻语境中常特指大屠杀或灾难幸存者，也可写作 sobreviviente（拉美更常用）。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Aun así, en mi obra se escondía una verdad <strong>encriptada</strong> sobre cómo me había criado cuando era joven. Ella se autodenominaba \"psicoanalista por matrimonio\", dada la profesión de mi padre, así que sabía que percibiría esa verdad en la relación de Helen con Leah. Antes de cumplir 12 años, mi madre constantemente pasaba de ser cariñosa y protectora a caer en estados depresivos tan profundos que la volvían fría como el hielo, <strong>estoica</strong> y verbalmente indiferente. Esa madre robótica preparaba la cena y planchaba las camisas de mi padre, pero si me quería, o siquiera me conocía de verdad, yo no lo sabía. Me <strong>aterrorizaba</strong>.",
+      "zh": "尽管如此，我的作品中隐藏着一个关于我幼年成长经历的加密真相。她自称『婚姻造就的精神分析师』，因为我父亲的职业，所以我知道她会在海伦与莉亚的关系中感知到那个真相。在我12岁之前，母亲不断地在温柔呵护与深度抑郁之间来回切换，那些抑郁状态深重到让她冷若冰霜、坚忍克制、言语上漠然疏离。那个机器人般的母亲会做晚饭、熨父亲的衬衫，但她是否爱我，或者是否真正了解我，我一无所知。她让我感到恐惧。",
+      "vocab": [
+        {
+          "word": "encriptada",
+          "translation": "加密的，隐藏的，编码的",
+          "note": "encriptado/a 来自 encriptar（加密），本为计算机术语，在此用作隐喻，指隐藏在文学作品中、需要解读才能发现的真相，是当代文学评论中颇具新意的借用词，暗示真相既存在又被刻意遮掩。"
+        },
+        {
+          "word": "estoica",
+          "translation": "坚忍的，斯多葛式的，不动声色的",
+          "note": "estoico/a 来自古希腊斯多葛哲学，指对痛苦和情感保持超然克制的态度，在日常语境中形容面对困境不表露情感的人，注意此处并非褒义，而是描述母亲抑郁状态下情感封闭的特质。"
+        },
+        {
+          "word": "aterrorizaba",
+          "translation": "使恐惧，令人恐惧",
+          "note": "aterrorizar 意为使某人感到极度恐惧，来自 terror（恐惧），比 asustar（吓到）程度更深，此处作者用一个独立短句『Me aterrorizaba』形成强烈的段落停顿，是叙事文学中制造情感冲击的典型技巧。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Envuelta en ese miedo, también quedé <strong>entumecida</strong>. En mi memoria está grabada la imagen de una niña y su madre reflejándose la una a la otra en silencio en un pequeño y oscuro apartamento: la madre, en su angustia, mirando al vacío; la hija, asustada, observando con cuidado por el blanco de sus ojos. Siempre sentía un enorme alivio cuando volvía a ser la de siempre, cariñosa, leyéndome y acariciándome la mejilla.",
+      "zh": "裹挟在那种恐惧中，我也变得麻木。我的记忆中永远刻着这样一幅画面：一个小女孩和她的母亲在一间昏暗狭小的公寓里沉默地彼此映照——母亲在痛苦中凝视着虚空，女儿惊恐地从眼角悄悄观察着她。每当母亲恢复往日的样子——温柔地给我读书、抚摸我的脸颊——我总会感到巨大的如释重负。",
+      "vocab": [
+        {
+          "word": "entumecida",
+          "translation": "麻木的，僵木的",
+          "note": "entumecido/a 本指身体因寒冷或压迫而失去感觉，在心理语境中引申为情感上的麻木和感知的封闭，是描述创伤反应的重要词汇，动词为 entumecer，名词为 entumecimiento。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Aquella vez en Santa Mónica, pasé de <strong>puntillas</strong> frente a la puerta de la habitación de visitas y vi a mi padre llevarle la comida en una bandeja. \"Dyl\", dijo, \"está enfadada por cómo has <strong>retratado</strong> a Helen\". Tenía mil preguntas y no hice ninguna. ¿Estaba teniendo un flashback? ¿Ella me odiaba? ¿Mi escritura me convertía en una hija horrible? Mi padre no dijo nada. Amaba a mi madre con locura; quería que volviera a ser como antes.",
+      "zh": "那次在圣莫尼卡，我踮着脚尖走过客房门口，看见父亲用托盘给她送饭。『迪尔，』他说，『她在为你刻画海伦的方式而生气。』我有千百个问题，一个也没问出口。她是在经历闪回吗？她恨我吗？我的写作让我成了一个可怕的女儿吗？父亲什么也没说。他深爱着我的母亲；他只想让她恢复往日的样子。",
+      "vocab": [
+        {
+          "word": "puntillas",
+          "translation": "脚尖",
+          "note": "de puntillas 是固定搭配，意为踮着脚尖（走路），形容为避免发出声音而小心翼翼地移动，是描述谨慎、回避行为的生动表达，在此同时具有字面义和隐喻义——作者既在物理上踮脚，也在情感上如履薄冰。"
+        },
+        {
+          "word": "retratado",
+          "translation": "描绘，刻画，描写",
+          "note": "retratar 本义为为某人画肖像或拍照，在文学语境中引申为通过文字描绘人物形象，名词 retrato 指肖像或人物描写，是文学批评和新闻文体中描述人物塑造的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "No la había visto así en décadas. A los 46 años, me sentí como si tuviera 4 otra vez, <strong>presa</strong> de esa antigua angustia de que mi madre pudiera <strong>desentenderse</strong> de mí. Durante tres días me sentí paralizada, con miedo de llamar a su puerta. Al mismo tiempo, quería irrumpir en su habitación y defenderme. \"Es solo un cuento corto\", habría dicho. \"¡A veces un cigarro es simplemente un cigarro!\".",
+      "zh": "我已经几十年没见过她这个样子了。46岁的我感觉自己仿佛又回到了4岁，被那种古老的焦虑攫住——害怕母亲会对我撒手不管。三天里我感到瘫痪，不敢敲她的门。与此同时，我又想冲进她的房间为自己辩护。『这只是一篇短篇小说，』我本想说。『有时候雪茄就只是雪茄！』",
+      "vocab": [
+        {
+          "word": "presa",
+          "translation": "被……攫住，被……困住",
+          "note": "presa 本义为猎物或俘虏，estar presa de 是固定搭配，意为被某种情绪或状态所控制，如 presa del miedo（被恐惧攫住）、presa del pánico（陷入恐慌），是文学叙事中描绘情绪控制的高频隐喻表达。"
+        },
+        {
+          "word": "desentenderse",
+          "translation": "撒手不管，置之不理，脱离关系",
+          "note": "desentenderse de 意为对某人或某事不再关心、撒手不管，前缀 des- 表示否定，entenderse con（与……相处）的否定即切断关系，是描述情感疏离和遗弃感的核心词汇，在此触及作者童年最深的恐惧。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Cuando por fin salió, mi madre se mostró <strong>ecuánime</strong>. No habló de Helen, y mi padre y yo no la presionamos, tal cual como lo habíamos hecho durante mi infancia. En ese entonces actuábamos como si ella estuviera bien durante los episodios depresivos. Servía las comidas en silencio, como si fueran de <strong>arcilla</strong>, y mi padre, que apenas estaba en la universidad cursando el doctorado en psicología, intentaba valientemente romper el <strong>hechizo</strong> con una conversación alegre.",
+      "zh": "当她终于出来时，母亲表现得平静从容。她没有提起海伦，我和父亲也没有追问，就像我们童年时所做的那样。那时候，在她抑郁发作期间，我们都装作她一切正常。她沉默地端上饭菜，仿佛那些食物是泥土做的，而父亲——当时还在大学攻读心理学博士——勇敢地试图用轻松的谈话打破那种魔咒。",
+      "vocab": [
+        {
+          "word": "ecuánime",
+          "translation": "平静的，从容的，心平气和的",
+          "note": "ecuánime 指情绪平稳、不偏不倚的状态，来自拉丁语 aequus（平等）+ animus（心灵），名词为 ecuanimidad，是描述情绪稳定和内心平衡的雅词，在此与前文母亲三天的激烈反应形成强烈对比。"
+        },
+        {
+          "word": "arcilla",
+          "translation": "黏土，泥土",
+          "note": "arcilla 本义为制陶用的黏土，在此用作隐喻，形容母亲抑郁状态下端上的饭菜毫无生气、如同死物，是作者描绘童年压抑氛围的精妙意象，将抽象的情感冷漠转化为具体的感官体验。"
+        },
+        {
+          "word": "hechizo",
+          "translation": "魔咒，咒语，魔法",
+          "note": "hechizo 本义为魔法或咒语，romper el hechizo（打破魔咒）是固定搭配，在此隐喻母亲抑郁状态如同一种笼罩全家的魔咒，父亲试图用欢快的谈话将其打破，是全文氛围营造中最具文学张力的词汇之一。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Quizá era su inexperiencia como psicoanalista en formación, pero no recuerdo que alguna vez me confirmara que algo le estaba pasando a mi madre. Se hubiera sentido <strong>devastado</strong> al saber que su actitud optimista me hacía sentir asustada y muy sola. Ahora entiendo que mi madre tenía recuerdos recurrentes de su propia infancia brutal por aquella época. Salían a la luz en las historias horribles que a veces me contaba cuando me <strong>arropaba</strong>: los experimentos médicos realizados en los campos nazis, o cómo su propia madre la golpeó sin piedad durante años.",
+      "zh": "也许是因为他作为实习精神分析师尚缺乏经验，我不记得他曾经向我确认母亲发生了什么。如果他知道自己乐观的态度让我感到恐惧和极度孤独，他一定会感到心碎。现在我理解了，那个时期母亲不断被自己残酷童年的记忆所侵扰。那些记忆会在她有时给我掖被子时讲述的可怕故事中浮现：纳粹集中营里进行的医学实验，或者她自己的母亲多年来如何无情地殴打她。",
+      "vocab": [
+        {
+          "word": "devastado",
+          "translation": "心碎的，崩溃的，深受打击的",
+          "note": "devastado/a 来自 devastar（摧毁、蹂躏），本指物理上的毁灭，在情感语境中指受到极大的心理打击，比 triste（悲伤）程度深得多，是描述强烈情感创伤的高频词，名词为 devastación。"
+        },
+        {
+          "word": "arropaba",
+          "translation": "给……盖被子，裹紧",
+          "note": "arropar 本义为用衣物或被子包裹，在家庭语境中专指父母给孩子掖被子的温柔动作，在此形成强烈的反差——这个温柔的睡前仪式中，母亲却讲述着最残酷的暴力故事，这种对比正是作者童年经历的核心张力。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Recuerdo cómo me <strong>abrumaban</strong> los detalles minuciosos, cómo me dejaban sin palabras. Los recuerdos de esa violencia infantil debían haberla afectado mucho; si no, ¿por qué se desahogaba con una niña? Muchos años después, en Santa Mónica, debió haber sentido un golpe de juicio en mi inocente —o no tan inocente— cuento corto.",
+      "zh": "我记得那些细节如何将我压垮，如何让我哑口无言。那些童年暴力的记忆一定深深地影响了她；否则，她为什么要向一个孩子倾诉？许多年后，在圣莫尼卡，她一定在我那篇无辜——或者并不那么无辜——的短篇小说中感受到了一记审判的重击。",
+      "vocab": [
+        {
+          "word": "abrumaban",
+          "translation": "压垮，使不堪重负，淹没",
+          "note": "abrumar 意为以重量或数量使人不堪承受，来自 bruma（雾霭），引申为被某种感受或信息所淹没，名词为 agobio（压迫感），是描述情感或认知超载的高频词，比 agobiar 更强调突然的压倒性感受。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Cinco años después de la crisis en la habitación de visitas, mi madre me estaba ayudando a atar los cojines a las tumbonas del patio cuando se detuvo de repente y se quedó mirando al infinito con una expresión dura. \"No tienes ni idea lo difícil que fue para mí en aquel entonces\", dijo. La miré <strong>consternada</strong>; habíamos estado hablando de preparar mi casa para venderla. \"Cuando naciste en la Avenida B, subía y bajaba seis pisos con las bolsas del súper, la carreola y la ropa sucia. Nadie me ayudaba. No fuiste nada justa con Helen\".",
+      "zh": "客房危机五年后，母亲正在帮我把垫子绑到院子里的躺椅上，突然停了下来，目光空洞地凝视着远方，表情变得僵硬。『你根本不知道那时候对我来说有多难，』她说。我错愕地看着她；我们刚才还在谈论准备把房子挂牌出售的事。『你在B大道出生的时候，我一个人拎着超市购物袋、推着婴儿车、抱着脏衣服爬上爬下六层楼。没有人帮我。你对海伦一点都不公平。』",
+      "vocab": [
+        {
+          "word": "consternada",
+          "translation": "错愕的，惊愕的，深感震惊的",
+          "note": "consternado/a 来自 consternar（使震惊），指因意外或令人不安的事情而感到震惊和困惑，比 sorprendido（惊讶）程度更深，带有一种被打乱心神的感觉，名词为 consternación，是文学叙事中描绘强烈情感反应的精准词汇。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Llevaba cinco años dándole vueltas a eso. Quería gritarle: Helen es un personaje de ficción, ¿todavía sigues con eso? En su crítica, solo oí <strong>reproche</strong>, no el dolor subyacente, y <strong>balbuceé</strong> una respuesta a la defensiva de la que aún me arrepiento. Ella había intentado entablar un diálogo. Fui yo quien no supo afrontar su enfado. Ahora desearía haber dicho: \"Tienes razón. Mis historias no logran contar la verdad de Helen: el peso de la desesperación, lo enfadada e invisible que debiste haberte sentido\".",
+      "zh": "她已经为此纠结了五年。我想对她大喊：海伦是个虚构人物，你还在纠结这个吗？在她的批评中，我只听到了指责，而没有听到背后的痛苦，我结结巴巴地给出了一个防御性的回应，至今仍感到后悔。是她试图开启一场对话。是我不知道如何面对她的愤怒。现在我多么希望当时能说：『你说得对。我的故事没能讲出海伦的真相：那种绝望的重量，你一定感受过的那种愤怒和隐形感。』",
+      "vocab": [
+        {
+          "word": "reproche",
+          "translation": "指责，埋怨，责备",
+          "note": "reproche 指对他人行为表达不满的言语，动词为 reprochar，在此作者意识到自己当时只听到了表层的指责，而错过了母亲话语背后深层的痛苦，这一认知构成全文情感转折的核心时刻。"
+        },
+        {
+          "word": "balbuceé",
+          "translation": "结结巴巴地说，语无伦次地说",
+          "note": "balbucear 意为因紧张、困惑或情绪激动而说话不清晰，与 tartamudear（口吃）不同，balbucear 更强调因心理状态而非生理原因导致的语言混乱，是描述人物在压力下反应的生动动词。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Habría sido un gran acto de amor. De haberlo hecho, quizá habría añadido: \"¿Podemos hablar también de la verdad emocional que las historias sí cuentan?\". Pero eso nunca sucedió. La puerta cerrada seguía <strong>asustandome</strong>. Una vez le pregunté si había recibido terapia cuando era una madre joven, y dijo que no teníamos dinero para eso. Sin embargo, consultó a un psiquiatra, que le recetó Elavil. Le daba sueño, así que lo tiró. La psiquiatría de principios de la década de 1960 tenía poco que ofrecer a una mujer como ella: brillante, literaria, <strong>marchitándose</strong> en casa mientras su marido <strong>florecía</strong> en la universidad.",
+      "zh": "那本会是一个伟大的爱的举动。如果我那样说了，也许还会补充：『我们也可以谈谈这些故事确实讲述的情感真相吗？』但那一切从未发生。那扇紧闭的门依然让我感到恐惧。我曾问过她，年轻时做母亲的时候是否接受过心理治疗，她说我们没有钱。然而她确实看过一位精神科医生，医生给她开了依拉维。那药让她昏昏欲睡，于是她把药扔了。1960年代初的精神病学对她这样的女性几乎无能为力：才华横溢、热爱文学，在家中日渐凋零，而她的丈夫却在大学里蓬勃生长。",
+      "vocab": [
+        {
+          "word": "marchitándose",
+          "translation": "凋零，枯萎，日渐消沉",
+          "note": "marchitarse 本义为植物枯萎凋谢，在此用作隐喻，描述一个才华横溢的女性被困于家庭而逐渐失去活力的状态，与后文 florecía（盛开、蓬勃）形成鲜明对比，是全文最具批判性的社会观察之一。"
+        },
+        {
+          "word": "florecía",
+          "translation": "蓬勃发展，盛开，繁荣",
+          "note": "florecer 本义为开花，引申为在某领域蓬勃发展、大放异彩，与 marchitarse 构成植物生命的完整隐喻对比——丈夫在学术上盛开，妻子在家庭中凋零，这一对比隐含了作者对那个时代性别不平等的深刻批判。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "Philip Roth le dijo alguna vez al joven Ian McEwan: \"Tienes que escribir como si tus padres estuvieran muertos\". Un consejo directo, incluso cruel, sí. Pero tal y como yo lo entiendo, Roth no <strong>predicaba</strong> el desprecio. Hablaba de honrar la propia singularidad y la verdad privada como artista, aunque eso cause dolor a quienes amamos. Luego, uno esperaría trabajar en conjunto para lidiar con ese dolor. Tal vez sea un buen consejo para cualquiera que intente trazar su propio camino hacia la verdad, como cuando se lucha para salir del <strong>clóset</strong> ante una familia conservadora o cuando hay que explicar a unos padres empeñados en criar a un médico que uno anhela ser arbolista.",
+      "zh": "菲利普·罗斯曾对年轻的伊恩·麦克尤恩说：『你必须写作，就好像你的父母已经死了一样。』这是一个直接的、甚至残忍的建议，是的。但按我的理解，罗斯宣扬的并非蔑视。他谈论的是作为艺术家，尊重自身的独特性和私人真相，哪怕这会给我们所爱的人带来痛苦。之后，人们会期望共同努力去应对那种痛苦。也许这对任何试图走向真相的人都是好建议，比如在保守家庭面前出柜时的挣扎，或者向一心想培养出医生的父母解释自己渴望成为一名树艺师。",
+      "vocab": [
+        {
+          "word": "predicaba",
+          "translation": "宣扬，鼓吹，布道",
+          "note": "predicar 本义为布道、传教，引申为宣扬或鼓吹某种观点，predicar el desprecio（宣扬蔑视）在此为否定用法，作者借此区分罗斯建议的表面残忍与其深层的艺术诚实精神，是文学评论文体中的高频词。"
+        },
+        {
+          "word": "clóset",
+          "translation": "壁橱；（salir del clóset）出柜",
+          "note": "salir del clóset 是从英语 come out of the closet 直接借用的固定表达，在西班牙语中已完全固定，意为公开自己的性取向或性别认同，是LGBTQ+议题报道中的核心术语，在拉美西语中极为高频。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "En cualquier caso, seguí escribiendo así mucho después de que mi madre saliera de la habitación de visitas. Así que podría sonar lógico que empezara a ocultar todos mis trabajos publicados, para no herir los sentimientos de mi madre y comprar mi libertad literaria. Pero mis padres se habrían enterado. ¡Tenían <strong>alertas de Google</strong>! Mi madre, una gran lectora, estaba tremendamente orgullosa de tener una hija escritora. Si hubiera ocultado mis éxitos, incluso con una explicación cariñosa, ella y mi padre se habrían sentido heridos.",
+      "zh": "无论如何，在母亲走出客房之后很久，我依然以同样的方式写作。所以，为了不伤害母亲的感情、换取自己的文学自由而开始隐藏所有已发表的作品，听起来似乎合乎逻辑。但我的父母早晚会知道的。他们设置了谷歌快讯！母亲是个热爱阅读的人，她为有一个作家女儿而无比自豪。如果我隐瞒了自己的成就，哪怕附上温情的解释，她和父亲也会感到受伤。",
+      "vocab": [
+        {
+          "word": "alertas de Google",
+          "translation": "谷歌快讯，谷歌提醒",
+          "note": "Google Alerts 是谷歌提供的关键词监控服务，用户设置后会收到相关新闻的邮件提醒，作者在此用感叹号带出幽默语气——父母用这一现代工具追踪女儿的一切动态，既体现了他们的骄傲，也暗示了作者无处遁形的处境。"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "es": "Era una carga con la que decidí <strong>lidiar</strong>. Cuando venían a las lecturas, seleccionaba los textos para causar el menor daño emocional posible. Disfruté del orgullo de mis padres cuando salió mi primera colección de cuentos en 2009. Aun así, ambos se sumergieron en los cuentos como si analizaran mis sueños. Yo <strong>esquivé</strong> sus preguntas, ansiando privacidad. \"La ficción no es un espejo\", protesté en algún momento. Mi padre, con el brazo alrededor de mi madre en el sofá, se rió y dijo: \"Sí, sí lo es\".",
+      "zh": "这是我决定承担的一种重负。每当他们来参加朗读会，我都会精心挑选文本，尽量减少情感上的伤害。2009年我的第一部短篇小说集出版时，我享受着父母的那份骄傲。尽管如此，他们两人都像分析我的梦境一样一头扎进那些故事里。我回避着他们的问题，渴望着私人空间。『小说不是镜子，』我在某个时刻抗议道。父亲把手臂搭在沙发上母亲的肩头，笑着说：『是的，它就是。』",
+      "vocab": [
+        {
+          "word": "lidiar",
+          "translation": "应对，处理，与……周旋",
+          "note": "lidiar con 是固定搭配，意为应对或处理困难的人或事，来自斗牛术语（与公牛周旋），在日常语境中泛指应对棘手情况，比 manejar（处理）更强调持续性的挣扎与周旋，是西班牙语口语和新闻文体的高频词。"
+        },
+        {
+          "word": "esquivé",
+          "translation": "回避，躲开，闪避",
+          "note": "esquivar 意为灵巧地躲开或回避，可用于物理躲避（如躲开一拳）或社交回避（如回避问题），比 evitar（避免）更强调主动的、有技巧的闪躲动作，名词为 esquiva，是描述回避行为的生动词汇。"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "es": "Si hubiera tenido en la cabeza un material más suave, lo habría escrito. Sin embargo, los temas familiares seguían <strong>obsesionándome</strong> mientras tomaba notas para una novela. La escritura de ficción sigue siendo el único lenguaje que he encontrado para expresar y <strong>expurgar</strong> ese terror onírico que recuerdo de la infancia. Seguía escribiendo como si mis padres estuvieran muertos cuando la salud de ambos comenzó a <strong>deteriorarse</strong>.",
+      "zh": "如果我脑子里有更温和的素材，我早就写了。然而，在为一部长篇小说记录笔记时，家庭题材依然不断萦绕着我。小说写作至今仍是我所找到的唯一语言，用来表达和净化那种我从童年记忆中带来的梦魇般的恐惧。在父母双方的健康都开始每况愈下时，我依然以那种仿佛他们已经离世的方式写作。",
+      "vocab": [
+        {
+          "word": "obsesionándome",
+          "translation": "萦绕，困扰，使我着迷",
+          "note": "obsesionar 意为使某人产生强迫性的执念，反身形式 obsesionarse con 指对某事念念不忘、无法摆脱，名词为 obsesión，在文学和心理语境中是描述创作驱动力的核心词汇，此处揭示了作者无法回避家庭题材的内在原因。"
+        },
+        {
+          "word": "expurgar",
+          "translation": "净化，清除，宣泄",
+          "note": "expurgar 本义为删除文本中不当内容，在心理和文学语境中引申为通过艺术表达将内心积压的情感清除排出，与希腊语 catharsis（净化）概念对应，是描述文学治愈功能的精准词汇，比 liberar（释放）更强调彻底清除的过程。"
+        },
+        {
+          "word": "deteriorarse",
+          "translation": "恶化，每况愈下，衰退",
+          "note": "deteriorarse 是 deteriorar 的反身形式，意为状况自行变差，在医学语境中常用于描述健康或身体机能的衰退，名词为 deterioro，注意与 empeorar（变糟）近义，但 deteriorarse 更强调渐进性的损耗过程。"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "es": "Pasé cinco años de <strong>pánico</strong> en un estado de devoción. En mi familia, uno no \"visitaba\" el hospital, uno se mudaba al hospital, y así me encontraba a menudo escribiendo en un estrecho banco de la habitación de mi padre durante el día, para luego dirigirme a la habitación de mi madre a dormir. Cada vez que se recuperaban, me preguntaban por mi trabajo, pero, cuando me sentía débil, simplemente respondía: \"¡Me va muy bien, gracias!\".",
+      "zh": "我在惶恐中度过了五年，却同时处于一种虔诚奉献的状态。在我们家，人们不是去『探望』医院，而是搬进医院，于是我常常白天在父亲病房里一张窄窄的长椅上写作，然后去母亲的病房睡觉。每次他们有所好转，就会问起我的工作，但当我感到脆弱时，只是简单地回答：『我很好，谢谢！』",
+      "vocab": [
+        {
+          "word": "pánico",
+          "translation": "恐慌，惶恐",
+          "note": "pánico 来自希腊神话中的牧神潘（Pan），据说他的出现会引发突然的恐惧，en estado de pánico 指持续处于高度焦虑和恐惧的状态，在此与 devoción（虔诚奉献）并置，形成情感上的张力——恐惧与爱同时存在。"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "es": "Echaba de menos a mis padres llenos de energía. Pero me hicieron un regalo inesperado y <strong>liberador</strong>, porque el segundo manuscrito era aún más <strong>radioactivo</strong> que el primero. Cuando salió la edición de tapa dura en 2014, mis padres estaban en silla de ruedas, incapaces de fijar la vista en el papel y <strong>lamentando</strong> la pérdida de la lectura.",
+      "zh": "我怀念那个精力充沛的父母。但他们给了我一份意想不到的、解放性的礼物，因为第二部手稿比第一部更具『放射性』。2014年精装版出版时，父母都已坐上了轮椅，无法将目光聚焦在纸页上，为失去阅读能力而悲痛。",
+      "vocab": [
+        {
+          "word": "liberador",
+          "translation": "解放性的，令人释怀的",
+          "note": "liberador 来自 liberar（解放），后缀 -dor 表示具有某种效果的，在此指父母因病无法阅读这一残忍的现实，反而意外地解除了作者长期以来的创作枷锁，作者用这个词时带着复杂的情感——既有愧疚，也有真实的解脱。"
+        },
+        {
+          "word": "radioactivo",
+          "translation": "放射性的；（比喻）危险的，具有破坏力的",
+          "note": "radioactivo 本为物理学术语，在此用作隐喻，形容文学作品对家庭关系的潜在破坏力，就像放射性物质一样危险且难以控制，是作者贯穿全文的核心隐喻之一，与前文的『加密真相』共同构成作品危险性的意象系统。"
+        },
+        {
+          "word": "lamentando",
+          "translation": "为……悲痛，哀叹，惋惜",
+          "note": "lamentar 意为为某种损失或不幸感到悲痛，比 llorar（哭泣）更强调内心的哀叹而非外在的情绪表达，lamentar la pérdida de（为失去……而悲痛）是固定搭配，名词为 lamento（哀叹、悲叹）。"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "es": "Recuerdo a mi madre recibiendo la novela en su <strong>regazo</strong> como si le hubiera entregado un gatito y la ternura del tacto mientras <strong>sopesaba</strong> el libro en sus delicadas manos. Acarició la cubierta rosa y naranja, luego la levantó para que mi padre la admirara. \"Ay, cariño\", dijo, y su tono me llenó el corazón, porque ahí estaba la madre cariñosa cuya <strong>constancia</strong> había anhelado de niña y que ahora, por fin, tenía. \"Qué libro tan bonito\".",
+      "zh": "我记得母亲把那本小说接到膝上，仿佛我递给她的是一只小猫咪，记得她用纤细的双手掂量着书本时那种触感中的温柔。她抚摸着那橙粉色的封面，然后把书举起来让父亲欣赏。『哦，亲爱的，』她说，她的语气让我心中充盈，因为那正是那个温柔的母亲——那个我童年时渴望她能始终如一的母亲——如今，终于，我拥有了她。『多漂亮的一本书啊。』",
+      "vocab": [
+        {
+          "word": "regazo",
+          "translation": "膝上，怀抱",
+          "note": "regazo 专指人坐着时大腿形成的可供依靠的空间，在此与开篇的恐惧和疏离形成呼应——童年时作者曾惧怕母亲，而此刻母亲却像接受礼物一样温柔地将书捧在膝上，这一意象完成了全文情感上的和解弧线。"
+        },
+        {
+          "word": "sopesaba",
+          "translation": "掂量，权衡，仔细感受重量",
+          "note": "sopesar 本义为用手掂量物体的重量，引申为仔细权衡某事的利弊，在此回归字面义，描述母亲用双手感受书本重量的动作，但在全文语境中也隐含着对这本书所承载的情感重量的感知，是一个兼具字面与隐喻双重意味的精准词汇。"
+        },
+        {
+          "word": "constancia",
+          "translation": "始终如一，持续性，恒心",
+          "note": "constancia 指在时间上保持稳定一致的特质，来自 constante（恒定的），在此指作者童年最深的渴望——一个情感稳定、始终如一的母亲，而非在温柔与冷漠之间剧烈摇摆的母亲，是全文情感主题的核心词汇，也是结尾和解的关键词。"
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

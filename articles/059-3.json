@@ -1,0 +1,125 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会与民声",
+  "difficulty": "B2",
+  "wordCount": "约550词",
+  "title": "Una generación incapaz de imaginar el futuro",
+  "subtitle": "一代无法想象未来的人",
+  "resumenEs": "Esta página de cartas al director recoge cuatro voces ciudadanas sobre temas de actualidad española: la desesperanza de la juventud ante la vivienda y el empleo, el agotamiento del profesorado en huelga, el deterioro de la sanidad pública y el valor de las librerías y bibliotecas como refugio frente a la hiperactividad moderna.",
+  "resumenZh": "这一读者来信版面汇集了四位公民就西班牙时事发声：年轻人面对住房和就业问题的绝望感、罢工教师群体的疲惫与分裂、公共医疗体系的结构性衰退，以及书店和图书馆作为现代超速时代避难所的价值。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "author": "Alba Pérez Pescador. León",
+      "es": "No soy lo suficientemente buena en nada, al menos no como para atreverme a intentarlo. Llevo toda la vida escuchando lo <strong>catártico</strong> que puede llegar a ser el arte; la manera en la que una persona que no recuerda ni su nombre puede cantar una canción de su juventud o cómo pintar era una necesidad para Van Gogh en las épocas más oscuras de su vida. Si yo supiese dibujar, pintaría las calles ardiendo, invadidas por los y las jóvenes de este país, que luchan por un acceso a la <strong>vivienda digna</strong> y unas <strong>condiciones laborales</strong> que no nos conviertan en enfermos mentales ni en esclavos del trabajo; un cuadro que solo con mirarlo devolviese la esperanza, la fe en que hay un futuro para nuestra generación en este país. Pero no sé dibujar, y tampoco sé si hay futuro.",
+      "zh": "我在任何事情上都不够出色，至少没有出色到敢于去尝试的程度。我一生都在听人说艺术可以多么具有净化作用；一个连自己名字都记不住的人，却能唱起年轻时的歌曲；梵高在人生最黑暗的时期，绘画是他的必需。如果我会画画，我会画出燃烧的街道，被这个国家的年轻人占领——他们在为有尊严的住房和不把我们变成精神病患者或工作奴隶的劳动条件而战；一幅只需凝视便能重燃希望的画，让人相信我们这一代在这个国家还有未来。但我不会画画，我也不知道是否还有未来。",
+      "vocab": [
+        {
+          "word": "catártico",
+          "translation": "净化的，宣泄的",
+          "note": "注意 lo + 形容词 的结构：lo catártico que puede ser（它能有多净化）表示程度感叹，是西班牙语中非常地道的句型。"
+        },
+        {
+          "word": "vivienda digna",
+          "translation": "有尊严的住房，体面住所",
+          "note": "digno/a 接名词时意为『与……相称的、体面的』，搭配灵活：un salario digno（体面工资）、unas condiciones dignas（体面条件），是社会权利话语的高频修饰词。"
+        },
+        {
+          "word": "condiciones laborales",
+          "translation": "劳动条件，工作条件",
+          "note": "laboral 是形容词，不能说 condiciones de trabajo 来替代所有场合——laboral 更正式，常见于法律和新闻文体，而 de trabajo 更口语。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "author": "Mara Cendón Avellaneda. Valencia",
+      "es": "Escribo como <strong>docente</strong> de Valencia con cansancio, tristeza y una sensación creciente de dolor compartido. El <strong>malestar</strong> en la educación pública no es nuevo, pero ahora se está volviendo más pesado y difícil. <strong>Secundo</strong> los días que puedo de esta <strong>huelga indefinida</strong>, dentro de mis circunstancias personales, que no siempre son fáciles de explicar. Y respeto tanto a quienes no la hacen como a quienes la están manteniendo todos los días. Aun así, en lugar de sentir unión, lo que a veces encuentro es distancia, juicio y una división que me duele profundamente. No somos enemigos ni <strong>bandos</strong>. Somos personas agotadas que intentan sostener una educación cada vez más frágil. Ojalá seamos capaces de acercar posturas y de escucharnos de verdad, comprendernos. Que no se nos olvide que detrás de cada decisión hay una historia que no siempre se ve. Si conseguimos mirarnos con respeto y cariño quizá podamos reencontrarnos en lo esencial: educar, acompañar y sostener. No perdamos la humanidad; sin ella cualquier <strong>reivindicación</strong> se vacía.",
+      "zh": "我作为瓦伦西亚的一名教师写下这些文字，带着疲惫、悲伤和一种日益强烈的共同痛苦感。公共教育领域的不满情绪并不新鲜，但现在变得越来越沉重和艰难。在我个人条件允许的日子里，我参与这场无限期罢工——我的处境并不总是容易解释的。我既尊重不参与罢工的人，也尊重每天坚持罢工的人。尽管如此，我有时感受到的不是团结，而是距离、评判和一种令我深感痛苦的分裂。我们不是敌人，也不是对立阵营。我们是一群疲惫的人，试图支撑一个越来越脆弱的教育体系。希望我们能够拉近立场、真正倾听彼此、相互理解。不要忘记，每个决定背后都有一段不总是被看见的故事。如果我们能以尊重和关爱看待彼此，也许就能在最根本的事情上重新相遇：教育、陪伴和支撑。不要失去人性；没有人性，任何诉求都将变得空洞。",
+      "vocab": [
+        {
+          "word": "docente",
+          "translation": "教师，教育工作者",
+          "note": "docente 比 profesor 更正式，常出现在教育政策和新闻文体中，口语中一般还是说 profesor/a。"
+        },
+        {
+          "word": "malestar",
+          "translation": "不适，不满，不安",
+          "note": "与 enfermedad（疾病）不同，malestar 指身体或社会层面的模糊不适感，不指具体病症，社会语境中常译为『不满情绪』。"
+        },
+        {
+          "word": "secundo",
+          "translation": "支持，响应，附议",
+          "note": "secundar 表示『跟随他人行动以示支持』，比 apoyar 更强调跟随而非主导，secundar una huelga（响应罢工）是劳动新闻的固定搭配。"
+        },
+        {
+          "word": "huelga indefinida",
+          "translation": "无限期罢工",
+          "note": "indefinida 在此不是『不明确的』，而是『没有预设结束日期的』，区别于 huelga de un día（一日罢工），是劳动新闻的重要术语。"
+        },
+        {
+          "word": "bandos",
+          "translation": "阵营，派别，对立方",
+          "note": "bando 强调对立和敌对关系，比 grupo 或 parte 语气更强，estar en bandos opuestos（处于对立阵营）暗含冲突，作者用 no somos bandos 正是要消解这种对立感。"
+        },
+        {
+          "word": "reivindicación",
+          "translation": "诉求，权利主张",
+          "note": "reivindicación 专指通过集体行动争取权利的诉求，比 petición（请求）更具政治色彩，常见于工会和社会运动语境。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "author": "Laura Martínez. Vilafranca del Penedès (Barcelona)",
+      "es": "Nos llenamos la boca hablando de la mejor <strong>sanidad</strong> del mundo, pero la realidad en las salas de espera es otra. Como paciente crónica, me he visto obligada a pagar un seguro privado para acceder a pruebas que, por la pública, tardarían meses. La sensación de frustración que genera acudir a la sanidad pública a muchos pacientes crónicos no nos <strong>compensa</strong>. Mi queja no va contra los profesionales, sino contra un <strong>desmantelamiento estructural</strong> que permite que la gente sufra. Cuando la falta de recursos se convierte en un patrón, el problema es del sistema. Miles de personas sin recursos están atrapadas en este dolor. Necesitamos una <strong>reforma</strong> de la sanidad pública ya; nuestra calidad de vida está en juego.",
+      "zh": "我们满口说着拥有世界上最好的医疗体系，但候诊室里的现实却是另一番景象。作为一名慢性病患者，我不得不购买私人保险，才能获得通过公共医疗需要等待数月的检查。公共医疗给许多慢性病患者带来的挫败感，已经无法让我们觉得值得。我的抱怨不是针对医疗专业人员，而是针对一种允许人们受苦的结构性拆解。当资源匮乏成为一种规律，问题就出在体制上。数以千计没有经济能力的人被困在这种痛苦中。我们现在就需要公共医疗改革；我们的生活质量岌岌可危。",
+      "vocab": [
+        {
+          "word": "sanidad",
+          "translation": "医疗体系，公共卫生",
+          "note": "sanidad 在西班牙语境中几乎专指公共医疗卫生体系，与 salud（健康状态）不同，不能互换：tener buena salud（身体好），但 la sanidad pública（公共医疗）。"
+        },
+        {
+          "word": "compensa",
+          "translation": "值得，补偿，抵消",
+          "note": "compensar 在口语中常用于评估是否『值得』，no compensa（不值得）是高频表达，注意它不需要加 la pena，直接说 no compensa 即可。"
+        },
+        {
+          "word": "desmantelamiento estructural",
+          "translation": "结构性拆解，系统性瓦解",
+          "note": "desmantelamiento 来自 desmantelar（拆除），用于抽象语境时指对制度或体系的系统性削弱，是政治和社会批评文体中的强烈措辞。"
+        },
+        {
+          "word": "reforma",
+          "translation": "改革",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "author": "Ramón Puchades Rincón de Arellano. Valencia",
+      "es": "En el mundo actual, pocos lugares generan la sensación de que el tiempo se para. Al entrar, los libros y el silencio parecen <strong>enlentecer</strong> el paso de las horas mientras buscamos un título o un autor oculto en alguna <strong>estantería</strong>. Son instantes o momentos que, dentro de la <strong>hiperactividad</strong> actual, nos recuerdan cómo los libros y la lectura cultivan no solo cultura.",
+      "zh": "在当今世界，很少有地方能给人一种时间静止的感觉。走进去，书籍和寂静似乎放慢了时光的脚步，而我们在某个书架上寻找一个书名或一位隐匿的作者。这些片刻和瞬间，在当下的超速运转中，提醒我们书籍和阅读所滋养的不仅仅是文化。",
+      "vocab": [
+        {
+          "word": "enlentecer",
+          "translation": "放慢，减速",
+          "note": "enlentecer 是 lento（慢）的动词化形式，与 acelerar（加速）构成反义对，比 ralentizar 更文学化，日常口语中 ralentizar 更常见。"
+        },
+        {
+          "word": "estantería",
+          "translation": "书架，货架",
+          "note": "estantería 指整组架子，estante 指单层隔板，两者关系类似 biblioteca（图书馆）和 libro（书），注意不要与 armario（衣柜）混淆。"
+        },
+        {
+          "word": "hiperactividad",
+          "translation": "过度活跃，超速运转",
+          "note": "前缀 hiper- 表示『超过正常程度』，可类推：hiperinflación（恶性通胀）、hipersensible（过度敏感），是构词能力很强的前缀。"
+        }
+      ]
+    }
+  ]
+}
