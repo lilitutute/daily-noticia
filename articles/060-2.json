@@ -1,0 +1,118 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与文化",
+  "difficulty": "C1",
+  "wordCount": "约600词",
+  "title": "Escribir mal a propósito",
+  "subtitle": "故意写差一点",
+  "resumenEs": "El artículo parte de una anécdota sobre una doctoranda que incluía errores deliberados en su tesis para distraer a su director, y la conecta con la tendencia actual de usar 'humanizadores' para disfrazar textos de IA. El autor argumenta que la incapacidad de detectar la IA revela una brecha creciente entre quienes la conocen bien y quienes no, y que confiar en herramientas externas sin comprenderlas puede agravar el problema.",
+  "resumenZh": "文章从一个博士生故意在论文中埋下错误来分散导师注意力的轶事出发，引申至当下用『人性化工具』掩盖AI文本的趋势。作者认为，无法识别AI的现象揭示了一道日益扩大的鸿沟——懂AI的人和不懂AI的人之间——而依赖不理解的外部工具只会让问题更糟。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Una amiga doctoranda me explicó una vez que para <strong>sobrellevar</strong> a su director de tesis, un tipo colérico que amenazaba con bloquear su trabajo durante años si no obedecía sus órdenes erráticas, incluyó <strong>a propósito</strong> en su texto un error descomunal. A ver si así se entretiene corrigiendo solo eso y me deja en paz con el resto, pensó mientras le dejaba el <strong>señuelo</strong>. Entender que la perfección es una cosa sospechosísima le valió un cum laude. Me he acordado de ella porque los estudiantes están empezando a usar \"humanizadores\" en sus trabajos, es decir, programas que incluyen imperfecciones a propósito para evitar ser acusados de usar inteligencia artificial.",
+      "zh": "一位正在读博的朋友曾告诉我，为了应付她的论文导师——一个性情暴躁的人，动辄以拖延她的研究进程数年相威胁，只要她不服从他那些反复无常的指令——她故意在文章中留下了一个巨大的错误。她一边放下这个诱饵，一边心想：这样他就会忙着纠正这一处，让我安心处理其余的部分。理解到『完美本身是件极可疑的事』，为她赢得了最优等成绩。我想起她，是因为学生们开始在作业中使用『人性化工具』，也就是故意引入瑕疵的程序，以避免被指控使用人工智能。",
+      "vocab": [
+        {
+          "word": "sobrellevar",
+          "translation": "忍受，应付，承受",
+          "note": "sobrellevar 专指忍受令人不快但无法摆脱的人或处境，比 aguantar 更书面，比 soportar 更强调长期性；易混辨析：soportar 也可表示物理承重，sobrellevar 只用于抽象语境。"
+        },
+        {
+          "word": "a propósito",
+          "translation": "故意地，有意地",
+          "note": "假朋友警告：a propósito 意为『故意地』，不是英语 apropos（顺便说一句）；『顺便说一句』在西班牙语中是 a propósito（也可用），但需靠语境区分，更安全的表达是 por cierto。"
+        },
+        {
+          "word": "señuelo",
+          "translation": "诱饵，圈套",
+          "note": "señuelo 本指狩猎或钓鱼用的诱饵，引申为任何用来转移注意力或引人上当的手段，是文学和新闻文体中生动的隐喻词，后文再次出现，是全文的关键意象词。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Los programas antiplagio son habituales en EE UU, pero fallan mucho, así que alumnos inocentes han acabado utilizando herramientas de IA para evitar ser acusados de usar la IA. El problema afecta más a quienes mejor escriben o tienen un estilo de razonamiento paso a paso que <strong>coincide con</strong> el de las máquinas. Algunos autores profesionales también están modificando su estilo a propósito para sonar más humanos ante sus lectores: introducen expresiones coloquiales, añaden pequeñas <strong>erratas</strong>, eliminan guiones largos, introducen dudas o un exceso de signos de exclamación.",
+      "zh": "反剽窃程序在美国十分普遍，但误判率很高，以至于无辜的学生最终开始使用AI工具来避免被指控使用AI。这个问题对那些写作水平最高、或思维方式与机器的逐步推理模式高度吻合的人影响最大。据《华尔街日报》报道，一些职业作家也在故意修改自己的风格，以便在读者面前听起来更像人类：他们加入口语表达，添加小错别字，删去长破折号，引入迟疑语气，或是过度使用感叹号。",
+      "vocab": [
+        {
+          "word": "coincidir con",
+          "translation": "与……吻合，与……一致",
+          "note": "coincidir con 是固定搭配，可接人（coincidir con alguien en un lugar，碰巧遇见）或抽象概念（coincidir con una idea，与某观点吻合），是一词多义的高频动词，需靠语境判断。"
+        },
+        {
+          "word": "erratas",
+          "translation": "错别字，印刷错误",
+          "note": "errata 专指文字中的拼写或印刷错误，与 error（错误）不同——error 泛指任何错误，errata 特指书面文字层面的笔误，出版业常见词，复数 erratas 或 erratas tipográficas。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Bien dirigidas, las IA son capaces de escribir de forma más hábil que la mayoría de las personas. Este martes el mundo cultural quedó en <strong>shock</strong> tras descubrir que Granta había publicado un texto que mostraba indicios claros de haber sido creado con IA. Pasó <strong>inadvertido</strong> para el jurado y para la revista, pero no en las redes. Es el mismo shock que ya sufrió el mundo del arte cuando, en 2023, el artista Boris Eldagsen confesó que había ganado uno de los premios que <strong>convoca</strong> Sony cada año con un dramático retrato creado íntegramente con IA. Poco después, el fotógrafo Miles Astray engañó a otro premio que <strong>galardonaba</strong> imágenes artificiales con una foto completamente real. Quedó claro que los jurados de la industria eran incapaces de distinguir las creaciones sintéticas.",
+      "zh": "在得到恰当引导的情况下，AI能够以比大多数人更娴熟的方式进行写作。本周二，文化界大为震惊，因为人们发现《格兰塔》发表了一篇明显带有AI创作痕迹的文章。这一点在评委和杂志编辑那里未被察觉，却在社交网络上引发了广泛关注。艺术界曾经历过同样的震惊——2023年，艺术家鲍里斯·埃尔达格森承认，他用一幅完全由AI生成的戏剧性肖像赢得了索尼每年举办的摄影奖项之一。不久之后，摄影师迈尔斯·阿斯特雷用一张完全真实的照片欺骗了另一个专门奖励人工图像的奖项。事实已经清楚：业界评委根本无法区分合成创作与真实作品。",
+      "vocab": [
+        {
+          "word": "pasar inadvertido",
+          "translation": "未被察觉，被忽视",
+          "note": "pasar inadvertido 是固定搭配，意为『在众人眼皮底下溜过而未被注意』，近义表达 pasar desapercibido 完全同义，两者在新闻文体中可互换。"
+        },
+        {
+          "word": "convocar",
+          "translation": "举办，召集，发起（竞赛/会议）",
+          "note": "convocar 在新闻文体中专指官方发起或举办竞赛、选举、会议等，convocar un premio / unas elecciones / una huelga 是固定搭配，比 organizar 更强调正式召集的权威性。"
+        },
+        {
+          "word": "galardonar",
+          "translation": "授奖，嘉奖",
+          "note": "galardonar 是新闻文体专用动词，专指颁发奖项，名词为 galardón（奖项），比 premiar 更正式，几乎只出现在文化、艺术和学术报道中。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "¿Cómo es posible que lo artificial engañe tanto a los grandes expertos como a los profesores que se enfrentan a ella cada día? Uno de los problemas es que, por lo general, las élites culturales no usan la inteligencia artificial, y por lo tanto no saben detectarla. Un estudio de 2025 daba una <strong>pista</strong>: los humanos que manejaban ChatGPT eran mejores identificándolo que la mayoría de programas anti-plagio, y solo se equivocaban en una de cada 300 ocasiones. Más allá de los señuelos evidentes, quienes conocen bien estos chats desarrollan un <strong>instinto</strong> sobre su cadencia, voz y modo de argumentar. Quienes no comprenden la IA tienden a <strong>confiar en</strong> ayudas externas que tampoco entienden y que pueden causar problemas mayores de los que buscan evitar.",
+      "zh": "为什么人工智能既能欺骗顶尖专家，也能欺骗每天与之打交道的教授？问题之一在于，文化精英们通常不使用人工智能，因此也不懂得如何识别它。2025年的一项研究提供了线索：熟练使用ChatGPT的人在识别AI文本方面比大多数反剽窃程序更出色，每300次中只会出错一次。除了那些显而易见的诱饵特征之外，熟悉这些聊天工具的人会对其节奏、语气和论证方式形成一种直觉。而那些不了解AI的人，往往倾向于依赖同样不理解的外部工具，而这些工具可能引发比他们试图规避的问题更严重的麻烦。",
+      "vocab": [
+        {
+          "word": "dar una pista",
+          "translation": "提供线索，给出提示",
+          "note": "dar una pista 是固定搭配，pista 在侦探和信息语境中意为『线索』，在体育语境中意为『赛道/球场』，是典型的一词多义词，需靠语境判断。"
+        },
+        {
+          "word": "instinto",
+          "translation": "直觉，本能",
+          "note": "易混辨析：instinto 强调近乎本能的、无需思考的感知能力，intuición 更强调理性推断之外的直觉判断，两者在日常使用中接近，但 instinto 更偏向动物性的、自然习得的感知。"
+        },
+        {
+          "word": "confiar en",
+          "translation": "信任，依赖，依靠",
+          "note": "confiar en 后接人或事物时意为『信任/依赖』，后接 que + 虚拟式时意为『期望/寄望于』（confío en que llegues a tiempo），两种用法需注意区分。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Se está creando una <strong>brecha</strong> enorme entre quienes son capaces de reconocer el uso de la IA —aunque sea como forma de defender su propio trabajo— y quienes no lo son; entre quienes han entendido que es tan buena que hay que \"humanizarla\" para <strong>bajarle el nivel</strong> y quienes aún se <strong>consuelan</strong> pensando que jamás llegará a alcanzarles.",
+      "zh": "一道巨大的鸿沟正在形成——在那些能够识别AI使用痕迹的人（哪怕只是为了保护自己的作品）与那些无法识别的人之间；在那些已经明白AI水平之高、必须『人性化』以降低其水准的人，与那些仍然自我安慰、认为AI永远不会追上自己的人之间。",
+      "vocab": [
+        {
+          "word": "brecha",
+          "translation": "鸿沟，差距，缺口",
+          "note": "brecha 是新闻文体高频词，常见搭配：brecha digital（数字鸿沟）、brecha salarial（薪资差距）、brecha generacional（代际鸿沟），掌握此词可举一反三理解大量社会议题标题。"
+        },
+        {
+          "word": "bajarle el nivel",
+          "translation": "降低其水准，拉低档次",
+          "note": "bajar el nivel（降低水准）是口语固定表达，le 是间接宾语代词，指代被降低水准的对象，这种『动词 + le + 名词』结构在西班牙语口语中极为常见，如 cortarle el pelo、subirle el sueldo。"
+        },
+        {
+          "word": "consolarse",
+          "translation": "自我安慰，聊以自慰",
+          "note": "consolarse（反身）强调自我安慰，往往带有一种不切实际的自欺意味，比 tranquilizarse（让自己平静）更含讽刺色彩，作者在此用它暗示这种安慰是一种逃避。"
+        }
+      ]
+    }
+  ]
+}

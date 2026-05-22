@@ -1,0 +1,186 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与文化",
+  "difficulty": "B2",
+  "wordCount": "约900词",
+  "title": "Este relato ganó un premio literario. ¿Fue escrito por IA?",
+  "subtitle": "这篇短篇小说赢得了文学奖。它是由AI写的吗？",
+  "resumenEs": "Un relato ganador del Commonwealth Short Story Prize desató sospechas de haber sido escrito por inteligencia artificial. El caso pone de manifiesto las dificultades que enfrentan editoriales y jurados para detectar textos generados por IA, la escasa fiabilidad de las herramientas de detección y los riesgos reales que las falsas acusaciones suponen para los escritores.",
+  "resumenZh": "一篇赢得英联邦短篇小说奖的作品引发了疑似由人工智能创作的争议。此案揭示了出版社和评审委员会在识别AI生成文本时面临的困难、检测工具的不可靠性，以及错误指控对作家造成的现实风险。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "La preocupación por el uso cada vez más <strong>generalizado</strong> de herramientas de IA para ayudar a escribir sigue inquietando al mundo literario. Esta semana, el Commonwealth Short Story Prize atrajo la atención de lectores que sospechaban que uno de sus relatos ganadores, \"The Serpent in the Grove\", había sido escrito por inteligencia artificial. Al igual que los cinco ganadores regionales del concurso, el relato fue publicado en línea por Granta, una revista literaria británica que ha presentado trabajos de autores de renombre como Kazuo Ishiguro, Zadie Smith y Salman Rushdie.",
+      "zh": "对人工智能写作辅助工具日益普及的担忧，持续令文学界感到不安。本周，英联邦短篇小说奖吸引了读者的关注，他们怀疑其中一篇获奖作品《林中之蛇》是由人工智能创作的。与该奖项的五位地区获奖者一样，这篇作品由英国文学杂志《格兰塔》在线发表，该杂志曾刊载石黑一雄、扎迪·史密斯和萨尔曼·鲁西迪等知名作家的作品。",
+      "vocab": [
+        {
+          "word": "generalizado",
+          "translation": "普遍的，广泛的",
+          "note": "uso generalizado 是新闻文体固定搭配，意为『广泛使用』；动词 generalizarse 意为『变得普遍』，如 se ha generalizado el uso de la IA，比 extendido 更强调已成常态。"
+        },
+        {
+          "word": "al igual que",
+          "translation": "与……一样，和……相同",
+          "note": "al igual que 是正式文体的固定比较结构，后接名词或从句，比口语中的 igual que 更书面，也比 como 更强调两者的对等性。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "\"Hemos tomado nota de los comentarios y hemos intentado ser muy sistemáticos en nuestra comprensión de algunas de las perspectivas y tratado de mirarnos internamente para ver si creemos que nuestro proceso hasta la fecha ha sido lo suficientemente sólido\", dijo Razmi Farook, director general de la Commonwealth Foundation. \"Confiamos en el <strong>rigor</strong> de nuestro proceso, pero somos <strong>conscientes</strong> de que este es un entorno tecnológico en evolución\".",
+      "zh": "『我们已注意到各方意见，并尝试非常系统地理解其中一些观点，同时也尝试进行内部审视，看我们迄今为止的流程是否足够严谨，』管理该奖项的英联邦基金会总干事拉兹米·法鲁克说道。『我们对自身流程的严谨性有信心，但我们也意识到这是一个不断演变的技术环境。』",
+      "vocab": [
+        {
+          "word": "rigor",
+          "translation": "严谨，严格",
+          "note": "假朋友警告：rigor 在西班牙语中专指方法或标准的严格性（con rigor、rigor científico），不对应英语 rigor mortis 或『严酷』的含义，后者用 severidad 或 dureza。"
+        },
+        {
+          "word": "conscientes de que",
+          "translation": "意识到，清楚地知道",
+          "note": "ser consciente de 是固定搭配，后接名词或 que + 陈述式，注意不能说 ser consciente que（缺少 de），是西语学习者的高频错误点。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Granta adoptó una <strong>postura</strong> diferente en sus múltiples declaraciones públicas. \"Le mostramos a Claude.ai el artículo y le preguntamos si fue generado por IA\", dijo Sigrid Rausing, editora de Granta. \"La respuesta fue larga, concluyendo que 'casi con toda seguridad no fue producida sin la ayuda de un humano'\". Rausing añadió: \"Puede ser que los jueces hayan otorgado ahora un premio a un caso de plagio de IA; aún no lo sabemos, y quizá nunca lo sepamos\".",
+      "zh": "《格兰塔》在多份公开声明中采取了不同立场。『我们把这篇文章展示给Claude.ai，询问它是否由AI生成，』格兰塔编辑西格丽德·劳辛说。『回答很长，最终得出结论：这篇文章几乎可以肯定不是在没有人类帮助的情况下创作的。』劳辛补充道：『评委们现在可能已经将一个奖项授予了一起AI剽窃案；我们还不知道，也许永远不会知道。』",
+      "vocab": [
+        {
+          "word": "adoptar una postura",
+          "translation": "采取立场，表明态度",
+          "note": "adoptar + postura / posición / actitud 是新闻文体描述机构或个人表态的固定搭配三件套，比 tener una opinión 更正式，常见于政治和外交报道。"
+        },
+        {
+          "word": "otorgar",
+          "translation": "授予，颁发",
+          "note": "otorgar 比 dar 更正式，专用于奖项、权利、permisos 的正式授予；易混辨析：conceder 也可授予，但 otorgar 更强调主动给予的权威性。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "\"La sugerencia de que los escritores han presentado material que no es auténticamente suyo es una acusación que nos <strong>tomamos en serio</strong>, pero hasta que <strong>salgan a la luz</strong> pruebas definitivas mantendremos estos relatos en nuestro sitio web\". El autor del relato, Jamir Nazir, se describe en una biografía adjunta como \"un <strong>prolífico</strong> poeta y autor\". Nazir no respondió a una solicitud de comentarios.",
+      "zh": "『关于这些作家提交的作品并非真正出自本人之手的说法，是一项我们认真对待的指控，但在确凿证据浮出水面之前，我们将继续在网站上保留这些作品。』该故事的作者贾米尔·纳齐尔在附带简介中被描述为『一位多产的诗人和作家』。纳齐尔未回应置评请求。",
+      "vocab": [
+        {
+          "word": "tomarse en serio",
+          "translation": "认真对待，重视",
+          "note": "tomarse algo en serio 是固定搭配，反义为tomarse algo a broma（不当回事）；注意必须用反身代词：nos lo tomamos en serio，不能省略。"
+        },
+        {
+          "word": "salir a la luz",
+          "translation": "浮出水面，曝光，公之于众",
+          "note": "salir a la luz 是新闻文体高频固定短语，指信息或证据被公开披露，近义短语 salir a la superficie 更口语，hacerse público 更中性。"
+        },
+        {
+          "word": "prolífico",
+          "translation": "多产的",
+          "note": "prolífico 专用于描述创作者产量高，不用于工厂或非创作语境；易混辨析：productivo 指效率高，prolífico 专指作品数量多。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Las especulaciones se produjeron <strong>a raíz de</strong> la noticia de que Hachette Book Group interrumpía sus planes de publicar Shy Girl, tras las acusaciones de que su autora había <strong>dependido en gran medida</strong> de la IA para escribir el libro. A principios de esta semana, el Times también descubrió que el autor Steven Rosenbaum había incluido varias citas ficticias o mal atribuidas generadas por IA en su reciente libro de no ficción. En un comunicado, Rosenbaum dijo que el libro contenía \"un puñado de citas atribuidas <strong>indebidamente</strong> o sintéticas\".",
+      "zh": "这些猜测源于此前的一则新闻：阿歇特图书集团中止了出版恐怖小说《害羞女孩》的计划，原因是有指控称其作者在写作该书时在很大程度上依赖了AI。本周早些时候，《纽约时报》还发现，作者史蒂文·罗森鲍姆在其最近的非虚构书籍中收录了多处由AI生成的虚构或错误归属的引文。罗森鲍姆在一份声明中表示，该书包含『少量归属不当或合成的引文』。",
+      "vocab": [
+        {
+          "word": "a raíz de",
+          "translation": "由于，源于，起因于",
+          "note": "a raíz de 是新闻文体高频固定短语，表示某事件直接引发了后续结果，比 debido a 更强调时间上的紧接触发关系，字面义为『从根部』。"
+        },
+        {
+          "word": "en gran medida",
+          "translation": "在很大程度上",
+          "note": "en gran medida 是正式文体的程度副词短语，可替换为 en buena medida（相当程度上）或 en cierta medida（在一定程度上），三者构成程度递减的系列表达。"
+        },
+        {
+          "word": "indebidamente",
+          "translation": "不当地，不正当地",
+          "note": "构词规律：前缀 in-（否定）+ debido（应当的）+ -mente（副词后缀），同类构词：incorrectamente、inadecuadamente，掌握此规律可快速理解大量否定副词。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Los autores han adoptado diversas posturas públicas sobre el papel de la IA en sus procesos creativos. La autora Coral Hart ha sido <strong>abierta</strong> sobre el uso de IA para ayudarla a escribir; el año pasado autopublicó más de 200 novelas románticas con la ayuda de Claude de Anthropic. La autora polaca Olga Tokarczuk causó un pequeño <strong>revuelo</strong> en la comunidad literaria tras decirle a un público en Polonia que utilizó IA al escribir su última novela, aunque luego aclaró que solo la usó \"como herramienta para una investigación preliminar más rápida\".",
+      "zh": "作家们就AI在创作过程中所扮演的角色采取了不同的公开立场。作家科勒尔·哈特对使用AI辅助写作一事直言不讳；去年她在Anthropic的Claude帮助下自行出版了200多部言情小说。波兰作家奥尔加·托卡尔丘克在文学界引发了一场小小的骚动，起因是她告诉波兰的一批听众她在写最新小说时使用了AI，但她随后澄清，只是将其用作『更快速进行初步研究的工具』。",
+      "vocab": [
+        {
+          "word": "abierta (ser abierto sobre)",
+          "translation": "坦诚的，直言不讳的",
+          "note": "ser abierto/a sobre algo 意为『对某事坦诚、不隐瞒』，是英语 be open about 的直接对应，在西班牙语中这个用法受英语影响，在新闻文体中已十分常见。"
+        },
+        {
+          "word": "revuelo",
+          "translation": "骚动，轩然大波",
+          "note": "causar/provocar un revuelo 是固定搭配，指某事在公众或特定群体中引发短暂但强烈的反应，比 escándalo（丑闻）程度轻，比 debate（讨论）更强调情绪性反应。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Para las editoriales y los jurados de los premios, la IA presenta un desafío sin soluciones claras. En los días siguientes a la publicación del relato, los lectores señalaron signos de <strong>tics</strong> de escritura de la IA, como el uso excesivo de metáforas y símiles, expresiones figurativas sin sentido y <strong>paralelismo</strong> negativo, que se conoce más comúnmente como la construcción \"no X, sino Y\". Pero estos rasgos también aparecen a menudo en la escritura humana. Para confirmar sus sospechas, algunos lectores pasaron el relato por detectores de IA como Pangram, que sugirió que fue 100 por ciento generado por IA.",
+      "zh": "对于出版社和奖项评审委员会而言，AI带来了一项没有明确解决方案的挑战。在该作品发表后的几天里，读者们指出了AI写作的一些标志性习惯，例如过度使用隐喻和明喻、毫无意义的比喻性表达，以及否定式平行结构——即通常所说的『不是X，而是Y』句型。但这些特征在人类写作中也经常出现。为了证实自己的怀疑，一些读者将这篇作品输入Pangram等AI检测工具，后者显示该文章100%由AI生成。",
+      "vocab": [
+        {
+          "word": "tics",
+          "translation": "习惯性特征，惯用套路",
+          "note": "tic 本指身体的不自主抽动，引申为某人或某类写作中反复出现的标志性习惯，tics de escritura（写作套路）在文学批评语境中是生动的隐喻用法。"
+        },
+        {
+          "word": "paralelismo",
+          "translation": "平行结构，排比",
+          "note": "构词规律：词根 paralel- 可生成 paralelo（平行的）、paralelamente（平行地）、paralelismo（平行结构），是修辞学和语言学的基础词族。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Aun así, algunos expertos advierten de que estas herramientas no son del todo <strong>confiables</strong>. \"Los detectores de texto de IA cometen muchos errores, sobre todo en la escritura creativa que utiliza construcciones inusuales\", dijo Nicholas Andrews, investigador de la Universidad Johns Hopkins. Jack Grieve señaló que, si no se <strong>controlan</strong> las variaciones de dialecto, tema, género e indicaciones, confiar en las herramientas de detección puede ser arriesgado. A su juicio, el relato corto no estaba ni obviamente generado por IA ni obviamente no generado por IA. \"La tecnología aún no está <strong>a la altura</strong> y, debido a sus imperfecciones, lleva a la gente a pensar que las cosas son blancas o negras cuando no lo son necesariamente\", dijo Farook.",
+      "zh": "尽管如此，一些专家警告称这些工具并不完全可靠。『AI文本检测器会犯很多错误，尤其是在使用不寻常句式的创意写作方面，』约翰斯·霍普金斯大学研究员尼古拉斯·安德鲁斯说道。杰克·格里夫指出，如果不对方言、主题、体裁和提示语的差异加以控制，依赖检测工具可能是危险的。在他看来，这篇短篇小说既不是明显由AI生成的，也不是明显非AI生成的。『技术还没有达到应有的水平，由于其缺陷，它让人们认为事情非黑即白，而实际上未必如此，』法鲁克说道。",
+      "vocab": [
+        {
+          "word": "confiable",
+          "translation": "可靠的，值得信赖的",
+          "note": "易混辨析：confiable 和 fiable 意思相同，但 fiable 在西班牙本土更常用，confiable 在拉丁美洲更普遍，阅读西班牙媒体时两者都会遇到。"
+        },
+        {
+          "word": "controlar las variaciones",
+          "translation": "控制变量，排除干扰因素",
+          "note": "controlar 在学术和研究语境中意为『控制（变量）』，是英语 to control for 的对应表达，与日常义『控制、管理』不同，是科学报道的高频用法。"
+        },
+        {
+          "word": "estar a la altura",
+          "translation": "达到应有水平，不负期望",
+          "note": "estar a la altura（de）是固定搭配，意为『达到某一标准或期望』，反义表达为 no estar a la altura，常见于评价人或事物是否符合要求。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Este es especialmente el caso, añadió Farook, debido a los riesgos que <strong>conllevan</strong> las falsas acusaciones para los escritores. \"Se trata de personas con historias personales, escritores que se enfrentan a sus propios retos personales, y la escritura es una herramienta muy <strong>vulnerable</strong>\", dijo Farook. \"El premio trae a esas personas al frente. Tienen que enfrentarse a algo nuevo. A menudo son escritores inéditos, así que hay un <strong>deber de cuidado</strong> y consideración que debemos tener en cuenta\".",
+      "zh": "法鲁克补充说，这种情况尤为突出，原因在于错误指控对作家所带来的风险。『这些都是有着个人故事的人，是面临自身个人挑战的作家，而写作是一种非常脆弱的工具，』法鲁克说道。『这个奖项把这些人推到了台前。他们必须面对新的挑战。他们往往是未发表过作品的作家，因此我们必须考虑到应尽的关怀和体谅义务。』",
+      "vocab": [
+        {
+          "word": "conllevar",
+          "translation": "带来，伴随，意味着",
+          "note": "conllevar 表示某事物必然附带某种后果或代价，比 traer 更正式，常见于新闻和学术文体，如 conllevar riesgos / consecuencias / dificultades，是描述因果关系的高频动词。"
+        },
+        {
+          "word": "inéditos",
+          "translation": "未发表的，未出版的",
+          "note": "inédito 由 in-（否定）+ édito（已出版的）构成，字面义为『未出版的』，引申义也可指『前所未有的』（una situación inédita），是一词多义的典型例子，需根据语境判断。"
+        },
+        {
+          "word": "deber de cuidado",
+          "translation": "关怀义务，注意义务",
+          "note": "deber de + 名词/动词原形 表示道德或法律上的义务，deber de cuidado 是法律和伦理语境的固定术语，注意与 tener cuidado（小心）区分，前者是义务，后者是行为。"
+        }
+      ]
+    }
+  ]
+}
