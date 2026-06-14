@@ -84,6 +84,47 @@
 
         bodyEl.appendChild(block);
       });
+
+      // ── 俗语俚语模块：仅在 slangExpressions 存在且数量 >= 2 时显示 ──
+      const slangs = article.slangExpressions;
+      if (Array.isArray(slangs) && slangs.length >= 2) {
+
+        const typeMap = {
+          'modismo':              '惯用语',
+          'expresión coloquial':  '口语俚语',
+          'expresion coloquial':  '口语俚语',
+          'refrán':               '谚语',
+          'refran':               '谚语'
+        };
+
+        let slangHTML = `
+          <div class="slang-block">
+            <div class="slang-header">
+              <span class="slang-icon">💬</span>
+              <span class="slang-title">俗语 · 俚语 · 谚语</span>
+            </div>
+            <div class="slang-list">`;
+
+        slangs.forEach(s => {
+          const typeLabel = typeMap[s.type.toLowerCase()] || s.type;
+          slangHTML += `
+              <div class="slang-item">
+                <div class="slang-top">
+                  <span class="slang-expression">${s.expression}</span>
+                  <span class="slang-type">${typeLabel}</span>
+                </div>
+                <div class="slang-translation">${s.translation}</div>
+                ${s.usage ? `<div class="slang-usage">${s.usage}</div>` : ''}
+              </div>`;
+        });
+
+        slangHTML += `
+            </div>
+          </div>`;
+
+        bodyEl.insertAdjacentHTML('beforeend', slangHTML);
+      }
+
     })
     .catch(() => {
       document.getElementById('article-body').innerHTML =

@@ -52,21 +52,72 @@
       document.getElementById('meta-wordcount').textContent  = article.wordCount;
       document.getElementById('art-title').textContent       = article.title;
       document.getElementById('art-subtitle').textContent    = article.subtitle;
-      document.getElementById('art-source').textContent      = '来源：' + article.source;
+      document.getElementById('art-source').textContent      = article.source ? '来源：' + article.source : '';
       document.getElementById('resumen-es').textContent      = article.resumenEs;
       document.getElementById('resumen-zh').textContent      = article.resumenZh;
 
       const bodyEl = document.getElementById('article-body');
 
+      // ── 段落渲染 ──
       article.paragraphs.forEach(para => {
         const block = document.createElement('div');
         block.className = 'paragraph-block';
+
+        // 词汇卡片 HTML
+        let vocabHTML = '';
+        if (para.vocab && para.vocab.length > 0) {
+          const items = para.vocab.map(v => `
+            <div class="vocab-item">
+              <div class="vocab-word">${v.word}</div>
+              <div class="vocab-translation">${v.translation}</div>
+              ${v.note ? `<div class="vocab-note">${v.note}</div>` : ''}
+            </div>
+          `).join('');
+          vocabHTML = `<div class="vocab-list">${items}</div>`;
+        }
+
         block.innerHTML = `
           <span class="para-num">§${para.id}</span>
           <p class="para-es">${para.es}</p>
+          <p class="para-zh">${para.zh}</p>
+          ${vocabHTML}
         `;
         bodyEl.appendChild(block);
       });
+
+      // ── 俗语俚语模块渲染（不足2个则不显示）──
+      if (article.slangExpressions && article.slangExpressions.length >= 2) {
+        const typeLabel = {
+          'modismo': '惯用语',
+          'expresión coloquial': '口语俚语',
+          'refrán': '谚语'
+        };
+
+        const items = article.slangExpressions.map(s => {
+          const label = typeLabel[s.type] || s.type;
+          return `
+            <div class="slang-item">
+              <div class="slang-top">
+                <span class="slang-expression">${s.expression}</span>
+                <span class="slang-type">${label}</span>
+              </div>
+              <div class="slang-translation">${s.translation}</div>
+              ${s.usage ? `<div class="slang-usage">${s.usage}</div>` : ''}
+            </div>
+          `;
+        }).join('');
+
+        const slangBlock = document.createElement('div');
+        slangBlock.className = 'slang-block';
+        slangBlock.innerHTML = `
+          <div class="slang-header">
+            <span class="slang-label">Expresiones · 俗语俚语</span>
+          </div>
+          <div class="slang-grid">${items}</div>
+        `;
+        bodyEl.appendChild(slangBlock);
+      }
+
     })
     .catch(() => {
       document.getElementById('article-body').innerHTML =
