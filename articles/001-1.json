@@ -241,6 +241,38 @@
       "usage": "arriesgar + 名词 表示『拿某物去冒险』，arriesgar la vida 是固定搭配，强调为某目标不惜以生命相搏，常见于新闻和叙事文体。",
       "exampleEs": "Los bomberos arriesgaron sus vidas para salvar a las víctimas del derrumbe.",
       "exampleZh": "消防员们冒着生命危险去营救坍塌事故中的受害者。"
+    },
+    {
+      "expression": "dada su relevancia histórica",
+      "type": "estructura gramatical",
+      "translation": "鉴于其重要的历史价值",
+      "usage": "dada/dado + 名词短语，是书面语中表示『鉴于……、考虑到……』的正式原因结构，相当于 teniendo en cuenta 或 debido a，但语气更简练正式，常见于新闻、法律和学术文体。注意 dada 需与后接名词的性数一致。",
+      "exampleEs": "Dada su fragilidad, la obra no puede ser trasladada fuera del museo.",
+      "exampleZh": "鉴于该作品的脆弱性，它无法被移出博物馆。"
+    },
+    {
+      "expression": "no parecer que + subjuntivo",
+      "type": "estructura gramatical",
+      "translation": "这似乎并非……；看起来不像是……",
+      "usage": "no parecer que 后接虚拟式，用于委婉否定某种判断或推测，语气比直接否定更柔和，是书面和口语中表达『不像是这样』的高级结构。文中 no parece que fuera una exageración 使用了过去虚拟式，语气更为审慎。",
+      "exampleEs": "No parece que la situación vaya a mejorar en el corto plazo.",
+      "exampleZh": "短期内局势似乎并不会好转。"
+    },
+    {
+      "expression": "salpicado de",
+      "type": "colocación",
+      "translation": "点缀着……；散布着……",
+      "usage": "salpicar 字面意为『溅上、泼洒』，salpicado de 作形容词用，引申为『散布着、点缀着』，常用于描述景观或文字风格，如 un discurso salpicado de humor（一篇点缀着幽默的演讲）。是旅游和文学文体中极具表现力的B2搭配。",
+      "exampleEs": "Recorrimos un sendero salpicado de flores silvestres y pequeñas cascadas.",
+      "exampleZh": "我们走过一条点缀着野花和小瀑布的小径。"
+    },
+    {
+      "expression": "levantar en honor a",
+      "type": "colocación",
+      "translation": "为纪念……而建；以……之名修建",
+      "usage": "levantar（建造）+ en honor a（为了纪念）是新闻和历史文体中描述纪念性建筑的固定搭配，en honor a 后接人名或群体，语体正式，可替换 levantar 为 erigir、construir，但 en honor a 本身是固定介词短语。",
+      "exampleEs": "En el centro de la plaza se erigió una estatua en honor a las víctimas de la guerra.",
+      "exampleZh": "广场中央竖立着一座雕像，以纪念战争中的遇难者。"
     }
   ]
 }
