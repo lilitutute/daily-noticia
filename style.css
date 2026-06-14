@@ -31,6 +31,7 @@ body {
   .page-wrap { padding: 0; max-width: 100%; }
   .paragraph-block { break-inside: auto; }
   .vocab-item { break-inside: avoid; }
+  .slang-item { break-inside: avoid; }
   @page { size: A4; margin: 15mm 14mm 15mm 14mm; }
 }
 
@@ -232,42 +233,8 @@ body {
   padding-top: 3px;
   margin-top: 1px;
 }
-@media (max-width: 768px) {
 
-  .page-wrap {
-    padding: 20px 16px;
-  }
-
-  /* 标题缩小 */
-  .article-title {
-    font-size: 20px;
-  }
-
-  /* 核心：取消左右分栏，改为单栏上下 */
-  .paragraph-block {
-    display: block;
-    padding: 16px 0;
-  }
-
-  /* 取消正文两端对齐和断词 */
-  p, .resumen-es, .resumen-zh, .para-es, .para-zh {
-    text-align: left;
-    hyphens: none;
-    -webkit-hyphens: none;
-  }
-
-  /* 词汇栏移到段落下方，撑满宽度 */
-  .para-vocab {
-    margin-top: 12px;
-    width: 100%;
-  }
-
-  .vocab-item {
-    width: 100%;
-  }
-
-
-  /* ══════════════════════════════════
+/* ══════════════════════════════════
    俗语 · 俚语 · 谚语 模块
 ══════════════════════════════════ */
 
@@ -305,7 +272,7 @@ body {
   background: var(--vocab-bg);
   border: 1px solid var(--border);
   border-radius: 8px;
-  border-left: 4px solid var(--brand);   /* 和词汇卡风格一致 */
+  border-left: 4px solid var(--brand);
   padding: 12px 14px;
 }
 
@@ -355,12 +322,42 @@ body {
   margin-top: 2px;
 }
 
-@media (max-width: 768px) {
-  .slang-list { grid-template-columns: 1fr; }
-}
+/* ══════════════════════════════════
+   移动端适配
+══════════════════════════════════ */
 
-@media print {
-  .slang-item { break-inside: avoid; }
-}
+@media (max-width: 768px) {
+
+  .page-wrap {
+    padding: 20px 16px;
+  }
+
+  .article-title {
+    font-size: 20px;
+  }
+
+  .paragraph-block {
+    display: block;
+    padding: 16px 0;
+  }
+
+  p, .resumen-es, .resumen-zh, .para-es, .para-zh {
+    text-align: left;
+    hyphens: none;
+    -webkit-hyphens: none;
+  }
+
+  .para-vocab {
+    margin-top: 12px;
+    width: 100%;
+  }
+
+  .vocab-item {
+    width: 100%;
+  }
+
+  .slang-list {
+    grid-template-columns: 1fr;
+  }
 
 }
