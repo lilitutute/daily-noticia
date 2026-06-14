@@ -1,0 +1,261 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "教育与社会",
+  "difficulty": "B2",
+  "wordCount": "约1000词",
+  "title": "Así es la Selectividad en otras partes del mundo: de la máxima presión en China al ingreso libre en Argentina",
+  "subtitle": "世界各地的高考：从中国的极限压力到阿根廷的自由入学",
+  "resumenEs": "El artículo compara los sistemas de acceso a la universidad en distintos países del mundo. Mientras Alemania y Francia priorizan el expediente académico, países como México o Perú delegan la selección en cada universidad. Chile, Brasil y Colombia aplican una prueba nacional única, Argentina apuesta por el ingreso libre, y China y Corea del Sur someten a sus estudiantes a exámenes de altísima presión.",
+  "resumenZh": "本文比较了世界各国的大学入学制度。德国和法国以学业成绩为主要依据，墨西哥和秘鲁由各大学自行选拔，智利、巴西和哥伦比亚采用全国统一考试，阿根廷实行自由入学制度，而中国和韩国则让学生承受极高的考试压力。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Cada primavera, al acercarse los exámenes de Selectividad, sobre las esperanzas y expectativas por el futuro se <strong>superpone</strong> el miedo y el <strong>desgaste</strong> emocional en decenas de miles de estudiantes españoles. Este modelo no es más que una pequeña pieza dentro de un amplio <strong>mosaico</strong> internacional de sistemas de acceso a la Universidad. Mientras algunos países confían en una prueba nacional única y altamente competitiva, otros delegan la selección en cada centro académico. Estas son las diferentes formas de acceder a un grado universitario en otros puntos del planeta.",
+      "zh": "每年春天，随着高考临近，对未来的希望与期待之上，又叠加了数以万计西班牙学生内心的恐惧与情感消耗。这一模式不过是国际大学入学制度这幅宏大拼图中的一小块。有些国家依赖一场竞争激烈的全国统一考试，另一些国家则将选拔权下放给各个学术机构。以下是世界其他地方进入大学的不同方式。",
+      "vocab": [
+        {
+          "word": "superpone",
+          "translation": "叠加、覆盖于……之上",
+          "note": "superponerse 是反身动词，前缀 super- 表『在……之上』，同类构词有 superar（超越）、supervisar（监督），此处结构为 sobre A se superpone B，意为『B叠加在A之上』。"
+        },
+        {
+          "word": "desgaste",
+          "translation": "消耗、磨损、疲惫",
+          "note": "desgaste 来自动词 desgastar（磨损、消耗），前缀 des- 表否定或逆向，可用于物理磨损（desgaste del material）也可用于情感或精力的耗尽（desgaste emocional）。"
+        },
+        {
+          "word": "mosaico",
+          "translation": "马赛克；（比喻）多元拼图",
+          "note": "mosaico 在新闻和学术语境中常作比喻，指由多种不同元素构成的复杂整体，如 mosaico cultural（文化多元体）、mosaico de opiniones（众多不同意见），是C1级别的常用修辞词。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "En Alemania, el ingreso depende principalmente del Abitur, el título que da acceso a la Universidad. Se obtiene al finalizar el Gymnasium (normalmente en 12.º o 13.º curso, según el estado federado). No existe una prueba general equivalente a la Prueba de Acceso a la Universidad (PAU) para todos los estudiantes, como en el caso español. Un portavoz del Colegio Alemán de Madrid explica a EL PAÍS que este título de educación secundaria se obtiene de las calificaciones de los últimos años de Bachillerato y los exámenes finales del Abitur. Con este promedio, el alumno solicita la admisión y el grado que le interese. Sin embargo, la institución apunta que para muchas carreras no es necesario rendir un examen de acceso adicional. Por ejemplo, en las carreras con mucha demanda, como Medicina, Odontología, Psicología, Farmacia y algunas carreras de Ciencias de la Salud, la admisión depende de la nota del Abitur.",
+      "zh": "在德国，入学主要取决于Abitur——即大学入学资格证书。该证书在完成文理中学学业后获得（通常为第12或第13学年，视各联邦州而定）。德国不存在像西班牙大学入学考试（PAU）那样面向所有学生的统一考试。马德里德国学校的一位发言人向《国家报》解释说，这一中等教育文凭由高中最后几年的成绩和Abitur期末考试综合评定。凭借这一平均分，学生申请心仪的大学和专业。不过，该机构指出，许多专业并不需要额外参加入学考试。例如，在医学、口腔医学、心理学、药学及部分健康科学等热门专业中，录取完全取决于Abitur成绩。",
+      "vocab": [
+        {
+          "word": "equivalente",
+          "translation": "等同的、相当的",
+          "note": "equivalente 作形容词时接介词 a，构成 equivalente a（相当于……），是学术和新闻文体的高频词，名词形式为 equivalencia，动词为 equivaler a。"
+        },
+        {
+          "word": "rendir",
+          "translation": "参加（考试）；取得（成绩）",
+          "note": "rendir un examen 是拉丁美洲西语的固定说法，意为『参加考试』；在西班牙则更常说 hacer un examen。rendir 本义为『产出、交出』，一词多义，还可表『投降』（rendirse）。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Además, dependiendo de cada universidad y carrera, algunas titulaciones pueden exigir entrevistas adicionales, pruebas de aptitud, portfolios (arte, diseño), pruebas deportivas o incluso experiencia práctica previa. En Francia, la nota del baccalauréat (bachillerato) es el factor principal que <strong>condiciona</strong> el ingreso. El Estado francés ha integrado además una plataforma de admisión a formaciones de primer año del primer ciclo de la enseñanza superior. En la Parcoursup, los estudiantes pueden consultar desde los criterios de evaluación de sus candidaturas hasta la existencia de programas adaptados (por ejemplo, para estudiantes con discapacidad).",
+      "zh": "此外，根据各大学和专业的不同，部分学位可能还要求额外的面试、能力测试、作品集（艺术、设计类）、体能测试，甚至要求具备相关实践经验。在法国，高中毕业会考（baccalauréat）的成绩是决定入学的主要因素。法国政府还整合推出了一个高等教育第一学年入学申请平台。在Parcoursup平台上，学生可以查询从申请评审标准到特殊适应项目（例如面向残障学生的项目）等各类信息。",
+      "vocab": [
+        {
+          "word": "condiciona",
+          "translation": "决定、制约、影响",
+          "note": "condicionar 在新闻和学术语境中表示『对某事起决定性制约作用』，比 influir 语气更强，暗示某因素是不可绕过的前提条件，是B2-C1高频词。"
+        },
+        {
+          "word": "candidaturas",
+          "translation": "申请、候选资格",
+          "note": "candidatura 在政治语境中指『候选资格』，在教育语境中指『申请材料或申请资格』，注意不要与英语 candidate 混淆——西语中申请人是 candidato，申请行为/资格是 candidatura。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Italia cuenta con una prueba estatal para acceder a la universidad y se realiza una vez al año. Consta de exámenes escritos y uno oral. Se trata de un modelo parecido a la PAU, que examina este año a cerca de 300.000 estudiantes en España. El modelo en Grecia también es similar al español, pero con la diferencia de que en este país se realiza la prueba el mismo día en todo el territorio. En lugares como México o Perú, no existe una prueba <strong>unificada</strong>. Cada estudiante debe registrarse y pagar el derecho a examen en cada universidad. Estas cuentan con diferentes fechas y cantidad de preguntas.",
+      "zh": "意大利设有全国统一的大学入学考试，每年举行一次，包含笔试和口试两部分。这一模式与西班牙大学入学考试（PAU）相似，今年西班牙约有30万名学生参加该考试。希腊的模式也与西班牙类似，区别在于全国考试在同一天举行。在墨西哥或秘鲁等地，不存在统一考试。每位学生须在各所大学分别报名并缴纳考试费用，各校考试时间和题目数量各不相同。",
+      "vocab": [
+        {
+          "word": "unificada",
+          "translation": "统一的、集中的",
+          "note": "unificado/a 来自动词 unificar（统一），前缀 uni- 表『一、单一』，同类构词有 uniforme（统一的/制服）、unilateral（单边的），是描述教育和政策制度的高频词。"
+        },
+        {
+          "word": "consta de",
+          "translation": "由……组成、包含",
+          "note": "constar de 是固定搭配，表示某事物由若干部分构成，相当于 estar compuesto de 或 incluir，常用于正式描述结构或内容，如 el examen consta de tres partes。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "En México, cada institución diseña y aplica su evaluación. Las universidades federales más demandadas, como la Universidad Nacional Autónoma de México (UNAM) o el Instituto Politécnico Nacional (IPN), hacen <strong>concursos de selección</strong> extremadamente competitivos basados en exámenes de conocimientos generales. La catedrática Marlene Romo, pedagoga y profesora de la UNAM, explica que, para acceder a una universidad pública, los estudiantes deben haber concluido el bachillerato y acreditar un promedio mínimo, generalmente de 7 sobre 10. A partir de ahí, comienza un proceso altamente competitivo. Los aspirantes realizan una solicitud en línea, pagan una cuota administrativa y se presentan a unos exámenes <strong>estandarizados</strong> de opción múltiple. En el caso de la UNAM, la prueba consta de 120 preguntas.",
+      "zh": "在墨西哥，每所院校自行设计并实施考核。最受欢迎的联邦大学，如墨西哥国立自治大学（UNAM）和国立理工学院（IPN），会举行竞争极为激烈的选拔考试，以综合知识测试为基础。UNAM教授、教育学家马琳·罗莫向《国家报》解释说，要进入公立大学，学生须完成高中学业并达到最低平均分要求，通常为10分制中的7分。在此基础上，一个竞争激烈的流程随之展开：申请者在线提交申请，缴纳行政费用，并参加标准化多项选择题考试。以UNAM为例，考试共120道题。",
+      "vocab": [
+        {
+          "word": "concursos de selección",
+          "translation": "选拔竞试、招生竞争考试",
+          "note": "concurso 在教育和职场语境中指『竞争性选拔程序』，不同于 examen（普通考试），强调名额有限、择优录取，如 concurso de méritos（资历竞聘）、concurso de plazas（岗位竞聘）。"
+        },
+        {
+          "word": "estandarizados",
+          "translation": "标准化的",
+          "note": "estandarizado 来自 estandarizar（标准化），后缀 -izar 表『使……化』，是教育和学术报道的高频词，同类构词有 digitalizar（数字化）、homogeneizar（同质化）。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "La académica añade que este modelo surgió como respuesta al fuerte crecimiento <strong>demográfico</strong> que vivió México desde los años setenta del pasado siglo. \"Las universidades necesitaban un filtro para controlar el número de estudiantes que podían atender efectivamente en aulas y laboratorios\", señala Romo. Una vez publicados los resultados, los estudiantes consultan a distancia si fueron aceptados mediante un número de folio asignado durante el registro. Hasta hace pocos años, recuerda la catedrática, los resultados aparecían también en diarios nacionales. \"Las familias iban muy temprano el domingo a comprar el periódico para buscar el número de folio\", recuerda la excoordinadora de la licenciatura en Pedagogía de la UNAM.",
+      "zh": "这位学者补充说，这一模式的出现是对上世纪七十年代以来墨西哥强劲人口增长的回应。罗莫指出：『大学需要一个筛选机制，以控制能够在教室和实验室中有效接纳的学生人数。』成绩公布后，学生凭借注册时分配的档案编号远程查询是否被录取。这位前UNAM教育学本科专业协调人回忆说，就在几年前，录取结果还会刊登在全国性报纸上。她说：『家庭成员会在周日一大早去买报纸，查找档案编号。』",
+      "vocab": [
+        {
+          "word": "demográfico",
+          "translation": "人口的、人口学的",
+          "note": "词根 demo- 表『人民、人口』，-gráfico 表『记录、描述』，同类词有 democracia（民主）、demografía（人口学），是社会科学报道的核心词汇。"
+        },
+        {
+          "word": "folio",
+          "translation": "档案编号；页码；对折纸",
+          "note": "folio 在行政语境中指『档案编号或序列号』，在日常语境中也指『A4纸』（西班牙口语），在出版语境中指『页码』，是典型的一词多义词，需结合语境判断。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Para la catedrática, el sistema mexicano refleja una <strong>dicotomía</strong> entre meritocracia y desigualdad social. Aunque el examen busca seleccionar a los estudiantes más preparados, también favorece a quienes pueden pagar cursos de preparación o provienen de contextos educativos <strong>privilegiados</strong>. \"El examen de admisión también es un filtro vinculado con el origen y la clase social\", sostiene. Factores como la alimentación, el tiempo disponible para estudiar, la violencia en el entorno o la necesidad de trabajar, influyen directamente en el rendimiento académico. \"Las Universidades fueron pensadas para juventudes de clase media\", afirma Romo. En cambio, muchos estudiantes procedentes de zonas periféricas o familias trabajadoras llegan al examen en condiciones muy diferentes.",
+      "zh": "在这位学者看来，墨西哥的制度折射出精英选拔与社会不平等之间的二元对立。尽管考试旨在选拔最优秀的学生，但它同样有利于那些能够支付备考课程费用、或来自优越教育环境的学生。她指出：『入学考试同样是一个与出身和社会阶层挂钩的筛选机制。』饮食条件、可用于学习的时间、周边环境的暴力问题或是否需要打工谋生等因素，都直接影响学业表现。罗莫表示：『大学本是为中产阶级青年设计的。』相比之下，许多来自边缘地区或工薪家庭的学生，在截然不同的条件下走进考场。",
+      "vocab": [
+        {
+          "word": "dicotomía",
+          "translation": "二元对立、两分法",
+          "note": "dicotomía 是学术和新闻评论中的高频词，指两种截然对立的概念或现象，常见搭配为 dicotomía entre A y B，词根 dicho- 来自希腊语，表『一分为二』。"
+        },
+        {
+          "word": "privilegiados",
+          "translation": "享有特权的、优越的",
+          "note": "privilegiado/a 在社会议题报道中常指『在教育、经济或社会资源上占有优势的群体』，语气带有批判性，与 desfavorecido（弱势的）形成对比，是社会科学类文章的核心词汇。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "En algunos países de América Latina, como Chile, Brasil y Colombia, el Estado aplica una única prueba masiva que otorga una puntuación válida para <strong>postular</strong> a la mayoría de las universidades públicas y privadas. En Chile, la Prueba de Acceso a la Educación Superior (PAES) evalúa competencias en lenguaje o matemáticas. El puntaje se calcula con las notas de la enseñanza media (NEM) y, para postular, los estudiantes deben inscribirse en el portal del Departamento de Evaluación, Medición y Registro Educacional (Demre). Este organismo de la Universidad de Chile es el encargado de administrar el sistema de acceso centralizado a la educación superior en el país y está integrado por todas las universidades del Consejo de Rectores de las Universidades Chilenas (CRUCH) y un conjunto de universidades privadas que se han <strong>adscrito</strong> al Sistema de Acceso.",
+      "zh": "在智利、巴西和哥伦比亚等部分拉丁美洲国家，政府实施一场大规模的统一考试，所获分数可用于申请绝大多数公立和私立大学。在智利，高等教育入学考试（PAES）评估语言或数学能力，最终分数综合中学阶段成绩（NEM）计算得出。申请时，学生须在教育评估、测量与注册部（Demre）的门户网站上完成注册。这一隶属于智利大学的机构负责管理全国高等教育集中入学系统，成员涵盖智利大学校长委员会（CRUCH）旗下所有大学，以及一批已加入该入学系统的私立大学。",
+      "vocab": [
+        {
+          "word": "postular",
+          "translation": "申请、报考",
+          "note": "postular 在拉丁美洲西语中是『申请（职位或学校）』的常用词，相当于西班牙的 solicitar；在政治语境中还可表『提名候选人』，是典型的地区用法差异词。"
+        },
+        {
+          "word": "adscrito",
+          "translation": "加入的、附属的、纳入的",
+          "note": "adscrito 是 adscribir 的过去分词，表示正式加入或归属于某一体系，常见于行政和教育语境，如 adscrito a un sistema（纳入某体系）、adscrito a un departamento（隶属某部门）。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Algo parecido sucede en Brasil. En el Examen Nacional del Ensino Médio (ENEM) se evalúa el rendimiento académico de los estudiantes al finalizar la educación básica. Se creó en 1998 y puede participar cualquier persona que haya completado la secundaria. Quienes aún no hayan finalizado la secundaria, pueden participar como examinadores de práctica y sus resultados sirven únicamente para tener una referencia. En Argentina, las universidades nacionales son gratuitas y no cuentan con un examen de selección <strong>eliminatorio</strong>. Azul Katz, profesora adjunta de Estética en Filosofía en la Universidad de Buenos Aires (UBA), explica que el sistema universitario se distingue por ese ingreso <strong>irrestricto</strong>. \"El único requisito es tener el título secundario\", resume.",
+      "zh": "巴西的情况与此类似。全国高中毕业考试（ENEM）评估学生完成基础教育阶段的学业水平，创立于1998年，任何完成中学学业的人均可参加。尚未完成中学学业者可作为练习考生参加，其成绩仅供个人参考。在阿根廷，国立大学免费且不设淘汰性选拔考试。布宜诺斯艾利斯大学（UBA）哲学系美学专业副教授阿苏尔·卡茨解释说，该大学体系的显著特点正是这种不设限制的入学制度。她总结道：『唯一的要求就是持有中学毕业证书。』",
+      "vocab": [
+        {
+          "word": "eliminatorio",
+          "translation": "淘汰性的、筛选性的",
+          "note": "eliminatorio/a 来自 eliminar（淘汰、排除），后缀 -torio 表『具有……功能的』，同类构词有 clasificatorio（资格赛的）、preparatorio（预备性的），常用于体育和教育语境。"
+        },
+        {
+          "word": "irrestricto",
+          "translation": "不受限制的、无门槛的",
+          "note": "前缀 ir-（即 in- 的变体）表否定，restringir 意为『限制』，irrestricto 即『不受任何限制的』，是拉丁美洲教育政策讨论中的关键词，西班牙本土更常用 sin restricciones。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Según detalla, el sistema actual se apoya en la Ley de Educación Superior de 1995, reforzada posteriormente en 2015 para garantizar que los cursos de ingreso \"no puedan ser excluyentes\". En la práctica, muchas universidades poseen sistemas introductorios obligatorios. El caso más conocido es el CBC (Ciclo Básico Común) de la Universidad de Buenos Aires. \"Uno termina el secundario, se anota en el CBC y, después de terminar el CBC, se anota a la carrera universitaria\", explica Katz. La académica subraya que estos programas surgieron con la intención de <strong>nivelar</strong> desigualdades educativas entre estudiantes. Sin embargo, también reconoce las limitaciones del modelo. \"El ingreso es muy alto, pero la tasa de <strong>egreso</strong> es muy baja\", señala. Según explica, muchos abandonan las carreras, especialmente los de sectores socioeconómicos vulnerables. \"El sistema acerca la universidad a sectores populares, pero eso no significa necesariamente que logre graduarlos\", añade.",
+      "zh": "她详细介绍说，现行制度以1995年颁布的《高等教育法》为依托，该法于2015年进一步修订，以确保入学课程『不得具有排他性』。在实践中，许多大学设有强制性的入学预备课程。其中最广为人知的是布宜诺斯艾利斯大学的公共基础课程（CBC）。卡茨解释说：『学生完成中学学业后，报名参加CBC，CBC结束后再报名进入大学专业学习。』这位学者强调，这些课程的初衷是弥平学生之间的教育差距。然而，她也承认这一模式存在局限性。她指出：『入学率很高，但毕业率却很低。』她解释说，许多学生中途放弃，尤其是来自社会经济弱势群体的学生。她补充道：『这一制度让大学向平民阶层敞开了大门，但这并不意味着它一定能让他们顺利毕业。』",
+      "vocab": [
+        {
+          "word": "nivelar",
+          "translation": "拉平、均衡、消除差距",
+          "note": "nivelar 来自 nivel（水平、层次），后缀 -ar 构成动词，表『使达到同一水平』，常见于教育和社会政策语境，如 nivelar desigualdades（弥合不平等）、nivelar conocimientos（补齐知识差距）。"
+        },
+        {
+          "word": "egreso",
+          "translation": "毕业、结业",
+          "note": "egreso 是拉丁美洲西语中『毕业』的常用词，对应动词 egresar；在西班牙本土更常说 graduación 或 titulación。注意 egreso 在财务语境中还表『支出』，是一词多义词。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Katz considera que el modelo enfrenta desafíos importantes. Uno de ellos es la duración de las carreras, que suelen extenderse mucho más que en Europa. \"Una persona entra con 18 años y termina una carrera a los 27. Eso hace muy difícil <strong>sostener</strong> los estudios, sobre todo para quienes necesitan trabajar\", afirma. La catedrática también sitúa el debate universitario dentro del contexto político argentino actual. Defiende la necesidad de reformar el sistema sin abandonar su <strong>vocación</strong> inclusiva. \"Las críticas hay que hacerlas a favor del sistema y no en contra. El objetivo de acercar la universidad a quienes históricamente estaban excluidos sigue siendo valioso\", concluye Katz.",
+      "zh": "卡茨认为，这一模式面临重大挑战。其中之一是学制过长，通常远超欧洲。她表示：『一个人18岁入学，27岁才完成学业。这让坚持学业变得非常困难，尤其是对那些需要工作的人而言。』这位学者还将大学问题置于当前阿根廷政治背景下加以审视。她主张在不放弃包容性初衷的前提下推进制度改革。卡茨最后总结道：『批评应当是为了支持这个制度，而不是反对它。让历史上被排斥在外的人走进大学，这一目标至今仍有其价值。』",
+      "vocab": [
+        {
+          "word": "sostener",
+          "translation": "维持、坚持、支撑",
+          "note": "sostener 是一词多义动词：可表『支撑物体』、『维持某种状态』（sostener los estudios）、『坚持某种观点』（sostener una teoría），在不同语境中需灵活判断，不要只记一个义项。"
+        },
+        {
+          "word": "vocación",
+          "translation": "使命、志向；（机构的）宗旨",
+          "note": "vocación 本指个人的『职业使命感』，在此引申为某一制度或机构的『核心宗旨与价值取向』，如 vocación inclusiva（包容性使命），是政策讨论中的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "En China o Corea del Sur, el examen de admisión se rige bajo un modelo que <strong>empuja</strong> al alumno hasta el límite. En China, el Gaokao (Examen de Admisión a la Universidad Nacional) evalúa asignaturas básicas (Chino, Matemáticas e Inglés) más otras optativas de ciencias o letras. La importancia de la prueba es tal que varias ciudades se <strong>paralizan</strong> durante los dos días que dura. Los puntajes del Gaokao determinan si el aspirante ingresa a una universidad de élite o a instituciones técnicas. Gran parte de la vida escolar de los adolescentes chinos se enfoca en estudiar para esta prueba. En Corea del Sur funciona el Suneung, una prueba <strong>maratónica</strong> de ocho horas. Durante ese día, el país se detiene. Las empresas retrasan la entrada de sus trabajadores para no interrumpir a los candidatos y el tráfico cerca de los centros educativos se limita.",
+      "zh": "在中国和韩国，大学入学考试遵循一种将学生逼至极限的模式。在中国，高考（全国大学入学考试）考核语文、数学、英语等基础科目，以及文科或理科选考科目。这场考试的重要性不言而喻，多个城市在两天考试期间几乎陷入停摆。高考分数决定着考生能否进入精英大学，还是只能就读技术类院校。中国青少年的大部分学校生活都围绕备考展开。在韩国，则有长达八小时的『马拉松式』考试——修能考试（Suneung）。考试当天，整个国家为之暂停运转：企业推迟员工上班时间，以免干扰考生；考场附近的交通也受到管制。",
+      "vocab": [
+        {
+          "word": "empuja",
+          "translation": "推动、逼迫、施压",
+          "note": "empujar 本义为『推』，引申为『施压、驱使某人做某事』，在此语境中含有强迫至极限的负面意味，常见搭配有 empujar a alguien a hacer algo（逼迫某人做某事）。"
+        },
+        {
+          "word": "paralizan",
+          "translation": "使瘫痪、使停摆",
+          "note": "paralizar 来自 parálisis（瘫痪），后缀 -izar 表『使……化』，在新闻中常用于描述城市、交通或经济活动因某事件而陷入停滞，如 paralizar el tráfico、paralizar la economía。"
+        },
+        {
+          "word": "maratónica",
+          "translation": "马拉松式的、极其漫长的",
+          "note": "maratónico/a 来自 maratón（马拉松），在新闻中作形容词表『持续时间极长、令人精疲力竭的』，如 sesión maratónica（马拉松式会议）、jornada maratónica（漫长的一天），是生动的比喻性形容词。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "hasta el límite",
+      "type": "expresión coloquial",
+      "translation": "到极限、逼到边缘",
+      "usage": "用于强调某人或某事被推到了承受能力的最大边界，语气强烈，常用于描述高压环境或极端状态。",
+      "exampleEs": "Los estudiantes chinos estudian hasta el límite para aprobar el Gaokao.",
+      "exampleZh": "中国学生为了通过高考，把自己逼到了极限。"
+    },
+    {
+      "expression": "a partir de ahí",
+      "type": "expresión coloquial",
+      "translation": "从那时起、在此基础上",
+      "usage": "用于口语和书面语中，表示以某个条件或时间点为起点，后续事情随之展开，是衔接逻辑的常用过渡表达。",
+      "exampleEs": "Aprobó el examen de ingreso y, a partir de ahí, todo fue más fácil.",
+      "exampleZh": "他通过了入学考试，从那以后，一切都顺利多了。"
+    },
+    {
+      "expression": "acercar la universidad a sectores populares",
+      "type": "modismo",
+      "translation": "让大学走近平民阶层",
+      "usage": "这是拉丁美洲教育政策讨论中的固定表达，字面上是『拉近大学与平民的距离』，实际含义是降低高等教育门槛、推动教育公平，常出现在社会议题报道中。",
+      "exampleEs": "El gobierno lanzó nuevas becas para acercar la universidad a sectores populares.",
+      "exampleZh": "政府推出新奖学金计划，旨在让高等教育惠及更广泛的平民阶层。"
+    },
+    {
+      "expression": "el país se detiene",
+      "type": "modismo",
+      "translation": "全国为之停摆",
+      "usage": "字面意思是『国家停下来了』，实际用于夸张地描述某一重大事件受到全社会高度关注、日常运转为之暂停的状态，常见于体育赛事或重要考试的报道中。",
+      "exampleEs": "Durante la final del Mundial, el país se detiene y todos miran el partido.",
+      "exampleZh": "世界杯决赛期间，全国为之停摆，所有人都守在电视机前看球。"
+    }
+  ]
+}
