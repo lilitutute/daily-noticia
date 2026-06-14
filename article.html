@@ -11,99 +11,100 @@
 
 <script>
 const params = new URLSearchParams(location.search);
-const src = params.get('src');
-if (!src) {
-  document.getElementById('app').textContent = '未指定文章来源（?src=xxx.json）';
-} else {
-  fetch(src)
-    .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
-    .then(render)
-    .catch(e => { document.getElementById('app').textContent = '加载失败：' + e.message; });
-}
+const file   = params.get("article") || "articles/sample.json";
+
+fetch(file)
+  .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+  .then(render)
+  .catch(e => {
+    document.getElementById("app").innerHTML =
+      `<p style="color:red">加载失败：${e.message}（检查文件路径或 JSON 格式）</p>`;
+  });
 
 function render(d) {
-  const slangs = Array.isArray(d.slangExpressions) ? d.slangExpressions : [];
-  const showSlang = slangs.length >= 2;
-
-  const slangHTML = showSlang ? `
-    <div class="slang-block">
-      <div class="slang-header">
-        <span class="slang-icon">🗣️</span>
-        <span class="slang-title">俗语 · 俚语 · 谚语</span>
-      </div>
-      <div class="slang-list">
-        ${slangs.map((s, index) => `
-          <div class="slang-item">
-            <div class="slang-top">
-              <span class="slang-index">${index + 1}</span>
-              <span class="slang-expression">${s.expression}</span>
-            </div>
-            <div class="slang-translation">${s.translation}</div>
-            <div class="slang-usage">${s.usage}</div>
-            ${(s.exampleEs || s.exampleZh) ? `
-              <div class="slang-example">
-                <span class="slang-example-label">例：</span>
-                ${s.exampleEs ? `<div class="slang-example-es">${s.exampleEs}</div>` : ''}
-                ${s.exampleZh ? `<div class="slang-example-zh">${s.exampleZh}</div>` : ''}
-              </div>` : ''}
-          </div>
-        `).join('')}
-      </div>
-    </div>` : '';
-
-  const parasHTML = (d.paragraphs || []).map(p => {
-    const vocabHTML = (p.vocab || []).map(v => `
+  /* ── 段落 ── */
+  const paras = (d.paragraphs || []).map(p => {
+    const vocabCards = (p.vocab || []).map(v => `
       <div class="vocab-item">
         <span class="vocab-word">${v.word}</span>
         <span class="vocab-trans">${v.translation}</span>
-        ${v.note ? `<div class="vocab-note">${v.note}</div>` : ''}
-      </div>
-    `).join('');
+        ${v.note ? `<div class="vocab-note">${v.note}</div>` : ""}
+      </div>`).join("");
 
     return `
-      <div class="paragraph-block">
-        <div class="para-main">
-          <span class="para-num">${p.id}</span>
-          <div class="para-es">${p.es}</div>
-          <div class="para-zh">${p.zh}</div>
-        </div>
-        <div class="para-vocab">${vocabHTML}</div>
+    <div class="paragraph-block">
+      <div class="para-left">
+        <div><span class="para-num">${p.id}</span></div>
+        <p class="para-es">${p.es}</p>
+        <div class="para-zh">${p.zh}</div>
       </div>
-    `;
-  }).join('');
+      <div class="para-vocab">${vocabCards}</div>
+    </div>`;
+  }).join("");
 
-  document.getElementById('app').innerHTML = `
+  /* ── 俗语俚语 ── */
+  const slangs = d.slangExpressions || [];
+  let slangBlock = "";
+  if (slangs.length >= 2) {
+    const items = slangs.map((s, i) => {
+      const exampleHtml = (s.exampleEs || s.exampleZh) ? `
+        <div class="slang-example">
+          <span class="slang-example-label">例：</span>
+          ${s.exampleEs ? `<div class="slang-example-es">${s.exampleEs}</div>` : ""}
+          ${s.exampleZh ? `<div class="slang-example-zh">${s.exampleZh}</div>` : ""}
+        </div>` : "";
+
+      return `
+      <div class="slang-item">
+        <div class="slang-top">
+          <span class="slang-index">${i + 1}</span>
+          <span class="slang-expression">${s.expression}</span>
+        </div>
+        <div class="slang-translation">${s.translation}</div>
+        ${s.usage ? `<div class="slang-usage">${s.usage}</div>` : ""}
+        ${exampleHtml}
+      </div>`;
+    }).join("");
+
+    slangBlock = `
+    <div class="slang-block">
+      <div class="slang-header">
+        <span class="slang-icon">💬</span>
+        <span class="slang-title">俗语 · 俚语 · 谚语</span>
+      </div>
+      <div class="slang-list">${items}</div>
+    </div>`;
+  }
+
+  /* ── 整体拼装 ── */
+  document.getElementById("app").innerHTML = `
     <div class="header-meta">
-      <span class="header-date">${d.date || ''}</span>
+      <span class="header-date">${d.date || ""}</span>
       <div class="header-right">
-        <span class="brand-tag">${d.brand || ''}</span>
-        ${d.category ? `<span class="tag">${d.category}</span>` : ''}
-        ${d.difficulty ? `<span class="tag">${d.difficulty}</span>` : ''}
-        ${d.wordCount ? `<span class="tag">${d.wordCount}</span>` : ''}
+        <span class="brand-tag">${d.brand || ""}</span>
+        ${d.category   ? `<span class="tag">${d.category}</span>`   : ""}
+        ${d.difficulty ? `<span class="tag">${d.difficulty}</span>` : ""}
+        ${d.wordCount  ? `<span class="tag">${d.wordCount}</span>`  : ""}
       </div>
     </div>
 
     <div class="article-header">
-      <div class="article-title">${d.title || ''}</div>
-      ${d.subtitle ? `<div class="article-subtitle">${d.subtitle}</div>` : ''}
-      ${d.source ? `<div class="article-source">${d.source}</div>` : ''}
+      <h1 class="article-title">${d.title || ""}</h1>
+      ${d.subtitle ? `<div class="article-subtitle">${d.subtitle}</div>` : ""}
+      ${d.source   ? `<div class="article-source">${d.source}</div>`   : ""}
     </div>
 
     ${(d.resumenEs || d.resumenZh) ? `
     <div class="resumen-block">
-      <span class="resumen-label">摘要 Resumen</span>
-      ${d.resumenEs ? `<div class="resumen-es">${d.resumenEs}</div>` : ''}
-      ${d.resumenZh ? `<div class="resumen-zh">${d.resumenZh}</div>` : ''}
-    </div>` : ''}
+      <span class="resumen-label">摘要</span>
+      ${d.resumenEs ? `<div class="resumen-es">${d.resumenEs}</div>` : ""}
+      ${d.resumenZh ? `<div class="resumen-zh">${d.resumenZh}</div>` : ""}
+    </div>` : ""}
 
     <hr class="divider" />
-
-    ${parasHTML}
-
-    ${slangHTML}
+    ${paras}
+    ${slangBlock}
   `;
-
-  document.title = d.title || '西语外刊阅读';
 }
 </script>
 </body>
