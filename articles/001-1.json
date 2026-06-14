@@ -1,255 +1,240 @@
-
+```json
 {
   "date": "西语外刊阅读",
   "brand": "公众号【西语SuperO】",
-  "category": "科技与文化",
+  "category": "科技与音乐",
   "difficulty": "B2",
   "wordCount": "约900词",
   "title": "La amenaza fantasma: la IA inunda las plataformas de música 'fake'",
-  "subtitle": "幽灵威胁：人工智能正在淹没虚假音乐平台",
-  "resumenEs": "La inteligencia artificial está inundando plataformas de streaming como Spotify o Deezer con millones de canciones falsas, imitando a artistas reales y generando un fraude sistemático. Deezer recibe ya más de 75.000 canciones IA al día, y el 97% de sus usuarios no logra distinguirlas de la música real. Músicos, asociaciones y organismos de gestión de derechos reclaman regulación urgente para proteger la identidad y los derechos de los artistas.",
-  "resumenZh": "人工智能正在用数百万首虚假歌曲淹没Spotify、Deezer等流媒体平台，模仿真实艺术家并制造系统性欺诈。Deezer每天已收到超过7.5万首AI生成歌曲，且97%的用户无法将其与真实音乐区分。音乐人、行业协会及版权管理机构纷纷呼吁出台紧急监管措施，以保护艺术家的身份认同与合法权益。",
+  "subtitle": "幽灵威胁：人工智能正在用假音乐淹没流媒体平台",
+  "resumenEs": "La inteligencia artificial está inundando las plataformas de streaming con millones de canciones falsas que imitan a artistas reales. Deezer alerta de que el 44% de sus subidas diarias ya son generadas por IA y el 97% de los usuarios no distingue la música falsa de la real. Músicos, asociaciones y entidades de gestión de derechos reclaman regulación urgente para proteger la identidad y los derechos de los artistas.",
+  "resumenZh": "人工智能正在用数百万首假歌曲淹没流媒体平台，模仿真实艺术家的风格与声音。Deezer警告称，其每日上传内容中已有44%由AI生成，且97%的用户无法区分真假音乐。音乐人、行业协会及版权管理机构纷纷呼吁出台紧急监管措施，以保护艺术家的身份认同与合法权益。",
   "paragraphs": [
     {
       "id": 1,
-      "es": "Nirvana solo grabó tres discos oficiales en estudio y dejó de existir el día que se suicidó Kurt Cobain, el 5 de abril de 1994. Por eso en 2021 fue una novedad casi chistosa escuchar Drowned In The Sun, una nueva —y malísima— canción de Nirvana creada por IA. Ahora las sonrisas se han congelado, porque sobre el paisaje musical se percibe una <strong>atmósfera fantasmagórica</strong>, donde lo no humano empieza a ser común. En Navidades, A sina de Ofélia, la versión IA en brasileño de la canción The Fate of Ophelia, de Taylor Swift, tenía más descargas que su original (Swift ha solicitado el registro de su voz y su imagen como marca para <strong>protegerse de</strong> la IA); a mediados de abril, Celebrate Me, una canción generada por IA, alcanzó el puesto número uno global en iTunes; a finales del mismo mes, al buscar en YouTube, I Never Loved a Man (The Way I Love You), una canción de Aretha Franklin, se <strong>tropieza con</strong> una grabación titulada 60's soul (Unreleased album), pero al pincharla lo que se escucha es tan falso y falto de alma que dan ganas de quemar el móvil.",
-      "zh": "Nirvana只录制了三张正式录音室专辑，乐队在科特·柯本于1994年4月5日自杀当天便宣告解散。因此，2021年听到《Drowned In The Sun》这首由AI创作的全新——且极其糟糕的——Nirvana新歌，不过是个近乎可笑的新鲜事。如今笑容已经凝固，因为整个音乐版图上弥漫着一种幽灵般的氛围，非人类创作正逐渐变得司空见惯。圣诞节期间，泰勒·斯威夫特歌曲《The Fate of Ophelia》的AI巴西葡语版《A sina de Ofélia》下载量超过了原版（斯威夫特已申请将其声音和形象注册为商标，以防范AI侵权）；四月中旬，一首AI生成的歌曲《Celebrate Me》登顶iTunes全球榜首；同月下旬，在YouTube上搜索艾瑞莎·富兰克林的歌曲《I Never Loved a Man (The Way I Love You)》时，会偶然发现一张名为《60's soul（未发行专辑）》的录音，但点开一听，那声音如此虚假、毫无灵魂，让人恨不得把手机砸烂。",
+      "es": "Nirvana solo grabó tres discos oficiales en estudio y dejó de existir el día que se suicidó Kurt Cobain, el 5 de abril de 1994. Por eso en 2021 fue una novedad casi chistosa escuchar Drowned In The Sun, una nueva —y malísima— canción de Nirvana creada por IA. Ahora las sonrisas se han congelado, porque sobre el paisaje musical se percibe una <strong>atmósfera fantasmagórica</strong>, donde lo no humano empieza a ser común. En Navidades, A sina de Ofélia, la versión IA en brasileño de la canción The Fate of Ophelia, de Taylor Swift, tenía más descargas que su original (Swift ha solicitado el <strong>registro</strong> de su voz y su imagen como marca para protegerse de la IA); a mediados de abril, Celebrate Me, una canción generada por IA, alcanzó el puesto número uno global en iTunes; a finales del mismo mes, al buscar en YouTube, I Never Loved a Man (The Way I Love You), una canción de Aretha Franklin, se <strong>tropieza</strong> con una grabación titulada 60's soul (Unreleased album), pero al pincharla lo que se escucha es tan falso y falto de alma que dan ganas de quemar el móvil.",
+      "zh": "涅槃乐队只录制了三张正式录音室专辑，在科特·柯本于1994年4月5日自杀身亡后便宣告解散。因此，2021年听到由AI创作的涅槃新歌《Drowned In The Sun》——而且极其糟糕——还算是个近乎好笑的新鲜事。如今笑容已经凝固，因为整个音乐版图上弥漫着一股阴森的气息，非人类创作开始变得司空见惯。圣诞节期间，泰勒·斯威夫特歌曲《The Fate of Ophelia》的AI葡萄牙语版《A sina de Ofélia》下载量超过了原版（斯威夫特已申请将其声音和形象注册为商标，以防范AI侵权）；四月中旬，一首AI生成的歌曲《Celebrate Me》登上了iTunes全球榜首；同月下旬，在YouTube上搜索阿雷莎·富兰克林的歌曲《I Never Loved a Man (The Way I Love You)》时，会碰到一个名为《60年代灵魂乐（未发行专辑）》的录音，但点开一听，那声音是如此虚假、如此毫无灵魂，让人恨不得把手机摔了。",
       "vocab": [
         {
           "word": "atmósfera fantasmagórica",
-          "translation": "幽灵般的氛围",
-          "note": "fantasmagórico/a 是形容词，意为『幽灵般的、虚幻的』，常用于文学或新闻中营造不安氛围，注意与 fantástico（奇幻的）区分，后者含有积极色彩。"
+          "translation": "阴森的/幽灵般的氛围",
+          "note": "fantasmagórico 由 fantasma（幽灵）派生而来，后缀 -górico 构成形容词，同族词还有 fantasmal。在新闻文体中常用于营造不安或超现实的氛围。"
         },
         {
-          "word": "protegerse de",
-          "translation": "保护自己免受……侵害",
-          "note": "protegerse de 是固定搭配，介词用 de，表示防范某种威胁或危险，如 protegerse del sol、protegerse de los virus。"
+          "word": "registro",
+          "translation": "注册；登记",
+          "note": "一词多义：可指『注册/登记』（如商标注册），也可指『音域』（音乐）或『语体风格』（语言学），需根据语境判断。"
         },
         {
-          "word": "tropieza con",
-          "translation": "偶然碰到、撞见",
-          "note": "tropezar con 除字面意思『绊倒』外，还有『偶然遇到/发现』的引申义，是新闻和叙事文体中常见的一词多义用法。"
+          "word": "tropieza",
+          "translation": "偶然碰到；撞见",
+          "note": "tropezar con 是固定搭配，意为『偶然遇到/碰上』，不含主动寻找之意，与 encontrar 相比更强调意外性。"
         }
       ]
     },
     {
       "id": 2,
-      "es": "La <strong>irrupción</strong> de la IA está llenando los servicios de streaming, como YouTube Music, Spotify, Amazon Music, Tidal o Deezer, de artistas y de canciones fake, un movimiento sísmico que está <strong>derivando en</strong> un torrente de \"mierdificación\", expresión del ensayista Cory Doctorow, que <strong>amenaza</strong> el ecosistema musical.",
-      "zh": "AI的强势闯入正在用虚假艺术家和虚假歌曲填满YouTube Music、Spotify、Amazon Music、Tidal、Deezer等流媒体服务——这场如地震般的运动正在演变为评论家科里·多克托罗所称的「劣质化」浪潮，威胁着整个音乐生态系统。",
+      "es": "La <strong>irrupción</strong> de la IA está llenando los servicios de streaming, como YouTube Music, Spotify, Amazon Music, Tidal o Deezer, de artistas y de canciones fake, un movimiento sísmico que está <strong>derivando en</strong> un torrente de \"mierdificación\", expresión del ensayista Cory Doctorow, que amenaza el ecosistema musical.",
+      "zh": "AI的强势闯入正在用假艺术家和假歌曲填满各大流媒体平台，如YouTube Music、Spotify、Amazon Music、Tidal和Deezer，这场如地震般的运动正在演变为一股『烂化』浪潮——这是评论家科里·多克托罗的用语——威胁着整个音乐生态系统。",
       "vocab": [
         {
           "word": "irrupción",
-          "translation": "强势闯入、突然涌入",
-          "note": "irrupción 强调突然性和冲击性，常用于新闻中描述新事物或势力的强势介入，如 la irrupción de las redes sociales，比 llegada（到来）语气更强烈。"
+          "translation": "强势闯入；突然涌现",
+          "note": "irrupción 含有『突然、强行进入』的意味，比 llegada（到来）语气更强烈，新闻中常用于描述某事物对某领域的冲击性介入。"
         },
         {
           "word": "derivando en",
-          "translation": "演变为、导致",
-          "note": "derivar en 是固定搭配，表示某事态逐渐演变或发展成另一种结果，强调过程的渐进性，常见于新闻分析文体。"
-        },
-        {
-          "word": "amenaza",
-          "translation": "威胁",
-          "note": "amenazar 作动词时直接接宾语（amenaza el ecosistema），也可接 con + 动词原形表示『扬言要做某事』，如 amenazó con dimitir。"
+          "translation": "演变为；导致",
+          "note": "derivar en 是重要固定搭配，表示『逐渐演变/发展成为某种结果』，常用于描述负面趋势，比 convertirse en 更强调过程的渐进性。"
         }
       ]
     },
     {
       "id": 3,
-      "es": "La plataforma francesa Deezer ha sido de las primeras en <strong>dar la voz de alarma</strong>. En enero de 2025 recibía cada día 10.000 canciones con IA, y en abril de este año la cifra supera las 75.000. Eso son más de dos millones de canciones con IA mensuales, que representan el 44% de sus subidas totales diarias. Y hay más. Una encuesta entre sus usuarios reveló que el 97% no era capaz de distinguir entre música 100% fake y música compuesta por personas.",
-      "zh": "法国平台Deezer是最早发出警报的平台之一。2025年1月，该平台每天收到1万首AI生成歌曲，而今年4月这一数字已超过7.5万首。这意味着每月超过200万首AI歌曲，占其每日总上传量的44%。还不止于此——一项针对用户的调查显示，97%的用户无法区分100%虚假的音乐与真人创作的音乐。",
+      "es": "La plataforma francesa Deezer ha sido de las primeras en <strong>dar la voz de alarma</strong>. En enero de 2025 recibía cada día 10.000 canciones con IA, y en abril de este año la cifra supera las 75.000. Eso son más de dos millones de canciones con IA mensuales, que representan el 44% de sus subidas totales diarias. Y hay más. Una <strong>encuesta</strong> entre sus usuarios reveló que el 97% no era capaz de distinguir entre música 100% fake y música compuesta por personas.",
+      "zh": "法国平台Deezer是最早发出警报的平台之一。2025年1月，它每天收到1万首AI歌曲，而今年4月这一数字已超过7.5万首。这意味着每月超过200万首AI歌曲，占其每日总上传量的44%。还不止于此：一项针对其用户的调查显示，97%的用户无法区分100%的假音乐与真人创作的音乐。",
       "vocab": [
         {
           "word": "dar la voz de alarma",
-          "translation": "发出警报、敲响警钟",
-          "note": "dar la voz de alarma 是固定惯用语，意为率先提出警告，常见于新闻报道，类似表达还有 dar la señal de alerta。"
+          "translation": "发出警报；敲响警钟",
+          "note": "固定惯用语，字面意为『发出警报的声音』，实际用于表达『率先提出警告』，新闻中高频出现，语气正式。"
         },
         {
-          "word": "distinguir entre",
-          "translation": "区分……与……",
-          "note": "distinguir entre A y B 是固定搭配，表示辨别两者差异，注意介词用 entre，不要误用 distinguir de。"
+          "word": "encuesta",
+          "translation": "调查；问卷调查",
+          "note": "encuesta 特指通过问卷或访谈收集意见的『民调/调查』，与 investigación（研究调查）不同，后者更偏向学术或深度研究。"
         }
       ]
     },
     {
       "id": 4,
       "es": "\"La música generada por IA ya no es un fenómeno <strong>marginal</strong> y, a medida que las entregas diarias siguen aumentando, esperamos que todo el ecosistema musical se una a nosotros para tomar medidas que ayuden a <strong>salvaguardar</strong> los derechos de los artistas y promover la transparencia para los fans\", reclamó a finales del mes pasado Alexis Lanternier, director ejecutivo de Deezer (la plataforma ha optado por etiquetar y distinguir claramente las canciones hechas por humanos de las generadas por IA).",
-      "zh": "「AI生成音乐已不再是边缘现象，随着每日上传量持续攀升，我们希望整个音乐生态系统与我们携手采取措施，帮助维护艺术家权益、提升对歌迷的透明度，」Deezer首席执行官亚历克西斯·朗特尼耶上月底如此呼吁。（该平台已选择对人类创作与AI生成的歌曲进行明确标注和区分。）",
+      "zh": "『AI生成的音乐已不再是边缘现象，随着每日上传量持续增长，我们希望整个音乐生态系统与我们携手采取措施，帮助保障艺术家的权益，并为粉丝提供更多透明度。』Deezer首席执行官亚历克西斯·朗特尼耶上月底如此呼吁道。（该平台已选择对歌曲进行标注，明确区分人类创作与AI生成的内容。）",
       "vocab": [
         {
           "word": "marginal",
-          "translation": "边缘的、次要的",
-          "note": "marginal 在西语中有『边缘化的、微不足道的』之意，与英语 marginal 含义相近，但在社会议题中还常指『被社会排斥的群体』，属于一词多义。"
+          "translation": "边缘的；次要的",
+          "note": "假朋友警示：marginal 在西语中主要意为『边缘的、微不足道的』，与英语 marginal 含义相近，但中文学习者容易误解为『利润率』（那是 margen de beneficio）。"
         },
         {
           "word": "salvaguardar",
-          "translation": "维护、保障",
-          "note": "salvaguardar 由 salva（保护）+ guardar（守护）构成，是正式文体中常见词，比 proteger 语气更正式，多用于法律、权利类语境。"
+          "translation": "保障；维护；捍卫",
+          "note": "由 salva-（保护）+ guardar（守护）构成，是正式文体和新闻中的高频词，常搭配 derechos（权利）、intereses（利益）等名词使用。"
         }
       ]
     },
     {
       "id": 5,
       "es": "Jorge Rossy, batería de jazz español de talla internacional —tocó con Wayne Shorter—, sufre el síndrome del impostor digital <strong>en carne propia</strong>. Hace poco le llamó un amigo y le dijo: \"Que sepas que he visto que tienes un fake\". Al ir a mirarlo, Rossy comprobó en varias plataformas cómo su espacio personal incluía canciones hechas por IA sin que él tuviera nada que ver con ellas. \"Pura porquería\", dice en conversación telefónica.",
-      "zh": "西班牙国际级爵士鼓手豪尔赫·罗西——曾与韦恩·肖特合作——亲身经历了数字冒名顶替综合症。不久前，一位朋友打电话告诉他：「你要知道，我看到有人冒充你发了假歌。」罗西随即去查看，发现在多个平台上，他的个人主页里出现了AI生成的歌曲，而他与这些歌曲毫无关系。「纯粹是垃圾，」他在电话采访中说道。",
+      "zh": "西班牙爵士鼓手豪尔赫·罗西是国际级别的演奏家——曾与韦恩·肖特同台演出——他亲身经历了数字冒名顶替综合症。不久前，一位朋友打电话告诉他：『你知道吗，我看到有人在冒充你。』罗西去查看后，在多个平台上发现自己的个人主页中出现了AI创作的歌曲，而他与这些歌曲毫无关系。『纯粹是垃圾，』他在电话采访中说道。",
       "vocab": [
         {
           "word": "en carne propia",
-          "translation": "亲身经历、切身体会",
-          "note": "en carne propia 是固定惯用语，字面意为『在自己的肉身上』，表示亲身经历某种（通常是负面的）事情，类似中文『切肤之痛』。"
+          "translation": "亲身；切身地",
+          "note": "固定惯用语，字面意为『在自己的肉身上』，实际表示『亲身经历、切身体会』，常与 sufrir、vivir、experimentar 等动词搭配。"
         },
         {
-          "word": "tener nada que ver con",
-          "translation": "与……毫无关系",
-          "note": "no tener nada que ver con 是高频固定搭配，表示与某事完全无关，口语和书面语均常用，注意不要逐字对应英语 have nothing to do with 而忽略其固定性。"
+          "word": "porquería",
+          "translation": "垃圾；破烂；糟糕的东西",
+          "note": "口语色彩强烈的贬义词，由 puerco（猪）派生而来，语气比 basura 更粗俗直接，常用于表达强烈不满。"
         }
       ]
     },
     {
       "id": 6,
-      "es": "Rossy no anda muy animado. Es normal. Los que viven la música como una parte <strong>inherente</strong> de sus vidas observan cómo crece un sistema de explotación comercial digital que muchas veces <strong>invisibiliza</strong>, copia y trolea a los músicos, priorizando en cambio las sensaciones y los estados de ánimo de los usuarios para atraer publicidad, según denuncia Liz Pelly en su libro Mood Machine: The Rise of Spotify and the Cost of the Perfect Playlist (Atria, 2025).",
-      "zh": "罗西情绪低落，这不难理解。那些将音乐视为生命不可分割一部分的人，眼睁睁看着一套数字商业剥削体系不断壮大——这套体系常常让音乐人隐形、被抄袭、被骚扰，转而将用户的感受与情绪状态置于首位，以此吸引广告。这正是利兹·佩利在其著作《情绪机器：Spotify的崛起与完美歌单的代价》（Atria，2025年）中所揭露的现象。",
+      "es": "Rossy no <strong>anda</strong> muy animado. Es normal. Los que viven la música como una parte <strong>inherente</strong> de sus vidas observan cómo crece un sistema de explotación comercial digital que muchas veces invisibiliza, copia y trolea a los músicos, priorizando en cambio las sensaciones y los estados de ánimo de los usuarios para atraer publicidad, según denuncia Liz Pelly en su libro Mood Machine: The Rise of Spotify and the Cost of the Perfect Playlist (Atria, 2025).",
+      "zh": "罗西情绪不太好，这很正常。那些将音乐视为生命中不可分割一部分的人，眼睁睁看着一套数字商业剥削体系不断壮大——这套体系频繁地让音乐人隐形、被抄袭、被骚扰，转而优先迎合用户的感受和情绪状态以吸引广告，利兹·佩利在其著作《情绪机器：Spotify的崛起与完美歌单的代价》（Atria，2025年）中对此提出了批评。",
       "vocab": [
         {
-          "word": "inherente",
-          "translation": "固有的、内在的",
-          "note": "inherente 通常与介词 a 搭配，构成 inherente a algo，表示某特质是某事物本质的一部分，是正式和学术文体中的高频词。"
+          "word": "anda",
+          "translation": "（状态上）处于；显得",
+          "note": "andar + 形容词是西语重要结构，表示某人『处于某种状态』，与 estar 相比更强调持续性或习惯性状态，如 anda preocupado（他最近一直很担心）。"
         },
         {
-          "word": "invisibiliza",
-          "translation": "使……隐形、抹去……的存在",
-          "note": "invisibilizar 由前缀 in-（否定）+ visible + 后缀 -izar（使动）构成，是西语中用 -izar 造新词的典型例子，同类词如 digitalizar、normalizar、visibilizar。"
+          "word": "inherente",
+          "translation": "固有的；内在的；不可分割的",
+          "note": "B2-C1学术高频词，常与介词 a 搭配，构成 inherente a（对……来说是固有的），如 un riesgo inherente a la profesión（职业固有风险）。"
         }
       ]
     },
     {
       "id": 7,
-      "es": "\"Lo que hace esta gente con estos engaños es <strong>lamentable</strong>. Es como si nos estuvieran obligando a consumir comida basura. Están diseñando los productos del futuro, tratando de imponer un sentido de la vida que se basa solo en ganar dinero, en pensar en el lucro y nada más. Y eso es una cosa muy pobre, como una enfermedad\", <strong>denuncia</strong> Rossy.",
-      "zh": "「这些人用这些骗局所做的事令人痛心。就好像在强迫我们消费垃圾食品。他们在设计未来的产品，试图强加一种只以赚钱为本、只考虑利润的人生观。这是一种极其贫乏的东西，就像一种病，」罗西愤慨地说。",
+      "es": "\"Lo que hace esta gente con estos engaños es <strong>lamentable</strong>. Es como si nos estuvieran obligando a consumir comida basura. Están diseñando los productos del futuro, tratando de imponer un sentido de la vida que se basa solo en ganar dinero, en pensar en el <strong>lucro</strong> y nada más. Y eso es una cosa muy pobre, como una enfermedad\", denuncia Rossy.",
+      "zh": "『这些人用这些骗局所做的事情令人痛心。这就好像在强迫我们消费垃圾食品。他们在设计未来的产品，试图强加一种只以赚钱为本、只考虑利益的人生观。这是一件非常可悲的事，就像一种病，』罗西谴责道。",
       "vocab": [
         {
           "word": "lamentable",
-          "translation": "令人痛心的、可悲的",
-          "note": "lamentable 是假朋友警告：它不等于英语 lamentable（遗憾的），语气更强烈，含有强烈的道德谴责或悲愤色彩，相当于中文『可悲至极』。"
+          "translation": "令人痛心的；可悲的；遗憾的",
+          "note": "语气比 malo（坏）强烈得多，带有道德谴责色彩，新闻和正式文体中常用于表达对某事的强烈遗憾或批判。"
         },
         {
-          "word": "denuncia",
-          "translation": "愤慨指出、揭露",
-          "note": "denunciar 在新闻文体中作引语动词时，不只是『说』，而是带有强烈的控诉、揭露语气，比 dice 情绪色彩强烈得多，翻译时需体现这种语气。"
+          "word": "lucro",
+          "translation": "利润；私利；牟利",
+          "note": "lucro 多出现在正式或批判性语境中，常见搭配有 afán de lucro（逐利之心）、sin ánimo de lucro（非营利性的），后者是新闻中的超高频短语。"
         }
       ]
     },
     {
       "id": 8,
-      "es": "En la música online se sufre deepfake, en este caso, música generada por IA que imita la voz o el estilo de un artista real, y también 'desajuste de contenido', <strong>denominadas así</strong> las publicaciones fraudulentas en el perfil de un artista. Según un informe de la Unión de Músicos al que ha tenido acceso EL PAÍS, el uso de ese último término oculta el hecho de que la falta de control o el uso de mecanismos de verificación casi inexistentes a la hora de subir música a las plataformas \"permite un fraude <strong>deliberado, sistemático y a gran escala</strong>\".",
-      "zh": "网络音乐领域正遭受深度伪造之害——即AI生成的、模仿真实艺术家声音或风格的音乐——以及所谓「内容错配」，这是对艺术家主页上虚假发布内容的官方称谓。据《国家报》获取的一份音乐人工会报告显示，使用这一术语实际上掩盖了一个事实：平台在音乐上传环节缺乏管控，验证机制几近于无，这「允许了一种蓄意的、系统性的、大规模的欺诈行为」。",
+      "es": "En la música online se sufre deepfake, en este caso, música generada por IA que imita la voz o el estilo de un artista real, y también 'desajuste de contenido', denominadas así las publicaciones fraudulentas en el perfil de un artista. Según un informe de la Unión de Músicos al que ha tenido acceso EL PAÍS, el uso de ese último término <strong>oculta</strong> el hecho de que la falta de control o el uso de mecanismos de verificación casi inexistentes a la hora de subir música a las plataformas \"permite un fraude <strong>deliberado</strong>, sistemático y a gran escala\".",
+      "zh": "网络音乐领域正在遭受深度伪造之害——即AI生成的、模仿真实艺术家声音或风格的音乐——以及所谓『内容错配』，这是对艺术家主页上虚假发布内容的称谓。据《国家报》获得的一份音乐人工会报告显示，使用『内容错配』这一术语本身就掩盖了一个事实：平台在上传音乐时缺乏管控，或验证机制几近于无，『助长了蓄意的、系统性的、大规模的欺诈行为』。",
       "vocab": [
         {
-          "word": "denominadas así",
-          "translation": "如此称谓的、被如此命名的",
-          "note": "denominado/a 是 denominar（命名、称为）的过去分词，用作后置定语，是正式文体中介绍术语定义的常见结构，类似 llamado/a 但更正式。"
+          "word": "oculta",
+          "translation": "掩盖；隐藏；遮蔽",
+          "note": "ocultar 比 esconder 更正式，常用于新闻批评性文体，表示『刻意掩盖真相』，如 ocultar información（隐瞒信息）。"
         },
         {
-          "word": "deliberado, sistemático y a gran escala",
-          "translation": "蓄意的、系统性的、大规模的",
-          "note": "a gran escala 是固定短语，意为『大规模地』，反义为 a pequeña escala，在新闻和报告中描述规模时高频出现。"
+          "word": "deliberado",
+          "translation": "蓄意的；故意的",
+          "note": "与 intencionado 近义，但 deliberado 更强调经过深思熟虑后的故意行为，法律和新闻文体中更常见，语气更重。"
         }
       ]
     },
     {
       "id": 9,
-      "es": "En una investigación hecha con herramientas básicas y solo en el sector del jazz, esta asociación ha detectado más de 150 artistas y grupos —vivos o muertos, algunos poco conocidos y otros clásicos, como Cannonball Adderley, Horace Silver o Ben Webster— en cuyos perfiles <strong>cuelgan</strong> burdas canciones fake.",
-      "zh": "该协会仅凭基础工具、仅在爵士乐领域展开调查，便已发现超过150位艺术家和乐队——无论在世还是已故，有的默默无闻，有的是坎农鲍尔·阿德利、贺拉斯·西尔弗、本·韦伯斯特这样的经典大师——其主页上挂着粗制滥造的虚假歌曲。",
+      "es": "En una investigación hecha con herramientas básicas y solo en el sector del jazz, esta asociación ha detectado más de 150 artistas y grupos —vivos o muertos, algunos poco conocidos y otros clásicos, como Cannonball Adderley, Horace Silver o Ben Webster— en cuyos perfiles <strong>cuelgan</strong> <strong>burdas</strong> canciones fake.",
+      "zh": "在一项仅使用基础工具、仅针对爵士乐领域的调查中，该协会已发现超过150位艺术家和乐队——无论在世与否，有些名气不大，有些则是经典大师，如坎农鲍尔·阿德利、霍勒斯·西尔弗和本·韦伯斯特——他们的主页上挂着粗制滥造的假歌曲。",
       "vocab": [
         {
           "word": "cuelgan",
-          "translation": "挂着、发布着",
-          "note": "colgar 除字面意思『悬挂』外，在数字语境中引申为『上传、发布』内容，如 colgar un vídeo、colgar una foto，是西语网络用语中的一词多义典型。"
+          "translation": "挂着；发布着（内容）",
+          "note": "colgar 本义为『悬挂』，在网络语境中引申为『发布、上传』内容，如 colgar un vídeo（发布一个视频），是数字媒体语境中的高频用法。"
         },
         {
           "word": "burdas",
-          "translation": "粗制滥造的、拙劣的",
-          "note": "burdo/a 形容事物粗糙、低劣，常用于贬义，如 una burda imitación（拙劣的模仿），是B2级别有表达力的形容词，比 malo 语气更强且更具体。"
+          "translation": "粗制滥造的；拙劣的",
+          "note": "burdo/a 形容事物做工粗糙、质量低劣，常用于批评性语境，如 una burda imitación（拙劣的模仿），比 malo 更具文学和新闻色彩。"
         }
       ]
     },
     {
       "id": 10,
-      "es": "No parece haber apenas regulación. La revista Rolling Stone relata el caso de Paul Bender, de la banda Hiatus Kaiyote, quien, con un grupo de amigos, puso en marcha la Operación Vertedero de Payasos, un experimento para <strong>testar</strong> los controles de las plataformas. Lo que hicieron fue generar \"deliberadamente la peor basura IA\", y subirla después a través de distribuidores musicales estándar a servicios de streaming bajo otros nombres. Lo que comprobaron es que no tuvieron ningún impedimento, a pesar de que una de las canciones se titulaba Funky bagpipes is why we need authentification (This is fraud).",
-      "zh": "监管似乎几乎付之阙如。《滚石》杂志报道了Hiatus Kaiyote乐队保罗·本德尔的案例：他与一群朋友发起了「小丑垃圾场行动」，这是一个专门测试平台审核机制的实验。他们「蓄意生成最烂的AI垃圾」，然后通过标准音乐发行商以其他名义上传至流媒体平台。结果发现毫无阻碍——尽管其中一首歌的标题赫然写着《Funky bagpipes is why we need authentification (This is fraud)》（「放克风笛正是我们需要身份验证的原因（这是欺诈）」）。",
+      "es": "No parece haber apenas regulación. La revista Rolling Stone relata el caso de Paul Bender, de la banda Hiatus Kaiyote, quien, con un grupo de amigos, puso en marcha la Operación Vertedero de Payasos, un experimento para <strong>testar</strong> los controles de las plataformas. Lo que hicieron fue generar \"deliberadamente la peor basura IA\", y subirla después a través de distribuidores musicales estándar a servicios de streaming bajo otros nombres. Lo que comprobaron es que no tuvieron ningún <strong>impedimento</strong>, a pesar de que una de las canciones se titulaba Funky bagpipes is why we need authentification (This is fraud) (Las gaitas funky son la razón por la que necesitamos la autenticación (esto es un fraude).",
+      "zh": "监管似乎几乎形同虚设。《滚石》杂志报道了Hiatus Kaiyote乐队保罗·本德尔的案例：他与一群朋友发起了『小丑垃圾场行动』，这是一个测试平台审核机制的实验。他们所做的是『故意生成最烂的AI垃圾』，然后以其他名义通过标准音乐发行商上传至各流媒体平台。结果发现他们没有遇到任何阻碍，尽管其中一首歌的标题就叫《放克风笛正是我们需要认证的原因（这是欺诈）》。",
       "vocab": [
         {
           "word": "testar",
-          "translation": "测试、检验",
-          "note": "testar 在现代西语中作『测试』讲是英语 test 的借词用法，在正式场合更常用 probar 或 poner a prueba，但 testar 在科技和新闻语境中已十分普遍。"
+          "translation": "测试；检验",
+          "note": "testar 是从英语 test 借入的动词，在现代西语中广泛用于科技、商业语境，与 probar 近义，但 testar 更偏向系统性验证，probar 则更口语化。"
         },
         {
-          "word": "puso en marcha",
-          "translation": "发起、启动",
-          "note": "poner en marcha 是固定搭配，意为启动某项计划、项目或机器，是新闻和正式文体中的高频表达，比 iniciar 或 comenzar 更具行动感。"
+          "word": "impedimento",
+          "translation": "阻碍；障碍；阻拦",
+          "note": "由前缀 im-（否定）+ pedir（阻止）构成，正式文体高频词，常见搭配为 sin ningún impedimento（毫无阻碍地）或 poner impedimentos（设置障碍）。"
         }
       ]
     },
     {
       "id": 11,
       "es": "Un tipo de fraude que la industria musical parece temer más es la <strong>proliferación</strong> de bots y granjas de clics consumiendo masivamente canciones generadas por IA y cobrando por ello. \"Son usuarios fantasma que escuchan canciones fantasma, un tipo de fraude que entre las canciones reales es del 10%, pero en las fake alcanza el 70%\", advierte Thiboult Roucou, director de royalties de Deezer, en una entrevista con Skynews.",
-      "zh": "音乐行业似乎最为担忧的一类欺诈，是机器人和点击农场的大肆扩散——它们大量消费AI生成歌曲并从中牟利。「这是幽灵用户在收听幽灵歌曲，这类欺诈在真实歌曲中占比10%，但在虚假歌曲中高达70%，」Deezer版税总监蒂博·鲁库在接受天空新闻采访时警告道。",
+      "zh": "音乐行业似乎最为担忧的一种欺诈形式，是机器人和点击农场的泛滥——它们大量消费AI生成的歌曲并从中牟利。『这些是幽灵用户在收听幽灵歌曲。这类欺诈在真实歌曲中的比例为10%，但在假歌曲中高达70%，』Deezer版税总监蒂博·鲁库在接受天空新闻采访时警告道。",
       "vocab": [
         {
           "word": "proliferación",
-          "translation": "大量扩散、激增",
-          "note": "proliferación 来自动词 proliferar（激增、蔓延），常用于描述负面事物的快速扩散，如 proliferación de fake news，是新闻和学术文体的高频词。"
-        },
-        {
-          "word": "masivamente",
-          "translation": "大规模地、大量地",
-          "note": "masivamente 由 masivo（大规模的）加副词后缀 -mente 构成，-mente 是西语构成副词的标准后缀，可类推至 sistemáticamente、deliberadamente 等。"
+          "translation": "激增；扩散；泛滥",
+          "note": "新闻学术高频词，来自动词 proliferar（激增、蔓延），常用于描述负面事物的快速扩散，如 proliferación de fake news（虚假新闻泛滥）。"
         }
       ]
     },
     {
       "id": 12,
       "es": "Hace pocas semanas, Spotify anunció Verified by Spotify, un nuevo <strong>distintivo</strong> de la plataforma que quiere garantizar la verificación del artista —no así su música— con criterios de autenticidad como una presencia identificable más allá del canal de streaming, a través de conciertos, redes sociales vinculadas o merchandising.",
-      "zh": "几周前，Spotify宣布推出「Spotify认证」标识——这是该平台的一项新认证标章，旨在通过真实性标准来保障艺术家身份的核实（但并不涉及其音乐本身），这些标准包括：在流媒体渠道之外具有可识别的存在，例如演出、关联社交媒体账号或周边商品。",
+      "zh": "几周前，Spotify宣布推出『Spotify认证』标识，这是该平台的一项新徽章，旨在保障艺术家身份的真实性——但不涉及其音乐本身——认证标准包括在流媒体渠道之外具有可识别的存在，例如演出、关联社交媒体账号或周边商品。",
       "vocab": [
         {
           "word": "distintivo",
-          "translation": "标识、标章；有辨识度的",
-          "note": "distintivo 既可作名词（标志、徽章）也可作形容词（有特色的、与众不同的），注意与 distinto（不同的）区分，两者词根相同但词性和用法不同。"
+          "translation": "徽章；标识；（作形容词）有特色的",
+          "note": "distintivo 既可作名词（徽章、标志），也可作形容词（有区别性特征的），注意与 distinto（不同的）区分，两者词根相同但词性和含义不同。"
         }
       ]
     },
     {
       "id": 13,
-      "es": "Pero quizás el debate está en preguntarse qué significa la música para según qué plataformas. En su libro, Liz Pelly denuncia que Spotify prioriza la cantidad y la velocidad de consumo, considerando la música como \"una <strong>commodity</strong>, un mero contenido, una lógica que la IA está multiplicando ahora hasta límites <strong>tenebrosos</strong>\".",
-      "zh": "但问题的核心或许在于追问：音乐对不同平台而言究竟意味着什么。利兹·佩利在书中揭露，Spotify将消费数量和速度置于首位，把音乐视为「一种商品、一种纯粹的内容，而AI正在将这种逻辑推向令人不寒而栗的极端」。",
+      "es": "Pero quizás el debate está en preguntarse qué significa la música para según qué plataformas. En su libro, Liz Pelly denuncia que Spotify prioriza la cantidad y la velocidad de consumo, considerando la música como \"una commodity, un mero contenido, una lógica que la IA está multiplicando ahora hasta límites <strong>tenebrosos</strong>\".",
+      "zh": "但问题的核心或许在于追问：对于不同的平台而言，音乐究竟意味着什么？利兹·佩利在其书中批评Spotify将数量和消费速度置于首位，把音乐视为『一种商品、一种纯粹的内容，而AI正在将这种逻辑推向令人不寒而栗的极端』。",
       "vocab": [
         {
-          "word": "commodity",
-          "translation": "商品、大宗货物",
-          "note": "commodity 是英语借词，在西语经济和媒体语境中直接使用，指可互换的标准化商品，强调其无差异性，用于此处暗含对音乐被商品化、去灵魂化的批判。"
-        },
-        {
           "word": "tenebrosos",
-          "translation": "令人不寒而栗的、阴暗的",
-          "note": "tenebroso/a 字面意为『黑暗的、阴森的』，在文学和新闻中引申为令人忧惧的、前景黯淡的，语气比 oscuro 或 peligroso 更具文学色彩。"
+          "translation": "令人不寒而栗的；阴暗的；可怕的",
+          "note": "tenebroso 来自 tinieblas（黑暗），文学和新闻中用于形容令人恐惧或道德上阴暗的事物，比 oscuro 语气更强烈、更具文学色彩。"
         }
       ]
     },
     {
       "id": 14,
       "es": "Ante ello, cada vez más voces reclaman regular el sector. En conversación telefónica, Cristina Perpiñá-Robert, directora de la SGAE, señala el peligro de <strong>devaluación</strong> de los espacios de streaming, y pide una mayor transparencia y colaboración. Guillem Arnedo, de la Unión de Músicos, exige medidas para evitar que ciertos generadores de contenido con IA publiquen productos en nombre y en los perfiles de artistas existentes, y la Sociedad de Artistas Intérpretes o Ejecutantes de España (IAE) recuerda que la voz, la imagen o el estilo forman parte de la identidad del artista y que, por tanto, deben estar protegidas. Ante el peligro de <strong>fenecer</strong> de tristeza rodeados de robots cantarines sin pies ni cabeza, hay que recordar que también está el poder cotidiano de los que aman la música —el consumidor, le llaman algunos— a la hora de elegir qué vía elige para disfrutarla.",
-      "zh": "面对这一局面，越来越多的声音呼吁对该行业加以规范。西班牙版权管理协会（SGAE）主任克里斯蒂娜·佩尔皮尼亚-罗伯特在电话采访中指出流媒体空间面临贬值的危险，并呼吁提高透明度、加强合作。音乐人工会的吉列姆·阿尔内多要求采取措施，防止某些AI内容生成者以现有艺术家的名义在其主页发布内容；西班牙表演艺术家协会（IAE）则提醒，声音、形象和风格是艺术家身份认同的组成部分，因此必须受到保护。面对被一群莫名其妙的歌唱机器人包围、活活郁闷而死的危险，我们也应记住：热爱音乐的人——有人称之为消费者——在日常中同样拥有一种力量，那就是选择以何种方式去享受音乐。",
+      "zh": "面对这一局面，越来越多的声音呼吁对该行业进行监管。西班牙版权协会（SGAE）主任克里斯蒂娜·佩尔皮尼亚-罗伯特在电话采访中指出了流媒体空间贬值的危险，并呼吁提高透明度、加强合作。音乐人工会的吉列姆·阿内多要求采取措施，防止某些AI内容生成者以现有艺术家的名义在其主页上发布内容。西班牙表演艺术家协会（IAE）则提醒道，声音、形象和风格是艺术家身份认同的组成部分，因此必须受到保护。面对被一群莫名其妙的歌唱机器人包围、郁郁而终的危险，我们也要记住：热爱音乐的人——有些人称之为消费者——在选择以何种方式享受音乐时，同样握有日常生活中的力量。",
       "vocab": [
         {
           "word": "devaluación",
-          "translation": "贬值、价值下滑",
-          "note": "devaluación 本为经济术语（货币贬值），在此引申为内容或空间的价值被稀释，是新闻中常见的概念迁移用法，动词形式为 devaluar。"
+          "translation": "贬值；价值下降",
+          "note": "由 de-（向下）+ valuar（估值）构成，原为经济术语（货币贬值），现广泛用于比喻意义，如文化、艺术价值的贬损，构词规律可类推 revaluación（升值）。"
         },
         {
           "word": "fenecer",
-          "translation": "消亡、死去",
-          "note": "fenecer 是较文雅的书面语词，意为死亡或消亡，比 morir 更具文学色彩，常出现在文学、新闻评论等正式语境中，此处带有讽刺意味。"
+          "translation": "消亡；死去；终结",
+          "note": "fenecer 是书面语和文学语体中表示『死亡、消亡』的词，比 morir 更正式、更具文学色彩，此处带有讽刺意味，形容被AI音乐包围而『郁郁而终』。"
         }
       ]
     }
@@ -258,26 +243,27 @@
     {
       "expression": "dar la voz de alarma",
       "type": "modismo",
-      "translation": "发出警报、敲响警钟",
-      "usage": "用于描述某人或某机构率先就危险情况发出警告，常见于新闻报道，语气正式，含有紧迫感。"
+      "translation": "发出警报；敲响警钟",
+      "usage": "用于描述某人或某机构率先就某危险或问题发出公开警告，语气正式，新闻中极为常见。",
+      "exampleEs": "Fueron los científicos quienes dieron la voz de alarma sobre el cambio climático hace décadas.",
+      "exampleZh": "几十年前，正是科学家们率先就气候变化敲响了警钟。"
     },
     {
       "expression": "en carne propia",
       "type": "modismo",
-      "translation": "亲身经历、切身体会",
-      "usage": "表示某人直接经历了某件事（通常是负面的），相当于中文『切肤之痛』，口语和书面语均可使用。"
+      "translation": "亲身经历；切身体会",
+      "usage": "强调某人直接、亲身地经历了某件事，通常是痛苦或困难的事，常与 sufrir、vivir、experimentar 搭配。",
+      "exampleEs": "Solo quien ha vivido la guerra en carne propia puede entender su horror.",
+      "exampleZh": "只有亲身经历过战争的人，才能真正理解它的恐怖。"
     },
     {
       "expression": "sin pies ni cabeza",
       "type": "modismo",
-      "translation": "莫名其妙、毫无逻辑",
-      "usage": "字面意为『没有脚也没有头』，用来形容某事毫无道理或逻辑混乱，口语中十分常用，相当于中文『不知所云』。"
-    },
-    {
-      "expression": "pura porquería",
-      "type": "expresión coloquial",
-      "translation": "纯粹是垃圾、一塌糊涂",
-      "usage": "porquería 本意为污秽之物，口语中用来强烈表达对某事物质量的鄙视，加 pura 进一步强调程度，语气粗俗但十分地道。"
+      "translation": "莫名其妙；毫无逻辑；乱七八糟",
+      "usage": "字面意为『没有脚也没有头』，实际形容某事毫无道理、逻辑混乱，口语和书面语均可使用，语气带有轻蔑或无奈。",
+      "exampleEs": "Su explicación no tenía ni pies ni cabeza, nadie entendió nada.",
+      "exampleZh": "他的解释毫无逻辑，没有人听懂。"
     }
   ]
 }
+```
