@@ -233,7 +233,6 @@ body {
   padding-top: 3px;
   margin-top: 1px;
 }
-
 /* ══════════════════════════════════
    俗语 · 俚语 · 谚语 模块
 ══════════════════════════════════ */
@@ -248,7 +247,7 @@ body {
   display: flex;
   align-items: center;
   gap: 8px;
-  margin-bottom: 16px;
+  margin-bottom: 18px;
 }
 
 .slang-icon { font-size: 18px; line-height: 1; }
@@ -259,40 +258,44 @@ body {
   font-weight: 700;
   color: var(--brand);
   letter-spacing: 1.5px;
-  text-transform: uppercase;
 }
 
 .slang-list {
   display: flex;
   flex-direction: column;
-  gap: 12px;
+  gap: 0;
 }
 
 .slang-item {
-  background: var(--vocab-bg);
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  border-left: 4px solid var(--brand);
-  padding: 12px 14px;
+  background: #fff;
+  border: none;
+  border-bottom: 1px solid var(--border);
+  border-radius: 0;
+  border-left: none;
+  padding: 16px 4px;
+}
+
+.slang-item:last-child {
+  border-bottom: none;
 }
 
 .slang-top {
   display: flex;
-  align-items: baseline;
-  gap: 8px;
-  margin-bottom: 5px;
-  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 6px;
 }
 
 .slang-index {
   font-family: var(--font-zh);
   font-size: 11px;
   font-weight: 700;
-  color: #fff;
-  background: var(--brand);
+  color: var(--muted);
   width: 20px;
   height: 20px;
   border-radius: 50%;
+  border: 1px solid var(--border);
+  background: #fff;
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -302,7 +305,7 @@ body {
 
 .slang-expression {
   font-family: var(--font-es);
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 700;
   color: var(--brand);
   line-height: 1.4;
@@ -310,30 +313,34 @@ body {
 
 .slang-translation {
   font-family: var(--font-zh);
-  font-size: 12.5px;
+  font-size: 13px;
   font-weight: 700;
   color: var(--text);
   margin-bottom: 5px;
+  margin-left: 30px;
   line-height: 1.5;
 }
 
 .slang-usage {
   font-family: var(--font-zh);
-  font-size: 11px;
+  font-size: 11.5px;
   color: var(--muted);
-  line-height: 1.6;
-  border-top: 1px dashed #c8cdd4;
-  padding-top: 5px;
-  margin-top: 2px;
+  line-height: 1.7;
+  margin-left: 30px;
+  margin-top: 4px;
 }
 
 /* 例句区块 */
 .slang-example {
-  background: #fff;
-  border: 1px solid var(--border);
-  border-radius: 5px;
-  padding: 7px 10px;
-  margin-top: 7px;
+  border-left: 3px solid var(--accent);
+  padding: 6px 10px;
+  margin-top: 10px;
+  margin-left: 30px;
+  background: none;
+  border-top: none;
+  border-right: none;
+  border-bottom: none;
+  border-radius: 0;
 }
 
 .slang-example-label {
@@ -342,27 +349,28 @@ body {
   font-weight: 700;
   color: var(--accent);
   letter-spacing: 0.5px;
-  margin-bottom: 3px;
+  margin-bottom: 4px;
   display: block;
 }
 
 .slang-example-es {
   font-family: var(--font-es);
-  font-size: 11.5px;
+  font-size: 12px;
   color: #2a2a2a;
   font-style: italic;
-  line-height: 1.6;
-  margin-bottom: 3px;
+  line-height: 1.7;
+  margin-bottom: 4px;
 }
 
 .slang-example-zh {
   font-family: var(--font-zh);
-  font-size: 11px;
+  font-size: 11.5px;
   color: var(--muted);
   line-height: 1.6;
-  border-top: 1px dashed #c8cdd4;
-  padding-top: 3px;
+  border-top: 1px dashed var(--border);
+  padding-top: 4px;
 }
+
 
 /* ══════════════════════════════════
    移动端适配
