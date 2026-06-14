@@ -223,5 +223,33 @@
         }
       ]
     }
+  ],
+"slangExpressions": [
+    {
+      "expression": "es tal que",
+      "type": "estructura gramatical",
+      "translation": "……之大/之重，以至于……",
+      "usage": "强调程度的正式句式，结构为『主语 + es tal que + 结果从句』，常用于书面和新闻语体，语气比 tan... que 更正式。",
+      "exampleEs": "La presión es tal que muchos estudiantes abandonan antes de terminar.",
+      "exampleZh": "压力之大，许多学生在完成学业前就已放弃。"
+    },
+    {
+      "expression": "surgir como respuesta a",
+      "type": "estructura gramatical",
+      "translation": "作为对……的回应而产生",
+      "usage": "分析事物起源或成因时的高级表达，结构固定，主语和介词宾语可自由替换，常见于学术分析和新闻报道中。",
+      "exampleEs": "Esta ley surgió como respuesta a las protestas ciudadanas de aquel año.",
+      "exampleZh": "这部法律是对那一年公民抗议活动的回应而诞生的。"
+    },
+    {
+      "expression": "no significa necesariamente que + subjuntivo",
+      "type": "estructura gramatical",
+      "translation": "这不一定意味着……",
+      "usage": "否定推断句式，que 后必须接虚拟式，强调不能从前提必然推导出某结论，是议论文和学术写作的高级句式。",
+      "exampleEs": "Tener un título universitario no significa necesariamente que encuentres trabajo bien remunerado.",
+      "exampleZh": "拥有大学学历不一定意味着能找到薪资优厚的工作。"
+    }
   ]
+
+
 }
