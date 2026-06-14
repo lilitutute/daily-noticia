@@ -266,4 +266,101 @@ body {
     width: 100%;
   }
 
+
+  /* ══════════════════════════════════
+   俗语 · 俚语 · 谚语 模块
+══════════════════════════════════ */
+
+.slang-block {
+  margin-top: 32px;
+  border-top: 2px solid var(--brand);
+  padding-top: 20px;
+}
+
+.slang-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.slang-icon { font-size: 18px; line-height: 1; }
+
+.slang-title {
+  font-family: var(--font-zh);
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--brand);
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+}
+
+.slang-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 12px;
+}
+
+.slang-item {
+  background: var(--vocab-bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  border-left: 4px solid var(--brand);   /* 和词汇卡风格一致 */
+  padding: 12px 14px;
+}
+
+.slang-top {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  margin-bottom: 5px;
+  flex-wrap: wrap;
+}
+
+.slang-expression {
+  font-family: var(--font-es);
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--brand);
+  line-height: 1.4;
+}
+
+.slang-type {
+  font-family: var(--font-zh);
+  font-size: 10px;
+  color: #fff;
+  background: var(--accent);
+  padding: 1px 7px;
+  border-radius: 3px;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.slang-translation {
+  font-family: var(--font-zh);
+  font-size: 12.5px;
+  font-weight: 700;
+  color: var(--text);
+  margin-bottom: 5px;
+  line-height: 1.5;
+}
+
+.slang-usage {
+  font-family: var(--font-zh);
+  font-size: 11px;
+  color: var(--muted);
+  line-height: 1.6;
+  border-top: 1px dashed #c8cdd4;
+  padding-top: 5px;
+  margin-top: 2px;
+}
+
+@media (max-width: 768px) {
+  .slang-list { grid-template-columns: 1fr; }
+}
+
+@media print {
+  .slang-item { break-inside: avoid; }
+}
+
 }
