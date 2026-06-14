@@ -223,39 +223,5 @@
         }
       ]
     }
-  ],
-  "slangExpressions": [
-    {
-      "expression": "hasta el límite",
-      "type": "expresión coloquial",
-      "translation": "到极限、逼到边缘",
-      "usage": "用于强调某人或某事被推到了承受能力的最大边界，语气强烈，常用于描述高压环境或极端状态。",
-      "exampleEs": "Los estudiantes chinos estudian hasta el límite para aprobar el Gaokao.",
-      "exampleZh": "中国学生为了通过高考，把自己逼到了极限。"
-    },
-    {
-      "expression": "a partir de ahí",
-      "type": "expresión coloquial",
-      "translation": "从那时起、在此基础上",
-      "usage": "用于口语和书面语中，表示以某个条件或时间点为起点，后续事情随之展开，是衔接逻辑的常用过渡表达。",
-      "exampleEs": "Aprobó el examen de ingreso y, a partir de ahí, todo fue más fácil.",
-      "exampleZh": "他通过了入学考试，从那以后，一切都顺利多了。"
-    },
-    {
-      "expression": "acercar la universidad a sectores populares",
-      "type": "modismo",
-      "translation": "让大学走近平民阶层",
-      "usage": "这是拉丁美洲教育政策讨论中的固定表达，字面上是『拉近大学与平民的距离』，实际含义是降低高等教育门槛、推动教育公平，常出现在社会议题报道中。",
-      "exampleEs": "El gobierno lanzó nuevas becas para acercar la universidad a sectores populares.",
-      "exampleZh": "政府推出新奖学金计划，旨在让高等教育惠及更广泛的平民阶层。"
-    },
-    {
-      "expression": "el país se detiene",
-      "type": "modismo",
-      "translation": "全国为之停摆",
-      "usage": "字面意思是『国家停下来了』，实际用于夸张地描述某一重大事件受到全社会高度关注、日常运转为之暂停的状态，常见于体育赛事或重要考试的报道中。",
-      "exampleEs": "Durante la final del Mundial, el país se detiene y todos miran el partido.",
-      "exampleZh": "世界杯决赛期间，全国为之停摆，所有人都守在电视机前看球。"
-    }
   ]
 }
