@@ -263,8 +263,8 @@ body {
 }
 
 .slang-list {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  display: flex;
+  flex-direction: column;
   gap: 12px;
 }
 
@@ -284,23 +284,28 @@ body {
   flex-wrap: wrap;
 }
 
+.slang-index {
+  font-family: var(--font-zh);
+  font-size: 11px;
+  font-weight: 700;
+  color: #fff;
+  background: var(--brand);
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  line-height: 1;
+}
+
 .slang-expression {
   font-family: var(--font-es);
   font-size: 14px;
   font-weight: 700;
   color: var(--brand);
   line-height: 1.4;
-}
-
-.slang-type {
-  font-family: var(--font-zh);
-  font-size: 10px;
-  color: #fff;
-  background: var(--accent);
-  padding: 1px 7px;
-  border-radius: 3px;
-  white-space: nowrap;
-  flex-shrink: 0;
 }
 
 .slang-translation {
@@ -320,6 +325,43 @@ body {
   border-top: 1px dashed #c8cdd4;
   padding-top: 5px;
   margin-top: 2px;
+}
+
+/* 例句区块 */
+.slang-example {
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  padding: 7px 10px;
+  margin-top: 7px;
+}
+
+.slang-example-label {
+  font-family: var(--font-zh);
+  font-size: 10px;
+  font-weight: 700;
+  color: var(--accent);
+  letter-spacing: 0.5px;
+  margin-bottom: 3px;
+  display: block;
+}
+
+.slang-example-es {
+  font-family: var(--font-es);
+  font-size: 11.5px;
+  color: #2a2a2a;
+  font-style: italic;
+  line-height: 1.6;
+  margin-bottom: 3px;
+}
+
+.slang-example-zh {
+  font-family: var(--font-zh);
+  font-size: 11px;
+  color: var(--muted);
+  line-height: 1.6;
+  border-top: 1px dashed #c8cdd4;
+  padding-top: 3px;
 }
 
 /* ══════════════════════════════════
@@ -354,10 +396,6 @@ body {
 
   .vocab-item {
     width: 100%;
-  }
-
-  .slang-list {
-    grid-template-columns: 1fr;
   }
 
 }

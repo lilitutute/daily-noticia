@@ -2,138 +2,109 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>西语SuperO · 每日外刊</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>西语外刊阅读</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-<div class="page-wrap">
-
-  <div class="header-meta">
-    <span class="header-date" id="meta-date"></span>
-    <div class="header-right">
-      <span class="brand-tag" id="meta-brand"></span>
-      <span class="tag" id="meta-category"></span>
-      <span class="tag" id="meta-difficulty"></span>
-      <span class="tag" id="meta-wordcount"></span>
-    </div>
-  </div>
-
-  <div class="article-header">
-    <h1 class="article-title" id="art-title"></h1>
-    <div class="article-subtitle" id="art-subtitle"></div>
-  </div>
-
-  <div class="resumen-block">
-    <span class="resumen-label">Resumen · 文章摘要</span>
-    <div class="resumen-es" id="resumen-es"></div>
-    <div class="resumen-zh" id="resumen-zh"></div>
-  </div>
-
-  <hr class="divider"/>
-  <div id="article-body"></div>
-
-</div>
+<div class="page-wrap" id="app">加载中…</div>
 
 <script>
-  const params  = new URLSearchParams(window.location.search);
-  const file    = params.get('article') || '001';
+const params = new URLSearchParams(location.search);
+const src = params.get('src');
+if (!src) {
+  document.getElementById('app').textContent = '未指定文章来源（?src=xxx.json）';
+} else {
+  fetch(src)
+    .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+    .then(render)
+    .catch(e => { document.getElementById('app').textContent = '加载失败：' + e.message; });
+}
 
-  fetch(`articles/${file}.json`)
-    .then(r => r.json())
-    .then(article => {
+function render(d) {
+  const slangs = Array.isArray(d.slangExpressions) ? d.slangExpressions : [];
+  const showSlang = slangs.length >= 2;
 
-      document.title = article.title + ' · 西语SuperO';
-      document.getElementById('meta-date').textContent       = article.date;
-      document.getElementById('meta-brand').textContent      = article.brand;
-      document.getElementById('meta-category').textContent   = article.category;
-      document.getElementById('meta-difficulty').textContent = article.difficulty;
-      document.getElementById('meta-wordcount').textContent  = article.wordCount;
-      document.getElementById('art-title').textContent       = article.title;
-      document.getElementById('art-subtitle').textContent    = article.subtitle;
-      document.getElementById('resumen-es').textContent      = article.resumenEs;
-      document.getElementById('resumen-zh').textContent      = article.resumenZh;
-
-      const bodyEl = document.getElementById('article-body');
-
-      article.paragraphs.forEach(para => {
-        const block = document.createElement('div');
-        block.className = 'paragraph-block';
-
-        let vocabHTML = '<div class="para-vocab">';
-        para.vocab.forEach(v => {
-          vocabHTML += `
-            <div class="vocab-item">
-              <span class="vocab-word">${v.word}</span>
-              <span class="vocab-trans">${v.translation}</span>
-              ${v.note ? `<div class="vocab-note">${v.note}</div>` : ''}
-            </div>`;
-        });
-        vocabHTML += '</div>';
-
-        block.innerHTML = `
-          <div class="para-content">
-            <span class="para-num">§${para.id}</span>
-            <p class="para-es">${para.es}</p>
-            <div class="para-zh">${para.zh}</div>
+  const slangHTML = showSlang ? `
+    <div class="slang-block">
+      <div class="slang-header">
+        <span class="slang-icon">🗣️</span>
+        <span class="slang-title">俗语 · 俚语 · 谚语</span>
+      </div>
+      <div class="slang-list">
+        ${slangs.map((s, index) => `
+          <div class="slang-item">
+            <div class="slang-top">
+              <span class="slang-index">${index + 1}</span>
+              <span class="slang-expression">${s.expression}</span>
+            </div>
+            <div class="slang-translation">${s.translation}</div>
+            <div class="slang-usage">${s.usage}</div>
+            ${(s.exampleEs || s.exampleZh) ? `
+              <div class="slang-example">
+                <span class="slang-example-label">例：</span>
+                ${s.exampleEs ? `<div class="slang-example-es">${s.exampleEs}</div>` : ''}
+                ${s.exampleZh ? `<div class="slang-example-zh">${s.exampleZh}</div>` : ''}
+              </div>` : ''}
           </div>
-          ${vocabHTML}
-        `;
+        `).join('')}
+      </div>
+    </div>` : '';
 
-        bodyEl.appendChild(block);
-      });
+  const parasHTML = (d.paragraphs || []).map(p => {
+    const vocabHTML = (p.vocab || []).map(v => `
+      <div class="vocab-item">
+        <span class="vocab-word">${v.word}</span>
+        <span class="vocab-trans">${v.translation}</span>
+        ${v.note ? `<div class="vocab-note">${v.note}</div>` : ''}
+      </div>
+    `).join('');
 
-      // ── 俗语俚语模块：仅在 slangExpressions 存在且数量 >= 2 时显示 ──
-      const slangs = article.slangExpressions;
-      if (Array.isArray(slangs) && slangs.length >= 2) {
+    return `
+      <div class="paragraph-block">
+        <div class="para-main">
+          <span class="para-num">${p.id}</span>
+          <div class="para-es">${p.es}</div>
+          <div class="para-zh">${p.zh}</div>
+        </div>
+        <div class="para-vocab">${vocabHTML}</div>
+      </div>
+    `;
+  }).join('');
 
-        const typeMap = {
-          'modismo':             '惯用语',
-          'expresión coloquial': '口语俚语',
-          'expresion coloquial': '口语俚语',
-          'refrán':              '谚语',
-          'refran':              '谚语'
-        };
+  document.getElementById('app').innerHTML = `
+    <div class="header-meta">
+      <span class="header-date">${d.date || ''}</span>
+      <div class="header-right">
+        <span class="brand-tag">${d.brand || ''}</span>
+        ${d.category ? `<span class="tag">${d.category}</span>` : ''}
+        ${d.difficulty ? `<span class="tag">${d.difficulty}</span>` : ''}
+        ${d.wordCount ? `<span class="tag">${d.wordCount}</span>` : ''}
+      </div>
+    </div>
 
-        let slangHTML = `
-          <div class="slang-block">
-            <div class="slang-header">
-              <span class="slang-icon">💬</span>
-              <span class="slang-title">俗语 · 俚语 · 谚语</span>
-            </div>
-            <div class="slang-list">`;
+    <div class="article-header">
+      <div class="article-title">${d.title || ''}</div>
+      ${d.subtitle ? `<div class="article-subtitle">${d.subtitle}</div>` : ''}
+      ${d.source ? `<div class="article-source">${d.source}</div>` : ''}
+    </div>
 
-        slangs.forEach((s, index) => {
-          const typeLabel = typeMap[s.type.toLowerCase()] || s.type;
-          slangHTML += `
-              <div class="slang-item">
-                <div class="slang-top">
-                  <span class="slang-index">${index + 1}</span>
-                  <span class="slang-expression">${s.expression}</span>
-                  <span class="slang-type">${typeLabel}</span>
-                </div>
-                <div class="slang-translation">${s.translation}</div>
-                ${s.usage ? `<div class="slang-usage">${s.usage}</div>` : ''}
-                ${(s.exampleEs || s.exampleZh) ? `
-                <div class="slang-example">
-                  ${s.exampleEs ? `<div class="slang-example-es">📝 ${s.exampleEs}</div>` : ''}
-                  ${s.exampleZh ? `<div class="slang-example-zh">${s.exampleZh}</div>` : ''}
-                </div>` : ''}
-              </div>`;
-        });
+    ${(d.resumenEs || d.resumenZh) ? `
+    <div class="resumen-block">
+      <span class="resumen-label">摘要 Resumen</span>
+      ${d.resumenEs ? `<div class="resumen-es">${d.resumenEs}</div>` : ''}
+      ${d.resumenZh ? `<div class="resumen-zh">${d.resumenZh}</div>` : ''}
+    </div>` : ''}
 
-        slangHTML += `
-            </div>
-          </div>`;
+    <hr class="divider" />
 
-        bodyEl.insertAdjacentHTML('beforeend', slangHTML);
-      }
+    ${parasHTML}
 
-    })
-    .catch(() => {
-      document.getElementById('article-body').innerHTML =
-        '<p style="color:red;font-family:sans-serif">文章加载失败，请检查 JSON 文件路径。</p>';
-    });
+    ${slangHTML}
+  `;
+
+  document.title = d.title || '西语外刊阅读';
+}
 </script>
 </body>
 </html>
