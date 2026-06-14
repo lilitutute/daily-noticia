@@ -36,8 +36,6 @@
 </div>
 
 <script>
-  // 从 URL 参数读取要加载哪篇文章，默认加载 001
-  // 用法：index.html?article=002
   const params  = new URLSearchParams(window.location.search);
   const file    = params.get('article') || '001';
 
@@ -105,16 +103,22 @@
             </div>
             <div class="slang-list">`;
 
-        slangs.forEach(s => {
+        slangs.forEach((s, index) => {
           const typeLabel = typeMap[s.type.toLowerCase()] || s.type;
           slangHTML += `
               <div class="slang-item">
                 <div class="slang-top">
+                  <span class="slang-index">${index + 1}</span>
                   <span class="slang-expression">${s.expression}</span>
                   <span class="slang-type">${typeLabel}</span>
                 </div>
                 <div class="slang-translation">${s.translation}</div>
                 ${s.usage ? `<div class="slang-usage">${s.usage}</div>` : ''}
+                ${(s.exampleEs || s.exampleZh) ? `
+                <div class="slang-example">
+                  ${s.exampleEs ? `<div class="slang-example-es">📝 ${s.exampleEs}</div>` : ''}
+                  ${s.exampleZh ? `<div class="slang-example-zh">${s.exampleZh}</div>` : ''}
+                </div>` : ''}
               </div>`;
         });
 
