@@ -1,268 +1,246 @@
-
 {
   "date": "西语外刊阅读",
   "brand": "公众号【西语SuperO】",
-  "category": "科技与音乐",
+  "category": "旅游与文化",
   "difficulty": "B2",
   "wordCount": "约900词",
-  "title": "La amenaza fantasma: la IA inunda las plataformas de música 'fake'",
-  "subtitle": "幽灵威胁：人工智能正在用假音乐淹没流媒体平台",
-  "resumenEs": "La inteligencia artificial está inundando las plataformas de streaming con millones de canciones falsas que imitan a artistas reales. Deezer alerta de que el 44% de sus subidas diarias ya son generadas por IA y el 97% de los usuarios no distingue la música falsa de la real. Músicos, asociaciones y entidades de gestión de derechos reclaman regulación urgente para proteger la identidad y los derechos de los artistas.",
-  "resumenZh": "人工智能正在用数百万首假歌曲淹没流媒体平台，模仿真实艺术家的风格与声音。Deezer警告称，其每日上传内容中已有44%由AI生成，且97%的用户无法区分真假音乐。音乐人、行业协会及版权管理机构纷纷呼吁出台紧急监管措施，以保护艺术家的身份认同与合法权益。",
+  "title": "Hangzhou, la ciudad donde comprender lo que ha sido China en los últimos mil años",
+  "subtitle": "杭州：读懂中国千年历史的城市",
+  "resumenEs": "Hangzhou, situada a 170 kilómetros al sur de Shanghái, representa la esencia de China. Fue capital durante la dinastía Song del Sur y fue elogiada por Marco Polo como la ciudad más espléndida del mundo. Hoy combina paisajes declarados Patrimonio Mundial, monumentos reconstruidos, gastronomía local y una vibrante modernidad impulsada por empresas como Alibaba.",
+  "resumenZh": "杭州位于上海以南170公里处，被视为中国文化精髓所在。它曾是南宋都城，马可·波罗称其为世界上最壮丽的城市。如今，杭州融合了被列为世界遗产的自然景观、重建的历史古迹、丰富的地方美食，以及以阿里巴巴为代表的现代商业活力。",
   "paragraphs": [
     {
       "id": 1,
-      "es": "Nirvana solo grabó tres discos oficiales en estudio y dejó de existir el día que se suicidó Kurt Cobain, el 5 de abril de 1994. Por eso en 2021 fue una novedad casi chistosa escuchar Drowned In The Sun, una nueva —y malísima— canción de Nirvana creada por IA. Ahora las sonrisas se han congelado, porque sobre el paisaje musical se percibe una <strong>atmósfera fantasmagórica</strong>, donde lo no humano empieza a ser común. En Navidades, A sina de Ofélia, la versión IA en brasileño de la canción The Fate of Ophelia, de Taylor Swift, tenía más descargas que su original (Swift ha solicitado el <strong>registro</strong> de su voz y su imagen como marca para protegerse de la IA); a mediados de abril, Celebrate Me, una canción generada por IA, alcanzó el puesto número uno global en iTunes; a finales del mismo mes, al buscar en YouTube, I Never Loved a Man (The Way I Love You), una canción de Aretha Franklin, se <strong>tropieza</strong> con una grabación titulada 60's soul (Unreleased album), pero al pincharla lo que se escucha es tan falso y falto de alma que dan ganas de quemar el móvil.",
-      "zh": "涅槃乐队只录制了三张正式录音室专辑，在科特·柯本于1994年4月5日自杀身亡后便宣告解散。因此，2021年听到由AI创作的涅槃新歌《Drowned In The Sun》——而且极其糟糕——还算是个近乎好笑的新鲜事。如今笑容已经凝固，因为整个音乐版图上弥漫着一股阴森的气息，非人类创作开始变得司空见惯。圣诞节期间，泰勒·斯威夫特歌曲《The Fate of Ophelia》的AI葡萄牙语版《A sina de Ofélia》下载量超过了原版（斯威夫特已申请将其声音和形象注册为商标，以防范AI侵权）；四月中旬，一首AI生成的歌曲《Celebrate Me》登上了iTunes全球榜首；同月下旬，在YouTube上搜索阿雷莎·富兰克林的歌曲《I Never Loved a Man (The Way I Love You)》时，会碰到一个名为《60年代灵魂乐（未发行专辑）》的录音，但点开一听，那声音是如此虚假、如此毫无灵魂，让人恨不得把手机摔了。",
+      "es": "Cada hora sale un tren de alta velocidad de Shanghái en dirección a Hangzhou, situada a 170 kilómetros al sur de la megalópolis asiática. Pese a su cercanía, ambas urbes tienen personalidades opuestas. Mientras la primera fue el cuartel general de los europeos después de las Guerras del Opio, la segunda representa la <strong>esencia</strong> de China. Hangzhou tuvo su periodo de <strong>esplendor</strong> durante la dinastía Song del Sur, que la convirtió en su capital, entre los años 1127 y 1276. Incluso a finales del siglo XIII, cuando ya había sido <strong>arrasada</strong> por los mongoles de Kublai Kan, Marco Polo la describió en el Libro de las Maravillas como la ciudad más espléndida y noble del mundo. No parece que fuera una exageración. Aunque la mayoría de palacios, templos y pagodas son reconstrucciones recientes, su <strong>ubicación</strong> sigue siendo inigualable.",
+      "zh": "每小时都有一班高铁从上海出发驶向杭州，杭州位于这座亚洲超级大都市以南170公里处。尽管两城相距不远，却有着截然相反的城市气质。上海曾是鸦片战争后欧洲人的大本营，而杭州则代表着中国的精髓。杭州在南宋时期迎来了它的鼎盛时代，彼时南宋将其定为都城，时间跨度从1127年至1276年。即便到了13世纪末，杭州已遭忽必烈的蒙古大军洗劫，马可·波罗仍在《马可·波罗游记》中将其描述为世界上最壮丽、最高贵的城市。这似乎并非夸张之词。尽管大多数宫殿、寺庙和宝塔都是近年重建的，但其所处的地理位置依然无与伦比。",
       "vocab": [
         {
-          "word": "atmósfera fantasmagórica",
-          "translation": "阴森的/幽灵般的氛围",
-          "note": "fantasmagórico 由 fantasma（幽灵）派生而来，后缀 -górico 构成形容词，同族词还有 fantasmal。在新闻文体中常用于营造不安或超现实的氛围。"
+          "word": "esencia",
+          "translation": "精髓，本质",
+          "note": "常用搭配为 la esencia de algo，在新闻和文化类文章中频繁出现，近义词 quintaesencia 语气更强，表示『最精华的部分』。"
         },
         {
-          "word": "registro",
-          "translation": "注册；登记",
-          "note": "一词多义：可指『注册/登记』（如商标注册），也可指『音域』（音乐）或『语体风格』（语言学），需根据语境判断。"
+          "word": "esplendor",
+          "translation": "鼎盛，辉煌",
+          "note": "常见搭配为 periodo/época de esplendor（鼎盛时期），形容词形式为 espléndido，可用于描述人、地方或时代。"
         },
         {
-          "word": "tropieza",
-          "translation": "偶然碰到；撞见",
-          "note": "tropezar con 是固定搭配，意为『偶然遇到/碰上』，不含主动寻找之意，与 encontrar 相比更强调意外性。"
+          "word": "arrasada",
+          "translation": "被夷为平地，被彻底摧毁",
+          "note": "动词 arrasar 语气比 destruir 更强烈，常用于战争或自然灾害语境，如 El huracán arrasó la ciudad（飓风将城市夷为平地）。"
+        },
+        {
+          "word": "ubicación",
+          "translation": "位置，所在地",
+          "note": "比 posición 或 lugar 更正式，常见于新闻、地产和旅游文体，动词形式为 ubicar/ubicarse（位于某处）。"
         }
       ]
     },
     {
       "id": 2,
-      "es": "La <strong>irrupción</strong> de la IA está llenando los servicios de streaming, como YouTube Music, Spotify, Amazon Music, Tidal o Deezer, de artistas y de canciones fake, un movimiento sísmico que está <strong>derivando en</strong> un torrente de \"mierdificación\", expresión del ensayista Cory Doctorow, que amenaza el ecosistema musical.",
-      "zh": "AI的强势闯入正在用假艺术家和假歌曲填满各大流媒体平台，如YouTube Music、Spotify、Amazon Music、Tidal和Deezer，这场如地震般的运动正在演变为一股『烂化』浪潮——这是评论家科里·多克托罗的用语——威胁着整个音乐生态系统。",
+      "es": "Extendida a orillas del lago del Oeste y rodeada de montañas, Hangzhou reúne un conjunto de paisajes que fueron <strong>celebrados</strong> por los poetas y pintores de todos los tiempos. Además, aquí se encuentra el extremo sur del Gran Canal, que comenzó a <strong>excavarse</strong> en el siglo V a.C y cruza el país hasta llegar a Pekín.",
+      "zh": "杭州依西湖而建，四面环山，汇聚了历代诗人和画家所赞颂的绝美风光。此外，大运河的最南端也在这里，这条运河始凿于公元前5世纪，纵贯全国，一路延伸至北京。",
       "vocab": [
         {
-          "word": "irrupción",
-          "translation": "强势闯入；突然涌现",
-          "note": "irrupción 含有『突然、强行进入』的意味，比 llegada（到来）语气更强烈，新闻中常用于描述某事物对某领域的冲击性介入。"
+          "word": "celebrados",
+          "translation": "被赞颂的，被称颂的",
+          "note": "celebrar 除了表示『庆祝』，还有『赞美、称颂』之意，此处是典型的一词多义，不能理解为『庆祝』，而应译为『被传颂』。"
         },
         {
-          "word": "derivando en",
-          "translation": "演变为；导致",
-          "note": "derivar en 是重要固定搭配，表示『逐渐演变/发展成为某种结果』，常用于描述负面趋势，比 convertirse en 更强调过程的渐进性。"
+          "word": "excavarse",
+          "translation": "被开凿，被挖掘",
+          "note": "反射代词结构 comenzó a excavarse 表示无主语被动，是新闻正式文体中常见句式，相当于英语的 it began to be excavated。"
         }
       ]
     },
     {
       "id": 3,
-      "es": "La plataforma francesa Deezer ha sido de las primeras en <strong>dar la voz de alarma</strong>. En enero de 2025 recibía cada día 10.000 canciones con IA, y en abril de este año la cifra supera las 75.000. Eso son más de dos millones de canciones con IA mensuales, que representan el 44% de sus subidas totales diarias. Y hay más. Una <strong>encuesta</strong> entre sus usuarios reveló que el 97% no era capaz de distinguir entre música 100% fake y música compuesta por personas.",
-      "zh": "法国平台Deezer是最早发出警报的平台之一。2025年1月，它每天收到1万首AI歌曲，而今年4月这一数字已超过7.5万首。这意味着每月超过200万首AI歌曲，占其每日总上传量的44%。还不止于此：一项针对其用户的调查显示，97%的用户无法区分100%的假音乐与真人创作的音乐。",
+      "es": "Hangzhou también ocupa un lugar <strong>privilegiado</strong> en la geografía cultural, económica y política del país. La capital de la provincia de Zhejiang tiene 12 millones de habitantes y es la <strong>sede</strong> central de las oficinas de Alibaba, el grupo empresarial <strong>pionero</strong> en el comercio electrónico. En casi todas las tiendas y restaurantes se puede pagar con su aplicación, como pronto aprenden los viajeros.",
+      "zh": "杭州在全国的文化、经济和政治版图上也占据着举足轻重的地位。这座浙江省省会城市拥有1200万居民，是电子商务先驱企业阿里巴巴集团的总部所在地。正如旅行者们很快就会发现的那样，几乎所有商店和餐厅都可以用阿里巴巴的应用程序付款。",
       "vocab": [
         {
-          "word": "dar la voz de alarma",
-          "translation": "发出警报；敲响警钟",
-          "note": "固定惯用语，字面意为『发出警报的声音』，实际用于表达『率先提出警告』，新闻中高频出现，语气正式。"
+          "word": "privilegiado",
+          "translation": "优越的，得天独厚的",
+          "note": "ocupar un lugar privilegiado 是新闻文体中的固定搭配，表示『占据重要或优越地位』，不能直译为『特权的』。"
         },
         {
-          "word": "encuesta",
-          "translation": "调查；问卷调查",
-          "note": "encuesta 特指通过问卷或访谈收集意见的『民调/调查』，与 investigación（研究调查）不同，后者更偏向学术或深度研究。"
+          "word": "sede",
+          "translation": "总部，驻地",
+          "note": "sede 可指机构总部（la sede de la ONU）或赛事举办地（la sede de los Juegos），是新闻高频词，注意不要与 seda（丝绸）混淆。"
+        },
+        {
+          "word": "pionero",
+          "translation": "先驱的，开拓者",
+          "note": "可作名词（el pionero）或形容词（empresa pionera），与英语 pioneer 同源，在商业和科技新闻中高频出现。"
         }
       ]
     },
     {
       "id": 4,
-      "es": "\"La música generada por IA ya no es un fenómeno <strong>marginal</strong> y, a medida que las entregas diarias siguen aumentando, esperamos que todo el ecosistema musical se una a nosotros para tomar medidas que ayuden a <strong>salvaguardar</strong> los derechos de los artistas y promover la transparencia para los fans\", reclamó a finales del mes pasado Alexis Lanternier, director ejecutivo de Deezer (la plataforma ha optado por etiquetar y distinguir claramente las canciones hechas por humanos de las generadas por IA).",
-      "zh": "『AI生成的音乐已不再是边缘现象，随着每日上传量持续增长，我们希望整个音乐生态系统与我们携手采取措施，帮助保障艺术家的权益，并为粉丝提供更多透明度。』Deezer首席执行官亚历克西斯·朗特尼耶上月底如此呼吁道。（该平台已选择对歌曲进行标注，明确区分人类创作与AI生成的内容。）",
+      "es": "Para aproximarse al corazón de la ciudad desde la estación de tren, resulta inevitable recorrer varios kilómetros de autopistas elevadas que <strong>discurren</strong> entre rascacielos. Enseguida aparecen, como un <strong>espejismo</strong>, conjuntos monumentales: un puente sobre el canal o algunas casas de estilo tradicional. Casi siempre se trata de recreaciones históricas. Solo en el distrito de Shangcheng, en torno a la calle de Gaoyin, se encuentran algunos edificios originales. Sin duda, las farmacias, con sus grandes puertas de piedra, son los más <strong>llamativos</strong>. La de Hu Qing Yu Tang, fundada en 1874, tiene un museo dedicado a la medicina china.",
+      "zh": "从火车站前往城市中心，不可避免地要穿越数公里在摩天大楼间延伸的高架公路。随后，一些宏伟的建筑群便如海市蜃楼般出现在眼前：运河上的桥梁，或是几栋传统风格的房屋。但这些几乎都是历史场景的复原重建。只有在上城区高银街一带，才能找到一些原汁原味的老建筑。其中最引人注目的无疑是那些药店，它们都有着宽阔的石门。创建于1874年的胡庆余堂设有一座中医博物馆。",
       "vocab": [
         {
-          "word": "marginal",
-          "translation": "边缘的；次要的",
-          "note": "假朋友警示：marginal 在西语中主要意为『边缘的、微不足道的』，与英语 marginal 含义相近，但中文学习者容易误解为『利润率』（那是 margen de beneficio）。"
+          "word": "discurren",
+          "translation": "延伸，流经",
+          "note": "discurrir 是多义词：用于道路或河流时表示『流经、延伸』，用于思维时表示『思考、推理』，学习时需根据语境判断。"
         },
         {
-          "word": "salvaguardar",
-          "translation": "保障；维护；捍卫",
-          "note": "由 salva-（保护）+ guardar（守护）构成，是正式文体和新闻中的高频词，常搭配 derechos（权利）、intereses（利益）等名词使用。"
+          "word": "espejismo",
+          "translation": "海市蜃楼，幻象",
+          "note": "字面指沙漠中的海市蜃楼，引申为『虚幻的景象或希望』，在新闻中常作比喻，如 el espejismo del progreso（进步的幻象）。"
+        },
+        {
+          "word": "llamativos",
+          "translation": "引人注目的，醒目的",
+          "note": "llamativo 来自 llamar（呼唤），构词上表示『吸引眼球的』，近义词 vistoso 更侧重视觉上的华丽，llamativo 则可用于行为或声音。"
         }
       ]
     },
     {
       "id": 5,
-      "es": "Jorge Rossy, batería de jazz español de talla internacional —tocó con Wayne Shorter—, sufre el síndrome del impostor digital <strong>en carne propia</strong>. Hace poco le llamó un amigo y le dijo: \"Que sepas que he visto que tienes un fake\". Al ir a mirarlo, Rossy comprobó en varias plataformas cómo su espacio personal incluía canciones hechas por IA sin que él tuviera nada que ver con ellas. \"Pura porquería\", dice en conversación telefónica.",
-      "zh": "西班牙爵士鼓手豪尔赫·罗西是国际级别的演奏家——曾与韦恩·肖特同台演出——他亲身经历了数字冒名顶替综合症。不久前，一位朋友打电话告诉他：『你知道吗，我看到有人在冒充你。』罗西去查看后，在多个平台上发现自己的个人主页中出现了AI创作的歌曲，而他与这些歌曲毫无关系。『纯粹是垃圾，』他在电话采访中说道。",
+      "es": "En la colina Wu se levantan un teatro de ópera tradicional, dentro del templo taoísta Zhongxing Dongyue, el Museo de la Ciudad y el pabellón del Dios de la Ciudad. Aunque desde su <strong>atalaya</strong> se divisan el lago del Oeste y las montañas circundantes, el inmenso río Qiantang queda oculto entre los edificios. El Museo Nacional del Agua explica la importancia que la ingeniería hidráulica ha tenido para la historia del país, como también evoca el Gran Canal de China, que atraviesa la ciudad y puede recorrerse en barcos que salen de la plaza de Wulin. El puente de piedra de Gongchen, formado por tres grandes arcos, fue erigido originalmente en 1631 y reconstruido en 1885. A su alrededor, los antiguos muelles han sido <strong>reconvertidos</strong> en una escenografía de la época imperial.",
+      "zh": "吴山上矗立着一座传统戏曲剧场（位于中兴东岳庙内）、城市博物馆和城隍阁。尽管从这处制高点可以俯瞰西湖和四周的群山，但宽阔的钱塘江却隐没在楼宇之间。中国水利博物馆讲述了水利工程对中国历史的重要意义，大运河同样承载着这段历史，它穿城而过，游客可乘坐从武林广场出发的游船游览。拱宸桥由三座大拱券构成，最初建于1631年，1885年重建。桥的四周，昔日的码头已被改造成一片再现帝国时代风貌的历史场景。",
       "vocab": [
         {
-          "word": "en carne propia",
-          "translation": "亲身；切身地",
-          "note": "固定惯用语，字面意为『在自己的肉身上』，实际表示『亲身经历、切身体会』，常与 sufrir、vivir、experimentar 等动词搭配。"
+          "word": "atalaya",
+          "translation": "瞭望台，制高点",
+          "note": "源自阿拉伯语，原指古代瞭望塔，现代文章中常作比喻，表示『可俯瞰全局的有利位置』，属于B2以上的书面词汇。"
         },
         {
-          "word": "porquería",
-          "translation": "垃圾；破烂；糟糕的东西",
-          "note": "口语色彩强烈的贬义词，由 puerco（猪）派生而来，语气比 basura 更粗俗直接，常用于表达强烈不满。"
+          "word": "reconvertidos",
+          "translation": "被改造，被转变用途",
+          "note": "前缀 re- 表示『再次』，reconvertir 即『再次转变用途』，常见于描述工业遗址或旧建筑再利用，如 fábrica reconvertida en museo。"
         }
       ]
     },
     {
       "id": 6,
-      "es": "Rossy no <strong>anda</strong> muy animado. Es normal. Los que viven la música como una parte <strong>inherente</strong> de sus vidas observan cómo crece un sistema de explotación comercial digital que muchas veces invisibiliza, copia y trolea a los músicos, priorizando en cambio las sensaciones y los estados de ánimo de los usuarios para atraer publicidad, según denuncia Liz Pelly en su libro Mood Machine: The Rise of Spotify and the Cost of the Perfect Playlist (Atria, 2025).",
-      "zh": "罗西情绪不太好，这很正常。那些将音乐视为生命中不可分割一部分的人，眼睁睁看着一套数字商业剥削体系不断壮大——这套体系频繁地让音乐人隐形、被抄袭、被骚扰，转而优先迎合用户的感受和情绪状态以吸引广告，利兹·佩利在其著作《情绪机器：Spotify的崛起与完美歌单的代价》（Atria，2025年）中对此提出了批评。",
+      "es": "Dada su relevancia histórica, el lago del Oeste y su entorno fueron declarados <strong>patrimonio mundial</strong> por la Unesco en 2011. Recorrerlo a pie no es una buena idea si no se tiene demasiado tiempo. Se puede tomar un trenecito, un barco o una bicicleta para acortar las distancias y disfrutar de los distintos <strong>enclaves</strong> que conforman este paisaje. Son imprescindibles la pagoda Baochu, uno de los pocos monumentos con más de cien años que se conservan, y la pagoda Leifeng, el icono más reconocible de Hangzhou. Hoy un ascensor asciende hasta su quinto piso, y en la planta baja todavía pueden verse los cimientos del edificio primitivo, levantado en el siglo X. Según cuentan los guías, era costumbre <strong>triturar</strong> los ladrillos del edificio sagrado para preparar remedios curativos. Probablemente por este motivo acabó derrumbándose en 1924. Pero lo realmente extraordinario del lago son los paseos entre <strong>nenúfares</strong>, las islas y los jardines, como el de Quyuan. Justo enfrente de este último, el mausoleo de Yue Fei fue levantado en honor a un héroe de la dinastía Song. Aunque el edificio no se libró de la furia de los Guardias Rojos durante la Revolución Cultural, después de su reconstrucción ha vuelto a recibir a cientos de turistas de toda China que conocen su leyenda.",
+      "zh": "鉴于其重要的历史价值，西湖及其周边地区于2011年被联合国教科文组织列为世界遗产。如果时间有限，徒步游览并不是个好主意。可以乘坐小火车、游船或骑自行车来缩短游览距离，尽情欣赏构成这片景观的各个景点。保俶塔是不可错过的景点之一，它是为数不多保存至今、有着百年以上历史的古迹；雷峰塔则是杭州最具代表性的地标。如今，电梯可以直达五楼，而在底层，仍可看到建于10世纪的原始建筑地基。据导游介绍，人们过去有将这座神圣建筑的砖块研碎以配制药方的习俗，这很可能正是它于1924年轰然倒塌的原因。但西湖真正令人叹为观止之处，是穿行于荷花、岛屿和园林之间的漫步，例如曲院风荷。就在其正对面，岳飞墓是为纪念南宋英雄而修建的。尽管这座建筑未能逃过文化大革命中红卫兵的破坏，但重建之后，它再度迎来了来自全国各地、熟知其传说的数以百计的游客。",
       "vocab": [
         {
-          "word": "anda",
-          "translation": "（状态上）处于；显得",
-          "note": "andar + 形容词是西语重要结构，表示某人『处于某种状态』，与 estar 相比更强调持续性或习惯性状态，如 anda preocupado（他最近一直很担心）。"
+          "word": "patrimonio mundial",
+          "translation": "世界遗产",
+          "note": "patrimonio 本义为『遗产、财产』，patrimonio mundial 是联合国教科文组织专用术语，也可搭配为 patrimonio cultural/histórico（文化/历史遗产）。"
         },
         {
-          "word": "inherente",
-          "translation": "固有的；内在的；不可分割的",
-          "note": "B2-C1学术高频词，常与介词 a 搭配，构成 inherente a（对……来说是固有的），如 un riesgo inherente a la profesión（职业固有风险）。"
+          "word": "enclaves",
+          "translation": "景点，特定地点",
+          "note": "enclave 原指被他国领土包围的飞地，引申为『特定的地点或区域』，在旅游和地理文章中常指某个值得关注的具体地方。"
+        },
+        {
+          "word": "triturar",
+          "translation": "研碎，磨碎",
+          "note": "triturar 指将固体物质碾碎成粉末或碎片，与 moler（磨）近义，但 triturar 更强调彻底粉碎的过程，也可用于比喻『彻底击垮』。"
+        },
+        {
+          "word": "nenúfares",
+          "translation": "荷花，睡莲",
+          "note": "nenúfar 是植物学词汇，泛指水生睡莲科植物，在文学和旅游文体中常见，有构词价值：词根来自阿拉伯语，属于借词。"
         }
       ]
     },
     {
       "id": 7,
-      "es": "\"Lo que hace esta gente con estos engaños es <strong>lamentable</strong>. Es como si nos estuvieran obligando a consumir comida basura. Están diseñando los productos del futuro, tratando de imponer un sentido de la vida que se basa solo en ganar dinero, en pensar en el <strong>lucro</strong> y nada más. Y eso es una cosa muy pobre, como una enfermedad\", denuncia Rossy.",
-      "zh": "『这些人用这些骗局所做的事情令人痛心。这就好像在强迫我们消费垃圾食品。他们在设计未来的产品，试图强加一种只以赚钱为本、只考虑利益的人生观。这是一件非常可悲的事，就像一种病，』罗西谴责道。",
+      "es": "Los budas <strong>labrados</strong> en las grutas de Feilai Feng tuvieron más suerte. Para evitar otro atentado contra el patrimonio, los estudiantes arriesgaron sus vidas con el fin de protegerlos. Los más antiguos datan del siglo XIII. Para llegar hasta ellos hay que <strong>adentrarse</strong> en el valle de Tianzhu, que se estrecha y asciende salpicado de campos de té, bosques de bambú y templos. El monasterio de Lingyin es uno de los centros religiosos más visitados de China, pero es el de Taoguang, en lo alto de la montaña, el que tiene más <strong>encanto</strong>. Desde su terraza se disfruta de una vista panorámica de la ciudad y, además, cuenta con un restaurante vegetariano.",
+      "zh": "飞来峰石窟中雕刻的佛像则要幸运得多。为了避免文化遗产再遭破坏，学生们冒着生命危险保护了它们。其中最古老的佛像可追溯至13世纪。前往石窟，需要深入天竺山谷，山谷越走越窄，沿途点缀着茶园、竹林和寺庙。灵隐寺是中国参观人数最多的宗教圣地之一，但位于山顶的韬光寺却更有魅力。从其露台可以俯瞰城市的全景，此外还设有一家素食餐厅。",
       "vocab": [
         {
-          "word": "lamentable",
-          "translation": "令人痛心的；可悲的；遗憾的",
-          "note": "语气比 malo（坏）强烈得多，带有道德谴责色彩，新闻和正式文体中常用于表达对某事的强烈遗憾或批判。"
+          "word": "labrados",
+          "translation": "雕刻的，雕凿的",
+          "note": "labrar 本义为『耕作、加工』，用于石材或金属时表示『雕刻、打造』，与 esculpir（雕塑）近义，但 labrar 更强调手工打磨的过程。"
         },
         {
-          "word": "lucro",
-          "translation": "利润；私利；牟利",
-          "note": "lucro 多出现在正式或批判性语境中，常见搭配有 afán de lucro（逐利之心）、sin ánimo de lucro（非营利性的），后者是新闻中的超高频短语。"
+          "word": "adentrarse",
+          "translation": "深入，进入内部",
+          "note": "前缀 a- + dentro（里面）+ -arse 构成，表示『向内部深入』，常搭配介词 en，如 adentrarse en el bosque/la selva，是有构词价值的动词。"
+        },
+        {
+          "word": "encanto",
+          "translation": "魅力，迷人之处",
+          "note": "tener encanto 或 tener más encanto 是旅游和文学文体中的高频搭配，比 atractivo 更带有一种难以言说的迷人气质，语气更柔和优雅。"
         }
       ]
     },
     {
       "id": 8,
-      "es": "En la música online se sufre deepfake, en este caso, música generada por IA que imita la voz o el estilo de un artista real, y también 'desajuste de contenido', denominadas así las publicaciones fraudulentas en el perfil de un artista. Según un informe de la Unión de Músicos al que ha tenido acceso EL PAÍS, el uso de ese último término <strong>oculta</strong> el hecho de que la falta de control o el uso de mecanismos de verificación casi inexistentes a la hora de subir música a las plataformas \"permite un fraude <strong>deliberado</strong>, sistemático y a gran escala\".",
-      "zh": "网络音乐领域正在遭受深度伪造之害——即AI生成的、模仿真实艺术家声音或风格的音乐——以及所谓『内容错配』，这是对艺术家主页上虚假发布内容的称谓。据《国家报》获得的一份音乐人工会报告显示，使用『内容错配』这一术语本身就掩盖了一个事实：平台在上传音乐时缺乏管控，或验证机制几近于无，『助长了蓄意的、系统性的、大规模的欺诈行为』。",
+      "es": "En las últimas décadas, las autoridades chinas han hecho un esfuerzo enorme para recuperar los tesoros perdidos. Las ruinas del palacio Deshou son un buen ejemplo. También conocido como el palacio de la Moral y la Longevidad, fue la residencia a la que se retiró el emperador Gaozong de la dinastía Song del Sur después de su <strong>abdicación</strong>, en el año 1162. Solo se ha podido <strong>desenterrar</strong> una pequeña parte de los cimientos, pero a partir de estos <strong>hallazgos</strong> arqueológicos se ha reconstruido encima uno de los pabellones. En sus salas se exponen muebles, porcelanas y pinturas de la dinastía Song del Sur. En la manzana de enfrente se sitúa la antigua residencia de Hu Xueyan, rico comerciante del siglo XIX que fundó los primeros astilleros modernos durante la dinastía Qing. Algunos de los aspectos más singulares de la jardinería china se resumen entre sus muros: las rocas representan lo masculino, la permanencia y la contemplación, y el agua alude a lo femenino, el cambio y la acción.",
+      "zh": "近几十年来，中国当局付出了巨大努力来找回那些失落的珍宝。德寿宫遗址便是一个很好的例子。这座宫殿又称『道德与长寿之宫』，是南宋皇帝高宗于1162年退位后的居所。目前仅能挖掘出一小部分地基，但考古人员已在这些考古发现的基础上，于其上方重建了其中一座殿阁。殿内陈列着南宋时期的家具、瓷器和绘画。对面一个街区坐落着胡雪岩故居，他是19世纪的富商，清朝时期创办了首批现代船坞。中国园林艺术中一些最独特的理念在这座宅院的围墙之内得到了体现：山石代表阳刚、永恒与沉思，而水则象征阴柔、变化与行动。",
       "vocab": [
         {
-          "word": "oculta",
-          "translation": "掩盖；隐藏；遮蔽",
-          "note": "ocultar 比 esconder 更正式，常用于新闻批评性文体，表示『刻意掩盖真相』，如 ocultar información（隐瞒信息）。"
+          "word": "abdicación",
+          "translation": "退位，逊位",
+          "note": "名词来自动词 abdicar，指君主主动放弃权位，与 renuncia（辞职）近义但专用于王权语境，英语 abdication 与之同源。"
         },
         {
-          "word": "deliberado",
-          "translation": "蓄意的；故意的",
-          "note": "与 intencionado 近义，但 deliberado 更强调经过深思熟虑后的故意行为，法律和新闻文体中更常见，语气更重。"
+          "word": "desenterrar",
+          "translation": "挖掘出，发掘",
+          "note": "前缀 des- 表示『去除、反向』，enterrar 是『埋葬』，desenterrar 即『从土中取出』，引申也可表示『重新揭露被遗忘的事物』。"
+        },
+        {
+          "word": "hallazgos",
+          "translation": "发现，发现物",
+          "note": "hallazgo 来自动词 hallar（找到、发现），比 descubrimiento 更常用于考古和学术语境，指具体找到的物品或结论。"
         }
       ]
     },
     {
       "id": 9,
-      "es": "En una investigación hecha con herramientas básicas y solo en el sector del jazz, esta asociación ha detectado más de 150 artistas y grupos —vivos o muertos, algunos poco conocidos y otros clásicos, como Cannonball Adderley, Horace Silver o Ben Webster— en cuyos perfiles <strong>cuelgan</strong> <strong>burdas</strong> canciones fake.",
-      "zh": "在一项仅使用基础工具、仅针对爵士乐领域的调查中，该协会已发现超过150位艺术家和乐队——无论在世与否，有些名气不大，有些则是经典大师，如坎农鲍尔·阿德利、霍勒斯·西尔弗和本·韦伯斯特——他们的主页上挂着粗制滥造的假歌曲。",
+      "es": "Comer es una de las experiencias más interesantes que se pueden tener en China. En Hangzhou la oferta es <strong>inacabable</strong>. Mientras en la calle de Dajing los restaurantes sirven comida fusión, en Shiwukui están los establecimientos más populares. Por ejemplo, la carta de Xinzhouji Homely incluye delicias como raíz de loto rojo, guiso de cartílago y salmonetes fritos. Todo a un precio excelente. En el barrio de Xiaohe ZhiJie, una antigua aldea junto al Gran Canal, también hay numerosos restaurantes y bares de copas. Es una zona agradable para el paseo, que combina el <strong>pintoresquismo</strong> de sus calles y unos depósitos de petróleo, reconvertidos en espacios para el arte y el ocio.",
+      "zh": "饮食是在中国能够拥有的最有趣的体验之一。在杭州，美食选择多得数不胜数。大井巷的餐厅供应融合料理，而十五奎巷则汇聚了最受欢迎的餐馆。例如，新周记家常菜的菜单上就有红莲藕、软骨煲和炸鲻鱼等美味，价格十分实惠。在小河直街街区，一座紧邻大运河的古老村落里，同样有众多餐厅和酒吧。这里是散步的好去处，古朴街巷的风情与改建成艺术和休闲空间的石油储罐相互映衬，别有一番趣味。",
       "vocab": [
         {
-          "word": "cuelgan",
-          "translation": "挂着；发布着（内容）",
-          "note": "colgar 本义为『悬挂』，在网络语境中引申为『发布、上传』内容，如 colgar un vídeo（发布一个视频），是数字媒体语境中的高频用法。"
+          "word": "inacabable",
+          "translation": "无穷无尽的，没有尽头的",
+          "note": "前缀 in-（否定）+ acabar（结束）+ -able（可…的），构词规律清晰，同类词如 inagotable（取之不尽的）、insuperable（无法超越的）。"
         },
         {
-          "word": "burdas",
-          "translation": "粗制滥造的；拙劣的",
-          "note": "burdo/a 形容事物做工粗糙、质量低劣，常用于批评性语境，如 una burda imitación（拙劣的模仿），比 malo 更具文学和新闻色彩。"
+          "word": "pintoresquismo",
+          "translation": "如画的风情，风景如画的特质",
+          "note": "来自形容词 pintoresco（如画的），后缀 -ismo 将其名词化，表示某种风格或特质，pintoresco 本身也是高频旅游文体词汇。"
         }
       ]
     },
     {
       "id": 10,
-      "es": "No parece haber apenas regulación. La revista Rolling Stone relata el caso de Paul Bender, de la banda Hiatus Kaiyote, quien, con un grupo de amigos, puso en marcha la Operación Vertedero de Payasos, un experimento para <strong>testar</strong> los controles de las plataformas. Lo que hicieron fue generar \"deliberadamente la peor basura IA\", y subirla después a través de distribuidores musicales estándar a servicios de streaming bajo otros nombres. Lo que comprobaron es que no tuvieron ningún <strong>impedimento</strong>, a pesar de que una de las canciones se titulaba Funky bagpipes is why we need authentification (This is fraud) (Las gaitas funky son la razón por la que necesitamos la autenticación (esto es un fraude).",
-      "zh": "监管似乎几乎形同虚设。《滚石》杂志报道了Hiatus Kaiyote乐队保罗·本德尔的案例：他与一群朋友发起了『小丑垃圾场行动』，这是一个测试平台审核机制的实验。他们所做的是『故意生成最烂的AI垃圾』，然后以其他名义通过标准音乐发行商上传至各流媒体平台。结果发现他们没有遇到任何阻碍，尽管其中一首歌的标题就叫《放克风笛正是我们需要认证的原因（这是欺诈）》。",
+      "es": "En 2022, la capital de la provincia de Zhejiang <strong>acogió</strong> los Juegos Asiáticos. Para tal ocasión, los arquitectos estadounidenses NBBJ diseñaron un estadio olímpico con forma de loto. Al lado se inauguró la Puerta de Hangzhou, un rascacielos en forma de U y <strong>vocación</strong> de icono. Puede que hoy no sea la ciudad más espléndida y noble del mundo, como decía Marco Polo, pero resulta una visita <strong>imprescindible</strong> para comprender lo que ha sido China en los últimos mil años.",
+      "zh": "2022年，这座浙江省省会城市承办了亚运会。为此，美国建筑师事务所NBBJ设计了一座莲花造型的奥林匹克体育场。其旁边落成了杭州之门，这是一座U形摩天大楼，立志成为城市新地标。如今它或许已不再是马可·波罗所说的『世界上最壮丽、最高贵的城市』，但对于理解中国千年历史而言，这里是一处不可错过的目的地。",
       "vocab": [
         {
-          "word": "testar",
-          "translation": "测试；检验",
-          "note": "testar 是从英语 test 借入的动词，在现代西语中广泛用于科技、商业语境，与 probar 近义，但 testar 更偏向系统性验证，probar 则更口语化。"
+          "word": "acogió",
+          "translation": "承办，接待，迎接",
+          "note": "acoger 是多义词：可指『接纳人』（acoger a refugiados），也可指『承办活动』（acoger los Juegos），在新闻中两种用法都极为常见。"
         },
         {
-          "word": "impedimento",
-          "translation": "阻碍；障碍；阻拦",
-          "note": "由前缀 im-（否定）+ pedir（阻止）构成，正式文体高频词，常见搭配为 sin ningún impedimento（毫无阻碍地）或 poner impedimentos（设置障碍）。"
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "es": "Un tipo de fraude que la industria musical parece temer más es la <strong>proliferación</strong> de bots y granjas de clics consumiendo masivamente canciones generadas por IA y cobrando por ello. \"Son usuarios fantasma que escuchan canciones fantasma, un tipo de fraude que entre las canciones reales es del 10%, pero en las fake alcanza el 70%\", advierte Thiboult Roucou, director de royalties de Deezer, en una entrevista con Skynews.",
-      "zh": "音乐行业似乎最为担忧的一种欺诈形式，是机器人和点击农场的泛滥——它们大量消费AI生成的歌曲并从中牟利。『这些是幽灵用户在收听幽灵歌曲。这类欺诈在真实歌曲中的比例为10%，但在假歌曲中高达70%，』Deezer版税总监蒂博·鲁库在接受天空新闻采访时警告道。",
-      "vocab": [
-        {
-          "word": "proliferación",
-          "translation": "激增；扩散；泛滥",
-          "note": "新闻学术高频词，来自动词 proliferar（激增、蔓延），常用于描述负面事物的快速扩散，如 proliferación de fake news（虚假新闻泛滥）。"
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "es": "Hace pocas semanas, Spotify anunció Verified by Spotify, un nuevo <strong>distintivo</strong> de la plataforma que quiere garantizar la verificación del artista —no así su música— con criterios de autenticidad como una presencia identificable más allá del canal de streaming, a través de conciertos, redes sociales vinculadas o merchandising.",
-      "zh": "几周前，Spotify宣布推出『Spotify认证』标识，这是该平台的一项新徽章，旨在保障艺术家身份的真实性——但不涉及其音乐本身——认证标准包括在流媒体渠道之外具有可识别的存在，例如演出、关联社交媒体账号或周边商品。",
-      "vocab": [
-        {
-          "word": "distintivo",
-          "translation": "徽章；标识；（作形容词）有特色的",
-          "note": "distintivo 既可作名词（徽章、标志），也可作形容词（有区别性特征的），注意与 distinto（不同的）区分，两者词根相同但词性和含义不同。"
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "es": "Pero quizás el debate está en preguntarse qué significa la música para según qué plataformas. En su libro, Liz Pelly denuncia que Spotify prioriza la cantidad y la velocidad de consumo, considerando la música como \"una commodity, un mero contenido, una lógica que la IA está multiplicando ahora hasta límites <strong>tenebrosos</strong>\".",
-      "zh": "但问题的核心或许在于追问：对于不同的平台而言，音乐究竟意味着什么？利兹·佩利在其书中批评Spotify将数量和消费速度置于首位，把音乐视为『一种商品、一种纯粹的内容，而AI正在将这种逻辑推向令人不寒而栗的极端』。",
-      "vocab": [
-        {
-          "word": "tenebrosos",
-          "translation": "令人不寒而栗的；阴暗的；可怕的",
-          "note": "tenebroso 来自 tinieblas（黑暗），文学和新闻中用于形容令人恐惧或道德上阴暗的事物，比 oscuro 语气更强烈、更具文学色彩。"
-        }
-      ]
-    },
-    {
-      "id": 14,
-      "es": "Ante ello, cada vez más voces reclaman regular el sector. En conversación telefónica, Cristina Perpiñá-Robert, directora de la SGAE, señala el peligro de <strong>devaluación</strong> de los espacios de streaming, y pide una mayor transparencia y colaboración. Guillem Arnedo, de la Unión de Músicos, exige medidas para evitar que ciertos generadores de contenido con IA publiquen productos en nombre y en los perfiles de artistas existentes, y la Sociedad de Artistas Intérpretes o Ejecutantes de España (IAE) recuerda que la voz, la imagen o el estilo forman parte de la identidad del artista y que, por tanto, deben estar protegidas. Ante el peligro de <strong>fenecer</strong> de tristeza rodeados de robots cantarines sin pies ni cabeza, hay que recordar que también está el poder cotidiano de los que aman la música —el consumidor, le llaman algunos— a la hora de elegir qué vía elige para disfrutarla.",
-      "zh": "面对这一局面，越来越多的声音呼吁对该行业进行监管。西班牙版权协会（SGAE）主任克里斯蒂娜·佩尔皮尼亚-罗伯特在电话采访中指出了流媒体空间贬值的危险，并呼吁提高透明度、加强合作。音乐人工会的吉列姆·阿内多要求采取措施，防止某些AI内容生成者以现有艺术家的名义在其主页上发布内容。西班牙表演艺术家协会（IAE）则提醒道，声音、形象和风格是艺术家身份认同的组成部分，因此必须受到保护。面对被一群莫名其妙的歌唱机器人包围、郁郁而终的危险，我们也要记住：热爱音乐的人——有些人称之为消费者——在选择以何种方式享受音乐时，同样握有日常生活中的力量。",
-      "vocab": [
-        {
-          "word": "devaluación",
-          "translation": "贬值；价值下降",
-          "note": "由 de-（向下）+ valuar（估值）构成，原为经济术语（货币贬值），现广泛用于比喻意义，如文化、艺术价值的贬损，构词规律可类推 revaluación（升值）。"
+          "word": "vocación",
+          "translation": "志向，使命感，天职",
+          "note": "vocación 原指宗教上的『圣召』，引申为『天生的使命或志向』，此处 vocación de icono 是新闻中常见的名词短语用法，表示『立志成为地标』。"
         },
         {
-          "word": "fenecer",
-          "translation": "消亡；死去；终结",
-          "note": "fenecer 是书面语和文学语体中表示『死亡、消亡』的词，比 morir 更正式、更具文学色彩，此处带有讽刺意味，形容被AI音乐包围而『郁郁而终』。"
+          "word": "imprescindible",
+          "translation": "不可或缺的，必不可少的",
+          "note": "前缀 im-（否定）+ prescindir（舍弃）+ -ible，构词清晰，表示『无法舍弃的』，在旅游和推荐类文章中是超高频形容词。"
         }
       ]
     }
   ],
   "slangExpressions": [
     {
-      "expression": "dar la voz de alarma",
-      "type": "modismo",
-      "translation": "发出警报；敲响警钟",
-      "usage": "用于描述某人或某机构率先就某危险或问题发出公开警告，语气正式，新闻中极为常见。",
-      "exampleEs": "Fueron los científicos quienes dieron la voz de alarma sobre el cambio climático hace décadas.",
-      "exampleZh": "几十年前，正是科学家们率先就气候变化敲响了警钟。"
+      "expression": "no se libró de",
+      "type": "expresión coloquial",
+      "translation": "没能逃过，未能幸免于",
+      "usage": "librar(se) de 表示『从某种危险或麻烦中脱身』，否定形式 no librarse de 表示『未能幸免』，语气生动，常用于口语和新闻叙事中。",
+      "exampleEs": "El edificio histórico no se libró de las llamas del incendio.",
+      "exampleZh": "那座历史建筑未能幸免于火灾的吞噬。"
     },
     {
-      "expression": "en carne propia",
-      "type": "modismo",
-      "translation": "亲身经历；切身体会",
-      "usage": "强调某人直接、亲身地经历了某件事，通常是痛苦或困难的事，常与 sufrir、vivir、experimentar 搭配。",
-      "exampleEs": "Solo quien ha vivido la guerra en carne propia puede entender su horror.",
-      "exampleZh": "只有亲身经历过战争的人，才能真正理解它的恐怖。"
-    },
-    {
-      "expression": "sin pies ni cabeza",
-      "type": "modismo",
-      "translation": "莫名其妙；毫无逻辑；乱七八糟",
-      "usage": "字面意为『没有脚也没有头』，实际形容某事毫无道理、逻辑混乱，口语和书面语均可使用，语气带有轻蔑或无奈。",
-      "exampleEs": "Su explicación no tenía ni pies ni cabeza, nadie entendió nada.",
-      "exampleZh": "他的解释毫无逻辑，没有人听懂。"
+      "expression": "arriesgar la vida",
+      "type": "expresión coloquial",
+      "translation": "冒着生命危险",
+      "usage": "arriesgar + 名词 表示『拿某物去冒险』，arriesgar la vida 是固定搭配，强调为某目标不惜以生命相搏，常见于新闻和叙事文体。",
+      "exampleEs": "Los bomberos arriesgaron sus vidas para salvar a las víctimas del derrumbe.",
+      "exampleZh": "消防员们冒着生命危险去营救坍塌事故中的受害者。"
     }
   ]
 }
