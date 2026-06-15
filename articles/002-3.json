@@ -1,0 +1,217 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "文化与社会",
+  "difficulty": "C1",
+  "wordCount": "约750词",
+  "title": "Estamos hartos",
+  "subtitle": "我们受够了",
+  "resumenEs": "La autora denuncia con rabia la corrupción en el mundo literario, desde los escritores fantasma que redactan novelas para autores superventas hasta las trampas y mentiras que infectan la sociedad en general. Pero termina con un giro esperanzador: la mayoría de escritores, libreros y lectores son honestos, y los corruptos no son más que una minoría de parásitos.",
+  "resumenZh": "作者愤怒地揭露文学界的腐败现象——从为畅销书作者捉刀代笔的枪手，到蔓延整个社会的欺骗与腐败。但文章以充满希望的笔调收尾：大多数作家、书商和读者都是诚实的，腐败者不过是少数寄生虫。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Hace unos días cené con X. Es un autor notable con una repercusión comercial mediana. Me contó que buena parte de sus ingresos los obtiene escribiendo o reescribiendo las novelas de otros. Vamos, lo que tradicionalmente se conoce como un <strong>negro literario</strong> (suena fatal; los ingleses lo llaman escritor fantasma). Y no crean que se trata de esos libritos ocasionales firmados por famosos de profesiones diversas, sino, horror de horrores, de las novelas de unos cuantos autores muy conocidos y, por supuesto, <strong>superventas</strong>. Es probable que los <strong>farsantes</strong> hayan tenido la idea de partida, y alguno hasta puede haber <strong>pergeñado</strong> un (mal) borrador; pero la autoría del libro desde luego no es suya, aunque, según X, los hay que se creen escritores extraordinarios aun sin haber escrito, en una de esas carambolas mentales de la miseria humana.",
+      "zh": "几天前我与X共进晚餐。他是一位颇有才华的作者，商业影响力中等。他告诉我，他的大部分收入来自为他人写作或改写小说。说白了，就是传统意义上所说的『文学黑工』（这个叫法很难听；英国人称之为幽灵写手）。别以为这只是那种偶尔由各行各业名人署名的小册子，而是——令人不寒而栗——某几位非常知名、当然也是畅销书作者的小说。这些骗子很可能有最初的构想，有些人甚至可能草拟了一份（糟糕的）初稿；但这本书的著作权当然不属于他们。不过据X说，有些人即便从未真正写过东西，也自认为是了不起的作家，这是人性之卑劣所造就的一种奇特的心理把戏。",
+      "vocab": [
+        {
+          "word": "negro literario",
+          "translation": "文学黑工、代笔人",
+          "note": "negro literario 是西班牙语中『代笔作者』的传统说法，作者本人也指出这个词听起来很糟糕，英语对应词为 ghostwriter（幽灵写手），了解这一文化差异有助于理解西语文学圈的表达习惯。"
+        },
+        {
+          "word": "superventas",
+          "translation": "畅销书（作者）、畅销品",
+          "note": "构词规律：super-（超级）+ ventas（销售），可类推出 superpoblado（人口过密的）、superpotencia（超级大国）等词，superventas 既可指畅销书本身，也可形容作者。"
+        },
+        {
+          "word": "farsantes",
+          "translation": "骗子、冒充者、装腔作势的人",
+          "note": "farsante 源自 farsa（闹剧、骗局），指那些假装自己是某种人或具备某种能力的人，比 mentiroso 更强调表演性的欺骗，语气带有轻蔑和讽刺。"
+        },
+        {
+          "word": "pergeñado",
+          "translation": "草草写就、粗略起草",
+          "note": "pergeñar 是C1级别的书面词，意为『匆忙或粗略地写出、草拟』，带有『质量不高』的隐含义，比 redactar 或 escribir 语气更口语化且含贬义，常用于文学评论语境。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Goethe ya contaba algo parecido en su bella autobiografía Poesía y verdad; cuando, a los 10 años, en la escuela les pedían a los alumnos que hicieran poemas, había un chico que llevaba unos versos espantosos y además obviamente escritos por su ayo, pero que se <strong>pavoneaba</strong> como si fuera el poeta más excelso, lo cual lo convertía en el <strong>hazmerreír</strong> de todos. Pues bien, lo malo de nuestros tiempos es que ahora nadie se ríe del mentiroso, porque la trampa permanece oculta. A X le obligan a firmar un contrato de <strong>confidencialidad</strong>, así que ignoro qué libros rehace. No obstante, en el mundillo se comenta algún nombre muy conocido, pero no tiene por qué ser de X porque hay otros escritores en la sombra.",
+      "zh": "歌德在他那本优美的自传《诗与真》中就讲过类似的事：十岁时，学校要求学生写诗，有个男孩带来了一些糟糕透顶、显然是由他的家庭教师代写的诗句，却趾高气扬地炫耀，仿佛自己是最伟大的诗人，因此成了所有人的笑柄。然而，我们这个时代的问题在于，如今没有人嘲笑说谎者，因为骗局始终隐藏在暗处。X被要求签署保密协议，所以我不知道他改写的是哪些书。不过，圈子里流传着某些知名人士的名字，但不一定就是X的客户，因为还有其他幕后写手。",
+      "vocab": [
+        {
+          "word": "pavoneaba",
+          "translation": "趾高气扬、孔雀般炫耀",
+          "note": "pavonearse 源自 pavo real（孔雀），字面意为『像孔雀一样展示羽毛』，引申为『自鸣得意地炫耀、趾高气扬』，是生动的比喻性动词，语气带有明显的讽刺和轻蔑。"
+        },
+        {
+          "word": "hazmerreír",
+          "translation": "笑柄、出丑的人",
+          "note": "hazmerreír 是由命令式 haz（做）+ me（给我）+ reír（笑）构成的复合词，字面意为『让我笑的人』，专指成为众人嘲笑对象的人，是固定词汇，只用于这一含义。"
+        },
+        {
+          "word": "confidencialidad",
+          "translation": "保密性、保密协议",
+          "note": "confidencialidad 源自 confidencial（机密的），后缀 -idad 将形容词转化为抽象名词，acuerdo/contrato de confidencialidad 是法律和商业文体的固定搭配，意为『保密协议』。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "De hecho, la primera vez que un fantasma me habló de estos <strong>tejemanejes</strong> fue en 2019; se trataba de una buena escritora que, al igual que X, tiene ventas medianas. Los dos me dijeron la misma frase: \"Entro en las librerías y pienso: esta novela es mía, y esta, y esta otra\". Debe de ser amargo saberse mucho mejor artista que esos autores de mentira y tener una <strong>ínfima</strong> parte de su éxito.",
+      "zh": "事实上，第一次有幽灵写手向我讲起这些猫腻是在2019年；那是一位优秀的女作家，和X一样，销量平平。两人都对我说了同样一句话：『我走进书店，心想：这本小说是我写的，这本也是，还有这本。』明知自己比那些假冒作者艺术水平高出许多，却只能分得他们成功的极小一部分，这种滋味一定很苦涩。",
+      "vocab": [
+        {
+          "word": "tejemanejes",
+          "translation": "猫腻、幕后勾当、见不得人的把戏",
+          "note": "tejemaneje（常用复数 tejemanejes）是口语词，指暗中进行的、不光彩的操作或阴谋，语气带有轻蔑，比 maniobras 更口语化，常用于揭露幕后不正当行为的语境。"
+        },
+        {
+          "word": "ínfima",
+          "translation": "极小的、微乎其微的",
+          "note": "ínfimo/a 是 bajo（低）的最高级形式，源自拉丁语，意为『最低的、极其微小的』，与 mínimo 近义但语气更强，属于正式书面词汇，常用于强调数量或程度的极端渺小。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Hace siete años ya me escandalizó la situación, pero la otra noche me dolió mucho más, como quien <strong>echa sal en una herida abierta</strong>. Y es que estoy harta de las <strong>marrullerías</strong>, de los trucos sucios, de las corruptelas y las mentiras, de esta sociedad de malditos <strong>trileros</strong>. Siempre he pensado que el arte nos salva; que la literatura es el refugio de las almas buenas o, al menos, de las que aspiran a ser mejores. Por eso me desespera que también aquí, en este pequeño oasis, haya mangantes.",
+      "zh": "七年前这件事就已经让我震惊，但那天晚上却令我更加痛心，如同有人往一道敞开的伤口上撒盐。我实在受够了那些耍手段、玩阴谋的行为，受够了腐败和谎言，受够了这个充斥着可恶骗子的社会。我一直认为艺术能拯救我们，文学是善良灵魂的避难所，或者至少是那些渴望变得更好的人的庇护地。正因如此，当我发现就连这片小小的绿洲里也有骗子横行，我感到绝望。",
+      "vocab": [
+        {
+          "word": "echa sal en una herida abierta",
+          "translation": "往伤口上撒盐、雪上加霜",
+          "note": "echar sal en la herida 是固定惯用语，字面意为『往伤口上撒盐』，比喻在已经痛苦的情况下再次造成伤害，与中文『雪上加霜』或英语 to rub salt in the wound 对应，是高度形象的固定表达。"
+        },
+        {
+          "word": "marrullerías",
+          "translation": "耍手段、奸猾的把戏、小伎俩",
+          "note": "marrullería 指用狡猾手段达到目的的行为，marrullero/a 形容惯于耍手段的人，属于口语化的贬义词，比 trampa 更强调手段的阴险和惯常性。"
+        },
+        {
+          "word": "trileros",
+          "translation": "骗子、耍把戏的人",
+          "note": "trilero 本指街头玩三牌戏（trile）骗钱的人，引申为泛指各类惯用伎俩欺骗他人的人，是西班牙口语中带有强烈贬义色彩的词，语气比 estafador 更口语化。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "No puedo más. Basta ya de unos comportamientos <strong>depredadores</strong> que en algunos casos son delictivos y que en otros solo rozan la ilegalidad, pero son igual de repugnantes moralmente. Y lo peor es que quienes actúan así creen estar en su derecho. De la misma manera que el escritor que no escribe termina creyendo que es Cervantes, estos <strong>desfachatados</strong> piensan que estirar las leyes, retorcer las normas y <strong>apañarse</strong> un dinero no es más que lo que la sociedad les debe y que, por añadidura, todos lo hacen. Pues bien, les voy a dar una noticia: no lo hacen todos. Ni muchísimo menos. Solo los chorizos y los parásitos.",
+      "zh": "我再也受不了了。够了，那些掠夺性的行为——有些已构成犯罪，另一些只是游走于违法边缘，但在道德上同样令人作呕。最糟糕的是，这样行事的人认为自己理所当然。就像那个从不写作的作家最终相信自己是塞万提斯一样，这些厚颜无耻之徒认为，钻法律空子、扭曲规则、捞一笔钱不过是社会欠他们的，而且还觉得人人都这么干。好吧，我要告诉他们一个消息：并非人人如此，远远不是。只有那些骗子和寄生虫才这样。",
+      "vocab": [
+        {
+          "word": "depredadores",
+          "translation": "掠夺性的、捕食性的",
+          "note": "depredador 本为生物学术语，指『捕食者』，在社会和新闻语境中引申为『掠夺他人利益的』，comportamiento depredador（掠夺性行为）是新闻文体中批评强权行为的高频表达。"
+        },
+        {
+          "word": "desfachatados",
+          "translation": "厚颜无耻的人、不知羞耻的人",
+          "note": "desfachatado/a 源自 desfachatez（厚颜无耻），指毫无羞耻心、行事放肆的人，语气强烈，带有明显的道德谴责，是西班牙口语中的强烈贬义词。"
+        },
+        {
+          "word": "apañarse",
+          "translation": "设法弄到、捞到（带贬义）",
+          "note": "apañarse 在口语中有两种含义：中性义为『自己设法解决』（apañárselas，自力更生），此处为贬义，意为『通过不正当手段捞取钱财』，需根据语境判断。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Porque la corrupción es eso, un parásito que se esconde en la barriga del cuerpo social, como la <strong>tenia</strong> que termina colonizando el intestino. Y así estamos, ocupados por un gusano que parece <strong>estructural</strong>, que abarca a derechas e izquierdas, pero eso sí, sólo a las personas de posibles, de dinero y sobre todo de poder, de influencias y de un <strong>egocentrismo encanallado</strong>. Porque la gente, la inmensa mayoría de la gente, de derechas y de izquierdas, no es así.",
+      "zh": "因为腐败就是这样一种寄生虫，它藏匿在社会机体的腹部，就像最终侵占肠道的绦虫。我们就是这样，被一条看似根深蒂固的蠕虫所占据，它横跨左右两派，但有一点是肯定的：只寄生于那些有钱有势、有影响力、且自私自利到无耻地步的人身上。因为普通大众，无论左派还是右派，绝大多数人都不是这样的。",
+      "vocab": [
+        {
+          "word": "tenia",
+          "translation": "绦虫（寄生虫）",
+          "note": "tenia 在此作为比喻，将腐败比作寄生在社会体内的绦虫，这是作者在全段构建的生物隐喻体系的核心词，理解这一隐喻有助于把握整段的修辞逻辑。"
+        },
+        {
+          "word": "estructural",
+          "translation": "结构性的、根深蒂固的",
+          "note": "estructural 在社会和政治新闻中意为『根植于体制结构之中的、系统性的』，如 corrupción estructural（结构性腐败）、desempleo estructural（结构性失业），是C1级别的高频学术词。"
+        },
+        {
+          "word": "egocentrismo encanallado",
+          "translation": "无耻的自我中心主义、堕落的自私",
+          "note": "encanallado/a 源自 canalla（无赖、流氓），意为『堕落成无赖的、道德败坏的』，与 egocentrismo 搭配形成强烈的道德谴责，是作者个人化的文学性表达，语气极为强烈。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Miro a mi alrededor en el último día de la Feria del Libro de Madrid, en este milagro de <strong>hermandad</strong>, de creatividad y de alegría por medio del poderoso vínculo de la literatura, y me <strong>vengo arriba</strong>: en realidad, los autores mentirosos son una excepción (al igual que los demás golfos de este mundo). Lo que abunda son los escritores que <strong>perseveran</strong> en la obra aunque sean poco leídos, y las pequeñas editoriales que navegan por mares furiosos, y las grandes editoriales que se despepitan por visibilizar sus catálogos, y los libreros maravillosos que no paran jamás de trabajar. Abundáis vosotros, lectores, que recorréis la feria día tras día, que a veces os gastáis con esfuerzo vuestros últimos euros en un libro, en un cuento, en una pizca de palabras y belleza. Por eso me digo una vez más que no todos hacemos lo mismo, que no todos somos ladrones. Sólo sois un puñado de mangantes y estamos hartos.",
+      "zh": "在马德里书展的最后一天，我环顾四周，置身于这场通过文学这一强大纽带所创造的兄弟情谊、创造力与喜悦的奇迹之中，我振奋起来：说到底，那些说谎的作者只是例外（就像这世上其他的无赖一样）。大量存在的是那些即便鲜有读者仍坚持创作的作家，是在狂风巨浪中航行的小出版社，是拼尽全力让自家书目被看见的大出版社，是从不停歇的出色书商。大量存在的是你们，读者们——你们日复一日地逛遍书展，有时费尽心力把最后几欧元花在一本书、一个故事、一点文字与美好上。因此我再次告诉自己：我们并非都一样，我们并非都是盗贼。只有你们这一小撮骗子，而我们受够了。",
+      "vocab": [
+        {
+          "word": "hermandad",
+          "translation": "兄弟情谊、团结、共同体",
+          "note": "hermandad 源自 hermano（兄弟），后缀 -dad 构成抽象名词，意为『兄弟般的情谊或团体』，在文化和社会语境中常用于描述共同价值观所凝聚的群体感，语气温暖而正式。"
+        },
+        {
+          "word": "vengo arriba",
+          "translation": "振奋起来、精神大振",
+          "note": "venirse arriba 是西班牙口语惯用语，意为『突然充满活力、精神振奋、情绪高涨』，与 desanimarse（泄气）相对，多用于描述受到鼓舞后的积极情绪转变。"
+        },
+        {
+          "word": "perseveran",
+          "translation": "坚持、持之以恒",
+          "note": "perseverar 意为『在困难中坚持不懈』，比 continuar 或 seguir 语气更强，强调面对逆境的意志力，常见搭配为 perseverar en + 名词/动词原形，是书面语和演讲中的正式词汇。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "echar sal en la herida",
+      "type": "modismo",
+      "translation": "往伤口上撒盐、雪上加霜",
+      "usage": "固定惯用语，字面意为『往伤口上撒盐』，比喻在已经痛苦的处境中再次造成伤害或加重痛苦，与英语 to rub salt in the wound 完全对应，适用于口语和书面语，语气强烈。",
+      "exampleEs": "Decirle que había perdido el trabajo justo el día de su cumpleaños fue como echar sal en la herida.",
+      "exampleZh": "在他生日那天告诉他失业的消息，简直是往伤口上撒盐。"
+    },
+    {
+      "expression": "venirse arriba",
+      "type": "expresión coloquial",
+      "translation": "振奋起来、精神大振、情绪高涨",
+      "usage": "西班牙口语惯用语，描述某人突然充满活力或信心大增的状态，多用于积极语境，也可带轻微讽刺意味（指某人过于自信）。与 desanimarse 相对，是日常对话中的高频表达。",
+      "exampleEs": "El equipo iba perdiendo, pero con el gol del empate se vino arriba y acabó ganando el partido.",
+      "exampleZh": "球队本来落后，但扳平后士气大振，最终赢得了比赛。"
+    },
+    {
+      "expression": "pavonearse",
+      "type": "modismo",
+      "translation": "趾高气扬地炫耀、孔雀般卖弄",
+      "usage": "源自 pavo real（孔雀），字面意为『像孔雀一样展开羽毛』，实际指自鸣得意、在他人面前大肆炫耀，语气带有明显的讽刺和轻蔑，适用于口语和文学描写。",
+      "exampleEs": "Llegó a la fiesta con su coche nuevo y se pavoneó toda la noche delante de sus amigos.",
+      "exampleZh": "他开着新车来到派对，整晚在朋友面前趾高气扬地炫耀。"
+    },
+    {
+      "expression": "tejemanejes",
+      "type": "expresión coloquial",
+      "translation": "幕后猫腻、见不得人的把戏",
+      "usage": "口语词，通常用复数形式，指暗中进行的不正当操作或阴谋，语气带有轻蔑和揭露意味，常用于描述政治、商业或文化圈的幕后勾当，比 maniobras 更口语化。",
+      "exampleEs": "Todos sabían que había tejemanejes en la adjudicación del contrato, pero nadie se atrevía a hablar.",
+      "exampleZh": "所有人都知道合同的授予背后有猫腻，但没有人敢开口。"
+    },
+    {
+      "expression": "ni muchísimo menos",
+      "type": "expresión coloquial",
+      "translation": "远远不是、根本不是、差得远呢",
+      "usage": "强调性否定表达，是 ni mucho menos 的加强形式，用于断然否定某种说法或假设，语气比 en absoluto 更口语化，带有强调和反驳的意味，常置于句末或独立使用。",
+      "exampleEs": "¿Que soy el mejor del equipo? Ni muchísimo menos, hay compañeros mucho más talentosos.",
+      "exampleZh": "说我是队里最好的？远远不是，有很多队友比我有才华多了。"
+    },
+    {
+      "expression": "despepitarse por + infinitivo",
+      "type": "estructura gramatical",
+      "translation": "拼尽全力去做……、竭尽所能",
+      "usage": "口语化固定结构，despepitarse 意为『拼尽全力、不遗余力』，后接 por + 动词原形表示目的，语气带有一种近乎拼命的努力感，多用于描述某人或某机构为实现某目标而全力以赴，语体偏口语。",
+      "exampleEs": "Los organizadores se despepitaron por conseguir que el evento fuera un éxito.",
+      "exampleZh": "组织者们竭尽全力，务求让这次活动大获成功。"
+    }
+  ]
+}

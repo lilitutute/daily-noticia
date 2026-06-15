@@ -1,0 +1,343 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科学与社会",
+  "difficulty": "C1",
+  "wordCount": "约1100词",
+  "title": "Cómo el código postal afecta a la infancia: \"El cerebro de un niño pobre parece el de uno rico que no ha dormido y está estresado\"",
+  "subtitle": "邮政编码如何影响童年：『穷孩子的大脑看起来像一个没睡好觉、压力很大的富孩子的大脑』",
+  "resumenEs": "Un estudio publicado en Science revela que las condiciones socioeconómicas del entorno donde crecen los niños moldean la estructura y función de su cerebro, no a través de diferencias en inteligencia innata, sino mediante factores modificables como la falta de sueño y el estrés crónico, lo que refuerza la necesidad de políticas públicas para reducir la desigualdad desde la infancia.",
+  "resumenZh": "《科学》杂志发表的一项研究揭示，儿童成长环境的社会经济条件会塑造其大脑结构与功能，影响途径并非先天智力差异，而是睡眠不足和长期压力等可干预因素，这进一步强调了从儿童期起通过公共政策减少不平等的必要性。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Las oportunidades son distintas dependiendo de dónde nacemos y crecemos. No es lo mismo tener a mano un centro de salud, un polideportivo o un parque por el que caminar que tener que cruzar la ciudad para llegar a ellos, o contar o no con un medio de transporte con el que hacer ese trayecto. La <strong>segregación</strong> por barrios en las ciudades acaba concentrando en una misma área multitud de factores que construyen el contexto en el que vive su población. Y ese contexto <strong>condiciona</strong> mucho la salud de quienes viven bajo su <strong>influjo</strong>.",
+      "zh": "机遇因出生和成长的地方不同而有所差异。手边就有医疗中心、综合运动场或可以散步的公园，与需要穿越整座城市才能到达这些地方，或者有没有交通工具完成这段路程，是截然不同的两种处境。城市中按街区划分的居住隔离，最终会在同一区域集中大量构成居民生活背景的因素。而这种背景在很大程度上决定了生活在其影响之下的人们的健康状况。",
+      "vocab": [
+        {
+          "word": "segregación",
+          "translation": "隔离、分化",
+          "note": "segregación 在社会学和新闻文体中高频出现，指按种族、阶层、地域等将人群分隔的现象，注意与 separación（一般性分离）区分，segregación 含有系统性不平等的含义。"
+        },
+        {
+          "word": "condiciona",
+          "translation": "决定、制约、影响",
+          "note": "condicionar 意为『使……受制于条件、对……产生决定性影响』，比 influir 语气更强，强调某因素对结果有约束性作用，是学术和新闻文体的高频词。"
+        },
+        {
+          "word": "influjo",
+          "translation": "影响、作用",
+          "note": "influjo 是 influencia 的正式/文学同义词，多见于书面语，二者可互换，但 influjo 语体更高，常出现在文学或严肃新闻中。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Hace años que se señala a los <strong>determinantes sociales</strong> de la salud para hablar de las circunstancias a las que las personas estamos expuestas a lo largo de nuestra vida y que definen la probabilidad de que suframos muchas enfermedades. Educación, alimentación, contaminación, vivienda o trabajo… llevan asociados factores de riesgo que <strong>escapan de nuestro control</strong> cuanto menor <strong>poder adquisitivo</strong> tenemos, ya que, como reconoce la Organización Mundial de la Salud (OMS), están determinados por fuerzas políticas y económicas ajenas a la medicina.",
+      "zh": "多年来，人们一直将健康的社会决定因素作为讨论对象，用以描述我们一生中所处的各种环境，这些环境决定了我们罹患多种疾病的概率。教育、饮食、污染、住房或工作……都与风险因素相关联，而我们的购买力越低，这些风险因素就越难以掌控，因为正如世界卫生组织所承认的，它们由医学之外的政治和经济力量所决定。",
+      "vocab": [
+        {
+          "word": "determinantes sociales",
+          "translation": "社会决定因素",
+          "note": "公共卫生领域的核心术语，determinante 作名词意为『决定性因素』，作形容词意为『决定性的』，如 un factor determinante（决定性因素），构词清晰，迁移价值高。"
+        },
+        {
+          "word": "escapan de nuestro control",
+          "translation": "超出我们的控制范围",
+          "note": "固定表达，escapar de + 名词 表示『脱离、超出某范围』，可套用于多种语境，如 escapar de la realidad（逃避现实）、escapar de la justicia（逃脱法律制裁）。"
+        },
+        {
+          "word": "poder adquisitivo",
+          "translation": "购买力",
+          "note": "经济类固定搭配，adquisitivo 源自 adquirir（获取），专指购买商品和服务的经济能力，是新闻和学术文体的高频词组。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "La población infantil es aún más <strong>vulnerable</strong> a las condiciones de su entorno y las oportunidades de prosperar se reducen cuanto más obstáculos tienen que superar, y su frecuencia aumenta según desciende el <strong>ascensor social</strong>. Sin embargo, es difícil <strong>desentrañar</strong>, de entre la multitud de factores que se solapan, cuáles son los que más condicionan, por ejemplo, el rendimiento académico en la escuela. Esto ha llevado en ocasiones a asumir que la inteligencia, difícil de medir más allá de los tests disponibles, la determinan rasgos biológicos con los que nacemos, obviando el contexto social y económico.",
+      "zh": "儿童群体对其所处环境的条件更为脆弱，需要克服的障碍越多，获得发展的机会就越少，而随着社会流动性的下降，这种障碍出现的频率也随之增加。然而，在众多相互交织的因素中，很难厘清哪些因素对学校学业表现的影响最为显著。这有时导致人们倾向于认为，智力——这一难以仅凭现有测试加以衡量的特质——是由与生俱来的生物特征所决定的，从而忽视了社会和经济背景的作用。",
+      "vocab": [
+        {
+          "word": "vulnerable",
+          "translation": "脆弱的、易受伤害的",
+          "note": "vulnerable 与英语 vulnerable 是同源词，含义相近，但注意西语中重音在第二音节（vul-NE-ra-ble），常见搭配为 población vulnerable（弱势群体）、ser vulnerable a（易受……影响）。"
+        },
+        {
+          "word": "ascensor social",
+          "translation": "社会流动性（社会电梯）",
+          "note": "比喻性固定表达，字面意为『社会电梯』，指通过努力实现阶层上升的可能性，descender el ascensor social 即『社会流动性下降』，是社会学新闻的高频隐喻。"
+        },
+        {
+          "word": "desentrañar",
+          "translation": "厘清、深入剖析、解开（谜团）",
+          "note": "desentrañar 字面含义为『取出内脏』，引申为『深入挖掘、彻底弄清』，语体较正式，常用于学术和新闻文体，比 aclarar 语气更强，强调过程的复杂性。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "La revista Science publica este jueves un estudio estadounidense que ha encontrado que numerosas variables ligadas al <strong>estatus socioeconómico</strong>, como la falta de sueño o un mayor estrés, explican la estructura y función del cerebro en población infantil de 9 y 10 años. Para ello, <strong>escanearon</strong> el cerebro de casi 12.000 niños y niñas estadounidenses para <strong>mapear</strong>, a lo largo de sus distintas regiones, más de 600 variables de categorías tan diversas como salud física y mental, personalidad, cultura de su entorno, capacidades cognitivas, tiempo dedicado a las pantallas o los ya mencionados factores socioeconómicos.",
+      "zh": "《科学》杂志本周四发表了一项美国研究，该研究发现，与社会经济地位相关的众多变量——如睡眠不足或较高压力——可以解释9至10岁儿童的大脑结构与功能。为此，研究人员对近12000名美国儿童的大脑进行了扫描，以绘制其各个脑区的图谱，涵盖超过600个变量，涉及身心健康、个性、成长环境文化、认知能力、屏幕使用时间以及上述社会经济因素等多个不同类别。",
+      "vocab": [
+        {
+          "word": "estatus socioeconómico",
+          "translation": "社会经济地位",
+          "note": "学术和新闻文体高频词组，estatus 源自英语/拉丁语 status，在西语中已广泛使用，注意与 estado（状态/国家）区分，estatus 专指社会地位层级。"
+        },
+        {
+          "word": "escanearon",
+          "translation": "扫描",
+          "note": "escanear 是从英语 scan 借入的动词，在医学和科技语境中广泛使用，这类英语借词在现代西语中越来越常见，如 chatear、hackear、formatear。"
+        },
+        {
+          "word": "mapear",
+          "translation": "绘制图谱、系统性标记",
+          "note": "mapear 源自 mapa（地图），在科学文体中引申为『系统性地标记和分析』，是科技新闻中的高频动词，体现了西语用名词派生动词的构词规律。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Estas técnicas se conocen como brain-wide association studies o BWAS. Con ellas se pueden <strong>trazar</strong> mapas de la superficie del cerebro donde la topografía del córtex (la superficie de nuestro encéfalo) y las conexiones entre sus distintas regiones aparecen asociadas a variables que explican su naturaleza. Es decir, permiten <strong>esclarecer</strong> si el <strong>grosor</strong> de cierta parte del cerebro, o lo mucho o poco conectada que está con las aledañas, está relacionado con la alimentación, la exposición a contaminantes o la personalidad.",
+      "zh": "这些技术被称为全脑关联研究（BWAS）。借助这些技术，可以绘制大脑表面的图谱，其中皮层（大脑表面）的地形结构及其各区域之间的连接，与解释其本质的变量相关联。也就是说，这些技术能够阐明大脑某一部分的厚度，或其与邻近区域连接的强弱程度，是否与饮食、污染物暴露或个性特征相关。",
+      "vocab": [
+        {
+          "word": "trazar",
+          "translation": "绘制、描绘、规划",
+          "note": "trazar 本义为『画线、描绘轮廓』，引申为『制定（计划/路线）』，常见搭配有 trazar un mapa（绘制地图）、trazar una estrategia（制定策略），是书面语高频动词。"
+        },
+        {
+          "word": "esclarecer",
+          "translation": "阐明、澄清、弄清",
+          "note": "esclarecer 源自 claro（清晰），前缀 es- 加强语气，比 aclarar 更正式，多用于学术、法律和新闻文体，如 esclarecer los hechos（查清事实）。"
+        },
+        {
+          "word": "grosor",
+          "translation": "厚度、粗细",
+          "note": "grosor 源自形容词 grueso（厚的、粗的），后缀 -or 将形容词转化为表示程度/量度的名词，同类构词如 calor（热度）、color（颜色）、vigor（活力）。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "El <strong>hallazgo</strong> del equipo liderado por Nico Dosenbach, de la Universidad Washington en San Luis, es claro. En palabras suyas proporcionadas en la previa al lanzamiento de este estudio: \"El cerebro de un niño con un contexto socioeconómico bajo parece el de un entorno socioeconómico alto que no ha dormido y está estresado\". Y apunta: \"No es un cerebro menos inteligente, sino cansado y estresado. Lo bueno es que ambas cosas se pueden <strong>modificar</strong>. Si encontrásemos la manera de mejorar el sueño y reducir el estrés de los niños en hogares con menos oportunidades socioeconómicas, quizás podríamos <strong>reducir estas diferencias</strong> en el cerebro\".",
+      "zh": "由华盛顿大学圣路易斯分校尼科·多森巴赫领导的团队，其研究发现十分明确。他在该研究发布前提供的原话是：『一个社会经济背景较差的孩子的大脑，看起来像一个社会经济背景优越但没睡好觉、压力很大的孩子的大脑。』他还指出：『这不是一个智力较低的大脑，而是一个疲惫和充满压力的大脑。好消息是，这两点都是可以改变的。如果我们能找到改善睡眠、减轻社会经济机会较少家庭中儿童压力的方法，也许就能缩小这些大脑差异。』",
+      "vocab": [
+        {
+          "word": "hallazgo",
+          "translation": "发现、研究成果",
+          "note": "hallazgo 源自动词 hallar（找到、发现），是学术和新闻文体中描述研究结论的高频词，比 descubrimiento 更常用于具体的研究发现，而非重大历史性发现。"
+        },
+        {
+          "word": "modificar",
+          "translation": "改变、调整、修改",
+          "note": "modificar 与英语 modify 同源，在科学文体中常指对某一状态或结构进行干预性改变，比 cambiar 更正式，强调有目的性的调整。"
+        },
+        {
+          "word": "reducir estas diferencias",
+          "translation": "缩小这些差异",
+          "note": "reducir 在此意为『缩小、减少』，reducir + 差距类名词（diferencias、brecha、desigualdad）是社会科学新闻中的高频固定搭配，值得作为整体记忆。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "De acuerdo con el estudio, parece que las principales <strong>alteraciones</strong> en el cerebro de los niños con peores condiciones socioeconómicas afectan a los sistemas relacionados con el movimiento y las sensaciones físicas, y no directamente a las regiones del \"pensamiento\". Como resultado, lo que pueden parecer diferencias cerebrales en capacidades cognitivas son más bien el <strong>reflejo</strong> de las dificultades del día a día, que producen fatiga y estrés crónico, nada que ver con la capacidad intelectual de los niños. Tampoco se encontró ningún <strong>vínculo</strong> con factores como el sexo o la raza.",
+      "zh": "根据该研究，社会经济条件较差的儿童大脑中的主要改变，似乎影响的是与运动和身体感觉相关的系统，而非直接影响『思维』区域。因此，那些看似大脑认知能力差异的表现，更多是日常生活困难的折射——这些困难导致疲劳和长期压力，与儿童的智力水平毫无关系。研究也未发现任何与性别或种族等因素的关联。",
+      "vocab": [
+        {
+          "word": "alteraciones",
+          "translation": "改变、异常、紊乱",
+          "note": "alteración 在医学语境中指『功能异常、紊乱』，在一般语境中指『改变、扰动』，动词形式为 alterar，注意 alterarse 还有『激动、情绪失控』的口语义。"
+        },
+        {
+          "word": "reflejo",
+          "translation": "折射、反映、体现",
+          "note": "reflejo 本义为『倒影、反射』，此处作比喻，意为『某种现象是另一种现象的体现』，是新闻和学术文体中常见的隐喻用法，如 el reflejo de la sociedad（社会的缩影）。"
+        },
+        {
+          "word": "vínculo",
+          "translation": "关联、纽带、联系",
+          "note": "vínculo 比 relación 更正式，强调两者之间存在实质性的内在联系，学术文体中常见 encontrar/establecer un vínculo entre A y B（发现/建立A与B之间的关联）。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "El matiz sobre la inteligencia en los niños criados en diferentes contextos socioeconómicos es importante y el estudio también <strong>arroja luz</strong> sobre este asunto. Los casi 12.000 mapas del cerebro elaborados mediante BWAS permiten a Dosenbach asegurar a EL PAÍS que \"la condición socioeconómica no afecta a las regiones cognitivas, y la genética apenas explica una mínima parte de la <strong>variabilidad</strong> en el cociente intelectual (IQ)\". Por sus observaciones, también afirma que \"los cocientes intelectuales más altos en niños con mejores condiciones socioeconómicas se deben a que, en promedio, duermen más y están menos estresados, no a que sean más inteligentes\".",
+      "zh": "关于不同社会经济背景下成长的儿童智力问题，这一细微差别至关重要，该研究也对此有所阐明。通过BWAS绘制的近12000份大脑图谱，使多森巴赫得以向《国家报》确认：『社会经济状况并不影响认知区域，而遗传因素对智商（IQ）变异性的解释几乎微乎其微。』根据其观察，他还表示：『社会经济条件较好的儿童智商更高，是因为他们平均睡眠更多、压力更小，而不是因为他们更聪明。』",
+      "vocab": [
+        {
+          "word": "arroja luz",
+          "translation": "阐明、揭示、使……更清晰",
+          "note": "arrojar luz sobre algo 是固定短语，字面意为『向某物投射光线』，实际意为『使某事更加清晰、提供新的见解』，是学术和新闻文体的高频表达。"
+        },
+        {
+          "word": "variabilidad",
+          "translation": "变异性、可变性",
+          "note": "variabilidad 源自 variable（变量/可变的），后缀 -idad 将形容词转化为抽象名词，同类构词如 flexibilidad、estabilidad、capacidad，是科学文体的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Las regiones del cerebro donde el código postal parece tener un mayor impacto son las motoras y sensoriales primarias, que también se asociaron <strong>consistentemente</strong> con señales de excitación neurológica y con el tiempo dedicado a las pantallas. Curiosamente, y aquí está la clave para <strong>descartar</strong> la vinculación entre cociente intelectual e inteligencia innata, en los mapas dicho cociente no se asoció con las regiones ligadas a la cognición compleja (prefrontal y parietal), sino con las mismas del contexto socioeconómico.",
+      "zh": "邮政编码似乎对大脑影响最大的区域是初级运动区和感觉区，这些区域也与神经兴奋信号及屏幕使用时间持续相关。有趣的是——而这正是排除智商与先天智力之间关联的关键——在图谱中，智商并未与复杂认知相关区域（前额叶和顶叶）相关联，而是与社会经济背景相关的区域相关联。",
+      "vocab": [
+        {
+          "word": "consistentemente",
+          "translation": "持续地、一致地、稳定地",
+          "note": "consistentemente 在科学文体中意为『在多次观测中均呈现同样结果』，强调结论的可重复性和稳定性，是学术写作的高频副词，比 siempre 更严谨。"
+        },
+        {
+          "word": "descartar",
+          "translation": "排除、否定、摒弃",
+          "note": "descartar 在学术和新闻文体中意为『排除某种可能性』，常见于研究结论表述，如 descartar una hipótesis（排除一项假设），比 eliminar 更常用于抽象概念。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "La explicación de Dosenbach es que, en realidad, el cociente intelectual está explicado en esos mapas por el estatus socioeconómico. Dicho de otro modo, y tal y como lo demuestran en el estudio, cuando eliminan del mapa el efecto del código postal, el tradicional indicador de inteligencia se <strong>difumina</strong> en ese mapa y ya no se puede asociar del mismo modo a quienes, momentos antes de excluir ese factor, parecían tener, además de más oportunidades en la vida, más inteligencia.",
+      "zh": "多森巴赫的解释是，在这些图谱中，智商实际上是由社会经济地位来解释的。换句话说，正如研究所证明的，当他们从图谱中剔除邮政编码的影响时，这一传统智力指标在图谱中便变得模糊，不再能以同样的方式与那些人相关联——而就在排除这一因素之前，这些人看起来不仅拥有更多的人生机遇，还似乎拥有更高的智力。",
+      "vocab": [
+        {
+          "word": "difumina",
+          "translation": "变得模糊、消散、淡化",
+          "note": "difuminar 本义为绘画中的『晕染、使边缘模糊』，此处引申为『使某种关联或信号变得不清晰』，是科学写作中生动的隐喻用法，名词形式为 difuminación。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "La reacción de Scott Marek, el primer firmante del artículo, ante estos resultados fue de sorpresa: \"Sabía que las oportunidades socioeconómicas importaban, pero no pensaba que lo hicieran tanto. Simplemente, <strong>eclipsaron</strong> todo lo demás\". Desde entonces, llama al hallazgo \"el elefante en el cerebro\". Dosenbach es <strong>optimista</strong>: \"Las oportunidades socioeconómicas no son como el destino. Los efectos de la privación del sueño y el estrés son al menos parcialmente <strong>reversibles</strong>, por lo que si la sociedad o las circunstancias de un individuo cambian, el cerebro cambiará con ellos\", reflexiona.",
+      "zh": "论文第一作者斯科特·马雷克对这些结果感到惊讶：『我知道社会经济机会很重要，但没想到会重要到这种程度。它们简直盖过了其他一切。』从那以后，他将这一发现称为『大脑中的大象』。多森巴赫则持乐观态度：『社会经济机会并非命中注定。睡眠剥夺和压力的影响至少是部分可逆的，因此如果社会或个人的处境发生改变，大脑也会随之改变。』",
+      "vocab": [
+        {
+          "word": "eclipsaron",
+          "translation": "盖过、使黯然失色",
+          "note": "eclipsar 本义为天文学中的『遮蔽、日食/月食』，引申为『使……相形见绌、完全压过』，是新闻和文学中常见的隐喻动词，如 su talento eclipsó al del resto（他的才华盖过了其他所有人）。"
+        },
+        {
+          "word": "optimista",
+          "translation": "乐观的",
+          "note": "optimista 与英语 optimistic 同源，但在西语中既可作形容词也可作名词（un optimista 乐观的人），注意对应的名词为 optimismo，反义词为 pesimista/pesimismo。"
+        },
+        {
+          "word": "reversibles",
+          "translation": "可逆的、可改变的",
+          "note": "reversible 前缀 re- 表示『回到原状』，-ible 表示『可以……的』，合起来意为『可以被逆转的』，反义词 irreversible（不可逆的）在医学和环境新闻中同样高频。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "También apunta en este sentido Eloísa Herrera González de Molina, del Instituto de Neurociencias (CSIC-UMH), que no participa en el estudio: \"En neurociencia del desarrollo, sabemos desde hace mucho tiempo que el cerebro infantil es <strong>extraordinariamente plástico</strong> y que su maduración depende de las condiciones en las que se desarrolla. Yo interpretaría el trabajo como la detección de una señal <strong>socioambiental</strong> muy potente que resume muchas condiciones de vida. El mensaje es que el cerebro infantil registra las condiciones en las que vive y, desde mi punto de vista, estos deberían servir para recordar que reducir desigualdades no son solo objetivos sociales o educativos, sino también potenciales <strong>estrategias</strong> de salud cerebral infantil\".",
+      "zh": "神经科学研究所（CSIC-UMH）的埃洛伊萨·埃雷拉·冈萨雷斯·德莫利纳未参与该研究，但也表达了相同观点：『在发展神经科学领域，我们很早就知道，儿童大脑具有极强的可塑性，其成熟过程取决于其所发展的环境条件。我会将这项研究解读为对一种非常强烈的社会环境信号的检测，这一信号概括了许多生活条件。其传递的信息是：儿童大脑会记录其所处的生活条件。在我看来，这应当提醒我们，减少不平等不仅是社会或教育目标，也是儿童大脑健康的潜在策略。』",
+      "vocab": [
+        {
+          "word": "extraordinariamente plástico",
+          "translation": "具有极强可塑性的",
+          "note": "plástico 在神经科学中意为『可塑的』（neuroplasticidad 神经可塑性），而非日常义『塑料』，是典型的学科专业义与日常义并存的词，需根据语境判断。"
+        },
+        {
+          "word": "socioambiental",
+          "translation": "社会环境的",
+          "note": "复合词，由 social（社会的）和 ambiental（环境的）合并而成，西语中这类复合形容词极为常见，如 socioeconómico、sociocultural，体现了西语构词的灵活性。"
+        },
+        {
+          "word": "estrategias",
+          "translation": "策略、战略",
+          "note": "estrategia 与英语 strategy 同源，在政策和学术文体中高频出现，常见搭配为 diseñar/implementar estrategias（设计/实施策略），注意重音在第三音节（es-tra-TE-gias）。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "María del Val Sandín Vázquez, profesora de Medicina Preventiva y Salud Pública de la Universidad de Alcalá, <strong>advierte</strong> de que \"el nivel socioeconómico es complejo y <strong>multidimensional</strong> y este estudio utiliza variables que pueden no captar completamente aspectos como las relaciones familiares, el capital social, la resiliencia individual o las diferencias culturales. No obstante, y pese a la naturaleza <strong>observacional</strong> del diseño, el estudio tiene una importante implicación ética y social y respalda la necesidad de políticas públicas dirigidas a reducir la pobreza, mejorar las condiciones de vida y favorecer entornos saludables para los niños\".",
+      "zh": "阿尔卡拉大学预防医学与公共卫生学教授玛丽亚·德尔瓦尔·桑丁·巴斯克斯提醒道：『社会经济水平是复杂且多维的，本研究所使用的变量可能无法完整捕捉家庭关系、社会资本、个人韧性或文化差异等方面。尽管如此，尽管研究设计具有观察性特征，该研究仍具有重要的伦理和社会意义，并支持了制定公共政策以减少贫困、改善生活条件、为儿童创造健康环境的必要性。』",
+      "vocab": [
+        {
+          "word": "advierte",
+          "translation": "提醒、警告、指出",
+          "note": "advertir de/que 是新闻文体中引述专家意见的高频动词，比 decir 更强调对潜在问题的提示，常用于转述批评性或警示性观点。"
+        },
+        {
+          "word": "multidimensional",
+          "translation": "多维的、多层面的",
+          "note": "前缀 multi- 表示『多个』，可类推出 multicultural（多元文化的）、multilateral（多边的）、multifactorial（多因素的）等学术高频词。"
+        },
+        {
+          "word": "observacional",
+          "translation": "观察性的",
+          "note": "科学方法论术语，observacional 指研究者只观察记录而不干预的研究设计，与 experimental（实验性的）相对，是医学和社会科学论文的核心词汇。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "Manuel Franco, investigador Ikerbasque en Epidemiología y Salud Pública en el Basque Centre for Climate Change (BC3), considera \"<strong>estremecedor</strong>\" ver \"cómo los efectos de las diferencias socioeconómicas son tan <strong>palpables</strong> en edades tan tempranas y en algo tan importante como el desarrollo cerebral\" y señala las similitudes con estudios que también asocian la falta de sueño y el uso excesivo de pantallas con la obesidad infantil. \"Este impacto se está viendo en todo el mundo y se suma a la importancia de regular el uso de pantallas y redes en menores\", señala Franco. Respecto a la población en la que se centra el estudio, reflexiona: \"Estados Unidos es el país de las desigualdades. Allí, la <strong>brecha</strong> de la esperanza de vida no ha dejado de crecer en los últimos 20 años y la diferencia entre los grupos poblacionales a los que mejor les va y a los que peor es de 20 años. El estudio muestra que esa diferencia empieza desde la infancia y refuerza la importancia de poner el foco en los más desfavorecidos y empezar desde temprano para reducir la brecha\".",
+      "zh": "巴斯克气候变化研究中心（BC3）流行病学与公共卫生Ikerbasque研究员曼努埃尔·弗朗科认为，看到『社会经济差异的影响在如此幼小的年龄，以及在大脑发育这样重要的方面如此清晰可见』令人『震惊』，并指出这与同样将睡眠不足和过度使用屏幕与儿童肥胖相关联的研究具有相似之处。弗朗科表示：『这种影响正在全球范围内显现，进一步凸显了规范未成年人使用屏幕和社交网络的重要性。』谈及研究所关注的人群，他反思道：『美国是一个充满不平等的国家。在那里，预期寿命的差距在过去20年里持续扩大，境况最好和最差的人群之间相差20年。该研究表明，这种差距从童年期就已开始，并强调了将重点放在最弱势群体、从早期着手以缩小差距的重要性。』",
+      "vocab": [
+        {
+          "word": "estremecedor",
+          "translation": "令人震惊的、令人不安的",
+          "note": "estremecedor 源自 estremecer（使颤抖、使震惊），后缀 -dor 表示『产生某种效果的』，同类词如 aterrador（令人恐惧的）、conmovedor（令人感动的），语气强烈，多用于情感性评价。"
+        },
+        {
+          "word": "palpables",
+          "translation": "显而易见的、可感知的、切实的",
+          "note": "palpable 本义为『可触摸的』，引申为『明显到无法否认的』，与英语 palpable 同源，在新闻和学术文体中用于强调某种现象或差异的显著程度。"
+        },
+        {
+          "word": "brecha",
+          "translation": "差距、鸿沟、裂口",
+          "note": "brecha 本义为城墙上的『缺口』，在社会科学新闻中引申为群体间的『差距』，是高频隐喻词，常见搭配有 brecha digital（数字鸿沟）、brecha de género（性别差距）、brecha salarial（薪酬差距）。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "ascensor social",
+      "type": "modismo",
+      "translation": "社会流动性（社会电梯）",
+      "usage": "比喻性固定表达，字面意为『社会电梯』，用来描述个人通过努力实现阶层上升的可能性。常与 subir/bajar/descender 搭配，descender el ascensor social 即『社会流动性下降』，是社会学和政治新闻的核心隐喻。",
+      "exampleEs": "En muchos países desarrollados, el ascensor social lleva décadas averiado.",
+      "exampleZh": "在许多发达国家，社会流动性已经停滞了数十年。"
+    },
+    {
+      "expression": "arrojar luz sobre",
+      "type": "colocación",
+      "translation": "阐明、揭示、为……提供新见解",
+      "usage": "正式书面语固定搭配，字面意为『向……投射光线』，实际用于表示某研究、事件或信息使某个问题变得更清晰，常见于学术论文、新闻报道和演讲中，语体正式。",
+      "exampleEs": "Este nuevo informe arroja luz sobre las causas reales del fracaso escolar.",
+      "exampleZh": "这份新报告揭示了学业失败的真正原因。"
+    },
+    {
+      "expression": "el elefante en el cerebro",
+      "type": "modismo",
+      "translation": "房间里的大象（显而易见却被忽视的问题）",
+      "usage": "源自英语习语 the elephant in the room，指明显存在却被刻意回避或忽视的重大问题。此处研究者用来比喻社会经济因素对大脑的巨大影响长期被学界忽视，语气带有反讽和强调意味。",
+      "exampleEs": "Nadie quería hablar de los recortes presupuestarios; era el elefante en la habitación de todas las reuniones.",
+      "exampleZh": "没有人想谈论预算削减问题，它是每次会议上那头无人提及的大象。"
+    },
+    {
+      "expression": "poner el foco en",
+      "type": "colocación",
+      "translation": "将重点放在……、聚焦于……",
+      "usage": "新闻和政策文体中的高频固定搭配，foco 本义为『焦点、聚光灯』，poner el foco en 即『将注意力/资源集中于某议题』，比 centrarse en 更强调主动性和政策导向，常用于呼吁行动的语境。",
+      "exampleEs": "Las autoridades sanitarias deben poner el foco en la prevención y no solo en el tratamiento.",
+      "exampleZh": "卫生当局必须将重点放在预防上，而不仅仅是治疗。"
+    },
+    {
+      "expression": "no significa necesariamente que + subjuntivo",
+      "type": "estructura gramatical",
+      "translation": "并不一定意味着……",
+      "usage": "学术写作和新闻评论中用于表达『不能直接推断』的高频句式，significar que 后接虚拟式，表示对某种推论的否定或限定，体现严谨的论证态度，可套用于多种议题。",
+      "exampleEs": "Tener un cociente intelectual alto no significa necesariamente que uno vaya a tener éxito en la vida.",
+      "exampleZh": "智商高并不一定意味着一个人在生活中就会成功。"
+    }
+  ]
+}
