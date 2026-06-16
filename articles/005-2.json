@@ -1,0 +1,273 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与太空",
+  "difficulty": "C1",
+  "wordCount": "约900词",
+  "title": "La hora en Marte no es la de la Tierra, ¿cómo sincronizar los relojes de dos mundos distintos?",
+  "subtitle": "火星时间与地球不同，如何同步两个世界的时钟？",
+  "resumenEs": "El artículo explora el problema de sincronizar el tiempo entre la Tierra y otros planetas, como la Luna y Marte, a la luz de la relatividad de Einstein. Dado que la gravedad y la velocidad afectan al fluir del tiempo, los relojes en distintos cuerpos celestes no marchan igual. Esta diferencia, aunque minúscula, tiene consecuencias prácticas enormes para la navegación espacial, el posicionamiento GPS y la futura habitabilidad humana en otros mundos.",
+  "resumenZh": "本文探讨了在爱因斯坦相对论框架下，地球与月球、火星等天体之间时间同步的难题。由于引力和速度会影响时间流速，不同天体上的时钟走速并不相同。这一微小差异对太空导航、GPS定位以及未来人类在其他星球上的生存将产生巨大的实际影响。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "El concepto de tiempo es uno de los misterios más complejos a que se ha enfrentado el hombre desde la más <strong>remota</strong> antigüedad. Es famosa la respuesta que dejó escrita de Agustín de Hipona, hace más de 16 siglos: \"Si nadie me lo pregunta, lo sé; pero si quiero explicarlo a quien me lo pregunta, no lo sé\".",
+      "zh": "时间的概念是人类自远古以来所面临的最复杂谜题之一。奥古斯丁在16个多世纪前留下的一句话至今广为人知：『若无人问我，我自知晓；但若有人问我，我欲解释，却又茫然。』",
+      "vocab": [
+        {
+          "word": "remota",
+          "translation": "遥远的，久远的",
+          "note": "remoto 既可指空间上的『偏远』，也可指时间上的『久远』，还可表示可能性极小（如 una posibilidad remota），是一词多义的高频形容词。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Durante todo ese tiempo, la pregunta ha dado tema para incontables discusiones filosóficas. Hoy, por primera vez en la historia, responderla <strong>trasciende</strong> la metafísica para convertirse en una cuestión de interés muy práctico. Ante la posibilidad de que en un futuro próximo se establezcan bases habitadas en la Luna (y más remotamente, en Marte y otros planetas), las agencias espaciales se enfrentan al problema de <strong>redefinir</strong> el propio concepto de tiempo.",
+      "zh": "在漫长的岁月中，这个问题引发了无数哲学讨论。而今，历史上第一次，回答这个问题已超越形而上学的范畴，成为一个极具现实意义的课题。面对不久的将来在月球（乃至更遥远的火星和其他行星）建立有人驻守基地的可能性，各大航天机构正面临重新定义时间本身这一概念的挑战。",
+      "vocab": [
+        {
+          "word": "trasciende",
+          "translation": "超越，超出……范畴",
+          "note": "trascender 在正式语体中表示『超越某一界限或范畴』，注意与英语 transcend 是真朋友，但西语中还有『泄露、传开』的含义（如 la noticia trascendió），需根据语境判断。"
+        },
+        {
+          "word": "redefinir",
+          "translation": "重新定义",
+          "note": "前缀 re- 表示『再次、重新』，构词能力极强，可举一反三：replantearse（重新思考）、reestructurar（重组）、reinterpretar（重新诠释），是学术和新闻语体的高频前缀。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "No en el sentido tradicional de \"¿Qué hora es?\", sino de algo mucho más profundo: el asegurarse de que dos relojes situados en dos planetas distintos están <strong>sincronizados</strong>. En otras palabras, que el tiempo <strong>fluye</strong> para ambos a la misma velocidad.",
+      "zh": "这里所说的并非传统意义上的『现在几点』，而是一个更为深刻的问题：确保位于两个不同星球上的两台时钟保持同步，换言之，时间对两者而言以相同的速度流逝。",
+      "vocab": [
+        {
+          "word": "sincronizados",
+          "translation": "同步的，协调一致的",
+          "note": "前缀 sin-（共同）+ cronos（时间）+ -izar（使动后缀），构词清晰，同族词有 sincronía（同步性）、sincronizar（使同步），-izar 后缀可构成大量使动词。"
+        },
+        {
+          "word": "fluye",
+          "translation": "流动，流逝",
+          "note": "fluir 本义指液体『流动』，在科学和文学语体中常用于描述时间、信息、能量的『流动/流逝』，名词形式 flujo（流量、流动）在新闻中同样高频。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "No es así. Hace ya más de un siglo, Einstein <strong>desmontó</strong> de dos plumazos la naturaleza absoluta del tiempo, que desde Newton se había mantenido como un <strong>dogma</strong>. La teoría restringida de la relatividad apunta a que el tiempo transcurre más lento para los pasajeros de una nave espacial que para quienes los observan desde tierra. La teoría general, además, establece que el fluir del tiempo depende de la gravedad: dentro de un pozo gravitatorio, se retrasa. En el caso extremo del horizonte de sucesos de un agujero negro, puede llegar a detenerse.",
+      "zh": "事实并非如此。一个多世纪前，爱因斯坦以两个理论一举推翻了自牛顿以来被奉为教条的时间绝对性。狭义相对论指出，对于乘坐宇宙飞船的乘客而言，时间流逝得比地面上的观察者更慢。广义相对论则进一步指出，时间的流速取决于引力：在引力势阱内部，时间会减慢。在黑洞事件视界这一极端情况下，时间甚至可能完全停止。",
+      "vocab": [
+        {
+          "word": "desmontó",
+          "translation": "推翻，拆解",
+          "note": "desmontar 本义为『拆卸』，在论述语体中引申为『推翻（理论、论点）』，前缀 des- 表示逆转或否定，同族词如 desacreditar（使失信）、desmentir（否认）均含此意。"
+        },
+        {
+          "word": "dogma",
+          "translation": "教条，不容置疑的信条",
+          "note": "dogma 在宗教语境中指『教义』，在科学或社会语境中则带有批判色彩，暗指某种被盲目接受、缺乏质疑的信念，语气比 principio 更强烈。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Aunque la contracción temporal parece magia, es un efecto muy real. A bajas velocidades, como en un avión, resulta <strong>imperceptible</strong>. Solo se vuelve evidente cuando hablamos de decenas, cientos o miles de kilómetros por segundo. Como, por ejemplo, a bordo de un satélite artificial. O cuando subimos una montaña muy alta: a más distancia del centro de la Tierra, la fuerza de la gravedad disminuye y el tiempo se acelera <strong>levísimamente</strong>.",
+      "zh": "尽管时间膨胀听起来像魔法，却是真实存在的效应。在低速情况下，例如乘坐飞机时，这一效应微乎其微，难以察觉。只有当速度达到每秒数十、数百乃至数千公里时，它才会变得明显——例如在人造卫星上。又或者，当我们登上高山时：距离地球中心越远，引力越弱，时间便会极其轻微地加速。",
+      "vocab": [
+        {
+          "word": "imperceptible",
+          "translation": "难以察觉的，微乎其微的",
+          "note": "前缀 im-（否定）+ perceptible（可感知的），构词规律清晰，类似结构如 impredecible（不可预测的）、imprescindible（不可或缺的），im- 在 p/b 前是 in- 的变体。"
+        },
+        {
+          "word": "levísimamente",
+          "translation": "极其轻微地",
+          "note": "由形容词 leve（轻微的）→ 最高级 levísimo → 副词 levísimamente，展示了西语副词构成规律（形容词阴性形式 + -mente），语气极为强调程度之小，多见于科学描述。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Incluso en órbita terrestre, esos efectos no son <strong>despreciables</strong>. Los navegadores GPS trabajan midiendo la diferencia de los tiempos que tardan en llegar a ellos las señales de al menos tres satélites. Si no se corrigieran ambos fenómenos relativistas (la aceleración del tiempo debida a la mayor distancia a la Tierra y su retraso, producido por la velocidad del satélite), el error sería de decenas de metros. Si la pantalla de nuestro coche lo muestra en el centro de la carretera y no en pleno campo es un <strong>tributo</strong> a que las ideas de Einstein realmente funcionan.",
+      "zh": "即便在地球轨道上，这些效应也不容忽视。GPS导航仪的工作原理是测量来自至少三颗卫星的信号到达时间差。如果不对两种相对论效应加以修正——即因距地球更远而导致的时间加速，以及因卫星速度而导致的时间减慢——误差将达数十米之多。我们车载屏幕上显示的位置在公路中央而非田野之中，正是爱因斯坦理论切实有效的明证。",
+      "vocab": [
+        {
+          "word": "despreciables",
+          "translation": "可忽略的，微不足道的",
+          "note": "despreciable 是假朋友陷阱：它不是『可鄙的』（那是 despreciable 的另一义），在科学语体中专指数值或误差『小到可以忽略』，与英语 negligible 对应。"
+        },
+        {
+          "word": "tributo",
+          "translation": "明证，致敬",
+          "note": "tributo 本义为『贡品、税收』，在此处引申为『对某事有效性的证明/致敬』，是一种修辞性用法，体现了西语书面语中名词的灵活隐喻功能。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Extrapolando la situación a otros planetas, el efecto es similar. En la superficie de Marte, con una gravedad tres veces inferior a la nuestra (pero más lejos del Sol), el tiempo va más rápido: gana 477 <strong>millonésimas</strong> de segundo por día. Además, para complicar más las cosas, su órbita es mucho más <strong>excéntrica</strong>, así que esa cifra puede variar hasta en un 50%, según en qué punto de su trayectoria esté.",
+      "zh": "将这一情况推演至其他行星，效应同样存在。在火星表面，由于引力约为地球的三分之一（但距太阳更远），时间流逝得更快：每天快477百万分之一秒。此外，更复杂的是，火星轨道的离心率远大于地球，因此这一数值会随火星在轨道上所处位置的不同而变化，幅度最高可达50%。",
+      "vocab": [
+        {
+          "word": "millonésimas",
+          "translation": "百万分之一",
+          "note": "西语中分数序数词构词规律：millón → millonésimo（百万分之一），类比：milésimo（千分之一）、centésimo（百分之一），掌握此规律可直接理解各类精密单位表达。"
+        },
+        {
+          "word": "excéntrica",
+          "translation": "离心率大的，偏心的",
+          "note": "前缀 ex-（向外）+ centro（中心），天文学中指轨道偏离正圆的程度，在日常语境中则指人『古怪、不寻常』，是一个典型的一词多义词。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "En la Luna también se gana tiempo porque tiene aún menos gravedad propia, pero está \"hundida\" en el mismo pozo gravitatorio solar que nosotros, así que allí solo <strong>adelanta</strong> unos 56 microsegundos con respecto al nuestro.",
+      "zh": "月球上同样存在时间超前的现象，因为月球自身引力更小；但由于月球与地球同处于太阳引力势阱之中，因此月球上的时间每天相对地球仅超前约56微秒。",
+      "vocab": [
+        {
+          "word": "adelanta",
+          "translation": "超前，走快",
+          "note": "adelantar 用于时钟时表示『走快、超前』，其反义词 atrasar 表示『走慢、落后』，两者均可用于时钟、进度或行程，是日常和科技语境中的高频动词对。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "En la práctica, ¿tiene esa diferencia mucha importancia? Depende de para qué. Desde luego, no para decidir si en la Luna vamos a dormir siestas 56 microsegundos más breves que en casa. Pero sí, si se trata de calcular distancias basándose en un futuro sistema GPS lunar. Estos satélites, dotados de relojes atómicos <strong>ultraestables</strong>, miden diferencias de tiempo en nanosegundos (milésimas de microsegundo). En un nanosegundo, la luz (o sea, la señal que emiten hacia nuestros navegadores) recorre 30 centímetros. Si no se compensan las <strong>discrepancias</strong> relativistas, el error de posición puede medirse en kilómetros. O en cientos de kilómetros.",
+      "zh": "在实际应用中，这一差异是否重要？这取决于具体用途。当然，对于判断我们在月球上的午睡是否比在家里短56微秒，这无关紧要。但如果涉及基于未来月球GPS系统的距离计算，就至关重要了。这些卫星配备了超稳定原子钟，能够以纳秒（微秒的千分之一）为单位测量时间差。光（即卫星向导航仪发射的信号）在一纳秒内传播30厘米。如果不对相对论误差加以补偿，定位误差可能达到数公里，乃至数百公里。",
+      "vocab": [
+        {
+          "word": "ultraestables",
+          "translation": "超稳定的",
+          "note": "前缀 ultra- 表示『超越、极度』，构词能力强，常见于科技和新闻语体：ultrarrápido（超快的）、ultravioleta（紫外线的）、ultrasensible（超灵敏的）。"
+        },
+        {
+          "word": "discrepancias",
+          "translation": "误差，偏差，不一致",
+          "note": "discrepancia 在科学语体中指数值或系统间的『偏差、不一致』，在日常语体中则指意见上的『分歧』，是一个兼具学术和日常用途的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Para un astronauta que se haya alejado de su hábitat hasta perderlo de vista, conocer su posición exacta para regresar a ella en una emergencia será cuestión de vida o muerte. Si se envían naves de suministros capaces de <strong>aterrizar</strong> automáticamente, querremos que se posen cerca de la base, no a doscientos kilómetros. Y si se trata de <strong>acoplar</strong> dos vehículos en órbita, los relojes de ambos deberán estar ajustados en el mismo marco temporal. No olvidemos que un error de solo un nanosegundo supone la diferencia entre completar o fallar el atraque. Diez nanosegundos pueden conducir a una colisión en pleno vuelo.",
+      "zh": "对于一名已走远到看不见基地的宇航员来说，在紧急情况下知道自己的精确位置以便返回，将是生死攸关的大事。如果派遣能够自动着陆的补给飞船，我们当然希望它降落在基地附近，而不是两百公里之外。而若要在轨道上对接两艘飞行器，双方的时钟必须调整到同一时间框架内。别忘了，仅仅一纳秒的误差，就可能决定对接成功还是失败；十纳秒的误差，则可能在飞行途中引发碰撞。",
+      "vocab": [
+        {
+          "word": "aterrizar",
+          "translation": "着陆，降落",
+          "note": "由 tierra（土地）+ -izar 构成，本指飞机在地球上着陆；在太空语境中也泛指在任何天体表面降落，对应名词为 aterrizaje（着陆）。"
+        },
+        {
+          "word": "acoplar",
+          "translation": "对接，连接",
+          "note": "acoplar 在航天语境中专指飞行器的『轨道对接』，在工程语境中则泛指零件的『连接、配合』，名词形式 acoplamiento 在技术文本中高频出现。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "La NASA lleva algún tiempo estudiando una <strong>constelación</strong> de satélites (Lunar Communication Relay and Navigation System) que servirán para dos propósitos: facilitar las comunicaciones alrededor de la Luna y, al mismo tiempo, ofrecer un sistema de balizas de radio muy superprecisas sobre las que reproducir una especie de GPS con las correcciones propias de nuestro satélite.",
+      "zh": "美国宇航局已研究了一段时间的卫星星座方案（月球通信中继与导航系统），该系统将服务于两个目的：一是促进月球周边的通信，二是提供一套超精密无线电信标系统，以此构建一种类似GPS的定位体系，并纳入针对月球环境的相应修正。",
+      "vocab": [
+        {
+          "word": "constelación",
+          "translation": "星座；（卫星）星座网络",
+          "note": "constelación 本指天文学中的『星座』，在航天语境中引申为由多颗卫星组成的『卫星网络/星座』，是一个典型的专业隐喻词汇，具有较强的迁移价值。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Por ahora, los únicos que pueden comunicarse con vehículos en la cara oculta son los chinos, gracias a sus dos satélites Quequiao (\"Puente de urracas\"). El nombre hace referencia a una antigua leyenda china que cuenta cómo miles de esos pájaros <strong>tendieron</strong> una pasarela sobre el río de la Vía Láctea para reunir —una vez al año— a dos amantes aislados en orillas opuestas. Con ellos, la agencia espacial consiguió manejar un rover en la cara oculta y, más tarde, recuperar una muestra, el único <strong>ejemplar</strong> de esa zona que tenemos.",
+      "zh": "目前，唯一能与月球背面飞行器保持通信的是中国，这得益于其两颗『鹊桥』卫星（『喜鹊桥』之意）。这一名称源自中国古老的传说：千万只喜鹊在银河之上搭起一座桥，让两位被隔绝在对岸的恋人每年得以相聚一次。借助这两颗卫星，中国航天局成功操控了一辆月背巡视器，并于此后带回了一份样本——这是人类目前拥有的唯一一份来自该区域的实物。",
+      "vocab": [
+        {
+          "word": "tendieron",
+          "translation": "架设，搭建",
+          "note": "tender 是一词多义动词：可表示『伸展、架设（桥梁）』，也可表示『晾晒（衣物）』或『倾向于』（tender a），需根据语境判断，此处为『架桥』之义。"
+        },
+        {
+          "word": "ejemplar",
+          "translation": "样本，实物标本",
+          "note": "ejemplar 作名词时既可指『（书籍的）册、份』，也可指生物或物质的『标本、样本』，在科学语境中对应英语 specimen，注意与形容词 ejemplar（模范的）区分。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "¿Y Marte? Ahí, a los problemas citados se añade otro inconveniente: Su día dura 24 horas y 39 minutos. Así que cada amanecer marciano se produce algo más de media hora más tarde que el anterior (medido desde la Tierra). Ahora hay dos robots operando allí. Los técnicos que los controlan han tenido que <strong>adaptarse</strong> a un sistema de turnos que va perdiendo media hora cada día. Al vivir según el horario marciano (ya que los rovers solo se desplazan de día), su ciclo terrestre perdía todo <strong>sincronismo</strong> con la realidad. Pocos días después del aterrizaje ya tenían que cenar a mediodía o irse a dormir al alba; todo ello, con el caos que eso introducía en su vida familiar.",
+      "zh": "那么火星呢？在那里，除上述问题外，还有另一个麻烦：火星的一天长达24小时39分钟。因此，每一个火星黎明（以地球时间衡量）都比前一天晚了半个多小时。目前有两台机器人在火星上运行。操控它们的技术人员不得不适应一套每天递减半小时的轮班制度。由于要按照火星时间作息（因为火星车只在白天行驶），他们的地球生物钟与现实完全脱节。着陆后没几天，他们就得在正午吃晚饭，或者在黎明时分上床睡觉——这一切给他们的家庭生活带来了极大的混乱。",
+      "vocab": [
+        {
+          "word": "adaptarse",
+          "translation": "适应，调整",
+          "note": "adaptarse a 是固定搭配，后接名词或动词原形，表示主动适应某种环境或情况，与 acostumbrarse a（习惯于）近义，但 adaptarse 更强调主动调整的过程。"
+        },
+        {
+          "word": "sincronismo",
+          "translation": "同步性，协调一致",
+          "note": "sincronismo 与前文 sincronizado 同根（sin- + cronos），名词形式在此指生物钟与外部时间的『协调同步』，掌握这一词根可串联一组时间相关词汇。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "Cuando, muy en el futuro, un humano ponga un pie en Marte, probablemente habrá que establecer un sistema de tiempo similar al que ahora se prepara para la Luna. Y es que, por extraño que parezca, en el Universo cada lugar vive a su propio ritmo, que poco tiene que ver con el del <strong>vecino</strong>.",
+      "zh": "在遥远的未来，当人类踏上火星时，很可能需要建立一套类似于目前为月球所准备的时间系统。因为，无论听起来多么奇异，宇宙中每个地方都有其自己的节奏，与邻居的节奏几乎毫无关联。",
+      "vocab": [
+        {
+          "word": "vecino",
+          "translation": "邻居；邻近的（天体）",
+          "note": "vecino 在此处以拟人化方式指『相邻的天体』，是一种常见的科普写作修辞手法，体现了西语中名词的灵活隐喻用法，语气轻松而富有文学色彩。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "de dos plumazos",
+      "type": "modismo",
+      "translation": "一举，以两笔之功",
+      "usage": "pluma 指羽毛笔，de un plumazo 意为『一笔勾销、一举解决』，de dos plumazos 在此指爱因斯坦以两个理论一举推翻了某一观念，是带有文学色彩的正式书面表达。",
+      "exampleEs": "El nuevo director resolvió el conflicto de dos plumazos, sin necesidad de largas negociaciones.",
+      "exampleZh": "新任主管一举解决了这场冲突，无需漫长的谈判。"
+    },
+    {
+      "expression": "cuestión de vida o muerte",
+      "type": "expresión coloquial",
+      "translation": "生死攸关的大事",
+      "usage": "固定表达，用于强调某事极为重要、后果严峻，口语和书面语均可使用，语气强烈，常用于夸张或真实的紧急情境中。",
+      "exampleEs": "En zonas de conflicto, tener acceso a agua potable es una cuestión de vida o muerte.",
+      "exampleZh": "在冲突地区，能否获得饮用水是生死攸关的大事。"
+    },
+    {
+      "expression": "poco tiene que ver con",
+      "type": "estructura gramatical",
+      "translation": "与……几乎毫无关联",
+      "usage": "固定句式，用于强调两者之间关联极小或完全不同，结构为 poco/nada + tener que ver con + 名词，语体中性，口语书面均适用，是表达『无关』的地道说法。",
+      "exampleEs": "Lo que dice en público poco tiene que ver con lo que piensa en realidad.",
+      "exampleZh": "他公开说的话与他内心真实的想法几乎毫无关联。"
+    },
+    {
+      "expression": "por extraño que parezca",
+      "type": "estructura gramatical",
+      "translation": "尽管听起来奇怪，无论看起来多么奇异",
+      "usage": "让步状语从句的固定句式，结构为 por + 形容词 + que + 虚拟式，表示『无论……程度如何』，后接陈述句说明事实，是B2以上写作和口语中的高频正式结构。",
+      "exampleEs": "Por difícil que parezca, aprender un idioma en un año es posible con dedicación.",
+      "exampleZh": "尽管听起来很难，但只要足够投入，一年内学会一门语言是完全可能的。"
+    },
+    {
+      "expression": "en pleno + 名词",
+      "type": "colocación",
+      "translation": "在……正中，在……进行之中",
+      "usage": "固定搭配，en pleno 后接名词，表示『正处于某状态的中心或高峰』，如 en pleno vuelo（飞行途中）、en pleno centro（正中心）、en pleno debate（争论正酣之际），语体正式，书面口语均常见。",
+      "exampleEs": "La reunión fue interrumpida en pleno discurso del presidente.",
+      "exampleZh": "会议在主席发言正酣之际被打断了。"
+    }
+  ]
+}

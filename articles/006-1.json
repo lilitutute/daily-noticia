@@ -1,0 +1,289 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与医药",
+  "difficulty": "C1",
+  "wordCount": "约850词",
+  "title": "China quiere ganar la carrera por los medicamentos del futuro fabricados en segundos",
+  "subtitle": "中国志在赢得未来药物研发竞赛——秒速制药时代来临",
+  "resumenEs": "China ha presentado GalaxyVS, una plataforma de descubrimiento de fármacos impulsada por IA capaz de cribar 100.000 millones de moléculas en menos de un minuto. El artículo analiza cómo China ha pasado de ser el taller de genéricos del mundo a convertirse en potencia biofarmacéutica global, con un dominio industrial abrumador y una ambición geopolítica que genera creciente inquietud en Occidente.",
+  "resumenZh": "中国推出了由人工智能驱动的药物发现平台GalaxyVS，能在不到一分钟内筛选1000亿个分子。文章分析了中国如何从全球仿制药工厂蜕变为生物制药强国，凭借压倒性的工业优势和明确的地缘政治野心，引发西方世界日益强烈的忧虑。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "La inteligencia artificial ya <strong>asoma</strong> como nuevo gran laboratorio farmacéutico global. Y China pretende liderarlo. En el gigante asiático se acaba de presentar GalaxyVS, una plataforma de descubrimiento de fármacos impulsada por IA y alimentada por una nueva generación de supercomputadoras que son capaces de reducir la fase inicial de búsqueda de moléculas candidatas de años o meses a apenas segundos. Así lo han asegurado los investigadores chinos en un anuncio que también simboliza hasta qué punto la superpotencia ha dejado de ser la fábrica barata de medicamentos genéricos para <strong>convertirse en</strong> uno de los principales centros mundiales de innovación <strong>biofarmacéutica</strong>.",
+      "zh": "人工智能正崭露头角，成为全球新的制药大实验室，而中国志在引领这一领域。这个亚洲巨头刚刚发布了GalaxyVS——一款由人工智能驱动、以新一代超级计算机为支撑的药物发现平台，能够将候选分子初筛阶段从数年或数月压缩至短短数秒。中国研究人员在发布公告中如此宣称，而这一公告同时也象征着：这个超级大国已不再是廉价仿制药工厂，正蜕变为全球生物制药创新的主要中心之一。",
+      "vocab": [
+        {
+          "word": "asoma",
+          "translation": "崭露头角，初现端倪",
+          "note": "asomar 本义为『探出头来、从某处显现』，在新闻语体中常用于描述新趋势或新力量『开始显现、初露锋芒』，是一种生动的拟人化隐喻用法。"
+        },
+        {
+          "word": "convertirse en",
+          "translation": "转变为，成为",
+          "note": "convertirse en 强调经过一个转变过程后变成另一种状态，与 ser 的区别在于它突出『变化的过程』，是新闻和学术语体中描述身份或性质转变的核心固定搭配。"
+        },
+        {
+          "word": "biofarmacéutica",
+          "translation": "生物制药的",
+          "note": "前缀 bio-（生命）+ farmacéutica（制药的），bio- 是构词能力极强的前缀，可举一反三：biotecnología（生物技术）、biodiversidad（生物多样性）、bioquímica（生物化学）。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "El proyecto, desarrollado por el Centro Nacional de Supercomputación de Tianjin, supone un salto gigantesco en una de las etapas más lentas y costosas de la investigación farmacéutica: el <strong>cribado</strong> molecular. Tradicionalmente, los científicos deben analizar millones de compuestos químicos para encontrar moléculas capaces de unirse a una determinada <strong>diana</strong> biológica asociada a una enfermedad. Ese proceso puede tardar años y consumir miles de millones de dólares antes siquiera de que un medicamento llegue a los <strong>ensayos clínicos</strong>.",
+      "zh": "该项目由天津国家超级计算中心开发，在药物研究中最为缓慢、成本最高的环节之一——分子筛选上实现了跨越式突破。传统上，科学家需要分析数百万种化学化合物，才能找到能够与某种疾病相关特定生物靶点结合的分子。这一过程可能耗时数年、耗资数十亿美元，而药物甚至还未进入临床试验阶段。",
+      "vocab": [
+        {
+          "word": "cribado",
+          "translation": "筛选，筛查",
+          "note": "cribar 本义为用筛子『过筛、筛选』谷物，在医学和药学语体中引申为对大量样本进行系统性『筛查』，名词 cribado 是医疗新闻中的高频词，如 cribado de cáncer（癌症筛查）。"
+        },
+        {
+          "word": "diana",
+          "translation": "靶点，目标",
+          "note": "diana 本义为射击用的『靶』，在生物医学语体中专指药物作用的『分子靶点』，是一个典型的跨领域隐喻词，掌握其本义有助于理解各类科技文章中的引申用法。"
+        },
+        {
+          "word": "ensayos clínicos",
+          "translation": "临床试验",
+          "note": "固定搭配，是医药新闻中的核心词组，ensayo 在此指『试验、测试』而非文学体裁『散文』，注意区分这一词的两种常见含义。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Según explica Li Peishun, investigador del centro, la nueva plataforma puede completar en menos de un minuto una búsqueda sobre <strong>bibliotecas</strong> químicas de hasta 100.000 millones de moléculas. \"Su rendimiento diario alcanza una velocidad que multiplica por un millón el récord previo de supercomputación aplicado al descubrimiento de fármacos\", asegura. Li añade que todo esto permitirá <strong>acelerar</strong> el hallazgo de tratamientos para tumores, enfermedades neurodegenerativas, patologías raras o futuras enfermedades infecciosas emergentes.",
+      "zh": "据该中心研究员李培顺介绍，新平台能够在不到一分钟内完成对多达1000亿个分子的化学库检索。他表示：『其日处理性能所达到的速度，是此前超级计算机应用于药物发现领域最高纪录的百万倍。』李培顺补充说，这一切将有助于加速针对肿瘤、神经退行性疾病、罕见病以及未来新兴传染病治疗方案的发现。",
+      "vocab": [
+        {
+          "word": "bibliotecas",
+          "translation": "（化学）库，分子库",
+          "note": "biblioteca 本义为『图书馆/图书库』，在化学和生物信息学语体中引申为储存大量化合物或分子数据的『化学库』，是一个典型的跨领域隐喻词汇。"
+        },
+        {
+          "word": "acelerar",
+          "translation": "加速，推进",
+          "note": "acelerar 在科技和新闻语体中既可作不及物动词（速度加快），也可作及物动词（加速某事），名词形式 aceleración 和形容词 acelerado 在描述技术进步时同样高频。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "En la nueva era de la IA, en la carrera para comprimir años de investigación en cuestión de horas, China <strong>parte con ventaja</strong>: controla buena parte de la cadena de <strong>suministro</strong> farmacéutico y dispone de un ecosistema gigantesco de datos clínicos, investigadores cualificados, mucha financiación estatal y enorme capacidad industrial.",
+      "zh": "在人工智能新时代，在这场将数年研究压缩至数小时的竞赛中，中国占据先机：它掌控着制药供应链的大部分环节，拥有庞大的临床数据生态系统、充足的合格研究人员、大量国家资金以及雄厚的工业产能。",
+      "vocab": [
+        {
+          "word": "parte con ventaja",
+          "translation": "占据先机，起步领先",
+          "note": "partir con ventaja 是固定搭配，表示在竞争开始时就已处于有利地位，与 llevar ventaja（保持领先）有所不同，前者强调『起点』的优势，后者强调『过程中』的领先状态。"
+        },
+        {
+          "word": "suministro",
+          "translation": "供应，供给",
+          "note": "suministro 常与 cadena de（供应链）、interrupción del（供应中断）搭配，动词形式为 suministrar，与 proveer 近义但 suministro 更强调持续性、系统性的供给，多用于工业和政策语境。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Hace apenas 15 años, Pekín ocupaba un lugar <strong>marginal</strong> en la innovación farmacéutica. Su papel consistía principalmente en fabricar genéricos baratos y suministrarlos a las multinacionales occidentales. Pero hace un par de años, superó por primera vez a Europa como generador de nuevos <strong>principios activos</strong>. En 2010, el país asiático representaba menos del 8% de los ensayos clínicos globales. Ya ha superado a Estados Unidos y Europa en número anual de estudios registrados.",
+      "zh": "仅仅15年前，北京在制药创新领域还处于边缘地位，其角色主要是生产廉价仿制药并向西方跨国公司供货。但就在几年前，中国首次超越欧洲，成为新活性成分的最大产出方。2010年，中国在全球临床试验中的占比还不足8%，如今已在年度注册研究数量上超越美国和欧洲。",
+      "vocab": [
+        {
+          "word": "marginal",
+          "translation": "边缘的，微不足道的",
+          "note": "marginal 在社会和经济语体中指处于『边缘、次要』地位，注意与英语 marginal 是真朋友，但西语中还常见 marginado（被边缘化的人），两者词根相同，构词规律清晰。"
+        },
+        {
+          "word": "principios activos",
+          "translation": "活性成分，有效成分",
+          "note": "固定搭配，是制药新闻的核心词组，指药物中发挥治疗作用的化学成分，区别于辅料（excipientes），在讨论药物生产和供应链时高频出现。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Las farmacéuticas occidentales ahora dependen cada vez más de los laboratorios chinos para descubrir nuevas moléculas. Yanzhong Huang, investigador sénior en salud del think tank Consejo de Relaciones Exteriores, sostiene que \"China <strong>domina</strong> la producción mundial de principios activos genéricos en categorías terapéuticas clave y se ha convertido en un <strong>pilar</strong> indispensable de la cadena de suministro\".",
+      "zh": "西方制药公司如今越来越依赖中国实验室来发现新分子。外交关系委员会智库高级卫生研究员黄严忠表示：『中国主导着关键治疗领域仿制药活性成分的全球生产，已成为供应链中不可或缺的支柱。』",
+      "vocab": [
+        {
+          "word": "domina",
+          "translation": "主导，掌控",
+          "note": "dominar 在经济和地缘政治语体中表示对某一领域或市场的『主导、掌控』，语气比 liderar 更强，隐含对其他竞争者的压制，名词形式 dominio 在同类文章中同样高频。"
+        },
+        {
+          "word": "pilar",
+          "translation": "支柱，基石",
+          "note": "pilar 本义为建筑上的『柱子』，在新闻和政策语体中常用于比喻某事物是体系或结构的『核心支撑』，常见搭配为 pilar fundamental/indispensable/clave，是社论高频隐喻词。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "El dominio industrial es <strong>abrumador</strong>. Cerca del 80% de los químicos utilizados para fabricar principios activos farmacéuticos se producen en China, que concentra entre el 70% y el 80% de la producción mundial de principios activos de antibióticos y alrededor del 80% del suministro global de heparina. Un análisis de la Farmacopea de EEUU reveló que casi 700 medicamentos aprobados en el mercado estadounidense dependen de al menos un componente fabricado <strong>exclusivamente</strong> en China.",
+      "zh": "中国的工业主导地位压倒性地强大。近80%用于生产药物活性成分的化学品在中国生产；中国集中了全球70%至80%的抗生素活性成分产量，以及约80%的全球肝素供应。美国药典的一项分析显示，美国市场上已获批的近700种药物，至少有一种成分完全依赖中国独家生产。",
+      "vocab": [
+        {
+          "word": "abrumador",
+          "translation": "压倒性的，令人窒息的",
+          "note": "abrumador 来自动词 abrumar（使不堪重负），形容某种优势、数量或压力大到令人喘不过气，语气极强，在新闻中常用于描述压倒性的数据或力量对比。"
+        },
+        {
+          "word": "exclusivamente",
+          "translation": "专门地，唯一地",
+          "note": "exclusivamente 由 exclusivo + -mente 构成，强调『仅此一处、排他性地』，在供应链和贸易语境中暗含高度依赖和脆弱性的风险，语气比 principalmente 更绝对。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "La dependencia europea también es cada vez más profunda. En Alemania, tres cuartas partes de los principios activos utilizados en antibióticos importados proceden de China. En España, el Real Instituto Elcano alertó hace años de la creciente <strong>vulnerabilidad</strong> de las cadenas de suministro farmacéuticas frente a Pekín. Empresas chinas como Techdow Pharma o Qilu Pharma han <strong>desembarcado</strong> en el mercado español mientras compañías europeas trasladan producción al gigante asiático incapaces de competir con sus costes.",
+      "zh": "欧洲的依赖程度同样日益加深。在德国，进口抗生素所用活性成分的四分之三来自中国。在西班牙，埃尔卡诺皇家研究所多年前便已就制药供应链对北京日益增长的脆弱性发出警告。泰道制药、齐鲁制药等中国企业已进军西班牙市场，与此同时，无力与中国成本竞争的欧洲企业纷纷将生产转移至这个亚洲巨头。",
+      "vocab": [
+        {
+          "word": "vulnerabilidad",
+          "translation": "脆弱性，易受冲击性",
+          "note": "vulnerabilidad 在地缘政治和供应链语境中指某一系统或国家对外部冲击的『暴露程度和抵御能力不足』，是国际关系和安全议题中的核心词汇，形容词为 vulnerable。"
+        },
+        {
+          "word": "desembarcado",
+          "translation": "进军，登陆（市场）",
+          "note": "desembarcar 本义为『下船、登陆』，在商业新闻中引申为企业『进入新市场』，是一种常见的军事隐喻，语气比 entrar 更具进攻性，暗示主动扩张的姿态。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "\"China ya no es simplemente el taller farmacéutico del mundo; se está convirtiendo en uno de los principales desarrolladores de fármacos\", resume el investigador Huang. El año pasado, Pfizer acordó pagar 1.250 millones de dólares para <strong>licenciar</strong> una inmunoterapia contra el cáncer desarrollada por la china 3SBio, el mayor <strong>desembolso</strong> inicial jamás realizado por un activo farmacéutico chino. Otro laboratorio chino, Akeso, logró que su anticuerpo superara a otro del gigante alemán Merck en un ensayo clínico de fase 3 para cáncer de pulmón, algo inédito hasta ese momento.",
+      "zh": "『中国已不再仅仅是世界的制药工厂，正在成为主要的药物开发者之一。』研究员黄严忠如此总结道。去年，辉瑞同意支付12.5亿美元，授权使用中国企业三生制药开发的一款癌症免疫疗法，创下中国制药资产有史以来最大的首付款纪录。另一家中国实验室康方生物的一款抗体在三期肺癌临床试验中击败了德国制药巨头默克的同类产品，这在此前是前所未有的。",
+      "vocab": [
+        {
+          "word": "licenciar",
+          "translation": "授权许可，签订许可协议",
+          "note": "licenciar 在商业和知识产权语境中表示通过合同『授权他方使用某项专利或技术』，名词形式 licencia 和 licenciamiento 在制药和科技新闻中高频出现，注意与『毕业』义的 licenciarse 区分。"
+        },
+        {
+          "word": "desembolso",
+          "translation": "支出，付款，出资",
+          "note": "desembolso 由 des-（向外）+ bolso（钱包）构成，指一次性的大额资金支出，在金融和商业新闻中常与 inicial（首付）、millonario（巨额）搭配，动词形式为 desembolsar。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "\"El ascenso chino se explica por inversiones masivas del Estado, reformas regulatorias para acelerar ensayos clínicos, incentivos fiscales, un enorme mercado interno y una estrategia industrial diseñada a largo plazo\", explica Huang. Todo ello acompañado de un ecosistema académico y tecnológico cada vez más sofisticado que ahora incorpora la IA como <strong>acelerador</strong> decisivo.",
+      "zh": "『中国的崛起可以用国家大规模投资、加速临床试验的监管改革、税收激励、庞大的国内市场以及长期谋划的产业战略来解释。』黄严忠说道。这一切还伴随着一个日益成熟的学术与技术生态系统，而人工智能如今已作为决定性的加速引擎融入其中。",
+      "vocab": [
+        {
+          "word": "acelerador",
+          "translation": "加速器，推动力",
+          "note": "acelerador 本义为汽车『油门』或物理学中的『粒子加速器』，在科技和商业语体中引申为推动某一进程快速发展的『催化剂/加速引擎』，是新闻中的高频隐喻名词。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "La ambición de Pekín va más allá del negocio. Los medios oficiales llevan años promoviendo la idea de una \"ruta de la seda de los medicamentos\", destinada a <strong>expandir</strong> la influencia farmacéutica china en el Sur Global. África ocupa un lugar central en esa estrategia. Empresas chinas ya construyen plantas de producción de insulina, antibióticos o antirretrovirales en países como Nigeria, Senegal o Costa de Marfil.",
+      "zh": "北京的野心远不止于商业利益。官方媒体多年来一直在推广『药物丝绸之路』的理念，旨在将中国的制药影响力扩展至全球南方。非洲在这一战略中占据核心地位。中国企业已在尼日利亚、塞内加尔、科特迪瓦等国建设胰岛素、抗生素和抗逆转录病毒药物的生产工厂。",
+      "vocab": [
+        {
+          "word": "expandir",
+          "translation": "扩展，拓展",
+          "note": "expandir 与 ampliar 近义，但 expandir 更强调向外延伸扩张（尤指地理或影响力范围），而 ampliar 更侧重在原有基础上的扩大，在地缘政治和商业语境中两者有细微差别。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Sin embargo, el auge de China también genera <strong>inquietud</strong> en Occidente. La Unión Europea presentó este año una Ley de Medicamentos Esenciales para reforzar la producción local de más de 200 fármacos críticos y reducir la dependencia de proveedores asiáticos. Porque el riesgo ya no es únicamente económico. \"El control de China sobre la cadena de suministro crea <strong>vulnerabilidades estructurales</strong>\", advierte Huang. \"Cualquier interrupción significativa, ya sea por un conflicto geopolítico, una pandemia o restricciones a la exportación, puede <strong>propagarse</strong> rápida e impredeciblemente por todo el sistema sanitario mundial\".",
+      "zh": "然而，中国的崛起也在西方引发了忧虑。欧盟今年提出了《基本药物法》，旨在加强200余种关键药物的本地生产，降低对亚洲供应商的依赖。因为风险已不再仅仅是经济层面的。『中国对供应链的掌控制造了结构性脆弱点，』黄严忠警告道，『任何重大中断——无论是地缘政治冲突、疫情还是出口限制——都可能迅速且难以预测地蔓延至全球整个卫生体系。』",
+      "vocab": [
+        {
+          "word": "inquietud",
+          "translation": "忧虑，不安",
+          "note": "inquietud 比 preocupación 语气更强，带有一种持续性的不安感，常用于政治和安全议题，动词形式 inquietar 和形容词 inquietante（令人不安的）在新闻中同样高频。"
+        },
+        {
+          "word": "vulnerabilidades estructurales",
+          "translation": "结构性脆弱点",
+          "note": "固定搭配，在地缘政治和供应链安全语境中指由系统结构本身造成的、难以通过短期措施消除的薄弱环节，是国际关系和安全政策讨论中的核心词组。"
+        },
+        {
+          "word": "propagarse",
+          "translation": "蔓延，扩散",
+          "note": "propagarse 本指疾病或火势『蔓延』，在地缘政治和经济语境中引申为风险或危机的『扩散传导』，常与 rápidamente、impredeciblemente 等副词搭配，强调扩散的速度和不可控性。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "Mientras tanto, China acelera para que la próxima gran revolución farmacéutica <strong>hable en mandarín</strong>. Y lo hace apoyándose en una combinación que ninguna otra potencia reúne hoy con la misma escala: supercomputación, inteligencia artificial, control industrial y <strong>músculo estatal</strong>.",
+      "zh": "与此同时，中国正在加速推进，力图让下一场制药大革命『说普通话』。而它所依仗的，是一套当今没有任何其他大国能以同等规模集齐的组合：超级计算、人工智能、工业掌控与国家力量。",
+      "vocab": [
+        {
+          "word": "hable en mandarín",
+          "translation": "说普通话（比喻由中国主导）",
+          "note": "这是一种修辞性隐喻表达，用语言来指代文化和政治主导权，类似表达如 hablar en inglés 可指某领域由英语世界主导，是新闻社论中常见的生动收尾手法。"
+        },
+        {
+          "word": "músculo estatal",
+          "translation": "国家力量，政府资源与动员能力",
+          "note": "músculo 本义为『肌肉』，在政治和经济语体中引申为某一主体的『实力、动员能力』，如 músculo financiero（财力）、músculo industrial（工业实力），是新闻中的高频隐喻词。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "partir con ventaja",
+      "type": "colocación",
+      "translation": "占据先机，起步领先",
+      "usage": "固定搭配，表示在竞争或比赛开始时就已处于有利地位，强调起点优势，常用于体育、商业和地缘政治语境，与 llevar ventaja（过程中保持领先）有所区分。",
+      "exampleEs": "Los países con mayor infraestructura digital parten con ventaja en la transición hacia la economía verde.",
+      "exampleZh": "数字基础设施更完善的国家在向绿色经济转型的过程中占据先机。"
+    },
+    {
+      "expression": "ir más allá de",
+      "type": "estructura gramatical",
+      "translation": "超越……，不止于……",
+      "usage": "固定结构，表示某事物的范围或意义超出了某一界限，语体正式，常用于新闻和学术写作中引出更深层的分析，结构为 ir/estar más allá de + 名词。",
+      "exampleEs": "El impacto de esta tecnología va más allá de la medicina y afecta a toda la industria.",
+      "exampleZh": "这项技术的影响远不止于医学领域，而是波及整个产业。"
+    },
+    {
+      "expression": "en cuestión de",
+      "type": "colocación",
+      "translation": "在……之内，仅需……时间",
+      "usage": "固定搭配，后接时间名词，表示某事在极短时间内完成，强调速度之快，语体中性，口语书面均常用，如 en cuestión de segundos/horas/días。",
+      "exampleEs": "Gracias a la IA, el diagnóstico médico puede realizarse en cuestión de minutos.",
+      "exampleZh": "借助人工智能，医学诊断可以在数分钟内完成。"
+    },
+    {
+      "expression": "dejar de ser... para convertirse en...",
+      "type": "estructura gramatical",
+      "translation": "从……转变为……，不再是……而成为……",
+      "usage": "表达身份或性质转变的经典句式，dejar de ser 强调旧状态的终结，convertirse en 强调新状态的确立，两者连用形成对比，是新闻分析中描述历史性转变的标准结构。",
+      "exampleEs": "La ciudad dejó de ser un pueblo industrial para convertirse en un referente turístico internacional.",
+      "exampleZh": "这座城市从一个工业小镇蜕变为国际旅游目的地。"
+    },
+    {
+      "expression": "cosechar éxitos",
+      "type": "colocación",
+      "translation": "收获成功，斩获佳绩",
+      "usage": "固定搭配，cosechar（收割庄稼）与 éxitos 组合形成农业隐喻，表示在某一领域取得丰硕成果，语体正式偏书面，常用于新闻对企业、运动员或国家成就的描述。",
+      "exampleEs": "Los laboratorios chinos han cosechado éxitos notables en el desarrollo de nuevas terapias oncológicas.",
+      "exampleZh": "中国实验室在新型肿瘤疗法的研发上取得了显著成就。"
+    },
+    {
+      "expression": "algo inédito",
+      "type": "colocación",
+      "translation": "前所未有之事，史无前例",
+      "usage": "inédito 本义为『未出版的』，在新闻语体中引申为『前所未有、史无前例』，常以 algo inédito 或 un hecho inédito 的形式出现，是社论中强调历史性突破的高频表达。",
+      "exampleEs": "Que una empresa emergente superara a un gigante tecnológico en ventas fue algo inédito en el sector.",
+      "exampleZh": "一家初创企业在销售额上超越科技巨头，这在该行业是前所未有的。"
+    }
+  ]
+}

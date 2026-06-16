@@ -1,0 +1,260 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与产业",
+  "difficulty": "B2",
+  "wordCount": "约1100词",
+  "title": "Por qué es casi imposible fabricar un robot sin China",
+  "subtitle": "为何制造机器人离不开中国",
+  "resumenEs": "El artículo analiza cómo China ha desplazado a Japón como líder mundial en robótica, dominando tanto la cadena de suministro de robots humanoides como la automatización industrial. Impulsada por su industria de vehículos eléctricos y una masiva inversión estatal y privada, China produce robots a precios imbatibles. Sin embargo, los humanoides aún distan de ser plenamente funcionales en entornos reales, y el sector sigue dependiendo de chips y software extranjeros para avanzar.",
+  "resumenZh": "本文分析了中国如何取代日本成为全球机器人领域的领导者，在人形机器人供应链和工业自动化两个领域均占据主导地位。凭借电动汽车产业的带动和大规模国家及私人投资，中国以无可匹敌的价格生产机器人。然而，人形机器人在真实环境中的实用性仍有很大差距，该行业在技术突破上仍依赖外国芯片和软件。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Japón fue el líder mundial en robótica durante décadas. Hace más de 50 años, los investigadores japoneses <strong>cautivaron</strong> la imaginación de todos con el primer robot capaz de agarrar objetos y caminar sobre dos piernas. En 1984, un equipo en Japón construyó uno que podía leer partituras y tocar el piano. Cuando Honda presentó su primer humanoide en 2000, parecía que el país <strong>consolidaba</strong> su liderazgo. Pero ahora, justo cuando los inversores en tecnología, los fundadores de empresas emergentes y los funcionarios gubernamentales de todo el mundo apuestan por que la inteligencia artificial impulsará el crecimiento de los robots, ese liderazgo ya no le pertenece a Japón. Ahora le pertenece a China.",
+      "zh": "数十年来，日本一直是全球机器人领域的领导者。五十多年前，日本研究人员凭借第一台能够抓取物体并用两条腿行走的机器人，俘获了所有人的想象力。1984年，日本一个团队制造出了能够读谱并演奏钢琴的机器人。2000年本田推出首款人形机器人时，这个国家似乎正在巩固其领导地位。然而如今，就在全球科技投资者、初创企业创始人和政府官员纷纷押注人工智能将推动机器人产业增长之际，这一领导地位已不再属于日本，而属于中国。",
+      "vocab": [
+        {
+          "word": "cautivaron",
+          "translation": "俘获，深深吸引",
+          "note": "cautivar 本义为『俘虏、使成为俘虏』，在文学和新闻语体中引申为深深吸引、迷住某人，比 atraer 语气更强烈，强调完全被征服的状态，名词形式 cautiverio 指『囚禁』。"
+        },
+        {
+          "word": "consolidaba",
+          "translation": "巩固，强化",
+          "note": "consolidar 表示使已有的地位、成果或结构更加稳固，常见搭配有 consolidar el liderazgo/la posición/la democracia，是政治、商业和新闻语体的高频动词，比 fortalecer 更强调稳定性。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "El mes pasado, en la Humanoids Summit, una conferencia sobre robótica celebrada en Tokio, lo que podría haber sido un momento de orgullo para una industria construida sobre décadas de desarrollo e inversión se enfocó, en cambio, en un tema diferente: cómo las empresas japonesas pueden <strong>abrirse paso</strong> en un mercado dominado cada vez más por sus rivales chinos. Los inversores instaron a las empresas japonesas a encontrar <strong>nichos</strong> en los que pudieran competir, aunque no pudieran igualar a las empresas chinas en precio. Un robot bailarín de la empresa china Unitree Robotics atrajo a la mayor multitud. Dos empresas japonesas también utilizaron robots de Unitree para mostrar su software.",
+      "zh": "上个月，在东京举办的人形机器人峰会上，这场本可成为一个产业骄傲时刻的会议——毕竟这一产业建立在数十年的研发与投资之上——却将焦点转向了另一个话题：日本企业如何在一个日益被中国竞争对手主导的市场中杀出重围。投资者敦促日本企业寻找自己能够竞争的细分市场，即便无法在价格上与中国企业匹敌。中国宇树科技的一款舞蹈机器人吸引了最多的人群。两家日本企业也借助宇树的机器人来展示自家软件。",
+      "vocab": [
+        {
+          "word": "abrirse paso",
+          "translation": "杀出重围，开辟道路",
+          "note": "abrirse paso 是固定惯用语，字面意为『为自己开路』，引申为在竞争激烈或困难重重的环境中『突破障碍、脱颖而出』，常用于商业、政治和体育语境，语气积极主动。"
+        },
+        {
+          "word": "nichos",
+          "translation": "细分市场，利基市场",
+          "note": "nicho 本义为墙壁上的『壁龛』，在商业语体中引申为大市场中被忽视的『细分领域』，nicho de mercado（利基市场）是商业新闻的核心固定搭配，具有极高的迁移价值。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Los fabricantes chinos dominan la <strong>cadena de suministro</strong> de robots humanoides. Empresas emergentes como Unitree están produciendo miles de humanoides que se venden por menos de 5000 dólares cada uno, un ritmo y un precio que a los competidores de Japón y de otros lugares les cuesta igualar. Los robots chinos solían depender de proveedores japoneses y extranjeros para componentes como sensores y articulaciones. Pero hoy en día, esas piezas también se fabrican en China. Se ha vuelto casi imposible construir un robot humanoide sin piezas de empresas chinas, dijo Ming Hsun Lee, director de automoción e industria para la Gran China en BofA Global Research, una unidad de Bank of America. \"El costo de los componentes en China ha bajado demasiado rápido; los otros países no pueden competir\", dijo Lee.",
+      "zh": "中国制造商主导着人形机器人的供应链。宇树科技等初创企业正在批量生产人形机器人，每台售价不足5000美元，这样的速度和价格令日本及其他地方的竞争对手难以企及。中国机器人过去依赖日本和外国供应商提供传感器、关节等零部件，但如今这些零件也在中国本土生产。美国银行旗下BofA全球研究大中华区汽车与工业总监李明勋表示，如今不用中国企业的零部件来制造人形机器人几乎已成不可能。他说：『中国零部件成本下降得太快，其他国家根本无法竞争。』",
+      "vocab": [
+        {
+          "word": "cadena de suministro",
+          "translation": "供应链",
+          "note": "固定搭配，是商业、工业和地缘政治新闻中的核心词组，cadena（链条）的隐喻形象地描述了从原材料到成品的各环节相互依存关系，disruption de la cadena de suministro（供应链中断）同样高频。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Pero fabricar robots humanoides ha resultado más fácil que encontrarles un uso. Incluso los ejecutivos del sector de la robótica reconocen que los modelos actuales están lejos de realizar el tipo de tareas que han <strong>alimentado</strong> el entusiasmo de la industria. Y aunque la promesa de los humanoides sigue sin <strong>cumplirse</strong>, China ha establecido un liderazgo indiscutible en un segmento de la industria robótica que resulta económicamente útil: la <strong>automatización</strong> industrial.",
+      "zh": "然而，制造人形机器人已被证明比为其找到实际用途容易得多。就连机器人行业的高管也承认，现有型号距离完成那些激发行业热情的任务还相去甚远。尽管人形机器人的承诺至今尚未兑现，中国已在机器人产业中一个切实具有经济价值的细分领域建立了无可争议的领导地位：工业自动化。",
+      "vocab": [
+        {
+          "word": "alimentado",
+          "translation": "激发，推动，滋养",
+          "note": "alimentar 本义为『喂食、滋养』，在新闻和学术语体中引申为『推动、激发、助长』某种情绪、趋势或现象，是一种常见的隐喻用法，如 alimentar el debate/el entusiasmo/la polémica。"
+        },
+        {
+          "word": "cumplirse",
+          "translation": "兑现，实现",
+          "note": "cumplirse 用于承诺、预测或期望时，表示其『得以实现、成真』，sigue sin cumplirse 是固定结构，表示『至今仍未实现』，注意 cumplir（履行义务）与 cumplirse（自动实现）的主动被动之别。"
+        },
+        {
+          "word": "automatización",
+          "translation": "自动化",
+          "note": "automatización 由 automático + -ización 构成，后缀 -ización 将形容词转化为表示『过程/化』的名词，同类词如 digitalización（数字化）、industrialización（工业化），是描述产业转型的高频构词模式。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "China ha estado fabricando e instalando robots industriales a un ritmo <strong>sin igual</strong> en ningún otro país. En 2024, más de dos millones de robots operaban en fábricas chinas, y se instalaron otros 300.000, una cifra superior a la del resto del mundo en conjunto. Las instalaciones de robots industriales <strong>disminuyeron</strong> en cada uno de los siguientes mercados más importantes: Japón, Estados Unidos, Corea del Sur y Alemania. A principios de este mes, las autoridades reguladoras chinas anunciaron una campaña para animar a los gobiernos locales y a las empresas estatales a identificar casos de uso industrial para los robots humanoides.",
+      "zh": "中国制造和安装工业机器人的速度是其他任何国家都无法比拟的。2024年，超过200万台机器人在中国工厂运行，另有30万台新机器人完成安装，这一数字超过了世界其他所有国家的总和。与此同时，工业机器人安装量在其他几个主要市场均出现下滑：日本、美国、韩国和德国无一例外。本月初，中国监管部门宣布启动一项行动，鼓励地方政府和国有企业为人形机器人寻找工业应用场景。",
+      "vocab": [
+        {
+          "word": "sin igual",
+          "translation": "无与伦比的，无可匹敌的",
+          "note": "sin igual 是固定搭配，表示某事物在同类中没有可以相比的，与 sin precedentes（史无前例）近义但 sin igual 更强调质量或程度上的绝对优势，是新闻中描述领先地位的高频表达。"
+        },
+        {
+          "word": "disminuyeron",
+          "translation": "下降，减少",
+          "note": "disminuir 与 aumentar 构成一对反义动词，在经济和统计新闻中极为高频，注意其不规则变位：disminuye/disminuyó，名词形式 disminución 同样常见，比 bajar 更正式。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "El liderazgo de China en la carrera por construir robots que se muevan y actúen como humanos está estrechamente <strong>ligado</strong> al auge de su industria de vehículos eléctricos. China se ha convertido en el mayor exportador de vehículos eléctricos gracias a décadas de inversión gubernamental y a una estrategia centrada en producir casi todos los componentes a nivel nacional, desde tornillos hasta baterías de iones de litio. Ahora, muchas empresas que fabrican piezas para vehículos eléctricos también <strong>suministran</strong> a los fabricantes de robots. \"Si una empresa puede fabricar componentes para automóviles, probablemente también pueda fabricar humanoides\", dijo Lee.",
+      "zh": "中国在打造能够像人类一样移动和行动的机器人竞赛中的领先地位，与其电动汽车产业的崛起密切相关。凭借数十年的政府投资，以及从螺丝钉到锂离子电池几乎所有零部件均实现国产化的战略，中国已成为最大的电动汽车出口国。如今，许多为电动汽车生产零部件的企业也在向机器人制造商供货。李明勋说：『如果一家企业能够制造汽车零部件，很可能也能制造人形机器人。』",
+      "vocab": [
+        {
+          "word": "ligado",
+          "translation": "与……密切相关，紧密相连",
+          "note": "ligado a 是固定搭配，表示两者之间存在紧密的因果或关联关系，与 vinculado a 近义，但 ligado 更口语化，vinculado 更正式，两者在新闻中均高频，可根据语体灵活选用。"
+        },
+        {
+          "word": "suministran",
+          "translation": "供应，提供（零部件）",
+          "note": "suministrar 呼应前文 suministro，动词形式在工业和供应链语境中表示持续性的零部件或原材料供给，比 proporcionar 更强调商业供货关系，是产业新闻的核心词汇。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Tesla, la empresa estadounidense de coches eléctricos, dio el <strong>pistoletazo de salida</strong> al auge de los vehículos eléctricos en China con su gigantesca fábrica en Shanghái. La red de proveedores que creció en torno a Tesla también abastece al negocio de robótica de la empresa. Aunque Tesla había presionado para crear una cadena de suministro independiente para clientes fuera de China, aún depende de los fabricantes chinos para al menos el 70 por ciento de sus componentes, dijo Lee. Las plantas de los fabricantes de vehículos eléctricos de China, como BYD y Xiaomi, también se han convertido en uno de los primeros lugares en utilizar robots humanoides para tareas sencillas como transportar objetos.",
+      "zh": "美国电动汽车企业特斯拉凭借其在上海的超级工厂，为中国电动汽车产业的腾飞鸣响了发令枪。围绕特斯拉成长起来的供应商网络，如今也在为该公司的机器人业务供货。李明勋表示，尽管特斯拉曾致力于为中国以外的客户打造独立供应链，但其零部件至少仍有70%依赖中国制造商。比亚迪、小米等中国电动汽车制造商的工厂，也已成为率先将人形机器人用于搬运等简单任务的场所之一。",
+      "vocab": [
+        {
+          "word": "pistoletazo de salida",
+          "translation": "发令枪，起点信号",
+          "note": "pistoletazo de salida 是固定惯用语，字面意为田径比赛中的『发令枪声』，引申为某一重大进程或竞争的『起点、开端』，是新闻语体中描述历史性启动时刻的高频生动表达。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Algunos de esos robots los fabricó UBTech. En Shenzhen, el centro de la industria tecnológica china, la empresa está rodeada de proveedores, muchos de los cuales fabricaban piezas para vehículos eléctricos antes de <strong>pasarse a</strong> la robótica. UBTech puede conseguir casi cualquier pieza en cuestión de horas, dijo Michael Tam, director de marca de la empresa. Muchas piezas se imprimen en 3D. \"Puedo enviar un plano de diseño antes de las 9 a. m. y recibir los componentes impresos al mediodía\", dijo Tam. \"Si un proveedor me dice que no tiene espacio en su agenda, simplemente llamo a otro\". Más del 90 por ciento de los componentes de los robots de UBTech provienen de empresas chinas, dijo Tam. Los principales artículos que aún importa son chips informáticos para controlar los movimientos de los robots.",
+      "zh": "其中一些机器人由优必选制造。在中国科技产业中心深圳，这家公司周围云集着众多供应商，其中许多在转型机器人领域之前曾为电动汽车生产零部件。该公司品牌总监谭迈克表示，优必选几乎可以在数小时内获取任何零件。许多零件通过3D打印制造。他说：『我可以在早上9点前发送设计图纸，中午就能收到打印好的零件。如果一家供应商说没有档期，我直接打电话给另一家。』谭迈克表示，优必选机器人超过90%的零部件来自中国企业，目前仍需进口的主要是用于控制机器人动作的计算芯片。",
+      "vocab": [
+        {
+          "word": "pasarse a",
+          "translation": "转型至，改投",
+          "note": "pasarse a 是固定搭配，表示从一个领域、阵营或立场转移到另一个，如 pasarse al enemigo（投敌）、pasarse a la competencia（跳槽到竞争对手），在商业语境中表示企业或个人的战略转型。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Cerca de allí, también en Shenzhen, RoboSense, un fabricante de sensores LiDAR para sistemas de conducción asistida puso en marcha un negocio de robótica en 2024. Yang Xiansheng, vicepresidente de robótica de la empresa, dijo que, en el pasado, RoboSense habría <strong>recurrido a</strong> empresas japonesas para conseguir piezas para sus líneas de producción automatizadas. \"Ya no es así\", dijo Yang. \"Los proveedores chinos ofrecen ahora muchas más opciones\". Los inversores chinos <strong>inyectaron</strong> más de 5 millardos de dólares en empresas emergentes de robots humanoides en 2025, lo que iguala la cantidad total de los cinco años anteriores. En los primeros cinco meses de este año, la inversión en el sector superó el total del año pasado en casi 1 millardo de dólares.",
+      "zh": "同在深圳附近，激光雷达传感器制造商速腾聚创于2024年开拓了机器人业务。该公司机器人副总裁杨先生表示，过去速腾聚创会求助于日本企业来获取自动化生产线所需的零件。『现在不一样了，』他说，『中国供应商如今提供了更多选择。』2025年，中国投资者向人形机器人初创企业注入了逾50亿美元，与前五年的总和持平。今年前五个月，该领域的投资额已超过去年全年近10亿美元。",
+      "vocab": [
+        {
+          "word": "recurrido a",
+          "translation": "求助于，借助于",
+          "note": "recurrir a 是固定搭配，表示在需要时『求助于、借助于』某人或某物，后接名词，是正式语体中表达『依赖、诉诸』的核心动词，比 acudir a 更强调将其作为解决方案的主动选择。"
+        },
+        {
+          "word": "inyectaron",
+          "translation": "注入（资金）",
+          "note": "inyectar 本义为医学上的『注射』，在金融新闻中引申为向企业或经济体『注入资金』，inyectar capital/dinero/fondos 是固定搭配，是描述投融资行为的高频隐喻动词。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Este auge <strong>subraya</strong> la creciente convicción de que los robots humanoides podrían convertirse en una de las formas más significativas en que la inteligencia artificial tome forma física en el mundo. Decenas de empresas emergentes chinas trabajan para sacar partido de esa visión. En marzo, Unitree solicitó <strong>salir a bolsa</strong> en Shanghái. La empresa dijo la semana pasada que había superado una revisión regulatoria, lo que podría permitirle comenzar a vender acciones en cuestión de semanas. Se espera que la oferta sea una de las más grandes de China este año, y cerca de otras 50 empresas relacionadas con la robótica están a la espera de cotizar en Hong Kong.",
+      "zh": "这股热潮凸显了一种日益强烈的信念：人形机器人可能成为人工智能在现实世界中以实体形式呈现的最重要方式之一。数十家中国初创企业正努力将这一愿景变为现实。今年3月，宇树科技申请在上海上市。该公司上周表示已通过监管审查，可能在数周内开始发行股票。预计此次发行将是中国今年规模最大的IPO之一，另有近50家机器人相关企业正等待在香港上市。",
+      "vocab": [
+        {
+          "word": "subraya",
+          "translation": "凸显，强调",
+          "note": "subrayar 本义为『在文字下划线』，在新闻和学术语体中引申为『凸显、强调某一事实或趋势的重要性』，比 destacar 更强调对已有证据的印证和强化，是社论和分析文章的高频动词。"
+        },
+        {
+          "word": "salir a bolsa",
+          "translation": "上市，首次公开募股（IPO）",
+          "note": "salir a bolsa 是固定搭配，表示企业首次在证券交易所公开发行股票，与 cotizar en bolsa（在证交所挂牌交易）近义，是金融新闻中描述IPO的标准表达，bolsa 在此指『证券交易所』。"
+        }
+      ]
+    },
+{
+  "id": 11,
+  "es": "Los fundadores e inversores imaginan que los humanoides podrían realizar tareas peligrosas, como supervisar fábricas en busca de <strong>fugas</strong> químicas y transportar cargas pesadas. Pero los robots tienen dificultades para adaptarse al mundo cambiante que les rodea. Los humanoides que han llamado la atención internacional por bailar sincronizados en eventos como el especial televisivo chino del Año Nuevo Lunar seguían guiones preprogramados. Las empresas chinas también han tenido dificultades para crear software capaz de <strong>simular</strong> el mundo real con la precisión suficiente como para enseñar a los robots a pensar y actuar. Para ello, muchas recurren al software de simulación de Nvidia, el fabricante estadounidense de chips. El mes pasado, Jensen Huang, su director ejecutivo, anunció una colaboración con Unitree para una línea de robots que usarán chips y software de Nvidia para <strong>razonar</strong> y tomar decisiones. Se espera que los robots estén disponibles en octubre.",
+  "zh": "创始人和投资者设想，人形机器人可以执行危险任务，例如在工厂巡检化学品泄漏情况或搬运重物。然而，机器人在适应周围不断变化的环境方面仍存在困难。那些在中国农历新年电视特别节目等活动中以同步舞蹈引发国际关注的人形机器人，依照的是预先编写好的程序脚本。中国企业在开发能够以足够精度模拟真实世界的软件方面也遭遇了困难，而这类软件是教会机器人思考和行动的前提。为此，许多企业借助美国芯片制造商英伟达的仿真软件。上个月，英伟达首席执行官黄仁勋宣布与宇树合作，推出一系列将使用英伟达芯片和软件进行推理与决策的机器人，预计将于10月上市。",
+  "vocab": [
+    {
+      "word": "fugas",
+      "translation": "泄漏，渗漏",
+      "note": "fuga 本义为『逃跑、出走』，在工业和技术语境中引申为气体、液体或化学品的『泄漏』，fuga de gas/química 是安全生产新闻的高频搭配，注意与 huida（逃跑）的区别：fuga 更强调物质的非受控流失。"
+    },
+    {
+      "word": "simular",
+      "translation": "模拟，仿真",
+      "note": "simular 在科技语境中指通过计算机或模型对真实环境进行『仿真、复现』，名词形式 simulación 是AI和机器人领域的核心词汇，注意与 fingir（假装、伪装）的区别：simular 侧重技术性复现，fingir 侧重欺骗性伪装。"
+    },
+    {
+      "word": "razonar",
+      "translation": "推理，进行逻辑思考",
+      "note": "razonar 表示进行有逻辑的思考和推断，在AI语境中专指机器的『推理能力』，与 pensar（思考，泛指）相比更强调逻辑链条，名词形式 razonamiento（推理过程）在人工智能和哲学文本中均高频。"
+    }
+  ]
+},
+{
+  "id": 12,
+  "es": "La mayoría de los humanoides que Unitree ha vendido en los últimos dos años han ido a parar a universidades, laboratorios y otros entornos de investigación, donde los desarrolladores están explorando cómo <strong>interactúa</strong> el software con el hardware de los robots. Pocos realizan tareas reales. Algunos robots de UBTech transportan cajas y realizan tareas manuales básicas en fábricas de vehículos eléctricos. Pero siguen siendo mucho menos <strong>productivos</strong> que los humanos. Tam, el ejecutivo de UBTech, dijo que los robots actualmente solo tienen una eficiencia de alrededor del 30 por ciento en comparación con los trabajadores humanos, aunque la empresa espera aumentar esa cifra al 50 por ciento este año. En la Humanoids Summit de Tokio, Xiaoli Chen, un directivo de Unitree, dijo que crear robots capaces de tomar decisiones complejas en <strong>entornos</strong> que cambian rápidamente aún es un reto. \"Unitree ha recibido mucha atención y ha organizado muchos eventos, pero eso no es productividad\", dijo. \"El largo camino para que puedan trabajar en entornos complicados aún no se ha resuelto\".",
+  "zh": "宇树科技过去两年销售的大多数人形机器人，最终流向了大学、实验室和其他研究机构，开发者们在那里探索软件与机器人硬件之间的交互方式，真正执行实际任务的寥寥无几。优必选的部分机器人在电动汽车工厂中承担搬运箱子等基本手工任务，但其生产效率仍远低于人类工人。优必选高管谭迈克表示，目前机器人的效率仅相当于人类工人的约30%，尽管公司希望今年将这一数字提升至50%。在东京人形机器人峰会上，宇树科技高管陈晓丽表示，让机器人在快速变化的环境中做出复杂决策仍是一大挑战。她说：『宇树获得了很多关注，也举办了很多活动，但那不是生产力。让机器人能够在复杂环境中工作，这条漫长的路还没有走通。』",
+  "vocab": [
+    {
+      "word": "interactúa",
+      "translation": "交互，相互作用",
+      "note": "interactuar 由前缀 inter-（相互）+ actuar（作用）构成，在科技语体中专指软件与硬件、人与系统之间的『交互』，名词形式 interacción 同样高频，掌握 inter- 前缀可举一反三：interconectar、interdependiente、intercambiar。"
+    },
+    {
+      "word": "productivos",
+      "translation": "高效的，有生产力的",
+      "note": "productivo 在经济和工业语体中表示能够产出较高价值或效率的，menos productivos que los humanos（效率低于人类）是文章核心论点之一，名词形式 productividad（生产力）在同段引号中再次出现，两词形成呼应，体现了该词族的高密度使用。"
+    },
+    {
+      "word": "entornos",
+      "translation": "环境，场景",
+      "note": "entorno 在科技和商业语体中是描述机器人、软件或企业所处『运行环境、应用场景』的核心词，比 ambiente 更强调功能性和边界性，entorno cambiante（动态环境）、entorno complicado（复杂环境）是文中反复出现的高频搭配，值得整体记忆。"
+    }
+  ]
+}
+
+  ],
+  "slangExpressions": [
+    {
+      "expression": "abrirse paso",
+      "type": "modismo",
+      "translation": "杀出重围，开辟道路",
+      "usage": "字面意为『为自己开路』，引申为在竞争激烈或障碍重重的环境中突破困难、脱颖而出，常用于商业、政治和体育语境，语气积极主动，强调主体的主动努力。",
+      "exampleEs": "La empresa logró abrirse paso en un mercado saturado gracias a su innovadora propuesta de valor.",
+      "exampleZh": "这家公司凭借其创新的价值主张，成功在饱和市场中杀出重围。"
+    },
+    {
+      "expression": "dar el pistoletazo de salida",
+      "type": "modismo",
+      "translation": "鸣响发令枪，宣告开始",
+      "usage": "来自田径比赛的发令枪声，引申为某一重大进程、竞争或时代的正式开端，常用于新闻语体描述历史性的启动时刻，主语通常是某一事件、政策或企业行为。",
+      "exampleEs": "La aprobación de la nueva ley dio el pistoletazo de salida a una profunda reforma del sistema educativo.",
+      "exampleZh": "新法律的通过为教育体系的深层改革鸣响了发令枪。"
+    },
+    {
+      "expression": "sacar partido de",
+      "type": "colocación",
+      "translation": "充分利用，从中获益",
+      "usage": "固定搭配，表示从某一情况、资源或机遇中最大限度地获取利益或优势，比 aprovechar 更强调策略性和主动性，常用于商业和政治语体。",
+      "exampleEs": "Las empresas tecnológicas intentan sacar partido de la explosión de datos generados por los usuarios.",
+      "exampleZh": "科技公司正试图充分利用用户产生的海量数据。"
+    },
+    {
+      "expression": "ir a parar a",
+      "type": "colocación",
+      "translation": "最终流向，落入……之手",
+      "usage": "固定搭配，表示某物经过一系列过程后『最终到达或归属于』某处或某人，常用于描述资金、产品或人员的最终去向，语气中性，口语书面均适用。",
+      "exampleEs": "Gran parte de los fondos destinados a la cooperación internacional fueron a parar a intermediarios.",
+      "exampleZh": "大部分用于国际合作的资金最终落入了中间商手中。"
+    },
+    {
+      "expression": "en cuestión de",
+      "type": "colocación",
+      "translation": "在……之内，仅需……时间",
+      "usage": "固定搭配，后接时间名词，强调某事完成所需时间极短，如 en cuestión de horas/semanas/segundos，语体中性，口语书面均常用，是描述高效率或快速变化的标准表达。",
+      "exampleEs": "Gracias a la impresión 3D, los prototipos pueden fabricarse en cuestión de horas.",
+      "exampleZh": "得益于3D打印技术，原型产品可以在数小时内制造完成。"
+    }
+  ]
+}
