@@ -315,14 +315,14 @@
       "exampleEs": "Este nuevo informe arroja luz sobre las causas reales del fracaso escolar.",
       "exampleZh": "这份新报告揭示了学业失败的真正原因。"
     },
-    {
-      "expression": "el elefante en el cerebro",
-      "type": "modismo",
-      "translation": "房间里的大象（显而易见却被忽视的问题）",
-      "usage": "源自英语习语 the elephant in the room，指明显存在却被刻意回避或忽视的重大问题。此处研究者用来比喻社会经济因素对大脑的巨大影响长期被学界忽视，语气带有反讽和强调意味。",
-      "exampleEs": "Nadie quería hablar de los recortes presupuestarios; era el elefante en la habitación de todas las reuniones.",
-      "exampleZh": "没有人想谈论预算削减问题，它是每次会议上那头无人提及的大象。"
-    },
+{
+  "expression": "el elefante en la habitación",
+  "type": "modismo",
+  "translation": "房间里的大象（显而易见却被刻意回避的重大问题）",
+  "usage": "源自英语习语 the elephant in the room，指一个庞大、显而易见却被众人有意忽视或不愿谈论的问题。文中研究者 Scott Marek 将其巧妙化用为 'el elefante en el cerebro'（大脑中的大象），因为这个被学界长期低估的巨大因素——社会经济条件——恰恰显现在大脑研究里，既保留了原习语『明显却被忽视』的含义，又结合了研究主题，是一种生动的双关式改造。",
+  "exampleEs": "La deuda creciente de la empresa era el elefante en la habitación: todos lo sabían, pero nadie se atrevía a mencionarlo en las reuniones.",
+  "exampleZh": "公司不断增长的债务就是那头『房间里的大象』：所有人都心知肚明，却没人敢在会议上提及。"
+},
     {
       "expression": "poner el foco en",
       "type": "colocación",
