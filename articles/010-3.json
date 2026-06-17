@@ -1,0 +1,92 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "教育与社会",
+  "difficulty": "B1",
+  "wordCount": "约320词",
+  "title": "El 90% de los niños de 11 años en España ya tiene móvil",
+  "subtitle": "西班牙90%的11岁儿童已拥有手机",
+  "resumenEs": "En España, el 90% de los niños de once años ya tiene teléfono móvil, una tendencia que genera debate entre expertos, familias y educadores. Los especialistas recomiendan retrasar y graduar la entrega del primer dispositivo, ya que ser «nativo digital» no equivale a estar preparado para un uso responsable. El problema se agrava porque uno de cada cinco padres también reconoce un uso excesivo de las pantallas, lo que dificulta establecer un modelo educativo coherente en el hogar.",
+  "resumenZh": "在西班牙，90%的11岁儿童已拥有手机，这一趋势在专家、家庭和教育工作者之间引发了广泛争议。专家建议尽量推迟并循序渐进地给孩子配备第一部手机，因为『数字原住民』并不等同于具备负责任使用技术的能力。问题还因五分之一的家长自认存在过度使用屏幕的情况而更加复杂，这使得在家庭中建立一致的教育示范愈发困难。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "La llegada del primer teléfono móvil al hogar se ha convertido en un momento que suele abrir un intenso debate dentro de muchas familias, especialmente en torno a la edad más adecuada para dar ese paso. En España, los datos muestran que aproximadamente el 90% de los niños de once años ya <strong>dispone de</strong> un dispositivo móvil, lo que refleja lo temprano que se está produciendo esta <strong>incorporación</strong> tecnológica en la vida cotidiana. Sin embargo, esta tendencia no está <strong>exenta de</strong> controversia. Los expertos en educación y desarrollo infantil recomiendan retrasar al máximo posible la entrega del primer teléfono, siempre de forma gradual y con criterios de sentido común, adaptados a la madurez de cada menor.",
+      "zh": "第一部手机进入家庭的那一刻，往往会在许多家庭内部引发激烈讨论，尤其是围绕迈出这一步的最合适年龄。西班牙的数据显示，约90%的11岁儿童已经拥有移动设备，这反映出这一技术融入日常生活的时间有多早。然而，这一趋势并非没有争议。教育和儿童发展领域的专家建议尽可能推迟交付第一部手机，始终以循序渐进的方式、以常识为准则，并根据每个孩子的成熟程度加以调整。",
+      "vocab": [
+        {
+          "word": "dispone de",
+          "translation": "拥有，配备，具备",
+          "note": "disponer de 是固定搭配，表示『拥有或可以使用某种资源、工具或条件』，比 tener 更正式，常用于新闻和书面语；注意不要与 disponer（安排、布置）的及物用法混淆，加上 de 后含义完全不同。"
+        },
+        {
+          "word": "incorporación",
+          "translation": "融入，引入，加入",
+          "note": "由 incorporar（融入、纳入）派生的名词，在新闻文体中常用于描述新事物或新成员进入某一系统或群体的过程；常见搭配有 incorporación al mercado laboral（进入劳动力市场）、incorporación tecnológica，掌握 -ción 后缀可类推大量同类抽象名词。"
+        },
+        {
+          "word": "exenta de",
+          "translation": "不受……影响的，免于……的",
+          "note": "estar exento/a de 是固定搭配，表示『不受某种负面因素影响或免于某种义务』；常见于正式文体，如 exento de impuestos（免税）、no estar exento de riesgos（不无风险）；注意性数需与主语一致。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "A pesar de estas recomendaciones, más de la mitad de las familias reconoce vivir este proceso con dudas, <strong>presión social</strong> e incluso cierta sensación de obligación, ya que el entorno escolar y social influye de manera significativa en la decisión. Los especialistas insisten en que, aunque los menores actuales sean considerados «<strong>nativos digitales</strong>» por su familiaridad con la tecnología, esto no implica que estén preparados automáticamente para un uso responsable. Antes de disponer de un dispositivo propio, necesitan aprender a gestionar el tiempo de uso, la privacidad y los riesgos asociados a la conexión constante.",
+      "zh": "尽管有这些建议，超过一半的家庭承认在经历这一过程时充满疑虑、感受到社会压力，甚至有一种被迫的感觉，因为学校和社会环境对这一决定有着显著影响。专家们坚持指出，尽管当今未成年人因熟悉技术而被称为『数字原住民』，但这并不意味着他们自动就具备了负责任使用技术的能力。在拥有自己的设备之前，他们需要学会管理使用时间、保护隐私，以及应对持续联网所带来的各种风险。",
+      "vocab": [
+        {
+          "word": "presión social",
+          "translation": "社会压力，同伴压力",
+          "note": "新闻和社会学文体中的高频固定搭配，指来自周围群体或社会环境的无形压力，迫使个人做出从众行为；与 presión de grupo（群体压力）意思相近，但 presión social 范围更广，可指整个社会环境的影响。"
+        },
+        {
+          "word": "nativos digitales",
+          "translation": "数字原住民",
+          "note": "由美国学者马克·普伦斯基提出的社会学概念，指从小在数字技术环境中成长、对技术有天然熟悉感的一代人；与之对应的是 inmigrantes digitales（数字移民），指成年后才接触数字技术的人，是理解当代教育和媒体讨论的重要背景词汇。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Además, el debate no se limita únicamente a los niños. Diversos estudios señalan que uno de cada cinco padres admite tener un uso <strong>problemático</strong> o excesivo de las pantallas, lo que añade complejidad al <strong>modelo educativo</strong> en el hogar. Como respuesta, se proponen soluciones como el uso de herramientas de control parental, así como dispositivos evolutivos que permitan una introducción progresiva al entorno digital. El objetivo final es promover un uso responsable de la tecnología, de manera que esta actúe como una herramienta de apoyo y aprendizaje, y no como un factor que <strong>condicione</strong> negativamente el desarrollo infantil.",
+      "zh": "此外，这场争论并不局限于孩子本身。多项研究指出，五分之一的家长承认自己对屏幕存在问题性或过度使用的情况，这给家庭教育模式增添了复杂性。作为回应，各方提出了一些解决方案，例如使用家长控制工具，以及能够让孩子循序渐进进入数字环境的渐进式设备。最终目标是促进对技术的负责任使用，使其发挥辅助和学习工具的作用，而不是成为对儿童发展产生负面影响的因素。",
+      "vocab": [
+        {
+          "word": "problemático",
+          "translation": "有问题的，成问题的，令人担忧的",
+          "note": "注意假朋友陷阱：problemático 并不完全等同于英语 problematic 在社会正义语境中的用法；在西语中它更多指『造成实际困难或障碍的』，如 uso problemático（问题性使用）、situación problemática（棘手局面），语气较为中性客观。"
+        },
+        {
+          "word": "modelo educativo",
+          "translation": "教育模式，教育框架",
+          "note": "新闻和教育文体中的高频固定搭配，指家庭或学校采用的教育理念和方法体系；modelo 在西语中可与多种名词搭配构成复合概念，如 modelo económico、modelo de negocio、modelo social，是构词能力极强的核心词汇。"
+        },
+        {
+          "word": "condicione",
+          "translation": "影响，制约，左右（此处为虚拟式）",
+          "note": "此处 condicione 为虚拟式（subjuntivo），由 de manera que 引导，表示目的或预期结果；de manera que + 虚拟式是表达目的的固定句式，与 de manera que + 陈述式（表示实际结果）形成对比，是B2以上必须掌握的语法区别。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "al máximo posible",
+      "type": "colocación",
+      "translation": "尽可能地，最大限度地",
+      "usage": "固定搭配，用于强调将某种行为或状态推向极限，常与动词原形搭配使用，如 retrasar al máximo posible、aprovechar al máximo posible；语体中性，口语和书面语均适用，是表达程度极限的实用表达。",
+      "exampleEs": "Los médicos recomiendan retrasar al máximo posible el uso de analgésicos fuertes.",
+      "exampleZh": "医生建议尽可能推迟使用强效止痛药。"
+    },
+    {
+      "expression": "de manera que + subjuntivo",
+      "type": "estructura gramatical",
+      "translation": "以便……，使得……（表目的）",
+      "usage": "重要语法结构：de manera que 后接虚拟式时表示目的（为了达到某种结果），后接陈述式时表示实际结果（因此……）。两种用法含义截然不同，是B2以上写作中表达逻辑关系的核心句式，需根据语境判断使用哪种语式。",
+      "exampleEs": "Hay que explicar las normas con claridad, de manera que todos las entiendan desde el principio.",
+      "exampleZh": "必须把规则解释清楚，以便所有人从一开始就能理解。"
+    }
+  ]
+}
