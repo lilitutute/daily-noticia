@@ -1,0 +1,239 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "文化与艺术",
+  "difficulty": "C1",
+  "wordCount": "约1100词",
+  "title": "El toreo, arte español",
+  "subtitle": "斗牛：西班牙的艺术",
+  "resumenEs": "El autor defiende el toreo como un arte genuinamente español, irreductible a sus posibles precedentes tartésicos, minoicos o romanos. Argumenta que, aunque muchas culturas convivieron con el toro, solo en la Península Ibérica se desarrolló la búsqueda consciente de la belleza, el rito y la estética que definen la tauromaquia. Apoya su tesis en la historia, en testimonios filosóficos y literarios, y concluye reivindicando la voluntad del pueblo español frente a prohibicionismos históricos y contemporáneos.",
+  "resumenZh": "作者捍卫斗牛作为一种纯粹西班牙艺术的地位，认为它无法被简单归结为塔特索斯、米诺斯或罗马的历史先例。他论证道，尽管许多文化都与公牛共存，但只有在伊比利亚半岛，才发展出了定义斗牛艺术的对美、仪式与美学的自觉追求。他援引历史、哲学和文学证词支撑论点，最终以西班牙人民的意志对抗古今禁令作为结语。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "¿Viene el toreo de los Tartessos, de Roma o de Dios sabrá dónde, siendo los españoles, no los creadores, sino sus <strong>continuadores</strong>? He aquí un abanico de temas propicios por <strong>divagaciones</strong> más o menos ingeniosas en el que también han tomado aire estudios que no cabe minimizar ni desconocer. De hecho, yo respeto desde la discrepancia la interpretación de Almagro-Gorbea sobre una supuesta <strong>tauromaquia</strong> tartésica, valoro desde la discrepancia las apreciaciones sobre los orígenes y características de la taurapsia minoica de Creta, estudiada —entre otros— por Serrano Espinosa, e igualmente desde la discrepancia considero la tesis de Pedro Sáez «sobre la fiesta de los toros en el mundo romano», sustentada en mosaicos, sigilatas y lucernas con saltadores con pértiga, espadas clavadas en el hoyo de las agujas, gladiadores y venatores con telas ante animales en puntas, representaciones reforzadas por textos de autores como Ulpiano, jurista de mediados del siglo II d.C., los cuales brindan testimonio de juegos con vacas y toros que «junto con las representaciones de mosaicos, creemos que son lo suficientemente elocuentes como para pensar en la existencia del toreo a pie en época romana».",
+      "zh": "斗牛究竟源自塔特索斯文明、罗马，还是上帝才知道的什么地方——西班牙人不过是其继承者，而非创造者？这里有一系列适合展开或多或少富有机智的漫谈的话题，其中也不乏不容忽视或轻视的严肃研究。事实上，我尽管持有异议，仍尊重阿尔马格罗-戈尔贝亚关于所谓塔特索斯斗牛艺术的诠释；尽管持有异议，仍重视关于克里特岛米诺斯文明斗牛跳跃运动起源与特征的研究——该研究由塞拉诺·埃斯皮诺萨等学者完成；同样，尽管持有异议，我也审视了佩德罗·萨埃斯关于[罗马世界斗牛节]的论点，该论点以镶嵌画、陶器印章和油灯为依据，上面绘有撑杆跳者、插入颈背穴位的剑、角斗士以及手持布料面对尖角动物的猎兽士，这些图像证据还得到了公元2世纪中叶法学家乌尔比安等作者文本的佐证——这些文本记录了与牛的竞技游戏，[结合镶嵌画中的图像，我们认为足以令人相信罗马时代已存在徒步斗牛]。",
+      "vocab": [
+        {
+          "word": "continuadores",
+          "translation": "继承者，延续者",
+          "note": "continuador 来自动词 continuar（继续），指延续他人事业或传统的人，与 creador（创造者）形成对比，固定搭配有 ser continuador de una tradición（是某一传统的延续者），在文化和历史论述中是高频词。"
+        },
+        {
+          "word": "divagaciones",
+          "translation": "漫谈，离题的议论，随意的推测",
+          "note": "divagación 来自动词 divagar（漫谈、离题），指缺乏严谨逻辑的随意推测或论述，在学术文体中常带有轻微的贬义，暗示论证不够严密，固定搭配有 caer en divagaciones（陷入漫无边际的议论）。"
+        },
+        {
+          "word": "tauromaquia",
+          "translation": "斗牛艺术，斗牛术",
+          "note": "tauromaquia 来自希腊语 tauros（公牛）和 mache（战斗），是斗牛艺术的正式学术名称，比口语中的 toreo 或 corrida 更具文化和历史厚度，在艺术史和文化研究中是核心术语。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "El común de los pueblos y culturas, y en particular las mediterráneas, convivieron con el <strong>uro</strong> y con el toro silvestre, los incorporaron a su mitología y a su sentir religioso, los cazaron y, reverenciando su fuerza, los incorporaron a sus juegos y ceremonias. Esto ha sido así desde la cultura persa (el dios Ormuz crea todas las especies animales desde la sangre y el cuerpo del toro, que encarna la supremacía de la vida sobre la muerte y la derrota del espíritu maligno representado por Arimán, señor de la destrucción y el caos) a las indoarias (guardián el toro del territorio y símbolo de procreación), dejando de lado algunas <strong>elucubraciones</strong> a despropósito del arte prehistórico de las cavernas.",
+      "zh": "各民族和文化，尤其是地中海文明，都曾与原牛和野生公牛共存，将它们纳入神话体系和宗教情感，猎杀它们，并在敬畏其力量的同时将其融入游戏与仪式之中。这一现象贯穿了从波斯文化（神祇奥尔穆兹从公牛的血与躯体中创造出所有动物物种，公牛体现了生命对死亡的至高地位，以及对毁灭与混沌之主阿里曼所代表的邪恶精神的战胜）到印度-雅利安文化（公牛是领土的守护者和生育的象征）的漫长历程，暂且不论那些关于洞穴史前艺术的牵强附会的推测。",
+      "vocab": [
+        {
+          "word": "uro",
+          "translation": "原牛（已灭绝的野生牛种，现代牛的祖先）",
+          "note": "uro 是欧洲已灭绝的野生牛种 Bos primigenius 的西语名称，是现代家牛和斗牛牛种的共同祖先，在史前史和动物学文本中是专业词汇，17世纪在波兰灭绝，是理解斗牛历史起源的重要背景知识。"
+        },
+        {
+          "word": "elucubraciones",
+          "translation": "牵强附会的推测，过度的冥想，空想",
+          "note": "elucubración 来自动词 elucubrar（苦思冥想），在现代语境中常带有贬义，指脱离实际、过度推演的思考或论断，固定搭配有 caer en elucubraciones（陷入空想）、elucubraciones sin fundamento（毫无根据的推测），是C1级别的高价值词汇。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Dichas realidades se rastrean o hasta se documentan desde muy antiguo, con luchas a muerte, alardes de fuerza, catálogo de <strong>quiebros</strong>, exhibición de acrobacias, repertorio de saltos, demostraciones de valor y agilidad que únicamente comparten con el toreo la realidad bizarra de un hombre frente a un animal temible. Pero en ningún rincón del planeta, salvo en las tierras de España, desembocaron en el Arte de parar, mandar, templar y ligar, <strong>decantado</strong> progresivamente a través de los siglos en una evolución privativa del <strong>solar hispano</strong>. Lo cual, además solo pudo desarrollarse en paralelo a la creación del toro de lidia, resultado de un demorado y complejo proceso de selección solo acreditado en la península Ibérica. A partir del arrojo en alas de la inteligencia, solo aquí se llegó al clasicismo y la belleza del natural, a la caricia envolvente de la <strong>verónica</strong> o a la emoción sostenida del pase de pecho, en definitiva: al arte del toreo, el vislumbre de cuyos orígenes se identifica en las escenas y documentos que conservamos de los albores, verbigracia, en el artesonado del monasterio de Silos o en un capitel del palacio de los condes de Requena de Toro, donde se aprecian lances que revelan la aspiración a construir algo radicalmente distinto a las mil manifestaciones de la lucha y las acrobacias del hombre con el toro.",
+      "zh": "上述现实可以追溯甚至有文献记载于极为久远的年代，其中包括生死搏斗、力量展示、各式闪躲动作、杂技表演、跳跃技巧以及勇气与敏捷的展现——这些与斗牛唯一共通之处，不过是一个男人面对一头可怕动物这一奇异现实。然而，在地球上任何一个角落，除西班牙的土地之外，这些从未演变为[停、引、缓、连]的艺术——这一艺术历经数个世纪逐渐提炼升华，是伊比利亚半岛独有的演进成果。而且，这一切只能与斗牛专用牛种的培育同步发展，后者是仅在伊比利亚半岛得到证实的漫长而复杂的选育过程的结果。正是凭借以智慧为翼的勇气，只有在这里，才达到了自然步法的古典主义与美感，才有了贝罗尼卡斗篷动作那包裹般的轻抚，才有了胸前引牛步法那绵延不绝的情感张力——总而言之，才有了斗牛艺术。其起源的最初迹象可以在我们保存下来的早期场景和文献中辨认，例如西洛斯修道院的木格天花板，或托罗市雷克纳伯爵宫殿的一个柱头，其中可见一些斗牛动作，揭示出一种构建某种与人牛搏斗和杂技的千种表现形式截然不同之物的渴望。",
+      "vocab": [
+        {
+          "word": "quiebros",
+          "translation": "闪躲动作，转身避让（斗牛术语）",
+          "note": "quiebro 来自动词 quebrar（折断、转折），在斗牛语境中指斗牛士通过扭转身体躲避公牛冲击的技巧动作，在日常语境中也可指任何灵巧的闪避动作，是理解斗牛专业词汇的重要入口。"
+        },
+        {
+          "word": "decantado",
+          "translation": "提炼而成的，逐渐沉淀升华的",
+          "note": "decantar 本义为倾倒液体使其澄清，引申为经过长时间积累和筛选而形成的精华，固定搭配有 decantado a través de los siglos（历经数个世纪提炼而成），在文化和艺术批评中是描述传统演进的高频词。"
+        },
+        {
+          "word": "solar hispano",
+          "translation": "西班牙的土地，伊比利亚的故土",
+          "note": "solar 作名词时意为『祖居之地、故土』，带有强烈的文化归属感，solar hispano 是文学和历史文体中指代西班牙本土的庄重表达，比 territorio español 更具情感色彩，常见于民族文化论述中。"
+        },
+        {
+          "word": "verónica",
+          "translation": "贝罗尼卡（斗牛中用大斗篷引牛的经典动作）",
+          "note": "verónica 在斗牛术语中指斗牛士双手持大斗篷（capote）引导公牛从身侧掠过的经典动作，名称来源于圣女贝罗尼卡用布擦拭耶稣面容的圣经典故，是斗牛艺术中最具代表性和美学价值的动作之一。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Pasarse al toro con naturalidad y despacio, ceñido y aguantando, con poder embarcado y empapado en las telas del <strong>desengaño</strong> (no del engaño), haciendo del miedo ilusión («el miedo es un estado de ánimo del que huimos los toreros, pero que cuando no lo sentimos lo buscamos», confesó Pablo Aguado, rematando su reflexión con esta verdad: «El día que no siento miedo me asusto mucho»), de frente y con la colocación exacta, llevándolo a <strong>jurisdicción</strong>, cargando la suerte y haciendo la cruz en el momento definitivo, con la muerte flameando en los vuelos de la muleta, nos sitúa en otra dimensión.",
+      "zh": "以自然而缓慢的姿态迎向公牛，紧贴着它、忍耐着它，将力量融入其中，浸透在[解惑之布]（而非[迷惑之布]）的褶皱里，将恐惧化为幻象（[恐惧是一种我们斗牛士逃避的心理状态，但当我们感受不到它时，我们又会去寻找它，]帕布洛·阿瓜多坦言，并以这句真言为他的沉思作结：[当我感受不到恐惧的那天，我会非常害怕]），正面迎对，站位精准，将公牛引入管辖之境，承担命运、在决定性的时刻划出十字，死亡在红布的飘扬中闪烁——这将我们带入了另一个维度。",
+      "vocab": [
+        {
+          "word": "desengaño",
+          "translation": "幻灭，解惑，去除迷惑",
+          "note": "desengaño 由前缀 des-（逆转）和 engaño（欺骗、幻觉）构成，意为从幻觉或错觉中清醒过来的状态，作者在此将斗牛红布称为 telas del desengaño（解惑之布）而非 del engaño（迷惑之布），是一个充满哲学意味的区分，强调斗牛艺术的真实性而非欺骗性。"
+        },
+        {
+          "word": "jurisdicción",
+          "translation": "管辖范围，掌控之境（斗牛术语）",
+          "note": "jurisdicción 在法律语境中指司法管辖权，在斗牛语境中引申为斗牛士通过步法和引导将公牛置于自己可掌控的空间范围之内，是将法律词汇迁移至艺术领域的典型例子，体现了西班牙斗牛语言的丰富性。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "¿En cuál? En la de la belleza, en la <strong>médula</strong> artística de la tauromaquia, en su personalidad estética, en su identidad simbólica, en su carácter ritual y en su profundidad <strong>insondable</strong>, porque es última representación que pervive, en alianza democrática y aristocrática, de la vida en el filo de la muerte desde la fidelidad al mito y de la muerte en celebración de la vida desde la certeza del riesgo, real el toro, animal «de carne, y hueso y furia», como constató María Zambrano en 'España, sueño y verdad'. En cualquier otra disciplina artística, el creador puede equivocarse mientras en el toreo el error se paga con <strong>cornadas</strong>.",
+      "zh": "是哪个维度？是美的维度，是斗牛艺术的精髓，是其美学个性，是其象征性身份，是其仪式性特质，以及其深不可测的深度——因为它是最后一种幸存的表达，以一种民主与贵族的联盟，呈现着在忠于神话中于死亡边缘绽放的生命，以及在确信风险中以庆典方式迎接的死亡。公牛是真实的，是[血肉、骨骼与愤怒]的动物，正如玛丽亚·萨姆布拉诺在《西班牙，梦与真实》中所记录的。在任何其他艺术领域，创作者可以犯错，而在斗牛中，错误要用牛角之伤来偿还。",
+      "vocab": [
+        {
+          "word": "médula",
+          "translation": "精髓，核心，骨髓",
+          "note": "médula 本义为骨髓，引申为事物最核心、最本质的部分，固定搭配有 hasta la médula（彻头彻尾地）、la médula de algo（某事物的精髓），在文学和哲学文体中是描述本质的高频词，如 español hasta la médula（彻头彻尾的西班牙人）。"
+        },
+        {
+          "word": "insondable",
+          "translation": "深不可测的，无法探究的",
+          "note": "insondable 由前缀 in-（否定）和 sondable（可探测的）构成，来自动词 sondar（探测深度），字面意为『无法测量深度的』，引申为无法完全理解或穷尽的事物，固定搭配有 misterio insondable（深不可测的谜）、profundidad insondable（无法探究的深度），是C1级别的高价值词汇。"
+        },
+        {
+          "word": "cornadas",
+          "translation": "牛角刺伤，被牛顶伤",
+          "note": "cornada 来自 cuerno（牛角），专指公牛用角刺伤人的伤口，是斗牛语境中的核心专业词汇，固定搭配有 recibir una cornada（被牛角刺伤）、morir de una cornada（死于牛角之伤），在比喻语境中也可指代任何代价惨重的错误后果。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Ahora bien, se impone admitirlo: eso sí estaba y se reconoce en las luchas y en las exhibiciones del circo romano, pero no así la búsqueda intrínseca de la belleza, la estética <strong>sobreponiéndose</strong> a las <strong>asechanzas</strong>, la autenticidad de lo simbólico, la lealtad al rito y la alianza profunda, basada en el sentimiento, en cónclave de misterios. El toreo constituye una <strong>apoteosis</strong> de subversiones contra las leyes buenistas, alegría de pujanzas al margen de falsedades, grandilocuencias de cartón-piedra y afectaciones <strong>hueras</strong>. Por eso atacan al toreo con palabras envenenadas los enemigos de nuestra cultura.",
+      "zh": "话虽如此，必须承认：那些元素确实存在于罗马竞技场的搏斗与表演之中，并可被辨认出来；然而，对美的内在追求、美学凌驾于险境之上的姿态、象征性的真实、对仪式的忠诚，以及那种建立在情感之上、在神秘聚合中形成的深层联盟，却并不在其中。斗牛构成了一种对善意主义法则的颠覆性顶礼，是在远离虚伪、纸板式的夸夸其谈和空洞矫情之外的生命力量的欢庆。正因如此，我们文化的敌人才用带毒的言辞攻击斗牛。",
+      "vocab": [
+        {
+          "word": "sobreponiéndose",
+          "translation": "凌驾于……之上，克服，超越",
+          "note": "sobreponerse a 是固定搭配，意为克服困难或超越某种障碍，固定搭配有 sobreponerse al dolor（克服痛苦）、sobreponerse a las adversidades（战胜逆境），在此语境中指美学在险境面前不退缩反而升华，是描述精神力量的高频动词。"
+        },
+        {
+          "word": "asechanzas",
+          "translation": "险境，埋伏，潜在威胁",
+          "note": "asechanza 来自动词 asechar（埋伏、窥伺），指潜伏的危险或威胁，在文学和正式文体中比 peligro（危险）更具戏剧性和文学色彩，固定搭配有 caer en las asechanzas（落入陷阱）、las asechanzas del destino（命运的险境），是C1级别的高价值词汇。"
+        },
+        {
+          "word": "apoteosis",
+          "translation": "顶礼，极致，最高点",
+          "note": "apoteosis 来自希腊语，原指将人神化的仪式，在现代语境中引申为某事物达到最高点或最辉煌状态的时刻，固定搭配有 la apoteosis de algo（某事物的极致）、llegar a su apoteosis（达到顶峰），是文学和艺术批评的高频词。"
+        },
+        {
+          "word": "hueras",
+          "translation": "空洞的，毫无内容的，虚有其表的",
+          "note": "huero 本义为未受精的蛋（孵不出小鸡），引申为空洞无物、徒有其表的事物，固定搭配有 palabras hueras（空洞的言辞）、afectaciones hueras（空洞的矫情），是文学批评中表达轻蔑的高价值词汇，语气比 vacío（空洞的）更具文学色彩。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Además, se impone subrayar una paradoja: quienes reivindican los orígenes en los circos romanos del toreo español se alinean y resucitan, cuatro siglos y medio después, la interpretación que motivó la <strong>bula</strong> antitaurina de san Pío V 'De salutis gregis dominici', promulgada en Roma en 1569 y jamás <strong>sancionada</strong> en el reino de las Españas, ni en la Península ni al otro lado del mar que nos une. Y es que aquella bula se fundamentaba en el error de que el toreo hispano sería una lucha a la manera de las desarrolladas 'tauri et aliae ferae in circo' y no un alarde con alma de rito <strong>decantado</strong> en arte con verdad humana. Así se explica en el 'Memorial dirigido al doctor Velasco', documento de sumo interés, instando por Felipe II para que su embajador Silvestre de Zúñiga desplegara sus argumentos ante la Santa Sede, aunque apenas tendría ocasión de planteárselos al Papa prohibicionista, llevado de este mundo por la mano de nieve en 1572, pero que sí los utilizaría ante su sucesor, Gregorio XIII, el cual promulgó otra bula, 'Exponi nobis', asumiendo que «errar es humano, perdonar es divino, rectificar es de sabios».",
+      "zh": "此外，还必须指出一个悖论：那些主张西班牙斗牛起源于罗马竞技场的人，在四个半世纪之后，重新拾起并复活了当年促成圣庇护五世颁布反斗牛诏书《论主之羊群的救赎》的那种诠释——该诏书于1569年在罗马颁布，却从未在西班牙王国得到批准，无论是在半岛上还是在大洋彼岸与我们相连的土地上。原因在于，那道诏书建立在一个错误之上：认为西班牙斗牛不过是类似于[竞技场中公牛与其他猛兽]搏斗的一种格斗，而非一种以仪式为灵魂、升华为具有人类真实性的艺术的展示。这一点在《致贝拉斯科博士备忘录》中得到了阐明——这是一份极为重要的文件，由费利佩二世授意，令其大使西尔维斯特雷·德·苏尼加在教廷面前展开论证；尽管他几乎没有机会向那位禁令教皇陈述，因为后者于1572年被死亡之手带离人世，但他确实向其继任者额我略十三世提出了这些论点，后者颁布了另一道诏书《Exponi nobis》，接受了[犯错是人之常情，宽恕是神圣之举，纠错是智者之道]这一原则。",
+      "vocab": [
+        {
+          "word": "bula",
+          "translation": "教皇诏书，教皇敕令",
+          "note": "bula 在天主教历史语境中指教皇颁布的正式文件，以附有铅制印章（bulla）为特征，固定搭配有 bula papal（教皇诏书）、promulgar una bula（颁布诏书）、bula antitaurina（反斗牛诏书），是理解中世纪和近代早期欧洲宗教政治史的重要词汇。"
+        },
+        {
+          "word": "sancionada",
+          "translation": "批准，认可，正式生效",
+          "note": "sancionar 在法律和政治语境中有两种截然相反的含义：一是『批准、认可』（如 sancionar una ley，批准一项法律），二是『制裁、惩罚』（如 sancionar a un país，制裁一个国家），此处取第一种含义，需根据语境仔细辨别。"
+        },
+        {
+          "word": "decantado",
+          "translation": "提炼升华而成的，历经沉淀的",
+          "note": "与第3段中的用法相同，decantar 在此再次以过去分词形式出现，强调斗牛艺术是经过漫长历史积淀和提炼才形成的，作者有意重复此词以强化论点，体现了论述文体中词汇复现的修辞策略。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Por encima de aquellas incomprensiones, la voluntad que entonces <strong>prevaleció</strong> fue la del pueblo español, una voluntad entendida, respetada y protegida por Felipe II, y una voluntad que ahora se sigue manifestando tarde tras tarde en las plazas de toros (empezando por la de Las Ventas, cuya gran Feria de San Isidro acoge a diario un cónclave de ratificación), porque no son toros, ni toreros, ni aficionados lo que falta. El problema no está ahí, sino en lo que sobra: actitudes <strong>sectarias</strong> y políticos que han hecho de las corrupciones su ideología. En fin, recuérdese aquella reflexión de Cervantes en el Quijote: «Todas estas borrascas que nos suceden son señales de que presto se ha de serenar el tiempo y han de sucedernos bien las cosas; porque no es posible que ni el mal ni el bien sean <strong>durables</strong>, y de aquí se sigue que, habiendo durado mucho el mal, el bien está ya cerca».",
+      "zh": "超越那些误解，当时占据上风的是西班牙人民的意志——这一意志被费利佩二世所理解、尊重和保护；而这一意志如今依然在一场又一场的斗牛表演中得到彰显（首先是在拉斯文塔斯斗牛场，其盛大的圣伊西德罗节每天都迎来一场确认与认可的聚会）——因为缺少的不是公牛、斗牛士或斗牛爱好者。问题不在于此，而在于多余之物：宗派主义的态度，以及那些将腐败奉为意识形态的政客。最后，让我们记住塞万提斯在《堂吉诃德》中的那段沉思：[我们所遭遇的这些风暴，都是天气即将放晴、好事即将降临的征兆；因为无论善恶，都不可能永久持续，由此可知，既然恶已持续良久，善必已近在眼前。]",
+      "vocab": [
+        {
+          "word": "prevaleció",
+          "translation": "占据上风，胜出，最终占主导",
+          "note": "prevalecer 意为在竞争或对立中最终取得优势，固定搭配有 prevalecer sobre algo（凌驾于……之上）、la razón prevaleció（理性占了上风），是政治和历史叙述中描述力量对比结果的高频动词，语气比 ganar（赢得）更正式。"
+        },
+        {
+          "word": "sectarias",
+          "translation": "宗派主义的，派系性的，偏执的",
+          "note": "sectario 来自 secta（宗派），在政治语境中指出于派系利益而非公共利益行事的态度，固定搭配有 actitudes sectarias（宗派主义态度）、comportamiento sectario（派系性行为），是政治批评文章中表达谴责的高频词。"
+        },
+        {
+          "word": "durables",
+          "translation": "持久的，长久的",
+          "note": "durable 是 duradero 的文学性变体，在现代日常西语中 duradero 更为常见，但 durable 保留在文学引用和正式文体中，此处出自塞万提斯《堂吉诃德》的原文引用，体现了古典西语的词汇特征，是理解文学文本的重要词汇知识。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "no cabe minimizar ni desconocer",
+      "type": "estructura gramatical",
+      "translation": "不容忽视，不可轻视",
+      "usage": "caber + 动词原形 构成否定句时，表示某事在逻辑或道义上不可为，相当于 no se puede 但语气更正式，固定搭配有 no cabe duda（毫无疑问）、no cabe ignorar（不可忽视），是学术和新闻评论文体的核心句式。",
+      "exampleEs": "No cabe minimizar el impacto que esta decisión tendrá sobre las generaciones futuras.",
+      "exampleZh": "这一决定对未来几代人的影响不容低估。"
+    },
+    {
+      "expression": "desde la discrepancia",
+      "type": "expresión formal",
+      "translation": "尽管持有异议，在保留不同意见的前提下",
+      "usage": "正式表达，用于表明作者在不认同某一观点的同时仍对其给予尊重或认可，体现了学术讨论中承认分歧、保持理性的姿态，是论述文体中表达有保留的认可的高频结构。",
+      "exampleEs": "Desde la discrepancia, reconozco que su análisis contiene puntos que merecen una reflexión seria.",
+      "exampleZh": "尽管我持有不同意见，我仍承认他的分析中有些观点值得认真思考。"
+    },
+    {
+      "expression": "se impone + infinitivo",
+      "type": "estructura gramatical",
+      "translation": "必须……，有必要……，不得不……",
+      "usage": "固定句式，imponerse 作非人称动词使用，表示某事在逻辑或情势上是必要的、不可回避的，相当于 es necesario 但语气更强烈，固定结构为 se impone + 动词原形，在社论和论述文体中极为常见。",
+      "exampleEs": "Ante la gravedad de la situación, se impone tomar medidas urgentes sin más dilación.",
+      "exampleZh": "面对形势的严峻性，必须毫不拖延地采取紧急措施。"
+    },
+    {
+      "expression": "tarde tras tarde",
+      "type": "colocación",
+      "translation": "一场接一场，每个下午，场场不息",
+      "usage": "固定搭配，tarde 在斗牛语境中专指一场斗牛表演（corrida），因传统上在下午举行，tarde tras tarde 意为一场接一场地持续，是斗牛文化语境中描述传统延续性的核心表达，体现了西语中以时间词指代活动的语言习惯。",
+      "exampleEs": "Los aficionados llenan las gradas tarde tras tarde, fieles a una tradición que se niegan a abandonar.",
+      "exampleZh": "斗牛爱好者场场不息地坐满看台，忠于一种他们拒绝放弃的传统。"
+    },
+    {
+      "expression": "llevado de este mundo por la mano de nieve",
+      "type": "expresión literaria",
+      "translation": "被死亡之手带离人世（文学性的死亡委婉语）",
+      "usage": "这是一个高度文学化的死亡委婉语，mano de nieve（冰雪之手）以冰冷象征死亡，整个表达以诗意方式回避直接说 murió（死了），是西班牙文学传统中描述死亡的典雅修辞，体现了本文整体上的古典文学风格。",
+      "exampleEs": "El anciano poeta fue llevado de este mundo por la mano de nieve antes de ver publicada su obra póstuma.",
+      "exampleZh": "那位年迈的诗人在看到遗作出版之前，便被死亡之手带离了人世。"
+    },
+    {
+      "expression": "por encima de",
+      "type": "estructura gramatical",
+      "translation": "超越，凌驾于……之上，不顾",
+      "usage": "固定介词短语，表示某事物超越或不受另一事物的限制，固定结构为 por encima de + 名词，固定搭配有 por encima de todo（高于一切）、por encima de las diferencias（超越分歧），在论述和演讲文体中极为常用。",
+      "exampleEs": "Por encima de las diferencias políticas, existe un compromiso compartido con la democracia.",
+      "exampleZh": "超越政治分歧，存在着一种对民主的共同承诺。"
+    }
+  ]
+}

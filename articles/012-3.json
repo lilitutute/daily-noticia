@@ -1,0 +1,117 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会与情感",
+  "difficulty": "C1",
+  "wordCount": "约550词",
+  "title": "Solo deseo vivir",
+  "subtitle": "我只想活着",
+  "resumenEs": "Cuatro cartas de lectores abordan realidades muy distintas pero igualmente humanas: un inmigrante atrapado en el limbo administrativo que solo desea dejar de sobrevivir; un profesor que denuncia la paradoja de usar un texto sobre pensamiento crítico en un examen que no lo evalúa; una docente que señala con ironía la ausencia de aire acondicionado en los centros educativos públicos; y un hijo que le escribe a su padre fallecido como homenaje a una vida anónima y maravillosa.",
+  "resumenZh": "四封读者来信触及截然不同却同样真实的人生处境：一位陷入行政困境、只渴望停止苟活的移民；一位教师揭示了用批判性阅读文本来考核机械技能这一悖论；一位教职人员以简短有力的笔触指出公立学校缺乏空调的现实；以及一个儿子写给已故父亲的信，致敬一段平凡而美好的生命。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Llegué a España ilusionado. Con los ojos de un niño al que le resultaba extraño ser ahora el otro, la <strong>alteridad</strong>. Esa ilusión, con el paso de los años y la toma de conciencia de mi <strong>negritud</strong>, se fue perdiendo; reconocí el odio y el asco, me sentí atrapado por ellos. El entorno cada vez más hostil me obligó a encerrarme en mí. Ahora, y a la espera de una <strong>regularización</strong> que no llega, me pregunto qué hacer. ¿Acaso tiene sentido seguir ofreciendo una parte de mí, de nosotros, a un Occidente que nos repudia? Vinimos a ensancharnos: crecer, aprender, estudiar, trabajar, salir adelante; pero el resultado es otro, repliegue forzado de un caracol en medio de la tormenta. No soy especialmente sádico, aunque tampoco puedo negar el placer que sentiría si algún dirigente sintiera, solo por un rato, la ansiedad de mirar el buzón cada día, a todas horas, cada media hora, cada cuarto de hora hasta llegar a un punto en el que, tumbado en el sofá y derrotado en la lucha por la vida, desistes. Mi único deseo es salir del paréntesis, vivir y dejar de sobrevivir. Silencio administrativo. Sofonías Micha Nkogo Nfumu. Granada",
+      "zh": "我满怀憧憬地来到西班牙。用一个孩子的眼光，却发现自己如今竟成了异类，成了他者。随着岁月流逝，随着我对自身黑人身份的逐渐觉醒，那份憧憬慢慢消散；我认清了仇恨与厌恶，感到被它们困住。日益敌意的环境迫使我把自己封闭起来。如今，在等待一份迟迟未至的居留合法化文件之际，我不知道该怎么办。继续将自己的一部分、将我们的一部分奉献给一个排斥我们的西方世界，还有意义吗？我们来这里是为了拓展自己：成长、学习、求学、工作、向前走；但结果却是另一番景象——像一只蜗牛在风暴中被迫缩回壳里。我并非特别残忍，但我也无法否认，如果某位当权者能哪怕只体会片刻那种每天、每时每刻、每隔半小时、每隔一刻钟就去看一眼信箱的焦虑，直到某一刻瘫倒在沙发上、在生活的挣扎中彻底认输，我会感到某种快意。我唯一的愿望，是走出这段括号，活着，而不是苟活。行政沉默。Sofonías Micha Nkogo Nfumu，格拉纳达",
+      "vocab": [
+        {
+          "word": "alteridad",
+          "translation": "他者性，异质性，成为他者的状态",
+          "note": "alteridad 是哲学和社会学术语，指个体或群体被视为『他者』、与主流群体相异的状态，来自拉丁语 alter（另一个），在后殖民理论和移民研究中是核心概念词汇。"
+        },
+        {
+          "word": "negritud",
+          "translation": "黑人身份认同，黑人意识",
+          "note": "negritud 源自法语 négritude，是20世纪非洲裔知识分子提出的文化政治概念，指对黑人文化和身份的自觉认同与肯定，在此语境中作者用它指代自身对种族身份的觉醒意识。"
+        },
+        {
+          "word": "regularización",
+          "translation": "（居留身份的）合法化，正规化",
+          "note": "regularización 在移民政策语境中专指使非正规居留状态合法化的行政程序，来自动词 regularizar（使合法化、使规范化），是西班牙移民议题新闻中的核心术语。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Sí, la columna Las buenas maneras de Manuel Vicent es un <strong>bumerán</strong> para la Selectividad. ¿Por qué? Porque el artículo exige lectura crítica profunda, pero el examen solo pide lectura técnica superficial. El alumno identifica conectores, subraya ideas principales, clasifica argumentos, pero no entiende el mecanismo <strong>persuasivo</strong> del texto. Vicent denuncia justo eso: una sociedad que ya no sabe leer críticamente. La columna de Vicent exige pensamiento crítico, pero el examen de la Selectividad evalúa técnica mecánica. El texto denuncia la pérdida de profundidad, pero el examen no la pide. Muestra <strong>trampas retóricas</strong>, pero el examen no enseña a detectarlas. El resultado: los alumnos salen sabiendo gramática, pero no sabiendo leer el mundo. Carlos Urbano Osorio. Montoro (Córdoba)",
+      "zh": "没错，曼努埃尔·比森特的专栏《礼仪》对于大学入学考试而言是一个回旋镖。为什么？因为这篇文章要求深度批判性阅读，而考试却只要求表面的技术性阅读。学生识别连接词、划出中心思想、归类论点，却不理解文本的说服机制。而比森特批判的恰恰就是这一点：一个已经不会批判性阅读的社会。比森特的专栏要求批判性思维，但大学入学考试考核的是机械技能。文章批判的是深度的丧失，但考试并不要求深度。文章揭示了修辞陷阱，但考试却不教学生如何识别它们。结果是：学生出来懂语法，却不懂得如何读懂这个世界。Carlos Urbano Osorio，蒙托罗（科尔多瓦）",
+      "vocab": [
+        {
+          "word": "bumerán",
+          "translation": "回旋镖；（比喻）适得其反的事物",
+          "note": "bumerán 本为澳大利亚土著武器，因其投出后会飞回而得名，在西语中引申为『弄巧成拙、适得其反』的比喻，此处指用批判阅读的文章来考核非批判性能力，形成讽刺性的自我矛盾。"
+        },
+        {
+          "word": "persuasivo",
+          "translation": "有说服力的，劝说性的",
+          "note": "persuasivo 来自动词 persuadir（说服），固定搭配有 mecanismo persuasivo（说服机制）、técnica persuasiva（说服技巧），在修辞学和传播学文本中是高频词，注意与 convincente（令人信服的）的细微区别：persuasivo 更强调主动的劝说意图。"
+        },
+        {
+          "word": "trampas retóricas",
+          "translation": "修辞陷阱，话语圈套",
+          "note": "trampa retórica 是固定搭配，指文本中通过修辞手法误导读者的语言策略，trampa（陷阱）与 retórica（修辞）的组合在文学批评和媒体素养语境中极为常见，是B2以上的重要表达。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "En mi barrio, tanto en el hospital como en el centro de salud tienen aire acondicionado. En el supermercado, el banco, la farmacia y en la clínica dental el aire está encendido. También en la peluquería, la papelería y hasta en el bar. En mi coche y mi casa también. En el trabajo de mi marido hay aire acondicionado. Los únicos lugares que no lo tienen son el colegio público de mis hijos y mi centro de trabajo: un <strong>instituto</strong> público. Eva Dorado Cuesta. Móstoles (Madrid)",
+      "zh": "在我的街区，无论是医院还是社区卫生中心都有空调。超市、银行、药店和牙科诊所也开着空调。理发店、文具店，甚至酒吧也有。我的车里和家里也有。我丈夫的工作单位也有空调。唯独没有空调的地方，是我孩子就读的公立小学，以及我的工作单位：一所公立中学。Eva Dorado Cuesta，莫斯托莱斯（马德里）",
+      "vocab": [
+        {
+          "word": "instituto",
+          "translation": "公立中学（西班牙初高中阶段）",
+          "note": "在西班牙教育体系中，instituto 专指提供 ESO（义务中学教育）和 Bachillerato（高中）阶段教育的公立中学，与 colegio（小学或私立学校）不同，是了解西班牙教育制度的基础词汇。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Hace ya cuatro meses que no compartes conmigo ninguna noticia. En momentos como estos necesito <strong>agarrarme</strong> a cosas que no cambian, aquellas que puedo seguir sintiendo mías (nuestras) y que, aunque el tiempo pase, no desaparecen. Todos los días me invaden motivos por los que debías quedarte, por los que debíamos hablar una vez más; pero solo el silencio responde, el silencio y un gran vacío. Recuerdo esos domingos en los que juntos íbamos al quiosco de Pedro a recoger siempre lo mismo: EL PAÍS con su suplemento semanal. Hoy observo la familiaridad de abrir el navegador y encontrarme con la <strong>cabecera</strong> de EL PAÍS, pero nada se siente igual. Papá, te escribo como homenaje a una vida anónima y maravillosa que se apagó, pero que seguirá <strong>latiendo</strong> entre noticia y noticia, entre libros y recuerdos. Pablo Avilés Martínez. Cabezo de Torres (Murcia)",
+      "zh": "已经四个月了，你不再和我分享任何消息。在这样的时刻，我需要紧紧抓住那些不会改变的东西，那些我仍然能感受到属于我（属于我们）的、任凭时光流逝也不会消失的东西。每一天，都有无数个理由涌上心头，告诉我你本该留下来，我们本该再谈一次；但回应我的只有沉默，沉默和一片巨大的空洞。我记得那些周日，我们一起走去佩德罗的报摊，取回永远一样的东西：《国家报》和它的周末增刊。今天，我打开浏览器、看到《国家报》的报头，那份熟悉感还在，但一切都不再一样了。爸爸，我写下这封信，是为了向一段平凡而美好、已经熄灭却将在每一条新闻之间、每一本书和每一段记忆之间继续跳动的生命致敬。Pablo Avilés Martínez，卡韦索德托雷斯（穆尔西亚）",
+      "vocab": [
+        {
+          "word": "agarrarme",
+          "translation": "抓住，紧握，依附于",
+          "note": "agarrarse a 是固定搭配，字面意为『抓住某物』，在情感语境中引申为在困境中依赖或依靠某种精神支撑，比 apoyarse en 更强调一种本能的、迫切的抓取感，语气真实动人。"
+        },
+        {
+          "word": "cabecera",
+          "translation": "报头，刊头，媒体名称标识",
+          "note": "cabecera 在媒体语境中指报纸或网站顶部的名称标识，也可指某一媒体品牌本身，如 una cabecera de referencia（一家权威媒体），此外它还有『床头』『主位』等多重含义，是一词多义的典型词汇。"
+        },
+        {
+          "word": "latiendo",
+          "translation": "跳动着，搏动着",
+          "note": "latir 本义为心脏跳动，在文学语境中常用于比喻某种精神、记忆或情感的持续存在与涌动，固定搭配 seguir latiendo（继续跳动）在悼念和抒情文体中极具感染力，是高价值的文学用词。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "salir adelante",
+      "type": "colocación",
+      "translation": "向前走，克服困难，打拼出一条路",
+      "usage": "固定搭配，指在困难处境中努力生存、奋斗前行，可用于个人、家庭或国家层面，语气积极坚韧，书面口语均常用，如 salir adelante a pesar de todo（不管怎样都要撑下去）。",
+      "exampleEs": "A pesar de las dificultades económicas, la familia consiguió salir adelante gracias al esfuerzo de todos.",
+      "exampleZh": "尽管经济困难重重，这家人凭借全家人的努力还是撑了过来。"
+    },
+    {
+      "expression": "salir del paréntesis",
+      "type": "modismo",
+      "translation": "走出括号，结束悬置状态，重新回归正常生活",
+      "usage": "paréntesis 本为标点符号，引申为生命中被搁置、暂停的一段时期，salir del paréntesis 意为结束这种悬而未决的状态，在移民、疾病、失业等语境中常见，语气带有强烈的渴望与无奈。",
+      "exampleEs": "Tras años de trámites, por fin pudo salir del paréntesis y empezar a construir su vida.",
+      "exampleZh": "经过多年的手续周折，他终于走出了那段悬置的岁月，开始重建自己的生活。"
+    },
+    {
+      "expression": "toma de conciencia",
+      "type": "colocación",
+      "translation": "觉醒，意识的形成，认识到",
+      "usage": "正式固定搭配，指对某一现实或身份的逐渐认识与觉醒，常用于社会、政治和个人成长语境，如 toma de conciencia social（社会意识的觉醒），是人文社科类文本的高频表达。",
+      "exampleEs": "La pandemia supuso una toma de conciencia colectiva sobre la fragilidad del sistema sanitario.",
+      "exampleZh": "疫情让整个社会集体意识到医疗体系的脆弱性。"
+    }
+  ]
+}
