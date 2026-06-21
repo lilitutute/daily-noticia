@@ -1,0 +1,319 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "经济与社会",
+  "difficulty": "B2",
+  "wordCount": "约900词",
+  "title": "Dentro de la gran trastienda china donde se produce el 70% de los productos del Mundial y el 80% de los adornos navideños",
+  "subtitle": "走进中国这座大仓库：世界杯70%的周边产品和80%的圣诞装饰品都产自这里",
+  "resumenEs": "Yiwu, una ciudad al este de China, es el mayor mercado mayorista del mundo y concentra alrededor del 70% de la producción de mercancías del Mundial y más del 80% de los adornos navideños globales. A través de la experiencia de Jaime Horvilleur, un agente de compras español afincado allí desde hace 16 años, el reportaje explora cómo funciona este gigantesco ecosistema comercial: una red descentralizada de pequeñas empresas capaces de detectar tendencias globales y convertirlas en mercancía casi instantáneamente.",
+  "resumenZh": "中国东部城市义乌是全球最大的批发市场，集中了约70%的世界杯周边产品和80%以上的全球圣诞装饰品的生产。文章通过在义乌定居16年的西班牙采购代理海梅·奥维勒尔的视角，揭示了这一庞大商业生态系统的运作方式：一个由小企业构成的去中心化网络，能够几乎即时地捕捉全球趋势并将其转化为商品。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "En el Distrito 3 del mayor bazar del planeta, el Mundial ya ha empezado, aunque todavía no haya comenzado a rodar el balón en Norteamérica. Entre pasillos interminables, hileras infinitas de luces fluorescentes y carteles en árabe, ruso, inglés y español, las selecciones <strong>compiten</strong> por un espacio en las estanterías.",
+      "zh": "在这个地球上最大集市的第三区，世界杯已经开始了，尽管北美的球场上还没有开始滚动那颗足球。在无尽的走廊之间，无数排荧光灯和阿拉伯语、俄语、英语、西班牙语的招牌之间，各支国家队正在争夺货架上的一席之地。",
+      "vocab": [
+        {
+          "word": "compiten",
+          "translation": "竞争，角逐",
+          "note": "动词 competir 属于 e→i 变干动词，注意变位：compito/compites/compite。此处用拟人手法，让『国家队』在货架上竞争，是新闻文体中常见的修辞技巧。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "En uno de los puestos <strong>abarrotados</strong> de mercancía futbolística, una bandera de España cuelga junto a otra de Argentina. Al lado, cientos de balones apilados en columnas perfectamente ordenadas forman una pared multicolor. Más allá, réplicas de todos los tamaños de la copa que levantará el campeón y bufandas de México, Canadá y Estados Unidos, los tres <strong>anfitriones</strong> de la competición.",
+      "zh": "在一个塞满足球周边商品的摊位上，一面西班牙国旗和一面阿根廷国旗并排悬挂。旁边，数百个整齐堆叠成柱的足球形成了一面五彩斑斓的墙。再往里，是各种尺寸的冠军奖杯复制品，以及墨西哥、加拿大和美国——本届赛事三个东道主——的围巾。",
+      "vocab": [
+        {
+          "word": "abarrotados",
+          "translation": "塞满的，挤满的",
+          "note": "形容词/过去分词，来自动词 abarrotar，表示空间被塞得满满当当，常用搭配：abarrotado de gente/mercancía，比 lleno 更强调『过度拥挤』的状态。"
+        },
+        {
+          "word": "anfitriones",
+          "translation": "东道主，主办方",
+          "note": "来自希腊神话人物 Anfitrión，在西语中泛指『主人、东道主』，用于正式场合和新闻文体，比口语中的 país organizador 更简洁正式。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "\"A finales del año pasado llenamos varios <strong>contenedores</strong> con miles de balones que acabaron repartidos por medio mundo\", cuenta el español Jaime Horvilleur, un agente <strong>compras</strong> que lleva 16 años viviendo en Yiwu, una ciudad al este de China absorbida por el mercado mayorista de productos básicos más grande del mundo. Desde aquí han salido buena parte de los balones, banderas, bufandas y recuerdos que acompañarán al Mundial que arranca el 11 de junio.",
+      "zh": "「去年年底，我们装了好几个集装箱，里面有数千个足球，最终发往世界各地，」西班牙人海梅·奥维勒尔说道。他是一名采购代理，在义乌——中国东部一座被全球最大日用品批发市场所吞噬的城市——已经生活了16年。此次6月11日开幕的世界杯所需的大部分足球、旗帜、围巾和纪念品，都是从这里发出的。",
+      "vocab": [
+        {
+          "word": "contenedores",
+          "translation": "集装箱，货柜",
+          "note": "来自动词 contener（容纳），-dor 后缀表示『执行该动作的工具或人』，同类构词如 ordenador（电脑）、calentador（加热器），是一个高频构词规律。"
+        },
+        {
+          "word": "agente compras",
+          "translation": "采购代理",
+          "note": "即 agente de compras，新闻中有时省略介词 de，指专门代客户进行采购谈判和物流协调的中间商，区别于 comprador（直接买家）。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Horvilleur (36 años), fundador de la empresa Sinergia Trading, <strong>ejerce de</strong> guía para Crónica a través de este gigantesco laberinto comercial con más de 75.000 puestos, donde compradores llegados de todos los continentes llegan en busca de cualquier producto imaginable.",
+      "zh": "奥维勒尔，36岁，Sinergia Trading公司的创始人，为《编年报》充当向导，带领记者穿行于这个拥有逾75,000个摊位的巨型商业迷宫，来自各大洲的买家在这里寻觅着任何可以想象到的商品。",
+      "vocab": [
+        {
+          "word": "ejerce de",
+          "translation": "充当，担任，以……身份行事",
+          "note": "固定搭配 ejercer de + 名词，表示临时或非正式地担任某个角色，区别于 trabajar como（正式职业）：ejercer de guía 是『客串向导』，trabajar como guía 是『以导游为职业』。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "\"Si un cliente de Argentina necesita varios contenedores de balones o banderas para el Mundial, nosotros se los organizamos. Si un importador francés quiere llenar sus tiendas de <strong>espumillón</strong> para la campaña de Navidad, también. Y si una cadena de supermercados de España nos pide un millón de palas de playa para el verano, buscamos el fabricante adecuado, <strong>supervisamos</strong> la producción, comprobamos la calidad y nos encargamos de que la mercancía llegue al puerto y embarque rumbo a destino\", explica.",
+      "zh": "「如果阿根廷的客户需要几个集装箱的足球或旗帜用于世界杯，我们来安排。如果法国进口商想在圣诞季把店里塞满金属彩带，也没问题。如果西班牙某连锁超市向我们订购一百万把沙滩球拍用于夏季，我们就找合适的制造商，监督生产，检验质量，并负责将货物运抵港口、装船发往目的地，」他解释道。",
+      "vocab": [
+        {
+          "word": "espumillón",
+          "translation": "金属彩带，圣诞装饰拉花",
+          "note": "指圣诞节常见的闪光装饰彩带，由 espuma（泡沫）派生，后缀 -ón 表示『大的、粗的』，是一个有趣的构词案例。此词在圣诞节相关新闻和商业语境中高频出现。"
+        },
+        {
+          "word": "supervisamos",
+          "translation": "监督，监管",
+          "note": "前缀 super-（在……之上）+ visar（查看），构词逻辑为『从上方审视』，同类词：supervisor（主管）、supervisión（监督）。注意与英语 supervise 是真朋友，含义一致。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "La oficina de Horvilleur se encuentra en uno de los modernos rascacielos que se han levantado en Yiwu en los últimos años alrededor del mercado. \"Han pasado cuatros años desde Qatar y seguimos vendiendo más productos de Messi que de cualquier otro jugador\", dice Zhang, una joven <strong>dependienta</strong> que vende cajas llenas de muñecos del astro argentino. En otro de los puestos, dos <strong>compradores</strong> de Arabia Saudí negocian el precio de miles de banderas.",
+      "zh": "奥维勒尔的办公室位于义乌近年来在市场周边拔地而起的现代摩天大楼之一。「距卡塔尔世界杯已经过去四年了，我们卖出的梅西相关产品依然比任何其他球员都多，」张女士说道，她是一位年轻的女售货员，专门销售装满阿根廷球星玩偶的箱子。在另一个摊位，两名来自沙特阿拉伯的买家正在就数千面旗帜的价格进行谈判。",
+      "vocab": [
+        {
+          "word": "dependienta",
+          "translation": "（女）售货员，店员",
+          "note": "dependiente/dependienta 指商店售货员，注意这是一个『假朋友』：英语 dependent 意为『依赖的』，而西语 dependiente 作名词时专指『店员』，两者含义完全不同。"
+        },
+        {
+          "word": "compradores",
+          "translation": "买家，采购商",
+          "note": "由动词 comprar + 后缀 -dor 构成，-dor/-dora 是西语中表示『执行某动作的人』的高频后缀，如 vendedor（卖家）、exportador（出口商）、importador（进口商）。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Según cifras de la Asociación de Artículos Deportivos de Yiwu, la ciudad <strong>concentra</strong> alrededor del 70% de la producción mundial de mercancías relacionadas con el Mundial. Chen Guoqiang, otro comerciante, explica que en la sección de deportes del mercado llevan más de ocho meses trabajando exclusivamente para la competición. En su escaparate hay varias <strong>falsificaciones</strong> de la equipación de España. De lo que no hay rastro en su tienda es de camisetas de la selección de China. \"Fabricamos casi todos recuerdos del Mundial, pero luego tenemos que ver el torneo por televisión\", afirma.",
+      "zh": "根据义乌体育用品协会的数据，该市集中了全球约70%的世界杯相关商品生产。另一位商人陈国强介绍说，市场体育区的商家已经为本届赛事专项工作了逾八个月。他的橱窗里摆着几件西班牙队球衣的仿制品。而他店里唯一找不到踪影的，是中国国家队的球衣。「我们生产了几乎所有世界杯的纪念品，但到头来只能坐在电视机前看比赛，」他说。",
+      "vocab": [
+        {
+          "word": "concentra",
+          "translation": "集中，汇聚",
+          "note": "动词 concentrar 在经济新闻中高频出现，常用于描述产业、资本、人口的地理集中，固定搭配：concentrar el X% de la producción/población/riqueza。"
+        },
+        {
+          "word": "falsificaciones",
+          "translation": "仿冒品，伪造品",
+          "note": "来自动词 falsificar（伪造），注意与 imitación（仿制品，不一定违法）的区别：falsificación 带有明确的违法或欺骗含义，在新闻报道中语气更强烈。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "El gigante asiático <strong>domina</strong> la cadena global del negocio futbolístico. Lo que sigue sin conseguir es formar un equipo nacional capaz de estar presente sobre el <strong>césped</strong> desde Corea y Japón de 2002. La ampliación de este Mundial de 32 a 48 equipos parecía una oportunidad histórica para el segundo país más poblado del mundo. Asia pasó de tener cuatro plazas directas a ocho. Sobre el papel, la clasificación debía ser más accesible que nunca. Pero China ni siquiera llegó a las últimas rondas decisivas. Terminó por detrás de selecciones como Omán, Indonesia o Palestina.",
+      "zh": "这个亚洲巨人主导着全球足球产业链。然而它始终无法做到的，是组建一支能够自2002年韩日世界杯以来再度踏上赛场草坪的国家队。本届世界杯从32支扩军至48支球队，对这个世界第二人口大国来说，似乎是一个历史性机遇。亚洲的直接晋级名额从四个增加到八个。从纸面上看，出线应该比以往任何时候都更容易。但中国甚至没能打进最后的决定性轮次，最终落后于阿曼、印度尼西亚和巴勒斯坦等队。",
+      "vocab": [
+        {
+          "word": "domina",
+          "translation": "主导，支配，掌控",
+          "note": "动词 dominar 在经济和政治新闻中极为高频，表示对某领域拥有压倒性的控制力，区别于 controlar（控制，更中性）：dominar 带有『碾压式领先』的含义。"
+        },
+        {
+          "word": "césped",
+          "translation": "草坪，草皮",
+          "note": "足球报道中的高频词，『estar sobre el césped』是描述球队上场参赛的固定表达，相当于中文的『踏上赛场』，是体育新闻中的典型借代修辞。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "\"Es una vergüenza que China no esté en el Mundial\", se queja otro de los comerciantes del Distrito 3 de un mercado que recibe a unos 220.000 visitantes diarios. Un lugar tan gigantesco que recorrerlo entero llevaría varios días. Los puestos funcionan más como <strong>interfaces</strong> que como tiendas de venta directa; <strong>escaparates</strong> de una inmensa red de pequeñas fábricas repartidas por toda la región.",
+      "zh": "「中国不在世界杯上，真是太丢人了，」第三区的另一位商人抱怨道。这个市场每天接待约22万名访客，规模之巨，走遍全场需要好几天。这里的摊位与其说是直销店，不如说更像是接口——一个遍布整个地区的庞大小型工厂网络的橱窗。",
+      "vocab": [
+        {
+          "word": "interfaces",
+          "translation": "接口，界面，中间媒介",
+          "note": "本为计算机术语，此处作者将其引入商业语境，比喻摊位是连接买家与后方工厂的『接口』，是新闻写作中将科技词汇跨领域借用的典型案例，体现了B2以上的词汇灵活运用能力。"
+        },
+        {
+          "word": "escaparates",
+          "translation": "橱窗；展示窗口",
+          "note": "本义为商店橱窗，此处引申为『对外展示的窗口』，是西语中常见的隐喻用法。固定搭配：servir de escaparate（充当展示窗口），常用于描述城市、展会或平台的对外形象功能。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Un comprador entra, elige una muestra y negocia el precio. Horas después, la maquinaria industrial comienza a moverse. Ese es el verdadero secreto de Yiwu. Mientras Occidente suele asociar la industria china con enormes complejos manufactureros, Yiwu <strong>prospera</strong> gracias a una red <strong>descentralizada</strong> de miles de pequeñas y medianas empresas extremadamente flexibles.",
+      "zh": "买家进来，挑选样品，谈好价格。几小时后，工业机器开始运转。这才是义乌真正的秘密。西方世界通常将中国工业与庞大的制造业综合体联系在一起，而义乌却凭借一个由数千家极具灵活性的中小型企业构成的去中心化网络蓬勃发展。",
+      "vocab": [
+        {
+          "word": "prospera",
+          "translation": "繁荣，蓬勃发展",
+          "note": "动词 prosperar 在经济报道中高频出现，强调持续性的增长与繁荣，区别于 crecer（增长，侧重数量变化）：prosperar 更强调整体的兴旺状态，语气更积极。"
+        },
+        {
+          "word": "descentralizada",
+          "translation": "去中心化的，分散化的",
+          "note": "前缀 des-（去除、反向）+ centralizar（集中化），des- 是西语中极高频的反义前缀，如 desorganizado（无序的）、desigualdad（不平等）、desconfianza（不信任）。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "\"Cada zona desarrolla una <strong>especialidad</strong>\", explica español Horvilleur. \"La vecina Datang produce cerca de un tercio de los calcetines del mundo. Otra localidad próxima, Qiaotou, fabrica la inmensa mayoría de botones y cremalleras. Y Wenzhou domina la producción de encendedores. Cuando llega un pedido, regiones enteras se ponen en marcha. El resultado es una velocidad de reacción difícil de igualar\".",
+      "zh": "「每个地区都发展出自己的专长，」西班牙人奥维勒尔解释道。「邻近的大唐生产全球近三分之一的袜子。另一个附近的地方——桥头——生产了绝大多数的纽扣和拉链。温州则主导着打火机的生产。每当一个订单到来，整个地区就会联动起来。其结果是一种难以匹敌的反应速度。」",
+      "vocab": [
+        {
+          "word": "especialidad",
+          "translation": "专长，特色，专业领域",
+          "note": "由形容词 especial + 后缀 -idad 构成，-idad 是西语中将形容词转化为抽象名词的最高频后缀之一，如 flexibilidad、velocidad、capacidad，掌握此后缀可大幅扩充词汇量。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Los comerciantes de Yiwu recuerdan con orgullo cómo, apenas unas horas después del intento de <strong>asesinato</strong> contra Donald Trump durante la campaña electoral estadounidense, ya circulaban camisetas con la imagen del entonces candidato levantando el puño ensangrentado. El mercado <strong>detecta</strong> una tendencia global y la convierte en mercancía casi instantáneamente.",
+      "zh": "义乌商人们自豪地回忆起，在针对唐纳德·特朗普的暗杀未遂事件发生仅仅几小时后，印有这位当时的候选人举起血拳头形象的T恤就已经开始流通。这个市场能够捕捉到全球趋势，并几乎即时地将其转化为商品。",
+      "vocab": [
+        {
+          "word": "asesinato",
+          "translation": "谋杀，暗杀",
+          "note": "注意与英语的假朋友关系：assassination 在英语中专指政治人物暗杀，而西语 asesinato 泛指任何蓄意谋杀，政治暗杀通常用 intento de asesinato 或 atentado 来表达。"
+        },
+        {
+          "word": "detecta",
+          "translation": "察觉，探测，捕捉",
+          "note": "动词 detectar 来自英语借词，在新闻和科技文体中高频使用，表示『发现、识别出某种信号或趋势』，比 descubrir（发现）更强调主动监测的过程。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "Lo mismo ocurre con el Mundial. A miles de kilómetros de los estadios de Dallas, Los Ángeles o Ciudad de México, los comerciantes de Yiwu comenzaron a fabricar recuerdos mundialistas cuando todavía faltaban muchos meses para conocer todos los equipos <strong>clasificados</strong>.",
+      "zh": "世界杯也是同样的道理。距达拉斯、洛杉矶或墨西哥城的赛场数千公里之外，义乌的商人们早在距离所有参赛队伍确定还有好几个月时，就已经开始生产世界杯纪念品了。",
+      "vocab": [
+        {
+          "word": "clasificados",
+          "translation": "已获得资格的，晋级的",
+          "note": "动词 clasificarse 在体育语境中专指『取得参赛资格、晋级』，是体育新闻的核心词汇，固定搭配：clasificarse para el Mundial/los Juegos Olímpicos（打进世界杯/奥运会）。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "Antes de convertirse en una potencia exportadora, Yiwu era conocida por una práctica popular llamada \"plumas de gallina por azúcar\". Durante décadas, campesinos de la región recorrían aldeas <strong>intercambiando</strong> pequeñas cantidades de azúcar moreno por plumas utilizadas como fertilizante. Era un comercio minúsculo, casi <strong>insignificante</strong>, nacido de la pobreza rural.",
+      "zh": "在成为出口强市之前，义乌以一种名为「鸡毛换糖」的民间习俗而闻名。数十年来，当地农民走村串户，用少量红糖换取用作肥料的鸡毛。这是一种微不足道的、几乎可以忽略不计的贸易，诞生于农村的贫困之中。",
+      "vocab": [
+        {
+          "word": "intercambiando",
+          "translation": "交换，以物易物",
+          "note": "前缀 inter-（相互之间）+ cambiar（交换），inter- 是拉丁语来源的高频前缀，表示『相互、之间』，如 internacional、interactuar、interdependencia，掌握此前缀可举一反三。"
+        },
+        {
+          "word": "insignificante",
+          "translation": "微不足道的，无足轻重的",
+          "note": "前缀 in-（否定）+ significante（有意义的），in- 是西语最高频的否定前缀之一，如 incapaz、invisible、inestable。注意 insignificante 强调『规模或重要性极小』，语气比 pequeño 更强烈。"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "es": "Cuando China inició las reformas económicas tras la muerte de Mao Zedong, aquella tradición comercial se transformó en una oportunidad. En 1982 abrió el primer mercado de productos básicos de Yiwu. Nadie podía imaginar entonces que aquel <strong>experimento</strong> acabaría convirtiéndose en uno de los mayores centros comerciales del planeta.",
+      "zh": "当中国在毛泽东逝世后启动经济改革时，那种商业传统转化成了一个机遇。1982年，义乌第一个日用品市场开业。当时没有人能想到，那个实验最终会发展成为地球上最大的商贸中心之一。",
+      "vocab": [
+        {
+          "word": "experimento",
+          "translation": "实验，尝试",
+          "note": "注意与英语 experiment 是真朋友，含义一致。但在西语政治经济语境中，experimento 常带有『大胆尝试、不确定结果』的含义，语气比 proyecto（项目）更强调探索性和风险性。"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "es": "La entrada de China en la Organización Mundial del Comercio en 2001 <strong>disparó</strong> el crecimiento de la ciudad. \"Los comerciantes locales entendieron algo fundamental: no podían competir en tecnología avanzada ni en productos sofisticados, pero sí en velocidad, precio y capacidad de adaptación\", detalla Horvilleur. \"Yiwu entonces se <strong>especializó</strong> en lo aparentemente banal: adornos navideños, juguetes, bisutería, artículos promocionales, productos de papelería, souvenirs deportivos\".",
+      "zh": "2001年中国加入世界贸易组织，极大地推动了这座城市的增长。「当地商人们领悟到了一个根本道理：他们无法在先进技术或精密产品上竞争，但可以在速度、价格和适应能力上胜出，」奥维勒尔详述道。「于是义乌专注于那些表面上看似平庸的东西：圣诞装饰品、玩具、仿制珠宝、促销品、文具、体育纪念品。」",
+      "vocab": [
+        {
+          "word": "disparó",
+          "translation": "（使）猛增，引爆，大幅推动",
+          "note": "动词 disparar 本义为『开枪、射击』，在经济新闻中引申为『使某指标急剧上升』，是典型的一词多义。固定搭配：disparar el crecimiento/los precios/la inflación，语气比 aumentar 强烈得多。"
+        },
+        {
+          "word": "especializó",
+          "translation": "专注于，专门化",
+          "note": "动词 especializarse en 是固定搭配，表示在某领域深耕专注，后接名词或动词原形。注意后缀 -izar 是将名词/形容词转化为动词的高频构词方式，如 modernizar、globalizar、digitalizar。"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "es": "El modelo funcionó. Hoy, casi 600.000 contenedores salen cada año de Yiwu rumbo a más de 200 países. Y más del 80% de los adornos navideños que se venden en el mundo tienen algún <strong>vínculo</strong> con esta ciudad. Por eso, para muchos economistas, Yiwu funciona como un <strong>termómetro</strong> del comercio global. Cuando aumentan los pedidos aquí, suele significar que el consumo mundial también se está acelerando. El Mundial de 2026 ha vuelto a confirmarlo.",
+      "zh": "这个模式奏效了。如今，每年有近60万个集装箱从义乌发往逾200个国家。全球销售的圣诞装饰品中，超过80%与这座城市有某种关联。正因如此，在许多经济学家看来，义乌就像一支全球贸易的温度计。当这里的订单增加时，通常意味着全球消费也在提速。2026年世界杯再次印证了这一点。",
+      "vocab": [
+        {
+          "word": "vínculo",
+          "translation": "关联，纽带，联系",
+          "note": "正式书面词汇，比 relación 或 conexión 更强调深层的、不可分割的联系，常用于新闻和学术文体。固定搭配：tener un vínculo con、establecer vínculos、romper vínculos。"
+        },
+        {
+          "word": "termómetro",
+          "translation": "温度计；（引申）晴雨表，风向标",
+          "note": "此处为隐喻用法，将义乌比作衡量全球贸易冷热的『温度计』，是新闻评论中常见的比喻修辞。类似用法还有 barómetro（气压计→晴雨表），两者均可用于描述某指标对整体形势的反映。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "poner(se) en marcha",
+      "type": "colocación",
+      "translation": "启动，开始运转，行动起来",
+      "usage": "固定搭配，既可用于机器、系统等物理意义上的『启动』，也可用于计划、项目、人员的『开始行动』。语体中性，口语书面均适用。注意区分：ponerse en marcha（自动开始）vs. poner en marcha（他动，启动某物）。",
+      "exampleEs": "En cuanto firmaron el contrato, todo el equipo se puso en marcha.",
+      "exampleZh": "合同一签，整个团队立刻行动起来。"
+    },
+    {
+      "expression": "sobre el papel",
+      "type": "modismo",
+      "translation": "从纸面上看，理论上",
+      "usage": "惯用语，字面意思是『在纸上』，实际表示『从理论或书面角度来看』，暗含与现实存在落差的语气，常用于转折句前，相当于 en teoría 但更口语化，书面语中也常见。",
+      "exampleEs": "Sobre el papel, el plan era perfecto; en la práctica, resultó un desastre.",
+      "exampleZh": "从纸面上看，这个计划无懈可击；但实际执行起来，却是一场灾难。"
+    },
+    {
+      "expression": "convertir(se) en una oportunidad",
+      "type": "estructura gramatical",
+      "translation": "转化为机遇，变成一个机会",
+      "usage": "结构 convertirse en + 名词 是西语写作中表达『转变、演变为』的核心句式，语体正式，可套用于各类议论文和新闻评论。注意与 volverse（变得，接形容词）的区别：convertirse en 后接名词，强调身份或性质的根本转变。",
+      "exampleEs": "Una crisis bien gestionada puede convertirse en una oportunidad de crecimiento.",
+      "exampleZh": "一场处理得当的危机，完全可以转化为一次成长的机遇。"
+    },
+    {
+      "expression": "difícil de igualar",
+      "type": "estructura gramatical",
+      "translation": "难以匹敌，无可比拟",
+      "usage": "结构 difícil/fácil/imposible de + 动词原形 是西语中表达难易程度的固定句式，语体正式，常用于书面评论和新闻写作。该结构中动词原形为被动含义，如 difícil de igualar = difícil de ser igualado，是B2以上的重要语法点。",
+      "exampleEs": "Su dedicación al trabajo es difícil de igualar en toda la empresa.",
+      "exampleZh": "她对工作的投入，在整个公司都无人能及。"
+    },
+    {
+      "expression": "rumbo a",
+      "type": "colocación",
+      "translation": "驶向，前往，奔赴",
+      "usage": "固定搭配，rumbo 本为航海术语，意为『航向』，rumbo a + 地点 表示『朝……方向前进』，常用于新闻中描述货物、人员或事件的走向，语体偏正式，带有动态方向感，比 hacia 更具文学色彩。",
+      "exampleEs": "El barco zarpó del puerto rumbo a América del Sur cargado de mercancías.",
+      "exampleZh": "那艘船满载货物，从港口起航，驶向南美洲。"
+    }
+  ]
+}
