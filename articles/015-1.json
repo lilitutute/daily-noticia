@@ -1,0 +1,249 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会与科技",
+  "difficulty": "B2",
+  "wordCount": "约900词",
+  "title": "Más de la mitad de los ancianos chinos, adictos a TikTok: \"Me preocupa que mi abuelo no salga de casa, no para de ver a influencers\"",
+  "subtitle": "超过一半的中国老人沉迷抖音：「我担心爷爷不出门，整天刷农民网红的视频」",
+  "resumenEs": "En las zonas rurales de China, cada vez más ancianos se han vuelto adictos a los vídeos cortos, las compras en línea y los microdramas a través del móvil. Según datos recientes, más del 60% de los mayores chinos presenta tendencias adictivas a internet, pasando una media de cuatro horas diarias conectados. Los expertos señalan la soledad y los algoritmos como los principales motores de este fenómeno, mientras las familias y los médicos alertan de sus consecuencias físicas y emocionales.",
+  "resumenZh": "在中国农村，越来越多的老年人沉迷于通过手机刷短视频、网购和观看微短剧。最新数据显示，超过60%的中国老年人存在网络成瘾倾向，平均每天上网超过四小时。专家指出，孤独感和算法推荐是这一现象的主要驱动因素，而家人和医生也对其带来的身心健康后果发出警告。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Sentada en un taburete de plástico bajo la sombra de un caqui, en un pequeño pueblo agrícola de la provincia oriental de Shandong, la señora Li <strong>suspira</strong> antes de empezar a hablar de su marido. «No me deja dormir porque se pasa horas viendo ruidosos vídeos en el móvil», protesta. «Nos acostamos a las 10 de la noche horas, pero hasta la una o las dos de la madrugada sigue viendo vídeos». La luz de la habitación se apaga, pero entonces empieza el desfile de Douyin, el hermano chino de TikTok: campesinos cocinando, monólogos... «Pone el sonido a todo volumen porque cada vez está más sordo. Yo le digo que pare, pero no me hace caso».",
+      "zh": "在山东省东部一个小农村，李女士坐在柿子树荫下的塑料凳上，开口谈起丈夫之前先叹了口气。「他让我没法睡觉，一直在手机上看那些吵闹的视频，」她抱怨道。「我们晚上十点就上床了，但他一直刷到凌晨一两点。」卧室的灯关了，抖音的轮番轰炸却开始了：农民做饭、脱口秀……「他把声音开到最大，因为他越来越聋了。我叫他停，他根本不听。」",
+      "vocab": [
+        {
+          "word": "suspira",
+          "translation": "叹气，叹息",
+          "note": "动词 suspirar 的第三人称单数现在时，名词形式为 suspiro（叹息声），在文学和新闻叙事中常用于描写人物情绪，是有构词价值的词根。"
+        },
+        {
+          "word": "desfile",
+          "translation": "游行；（比喻）接连不断的轮番出现",
+          "note": "本义为队伍游行或时装秀，此处用作比喻，指视频一个接一个不停播放，这种引申用法在新闻叙事中十分常见，注意与 parade 的英语对应关系。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Su marido, Zhang, tiene 82 años, los mismos que ella. El hombre se pasó la vida <strong>doblando la espalda</strong> en el campo, cultivando trigo y maíz, y trabajando en una fábrica de níquel. Ahora apenas sale de casa. El teléfono móvil se ha convertido en su principal ventana al mundo. Y también en una obsesión preocupante.",
+      "zh": "她的丈夫张先生今年82岁，与她同岁。这个男人一辈子弯腰躬耕于田间，种植小麦和玉米，还曾在一家镍矿工厂工作。如今他几乎足不出户，手机已成为他通向外部世界的主要窗口，也成了一种令人担忧的执念。",
+      "vocab": [
+        {
+          "word": "doblando la espalda",
+          "translation": "弯腰劳作，辛苦劳动",
+          "note": "字面意思是『弯着背』，在此为惯用表达，比喻长年从事繁重体力劳动，是描写农民或体力劳动者生活的常见形象化说法。"
+        },
+        {
+          "word": "ventana al mundo",
+          "translation": "通向世界的窗口",
+          "note": "固定比喻表达，用于形容某事物是了解外部世界的渠道，在新闻和文学文体中极为常见，可套用于多种语境，如 la educación es una ventana al mundo。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Zhang no sólo consume un flujo infinito de vídeos cortos. Desde que aprendió a usar Taobao, la mayor plataforma de comercio electrónico de China, se ha vuelto también adicto a las compras. Paquetes de herramientas que no necesita, comida y ropa barata. Cada pocos días aparece un <strong>repartidor</strong> en la puerta de su casa. «Compra cualquier cosa. A veces ni recuerda lo que ha pedido», se <strong>lamenta</strong> su esposa.",
+      "zh": "张先生不仅消费着无穷无尽的短视频，自从学会使用中国最大电商平台淘宝，他也对购物上了瘾。用不着的工具包、廉价食品和衣物——每隔几天就有快递员出现在他家门口。「什么都买，有时候他自己都不记得买了什么，」他的妻子叹道。",
+      "vocab": [
+        {
+          "word": "repartidor",
+          "translation": "快递员，送货员",
+          "note": "来自动词 repartir（分发、配送），后缀 -dor 表示施动者，同类构词如 conductor（司机）、vendedor（销售员），是西班牙语中极为常见的职业名词构词模式。"
+        },
+        {
+          "word": "lamenta",
+          "translation": "叹息，抱怨，感到遗憾",
+          "note": "动词 lamentarse 为反身形式，表达对某事的惋惜或抱怨，比 quejarse 语气更带有悲伤色彩，常见搭配为 lamentarse de/por algo。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "En el mismo pueblo de Shandong, otra vecina, la <strong>septuagenaria</strong> Shi, reconoce que ella tampoco puede despegarse del móvil. «Yo me paso el día viendo los weiduanju», suelta en referencia a los populares microdramas (o minitelenovelas), el último fenómeno cultural de las redes sociales. Se trata de episodios verticales de apenas uno o dos minutos, con temporadas en torno a 100 capítulos, y que sólo se transmiten a través de estas plataformas.",
+      "zh": "在山东同一个村子里，另一位邻居——七十多岁的石女士——坦言自己也放不下手机。「我整天都在看微短剧，」她脱口而出，指的是当下社交媒体上最新的文化现象——风靡一时的微短剧（或称迷你连续剧）。这类剧集以竖屏形式呈现，每集仅一两分钟，每季约有100集，且只在这些平台上播出。",
+      "vocab": [
+        {
+          "word": "septuagenaria",
+          "translation": "七十多岁的（人）",
+          "note": "构词规律：拉丁语数词前缀 septu-（七）+ -agenario 表示『……十多岁的人』，同类词有 octogenario（八十多岁）、nonagenario（九十多岁）、centenario（百岁），是新闻文体中描述年龄的高频词。"
+        },
+        {
+          "word": "despegarse",
+          "translation": "脱离，摆脱，放下",
+          "note": "前缀 des- 表示分离，pegarse 意为『粘住、依附』，合在一起 despegarse de 指『从某事物上脱离开来』，常用于描述难以戒断某种习惯或依赖，如 no puede despegarse del móvil。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "La señora Shi ahora está <strong>enganchada</strong> a un culebrón sobre venganzas familiares. Cada capítulo termina con un golpe de efecto que obliga al espectador a pulsar el siguiente vídeo. Y el siguiente. Y el siguiente. En este rincón de la China profunda, donde hasta hace pocos años la mayoría de los ancianos no tenían móvil, la revolución digital ha sido <strong>vertiginosa</strong>. Durante las comidas familiares resulta frecuente ver a los más mayores inclinados sobre la pantalla, deslizando el dedo mecánicamente. Algunos llevan años sin tocar dinero en efectivo. Todo se paga con aplicaciones de móvil como WeChat o Alipay: desde las verduras del mercado hasta la consulta médica.",
+      "zh": "石女士现在迷上了一部讲述家族复仇的肥皂剧。每集结尾都有一个戏剧性转折，逼着观众点开下一集，再下一集，再下一集。在这片中国腹地的角落，就在几年前大多数老人还没有手机，如今数字化革命来得令人眩晕。家庭聚餐时，常常能看到老人们低头盯着屏幕，机械地滑动手指。有些人已经好几年没碰过现金了，从菜市场买菜到看病就医，一切都用微信或支付宝等手机应用支付。",
+      "vocab": [
+        {
+          "word": "enganchada",
+          "translation": "上钩的，迷上的，沉迷的",
+          "note": "动词 enganchar 本义为『钩住、挂上』，口语中 estar enganchado/a a algo 意为『对某事上瘾或着迷』，是描述成瘾行为的高频口语表达，语气生动形象。"
+        },
+        {
+          "word": "vertiginosa",
+          "translation": "令人眩晕的，极其迅猛的",
+          "note": "来自名词 vértigo（眩晕），形容词 vertiginoso/a 在新闻文体中常用于比喻发展速度之快，如 un crecimiento vertiginoso，是B2以上的高频新闻词汇。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "«Que utilicen el monedero digital es mucho más práctico. Pero a mí me preocupa que mi abuelo no salga de casa. Está todo el día pegado a vídeos de agricultores <strong>influencers</strong>», cuenta la joven Yuan, nieta de Zhang. En un país que ha apuntado sus restricciones tecnológicas hacia los adolescentes, ahora también se empieza a mirar con preocupación a los jubilados. El gigante asiático cuenta con alrededor de 300 millones de personas mayores de 60 años. De ellas, unos 161 millones son usuarios de internet, con una tasa de <strong>penetración</strong> superior al 50%. Un informe de la firma de análisis de datos QuestMobile revela que los mayores pasan una media de 129 horas al mes conectados, más de cuatro horas diarias. Además, más del 30% sigue activo pasada la medianoche. Los vídeos cortos absorben el 35,1% de todo ese tiempo.",
+      "zh": "「他们用数字钱包方便多了，但我担心爷爷不出门，整天粘在农民网红的视频上，」张先生的孙女袁某说。在这个已将技术限制措施对准青少年的国家，如今人们也开始忧虑退休老人群体。这个亚洲巨国拥有约3亿60岁以上的老年人，其中约1.61亿是网络用户，普及率超过50%。数据分析公司QuestMobile的一份报告显示，老年人每月平均上网129小时，即每天超过四小时，此外超过30%的老年人在午夜过后仍保持活跃状态。短视频占据了他们全部上网时间的35.1%。",
+      "vocab": [
+        {
+          "word": "influencers",
+          "translation": "网红，意见领袖",
+          "note": "英语借词，在西语中直接使用，复数形式不变，指在社交媒体上拥有大量粉丝并能影响受众消费或观点的人，西语中也可用 creador de contenido 替代。"
+        },
+        {
+          "word": "penetración",
+          "translation": "普及率，渗透率",
+          "note": "在科技和市场分析文体中，tasa de penetración 是固定搭配，专指某项技术或服务在特定人群中的覆盖比例，注意这是专业语境下的特定含义，与日常义『穿透』不同。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Las cifras han <strong>desmontado</strong> el viejo estereotipo del abuelo desconectado de la tecnología. Según una encuesta del Comité Nacional sobre el Envejecimiento, cerca del 60% de los mayores chinos presenta tendencias asociadas a la adicción a internet. Y los vídeos cortos dominan casi por completo sus hábitos de consumo.",
+      "zh": "这些数据打破了老人与科技脱节的陈旧刻板印象。根据全国老龄工作委员会的一项调查，近60%的中国老年人表现出与网络成瘾相关的倾向，而短视频几乎完全主导了他们的消费习惯。",
+      "vocab": [
+        {
+          "word": "desmontado",
+          "translation": "拆解，推翻，打破（论点或刻板印象）",
+          "note": "动词 desmontar 本义为『拆卸、卸下』，在新闻和学术文体中常用于比喻义，指『推翻或驳倒某种论点、神话或刻板印象』，是B2以上的高频新闻用词。"
+        },
+        {
+          "word": "estereotipo",
+          "translation": "刻板印象，成见",
+          "note": "与英语 stereotype 同源，但注意西语中重音在倒数第三音节（es-te-REO-ti-po），常见搭配为 romper/desmontar un estereotipo（打破刻板印象）。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Las historias familiares empiezan a parecerse unas a otras. Un hombre apellidado Gao, citado recientemente por medios chinos, decidió analizar el comportamiento digital de su madre después de notar cambios preocupantes. Descubrió que cada mañana abría varias aplicaciones para registrarse, ver anuncios y <strong>acumular</strong> puntos <strong>canjeables</strong>. Después pasaba horas viendo vídeos recomendados por los algoritmos y microdramas de ritmo frenético. Por la noche se sumergía en retransmisiones en directo donde los presentadores vendían productos milagrosos mientras miles de comentarios repetían <strong>consignas</strong> como «¡Lo quiero!» o «¡Cómpralo ya!».",
+      "zh": "一个个家庭的故事开始变得如出一辙。据中国媒体近日报道，一位姓高的男子在注意到母亲出现令人担忧的变化后，决定分析她的数字行为。他发现，母亲每天早上都会打开多个应用程序签到、看广告、积累可兑换积分；之后花好几个小时刷算法推荐的视频和节奏紧凑的微短剧；到了晚上，她又沉浸在直播间里，主播们兜售着各种神奇产品，而成千上万条评论不停地重复着「我要！」「快买！」之类的口号。",
+      "vocab": [
+        {
+          "word": "acumular",
+          "translation": "积累，累积",
+          "note": "固定搭配 acumular puntos（积累积分）在电商和营销语境中极为常见，动词 acumular 还可搭配 deudas（债务）、experiencia（经验）等，是有迁移价值的高频动词。"
+        },
+        {
+          "word": "canjeables",
+          "translation": "可兑换的，可交换的",
+          "note": "来自动词 canjear（兑换、交换），后缀 -able 表示『可……的』，常见于积分、优惠券等消费场景，如 puntos canjeables por descuentos（可兑换折扣的积分）。"
+        },
+        {
+          "word": "consignas",
+          "translation": "口号，标语；（另义）行李寄存处",
+          "note": "一词多义警示：consigna 在政治和营销语境中意为『口号、标语』，但在车站或机场语境中则指『行李寄存处』，需根据上下文判断，是典型的一词多义词。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Cuando finalmente la llevó al hospital, los médicos le diagnosticaron problemas en la columna vertebral relacionados con el uso prolongado del móvil. Los especialistas alertan de un aumento de enfermedades como el síndrome del ojo seco (una enfermedad ocular que aparece cuando los ojos no producen suficientes lágrimas), el glaucoma o las lesiones <strong>cervicales</strong> entre personas mayores que pasan horas con la cabeza inclinada sobre la pantalla.",
+      "zh": "当他终于带母亲去医院时，医生诊断出她因长期使用手机而引发的脊椎问题。专家警告称，长时间低头盯着屏幕的老年人中，干眼症（一种眼睛无法分泌足够泪液的眼科疾病）、青光眼以及颈椎损伤等疾病的发病率正在上升。",
+      "vocab": [
+        {
+          "word": "cervicales",
+          "translation": "颈椎的，颈部的",
+          "note": "形容词 cervical 来自拉丁语 cervix（颈部），在医学文体中常以复数名词形式出现，如 las cervicales（颈椎），是医疗健康类新闻的高频词汇。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Los expertos ven detrás de este fenómeno algo más profundo. «La soledad es uno de los principales <strong>motores</strong> de esta adicción», explica Xu Ying, investigadora especializada en envejecimiento digital, quien ha realizado encuestas a personas de avanzada edad para entender por qué algunas desarrollan comportamientos adictivos hacia el móvil. «Muchos jubilados experimentan un <strong>vacío</strong> después de retirarse y encuentran en internet una forma inmediata de entretenimiento y compañía», añade.",
+      "zh": "专家们在这一现象背后看到了更深层的东西。「孤独是这种成瘾的主要驱动力之一，」专注于数字老龄化研究的研究员徐颖解释道。她曾对高龄老人进行问卷调查，以了解为何部分人会对手机产生成瘾行为。「许多退休人员在退休后会感到一种空虚，而他们在网络上找到了一种即时的娱乐和陪伴，」她补充道。",
+      "vocab": [
+        {
+          "word": "motores",
+          "translation": "驱动力，动力因素",
+          "note": "motor 本义为『发动机、马达』，在学术和新闻文体中常用作比喻，指推动某一现象或进程的核心力量，如 motor de cambio（变革驱动力），是高频比喻用词。"
+        },
+        {
+          "word": "vacío",
+          "translation": "空虚，空洞；真空",
+          "note": "在心理和社会学文体中，vacío 常指情感或精神层面的『空虚感』，固定搭配有 llenar un vacío（填补空虚）、sentir un vacío（感到空虚），注意与形容词 vacío（空的）同形。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "«Los algoritmos ya no sólo recomiendan contenido: <strong>moldean</strong> el comportamiento. Entre los mayores, las recompensas emocionales y la sensación de compañía son algunos de los mecanismos más eficaces para generar dependencia», señala Li Zheng, investigador de la Universidad de Medicina China de Nankín y autor de un reciente estudio sobre adicción digital en la tercera edad.",
+      "zh": "「算法已不仅仅是在推荐内容，而是在塑造行为。在老年群体中，情感奖励和陪伴感是制造依赖的最有效机制之一，」南京中医药大学研究员、近期一项老年数字成瘾研究的作者李峥指出。",
+      "vocab": [
+        {
+          "word": "moldean",
+          "translation": "塑造，塑形，形塑",
+          "note": "动词 moldear 来自名词 molde（模具），比喻义为『塑造、影响某人的行为或性格』，在社会学和心理学文体中常见，如 moldear la opinión pública（塑造公众舆论）。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "La transformación social de China ayuda a entender el fondo. Durante décadas, millones de jóvenes y adultos abandonaron las zonas rurales para trabajar en las grandes ciudades. Los abuelos se quedaron atrás. Hoy muchos viven solos. Los hijos y nietos aparecen durante las <strong>festividades</strong>. El resto del tiempo, el teléfono ocupa el espacio que antes llenaba la familia.",
+      "zh": "中国的社会变迁有助于理解这一现象的深层背景。数十年来，数以百万计的年轻人和成年人离开农村，涌入大城市务工，祖父母们则被留在了身后。如今，许多老人独自生活，子女和孙辈只在节假日才会出现。其余的时间，手机占据了曾经由家人填满的那片空间。",
+      "vocab": [
+        {
+          "word": "festividades",
+          "translation": "节日，节假日，庆典",
+          "note": "名词 festividad 的复数形式，在西语中专指重要的节日或庆典时期，比 fiestas 更正式，常用于新闻和文学文体中描述传统节日聚会的场景。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "no hacer caso",
+      "type": "expresión coloquial",
+      "translation": "不听，不理睬，置之不理",
+      "usage": "极为常见的口语固定搭配，后接介词 a + 人，意为『不听某人的话、无视某人』，如 no me hace caso（他不理我），语气随意，适用于日常对话，是B1以上必掌握的表达。",
+      "exampleEs": "Le dije mil veces que descansara, pero no me hizo caso y siguió trabajando hasta el amanecer.",
+      "exampleZh": "我跟他说了一千遍让他休息，但他根本不听，一直工作到天亮。"
+    },
+    {
+      "expression": "pasarse el día + 动词原形",
+      "type": "estructura gramatical",
+      "translation": "整天都在做某事",
+      "usage": "口语和书面语中均常见的固定结构，用于强调某人花费大量时间反复做同一件事，带有轻微夸张或抱怨的语气，结构为 pasarse + 时间段 + 动词原形，如 pasarse el día viendo vídeos。",
+      "exampleEs": "Mi hermano se pasa el día jugando a videojuegos y no estudia nada.",
+      "exampleZh": "我弟弟整天打游戏，什么书都不读。"
+    },
+    {
+      "expression": "estar pegado a",
+      "type": "expresión coloquial",
+      "translation": "粘在……上，离不开……",
+      "usage": "口语中描述对某物极度依赖或沉迷的固定表达，字面意思是『粘在某物上』，常用于描述对手机、电视、屏幕等的过度使用，语气生动，带有批评或调侃色彩。",
+      "exampleEs": "Los niños de hoy en día están todo el día pegados a la pantalla del móvil.",
+      "exampleZh": "现在的孩子整天都粘在手机屏幕上。"
+    },
+    {
+      "expression": "golpe de efecto",
+      "type": "colocación",
+      "translation": "戏剧性转折，出人意料的效果，噱头",
+      "usage": "固定搭配，指在叙事、演讲或表演中刻意制造的出人意料的戏剧性效果，常用于描述影视剧情节、政治演讲或新闻事件，语体偏正式或新闻化。",
+      "exampleEs": "El director reservó el golpe de efecto para el último minuto de la película, dejando al público sin palabras.",
+      "exampleZh": "导演把最震撼的戏剧性转折留到了电影的最后一分钟，让观众哑口无言。"
+    },
+      {
+      "expression": "ritmo frenético",
+      "type": "colocación",
+      "translation": "疯狂的节奏，令人窒息的速度",
+      "usage": "新闻和文学文体中的高频固定搭配，frenético 强调超出正常节奏的狂热与失控感，常与 ritmo、actividad、vida 等搭配，比 rápido 或 intenso 语气强烈得多，带有负面或批判色彩。",
+      "exampleEs": "El ritmo frenético de las ciudades modernas provoca ansiedad y agotamiento entre sus habitantes.",
+      "exampleZh": "现代城市令人窒息的生活节奏让居民深陷焦虑与疲惫之中。"
+    }
+  ]
+}

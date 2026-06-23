@@ -1,0 +1,210 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与社会",
+  "difficulty": "C1",
+  "wordCount": "约800词",
+  "title": "Efectos perjudiciales de la inteligencia artificial (IA)",
+  "subtitle": "人工智能的有害影响",
+  "resumenEs": "Un equipo de investigadores de universidades inglesas y norteamericanas advierte sobre los efectos negativos del uso excesivo de la IA en las capacidades cognitivas humanas. Experimentos con tareas aritméticas y de comprensión lectora demuestran que quienes recurren a la IA tienden a rendirse antes ante las dificultades, lo que amenaza la persistencia y el aprendizaje a largo plazo.",
+  "resumenZh": "来自英美多所大学的研究团队警告，过度使用人工智能可能对人类认知能力产生负面影响。通过算术和阅读理解实验，研究发现依赖AI的参与者在面对困难时更容易放弃，这对长期学习所需的坚持力构成威胁。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Como ya nadie duda de que la IA ha venido para quedarse, son muchas las preguntas que nos hacemos sobre las consecuencias de su <strong>implantación</strong> a corto, medio y largo plazo. ¿Cambia la IA el funcionamiento básico del cerebro? ¿Usando la IA, aprendemos y mejoramos nuestro sistema cognitivo natural o simplemente nos apoyamos en ella para ejecutar propósitos? ¿Qué nos puede pasar si, tras usarla repetidamente, dejamos de hacerlo? ¿Recuperamos nuestras previas capacidades ejecutivas y podremos <strong>prescindir</strong> de la IA, o caeremos en algún estado de dependencia mental, de \"mono\" tecnológico? En definitiva, ¿vamos a perder capacidades mentales y de adaptación a nuestro entorno por un repetido uso de la IA?",
+      "zh": "既然已经没有人怀疑人工智能将长期存在，我们对其在短期、中期和长期内推行所带来的后果充满疑问。人工智能会改变大脑的基本运作方式吗？使用人工智能，我们是在学习并提升自身的认知系统，还是仅仅依赖它来完成目标？如果在反复使用之后停止使用，我们会怎样？我们能恢复之前的执行能力并摆脱对人工智能的依赖，还是会陷入某种精神依赖、技术[戒断反应]的状态？总而言之，反复使用人工智能，我们是否会丧失心智能力和对周围环境的适应能力？",
+      "vocab": [
+        {
+          "word": "implantación",
+          "translation": "推行，植入，实施",
+          "note": "名词，来自动词 implantar，在新闻和学术文体中常指某项制度、技术或政策的正式引入与推广，如 la implantación de una nueva ley。"
+        },
+        {
+          "word": "prescindir",
+          "translation": "放弃，舍弃，不依赖",
+          "note": "固定搭配为 prescindir de + 名词，意为『不需要某物、摒弃某物』，注意不能省略介词 de，如 prescindir de la tecnología。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Unas consideraciones previas pueden ayudarnos a responder a esa pregunta. Cuando razonamos por nuestra cuenta sin ayuda de <strong>artilugios</strong> tecnológicos, <strong>escudriñamos</strong> continuamente el resultado de lo que hacemos, observamos con frecuencia nuestros propios errores y nos esforzamos progresivamente por corregir y mejorar el resultado, aunque nos cueste tiempo y esfuerzo conseguirlo. Trabajar usando los recursos intelectuales propios resulta en un autoaprendizaje permanente que, además de autonomía, nos proporciona sensación de independencia, acierto y seguridad. Asumir nuestra propia capacidad para conseguir propósitos y solucionar problemas intelectuales es resultado de nuestra propia experiencia en conseguirlo, siendo también lo que nos induce a permanecer en el esfuerzo sin abandonar cuando intentamos superar dificultades.",
+      "zh": "一些前提性思考或许能帮助我们回答这个问题。当我们靠自己独立思考、不借助任何科技工具时，我们会持续审视自己的成果，频繁察觉自身的错误，并逐步努力纠正和改进，尽管这需要花费时间和精力。运用自身的智识资源进行工作，能带来持续的自我学习，不仅赋予我们自主性，还给我们带来独立感、成就感和安全感。相信自己有能力实现目标、解决智识难题，源于我们亲身实践的经验，也正是这种信念驱使我们在尝试克服困难时坚持不懈、不轻言放弃。",
+      "vocab": [
+        {
+          "word": "artilugios",
+          "translation": "小玩意儿，装置，器械",
+          "note": "带有轻微贬义或戏谑色彩，常用于口语和新闻文体中指代各种（尤其是复杂或奇怪的）技术设备，语气比 dispositivo 更随意。"
+        },
+        {
+          "word": "escudriñamos",
+          "translation": "仔细审视，深入探究",
+          "note": "动词 escudriñar 强调『仔细、彻底地检查或审视』，比 examinar 或 observar 语气更强，常用于正式或书面语境。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Quizá por todo eso, un equipo de investigadores de prestigiosas universidades inglesas y norteamericanas nos alerta sobre posibles inconvenientes de un uso inadecuado o <strong>desmesurado</strong> de la IA, recordándonos, antes de nada, que un profesor o consejero no solo contesta preguntas, pues es también un <strong>andamio</strong> de aprendizaje, alguien que rastrea el progreso de su asesorado y prioriza su crecimiento a largo plazo sobre los resultados inmediatos. En contraste, los actuales sistemas de IA son colaboradores <strong>miopes</strong> que producen respuestas instantáneas y completas, sin negarse casi nunca a ayudar cuando, por lo que sea, no convenga. ¿Qué consecuencias puede tener esa dinámica de uso de la IA?",
+      "zh": "也许正因如此，来自英美多所知名大学的研究团队提醒我们注意不当或过度使用人工智能可能带来的弊端。他们首先提醒我们：一位老师或顾问不仅仅是回答问题的人，更是学习的脚手架——一个追踪被辅导者进步、将其长期成长置于即时成果之上的人。相比之下，当前的人工智能系统是目光短浅的协作者，能即时给出完整答案，几乎从不拒绝提供帮助，即便在某些情况下这样做并不合适。这种使用人工智能的动态模式会带来怎样的后果？",
+      "vocab": [
+        {
+          "word": "desmesurado",
+          "translation": "过度的，过分的，无节制的",
+          "note": "前缀 des- 表示否定或超出，词根来自 mesura（节制、适度），因此 desmesurado 字面意为『失去节制的』，可类比 desproporcionado、descontrolado 等同类构词。"
+        },
+        {
+          "word": "andamio",
+          "translation": "脚手架；（比喻）支撑框架",
+          "note": "本义为建筑脚手架，此处用作教育学隐喻（scaffolding），指为学习者提供结构性支持的人或机制，是教育类文章中的高频比喻用法。"
+        },
+        {
+          "word": "miopes",
+          "translation": "近视的；（比喻）目光短浅的",
+          "note": "假朋友提示：miope 与英语 myopic 同源，但在西语中更常直接用于比喻义，指『只顾眼前、缺乏远见』，在新闻和学术文体中十分常见。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Para tratar de contestar a esa variante de nuestra pregunta anterior, los investigadores mencionados han realizado una serie de sucesivos experimentos con pruebas aritméticas y de comprensión lectora. En una de ellas, 191 personas (grupo experimental) tenían que resolver 12 problemas de fracciones matemáticas de dificultad variable sin ser penalizadas por dar respuestas incorrectas. Para ello y siempre que lo desearan, clicando una tecla podían acceder a un asistente de IA (GTP-5) preprogramado con la solución inmediata y precisa de cada problema. Después, para evaluar la capacidad de los participantes para encontrar las soluciones por sí mismos, se les pidió también resolver tres problemas adicionales del mismo tipo sin usar nunca el asistente de IA ni otros recursos. Pero lo más especial fue que, para medir su motivación y persistencia con independencia de su capacidad matemática, los participantes tenían también la opción de <strong>eludir</strong> voluntariamente cualquiera de los problemas presentados clicando una tecla.",
+      "zh": "为了尝试回答前述问题的这一变体，上述研究人员开展了一系列连续实验，内容涵盖算术测试和阅读理解测试。其中一项实验中，191名参与者（实验组）需要解答12道难度不等的数学分数题，答错不会受到惩罚。在此过程中，只要他们愿意，随时可以点击一个按键，访问一个预先编程好的人工智能助手（GTP-5），该助手能即时给出每道题的精确答案。随后，为了评估参与者独立找到答案的能力，他们还被要求在不使用任何人工智能助手或其他辅助资源的情况下，解答三道同类型的附加题。最特别之处在于，为了独立于数学能力之外衡量参与者的动力与坚持力，他们还可以选择主动跳过任意一道题，只需点击一个按键即可。",
+      "vocab": [
+        {
+          "word": "eludir",
+          "translation": "回避，绕开，跳过",
+          "note": "易混辨析：eludir 强调有意识地『绕开或回避』某事，而 evitar 更泛指『避免』，eludir 在正式文体中语气更强，常含有刻意规避的含义。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Los participantes del grupo control (163) recibieron los mismos problemas sin asistencia de IA y con el mismo requerimiento de no usar otros recursos de ayuda. Un similar experimento para comprobar la <strong>generalización</strong> de los resultados a otras esferas del conocimiento estudió el mismo tipo de motivación y persistencia en una tarea diferente, la comprensión lectora.",
+      "zh": "对照组的163名参与者接受了相同的题目，但没有人工智能辅助，同样被要求不得使用其他辅助资源。另一项类似实验旨在验证结果能否推广至其他知识领域，研究了参与者在另一项不同任务——阅读理解——中的同类动力与坚持力表现。",
+      "vocab": [
+        {
+          "word": "generalización",
+          "translation": "推广，泛化，概括",
+          "note": "在学术和研究文体中，generalización 专指将实验结论推广至更广泛情境的过程，是科研写作的高频词，动词形式为 generalizar。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "El resultado más interesante de los experimentos realizados fue que los participantes que se <strong>valieron de</strong> la IA para solucionar los problemas, aunque mejoraron su ejecución a corto plazo, es decir, de manera inmediata, se rindieron con más frecuencia ante la dificultad de algunos problemas que los que nunca se valieron de ella. Ese efecto se puso de manifiesto con solo breves interacciones, de unos 10 o 15 minutos, con la IA, un tipo de asistencia que condiciona a la gente a esperar resultados inmediatos, negándoles la experiencia de seguir trabajando mediante desafíos propios. Es como si el saber que alguien o algo como el asistente de IA te solucionará un problema de inmediato evita que te esfuerces en solucionarlo por ti mismo, una <strong>predisposición</strong> que también se reflejó en los resultados de los experimentos mencionados.",
+      "zh": "实验最有趣的结果是：借助人工智能解题的参与者，尽管短期内（即即时）表现有所提升，但在面对某些难题时，他们放弃的频率却高于从未使用人工智能的参与者。这一效应仅在与人工智能进行约10至15分钟的短暂互动后便已显现——这种辅助方式让人们习惯于期待即时结果，剥夺了他们通过自我挑战持续钻研的体验。这就好像：一旦知道有人或某个人工智能助手能立即替你解决问题，你便不再努力自己去解决它。这种心理倾向同样在上述实验结果中得到了印证。",
+      "vocab": [
+        {
+          "word": "valerse de",
+          "translation": "借助，利用，依靠",
+          "note": "固定搭配 valerse de + 名词，意为『借助某物/某人达成目的』，语体较正式，比 usar 或 utilizar 更强调主动借力的含义。"
+        },
+        {
+          "word": "predisposición",
+          "translation": "倾向，预先倾向，心理定势",
+          "note": "前缀 pre- 表示『预先』，disposición 意为『倾向、安排』，合在一起指『事先形成的心理倾向』，在心理学和学术文体中常见，可类比 predisponer、predeterminado 等同类构词。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Siendo la persistencia fundamental para la adquisición de habilidades mentales y uno de los más fuertes <strong>predictores</strong> de aprendizaje a largo plazo, lo más preocupante entonces fue sospechar que, si una breve exposición tiene un efecto perjudicial medible, los efectos acumulativos del uso diario de la IA en meses o años podrían ser profundos y difíciles de <strong>revertir</strong>. Más aún, como sugieren los mencionados investigadores, la IA elimina la lucha productiva que hace que la gente desarrolle no solo conocimiento preciso, sino también el autoconocimiento y la calibración <strong>metacognitiva</strong> que sostiene la persistencia para solucionar los problemas.",
+      "zh": "坚持力是习得心智技能的关键，也是长期学习最有力的预测因素之一。因此，最令人担忧的推断是：如果短暂接触便能产生可测量的有害效果，那么数月乃至数年每日使用人工智能所积累的影响，可能将是深远且难以逆转的。更进一步，正如上述研究人员所指出的，人工智能消除了那种『有益的挣扎』——正是这种挣扎促使人们不仅发展出精准的知识，更培养出自我认知和元认知校准能力，而这两者正是支撑解题坚持力的根基。",
+      "vocab": [
+        {
+          "word": "predictores",
+          "translation": "预测因素，预测指标",
+          "note": "学术和统计文体中的高频词，指能预测某一结果的变量或因素，来自动词 predecir，后缀 -or 表示施动者，可类比 indicador、factor 等近义词。"
+        },
+        {
+          "word": "revertir",
+          "translation": "逆转，恢复原状",
+          "note": "假朋友警告：revertir 在西语中主要意为『逆转、使回到原状』，而非英语 revert 常见的『回归某习惯』之义，在医学、科学和新闻文体中十分常见。"
+        },
+        {
+          "word": "metacognitiva",
+          "translation": "元认知的",
+          "note": "前缀 meta- 表示『超越、关于自身』，metacognición 指对自身思维过程的认知与监控，是教育心理学核心术语，可类比 metaanálisis、metalenguaje 等同类构词。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "En su razonamiento, los investigadores sostienen que, aunque las tareas investigadas, como la fracción aritmética y la comprensión de la lectura, pueden parecer <strong>delegables</strong> a herramientas como calculadoras o búsqueda informática, el dominio conceptual propio de esas habilidades es un <strong>prerrequisito</strong> para el desarrollo de competencias de más alto nivel, como el álgebra, que difiere de la aritmética en el uso de abstracciones, o el pensamiento crítico. Un posible daño añadido no menos importante es que los estudiantes con menos recursos académicos y ayudas personales complementarias pueden ser más <strong>vulnerables</strong> a los efectos perjudiciales del uso improcedente de la IA.",
+      "zh": "在他们的论证中，研究人员指出：尽管所研究的任务——如分数运算和阅读理解——看似可以委托给计算器或网络搜索等工具来完成，但对这些技能的概念性掌握，是发展更高层次能力的前提条件，例如代数（与算术的区别在于运用抽象思维）或批判性思维。另一个同样不容忽视的潜在危害是：学业资源匮乏、缺乏个人辅助支持的学生，可能对不当使用人工智能所带来的有害影响更为脆弱。",
+      "vocab": [
+        {
+          "word": "delegables",
+          "translation": "可委托的，可转交的",
+          "note": "动词 delegar 意为『委托、授权』，后缀 -able 表示『可……的』，此处指某项任务可以交由工具代为完成，是正式文体中的常见构词模式，如 negociable、transferible。"
+        },
+        {
+          "word": "prerrequisito",
+          "translation": "前提条件，先决条件",
+          "note": "前缀 pre- 表示『在……之前』，requisito 意为『必要条件』，合在一起指『必须先具备的条件』，学术写作中的高频词，注意西语中双写 rr 的拼写规则。"
+        },
+        {
+          "word": "vulnerables",
+          "translation": "脆弱的，易受伤害的",
+          "note": "在社会科学和新闻文体中，vulnerable 常与介词 a 搭配，构成 vulnerable a + 名词，意为『容易受到某事物的伤害』，是B2以上的高频学术词汇。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Con sus permanentes desarrollos, la IA seguirá formando parte de nuestras vidas y, como todos los avances tecnológicos, irá modificando el funcionamiento del cerebro, órgano que no es más que un <strong>amortiguador</strong> de los cambios que ocurren en el ambiente en el que vivimos y con el que interactuamos, siendo los tecnológicos especialmente importantes por su desarrollo <strong>exponencial</strong>. Lo crítico, en cualquier caso, va a ser que aprendamos a usar la IA garantizando que sus beneficios superen a los de las capacidades mentales que resulten <strong>deterioradas</strong> por su uso excesivo o improcedente.",
+      "zh": "随着人工智能的持续发展，它将继续融入我们的生活，并像所有技术进步一样，逐渐改变大脑的运作方式——大脑不过是一个缓冲器，用以适应我们所生活、所互动的环境中发生的种种变化，而技术层面的变化因其指数级的发展速度尤为重要。无论如何，关键在于我们要学会使用人工智能，确保其带来的益处超过因过度或不当使用而受损的心智能力所造成的损失。",
+      "vocab": [
+        {
+          "word": "amortiguador",
+          "translation": "缓冲器；（比喻）缓冲者",
+          "note": "本义为汽车减震器或缓冲装置，此处用作比喻，指大脑对外部环境变化的适应与缓冲功能，动词形式为 amortiguar（缓冲、减弱），是有构词价值的词根。"
+        },
+        {
+          "word": "exponencial",
+          "translation": "指数级的，呈指数增长的",
+          "note": "在科技和经济新闻中极为常见，常见搭配为 crecimiento exponencial（指数级增长），注意这是形容词，名词形式为 exponente。"
+        },
+        {
+          "word": "deterioradas",
+          "translation": "受损的，退化的，恶化的",
+          "note": "动词 deteriorar 意为『使恶化、使退化』，前缀 de- 在此表示向下或变差的方向，常见搭配有 deterioro cognitivo（认知退化）、deterioro ambiental（环境恶化）。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "ha venido para quedarse",
+      "type": "expresión coloquial",
+      "translation": "已经来了，而且会留下来；将长期存在",
+      "usage": "固定表达，用于强调某事物（技术、趋势、人物等）已经不可逆转地成为现实的一部分，语气肯定，常用于新闻和口语中，结构为 haber venido para + 动词原形。",
+      "exampleEs": "El teletrabajo ha venido para quedarse; muchas empresas ya no volverán al modelo presencial.",
+      "exampleZh": "远程办公已成定局，许多公司不会再回到全员到岗的模式了。"
+    },
+    {
+      "expression": "poner de manifiesto",
+      "type": "colocación",
+      "translation": "揭示，表明，使……显现出来",
+      "usage": "正式文体中的高频固定搭配，意为『使某事变得明显或清晰』，常用于学术论文、新闻报道中，相当于 revelar 或 demostrar，但语体更正式。",
+      "exampleEs": "Los datos pusieron de manifiesto una clara relación entre el estrés y la pérdida de memoria.",
+      "exampleZh": "数据清晰地揭示了压力与记忆力下降之间的关联。"
+    },
+    {
+      "expression": "valerse de",
+      "type": "colocación",
+      "translation": "借助，利用，依靠",
+      "usage": "固定搭配，后接名词，强调主动借助某工具或某人来达成目的，语体较正式，比 usar 更强调『有意识地加以利用』的含义，常见于书面语和学术文体。",
+      "exampleEs": "Los periodistas de investigación suelen valerse de fuentes anónimas para obtener información confidencial.",
+      "exampleZh": "调查记者通常借助匿名线人来获取机密信息。"
+    },
+    {
+      "expression": "a corto, medio y largo plazo",
+      "type": "estructura gramatical",
+      "translation": "在短期、中期和长期内",
+      "usage": "新闻、学术和商业文体中极为常见的时间框架表达结构，三个时间维度可单独使用（a corto plazo / a largo plazo），也可组合使用，是写作中不可或缺的正式句式。",
+      "exampleEs": "Las reformas educativas deben planificarse a corto, medio y largo plazo para ser verdaderamente efectivas.",
+      "exampleZh": "教育改革必须从短期、中期和长期三个维度进行规划，才能真正发挥成效。"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "文化与社会",
+  "difficulty": "C1",
+  "wordCount": "约950词",
+  "title": "¿El declive del imperio cultural americano?",
+  "subtitle": "美国文化帝国的衰落？",
+  "resumenEs": "El artículo analiza el declive relativo del 'soft power' cultural estadounidense en tres ámbitos clave: el cine, el cómic y la música. Hollywood pierde cuota de pantalla ante el auge del cine asiático; el manga japonés ha destronado al cómic de superhéroes incluso en EE.UU.; y la música anglosajona cede terreno ante la glocalización, con el k-pop y la música latina como principales protagonistas del cambio. Los autores apuntan a las transformaciones tecnológicas —especialmente el streaming— y al auge de lo local como motores de esta reconfiguración cultural global.",
+  "resumenZh": "本文从电影、漫画和音乐三个核心领域，分析了美国文化软实力的相对衰落：好莱坞在亚洲电影崛起的冲击下市场份额持续萎缩；日本漫画甚至在美国本土也撼动了超级英雄漫画的统治地位；英语音乐则在全球化与本土化（glocalización）浪潮中节节败退，K-pop与拉丁音乐成为这场变革的主角。作者将这一文化格局重构的驱动力归结为技术变革（尤其是流媒体的兴起）以及本土文化的全面复苏。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "La cultura estadounidense, que se impuso en el siglo XX en todo el mundo a la par que EE.UU. tomaba el <strong>cetro</strong> del poder global y que se ha convertido en el <strong>epítome</strong> de la sociedad de consumo y la cultura de masas, y en símbolo máximo del entretenimiento, sigue fuerte. Pero muestra síntomas de cierto declive. El soft power americano, ahora sustituido sin <strong>ambages</strong> por misiles, cede terreno, como en la economía, ante la <strong>pujanza</strong> de Asia, pero también ante el auge de lo local. En cine, su hegemonía sigue clara, pero con gran pérdida de cuota de pantalla; en el cómic, el manga reina en el mundo entero; y en música, se lleva más que nunca la glocalización.",
+      "zh": "美国文化在二十世纪随着美国夺取全球权力的权杖而席卷世界，成为消费社会与大众文化的缩影，也是娱乐产业的最高象征——它依然强势。但已显现出某种衰退的迹象。美国的软实力——如今毫不掩饰地被导弹所取代——正如在经济领域一样，在亚洲的强劲崛起面前节节退让，同时也在本土文化的兴起浪潮中失守阵地。在电影领域，其霸主地位依然清晰，但市场份额大幅流失；在漫画领域，日本漫画已称霸全球；在音乐领域，全球本土化（glocalización）比以往任何时候都更为盛行。",
+      "vocab": [
+        {
+          "word": "cetro",
+          "translation": "权杖，权力象征",
+          "note": "本义为君主手持的权杖，在新闻和政论文体中常用作比喻，指最高权力或领导地位，固定搭配有 tomar/asumir el cetro（夺取霸权）。"
+        },
+        {
+          "word": "epítome",
+          "translation": "缩影，典型，典范",
+          "note": "高级学术词汇，指完美体现某种特征或时代精神的事物，常用于文化和社会学分析，如 el epítome de la belleza（美的典范）。"
+        },
+        {
+          "word": "ambages",
+          "translation": "绕弯子，闪烁其词",
+          "note": "极少单独使用，几乎总是出现在固定搭配 sin ambages（毫不掩饰地，直言不讳地）中，是C1级别极具文采的副词短语，相当于 sin rodeos。"
+        },
+        {
+          "word": "pujanza",
+          "translation": "强盛，力量，势头",
+          "note": "名词，指不断增长的力量或繁荣的势头，常用于描述经济或国家实力的崛起，如 la pujanza económica（经济的强劲势头）。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Durante mucho tiempo, las películas de Hollywood han invadido las salas de cine de todo el mundo. Sin embargo, su presencia ahora ya no es lo que era. Si hace dos décadas controlaba alrededor del 92% del mercado global, en la actualidad la cifra ronda el 66%. Una de las razones de esta caída está en el auge de la industria audiovisual china, <strong>antaño</strong> un motor fundamental para completar el éxito de muchos estrenos de EE.UU. En el 2024, la cuota de mercado de Hollywood en el gigante asiático descendió hasta aproximadamente el 21%, muy lejos del 35-40% que alcanzaba antes de la pandemia.",
+      "zh": "长期以来，好莱坞电影占据了全球各地的电影院。然而，它如今的存在感已大不如前。如果说二十年前它控制了全球约92%的市场，那么现在这个数字大约在66%左右。这种下滑的原因之一在于中国影视产业的崛起，而中国曾是成就许多美国大片票房辉煌的关键引擎。2024年，好莱坞在这个亚洲巨头市场的份额降至约21%，与疫情前35-40%的水平相去甚远。",
+      "vocab": [
+        {
+          "word": "antaño",
+          "translation": "从前，往昔，过去",
+          "note": "副词，带有文学色彩，用于对比过去与现在，比 en el pasado 更正式优雅，常用于历史或趋势回顾的语境中。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "De hecho, China ha superado a Norteamérica como el mercado cinematográfico con mayores ingresos. Las producciones locales han ganado terreno hasta dominar prácticamente la cartelera, compitiendo con los <strong>blockbusters</strong> de los grandes estudios. El ejemplo más destacado es Ne Zha 2, superproducción de animación china que superó los 2.150 millones de dólares en la taquilla mundial, erigiéndose en el filme más taquillero del 2025, y la cinta en idioma no inglés más exitosa de todos los tiempos. Por otro lado, Zootrópolis 2, de Disney, recaudó más de 630 millones de dólares solo en China, un <strong>hito</strong> histórico que llegó a representar cerca de la mitad del total global del filme en su recorrido en salas y que demuestra que el equilibrio de poder en el cine mundial está cambiando. En esta vuelta de paradigma la expansión del streaming también ha tenido mucho que ver. Según un informe de Netflix publicado en enero, durante la segunda mitad del 2025 las películas de habla no inglesa representaron un poco más de un tercio del consumo total, destacando series y filmes en coreano, español y japonés.",
+      "zh": "事实上，中国已超越北美，成为全球收入最高的电影市场。本土制作不断收复失地，直至几乎主导了院线排片，与各大制片厂的商业大片展开竞争。最突出的例子是《哪吒2》，这部中国动画巨制在全球斩获超21.5亿美元票房，成为2025年票房最高的电影，也是有史以来最成功的非英语电影。另一方面，迪士尼的《疯狂动物城2》仅在中国就揽获超6.3亿美元，这一历史性里程碑几乎占该片全球院线总票房的一半，证明了世界电影的权力平衡正在发生改变。在这一范式转变中，流媒体的扩张也起到了重要作用。根据Netflix一月份发布的报告，在2025年下半年，非英语电影占总消费量的三分之一略多，其中韩语、西班牙语和日语的剧集与电影表现尤为突出。",
+      "vocab": [
+        {
+          "word": "blockbusters",
+          "translation": "商业大片，爆款电影",
+          "note": "英语外来词，在西语电影报道中被广泛接受并直接使用，指高预算、高票房的商业巨制，复数加s。"
+        },
+        {
+          "word": "hito",
+          "translation": "里程碑，重大事件",
+          "note": "本义为路标或界碑，引申为历史或发展过程中的关键节点，固定搭配有 marcar un hito（树立里程碑）、hito histórico（历史性里程碑）。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "La serie surcoreana El juego del calamar (2021-2025) supuso todo un fenómeno mundial. De Corea del Sur procede asimismo El gran diluvio, cinta de catástrofes que se estrenó el pasado diciembre y se convirtió en un éxito de audiencia, alcanzando el puesto número uno en 71 países. El cambio de tuerca también afecta a los hábitos del público estadounidense. Desde el 2019, el consumo de contenidos en idiomas distintos del inglés entre el público de EE.UU. ha crecido un 71%, lo que refleja una apertura cada vez mayor a historias y estéticas de otros países.",
+      "zh": "韩国剧集《鱿鱼游戏》（2021-2025）引发了全球性的现象。同样来自韩国的灾难片《大洪水》于去年12月首映，并取得了收视佳绩，在71个国家登顶榜首。这种视角的转变也影响了美国观众的习惯。自2019年以来，美国观众对非英语内容的消费增长了71%，这反映出他们对其他国家的故事和美学抱有越来越开放的态度。",
+      "vocab": []
+    },
+    {
+      "id": 5,
+      "es": "El manga, el mundo del cómic japonés, ha <strong>destronado</strong> el viejo mundo de los superhéroes que ha marcado a generaciones. Lo ha hecho en todo el mundo. Incluso en EE.UU., en el país de Supermán, Batman y Spiderman, en el que títulos como Demon Slayer, Jujutsu Kaisen o One Piece acaban en los últimos años sumando cerca de la mitad del mercado de la patria de Marvel y DC Comics. Justamente el presidente de DC, Jim Lee, reconocía recientemente que las historias que cuenta el manga son \"increíblemente poderosas\" y que ha habido un cambio generacional y cada generación \"quiere su propio lenguaje\".",
+      "zh": "日本漫画（Manga）已经将影响了数代人的超级英雄旧世界拉下神坛。它在全世界都做到了这一点。甚至在美国，在这个诞生了超人、蝙蝠侠和蜘蛛侠的国度，《鬼灭之刃》、《咒术回战》或《海贼王》等作品在近几年占据了漫威和DC老家近一半的市场份额。正如DC总裁吉姆·李最近承认的那样，日本漫画讲述的故事“具有令人难以置信的力量”，并且已经发生了代际更替，每一代人“都想要属于自己的语言”。",
+      "vocab": [
+        {
+          "word": "destronado",
+          "translation": "废黜，拉下神坛，取代",
+          "note": "动词 destronar 的过去分词，字面意思是『赶下王座』，在文化、体育或商业报道中常用于描述新事物取代旧霸主地位，极具画面感。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Óscar Valiente, director general de Norma Editorial, señala que el manga puede acercarse hoy a la mitad de las ventas de cómic en España y el cómic americano rondar un 30%. Y subraya que lo esencial del manga \"es que tiene un público mucho más joven, ahí es donde el cómic estadounidense ha ido perdiendo en las últimas décadas la batalla, no ha sabido regenerar su público\". \"A veces ves la oferta de cómic americano en librerías y piensas: esto es para gente que tiene mucha <strong>pasta</strong>, los ómnibus, los tomos, tapa dura, no para chavales. El <strong>grueso</strong> de la facturación del cómic americano en España la sostienen coleccionistas y lectores veteranos\", advierte.",
+      "zh": "Norma出版社总经理奥斯卡·巴连特指出，如今日本漫画可能接近西班牙漫画总销量的一半，而美国漫画则在30%左右。他强调，日本漫画最核心的一点是“它拥有年轻得多的受众，而这正是美国漫画在过去几十年里输掉的战役，它未能实现读者群的更新换代”。“有时你在书店看到美国漫画的陈列，你会想：这都是给那些很有钱的人准备的，合集本、大部头、精装版，根本不是给小孩子看的。美国漫画在西班牙的营业额主体，是由收藏家和资深读者支撑的，”他警告说。",
+      "vocab": [
+        {
+          "word": "pasta",
+          "translation": "钱，钞票（口语）",
+          "note": "在西班牙口语中，pasta 是『钱』的最常用俗语之一（相当于英语的 dough 或 bucks），tener mucha pasta 意为『很有钱』，在正式文章中引用受访者原话时出现，增加了语言的生动性。"
+        },
+        {
+          "word": "grueso",
+          "translation": "主体，大部分，主要部分",
+          "note": "名词，指某事物最大或最重要的部分，常见搭配为 el grueso de（……的主体/大头），如 el grueso del ejército（军队主力）、el grueso de la población（大部分人口）。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Y nota que \"el éxito en el cine de sagas como Los Vengadores o Spiderman cuesta mucho más hoy trasladarlo a lograr lectores en el cómic de papel. En cambio, la pasión por series como Ataque a los titanes, Naruto o Tokyo Revengers se traslada mucho más fácilmente de la pantalla al tebeo y así el manga es capaz de generar lectores cada año\". Además, remarca que los cómics de superhéroes han creado un universo muy complejo en el que \"si un chaval de diez años quiere leer a Spiderman no sabe por dónde empezar, mientras que One Piece lo empieza por el número uno\", y concluye que \"los personajes del manga tienen características que conectan con los jóvenes, como pasó con Spiderman en su momento. Creo que hoy Marvel, DC y las productoras ya apuntan directamente a explotar el <strong>nicho</strong> adulto. Aunque quizá con la nueva saga de cine de Los Vengadores despierten otra vez ilusión\".",
+      "zh": "他还注意到，“如今，《复仇者联盟》或《蜘蛛侠》等系列在电影上的成功，很难再转化为纸质漫画的读者。相反，对《进击的巨人》、《火影忍者》或《东京复仇者》等剧集的热情，却能更容易地从屏幕转移到漫画书上，因此日本漫画每年都能培养出新读者”。此外，他强调超级英雄漫画创造了一个极其复杂的宇宙，“如果一个十岁的孩子想看《蜘蛛侠》，他根本不知道从哪里开始看；而看《海贼王》，他直接从第一卷开始就行了”。他总结道：“日本漫画的角色具有能与年轻人产生共鸣的特质，就像当年的蜘蛛侠一样。我认为如今漫威、DC和制片公司已经直接瞄准了成人细分市场。尽管也许随着新的《复仇者联盟》系列电影上映，他们能再次唤起人们的憧憬。”",
+      "vocab": [
+        {
+          "word": "nicho",
+          "translation": "利基市场，细分市场",
+          "note": "商业和营销术语，nicho de mercado 指针对特定需求的小众或细分市场，此处 nicho adulto 指专门针对成年人的消费领域。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "El portorriqueño Bad Bunny y los coreanos Stray Kids son el <strong>mascarón de proa</strong> de la pérdida paulatina de influencia anglosajona en la industria musical. Un cambio de tendencia que tiene nombre propio: glocalización, o lo que es lo mismo, la apertura de los mercados a nuevas músicas, pero sobre todo a las obras de <strong>factura</strong> local en cada país.",
+      "zh": "波多黎各歌手Bad Bunny和韩国男团Stray Kids，是盎格鲁-撒克逊文化在音乐产业中影响力逐渐流失的领军人物。这种趋势的转变有一个专有名词：全球本土化（glocalización），换言之，即市场对新音乐的开放，但最重要的是对各国本土制作作品的开放。",
+      "vocab": [
+        {
+          "word": "mascarón de proa",
+          "translation": "船首像，领军人物，代表",
+          "note": "本义为古代帆船船头的雕像，在新闻文体中用作比喻，指某一运动、趋势或群体的代表性人物或先锋，是极具文学色彩的固定表达。"
+        },
+        {
+          "word": "factura",
+          "translation": "制作，工艺，做工",
+          "note": "除了常见的『发票』之义外，在艺术和文化评论中，factura 指作品的制作方式或工艺水平，de factura local 意为『本土制作的』，de impecable factura 意为『制作精良的』。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Más allá de la pérdida de poder político y económico sufrido por Estados Unidos en las últimas décadas y su inevitable reflejo en el dominio cultural, el gran cambio es consecuencia de las transformaciones tecnológicas, y más en concreto el streaming.",
+      "zh": "除了美国在过去几十年中遭受的政治和经济实力流失，及其在文化统治力上不可避免的反映之外，这一巨大转变更是技术变革的结果，具体而言，就是流媒体的兴起。",
+      "vocab": []
+    },
+    {
+      "id": 10,
+      "es": "Si echamos un vistazo a los artistas más escuchados en varios países europeos, se observa que el dominio de la música local es mayoritario en países como Italia (82%), Francia (90%) o Polonia (84%), mientras que en España lo que manda es la música en español hasta el punto de que todos los temas de entre los 50 más escuchados son en este idioma. No es así en Alemania, donde la música local apenas alcanza el 30%. La tendencia se repite en México, donde el único tema en inglés es Billie Jean, de Michael Jackson, o Indonesia, donde el 90% de la música es de factura propia, mientras que en Brasil la cifra asciende al 96%, con Swim de los coreanos BTS, como el mejor posicionado.",
+      "zh": "如果我们看一眼几个欧洲国家收听率最高的歌手，会发现本土音乐在意大利（82%）、法国（90%）或波兰（84%）等国占据绝对主导地位；而在西班牙，西班牙语音乐更是称王称霸，以至于排名前50的歌曲全部是西语。德国的情况并非如此，其本土音乐仅占30%左右。这种趋势在墨西哥同样上演，那里唯一一首英语歌曲是迈克尔·杰克逊的《Billie Jean》；在印度尼西亚，90%的音乐是本土制作；而在巴西，这一数字更是高达96%，其中排名最靠前的外语歌是韩国防弹少年团（BTS）的《Swim》。",
+      "vocab": []
+    },
+    {
+      "id": 11,
+      "es": "La tendencia también es <strong>palpable</strong> en Estados Unidos, impulsada por los casi 60 millones de hispanoparlantes del país. El último informe de la Recording Industry Association of America indica que en el 2025 la música latina representaba un 8,8% de los ingresos de la industria, lo que supone un crecimiento del 67% respecto al 2020. Al mismo tiempo, un estudio de la consultora Luminate determinó que la música en inglés había sufrido una caída del 67% al 54,9% entre el 2021 y el 2023.",
+      "zh": "这种趋势在美国也显而易见，这得益于该国近6000万西班牙语人口的推动。美国唱片业协会的最新报告指出，2025年拉丁音乐占行业总收入的8.8%，与2020年相比增长了67%。与此同时，咨询公司Luminate的一项研究表明，英语音乐的市场份额在2021年至2023年间从67%跌至54.9%。",
+      "vocab": [
+        {
+          "word": "palpable",
+          "translation": "显而易见的，可触知的，明显的",
+          "note": "形容词，字面意思是『可以通过触摸感觉到的』，引申为『非常明显、确凿无疑的』，常用于描述趋势、紧张气氛或变化，如 una tensión palpable（明显的紧张气氛）。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Estas cifras coinciden con la <strong>eclosión</strong> de otros estilos como el k-pop, cuyos artistas se han consolidado de un tiempo a esta parte en las listas de los más escuchados, donde la boy band Stray Kids ha situado sus 8 discos en lo más alto del ranking, caso único en la historia de EE.UU. Impulsadas por colaboraciones como la de Rosé, Blackpink y Bruno Mars en APT o el fenómeno de Las guerreras K-pop, las bandas se han asentado en el país hasta el punto de que SM Entertainment, la firma más poderosa en el k-pop, ha abierto oficina en Los Ángeles para presentar su primera banda de <strong>matriz</strong> estadounidense: AtHeart. S",
+      "zh": "这些数据与K-pop等其他风格的爆发相吻合，近段时间以来，K-pop艺人已在最高收听率榜单上站稳脚跟，其中男团Stray Kids将其8张专辑全部送上榜首，这在美国历史上是绝无仅有的。在Rosé、Blackpink与火星哥Bruno Mars合作的《APT》等作品，或是“K-pop女战士”现象的推动下，这些乐队已在美国扎根，以至于K-pop最强大的公司SM娱乐已在洛杉矶开设办事处，以推出其首支具有美国底色的乐队：AtHeart。",
+      "vocab": [
+        {
+          "word": "eclosión",
+          "translation": "爆发，涌现，孵化",
+          "note": "本义为卵的孵化或花朵的绽放，在文化和新闻语境中指某种运动、潮流或现象的大规模爆发和涌现，如 la eclosión del arte contemporáneo（当代艺术的爆发）。"
+        },
+        {
+          "word": "matriz",
+          "translation": "母体，底色，基底",
+          "note": "此处 de matriz estadounidense 指具有美国本土基因或以美国为基础打造的，强调其内在的文化或组织属性。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "sin ambages",
+      "type": "locución adverbial",
+      "translation": "毫不掩饰地，直言不讳地",
+      "usage": "高级书面语中的固定搭配，ambages 意为『绕弯子』，sin ambages 即为『不绕弯子、直接了当』，常用于政论或严肃新闻中描述态度或行为的直接性。",
+      "exampleEs": "El director criticó sin ambages la falta de apoyo gubernamental a la cultura.",
+      "exampleZh": "导演毫不掩饰地批评了政府对文化领域支持的匮乏。"
+    },
+    {
+      "expression": "mascarón de proa",
+      "type": "metáfora periodística",
+      "translation": "领军人物，先锋，代表",
+      "usage": "极具画面感的比喻表达，原指帆船船头的雕像，引申为引领某一潮流、运动或群体的代表性人物，在文化评论和政治报道中十分常见。",
+      "exampleEs": "La joven activista se ha convertido en el mascarón de proa del movimiento ecologista.",
+      "exampleZh": "这位年轻的活动家已成为环保运动的领军人物。"
+    },
+    {
+      "expression": "cambio de tuerca",
+      "type": "expresión coloquial",
+      "translation": "转折，视角的转变，进一步的发展",
+      "usage": "更常见的形式是 dar una vuelta de tuerca（拧紧螺丝/进一步施压/剧情反转），此处用 cambio de tuerca 表达类似意思，指事情发生了重要的转折或视角的改变。",
+      "exampleEs": "El guion da un cambio de tuerca en el último acto que sorprende a todos los espectadores.",
+      "exampleZh": "剧本在最后一幕出现了一个让所有观众都意想不到的转折。"
+    },
+    {
+      "expression": "tener mucha pasta",
+      "type": "expresión coloquial",
+      "translation": "很有钱",
+      "usage": "西班牙非常地道的口语表达，pasta 在俗语中指代金钱。在正式文章中通常出现在引用语中，以保留说话者的真实语气和情绪。",
+      "exampleEs": "No puedo permitirme ese coche, hay que tener mucha pasta para mantenerlo.",
+      "exampleZh": "我买不起那辆车，养它得非常有钱才行。"
+    },
+    {
+      "expression": "de un tiempo a esta parte",
+      "type": "locución adverbial",
+      "translation": "近段时间以来，近来",
+      "usage": "书面语和口语中均常用的时间副词短语，表示从过去某个不确定的时间点一直持续到现在，比 últimamente 更有延续感。",
+      "exampleEs": "De un tiempo a esta parte, ha mejorado mucho su nivel de español.",
+      "exampleZh": "近段时间以来，他的西语水平提高了很多。"
+    }
+  ]
+}
