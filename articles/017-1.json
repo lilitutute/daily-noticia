@@ -1,0 +1,224 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会与家庭",
+  "difficulty": "B2",
+  "wordCount": "约900词",
+  "title": "\"Mamá, ¿quieres más al teléfono que a mí?\": los menores con padres enganchados al móvil son más inseguros",
+  "subtitle": "『妈妈，你是不是比我更爱手机？』：父母沉迷手机，孩子更缺乏安全感",
+  "resumenEs": "Un estudio publicado en Frontiers in Psychology revela que los adolescentes cuyos padres se distraen frecuentemente con el móvil tienden a mostrar conductas más inseguras. Expertos advierten que el phubbing parental genera ansiedad, desplazamiento afectivo y búsqueda de aprobación en redes sociales. La solución pasa por reducir el uso del móvil en presencia de los hijos y establecer normas digitales en el hogar.",
+  "resumenZh": "发表于《心理学前沿》的一项研究显示，父母频繁被手机分散注意力的青少年，往往表现出更多不安全行为。专家警告，父母的低头行为会引发孩子焦虑、家庭归属感缺失以及在社交媒体上寻求认可等问题。解决之道在于减少在孩子面前使用手机，并在家庭中建立数字使用规范。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "La evidencia científica ya ha demostrado que la exposición temprana de los menores a pantallas tiene consecuencias en su desarrollo neurológico. Conscientes de ello, escuelas y padres de toda España tratan de limitar las horas que pasan los niños frente a ordenadores, móviles o tabletas. Pero hay un <strong>flanco</strong> de esta lucha contra la digitalización de la vida que suele quedar descubierto: el de los padres. Y los datos dicen que no se debería descuidar. Un estudio recientemente publicado en la revista Frontiers in Psychology revela que los adolescentes cuyos padres suelen distraerse a menudo con sus móviles son más <strong>propensos</strong> a mostrar conductas inseguras, lo cual puede tener consecuencias negativas en su <strong>bienestar</strong> futuro.",
+      "zh": "科学证据已经表明，儿童过早接触屏幕会对其神经发育产生影响。意识到这一点，西班牙各地的学校和家长都在努力限制孩子们在电脑、手机或平板电脑前度过的时间。然而，这场对抗生活数字化的战斗中，有一个侧面往往被忽视：那就是父母自身。而数据表明，这一点不容忽视。《心理学前沿》杂志近期发表的一项研究揭示，父母经常被手机分散注意力的青少年，更容易表现出不安全行为，这可能对他们未来的身心健康产生负面影响。",
+      "vocab": [
+        {
+          "word": "flanco",
+          "translation": "侧面；薄弱环节",
+          "note": "军事词汇引申用法，在新闻中常指某一议题中被忽视的『侧翼』或『薄弱面』，搭配 quedar descubierto（暴露、被忽视）使用，语气正式。"
+        },
+        {
+          "word": "propensos",
+          "translation": "倾向于……的；易于……的",
+          "note": "固定搭配为 ser propenso a + 动词原形/名词，表示某人有某种倾向或易患某种状况，相当于英语 prone to，是新闻和学术文体中的高频词。"
+        },
+        {
+          "word": "bienestar",
+          "translation": "身心健康；幸福感",
+          "note": "由 bien + estar 构成，在心理学和社会学语境中专指整体的『幸福感/健康状态』，与 salud 有别：salud 偏生理，bienestar 更强调主观感受与生活质量。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Muchos menores perciben que compiten con los móviles por la atención de sus padres, según recogen otros estudios. Pero, ¿realmente afecta a los hijos la <strong>sobreexposición</strong> al móvil de sus progenitores? Eso es lo que decidió investigar el autor principal del artículo, el doctor Don Grant, del Centro de Investigación e Innovación de Newport Healthcare, una organización estadounidense con varias clínicas que tratan la salud mental de los jóvenes. Más concretamente, quisieron ver si <strong>incide</strong> en la forma de relacionarse con los otros.",
+      "zh": "根据其他研究，许多未成年人感到自己在与手机争夺父母的注意力。但父母过度使用手机，真的会影响到孩子吗？这正是该文章第一作者、来自美国纽波特医疗研究与创新中心的唐·格兰特博士决定深入研究的问题。更具体地说，他们想了解这是否会影响青少年与他人的相处方式。",
+      "vocab": [
+        {
+          "word": "sobreexposición",
+          "translation": "过度暴露；过度接触",
+          "note": "前缀 sobre- 表示『过度、超出』，可类推出 sobrecarga（超负荷）、sobreestimar（高估）、sobrevivir（幸存）等大量词汇，是构词能力极强的前缀。"
+        },
+        {
+          "word": "incide",
+          "translation": "影响；作用于",
+          "note": "incidir en 是正式文体中表示『对……产生影响』的固定搭配，比 afectar 更书面，常见于学术报告和新闻分析中，注意不要与英语 incident 混淆。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Para medirlo, el equipo de Grant pidió a 600 adolescentes de entre 12 y 17 años que <strong>puntuaran</strong> lo que sentían sobre el móvil de sus padres y su percepción sobre cómo afectaba eso a su atención, su disponibilidad y sus interacciones con ellos. El objetivo era ver si existía una correlación entre puntuaciones altas en esta medición y un alto nivel de inseguridad mostrado en otras pruebas. Y resultó que sí. \"Este problema parece estar mucho más <strong>extendido</strong> de lo que yo mismo pensaba\", dice Grant. \"Creo que los millennials, que ahora están empezando a ser padres, deben conocer este estudio. Considerados la primera generación de nativos digitales, son, a su vez, potencialmente más <strong>vulnerables</strong> a desarrollar una dependencia de sus dispositivos\".",
+      "zh": "为了进行测量，格兰特团队要求600名12至17岁的青少年对他们关于父母手机使用的感受进行评分，包括他们认为这对父母的注意力、可及性以及与他们互动方式的影响。研究目标是观察该测量中的高分与其他测试中显示的高度不安全感之间是否存在相关性。结果确实如此。格兰特表示：『这个问题的普遍程度似乎远超我自己的预想。我认为，如今正开始为人父母的千禧一代应该了解这项研究。他们被视为第一代数字原住民，同时也可能更容易对自己的设备产生依赖。』",
+      "vocab": [
+        {
+          "word": "puntuaran",
+          "translation": "（让他们）打分；评分",
+          "note": "此处为 pedir que + 虚拟式 的典型结构，表示『要求某人做某事』，虚拟式是固定用法，不可替换为陈述式，是西语学习中的核心语法考点。"
+        },
+        {
+          "word": "extendido",
+          "translation": "普遍的；广泛存在的",
+          "note": "estar extendido 表示某现象『广泛存在、普遍流行』，是新闻中描述社会问题的高频搭配；注意与 amplio（宽广的）区分，后者多修饰空间或范围。"
+        },
+        {
+          "word": "vulnerables",
+          "translation": "脆弱的；易受影响的",
+          "note": "固定搭配 ser vulnerable a 表示『容易受到……的影响/伤害』，在心理学、社会学新闻中极为常见，注意与 frágil（易碎的，偏物理）区分。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "\"Hay estudios que relacionan el phubbing parental con problemas de ansiedad\", indica Walter Jones, portavoz de la plataforma Adolescencia Libre de Móviles, que no ha participado en la elaboración del estudio. \"También se sabe que hace que los niños se sientan <strong>desplazados</strong> en el núcleo familiar y que sean más <strong>proclives</strong> a buscar aprobación en las redes sociales\".",
+      "zh": "『有研究将父母的低头行为与焦虑问题联系起来，』未参与该研究的『无手机青春期』平台发言人沃尔特·琼斯表示。『同样有研究表明，这会让孩子在家庭核心中感到被边缘化，并更倾向于在社交媒体上寻求认可。』",
+      "vocab": [
+        {
+          "word": "desplazados",
+          "translation": "被边缘化的；被取代的",
+          "note": "sentirse desplazado 是固定表达，意为『感到被排挤/边缘化』，字面义是『被移位』，在家庭或社会语境中引申为情感上被忽视或取代，具有较强的情感色彩。"
+        },
+        {
+          "word": "proclives",
+          "translation": "倾向于……的；易于……的",
+          "note": "ser proclive a + 名词/动词原形，与 propenso a 意思相近，但 proclive 语体更正式、更书面，多见于学术和新闻文章，日常口语中较少使用。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Jones y sus compañeros dan charlas en escuelas e institutos y siempre preguntan a los niños si sufren phubbing parental. \"Muchos nos dicen que sí, que a menudo tienen que repetirles las cosas a sus padres porque están con el móvil y no les escuchan cuando hablan\".",
+      "zh": "琼斯和他的同事在中小学开展讲座，每次都会询问孩子们是否遭受过父母的低头行为。『很多孩子告诉我们确实如此，他们经常不得不把话重复说一遍，因为父母在玩手机，说话时根本不听。』",
+      "vocab": [
+        {
+          "word": "sufren",
+          "translation": "遭受；承受",
+          "note": "sufrir 在此不表示『感到痛苦』，而是表示『遭受（某种不良处境）』，如 sufrir acoso（遭受霸凌）、sufrir discriminación（遭受歧视），是新闻中描述负面经历的高频动词。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Los efectos <strong>nocivos</strong> de las pantallas en el desarrollo cognitivo de los niños están documentados. La Asociación Española de Pediatría (AEP) recomienda que, hasta los seis años, la etapa de mayor <strong>permeabilidad</strong> neuronal, no se usen pantallas y que, entre los siete y los 12, se limite a una hora diaria, incluyendo el periodo escolar. Un metaestudio con datos de 300.000 niños confirmó que quienes usan más pantallas a los cinco años tienen más problemas a los siete, algo que ya se había comprobado entre adolescentes.",
+      "zh": "屏幕对儿童认知发育的有害影响已有充分记录。西班牙儿科学会建议，在神经可塑性最强的六岁以前不使用屏幕；七至十二岁期间，包括上学期间在内，每天使用时间应限制在一小时以内。一项涵盖30万名儿童数据的元研究证实，五岁时使用屏幕较多的孩子在七岁时会出现更多问题，而这一点此前已在青少年群体中得到验证。",
+      "vocab": [
+        {
+          "word": "nocivos",
+          "translation": "有害的；有毒的",
+          "note": "nocivo 是正式书面语，比口语中常用的 dañino 更正式，多出现在科学报告、法规文本中，搭配 efectos nocivos（有害影响）、sustancias nocivas（有害物质）等。"
+        },
+        {
+          "word": "permeabilidad",
+          "translation": "渗透性；可塑性",
+          "note": "本义为物理上的『渗透性』，在神经科学语境中引申为大脑对外界刺激的『可塑性/敏感性』，词根 -able 表示『能够……的』，可类推 flexibilidad、adaptabilidad 等。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Los móviles, además, son la puerta de entrada de muchos adolescentes a contenidos tóxicos o directamente ilegales, por lo que muchas familias tratan de <strong>retrasar</strong> todo lo posible el acceso de los adolescentes a estos dispositivos. En EE UU, los tribunales han dicho de plataformas como Instagram o YouTube que son culpables de generar adicción entre menores o que Meta es culpable de engañar a los consumidores sobre la seguridad de sus plataformas y de poner en riesgo a menores. En países como Francia o España se está <strong>tramitando</strong> la prohibición de las redes sociales entre los adolescentes (en España el límite se ha puesto en los 16 años).",
+      "zh": "此外，手机也是许多青少年接触有毒甚至违法内容的入口，因此许多家庭尽量推迟青少年使用这些设备的时间。在美国，法院已裁定Instagram、YouTube等平台对诱发未成年人成瘾负有责任，或认定Meta公司在其平台安全性问题上欺骗消费者、使未成年人面临风险。法国和西班牙等国正在推进针对青少年使用社交媒体的禁令（西班牙将年龄下限定为16岁）。",
+      "vocab": [
+        {
+          "word": "retrasar",
+          "translation": "推迟；延迟",
+          "note": "前缀 re- 在此表示『向后』，retrasar 与 atrasar 意思相近，但 retrasar 更常用于主动推迟某事，atrasar 则多指钟表拨慢或被动落后，两者在日常使用中易混淆。"
+        },
+        {
+          "word": "tramitando",
+          "translation": "正在审议；正在办理",
+          "note": "tramitar 指通过官方程序办理或审议某事，如法律、申请等，是政治新闻中的高频词，搭配 tramitar una ley（审议一项法律）、tramitar una solicitud（办理申请）等。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "\"Tenemos cada vez más evidencia de que la <strong>hiperconexión</strong> digital, vehiculada en gran parte por los teléfonos inteligentes, ha contribuido al <strong>deterioro</strong> de la salud mental que se ha producido en los últimos 15 años de forma bastante uniforme en todo el mundo\", señala Diego Hidalgo, fundador del Movimiento Off, una iniciativa que desarrolla distintas acciones para \"combatir la creciente alienación tecnológica\".",
+      "zh": "『我们越来越多的证据表明，在很大程度上由智能手机推动的数字过度连接，促成了过去15年间在全球范围内相当普遍地出现的心理健康恶化，』致力于『对抗日益加剧的技术异化』的Off运动创始人迭戈·伊达尔戈表示。",
+      "vocab": [
+        {
+          "word": "hiperconexión",
+          "translation": "过度连接；超级互联",
+          "note": "前缀 hiper- 来自希腊语，表示『超过、过度』，可类推 hipersensible（过度敏感）、hiperactividad（多动症）、hipervínculo（超链接），是科技和医学领域的高频构词前缀。"
+        },
+        {
+          "word": "deterioro",
+          "translation": "恶化；退化",
+          "note": "deterioro 是名词形式，动词为 deteriorarse，表示状况逐渐变差，常见搭配有 deterioro de la salud mental（心理健康恶化）、deterioro cognitivo（认知退化），语体正式。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Para Hidalgo, no se puede <strong>obviar</strong> el papel de la ejemplaridad. \"Los menores se fijan en lo que hacen sus referentes, empezando por sus padres. Si tú interiorizas que los adultos están constantemente distraídos y no prestan atención a sus seres más cercanos y queridos, pues vas a tener una tendencia al producir ese tipo de comportamiento\", explica.",
+      "zh": "在伊达尔戈看来，榜样的作用不可忽视。他解释道：『未成年人会模仿他们的榜样，首先是父母。如果你内化了大人总是心不在焉、对最亲近、最珍视的人都不专心的印象，那么你就会倾向于产生同样的行为。』",
+      "vocab": [
+        {
+          "word": "obviar",
+          "translation": "忽视；回避；绕过",
+          "note": "obviar 是假朋友陷阱：它不是英语 obvious 的动词形式，而是表示『忽略、回避某个问题或事实』，常见于正式文体，如 no se puede obviar（不可忽视）。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Los teléfonos inteligentes empezaron a ser omnipresentes hace poco más de una década. En 2013, superaron en ventas por primera vez a los móviles convencionales. Pocos años después, el doctor Grant empezó a observar en su consulta \"algunos comportamientos preocupantes en el uso de dispositivos por parte de los padres\". Al mismo tiempo, algunos de sus pacientes adolescentes \"comenzaron a expresar sus sentimientos negativos al respecto\". La confirmación de que ahí había algo fue que una colega suya, que es psicóloga clínica, le contó que su hija le había preguntado si quería más a su teléfono que a ella. \"Mi brillante colega se quedó sin palabras y se sintió <strong>devastada</strong>\", recuerda.",
+      "zh": "智能手机成为无处不在的存在不过是十多年前的事。2013年，其销量首次超过传统手机。几年后，格兰特博士开始在诊所中观察到『父母在使用设备方面的一些令人担忧的行为』。与此同时，他的一些青少年患者『开始表达对此的负面感受』。真正让他确信这一问题存在的，是他的一位临床心理学家同事告诉他，她女儿曾问她是否比自己更爱手机。他回忆道：『我那位出色的同事当场哑口无言，深感震惊。』",
+      "vocab": [
+        {
+          "word": "devastada",
+          "translation": "深受打击的；崩溃的",
+          "note": "devastar 本义为『摧毁、夷平』（如地震摧毁城市），用于人时表示情感上受到极大冲击，语气比 afectada 或 triste 强烈得多，属于情感表达中的高级词汇。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "¿Cómo evitar ser un mal modelo para los niños? La respuesta es sencilla: hay que usar menos el móvil en su presencia. Pero eso no siempre es fácil, especialmente cuando los mensajes de trabajo <strong>florecen</strong> fuera del horario laboral. Para Hidalgo, unas normas básicas para una convivencia en casa sana desde un punto de vista digital serían dejar el teléfono móvil en un lugar determinado, que no sean las habitaciones. \"Eso implica no llevarlo encima y que no te pueda interrumpir\". Otra norma sería no usarlos durante las comidas, que por lo general son situaciones en las que los miembros de la familia pueden interactuar de forma relajada. Esto aplicaría tanto a las familias con o sin niños. \"Creo que debe haber momentos dedicados puramente a la interacción cara a cara, sin posibilidad de interrupciones. Y, si de verdad ha muerto alguien o hay una urgencia enorme, pues que te llamen\".",
+      "zh": "如何避免成为孩子的坏榜样？答案很简单：在孩子面前少用手机。但这并不总是容易做到的，尤其是当工作消息在下班后不断涌来的时候。在伊达尔戈看来，从数字健康的角度建立家庭健康共处的基本规范，包括：将手机放在固定的地方，且不放在卧室。『这意味着不随身携带，也就不会被它打扰。』另一条规范是用餐时不使用手机，因为用餐通常是家庭成员可以轻松互动的时刻。这一规范适用于有孩子和没有孩子的家庭。『我认为应该有专门用于面对面交流的时刻，不受任何打扰。如果真的有人去世或有紧急情况，让他们打电话来就好。』",
+      "vocab": [
+        {
+          "word": "florecen",
+          "translation": "涌现；大量出现",
+          "note": "florecer 本义为『开花』，此处用作比喻，指工作消息在下班后『大量涌现』，是西语中常见的隐喻用法，类似的还有 llover（如雨点般涌来）、brotar（冒出）等。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "quedarse sin palabras",
+      "type": "modismo",
+      "translation": "哑口无言；不知说什么好",
+      "usage": "固定惯用语，表示因震惊、感动或尴尬而一时说不出话来，语体中性，口语和书面语均可使用，常与 se quedó 搭配出现。",
+      "exampleEs": "Cuando le dieron la noticia del premio, se quedó completamente sin palabras.",
+      "exampleZh": "当他们告诉她获奖的消息时，她完全哑口无言。"
+    },
+    {
+      "expression": "hacer hincapié en",
+      "type": "colocación",
+      "translation": "强调；着重指出",
+      "usage": "正式固定搭配，用于书面语和正式口语中，表示特别强调某一点，相当于 enfatizar 或 subrayar，后接名词或 que + 陈述句，是写作和演讲中的高频表达。",
+      "exampleEs": "El informe hace hincapié en la necesidad de establecer límites digitales desde edades tempranas.",
+      "exampleZh": "该报告着重强调了从小建立数字边界的必要性。"
+    },
+    {
+      "expression": "cara a cara",
+      "type": "colocación",
+      "translation": "面对面（地）",
+      "usage": "固定搭配，作副词或形容词使用，强调直接的人际接触，与数字化沟通相对，在讨论人际关系和沟通方式的语境中尤为常见，语体中性。",
+      "exampleEs": "Nada sustituye a una conversación cara a cara cuando se trata de resolver conflictos familiares.",
+      "exampleZh": "在解决家庭矛盾时，没有什么能替代面对面的交流。"
+    },
+    {
+      "expression": "poner en riesgo",
+      "type": "colocación",
+      "translation": "使……面临风险；危及",
+      "usage": "固定动宾搭配，后接名词，表示使某人或某事处于危险境地，是新闻和正式文体中的高频表达，比 arriesgar 更正式，常见于法律、医疗、社会议题报道中。",
+      "exampleEs": "Las autoridades advierten que ciertos contenidos en línea pueden poner en riesgo la salud mental de los menores.",
+      "exampleZh": "当局警告，某些网络内容可能危及未成年人的心理健康。"
+    }
+  ]
+}
