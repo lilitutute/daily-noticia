@@ -1,0 +1,241 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与社会",
+  "difficulty": "B2",
+  "wordCount": "约750词",
+  "title": "Así te afecta (sin darte cuenta) el algoritmo de TikTok: cómo decide lo que ves y qué puedes hacer para recuperar el control",
+  "subtitle": "TikTok算法如何在你不知不觉中影响你：它怎样决定你看什么，你又能如何夺回主动权",
+  "resumenEs": "El algoritmo de TikTok es uno de los sistemas de recomendación más sofisticados de Internet. Basado en un 'gráfico de intereses', analiza el comportamiento del usuario para personalizar los contenidos de la página 'Para ti'. Aunque resulta eficaz, puede reducir la diversidad informativa y fomentar el uso compulsivo. El artículo explica cómo funciona y ofrece consejos para recuperar el control sobre lo que consumimos.",
+  "resumenZh": "TikTok的算法是互联网上最复杂的推荐系统之一。它基于「兴趣图谱」，通过分析用户行为来个性化定制「为你推荐」页面的内容。尽管效果显著，但这套系统可能压缩信息多样性，并助长强迫性使用习惯。本文解释了算法的运作原理，并提供了夺回内容消费主动权的实用建议。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Abres TikTok para ver un vídeo rápido. Pero, cuando quieres <strong>darte cuenta</strong>, han pasado 25 minutos y sigues deslizando el dedo por la pantalla: un vídeo de cocina da paso a otro sobre viajes, luego a una entrevista, un análisis de un producto tecnológico… Parece que la red social sabe exactamente qué te interesa.",
+      "zh": "你打开TikTok，只是想随便刷一个视频。但等你回过神来，25分钟已经过去，你还在不停地滑动屏幕：一个美食视频接着旅行视频，然后是一段采访，再是一篇科技产品评测……这款社交软件似乎对你的兴趣了如指掌。",
+      "vocab": [
+        {
+          "word": "darte cuenta",
+          "translation": "意识到，回过神来",
+          "note": "darse cuenta de 是固定搭配，意为『意识到某事』，注意与 realizar 的区别：realizar 在西班牙语中主要意为『实现、完成』，而非『意识到』，这是常见的假朋友陷阱。"
+        },
+        {
+          "word": "da paso a",
+          "translation": "让位于，紧接着是",
+          "note": "dar paso a 是固定搭配，意为『为……让路、紧接着出现』，常用于描述事物的过渡或转变，如 el invierno da paso a la primavera（冬去春来），语体中性，书面口语均可用。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Esa sensación no es casual, porque el algoritmo de TikTok es realmente uno de los sistemas de recomendación más <strong>sofisticados</strong> de Internet: una tecnología diseñada para seleccionar y ordenar los vídeos que aparecen en la pestaña \"Para ti\". Su influencia es tan grande que determina qué contenidos se vuelven <strong>virales</strong>, qué temas ganan relevancia y, en buena medida, cómo consumen información millones de personas cada día.",
+      "zh": "这种感觉绝非偶然，因为TikTok的算法确实是互联网上最复杂精密的推荐系统之一：这项技术专门用于筛选和排列出现在「为你推荐」标签页中的视频。它的影响力极为深远，决定着哪些内容会走红，哪些话题会获得关注，以及在很大程度上，数百万人每天如何获取信息。",
+      "vocab": [
+        {
+          "word": "sofisticados",
+          "translation": "复杂精密的，先进的",
+          "note": "sofisticado 在科技语境中指系统或技术的高度复杂与精密，注意与英语 sophisticated 是真朋友，但在日常语境中也可形容人或风格的『精致老练』，需根据语境判断。"
+        },
+        {
+          "word": "virales",
+          "translation": "病毒式传播的，爆红的",
+          "note": "viral 源自 virus（病毒），在互联网语境中指内容迅速大范围传播，volverse viral（爆红、走红）是新闻和科技报道中的高频固定搭配。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "A diferencia de otras redes sociales que tienen en consideración las cuentas que seguimos para mostrarnos contenido relacionado, TikTok se basa sobre todo en un \"gráfico de intereses\": intenta <strong>averiguar</strong> qué nos gusta observando nuestro comportamiento y no únicamente nuestras conexiones sociales.",
+      "zh": "与其他主要根据我们关注的账号来推送相关内容的社交网络不同，TikTok主要依赖一套「兴趣图谱」：它试图通过观察我们的行为来探明我们的喜好，而不仅仅依赖我们的社交关系。",
+      "vocab": [
+        {
+          "word": "averiguar",
+          "translation": "查明，探明，弄清楚",
+          "note": "averiguar 强调通过调查或分析来查明某个未知事实，比 saber（知道）更强调主动探寻的过程，常见搭配有 averiguar la verdad、averiguar el motivo，属于B2高频动词。"
+        },
+        {
+          "word": "a diferencia de",
+          "translation": "与……不同，有别于",
+          "note": "a diferencia de 是正式书面语中常用的对比引导短语，后接名词或名词短语，相当于英语 unlike，是写作和新闻报道中构建对比论证的高频结构。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "La propia compañía explicó en 2020 que la página \"Para ti\" se construye a partir de múltiples señales. Entre ellas, se encuentran los vídeos que vemos completos, los que repetimos, los \"me gusta\", los comentarios, los contenidos que compartimos, las cuentas que seguimos e, incluso, los vídeos que decidimos ocultar o marcar como \"No me interesa\". También tiene en cuenta información sobre los vídeos que subimos nosotros mismos, así como los hashtags, las descripciones o los sonidos que utilizamos. En otras palabras: cada segundo que pasamos viendo un vídeo <strong>aporta</strong> información al sistema.",
+      "zh": "TikTok公司自身在2020年解释称，「为你推荐」页面是基于多种信号构建的。这些信号包括：我们完整看完的视频、重复播放的视频、点赞、评论、分享的内容、关注的账号，甚至还有我们选择隐藏或标记为「不感兴趣」的视频。系统还会考虑我们自己上传的视频信息，以及我们使用的话题标签、描述文字或背景音乐。换句话说：我们观看视频的每一秒钟，都在向系统输送信息。",
+      "vocab": [
+        {
+          "word": "aporta",
+          "translation": "提供，输送，贡献",
+          "note": "aportar 意为『提供、贡献某种资源或信息』，比 dar 更正式，常见于学术、新闻和商业语境，固定搭配有 aportar datos（提供数据）、aportar soluciones（提出解决方案）。"
+        },
+        {
+          "word": "tiene en cuenta",
+          "translation": "考虑到，将……纳入考量",
+          "note": "tener en cuenta 是高频固定搭配，意为『考虑、顾及』，其反义表达为 no tener en cuenta（忽视），是写作和口语中替代 considerar 的地道表达。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Uno de los aspectos más llamativos del algoritmo es que presta especial atención a las señales <strong>implícitas</strong>, a aquellas acciones que realizamos sin ser plenamente conscientes. Por ejemplo, ver un vídeo hasta el final suele interpretarse como una muestra de interés más fuerte que simplemente darle a \"me gusta\". Reproducirlo varias veces o detenerse unos segundos más de lo habitual también puede indicar que el contenido nos resulta atractivo. Y, según TikTok, estas señales ayudan a predecir qué vídeos podrían interesarnos en el futuro. Por eso, muchas personas tienen la sensación de que la aplicación \"les lee la mente\". En realidad, el sistema está analizando <strong>patrones</strong> de comportamiento extremadamente detallados.",
+      "zh": "这套算法最引人注目的特点之一，是它格外关注隐性信号——那些我们在并未完全意识到的情况下做出的行为。例如，将一个视频看到最后，通常被解读为比单纯点赞更强烈的兴趣信号。多次重播，或者停留时间比平时多几秒，也可能表明我们对该内容感兴趣。据TikTok称，这些信号有助于预测我们未来可能感兴趣的视频。正因如此，很多人都有一种这款应用「能读心术」的感觉。而实际上，系统只是在分析极为细致的行为模式。",
+      "vocab": [
+        {
+          "word": "implícitas",
+          "translation": "隐性的，隐含的",
+          "note": "implícito/a 意为『未明说的、隐含的』，其反义词为 explícito/a（明确的），两者均源自拉丁语，是学术和新闻语境中的高频词对，注意与英语 implicit/explicit 是真朋友。"
+        },
+        {
+          "word": "patrones",
+          "translation": "模式，规律",
+          "note": "patrón 在科技和学术语境中指可重复识别的行为或数据规律，如 patrón de comportamiento（行为模式）、patrón de consumo（消费模式），注意该词还有『老板』和『图案』等含义，需根据语境区分。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Los algoritmos de recomendación no solo muestran contenido: también influyen en la forma en que descubrimos información. Cuando una persona interactúa repetidamente con vídeos sobre un tema concreto —deporte, política, nutrición, tecnología, inversiones…—, el sistema tiende a ofrecer más contenido relacionado. Esto puede resultar útil porque permite encontrar rápidamente publicaciones <strong>afines</strong> a nuestros intereses. Sin embargo, también reduce la <strong>diversidad</strong> de contenidos que vemos.",
+      "zh": "推荐算法不仅仅是在展示内容：它们还影响着我们发现信息的方式。当一个人反复与某一具体话题的视频互动——体育、政治、营养、科技、投资……——系统就会倾向于推送更多相关内容。这固然有其便利之处，因为它能让我们迅速找到与自身兴趣相符的内容。然而，这同时也压缩了我们所接触到的内容多样性。",
+      "vocab": [
+        {
+          "word": "afines",
+          "translation": "相近的，相符的，同类的",
+          "note": "afín（复数 afines）意为『与某事物性质相近或相关的』，常见搭配有 intereses afines（相近的兴趣）、temas afines（相关话题），语体正式，多见于书面语。"
+        },
+        {
+          "word": "diversidad",
+          "translation": "多样性",
+          "note": "diversidad 在新闻和学术语境中是高频词，常见搭配有 diversidad de opiniones（观点多元）、diversidad cultural（文化多样性），注意其形容词形式 diverso/a 和动词 diversificar（使多样化）的构词关联。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "La propia TikTok reconoce este riesgo y afirma que introduce <strong>deliberadamente</strong> vídeos ajenos a los intereses habituales del usuario para evitar que la experiencia se vuelva demasiado <strong>homogénea</strong>, y asegura además que intenta no mostrar dos vídeos consecutivos del mismo creador o con el mismo tema.",
+      "zh": "TikTok自身也承认这一风险，并声称会刻意插入一些与用户日常兴趣无关的视频，以避免使用体验变得过于单一；该公司还保证，会尽量避免连续推送同一创作者或同一主题的两个视频。",
+      "vocab": [
+        {
+          "word": "deliberadamente",
+          "translation": "刻意地，有意为之地",
+          "note": "deliberadamente 强调行为出于深思熟虑的主观意图，比 intencionalmente 语气更正式，常见于新闻和法律文体，其形容词形式 deliberado/a 也是高频词，如 acto deliberado（蓄意行为）。"
+        },
+        {
+          "word": "homogénea",
+          "translation": "单一的，同质化的",
+          "note": "homogéneo/a 意为『由相同或相似元素构成的』，其反义词为 heterogéneo/a（异质的、多元的），两者均源自希腊语词根，是学术和新闻语境中描述信息生态的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Aun así, investigaciones académicas recientes han observado que los sistemas de recomendación de TikTok pueden <strong>reforzar</strong> intereses concretos con gran rapidez. De hecho, un estudio publicado en 2025 por investigadores de Cornell University encontró que la <strong>amplificación</strong> de contenidos alineados con las preferencias de un usuario puede producirse durante los primeros cientos de vídeos consumidos y que, a medida que aumenta esa personalización, disminuye la exposición a temas nuevos.",
+      "zh": "尽管如此，近期的学术研究发现，TikTok的推荐系统能以极快的速度强化用户对特定兴趣的偏好。事实上，康奈尔大学研究人员于2025年发表的一项研究发现，与用户偏好相符的内容的放大效应，可能在用户消费最初几百个视频期间便已产生，而且随着个性化程度的提升，用户接触新话题的机会也随之减少。",
+      "vocab": [
+        {
+          "word": "reforzar",
+          "translation": "强化，巩固",
+          "note": "reforzar 由 re-（再次）+ forzar（强迫/加强）构成，意为『使某事物变得更强或更牢固』，在媒体和心理学语境中常指算法或行为对既有偏见、习惯的强化，可类推 refuerzo（强化/增援）等派生词。"
+        },
+        {
+          "word": "amplificación",
+          "translation": "放大，扩大效应",
+          "note": "amplificación 在媒体和科技语境中专指算法对特定内容的扩散放大效果，动词形式为 amplificar，前缀 ampli- 表示『扩大』，可类推 ampliar（扩大）、amplio（宽广的）等词。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "La eficacia del algoritmo ha despertado también preocupación entre <strong>reguladores</strong> y expertos. La Comisión Europea mantiene investigaciones sobre diversas características de diseño de TikTok, incluyendo el desplazamiento infinito de contenidos y el alto nivel de personalización de las recomendaciones. Los reguladores consideran que estos elementos podrían <strong>fomentar</strong> patrones de uso compulsivo, especialmente entre menores y usuarios vulnerables. TikTok rechaza estas acusaciones y sostiene que dispone de herramientas de protección y bienestar digital.",
+      "zh": "算法的高效性也在监管机构和专家之间引发了担忧。欧盟委员会正就TikTok的多项设计特性展开调查，包括内容的无限滚动功能以及推荐内容的高度个性化。监管机构认为，这些功能可能助长强迫性使用习惯，尤其对未成年人和弱势用户而言。TikTok否认上述指控，坚称其已配备数字保护与健康管理工具。",
+      "vocab": [
+        {
+          "word": "reguladores",
+          "translation": "监管机构，监管者",
+          "note": "regulador/a 既可作名词（监管机构/监管者），也可作形容词（调节的），在新闻语境中常指政府或欧盟等监管主体，动词形式为 regular（监管/调节），注意与英语 regulator 是真朋友。"
+        },
+        {
+          "word": "fomentar",
+          "translation": "助长，促进，鼓励",
+          "note": "fomentar 可用于正面（fomentar el empleo，促进就业）或负面（fomentar el odio，助长仇恨）语境，比 promover 更强调持续培育某种状态或习惯，是新闻和政策文本中的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Aunque resulta imposible desactivar por completo la lógica <strong>algorítmica</strong> de TikTok, sí existen formas de reducir su influencia. Por ejemplo, siendo consciente de que cada interacción cuenta: permanecer más tiempo en un vídeo envía una señal al sistema, igual que compartirlo o comentar.",
+      "zh": "尽管完全关闭TikTok的算法逻辑是不可能的，但确实存在一些减弱其影响的方法。例如，要意识到每一次互动都会被计入：在一个视频上停留更长时间会向系统发送信号，分享或评论同样如此。",
+      "vocab": [
+        {
+          "word": "algorítmica",
+          "translation": "算法的，基于算法的",
+          "note": "algorítmico/a 是由 algoritmo（算法）加后缀 -ico/a 构成的形容词，该后缀表示『与……相关的』，可类推 tecnológico、digital、sistemático 等同类科技词汇的构词规律。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "También resulta útil buscar temas nuevos, seguir perfiles distintos y evitar interactuar siempre con los mismos tipos de contenidos, y es <strong>aconsejable</strong> utilizar las herramientas de gestión que ofrece la propia plataforma, como marcar vídeos que no interesan o revisar periódicamente las preferencias configuradas en la aplicación.",
+      "zh": "主动搜索新话题、关注不同类型的账号、避免总是与同类内容互动，这些做法同样有效。此外，建议善用平台本身提供的管理工具，例如标记不感兴趣的视频，或定期检查应用中已设置的偏好选项。",
+      "vocab": [
+        {
+          "word": "aconsejable",
+          "translation": "建议的，可取的",
+          "note": "aconsejable 是由 aconsejar（建议）派生的形容词，意为『值得建议的、明智的』，常用于正式建议句式 es aconsejable + 动词原形，语气比 recomendable 略正式，多见于新闻和说明性文体。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Por último, conviene recordar que el algoritmo está <strong>optimizado</strong> para maximizar la relevancia y el tiempo de permanencia en la plataforma, no necesariamente para ofrecer una visión <strong>equilibrada</strong> del mundo. Entender esa diferencia es probablemente el primer paso para utilizar TikTok de forma más consciente.",
+      "zh": "最后，有必要记住：算法是为了最大化内容的相关性和用户在平台上的停留时间而优化的，而未必是为了提供一个平衡的世界观。理解这一差异，或许正是更有意识地使用TikTok的第一步。",
+      "vocab": [
+        {
+          "word": "optimizado",
+          "translation": "经过优化的",
+          "note": "optimizar 由 óptimo（最优的）加后缀 -izar 构成，意为『使达到最优状态』，是科技和商业语境中的高频词，后缀 -izar 表示使动，可类推 digitalizar、personalizar、maximizar 等词。"
+        },
+        {
+          "word": "equilibrada",
+          "translation": "均衡的，平衡的",
+          "note": "equilibrado/a 在媒体语境中常指信息呈现的客观均衡，如 información equilibrada（均衡报道），其名词形式 equilibrio 和动词 equilibrar 均为高频词，可构成 desequilibrio（失衡）等派生词。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "sin darse cuenta",
+      "type": "expresión coloquial",
+      "translation": "不知不觉地，在没有意识到的情况下",
+      "usage": "固定短语，意为在未察觉的情况下发生某事，口语和书面语均十分常用，可置于句首或句末，语体自然地道，是 inconscientemente 的更口语化替代表达。",
+      "exampleEs": "Sin darse cuenta, llevaba dos horas mirando el móvil.",
+      "exampleZh": "他不知不觉已经盯着手机看了两个小时。"
+    },
+    {
+      "expression": "leer la mente",
+      "type": "expresión coloquial",
+      "translation": "读心术，猜透心思",
+      "usage": "口语化表达，字面义为『读取思维』，用来形容某人或某系统能精准预测他人想法或需求，常带有惊讶或略带夸张的语气，在科技报道中常用于描述算法的精准推荐。",
+      "exampleEs": "Esta aplicación parece que te lee la mente: siempre te sugiere lo que necesitas.",
+      "exampleZh": "这款应用好像会读心术，总能推荐你正好需要的东西。"
+    },
+    {
+      "expression": "despertar preocupación",
+      "type": "colocación",
+      "translation": "引发担忧，激起关切",
+      "usage": "新闻和正式文体中的高频固定搭配，despertar 与 preocupación、alarma、sospechas 等名词搭配，表示某事引起关注或警觉，比 causar preocupación 更具文学色彩。",
+      "exampleEs": "El uso excesivo de las redes sociales entre adolescentes ha despertado preocupación entre los expertos en salud mental.",
+      "exampleZh": "青少年过度使用社交媒体的现象已在心理健康专家之间引发了广泛担忧。"
+    },
+    {
+      "expression": "a medida que",
+      "type": "estructura gramatical",
+      "translation": "随着……，与……同步",
+      "usage": "正式书面语中表示两个过程同步发展的连接结构，后接陈述式动词，用于描述两件事随时间同步变化的关系，是写作中替代 cuando 的更精准、更正式的表达，B2以上写作必备句式。",
+      "exampleEs": "A medida que avanza la tecnología, surgen nuevos desafíos éticos.",
+      "exampleZh": "随着技术的不断进步，新的伦理挑战也随之涌现。"
+    }
+  ]
+}

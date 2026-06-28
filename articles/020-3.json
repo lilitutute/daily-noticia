@@ -1,0 +1,224 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "旅行与文化",
+  "difficulty": "C1",
+  "wordCount": "约1300词",
+  "title": "Entre los tesoros imprescindibles de Xian, una ciudad con más de 3.000 años de historia",
+  "subtitle": "西安：一座拥有三千年历史的城市与那些不可错过的瑰宝",
+  "resumenEs": "El artículo recorre los principales tesoros culturales de Xian: el Museo del Bosque de Estelas, las pagodas del Ganso Salvaje, el arte de la caligrafía y, sobre todo, los Guerreros de Terracota. A través de una mirada literaria y reflexiva, el autor combina la descripción histórica con observaciones sobre la comercialización del patrimonio y la grandeza efímera de las civilizaciones.",
+  "resumenZh": "本文带领读者游览西安的主要文化瑰宝：碑林博物馆、大雁塔与小雁塔、书法艺术，以及最重要的兵马俑。作者以文学性的笔触，将历史描述与对文化遗产商业化现象的观察融为一体，引发对文明盛衰的深沉思考。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Una de las maneras de <strong>franquear</strong> el umbral de la China milenaria es pisar la populosa ciudad de Xian, con más de 3.000 años de historia. Una visita a sus rincones más emblemáticos podría empezar por el Museo del Bosque de Estelas (Beilin), un lugar sencillamente fascinante donde es posible estrechar la mirada con los escritores de caligrafía funeraria, con los artistas que grabaron de forma casi irrompible las premisas confucianas, con los artesanos que donaron a la inmortalidad de una piedra unas frases que significan cosas que solo parecen ser hermosas e interesantes. Son lápidas, en definitiva, y más pequeñas y grandes esculturas que <strong>engalanan</strong> un patio con columnas perfectamente alineadas que se usaban como soporte para atar a los caballos. Están rematadas en su parte superior, más o menos a la altura de la cabeza, por retorcidas formas humanas o animales mitológicos. El Diccionario de la Lengua Española, ciertamente, define \"estela\" como un \"monumento conmemorativo que se erige sobre el suelo en forma de lápida, pedestal o cipo\", y en este museo hay un total de dos mil y pico objetos.",
+      "zh": "踏入千年中国的方式之一，便是走进人口众多、拥有逾三千年历史的西安城。探访这座城市最具代表性的角落，不妨从碑林博物馆开始——这是一个令人叹为观止的地方，在这里可以与镌刻丧葬书法的文人、以近乎不朽的方式将儒家思想刻入石中的艺术家，以及将那些看似只是美丽而有趣的句子献给石头永恒的工匠们，进行一场跨越时空的凝视。归根结底，这里陈列的是墓碑，以及大大小小的雕塑，它们装点着一座廊柱整齐排列的庭院——那些廊柱当年曾被用来拴马。柱顶大约在头部的高度，以扭曲的人形或神话动物收尾。西班牙皇家语言学院词典将「estela」定义为「以墓碑、基座或界碑形式竖立于地面的纪念性建筑」，而这座博物馆共藏有两千余件此类文物。",
+      "vocab": [
+        {
+          "word": "franquear",
+          "translation": "跨越，穿越（门槛、障碍）",
+          "note": "franquear 在正式书面语中意为『越过某道门槛或障碍』，如 franquear la entrada（跨入门槛）、franquear fronteras（跨越边界），比 cruzar 更具文学色彩，常用于比喻性语境。"
+        },
+        {
+          "word": "engalanan",
+          "translation": "装点，装饰，美化",
+          "note": "engalanar 意为『以装饰物美化某处』，语体偏正式和文学，比 decorar 更强调节日性或仪式性的装饰，常见于描述节庆布置或历史场所的书面语。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "La visita podría seguir con el edificio del antiguo templo de Confucio, construido en época Tang, en el siglo VIII, pasando por sus siete salas hasta contemplar lo más importante: la colección fundada en el siglo XI por el emperador Zhezong \"para conservar los textos clásicos grabados en estelas de piedra en el 837 por el emperador Wenzong\", como dice el libro-guía que se consigue en la entrada. Estelas de la dinastía Han que contenían 12 textos de Confucio, y que eran de <strong>obligado</strong> aprendizaje para superar los exámenes imperiales y obtener un puesto como funcionario.",
+      "zh": "参观可以继续延伸至古孔庙建筑群——建于唐代，即公元八世纪——穿过七座展厅，直至欣赏最重要的部分：由哲宗皇帝于十一世纪创立的藏品，「用以保存文宗皇帝于837年命人刻于石碑之上的经典文本」，正如入口处所售导览手册所言。汉代石碑上刻有十二部儒家经典，是通过科举考试、谋得官职的必修内容。",
+      "vocab": [
+        {
+          "word": "obligado",
+          "translation": "必须的，强制性的",
+          "note": "de obligado + 名词 是固定搭配，如 de obligado cumplimiento（必须遵守的）、de obligada lectura（必读的），注意此用法中 obligado 为形容词，与动词 obligar（强迫）同根，是正式书面语的高频表达。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Así, hay textos de caracteres muy distintos al chino mandarín que remiten a la evolución de la caligrafía, u otros inscritos en su día en 114 grandes piedras que se ven en torno a caligrafías y pinturas bellísimas expuestas en las galerías del patio; losas con antiguas inscripciones y otras grabadas con mapas o ilustraciones que parecían un precedente de un Gustave Doré combinado con un William Blake; representaciones caligráficas de poemas chinos de los siglos XI y XII; ilustraciones con grabados de Bodhidharma, el fundador del budismo zen…",
+      "zh": "馆内有与普通话文字迥异的字体，折射出书法演变的历史轨迹；也有当年刻于114块巨石之上的文字，环绕着展廊中陈列的精美书法与绘画；还有刻有古代铭文的石板，以及镌刻地图或插图的石碑——那些插图仿佛是古斯塔夫·多雷与威廉·布莱克的某种先驱；有十一、十二世纪中国诗歌的书法呈现；有禅宗创始人菩提达摩的版画插图……",
+      "vocab": [
+        {
+          "word": "remiten",
+          "translation": "指向，追溯至，让人联想到",
+          "note": "remitir a 在此为比喻用法，意为『指向某个参照、让人追溯到某事物』，比 referirse a 更强调将读者或观者引导至某个更深层的意义或来源，是学术和文化评论中的高频表达。"
+        },
+        {
+          "word": "precedente",
+          "translation": "先驱，先例，前身",
+          "note": "precedente 作名词意为『先例、前身』，固定搭配 sentar un precedente（开创先例）是新闻和法律语境中的高频表达；此处用作比喻，形容石碑插图风格超前，堪称后世艺术家的预兆。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Entre sus joyas, se encuentra una estela que, como todas, va acompañada de un atril explicativo en inglés y en chino, y que reza: \"A poem on bamboo to Guan Yu\". Es una referencia al general del periodo de los Tres Reinos (siglo III) que se distinguió por ser un guerrero extraordinario, ejemplar en su comportamiento leal hacia su gobernante e <strong>intachable</strong> moral confuciana. \"Time: the 55th Kangxi Reign\" fue el tiempo en que se realizó la obra, dentro por consiguiente de la \"Qing Dynasty (1716 A.D.)\", en el invierno del año 55 de la época de este monarca que estuvo en el cargo más que ningún otro en toda la historia china, más de seis décadas, y que contribuyó al arte, al enciclopedismo y al <strong>mecenazgo</strong> en primera persona para ganarse la simpatía de los intelectuales afines a la dinastía Ming anterior.",
+      "zh": "馆藏珍品中，有一块石碑——与所有石碑一样，附有中英文说明牌——上面写道：「赠关羽竹诗」。这是对三国时期（公元三世纪）一位将军的致敬，此人以其卓越的武勇、对君主忠贞不渝的品行以及无可挑剔的儒家道德而名垂青史。「时：康熙五十五年」是这件作品的创作年代，属于「清朝（公元1716年）」，即这位在位时间超过任何一位中国历史上帝王——逾六十年——的君主在位第五十五年的冬天。他亲身投入艺术、百科全书编纂与文化赞助，以此赢得前明遗老的好感。",
+      "vocab": [
+        {
+          "word": "intachable",
+          "translation": "无可挑剔的，无懈可击的",
+          "note": "intachable 由 in-（否定）+ tachar（指责、挑剔）+ -able 构成，意为『无法被指责或批评的』，常用于描述道德品行或职业操守，如 conducta intachable（无可指摘的行为），是正式书面语的高频词。"
+        },
+        {
+          "word": "mecenazgo",
+          "translation": "文化赞助，艺术资助",
+          "note": "mecenazgo 源自古罗马贵族 Mecenas 的名字，专指对艺术、文化或学术的资助与扶持，动词形式为 mecenas（赞助人），是文化和历史语境中的专业词汇，与英语 patronage 对应。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Esa pieza consta de unos versos con bambúes y unos anillos entrelazados ilustrados y grabados en una alta estela que un comandante envió a otra persona como agradecimiento a su lealtad. Y es que, para los chinos, los bambúes son el símbolo de la honestidad y de la fidelidad, y los cuatro anillos entrelazados indican algo funcionarial o administrativo junto a un sello cuadrado que señala que algo ya está acabado. Para el visitante actual resulta un gran <strong>aliciente</strong> conocer establecimientos donde se exponen pinturas de motivos chinos tradicionales y se enseña el arte más ancestral, próximo y cotidiano (o ya no tanto con tantos teclados en nuestras manos): el de la caligrafía. Se ha de coger un pincel en vertical y escribir lo que te indican, como si escribieras palabras dibujando.",
+      "zh": "这件作品由竹子诗句与相互交织的环形图案构成，镌刻于一块高大的石碑之上，是一位将领赠予他人以表感激之情的礼物。对中国人而言，竹子是诚实与忠贞的象征，四个相互交织的圆环代表着某种官职或行政含义，旁边的方形印章则表示某事已然完成。对当代游客而言，参观那些展示传统中国绘画、传授最古老也最贴近日常生活的艺术——书法（尽管如今键盘当道，这门艺术已不再那么日常）——的店铺，是一大吸引之处。练习书法须将毛笔垂直握持，按照指示书写，仿佛是在用文字作画。",
+      "vocab": [
+        {
+          "word": "aliciente",
+          "translation": "吸引力，诱因，动力",
+          "note": "aliciente 意为『吸引人去做某事的诱因或动力』，常见搭配有 ser un aliciente para（成为……的吸引力）、mayor aliciente（更大的诱因），语体中性，书面口语均可使用，比 atractivo 更强调驱动行为的动机。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Hay cinco formas de escribir, dependiendo de la formalidad o informalidad de lo que se redacta, y ni siquiera todos en China son capaces de expresarse en todas y cada una de ellas. Es más, hasta los 12 años los niños no suelen dominar el conocimiento de los signos y desarrollar la capacidad con la que han de orientar la muñeca. Así, en contraste con nuestros más o menos torpes intentos por mover la mano con la ligereza y la elegancia necesarias para semejante labor, resulta placentero ver allí a artistas sentados a su mesa con la naturalidad seria con la que un pianista emprendería una tarea para la que están prohibidos el compás de la prisa o la desconcentración, pintar <strong>sinuosos</strong> trazos que acababan siendo flores o pájaros. Y siempre con el último toque, el sello personal que se imprime en el papel en un gesto que solo puede evocar la burocracia institucional del más lejano imperio.",
+      "zh": "书写共有五种字体，取决于所书写内容的正式或非正式程度，即便在中国，也并非人人都能驾驭每一种字体。更何况，孩子们通常要到12岁才能掌握笔画的知识，并培养出运腕的能力。因此，与我们或多或少笨拙地试图以必要的轻盈与优雅移动手腕相比，看到那些艺术家端坐桌前，以钢琴家面对一项不容急躁与分心的任务时那种认真而自然的神态，挥洒出蜿蜒的笔触，最终化为花鸟，实在令人赏心悦目。而最后一笔，始终是那枚盖在纸上的私人印章——那个动作只能让人联想到最遥远帝国的官僚礼仪。",
+      "vocab": [
+        {
+          "word": "sinuosos",
+          "translation": "蜿蜒的，曲折的",
+          "note": "sinuoso/a 形容线条或路径的弯曲流转，在文学语境中常用于描述书法笔触、河流或山路，比 curvo（弯曲的）更强调连续起伏的动态美感，其名词形式为 sinuosidad。"
+        },
+        {
+          "word": "evocar",
+          "translation": "唤起，令人联想到",
+          "note": "evocar 意为『唤起记忆、联想或情感』，比 recordar 更强调由某事物触发的联想与情感共鸣，是文学和评论文体中的高频词，常见搭配有 evocar recuerdos（唤起回忆）、evocar una época（令人联想到某个时代）。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Hemos visto la palabra indestructible sobre piedra y la palabra pasajera sobre el fino y vulnerable papel de arroz. Y ahora toca la palabra sagrada dentro de las dos pagodas que pueden encontrarse en sendos jardines, muy distantes entre sí: la Pagoda del Pequeño Ganso Salvaje y la Pagoda del Gran Ganso Salvaje, con estatuas de budas alrededor y, en la pequeña, una campana de tales dimensiones que el golpe de su <strong>badajo</strong> despertaría a todos los habitantes de la ciudad. Dos templos que fueron reconstruyéndose a causa de derrumbes y terremotos desde los siglos VII y VIII, en época Tang, y que sirvieron como escuelas de traductores de textos sagrados y como biblioteca para albergar escritos budistas traídos de la India. Verlos es hacer que te venga a la mente la imagen icónica de la torre de Babel. Dos zonas llenas de templos dedicados al budismo de una belleza y espiritualidad indescriptibles; en la del ganso grande hay una sala en que se muestra, en tres paredes de <strong>fastuosidad</strong> pictórica alucinante, a modo de viñetas ligadas una a otra, el nacimiento de Buda, el modo en que su virginal madre se quedó embarazada de un elefante blanco hasta la llegada de su muerte.",
+      "zh": "我们已见过刻于石上不朽的文字，也见过书于细薄易损的宣纸上转瞬即逝的文字。现在轮到神圣的文字了——它们藏于两座宝塔之中，分别坐落在相距甚远的两处园林：小雁塔与大雁塔。塔身周围环绕着佛像，小雁塔内有一口巨钟，其钟锤一击，足以惊醒全城百姓。这两座寺庙自唐代（七、八世纪）起，历经坍塌与地震，屡毁屡建，曾作为翻译圣典的学堂，也曾作为收藏从印度带来的佛教典籍的图书馆。见到它们，脑海中不禁浮现出巴别塔的标志性意象。两处园林内遍布佛教寺庙，美不胜收，令人心生难以言说的灵性之感；大雁塔内有一座殿堂，三面墙壁上以令人叹为观止的华丽壁画，如连环画般依次呈现了佛陀的诞生——他的童贞母亲如何因白象入梦而受孕——直至他的涅槃。",
+      "vocab": [
+        {
+          "word": "badajo",
+          "translation": "钟锤，钟舌",
+          "note": "badajo 专指悬挂于钟内、敲击钟壁发声的金属锤，是一个具体而精确的词汇，在文学描写中常用于渲染宏大的声响效果，了解此词有助于理解西语文学中涉及钟声的经典意象。"
+        },
+        {
+          "word": "fastuosidad",
+          "translation": "华丽，富丽堂皇",
+          "note": "fastuosidad 由形容词 fastuoso/a（富丽堂皇的）加后缀 -dad 构成，专指视觉上极度华美奢丽的特质，语体正式，多见于艺术和建筑评论，比 lujo（奢华）更强调视觉上的震撼感。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Esa podría ser la gran moraleja para el viajero de esta China de corte espiritual o artístico, al lado de una evidente intención por comercializar cada detalle de la vida, pues todo se transforma en negocio, tienda, venta. Es el caso del señor que firma pilas y pilas de ejemplares de un libro sobre los Guerreros de Terracota: el campesino que había descubierto en 1974, a raíz de unas obras de abastecimiento en el distrito de Linton, 30 kilómetros al noreste de Xian, los primeros objetos del ejército de terracota que protegía la entrada de la tumba del primer emperador. El individuo, detrás del cual hay una gran fotografía de él mismo posando con un pedazo de ese momento glorioso para la arqueología del siglo XX, como en una fábrica de producción en cadena de un solo empleado, <strong>garabatea</strong> su nombre en el ejemplar —no hecho por él, sino uno en forma de guía del lugar lleno de llamativas imágenes— que una fila de personas le va dando, sellando después la página en cuestión.",
+      "zh": "这或许正是这趟精神或艺术之旅留给旅行者的最大启示，与此同时，一种将生活每个细节商业化的明显意图也无处不在——一切都变成了生意、店铺、买卖。兵马俑发现者便是一例：这位农民于1974年在西安东北约30公里的临潼区进行供水工程施工时，发现了守护秦始皇陵入口的第一批兵马俑。这位老人身后挂着一张他与那段二十世纪考古学辉煌时刻合影的大幅照片，宛如一家只有一名员工的流水线工厂，在一本本递来的书上潦草签下自己的名字——那书并非他所著，而是一本图文并茂的景区导览手册——随后在相应页面盖上印章。",
+      "vocab": [
+        {
+          "word": "garabatea",
+          "translation": "潦草书写，涂鸦",
+          "note": "garabatear 意为『潦草地、随意地书写』，名词形式为 garabato（潦草字迹、涂鸦），在此处作者刻意选用该词而非 firmar（签名），带有强烈的讽刺意味，暗示签名动作的机械与敷衍。"
+        },
+        {
+          "word": "a raíz de",
+          "translation": "由于，起因于，在……之后",
+          "note": "a raíz de 是正式书面语中表示因果或时间起点的固定搭配，字面义为『从根部起』，引申为『由某事直接引发』，比 debido a 更强调某一具体事件作为直接导火索，是新闻和历史叙述中的高频表达。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "El excampesino está en la tienda con la que se termina el recorrido de los Guerreros de Terracota, pero tiene prohibido fotografiarlo, ya que él mismo concede tomarse una foto con quien quiera a cambio de una tarifa establecida. Ese es el <strong>colofón</strong> de una visita a los cuatro pabellones que guardan una de las excavaciones más fascinantes que el ser humano podrá contemplar en su vida y que insinúan mil y una leyendas. Se trata de una especie de hangar, ancho y largo como un estadio de fútbol, en el que se hallan 6.000 soldados en formación de batalla hechos con arcilla horneada, cada uno diferente al otro en sus gestos, peinados, <strong>indumentarias</strong>; un microcosmos bajo tierra, una suerte de cementerio de esculturas resucitadas.",
+      "zh": "这位前农民就坐在兵马俑参观路线终点的纪念品商店里，但禁止拍摄他，因为他本人提供付费合影服务，价格明码标价。这便是参观四座展厅的压轴一幕——那四座展厅守护着人类有生之年所能目睹的最令人叹为观止的考古发掘之一，处处透着千古传奇的气息。那是一种类似机库的建筑，宽广绵长如一座足球场，其中6000名以烧制陶土制成的士兵列阵以待，每一位在神态、发型、服饰上都与众不同；这是一个地下的微型世界，一片复活雕塑的墓地。",
+      "vocab": [
+        {
+          "word": "colofón",
+          "translation": "压轴，收尾，最终章",
+          "note": "colofón 原指书籍末页的出版信息，引申为某件事的最终收尾或高潮结局，固定搭配为 ser el colofón de（成为……的压轴），语体正式，多见于文化和新闻评论，比 final 更强调作为整体的完美终结。"
+        },
+        {
+          "word": "indumentarias",
+          "translation": "服饰，装束",
+          "note": "indumentaria 是指人所穿戴的全套服装与装束，语体比 ropa 正式，常见于历史、考古和时尚评论语境，如 indumentaria militar（军事装束）、indumentaria tradicional（传统服饰）。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Así lo decidiría Qin Shi Huang, ya en su adolescencia, cuando mandó construir el que sería su mausoleo y que se terminaría de hacer casi 40 años después, para retar y detener o convivir con la muerte, para seguir reinando más allá de ella y liderar a su ejército en las futuras peripecias, rodeándose de tumbas que acabarían habitando sus hombres y mujeres de confianza, compañía, servidumbre, tal y como explica el historiador Sima Qian (siglo I a.C.) en sus memorias históricas: \"Después de haber reunificado el imperio, envió allí más de 700.000 trabajadores. Se excavó hasta el nivel del agua, se cubrió de bronce y se llevó el sarcófago. […] Se encargó a algunos artesanos que fabricaran ballestas y flechas automáticas dirigidas contra quienes <strong>osasen</strong> introducirse en la tumba\". Ay de aquel que pretendiera <strong>profanar</strong> su descanso, a riesgo de sufrir horribles desgracias, por más que esto no fuera nada fácil a causa de la gran profundidad en la que todos los soldados, jinetes y carros de combate se enterrarían en una necrópolis que abarcó la friolera de 50 kilómetros cuadrados y de la cual ahora solo es posible ver una parte.",
+      "zh": "秦始皇早在青少年时期便作出了这一决定，下令修建日后将成为他陵寝的宏大工程，历时近40年方才竣工——为了挑战、阻止死亡，或与死亡共存，为了在死后继续君临天下，统率军队驰骋于未来的征途，身边环绕着亲信、侍从与仆役的坟冢。正如史学家司马迁（公元前一世纪）在其史记中所述：「统一天下后，征调七十余万人修建陵寝。深挖至地下水位，以铜液灌注，安放棺椁。……命工匠制造弩机与自动弓箭，射杀任何胆敢闯入陵墓之人。」凡妄图亵渎其长眠之所者，将遭受可怕的灾祸——尽管这并非易事，因为所有士兵、骑兵与战车都深埋于地下，这片陵区面积竟达50平方公里之广，如今只能窥见其中一隅。",
+      "vocab": [
+        {
+          "word": "osasen",
+          "translation": "胆敢，竟敢",
+          "note": "osar 意为『大胆地做某事，胆敢』，语体正式，带有强烈的挑战性或冒险意味，此处为过去虚拟式，用于历史引文中表达条件假设，比 atreverse a 更古雅，常见于文学和历史文体。"
+        },
+        {
+          "word": "profanar",
+          "translation": "亵渎，玷污（神圣或庄严之物）",
+          "note": "profanar 专指对神圣、庄严或受保护之物的侵犯与玷污，如 profanar una tumba（亵渎坟墓）、profanar un templo（玷污神殿），其形容词形式 profano/a 意为『世俗的、门外汉的』，注意两者语义的差异。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Como la denominada Fosa 1, donde hay 11 zanjas paralelas con el impresionante desfile estático de los soldados, de una altura de un metro ochenta para resultar intimidantes, equipados con armaduras y armas —flechas y ballestas— que en su día habían sido coloreadas, junto a caballos de tamaño natural. Son maravillas escultóricas de enorme calidad y perfección que, a su vez, compartirían mundo subterráneo con todos aquellos servidores de carne y hueso que encontraron, súbitamente, el fin de sus días con el fallecimiento de su líder. \"Cuando se introdujo el ataúd —refiere el citado historiador—, se dice que cuantos habían participado en la construcción de las máquinas y la instalación de tesoros y que conocían su inmenso valor fueron <strong>sepultados</strong> vivos al dejarse caer la puerta de entrada exterior para que no pudiera salir ninguno de ellos\". Igualmente, se les quitó la vida a las concubinas del emperador o fueron enterradas vivas para nutrir esa fosa común, esa ciudad bajo la vida cuyo esplendor había descubierto el señor que firma y sella libros que no ha escrito él, en el <strong>paroxismo</strong> del aprovechamiento comercial: el del autor sin creación alguna que dedica libros ajenos en torno a obras artístico-históricas de dimensiones inconmensurables, pero cuyos escultores son del todo anónimos.",
+      "zh": "一号坑便是其中之一，坑内有11条平行坑道，陈列着令人震撼的静态士兵方阵——每位士兵身高一米八，以彰显威慑之势，身披铠甲，手持弓弩，当年曾涂有彩绘，旁侧还有等比例的战马。这些雕塑杰作品质精湛、近乎完美，而与它们共享这片地下世界的，还有那些真实的血肉之躯——他们在君主驾崩之际，骤然迎来了自己生命的终结。「棺椁入位之后，」上述史学家记载道，「据说凡参与机关制造与宝物安置、知晓其巨大价值者，皆在外门落下之际被活埋其中，无一得以逃脱。」皇帝的妃嫔们同样遭到杀害或被活埋，以充实这片万人冢——这座生命之下的城市，其辉煌正是由那位签书盖章却非书作者的老人所发现的，在商业利用登峰造极的荒诞之中：一个毫无创作可言的「作者」，为他人所著的书籍题词，而那些书所记载的，是规模难以估量的历史艺术巨作——其雕塑者却彻底湮没无名。",
+      "vocab": [
+        {
+          "word": "sepultados",
+          "translation": "被活埋的，被掩埋的",
+          "note": "sepultar 意为『掩埋、葬入』，比 enterrar 更正式，且常带有被迫或悲剧性的含义，名词形式 sepultura（墓葬）和 sepulcro（坟墓）均为历史和文学语境的高频词，词根 sepul- 源自拉丁语。"
+        },
+        {
+          "word": "paroxismo",
+          "translation": "极致，顶点，登峰造极",
+          "note": "paroxismo 原为医学术语，指病情的最高峰或发作高潮，引申为某种现象或情绪达到极端程度，en el paroxismo de 是固定搭配，意为『在……最极端的时刻』，是评论文体中极具表现力的高级词汇。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "la friolera de",
+      "type": "expresión coloquial",
+      "translation": "整整，足足（强调数量之大令人咋舌）",
+      "usage": "la friolera de 用于强调某个数字或数量之大出乎意料，带有轻微的惊叹或讽刺语气，后接具体数字，常见于新闻和口语，相当于中文的「足足」「整整」，语气比单纯陈述数字更生动有力。",
+      "exampleEs": "El proyecto costó la friolera de 200 millones de euros.",
+      "exampleZh": "这个项目耗资整整两亿欧元。"
+    },
+    {
+      "expression": "de carne y hueso",
+      "type": "modismo",
+      "translation": "有血有肉的，真实的人",
+      "usage": "字面义为『由肉和骨头构成的』，用于强调某人是真实存在的普通人，而非神话、雕像或抽象概念，常用于将真实人物与虚构或理想化形象进行对比，口语和书面语均十分常用。",
+      "exampleEs": "Detrás de esa estatua había personas de carne y hueso que nunca serán recordadas.",
+      "exampleZh": "那座雕像背后，是一群永远不会被铭记的有血有肉的真实人物。"
+    },
+    {
+      "expression": "insinuar mil y una leyendas",
+      "type": "colocación",
+      "translation": "暗藏无数传奇，透着千古传说的气息",
+      "usage": "mil y una 是固定的夸张表达，源自《一千零一夜》，意为『数不清的、无穷无尽的』，与 leyendas、historias、posibilidades 等名词搭配时，用于渲染某事物蕴含的丰富历史或神秘色彩，是书面语中的高频夸张搭配。",
+      "exampleEs": "Esas ruinas insinúan mil y una historias que nunca podremos conocer del todo.",
+      "exampleZh": "那片废墟中暗藏着无数我们永远无法完全了解的故事。"
+    },
+    {
+      "expression": "ay de aquel que",
+      "type": "estructura gramatical",
+      "translation": "凡……者，必遭祸患；谁若……，后果自负",
+      "usage": "古典文学和历史叙述中的正式警告句式，ay 为感叹词，整体结构表达对某种行为的强烈警告或诅咒，语体庄重古雅，常见于宗教、历史和文学文本，后接虚拟式动词，具有强烈的修辞震慑力。",
+      "exampleEs": "Ay de aquel que traicione la confianza depositada en él.",
+      "exampleZh": "凡背叛他人信任者，必将自食其果。"
+    }
+  ]
+}

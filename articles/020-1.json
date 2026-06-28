@@ -1,0 +1,142 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与社会",
+  "difficulty": "B2",
+  "wordCount": "约600词",
+  "title": "A tu IA le gusta mi IA, ¿quedamos?",
+  "subtitle": "你的AI喜欢我的AI，我们约个会？",
+  "resumenEs": "El artículo reflexiona sobre las nuevas apps de citas que usan inteligencia artificial para emparejar a personas sin que estas intervengan directamente. La autora critica este modelo por reducir el amor a una simetría de datos, eliminar la experiencia corporal y sensorial del enamoramiento, y abrir la puerta a sesgos algorítmicos ocultos. Concluye que ligar, incluso cuando fracasa, es un placer y un derecho exclusivamente humano.",
+  "resumenZh": "本文探讨了一种新型约会应用：由人工智能代替用户相互交流、筛选匹配对象。作者批评这一模式将爱情简化为数据对称，抹去了坠入爱河时的身体与感官体验，并可能暗藏算法偏见。她最终得出结论：恋爱，哪怕以失败告终，也是一种纯粹属于人类的乐趣与权利。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Ligar en internet ya no pasa por buscar candidatos, filtrar perfiles, abrir decenas de chats y compartir tus mejores fotos para cerrar una cita. Ahora la idea es que sea tu inteligencia artificial la que se hable con las IA de miles de personas y, solo en caso de que entre ellas se gusten, lleguen a <strong>presentaros</strong>. \"Tu IA habla con las IA de otras personas y te trae sólo coincidencias compatibles\", propone la app Claw Dating. \"Sin swipes. Sin scroll infinito. IA para conectarte con la persona más compatible: una coincidencia cada vez, totalmente cifrada y diseñada para fomentar relaciones profundas\", promete TwinFlame. El futuro ya está aquí. Y me pregunto, ¿cambiará la IA, que nunca se ha enamorado, nuestra forma de hacerlo?",
+      "zh": "网上交友不再需要自己搜寻候选对象、筛选资料、打开数十个聊天窗口、分享最好看的照片来约到一次见面。现在的构想是：由你的人工智能与成千上万人的AI互相交流，只有当它们彼此「看对眼」，才会把你们双方介绍认识。「你的AI与其他人的AI对话，只把真正匹配的人带到你面前」，约会应用Claw Dating如此宣传。「无需滑动，无需无限滚动。AI为你连接最契合的人：每次只推荐一个匹配，全程加密，专为促进深度关系而设计」，TwinFlame如此承诺。未来已然到来。我不禁想问：从未坠入爱河的AI，会改变我们恋爱的方式吗？",
+      "vocab": [
+        {
+          "word": "presentaros",
+          "translation": "把你们互相介绍认识",
+          "note": "presentar 在此为反身用法 presentarse，加复数宾语代词 os 表示『把双方互相介绍』，注意西班牙语中代词附着在动词原形末尾的用法，os 对应 vosotros，是伊比利亚半岛西班牙语的典型特征。"
+        },
+        {
+          "word": "cifrada",
+          "translation": "加密的",
+          "note": "cifrado/a 在科技语境中专指数据加密，动词 cifrar 意为『加密』，其反义词为 descifrar（解密/破译），注意 descifrar 在非科技语境中还可引申为『看懂、理解难以理解的事物』。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Creo que sí. Porque el amor que propone la máquina es un modelo pragmático y <strong>aniquilador</strong> del cuerpo. Ya no hará falta ni siquiera compartir fotos porque el programa aspira a emparejar almas puras, es decir, a dejar solo la voluntad y el deber ser al descubierto. La IA <strong>ahondará</strong> en los valores, los objetivos de cada uno, su estilo de apego, planes familiares o hábitos. Me dirán que nosotros también ligamos así, pero en la dinámica de conocimiento humano interviene la experiencia, es decir, cómo nos movemos, cómo hablamos, cómo olemos. La IA sugiere en cambio un platonismo extremo (e inhumano), capaz de <strong>extirpar</strong> toda experiencia del amor. Las apps de citas ya apuntaban en esta dirección, pero, aunque nos conociéramos solo virtualmente, al menos nosotros elegíamos qué decir y cuándo hacerlo.",
+      "zh": "我认为会。因为机器所提出的爱情模式，是一种务实的、消灭肉身的模式。甚至连照片都不再需要分享，因为程序的目标是匹配纯粹的灵魂——也就是说，只将意志与「应有的样子」赤裸裸地呈现出来。AI将深入挖掘每个人的价值观、人生目标、依恋风格、家庭计划或生活习惯。也许有人会说我们自己也是这样谈恋爱的，但人类相互了解的过程中，体验始终参与其中——我们如何移动、如何说话、如何散发气息。AI提出的，恰恰相反，是一种极端的（且非人性的）柏拉图主义，足以将爱情中的一切体验连根拔除。约会应用早已朝这个方向发展，但即便我们只在虚拟世界中相识，至少我们自己还能选择说什么、何时开口。",
+      "vocab": [
+        {
+          "word": "aniquilador",
+          "translation": "消灭一切的，毁灭性的",
+          "note": "aniquilador/a 由动词 aniquilar（消灭、歼灭）派生，后缀 -dor 表示施动者或具有某种作用的事物，可类推 destructor、transformador、perturbador 等同类构词，语气强烈，多见于评论和文学文体。"
+        },
+        {
+          "word": "ahondará",
+          "translation": "将深入挖掘，将深入探究",
+          "note": "ahondar 由 hondo（深的）派生，意为『深入探究某个问题或领域』，固定搭配为 ahondar en，比 profundizar en 更具文学色彩，两者可互换但 ahondar 语感更简洁有力。"
+        },
+        {
+          "word": "extirpar",
+          "translation": "连根拔除，彻底消除",
+          "note": "extirpar 原为医学术语，意为『切除（肿瘤等）』，在比喻语境中指彻底根除某种现象或特质，语气比 eliminar 强烈得多，带有『斩草除根』的意味，是评论文体中的高级词汇。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "La IA ligona define el amor más como una <strong>simetría</strong> entre identidades que como experiencia. Claro que este modelo de amor pragmático es discutible. Cuando el amor te atraviesa, las razones no cumplen ninguna misión. De hecho, las parejas que mejor funcionan no son siempre las que mayor <strong>concordancia</strong> de ideas o proyectos presentan, sino las que tienen una mayor concordancia en la experiencia compartida. A veces, incluso contra todo pronóstico y sin explicación racional.",
+      "zh": "这个热衷于撮合的AI将爱情更多地定义为身份之间的对称，而非一种体验。当然，这种务实的爱情模式是值得商榷的。当爱情穿透你的时候，理由毫无用武之地。事实上，运作最好的伴侣关系，并不总是那些在观念或人生规划上高度一致的，而是那些在共同体验中更为契合的。有时，甚至出乎所有人的意料，毫无理性可言。",
+      "vocab": [
+        {
+          "word": "simetría",
+          "translation": "对称，对等",
+          "note": "simetría 在此处为比喻用法，指两个人在价值观、目标等方面的高度对应与匹配，其反义词为 asimetría（不对称），前缀 a- 表示否定，可类推 asimetría de poder（权力不对等）等常见表达。"
+        },
+        {
+          "word": "concordancia",
+          "translation": "一致性，契合度",
+          "note": "concordancia 在语言学中指语法上的『一致关系』（如性数一致），在此处引申为人与人之间观念或体验的契合程度，动词形式为 concordar（一致、吻合），是学术和评论文体的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Con todo, lo peor de este nuevo modelo es que ya no se trata de quién te gusta a ti sino de quién considera la IA que es mejor para ti. Y así, un 98% de compatibilidad te gustará más que un 75%, antes siquiera de conocer a la persona detrás del número. En este sentido, la pareja propuesta podría parecerse más a un <strong>matrimonio concertado</strong> que a un romance. Puede que perdure en el tiempo, igual que los matrimonios concertados, pero el amor es otra cosa. Y, en relación con esto, ¿podría la IA tener sus propios intereses, igual que sucede con los intereses familiares en los matrimonios concertados? La respuesta es sí.",
+      "zh": "尽管如此，这种新模式最糟糕之处在于：问题不再是你喜欢谁，而是AI认为谁对你最好。于是，98%的匹配度在你还没见到数字背后那个人之前，就已经比75%更讨你欢心了。从这个意义上说，AI推荐的伴侣，与其说像一段浪漫爱情，不如说更像一桩包办婚姻。它或许能经受时间的考验，就像包办婚姻一样，但爱情是另一回事。与此相关，AI会不会也有自己的利益考量，就像包办婚姻中的家族利益一样？答案是肯定的。",
+      "vocab": [
+        {
+          "word": "matrimonio concertado",
+          "translation": "包办婚姻，安排好的婚姻",
+          "note": "concertado/a 由动词 concertar（协商安排）派生，意为『经过事先协商安排的』，matrimonio concertado 是固定搭配，指由家族或第三方安排的婚姻，注意 concertar 还可用于 concertar una cita（约定见面）等搭配。"
+        },
+        {
+          "word": "perdure",
+          "translation": "经久持续，长久延续",
+          "note": "perdurar 意为『长时间持续存在』，比 durar 更强调跨越时间的持久性，常用于描述感情、传统或影响的延续，此处为虚拟式用法，体现对可能性的推测，是书面语中的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Y no solo por un modelo de negocio donde la pasión amorosa será lo de menos, sino porque la IA se <strong>nutrirá</strong> de un sistema de prueba y error que acabará por crear un <strong>paradigma</strong>, es decir, acabará teniendo unas preferencias. Podría preferir, por ejemplo, que las parejas sean de la misma clase social, del mismo país o poseer una idéntica pigmentación de piel. Peor aún, los amantes no conocerán estas preferencias, solo las <strong>padecerán</strong>. Un rollazo. Yo personalmente pediría a todos los robots que se centren de una vez en las tareas que rechazamos los humanos, tales como planchar o rellenar la despensa. Lo de ligar, incluso cuando no sale bien, es un placer y un derecho humano.",
+      "zh": "这不仅仅是因为一种将爱情激情置于末位的商业模式，更是因为AI将从试错体系中汲取养分，最终形成一套范式——也就是说，它最终将形成自己的偏好。它可能会偏向于，例如，让伴侣来自相同的社会阶层、同一个国家，或拥有相同的肤色。更糟糕的是，恋人们对这些偏好毫不知情，只能默默承受其后果。真是够烦的。我个人倒想请所有机器人专心去做那些人类不愿意做的事，比如熨衣服或者补充食品柜。至于谈恋爱这件事，哪怕结果不尽如人意，也是一种乐趣，更是人类的一项权利。",
+      "vocab": [
+        {
+          "word": "nutrirá",
+          "translation": "将从……汲取养分，将以……为食",
+          "note": "nutrirse de 是固定搭配，字面义为『从……获取营养』，引申为从某种来源汲取素材、动力或信息，如 nutrirse de datos（以数据为食）、nutrirse de experiencias（从经历中汲取养分），是评论和学术文体的高频表达。"
+        },
+        {
+          "word": "paradigma",
+          "translation": "范式，模式，典范",
+          "note": "paradigma 源自希腊语，在学术和新闻语境中指某一领域内被广泛接受的思维框架或运作模式，如 cambio de paradigma（范式转变）是极高频的固定搭配，注意与英语 paradigm 是真朋友。"
+        },
+        {
+          "word": "padecerán",
+          "translation": "将承受，将遭受（某种不利影响）",
+          "note": "padecer 意为『承受痛苦或不利影响』，比 sufrir 更强调被动地忍受某种持续性的困境，常用于描述疾病、不公正或隐性伤害，此处暗示用户对算法偏见毫无抵抗能力，语气沉重。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "contra todo pronóstico",
+      "type": "colocación",
+      "translation": "出乎所有人意料，违背一切预期",
+      "usage": "固定搭配，意为结果与所有人的预测完全相反，常用于描述意外的胜利、爱情或转折，语体中性，新闻、体育报道和日常口语中均十分常用，可置于句首或句末。",
+      "exampleEs": "Contra todo pronóstico, el equipo más modesto ganó la final.",
+      "exampleZh": "出乎所有人意料，那支最不被看好的队伍赢得了决赛。"
+    },
+    {
+      "expression": "un rollazo",
+      "type": "expresión coloquial",
+      "translation": "真烦，真无聊，真够呛",
+      "usage": "rollo 本义为『卷轴』，口语中引申为令人厌烦的事物或人，rollazo 是其加强形式（后缀 -azo 表示程度加深），用于表达对某事的强烈不耐烦或厌倦，是伊比利亚半岛西班牙语的典型口语表达。",
+      "exampleEs": "Tener que rellenar ese formulario cada vez que entras es un rollazo.",
+      "exampleZh": "每次登录都要填那张表，真是烦透了。"
+    },
+    {
+      "expression": "atravesar a alguien",
+      "type": "modismo",
+      "translation": "（爱情、emoción）穿透某人，击中某人内心深处",
+      "usage": "字面义为『穿透、刺穿』，用于描述某种强烈情感以无法抗拒的方式冲击一个人，语气强烈而富有文学色彩，常见于散文和评论文体，主语通常是 el amor、el miedo、la música 等抽象名词。",
+      "exampleEs": "Cuando la música te atraviesa de esa manera, no necesitas ninguna explicación.",
+      "exampleZh": "当音乐以那种方式穿透你的时候，你不需要任何解释。"
+    },
+    {
+      "expression": "nutrirse de",
+      "type": "colocación",
+      "translation": "从……汲取养分，以……为食",
+      "usage": "比喻性固定搭配，意为某事物依赖某种来源获取动力、素材或信息，语体正式，常见于学术、科技和文化评论语境，比 basarse en 更强调持续性的吸收与依赖关系。",
+      "exampleEs": "Su escritura se nutre de las conversaciones que escucha en el metro.",
+      "exampleZh": "她的写作从她在地铁上听到的对话中汲取养分。"
+    }
+  ]
+}

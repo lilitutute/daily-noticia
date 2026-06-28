@@ -1,0 +1,152 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与人文思考",
+  "difficulty": "C1",
+  "wordCount": "约750词",
+  "title": "Lo humano",
+  "subtitle": "何为人性：在AI时代重新叩问人类的意义",
+  "resumenEs": "La autora reflexiona sobre el valor de lo humano a partir de una noticia inquietante: las grandes tecnológicas están preservando contenido humano no para proteger la cultura, sino para evitar el colapso de sus modelos de IA. A través de referencias a Ray Bradbury, Blade Runner y ejemplos de lo mejor y lo peor de la humanidad, el artículo oscila entre la melancolía y la admiración, preguntándose si merecemos sobrevivir y qué quedará de nosotros.",
+  "resumenZh": "作者从一则令人不安的新闻出发展开反思：科技巨头保存人类内容，并非为了守护文化，而是为了防止AI模型崩溃。文章借助布拉德伯里、《银翼杀手》等文化参照，在忧郁与赞叹之间游走，叩问人类是否值得延续，以及我们终将留下什么。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Me acabo de enterar de algo tremendo: como más de la mitad de lo que vemos en internet ya está producido total o parcialmente por la inteligencia artificial (una contaminación que se conoce con el nombre de AI slop), una serie de empresas se han lanzado a crear repositorios del contenido humano de internet, fundamentalmente material anterior a 2022, que fue el momento de explosión de las IA, aunque también datos de fuentes de autoría verificada. Esto ya da bastante yuyu, pero lo más <strong>espeluznante</strong> es que el origen de este interés por cuidar de lo humano nace sobre todo por razones perversas, a saber, por un problema que las empresas tecnológicas detectaron y bautizaron como \"colapso de modelo\" y que consiste en que estaban empezando a alimentar sus IA con material producido por la IA, lo cual no sólo aumenta los <strong>sesgos</strong>, sino que además las vuelve repetitivas. Así que las grandes tecnológicas se han puesto a preservar lo humano para poder seguir dando de comer al monstruo.",
+      "zh": "我刚刚得知了一件令人震惊的事：由于网络上超过一半的内容已经完全或部分由人工智能生成（这种污染现象被称为「AI slop」），一批企业开始着手建立互联网人类内容的数据库，主要收录2022年以前的材料——那是AI爆发式增长的节点——以及来自经过核实的作者来源的数据。这本身已经够令人毛骨悚然的了，但最让人不寒而栗的是：这种对人类内容的保护冲动，其根源主要出于一种扭曲的动机，也就是科技公司发现并命名为「模型崩溃」的问题——他们开始用AI生成的内容来喂养AI，这不仅加剧了偏差，还让AI变得越来越重复。于是，科技巨头们开始保存人类内容，为的是继续喂养这头怪兽。",
+      "vocab": [
+        {
+          "word": "espeluznante",
+          "translation": "令人不寒而栗的，毛骨悚然的",
+          "note": "espeluznante 由 espeluznar（使毛发竖立）派生，后缀 -ante 表示『具有某种作用的』，语气比 aterrador 更强调生理性的恐惧感，可类推 escalofriante（令人起鸡皮疙瘩的）等同类表达。"
+        },
+        {
+          "word": "sesgos",
+          "translation": "偏差，偏见，偏向",
+          "note": "sesgo 在数据科学和新闻语境中专指系统性的偏差或偏见，如 sesgo algorítmico（算法偏差）、sesgo de confirmación（确认偏误），是AI和媒体报道中的核心词汇，形容词形式为 sesgado/a（有偏向的）。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "En los últimos tiempos me viene a menudo a la memoria ese maravilloso libro que es Crónicas marcianas, de Ray Bradbury. Las crónicas nos cuentan cómo los humanos llegamos a un Marte imaginario (contra lo que la gente cree, no es una obra de ciencia ficción, sino fantástica) y, en sucesivas <strong>oleadas</strong>, nos las apañamos para exterminar a los marcianos nativos y para, después, destruir la Tierra, así que el puñadito de terrícolas que sobreviven en el planeta rojo pasan a ser los nuevos marcianos. Poderoso y poético, el texto está <strong>impregnado</strong> de una melancolía colosal. Es un canto punzante a las civilizaciones perdidas, a la muerte y el olvido de mundos enteros. Una música que cada día resuena más en mis oídos, porque vivimos tiempos <strong>crepusculares</strong>. La humanidad es un niño que, sentado en la orilla de un océano vacío e interminable, contempla cómo se pone el sol.",
+      "zh": "近来，雷·布拉德伯里那部精彩绝伦的《火星编年史》时常浮现在我的脑海。这部编年史讲述了人类如何抵达一个想象中的火星（与人们通常的认知相反，这不是一部科幻作品，而是奇幻文学），如何在一波又一波的浪潮中设法消灭了火星原住民，又在此后摧毁了地球——于是，那一小撮在红色星球上幸存的地球人，摇身一变成了新的火星人。这部作品既有力又充满诗意，浸透着一种巨大的忧郁。它是一曲对逝去文明、对整个世界的死亡与遗忘的刺痛之歌。这音乐每天都在我耳边回响得愈发清晰，因为我们正生活在一个黄昏时代。人类是一个孩子，坐在一片空旷无垠的海洋岸边，凝望着太阳西沉。",
+      "vocab": [
+        {
+          "word": "oleadas",
+          "translation": "一波又一波，浪潮",
+          "note": "oleada 字面义为『大浪、浪涌』，引申为某种现象或人群的大规模涌现，如 oleada de refugiados（难民潮）、oleada de protestas（抗议浪潮），是新闻报道中描述集体性事件的高频词。"
+        },
+        {
+          "word": "impregnado",
+          "translation": "浸透的，充满的",
+          "note": "impregnado de 是固定搭配，字面义为『被液体浸透』，引申为某种氛围、情感或特质渗透于整体之中，语体偏文学，比 lleno de 更强调深度渗透而非简单充满。"
+        },
+        {
+          "word": "crepusculares",
+          "translation": "黄昏的，暮色的，走向衰落的",
+          "note": "crepuscular 由 crepúsculo（黄昏、暮色）派生，在文学和评论语境中常用作比喻，指某个时代、文明或事物正走向终结，语气忧郁而富有诗意，是C1以上的高级形容词。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Hay otras iniciativas que intentan defender lo humano desde nuestro lado y no del de las máquinas. El año pasado la Asociación de Escritores de EE UU creó el sello Human Authored (autoría humana) con el que pretende marcar los libros para que el lector sepa lo que está leyendo; y, en España, los traductores han sacado un manifiesto defendiendo la traducción humana y están pensando en implementar un sello semejante. Debe de haber cientos o miles de propuestas así en todo el mundo. Pequeñas movilizaciones. Me animan y <strong>enardecen</strong>, pero no creo que consigan que el sol deje de descender hacia el mar tenebroso.",
+      "zh": "也有一些举措试图从我们人类这一侧——而非机器那一侧——来捍卫人性。去年，美国作家协会创立了「Human Authored」（人类署名）认证标志，旨在为书籍加以标注，让读者知道自己读的是什么；在西班牙，译者们发表了一份捍卫人工翻译的宣言，并正在考虑推行类似的认证标志。全世界大概有成百上千个类似的提议。这些小小的行动让我振奋，令我热血沸腾，但我并不认为它们能阻止太阳继续向那片幽暗的大海沉落。",
+      "vocab": [
+        {
+          "word": "enardecen",
+          "translation": "使热血沸腾，激励，点燃激情",
+          "note": "enardecer 意为『点燃热情、激起强烈情绪』，比 animar（鼓励）语气强烈得多，常用于描述演讲、事件或理念激起人们的热情与斗志，多见于政治和文学语境。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "¿A qué llamamos lo humano, qué es ese tesoro de nuestro ser que tanto nos apena perder? Humano es ese bebé que intenta aprender a hablar, que se pone con <strong>torpeza</strong> de pie y cae de culo, curioso, atrevido, tierno e inocente. Pero Hitler también fue niño. Humano son ese horror de Trump y Netanyahu. Y los bestiales talibanes, los carniceros de Sudán, los terroristas de Hamás. Los violadores, los asesinos, los torturadores, los genocidas. Un escalón más abajo: los acosadores, explotadores, maltratadores, corruptos, aprovechados, estafadores y tóxicos. A lo mejor no nos merecemos sobrevivir. Acaba de salir un libro de divulgación científica fascinante, Vita, de Xabi Uribe-Etxebarria, en cuyos capítulos finales el autor se plantea, con una serena aceptación, si la inteligencia artificial no será quizá la próxima vida que <strong>pueble</strong> este planeta (es decir, los nuevos terrícolas tras nuestra desaparición, como los nuevos marcianos del libro de Bradbury). Sí, puede que nos hayamos ganado la extinción.",
+      "zh": "我们所说的「人性」究竟是什么？那究竟是我们存在中怎样一种宝藏，让我们如此痛惜其失去？人性，是那个试图学说话的婴儿，踉踉跄跄地站起来又跌坐在地，充满好奇、大胆、温柔而纯真。但希特勒也曾是个孩子。人性，是特朗普和内塔尼亚胡那令人发指的存在。是凶残的塔利班、苏丹的屠夫、哈马斯的恐怖分子。是强奸犯、杀人犯、施暴者、种族灭绝者。再往下一个台阶：是霸凌者、剥削者、施暴者、腐败分子、投机取巧者、骗子和有毒之人。也许我们根本不值得延续。哈维·乌里韦-埃切巴里亚刚刚出版了一本迷人的科普著作《Vita》，在最后几章中，作者以一种平静的接受态度，探讨人工智能是否将成为下一种占据这颗星球的生命形式（也就是说，在我们消失之后的新地球人，如同布拉德伯里书中的新火星人）。是的，也许我们已经赢得了灭绝的资格。",
+      "vocab": [
+        {
+          "word": "torpeza",
+          "translation": "笨拙，不灵活",
+          "note": "torpeza 是名词，形容词形式为 torpe（笨拙的），可指身体动作的不协调，也可指思维或言语上的迟钝，con torpeza 是固定搭配，意为『笨手笨脚地』，注意与英语 torpor（迟钝）有词根关联。"
+        },
+        {
+          "word": "pueble",
+          "translation": "占据，栖居，使……有人烟",
+          "note": "poblar 意为『使某地有居民、栖居于某处』，此处为虚拟式用法，表示对未来可能性的推测，注意 poblar 与 pueblo（村庄/人民）同根，词根 pobl- 源自拉丁语 populus（人民）。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Pero, claro, lo humano también son esos médicos que están muriendo ahora en el Congo, contagiados por cuidar de los enfermos del terrible ébola (¿serías tú capaz de hacer eso? Yo me lo pregunto. ¿Eres, soy, de la mejor parte de lo humano?). Hay tanto bien en el mundo. En nosotros. Solo en mi vida, en mi pequeña vida, he sido <strong>bendecida</strong> por tantísimos actos de amor y de bondad, por parte de amigos y de extraños. Y luego está la belleza; la música, las artes plásticas, las hermosas palabras.",
+      "zh": "但当然，人性也体现在那些正在刚果死去的医生身上——他们因照料可怕的埃博拉病患而被感染（你能做到吗？我扪心自问。你，我，是否属于人性中最好的那一部分？）。世界上有那么多的善。在我们身上。仅仅在我的生命里，在我小小的一生中，我就被无数来自朋友和陌生人的爱与善意所眷顾。还有美——音乐、造型艺术、美丽的文字。",
+      "vocab": [
+        {
+          "word": "bendecida",
+          "translation": "被祝福的，被眷顾的",
+          "note": "bendecir 意为『祝福、赐福』，bendecido/a 在此处为比喻用法，表示『有幸获得某种美好事物』，ser bendecido/a por 是固定搭配，语体带有宗教或文学色彩，比 afortunado/a 更富有情感温度。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Todo esto, lo bueno y lo malo, desaparecerá como lágrimas en la lluvia, según la famosa frase del replicante de Blade Runner. Puede que sea pronto, en <strong>consonancia</strong> con el vértigo crepuscular en que vivimos, o en un futuro lejano pero inevitable (el Sol colapsará dentro de 5.000 millones de años). Nadie se acordará de nosotros, pero imagino las notas de Beethoven, de Mozart, de Shostakóvich o de Schumann <strong>atravesando</strong> como viento solar el vacío y silencioso espacio.",
+      "zh": "这一切，无论善恶，都将如泪水消逝于雨中——借用《银翼杀手》中那个复制人的名句。也许很快，与我们所处的这个令人眩晕的黄昏时代相呼应；也许在遥远却不可避免的未来（太阳将在五十亿年后坍缩）。没有人会记得我们，但我想象着贝多芬、莫扎特、肖斯塔科维奇或舒曼的音符，如同太阳风一般穿越那片空旷而寂静的宇宙。",
+      "vocab": [
+        {
+          "word": "consonancia",
+          "translation": "呼应，协调一致",
+          "note": "en consonancia con 是固定搭配，意为『与……相呼应、与……保持一致』，语体正式，常见于新闻和学术文体，注意其反义表达为 en disonancia con（与……不协调），两者均源自音乐术语。"
+        },
+        {
+          "word": "atravesando",
+          "translation": "穿越，穿透",
+          "note": "atravesar 在此处为比喻用法，描述音乐音符穿越宇宙空间，呼应前文 el amor te atraviesa 的用法，体现作者一贯的文学风格——用物理性的穿透动作表达无形事物的力量与永恒。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "dar yuyu",
+      "type": "expresión coloquial",
+      "translation": "让人起鸡皮疙瘩，令人毛骨悚然",
+      "usage": "yuyu 是西班牙口语中表示恐惧或不安感觉的名词，dar yuyu 意为『让人感到莫名的恐惧或不适』，语气比 dar miedo 更口语化，常用于描述隐隐的不安而非直接的恐惧，主要流行于伊比利亚半岛西班牙语。",
+      "exampleEs": "Esa casa abandonada me da mucho yuyu, no me gusta pasar por delante.",
+      "exampleZh": "那栋废弃的房子让我浑身不自在，我不喜欢从那里经过。"
+    },
+    {
+      "expression": "apañárselas para",
+      "type": "expresión coloquial",
+      "translation": "设法做到，想方设法",
+      "usage": "apañárselas 是西班牙口语中极为地道的表达，意为『凭借自己的方式解决问题或达成某事』，常带有一种机智应对的意味，后接 para + 动词原形，相当于 arreglárselas，比 conseguir 更口语化。",
+      "exampleEs": "No sé cómo se las apaña para llegar siempre a tiempo con tanto tráfico.",
+      "exampleZh": "我不知道他是怎么做到的，路上那么堵还总能准时到。"
+    },
+    {
+      "expression": "dando de comer al monstruo",
+      "type": "modismo",
+      "translation": "喂养怪兽，为有害事物提供养料",
+      "usage": "比喻性固定表达，意为持续为某种危险或有害的力量提供资源，使其不断壮大，语气带有强烈的批判色彩，常见于政治、科技和社会评论语境，结构为 dar de comer a + 名词。",
+      "exampleEs": "Cada vez que hacemos clic en noticias falsas, estamos dando de comer al monstruo de la desinformación.",
+      "exampleZh": "每次我们点击虚假新闻，都是在喂养虚假信息这头怪兽。"
+    },
+    {
+      "expression": "estar impregnado de",
+      "type": "colocación",
+      "translation": "浸透着，充满着（某种氛围或特质）",
+      "usage": "impregnado/a de 是文学和评论文体中的高频固定搭配，用于描述某种氛围、情感或思想深深渗透于作品、场所或时代之中，比 lleno de 更强调深度与不可分离性，语体偏正式。",
+      "exampleEs": "Su última novela está impregnada de una nostalgia que resulta difícil de sacudir.",
+      "exampleZh": "他的最新小说浸透着一种难以摆脱的乡愁。"
+    },
+    {
+      "expression": "ganarse la extinción",
+      "type": "estructura gramatical",
+      "translation": "赢得了灭绝的资格，自取灭亡",
+      "usage": "ganarse algo 本意为『凭借自身行为赢得某事物』，通常用于正面语境（ganarse el respeto，赢得尊重），此处作者将其用于 la extinción，形成强烈的反讽效果，暗示人类因自身劣根性而咎由自取，是一种极具表现力的修辞手法。",
+      "exampleEs": "Si seguimos destruyendo el medioambiente a este ritmo, nos habremos ganado el colapso.",
+      "exampleZh": "如果我们继续以这种速度破坏环境，我们将自取崩溃。"
+    }
+  ]
+}
