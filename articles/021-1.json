@@ -1,0 +1,253 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "时尚与社会评论",
+  "difficulty": "C1",
+  "wordCount": "约1000词",
+  "title": "La no-manicura y su reverso clasista: cómo las uñas naturales pueden ser propaganda neoliberal",
+  "subtitle": "不做美甲的阶级反面：裸甲如何成为新自由主义宣传",
+  "resumenEs": "El artículo analiza cómo la tendencia de las uñas naturales, lejos de ser una elección neutra, refleja dinámicas de clase, raza y poder. Mientras influencers adineradas abandonan la manicura como señal de estatus, el nail art llamativo —históricamente asociado a comunidades marginadas— vuelve a ser desplazado. El texto cuestiona si esta estética minimalista es realmente liberadora o si, por el contrario, refuerza ideales de feminidad conservadores y menosprecia el trabajo de las manicuristas.",
+  "resumenZh": "本文分析了裸甲趋势如何折射出阶级、种族与权力的动态关系。富有的网红们放弃美甲，将其作为一种新的身份标志，而历史上与边缘群体相关联的艺术美甲再度被边缘化。文章追问：这种极简美学究竟是真正的解放，还是在强化保守的女性气质理想，并贬低美甲师的劳动价值？",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "El comienzo de la serie Love Story, de Ryan Murphy, muestra a Carolyn Bessette pidiéndole a la manicurista que cambie el rojo de sus uñas por una tonalidad nude para contentar a su familia política. Al sustituir un tono distintivo y llamativo por uno absolutamente discreto, se traza una <strong>metáfora visual</strong> que <strong>alude</strong> al borrado de la identidad propia para contentar a los demás. Quizá por eso muchas personas en internet se refieren a estas uñas como \"la manicura de la muerte\". Y también porque Edward Klein <strong>insinuaba</strong> en The Kennedy Curse (St. Martins Press-3PL, 2004) que el accidente de avión que acabó con la vida del matrimonio y de la hermana de Bessette fue de alguna manera culpa de la joven, pues llegó tarde al encuentro por su <strong>empeño</strong> en cambiar el color de sus uñas, que produjo un retraso que obligó a que la pareja cogiera el avión de noche.",
+      "zh": "瑞安·墨菲执导的剧集《爱情故事》开篇，卡罗琳·贝塞特要求美甲师将她的红色指甲换成裸色，以讨好夫家。以一种低调内敛的色调取代鲜明醒目的颜色，构成了一个视觉隐喻，暗指为取悦他人而抹去自我身份。或许正因如此，网络上许多人将这款美甲称为【死亡美甲】。此外，爱德华·克莱因在《肯尼迪诅咒》（圣马丁出版社，2004年）中暗示，那场夺去这对夫妇及贝塞特姐姐生命的空难，在某种程度上是这位年轻女性的过错——她因执意更换指甲颜色而迟到，导致延误，最终迫使这对夫妇在夜间乘机出行。",
+      "vocab": [
+        {
+          "word": "metáfora visual",
+          "translation": "视觉隐喻",
+          "note": "固定搭配，常见于文学、影视评论等正式文体，指通过视觉元素传达抽象含义。类似搭配还有 metáfora lingüística（语言隐喻）、metáfora conceptual（概念隐喻）。"
+        },
+        {
+          "word": "alude",
+          "translation": "暗指，提及",
+          "note": "动词 aludir a，意为『间接提及或暗示』，语气比 mencionar（直接提及）更含蓄，常用于正式或书面语境。注意不要与 eludir（回避）混淆。"
+        },
+        {
+          "word": "insinuaba",
+          "translation": "暗示，影射",
+          "note": "insinuar 表示『隐晦地暗示』，语气比 sugerir 更含有负面或不便明说的意味，常用于新闻评论中描述间接指责。"
+        },
+        {
+          "word": "empeño",
+          "translation": "执意，坚持",
+          "note": "常见搭配为 su empeño en + 动词原形，表示『坚持做某事的决心』，有时带有固执的负面含义。名词形式，对应动词为 empeñarse en。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Cantidad de influencers adineradas aseguran ahora en sus perfiles que ya no tienen tiempo que perder en manicuras, razón por la que ha emergido el debate sobre las uñas como <strong>marcadores de clase</strong>. \"El consenso general es que las uñas cortas y sin esmalte indican un nivel de <strong>despreocupación</strong> que solo la riqueza y el privilegio pueden permitirse. No hay nada inherentemente malo en que te gusten las uñas nude. A mí me gustan, pero me molesta que se <strong>arrincone</strong> de nuevo el nail art llamativo y chirriante que ha pertenecido de siempre a comunidades marginadas\", dice en sus redes sociales la periodista de belleza Kristina Rodulfo.",
+      "zh": "许多富有的网红如今在社交媒体上声称，她们再也没有时间浪费在美甲上，由此引发了关于指甲作为阶级标志的讨论。【普遍共识是，短而无色的指甲代表着一种只有财富和特权才能负担得起的漫不经心。喜欢裸甲本身并没有什么问题，我自己也喜欢，但让我不满的是，那些历来属于边缘群体的夸张、刺眼的美甲艺术再度被打入冷宫】美妆记者克里斯蒂娜·罗杜尔福在社交媒体上写道。",
+      "vocab": [
+        {
+          "word": "marcadores de clase",
+          "translation": "阶级标志，阶级标记",
+          "note": "社会学常用表达，marcador 指『标记物、指示符』，在新闻和学术文体中常与 clase social、estatus 等词搭配使用，具有较强的分析性语气。"
+        },
+        {
+          "word": "despreocupación",
+          "translation": "漫不经心，无忧无虑",
+          "note": "由前缀 des-（否定）+ preocupación（担忧）构成，表示『不在乎、毫不费力的从容感』。前缀 des- 可构成大量反义词，如 desorden、desigualdad、desempleo。"
+        },
+        {
+          "word": "arrincone",
+          "translation": "被打入冷宫，被边缘化",
+          "note": "动词 arrinconar 字面意为『推到角落』，引申为『冷落、边缘化』，此处为虚拟式现在时，受 me molesta que 触发，是典型的『情感动词 + que + 虚拟式』结构。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Lucero Hurtado, nail artist y manicurista de celebridades como Penélope Cruz, asegura que durante mucho tiempo ha existido un <strong>doble rasero</strong> con ciertos estilos de uñas. \"Diseños que en mujeres negras y latinas se han considerado poco profesionales, después se han convertido en tendencia cuando los han llevado otras personas. Como profesional, creo que una manicura no define la elegancia ni la <strong>profesionalidad</strong> de nadie. Las uñas son una forma de expresión y todas las elecciones deberían respetarse\", dice.",
+      "zh": "美甲艺术家、曾为佩内洛普·克鲁兹等名人服务的美甲师卢塞罗·乌尔塔多表示，长期以来，某些美甲风格一直存在双重标准。【同样的设计，在黑人女性和拉丁裔女性身上被认为不够专业，但当其他人采用时，却摇身一变成为流行趋势。作为专业人士，我认为美甲并不能定义任何人的优雅或专业素养。指甲是一种表达方式，所有的选择都应该得到尊重】，她说道。",
+      "vocab": [
+        {
+          "word": "doble rasero",
+          "translation": "双重标准",
+          "note": "固定搭配，是『双标』在西语中最地道的表达方式，常见于社会评论和新闻文体。rasero 本义为『刮平量器的棍子』，引申为『衡量标准』。"
+        },
+        {
+          "word": "profesionalidad",
+          "translation": "专业素养，职业性",
+          "note": "后缀 -idad 将形容词转化为抽象名词，如 profesional → profesionalidad，similar → similaridad。这一构词规律极具迁移价值，可类推出大量词汇。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "En el desfile otoño-invierno 2026/2027 Marc Jacobs <strong>prescindió</strong> por completo del gel y del esmalte en las uñas de las modelos, mientras que Joseph Altuzarra también pidió a los responsables de la manicura del show que las uñas de las modelos no mostraran color alguno, por lo que finalmente Erica De Los Santos, encargada de la manicura del desfile, eligió esmaltes translúcidos que se ajustaban al subtono de piel de cada una de las modelos participantes. En la última gala de los Globos de Oro, figuras como Jennifer Lawrence apostaron también por la 'no-manicura'. En lugar de esmalte, la manicura japonesa se caracteriza por aplicar una pasta formulada especialmente para nutrir la uña. Pero incluso esas uñas naturales siguen requiriendo esfuerzo, pues esta tendencia exige disponer de diferentes productos para abrazar la clean aesthetic que se convierte en una herramienta de poder con mucha influencia que defiende el abrazo a \"la buena mujer\" que cuida de su casa, tiene una belleza natural y <strong>encarna</strong> el ideal máximo de feminidad. \"La belleza en realidad no es cómo te ves; la belleza son las preferencias que <strong>reproducen</strong> el orden social existente\", escribe Tressie McMillan Cottom en Thick: and other essays (The New Press, 2019). Lucero Hurtado aclara a S Moda que aunque en la actualidad la manicura muy natural se asocia al lujo silencioso y a la elegancia, unas uñas cortas y sin esmalte también necesitan cuidados y mantenimiento. \"El verdadero lujo no es no llevar esmalte, sino llevar unas manos impecablemente cuidadas. Se busca una belleza mucho más discreta y una manicura natural que transmita sofisticación\", apunta.",
+      "zh": "在2026/2027秋冬发布会上，马克·雅可布完全摒弃了模特指甲上的凝胶和指甲油，而约瑟夫·阿尔图扎拉也要求秀场美甲负责人不为模特涂任何颜色，最终由秀场美甲师埃丽卡·德洛斯桑托斯选用了与每位参赛模特肤色底调相匹配的透明甲油。在最近一届金球奖颁奖典礼上，詹妮弗·劳伦斯等明星也选择了【无美甲】造型。日式美甲的特点不在于涂抹指甲油，而是使用专门配制的滋养甲片的膏体。然而即便是这种天然指甲，同样需要付出努力——这一趋势要求备齐各类产品，以拥抱【清洁美学】。这种美学已成为一种极具影响力的权力工具，倡导回归【好女人】形象：操持家务、保持天然美貌，体现女性气质的最高理想。【美丽其实与外貌无关，美丽是那些再现现有社会秩序的审美偏好】，特雷西·麦克米兰·科顿在《Thick：及其他随笔》（新出版社，2019年）中写道。卢塞罗·乌尔塔多向S Moda杂志澄清，尽管如今极简天然美甲与低调奢华和优雅相关联，但短而无色的指甲同样需要护理和保养。【真正的奢华不是不涂指甲油，而是拥有一双无可挑剔的精致双手。人们追求的是更为低调的美感，以及能传递出精致感的天然美甲】，她指出。",
+      "vocab": [
+        {
+          "word": "prescindió",
+          "translation": "摒弃，放弃，不使用",
+          "note": "动词 prescindir de 是固定搭配，意为『不使用、舍弃』，语体正式，常见于新闻和评论文章。注意必须接介词 de，不可省略。"
+        },
+        {
+          "word": "encarna",
+          "translation": "体现，化身为",
+          "note": "动词 encarnar 意为『具体体现、人格化』，比 representar 更强调将抽象概念化为具体形象，常用于文化、社会评论语境。"
+        },
+        {
+          "word": "reproducen",
+          "translation": "再现，复制，延续",
+          "note": "在社会学语境中，reproducir 不仅指物理复制，更指『延续、强化某种社会结构或意识形态』，是学术文体中的高频词，注意与 repetir 区分。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "La consultora de marcas Miranda Shanahan se pregunta en redes si hacerse la manicura ya no es el símbolo de estatus que solía ser. Esas dudas le surgen tras ver el vídeo en el que la influencer Valeria Lipovetsky afirma haber dejado de hacérsela. \"Desde entonces, se ha generado un amplio debate sobre si no hacerse la manicura es señal de verdadera riqueza, ya que implica que el tiempo es demasiado valioso como para <strong>desperdiciarlo</strong> en el salón cada tres semanas. Esto es un ejemplo clásico de <strong>contraargumentación</strong>. Cuando un símbolo de estatus se vuelve común, las personas en la cima optan por no usarlo para demostrar que no lo necesitan\", dice. \"Lo mismo sucedió con los logotipos de diseñador, incluso con el autobronceador. ¿Podría estar ocurriendo ahora con las manicuras?\", se pregunta. \"Primero, que si llevar las uñas decoradas por un salón de estética era señal de riqueza. Ahora que las manicuras se han <strong>abaratado</strong> y son accesibles, el nuevo indicador de estatus y distinción de las famosas es llevarlas cortas y al natural, porque es la opción más práctica con todos los compromisos que tienen en su día. Yo qué sé chicas, es imposible seguirle el ritmo a todas las tendencias absurdas que nos venden en las revistas sobre cómo tenemos que lucir las mujeres\", comenta Mara Mariño, autora de #S3xpidemIA (Editorial Loto Azul, 2025), en stories de Instagram.",
+      "zh": "品牌顾问米兰达·沙纳汉在社交媒体上发问：美甲是否已不再是曾经的身份象征？这一疑问源于她看到网红瓦莱里亚·利波维茨基宣称已放弃美甲的视频。【自那以后，关于不做美甲是否是真正财富象征的讨论愈演愈烈——因为这意味着时间太宝贵，不值得每三周花在美甲沙龙上。这是一个典型的反向论证案例。当一种身份象征变得普遍，处于顶层的人便选择不使用它，以此证明自己根本不需要它】，她说。【样的事情发生在设计师品牌logo上，甚至发生在美黑产品上。现在会轮到美甲吗？】她反问道。【起初，在美甲沙龙做装饰美甲是财富的象征。如今美甲价格已经下降、变得触手可及，名人彰显地位与品味的新方式，反而是留短指甲、保持天然状态——因为这对于她们繁忙的日程来说是最实际的选择。姑娘们，我也不知道该说什么，杂志上卖给我们的那些关于女性该如何示人的荒唐趋势，根本跟不上】，《#S3xpidemIA》（蓝莲花出版社，2025年）作者玛拉·马里尼奥在Instagram故事中评论道。",
+      "vocab": [
+        {
+          "word": "desperdiciarlo",
+          "translation": "浪费（时间）",
+          "note": "动词 desperdiciar 意为『浪费』，常与 tiempo、oportunidad、talento 等搭配，语气比 gastar 更强调『不该浪费却浪费了』的惋惜或批评意味。"
+        },
+        {
+          "word": "contraargumentación",
+          "translation": "反向论证，反驳论证",
+          "note": "由 contra-（反）+ argumentación（论证）构成，前缀 contra- 可构成大量词汇，如 contradecir、contraproducente、contrarrestar，是高频构词前缀。"
+        },
+        {
+          "word": "abaratado",
+          "translation": "降价的，变得便宜的",
+          "note": "动词 abaratar 意为『使价格降低』，由 a- + barato + -ar 构成，同类构词还有 alargar、acortar、aligerar，均表示『使变得……』的动词化过程。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "La periodista Tariro Makoni explica en un post titulado Stealth Status: What Your Manicure Says About U (Lujo silencioso Lo que tu manicura dice de ti) que se ha dado cuenta de que la manicura es profundamente política. \"Hay chicas con uñas al natural que se dan un aire a Jane Birkin: son la viva imagen de alguien que nunca ha pensado en hacerse la manicura en su vida… Las chicas tipo Jane Birkin aman la naturaleza de verdad, prefieren ser Emerson antes que Didion o Babitz y debido a su <strong>desenfado</strong> general, son tan elegantes que la clase les sale por los poros. Por desgracia, se nace con esto (lo siento), y suele surgir de la exposición a una gran riqueza a una edad muy temprana, o de padres casi nihilistas que te enseñaron que los placeres de la vida son tuyos, que nunca deben ser dictados por el interés de las masas\", escribe. \"¿Y por qué es necesario nacer en ese entorno? Bueno, siempre tendrás más poder en la estructura en la que naciste y te criaste que en aquella que <strong>heredaste por contrato</strong>. Esto es lo que crea un estrato protegido e <strong>impenetrable</strong>: el misterio de las uñas al natural de Jane Birkin reside en que ella no piensa en ser una Jane Birkin... simplemente lo es\", dice.",
+      "zh": "记者塔里罗·马科尼在一篇题为《隐形地位：你的美甲透露了什么》的文章中表示，她意识到美甲是一件深刻的政治议题。【有些留着天然指甲的女孩颇有简·伯金的风范：她们简直是那种一辈子从未想过做美甲的人的活生生写照……简·伯金式的女孩真心热爱自然，她们宁愿成为爱默生，也不愿成为迪迪恩或巴比茨，正是由于她们骨子里的那份随性洒脱，她们优雅得浑然天成，阶级气质从毛孔里渗出来。遗憾的是，这是与生俱来的（抱歉），通常源于极早年龄便接触巨大财富，或者来自近乎虚无主义的父母——他们教导你，生活的乐趣属于你自己，永远不应被大众的喜好所左右】，她写道。【为什么必须出生在那样的环境中？因为在你出生和成长的结构中，你永远比在后天习得的结构中拥有更多权力。这正是那个受到庇护、无法渗透的阶层得以形成的原因：简·伯金天然指甲的神秘之处在于，她从不刻意去做一个简·伯金……她就是她。】",
+      "vocab": [
+        {
+          "word": "desenfado",
+          "translation": "随性洒脱，轻松自在",
+          "note": "desenfado 指一种『毫不做作、自然从容』的态度，带有正面含义，常用于描述某人举止自然、不拘礼节。注意与 descuido（疏忽）区分，后者含负面意味。"
+        },
+        {
+          "word": "heredaste por contrato",
+          "translation": "后天习得的（身份/结构）",
+          "note": "这是一个极具表现力的隐喻表达，用『通过合同继承』比喻后天努力获得的社会地位，与『与生俱来』的特权形成对比，体现了作者对阶级固化的批判性思考。"
+        },
+        {
+          "word": "impenetrable",
+          "translation": "无法渗透的，坚不可摧的",
+          "note": "由前缀 im-（否定）+ penetrable 构成，im- 在 b/p 开头的词前替代 in-，如 imposible、improbable、imparcial，是重要的否定构词规律。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "\"El razonamiento es que las personas adineradas y de alto estatus están demasiado ocupadas como para molestarse con las citas regulares de manicura de varias horas y el mantenimiento <strong>meticuloso</strong> que requieren las manicuras caras (propaganda de 'girlboss' si es que alguna vez he oído algo así)\", dice en Allure Sable Yong. El fenómeno girlboss defiende que la realización personal, el <strong>empoderamiento</strong> y la igualdad de las mujeres se consiguen a través del éxito profesional. Se ha cuestionado por intentar presentar como feminista una lógica basada en la competencia y el ascenso dentro de estructuras capitalistas, <strong>invisibilizando</strong> problemas como la explotación laboral y el individualismo.",
+      "zh": "\"这套逻辑认为，富有且地位高的人太忙了，没空为定期数小时的美甲预约和昂贵美甲所需的精细维护而烦恼（如果这不是'女强人'宣传，我不知道什么才是）\"，萨布尔·勇在《Allure》杂志中写道。【女强人】现象主张，女性的自我实现、赋权与平等，可以通过职业成功来实现。然而这一现象因试图将一种基于竞争和在资本主义结构内晋升的逻辑包装成女权主义而受到质疑，因为它遮蔽了劳动剥削和个人主义等问题。",
+      "vocab": [
+        {
+          "word": "meticuloso",
+          "translation": "一丝不苟的，精细的",
+          "note": "形容词，强调做事极度细致、注重每个细节，常用于正式或书面语境。与 cuidadoso（细心的）相比，meticuloso 程度更深，有时暗含过于繁琐之意。"
+        },
+        {
+          "word": "empoderamiento",
+          "translation": "赋权，增能",
+          "note": "由英语 empowerment 借入，后缀 -miento 将动词转化为名词，如 empoderamiento、entrenamiento、razonamiento。该词在女权主义和社会运动语境中高频出现。"
+        },
+        {
+          "word": "invisibilizando",
+          "translation": "使……隐形，遮蔽，忽视",
+          "note": "动词 invisibilizar 由 invisible + -izar 构成，后缀 -izar 可将名词或形容词动词化，如 normalizar、globalizar、digitalizar，是极具构词价值的后缀。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Muchas personas han asegurado que el renovado interés por las uñas naturales es una clara señal de <strong>recesión económica</strong>. El problema es que la mayoría de salones de manicura están gestionados y atendidos por mujeres, en muchas ocasiones <strong>racializadas</strong>, por lo que aunque es cierto que no todo el mundo puede acceder a estos servicios, también lo es que decir que son innecesarios <strong>menosprecia</strong> su formación y su trabajo y supone poner una nueva traba a estas mujeres.",
+      "zh": "许多人认为，对天然指甲的重新兴趣是经济衰退的明显信号。问题在于，大多数美甲沙龙由女性经营和服务，其中许多是有色人种女性。因此，尽管确实并非所有人都能负担这些服务，但将其定性为不必要，则是在贬低她们的专业培训和劳动价值，并给这些女性设置了新的障碍。",
+      "vocab": [
+        {
+          "word": "recesión económica",
+          "translation": "经济衰退",
+          "note": "新闻和经济类文章中的高频固定搭配，recesión 特指经济活动持续下滑的阶段，比 crisis económica（经济危机）程度略轻，使用时注意两者的语义差异。"
+        },
+        {
+          "word": "racializadas",
+          "translation": "被种族化的，有色人种的",
+          "note": "动词 racializar 的过去分词，在社会学和新闻语境中指『因种族身份而被区别对待的群体』，是当代社会议题报道中的高频词，注意其政治敏感性。"
+        },
+        {
+          "word": "menosprecia",
+          "translation": "贬低，轻视",
+          "note": "动词 menospreciar 由 menos（更少）+ preciar（珍视）构成，意为『低估、轻视某人的价值』，比 despreciar 语气稍轻，但同样带有负面评价意味。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Aunque por descontado es maravilloso que las tendencias de belleza <strong>aboguen por</strong> despojar a las mujeres de presiones estéticas que les exigen invertir tiempo y dinero, es conveniente tener en mente si estas no contribuyen a <strong>marginar</strong> a quienes ya lo están de base. Sería iluso pensar que precisamente cuando la delgadez extrema y el minimalismo se imponen, el adiós a las uñas exageradas no tiene una explicación ideológica. Ya lo decía C. Tangana: la \"mala mujer\" es la que deja arañazos con sus uñas de gel por lo que en tiempos en los que se defiende a su revés, es decir, a ese ángel doméstico, las uñas naturales son las que <strong>triunfan</strong>. Quizás no arañan, pero sin duda, hablan.",
+      "zh": "诚然，美妆趋势倡导将女性从那些要求投入时间和金钱的审美压力中解放出来，这固然令人欣慰，但我们有必要思考：这些趋势是否反而在进一步边缘化那些本就处于边缘的人？若认为在极度消瘦和极简主义大行其道之际，告别夸张美甲背后没有意识形态的解释，未免过于天真。C·唐加纳早已说过：【坏女人】是那些用凝胶指甲留下抓痕的人——因此，在推崇其反面即【家庭天使】的时代，天然指甲自然大行其道。也许它们不会留下抓痕，但毫无疑问，它们在发声。",
+      "vocab": [
+        {
+          "word": "aboguen por",
+          "translation": "倡导，主张",
+          "note": "固定搭配 abogar por，意为『为……辩护或倡导』，此处为虚拟式，受 es maravilloso que 触发。abogar 本义为『辩护（律师）』，引申为『支持某种立场』，语体正式。"
+        },
+        {
+          "word": "marginar",
+          "translation": "边缘化，排斥",
+          "note": "动词 marginar 意为『将某人/群体推向社会边缘』，与名词 margen（边缘）同根，常见于社会议题报道。注意区分 marginar（边缘化他人）和 marginarse（自我边缘化）。"
+        },
+        {
+          "word": "triunfan",
+          "translation": "大行其道，占据主流，获胜",
+          "note": "动词 triunfar 在时尚和文化评论语境中常表示『成为主流、大获成功』，比 ganar 更强调全面性的胜利或主导地位，语气较为正式。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "la viva imagen de",
+      "type": "colocación",
+      "translation": "……的活生生写照，与……一模一样",
+      "usage": "固定搭配，用于强调某人或某物极度符合某种典型形象，语气生动，常见于口语和书面语。结构为 ser la viva imagen de + 名词/人名。",
+      "exampleEs": "Con ese traje y esa actitud, es la viva imagen de su padre.",
+      "exampleZh": "穿着那套西装、摆出那副姿态，他简直是他父亲的翻版。"
+    },
+    {
+      "expression": "la clase les sale por los poros",
+      "type": "expresión coloquial",
+      "translation": "阶级气质从毛孔里渗出来，浑身散发着上流气质",
+      "usage": "夸张性口语表达，用『从毛孔渗出』比喻某种气质或特质极为自然、浑然天成，无需刻意展示。可替换 clase 为其他名词，如 la elegancia le sale por los poros。",
+      "exampleEs": "No necesita llevar ropa de lujo; la elegancia le sale por los poros.",
+      "exampleZh": "她不需要穿名牌，优雅气质已经从骨子里透出来了。"
+    },
+    {
+      "expression": "seguirle el ritmo a",
+      "type": "colocación",
+      "translation": "跟上……的节奏，与……保持同步",
+      "usage": "固定搭配，表示『跟上某人或某事物的速度/变化』，常用于口语和非正式书面语，后接名词或代词。否定形式 es imposible seguirle el ritmo a 常用于表达无奈或批评。",
+      "exampleEs": "El mundo digital cambia tan rápido que es difícil seguirle el ritmo a todas las novedades.",
+      "exampleZh": "数字世界变化太快，很难跟上所有新动态的节奏。"
+    },
+    {
+      "expression": "dar un aire a",
+      "type": "colocación",
+      "translation": "有几分……的风范，让人联想到……",
+      "usage": "固定搭配，表示某人或某物在外形或气质上与另一人/物相似，常用于时尚、文化评论语境。结构为 darse un aire a + 人名/名词，主语通常是人。",
+      "exampleEs": "Con ese peinado, se da un aire a Audrey Hepburn.",
+      "exampleZh": "留着那个发型，她颇有奥黛丽·赫本的风范。"
+    },
+    {
+      "expression": "por descontado",
+      "type": "estructura gramatical",
+      "translation": "当然，毋庸置疑，理所当然",
+      "usage": "副词短语，用于引出被视为不言而喻的前提，语体正式，常见于书面评论和论述文章。与 por supuesto 同义，但 por descontado 书面感更强，多用于让步结构。",
+      "exampleEs": "Por descontado que el esfuerzo es necesario, pero no es suficiente por sí solo.",
+      "exampleZh": "努力固然必要，但仅凭努力本身是不够的。"
+    }
+  ]
+}

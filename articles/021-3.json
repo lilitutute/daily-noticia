@@ -1,0 +1,226 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "时事新闻 / 经济与社会",
+  "difficulty": "B2",
+  "wordCount": "约1100词",
+  "title": "La «californización» de la dieta de la clase media china",
+  "subtitle": "中国中产阶级饮食的『加州化』",
+  "resumenEs": "La creciente clase media china está transformando sus hábitos alimentarios: busca productos más saludables, seguros y sostenibles. El salmón, los arándanos y los aguacates ganan popularidad, mientras la agricultura ecológica se expande y nuevas cadenas de restauración adaptan conceptos occidentales al paladar local. Este cambio, impulsado por el aumento del poder adquisitivo y la desconfianza ante escándalos alimentarios pasados, representa un reto y una oportunidad para el sistema alimentario chino.",
+  "resumenZh": "中国不断壮大的中产阶级正在改变饮食习惯，转而追求更健康、更安全、更可持续的食品。三文鱼、蓝莓和牛油果日益流行，有机农业持续扩张，新兴餐饮品牌也在将西方理念融入本土口味。这一转变既受益于购买力提升，也源于过去食品安全丑闻引发的不信任感，对中国食品体系而言既是挑战，也是机遇。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Dai Jianjun, propietario de un restaurante de productos ecológicos en la ciudad oriental de Hangzhou, fue un <strong>adelantado a su tiempo</strong>. Sus responsables de compras llevan más de 20 años buscando ingredientes con <strong>esmero</strong> y pagan a los agricultores de la provincia de Zhejiang precios superiores a los de mercado para que no utilicen fertilizantes químicos ni pesticidas. El esfuerzo ha dado sus frutos: su restaurante, Dragon Well Manor, cuenta con una estrella Michelin. Su abuela solía decir que la primera generación rica compra casas, la segunda aprende a vestir bien y la tercera aprende a comer bien.",
+      "zh": "杭州有机餐厅的老板戴建军是一个走在时代前面的人。他的采购团队二十余年来精心寻觅食材，并向浙江省农民支付高于市场价的收购价，以换取他们不使用化学肥料和农药。这番努力终于开花结果：他的餐厅龙井草堂荣获米其林一星。他的祖母常说，第一代富人买房子，第二代学会穿好衣，第三代才学会吃好饭。",
+      "vocab": [
+        {
+          "word": "adelantado a su tiempo",
+          "translation": "走在时代前面的人，超前于时代的人",
+          "note": "固定表达，用于形容某人的想法或行动超越了所处时代，与英语 ahead of his time 完全对应。adelantado 本义为『提前的、超前的』，此处作名词性短语使用。"
+        },
+        {
+          "word": "esmero",
+          "translation": "精心，细心，一丝不苟",
+          "note": "名词，常见搭配为 con esmero（精心地），强调做事态度认真、注重细节。近义词 cuidado 更泛指小心，而 esmero 更突出对品质的追求，多用于正式或书面语境。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "A medida que la clase media china —casi 500 millones de personas con una renta disponible anual de al menos 15 000 dólares— crece en tamaño y <strong>poder adquisitivo</strong>, también cambian los productos que llenan sus cestas de la compra, pues sus integrantes quieren comer de forma más saludable, segura y sencilla. El sistema alimentario chino trata de <strong>adaptarse</strong> a esta evolución de los gustos: las explotaciones agrícolas producen más proteínas y frutas habituales en los países occidentales, las tiendas de alimentación venden más productos ecológicos y los restaurantes ofrecen cartas más saludables. Los platos chinos están experimentando cambios en su composición. Aunque la carne de cerdo sigue reinando, el pescado y el marisco constituyen conjuntamente la segunda fuente de proteínas más popular. De hecho, la dieta de la clase media china está adquiriendo rasgos cada vez más californianos: el salmón, los arándanos y los aguacates figuran entre los alimentos cuya popularidad más crece.",
+      "zh": "随着中国中产阶级——近5亿人口，年可支配收入至少达1.5万美元——在规模和购买力上持续增长，他们购物篮里的商品也随之改变，因为他们希望吃得更健康、更安全、更简便。中国食品体系正努力适应这一口味变迁：农场生产更多西方国家常见的蛋白质和水果，食品店销售更多有机产品，餐厅也推出更健康的菜单。中国菜肴的构成正在发生变化。尽管猪肉依然称霸，但鱼类和海鲜合计已成为第二大热门蛋白质来源。事实上，中国中产阶级的饮食正呈现出越来越多的加州特色：三文鱼、蓝莓和牛油果跻身人气增长最快的食品之列。",
+      "vocab": [
+        {
+          "word": "poder adquisitivo",
+          "translation": "购买力",
+          "note": "经济类新闻的高频固定搭配，adquisitivo 来自动词 adquirir（获取、购买），该词族还包括 adquisición（收购、采购）、adquirir（获得），在商业和经济报道中极为常见。"
+        },
+        {
+          "word": "adaptarse",
+          "translation": "适应，调整",
+          "note": "动词 adaptarse a 为固定搭配，意为『适应某事物』，前缀 a- 表示方向或趋近，近义词 ajustarse a 更强调精确匹配，而 adaptarse 更强调主动调整的过程。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "A lo largo de su historia, los ciudadanos chinos solían preocuparse por conseguir suficientes alimentos básicos, como arroz y fideos. En una nación tradicionalmente agrícola, la agricultura sigue dando empleo a uno de cada cinco trabajadores. Alimentar al 17 % de la población mundial con apenas el nueve por ciento de la tierra cultivable del planeta no es tarea menor. Por consiguiente, China depende en gran medida de las importaciones agrícolas, aunque el gobierno aspira a <strong>reforzar</strong> su autosuficiencia. En la actualidad, la mayoría de su población disfruta de una alimentación abundante y de calidad. En menos de cuatro décadas, el país ha pasado del racionamiento a tener que controlar el peso de su población: más de la mitad de los adultos padecen sobrepeso u obesidad. Muchos se preocupan ahora más por la calidad de lo que comen que por la cantidad —este interés por una alimentación mejor suele <strong>acompañar</strong> al aumento de la prosperidad—. Sin embargo, en China también influye la desconfianza generada por un largo historial de problemas de seguridad alimentaria: el escándalo de la leche en polvo <strong>contaminada</strong> que hizo enfermar a más de 300 000 bebés en 2008 conmocionó al país y, más recientemente, las polémicas relacionadas con aceite de cocina contaminado y restaurantes que sirven comida precocinada han vuelto a despertar la indignación.",
+      "zh": "纵观历史，中国民众长期以来最担心的是能否获得足够的基本食物，如大米和面条。作为一个传统农业国，农业至今仍为五分之一的劳动者提供就业。用仅占全球9%的耕地养活全球17%的人口，绝非易事。因此，中国在很大程度上依赖农业进口，尽管政府致力于增强粮食自给能力。如今，大多数中国人已能享受充足且有质量保障的饮食。不到四十年间，这个国家从凭票配给走向了需要控制国民体重的阶段：超过一半的成年人超重或肥胖。许多人如今更关注吃什么，而非吃多少——这种对更优质饮食的追求，通常伴随着生活水平的提升而出现。然而在中国，食品安全领域长期积累的不信任感同样不可忽视：2008年毒奶粉丑闻导致逾30万名婴儿患病，震惊全国；近年来，有关食用油污染和餐厅供应预制菜的争议，再度激起公众的强烈不满。",
+      "vocab": [
+        {
+          "word": "reforzar",
+          "translation": "加强，强化",
+          "note": "由前缀 re-（再次、加强）+ forzar（强迫、用力）构成，re- 在西语中常表示『再次』或『加强』，如 reafirmar、reforzar、renovar。注意 reforzar 侧重增强已有的东西，与 fortalecer 近义但更口语化。"
+        },
+        {
+          "word": "acompañar",
+          "translation": "伴随，与……同步出现",
+          "note": "在学术和新闻文体中，acompañar 常用于描述两种现象的共生关系，如 el crecimiento económico suele acompañar a...，比 ir junto a 更正式，是社会分析类文章的常用动词。"
+        },
+        {
+          "word": "contaminada",
+          "translation": "受污染的，被污染的",
+          "note": "形容词，来自动词 contaminar（污染），常见搭配有 agua contaminada、suelo contaminado、leche contaminada。注意与英语 contaminated 同源，是食品安全和环境报道中的核心词汇。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Para entender esta «californización» de la dieta de la clase media, hay que observar primero cómo está cambiando la demanda de determinados alimentos. En 2022, las directrices del gobierno recomendaron por primera vez el salmón como fuente saludable de omega-3, un producto <strong>reservado</strong> durante años a los más ricos, pero ahora su carne rosada y jugosa se ha popularizado en todo el país. Un ejército de repartidores distribuye a gran velocidad piezas procedentes de supermercados, comercios especializados y vendedores por streaming con instalaciones de procesado de calidad sashimi a una clase media en constante expansión. Según Sigmund Bjorgo, del Consejo Noruego de Productos del Mar, China se ha convertido este año en el segundo mayor mercado mundial del salmón.",
+      "zh": "要理解中产阶级饮食的这场『加州化』，首先需要观察特定食品的需求正在如何变化。2022年，政府饮食指南首次将三文鱼列为健康的欧米伽-3来源——这种食材多年来一直是富裕阶层的专属，如今其粉嫩多汁的鱼肉已在全国普及。一支庞大的外卖骑手队伍，将来自超市、专卖店和具备刺身级加工设施的直播卖家的三文鱼，以极快的速度配送给不断扩大的中产阶级群体。挪威海产品委员会的西格蒙德·比约戈表示，中国今年已成为全球第二大三文鱼市场。",
+      "vocab": [
+        {
+          "word": "reservado",
+          "translation": "专属于，仅限于",
+          "note": "动词 reservar 的过去分词作形容词，在此语境中意为『只供某类人享用』，搭配为 reservado a/para + 名词。注意这是一词多义：reservado 还可指『内向的、寡言的』（性格），需根据语境区分。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Empresas como Nordic Aqua <strong>aspiran a</strong> aprovechar este floreciente negocio. En tanques del tamaño de los que se encuentran en acuarios, situados a las afueras de Ningbo, en la provincia de Zhejiang, la compañía noruega produce actualmente 8000 toneladas de salmón al año y es su intención elevar esa cifra hasta las 20 000 toneladas —unos cuatro millones de peces— para 2030. Para entonces, estima Ragnar Joensen, director de la empresa, el mercado chino del salmón podría alcanzar las 300 000 toneladas anuales. El salmón de Nordic Aqua, capturado por la mañana, puede servirse por la tarde en Shanghái, a 300 kilómetros de distancia. Con el <strong>respaldo</strong> del gobierno, la empresa está construyendo en su planta de Zhejiang una de las piscifactorías terrestres de salmón atlántico más grandes del mundo y es de esperar que sus sistemas de agua mantengan a los peces sanos incluso sin necesidad de antibióticos.",
+      "zh": "挪威北极水产等企业志在抓住这一蓬勃发展的商机。该挪威公司在宁波郊区建有与水族馆规模相当的养殖水槽，目前年产三文鱼8000吨，并计划在2030年前将产量提升至2万吨，约合400万条鱼。公司总裁拉格纳·约恩森估计，届时中国三文鱼市场年需求量有望达到30万吨。北极水产的三文鱼早上捕捞，当天下午便可端上300公里外上海的餐桌。在政府支持下，该公司正在浙江厂区建设全球最大的大西洋三文鱼陆基养殖场之一，其水处理系统有望在无需使用抗生素的情况下保障鱼群健康。",
+      "vocab": [
+        {
+          "word": "aspiran a",
+          "translation": "志在，渴望，致力于",
+          "note": "动词 aspirar a + 动词原形，意为『渴望实现某目标』，语体正式，常见于商业和新闻报道。注意假朋友陷阱：aspirar 还有『吸入』的含义（如 aspirar aire），需根据语境判断。"
+        },
+        {
+          "word": "respaldo",
+          "translation": "支持，后盾，背书",
+          "note": "名词，常见搭配为 con el respaldo de（在……的支持下）、contar con el respaldo de（获得……的支持）。比 apoyo 更正式，且常暗示来自权威或强大一方的支持，多见于政治和商业报道。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "China también ha <strong>impulsado</strong> la importación y la producción nacional de otros alimentos especialmente apreciados en California. Los aguacates y los arándanos, por ejemplo, han experimentado un fuerte aumento en su popularidad y sus precios han caído: tanto un aguacate como una bandeja de 125 gramos de arándanos cuestan actualmente alrededor de un dólar, una pequeña parte de lo que costaban hace una década. La provincia de Yunnan, en el suroeste del país, se ha convertido en el principal centro de producción de ambos cultivos. La <strong>abundante</strong> cosecha de arándanos de China —la mayor del mundo, con cerca de un millón de toneladas el pasado año— ha permitido que esta fruta llegue a muchos más consumidores del país.",
+      "zh": "中国还大力推动了其他在加州备受青睐的食品的进口和国内生产。以牛油果和蓝莓为例，两者的人气大幅攀升，价格也随之下降：如今一颗牛油果和一盒125克装蓝莓的售价均约为1美元，仅为十年前的一小部分。西南部的云南省已成为这两种作物的主要产区。中国蓝莓产量丰硕——去年产量近百万吨，居全球之首——使这种水果得以走进更多国内消费者的生活。",
+      "vocab": [
+        {
+          "word": "impulsado",
+          "translation": "推动，促进",
+          "note": "动词 impulsar 意为『推动、促进某事发展』，在经济和政策报道中极为常见，如 impulsar el crecimiento、impulsar reformas。比 promover 更强调主动施加推力的动态过程。"
+        },
+        {
+          "word": "abundante",
+          "translation": "丰盛的，大量的",
+          "note": "形容词，来自动词 abundar（大量存在），常见搭配有 cosecha abundante（丰收）、recursos abundantes（丰富的资源）。注意与英语 abundant 同源，是典型的同源词，可直接迁移。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "La «californización» también implica nuevas formas de producir alimentos. La popularidad de los productos ecológicos está aumentando. En 2024, la superficie dedicada a la agricultura ecológica en China duplicaba la existente diez años antes, y representaba el 0,7 % de las tierras cultivables del país. Ese mismo año, las ventas de productos ecológicos se multiplicaron por más de tres, hasta alcanzar los 16 700 millones de dólares, y solo con respecto a 2023 crecieron un 19 %. Según Chang Tianle, directora del Beijing Farmers' Market, la rápida industrialización del país y el <strong>encarecimiento</strong> de la tierra llevaron durante años a los agricultores a maximizar el rendimiento de cada parcela, <strong>priorizando</strong> la cantidad sobre la calidad.",
+      "zh": "『加州化』还意味着食品生产方式的革新。有机产品的人气持续上升。2024年，中国有机农业种植面积是十年前的两倍，占全国耕地面积的0.7%。同年，有机产品销售额增长逾三倍，达到167亿美元，仅与2023年相比就增长了19%。据北京农夫市集负责人常天乐介绍，多年来，国家快速工业化和土地成本上涨，迫使农民追求每块土地的最大产出，将产量置于质量之上。",
+      "vocab": [
+        {
+          "word": "encarecimiento",
+          "translation": "价格上涨，成本攀升",
+          "note": "名词，来自动词 encarecer（使变贵），由 en- + caro（贵）+ -ecer 构成，后缀 -ecer 常构成表示『变得……』的动词，如 enriquecer（变富）、empobrecer（变穷）、oscurecer（变暗）。"
+        },
+        {
+          "word": "priorizando",
+          "translation": "优先考虑，将……置于首位",
+          "note": "动词 priorizar 的现在分词，由 prioridad（优先级）+ -izar 构成，后缀 -izar 可将名词转化为动词，如 priorizar、digitalizar、normalizar。此处作伴随状语，说明农民行为的方式。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Aunque sigue consumiéndolos principalmente la clase media, los productos ecológicos se han <strong>abaratado</strong> al aumentar el número de agricultores que los cultivan. Los responsables de Freshippo, la cadena de supermercados de Alibaba, afirmaron recientemente a medios chinos que se ha reducido el <strong>diferencial de precios</strong> de las verduras ecológicas, que antes costaban entre dos y tres veces más que las convencionales y ahora cuestan aproximadamente una vez y media más. Otras grandes plataformas de comercio electrónico han desarrollado cadenas de suministro específicas para productos ecológicos y, desde Shandong hasta Shanxi, numerosas explotaciones ofrecen ya cajas de verduras ecológicas.",
+      "zh": "尽管有机产品的主要消费群体仍是中产阶级，但随着种植有机农产品的农民数量增加，其价格已有所下降。阿里巴巴旗下盒马超市的负责人近日向中国媒体表示，有机蔬菜与普通蔬菜之间的价格差距已有所收窄——此前有机蔬菜的价格是普通蔬菜的两到三倍，现在约为一倍半。其他大型电商平台也已建立专门针对有机产品的供应链，从山东到山西，众多农场如今已提供有机蔬菜配送箱服务。",
+      "vocab": [
+        {
+          "word": "abaratado",
+          "translation": "降价的，变得更便宜的",
+          "note": "动词 abaratar 的过去分词，由 a- + barato（便宜）+ -ar 构成，表示『使价格降低』。同类构词有 alargar（延长）、acortar（缩短）、aligerar（减轻），均为『a- + 形容词 + -ar』结构。"
+        },
+        {
+          "word": "diferencial de precios",
+          "translation": "价格差距，价差",
+          "note": "商业和经济报道中的固定搭配，diferencial 作名词意为『差额、差距』，常见于金融和贸易语境，如 diferencial de tipos de interés（利率差）。注意与形容词 diferente 区分词性。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Aun así, <strong>persisten</strong> importantes desafíos. Los escépticos cuestionan si estos productos son realmente ecológicos en el país, dada la contaminación histórica del suelo y el agua. Aunque sus ventas siguen creciendo año tras año, Chang teme también que los jóvenes trabajen demasiado como para cocinar o preocuparse por la calidad de los ingredientes, y que los precios más elevados que tienen que cobrar las pequeñas explotaciones <strong>disuadan</strong> a los compradores —alrededor del 40 % de los 1400 millones de habitantes de China pide comida a domicilio—.",
+      "zh": "尽管如此，重大挑战依然存在。怀疑者质疑，鉴于中国土壤和水资源长期受到污染，这些产品是否真的符合有机标准。尽管有机产品销售额年年增长，常天乐也担忧年轻人工作过于繁忙，无暇下厨或关注食材质量，而小型农场不得不收取的较高价格也会令买家望而却步——中国14亿人口中，约有40%选择点外卖。",
+      "vocab": [
+        {
+          "word": "persisten",
+          "translation": "持续存在，依然存在",
+          "note": "动词 persistir 意为『持续存在、坚持不消退』，在新闻和学术文体中常用于描述问题或现象的持续性，如 persisten las desigualdades、persisten los problemas。比 continúan 语气更正式，带有顽固难消的含义。"
+        },
+        {
+          "word": "disuadan",
+          "translation": "使……望而却步，劝阻",
+          "note": "动词 disuadir 意为『使放弃、劝阻』，此处为虚拟式，受 teme que 触发。固定搭配为 disuadir a alguien de + 动词原形，与 persuadir（说服）构成反义对，两者均为B2以上重要词汇。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Otras personas ven una oportunidad en ofrecer comidas frescas y saludables que a la vez sean prácticas y económicas. Tras estudiar durante su etapa universitaria a Chipotle y Sweetgreen, dos cadenas estadounidenses de comida rápida informal, Gao Song fundó Foodbowl en 2015 y adaptó el concepto a los gustos de China, donde las ensaladas crudas siguen despertando cierta desconfianza. El negocio experimentó un fuerte crecimiento tras la pandemia, algo que atribuye a una mayor <strong>concienciación</strong> sobre la salud entre los consumidores del país.",
+      "zh": "另一些人则看到了商机：提供既新鲜健康、又方便实惠的餐食。高松在大学期间研究了美国两大快休闲连锁品牌Chipotle和Sweetgreen，于2015年创立了Foodbowl，并将这一理念调整为更符合中国人口味的版本——在中国，生蔬菜沙拉至今仍令不少人心存疑虑。疫情结束后，这家餐厅迎来了强劲增长，他将此归因于中国消费者健康意识的普遍提升。",
+      "vocab": [
+        {
+          "word": "concienciación",
+          "translation": "意识提升，觉醒",
+          "note": "名词，来自动词 concienciar（使意识到），后缀 -ción 将动词转化为名词，如 concienciación、digitalización、globalización。常见搭配为 concienciación sobre + 名词，表示对某议题的认知提升。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Es posible que el gobierno vea con buenos ojos este <strong>viraje</strong> de inspiración californiana. La población china sigue siendo muy sensible en lo que respecta a la seguridad alimentaria, afirma Han Guanghua, de la Universidad Jiao Tong de Shanghái. Sus investigaciones indican que, cuando surgen problemas de este tipo, la población suele <strong>responsabilizar</strong> al gobierno central, más que a las autoridades locales, por lo que evitar nuevos escándalos alimentarios se ha convertido en una prioridad política. Este viraje también contribuye a combatir el sobrepeso. El año pasado, el gobierno advirtió que el incremento de la obesidad es «un grave riesgo para la salud pública». El partido comunista quiere que la población pase del chidebao («comer lo suficiente») al chidehao («comer bien»). Todo ello podría resultar en un cambio de lo más <strong>apetecible</strong>.",
+      "zh": "政府或许对这场加州风格的饮食转变持欢迎态度。上海交通大学的韩广华表示，中国民众在食品安全问题上依然高度敏感。他的研究表明，每当出现食品安全问题，民众往往将责任归咎于中央政府而非地方当局，因此避免新的食品丑闻已成为一项政治优先事项。这一转变也有助于应对超重问题。去年，政府警告称肥胖率上升是『严重的公共卫生风险』。中国共产党希望引导民众从『吃得饱』走向『吃得好』。这一切，或许将带来一场令人期待的美味变革。",
+      "vocab": [
+        {
+          "word": "viraje",
+          "translation": "转变，转向",
+          "note": "名词，来自动词 virar（转向），在新闻和政治评论中常用于描述政策、趋势或立场的重大转变，如 un viraje político（政策转向）。比 cambio 更强调方向性的转变，语体较正式。"
+        },
+        {
+          "word": "responsabilizar",
+          "translation": "使承担责任，归咎于",
+          "note": "动词，固定搭配为 responsabilizar a alguien de algo（将某事归咎于某人），由 responsable + -izar 构成。注意与 culpar（责怪）的区别：responsabilizar 更正式，常用于法律和新闻语境。"
+        },
+        {
+          "word": "apetecible",
+          "translation": "令人期待的，诱人的",
+          "note": "形容词，字面意为『令人有食欲的』，此处为双关用法，既指美食上的诱人，也指这场社会变革令人期待。后缀 -ible 表示『可……的、值得……的』，如 deseable、admirable、comprensible。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "ver con buenos ojos",
+      "type": "modismo",
+      "translation": "对……持欢迎态度，看好，赞许",
+      "usage": "固定惯用语，字面意为『用好眼光看待』，实际表示『对某事持赞同或支持的态度』。常见搭配为 ver algo con buenos ojos 或 ser visto con buenos ojos por alguien，语体中性偏正式。",
+      "exampleEs": "La propuesta fue vista con buenos ojos por la mayoría de los inversores.",
+      "exampleZh": "这项提案得到了大多数投资者的认可。"
+    },
+    {
+      "expression": "a costa de",
+      "type": "estructura gramatical",
+      "translation": "以……为代价，靠牺牲……换来",
+      "usage": "固定介词短语，表示『以某种代价换取某结果』，常带有负面含义，暗示所付出的代价不合理或不值得。结构为 lograrse / conseguirse a costa de + 名词，语体正式，常见于新闻评论。",
+      "exampleEs": "No deberíamos alcanzar el éxito económico a costa de la salud de los trabajadores.",
+      "exampleZh": "我们不应该以牺牲工人健康为代价来换取经济上的成功。"
+    },
+    {
+      "expression": "en constante expansión",
+      "type": "colocación",
+      "translation": "不断扩大的，持续增长的",
+      "usage": "固定搭配，en constante + 名词构成副词性短语，表示某状态持续进行，常见组合还有 en constante crecimiento（持续增长）、en constante cambio（不断变化），多用于正式书面语和新闻报道。",
+      "exampleEs": "La industria tecnológica es un sector en constante expansión que genera miles de empleos cada año.",
+      "exampleZh": "科技行业是一个持续扩张的领域，每年创造数以千计的就业岗位。"
+    }
+  ]
+}
