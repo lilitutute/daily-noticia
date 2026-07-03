@@ -1,0 +1,189 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会政治",
+  "difficulty": "C1",
+  "wordCount": "约500词",
+  "title": "La pobreza nos desafía",
+  "subtitle": "贫困向我们发起挑战",
+  "resumenEs": "El artículo analiza la pobreza estructural en España a través de los datos de los informes FOESSA y Cáritas: millones de personas sufren inseguridad alimentaria, agravada por el desorbitado precio de la vivienda y la inflación. El texto advierte de que la consolidación de una nueva clase pobre y el bloqueo del ascensor social amenazan la confianza en la democracia y exigen respuestas políticas urgentes.",
+  "resumenZh": "本文通过FOESSA报告和明爱组织的数据，分析西班牙的结构性贫困问题：数百万人面临粮食不安全，住房价格失控和通货膨胀进一步加剧了这一状况。文章警告，新贫困阶层的固化和社会流动性的阻塞正威胁着民众对民主制度的信任，亟需政治层面的回应。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Una de cada 75 personas en España no come todos los días. Uno de cada diez hogares sufre <strong>inseguridad alimentaria</strong>, es decir, al menos uno de sus miembros no se alimenta lo suficiente. En este país viven 2,8 millones de personas que no pueden permitirse una dieta saludable y se ven obligadas a reducir la cantidad de alimentos o a saltarse alguna comida.",
+      "zh": "西班牙每75人中就有1人无法每天吃饱饭。每十个家庭中就有一个面临粮食不安全问题，即至少有一名家庭成员食物摄入不足。这个国家有280万人无力负担健康饮食，被迫减少食物摄入量或跳过某些餐次。",
+      "vocab": [
+        {
+          "word": "inseguridad alimentaria",
+          "translation": "粮食不安全，食物保障缺失",
+          "note": "inseguridad alimentaria 是联合国粮农组织定义的专业术语，指无法持续获得足够、安全、有营养食物的状态；由 inseguridad（不安全）+ alimentaria（食物的，来自 alimento）构成；注意与 hambre（饥饿，更极端）的区别：inseguridad alimentaria 涵盖更广泛的食物获取困难。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Las cifras del último informe FOESSA y de la Memoria Confederal de Cáritas dibujan una <strong>radiografía</strong> de la pobreza en España, millones de historias de sufrimiento muchas veces invisible que <strong>desafían</strong> el <strong>triunfalismo</strong> de las cifras macroeconómicas. Y que exigen respuestas políticas, pues la mitigación de la pobreza no es solo un deber constitucional sino que es esencial para el funcionamiento de la democracia.",
+      "zh": "FOESSA最新报告和明爱联合会年度报告的数据，描绘出西班牙贫困状况的全景图——数百万个往往不为人知的苦难故事，对宏观经济数据的凯旋主义构成了挑战。这些数据要求政治层面的回应，因为减轻贫困不仅是宪法义务，更是民主运转的根本所在。",
+      "vocab": [
+        {
+          "word": "radiografía",
+          "translation": "全景图，深度剖析",
+          "note": "radiografía 字面指医学上的『X光片』，在新闻和分析文体中引申为对某一社会现象的『透视性全景描述』；这是西班牙新闻文体中极为高频的隐喻，如 una radiografía de la sociedad española（西班牙社会全景图），比 análisis 更强调揭示内部真实状况。"
+        },
+        {
+          "word": "desafían",
+          "translation": "挑战，质疑，对抗",
+          "note": "desafiar 表示对某种权威、现状或说法提出挑战；名词形式 desafío（挑战）也是高频词；注意与 retar（挑衅，更口语）的区别：desafiar 在正式文体中更常见，可以是智识层面的质疑，也可以是行动层面的对抗。"
+        },
+        {
+          "word": "triunfalismo",
+          "translation": "凯旋主义，过度乐观",
+          "note": "triunfalismo 由 triunfal（凯旋的）+ 后缀 -ismo 构成，指对成就的过度吹嘘或不顾现实的盲目乐观；在政治批评语境中常用于批评政府用亮眼的宏观数据掩盖社会问题，语气带有讽刺，是C1级别的政论文体核心词。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Que en España haya 680.000 personas que pasan días enteros sin comer por falta de recursos no puede dejar a nadie <strong>indiferente</strong>. Los hogares donde mayor es la inseguridad alimentaria son aquellos <strong>encabezados</strong> por mujeres, por jóvenes, parados, personas monoparentales y familias numerosas. Ni siquiera el trabajo es garantía, por la <strong>fragilidad</strong> del empleo o los bajos salarios.",
+      "zh": "西班牙有68万人因缺乏资源而整日无食可吃，这不能让任何人无动于衷。据报告，粮食不安全程度最高的家庭，是由女性、年轻人、失业者、单亲家庭成员和多子女家庭成员主导的家庭。就连工作也不再是保障，因为就业的脆弱性和低工资问题普遍存在。",
+      "vocab": [
+        {
+          "word": "indiferente",
+          "translation": "无动于衷的，漠然的",
+          "note": "indiferente 由 in-（否定）+ diferente（不同的）构成，表示对某事毫无情感反应；固定搭配 dejar indiferente（让人无动于衷）和 no poder dejar indiferente（不能让人漠然）在新闻社论中极为高频，是呼唤读者情感共鸣的常用表达。"
+        },
+        {
+          "word": "encabezados",
+          "translation": "由……主导的，以……为户主的",
+          "note": "encabezar 字面指『位于头部、领头』，在社会学报告中 hogares encabezados por（由……为户主的家庭）是描述家庭结构的固定搭配；注意与 liderados por 的区别：encabezar 更强调名义上的首位，常用于正式统计语境。"
+        },
+        {
+          "word": "fragilidad",
+          "translation": "脆弱性，不稳定性",
+          "note": "fragilidad 由 frágil（脆弱的）+ 后缀 -idad 构成，在劳动经济学语境中专指就业的『不稳定性、易碎性』；注意与 precariedad（不稳定性，更强调条件恶劣）的区别：fragilidad 更强调容易崩溃的内在特质，precariedad 更强调外部条件的匮乏。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Dos factores <strong>lastran</strong> las economías más pobres. Por un lado, la vivienda, cuyo crecimiento <strong>desaforado</strong> —en el primer semestre de 2026, el metro cuadrado en venta creció un 15,2%, mientras que los alquileres aumentaron en un 5,1%— <strong>devora</strong> gran parte de los presupuestos familiares. Por otro, la inflación, que pese a haber moderado su crecimiento sigue alejando cada vez más alimentos de las cestas de la compra.",
+      "zh": "两个因素拖累着最贫困群体的经济状况。一方面是住房，其失控的价格上涨——2026年上半年，每平方米售价上涨了15.2%，租金上涨了5.1%——吞噬了家庭预算的大部分。另一方面是通货膨胀，尽管增速有所放缓，但仍在不断将越来越多的食物推出购物篮。",
+      "vocab": [
+        {
+          "word": "lastran",
+          "translation": "拖累，压制，阻碍",
+          "note": "lastrar 来自 lastre（压舱石），字面指给船只加压舱石以保持稳定，引申为『拖累、成为负担』；在经济新闻中表示某因素对经济增长或个人财务造成拖累，是C1级别的高频隐喻动词，比 perjudicar 更生动形象。"
+        },
+        {
+          "word": "desaforado",
+          "translation": "失控的，过度的，无节制的",
+          "note": "desaforado 由 des-（超出）+ fuero（法规、限度）构成，字面意思是『超出法规限度的』，引申为『毫无节制、失控的』；常见搭配有 crecimiento desaforado（失控增长）、gritos desaforados（歇斯底里的叫喊）；在批评性新闻中常用于描述价格或欲望的失控。"
+        },
+        {
+          "word": "devora",
+          "translation": "吞噬，耗尽",
+          "note": "devorar 字面指『狼吞虎咽地吃』，在经济语境中引申为『大量消耗、吞噬资源』，如 devorar el presupuesto（吞噬预算）；这是新闻文体中描述支出失控的高频隐喻动词，比 consumir 更具视觉冲击力，带有强烈的批评色彩。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "De ambos factores, el de mayor peso es la vivienda. La prioridad de las familias por tener un techo bajo el que vivir les obliga a <strong>recortar</strong> en todo lo demás, incluida la alimentación. Y esto tiene consecuencias sobre la salud, especialmente la de los niños. Los efectos de la pobreza de hoy las paga la sociedad durante generaciones, y la pobreza extrema se está volviendo <strong>estructural</strong>, por la insuficiencia de los mecanismos <strong>redistributivos</strong> y la creciente dificultad para acceder a la educación terciaria y profesional.",
+      "zh": "在这两个因素中，住房的影响更为突出。家庭将拥有栖身之所列为首要优先，这迫使他们在其他一切方面削减开支，包括饮食。这对健康产生了影响，尤其是儿童健康。今日贫困的代价，社会将承担数代之久。由于再分配机制的不足以及获得高等教育和职业教育的难度日益增加，极端贫困正在走向结构性固化。",
+      "vocab": [
+        {
+          "word": "recortar",
+          "translation": "削减，压缩",
+          "note": "recortar 字面指『剪短、裁减』，在经济语境中专指削减支出或预算；常见搭配有 recortar el gasto（削减支出）、recortar en alimentación（在饮食上节省）；注意名词形式 recorte（削减、裁员）在新闻中同样高频，如 recortes sociales（社会福利削减）。"
+        },
+        {
+          "word": "estructural",
+          "translation": "结构性的，根深蒂固的",
+          "note": "estructural 在社会学和经济学中指某问题『根植于社会或经济结构本身，难以通过短期措施解决』；pobreza estructural（结构性贫困）是社会政策分析的核心概念，区别于 pobreza coyuntural（周期性贫困，随经济周期波动）。"
+        },
+        {
+          "word": "redistributivos",
+          "translation": "再分配的，财富调节的",
+          "note": "redistributivo 由 redistribuir（重新分配）派生，在政治经济学中专指通过税收、福利等手段调节财富分配的机制；mecanismos redistributivos（再分配机制）是福利国家理论的核心概念，常见于社会政策分析文章。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Nada de lo que estamos viendo era inevitable. España es la cuarta economía de la eurozona y la 14ª del mundo, y si bien la población en riesgo de pobreza ha bajado progresivamente en la última década, de un 22,3% a un 19,5%, según el INE, la cifra sigue siendo elevada. El peligro es que la consolidación de una nueva clase de pobres y el <strong>gripado</strong> del <strong>ascensor social</strong> acaben contribuyendo a la desconfianza en el sistema y la democracia.",
+      "zh": "我们所看到的一切并非不可避免。西班牙是欧元区第四大经济体，全球第14大经济体。尽管据国家统计局数据，过去十年贫困风险人口比例从22.3%逐步下降至19.5%，但这一数字仍然偏高。危险在于，新贫困阶层的固化和社会流动性的卡死，最终可能加剧民众对体制和民主的不信任。",
+      "vocab": [
+        {
+          "word": "gripado",
+          "translation": "卡死，失灵，运转不畅",
+          "note": "gripado 来自 gripar（因摩擦过热而卡死，机械术语），引申为某种机制『完全失灵、运转不畅』；el gripado del ascensor social 是极具表现力的隐喻，指社会流动性机制完全失效；这是C1级别的隐喻词汇，在社会批评文章中偶见但极为生动。"
+        },
+        {
+          "word": "ascensor social",
+          "translation": "社会流动性，阶层晋升通道",
+          "note": "ascensor social 是固定隐喻，字面意思是『社会电梯』，指通过教育、努力等途径实现阶层向上流动的可能性；el gripado del ascensor social（社会电梯失灵）是西班牙新闻中描述阶层固化的标志性表达，是理解西班牙社会议题的关键词组。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "El <strong>preámbulo</strong> de la Constitución establece como uno de sus objetivos el \"garantizar la convivencia democrática (…) conforme a un orden económico y social justo\". Estamos <strong>fallando</strong> en esa promesa.",
+      "zh": "宪法序言将『保障民主共处……符合公正的经济和社会秩序』列为目标之一。在这一承诺上，我们正在失信。",
+      "vocab": [
+        {
+          "word": "preámbulo",
+          "translation": "序言，前言，开场白",
+          "note": "preámbulo 在法律文本中专指宪法或法律的『序言』，阐明立法目的和原则；在日常语境中也可指『开场白、铺垫』，如 sin más preámbulos（开门见山）；作者引用宪法序言，是将贫困问题上升为宪法责任的论证策略。"
+        },
+        {
+          "word": "fallando",
+          "translation": "失败，失信，辜负",
+          "note": "fallar 在此取『辜负、未能履行承诺』之义，如 fallar a alguien（辜负某人）、fallar en una promesa（食言）；作者以 estamos fallando en esa promesa 作为文章结尾，语气简洁有力，将宏观政治责任浓缩为一个道德判断，是社论写作的经典收尾技法。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "dibujar una radiografía",
+      "type": "colocación",
+      "translation": "描绘全景图，深度剖析",
+      "usage": "固定隐喻搭配，radiografía（X光片）引申为对社会现象的透视性全景描述；dibujar/hacer una radiografía de 是西班牙新闻文体中极为高频的表达，常用于引出数据报告或深度分析，比 análisis 更强调揭示隐藏真相的功能。",
+      "exampleEs": "El nuevo estudio dibuja una radiografía preocupante del sistema educativo español.",
+      "exampleZh": "这项新研究描绘出一幅令人担忧的西班牙教育体系全景图。"
+    },
+    {
+      "expression": "el gripado del ascensor social",
+      "type": "colocación",
+      "translation": "社会流动性的卡死，阶层晋升通道的失灵",
+      "usage": "固定隐喻搭配，ascensor social（社会电梯）指阶层向上流动的可能性，gripado（卡死）指机制完全失效；这是西班牙社会批评新闻中描述阶层固化的标志性表达，常与 bloqueo del ascensor social（社会电梯堵塞）互换使用。",
+      "exampleEs": "El gripado del ascensor social hace que el código postal sea más determinante que el esfuerzo personal.",
+      "exampleZh": "社会流动性的卡死使得一个人的出生地比个人努力更能决定其命运。"
+    },
+    {
+      "expression": "lastar la economía",
+      "type": "colocación",
+      "translation": "拖累经济，成为经济负担",
+      "usage": "固定搭配，lastrar 来自航海术语（加压舱石），引申为对经济或个人财务造成拖累；语体正式偏新闻，常见于经济分析文章，主语通常是某种结构性因素，如住房成本、债务或失业率。",
+      "exampleEs": "La deuda acumulada sigue lastrando la capacidad de inversión de las familias más vulnerables.",
+      "exampleZh": "累积的债务继续拖累着最脆弱家庭的投资能力。"
+    },
+    {
+      "expression": "no dejar indiferente",
+      "type": "colocación",
+      "translation": "不能让人漠然，令人无法无动于衷",
+      "usage": "固定搭配，常以否定形式出现，表示某事物必然引发情感反应；在新闻社论中是呼唤读者共情的经典表达，语体正式，常用于道德呼吁或社会批评的开篇或收尾，带有强烈的情感动员功能。",
+      "exampleEs": "Las imágenes de niños durmiendo en la calle no pueden dejar indiferente a ningún ciudadano.",
+      "exampleZh": "孩子们睡在街头的画面，不能让任何公民无动于衷。"
+    },
+    {
+      "expression": "fallar en una promesa",
+      "type": "colocación",
+      "translation": "食言，未能履行承诺",
+      "usage": "固定搭配，fallar en 表示在某方面失败或辜负；在政治批评语境中，fallar en una promesa 或 fallar en ese compromiso 常用于指责政府或机构未能兑现承诺；语体中性，书面口语均适用，语气简洁有力。",
+      "exampleEs": "Décadas después de la Transición, seguimos fallando en la promesa de una sociedad más igualitaria.",
+      "exampleZh": "民主转型数十年后，我们仍在辜负建设更平等社会的承诺。"
+    }
+  ]
+}

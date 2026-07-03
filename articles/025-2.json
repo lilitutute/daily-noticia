@@ -1,0 +1,234 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会文化",
+  "difficulty": "C1",
+  "wordCount": "约750词",
+  "title": "¿Quién de los dos es la mamá?",
+  "subtitle": "你们两个谁是妈妈？",
+  "resumenEs": "Un padre gay reflexiona sobre la paternidad adoptiva, la homofobia cotidiana y la doble conciencia que puede llevar a los miembros de minorías a verse con los ojos del que les oprime. A través de la historia de su hijo Matteo, reivindica el derecho a elegir cualquier modelo de vida, celebra las conquistas del movimiento LGTBIQ+ y advierte contra quienes las vacían de contenido político.",
+  "resumenZh": "一位同性恋父亲围绕领养父亲身份、日常恐同现象以及可能导致少数群体用压迫者眼光审视自身的『双重意识』展开思考。通过儿子马泰奥的故事，他捍卫了选择任何生活模式的权利，颂扬了LGBTIQ+运动的成果，并警告那些将其政治内涵掏空的人。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "¿Pero quién de los dos es la mamá? La duda me sorprendió por la <strong>rotundidad</strong> con la que el niño la formulaba. Porque encerraba, en su simpleza, cuestiones sumamente complejas. Respondí que no había mamá, que éramos dos papás. Él calló. <strong>Asintió</strong>, pero se quedó mirándome con ojos de pregunta. No supe, sigo sin saberlo, si era yo quien le debía una explicación.",
+      "zh": "你们两个谁是妈妈？这个问题让我感到意外，因为那个孩子问得如此笃定。这个问题看似简单，却包含着极为复杂的议题。我回答说没有妈妈，我们是两个爸爸。他沉默了。他点了点头，但眼神里仍带着疑问地看着我。我不知道，至今仍不知道，是否该由我来给他一个解释。",
+      "vocab": [
+        {
+          "word": "rotundidad",
+          "translation": "笃定，断然，毫不含糊",
+          "note": "rotundidad 由形容词 rotundo（断然的、毫不含糊的）派生，-idad 是名词后缀；rotundo 还有『圆润的』字面义，但在此语境中专指态度或表达的『斩钉截铁』；常见搭配有 con rotundidad（断然地）、negar con rotundidad（断然否认）。"
+        },
+        {
+          "word": "asintió",
+          "translation": "点头同意，表示赞同",
+          "note": "asentir 表示通过点头或言语表示同意，是 negar（否认）的反义词；注意与 sentir（感觉）的拼写区别，前缀 a- 改变了词义；常见搭配有 asentir con la cabeza（点头表示同意），是叙事文体中描述非言语反应的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "En los últimos dos años, desde que adoptamos a Matteo, me he visto muchas veces en una situación similar, pero con adultos. Intentando <strong>lidiar</strong> con un tipo de homofobia menos <strong>estridente</strong> y violenta que la que sufrí de adolescente. Más sutil. En el cole hay días del padre y días de la madre, y él trabaja el doble en ambos, como si sus profesoras se hicieran la misma pregunta que aquel niño.",
+      "zh": "在过去两年里，自从我们领养了马泰奥，我多次面临类似的处境，只不过对象换成了成年人。我试图应对一种比我青少年时期所经历的更不刺耳、更不暴力的恐同——更为隐蔽。学校里有父亲节活动，也有母亲节活动，他在两个节日都要做双份作业，仿佛他的老师们也在问和那个孩子一样的问题。",
+      "vocab": [
+        {
+          "word": "lidiar",
+          "translation": "应对，处理，周旋",
+          "note": "lidiar con 表示『艰难地应对某种困难或麻烦』，来自斗牛术语（与牛搏斗），引申为在日常生活中费力地处理某种持续性困难；比 tratar con 或 manejar 更强调过程的艰辛和持续性，是口语和新闻文体的高频词。"
+        },
+        {
+          "word": "estridente",
+          "translation": "刺耳的，喧嚣的，张扬的",
+          "note": "estridente 字面指声音『刺耳、尖锐』，在社会批评语境中引申为态度或行为的『张扬、激进、高调』；此处作者用 menos estridente 描述一种更隐蔽、更难察觉的歧视，与 sutil（微妙的）形成对比，是文学性强的形容词。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "En la calle hay miradas sorprendidas y comentarios a nuestro paso. Hay mujeres que te dicen con voz de peluche que debe de ser muy difícil criar a un niño sin tener siquiera <strong>instinto maternal</strong>. Yo nunca me imaginé padre. A los jóvenes <strong>maricas</strong> de ayer no solo nos robaron la adolescencia, sino la idea de una vida adulta.",
+      "zh": "在街上，我们走过时会引来惊讶的目光和评论。有些女性用软绵绵的声音告诉你，没有母性本能就养孩子，一定很难。我从未想象过自己会成为父亲。昨日的年轻同志们，被夺走的不只是青春，还有对成年生活的想象。",
+      "vocab": [
+        {
+          "word": "instinto maternal",
+          "translation": "母性本能，母爱天性",
+          "note": "instinto maternal 是固定搭配，指传统观念中女性天生具有的养育冲动；作者在此引用这一概念，是为了揭示其背后隐含的性别规范假设——即认为男性（尤其是同性恋男性）天然缺乏养育能力，是对隐性偏见的精准批判。"
+        },
+        {
+          "word": "maricas",
+          "translation": "同志（男同性恋的自称，带有自我赋权色彩）",
+          "note": "marica 原是西班牙语中对男同性恋的贬义词，但LGBTIQ+群体已将其收回并赋予自我赋权的积极含义，类似英语中 queer 的演变；作者在此自称 maricas，是一种政治性的身份认同表达，注意语境：他人使用仍可能带有歧视意味。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "El matrimonio o la adopción no eran una posibilidad y los pocos homosexuales en la tele eran siempre jóvenes. La vejez era una forma de <strong>destierro</strong>. Cuando estaba en el instituto, odiaba mi presente, quería proyectarme rápidamente en un futuro, pero tras el horizonte de la vida adulta había un <strong>abismo</strong>, como si la tierra fuera plana. El único mundo que concebía no tenía sitio para alguien como yo.",
+      "zh": "婚姻或领养都不是可能的选项，电视上为数不多的同性恋形象永远是年轻人。老年意味着一种流放。在读中学时，我厌恶自己的现在，渴望迅速跳入未来，但成年生活的地平线之后是一片深渊，仿佛大地是平的。我所能想象的唯一世界里，没有像我这样的人的位置。",
+      "vocab": [
+        {
+          "word": "destierro",
+          "translation": "流放，放逐，被驱逐",
+          "note": "destierro 由 des-（离开）+ tierra（土地）构成，字面指『被驱逐离开土地』，历史上指政治流放；此处作者用作隐喻，将同性恋者的老年描述为一种社会性流放——被主流叙事彻底抹去，是极具文学张力的用词。"
+        },
+        {
+          "word": "abismo",
+          "translation": "深渊，虚无，无法逾越的鸿沟",
+          "note": "abismo 在此与『大地是平的』的隐喻结合，描述作者少年时期对未来的恐惧——成年生活的地平线之后是一片虚无；这一意象呼应了文章开头关于身份认同的核心主题，是作者文学功底的体现。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Muchos pelearon para que fuera así. Otros tantos opusieron una resistencia feroz. Son los mismos que hoy esconden nuestras banderas, que <strong>desligar</strong> el Orgullo LGTBIQ+ de la <strong>reivindicación</strong> y lo convierten en una fiesta neutra, rentable e <strong>inocua</strong>. Un Madridlucía con banderitas de colores.",
+      "zh": "许多人为此而战。同样多的人进行了激烈的抵制。正是这些人，如今藏起我们的旗帜，将LGBTIQ+骄傲游行与其政治诉求剥离，把它变成一场中性的、有利可图的、无害的节日。一场插着彩色小旗的『马德里之光』。",
+      "vocab": [
+        {
+          "word": "desligan",
+          "translation": "剥离，切断，脱钩",
+          "note": "desligar 由 des-（分离）+ ligar（连接）构成，表示切断两者之间的联系；常见搭配有 desligar A de B（将A与B脱钩）；在政治语境中，作者用此词批评将骄傲游行去政治化的行为，暗示这是一种蓄意的意识形态操作。"
+        },
+        {
+          "word": "reivindicación",
+          "translation": "政治诉求，权利主张，维权",
+          "note": "reivindicación 由动词 reivindicar（主张权利、维权）派生，在社会运动语境中专指对权利或尊严的政治性主张；注意与 reclamación（投诉、索赔，更偏法律和日常）的区别：reivindicación 更强调集体性的政治斗争维度。"
+        },
+        {
+          "word": "inocua",
+          "translation": "无害的，无关痛痒的",
+          "note": "inocuo/a 由拉丁语 innocuus 构成，表示『不造成任何伤害或影响』；在政治批评语境中，作者用 inocua 批评骄傲游行被商业化后失去了挑战性和政治锋芒，变得对现有秩序毫无威胁，语气带有讽刺。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "En Las almas de la gente negra, el sociólogo W.E.B. Du Bois empezó a dar forma a la idea de la <strong>doble conciencia</strong>. Esta teoría explica que algunos miembros de las minorías oprimidas empiezan a verse a sí mismos a través de los ojos de quienes les odian. Se observan desde fuera, se corrigen para intentar agradar. <strong>Mimetizarse</strong>. Son los gais que dicen que el orgullo no les representa, que vaya manía con colectivizar las identidades, aquellos que se cortan la pluma, las alas y no se permiten volar.",
+      "zh": "在《黑人的灵魂》中，社会学家W.E.B.杜波依斯开始阐发『双重意识』这一概念。这一理论解释了为何某些被压迫少数群体的成员开始用仇恨者的眼光审视自己。他们从外部观察自己，不断自我修正以求讨好，努力融入。这就是那些说骄傲游行代表不了他们的同性恋者，那些嫌弃身份认同集体化的人，那些剪掉羽毛、剪掉翅膀、不允许自己飞翔的人。",
+      "vocab": [
+        {
+          "word": "doble conciencia",
+          "translation": "双重意识",
+          "note": "doble conciencia 是杜波依斯在《黑人的灵魂》（1903）中提出的核心概念，指被压迫少数群体同时以自我视角和压迫者视角审视自身的心理状态；作者将其引申至同性恋群体，是文章最重要的理论支撑，体现了C1级别的文化素养。"
+        },
+        {
+          "word": "mimetizarse",
+          "translation": "伪装融入，模仿同化",
+          "note": "mimetizarse 来自 mimetismo（拟态，生物学术语），指通过模仿周围环境来隐藏自身；在社会学语境中引申为少数群体通过模仿主流群体的行为和价值观来融入并获得接受；作者用单词独立成句，强调这种同化行为的本质。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Hace unos años, cuando estaba inmerso en el proceso de adopción, me pregunté si estas ganas de ser padre no serían una forma de doble conciencia. Si no estaría yo intentando imitar un modelo tradicional para <strong>encajar</strong>, reproducir los <strong>hitos</strong> de la vida hetero (matrimonio, perro, hipoteca e hijo) para ser un maricón respetable.",
+      "zh": "几年前，当我沉浸在领养过程中时，我曾问自己：这种想当父亲的渴望，是否也是一种双重意识？我是否在试图模仿一种传统模式以求融入，复制异性恋生活的里程碑（婚姻、狗、房贷和孩子），只为成为一个『体面的同志』？",
+      "vocab": [
+        {
+          "word": "encajar",
+          "translation": "融入，适应，契合",
+          "note": "encajar 字面指『嵌入、卡进去』，在社会语境中引申为『融入某个群体或符合某种规范』；常见搭配有 encajar en la sociedad（融入社会）、no encajar（格格不入）；注意与 integrarse（融合，更强调过程）的区别：encajar 更强调找到自己的位置。"
+        },
+        {
+          "word": "hitos",
+          "translation": "里程碑，重要节点",
+          "note": "hito 字面指道路上的里程碑或界标，引申为人生或历史中的『重要节点、标志性事件』；常见搭配有 hitos de la vida（人生里程碑）、marcar un hito（树立里程碑）；是文学和新闻文体中描述重要时间节点的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Todos estos miedos se <strong>mitigaron</strong> el día en que Matteo me cogió la mano. Desaparecieron el día que me llamó papá. Entonces todo <strong>encajó</strong>. Descubrí una felicidad para la que yo estaba hecho. Papá. Mamá. Es la primera palabra que dices, el principio de todas las cosas. Después te la dicen y la vida empieza a <strong>rimar</strong>; descubres que hay algo de cíclico.",
+      "zh": "所有这些恐惧，在马泰奥握住我的手那天得到了缓解。在他叫我爸爸那天，彻底消散了。那一刻，一切都各归其位。我发现了一种我天生就该拥有的幸福。爸爸。妈妈。这是你说出口的第一个词，是万物的起点。后来有人这样叫你，生命开始押韵；你发现其中有某种循环往复。",
+      "vocab": [
+        {
+          "word": "mitigaron",
+          "translation": "缓解，减轻",
+          "note": "mitigar 表示使某种负面状态（痛苦、恐惧、风险）有所减轻，但不一定完全消除；注意作者在此刻意区分 mitigaron（缓解）和 desaparecieron（消失）——前者发生在马泰奥握手时，后者发生在被叫爸爸时，层次递进，体现了精准的语言控制。"
+        },
+        {
+          "word": "rimar",
+          "translation": "押韵，和谐呼应",
+          "note": "rimar 字面指诗歌中的『押韵』，此处作者用作隐喻，表示生命中各个部分开始和谐呼应、形成意义；这是全文最具文学性的表达之一，将父子关系的建立比作诗歌押韵，暗示生命找到了节律和意义。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Nos damos nombres y apellidos para fingir que somos únicos, pero son las palabras iguales y repetidas las que nos <strong>atan</strong> a este mundo. Los nombres que nos definen en relación con los demás (mamá, papá, tío, amiga, amor) son los que nos colocan en un lugar concreto del mundo. Nos ponen en nuestro sitio.",
+      "zh": "我们给自己取名字和姓氏，假装自己是独一无二的，但真正将我们与这个世界相连的，恰恰是那些相同的、反复出现的词语。那些在关系中定义我们的词（妈妈、爸爸、叔叔、朋友、爱人），才是将我们安置在世界某个具体位置上的词。它们让我们各归其位。",
+      "vocab": [
+        {
+          "word": "atan",
+          "translation": "将……系于，将……与……相连",
+          "note": "atar 字面指『捆绑、系住』，此处引申为情感和语言上的『连结』；作者用 atar a este mundo（将我们与这个世界相连）表达归属感，与前文的 abismo（深渊）和 destierro（流放）形成呼应，构成文章的情感弧线。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Puede que no todos estén de acuerdo conmigo y me parece genial. Defenderé con <strong>uñas y dientes</strong> el derecho de mis compañeres a tener otros modelos relacionales, otras formas de vivir y habitar el mundo. Pero qué alegría inmensa poder elegir también el modelo más tradicional. Vivir en un país en el que todas estas realidades tengan <strong>cabida</strong> y sean igual de respetables.",
+      "zh": "也许不是所有人都同意我，我觉得这很好。我会竭尽全力捍卫我的同伴们拥有其他关系模式、其他生活和栖居于世界方式的权利。但能够同样选择最传统的模式，是多么巨大的喜悦。生活在一个所有这些现实都有容身之处、都同样值得尊重的国家里。",
+      "vocab": [
+        {
+          "word": "uñas y dientes",
+          "translation": "竭尽全力，拼死捍卫",
+          "note": "defender con uñas y dientes 是固定惯用语，字面意思是『用指甲和牙齿战斗』，引申为『不惜一切代价地捍卫』；语体口语化但情感强烈，常用于表达对某种权利或价值观的坚定捍卫，是西班牙语中最生动的决心表达之一。"
+        },
+        {
+          "word": "cabida",
+          "translation": "容身之处，空间，容纳",
+          "note": "cabida 来自动词 caber（容纳、放得下），tener cabida 表示『有容身之处、被容纳』；在社会和政治语境中常用于讨论多元包容，如 dar cabida a（为……提供空间）；是描述社会包容性的高频词汇。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Puede que ahí estuviera la respuesta que no supe dar a aquel niño. Puede que los dos seamos papás, que los dos seamos también mamás. Que hayamos superado el <strong>binarismo</strong> y, como dice el manido poema de Whitman, <strong>contengamos</strong> multitudes. Hoy todas ellas son legítimas en este país. Gracias a las luchas de muchos. A pesar de las resistencias de unos cuantos. Que no se nos olvide.",
+      "zh": "也许，那正是我当时没能给那个孩子的答案。也许我们两个都是爸爸，也都是妈妈。也许我们已经超越了二元对立，正如惠特曼那首被引用烂了的诗所说，我们包容着万千。今天，在这个国家，所有这些身份都是合法的。感谢许多人的抗争。尽管少数人从未停止阻挠。愿我们铭记。",
+      "vocab": [
+        {
+          "word": "binarismo",
+          "translation": "二元论，二元对立",
+          "note": "binarismo 由 binario（二元的）+ 后缀 -ismo 构成，在性别和社会理论中指将性别、身份等强制划分为两个对立类别的思维框架；作者用 superar el binarismo（超越二元对立）呼应文章开头的问题——谁是妈妈谁是爸爸——完成了主题的升华。"
+        },
+        {
+          "word": "contengamos",
+          "translation": "我们包容，我们容纳",
+          "note": "contener 在此取『包含、容纳』之义，虚拟式 contengamos 呼应惠特曼《自我之歌》中的名句 'I contain multitudes'（我包容万千）；作者用 manido（被用滥了的）修饰这首诗，带有自我调侃的幽默，同时也说明这一概念已成为文化共识。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "defender con uñas y dientes",
+      "type": "modismo",
+      "translation": "竭尽全力捍卫，拼死维护",
+      "usage": "固定惯用语，字面意思是『用指甲和牙齿战斗』，引申为不惜一切代价地捍卫某种权利、立场或价值观；语体口语化但情感强烈，书面文章中也常见，常用于表达坚定的捍卫决心，是西班牙语中最生动的意志表达之一。",
+      "exampleEs": "Los vecinos defendieron con uñas y dientes su derecho a mantener el parque del barrio.",
+      "exampleZh": "居民们竭尽全力捍卫保留社区公园的权利。"
+    },
+    {
+      "expression": "lidiar con",
+      "type": "colocación",
+      "translation": "艰难应对，费力处理",
+      "usage": "固定搭配，来自斗牛术语，引申为在日常生活中费力地处理某种持续性困难或麻烦；语体中性，书面口语均适用，比 tratar con 更强调过程的艰辛，常用于描述长期性、反复性的挑战。",
+      "exampleEs": "Muchos inmigrantes tienen que lidiar con la burocracia durante años para regularizar su situación.",
+      "exampleZh": "许多移民不得不与繁琐的行政手续周旋多年，才能使自己的身份合法化。"
+    },
+    {
+      "expression": "ponerse en su sitio",
+      "type": "colocación",
+      "translation": "各归其位，找到自己的位置",
+      "usage": "固定搭配，poner en su sitio 既可指物理意义上的归位，也可引申为在社会关系或身份认同中找到自己的位置；作者在文末用此表达，将其升华为一种归属感的隐喻，语体中性，书面口语均适用。",
+      "exampleEs": "Tras años de incertidumbre, por fin siento que las cosas se han puesto en su sitio.",
+      "exampleZh": "经历多年的迷茫，我终于感到一切都各归其位了。"
+    },
+    {
+      "expression": "tener cabida",
+      "type": "colocación",
+      "translation": "有容身之处，被容纳",
+      "usage": "固定搭配，tener cabida 表示在某个空间、体系或社会中有位置、被接受；常见形式有 tener cabida en（在……中有一席之地）、dar cabida a（为……提供空间）；在讨论社会包容性和多元文化时是核心表达。",
+      "exampleEs": "En una democracia sana, todas las voces deben tener cabida, incluso las minoritarias.",
+      "exampleZh": "在一个健康的民主社会中，所有声音都应有容身之处，包括少数群体的声音。"
+    }
+  ]
+}

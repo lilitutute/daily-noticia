@@ -1,0 +1,347 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技经济",
+  "difficulty": "C1",
+  "wordCount": "约1000词",
+  "title": "La carrera robótica de China sobrecarga el sistema",
+  "subtitle": "中国机器人竞赛令体系不堪重负",
+  "resumenEs": "China ha convertido la robótica humanoide en un motor de crecimiento nacional, con inversiones masivas y cientos de fabricantes compitiendo en el mercado. Sin embargo, las limitaciones tecnológicas, la saturación del sector y la ralentización económica amenazan con convertir el boom en una burbuja similar a la vivida con los vehículos eléctricos.",
+  "resumenZh": "中国已将人形机器人列为国家经济增长引擎，大规模投入资金，数百家制造商涌入市场竞争。然而，技术瓶颈、行业饱和以及经济放缓，正威胁着将这场繁荣变成一场类似新能源汽车的泡沫。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Basta con fijarse en los Juegos Mundiales de Robots Humanoides de Pekín, previstos para agosto, a fin de comprobar el <strong>abismo</strong> entre las expectativas y la realidad. El torneo <strong>inaugural</strong> del año pasado, que atrajo a 500 androides de 16 países, ofreció competiciones atléticas que parecían borrachos tropezando entre sí. Ha habido progresos, pero pocos: una autoridad del Gobierno dijo que espera que las habilidades de los partidos de fútbol de este año pasen \"de preescolares a jóvenes\". Es un <strong>contundente</strong> recordatorio de que la fiebre china por las máquinas humanoides está sobredimensionada.",
+      "zh": "只需关注一下预定于八月举行的北京世界人形机器人运动会，便足以看清期望与现实之间的巨大鸿沟。去年的首届赛事吸引了来自16个国家的500台机器人参赛，但呈现出的运动竞技场面，看起来就像一群醉汉在互相磕绊。虽有进步，但进展甚微：一位政府官员表示，希望今年足球比赛的技术水平能从『幼儿园级别』提升到『青少年级别』。这有力地提醒我们，中国对人形机器的狂热已然过度膨胀。",
+      "vocab": [
+        {
+          "word": "abismo",
+          "translation": "深渊，鸿沟，巨大差距",
+          "note": "abismo 字面指『深渊』，在新闻和学术文体中常引申为两者之间『无法逾越的巨大差距』，是高频隐喻词；常见搭配有 un abismo entre A y B、al borde del abismo（处于崩溃边缘）。"
+        },
+        {
+          "word": "inaugural",
+          "translation": "首届的，开幕的，创始的",
+          "note": "inaugural 由动词 inaugurar（开幕、创立）派生，-al 是形容词后缀；常见搭配有 torneo inaugural（首届赛事）、discurso inaugural（开幕演讲）、vuelo inaugural（首航），是新闻文体的高频词。"
+        },
+        {
+          "word": "contundente",
+          "translation": "有力的，令人信服的，强有力的",
+          "note": "contundente 在新闻和论述文体中形容论据、声明或事实『强有力、无可辩驳』，常见搭配有 prueba contundente（确凿证据）、victoria contundente（压倒性胜利）、respuesta contundente（强硬回应）。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Los vídeos virales de robots bailando, corriendo maratones y haciendo tareas domésticas hacen fácil creer que mayordomos plenamente funcionales al estilo de C-3PO y soldados a lo Terminator hacen el moonwalk por toda China. El año pasado, cuando el presidente Xi Jinping reunió a los magnates tecnológicos más poderosos del país en una cumbre de alto <strong>perfil</strong>, la primera fila que ocupó Wang Xingxing, consejero delegado de Unitree Robotics, confirmó casi por completo el <strong>ascenso</strong> del sector.",
+      "zh": "机器人跳舞、跑马拉松、做家务的病毒式传播视频，让人很容易相信，C-3PO式的全功能管家和终结者式的战士正在中国各地踩着太空步。去年，当习近平主席在一场高规格峰会上召集全国最具影响力的科技巨头时，宇树科技首席执行官王兴兴坐在第一排，这几乎完全印证了这一行业的崛起。",
+      "vocab": [
+        {
+          "word": "perfil",
+          "translation": "规格，知名度，侧面",
+          "note": "perfil 是典型一词多义词：字面指『侧面、轮廓』，在新闻中 de alto perfil 表示『高规格、高知名度』，de bajo perfil 表示『低调』；注意不要只理解为社交媒体上的『个人主页』义。"
+        },
+        {
+          "word": "ascenso",
+          "translation": "崛起，上升，晋升",
+          "note": "ascenso 由动词 ascender 派生，可指职位晋升、地位上升或行业崛起；注意与 aumento（数量增加）的区别：ascenso 更强调地位或重要性的提升，而非单纯数量变化。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "De hecho, el plan económico <strong>quinquenal</strong> de Pekín hasta 2030 elevó la robótica a motor de crecimiento esencial para una economía de 18 billones de euros. Ante el rápido envejecimiento de la población y la reducción de la mano de obra, el Gobierno quiere que cíborgs cada vez más sofisticados <strong>impulsen</strong> el sector manufacturero y, con el tiempo, todo, desde la educación hasta la sanidad. Las autoridades ya han destinado al menos 18.000 millones a <strong>subvencionar</strong> su desarrollo desde 2024.",
+      "zh": "事实上，北京至2030年的五年经济规划已将机器人产业提升为这一18万亿欧元经济体的核心增长引擎。面对人口快速老龄化和劳动力萎缩，政府希望日益精密的机器人推动制造业发展，并最终渗透到从教育到医疗的各个领域。自2024年以来，当局已拨出至少180亿欧元用于补贴该行业的发展。",
+      "vocab": [
+        {
+          "word": "quinquenal",
+          "translation": "五年的，五年期的",
+          "note": "quinquenal 由拉丁语词根 quinque（五）+ annal（年）构成，专指『五年周期』的计划或任期；同类构词有 bienal（两年的）、trienal（三年的）、decenal（十年的），掌握这些数词词根可推断一系列时间形容词。"
+        },
+        {
+          "word": "impulsen",
+          "translation": "推动，促进",
+          "note": "impulsar 是新闻和经济文体中的高频动词，表示『推动某事物发展』；注意与 fomentar 的区别：impulsar 更强调给予动力和推力，fomentar 更强调培育和鼓励，两者在政策语境中均常见。"
+        },
+        {
+          "word": "subvencionar",
+          "translation": "补贴，资助",
+          "note": "subvencionar 由名词 subvención（补贴）派生，-ar 动词后缀；常见搭配有 subvencionar el desarrollo（资助发展）、subvenciones estatales（国家补贴）；注意与 financiar（融资、提供资金，范围更广）的区别。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "El sector privado también se ha <strong>volcado</strong>. En noviembre, las autoridades chinas emitieron una infrecuente advertencia sobre el riesgo de que se esté formando una <strong>burbuja</strong>, señalando que unos 150 fabricantes de humanoides <strong>saturan</strong> el mercado. Más de 450.000 empresas estaban registradas en el campo de la robótica inteligente a finales de 2024, según estimaciones oficiales, más del triple que cuatro años antes.",
+      "zh": "私营部门同样全力投入。去年11月，中国当局发出罕见警告，指出市场存在泡沫形成的风险，并指出约150家人形机器人制造商已令市场趋于饱和。据官方估计，截至2024年底，在智能机器人领域注册的企业超过45万家，是四年前的三倍以上。",
+      "vocab": [
+        {
+          "word": "volcado",
+          "translation": "全力投入，倾力参与",
+          "note": "volcarse（反身动词）表示『全力投入、倾注精力』，来自 volcar（倾倒、翻转），引申为把全部力量倾注于某事；常见搭配有 volcarse en el trabajo（全身心投入工作）、volcarse en un proyecto，是B2高频隐喻动词。"
+        },
+        {
+          "word": "burbuja",
+          "translation": "泡沫（经济），气泡",
+          "note": "burbuja 字面指『气泡』，在经济语境中专指『资产泡沫』，如 burbuja inmobiliaria（房地产泡沫）、burbuja tecnológica（科技泡沫）；这是典型的隐喻延伸用法，在财经新闻中极为高频。"
+        },
+        {
+          "word": "saturan",
+          "translation": "使饱和，充斥",
+          "note": "saturar 在经济语境中表示『使市场供过于求、过度饱和』；注意与 inundar（充斥，更强调数量泛滥）的区别：saturar 更强调达到容量上限的状态，常见搭配有 saturar el mercado、mercado saturado。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "En junio, cerca de 50 start-ups relacionadas con la robótica habían presentado planes para una <strong>OPV</strong> en Hong Kong, según Bloomberg. Toda esta actividad eleva las expectativas de una rápida mejora de la productividad. La República Popular se ha convertido en una <strong>potencia</strong> en la fabricación de robots, lista para liderar su despliegue.",
+      "zh": "据彭博社报道，今年六月，近50家机器人相关初创企业已提交在香港进行首次公开募股的计划。所有这些活动都推高了市场对生产率快速提升的预期。中国已成为机器人制造领域的强国，准备引领机器人的大规模部署。",
+      "vocab": [
+        {
+          "word": "OPV",
+          "translation": "首次公开募股（IPO）",
+          "note": "OPV 是 Oferta Pública de Venta 的缩写，对应英语 IPO（Initial Public Offering）；西语财经新闻中也常见 OPI（Oferta Pública Inicial），两者均指企业首次向公众发行股票上市，是财经类文章必知缩写。"
+        },
+        {
+          "word": "potencia",
+          "translation": "强国，大国，强大力量",
+          "note": "potencia 在地缘政治和经济语境中指『强国、大国』，如 potencia mundial（世界强国）、potencia manufacturera（制造业强国）；注意与 poder（权力，更抽象）的区别：potencia 更强调在某领域的综合实力地位。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Las instalaciones anuales en todo el país podrían alcanzar los 11 millones en 2035, muy por encima de los 2 millones previstos para el resto del mundo, <strong>estiman</strong> los analistas de Barclays. Es más, calculan que para entonces el <strong>parque</strong> de China podría alcanzar la asombrosa cifra de 24 millones de unidades, cerca de un 4% de la población activa efectiva, lo que compensaría gran parte del declive previsto de la mano de obra.",
+      "zh": "巴克莱分析师估计，到2035年，中国全国年度安装量可能达到1100万台，远超全球其他地区预计的200万台。此外，他们测算届时中国的机器人保有量可能达到惊人的2400万台，接近有效劳动人口的4%，这将在很大程度上弥补预期中的劳动力下滑。",
+      "vocab": [
+        {
+          "word": "estiman",
+          "translation": "估计，预测",
+          "note": "estimar 在新闻和学术文体中表示基于数据的『估算、预测』，语气比 calcular 更强调专业判断；注意假朋友陷阱：estimar 还有『尊重、重视』的含义，如 te estimo mucho（我很重视你），需根据语境判断。"
+        },
+        {
+          "word": "parque",
+          "translation": "（设备）保有量，存量",
+          "note": "parque 在工业和经济语境中指某类设备或车辆的『总保有量/存量』，如 parque de robots（机器人保有量）、parque automovilístico（汽车保有量）；这是典型的专业引申义，与日常的『公园』义截然不同。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "La realidad podría ser más <strong>analógica</strong>. China vendió solo 12.000 humanoides el año pasado, según analistas de Morgan Stanley, gracias a los líderes del mercado AgiBot y Unitree. La mayoría se destinaron a la investigación científica y educativa y a pruebas, más que a aplicaciones comerciales o industriales.",
+      "zh": "现实或许更为朴素。据摩根士丹利分析师称，去年中国仅售出1.2万台人形机器人，主要依靠市场领头羊宇树科技和智元机器人。其中大多数被用于科学研究、教育和测试，而非商业或工业应用。",
+      "vocab": [
+        {
+          "word": "analógica",
+          "translation": "模拟的，传统的，朴素的",
+          "note": "analógico 在此为反讽用法，与前文的数字化宏大叙事形成对比，暗指现实『远比想象中传统和朴素』；在科技语境中 analógico 通常与 digital 对立，此处引申为『脚踏实地、不那么高科技』。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Las limitaciones tecnológicas <strong>persisten</strong>. Incluso los modelos relativamente sofisticados carecen de la <strong>destreza</strong> y la inteligencia necesarias para tareas básicas fuera de entornos controlados, en lo que se conoce como la paradoja de Moravec. Esta sostiene que las máquinas destacan en lo que a los humanos les resulta difícil, como los cálculos complejos y el análisis, pero les cuesta lo sencillo, como doblar ropa o subir escaleras.",
+      "zh": "技术局限依然存在。即便是相对先进的机型，在受控环境之外执行基本任务时，也缺乏必要的灵巧性和智能，这便是所谓的『莫拉维克悖论』。该悖论认为，机器擅长人类觉得困难的事，如复杂计算和分析，却难以完成简单的事，如叠衣服或上楼梯。",
+      "vocab": [
+        {
+          "word": "persisten",
+          "translation": "持续存在，依然存在",
+          "note": "persistir 表示某种困难、问题或现象『顽固地持续存在』，语气比 continuar 更强调难以消除的顽固性；常见搭配有 persistir en（坚持做某事）和无介词用法表示客观状态持续，是新闻文体高频词。"
+        },
+        {
+          "word": "destreza",
+          "translation": "灵巧，技巧，娴熟",
+          "note": "destreza 指身体或技术上的『灵巧性、熟练度』，在机器人和工业语境中专指精细操作能力；注意与 habilidad（能力，范围更广，包括脑力和体力）的区别：destreza 更侧重手部或肢体的精准操控。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Aunque se consiga enseñar estas habilidades a los robots, no hay garantía de que vayan a aplicarse pronto al <strong>impredecible</strong> mundo real. Para Unitree y sus rivales, esto significa que los humanoides se limitarán sobre todo a las plantas de fábricas, los almacenes y las tiendas. Probablemente sea positivo. Las ventas deberían superar los 13.000 millones de euros en 2030, estima Sheng Zhong, analista de Morgan Stanley.",
+      "zh": "即便能够成功教会机器人这些技能，也无法保证它们能很快应用于难以预测的现实世界。对宇树科技及其竞争对手而言，这意味着人形机器人将主要局限于工厂车间、仓库和商店。这或许并非坏事。摩根士丹利分析师盛中估计，到2030年，相关销售额应会超过130亿欧元。",
+      "vocab": [
+        {
+          "word": "impredecible",
+          "translation": "难以预测的，不可预知的",
+          "note": "由前缀 im-（否定）+ predecible（可预测的）构成，im- 在辅音 p、b 前替代 in-，同类词有 imposible、improbable、imparcial；掌握这一规律可准确拼写大量否定形容词。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "La compra pública tendrá probablemente un papel enorme, con gigantes estatales como State Grid y China Post haciendo <strong>voluminosos</strong> pedidos. El reto, sin embargo, es que las fábricas chinas ya están <strong>ampliamente</strong> automatizadas. El parque nacional de robots industriales, en su mayoría máquinas de baja tecnología como brazos robóticos fijos y pórticos, supera los 2 millones de unidades, sobre todo en electrónica y automóviles, según la Federación Internacional de Robótica.",
+      "zh": "公共采购可能将发挥巨大作用，国家电网、中国邮政等国有巨头将下达大批量订单。然而，挑战在于中国工厂已经实现了广泛的自动化。据国际机器人联合会数据，全国工业机器人保有量已超过200万台，主要集中在电子和汽车行业，大多数是固定机械臂和龙门架等低技术含量设备。",
+      "vocab": [
+        {
+          "word": "voluminosos",
+          "translation": "大批量的，大规模的，庞大的",
+          "note": "voluminoso 字面指『体积庞大的』，在商业语境中引申为『大批量的、大规模的』，如 pedidos voluminosos（大批量订单）；注意与 masivo（大规模的，更强调数量之多）的区别：voluminoso 更强调体量和规模感。"
+        },
+        {
+          "word": "ampliamente",
+          "translation": "广泛地，大量地",
+          "note": "ampliamente 由形容词 amplio（广泛的）+ 副词后缀 -mente 构成，-mente 是西语副词的统一后缀；常见搭配有 ampliamente documentado（有大量记录的）、ampliamente utilizado（被广泛使用的），是学术和新闻文体高频副词。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Tienen menos piezas y están diseñados para tareas específicas y <strong>repetitivas</strong>, como soldar o levantar cargas pesadas, lo que les permite superar a los androides de uso general en velocidad y <strong>fiabilidad</strong>. Con una vida útil media de 15 años, también duran más del doble que la longevidad estimada de los humanoides.",
+      "zh": "这些设备零部件更少，专为焊接或搬运重物等特定重复性任务而设计，在速度和可靠性上均优于通用型机器人。其平均使用寿命为15年，也比人形机器人的预估寿命长出一倍以上。",
+      "vocab": [
+        {
+          "word": "repetitivas",
+          "translation": "重复性的，单调的",
+          "note": "repetitivo/a 由动词 repetir（重复）派生，-tivo 是形容词后缀，同类词有 competitivo（竞争性的）、productivo（生产性的）、destructivo（破坏性的），掌握此后缀可推断大量形容词。"
+        },
+        {
+          "word": "fiabilidad",
+          "translation": "可靠性，稳定性",
+          "note": "fiabilidad 由 fiable（可靠的）+ 后缀 -idad 构成，是工程和商业语境中的核心词汇；注意与英语 reliability 对应，但西语中 fiabilidad 和 confiabilidad 均可表达此义，前者在欧洲西语中更常见。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Además, la feroz competencia, incluida la de la japonesa Fanuc y otras, ha <strong>comprimido</strong> los precios. Estun Automation, que cotiza en Shenzhen y es un proveedor de sistemas de control de movimiento y brazos robóticos valorado en 4.400 millones de euros, vio el año pasado cómo su margen operativo se había reducido a menos del 3% desde más del 7% en 2018, pese a que sus ingresos se triplicaron con creces en el mismo periodo.",
+      "zh": "此外，包括日本发那科在内的激烈竞争已压缩了价格。在深圳上市、市值44亿欧元的运动控制系统和机械臂供应商埃斯顿自动化，去年的营业利润率从2018年的逾7%降至不足3%，尽管同期营收增长了三倍有余。",
+      "vocab": [
+        {
+          "word": "comprimido",
+          "translation": "压缩，压低",
+          "note": "comprimir 在经济语境中表示『压低价格或利润空间』，是财经新闻的高频词；由前缀 com-（共同、向内）+ primir（压）构成，同前缀词有 comprometer（使承担义务）、comprender（理解），词根 primir 还见于 imprimir（印刷）、suprimir（压制）。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "Aunque los humanoides prometen complementar o superar a sus <strong>homólogos</strong> humanos en algunas áreas, las empresas chinas podrían no tener el apetito para gastar a lo grande en ellos mientras el crecimiento económico se <strong>ralentiza</strong>. Las políticas de Xi fomentarán la modernización de las fábricas, mientras se espera que ciertos sectores de alto crecimiento, como la inteligencia artificial y la energía verde, inviertan en tecnología robótica.",
+      "zh": "尽管人形机器人有望在某些领域补充甚至超越人类同行，但在经济增长放缓之际，中国企业可能并无大规模投入的意愿。习近平的政策将推动工厂现代化，而人工智能和绿色能源等高增长行业预计也将投资机器人技术。",
+      "vocab": [
+        {
+          "word": "homólogos",
+          "translation": "同行，对应物，同类",
+          "note": "homólogo 指在不同系统中『功能或地位相对应的人或事物』，如 su homólogo chino（其中国同行）、homólogo humano（人类对应物）；由希腊语词根 homo-（相同）构成，同类词有 homogéneo（同质的）、homónimo（同名的）。"
+        },
+        {
+          "word": "ralentiza",
+          "translation": "放缓，减速",
+          "note": "ralentizar 表示速度或增长『放缓』，是经济新闻中的高频词；注意与 desacelerar 基本同义，但 ralentizar 在西班牙媒体中更常见，来自法语 ralentir；常见搭配有 ralentizar el crecimiento、la economía se ralentiza。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "En términos generales, sin embargo, se prevé que el gasto de capital empresarial del país se reduzca un 0,6% anual entre 2025 y 2027, según un informe de S&P Global publicado el año pasado, un brusco <strong>giro</strong> respecto al crecimiento anual compuesto del 6,2% del trienio anterior. Las start-ups se han visto obligadas a esforzarse para <strong>destacar</strong> entre la multitud.",
+      "zh": "然而，总体而言，据标普全球去年发布的一份报告，预计2025年至2027年间，中国企业资本支出将以每年0.6%的速度下降，与此前三年6.2%的年复合增长率相比，是一个急剧的转向。初创企业不得不竭力在众多竞争者中脱颖而出。",
+      "vocab": [
+        {
+          "word": "giro",
+          "translation": "转向，转变，逆转",
+          "note": "giro 字面指『旋转、转弯』，在新闻和政治语境中引申为政策或趋势的『急剧转变』，如 un giro de 180 grados（180度大转弯）、giro político（政治转向）；是描述方向性变化的高频隐喻词。"
+        },
+        {
+          "word": "destacar",
+          "translation": "脱颖而出，突出，引人注目",
+          "note": "destacar 既可及物（destacar algo，突出某事）也可不及物（destacar entre la multitud，在人群中脱颖而出）；常见搭配有 destacar por（因……而突出）、destacarse en（在某领域出色），是B2高频动词。"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "es": "AgiBot, respaldada por Tencent, por ejemplo, presume de modelos capaces de hacer trabajos de fábrica más flexibles en espacios diseñados para humanos, ideales para instalaciones más pequeñas, antiguas e intensivas en mano de obra. Deep Robotics, que prepara una OPV de 2.500 millones de yuanes (320 millones de euros) en Shanghái, se centra en <strong>cuadrúpedos</strong> usados por bomberos y operadores de redes eléctricas. EngineAI, que también busca debutar en el mercado, se especializa en humanoides de tamaño completo con marcha y movimientos similares a los humanos; sus productos han aparecido como guardias de seguridad y guías turísticos.",
+      "zh": "例如，腾讯支持的智元机器人以其能在为人类设计的空间中灵活完成工厂作业的机型为傲，尤其适合规模较小、设备老旧、劳动密集型的生产设施。正在筹备25亿元人民币（约3.2亿欧元）上海IPO的深动科技，专注于供消防员和电网运营商使用的四足机器人。同样寻求上市的EngineAI则专攻步态和动作接近人类的全尺寸人形机器人，其产品已被用作安保人员和旅游导览。",
+      "vocab": [
+        {
+          "word": "cuadrúpedos",
+          "translation": "四足（机器人），四足动物",
+          "note": "cuadrúpedo 由拉丁语词根 cuadru-（四）+ pedo（足）构成，cuadru- 是高产数词前缀，同类词有 cuadrilátero（四边形）、cuadrimestre（四个月）；了解这一词根有助于推断大量科技和生物学词汇。"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "es": "A medida que la robótica avance, los usos están <strong>destinados a</strong> ampliarse. Aun así, la economía del sector será <strong>despiadada</strong>. Unitree registró en el primer trimestre un beneficio neto ajustado que se había reducido a la mitad interanual, pese a un aumento del 68% en las ventas. La empresa, que aspira a una valoración de 5.900 millones de euros en su OPV, atribuyó el resultado a mayores costes de investigación y desarrollo, que equivalieron al 10% de los ingresos, y a los descuentos aplicados para competir con los nuevos rivales.",
+      "zh": "随着机器人技术的进步，其应用注定将不断扩展。尽管如此，该行业的经济逻辑将是残酷的。宇树科技第一季度经调整后的净利润同比减少了一半，尽管销售额增长了68%。这家在IPO中寻求59亿欧元估值的公司将此归因于研发成本上升——相当于营收的10%——以及为应对新竞争对手而实施的折扣策略。",
+      "vocab": [
+        {
+          "word": "destinados a",
+          "translation": "注定……，必将……",
+          "note": "estar destinado a + 动词原形表示『注定会……、必将……』，带有一定的必然性语气；注意与 estar previsto para（计划于……）的区别：destinado a 更强调命运或趋势的必然性，previsto para 更强调人为计划。"
+        },
+        {
+          "word": "despiadada",
+          "translation": "残酷的，无情的",
+          "note": "despiadado/a 由前缀 des-（否定）+ piedad（怜悯）+ -ado 构成，字面意思是『没有怜悯的』；在商业和竞争语境中形容竞争或市场环境『残酷无情』，是新闻文体的高频形容词，常见搭配有 competencia despiadada（残酷竞争）。"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "es": "La economía del sector recuerda al boom chino de los vehículos eléctricos. Pese al explosivo crecimiento y el rápido avance tecnológico, las guerras de precios y la <strong>ralentización</strong> de la demanda han dejado a muchas empresas en <strong>apuros</strong>. Solo 15 de las 129 marcas de eléctricos e híbridos enchufables serán viables financieramente en 2030, predijo el año pasado la consultora AlixPartners. Los humanoides chinos están destinados a una batalla igual de dura, mucho más despiadada que cualquier cosa vista en los Juegos de los robots.",
+      "zh": "该行业的经济逻辑令人联想到中国新能源汽车的繁荣。尽管增长爆炸式、技术进步迅速，价格战和需求放缓已令众多企业陷入困境。咨询公司AlixPartners去年预测，129个纯电动和插电式混合动力品牌中，到2030年仅有15个能在财务上维持生存。中国人形机器人注定要面临一场同样艰难的战役，其残酷程度将远超机器人运动会上的任何竞技。",
+      "vocab": [
+        {
+          "word": "ralentización",
+          "translation": "放缓，减速",
+          "note": "ralentización 是动词 ralentizar 的名词形式，-ción 是高产名词后缀，同类词有 automatización（自动化）、modernización（现代化）、privatización（私有化）；在经济新闻中 ralentización de la demanda/del crecimiento 是固定搭配。"
+        },
+        {
+          "word": "apuros",
+          "translation": "困境，窘境，麻烦",
+          "note": "apuro 指陷入困难或窘迫的状态，固定搭配 estar en apuros 表示『陷入困境』；注意与 dificultades 的区别：apuros 更口语化，带有紧迫和窘迫的情绪色彩，dificultades 更中性正式。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "volcarse en",
+      "type": "colocación",
+      "translation": "全力投入，倾注于",
+      "usage": "反身动词 volcarse en 表示把全部精力或资源倾注于某事，语气强烈，带有不顾一切投入的含义；语体中性偏口语，书面和口语均适用，后接名词或动词原形，常用于描述个人、企业或行业的全力押注。",
+      "exampleEs": "Tras el fracaso de su primer proyecto, la empresa se volcó en desarrollar una nueva tecnología.",
+      "exampleZh": "第一个项目失败后，这家公司全力投入到新技术的开发中。"
+    },
+    {
+      "expression": "estar en apuros",
+      "type": "colocación",
+      "translation": "陷入困境，处于窘境",
+      "usage": "固定搭配，表示个人、企业或组织面临严重困难或危机；语体偏口语，但在新闻中也常见，语气比 tener dificultades 更强调紧迫和窘迫感，可用于财务、经营或个人处境等多种语境。",
+      "exampleEs": "Muchas pequeñas empresas del sector se encuentran en apuros debido a la guerra de precios.",
+      "exampleZh": "由于价格战，该行业许多小企业陷入了困境。"
+    },
+    {
+      "expression": "gastar a lo grande",
+      "type": "expresión coloquial",
+      "translation": "大手笔花钱，大规模投入",
+      "usage": "口语固定表达，a lo grande 表示『以大规模、不惜代价的方式』，可与多种动词搭配，如 celebrar a lo grande（大肆庆祝）、invertir a lo grande（大规模投资）；语体非正式，带有夸张和强调的色彩。",
+      "exampleEs": "En tiempos de incertidumbre económica, pocas empresas se atreven a gastar a lo grande.",
+      "exampleZh": "在经济不确定时期，很少有企业敢于大手笔投入。"
+    },
+    {
+      "expression": "comprimir los precios",
+      "type": "colocación",
+      "translation": "压低价格，压缩价格空间",
+      "usage": "固定搭配，comprimir 与 precios 或 márgenes 搭配，描述竞争或市场压力导致价格或利润空间被压缩；语体正式，是财经新闻的高频表达，也可说 comprimir los márgenes（压缩利润率）。",
+      "exampleEs": "La entrada de nuevos competidores ha comprimido los precios en todo el sector.",
+      "exampleZh": "新竞争者的涌入压低了整个行业的价格。"
+    },
+    {
+      "expression": "un giro de 180 grados",
+      "type": "colocación",
+      "translation": "180度大转弯，彻底转变",
+      "usage": "固定搭配，描述政策、立场或趋势发生彻底逆转；语体中性，书面口语均适用，常见于政治、经济新闻；也可简化为 un brusco giro（急剧转变），强调转变的突然性。",
+      "exampleEs": "La nueva dirección dio un giro de 180 grados a la estrategia de la compañía.",
+      "exampleZh": "新管理层让公司战略来了个180度大转弯。"
+    },
+    {
+      "expression": "debutar en el mercado",
+      "type": "colocación",
+      "translation": "首次上市，进入市场",
+      "usage": "固定搭配，debutar（首次亮相）与 en el mercado 组合，专指企业首次公开上市或产品首次进入市场；语体正式偏财经，debutar 来自法语 débuter，在西语财经新闻中是 salir a bolsa 的常见替代表达。",
+      "exampleEs": "La start-up planea debutar en el mercado de Hong Kong a finales de año.",
+      "exampleZh": "这家初创公司计划于年底在香港市场首次上市。"
+    }
+  ]
+}
