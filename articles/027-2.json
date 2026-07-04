@@ -1,0 +1,272 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "文化节庆",
+  "difficulty": "B2",
+  "wordCount": "约900词",
+  "title": "San Fermín, pasión por el toro: encierros, festejos taurinos y un hervidero de visitantes internacionales",
+  "subtitle": "奔牛节：对斗牛的热情、奔牛活动、斗牛庆典与涌动的国际游客",
+  "resumenEs": "Los Sanfermines de 2026 arrancan el 6 de julio con el tradicional chupinazo en Pamplona. Durante nueve días, la ciudad se convierte en el centro mundial de la fiesta, protagonizada por los encierros matinales y los festejos taurinos de tarde. El evento moviliza a miles de visitantes internacionales, genera un impacto económico de 260 millones de euros y mantiene viva una tradición que mezcla devoción religiosa, literatura y pasión por el toro.",
+  "resumenZh": "2026年奔牛节将于7月6日在潘普洛纳以传统的火箭礼炮拉开帷幕。九天时间里，这座城市将成为全球狂欢的中心，以清晨的奔牛活动和下午的斗牛庆典为核心。节日吸引数千名国际游客，带来2.6亿欧元的经济效益，延续着融合宗教信仰、文学传奇与斗牛热情的传统。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "\"Pamplonesas, pamploneses: Viva San Fermín, Gora San Fermín\". A este grito lanzado desde uno de los balcones del Ayuntamiento de Pamplona responde un rugido <strong>ininteligible</strong> y <strong>ensordecedor</strong> de más de 10.000 gargantas <strong>ávidas</strong> de fiesta, que <strong>abarrotan</strong> una plaza de 2.500 metros cuadrados donde no cabe un alfiler, se mezclan mujeres y hombres llegados de distintos puntos del planeta y a todos les une un único objetivo: disfrutar de los nueve días de una de las fiestas más conocidas del mundo.",
+      "zh": "「潘普洛纳的女士们、先生们：圣费尔明万岁，Gora San Fermín！」这声从潘普洛纳市政厅某个阳台上喊出的口号，换来了一万多条渴望狂欢的喉咙发出的震耳欲聋、难以分辨的吼声。人群挤满了这片2500平方米的广场，连针都插不进去。来自世界各地的男男女女汇聚于此，共同怀抱一个目标：尽情享受这场世界上最知名节日之一的九天盛宴。",
+      "vocab": [
+        {
+          "word": "ininteligible",
+          "translation": "难以听懂的，无法理解的",
+          "note": "前缀 in- 表示否定，词根 inteligible（可理解的）来自 entender。同类构词：invisible、incapaz、inútil，掌握 in- 前缀可快速扩充词汇量。"
+        },
+        {
+          "word": "ensordecedor",
+          "translation": "震耳欲聋的",
+          "note": "由动词 ensordecer（使耳聋）加后缀 -dor 构成形容词，表示『使人耳聋的』。同类构词：cegador（耀眼的）、abrumador（令人窒息的），-dor 后缀常表示『具有某种强烈效果的』。"
+        },
+        {
+          "word": "ávidas",
+          "translation": "渴望的，热切的",
+          "note": "ávido/a de + 名词，表示『渴望……』，语气比 desear 更强烈、更正式，常见于书面语和新闻文体，如 ávido de poder（渴望权力）、ávido de noticias（急于获取消息）。"
+        },
+        {
+          "word": "abarrotan",
+          "translation": "挤满，塞满",
+          "note": "abarrotar 强调空间被塞得满满当当，程度比 llenar 更强。常见搭配：abarrotar un estadio / una sala / las calles，多用于描述人群或物品将空间填得水泄不通的场景。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Este acontecimiento sucederá a las 12 de la mañana del lunes 6 de julio, cuando dos representantes de la Subdirección de Urgencias de Navarra —organización elegida por votación popular para lanzar el famoso chupinazo—, enciendan la mecha del cohete que inaugurará los Sanfermines de 2026. A partir de ese momento se pone en marcha un amplio programa oficial de 516 actos, en el que Ayuntamiento ha invertido 1.760.000 euros, aunque el impacto económico de la fiesta se acerca a los 260 millones de euros, según el propio <strong>consistorio</strong>. La propuesta municipal incluye conciertos, fuegos artificiales, teatro, deporte y actividades para los más pequeños. Pero, por encima de todos ellos, <strong>destaca</strong> un protagonista que ni bebe ni canta ni baila, pero sobre el que gira la fiesta de San Fermín: el toro.",
+      "zh": "这一盛况将于7月6日（周一）正午12时上演。届时，纳瓦拉急救分局的两名代表——这一机构由民众投票选出，负责发射著名的开幕礼炮——将点燃火箭引信，正式拉开2026年奔牛节的序幕。从那一刻起，一项包含516个活动的庞大官方计划将全面启动，市政府为此投入了176万欧元。据市政府自身数据，节日的经济影响接近2.6亿欧元。市政方案涵盖音乐会、烟火表演、戏剧、体育及儿童活动。然而，在所有这些之上，有一位主角格外突出——它既不喝酒，也不唱歌，更不跳舞，但整个圣费尔明节都围绕它而转：那就是公牛。",
+      "vocab": [
+        {
+          "word": "consistorio",
+          "translation": "市政府，市议会",
+          "note": "在新闻文体中，consistorio 是 ayuntamiento（市政府）的正式同义词，常用于避免重复。学习者需注意它不指『宗教会议』的含义在此语境中不适用，应根据上下文判断。"
+        },
+        {
+          "word": "destaca",
+          "translation": "突出，脱颖而出",
+          "note": "destacar 既可作不及物动词（某事物本身突出），也可作及物动词（强调某事），如 cabe destacar que...（值得指出的是……），是新闻和学术写作中的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Los toros en el encierro y en la plaza, que descansan ya en los Corrales del Gas, ajenos al bullicio, y a la espera de que a las ocho de la mañana del día 7 comiencen los encierros por la Cuesta de Santo Domingo en un <strong>trepidante</strong> viaje entre una <strong>muchedumbre</strong> de mozos y mozas que disfrutan con el peligro de los <strong>astifinos</strong> pitones de las reses que se lidian en esta feria. Y por la tarde, los festejos taurinos, con los tendidos a rebosar, como cada año, donde el sol y la sombra compiten en <strong>algarabía</strong> y se apasionan, cada cual a su modo, con el riesgo de heroicos toreros.",
+      "zh": "公牛们此刻正在加斯围栏中休憩，对外界的喧嚣浑然不觉，等待着7日清晨8时奔牛活动从圣多明各坡道正式开始。那将是一段令人心跳加速的旅程，在一大群享受危险刺激的男男女女之间穿行，而危险正来自这些参加本届集市斗牛的公牛那尖细锋利的牛角。到了下午，斗牛庆典登场，看台年年座无虚席，阳面和阴面的观众各自以自己的方式喧嚣热闹，为英勇斗牛士的冒险而激动不已。",
+      "vocab": [
+        {
+          "word": "trepidante",
+          "translation": "令人心跳加速的，紧张刺激的",
+          "note": "trepidante 源自动词 trepidar（颤抖、震动），在新闻和文学语境中引申为『节奏紧张、扣人心弦的』，常搭配 ritmo、aventura、viaje 等名词，是描述紧张场面的高级形容词。"
+        },
+        {
+          "word": "muchedumbre",
+          "translation": "人群，大批人",
+          "note": "muchedumbre 与 multitud 同义，但前者更强调人群的密集与无序感，语气略带文学色彩；multitud 则更中性。两者均为集合名词，动词用第三人称单数。"
+        },
+        {
+          "word": "astifinos",
+          "translation": "（牛角）尖细锋利的",
+          "note": "由 asta（牛角）和 fino（细、锋利）合成的复合形容词，属于斗牛专业词汇，但其构词方式（名词+形容词）在西语中极具代表性，如 boquiabierto（目瞪口呆）、pelirrojo（红发的）。"
+        },
+        {
+          "word": "algarabía",
+          "translation": "喧嚣，嘈杂声，欢腾",
+          "note": "algarabía 源自阿拉伯语，原指阿拉伯语本身（因听起来嘈杂难懂），后引申为『嘈杂的喧闹声』，带有热闹、混乱的语感，多用于描述节日或人群场景，是西语中阿拉伯语借词的典型例子。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Pamplona aparece así convertida en la capital de la fiesta gracias a dos personajes históricos: San Fermín y Ernest Hemingway. El primero, de cuya existencia no existe certeza histórica, fue un santo y mártir del siglo III, cuya leyenda no llegó a Pamplona hasta el siglo XII. Con el paso del tiempo, la devoción a San Fermín quedó unida a las ferias de ganado y al traslado de los animales hasta el punto de que el actual copatrono de Navarra es la imagen de la fiesta pamplonica y el pañuelo rojo de los participantes recuerda la <strong>decapitación</strong> del santo.",
+      "zh": "就这样，潘普洛纳因两位历史人物而成为节日之都：圣费尔明与欧内斯特·海明威。前者在历史上是否真实存在尚无定论，据传是3世纪的一位圣人与殉道者，其传说直到12世纪才传入潘普洛纳。随着时间流逝，对圣费尔明的崇拜逐渐与牲畜集市及动物转运活动融为一体，以至于这位如今的纳瓦拉共同守护神已成为潘普洛纳节日的象征，而参与者佩戴的红色领巾，正是为了纪念这位圣人被斩首一事。",
+      "vocab": [
+        {
+          "word": "decapitación",
+          "translation": "斩首，砍头",
+          "note": "由前缀 de-（去除）+ cabeza（头）+ 后缀 -ción 构成，字面意思即『去掉头』。同类构词：descabezar（斩首/打盹）、decapitar（动词形式）。掌握 de- 前缀有助于理解大量西语词汇。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Y el escritor estadounidense Hemingway (1899-1961), Premio Nobel de Literatura en 1954, que llegó a Pamplona en 1923, quedó <strong>impresionado</strong> por los toros y los toreros, la diversión, la comida y la bebida, y escribió el libro Fiesta, que supuso la <strong>puesta de largo</strong> internacional de los Sanfermines. Ese texto es el responsable de que los Sanfermines sean conocidos en el mundo y de que el casco viejo de la ciudad navarra se convierta cada mes de julio en un <strong>hervidero</strong> de visitantes extranjeros.",
+      "zh": "而美国作家海明威（1899—1961年），1954年诺贝尔文学奖得主，于1923年来到潘普洛纳，被斗牛与斗牛士、欢乐、美食与美酒深深打动，随后写下了小说《太阳照常升起》，这部作品成为奔牛节走向国际舞台的隆重亮相之作。正是这本书，让奔牛节享誉全球，也让这座纳瓦拉城市的老城区每逢七月便成为外国游客云集的热闹之地。",
+      "vocab": [
+        {
+          "word": "impresionado",
+          "translation": "印象深刻的，深受震撼的",
+          "note": "假朋友警告：impresionado 与英语 impressed 含义相近，但西语中 impresionante 才是『令人印象深刻的』（形容事物），而 impresionado 形容人的感受。注意区分：una actuación impresionante（精彩的表演）vs. quedé impresionado（我印象深刻）。"
+        },
+        {
+          "word": "puesta de largo",
+          "translation": "隆重亮相，正式登上国际舞台",
+          "note": "puesta de largo 原指女孩成年礼上第一次穿长裙出席社交场合，引申为某人或某事物的『正式亮相、首次登上大舞台』，是一个常见的文化惯用语，多用于正式或新闻文体。"
+        },
+        {
+          "word": "hervidero",
+          "translation": "沸腾之地，人头攒动的地方",
+          "note": "hervidero 源自 hervir（沸腾），字面意思是『沸腾的地方』，引申为人群密集、活动频繁的热闹场所，如 un hervidero de turistas / de actividad。这种由动词派生名词的方式在西语中很常见。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "A las 10 de la mañana del pasado 1 de junio, los operarios de la carpintería Hnos. Aldaz Remiro comenzaron la instalación del <strong>vallado</strong> del encierro, en el que se emplean 900 postes, 2.700 tablones, 2.500 cuñas y 80 puertas, y se inició la venta online de las entradas para ver las carreras desde la propia plaza al precio de 12 euros para los días 7, 12 y 13 de junio, y de 7 euros los días restantes.",
+      "zh": "6月1日上午10时，Hnos. Aldaz Remiro木工坊的工人们开始安装奔牛通道的围栏，整个工程需用到900根立柱、2700块木板、2500个楔子和80扇门。与此同时，从广场内观看奔牛赛跑的门票也开始在线销售，7日、12日和13日的票价为12欧元，其余日期为7欧元。",
+      "vocab": [
+        {
+          "word": "vallado",
+          "translation": "围栏，栅栏",
+          "note": "vallado 由 valla（栅栏）派生而来，指用木板或栏杆围成的隔离结构。与 valla 的区别在于：valla 泛指单根或单片围栏，而 vallado 多指整体围合结构，类似 cercado。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "La Casa de Misericordia, una institución que gestiona una residencia de ancianos, es la propietaria de la plaza de toros y la responsable de todo lo relacionado con los toros en Pamplona por una <strong>concesión</strong> municipal desde 1921. Sus representantes contratan las ganaderías y los toreros para los festejos de la tarde y organizan los encierros, <strong>a fin de que</strong> los beneficios ayuden al mantenimiento de las más de 500 personas que están a su cuidado. Así, los toros anunciados llegan con antelación a Pamplona y descansan ya en los Corrales del Gas, donde pueden recibir visitas de aficionados y curiosos al precio de 4 euros para los adultos y entrada gratis para los menores de 12 años. La asistencia al sorteo y el apartado de los toros en la plaza cuesta 15 euros.",
+      "zh": "慈悲之家是一家管理养老院的机构，自1921年起依据市政特许权成为斗牛场的所有者，并负责潘普洛纳一切与斗牛相关的事务。其代表负责为下午的庆典活动签约牧场和斗牛士，并组织奔牛活动，所得收益用于维持其照料的500余名人员的生活。目前，已公布参赛的公牛提前抵达潘普洛纳，正在加斯围栏中休息，爱好者和好奇者可前往参观，成人票价4欧元，12岁以下儿童免费。观看斗牛抽签及分组活动的费用为15欧元。",
+      "vocab": [
+        {
+          "word": "concesión",
+          "translation": "特许权，授权，让步",
+          "note": "concesión 是一词多义词：在法律/行政语境中指『特许经营权』，在谈判语境中指『让步、妥协』。学习者需根据上下文判断含义，不可一概而论。"
+        },
+        {
+          "word": "a fin de que",
+          "translation": "为了（使……），以便",
+          "note": "a fin de que 是目的状语从句连接词，后接虚拟式，与 para que 同义但语气更正式，多见于书面语和法律文件。注意：a fin de + 动词原形（主语相同），a fin de que + 虚拟式（主语不同）。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Paralelamente, el Ayuntamiento de la ciudad se responsabiliza de la seguridad de las carreras matinales. Así, la llamada Mesa del Encierro ha decidido que nadie permanezca en el ruedo de la plaza antes de la llegada de los toros para no <strong>entorpecer</strong> su traslado a los corrales, y ha realizado una exhaustiva inspección de la seguridad de los balcones desde donde muchas personas ven el paso de los toros. Asimismo, el consistorio ha dado a conocer las sanciones que se podrían imponer a quienes <strong>obstaculicen</strong> el normal desarrollo de los encierros, y que <strong>oscilan</strong> entre los 600 euros para las infracciones leves —llevar calzado inadecuado o portar mochilas—, a los 6.000 para las graves —tocar a los toros, la utilización de drones o correr bajo los efectos del alcohol o drogas— y hasta los 60.000 euros por la utilización de patines o bicicletas.",
+      "zh": "与此同时，市政府负责晨间奔牛赛跑的安全工作。为此，所谓的『奔牛委员会』决定，在公牛抵达之前，任何人不得留在斗牛场内，以免妨碍公牛转入围栏；此外还对供众多市民观看公牛经过的阳台进行了全面安全检查。市政府同时公布了对妨碍奔牛活动正常进行者可能处以的罚款标准：轻微违规（如穿着不当鞋履或携带背包）罚款600欧元，严重违规（如触摸公牛、使用无人机或在酒精、毒品影响下参跑）罚款6000欧元，使用溜冰鞋或自行车则最高可罚款6万欧元。",
+      "vocab": [
+        {
+          "word": "entorpecer",
+          "translation": "妨碍，阻碍，使迟缓",
+          "note": "entorpecer 由 torpe（笨拙的）派生，含有『使某事变得迟缓或困难』的意思，比 obstaculizar 语气稍轻，更强调使过程变得不顺畅，常用于正式或新闻文体。"
+        },
+        {
+          "word": "obstaculicen",
+          "translation": "阻碍，妨碍（虚拟式）",
+          "note": "obstaculizar 是由 obstáculo（障碍）加 -izar 后缀构成的动词，此处用虚拟式是因为前有 a quienes（对于那些……的人）引导的泛指从句。-izar 后缀可将名词/形容词变为动词，如 modernizar、digitalizar。"
+        },
+        {
+          "word": "oscilan",
+          "translation": "在……之间浮动，介于……之间",
+          "note": "oscilar 原义为『摆动、振荡』，在新闻和经济文体中常用于表示数值或范围的『浮动、介于……之间』，固定搭配为 oscilar entre A y B，是B2以上新闻词汇的高频用法。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Para quienes prefieran —y puedan— ver los encierros desde los balcones del recorrido, la empresa Destino Navarra ofrece plazas en distintos tramos, y los precios <strong>oscilan</strong> entre 125 y los 300 euros por día, e incluyen café, zumos y pasta y, en algunos casos, la asistencia de un guía local que informa a los clientes sobre la historia del encierro y el comportamiento de toros y corredores.",
+      "zh": "对于那些希望——也有能力——从奔牛路线沿途阳台观看的人，Destino Navarra公司在不同路段提供席位，每日票价在125至300欧元之间，含咖啡、果汁和糕点，部分套餐还配有当地导游，为客人介绍奔牛活动的历史以及公牛和奔跑者的行为习惯。",
+      "vocab": [
+        {
+          "word": "oscilan",
+          "translation": "介于……之间，在……范围内浮动",
+          "note": "此处再次出现 oscilar entre...y...的固定搭配，用于表示价格区间，是新闻经济类文章的标志性表达，建议作为固定句式整体记忆。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "El día 7, a las 8 de la mañana, un cohete anunciará la apertura de las puertas de los Corrales de Santo Domingo —a donde llegaron los toros la noche antes en el llamado 'encierrillo'— y comenzará la carrera: primero, la cuesta de Santo Domingo —con un <strong>desnivel</strong> del 10 por ciento—; a continuación, la Plaza Consistorial y la calle Mercaderes, que acaba en una curva de 90 grados, calle Estafeta, después, —el tramo más largo—, y, finalmente, Telefónica y el callejón de acceso a la plaza; en total, 875 metros, que los toros y corredores —entre 2.000 y 3.500— suelen recorrer en tres minutos y 30 segundos, a una velocidad de 14,58 km/hora.",
+      "zh": "7日清晨8时，一枚礼炮将宣告圣多明各围栏大门开启——前一晚公牛已通过所谓的『小奔牛』活动转移至此——奔跑随即开始：首先是坡度达10%的圣多明各坡道，接着是市政广场和商人街，该街道以一个90度弯道结束，随后是埃斯塔费塔街（全程最长路段），最后是电话公司路段和通往斗牛场的小巷。全程共875米，公牛与2000至3500名奔跑者通常在3分30秒内跑完，平均时速14.58公里。",
+      "vocab": [
+        {
+          "word": "desnivel",
+          "translation": "坡度，高度差，落差",
+          "note": "由前缀 des-（表示差异/缺失）+ nivel（水平面）构成，字面意思是『不平整』，引申为地形的坡度或高度差。des- 前缀还可构成：desigualdad（不平等）、desequilibrio（失衡）、desventaja（劣势）。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Los toros que abrirán los Sanfermines de 2026 serán los Fuente Ymbro, a los que seguirán los de Cebada Gago, Victoriano del Río, Álvaro Núñez, José Escolar, La Palmosilla, Miura y Jandilla. La feria la componen ocho corridas de toros, en las que <strong>destacan</strong> la doble actuación de Roca Rey y la presencia de Morante, un espectáculo de rejoneo y una novillada.",
+      "zh": "将揭开2026年奔牛节序幕的是富恩特·因布罗牧场的公牛，随后依次登场的是塞巴达·加戈、维克托里亚诺·德尔里奥、阿尔瓦罗·努涅斯、何塞·埃斯科拉尔、拉帕尔莫西利亚、米乌拉和汉迪利亚牧场的公牛。本届集市共由八场斗牛赛组成，其中罗卡·雷伊的两度登台和莫兰特的压轴亮相尤为引人注目，此外还有一场马背斗牛表演和一场小牛斗牛赛。",
+      "vocab": [
+        {
+          "word": "destacan",
+          "translation": "尤为突出，格外引人注目",
+          "note": "destacar 在此作不及物动词，表示某事物在众多事物中脱颖而出，是新闻文体中极高频的动词。注意其及物用法：el artículo destaca la importancia de...（文章强调了……的重要性）。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Todo está a punto para el chupinazo; a las 12 de la mañana del lunes día 6 comienza la fiesta, que se extenderá hasta la medianoche del día 14, cuando los mozos canten el 'pobre de mí'. Mientras tanto, Pamplona se <strong>erige</strong> en la capital mundial de la diversión al aire libre, el riesgo de los corredores en los encierros y en la pasión de la <strong>lidia</strong> en la plaza de toros.",
+      "zh": "一切已为开幕礼炮就绪；节日将于6日（周一）正午12时正式开始，持续至14日午夜——届时年轻人将齐唱『可怜的我』，宣告节日落幕。在此期间，潘普洛纳将傲然屹立为全球户外狂欢之都，承载着奔牛赛道上奔跑者的冒险精神，以及斗牛场内对斗牛艺术的无限热情。",
+      "vocab": [
+        {
+          "word": "erige",
+          "translation": "（使）成为，树立，确立",
+          "note": "erigirse en 是固定搭配，意为『确立自身为……、成为……』，语气正式，多用于书面语和新闻标题，如 erigirse en líder（确立领导地位）。注意与 convertirse en 的区别：后者更口语化，前者带有主动确立、傲然成为的意味。"
+        },
+        {
+          "word": "lidia",
+          "translation": "斗牛（艺术），搏斗",
+          "note": "lidia 既指斗牛这一活动本身，也可泛指『费力应对某事』，如 lidiar con un problema（应付一个难题）。动词 lidiar con 在日常口语中非常常用，是从斗牛文化延伸出的高频表达。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "no cabe un alfiler",
+      "type": "modismo",
+      "translation": "连针都插不进去，人满为患",
+      "usage": "用来形容某个空间极度拥挤，一点空隙都没有。语气生动夸张，属于口语和新闻文体均适用的惯用语，常见于描述节日、演唱会、交通等人群密集的场景。",
+      "exampleEs": "El concierto fue un éxito total: no cabía un alfiler en el estadio.",
+      "exampleZh": "演唱会大获成功，体育场里人山人海，水泄不通。"
+    },
+    {
+      "expression": "puesta de largo",
+      "type": "modismo",
+      "translation": "隆重亮相，正式登上大舞台",
+      "usage": "原指西班牙传统中女孩成年礼首次穿长裙出席社交场合，引申为某人或某事物首次正式亮相于公众视野。可用于人物、品牌、作品等的首次重要登场，语体偏正式或新闻化。",
+      "exampleEs": "La nueva colección del diseñador tuvo su puesta de largo en la Semana de la Moda de Madrid.",
+      "exampleZh": "这位设计师的新系列在马德里时装周上隆重亮相。"
+    },
+    {
+      "expression": "hervidero de",
+      "type": "colocación",
+      "translation": "……云集之地，……沸腾的地方",
+      "usage": "hervidero de + 名词，用来形容某地充满了大量某类人或活动，带有热闹、密集、活跃的语感。常见搭配：hervidero de turistas、hervidero de actividad、hervidero de rumores，多用于新闻和文学描写。",
+      "exampleEs": "En verano, la costa mediterránea se convierte en un hervidero de turistas de toda Europa.",
+      "exampleZh": "每到夏天，地中海沿岸便成为来自全欧洲游客云集的热闹之地。"
+    },
+    {
+      "expression": "oscilar entre...y...",
+      "type": "colocación",
+      "translation": "在……与……之间浮动／介于……和……之间",
+      "usage": "新闻、经济和学术文体中表达数值范围的标准句式，主语通常是价格、温度、数量等可变数值。比 estar entre...y... 更正式，暗含动态变化的意味，是B2以上写作的必备表达。",
+      "exampleEs": "El precio de los vuelos oscila entre 80 y 350 euros según la temporada.",
+      "exampleZh": "机票价格因季节不同，在80至350欧元之间浮动。"
+    },
+    {
+      "expression": "erigirse en",
+      "type": "colocación",
+      "translation": "确立自身为……，傲然成为……",
+      "usage": "erigirse en + 名词，表示某人或某地主动确立、树立某种地位或身份，语气比 convertirse en 更正式、更有主动性和权威感，常见于新闻标题和政治、文化类报道。",
+      "exampleEs": "Con este premio, la directora se ha erigido en referente del cine latinoamericano.",
+      "exampleZh": "凭借这个奖项，这位导演已确立了自己在拉丁美洲电影界的标杆地位。"
+    },
+    {
+      "expression": "lidiar con",
+      "type": "colocación",
+      "translation": "应付，费力处理，周旋于",
+      "usage": "由斗牛术语 lidia 引申而来，表示费力地应对某个困难、问题或麻烦的人/事，语气带有挣扎感。适用于口语和书面语，是日常高频表达，如 lidiar con el tráfico、lidiar con un jefe difícil。",
+      "exampleEs": "Cada día tengo que lidiar con decenas de correos electrónicos sin respuesta.",
+      "exampleZh": "我每天都得费力应付几十封没有回复的邮件。"
+    }
+  ]
+}

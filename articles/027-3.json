@@ -1,0 +1,173 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会议题",
+  "difficulty": "B2",
+  "wordCount": "约650词",
+  "title": "Desplome de natalidad: la ciudad que no ayuda",
+  "subtitle": "生育率崩塌：城市也是帮凶",
+  "resumenEs": "Chile enfrenta una crisis de natalidad que va más allá del costo económico de tener hijos. La estructura urbana del país obliga a sus habitantes a largas jornadas de desplazamiento entre el lugar de residencia, el trabajo y los servicios educativos y sanitarios, lo que dificulta conciliar la crianza con la vida laboral. Las mujeres, quienes asumen la mayor carga de cuidados, son las más afectadas por un sistema de transporte diseñado sin considerar sus necesidades. Expertos proponen reformar la planificación urbana para reducir estas distancias y aliviar así la decisión de ser padres.",
+  "resumenZh": "智利正面临生育率危机，其根源不仅在于养育子女的经济成本。该国的城市结构迫使居民在住所、工作地点与教育、医疗服务之间长途奔波，使得育儿与职业生活难以兼顾。承担最多照护责任的女性，受到这一未将其需求纳入考量的交通体系的冲击最为严重。专家建议通过改革城市规划来缩短这些距离，从而减轻人们在生育决策上的负担。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "\"Los niños son caros de mantener\". Es la principal razón que la última encuesta CEP identifica para que los chilenos decidan no ser padres, a pesar de que los encuestados sí quisieran tener más hijos de los que tienen. Pero hay un costo adicional que pocas veces se mide al hablar de <strong>natalidad</strong>: el tiempo que exige moverse en la ciudad, o entre comunas, para realizar todas las actividades relacionadas con traer al mundo una nueva vida y <strong>cuidarla</strong>.",
+      "zh": "『养孩子太贵了。』这是CEP最新调查所揭示的智利人决定不生育的首要原因——尽管受访者表示，他们其实希望拥有比现在更多的孩子。然而，在谈论生育率时，有一项额外成本鲜少被纳入衡量：在城市内部或跨区移动所耗费的时间，而这些移动是为了完成所有与迎接新生命、养育孩子相关的活动。",
+      "vocab": [
+        {
+          "word": "natalidad",
+          "translation": "出生率，生育率",
+          "note": "由 natal（出生的）加后缀 -idad 构成，-idad 是西语中将形容词转化为抽象名词的常见后缀，如 mortalidad（死亡率）、fecundidad（生育力）、felicidad（幸福）。"
+        },
+        {
+          "word": "cuidarla",
+          "translation": "照料她／照护（新生命）",
+          "note": "cuidar 在此作及物动词，直接接宾语代词，意为『照顾、照料』。注意与 cuidarse（照顾自己）的区别；此外 cuidar de + 名词也是常见搭配，如 cuidar de los hijos（照料孩子）。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Basta con mirar dónde trabajan los chilenos y dónde estudian sus hijos. Según el Censo 2024, un tercio trabaja en una comuna distinta a la de residencia, porcentaje que <strong>supera</strong> el 50% en la Región Metropolitana. Y sus niños deben moverse: los datos del ministerio de Educación revelan que, solo en la RM, dos de cada tres estudiantes de básica y media se <strong>trasladan</strong> a una comuna distinta.",
+      "zh": "只需看看智利人在哪里工作、孩子在哪里上学，便一目了然。据2024年人口普查，三分之一的人在非居住地的区县工作，这一比例在首都大区超过50%。孩子们同样需要奔波：教育部数据显示，仅在首都大区，三分之二的中小学生就读于不同区县的学校。",
+      "vocab": [
+        {
+          "word": "supera",
+          "translation": "超过，超越",
+          "note": "superar 是假朋友警告：它与英语 superior 形近，但 superar 是动词，意为『超过、克服、超越』，而非形容词。常见搭配：superar un obstáculo（克服障碍）、superar las expectativas（超出预期）。"
+        },
+        {
+          "word": "trasladan",
+          "translation": "转移，迁移，前往",
+          "note": "trasladarse 是 moverse 的正式书面语同义词，强调从一地移动到另一地，常用于新闻和行政文体。与 mudarse（搬家，永久性迁居）不同，trasladarse 多指临时性或日常性的位移。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Cuando una persona reside en una comuna, trabaja en otra y se ve obligada a acceder a escuelas, servicios de salud y otras oportunidades lejos de su vivienda o trabajo, la movilidad se transforma en un desafío adicional para <strong>conciliar</strong> la crianza. Es un costo aún más relevante en regiones, donde, fuera de las principales ciudades, realizar actividades cotidianas implica casi siempre el traslado hacia otras comunas.",
+      "zh": "当一个人居住在某个区县、在另一个区县工作，还不得不前往远离住所或工作地点的学校、医疗机构及其他服务场所时，出行本身便成为兼顾育儿的额外挑战。这一成本在各大区尤为突出——在主要城市以外，完成日常活动几乎总是意味着要前往其他区县。",
+      "vocab": [
+        {
+          "word": "conciliar",
+          "translation": "协调，兼顾，调和",
+          "note": "conciliar 在社会议题文章中高频出现，固定搭配为 conciliar la vida laboral y familiar（协调工作与家庭生活），是讨论性别平等、劳动政策时的核心词汇，比 equilibrar 更正式、更具政策色彩。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Las respuestas a las necesidades de movilidad no son las mismas para hombres y mujeres. Ellas dependen más del transporte público: el mismo Censo muestra que en Chile el 50% llega a trabajar en transporte público, frente al 36% de los hombres, que acceden con mayor frecuencia a un vehículo propio. Esta diferencia <strong>pesa</strong> considerablemente en ciudades donde el transporte público y la infraestructura vial han sido pensados para el viaje entre casa y trabajo, excluyendo los <strong>desplazamientos encadenados</strong> relacionados con el cuidado. Y sabemos que, en Chile, quienes concentran más responsabilidades son las mujeres. La II Encuesta Nacional sobre Uso del Tiempo <strong>arroja</strong> que las mujeres dedican al cuidado una cantidad similar a la que destinan a su trabajo remunerado.",
+      "zh": "男性和女性在出行需求上的应对方式并不相同。女性更依赖公共交通：同一份人口普查数据显示，智利有50%的女性乘坐公共交通上班，而男性这一比例为36%，后者更频繁地使用私家车。在公共交通和道路基础设施仅为通勤而设计、将照护相关的链式出行排除在外的城市中，这一差距的影响尤为显著。众所周知，在智利，承担更多责任的是女性。第二次全国时间使用调查显示，女性用于照护的时间与其有偿工作时间大致相当。",
+      "vocab": [
+        {
+          "word": "pesa",
+          "translation": "影响重大，举足轻重",
+          "note": "pesar 原义为『称重、有重量』，在此引申为『产生重要影响、分量十足』，是一词多义的典型。类似用法：eso pesa mucho en su decisión（这对他的决定影响很大），语气比 influir 更口语化。"
+        },
+        {
+          "word": "desplazamientos encadenados",
+          "translation": "链式出行，连续多目的地出行",
+          "note": "城市规划和交通研究领域的专业搭配，指一次出门完成多个目的地（如接送孩子、买菜、就医）的出行模式。encadenado 来自 cadena（链条），形象描述各目的地之间的连锁关系，具有较强的学术迁移价值。"
+        },
+        {
+          "word": "arroja",
+          "translation": "（调查/数据）显示，揭示",
+          "note": "arrojar 原义为『抛、扔』，在新闻和学术文体中固定搭配为 arrojar datos / resultados / cifras，意为『呈现出数据/结果』，是B2以上新闻写作的高频动词，比 mostrar 更正式。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "El tiempo destinado a moverse hace evidentes estos costos. Según los Indicadores de Sustentabilidad Urbana de CEDEUS, buena parte de los habitantes de diversas ciudades de Chile dedica más de una hora diaria a sus <strong>desplazamientos</strong>. Esto ocurre en más de la mitad de la población de Santiago (62,2%), Puerto Montt–Puerto Varas (62,8%), Temuco (59,4%), Valdivia (51,6%) y Valparaíso (54,2%).",
+      "zh": "用于出行的时间使这些成本一目了然。根据CEDEUS城市可持续发展指标，智利多个城市的大部分居民每天花在出行上的时间超过一小时。这一现象存在于超过半数的人口中：圣地亚哥（62.2%）、蒙特港—巴拉斯港（62.8%）、特木科（59.4%）、瓦尔迪维亚（51.6%）和瓦尔帕莱索（54.2%）均是如此。",
+      "vocab": [
+        {
+          "word": "desplazamientos",
+          "translation": "出行，位移，通勤",
+          "note": "desplazamiento 是城市规划和交通领域的核心名词，比 viaje 更正式、更学术，强调从一地到另一地的移动行为本身。动词形式 desplazarse 可替换 moverse，用于正式文体。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Las acciones frente a la crisis de natalidad de Chile deben entonces considerar también la ciudad y su movilidad. Políticas sociales como <strong>subsidios</strong>, permisos o salas cuna son necesarias, pero por sí solas no responden a estructuras urbanas que dificultan conciliar la crianza con el trabajo y otras actividades. Es necesario <strong>intervenir</strong> también en la planificación de las ciudades para reducir los costos de criar a un hijo en la ciudad.",
+      "zh": "因此，应对智利生育率危机的举措也必须将城市及其出行问题纳入考量。补贴、产假及托儿所等社会政策固然必要，但仅凭这些，无法回应那些使育儿与工作及其他活动难以兼顾的城市结构性问题。有必要同时介入城市规划，以降低在城市中养育一个孩子的成本。",
+      "vocab": [
+        {
+          "word": "subsidios",
+          "translation": "补贴，津贴",
+          "note": "subsidio 与英语 subsidy 同源，含义相近，但注意西语中 subsidiar（动词）和 subsidiario（形容词，附属的）的用法有所不同。在政策类文章中，subsidio 常与 otorgar、recibir、conceder 等动词搭配。"
+        },
+        {
+          "word": "intervenir",
+          "translation": "介入，干预，参与",
+          "note": "intervenir 在政策和学术文体中意为『采取干预措施』，比 actuar 更正式，暗含主动介入以改变现状的意味。注意其名词形式 intervención 在医学语境中指『手术』，需根据上下文判断含义。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Ciudades como Viena han promovido formas de <strong>densificación</strong> equilibrada para acercar el equipamiento a las viviendas, mientras que Bogotá ha introducido las manzanas del cuidado, agrupando servicios que apoyan también la crianza en espacios accesibles a pie. A estos conocidos ejemplos pueden sumarse otras medidas: localizar servicios de cuidado también cerca de los lugares de trabajo y extender sus horarios para facilitar el acceso de quienes trabajan.",
+      "zh": "维也纳等城市推行了均衡的城市密度提升方案，以使公共设施更贴近居民住所；而波哥大则引入了『照护街区』概念，将支持育儿的各类服务集中在步行可达的空间内。在这些广为人知的案例之外，还可增添其他措施：将照护服务也设置在工作场所附近，并延长其开放时间，以方便上班族使用。",
+      "vocab": [
+        {
+          "word": "densificación",
+          "translation": "（城市）密度提升，增密",
+          "note": "由 denso（密集的）经 densificar（动词）派生出名词 densificación，-ción 后缀将动词转化为表示过程或结果的名词，是城市规划领域的核心术语。同类构词：urbanización、planificación、digitalización。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Frente a la decisión de tener o no hijos, la ciudad puede ser un <strong>obstáculo</strong> que suma más costos a una decisión que ya se considera económicamente pesada. Reducir las distancias entre donde se vive, se trabaja y se cuida no va a resolver la crisis <strong>demográfica</strong>. Pero podría hacer que la decisión de ser padre y madre no dependa, además, de cuántos kilómetros o cuántas horas de viaje se esté dispuesto a dedicar.",
+      "zh": "面对是否生育的抉择，城市可能成为一道障碍，在一个本已被视为经济负担沉重的决定上再添成本。缩短居住、工作与照护地点之间的距离，并不能解决人口危机。但它或许能让为人父母的决定，不必再额外取决于一个人愿意付出多少公里的路程或多少小时的奔波。",
+      "vocab": [
+        {
+          "word": "obstáculo",
+          "translation": "障碍，阻碍",
+          "note": "obstáculo 的常见动词搭配为 superar un obstáculo（克服障碍）、poner obstáculos（设置障碍）、encontrar obstáculos（遭遇阻碍），是议论文和新闻文体中的高频词，建议与这些搭配一同记忆。"
+        },
+        {
+          "word": "demográfica",
+          "translation": "人口的，人口学的",
+          "note": "demografía（人口学）来自希腊语 demos（人民）+ graphia（书写/研究），前缀 demo- 还出现在 democracia（民主）、demografía 等词中。掌握这一词根有助于理解大量政治和社会科学词汇。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "por sí solas",
+      "type": "colocación",
+      "translation": "仅凭自身，单靠……本身",
+      "usage": "por sí solo/a/os/as 是固定搭配，意为『仅凭自身力量、单独地』，强调某事物在没有其他辅助条件下的局限性或充分性。性数随主语变化，常用于论证性文章中表达『某措施单独不足以解决问题』。",
+      "exampleEs": "El talento, por sí solo, no garantiza el éxito si no va acompañado de esfuerzo.",
+      "exampleZh": "才华本身并不能保证成功，还需要努力的配合。"
+    },
+    {
+      "expression": "arrojar datos / resultados",
+      "type": "colocación",
+      "translation": "（调查、研究）显示数据／呈现结果",
+      "usage": "arrojar 在学术和新闻文体中与 datos、resultados、cifras、luz 等名词固定搭配，表示调查或研究所呈现的发现。语气比 mostrar 更正式，是学术写作和新闻报道的标志性表达，B2以上写作中可替换 revelar 或 indicar。",
+      "exampleEs": "El estudio arroja resultados sorprendentes sobre los hábitos de sueño de los adolescentes.",
+      "exampleZh": "这项研究呈现出关于青少年睡眠习惯的令人惊讶的结果。"
+    },
+    {
+      "expression": "conciliar la vida laboral y familiar",
+      "type": "colocación",
+      "translation": "协调工作与家庭生活，实现工作与家庭的平衡",
+      "usage": "这是西班牙语政策、社会议题讨论中的核心固定搭配，在劳动法、性别平等和家庭政策语境中极高频出现。conciliar 后也可接其他名词组合，如 conciliar estudios y trabajo（兼顾学业与工作）。",
+      "exampleEs": "Muchas empresas están adoptando el teletrabajo para ayudar a sus empleados a conciliar la vida laboral y familiar.",
+      "exampleZh": "许多企业正在推行远程办公，以帮助员工协调工作与家庭生活。"
+    },
+    {
+      "expression": "hacer evidente",
+      "type": "colocación",
+      "translation": "使……显而易见，揭示，凸显",
+      "usage": "hacer + adjetivo 是西语中的高频使役结构，hacer evidente 意为『使某事变得明显』，常用于论证性文章中引出数据或事实支撑论点。类似搭配：hacer posible（使成为可能）、hacer necesario（使……成为必要）。",
+      "exampleEs": "La pandemia hizo evidente la fragilidad de los sistemas de salud en todo el mundo.",
+      "exampleZh": "疫情使全球卫生体系的脆弱性暴露无遗。"
+    }
+  ]
+}
