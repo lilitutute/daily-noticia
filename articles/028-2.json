@@ -1,0 +1,203 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科学与自然",
+  "difficulty": "B2",
+  "wordCount": "约650词",
+  "title": "Ratones y humanos olfatean igual",
+  "subtitle": "老鼠与人类的嗅觉竟然相同",
+  "resumenEs": "Dos nuevas investigaciones publicadas en Science Advances revelan que ratones y humanos comparten mecanismos olfativos sorprendentemente similares: los roedores también olfatean de forma deliberada y única al comer, mientras que el cerebro humano procesa los olores en ráfagas rápidas similares a las de los roedores. Esto sugiere que el funcionamiento básico del olfato se ha conservado a lo largo de la evolución de los mamíferos.",
+  "resumenZh": "两项发表于《科学进展》的新研究揭示，老鼠与人类拥有惊人相似的嗅觉机制：啮齿动物在进食时也会进行单次、主动的嗅闻；而人类大脑则以与啮齿动物嗅闻速度相当的快速节律处理气味。这表明哺乳动物的基本嗅觉机制在进化过程中得以保留。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Hace apenas un año se supo que los roedores, que son casi la mitad de las especies de mamíferos, también tienen uñas que les ayudaron a <strong>conquistar</strong> el planeta. Ahora, dos nuevas investigaciones diferentes vuelven a encontrar algo en común entre humanos y ratones: la <strong>olfacción</strong>. Partiendo de extremos diferentes, han descubierto que los roedores, como nosotros, también olfatean de una sola vez y que las personas procesan los olores en <strong>ráfagas</strong>, como hacen esos animales.",
+      "zh": "就在一年前，人们才得知，啮齿动物——几乎占哺乳动物物种的一半——也长有指甲，正是这些指甲帮助它们征服了地球。如今，两项不同的新研究再次在人类与老鼠之间发现了共同点：嗅觉。从不同的出发点，研究人员发现，啮齿动物和我们一样，也会进行单次嗅闻；而人类则像这些动物一样，以短促的爆发方式处理气味。",
+      "vocab": [
+        {
+          "word": "conquistar",
+          "translation": "征服；占领",
+          "note": "在新闻和学术文体中常用于比喻义，如 conquistar el mercado（占领市场）、conquistar el espacio（征服太空），不局限于军事语境。"
+        },
+        {
+          "word": "olfacción",
+          "translation": "嗅觉；嗅闻（行为）",
+          "note": "名词形式，来自动词 olfatear，比口语词 olfato 更正式，多见于科学和医学文本。"
+        },
+        {
+          "word": "ráfagas",
+          "translation": "阵；短促的爆发",
+          "note": "本义为『一阵风』或『一梭子弹』，在科学语境中引申为『短促的爆发式信号』，是典型的一词多义词，注意根据语境判断。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "\"Ambas investigaciones tienen su origen en el estudio previo sobre cómo los ratones manipulan la comida\", dice Gordon Shepherd, neurocientífico de la Universidad del Noroeste (Estados Unidos) y autor sénior de uno de los estudios, recién publicado en Science Advances. \"En aquel estudio, vimos que los ratones usan principalmente sus pulgares para manipular la comida, y que sus pulgares tienen uñas verdaderas\", añade. \"También observamos movimientos de las manos que <strong>sugerían</strong> que los ratones podrían oler su comida una sola vez, de forma similar a como los humanos acercan la comida o la bebida a la nariz para olerla <strong>brevemente</strong>\", completa.",
+      "zh": "「这两项研究都源于此前关于老鼠如何处理食物的研究，」戈登·谢泼德说，他是西北大学（美国）的神经科学家，也是其中一项研究的资深作者，该研究刚刚发表于《科学进展》。「在那项研究中，我们发现老鼠主要用拇指来处理食物，而且它们的拇指长有真正的指甲，」他补充道。「我们还观察到一些手部动作，暗示老鼠可能只嗅一次食物，类似于人类将食物或饮料凑近鼻子短暂闻一下的方式，」他最后说。",
+      "vocab": [
+        {
+          "word": "sugerían",
+          "translation": "暗示；表明（过去未完成时）",
+          "note": "sugerir 在学术语境中常表示『数据/现象暗示……』，比 indicar 语气更委婉，常用于尚未确证的推断，是新闻和论文中的高频动词。"
+        },
+        {
+          "word": "brevemente",
+          "translation": "短暂地；简短地",
+          "note": "由形容词 breve 加后缀 -mente 构成，该后缀可将大多数形容词变为副词，如 rápidamente、claramente，构词规律极强，值得举一反三。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Tras un seguimiento <strong>exhaustivo</strong>, analizando el comportamiento de varios ratones al milisegundo, demuestran que \"se trata de olfateos únicos, algo que nunca se había observado antes en mamíferos distintos de los humanos\", destaca Shepherd. Los biólogos y <strong>etólogos</strong> siempre han mantenido que los animales y las personas tienen formas diferentes de usar su sentido del olfato. La imagen típica de un ratoncito <strong>olisqueando</strong> el aire de forma rítmica le serviría tanto para reconocer el entorno como para encontrar comida o detectar los peligros. Por el contrario, los humanos tendemos a inhalar e identificar los olores con una inhalación prolongada.",
+      "zh": "经过详尽的追踪观察，以毫秒为单位分析多只老鼠的行为，研究人员证明「这是单次嗅闻，这在人类以外的哺乳动物中从未被观察到过」，谢泼德强调道。生物学家和动物行为学家一直认为，动物与人类使用嗅觉的方式不同。典型的画面是一只小老鼠有节律地嗅着空气，这既能帮助它识别环境，也能帮助它寻找食物或探测危险。相反，人类倾向于通过一次长时间的吸气来吸入并识别气味。",
+      "vocab": [
+        {
+          "word": "exhaustivo",
+          "translation": "详尽的；彻底的",
+          "note": "假朋友警告：虽然形似英语 exhausting（令人疲惫的），但 exhaustivo 意为『详尽彻底的』，如 análisis exhaustivo（详尽分析），两者含义完全不同。"
+        },
+        {
+          "word": "etólogos",
+          "translation": "动物行为学家",
+          "note": "由词根 eto-（行为）+ -logo（学者）构成，同类词有 psicólogo、sociólogo、biólogo，掌握 -logo/-logía 这一构词规律可快速识别大量学科名词。"
+        },
+        {
+          "word": "olisqueando",
+          "translation": "嗅着；用鼻子闻（反复、轻微地）",
+          "note": "olisquear 是 oler 的反复/轻微动作变体，带有『反复小幅度嗅闻』的语感，区别于 olfatear（更正式、单次或主动的嗅闻行为）。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Pero lo que han observado es que, cuando comen, los ratones sincronizan un único olfateo con el momento exacto en que llevan la comida a la nariz, coordinando con <strong>precisión milimétrica</strong> y en milisegundos manos, cabeza y respiración. A diferencia del olfateo constante que utilizan al buscar alimento, este comportamiento es rápido y <strong>deliberado</strong>, similar a cuando un humano acerca la comida a su nariz para olerla cuidadosamente antes de darle un bocado.",
+      "zh": "但研究人员观察到的是，老鼠在进食时，会将单次嗅闻与将食物送到鼻子的精确时刻同步，在毫秒之间以毫米级的精度协调手部、头部和呼吸。与它们在寻找食物时持续嗅闻的方式不同，这种行为迅速而主动，类似于人类在咬一口之前将食物凑近鼻子仔细闻一闻。",
+      "vocab": [
+        {
+          "word": "precisión milimétrica",
+          "translation": "毫米级的精度；极高的精准度",
+          "note": "固定搭配，常用于强调动作或协调的高度精准，可迁移至其他语境，如 con precisión milimétrica ejecutó el plan（以极高精度执行了计划）。"
+        },
+        {
+          "word": "deliberado",
+          "translation": "主动的；经过深思熟虑的；刻意的",
+          "note": "注意与 premeditado（预谋的，多含负面色彩）的区别：deliberado 强调『有意识、主动』，语气中性，常用于描述行为的主动性而非计划性。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "\"Esto implica que, cuando los ratones olfatean la comida, no lo hacen como una respuesta <strong>refleja</strong> a un olor, sino como un acto proactivo de exploración sensorial deliberada\", comenta Mang Gao, investigador del laboratorio de Shepherd y primer autor de este primer estudio. \"Los ratones deciden realizar estas rápidas comprobaciones olfativas, un comportamiento <strong>característico</strong> de gran parte de la conducta olfativa humana, en lugar de limitarse a responder pasivamente a un estímulo oloroso\", termina.",
+      "zh": "「这意味着，老鼠在嗅闻食物时，并非对气味的本能反射，而是一种主动、刻意的感官探索行为，」谢泼德实验室的研究员、这项研究的第一作者毛芒评论道。「老鼠会主动进行这些快速的嗅觉检查——这是人类大部分嗅觉行为的典型特征——而不是仅仅被动地响应一个气味刺激，」他最后说。",
+      "vocab": [
+        {
+          "word": "refleja",
+          "translation": "反射性的；本能的",
+          "note": "此处作形容词，修饰 respuesta，意为『反射性反应』；作名词 reflejo 则指『反射』或『倒影』，注意一词多义，需结合语境判断词性和含义。"
+        },
+        {
+          "word": "característico",
+          "translation": "典型的；特有的",
+          "note": "与 típico 近义，但 característico 更强调『作为某事物的本质特征』，语气更正式；típico 则更口语化，也常带有文化刻板印象的含义。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Christina Zelano, del Departamento de Neurología de la Universidad del Noroeste, es la autora sénior del segundo estudio, también publicado en Science Advances. \"Una diferencia fundamental entre los humanos y otros mamíferos como perros o roedores es que olfateamos más lentamente. Además, tenemos <strong>bulbos olfatorios</strong> proporcionalmente más pequeños que la mayoría de los demás mamíferos\", recuerda Zelano. \"Esto ha llevado a menudo a la idea de que el sentido del olfato humano es <strong>inferior</strong> al de otros mamíferos como perros o roedores\". En efecto, olemos aproximadamente 10 veces más lento que un roedor. \"A pesar de esto, las investigaciones han demostrado que podemos procesar olores tan rápidamente como un roedor que olfatea con rapidez. Se desconocía cómo podíamos hacerlo en un solo olfateo\".",
+      "zh": "克里斯蒂娜·泽拉诺来自西北大学神经内科，是第二项研究的资深作者，该研究同样发表于《科学进展》。「人类与狗或啮齿动物等其他哺乳动物之间的一个根本区别在于，我们嗅闻的速度更慢。此外，与大多数其他哺乳动物相比，我们的嗅球在比例上也更小，」泽拉诺指出。「这常常使人们认为，人类的嗅觉不如狗或啮齿动物等其他哺乳动物。」事实上，我们嗅闻的速度大约比啮齿动物慢10倍。「尽管如此，研究表明，我们处理气味的速度可以与快速嗅闻的啮齿动物一样快。但我们如何能在单次嗅闻中做到这一点，此前一直不得而知。」",
+      "vocab": [
+        {
+          "word": "bulbos olfatorios",
+          "translation": "嗅球（大脑中处理嗅觉信号的结构）",
+          "note": "bulbo 本义为『球茎』（如洋葱、灯泡），在解剖学中指球状结构，如 bulbo raquídeo（延髓），掌握这一词根有助于识别医学术语。"
+        },
+        {
+          "word": "inferior",
+          "translation": "较差的；低等的；下方的",
+          "note": "假朋友提示：inferior 在西语中既可表示空间上的『下方』，也可表示质量或能力上的『较差』，需根据语境区分，不可一律译为『下级』。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Para conocerlo, el equipo de Zelano <strong>ideó</strong> una nueva forma de medir las ondas cerebrales del bulbo olfatorio humano. Estas ondas se registran mediante pequeñas descargas eléctricas que conectan las neuronas olfativas, el bulbo olfatorio (situado tras los ojos) y las regiones del cerebro que procesan los olores. Tras una serie de experimentos con un grupo de voluntarios a los que colocaron electrodos dentro de la nariz, \"descubrimos que, al olfatear, nuestro bulbo olfatorio genera un ritmo rápido, la <strong>oscilación</strong> theta [un tipo de ondas cerebrales], que coincide con la velocidad de olfateo de los roedores\", destaca la investigadora. Este ritmo rápido marca el procesamiento de olores en el sistema olfativo, \"lo que nos permite alcanzar la misma velocidad de procesamiento que los roedores; por lo tanto, el ritmo de la <strong>olfacción</strong> es constante en todos los mamíferos, aunque la velocidad de olfateo varíe\", termina Zelano.",
+      "zh": "为了解开这一谜题，泽拉诺团队构思出一种测量人类嗅球脑电波的新方法。这些脑电波通过微小的电信号来记录，这些信号连接着嗅觉神经元、嗅球（位于眼睛后方）以及大脑中处理气味的区域。经过一系列实验——研究人员在一组志愿者的鼻腔内放置了电极——「我们发现，在嗅闻时，我们的嗅球会产生一种快速节律，即θ振荡（一种脑电波），其速度与啮齿动物的嗅闻速度相吻合，」研究员强调道。这种快速节律标志着嗅觉系统对气味的处理过程，「这使我们能够达到与啮齿动物相同的处理速度；因此，嗅觉的节律在所有哺乳动物中是一致的，尽管嗅闻的速度各有不同，」泽拉诺最后说。",
+      "vocab": [
+        {
+          "word": "ideó",
+          "translation": "构思出；想出（主意或方法）",
+          "note": "idear 意为『构思、设计出』，比 inventar 更强调创意思维过程，常搭配方法、计划、策略等名词，如 idear una estrategia（想出一个策略）。"
+        },
+        {
+          "word": "oscilación",
+          "translation": "振荡；波动；摆动",
+          "note": "来自动词 oscilar（振荡、波动），在科学语境中指周期性变化，在经济新闻中也常见，如 oscilación de precios（价格波动），是高频新闻词汇。"
+        },
+        {
+          "word": "olfacción",
+          "translation": "嗅觉；嗅闻过程",
+          "note": "与第一段重复出现，强化记忆：该词在正式科学文本中专指嗅觉这一生理过程，区别于口语中更常用的 olfato（嗅觉能力）。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Que los ratones puedan olfatear como los humanos y estos puedan procesar los olores como lo hacen los roedores implica que el funcionamiento básico del sentido del olfato se ha <strong>conservado</strong> durante toda la evolución que separa a unos y otros. Y eso significa que es esencial. \"Saber que contamos con este conjunto de mecanismos <strong>conservados evolutivamente</strong> nos ayuda a comprender cómo funcionan los cerebros de los mamíferos, lo que, en última instancia, podría ayudarnos a entender cómo fallan en las <strong>patologías</strong>\", afirma el primer autor del trabajo de Zelano, Andrew Sheriff, en una nota. Y termina con esa idea: \"Nos ayuda a comprender cómo funciona el cerebro para saber cómo repararlo cuando no funciona\".",
+      "zh": "老鼠能像人类一样嗅闻，而人类又能像啮齿动物一样处理气味，这意味着嗅觉的基本运作机制在将两者分隔开来的整个进化历程中得以保留。这也说明嗅觉至关重要。「知道我们拥有这套在进化上保留下来的机制，有助于我们理解哺乳动物大脑的运作方式，而这最终可能帮助我们理解大脑在病理状态下是如何出现故障的，」泽拉诺研究的第一作者安德鲁·谢里夫在一份声明中表示。他以这一想法作结：「这有助于我们理解大脑如何运作，从而知道在它出现故障时如何修复它。」",
+      "vocab": [
+        {
+          "word": "conservado",
+          "translation": "保留的；保存的；保守的",
+          "note": "conservar 在生物进化语境中专指『（基因或机制）在进化中被保留』，是重要的学术用法；日常语境中则指『保存食物』或『保持状态』，注意语境切换。"
+        },
+        {
+          "word": "conservados evolutivamente",
+          "translation": "在进化上保留下来的",
+          "note": "副词 evolutivamente 由 evolutivo + -mente 构成，是科学文本中的典型修饰语，-mente 后缀构词规律再次体现，可类比 genéticamente（基因上地）、fisiológicamente（生理上地）。"
+        },
+        {
+          "word": "patologías",
+          "translation": "病理；疾病状态",
+          "note": "由词根 pato-（疾病）+ -logía（学科）构成，注意与 enfermedad（具体疾病）的区别：patología 更偏向医学学术语境，指疾病的机制或病理状态，而非具体病名。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "en última instancia",
+      "type": "colocación",
+      "translation": "最终；归根结底",
+      "usage": "正式书面语中的固定短语，用于表示『在所有因素考量之后，最终的结论或结果』，相当于 en definitiva 或 a fin de cuentas，常出现在学术论文、新闻评论和演讲中，语气较为庄重。",
+      "exampleEs": "En última instancia, la responsabilidad de proteger el medio ambiente recae en todos nosotros.",
+      "exampleZh": "归根结底，保护环境的责任落在我们每一个人身上。"
+    },
+    {
+      "expression": "dar un bocado",
+      "type": "colocación",
+      "translation": "咬一口",
+      "usage": "bocado 指『一口（食物）』，dar un bocado 是固定搭配，表示『咬一口、吃一口』。注意不能用 hacer 替换 dar，搭配关系固定。可延伸至 de un bocado（一口吞下）等变体。",
+      "exampleEs": "Antes de dar un bocado, siempre huele la fruta para comprobar que está madura.",
+      "exampleZh": "咬之前，他总是先闻一闻水果，确认是否熟透。"
+    },
+    {
+      "expression": "contar con",
+      "type": "colocación",
+      "translation": "拥有；具备；依靠",
+      "usage": "contar con 是高频固定搭配，意为『拥有某种资源/能力』或『依靠某人』，不可与 tener 完全互换——contar con 更强调『可以依赖、可以调用』的含义，语气比 tener 更正式，常见于学术和新闻文体。",
+      "exampleEs": "El hospital cuenta con los mejores especialistas del país para tratar esta enfermedad.",
+      "exampleZh": "这家医院拥有全国最优秀的专科医生来治疗这种疾病。"
+    },
+    {
+      "expression": "a diferencia de",
+      "type": "colocación",
+      "translation": "与……不同；有别于",
+      "usage": "对比类固定介词短语，后接名词或代词，用于引出对比关系，是学术写作和新闻分析中的高频结构。注意与 a pesar de（尽管）区分：前者表对比，后者表让步。",
+      "exampleEs": "A diferencia de sus hermanos, ella decidió estudiar medicina en lugar de derecho.",
+      "exampleZh": "与她的兄弟姐妹不同，她选择学医而非法律。"
+    }
+  ]
+}
