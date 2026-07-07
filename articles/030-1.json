@@ -1,0 +1,445 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "情感与生活",
+  "difficulty": "B2",
+  "wordCount": "约1200词",
+  "title": "Pensaba que el divorcio significaba enterrar el pasado",
+  "subtitle": "我以为离婚意味着埋葬过去",
+  "resumenEs": "Una médica especialista en adicciones narra cómo, tras un divorcio inesperado, huyó a un pueblo desconocido para trabajar en una clínica de metadona. Entre la soledad, el dolor y los pacientes que atendía cada día, fue redescubriendo que los momentos felices del pasado no dejan de ser verdad aunque el amor se acabe.",
+  "resumenZh": "一位成瘾治疗专科医生讲述了她在经历一段意外离婚后，只身逃往陌生小镇、在美沙酮诊所工作的经历。在孤独与痛苦中，她通过每天接触的患者，逐渐领悟到：即使爱情终结，那些曾经真实存在的幸福时刻也不会因此被抹去。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Hace dos años, mientras <strong>atravesaba</strong> un divorcio que no había querido ni esperado, luché contra los recuerdos que quería olvidar. Lo feliz que había sido en nuestra boda. Lo orgullosa que me sentí cuando su carrera <strong>despegó</strong>. Y lo sinceramente que había creído que, si <strong>aguantaba</strong> el tiempo suficiente, podríamos hacer que durara.",
+      "zh": "两年前，在经历一场我既不曾期待、也不曾想要的离婚时，我与那些想要遗忘的记忆苦苦抗争。婚礼上我曾有多幸福。当他的事业腾飞时我有多自豪。以及我曾多么真诚地相信，只要我撑得足够久，我们就能让这段婚姻走下去。",
+      "vocab": [
+        {
+          "word": "atravesaba",
+          "translation": "经历、度过（困难时期）",
+          "note": "atravesar 在此为比喻用法，表示『经历某段艰难时期』，常见搭配如 atravesar una crisis / una etapa difícil，比 pasar por 语气更正式、更有穿越感。"
+        },
+        {
+          "word": "despegó",
+          "translation": "（事业）腾飞、起步",
+          "note": "despegar 本义是『起飞』，引申为事业、经济等『腾飞、快速发展』，是新闻和日常中的高频比喻用法，如 la economía despegó。"
+        },
+        {
+          "word": "aguantaba",
+          "translation": "坚持、撑下去",
+          "note": "aguantar 是『假朋友』陷阱：它不等于英语 support（支持），而是『忍受、撑住、坚持』，如 aguantar el dolor（忍痛）、aguantar la presión（顶住压力）。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Esos recuerdos me <strong>atormentaban</strong> —señales, pensaba yo, de que había sido una ingenua, una tonta. Y no podía escapar de ellos. Aunque mi hija menor se iba a la universidad y la mayor ya se había ido, todavía había demasiados recuerdos de más de veinte años de matrimonio <strong>acechando</strong> en nuestra casa familiar, entre nuestros amigos y en nuestros lugares favoritos.",
+      "zh": "那些记忆折磨着我——我当时以为，它们是我曾经天真、曾经愚蠢的证明。我无法逃脱它们。尽管小女儿即将去上大学，大女儿也已经离家，但二十多年婚姻留下的记忆依然太多，潜伏在我们的家、我们共同的朋友之间，以及我们曾经喜爱的地方。",
+      "vocab": [
+        {
+          "word": "atormentaban",
+          "translation": "折磨、使痛苦",
+          "note": "atormentar 由前缀 a- + tormento（折磨）构成，同类构词如 agonizar、angustiar，掌握 a- 动词化前缀可举一反三。"
+        },
+        {
+          "word": "acechando",
+          "translation": "潜伏、伺机而动",
+          "note": "acechar 指『暗中窥伺、潜伏等待』，带有威胁性，常用于描述危险、恐惧或记忆如影随形，比 esperar 语气更阴暗紧张。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Así que, tras décadas como esposa, madre y médica en Oregón, vendí la casa, me <strong>despedí</strong> de amigos queridos, llevé a mi hija a su primer año de universidad y <strong>huí</strong> casi mil kilómetros a otro estado para convertirme en la directora médica de una clínica rural de metadona en un pequeño pueblo donde no conocía a nadie.",
+      "zh": "就这样，在俄勒冈州做了数十年妻子、母亲和医生之后，我卖掉了房子，与挚友们道别，送女儿去上大学一年级，然后逃离近千公里，去往另一个州，成为一家偏远小镇美沙酮诊所的医疗主任——那里没有一个人认识我。",
+      "vocab": [
+        {
+          "word": "despedí",
+          "translation": "告别、道别",
+          "note": "despedirse de alguien 是固定搭配，表示『与某人道别』；注意与 despedir a alguien（解雇某人）区分，反身与否意思截然不同。"
+        },
+        {
+          "word": "huí",
+          "translation": "逃离、逃跑",
+          "note": "huir 强调『仓皇逃离』，带有强烈的情绪色彩，比 escapar 或 irse 更有『落荒而逃』的紧迫感，此处作者用它坦诚地承认自己是在『逃跑』。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "El puesto y el lugar eran nuevos para mí, pero no el trabajo. Me <strong>especializo</strong> en el tratamiento de las adicciones. A lo largo de mi carrera he trabajado en clínicas de metadona, que son prácticamente iguales. Abren temprano, a las 4 o 5 a.m., para que los pacientes puedan recibir su dosis y llegar a tiempo al trabajo. Tienen una fila que conduce a una ventanilla de <strong>dispensación</strong>. Al otro lado de la ventanilla, enfermeras o médicos, vestidos con uniformes médicos como si fueran cajeros de banco, pasan vasos de plástico con metadona con sabor a cereza a través de una ranura. A veces, las filas se extienden hasta el estacionamiento.",
+      "zh": "职位和地点对我来说是新的，但工作内容并不陌生。我专攻成瘾治疗。在我的职业生涯中，我一直在美沙酮诊所工作，这类诊所几乎都大同小异。它们开门很早，凌晨四五点，好让患者领完药后还能准时上班。诊所里有一排队伍通向发药窗口。窗口另一侧，护士或医生身着医疗制服，活像银行柜员，把装着樱桃味美沙酮的塑料杯从一道缝隙递出去。有时，队伍一直排到停车场。",
+      "vocab": [
+        {
+          "word": "especializo",
+          "translation": "专攻、专门从事",
+          "note": "especializarse en 是固定搭配，表示『专攻某领域』，后接名词或动词原形，如 especializarse en derecho / en tratar pacientes，是简历和学术文体中的高频表达。"
+        },
+        {
+          "word": "dispensación",
+          "translation": "（药品）分发、配发",
+          "note": "dispensación 源自 dispensar（分发、免除），在医疗语境中专指『药品配发』；注意 dispensar 还有『免除义务』之意，如 dispensar de una obligación，一词多义需注意语境。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Me mudé a una casa victoriana azul de alquiler con molduras blancas, a solo 10 minutos a pie de mi trabajo. La casa tenía un techo a dos aguas, pisos de madera rayados y un ventanal que daba a la calle. Ay, me encantaba. Me despertaba en la oscuridad para ir al trabajo y no me preocupaba el ruido que hacía; no había nadie que pudiera <strong>darse la vuelta</strong> y gruñir: '¡Por Dios, qué diablos!'.",
+      "zh": "我搬进了一栋带白色线脚的蓝色维多利亚式出租屋，步行到工作地点只需十分钟。房子有一个双坡屋顶、磨损的木地板，还有一扇朝向街道的大窗。哎，我真的好喜欢它。我在黑暗中起床去上班，完全不用担心自己发出的声响——没有人会翻个身，咕哝着说：『天哪，搞什么鬼！』",
+      "vocab": [
+        {
+          "word": "darse la vuelta",
+          "translation": "翻身、转过身",
+          "note": "darse la vuelta 是固定搭配，表示『转身』或『翻身』，此处指睡觉时翻身；与 dar una vuelta（散步、兜一圈）区分，两者意思完全不同。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Al final de cada largo día, no había infelicidad que me recibiera en casa. Solo yo, diciéndome a mí misma que me <strong>recostara</strong>, y ¿quería una taza de té? ¿Quizás una siesta?",
+      "zh": "每个漫长的一天结束后，家里没有任何不幸在等着我。只有我自己，告诉自己躺下来歇歇，想不想喝杯茶？或者小睡一会儿？",
+      "vocab": [
+        {
+          "word": "recostara",
+          "translation": "躺下、靠着休息",
+          "note": "recostarse 指『斜靠或半躺着休息』，比 acostarse（上床睡觉）更随意，此处为虚拟式过去未完成时，用于间接引语中表达建议，是重要的语法结构。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Por las noches, a menudo hablaba durante horas por teléfono con mis hijos, <strong>desesperada</strong> por conocer detalles de sus vidas, y me sentía atormentada por la culpa cuando me preguntaban con tanta dulzura si me gustaba mi nuevo hogar, que no era su hogar y nunca lo sería.",
+      "zh": "夜里，我常常和孩子们煲好几个小时的电话粥，如饥似渴地想了解他们生活的点滴；而当他们温柔地问我喜不喜欢新家时，我又被愧疚感折磨——那个家不是他们的家，也永远不会是。",
+      "vocab": [
+        {
+          "word": "desesperada",
+          "translation": "迫切的、如饥似渴地",
+          "note": "desesperado/a 除了表示『绝望的』，还可表示『极度渴望的、迫不及待的』，此处为后者；注意与英语 desperate 用法高度一致，是正向迁移的词汇。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "A veces mi soledad era un <strong>bálsamo</strong>. A veces el dolor era una ola que surgía de la nada, y yo me ahogaba.",
+      "zh": "有时，孤独是一剂良药。有时，痛苦是一道无端涌来的浪，将我淹没。",
+      "vocab": [
+        {
+          "word": "bálsamo",
+          "translation": "慰藉、良药；香脂",
+          "note": "bálsamo 本义是『香脂、止痛膏』，引申为『慰藉、安慰』，是文学和正式文体中的高频比喻词，如 sus palabras fueron un bálsamo（他的话是一剂良药）。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Todos los días veía a los mismos pacientes, algunos de los cuales viajaban durante horas para recibir su medicación. El hombre mayor con la barba larga, <strong>encorvado</strong> sobre su andador e incapaz de llegar del auto a la ventanilla sin detenerse a recuperar el aliento. La madre cansada con un niño pequeño. La maestra que entraba y salía a toda prisa, con la capucha levantada y la cabeza gacha. El tipo corpulento con los tatuajes de lágrimas debajo del ojo derecho que, según me dijo el consejero de la clínica, significaban que había estado en la cárcel, pero la enfermera dijo que no, que significaba que había matado a alguien. Lo único que sabía era que era muy amable y cortés conmigo.",
+      "zh": "每天我都见到同样的患者，其中一些人要跋涉数小时才能来取药。那位留着长胡子的老人，弓着身子撑着助行架，从停车场走到窗口，中途不得不停下来喘口气。那位带着小孩的疲惫母亲。那位行色匆匆的女教师，帽子拉得低低的，头埋得深深的。还有那个身形魁梧、右眼下方有泪滴纹身的男人——诊所辅导员告诉我，那代表他坐过牢，但护士说不对，那代表他杀过人。我唯一确定的是，他对我总是非常和善有礼。",
+      "vocab": [
+        {
+          "word": "encorvado",
+          "translation": "弓着背的、佝偻的",
+          "note": "encorvado 来自 encorvar（使弯曲），前缀 en- 表示『使进入某状态』，同类词如 envejecido（老化的）、endurecido（硬化的），掌握此前缀可举一反三。"
+        },
+        {
+          "word": "cortés",
+          "translation": "有礼貌的、彬彬有礼的",
+          "note": "cortés 是形容词，表示『礼貌的』，名词形式为 cortesía；注意与 corto（短的）形态相近，不要混淆；其反义词 descortés（无礼的）也很常用。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Luego estaba el hombre enojado con el cabello grasoso recogido en una cola de caballo que no saludaba ni hacía contacto visual y cuya rabia <strong>reprimida</strong> me mantenía a mí también en silencio.",
+      "zh": "还有那个愤怒的男人，油腻的头发扎成马尾，既不打招呼，也不与人对视，他那压抑的怒火也让我沉默以对。",
+      "vocab": [
+        {
+          "word": "reprimida",
+          "translation": "压抑的、被压制的",
+          "note": "reprimido/a 来自 reprimir（压制、镇压），在心理学语境中常指『情绪被压抑的』；前缀 re- 加强语气，同类词如 rechazar、retener，掌握 re- 前缀有助于扩展词汇量。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Digo que no esperaba el divorcio ni lo quería, pero eso no es cierto. Habíamos asistido a terapia durante años mientras los resentimientos se <strong>acumulaban</strong> y nada cambiaba. Yo era demasiado reservada, decía él, demasiado <strong>contenida</strong>. Además, nunca estaba satisfecha. Lo cual era cierto. También me sentía terriblemente sola —a menudo incluso en su compañía—. Tenía tantas entradas en mi diario que repetían el mismo tema: 'Debería irme, debería irme, debería irme'.",
+      "zh": "我说我既没预料到离婚，也不想离婚，但那并不是实话。多年来我们一直在接受心理咨询，而怨恨却不断积累，什么都没有改变。他说我太内敛，太压抑。而且我永远不满足。这倒是真的。我也感到极度孤独——常常即便在他身边也是如此。我的日记里有太多条目反复写着同一个主题：『我该走了，我该走了，我该走了。』",
+      "vocab": [
+        {
+          "word": "acumulaban",
+          "translation": "积累、堆积",
+          "note": "acumularse 常用于描述负面情绪、问题或压力的『不断积聚』，是新闻和心理类文章的高频词，固定搭配如 acumular tensión / deudas / resentimientos。"
+        },
+        {
+          "word": "contenida",
+          "translation": "克制的、压抑的",
+          "note": "contenido/a 作形容词时表示『克制的、内敛的』，与 reservado/a（保守的）意思相近但更强调『主动压抑情绪』；其动词 contener 还有『包含』之意，是一词多义词。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Pero no podía hacerlo. Habíamos amado y criado a nuestros hijos juntos. Habíamos llorado juntos la muerte de nuestros padres. Él podía hacerme reír más que cualquiera que haya conocido antes y hasta ahora. Preparaba ensalada de atún con mostaza para el almuerzo y tacos perfectamente <strong>grasosos</strong> para la cena. A veces, jugábamos al Scrabble.",
+      "zh": "但我做不到。我们一起爱过、一起养育了孩子。我们一起哭过双方父母的离世。他能让我笑，胜过我认识的任何人，过去如此，现在依然。他午餐会做芥末金枪鱼沙拉，晚餐会做油滋滋的完美塔可。有时候，我们还会一起玩拼字游戏。",
+      "vocab": [
+        {
+          "word": "grasosos",
+          "translation": "油腻的、油滋滋的",
+          "note": "grasoso/a 由名词 grasa（油脂）加后缀 -oso 构成，表示『富含油脂的』；-oso 是高产后缀，如 sabroso（美味的）、peligroso（危险的）、cariñoso（温柔的），掌握后可大量扩词。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "Y no podía destruir el futuro que me decía a mí misma que estaba <strong>a la vuelta de la esquina</strong>, aquel en el que todo sería diferente. En ese futuro, <strong>saborearíamos</strong> el tiempo con nuestros hijos y el uno con el otro. Daríamos paseos, tendríamos conversaciones sin rumbo fijo y disfrutaríamos de los nietos mientras aún tuviéramos salud. No importaba que a él no le gustaran especialmente los bebés. O, con el tiempo, que yo tampoco le gustara.",
+      "zh": "我也无法亲手摧毁那个我告诉自己即将到来的未来——那个一切都会不同的未来。在那个未来里，我们会细细品味与孩子们在一起的时光，也会珍惜彼此相处的时光。我们会去散步，聊些漫无边际的话，在身体还健康的时候享受含饴弄孙的乐趣。他不太喜欢婴儿，这没关系。又或者，随着时间推移，他也不再喜欢我了——这也没关系。",
+      "vocab": [
+        {
+          "word": "a la vuelta de la esquina",
+          "translation": "即将到来、近在眼前",
+          "note": "这是一个固定惯用语，字面意思是『在街角转弯处』，实际表示『近在咫尺、即将发生』，常用于表达对未来的期待或预警，语体中性，口语书面均可用。"
+        },
+        {
+          "word": "saborearíamos",
+          "translation": "细细品味、享受",
+          "note": "saborear 本义是『品尝味道』，引申为『细细享受、回味』，常用于抽象事物，如 saborear el éxito / la victoria / el momento，是表达『享受』时比 disfrutar 更有文学感的选择。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "Así que no me fui. Pero, al final, él ya se había cansado de la distancia entre nosotros. Al final, tuvo el <strong>valor</strong> de dejarme a mí.",
+      "zh": "所以我没有离开。但最终，他已经厌倦了我们之间的距离。最终，是他鼓起勇气离开了我。",
+      "vocab": [
+        {
+          "word": "valor",
+          "translation": "勇气",
+          "note": "valor 是一词多义词：既可表示『价值、数值』，也可表示『勇气、胆量』，此处为后者；固定搭配 tener el valor de + 动词原形，表示『有勇气做某事』，是B2高频结构。"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "es": "Durante semanas, todos los lunes, llenaba y <strong>etiquetaba</strong> frascos de metadona para llevarlos a la cárcel a una mujer que estaba encarcelada. Trabajé en la clínica durante meses antes de que la liberaran y pudiera conocerla en persona.",
+      "zh": "连续几周，每个周一，我都会灌装美沙酮瓶并贴上标签，送到监狱里给一名在押女性。我在诊所工作了好几个月，才等到她获释，得以与她当面相见。",
+      "vocab": [
+        {
+          "word": "etiquetaba",
+          "translation": "贴标签",
+          "note": "etiquetar 由名词 etiqueta（标签）加动词化后缀 -ar 构成，这种『名词 + -ar』的构词方式在西语中极为常见，如 filtrar（过滤）、formatear（格式化），掌握规律可快速理解新词。"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "es": "Esperaba a alguien dura, <strong>abatida</strong>. Pero era una rubia menuda de unos 20 años con ese tipo de energía <strong>vivaz</strong> que asocio con las porristas. Mientras colocaba el vaso de plástico debajo de la máquina, me contó que se había sorprendido mucho cuando le informaron que la iban a liberar. Llamó a su novio para decírselo. Él no tenía auto, así que no podría ir a recogerla, pero ella quería que él supiera que iba a salir.",
+      "zh": "我原本以为会见到一个冷硬、意志消沉的人。但她是个二十来岁的娇小金发女孩，带着那种我联想到啦啦队员的活泼劲儿。她一边把塑料杯放到机器下面，一边告诉我，得知自己即将获释时，她自己都大吃一惊。她打电话告诉了男友。他没有车，所以没办法来接她，但她想让他知道她要出来了。",
+      "vocab": [
+        {
+          "word": "abatida",
+          "translation": "意志消沉的、垂头丧气的",
+          "note": "abatido/a 来自 abatir（击倒、打垮），形容人『精神萎靡、沮丧消沉』，比 triste（悲伤）程度更深，常见于描述长期处于低落状态的人，是B2情感类词汇的重要词。"
+        },
+        {
+          "word": "vivaz",
+          "translation": "活泼的、充满活力的",
+          "note": "vivaz 与 vivo（活的）同根，表示『生机勃勃、活泼机敏』，多用于描述人的性格或眼神，如 mirada vivaz（灵动的眼神）；注意与 vivo 区分，vivaz 更强调外在表现出的活力。"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "es": "¡Y ahí estaba él! Esperando afuera cuando abrieron la puerta. No podía creerlo. Estaba tan feliz contándomelo, con una enorme sonrisa en el rostro y su cabello rubio recogido en una cola de caballo, <strong>teñido</strong> de azul en las puntas.",
+      "zh": "结果他就在那里！大门打开的时候，他就在外面等着。她简直不敢相信。她跟我讲这件事时，脸上挂着大大的笑，金色的头发扎成马尾，发梢染成了蓝色。",
+      "vocab": [
+        {
+          "word": "teñido",
+          "translation": "染色的",
+          "note": "teñido 是动词 teñir（染色）的过去分词，用作形容词；teñir 属于不规则动词（e→i变干），同类变干动词如 pedir、seguir，是B1-B2语法学习的重点。"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "es": "En los días que no trabajaba, leía libros enteros sin interrupciones y daba largos paseos por las colinas que rodeaban el pueblo, dejando que mi mente <strong>divagara</strong>. Recordé el '¿estás segura?' que mi mamá me dijo en voz baja cuando le conté que nos íbamos a casar. Recordé a una buena amiga que, apenas unas semanas antes de la boda, me dijo: '¿Quizás podrían simplemente vivir juntos?'.",
+      "zh": "不上班的日子里，我会一口气读完整本书，或者在小镇周围的山丘上长时间漫步，任由思绪漫游。我想起了妈妈——当我告诉她我们要结婚时，她低声问了一句：『你确定吗？』我想起了一位好友，就在婚礼前几周，她问我：『也许你们可以先同居就好？』",
+      "vocab": [
+        {
+          "word": "divagara",
+          "translation": "（思绪）漫游、游荡",
+          "note": "divagar 表示『漫无目的地游荡或思考』，既可指人漫步，也可指思维发散，此处为虚拟式，用在 dejando que + 虚拟式 结构中，表示『任由……』，是重要的语法搭配。"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "es": "Pensé en mi papá durante esos primeros años de mi matrimonio, y luego otra vez hacia el final, cuando llamaba cada pocos meses para decir: 'Jessie, ¿él te trata bien? Asegúrate de que te trate bien'. Yo lo <strong>tranquilizaba</strong> porque quería que fuera cierto y porque a veces, incluso mientras nuestro matrimonio se <strong>desmoronaba</strong>, era cierto: 'Sí, papá, él me trata bien. Estamos bien'.",
+      "zh": "我想起了爸爸——婚姻初期那几年，以及后来临近终点时，他每隔几个月就会打来电话说：『杰西，他对你好吗？一定要让他好好对你。』我总是安慰他，因为我希望那是真的，也因为有时候，即使在我们的婚姻已经分崩离析之际，那也确实是真的：『是的，爸爸，他对我很好。我们很好。』",
+      "vocab": [
+        {
+          "word": "tranquilizaba",
+          "translation": "安抚、使放心",
+          "note": "tranquilizar 由 tranquilo（平静的）加动词化后缀 -izar 构成，-izar 是极高产的后缀，可将形容词变为动词，如 modernizar、organizar、realizar，掌握后可快速理解大量新词。"
+        },
+        {
+          "word": "desmoronaba",
+          "translation": "（逐渐）崩塌、瓦解",
+          "note": "desmoronarse 指结构或关系『逐渐崩塌、土崩瓦解』，常用于描述婚姻、制度、信念的瓦解，比 destruirse 更强调『缓慢崩解』的过程感，是新闻和文学中的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "es": "Al día siguiente de que la rubia bajita saliera de la cárcel, el hombre enojado regresó, <strong>transformado</strong>. Lo vi llegar mientras caminaba por el vestíbulo. Estaba impecable, se había lavado el cabello, que le caía en hermosas ondas castañas hasta los hombros, y sonreía. Se veía como Jesús en su mejor momento. Hermoso y <strong>radiante</strong>.",
+      "zh": "娇小金发女孩出狱后的第二天，那个愤怒的男人回来了，判若两人。我走过大厅时看到他走进来。他整洁极了，洗过的头发垂落在肩上，呈现出漂亮的棕色波浪，脸上带着笑。他看起来像极了处于最佳状态的耶稣。英俊，容光焕发。",
+      "vocab": [
+        {
+          "word": "transformado",
+          "translation": "变了个人、焕然一新",
+          "note": "transformado 是 transformar 的过去分词，前缀 trans- 表示『跨越、彻底改变』，同类词如 transferir、transcender、transparente，掌握 trans- 可快速识别大量词汇。"
+        },
+        {
+          "word": "radiante",
+          "translation": "容光焕发的、光彩照人的",
+          "note": "radiante 来自 radiar（辐射、发光），形容人『神采奕奕、喜气洋洋』，常用于描述幸福或激动时的面部表情，如 estaba radiante de alegría，是文学和新闻中的高频形容词。"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "es": "La rubia bajita también estaba en el vestíbulo. Cuando llegó su turno, marqué su número y, mientras le llenaba el vaso con líquido rojo, llamaron al hombre que ya no estaba enojado a la ventanilla de al lado. A pesar de que estaba <strong>prohibido</strong>, se acercó rápidamente a su lado y dejó caer una paleta en el borde frente a ella. Luego regresó rápidamente a la otra ventanilla para recibir su dosis.",
+      "zh": "娇小金发女孩也在大厅里。轮到她时，我叫了她的号，正在给她的杯子里倒红色液体，这时那个不再愤怒的男人被叫到旁边的窗口。尽管这是被禁止的，他还是迅速走到她身边，把一根棒棒糖轻轻放在她面前的台沿上，然后又迅速回到另一个窗口领取自己的药。",
+      "vocab": [
+        {
+          "word": "prohibido",
+          "translation": "被禁止的",
+          "note": "prohibido 是 prohibir（禁止）的过去分词，用作形容词，常见于标识和规定中，如 prohibido fumar / el paso；注意 prohibir 接虚拟式：te prohíbo que lo hagas，是重要语法搭配。"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "es": "¡Ay, la expresión de su rostro! Resultó que el hombre enojado era su novio. No tenía ni idea.",
+      "zh": "哎呀，她脸上的表情！原来那个愤怒的男人就是她的男友。她完全不知道。",
+      "vocab": []
+    },
+    {
+      "id": 23,
+      "es": "Por supuesto, su relación estaba <strong>condenada</strong> al fracaso. Él seguía consumiendo fentanilo, y ella acababa de salir de la cárcel, tratando de recuperarse. Ninguno de los dos tenía una vivienda estable. Iban a enfrentar dificultades, por separado y juntos, que yo apenas podía comprender. Quizás esté un poco <strong>hastiada</strong>, pero el final era previsible.",
+      "zh": "当然，他们的感情注定要失败。他还在吸食芬太尼，她刚刚出狱，正在努力康复。两人都没有稳定的住所。他们将要面对的困难，无论是各自的还是共同的，都是我难以想象的。也许我有些世故了，但结局是可以预见的。",
+      "vocab": [
+        {
+          "word": "condenada",
+          "translation": "注定的、被判定的",
+          "note": "condenado/a al fracaso 是固定搭配，表示『注定失败』；condenar 本义是『判刑、谴责』，引申为『注定』，类似英语 doomed to fail，是新闻和文学中的高频表达。"
+        },
+        {
+          "word": "hastiada",
+          "translation": "厌倦的、心灰意冷的",
+          "note": "hastiado/a 来自 hastiar（使厌倦），表示对某事『感到厌烦、幻灭』，比 cansado 语气更深，带有对人性或生活失去新鲜感的意味，常见于文学和深度报道中。"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "es": "Aun así: la paleta, su sonrisa, ese brillo. Y él había aparecido afuera de la cárcel para buscarla, a pesar de no tener auto, como un milagro. No importa lo que venga después, todo eso era verdad. Todo eso pasó.",
+      "zh": "即便如此：那根棒棒糖，她的笑容，那道光芒。他没有车，却出现在监狱门口等她，像一个奇迹。不管之后发生什么，那一切都是真实的。那一切都发生过。",
+      "vocab": []
+    },
+    {
+      "id": 25,
+      "es": "Al igual que los tacos grasosos, las risas <strong>desenfrenadas</strong> y los hijos bien criados y profundamente amados. Todo eso también era cierto. En mi matrimonio, todo eso sucedió.",
+      "zh": "就像那些油滋滋的塔可、那些放肆的笑声，以及那些被精心养育、被深深爱着的孩子们。那一切也是真实的。在我的婚姻里，那一切都发生过。",
+      "vocab": [
+        {
+          "word": "desenfrenadas",
+          "translation": "放肆的、毫无节制的",
+          "note": "desenfrenado/a 由 des-（否定）+ freno（缰绳/刹车）构成，字面意思是『脱缰的』，引申为『放纵的、肆无忌惮的』，可修饰笑声、欲望、消费等，掌握 des- 前缀可识别大量反义词。"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "es": "Aproximadamente un mes después de que el hombre no tan enojado y la rubia menuda se reunieran, dejé mi trabajo y me mudé de nuevo —no de regreso a Oregón, sino a mi ciudad natal en Nuevo México. Después de recorrer suficientes kilómetros por las colinas, de pasar por suficiente dolor y <strong>superarlo</strong>, de disfrutar de suficientes horas de sorprendente deleite en mi propia compañía y de <strong>presenciar</strong> momentos de alegría inesperada en los demás, me di cuenta de que ya no quería, ni necesitaba, estar sola.",
+      "zh": "在那个不再愤怒的男人和娇小金发女孩重逢大约一个月后，我辞去了工作，再次搬家——不是回到俄勒冈，而是去了我在新墨西哥州的故乡。在山丘上走过了足够多的路，经历了足够多的痛苦并从中走出，在自己的陪伴中享受了足够多出乎意料的愉悦时光，也见证了他人身上那些不期而至的喜悦之后，我意识到，我不再想要，也不再需要，独自一人了。",
+      "vocab": [
+        {
+          "word": "superarlo",
+          "translation": "克服它、走出来",
+          "note": "superar 表示『超越、克服、走出（困境）』，是情感类文章的核心词，常见搭配如 superar una crisis / un trauma / el dolor；注意与 sobrevivir（幸存）区分，superar 强调主动克服。"
+        },
+        {
+          "word": "presenciar",
+          "translation": "亲眼目睹、见证",
+          "note": "presenciar 表示『亲身在场目睹』，比 ver 更正式，强调『亲历见证』，常用于新闻报道，如 presenciar un accidente / un milagro；注意与 asistir a（出席）区分，后者不一定有『目睹』含义。"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "es": "No sé qué pasó con el hombre no tan enojado y la rubia menuda. No puedo saber con certeza si su relación no duró. Pero ahora lo entiendo: si su amor se acaba, eso no significa que fueran tontos, y no <strong>anulará</strong> la alegría que hubo mientras duró. Solo significará que se acabó. Así que creo que tal vez sea bueno que no sepamos cuándo el amor está condenado al fracaso. Creo que me alegra que no haya nadie ahí para leer las señales de lo que se <strong>avecina</strong>.",
+      "zh": "我不知道那个不再愤怒的男人和娇小金发女孩后来怎么样了。我无法确切地知道他们的感情是否没能持续下去。但我现在明白了：如果他们的爱走到了尽头，那不意味着他们曾经愚蠢，也不会抹去那段爱存在时的喜悦。那只意味着，它结束了。所以我想，也许我们不知道爱情何时注定走向终结，这未尝不是一件好事。我庆幸，没有人在那里解读那些预示着未来的信号。",
+      "vocab": [
+        {
+          "word": "anulará",
+          "translation": "抹去、使无效",
+          "note": "anular 表示『取消、废除、使无效』，在法律文体中常见如 anular un contrato（撤销合同），在情感语境中引申为『抹去、否定』；前缀 a- 加名词 nulo（无效的）构成，构词清晰。"
+        },
+        {
+          "word": "avecina",
+          "translation": "即将到来、迫近",
+          "note": "avecinarse 表示『（某事）即将来临、逼近』，常用于描述风暴、危机或变化，如 se avecina una tormenta（暴风雨即将来临），是新闻预警类文体的高频词，语气比 venir 更正式。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "a la vuelta de la esquina",
+      "type": "modismo",
+      "translation": "近在眼前、即将到来",
+      "usage": "字面意思是『在街角转弯处』，实际用来表示某件事『即将发生、触手可及』。可用于表达期待或预警，语体中性，口语书面均适用。",
+      "exampleEs": "Pensaba que la felicidad estaba a la vuelta de la esquina, pero tardó años en llegar.",
+      "exampleZh": "她以为幸福近在眼前，但却等了好多年。"
+    },
+    {
+      "expression": "condenado al fracaso",
+      "type": "colocación",
+      "translation": "注定失败",
+      "usage": "condenar + al + 名词 是固定结构，表示『注定走向某结果』，常见于 condenado al fracaso / al olvido / al éxito，语气较强，多用于书面和正式语境。",
+      "exampleEs": "Muchos decían que aquel proyecto estaba condenado al fracaso desde el principio.",
+      "exampleZh": "很多人说那个项目从一开始就注定失败。"
+    },
+    {
+      "expression": "hacer que durara",
+      "type": "estructura gramatical",
+      "translation": "使它持续下去、让它撑下去",
+      "usage": "hacer que + 虚拟式 是重要的使役结构，表示『使某事发生/持续』，后接虚拟式动词，如 hacer que funcione / que cambie / que dure，是B2-C1的核心语法点。",
+      "exampleEs": "Hicieron todo lo posible para hacer que su negocio durara, pero al final tuvieron que cerrarlo.",
+      "exampleZh": "他们竭尽所能想让生意撑下去，但最终还是不得不关门。"
+    },
+    {
+      "expression": "dar largos paseos",
+      "type": "colocación",
+      "translation": "长时间散步、漫步",
+      "usage": "dar + 修饰语 + paseo(s) 是固定搭配，不可随意替换动词，类似结构还有 dar un rodeo（绕远路）、dar una vuelta（兜一圈），是西语中『进行某活动』的典型表达方式。",
+      "exampleEs": "Después de la ruptura, solía dar largos paseos por el parque para aclarar sus ideas.",
+      "exampleZh": "分手后，她常常在公园里长时间漫步，理清自己的思绪。"
+    },
+    {
+      "expression": "sin rumbo fijo",
+      "type": "colocación",
+      "translation": "漫无目的地、没有方向地",
+      "usage": "sin rumbo fijo 是固定短语，表示『没有明确方向或目标』，可修饰行走、谈话、生活等，常用于文学和情感类文体，语气带有自由随性或迷茫的色彩。",
+      "exampleEs": "Tras jubilarse, pasaba los días caminando sin rumbo fijo por la ciudad.",
+      "exampleZh": "退休后，他每天漫无目的地在城里闲逛。"
+    },
+    {
+      "expression": "se avecina una tormenta",
+      "type": "modismo",
+      "translation": "暴风雨即将来临（比喻麻烦或危机将至）",
+      "usage": "avecinarse 常与 tormenta、crisis、cambio 等搭配，用来预警某种负面局势即将到来，是新闻标题和政治评论中的高频比喻表达。",
+      "exampleEs": "Con las elecciones a la vuelta de la esquina, se avecina una tormenta política en el país.",
+      "exampleZh": "随着选举临近，这个国家的政治风暴即将来临。"
+    }
+  ]
+}
