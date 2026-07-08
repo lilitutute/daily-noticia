@@ -1,0 +1,167 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会评论",
+  "difficulty": "C1",
+  "wordCount": "约530词",
+  "title": "Ser rico es lo más cruel",
+  "subtitle": "富有，是最残忍的事",
+  "resumenEs": "El artículo es un ensayo de opinión que reflexiona sobre la soledad, la desconfianza y la incomprensión que acompañan a la riqueza, tomando como punto de partida el caso judicial de Jonathan, hijo del empresario fallecido Isak Andic, fundador de Mango, sospechoso de haber causado su muerte. El autor argumenta que ser rico implica no saber nunca si el afecto es genuino, sufrir el resentimiento ajeno y cargar con la sospecha permanente, mientras que la clase media y los pobres proyectan en los ricos sus propias frustraciones y ambiciones.",
+  "resumenZh": "【背景提示】本文以一桩真实案件为引子：西班牙知名服装品牌Mango创始人伊萨克·安迪克（Isak Andic）于2024年底在家族庄园意外坠崖身亡，其子乔纳森（Jonathan）随后成为警方调查对象。伊萨克遗孀起初对乔纳森颇有微词，但在收到乔纳森支付的2700万欧元（远超遗嘱中约定的500万欧元）后，态度明显转变。本文以此为切入点，展开对『富人困境』的深刻剖析：作者认为，富有意味着永远无法确知他人的情感是否真实，意味着承受旁人的怨恨与猜疑，也意味着在孤独中独自消化那些从不被外人理解的烦恼。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Ser rico es lo más cruel y cualquier sentimiento se mezcla con tu dinero. Ser rico es no saber por qué se te acercan y tener la <strong>tentación</strong> de pagar siempre para arreglar los problemas. No sabemos cómo murió Isak pero de haber sido pobre su hijo no estaría bajo sospecha, ni su viuda hubiera dicho lo que iba diciendo de Jonathan hasta que el <strong>huérfano</strong> le pagó en diciembre 27 millones de euros y no los 5 que su exmarido le <strong>legó</strong>. Seguro que ante el juez, sus explicaciones se parecen más a los intereses del acusado que a lo que le llegó a decir para negociar el <strong>montante</strong>. Si Isak mira desde el cielo preguntándose si le quieren, sólo verá a su familia estirando billetes.",
+      "zh": "富有是最残忍的事，任何情感都会与你的金钱搅混在一起。富有意味着不知道人们为何靠近你，意味着总有一种冲动——用钱来解决一切问题。我们不知道伊萨克是怎么死的，但如果他是个穷人，他的儿子就不会受到怀疑，他的遗孀也不会说那些针对乔纳森的话——直到这个孤儿在十二月付给她2700万欧元，而非其前夫遗嘱中留给她的500万。可以肯定的是，在法官面前，她的陈述会更贴近被告的利益，而非她在谈判赔偿金额时曾说过的那些话。如果伊萨克在天上俯视，想知道是否有人真心爱他，他看到的只会是家人伸手抢钱的画面。",
+      "vocab": [
+        {
+          "word": "tentación",
+          "translation": "诱惑；冲动",
+          "note": "固定搭配 tener la tentación de + 动词原形，意为『有……的冲动/诱惑』；动词形式为 tentar（诱惑），形容词为 tentador（诱人的）；注意与英语 temptation 形近且含义一致，属于『真朋友』，但搭配结构需整体记忆。"
+        },
+        {
+          "word": "huérfano",
+          "translation": "孤儿；失去父亲的人",
+          "note": "此处作者用 huérfano（孤儿）称呼已成年的乔纳森，带有强烈的讽刺色彩——一个亿万富翁的继承人被称为『孤儿』，暗示金钱交易与亲情之间的荒诞对比；huérfano de padre（失去父亲的）和 huérfano de madre（失去母亲的）是常见搭配。"
+        },
+        {
+          "word": "legó",
+          "translation": "遗赠；留给（遗产）",
+          "note": "动词 legar 专指通过遗嘱将财产留给他人，名词形式为 legado（遗产、遗赠，也比喻『精神遗产』）；注意与 heredar（继承）的区别：legar 是主动『留下』，heredar 是被动『接受』。"
+        },
+        {
+          "word": "montante",
+          "translation": "金额；总额",
+          "note": "正式书面词，指一笔款项的总额，常见于法律、财经文本；与 cantidad（数量/金额）和 suma（总和）同义，但 montante 语体更正式，多出现在合同、判决书或新闻报道中。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Ser pobre es más fácil porque el <strong>resentimiento</strong> basta para vivir. Con pensar que todo lo que te pasa es culpa de otro, te sobra para llevar una excelente vida de mierda.",
+      "zh": "做穷人更容易，因为怨恨就足以支撑你活下去。只要相信所有发生在你身上的事都是别人的错，你就绰绰有余，足以过上一种『极其出色的』糟糕人生。",
+      "vocab": [
+        {
+          "word": "resentimiento",
+          "translation": "怨恨；积怨",
+          "note": "前缀 re-（再次/强化）+ sentimiento（情感），指长期积压、反复回味的怨恨情绪，比 odio（仇恨）更内敛、更持久；动词形式为 resentirse（感到委屈/受损），如 resentirse de algo（因某事而受损）。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Ser rico es <strong>humillante</strong>. Por cómo se refieren a ti cuando no estás, por los cálculos que hacen cada vez que te vienen a pedir, porque todo el mundo da por descontado que el dinero te ha de hacer feliz y parece que tu corazón es tu cuenta corriente.",
+      "zh": "富有是一种羞辱。因为人们背后谈论你的方式，因为每次来向你开口时心里盘算的那些算计，因为所有人都理所当然地认为钱应该让你快乐，仿佛你的心脏就是你的银行账户。",
+      "vocab": [
+        {
+          "word": "humillante",
+          "translation": "羞辱性的；令人蒙羞的",
+          "note": "动词 humillar（羞辱）的现在分词转化的形容词；注意与 vergonzoso（令人羞耻的，侧重主观羞耻感）的区别：humillante 强调来自外部的贬低和羞辱，带有被动受损的含义，语气更强烈。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Nada da tanta angustia como tener mucho dinero. Ser de clase media es mucho más cómodo, con tus gustos de carril central, para los que hay mucha oferta; tienes frío y nadie te <strong>afea</strong> por la calefacción, porque millones de pobres que te precedieron lucharon contra el frío y tú has heredado su genética de termostato averiado. Los ricos tienen calor porque sus obsesiones no dependen de su indignación, sino de su <strong>aburrimiento</strong>, y no están construidas desde la necesidad sino desde su privilegio. El aire acondicionado no molesta porque haga frío: molesta porque ofende, porque <strong>retumba</strong> en su cueva atávica –de la que nunca salieron– que tú disfrutes de lo que ellos todavía temen.",
+      "zh": "没有什么比拥有大量金钱更令人焦虑的了。做中产阶级要舒适得多——你的品味走中间路线，市场上供应充足；你觉得冷，没人会因为你开暖气而指责你，因为在你之前有数百万穷人曾与寒冷抗争，你不过是继承了他们那套『恒温器失灵』的基因。富人感到热，是因为他们的执念不来自愤怒，而来自无聊；那些执念不是从需求中生长出来的，而是从特权中滋生的。空调让人不爽，不是因为它制造了寒冷，而是因为它令人反感——它在他们那个从未走出过的原始洞穴里轰然回响：你在享受他们至今仍心存畏惧的东西。",
+      "vocab": [
+        {
+          "word": "afea",
+          "translation": "批评；指责；非难",
+          "note": "动词 afear 字面意思是『使变丑』，在口语和评论文体中引申为『批评、责备某人的行为』，如 afear la conducta a alguien（批评某人的行为）；这一比喻义是典型的一词多义，需结合语境判断，不可按字面译为『使变丑』。"
+        },
+        {
+          "word": "aburrimiento",
+          "translation": "无聊；厌倦",
+          "note": "由动词 aburrir（使厌烦）派生，后缀 -miento 构成抽象名词，表示动作的结果或状态；作者用 aburrimiento 对比 indignación（愤怒），暗示富人的执念源于特权带来的空虚，而非真实的生存需求，是文章的核心论点之一。"
+        },
+        {
+          "word": "retumba",
+          "translation": "轰然回响；震响",
+          "note": "动词 retumbar 指声音在封闭空间内强烈回响，带有震动感；此处为比喻用法，指某种信息或现实在人的内心深处引发强烈震动；在文学和评论文体中常用于营造强烈的感官和情感冲击，是C1级别的表达性词汇。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Los <strong>desvelos</strong> del rico con su familia o sus amigos nadie los conoce porque nunca los confiesa, y cuando te echa una mano, no se nota el cuidado y sufre más él haciéndote el favor que tú si él no hubiera intervenido.",
+      "zh": "富人为家人或朋友所承受的那些辗转难眠，无人知晓，因为他从不倾诉；而当他伸手帮你时，那份用心不会被人看见，他帮你这个忙所受的煎熬，比你若没有他介入所受的苦还要多。",
+      "vocab": [
+        {
+          "word": "desvelos",
+          "translation": "辗转难眠；忧虑；操心",
+          "note": "前缀 des-（否定）+ velo（睡眠/遮盖），字面意思是『无法入睡』，引申为因忧虑或操心而夜不能寐；复数形式 los desvelos 常指为某人或某事所付出的心血与牵挂，是书面语和文学语体的高频词，比 preocupaciones 更有情感深度。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Ser rico es la soledad, la incomprensión, la mirada por encima del hombro de los pobrecitos mientras te piden y hasta exigen, como si ellos fueran más dignos, más honestos; y tú un <strong>delincuente</strong> que sólo faltaría que no les dieras. Ser rico es que pocos crean que tu padre resbaló, aunque su acusación es un espejo de su alma porque su único indicio es que ellos <strong>empujarían</strong> a su padre a cambio de mucho menos de lo que creen. Ser rico es verte en el desprecio de los que <strong>anhelan</strong> ser tú y te odian porque no pueden. Yo soy un pobre de solemnidad, uno de los tipos más pobres de España, pero me libro de parecerlo porque me gustan tanto los ricos como <strong>aborrezco</strong> a los que eligen ser víctimas y la queja que sólo conduce a la miseria.",
+      "zh": "富有是孤独，是不被理解，是那些可怜人居高临下的眼神——他们一边向你索取甚至索求，一边仿佛自己更有尊严、更加诚实；而你，不过是个罪犯，若不给他们，简直是天理难容。富有意味着几乎没有人相信你父亲只是失足，尽管他们的指控不过是他们灵魂的一面镜子——因为他们唯一的『证据』，是他们自己愿意为少得多的钱把自己的父亲推下去。富有是在那些渴望成为你、却因无法成为你而憎恨你的人的鄙视中看见自己的倒影。我是个彻头彻尾的穷人，西班牙最穷的那类人之一，但我得以不像个穷人，是因为我欣赏富人，同样地，我也厌恶那些选择扮演受害者的人，以及那种只会通往苦难的抱怨。",
+      "vocab": [
+        {
+          "word": "delincuente",
+          "translation": "罪犯；违法者",
+          "note": "源自动词 delinquir（犯罪），在法律语境中指实施犯罪行为的人；此处作者用于讽刺社会对富人的道德预设——仿佛富有本身就是一种罪行；注意与 criminal（罪犯，更强调严重罪行）的语气差异：delincuente 更泛指，可指轻微违法者。"
+        },
+        {
+          "word": "empujarían",
+          "translation": "会推（下去）",
+          "note": "此处为条件式（condicional simple），表示假设情境下的行为；作者用 empujarían（他们会推）暗指那些怀疑乔纳森的人，其实是以己度人——他们自己才会为了钱做出这种事；条件式在评论文体中常用于表达讽刺性的假设推断。"
+        },
+        {
+          "word": "anhelan",
+          "translation": "渴望；热切盼望",
+          "note": "动词 anhelar 表示强烈的、带有情感色彩的渴望，比 desear（希望）和 querer（想要）语气更深沉、更文学化；名词形式为 anhelo（渴望、夙愿），常见于正式文体和文学作品，在新闻评论中出现时带有强调情感深度的效果。"
+        },
+        {
+          "word": "aborrezco",
+          "translation": "我厌恶；我憎恶",
+          "note": "动词 aborrecer 表示强烈的厌恶和憎恨，比 odiar（恨）更书面、更正式，语气介于 detestar（厌恶）和 odiar 之间；其变位不规则：yo aborrezco（注意 -zco 结尾），属于 -ecer 类动词的规律变位，如 conocer→conozco、agradecer→agradezco。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "dar por descontado",
+      "type": "colocación",
+      "translation": "想当然地认为；理所当然地假设",
+      "usage": "固定搭配，dar algo por descontado 意为『把某事视为理所当然、不言而喻』，相当于 dar por sentado 或 asumir sin cuestionarlo；常用于批评某种不经思考的预设，在评论文体中带有轻微的批判语气。",
+      "exampleEs": "No puedes dar por descontado que todos tus amigos van a apoyarte en los momentos difíciles.",
+      "exampleZh": "你不能想当然地认为所有朋友在困难时刻都会支持你。"
+    },
+    {
+      "expression": "echar una mano",
+      "type": "modismo",
+      "translation": "伸出援手；帮一把",
+      "usage": "口语惯用语，字面意思是『伸出一只手』，实际意思是『帮忙、给予援助』；语体轻松自然，适用于口语和非正式书面语；可与间接宾语搭配：echarle una mano a alguien（帮某人一把），是西语日常交流中极高频的表达。",
+      "exampleEs": "Cuando me quedé sin trabajo, mis vecinos me echaron una mano con la compra y los gastos del mes.",
+      "exampleZh": "当我失业的时候，邻居们帮我解决了那个月的采购和日常开销。"
+    },
+    {
+      "expression": "mirar por encima del hombro",
+      "type": "modismo",
+      "translation": "居高临下地看；瞧不起",
+      "usage": "惯用语，字面意思是『从肩膀上方往下看』，比喻以傲慢或轻蔑的态度对待他人；有趣的是，本文中作者将这一通常用于描述富人傲慢的表达，反过来用于描述穷人对富人的鄙视，形成反讽效果。",
+      "exampleEs": "Siempre me miró por encima del hombro por no tener título universitario, hasta que mi empresa creció más que la suya.",
+      "exampleZh": "他一直因为我没有大学文凭而瞧不起我，直到我的公司做得比他的还大。"
+    },
+    {
+      "expression": "pobre de solemnidad",
+      "type": "expresión coloquial",
+      "translation": "彻头彻尾的穷人；一贫如洗",
+      "usage": "固定表达，solemnidad 在此源自法律用语『pobreza de solemnidad』（官方认定的极度贫困），口语化后用于强调极度贫穷；作者用此自嘲，但语境中带有明显的反讽——他穷的是钱，而非精神或见识。",
+      "exampleEs": "Llegó a esta ciudad siendo pobre de solemnidad y veinte años después es dueño de tres negocios.",
+      "exampleZh": "他来到这座城市时一贫如洗，二十年后已经拥有了三家企业。"
+    },
+    {
+      "expression": "cueva atávica",
+      "type": "expresión coloquial",
+      "translation": "原始洞穴；远古本能（比喻人的原始心理）",
+      "usage": "文学性比喻表达，atávico/a 指『返祖的、来自远古祖先的』，cueva atávica 比喻人类深藏于本能中的原始心理和嫉妒情绪；作者用此词批评那些对他人享受感到不适的人，暗示这种心理是未进化的原始反应，语体偏文学，带有强烈的讽刺色彩。",
+      "exampleEs": "El miedo al diferente sigue resonando en esa cueva atávica que todos llevamos dentro y que la educación apenas logra silenciar.",
+      "exampleZh": "对异类的恐惧依然在我们每个人内心深处那个原始洞穴里回响，而教育几乎无法将其彻底压制。"
+    }
+  ]
+}

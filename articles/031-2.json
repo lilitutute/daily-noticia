@@ -1,0 +1,336 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与经济",
+  "difficulty": "C1",
+  "wordCount": "约1529词",
+  "title": "Móviles, portátiles, coches eléctricos... la fiebre de la IA infla el precio de todo lo que funciona con un chip",
+  "subtitle": "手机、笔记本、电动车……AI热潮推高了所有依赖芯片的产品价格",
+  "resumenEs": "La demanda disparada de chips de memoria por parte de las empresas de inteligencia artificial está provocando una escasez global que encarece desde teléfonos móviles hasta vehículos eléctricos. Empresas como Micron y SK Hynix, que controlan casi el 90% del mercado de DRAM, registran márgenes de beneficio históricos, mientras Apple ya ha subido precios y los analistas prevén aumentos del 34% en móviles y del 67% en PCs en los próximos dos años. Los gobiernos temen una nueva oleada inflacionaria que podría derivar en estanflación.",
+  "resumenZh": "人工智能企业对存储芯片的爆发性需求正在引发全球性短缺，导致从手机到电动汽车的各类产品价格上涨。美光和SK海力士等掌控近90%DRAM市场的企业利润率创历史新高，苹果已率先涨价，分析人士预测未来两年手机价格将上涨34%、PC价格将上涨67%。各国政府担忧新一轮通胀浪潮，并警惕可能由此引发的滞涨局面。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Si usted es <strong>inversor</strong> y quiere pegarse cabezazos contra una pared por una oportunidad perdida, mire estos dos valores de Wall Street: la estadounidense Micron y la surcoreana SK Hynix. Los títulos de la primera han subido un 728,02% en un año. Los de la segunda, un 677,93%.",
+      "zh": "如果您是投资者，想为错失良机而懊悔不已，不妨看看华尔街这两只股票：美国美光科技和韩国SK海力士。前者的股价一年内上涨了728.02%，后者则上涨了677.93%。",
+      "vocab": [
+        {
+          "word": "inversor",
+          "translation": "投资者",
+          "note": "与 inversión（投资）同根，注意区分 inversor（投资者）和 inversionista（也指投资者，更常见于拉美西语），两者可互换但地区偏好不同。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "No son <strong>chicharros</strong>, es decir, títulos valores sin apenas <strong>liquidez</strong> que pueden dispararse o hundirse con un mínimo movimiento especulativo. Micron valía ayer martes a la apertura de Wall Street 972.000 millones de euros. SK Hynix, 950.000 millones. Ambas compañías entraron casi de la mano, el 26 y 27 de mayo, en el club del billón de dólares de <strong>capitalización bursátil</strong>.",
+      "zh": "这两只并非所谓的【垃圾股】——即流动性极差、可能因极小的投机操作而暴涨或暴跌的股票。周二开盘时，美光市值为9720亿欧元，SK海力士为9500亿欧元。两家公司几乎同步，分别于5月26日和27日跻身万亿美元市值俱乐部。",
+      "vocab": [
+        {
+          "word": "chicharros",
+          "translation": "垃圾股；小盘投机股",
+          "note": "西班牙股市俚语，字面意思是『炸猪皮』，在金融语境中专指流动性极低、价格极不稳定的小盘股，属于典型的行业俚语，不可按字面理解。"
+        },
+        {
+          "word": "liquidez",
+          "translation": "流动性；变现能力",
+          "note": "金融和经济新闻高频词，指资产迅速变现的能力；形容词形式为 líquido，注意与日常义『液体的』区分语境。"
+        },
+        {
+          "word": "capitalización bursátil",
+          "translation": "股票市值",
+          "note": "固定搭配，bursátil 源自 bolsa（证券交易所），凡与股市相关的形容词均可用此词，如 mercado bursátil（股票市场）、índice bursátil（股指）。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Al contrario que SpaceX, OpenAI o Anthropic, Micron y SK Hynix no pierden dinero. Más bien, todo lo contrario. En el primer trimestre del año, Micron tuvo un <strong>margen de beneficio bruto</strong> del 84,5%. En el que acaba de terminar, espera que haya llegado al 86%. Dicho en otras palabras: Micron vende sus productos a siete veces lo que le cuesta hacerlos.",
+      "zh": "与SpaceX、OpenAI或Anthropic不同，美光和SK海力士并不亏损，恰恰相反。今年第一季度，美光的毛利率达到84.5%，刚刚结束的第二季度预计将达到86%。换句话说，美光以成本七倍的价格出售其产品。",
+      "vocab": [
+        {
+          "word": "margen de beneficio bruto",
+          "translation": "毛利率",
+          "note": "经济报道核心搭配：margen（利润空间）+ beneficio（收益）+ bruto（税前/未扣除成本的），对应 margen de beneficio neto（净利率），bruto 在此是『毛的、未扣除的』而非『粗鲁的』。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Precisamente, quienes más les compran sus productos son esas empresas de IA que no ganan dinero. Micron, SK Hynix y la también surcoreana Samsung tienen el 89,7% del mercado mundial de chips de memoria DRAM, según la empresa taiwanesa <strong>especializada en</strong> análisis de <strong>cadenas de suministro</strong> TrendForce. A su vez, la DRAM funciona como la memoria inmediata del sistema: no almacena información de forma permanente, sino que mantiene disponibles, a gran velocidad, los datos que la GPU están utilizando.",
+      "zh": "恰恰是那些不盈利的AI企业，成了这些公司产品的最大买家。据台湾供应链分析机构集邦科技（TrendForce）数据，美光、SK海力士和同为韩国企业的三星合计占据全球DRAM存储芯片市场89.7%的份额。DRAM相当于系统的即时内存：它不永久存储信息，而是以极高速度保持GPU正在使用的数据随时可用。",
+      "vocab": [
+        {
+          "word": "especializada en",
+          "translation": "专注于……；专门从事……",
+          "note": "固定搭配 especializarse en + 领域，形容词 especializado/a en 后接名词，是简历、新闻介绍机构或人物背景的高频表达。"
+        },
+        {
+          "word": "cadenas de suministro",
+          "translation": "供应链",
+          "note": "新闻和商业文本高频固定搭配，cadena（链条）在此为比喻义；类似结构还有 cadena de valor（价值链）、cadena de producción（生产链）。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Los microchips de la GPU de Inteligencia Artificial (IA) son diseñados por la <strong>archifamosa</strong> Nvidia, la empresa más valiosa del mundo, y fabricados por otro gigante, la taiwanesa TSMC. Pero, para trabajar, esos chips necesita los de memoria DRAM (o su versión para la IA conocida como HBM). Durante las fiebres del oro de América del Norte del siglo XIX se decía que los únicos que ganaban dinero no eran los buscadores del metal precioso, sino los que les vendían a éstos palas para excavar o <strong>cedazos</strong> para filtrar el agua. Nvidia es al fabricante y vendedor de la pala más importante. Pero ahora resulta de Micron y SK Hynix se han unido al club.",
+      "zh": "人工智能GPU微芯片由大名鼎鼎的英伟达设计，这是全球市值最高的公司，并由另一巨头——台湾台积电负责制造。但这些芯片要运转，还需要DRAM存储芯片（或其AI专用版本，即HBM）。19世纪北美淘金热期间，人们常说真正赚钱的不是那些寻找贵金属的人，而是向他们出售挖掘用铁锹和淘金用筛子的商人。英伟达堪称最重要的铁锹制造商和销售商。而如今，美光和SK海力士也加入了这个行列。",
+      "vocab": [
+        {
+          "word": "archifamosa",
+          "translation": "大名鼎鼎的；极其著名的",
+          "note": "前缀 archi- 表示『极度、最高程度』，可加在形容词前强化语气，如 archienemigo（死敌）、archiconocido（人尽皆知的），多用于口语和新闻评论，带有强调色彩。"
+        },
+        {
+          "word": "cedazos",
+          "translation": "筛子；滤网",
+          "note": "此处为文化典故词汇，出现在『淘金热』比喻中；学习价值在于理解西语新闻常用历史比喻来说明经济逻辑，cedazo 本身为具体名词，无需死记，重点理解其比喻语境。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Sin esas empresas, no hay IA, porque los microchips de Nvidia no pueden <strong>procesar</strong> datos a gran velocidad.",
+      "zh": "没有这些企业，就没有AI，因为英伟达的微芯片无法高速处理数据。",
+      "vocab": [
+        {
+          "word": "procesar",
+          "translation": "处理；加工",
+          "note": "科技和法律文本双高频词：在科技语境中指『处理数据』，在法律语境中指『起诉、对……提起诉讼』（如 procesar a alguien），属于典型的一词多义，需结合语境判断。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Tampoco la hay sin los microchips de memoria NAND, que <strong>almacenan</strong> datos de manera permanente, incluso cuando el dispositivo está apagado. En este producto, el <strong>oligopolio</strong> de la DRAM tiene algo menos de poder: solo alcanza el 63,1% del mercado mundial. Pero si se añaden otras dos empresas - la estadounidense SanDisk y la japonesa Kioxia - pasan del 91%.",
+      "zh": "没有NAND存储芯片也不行，这种芯片能永久存储数据，即便设备关机后数据依然保留。在这一产品领域，DRAM寡头的控制力稍弱：仅占全球市场的63.1%。但若加上另外两家企业——美国闪迪和日本铠侠，合计份额便超过91%。",
+      "vocab": [
+        {
+          "word": "almacenan",
+          "translation": "存储；储存",
+          "note": "动词 almacenar 源自 almacén（仓库），构词逻辑清晰；在科技文本中指数据存储，在商业文本中指货物囤积，是高频动词，注意与 guardar（保存）的区别：almacenar 强调系统性、大量存储。"
+        },
+        {
+          "word": "oligopolio",
+          "translation": "寡头垄断",
+          "note": "构词前缀 oligo-（少数）+ -polio（控制/销售），对应 monopolio（垄断）、duopolio（双头垄断），掌握前缀规律可举一反三；经济新闻高频词。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Sin NAND, tampoco hay IA, porque es imposible almacenar los datos para la DRAM y los microchips de Nvidia trabajen con ellos.",
+      "zh": "没有NAND同样没有AI，因为无法存储数据供DRAM和英伟达芯片调用处理。",
+      "vocab": []
+    },
+    {
+      "id": 9,
+      "es": "Pero, sin DRAM y NAND, tampoco hay teléfonos móviles, ordenadores, tabletas, televisiones, consolas, servidores, la nube, telefonía 5G, robots, vehículos eléctricos, híbridos, o con ayudas electrónicas a la conducción, como frenado automático, control de carril o sensores de aparcamiento. Estos chips son la <strong>piedra fundacional</strong> de todos los aparatos inteligentes, incluyendo lavadoras y neveras con sensores y hasta las grúas de los puertos de contenedores.",
+      "zh": "但没有DRAM和NAND，也就没有手机、电脑、平板、电视、游戏机、服务器、云计算、5G通信、机器人、电动汽车、混合动力车，以及配备自动刹车、车道保持、泊车传感器等电子辅助驾驶功能的车辆。这些芯片是所有智能设备的基石，包括带传感器的洗衣机、冰箱，乃至集装箱港口的起重机。",
+      "vocab": [
+        {
+          "word": "piedra fundacional",
+          "translation": "基石；奠基石",
+          "note": "固定比喻搭配，常见于新闻和正式文体，用于强调某事物是整个体系的根本基础；类似表达还有 piedra angular（拱顶石，也比喻核心支柱），两者语义相近但 fundacional 更强调『起点与根基』。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Y, ahora, todos se los están llevando las empresas de IA. Los precios de esos componentes han crecido entre un 50% y un 70% en solo seis meses. Y la producción no va a empezar a aumentar hasta, por lo menos, finales de 2027. La razón es que el sector de los microchips de memoria se <strong>caracteriza por</strong> booms y crashes. Ninguno de los grandes jugadores quiere <strong>sobreinvertir</strong> para luego tener una fábrica funcionando a medio gas.",
+      "zh": "而如今，这些芯片正被AI企业大量抢购。相关元器件价格在短短六个月内上涨了50%至70%。产能至少要到2027年底才会开始提升。原因在于，存储芯片行业的特点就是周期性的繁荣与崩溃交替出现。没有哪个大玩家愿意过度投资，然后落得工厂开工不足的局面。",
+      "vocab": [
+        {
+          "word": "caracteriza por",
+          "translation": "以……为特征；其特点是……",
+          "note": "固定搭配 caracterizarse por + 名词/动词原形，是学术和新闻写作中描述事物特征的标准句式，比 tener la característica de 更简洁地道。"
+        },
+        {
+          "word": "sobreinvertir",
+          "translation": "过度投资",
+          "note": "前缀 sobre- 表示『过度、超出』，可构成大量动词和名词，如 sobrecargar（超载）、sobrevalorar（高估）、sobrepoblación（人口过剩），掌握此前缀可大幅扩充词汇量。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Esa es la razón por la que Apple anunció el 25 de junio una subida inesperada e inmediata del 20% del precio de varios modelos de sus ordenadores MacBook y sus tabletas iPad. Una semana antes, el <strong>consejero delegado</strong> de la empresa, Tim Cook, había comparado la subida de precios de los chips de memoria en lo que va de año a una inundación de las que pasan una vez cada cien años. Para Cook, que deja el cargo el 1 de septiembre, tras una década y media en la que ha multiplicado el valor de la empresa por trece, en cuarenta años, nunca he visto nada como esto en ninguna área. Y no hay que olvidar que la especialidad de Cook es la <strong>cadena de suministros</strong>.",
+      "zh": "这正是苹果公司于6月25日突然宣布将多款MacBook电脑和iPad平板价格即时上调20%的原因。一周前，公司首席执行官蒂姆·库克曾将今年以来存储芯片价格的涨幅比作『百年一遇的洪水』。库克将于9月1日卸任，在过去十五年间他将公司市值提升了十三倍，他表示：『四十年来，我从未在任何领域见过这样的情况。』值得一提的是，库克的专长正是供应链管理。",
+      "vocab": [
+        {
+          "word": "consejero delegado",
+          "translation": "首席执行官；CEO",
+          "note": "西班牙语中对应英语 CEO 的标准表达，在拉美更常用 director ejecutivo 或直接用缩写 CEO；consejero 本义为『顾问、委员』，此处是公司治理术语，切勿按字面译为『顾问』。"
+        },
+        {
+          "word": "cadena de suministros",
+          "translation": "供应链",
+          "note": "与第4段的 cadenas de suministro 为同一表达，suministros 复数形式在新闻中更常见；suministro 源自动词 suministrar（供应、提供），是B2以上商业词汇。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Apple ha sido la primera gran empresa que ha reconocido el golpe de la <strong>escasez</strong> de chips. No en balde, la segunda empresa más valiosa del mundo llevaba al menos cerca de una década siendo la mayor compradora de microchips de todo el mundo. En 2025, todavía logró mantenerse. Pero en este 2026 es muy probable que pierda ese puesto a manos del gigante de la IA Nvidia.",
+      "zh": "苹果是第一家公开承认受到芯片短缺冲击的大型企业。这不无道理——这家全球市值第二的公司近十年来一直是全球最大的微芯片买家。2025年它还勉强守住了这一地位，但在2026年，它极有可能将这一位置拱手相让给AI巨头英伟达。",
+      "vocab": [
+        {
+          "word": "escasez",
+          "translation": "短缺；匮乏",
+          "note": "由形容词 escaso（稀少的）加后缀 -ez 构成名词，-ez 是构成抽象名词的常见后缀，如 rapidez（速度）、estrechez（狭窄/拮据）、timidez（胆怯），掌握此规律可快速识别同类词。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "La escasez de estos microchips va a hacer que el precio de los teléfonos móviles aumente de una manera brutal. El gigante de la banca de inversión Morgan Stanley calcula que, para mantener sus <strong>márgenes de beneficio</strong>, Apple deberá cobrar 270 dólares más por los teléfonos móviles que saque este otoño -incluyendo la versión plegable del iPhone 19- en relación a los del año pasado. No es solo que cada iPhone lleve dentro chips de memoria que valen 50 dólares, y que ahora van a pasar a 200, de acuerdo con los datos de la empresa de análisis de mercado Tech Insights. También es el aumento de la memoria de los teléfonos. A Apple, solo le cuesta 15 dólares aumentar la memoria de un teléfono 256 GB a 512 GB, pero cobra 200 dólares de diferencia por ello. En el pasado, la compañía de Tim Cook podía disfrutar de su inmenso poder de compra para imponer a los fabricantes de chips de memoria <strong>condiciones leoninas</strong>. Ahora, los gigantes de la IA han terminado con ese periodo de gloria. Apple tiene que <strong>pujar</strong> como cualquier otro por un producto escaso.",
+      "zh": "这些微芯片的短缺将导致手机价格大幅上涨。投资银行巨头摩根士丹利估计，为维持利润率，苹果今秋推出的新款手机（包括折叠版iPhone 19）售价将比去年同款高出270美元。这不仅仅是因为每部iPhone内置的存储芯片成本从50美元涨至200美元（据市场分析公司Tech Insights数据），还因为手机内存容量的提升。苹果将手机内存从256GB升至512GB仅需额外花费15美元，却要为此多收200美元。过去，蒂姆·库克的公司凭借庞大的采购规模，可以向存储芯片制造商施加极为苛刻的条件。如今，AI巨头们终结了那段辉煌岁月。苹果也不得不像其他任何买家一样，为稀缺产品竞价争购。",
+      "vocab": [
+        {
+          "word": "márgenes de beneficio",
+          "translation": "利润率；利润空间",
+          "note": "与第3段 margen de beneficio bruto 同根，此处为复数泛指，是财经新闻核心搭配；mantener márgenes de beneficio（维持利润率）是固定表达，可直接套用。"
+        },
+        {
+          "word": "condiciones leoninas",
+          "translation": "苛刻条件；掠夺性条款",
+          "note": "固定搭配，leonino/a 字面意思是『狮子般的』，在法律和商业语境中专指对一方极为不利的合同条款或谈判条件，是B2以上的正式表达，具有强烈的负面含义。"
+        },
+        {
+          "word": "pujar",
+          "translation": "出价竞标；竞价",
+          "note": "在拍卖和采购语境中指『竞价、抬价』，名词形式为 puja（竞价/出价）；注意与 luchar（斗争）的区别：pujar 强调通过价格手段竞争，常见于拍卖、招标报道。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "Y no solo compite, además, contra la IA. Los dos mayores fabricantes de automóviles estadounidenses, General Motors y Ford, han firmado acuerdos de compra de microchips a largo plazo con Micron. Las <strong>patronales</strong> estadounidenses NCTA y MDMA han dado la voz de alarma ante la escasez de estos componentes tecnológicos, mientras que Cook podría haberse dirigido directamente a Donald Trump. La patronal de la industria digital alemana Bitkom también ha hecho suyas esas alarmas, y la mayor cadena de tiendas de artículos de electrónica de consumo del Reino Unido, Currys, pese a haber hecho <strong>acopio</strong> de stocks de teléfonos móviles y ordenadores, ya ha reconocido que las subidas de precios van a ser inevitables en el último trimestre del año. Según algunos análisis realizados en EEUU, el precio de los teléfonos subirá un 34% en los próximos dos años, y el de los PCs, un brutal 67%.",
+      "zh": "苹果面临的竞争对手不只是AI企业。美国两大汽车制造商通用汽车和福特已与美光签署长期芯片采购协议。美国行业协会NCTA（有线电视与互联网基础设施）和MDMA（医疗设备制造）已就技术元器件短缺问题发出警报，而库克或许已直接向特朗普反映了这一问题。德国数字行业协会Bitkom也发出了同样的警告。英国最大消费电子零售连锁Currys尽管已提前囤积了手机和电脑库存，也已承认今年最后一个季度价格上涨不可避免。据美国部分分析报告，未来两年手机价格将上涨34%，PC价格更将大幅上涨67%。",
+      "vocab": [
+        {
+          "word": "patronales",
+          "translation": "雇主协会；行业商会",
+          "note": "patronal 作形容词意为『雇主的、资方的』，作名词（la patronal）指『雇主组织/行业协会』，与 sindicato（工会）相对；是劳资关系和经济新闻的核心词汇。"
+        },
+        {
+          "word": "acopio",
+          "translation": "囤积；大量储备",
+          "note": "固定搭配 hacer acopio de（囤积、大量储备），常出现在危机、战争或供应紧张的新闻报道中；动词形式为 acopiar，注意与 acaparar（垄断性囤积，含贬义）的语气差异。"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "es": "Es una combinación de precios <strong>exorbitantes</strong> y <strong>cuellos de botella</strong>. Y un serio problema para los Gobiernos, que afrontan tensiones en los precios por los aranceles de Trump y por la guerra de EEUU e Israel y sus aliados contra Irán, y no quieren ni pensar en una tercera <strong>oleada</strong> inflacionaria, esta vez por la escasez de microchips. Hay otra opción que atrae a las empresas, pero preocupa a los gobiernos por su obvio riesgo geopolítico: relajar el sistema de licencias de importación de microchips de memoria de China. Pero que conllevaría el riesgo de poner a los chips del mayor rival estratégico de Occidente en sus modelos de LLM y agentes de IA.",
+      "zh": "这是天价与供应瓶颈的双重叠加，也给各国政府带来了严峻挑战。各国政府已在应对特朗普关税和美以联军对伊战争引发的价格压力，根本不愿再面对第三波通胀浪潮——这次是由芯片短缺引发的。还有一个对企业颇具吸引力、但令各国政府忧虑的选项：放宽从中国进口存储芯片的许可证制度。然而，这将带来把西方最大战略竞争对手的芯片植入其大语言模型和AI智能体的风险。",
+      "vocab": [
+        {
+          "word": "exorbitantes",
+          "translation": "高得离谱的；过高的",
+          "note": "源自拉丁语 ex orbita（偏离轨道），形容价格、要求等远超正常范围；常与 precio、demanda、coste 搭配，是新闻评论中表达批评语气的高频形容词，语气强于 elevado 或 alto。"
+        },
+        {
+          "word": "cuellos de botella",
+          "translation": "瓶颈；供应堵点",
+          "note": "固定比喻搭配，字面意思为『瓶子的颈部』，比喻生产或供应链中的卡点和障碍，是经济和物流新闻的超高频表达，可直接套用于各类供需失衡场景。"
+        },
+        {
+          "word": "oleada",
+          "translation": "浪潮；一波（大规模现象）",
+          "note": "源自 ola（海浪），oleada 指规模更大、更猛烈的浪潮，常用于新闻中描述移民潮、通胀浪潮、犯罪浪潮等，是典型的比喻性新闻词汇，注意与 ola（单次浪/热浪）的程度差异。"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "es": "Y, aparte, está el componente regulatorio. Hace justo cuatro años que EEUU aprobó la Ley CHIPS, que consistía en un masivo plan de política industrial para aumentar la <strong>capacidad manufacturera</strong> del país en alta tecnología incluyendo, como su propio nombre indica, los chips. Sin embargo, una gigantesca inversión de Micron en el estado de Nueva York por 100.000 millones de dólares ha estado <strong>durmiendo el sueño de los justos</strong> hasta que esta primavera se solucionaron las trabas legales a su construcción debido a la presencia de una colonia de murciélagos en peligro de extinción en el bosque que va a ser talado para hacer la fábrica. Por esa misma razón, el Plan de Soberanía Tecnológica de la Comisión Europea aprobado el mes pasado, que preveía el desarrollo de la industria de microchips dentro de la UE, tardará años -como poco- en tener consecuencias <strong>tangibles</strong>.",
+      "zh": "此外，还有监管层面的问题。就在四年前，美国通过了《芯片法案》，这是一项旨在提升本国高科技制造能力（顾名思义，包括芯片制造）的大规模产业政策计划。然而，美光在纽约州高达1000亿美元的巨额投资项目一直处于搁置状态，直到今春才解决了建设方面的法律障碍——原因是拟建工厂所在地的森林中栖息着一个濒危蝙蝠种群。出于同样的原因，欧盟委员会上月批准的《技术主权计划》——旨在推动欧盟内部芯片产业发展——至少也要数年后才能产生切实可见的成效。",
+      "vocab": [
+        {
+          "word": "capacidad manufacturera",
+          "translation": "制造能力；产能",
+          "note": "固定搭配，manufacturero/a 是形容词，指『制造业的』，源自 manufactura（制造业）；capacidad manufacturera 在产业政策和贸易新闻中高频出现，可替换为 capacidad productiva（生产能力）。"
+        },
+        {
+          "word": "durmiendo el sueño de los justos",
+          "translation": "被束之高阁；长期搁置不动",
+          "note": "惯用语，字面意思是『睡着义人的觉』（即睡得极沉、毫无动静），在新闻中用来形容项目、法案、计划等长期停滞、无人推进的状态，带有讽刺意味。"
+        },
+        {
+          "word": "tangibles",
+          "translation": "切实的；有形的；看得见的",
+          "note": "假朋友提醒：tangible 与英语 tangible 形似，含义基本一致（可感知的、实际的），但在西语正式文体中更常用于抽象语境，如 resultados tangibles（切实成果）、beneficios tangibles（实际收益），不限于物理意义上的『可触摸』。"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "es": "Lo que está claro es que el que quiera comprarse un teléfono o un ordenador personal este año, que se dé prisa. O eso, o que se compre una acción de Micron o de SK Hynix y que rece para que la apreciación siga. Mirando las cosas con cinismo, resulta que la IA no solo nos va a traer paro, sino, también, hiperinflación. Eso se llama <strong>estanflación</strong>, y la última vez que el mundo lo sufrió fue hace medio siglo durante la crisis del petróleo de los ochenta. Mientras esperamos los beneficios futuros de esta tecnología, sus costes a corto plazo parecen cada día más <strong>onerosos</strong>.",
+      "zh": "有一点是明确的：今年想买手机或个人电脑的人，最好抓紧。要么就去买一股美光或SK海力士的股票，祈祷涨势持续。以一种玩世不恭的眼光来看，AI带给我们的不只是失业，还有恶性通胀。这就叫滞涨——上一次全球经历这种局面，还是半个世纪前的八十年代石油危机。在我们等待这项技术带来未来红利的同时，其短期代价似乎每天都在变得更加沉重。",
+      "vocab": [
+        {
+          "word": "estanflación",
+          "translation": "滞涨（经济停滞+通货膨胀）",
+          "note": "由 estancamiento（经济停滞）+ inflación（通货膨胀）混合构成的合成词，是典型的混合构词法（palabra maleta/portmanteau）；掌握其构词来源有助于理解和记忆这一重要经济术语。"
+        },
+        {
+          "word": "onerosos",
+          "translation": "沉重的；代价高昂的；负担繁重的",
+          "note": "假朋友提醒：oneroso 与英语 onerous 形似，含义一致，均指『负担沉重的、代价高昂的』，多用于正式和书面语境；日常口语中更常用 costoso 或 caro，oneroso 出现在新闻结尾时往往带有总结性的强调语气。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "pegarse cabezazos contra una pared",
+      "type": "modismo",
+      "translation": "懊悔不已；悔不当初；用头撞墙",
+      "usage": "惯用语，字面意思是『用头撞墙』，实际用来形容因错失机会或犯下错误而极度懊悔、沮丧的情绪，语气夸张，常用于口语和新闻评论，带有自嘲或讽刺色彩。",
+      "exampleEs": "Cuando vi que las acciones que vendí hace un mes ahora valen el doble, me dieron ganas de pegarme cabezazos contra una pared.",
+      "exampleZh": "当我看到一个月前卖掉的股票现在涨了一倍，真恨不得用头撞墙。"
+    },
+    {
+      "expression": "dar la voz de alarma",
+      "type": "colocación",
+      "translation": "发出警报；拉响警钟",
+      "usage": "固定搭配，dar + la voz de alarma，意为正式发出警告或警示信号，多用于新闻报道中描述机构、专家或政府就某一风险发出公开预警，语体正式，不可将 dar 替换为 hacer 或 poner。",
+      "exampleEs": "Los científicos dieron la voz de alarma sobre el aumento de las temperaturas oceánicas mucho antes de que los gobiernos actuaran.",
+      "exampleZh": "科学家们早在各国政府采取行动之前，就已就海洋温度上升发出了警告。"
+    },
+    {
+      "expression": "durmiendo el sueño de los justos",
+      "type": "modismo",
+      "translation": "被束之高阁；长期搁置；毫无进展",
+      "usage": "惯用语，字面意思是『睡着义人的觉』（睡得极沉），在新闻和正式文体中用来讽刺某个项目、计划或法案长期停滞、无人推动，带有批评或讽刺意味，语气比 estar paralizado 更生动。",
+      "exampleEs": "El proyecto de ley para reformar el sistema educativo lleva tres años durmiendo el sueño de los justos en el parlamento.",
+      "exampleZh": "那项教育体制改革法案在议会里已经搁置了三年，毫无进展。"
+    },
+    {
+      "expression": "a medio gas",
+      "type": "expresión coloquial",
+      "translation": "开工不足；半负荷运转；没有全力以赴",
+      "usage": "口语表达，字面意思是『只开了一半的油门』，用来形容工厂、机器或人没有达到满负荷/全力运转的状态，在经济和工业报道中常用来描述产能利用率不足的情况，语气生动形象。",
+      "exampleEs": "Tras la caída de la demanda, muchas fábricas del sector automovilístico llevan meses funcionando a medio gas.",
+      "exampleZh": "需求下滑后，汽车行业的许多工厂已经连续数月开工不足。"
+    },
+    {
+      "expression": "condiciones leoninas",
+      "type": "colocación",
+      "translation": "苛刻条件；掠夺性条款",
+      "usage": "固定搭配，leonino/a（狮子般的）在法律和商业语境中专指对弱势一方极为不利的合同条款或谈判条件，常与 imponer、aceptar、negociar 等动词搭配，是B2以上正式书面语，带有明显的批评或负面含义。",
+      "exampleEs": "Los trabajadores denunciaron que la empresa les había impuesto condiciones leoninas en los nuevos contratos.",
+      "exampleZh": "工人们控诉该公司在新合同中强加了极为苛刻的条款。"
+    },
+    {
+      "expression": "no en balde",
+      "type": "expresión coloquial",
+      "translation": "这不是没有原因的；不无道理；并非偶然",
+      "usage": "固定表达，balde 在此意为『白费、徒劳』，no en balde 即『并非徒劳/并非无故』，用于引出对某一现象的解释或佐证，相当于『这是有原因的』，常见于新闻评论和口语，语气略带强调。",
+      "exampleEs": "No en balde es considerado el mejor chef del país: lleva veinte años perfeccionando cada receta.",
+      "exampleZh": "他被誉为全国最佳厨师并非没有道理——他花了二十年时间精进每一道菜。"
+    }
+  ]
+}
