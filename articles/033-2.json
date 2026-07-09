@@ -1,0 +1,172 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与社会",
+  "difficulty": "B2",
+  "wordCount": "约650词",
+  "title": "Paco es una IA",
+  "subtitle": "『帕科』是个人工智能",
+  "resumenEs": "La autora descubre a Paco del Campo, un anciano simpático creado con inteligencia artificial que acumula millones de seguidores vendiendo consejos de salud y libros electrónicos. Este caso ilustra un fenómeno creciente: redes de falsos influencers generados por IA que explotan arquetipos de sabiduría ancestral para monetizar contenido potencialmente peligroso, sin que las plataformas digitales lo controlen eficazmente.",
+  "resumenZh": "作者发现了『帕科·德尔坎波』——一位由人工智能创造的和蔼老人，凭借健康建议和电子书积累了数百万粉丝。这一案例揭示了一个日益蔓延的现象：由AI生成的虚假网红利用『古老智慧』人物原型牟利，内容潜藏健康风险，而各大平台对此却束手无策。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Navegando, me encuentro con Paco del Campo, un <strong>afable</strong> hombre mayor que lleva siempre la misma ropa (camisa de cuadros, chaleco de punto) y sabe elegir sandías y preparar remedios para dormir mejor. Lleva solo dos semanas publicando sus vídeos pero ha conseguido más de un millón de seguidores entre Instagram y TikTok que parecen adorar sus consejos sobre cómo comprar pimientos o qué hacer con un aguacate marrón.",
+      "zh": "在网上浏览时，我偶然遇见了帕科·德尔坎波——一位和蔼可亲的老人，总是穿着同一套衣服（格子衬衫、针织马甲），懂得如何挑西瓜、如何调配助眠偏方。他发布视频才短短两周，却已在Instagram和TikTok上积累了逾百万粉丝，这些人似乎对他关于如何挑辣椒、如何处理变褐牛油果的建议深信不疑。",
+      "vocab": [
+        {
+          "word": "afable",
+          "translation": "和蔼可亲的、平易近人的",
+          "note": "afable 专门用于形容人的态度亲切友善，比 amable 更强调举止温和、令人如沐春风，多用于书面语和正式人物描写，是B2以上的高频词。"
+        },
+        {
+          "word": "remedios",
+          "translation": "偏方、药方、补救方法",
+          "note": "remedio 一词多义：可指『药物/偏方』，也可指『解决办法』，还出现在固定表达 no hay más remedio（别无选择）中，注意根据语境判断含义。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "No uses sal refinada, dice, mírale la base a los apios. Vende libros electrónicos de entre cinco y 13 euros con sus consejos, y está contento porque le va muy bien con ellos. Compruebo que tenemos media docena de contactos en común, personas educadas y con muchas horas de internet a sus espaldas. Pregunto a una de ellas y me dice que ese abuelo no para de salirle y que le parece <strong>entrañable</strong>. Ni ella —ni, estoy segura, la mayor parte de sus seguidores— han notado que Paco no existe y está creado con inteligencia artificial.",
+      "zh": "他说：别用精制盐，挑芹菜要看根部。他出售五到十三欧元不等的电子书，收录自己的建议，生意红火，他本人也颇为满意。我发现我们有六七个共同好友，都是受过良好教育、在网络上摸爬滚打多年的人。我问其中一位，她说这位老爷爷总是出现在她的推送里，觉得他亲切可爱。她——我敢肯定，他的大多数粉丝也是如此——都没有发现帕科根本不存在，是由人工智能创造的。",
+      "vocab": [
+        {
+          "word": "entrañable",
+          "translation": "亲切可爱的、令人动情的",
+          "note": "entrañable 来自 entraña（内脏/内心深处），意为『触动内心的』，比 simpático 情感更深厚，常用于描述令人油然而生亲近感的人或事物，多见于新闻人物报道。"
+        },
+        {
+          "word": "a sus espaldas",
+          "translation": "在他们身后、背后",
+          "note": "con muchas horas de internet a sus espaldas 意为『背后积累了大量上网经验』，a sus espaldas 作为固定表达可指『背后、身后』，引申为『已积累的经历』，注意不要只理解为字面的『背后』。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Bien mirado, hay algo extraño en su voz y en sus escenarios, perfectos fondos rurales de los que cuelgan <strong>ramilletes</strong> de aromáticas. Está muy bien hecho y sus vídeos no aparecen <strong>etiquetados</strong> como artificiales. Dentro de los términos legales de su web sí se reconoce que \"Paco del Campo\" es una <strong>denominación</strong> comercial, y que el nombre y el NIF de la persona supuestamente creadora es otro.",
+      "zh": "仔细看，他的声音和场景确实有些奇怪：那些完美的乡村背景里，挂着一束束香草植物。制作非常精良，视频也没有被标注为人工合成内容。倒是在其网站的法律条款中承认，『帕科·德尔坎波』是一个商业名称，而所谓创建者的姓名和税务识别号另有其人。",
+      "vocab": [
+        {
+          "word": "ramilletes",
+          "translation": "小束、香草束",
+          "note": "ramillete 是 ramo（束/捧花）加指小词后缀 -ete 构成，西语指小词后缀 -ete/-eta 表示『小巧』，如 camioneta（小货车）、callejuela（小巷），掌握此规律可举一反三。"
+        },
+        {
+          "word": "etiquetados",
+          "translation": "被标注的、被贴标签的",
+          "note": "etiquetar 本义为『贴标签』，在社交媒体语境中指『标注/tag』内容，如 etiquetar a alguien en una foto（在照片中标注某人），是数字媒体高频词汇。"
+        },
+        {
+          "word": "denominación",
+          "translation": "名称、商业名称",
+          "note": "denominación 来自 denominar（命名），在法律和商业文本中常见，如 denominación comercial（商业名称）、denominación de origen（原产地名称），属正式书面词汇。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Paco es quizá el caso más <strong>llamativo</strong>, por su crecimiento explosivo y su habilidad para <strong>desactivar</strong> precauciones con una sonrisa bonachona, de un mundo, el de los falsos influencers creados con IA, que las redes sociales no parecen querer o poder controlar. Sigo navegando y compruebo que existen decenas de cuentas similares. Suman millones de reproducciones, posiblemente realizadas por humanos que creen estar recibiendo contenido legítimo. Manuel del Campo, con pinta de granjero, tiene más de 500.000 seguidores en Instagram; Sofía y Eduardo, \"expertos en salud holística\", unos doscientos mil cada uno.",
+      "zh": "帕科或许是AI虚假网红这一领域中最引人注目的案例——凭借爆炸式增长和用一抹憨厚笑容瓦解他人戒备的本领，而各大社交平台似乎既不愿也无力对此加以管控。我继续浏览，发现类似账号多达数十个。它们合计获得了数百万次播放，观看者很可能都以为自己在接收真实可信的内容。『田野曼努埃尔』，一副农夫模样，在Instagram上拥有逾五十万粉丝；索菲亚和爱德华多，自称『整体健康专家』，各自拥有约二十万粉丝。",
+      "vocab": [
+        {
+          "word": "llamativo",
+          "translation": "引人注目的、显眼的",
+          "note": "llamativo 来自 llamar（呼唤/吸引），意为『抢眼的、惹人注意的』，可用于正面或负面语境，如 un color llamativo（显眼的颜色）或 un caso llamativo（引人注目的案例），比 notable 更口语化。"
+        },
+        {
+          "word": "desactivar",
+          "translation": "解除、瓦解、使失效",
+          "note": "前缀 des- 表示『逆转/取消』，desactivar = des-（取消）+ activar（激活），同类构词如 desconectar、deshacer、desconfiar，掌握 des- 前缀可快速理解大量动词。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Sus contenidos son similares a los de Paco, y sus libros también, solo que en lugar de llamarse \"Los remedios naturales de Paco\" se titulan \"Los 150 remedios naturales del campo\" o \"Más de 160 remedios holísticos\". En este universo de <strong>ganapanes</strong> digitales donde todo el mundo se copia entre sí, la frontera de la legalidad es <strong>difusa</strong>, no existen controles editoriales, y el daño que pueden causar sus consejos virales aparentemente inofensivos pero que juegan con la salud es evidente. Resulta fácil y barato crear un Paco en una tarde y ganar unos miles de euros vendiendo un archivo PDF como mínimo <strong>decepcionante</strong> y, en el peor de los casos, peligroso.",
+      "zh": "他们的内容与帕科的如出一辙，书也一样，只不过书名从『帕科的天然偏方』换成了『150种田野天然偏方』或『160余种整体疗愈偏方』。在这个人人相互抄袭的数字骗子宇宙里，法律边界模糊不清，不存在任何编辑审核，而那些表面无害、实则拿健康做赌注的病毒式建议所能造成的危害显而易见。只需一个下午就能轻松廉价地造出一个帕科，靠卖一份PDF文件赚取数千欧元——往好了说令人失望，往坏了说则危机四伏。",
+      "vocab": [
+        {
+          "word": "ganapanes",
+          "translation": "靠欺骗混饭吃的人、骗子",
+          "note": "ganapán 字面意思是『挣面包的人』（gana + pan），引申为『靠卑劣手段谋生的人、混混』，是带有强烈贬义的口语词，作者用『ganapanes digitales』讽刺这些AI虚假网红。"
+        },
+        {
+          "word": "difusa",
+          "translation": "模糊的、不清晰的",
+          "note": "difuso/a 来自 difundir（扩散/传播），形容边界或概念『模糊、不清晰』，与 vago 近义但更正式，常用于法律、学术语境，如 frontera difusa（模糊边界）、concepto difuso（模糊概念）。"
+        },
+        {
+          "word": "decepcionante",
+          "translation": "令人失望的",
+          "note": "注意假朋友陷阱：decepcionar 意为『使失望』，而非英语 deceive（欺骗）。decepcionar ≈ disappointment，engañar 才是『欺骗』，这是西语学习者的高频误解词。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "En mi paseo digital veo que están de moda los mismos <strong>arquetipos</strong> de la sabiduría ancestral que llevan siglos convenciéndonos: viejas sabias, monjas que desvelan trucos del convento, curanderos de mediana edad, chamanes exóticos. Poseen audiencias considerables y venden productos digitales clónicos. Otras redes de falsos influencers de salud han llegado a comercializar suplementos, o a <strong>suplantar</strong> a médicos legítimos con sus gemelos digitales. Este tipo de <strong>picaresca</strong> no es nueva, pero sí su dimensión, su alcance y la velocidad a la que mejora la calidad del engaño. Que un Paco cualquiera consiga confundirme a mí también es solo cuestión de tiempo, si es que no ha sucedido ya. Ayer la cuenta publicaba el testimonio desvergonzado de una mujer también creada con IA: \"Yo no soy muy de comprar en internet, que hay mucho ladrón suelto, pero tú, Paco, me diste confianza desde el primer momento\".",
+      "zh": "在这场数字漫游中，我发现那些几百年来一直说服着我们的『古老智慧』原型依然大行其道：智慧老妪、揭秘修道院秘方的修女、中年草药师、异域萨满。他们坐拥可观的受众，贩卖千篇一律的数字产品。另一些虚假健康网红网络甚至开始销售营养补充剂，或用数字孪生体冒充真正的医生。这类骗术并不新鲜，新鲜的是它的规模、它的触达范围，以及欺骗质量提升的速度。某个帕科终有一天也会把我骗到——如果还没发生的话，也只是时间问题。昨天，这个账号发布了一位同样由AI创造的女性的厚颜无耻的证言：『我平时不太喜欢在网上买东西，网上骗子太多了，但你，帕科，从第一刻起就给了我信任。』",
+      "vocab": [
+        {
+          "word": "arquetipos",
+          "translation": "原型、典型形象",
+          "note": "arquetipo 来自希腊语，指某类人物或事物的『原始模型/典型』，是心理学（荣格理论）和文学批评的核心术语，在新闻和文化评论中也高频出现，属C1学术词汇。"
+        },
+        {
+          "word": "suplantar",
+          "translation": "冒充、取代、顶替",
+          "note": "suplantar 专指通过欺骗手段『冒充他人』，比 reemplazar（替换）多了欺骗的含义，如 suplantar la identidad（冒充身份），在网络安全和法律语境中是高频词。"
+        },
+        {
+          "word": "picaresca",
+          "translation": "骗术、流氓伎俩",
+          "note": "picaresca 源自西班牙文学流派『流浪汉小说』（novela picaresca），引申为『小聪明、骗术、耍滑头』，带有一定的文化色彩，在西语中用此词描述欺骗行为时语气略带调侃。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "no para de salirle",
+      "type": "expresión coloquial",
+      "translation": "（内容）不停地出现在她的推送里",
+      "usage": "salirle a alguien 在社交媒体语境中指内容『出现在某人的推送/首页』，no parar de + 动词原形表示『不停地做某事』，两者结合是描述算法推送的地道口语表达。",
+      "exampleEs": "Desde que vi un vídeo de cocina, no para de salirme contenido de recetas en todas las redes.",
+      "exampleZh": "自从我看了一个烹饪视频，各个平台就不停地给我推送食谱内容。"
+    },
+    {
+      "expression": "jugar con la salud",
+      "type": "colocación",
+      "translation": "拿健康冒险、拿健康做赌注",
+      "usage": "jugar con algo 表示『拿某事物冒险/不认真对待』，带有强烈的批评语气，常用于新闻评论中谴责不负责任的行为，如 jugar con la salud、jugar con los sentimientos（玩弄感情）。",
+      "exampleEs": "Vender medicamentos sin receta es jugar con la salud de los ciudadanos.",
+      "exampleZh": "无处方销售药物是在拿公民的健康冒险。"
+    },
+    {
+      "expression": "solo cuestión de tiempo",
+      "type": "expresión coloquial",
+      "translation": "只是时间问题",
+      "usage": "es solo cuestión de tiempo（que + 虚拟式）是表达『某事迟早必然发生』的固定句式，语气带有无奈或警示色彩，在新闻评论和日常对话中均极为常用。",
+      "exampleEs": "Con ese ritmo de vida, es solo cuestión de tiempo que el cuerpo pase factura.",
+      "exampleZh": "以那种生活节奏，身体迟早会出问题，只是时间问题。"
+    },
+    {
+      "expression": "hay mucho ladrón suelto",
+      "type": "expresión coloquial",
+      "translation": "网上骗子太多了、到处都是骗子",
+      "usage": "ladrón suelto 字面意思是『散放的小偷』，口语中用来泛指网络上的骗子或不可信之人，suelto（散放的、自由的）在此强调防不胜防，语气口语化，带有民间智慧色彩。",
+      "exampleEs": "No le des tus datos bancarios a cualquiera por internet, que hay mucho ladrón suelto.",
+      "exampleZh": "别随便在网上把银行信息给别人，网上骗子多得很。"
+    },
+    {
+      "expression": "desvelar trucos",
+      "type": "colocación",
+      "translation": "揭秘诀窍、披露秘方",
+      "usage": "desvelar 本义为『使人无眠』，引申为『揭露、披露秘密』，与 revelar 近义但更强调揭开长期隐藏之物，desvelar + secretos/trucos/misterios 是新闻标题和内容营销中的高频固定搭配。",
+      "exampleEs": "El chef desveló por fin los trucos que hacen única su receta de paella.",
+      "exampleZh": "这位厨师终于披露了让他的海鲜饭独一无二的秘诀。"
+    }
+  ]
+}

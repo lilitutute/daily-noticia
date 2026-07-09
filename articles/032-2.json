@@ -1,0 +1,306 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "女性与社会",
+  "difficulty": "B2",
+  "wordCount": "约1400词",
+  "title": "Tengo 53 años. Dejen de decirme que soy invisible",
+  "subtitle": "我53岁。请不要再说我是隐形人",
+  "resumenEs": "La autora, una mujer de 53 años, rechaza el cliché de que las mujeres de mediana edad se vuelven invisibles. Argumenta que este discurso, alimentado por medios y marcas comerciales, confunde la pérdida de juventud con la pérdida de presencia, cuando en realidad las mujeres de 50 años de hoy gozan de mayor salud, autonomía e influencia que cualquier generación anterior.",
+  "resumenZh": "作者是一位53岁的女性，她拒绝接受『中年女性会变得隐形』这一陈词滥调。她认为，媒体和商业品牌所渲染的这种论调，不过是将失去青春与失去存在感混为一谈——而事实上，当今五十多岁的女性比以往任何一代都更健康、更自主、更具影响力。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Para empezar, quiero dejar claro que no estoy desapareciendo. Tampoco siento que esté perdiendo <strong>relevancia</strong>, que haya quedado fuera del juego, ni que me estén borrando. Por favor, no confundan lo que escribo aquí con el último acto de resistencia de alguien que agita el puño y se niega a irse <strong>discretamente</strong>.",
+      "zh": "首先，我想说清楚：我并没有在消失。我也不觉得自己正在失去影响力，或者已经出局，或者正在被抹去。请不要把我在这里写的东西，误解为某个挥舞拳头、拒绝悄然离场的人所做的最后一次抵抗。",
+      "vocab": [
+        {
+          "word": "relevancia",
+          "translation": "重要性、影响力、存在感",
+          "note": "relevancia 与英语 relevance 是同源词，但注意在西语中它更强调『重要地位与影响力』，perder relevancia 是新闻和社会评论中的高频固定搭配，表示『失去影响力/存在感』。"
+        },
+        {
+          "word": "discretamente",
+          "translation": "悄悄地、低调地",
+          "note": "discretamente 来自 discreto（谨慎的、低调的），注意与英语 discreet 是同源词，含义相近，但西语中 discreto 还有『不引人注目、安静退场』的含义，与 discretamente irse 构成固定搭配。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Solo soy una mujer de 53 años, probablemente en la menopausia, con dos hijas adolescentes, que sigue con su vida: trabajo, crío a mis hijas, paso el rato con amigos y familia, a veces estoy agobiada, a veces disfruto de los frutos de la experiencia, a veces me siento fatal, a menudo me siento bien, y sin <strong>desvanecerme</strong> en absoluto en un charco de nada. Incluso siento, con bastante frecuencia, que estoy en mi mejor momento.",
+      "zh": "我只是一个53岁的女人，大概正处于更年期，有两个青春期的女儿，继续过着自己的生活：工作、养育女儿、和朋友家人消磨时光，有时感到焦头烂额，有时享受着经验带来的果实，有时感觉糟透了，但更多时候感觉良好——完全没有消融在一滩虚无之中。我甚至相当频繁地感到，自己正处于人生最好的状态。",
+      "vocab": [
+        {
+          "word": "desvanecerme",
+          "translation": "消融、消散、晕厥",
+          "note": "desvanecer(se) 一词多义：字面可指『晕厥、昏倒』，比喻义指『消散、烟消云散』，此处用比喻义，与后文 invisible 主题呼应，注意区分 desvanecer（消散）和 desaparecer（消失）的语气差异。"
+        },
+        {
+          "word": "agobiada",
+          "translation": "焦头烂额的、不堪重负的",
+          "note": "agobiado/a 来自 agobiar（压垮、使不堪重负），比 estresado 更强调被重压压垮的感觉，常与 de trabajo（被工作压垮）、de responsabilidades 搭配，是日常口语高频词。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "¿Por qué, entonces, en tantos programas de televisión, películas y podcasts que se promocionan para mí, siento, más que nunca, que me encuentro constantemente con la idea de que, una vez que una mujer llega a la <strong>mediana edad</strong>, se vuelve invisible?",
+      "zh": "那么，为什么在那么多以我为目标受众的电视节目、电影和播客中，我比以往任何时候都更频繁地遭遇这样一种观念：一个女人一旦步入中年，就会变得隐形？",
+      "vocab": [
+        {
+          "word": "mediana edad",
+          "translation": "中年",
+          "note": "mediana edad 是固定表达，不可替换为 edad media（后者指『中世纪』），这是西语学习者的常见混淆点：edad media = 中世纪，mediana edad = 中年，两者含义截然不同。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Quizás te hayas topado con algo similar. Se trata de dos mujeres en Platonic, interpretadas por Rose Byrne y Carla Gallo, que hablan de cómo \"nadie nos mira. Somos invisibles. Somos mujeres de mediana edad\". Es el personaje de Rachel Weisz en Vladimir de Netflix, una serie sobre una profesora obsesionada con su colega más joven, que afirma: \"como mujer mayor —en serio, ¿qué hay más vergonzoso?—, habré perdido la capacidad de <strong>cautivar</strong>\".",
+      "zh": "你或许也曾遇到过类似的情形。比如《柏拉图式》中由罗斯·伯恩和卡拉·加洛饰演的两个女人，谈论着『没有人看我们，我们是隐形人，我们是中年女性』。又比如奈飞剧集《弗拉基米尔》中瑞秋·薇兹扮演的角色——一个痴迷于年轻同事的女教授，她说：『作为一个年长的女人——说真的，还有什么比这更令人难堪的？——我将会失去吸引他人的能力。』",
+      "vocab": [
+        {
+          "word": "cautivar",
+          "translation": "吸引、迷住、俘获（人心）",
+          "note": "cautivar 来自 cautivo（俘虏），字面意思是『使成为俘虏』，引申为『深深吸引、迷住某人』，比 atraer 更强调令人无法抗拒的魅力，常用于文学和正式文体。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "En la comedia canadiense Small Achievable Goals, las protagonistas Jennifer Whalen y Meredith MacNeill se <strong>lamentan</strong> de su invisibilidad. \"No existe ningún '¿Estás ahí, Dios? Soy yo, la menopausia'\", dice el personaje de Whalen. \"¿Y saben por qué?\" Sería un libro cortito, dice: \"Sus huesos se convierten en polvo, se vuelve invisible y luego muere\".",
+      "zh": "在加拿大喜剧《小小可行目标》中，主角詹妮弗·惠兰和梅雷迪斯·麦克尼尔为自己的隐形状态哀叹。惠兰的角色说：『根本不存在什么『上帝啊，你在吗？是我，更年期』。』『你们知道为什么吗？』那会是一本很薄的书，她说：『她的骨头化为灰烬，她变得隐形，然后死去。』",
+      "vocab": [
+        {
+          "word": "lamentan",
+          "translation": "哀叹、感叹、为……悲叹",
+          "note": "lamentarse de algo 是固定搭配，意为『为某事哀叹/抱怨』，比 quejarse 更具文学色彩和情感深度，常用于书面语，如 lamentarse de la situación（为处境叹息）。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "¿Pero honestamente? Ha llegado al punto en que cada vez que me topo con ese sentimiento, me provoca un pequeño baile interno de alegría. Porque que te digan constantemente que eres invisible no es más que una prueba de que cada vez eres más <strong>visible</strong>.",
+      "zh": "但说实话？现在每次遇到这种论调，我内心都会涌起一阵小小的欢欣雀跃。因为不断被告知你是隐形人，恰恰证明你正变得越来越可见。",
+      "vocab": [
+        {
+          "word": "visible",
+          "translation": "可见的、有存在感的",
+          "note": "visible 在本文中超越字面意思，指社会层面的『被看见、有影响力』，与 invisible 构成全文核心对立，前缀 in- 表否定，掌握 visible/invisible、audible/inaudible 等对立词对可快速扩词。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "De verdad creo que nunca ha habido un momento más <strong>vibrante</strong> para ser una mujer de 50 y tantos. Por lo general, gozas de una salud mucho mejor que las generaciones anteriores a esta edad, y puedes esperar vivir hasta los ochenta. El sexo suele ser mejor, en parte gracias a la <strong>reevaluación</strong> de la eficacia de la terapia hormonal sustitutiva para las mujeres. Una mujer de mediana edad hoy tiene más probabilidades que sus predecesoras de tener estudios universitarios, ingresos y bienes propios, y la libertad legal y social para abandonar un matrimonio infeliz si así lo desea.",
+      "zh": "我真心认为，做一个五十多岁的女人，从未有过比现在更充满活力的时代。通常来说，你的健康状况远比前几代同龄女性要好，可以期待活到八十岁。性生活往往也更美好，部分原因在于人们对女性激素替代疗法疗效的重新评估。如今的中年女性比她们的前辈更有可能拥有大学学历、独立收入和个人财产，以及在自愿的情况下离开一段不幸婚姻的法律与社会自由。",
+      "vocab": [
+        {
+          "word": "vibrante",
+          "translation": "充满活力的、生机勃勃的",
+          "note": "vibrante 来自 vibrar（振动），比喻义为『充满活力、令人兴奋的』，常用于描述城市、时代或人的状态，如 una ciudad vibrante（充满活力的城市），是新闻和文化评论的高频形容词。"
+        },
+        {
+          "word": "reevaluación",
+          "translation": "重新评估",
+          "note": "前缀 re- 表示『再次、重新』，reevaluación = re-（再次）+ evaluación（评估），同类构词如 redefinir、replantear、reconsiderar，掌握 re- 前缀可快速理解大量表示『重新做某事』的词汇。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Se puede decir con seguridad que el significado de la mediana edad ha cambiado desde los tiempos en que las cincuentonas de Los años dorados representaban, al menos culturalmente, la idea de que la mediana edad es el comienzo del gran <strong>declive</strong> de la vida. Incluso la famosa crisis de la mediana edad parece estar en declive: durante años, los economistas describieron la felicidad como una curva en forma de U que tocaba fondo a finales de los 40, por lo que éramos más infelices en la mediana edad antes de volver a encontrar la felicidad en los últimos años de la vida. Sin embargo, más recientemente, esa curva parece <strong>aplanarse</strong>, con el bienestar en la mediana edad en ascenso, de modo que el arco de la felicidad —al menos en teoría— luce notablemente diferente.",
+      "zh": "可以肯定地说，中年的意义已经今非昔比——那时《黄金女郎》里五十多岁的女人，至少在文化层面上，代表着中年是人生走向大衰退的起点这一观念。就连著名的中年危机，如今似乎也在消退：多年来，经济学家将幸福感描述为一条U形曲线，在四十多岁时触底，因此我们在中年最为不幸，之后才在暮年重新找回幸福。然而，近来这条曲线似乎趋于平缓，中年的幸福感呈上升态势，幸福感的弧线——至少在理论上——看起来已大相径庭。",
+      "vocab": [
+        {
+          "word": "declive",
+          "translation": "衰退、下滑、衰落",
+          "note": "declive 既可指地理上的『斜坡、下坡』，也可指抽象的『衰退、下滑』，en declive 是固定表达，意为『处于衰退中』，常见于经济、文化、健康等领域的新闻报道。"
+        },
+        {
+          "word": "aplanarse",
+          "translation": "趋于平缓、变平",
+          "note": "aplanar(se) 来自 plano（平的），意为『变平、趋于平缓』，在经济和统计语境中常用于描述曲线走势，如 aplanar la curva（拉平曲线），疫情期间这一表达在全球新闻中大量出现。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "No es que la mediana edad se haya vuelto más fácil para las mujeres. De hecho, podría ser incluso más pesada que nunca. Es muy probable que las mujeres de mediana edad hayan tenido a sus hijos más tarde que las generaciones anteriores: las madres <strong>primerizas</strong> de hoy son unos seis años mayores que las madres primerizas de 1970. También trabajan en tasas muy superiores a las de las mujeres hace 50 años. Sus padres viven cada vez más tiempo, hasta una edad en la que sus necesidades de cuidados se intensifican. Cuando se habla de la generación \"sándwich\", atrapada entre el cuidado de los padres y el de los hijos, las mujeres de mediana edad están justo en el centro de ese sándwich.",
+      "zh": "这并不是说中年对女性来说变得更轻松了。事实上，它可能比以往任何时候都更沉重。如今的中年女性很可能比前几代人更晚生育：今天的初为人母者平均比1970年的初产妇大约六岁。她们的工作参与率也远高于五十年前的女性。她们的父母活得越来越长，到了护理需求日益加重的年纪。当人们谈到被夹在照顾父母与照顾子女之间的『三明治一代』时，中年女性正处于那块三明治的正中央。",
+      "vocab": [
+        {
+          "word": "primerizas",
+          "translation": "初次的、第一次经历某事的",
+          "note": "primerizo/a 指『第一次做某事的人』，madres primerizas 即『初产妇、初为人母者』，后缀 -izo/-iza 常表示『具有某种倾向或初次状态』，如 enfermizo（病态的）、fronterizo（边境的）。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Para mí, nada de esto se parece en absoluto a la invisibilidad. Si acaso, es justo lo contrario: <strong>presencia</strong>. Pero Hollywood no produciría películas ni series de televisión sobre mujeres que se sienten ansiosas por volverse invisibles a menos que hubiera un público para ese sentimiento. ¿Pero de dónde viene eso? Una reciente campaña de L'Oréal París afirmó que el 70 por ciento de las mujeres creen que se vuelven invisibles con la edad. Así que vale la pena preguntarse: ¿Invisibles cómo? ¿Y para quién?",
+      "zh": "在我看来，这一切与隐形毫无相似之处。如果说有什么的话，恰恰相反：这是一种存在感。但如果没有受众认同这种感受，好莱坞也不会拍摄关于女性焦虑于变得隐形的电影和剧集。但这种感受从何而来？欧莱雅巴黎最近的一项活动声称，70%的女性认为自己会随着年龄增长而变得隐形。所以这个问题值得追问：隐形，以何种方式？对谁而言？",
+      "vocab": [
+        {
+          "word": "presencia",
+          "translation": "存在感、在场、气场",
+          "note": "presencia 不仅指物理上的『在场』，还指一个人的『气场、存在感』，如 tener mucha presencia（很有存在感），与本文主题 invisibilidad 形成直接对立，是理解全文论点的关键词。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Hace poco leí el maravilloso libro de La mujer invisible: Descubre cómo los datos configuran un mundo por y para los hombres, que detalla cómo, en todo —desde los ensayos clínicos hasta el diseño industrial—, la norma masculina aún es el <strong>statu quo</strong>. Pero también estoy segura de que el diseño de los teléfonos celulares y el <strong>infradiagnóstico</strong> de los ataques cardíacos en mujeres no son a lo que se refiere una empresa de cosméticos como L'Oréal, ni una serie como Platónico.",
+      "zh": "不久前，我读了那本精彩的《隐形女性：揭示数据如何塑造一个为男性而生的世界》，书中详细阐述了在一切领域——从临床试验到工业设计——男性标准至今仍是默认现状。但我也确信，手机设计问题和女性心脏病的漏诊问题，并不是欧莱雅这样的化妆品公司、或《柏拉图式》这样的剧集所指的『隐形』。",
+      "vocab": [
+        {
+          "word": "statu quo",
+          "translation": "现状、既有状态",
+          "note": "statu quo 是拉丁语借词，在西语正式文体和新闻评论中直接使用，意为『维持现状』，常见搭配为 mantener el statu quo（维持现状）或 cuestionar el statu quo（挑战现状）。"
+        },
+        {
+          "word": "infradiagnóstico",
+          "translation": "漏诊、诊断不足",
+          "note": "前缀 infra- 表示『不足、低于标准』，infradiagnóstico = infra-（不足）+ diagnóstico（诊断），同类构词如 infraestructura（基础设施）、infravalorar（低估），掌握 infra- 可举一反三。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "No, toda esta <strong>habladuría</strong> sobre la invisibilidad se refiere a una sola cosa: el paso de la juventud. Una mujer de mediana edad en 2026 puede ser muchas cosas —exitosa, deseable, indispensable—, pero definitivamente no es joven, ni se le sigue percibiendo como tal. Entonces se aplica un <strong>cliché</strong> gastado, impregnado de la mirada masculina: si la juventud ya no es visible, entonces la mujer debe ser invisible.",
+      "zh": "不，所有这些关于隐形的喋喋不休，指的只是一件事：青春的逝去。2026年的中年女性可以是很多东西——成功的、令人心动的、不可或缺的——但她绝对不再年轻，也不再被如此看待。于是一个陈腐的、浸透了男性凝视的老套说法被套了上来：如果青春不再可见，那么这个女人就一定是隐形的。",
+      "vocab": [
+        {
+          "word": "habladuría",
+          "translation": "喋喋不休、闲言碎语、空谈",
+          "note": "habladuría（常用复数 habladurías）指『无根据的闲话、空洞的议论』，带有明显的贬义，暗示所谈内容缺乏实质，比 conversación 或 discurso 语气更具批判性。"
+        },
+        {
+          "word": "cliché",
+          "translation": "陈词滥调、老套说法",
+          "note": "cliché 是法语借词，在西语中直接使用，指『毫无新意的陈腐表达或观念』，与 tópico（老套话题）近义，但 cliché 更强调表达层面的陈腐，而 tópico 更偏向思想或主题层面。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "Esta fijación con la juventud es insensible y <strong>obsoleta</strong>. Kamala Harris se postuló para presidenta en 2024 cuando estaba por cumplir 60 años, y toda la energía de su campaña era la de alguien desbordante de optimismo. Las mujeres ocupan casi el 30 por ciento de los cargos ejecutivos de alto nivel, frente al 17 por ciento de hace apenas una década, y la edad promedio de estas ejecutivas es de aproximadamente 55 años. Estas cifras aún pueden y deben mejorar, pero apuntan tanto a un aumento de la influencia como de la visibilidad de las mujeres de más edad. Entonces, ¿de qué estamos hablando? ¿De menos <strong>piropos</strong>?",
+      "zh": "这种对青春的执念既麻木不仁，又已然过时。卡马拉·哈里斯在即将年满60岁时参选总统，她整个竞选活动散发的能量，是一个乐观精神溢于言表之人的能量。女性如今占据高级管理职位的比例接近30%，而仅仅十年前这一数字还是17%，这些女性高管的平均年龄约为55岁。这些数字仍有提升空间，也理应继续提升，但它们清晰地指向年长女性影响力与可见度的双重提升。那么，我们究竟在谈什么？是少了几句搭讪？",
+      "vocab": [
+        {
+          "word": "obsoleta",
+          "translation": "过时的、陈旧的",
+          "note": "obsoleto/a 来自拉丁语，指因时代发展而『过时、被淘汰』的事物，比 anticuado（老旧的）更正式，常用于技术、观念、制度等语境，是新闻和学术文体的高频词。"
+        },
+        {
+          "word": "piropos",
+          "translation": "搭讪、赞美、街头调情",
+          "note": "piropo 在西班牙语文化中专指对路人（尤其是女性）说的赞美或调情之词，可以是善意的赞美，也可以是令人不适的骚扰，这一文化现象在西语国家有特定的社会讨论背景，是文化词汇。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "Para que podamos escuchar a las mujeres de mediana edad decir que son invisibles, ellas tienen que ser completamente visibles. Small Achievable Goals puede hacer chistes sobre mujeres de cierta edad que sienten que no existen precisamente porque esta serie ha abierto nuevos caminos y existe —un tipo de serie que antes apenas existía—. El personaje de Weisz en Vladimir puede decirlo en parte porque está en una serie que dirige su foco directamente sobre una mujer de mediana edad. Si una mujer de 50 años alza la voz y <strong>proclama</strong> ser \"invisible\" y no hay nadie que la vea, la escuche o le importe, la afirmación es acertada. Pero si tiene espacios donde expresarlo, u otras mujeres visibles a su alrededor que puedan decirlo por ella, la \"invisibilidad\" se convierte en una afirmación que no <strong>cuadra</strong>.",
+      "zh": "要让我们听到中年女性说自己是隐形人，她们首先必须完全可见。《小小可行目标》之所以能拿某个年纪的女性感到自己不存在来开玩笑，恰恰是因为这部剧开创了先河并得以存在——那是一种以前几乎不存在的剧集类型。薇兹在《弗拉基米尔》中的角色之所以能说出那句话，部分原因也在于她身处一部将镜头直接对准中年女性的剧集。如果一个50岁的女人大声疾呼自己是『隐形人』，却没有任何人看见她、倾听她或在乎她，那这个说法是准确的。但如果她有表达的空间，或者她身边有其他可见的女性可以替她发声，那么『隐形』就变成了一个站不住脚的说法。",
+      "vocab": [
+        {
+          "word": "proclama",
+          "translation": "宣称、声明、高呼",
+          "note": "proclamar 比 decir 或 afirmar 语气更强烈，带有公开宣告的意味，常用于政治、社会运动或强调性表达中，如 proclamar la independencia（宣布独立）、proclamar inocencia（宣称无辜）。"
+        },
+        {
+          "word": "cuadra",
+          "translation": "说得通、吻合、成立",
+          "note": "cuadrar 本义为『使成正方形/对齐』，口语中常用 no cuadra 表示『说不通、对不上、不吻合』，如 su coartada no cuadra（他的不在场证明站不住脚），是日常和新闻口语的高频表达。"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "es": "Hay precedentes de mujeres que identifican el fenómeno de la invisibilidad en la mediana edad incluso mientras lo <strong>desafían</strong>. En La vejez, publicado en 1970, Simone de Beauvoir escribió que las mujeres mayores eran excluidas del orden erótico; aunque ella misma, entre los 50 y los 60 años, estaba inmersa en una serie de aventuras amorosas con todo tipo de amantes. Susan Sontag tenía 39 años cuando <strong>articuló</strong> el concepto con admirable precisión en su ensayo de 1972 \"El doble estándar del envejecimiento\", donde escribía que se percibía que los hombres maduraban mientras las mujeres se <strong>marchitaban</strong>. Sin embargo, a sus 50 años, Sontag era una de las mujeres más fotografiadas de Nueva York y transitaba la vida literaria con un magnetismo erótico e intelectual legendario.",
+      "zh": "有先例表明，女性在指认中年隐形这一现象的同时，自身也在挑战它。西蒙娜·德·波伏瓦在1970年出版的《老年》中写道，年长女性被排斥在情欲秩序之外；然而她本人在五六十岁之间，正沉浸于与各色情人的一系列爱情冒险之中。苏珊·桑塔格在39岁时，以令人叹服的精准在其1972年的文章《衰老的双重标准》中阐明了这一概念，她写道：人们认为男人在成熟，而女人在凋零。然而到了五十多岁，桑塔格已是纽约被拍摄最多的女性之一，以传奇般的情欲与智识魅力穿行于文学生活之中。",
+      "vocab": [
+        {
+          "word": "desafían",
+          "translation": "挑战、对抗",
+          "note": "desafiar 由 des-（逆转）+ afiar（信任/依附）构成，意为『挑战、向……发起挑战』，desafiar una norma / un estereotipo（挑战规范/刻板印象）是社会评论文体的高频搭配。"
+        },
+        {
+          "word": "articuló",
+          "translation": "阐明、清晰表达",
+          "note": "articular 在学术和新闻语境中意为『清晰地表达、阐明某个观点或概念』，比 expresar 更强调条理性和精准性，如 articular una idea（阐明一个观点），是C1以上正式文体常用词。"
+        },
+        {
+          "word": "marchitaban",
+          "translation": "凋零、枯萎、衰老",
+          "note": "marchitar(se) 本义为植物『枯萎』，比喻义指人的活力、美貌或影响力的『凋零衰退』，与 florecer（盛开）形成对立，在文学和社会评论中是描述女性衰老叙事的核心词汇。"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "es": "Nadie puede decir que Sontag sea otra cosa que un caso excepcional, pero la historia ha acabado por reflejar la forma en que vivió su mediana edad. Así que ahora hay que crear una categoría para este tipo de mujer de mediana edad: una que no se desvanece por ya no ser joven, sino que, al contrario, está en su mejor momento precisamente porque está <strong>coronada</strong> de años. Esta mujer es independiente, capaz, deseante y deseable, feliz con sus años y con la mirada puesta en las décadas y décadas que aún tiene por delante.",
+      "zh": "没有人会否认桑塔格是个例外，但历史最终还是映照出了她度过中年的方式。因此，现在有必要为这类中年女性创造一个新的类别：她不会因为不再年轻而消散，恰恰相反，她正处于人生最好的状态，正是因为她被岁月加冕。这样的女性独立、能干、有欲望也令人心动，与自己的年岁和解，目光投向前方还有的数十年光阴。",
+      "vocab": [
+        {
+          "word": "coronada",
+          "translation": "被加冕的、被岁月赋予荣光的",
+          "note": "coronada 来自 corona（王冠），coronada de años 是本文作者创造的诗意表达，意为『被岁月加冕』，与通常将年龄视为负担的叙事形成对比，体现了西语中 coronar 的比喻用法。"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "es": "Hace poco hice una encuesta entre varias de mis amigas de mediana edad y les pregunté: \"Si pudieras tomarte una poción y volver a tener 22 años hoy mismo, ¿lo harías?\". Algunas dudaron, pero tras pensarlo un poco, ninguna dijo que sí. Todas están <strong>desbordadas</strong> con el trabajo, la familia y las responsabilidades. Pero también asumen el glorioso caos de sus 50, mantienen todo a flote y <strong>cosechan</strong> la subestimada satisfacción que da la sensación de dominio. Estas mujeres solo podrían ser verdaderamente invisibles para ciertas personas: aquellas que se pierden la historia porque siguen demasiado ocupadas buscando la juventud de una chica.",
+      "zh": "不久前，我在几位中年女友中做了一个小调查，问她们：『如果你能喝下一剂魔药，今天就重新变回22岁，你愿意吗？』有些人犹豫了，但想了想之后，没有一个人说愿意。她们都被工作、家庭和责任压得喘不过气。但她们也承担着五十多岁那种荣光灿烂的混乱，把一切都撑持着，收获着那种被低估的、来自掌控感的满足。这些女性真正的隐形，只对某些人而言：那些因为一直忙着寻找少女的青春，而错过了整个故事的人。",
+      "vocab": [
+        {
+          "word": "desbordadas",
+          "translation": "不堪重负的、被淹没的",
+          "note": "desbordado/a 来自 desbordar（溢出、泛滥），比 agobiado 更强调被事务『淹没、超出承受极限』的状态，estar desbordado de trabajo（被工作淹没）是职场语境的高频表达。"
+        },
+        {
+          "word": "cosechan",
+          "translation": "收获、获得（成果）",
+          "note": "cosechar 本义为『收割庄稼』，比喻义为『收获努力的成果』，cosechar éxitos（收获成功）、cosechar satisfacción（收获满足感）是新闻和励志文体的高频固定搭配，语气积极正面。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "quedar fuera del juego",
+      "type": "modismo",
+      "translation": "出局、被排除在外",
+      "usage": "字面意思是『被踢出游戏』，比喻在某个领域或社会圈子中失去资格或地位，语气口语化，常用于体育、职场或社会评论语境，近义表达为 quedar al margen。",
+      "exampleEs": "Con la digitalización acelerada, muchos trabajadores mayores sienten que han quedado fuera del juego.",
+      "exampleZh": "随着数字化的加速推进，许多年长的工作者感到自己已经出局了。"
+    },
+    {
+      "expression": "mantener todo a flote",
+      "type": "modismo",
+      "translation": "把一切都撑持住、勉力维持",
+      "usage": "a flote 字面意思是『漂浮着、不沉没』，mantener(se) a flote 比喻在重重压力下仍维持运转，常用于描述个人、家庭或企业在困境中坚持，语气带有艰难但顽强的色彩。",
+      "exampleEs": "Con tres trabajos a la vez, apenas conseguía mantener todo a flote.",
+      "exampleZh": "同时打三份工，她勉强才能把一切都撑持住。"
+    },
+    {
+      "expression": "cosechar éxitos",
+      "type": "colocación",
+      "translation": "收获成功、斩获佳绩",
+      "usage": "cosechar（收割）与 éxitos、frutos、satisfacciones 等正面名词搭配，构成固定表达，强调努力之后的丰厚回报，是新闻、励志和体育报道中的高频搭配，不可随意替换为 ganar 或 obtener。",
+      "exampleEs": "Tras años de esfuerzo, el equipo empezó a cosechar éxitos en los campeonatos internacionales.",
+      "exampleZh": "经过多年努力，这支队伍开始在国际赛事中斩获佳绩。"
+    },
+    {
+      "expression": "el doble estándar",
+      "type": "colocación",
+      "translation": "双重标准",
+      "usage": "doble estándar 是社会评论和新闻文体中的高频固定搭配，指对不同群体（常为男女）采用不同评判标准的现象，也可说 doble rasero，两者可互换，是性别议题讨论中的核心词汇。",
+      "exampleEs": "Existe un doble estándar evidente: cuando un hombre es ambicioso se le admira, pero cuando lo es una mujer se le critica.",
+      "exampleZh": "存在一种明显的双重标准：男人有野心会被钦佩，女人有野心却会被批评。"
+    }
+  ]
+}

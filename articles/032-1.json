@@ -1,0 +1,287 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "语言与文化",
+  "difficulty": "C1",
+  "wordCount": "约750词",
+  "title": "Ojo, el 'artificiañol' se contagia",
+  "subtitle": "警惕，『人工西班牙语』正在蔓延",
+  "resumenEs": "La autora alerta sobre el impacto de la inteligencia artificial en el español: los textos generados por IA, llenos de calcos sintácticos del inglés, están creando un híbrido empobrecido al que llama 'artificiañol'. Este fenómeno no solo deforma el estilo, sino también el pensamiento, y se propaga como una epidemia lingüística.",
+  "resumenZh": "作者警告人工智能对西班牙语造成的冲击：AI生成的文本充斥着从英语照搬的句法结构，正在催生一种她称之为『人工西班牙语』的混杂劣化语言。这一现象不仅扭曲文风，更腐蚀思维，如同一场语言瘟疫般蔓延。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Por todas partes veo <strong>bazofia</strong>, esos textos producidos por la inteligencia artificial (IA) que avanzan como una epidemia: es la peste del lenguaje. Me topo con ese lenguaje <strong>promediado</strong>, <strong>lábil</strong>, sin nervio. Lo encuentro en un correo, en un artículo de prensa, ¡en un libro! El gran problema de la bazofia, incluso si una no la produce, es que no podemos evitar leerla: estamos rodeados.",
+      "zh": "我到处都能看到『垃圾文字』——那些由人工智能生成的文本如瘟疫般蔓延，这是语言的鼠疫。我不断撞见那种平庸化的、软弱无力的、毫无生气的语言。在邮件里、在新闻文章里、甚至在书里！垃圾文字最大的问题在于，即便你自己不生产它，也无法避免阅读它：我们已经被包围了。",
+      "vocab": [
+        {
+          "word": "bazofia",
+          "translation": "垃圾、劣质东西",
+          "note": "原指『猪食、泔水』，引申为质量低劣的文字或作品，语气强烈带有鄙视色彩，属口语化贬义词，在文学批评语境中常用来形容毫无价值的内容。"
+        },
+        {
+          "word": "promediado",
+          "translation": "平均化的、平庸化的",
+          "note": "由 promediar（取平均值）派生而来，此处指语言被『均质化』，失去个性与棱角，是作者对AI文本风格的核心批评词。"
+        },
+        {
+          "word": "lábil",
+          "translation": "不稳定的、软弱的、无力的",
+          "note": "注意与英语 labile 是同源词，但在西语中更常用于形容性格软弱或表达无力，在心理学和文学批评中均有使用，属B2-C1正式词汇。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "La peste del lenguaje me trae ecos de la covid: la tranquilidad de dar negativo en un test apenas duraba un rato. Con la IA, ya no nos basta saber que no la usamos. Todos sufrimos el riesgo constante de que la bazofia se nos <strong>infiltre</strong> al respirar. Estoy desarrollando un olfato especial, un detector de bazofia. Cada día <strong>afino el oído</strong>, porque las aplicaciones de detección de IA fallan a menudo. Mi estado de lectora se ha convertido en estado de alerta, lo que ya es un <strong>fastidio</strong>. Pero hay más.",
+      "zh": "这场语言瘟疫让我想起新冠：检测阴性带来的安心感转瞬即逝。面对AI，仅仅知道自己没有使用它已经不够了。我们所有人都面临着垃圾文字随呼吸渗入的持续风险。我正在培养一种特殊的嗅觉，一个垃圾探测器。我每天都在磨砺耳力，因为AI检测应用程序经常出错。我作为读者的状态已经变成了一种警戒状态，这本身就够烦人的了。但还不止于此。",
+      "vocab": [
+        {
+          "word": "infiltre",
+          "translation": "渗透、潜入",
+          "note": "infiltrarse 是反身动词，表示『悄悄渗入』，常用于政治、军事或比喻语境，如 infiltrarse en una organización（渗透进某组织），比 entrar 更强调隐蔽性。"
+        },
+        {
+          "word": "afino el oído",
+          "translation": "磨砺耳力、锤炼听觉辨别力",
+          "note": "afinar 本义为『调音、使精准』，afinar el oído 是固定搭配，意为『练就敏锐的听觉/辨别力』，可迁移至 afinar la vista（锐化眼力）、afinar el instinto（磨砺直觉）等。"
+        },
+        {
+          "word": "fastidio",
+          "translation": "烦恼、令人厌烦的事",
+          "note": "注意假朋友陷阱：fastidio 与英语 fastidious（挑剔的）毫无关联，西语中它表示『烦恼、厌烦』，动词形式 fastidiar 意为『烦扰、惹恼』。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "La prosa de la máquina no solo <strong>contagia</strong> el estilo, sino también la mirada. No es solo ese lenguaje sin <strong>aristas</strong> y promediado lo que adquieren quienes escriben con IA, es también su vacío, y lo más desolador: esa visión corporativa y <strong>mecanicista</strong> de la vida.",
+      "zh": "机器的文风不仅传染风格，也传染视角。使用AI写作的人所习得的，不只是那种没有棱角、平庸化的语言，还有其中的空洞，以及最令人沮丧的：那种对生活的企业化、机械化的看法。",
+      "vocab": [
+        {
+          "word": "contagia",
+          "translation": "传染、感染",
+          "note": "contagiar 既可用于疾病，也可用于情绪、习惯、风格等抽象事物的『传染』，如 contagiar el entusiasmo（传递热情），是本文贯穿始终的核心隐喻动词。"
+        },
+        {
+          "word": "aristas",
+          "translation": "棱角、尖锐之处",
+          "note": "arista 字面意思是几何体的『棱』，比喻用法指文章或个性的『锋芒、个性』，sin aristas 即『没有棱角、圆滑平庸』，是文学批评中的常见表达。"
+        },
+        {
+          "word": "mecanicista",
+          "translation": "机械论的、机械化的",
+          "note": "由 mecánico + 后缀 -ista 构成，-ista 可构成大量表示『主义者/倾向』的形容词，如 materialista、idealista、consumista，掌握此后缀可举一反三。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Entre las estructuras que <strong>delatan</strong>, ha cobrado popularidad la epanortosis, o sea, la frase \"No es X, es Y\", que corrige lo que se acaba de decir. El lema que <strong>acuñó</strong> el 15-M en 2011 —\"no es una crisis, es una estafa\"—, no podría gritarse ahora en las calles sin exponerse a la crítica por ceder a las máquinas el lenguaje de la protesta. He aquí el nudo: las estructuras son humanas, proceden de nuestros textos, pero la IA abusa de ellas. No es que hasta ahora nadie usara la epanortosis, sino que la IA la multiplica <strong>ad nauseam</strong>.",
+      "zh": "在那些暴露AI身份的句式中，『顶针纠正』（epanortosis）已经大行其道，也就是『不是X，而是Y』这种对刚说过的话进行纠正的句式。2011年『五月十五日运动』喊出的口号——『这不是危机，是诈骗』——如今若再上街呼喊，恐怕难逃把抗议的语言拱手让给机器的批评。症结就在这里：这些句式本是人类的，源自我们自己的文本，但AI却滥用它们。并非从前没有人使用顶针纠正，而是AI将它无限复制，直至令人作呕。",
+      "vocab": [
+        {
+          "word": "delatan",
+          "translation": "暴露、出卖（秘密）",
+          "note": "delatar 本义为『告发、检举』，引申为『暴露、泄露』某人的秘密或身份，如 su acento lo delató（他的口音出卖了他），比 revelar 更强调无意间的暴露。"
+        },
+        {
+          "word": "acuñó",
+          "translation": "创造（词语/口号）、铸造",
+          "note": "acuñar 本义是『铸造硬币』，引申为『创造新词或新表达』，acuñar un término / un lema 是新闻和学术文体中的高频固定搭配，值得重点记忆。"
+        },
+        {
+          "word": "ad nauseam",
+          "translation": "令人作呕地、无休止地重复",
+          "note": "源自拉丁语，意为『直到恶心』，在西语正式文体和新闻评论中常用，表示某事被过度重复，语气带有强烈的批判和厌倦色彩。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Para hispanohablantes, no obstante, el más grave peligro reside en otra parte: los modelos de lenguaje están entrenados con textos en inglés de forma <strong>abrumadora</strong>. Cuando ChatGPT te habla en español, a menudo usa estructuras sintácticas que son altamente probables en la lengua de Shakespeare, pero no en la nuestra. Así se está generando un <strong>engendro</strong>: el artificiañol, esa lengua que usa palabras del español pero introduce numerosas estructuras sintácticas del inglés.",
+      "zh": "然而，对西班牙语使用者而言，最严重的危险藏在别处：语言模型的训练语料以英语文本为绝对主体。当ChatGPT用西班牙语与你交流时，它频繁使用的句法结构在莎士比亚的语言中概率极高，在我们的语言中却并非如此。于是一个怪胎就此诞生：『人工西班牙语』——一种使用西班牙语词汇、却大量引入英语句法结构的语言。",
+      "vocab": [
+        {
+          "word": "abrumadora",
+          "translation": "压倒性的、绝对主导的",
+          "note": "abrumador/a 来自动词 abrumar（压垮、使不堪重负），常与 mayoría、cantidad、ventaja 搭配，如 una mayoría abrumadora（压倒性多数），是新闻文体高频词。"
+        },
+        {
+          "word": "engendro",
+          "translation": "怪胎、畸形产物",
+          "note": "engendro 字面指『（丑陋的）生物/胎儿』，比喻义为『畸形的、令人厌恶的产物』，语气强烈带有贬义，常用于批评某种混乱或失败的创造物。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "La IA genera constantemente <strong>calcos</strong> sintácticos. Un ejemplo simple: si le digo a alguien \"mi nombre es Irene\", me entenderá, pero esa estructura no es genuina del español; en castellano se dice \"me llamo Irene\". Los calcos sintácticos han existido siempre, entonces, ¿cuál es el problema específico y urgente de esta hora? En esencia, son dos. Que la IA los multiplica hasta el infinito y que nos los infiltra por todas partes. Primero <strong>deforma</strong> y <strong>desarticula</strong> la sintaxis propia del español, después nos la repite tanto que llegamos a sentirla como familiar, aunque sea una estructura del inglés mal injertada en nuestra sintaxis.",
+      "zh": "AI不断生成句法『仿造词』。举一个简单的例子：如果我对某人说『mi nombre es Irene（我的名字是Irene）』，对方能听懂，但这个结构并非西班牙语的本真表达；在卡斯蒂利亚语中应该说『me llamo Irene（我叫Irene）』。句法仿造现象古已有之，那么，当下这个问题的特殊性和紧迫性究竟在哪里？本质上有两点：AI将其无限复制，并将其从四面八方渗透给我们。它先是扭曲、瓦解西班牙语固有的句法，随后不断重复，直到我们开始觉得那些结构似乎理所当然——尽管那不过是一段被拙劣嫁接进我们句法的英语结构。",
+      "vocab": [
+        {
+          "word": "calcos",
+          "translation": "仿造词、语言借译",
+          "note": "calco 在语言学中专指『仿译/借译』，即按照外语结构逐字翻译而成的表达，如英语 skyscraper → 西语 rascacielos，区别于直接借词（préstamo），是语言学习中的重要概念。"
+        },
+        {
+          "word": "deforma",
+          "translation": "扭曲、使变形",
+          "note": "前缀 de- 在此表示『破坏、逆转』，deformar = de-（破坏）+ formar（塑造），同类构词还有 desarticular、descomponer、degradar，掌握 de-/des- 前缀可大量扩词。"
+        },
+        {
+          "word": "desarticula",
+          "translation": "瓦解、拆散",
+          "note": "desarticular 字面意思是『使脱节、拆解关节』，比喻义为『瓦解、打乱某个系统或结构』，常用于政治、语言、组织等语境，如 desarticular una red criminal（瓦解犯罪网络）。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Como tengo afinado el detector de bazofia, los encuentro por doquier. Recibo un correo de alguien que se despide diciéndome: \"Déjame saber si…\", una <strong>traducción literal</strong> de \"let me know\", que en español <strong>traduciríamos</strong> por \"avísame si…\". O alguien me contesta \"sin problema\", porque traduce \"no problem\", allí donde el español diría simplemente \"vale\", esa preciosa palabra que cierra el mundo de Don Quijote. O nos aseguran que tal decisión va a \"hacer una diferencia\", cuando lo que hará en todo caso es <strong>marcarla</strong>.",
+      "zh": "由于我的垃圾探测器已经调校精准，我到处都能发现它们。我收到某人的邮件，对方以『Déjame saber si…（让我知道如果……）』作为结尾，这是英语『let me know』的字面直译，在西班牙语中我们会说『avísame si…（告诉我如果……）』。或者有人回复我『sin problema（没问题）』，因为他在翻译英语的『no problem』，而西班牙语在那种场合只需说一个『vale（好的）』——那个封存着堂吉诃德世界的珍贵词语。又或者有人向我们保证某个决定将会『make a difference（有所不同）』，但西班牙语中真正该用的表达是『marcar la diferencia（产生影响）』。",
+      "vocab": [
+        {
+          "word": "traducción literal",
+          "translation": "字面直译",
+          "note": "固定搭配，与 traducción libre（意译）相对，在语言学和翻译讨论中高频出现，literal 注意不要误解为『字面上』就一定正确，此处恰恰是批评字面直译导致的错误。"
+        },
+        {
+          "word": "traduciríamos",
+          "translation": "我们会翻译为……",
+          "note": "条件式（condicional simple）的第一人称复数形式，此处用于表达『在西班牙语中我们通常会这样说』的委婉建议语气，条件式在新闻和评论文体中常用于表达推断或礼貌建议。"
+        },
+        {
+          "word": "marcarla",
+          "translation": "产生影响、留下印记",
+          "note": "marcar la diferencia（产生影响/与众不同）是西班牙语固定搭配，不可替换为 hacer una diferencia，后者是英语 make a difference 的错误直译，正是本文批评的典型calco。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Otro caso muy visible es el uso del <strong>gerundio</strong>, que tiene muchos aspectos. Mencionaré sólo un uso, típico del eslogan publicitario: \"Tendiendo puentes\", \"uniendo personas\", ya sabes a qué me refiero. El español prefiere el <strong>infinitivo</strong> en esos contextos. Y sí, ya se usaba antes, pero con la IA <strong>prolifera</strong>, supongo que por algún motivo relacionado con la visión del mundo de Silicon Valley, marketera y publicitaria, que suele desdeñar la expresión lírica, filosófica o literaria.",
+      "zh": "另一个非常显眼的例子是副动词（gerundio）的使用，这个问题涉及诸多方面。我只提其中一种用法，典型于广告口号：『架设桥梁』、『连接人与人』，你知道我指的是什么。西班牙语在这类语境中更倾向于使用不定式。是的，这种用法以前也存在，但随着AI的介入它大量扩散，我猜这与硅谷的世界观有关——那种营销式、广告式的世界观，往往对抒情的、哲学的或文学的表达嗤之以鼻。",
+      "vocab": [
+        {
+          "word": "gerundio",
+          "translation": "副动词（西语语法术语）",
+          "note": "西语 gerundio 对应英语的 present participle（-ing形式），但用法差异极大：西语 gerundio 不能作定语修饰名词（如英语的 a running man），这是中高级学习者的常见错误点。"
+        },
+        {
+          "word": "infinitivo",
+          "translation": "不定式",
+          "note": "西语不定式（infinitivo）在口号、标题、指令等语境中的使用频率远高于英语，如 Prohibido fumar、Comer bien es vivir mejor，这是西语句法的重要特征，与英语习惯不同。"
+        },
+        {
+          "word": "prolifera",
+          "translation": "大量扩散、激增",
+          "note": "proliferar 来自拉丁语，意为『大量繁殖/扩散』，常用于描述负面事物的蔓延，如 proliferar las fake news，比 aumentar 语气更强，带有失控蔓延的含义。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "El artificiañol parece español, pero es una lengua <strong>alienada</strong> con la sintaxis del inglés-IA (a su vez otro engendro). El artificiañol se caracteriza asimismo por <strong>prescindir de</strong> las ricas estructuras propias del castellano, pues la IA apenas las registra en su cálculo de probabilidades. Como el castellano es una lengua <strong>flexiva</strong>, nuestra frase es más libre: las palabras llevan marcada su función y gracias a eso, podemos moverlas con alegría por toda la frase, para enfatizar, por ejemplo. Cuando leo un texto que repite de forma cansina la estructura verbo+ sujeto+ predicado, una y otra vez, salta la alarma de mi detector de bazofia, que detecta la monotonía sintáctica del inglés infectando nuestra lengua en silencio. Del subjuntivo hablamos otro día…",
+      "zh": "『人工西班牙语』看起来像西班牙语，实则是一种被英语-AI句法（本身也是另一个怪胎）异化的语言。『人工西班牙语』的另一个特征是摒弃卡斯蒂利亚语丰富的固有结构，因为AI在其概率计算中几乎不将它们纳入考量。由于卡斯蒂利亚语是一种屈折语，我们的句子结构更为自由：词语本身携带着功能标记，正因如此，我们可以自由地在句中移动它们，例如用于强调。每当我读到一篇文章不厌其烦地重复『动词+主语+谓语』结构时，我的垃圾探测器警报就会响起——它察觉到英语的句法单调性正在悄无声息地侵蚀我们的语言。虚拟式的问题，改天再谈……",
+      "vocab": [
+        {
+          "word": "alienada",
+          "translation": "异化的、疏离的",
+          "note": "alienado/a 来自 alienar（使异化/疏离），是哲学和社会学的核心词汇，源自马克思主义的『异化』概念，注意与英语 alien（外星人）同源但含义不同，此处指语言失去本真性。"
+        },
+        {
+          "word": "prescindir de",
+          "translation": "摒弃、放弃、不使用",
+          "note": "prescindir de 是固定搭配，后接名词，意为『舍弃、不依赖某物』，如 prescindir de un empleado（裁员）、prescindir del coche（不开车），是B2以上正式文体常用表达。"
+        },
+        {
+          "word": "flexiva",
+          "translation": "屈折的（语言学术语）",
+          "note": "lengua flexiva 指通过词形变化（屈折）来表达语法关系的语言，西语属此类，词尾变化携带性、数、格等信息，与英语（分析语）形成对比，是理解西语句法自由度的关键概念。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "El artificiañol es dañino porque genera <strong>imprecisión</strong> y vaguedad, además de <strong>hurtarnos</strong> recursos propios de nuestra lengua. La frase es determinante para el estilo, pero no menos para el <strong>raciocinio</strong>: la sintaxis es el esqueleto del alma. Su uso torpe tiene consecuencias estéticas y cognitivas: \"Si el pensamiento corrompe el lenguaje, el lenguaje también puede corromper el pensamiento\", nos advirtió Orwell.",
+      "zh": "『人工西班牙语』有害，因为它制造模糊与含混，还剥夺了我们语言固有的表达资源。句子对于文风至关重要，对于推理同样不可或缺：句法是灵魂的骨架。拙劣的句法使用会带来美学与认知的双重后果：『如果思想腐化语言，语言同样可以腐化思想』，奥威尔如此警告我们。",
+      "vocab": [
+        {
+          "word": "imprecisión",
+          "translation": "不精确、模糊",
+          "note": "前缀 im-（= in-）表示否定，imprecisión = im-（否定）+ precisión（精确），同类构词：impuntual、imposible、imparcial，掌握 im-/in- 否定前缀可快速理解大量词汇。"
+        },
+        {
+          "word": "hurtarnos",
+          "translation": "偷走、剥夺（我们的）",
+          "note": "hurtar 本义为『偷窃』，与 robar 的区别在于 hurtar 强调悄悄地、不知不觉地拿走，此处比喻AI在不知不觉中剥夺了我们的语言资源，语气比 privar 更具文学色彩。"
+        },
+        {
+          "word": "raciocinio",
+          "translation": "推理能力、理性思考",
+          "note": "raciocinio 指运用逻辑进行推理的能力，比 razón（理性）更强调过程性的推理行为，属C1正式书面词汇，常见于哲学、教育类文本，不要与 racismo 混淆。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Por eso acabo <strong>implorando</strong>: no escribas con IA (ni siquiera un correo). Es como tosernos encima, como arrojarnos tus <strong>miasmas</strong> en la boca. No contribuyas a infectar la lengua. No extiendas el virus.",
+      "zh": "因此，我最终要恳求：不要用AI写作（哪怕只是一封邮件）。这就像对着我们咳嗽，把你的瘴气喷进我们口中。不要助长语言的感染。不要传播这个病毒。",
+      "vocab": [
+        {
+          "word": "implorando",
+          "translation": "恳求、哀求",
+          "note": "implorar 比 pedir（请求）或 rogar（恳请）语气更强烈，带有近乎绝望的哀求色彩，常用于文学或正式演讲的情感高潮处，前缀 im- 此处来自拉丁语，表示强化语气。"
+        },
+        {
+          "word": "miasmas",
+          "translation": "瘴气、有毒气体",
+          "note": "miasma 是历史医学术语，指古人认为会传播疾病的『瘴气』，现多用于文学比喻，指有害的、腐败的氛围或影响，语气古雅，在正式文体中使用可增强修辞效果。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "dar negativo en un test",
+      "type": "colocación",
+      "translation": "检测结果呈阴性",
+      "usage": "dar positivo / negativo 是医疗和日常语境中描述检测结果的固定搭配，不可替换为 tener 或 salir（尽管 salir positivo 也存在），在新冠疫情后这一搭配使用频率极高。",
+      "exampleEs": "Después de tres días con fiebre, por fin dio negativo en el test de gripe.",
+      "exampleZh": "发烧三天后，他的流感检测终于呈阴性了。"
+    },
+    {
+      "expression": "ha cobrado popularidad",
+      "type": "colocación",
+      "translation": "已经流行起来、获得了广泛关注",
+      "usage": "cobrar + 抽象名词 是新闻文体的高频固定搭配，表示某事物逐渐获得某种特质，如 cobrar importancia（变得重要）、cobrar fuerza（势头增强）、cobrar vida（焕发生机），比 ganar 更正式。",
+      "exampleEs": "En los últimos años, el teletrabajo ha cobrado una importancia enorme en todo el mundo.",
+      "exampleZh": "近年来，远程办公在全球范围内变得愈发重要。"
+    },
+    {
+      "expression": "por doquier",
+      "type": "expresión coloquial",
+      "translation": "到处、四处",
+      "usage": "por doquier 是 por todas partes 的文学化/正式说法，多见于书面语和文学文本，口语中更常用 por todas partes 或 en todas partes，使用 por doquier 可使文章语气更典雅。",
+      "exampleEs": "Tras el concierto, había basura por doquier en el parque.",
+      "exampleZh": "音乐会结束后，公园里到处都是垃圾。"
+    },
+    {
+      "expression": "acuñar un término",
+      "type": "colocación",
+      "translation": "创造一个新词/术语",
+      "usage": "acuñar 与 término、palabra、concepto、lema、expresión 等搭配，专指『首创某个词语或表达』，是学术写作和新闻文体的高频搭配，不可替换为 inventar（发明）或 crear（创造）。",
+      "exampleEs": "Fue el filósofo quien acuñó el término 『hiperconectividad』 para describir nuestra era digital.",
+      "exampleZh": "正是这位哲学家创造了『超连接』这一术语来描述我们的数字时代。"
+    },
+    {
+      "expression": "tosernos encima",
+      "type": "modismo",
+      "translation": "对着我们咳嗽（比喻将有害之物强加于人）",
+      "usage": "字面意思是『对着某人咳嗽』，在本文语境中作为比喻，指将AI生成的劣质文字强行传播给他人，如同传播病菌，带有强烈的厌恶和谴责语气，属于生动的口语化比喻。",
+      "exampleEs": "Mandarme ese artículo lleno de errores es como tosernos encima: nos contagias tu descuido.",
+      "exampleZh": "把那篇错误百出的文章发给我，就像对着我们咳嗽——把你的粗心大意传染给我们。"
+    }
+  ]
+}
