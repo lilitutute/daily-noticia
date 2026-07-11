@@ -1,0 +1,217 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会与文化",
+  "difficulty": "C1",
+  "wordCount": "约750词",
+  "title": "Hablar sobre la delgadez extrema de las famosas",
+  "subtitle": "谈论名人的极端消瘦",
+  "resumenEs": "La autora reflexiona sobre el dilema de hablar o callar ante el regreso de la delgadez extrema entre las celebridades, impulsado por el uso del Ozempic. Argumenta que el pacto tácito de no criticar el cuerpo ajeno, aunque nació para proteger, no debe convertirse en silencio cómplice ante un fenómeno con graves consecuencias para la salud mental de adolescentes y mujeres jóvenes.",
+  "resumenZh": "作者就是否应该公开讨论名人极端消瘦现象进行了深入反思。这一现象在司美格鲁肽（Ozempic）的广泛使用下愈发明显。她认为，女性之间不评论他人身材的默契虽然出发点是保护彼此，但不应演变为对一个严重影响青少年和年轻女性心理健康现象的沉默共谋。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Las mujeres jóvenes intentamos mantener un <strong>pacto tácito</strong> en redes sociales desde hace varios años: no criticamos el cuerpo de las demás. Digo mujeres porque muchos hombres siguen publicando comentarios sexuales o despectivos, y digo intentamos porque, lamentablemente, la gordofobia se confunde a veces con preocupación por la salud ajena.",
+      "zh": "多年来，年轻女性一直试图在社交网络上维持一种默契：不评论彼此的身材。我说女性，是因为许多男性仍在发表带有性意味或贬低性的评论；我说试图，是因为遗憾的是，对肥胖的歧视有时会被混淆为对他人健康的关切。",
+      "vocab": [
+        {
+          "word": "pacto tácito",
+          "translation": "默契、不成文的协议",
+          "note": "tácito 意为『不言而喻的、心照不宣的』，pacto tácito 是新闻和社会评论中的高频搭配，指无需明文规定、大家心知肚明的共识，比 acuerdo implícito 更正式。"
+        },
+        {
+          "word": "despectivos",
+          "translation": "贬低的、轻蔑的",
+          "note": "despectivo 指带有轻视或贬低意味的，常修饰 comentario、tono、actitud 等词，注意与 despreciativo（更强烈的鄙视）区分，前者语气相对较轻。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "En cualquier caso, el acuerdo es bonito. Una estrategia mundial para cuidarnos de contribuir al <strong>linchamiento</strong> público al que han sido sometidas tantas famosas después de décadas de escrutinio en revistas y alfombras rojas.",
+      "zh": "无论如何，这个约定是美好的。这是一种全球性的策略，让我们避免参与对众多名人的公开『私刑』——她们在杂志和红毯上经历了数十年的审视之后，已经饱受这种折磨。",
+      "vocab": [
+        {
+          "word": "linchamiento",
+          "translation": "私刑、公开围攻",
+          "note": "linchamiento 本指私刑处决，在媒体和网络语境中引申为对某人的集体公开攻击和舆论围剿，是社会评论中的高频比喻用法。"
+        },
+        {
+          "word": "escrutinio",
+          "translation": "审视、严格审查",
+          "note": "escrutinio 指对某人或某事进行仔细、严格的检查或审视，常用于政治（escrutinio electoral）或媒体语境，比 examen 更正式，带有被动承受的含义。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "La alianza se ha <strong>tambaleado</strong> durante los últimos meses. La delgadez vuelve a estar en el centro del debate en internet. Los efectos del uso del Ozempic y derivados son evidentes; muchas actrices y cantantes han adelgazado mucho y el péndulo del canon de belleza ha regresado a las aspiraciones del heroin chic de los noventa, después de años de trabajo fallido del movimiento body positive.",
+      "zh": "这一联盟在过去几个月里已经开始动摇。消瘦再次成为网络争论的中心。司美格鲁肽及其衍生药物的使用效果显而易见；许多女演员和歌手大幅减重，在身体积极运动多年努力付之东流之后，美的标准钟摆又摆回了九十年代『海洛因美学』的审美追求。",
+      "vocab": [
+        {
+          "word": "tambaleado",
+          "translation": "动摇、摇摇欲坠",
+          "note": "tambalear(se) 本义指身体或物体摇晃不稳，比喻义指某种关系、制度或信念开始动摇，常见搭配有 tambalear el sistema、tambalear la confianza。"
+        },
+        {
+          "word": "canon",
+          "translation": "标准、规范",
+          "note": "canon 在艺术和文化语境中指被普遍认可的标准或典范，canon de belleza（审美标准）是固定搭配，注意不要与英语 cannon（大炮）混淆。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Twitter, Instagram y TikTok se han llenado de cientos de vídeos que comentan directamente el cuerpo de todas aquellas estrellas hollywoodienses que han perdido peso durante los últimos dos años. Comparan sus caras y sus cuerpos con los de antes. <strong>¿Qué está pasando?</strong>, se preguntan los usuarios. ¿Y ahora qué hacemos? ¿Lo hablamos, o no lo hablamos? Es una discusión recurrente en las plataformas; algunas chicas defienden que cada cual es libre de hacer lo que quiera con su cuerpo; otras señalan lo que consideran es ya un <strong>retroceso</strong> y un problema de salud pública.",
+      "zh": "推特、Instagram 和 TikTok 上充斥着数百个视频，直接评论那些在过去两年里减重的好莱坞明星的身材，将她们现在的脸和身体与从前进行对比。『这是怎么了？』用户们纷纷发问。那我们现在该怎么办？谈，还是不谈？这是各平台上反复出现的讨论；一些女孩认为每个人都有权自由支配自己的身体；另一些人则指出，她们认为这已经是一种『倒退』和公共卫生问题。",
+      "vocab": [
+        {
+          "word": "retroceso",
+          "translation": "倒退、退步",
+          "note": "retroceso 由 retro-（向后）+ -ceso（走）构成，指在某一进程上的退步，常用于社会、政治或科学语境，对应的动词是 retroceder。"
+        },
+        {
+          "word": "recurrente",
+          "translation": "反复出现的、周期性的",
+          "note": "recurrente 指某事反复出现或循环发生，常用于描述话题、症状或模式，如 tema recurrente、problema recurrente，比 repetitivo 更正式。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Yo creo que la norma de no hablar del cuerpo de las demás se <strong>concibió</strong> para protegernos de la crueldad, no para perpetuar el desgaste psicológico de las mujeres y permitir que cayéramos de nuevo en la espiral de las exigencias estéticas.",
+      "zh": "我认为，不谈论他人身材的规范，当初是为了保护我们免受残酷对待而设立的，而不是为了延续对女性的心理消耗，也不是为了让我们再次陷入审美要求的漩涡。",
+      "vocab": [
+        {
+          "word": "concibió",
+          "translation": "构想、设立",
+          "note": "concebir 在抽象语境中指『构想、设计、提出』某一想法或制度，se concibió para 是常见句型，意为『最初是为了……而设立的』，比 se creó 更强调主观意图。"
+        },
+        {
+          "word": "perpetuar",
+          "translation": "使延续、使永久化",
+          "note": "perpetuar 指使某种状态或现象持续存在，常用于批评性语境，如 perpetuar desigualdades、perpetuar estereotipos，语气比 mantener 更强，带有负面含义。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "El silencio no es <strong>inocuo</strong>. En estos momentos, las mujeres más visibles del planeta proyectan una imagen corporal que millones de adolescentes consumen como referencia estética. Todos esos cuerpos lanzan un mensaje colectivo cada vez que aparecen en nuestras pantallas: <strong>Me he querido a mí misma, pero me gusto más estando muy delgada</strong>.",
+      "zh": "沉默并非无害。此刻，这个星球上最受瞩目的女性正在投射出一种身体形象，数百万青少年将其作为审美参照消费着。每当这些身体出现在我们的屏幕上，就传递出一个集体信息：『我曾经爱过自己，但极度消瘦的我让我更喜欢自己。』",
+      "vocab": [
+        {
+          "word": "inocuo",
+          "translation": "无害的、无毒的",
+          "note": "inocuo 指对健康或安全不构成威胁的，常用于食品、药物或行为描述，其反义词 nocivo（有害的）在新闻中更为常见，两者均为B2以上词汇。"
+        },
+        {
+          "word": "proyectan",
+          "translation": "投射、传递（形象）",
+          "note": "proyectar 在媒体和文化语境中指『传递、呈现某种形象或印象』，如 proyectar una imagen de seguridad，比 mostrar 更强调主动塑造和对外输出的意味。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Podemos hablar sobre el elefante en la habitación. Tenemos que ser capaces de definir un fenómeno global, y no creo que la preocupación pueda <strong>equipararse</strong> al odio. No decir nada en nombre del respeto puede terminar convirtiéndose, paradójicamente, en una manera de normalizar aquello que nadie se atreve a denunciar para no parecer maleducado o woke de más. Callar no nos va a ayudar a compensar el poder esta vez.",
+      "zh": "我们可以谈论房间里的大象。我们必须能够定义一个全球性现象，我也不认为关切可以与仇恨相提并论。以尊重之名什么都不说，最终可能反而——矛盾的是——成为一种使某些无人敢于揭露之事正常化的方式，只因为怕显得没有教养或过于『觉醒』。这一次，沉默无法帮助我们抗衡那股力量。",
+      "vocab": [
+        {
+          "word": "equipararse",
+          "translation": "相提并论、等同于",
+          "note": "equiparar(se) 指将两者视为同等或相当，常用于否定句 no puede equipararse a，强调两者不可混为一谈，比 compararse 更强调价值或地位上的对等。"
+        },
+        {
+          "word": "paradójicamente",
+          "translation": "矛盾地、自相矛盾地",
+          "note": "paradójicamente 是副词，用于指出某一结果与预期相悖，是新闻和学术写作中的高频逻辑连接词，常置于句首或插入语位置。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Muchos de los vídeos de quienes han hablado se han hecho virales. <strong>Cosechan</strong> cientos de miles de likes e infinidad de comentarios. La gente se hace preguntas: <strong>¿Por qué siempre volvemos a lo mismo, el estar en paz con nosotras mismas fue un espejismo?</strong>. Otras personas se quejan: <strong>No quiero que mi prima crezca pensando que va a tener que matarse de hambre</strong>. Y otras se desesperan: <strong>Tampoco quiero ser la única de mis amigas que se quede con su cuerpo no flaco</strong>.",
+      "zh": "许多发声者的视频已经病毒式传播，收获了数十万个点赞和无数评论。人们开始发问：『为什么我们总是回到原点，与自己和解不过是一场幻觉？』另一些人抱怨道：『我不想让我的表妹在成长过程中认为自己必须把自己饿死。』还有人感到绝望：『我也不想成为朋友圈里唯一一个保留着不苗条身材的人。』",
+      "vocab": [
+        {
+          "word": "Cosechan",
+          "translation": "收获、赢得",
+          "note": "cosechar 本义为『收割庄稼』，比喻义指获得成果或反响，cosechar éxitos / aplausos / likes 是新闻中的固定搭配，语气积极，带有努力后得到回报的含义。"
+        },
+        {
+          "word": "espejismo",
+          "translation": "幻觉、海市蜃楼",
+          "note": "espejismo 本指沙漠中的海市蜃楼，比喻那些看似真实却转瞬即逝的希望或信念，在社会评论中常用于形容某种进步被证明是虚假的。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "El diálogo nos hace sentir menos solas. Muchas chicas podrán descubrir que no son las únicas que vuelven a compararse con el cuerpo adolescente que habían esperado dejar de <strong>perseguir</strong>. Otras nos damos cuenta de que, por mucho feminismo que leamos —y por muy ricas y famosas que seamos—, siempre sentiremos el impulso de querer ocupar menos espacio.",
+      "zh": "对话让我们感到不那么孤独。许多女孩会发现，她们并不是唯一一个又开始拿自己与那个本以为已经不再追逐的青春期身材作比较的人。另一些人则意识到，无论读了多少女权主义著作——无论多么富有或出名——我们始终会感受到那种想要占据更少空间的冲动。",
+      "vocab": [
+        {
+          "word": "perseguir",
+          "translation": "追逐、追求",
+          "note": "perseguir 除了字面的『追赶』之外，还有『执着追求某目标』的含义，此处指对某种身体形象的执念，dejar de perseguir 意为『放弃追逐』，是情感类文章的高频表达。"
+        },
+        {
+          "word": "impulso",
+          "translation": "冲动、驱动力",
+          "note": "impulso 指一种难以抑制的内在驱动或冲动，sentir el impulso de + 动词原形 是固定搭配，比 ganas 更强调无意识的、本能性的驱动。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Los trastornos de la conducta alimentaria constituyen uno de los problemas de salud mental con mayor impacto entre adolescentes y mujeres jóvenes, y no dejan de crecer. Antes de la pandemia afectaban aproximadamente al 5% de la población femenina y hoy esa cifra se sitúa entre el 8% y el 10%. La anorexia nerviosa continúa siendo uno de los trastornos psiquiátricos con mayor <strong>tasa de mortalidad</strong>. No creo que ignorar el problema vaya a <strong>revertir</strong> ninguna de estas cifras. De hecho, no creo que la conversación tenga que ser exclusivamente femenina. Creo que es incumbencia de todos, pequeños y mayores, chicos y chicas.",
+      "zh": "饮食失调是对青少年和年轻女性影响最大的心理健康问题之一，且持续增长。疫情前，它影响着约5%的女性人口，如今这一数字已攀升至8%至10%之间。神经性厌食症仍然是死亡率最高的精神疾病之一。我不认为无视这个问题能够逆转上述任何一项数据。事实上，我认为这场对话不应该只是女性之间的事。我认为这是所有人的责任，无论老幼，无论男女。",
+      "vocab": [
+        {
+          "word": "tasa de mortalidad",
+          "translation": "死亡率",
+          "note": "tasa 在统计语境中专指『率、比率』，tasa de mortalidad（死亡率）、tasa de desempleo（失业率）、tasa de natalidad（出生率）是新闻中的核心固定搭配。"
+        },
+        {
+          "word": "revertir",
+          "translation": "逆转、使回归",
+          "note": "revertir 指使某种趋势或状况回到之前的状态，revertir una tendencia / una situación 是正式文体中的高频搭配，注意不要与英语 revert（回复）的用法完全对应。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "el elefante en la habitación",
+      "type": "modismo",
+      "translation": "房间里的大象（众所周知却无人提及的问题）",
+      "usage": "源自英语 the elephant in the room，指一个显而易见却被刻意回避的问题或事实，语气带有批评性，常用于新闻评论和社会议题讨论中。",
+      "exampleEs": "La corrupción institucional es el elefante en la habitación del que nadie quiere hablar en campaña electoral.",
+      "exampleZh": "制度性腐败是选举期间无人愿意触碰的那头房间里的大象。"
+    },
+    {
+      "expression": "cosechar likes",
+      "type": "colocación",
+      "translation": "收获点赞",
+      "usage": "cosechar 本义为收割，与 éxitos、aplausos、críticas、likes 等词搭配，形成固定比喻，指在某领域获得大量反响，语气生动，常见于媒体和网络语境。",
+      "exampleEs": "Su último vídeo cosechó miles de comentarios en pocas horas.",
+      "exampleZh": "她的最新视频在几小时内就收获了数千条评论。"
+    },
+    {
+      "expression": "matarse de hambre",
+      "type": "expresión coloquial",
+      "translation": "把自己饿死、拼命节食",
+      "usage": "口语化夸张表达，指为了减肥而极度节食，带有强烈的批判或担忧语气，常用于非正式对话或情感类文章中，强调行为的极端性和自我伤害性。",
+      "exampleEs": "No tiene sentido matarse de hambre para entrar en ese vestido.",
+      "exampleZh": "为了穿上那条裙子把自己饿死，实在没有意义。"
+    },
+    {
+      "expression": "ocupar menos espacio",
+      "type": "expresión coloquial",
+      "translation": "占据更少空间（指压缩自我存在感）",
+      "usage": "在女权主义话语中，ocupar espacio 既指物理上的身体空间，也比喻在社会中的存在感和话语权，querer ocupar menos espacio 暗指女性被社会规训为要缩小自我，是当代社会评论中的高频隐喻表达。",
+      "exampleEs": "Desde pequeña me enseñaron a no molestar, a ocupar menos espacio, a no levantar la voz.",
+      "exampleZh": "从小我就被教导不要添麻烦，要缩小自己的存在，不要大声说话。"
+    }
+  ]
+}

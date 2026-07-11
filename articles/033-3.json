@@ -1,0 +1,372 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "文化与社会",
+  "difficulty": "C1",
+  "wordCount": "约1800词",
+  "title": "Cultura Ozempic: la obsesión por la belleza y la juventud llega al cine, las series y los libros",
+  "subtitle": "奥泽匹克（司美格鲁肽）文化：对美貌与青春的痴迷蔓延至电影、剧集与书籍",
+  "resumenEs": "El auge del Ozempic y fármacos similares simboliza una nueva economía corporal que exige delgadez, juventud y perfección como imperativos morales. El cine, las series, las exposiciones y la literatura contemporánea reflejan esta obsesión a través del body horror y ensayos críticos, denunciando cómo el capitalismo tardío ha convertido el cuerpo en un proyecto de optimización permanente, con consecuencias especialmente graves para las mujeres.",
+  "resumenZh": "奥泽匹克（司美格鲁肽）及同类药物的兴起，象征着一种将纤瘦、青春与完美视为道德律令的新型身体经济。当代电影、剧集、展览与文学通过『身体恐怖』类型和批判性随笔折射出这一痴迷，揭示晚期资本主义如何将身体变成永无止境的优化工程，对女性造成尤为深重的影响。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Cada época ha imaginado su cuerpo ideal. La nuestra, además, nos exige alcanzarlo para conservar un mínimo de valor como individuos. Hace años que asistimos al regreso de la delgadez extrema, el culto a la juventud y la belleza sin <strong>mácula</strong> como imperativos morales de nuestro tiempo. El Ozempic, junto con otros fármacos de la familia de los GLP-1, utilizados inicialmente para tratar la diabetes y la obesidad, se ha convertido en menos de un <strong>lustro</strong> en el emblema de una nueva economía corporal. Medicamentos inyectables para perder peso, tratamientos antiedad, dosis regulares de bótox, ácido hialurónico o esperma de salmón, así como filtros y otras tecnologías de la imagen, prometen corregir cualquier <strong>desviación</strong> respecto a la nueva norma social. Desde la pandemia, cuando la inquietud sanitaria se instaló en el centro de la vida cotidiana, el discurso se acerca a lo totalitario, promocionado por esos poderosos órganos de propaganda que son las redes.",
+      "zh": "每个时代都有其想象中的理想身体。而我们这个时代，更进一步要求我们去实现它，否则便难以维持作为个体的最低价值。多年来，我们目睹了极度纤瘦、青春崇拜以及无瑕之美作为当代道德律令的强势回归。奥泽匹克与其他GLP-1类药物——最初用于治疗糖尿病和肥胖症——在不到五年的时间里，已成为一种新型身体经济的象征。注射类减肥药、抗衰老疗程、定期注射肉毒素、玻尿酸或鲑鱼精子，以及各类滤镜和图像技术，承诺纠正任何偏离新社会规范的身体状态。自疫情以来，当健康焦虑占据了日常生活的核心，这种话语愈发趋近于极权主义，并借助社交网络这一强大的宣传机器广泛传播。",
+      "vocab": [
+        {
+          "word": "mácula",
+          "translation": "污点、瑕疵",
+          "note": "mácula 是书面语和正式文体用词，指道德或外表上的『污点』，sin mácula 意为『无瑕、完美无缺』，常见于宗教和文学语境，比 mancha 更正式，具有更强的道德色彩。"
+        },
+        {
+          "word": "lustro",
+          "translation": "五年",
+          "note": "lustro 专指『五年』这一时间单位，是西语中较为正式的书面词汇，在新闻和历史文体中常用，如 en menos de un lustro（不到五年），注意不要与 lustre（光泽）混淆。"
+        },
+        {
+          "word": "desviación",
+          "translation": "偏差、偏离",
+          "note": "desviación 来自 desviar（使偏离），在社会学和医学语境中常指对『规范』的偏离，带有被评判的含义，desviación respecto a la norma（偏离规范）是社会评论文体的高频固定搭配。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "El Ozempic es un medicamento adelgazante, pero también el símbolo de una nueva era en la que el cuerpo se entiende —aún más que en el pasado, que ya es decir— como un lugar <strong>perfeccionable</strong> hasta el agotamiento. Belleza, juventud y delgadez siempre han sido signos de virtud: <strong>vehiculan</strong> valores como la disciplina, el autocontrol, la fuerza de voluntad o incluso el poder adquisitivo. En el capitalismo tardío, se les suman nuevos significados: un cuerpo aceptable dice que su propietario ha sabido administrarse a sí mismo. Un cuerpo cansado, arrugado, con sobrepeso o de contornos poco normativos, en cambio, se interpreta como síntoma de una <strong>gestión</strong> deficiente.",
+      "zh": "奥泽匹克是一种减肥药，但也是一个新时代的象征——在这个时代，身体被理解为一个可以无限完善的场所，比过去有过之而无不及，这已经是很高的标准了。美貌、青春与纤瘦历来都是美德的符号：它们承载着纪律、自控、意志力乃至购买力等价值观念。在晚期资本主义中，这些符号又被赋予了新的含义：一个『合格』的身体表明其主人懂得管理自我。而一个疲惫的、布满皱纹的、超重的或轮廓不够规范的身体，则被解读为管理不善的症状。",
+      "vocab": [
+        {
+          "word": "perfeccionable",
+          "translation": "可完善的、可改进的",
+          "note": "后缀 -able/-ible 表示『可以被……的』，perfeccionable = perfeccionar（完善）+ -able，同类构词如 mejorable（可改善的）、corregible（可纠正的），掌握此后缀可快速构造和理解大量形容词。"
+        },
+        {
+          "word": "vehiculan",
+          "translation": "承载、传递、传达",
+          "note": "vehicular 来自 vehículo（载体/车辆），意为『作为载体传递某种内容或价值观』，是新闻和学术文体的高频词，比 transmitir 更强调『以某物为媒介』的传递过程。"
+        },
+        {
+          "word": "gestión",
+          "translation": "管理、经营",
+          "note": "gestión 在商业语境中指『经营管理』，但在本文中延伸为对自身身体和生活的『自我管理』，buena/mala gestión（良好/不善管理）是新闻和社会评论的高频搭配，体现新自由主义话语对个体的要求。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "La cultura de nuestro tiempo ha absorbido este cambio de temperatura. Abundan las obras que pueden interpretarse como <strong>parábolas</strong> de la cultura del Ozempic y fármacos similares, incluso cuando fueron concebidas antes de su popularización masiva. En su mayoría, son lamentos expresionistas por cuerpos enfermos por su deseo de delgadez, sus fantasías de juventud eterna y una <strong>pulsión</strong> permanente por la comparación con otros cuerpos. De eso hablan películas recientes como La sustancia, de Coralie Fargeat, que en 2024 convirtió la ansiedad por el paso del tiempo y la perfección corporal en materia prima de una fábula cruel donde una estrella televisiva despedida al alcanzar la madurez, interpretada por una alucinante Demi Moore, prueba una droga experimental que genera una versión más joven, tersa y comercialmente rentable de sí misma.",
+      "zh": "我们时代的文化已经吸收了这一温度变化。大量作品可以被解读为奥泽匹克文化及同类药物的寓言，即便它们在这类药物大规模普及之前便已构思成型。这些作品大多是对身体的表现主义式哀叹——那些被对纤瘦的渴望、对永恒青春的幻想以及与他人身体永无止境的比较所侵蚀的身体。近年来的电影中，科拉莉·法尔雅的《某种物质》便是如此：这部2024年的影片将对时光流逝和身体完美的焦虑转化为一则残酷寓言的原材料——一位在步入成熟后遭到解雇的电视明星，由令人叹为观止的黛米·摩尔饰演，她尝试了一种实验性药物，从而生成了一个更年轻、更紧致、在商业上更具价值的自我。",
+      "vocab": [
+        {
+          "word": "parábolas",
+          "translation": "寓言、比喻性故事",
+          "note": "parábola 在文学中指通过故事传递道德或哲学寓意的『寓言』，与 fábula（寓言故事，通常有动物角色）有所区别：parábola 更强调人类处境的隐喻，常见于宗教和文学批评语境。"
+        },
+        {
+          "word": "pulsión",
+          "translation": "冲动、驱力",
+          "note": "pulsión 是心理学术语，对应弗洛伊德的『驱力』（德语 Trieb），指内在的、难以抑制的心理冲动，比 impulso 更具学术色彩，在文化批评和心理分析语境中高频出现。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "En un territorio similar se mueve A Different Man, de Aaron Schimberg, donde un actor con neurofibromatosis se somete a un tratamiento experimental para transformar su rostro, hasta adoptar los atractivos rasgos de Sebastian Stan, sin que la desaparición de su <strong>deformación</strong> facial resuelva ninguna de sus inseguridades. Club Zero, de Jessica Hausner, está protagonizada por una profesora de un internado de élite que convierte la llamada \"alimentación consciente\", <strong>eufemismo</strong> de la simple y llana privación, en una doctrina de austeridad y pureza. La hermanastra fea, de Emilie Blichfeldt, estrenada en los cines tras su paso por el Festival de Sitges, es una relectura en clave de body horror de Cenicienta donde el imperativo de belleza exige someterse a tratamientos atroces. Y Los feos, largometraje estrenado en Netflix, es una terrorífica <strong>distopía</strong> donde la cirugía estética se vuelve obligatoria a partir de la adolescencia.",
+      "zh": "亚伦·施姆伯格的《另一个男人》也探索着类似的领域：一位患有神经纤维瘤病的演员接受实验性治疗来改变面貌，直至拥有塞巴斯蒂安·斯坦那般迷人的五官，但面部畸形的消失并未解决他任何一项内心的不安全感。杰西卡·豪斯纳的《零号俱乐部》以一所精英寄宿学校的女教师为主角，她将所谓的『正念饮食』——不过是简单粗暴的节食的委婉说法——变成了一套禁欲与纯洁的教义。艾米莉·布利希费尔特的《丑姐姐》在锡切斯电影节亮相后登陆院线，是对灰姑娘故事以『身体恐怖』为基调的重新演绎，其中美貌的律令要求人们忍受骇人的治疗。而奈飞出品的《丑人》则是一部令人不寒而栗的反乌托邦作品，在那个世界里，整形手术从青春期起便成为强制要求。",
+      "vocab": [
+        {
+          "word": "deformación",
+          "translation": "畸形、变形",
+          "note": "deformación 来自 deformar（使变形），前缀 de- 表示破坏，可指身体的畸形，也可指抽象意义上的扭曲，如 deformación profesional（职业病式的思维定势），注意这一固定搭配的比喻用法。"
+        },
+        {
+          "word": "eufemismo",
+          "translation": "委婉语、婉辞",
+          "note": "eufemismo 指用温和表达替代直接或刺耳说法的修辞手法，如用 pasar a mejor vida 代替 morir，在新闻批评和社会分析中常用于揭示语言背后的权力操控，是C1级重要修辞术语。"
+        },
+        {
+          "word": "distopía",
+          "translation": "反乌托邦",
+          "note": "distopía 由前缀 dis-（坏、异常）+ topos（地方）构成，与 utopía（乌托邦）相对，指想象中秩序崩坏的未来社会，是当代文化批评和科幻文学的核心词汇，前缀 dis- 还见于 disfunción、disgusto 等词。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "A ellas se suma Insaciable, que llegará a los cines a finales de julio, película australiana de terror donde una estudiante de Medicina obsesionada con adelgazar descubre un nuevo medicamento hecho de cenizas humanas. También la televisión empieza a traducir esta inquietud. The Beauty es una serie creada por Ryan Murphy, siempre atento a los excesos del presente, que imagina una enfermedad de transmisión sexual que vuelve físicamente perfectas a las personas infectadas, aunque con un efecto secundario un tanto <strong>inconveniente</strong>: ese virus primero embellece, pero luego mata.",
+      "zh": "加入这一行列的还有《贪得无厌》，这部澳大利亚恐怖片将于七月底上映，讲述一名痴迷于减肥的医学生发现了一种由人类骨灰制成的新药。电视领域也开始呈现这种焦虑。《美丽》是瑞恩·墨菲创作的剧集——他向来对当下的种种过激现象保持敏锐——想象了一种性传播疾病，被感染者会在外貌上趋于完美，但有一个颇为不便的副作用：这种病毒先让人变美，然后将人杀死。",
+      "vocab": [
+        {
+          "word": "inconveniente",
+          "translation": "不便的、麻烦的；副作用、不便之处",
+          "note": "inconveniente 既可作形容词（不便的），也可作名词（不便之处、缺点），此处作形容词修饰 efecto secundario，注意与英语 inconvenient 是同源词，含义基本一致，但西语中名词用法更为常见。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Mientras tanto, la exposición El culto a la belleza, en el CCCB de Barcelona, se acerca durante todo el verano a esta obsesión desde una perspectiva histórica. La muestra propone un recorrido por la evolución de los ideales de belleza, la construcción de los <strong>cánones</strong> estéticos y la <strong>reivindicación</strong> de cuerpos excluidos de la norma. Su tesis es que el arte y la cultura visual han servido durante siglos para construir y publicitar esos cánones, y que hoy esos ideales se reactivan en redes, alfombras rojas y otros <strong>tentáculos</strong> de la cultura popular. Sus efectos no son abstractos: una vuelta radical de la gordofobia y el edadismo, si es que alguna vez se marcharon, sumada a una presión estética que recae sobre todo en las mujeres, aunque tampoco excluya a los hombres.",
+      "zh": "与此同时，巴塞罗那当代文化中心的展览《美的崇拜》整个夏天都将从历史视角审视这一痴迷。展览提供了一段关于美貌理想演变、审美规范建构以及对被排斥于规范之外的身体的重新主张的旅程。其核心论点是：几个世纪以来，艺术与视觉文化一直在建构和宣扬这些规范，而如今这些理想在社交网络、红毯以及流行文化的其他触角中重新激活。其影响并非抽象：对肥胖的恐惧和对年龄的歧视强势回归——如果它们曾经离开过的话——加之一种主要压在女性身上、但也不完全将男性排除在外的审美压力。",
+      "vocab": [
+        {
+          "word": "cánones",
+          "translation": "规范、标准、典范",
+          "note": "canon（复数 cánones）在艺术和文化语境中指被公认的『审美标准或典范』，在宗教语境中指『教规』，在音乐中指『卡农』，是一词多义的重要词汇，需根据语境判断含义。"
+        },
+        {
+          "word": "reivindicación",
+          "translation": "主张、争取权利、正名",
+          "note": "reivindicación 来自 reivindicar（主张权利/为……正名），在社会运动和政治语境中高频出现，如 reivindicación de derechos（权利主张），比 reclamación 更强调对被剥夺之物的积极争取。"
+        },
+        {
+          "word": "tentáculos",
+          "translation": "触角、触手（比喻影响力的延伸）",
+          "note": "tentáculo 字面指章鱼等生物的『触手』，比喻义指某种力量或组织向各处延伸的『触角』，在新闻和政治评论中常用于描述权力或文化的渗透，语气带有负面的控制意味。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "\"El miedo al envejecimiento, a la grasa o a la transformación del cuerpo no es un fenómeno nuevo, pero hoy aparece <strong>revestido</strong> de nuevas tecnologías y de un lenguaje de elección individual que a menudo oculta las estructuras de poder que lo sostienen\", responden las comisarias Júlia Llull y Blanca Arias. Su exposición recuerda que, a lo largo de la historia del arte, la belleza se ha asociado a la proporción, la armonía y la virtud. Esa equivalencia se reforzó con la <strong>irrupción</strong> de la moral judeocristiana, cuando la belleza dejó de ser una simple cualidad estética para convertirse también en un indicador de rectitud. Mientras, la fealdad, la deformidad o la diferencia eran signos de desorden, pecado o <strong>desviación</strong>.",
+      "zh": "『对衰老、脂肪或身体变化的恐惧并非新现象，但如今它披上了新技术的外衣，以及一种个人选择的话语，而这种话语往往掩盖了支撑它的权力结构』，策展人胡利娅·柳尔和布兰卡·阿里亚斯如此回应。她们的展览提醒我们，纵观艺术史，美貌始终与比例、和谐与美德相关联。这种等同关系随着犹太-基督教道德观的强势介入而得到强化——美貌从此不再只是一种审美特质，也成为了正直品行的指标。与此同时，丑陋、畸形或差异则被视为混乱、罪孽或偏差的标志。",
+      "vocab": [
+        {
+          "word": "revestido",
+          "translation": "披上……外衣、包裹着",
+          "note": "revestir（de）意为『以……覆盖、披上……外衣』，常用于比喻某事物以新的形式或话语包装自身，如 revestido de legitimidad（披着合法性的外衣），是政治和文化评论的高频表达。"
+        },
+        {
+          "word": "irrupción",
+          "translation": "强势介入、突然闯入",
+          "note": "irrupción 来自 irrumpir（闯入、突然出现），指某种力量或现象的突然且强势的出现，la irrupción de（……的强势介入/突然登场）是新闻文体的高频固定搭配，比 aparición 更强调冲击性。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Por eso, no es casual que la figura del monstruo haya vuelto con tanta fuerza al <strong>imaginario</strong> contemporáneo. \"En un momento en que la presión sobre los cuerpos se intensifica a través de la cultura de la imagen, las tecnologías de modificación corporal y la noción de optimización del cuerpo, el monstruo emerge como la figura que encarna todo aquello que el canon intenta expulsar\", dicen las comisarias. Lo demuestra Elisasue, la criatura híbrida de La sustancia, tierna y patética como cualquier humano, entre otros ejemplos recientes de body horror, convertido no por casualidad en la estética de moda en el terror: \"Es un subgénero que expresa las angustias de una cultura que exige intervenir constantemente sobre la propia carne para mantenerla joven, productiva, delgada y deseable\".",
+      "zh": "因此，怪物形象以如此强劲的姿态重返当代想象空间，并非偶然。『在身体所承受的压力通过图像文化、身体改造技术以及身体优化理念不断强化的时刻，怪物作为一种形象浮现出来，它承载着一切规范试图驱逐的东西』，策展人说道。《某种物质》中的混合生物埃利萨苏——像任何人类一样既温柔又可悲——便是明证，这也是近年来『身体恐怖』诸多案例之一。这一类型并非偶然成为恐怖美学的流行趋势：『这是一个亚类型，它表达了一种文化的焦虑——这种文化要求人们不断干预自己的肉身，使其保持年轻、高效、纤瘦和令人心动。』",
+      "vocab": [
+        {
+          "word": "imaginario",
+          "translation": "想象空间、集体想象",
+          "note": "imaginario 作名词时指一个文化或时代共同的『想象体系、意象库』，如 imaginario colectivo（集体想象）、imaginario cultural（文化想象），是文化研究和文学批评的核心术语，不要与形容词 imaginario（想象的、虚构的）混淆。"
+        },
+        {
+          "word": "encarna",
+          "translation": "体现、化身为",
+          "note": "encarnar 字面意思是『化为肉身』（en- + carne），引申为『体现、化身为某种抽象概念』，如 encarnar un ideal（体现一种理想），比 representar 更强调深度融合，是文学和哲学批评的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "En ese sentido, el Ozempic no es tanto una anomalía como un signo de los tiempos. \"Revela que el canon sigue <strong>resistiéndose</strong> a desaparecer\", afirman las comisarias. Aunque su exposición recuerde, con un <strong>ápice</strong> de optimismo, que ningún dogma estético dura para siempre: \"Aunque la norma se presente como natural, inmutable o inevitable, es tan frágil como cualquier construcción histórica. Lo que ha sido construido también puede ser <strong>desmontado</strong>\".",
+      "zh": "从这个意义上说，奥泽匹克与其说是一种异常，不如说是时代的征兆。『它揭示了规范仍在抗拒消失』，策展人说道。尽管她们的展览带着一丝乐观提醒我们，没有任何审美教条能永久持续：『尽管规范将自身呈现为自然的、不可改变的或不可避免的，但它和任何历史建构一样脆弱。被建构起来的，也可以被拆解。』",
+      "vocab": [
+        {
+          "word": "resistiéndose",
+          "translation": "抗拒、抵制",
+          "note": "resistirse a + 动词原形 是固定搭配，意为『抗拒做某事』，如 resistirse a cambiar（抗拒改变），注意与 resistir（承受、抵抗）的区别：resistirse 强调主动拒绝，而 resistir 更强调承受压力。"
+        },
+        {
+          "word": "ápice",
+          "translation": "一丝、一点点",
+          "note": "ápice 字面指『顶点、尖端』，在口语和书面语中常用于否定或弱化表达，如 ni un ápice（一丝都没有）、con un ápice de（带着一点点……），是表达细微程度的精准词汇。"
+        },
+        {
+          "word": "desmontado",
+          "translation": "被拆解、被推翻",
+          "note": "desmontar 本义为『拆卸机器』，比喻义为『拆解、推翻某种论点、制度或神话』，如 desmontar un mito（打破神话）、desmontar un argumento（推翻论点），是新闻和学术批评的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "En las librerías tiene lugar una conversación muy parecida. El monumental ensayo Grasa. Una historia cultural de la materia de la vida, de Christopher E. Forth, reconstruye la larga <strong>genealogía</strong> occidental de la aversión a la gordura y recuerda que, pese a lo que rezan algunos lugares comunes, el recelo ante el cuerpo rollizo atraviesa la historia desde la antigüedad clásica, asociado al exceso, la animalidad, la suciedad, la <strong>aporofobia</strong> y la sospecha moral. Aunque el propio autor admite que el fenómeno alcanza nuevas cuotas en la actualidad. \"La dieta, el ejercicio, los tratamientos o los fármacos forman parte de un mantenimiento invisible que casi se ha convertido en una obligación del sujeto neoliberal\", sostiene Forth.",
+      "zh": "书店里也在进行着一场极为相似的对话。克里斯托弗·E·福思那部鸿篇巨制《脂肪：生命物质的文化史》重建了西方对肥胖厌恶的漫长谱系，并提醒我们，尽管某些老生常谈另有说法，对圆润身体的戒惧自古典时代起便贯穿历史，与过度、动物性、肮脏、仇穷以及道德怀疑相关联。尽管作者本人也承认，这一现象在当下达到了新的高度。『节食、运动、疗程或药物，都是一种几乎已成为新自由主义主体义务的隐形维护的组成部分』，福思说道。",
+      "vocab": [
+        {
+          "word": "genealogía",
+          "translation": "谱系、起源脉络",
+          "note": "genealogía 本指家族的『族谱』，在学术和文化批评中引申为某种思想、现象或概念的『历史谱系与起源脉络』，是福柯式批判理论的核心方法论词汇，常见于哲学和历史学文本。"
+        },
+        {
+          "word": "aporofobia",
+          "translation": "仇穷、对穷人的恐惧与厌恶",
+          "note": "aporofobia 由希腊语 áporos（贫穷的）+ phobia（恐惧）构成，指对穷人的歧视与厌恶，由西班牙哲学家阿德拉·科尔蒂纳创造，是近年来西语社会讨论中的重要新词，属C1以上社会学词汇。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "El historiador sitúa el origen de esta obsesión corporal en los orígenes del cine. \"La aparición del primer plano cinematográfico hizo que el rostro se volviera más <strong>escrutable</strong>: sus rasgos y defectos quedaban ampliados. Al mismo tiempo, convirtió a las estrellas de cine en nuevos modelos de salud y belleza\", expresa. \"Con los filtros de las redes sociales, convertidos en las estrellas de nuestras propias películas, podemos corregir nuestra imagen, parecernos por un momento a una versión mejorada de nosotros mismos y, después, intentar que el cuerpo real se acerque a ese <strong>selfi</strong> retocado\".",
+      "zh": "这位历史学家将这种身体痴迷的起源追溯至电影诞生之初。『电影特写镜头的出现使面孔变得更易被审视：面部特征和瑕疵被放大呈现。与此同时，它将电影明星变成了健康与美貌的新标杆』，他说道。『借助社交网络的滤镜，我们成了自己电影里的明星，可以修正自己的形象，短暂地接近一个更好版本的自己，然后再努力让真实的身体去靠近那张经过修饰的自拍。』",
+      "vocab": [
+        {
+          "word": "escrutable",
+          "translation": "可被审视的、可被解读的",
+          "note": "escrutable 来自 escrutar（仔细审视、审查），后缀 -able 表示『可以被……的』，注意其反义词 inescrutable（深不可测的、难以解读的）在文学和哲学中更为常用，如 una mirada inescrutable（深不可测的眼神）。"
+        },
+        {
+          "word": "selfi",
+          "translation": "自拍",
+          "note": "selfi 是英语 selfie 的西班牙语官方规范写法，由西班牙皇家语言学院收录，注意西语将其西化拼写为 selfi，复数为 selfis，这是西语吸收英语外来词并加以规范化的典型案例。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Su libro encuentra un anexo contemporáneo en una serie de títulos que observan la delgadez y la belleza como campos de batalla marcados por la violencia social. Manual para romper un cuerpo, de Lara Gil, parte de una experiencia de cirugía <strong>bariátrica</strong> para desmontar la promesa de que adelgazar basta para reparar una vida. Cinco lorzas metafísicas, de María von Touceda, rechaza en registro combativo la obligación de corregir el sobrepeso. El breve ensayo Dame veneno que quiero vivir, de Leticia Sala, se adentra en la industria del skincare, el miedo a envejecer y la <strong>normalización</strong> de la retórica antiedad. Y Las niñas bonitas no pagan dinero, de Clara Nuño, lleva esa presión al terreno de la ficción: el mandato de belleza heredado de madres a hijas y los <strong>estragos</strong> provocados por la exposición en redes desde la más tierna edad.",
+      "zh": "他的书在一系列将纤瘦与美貌视为充满社会暴力的战场的当代作品中找到了注脚。拉拉·希尔的《毁坏一个身体的手册》从一段减重手术的亲身经历出发，拆解了『减肥就足以修复一段人生』这一承诺。玛丽亚·冯·图塞达的《五块形而上学的赘肉》以战斗性的笔调拒绝了纠正超重的义务。莱蒂西亚·萨拉的短篇随笔《给我毒药，我要活着》深入探讨了护肤产业、对衰老的恐惧以及抗衰话语的正常化。克拉拉·努尼奥的《漂亮女孩不用付钱》则将这种压力带入虚构领域：从母亲传递给女儿的美貌律令，以及从最幼小的年纪起便暴露于社交网络所造成的创伤。",
+      "vocab": [
+        {
+          "word": "bariátrica",
+          "translation": "减重的、肥胖症治疗的",
+          "note": "bariátrica 来自希腊语 baros（重量），cirugía bariátrica 是『减重手术』的医学术语，包括胃旁路手术等，在当代健康讨论中出现频率日益增加，了解此词有助于阅读医疗和社会类新闻。"
+        },
+        {
+          "word": "normalización",
+          "translation": "正常化、使之成为常态",
+          "note": "normalización 来自 normalizar（使正常化），在社会批评语境中常指某种原本不寻常的现象被逐渐接受为常态，带有批判性含义，如 normalización de la violencia（暴力的正常化），是社会学高频词。"
+        },
+        {
+          "word": "estragos",
+          "translation": "创伤、严重破坏、巨大损害",
+          "note": "estrago（常用复数 estragos）指造成的严重破坏或损害，causar/provocar estragos 是固定搭配，意为『造成严重破坏』，可用于战争、疾病、情感或社会影响等语境，语气强烈。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "Son títulos que demuestran el <strong>arraigo</strong> de la presión estética y corporal en la nueva literatura española, especialmente en la firmada por mujeres. \"El cuerpo ya estaba presente en la obra de muchas autoras anteriores. Lo que ha cambiado es que determinadas experiencias corporales de las mujeres, y la relación con el propio cuerpo, ya no se consideran asuntos menores ni poco universales\", apunta Rosario Villajos. Su novela, ambientada en los primeros años noventa, seguía a Catalina, una adolescente que atraviesa ese preciso momento en que una mujer pierde el control sobre su propio cuerpo: cuando empieza a ser observado, juzgado y también deseado por otros.",
+      "zh": "这些作品证明了审美与身体压力在西班牙新文学中的深深扎根，尤其是在女性作家的作品中。『身体早已存在于许多前辈女作家的作品之中。改变的是，女性某些身体经验以及与自身身体的关系，如今不再被视为次要或缺乏普遍性的议题』，罗萨里奥·比利亚霍斯指出。她的小说以九十年代初为背景，跟随卡塔利娜——一个正经历那个精确时刻的少女：一个女人开始失去对自己身体的掌控，当它开始被他人观看、评判，也被渴望的时候。",
+      "vocab": [
+        {
+          "word": "arraigo",
+          "translation": "根深蒂固、深深扎根",
+          "note": "arraigo 来自 arraigar（生根），指某种现象、习惯或价值观在社会或文化中的『深度扎根』，tener arraigo（根深蒂固）和 de profundo arraigo（深深扎根的）是新闻和社会评论的高频搭配。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "Las mujeres que fueron adolescentes en los años noventa crecieron, recuerda Villajos, con un ideal de delgadez muy exigente. La presión estética cuenta hoy con canales de comunicación todavía más poderosos. \"Antes, el ideal de belleza llegaba a través de revistas, televisión o publicidad; ahora llega a través de una pantalla que no se apaga nunca. Antes, el ideal era casi imposible de alcanzar; ahora parece que además existe la obligación de <strong>perseguirlo</strong>. Vivimos en una época en la que se nos dice que, si no estamos delgadas, jóvenes o atractivas, es porque no nos hemos esforzado lo suficiente\", analiza la escritora. \"La belleza ha dejado de percibirse como algo que se tiene o no se tiene para convertirse en una <strong>responsabilidad</strong> individual. Como si hoy no ser joven, delgada o atractiva fuera, sobre todo, un fracaso personal\".",
+      "zh": "比利亚霍斯提醒我们，那些在九十年代度过青春期的女性，是在一种极为苛刻的纤瘦理想中长大的。如今的审美压力拥有更为强大的传播渠道。『以前，美貌理想通过杂志、电视或广告传递；现在，它通过一块永不熄灭的屏幕传递。以前，那个理想几乎不可能实现；现在，似乎还多了一重追求它的义务。我们生活在一个被告知：如果你不够纤瘦、年轻或迷人，那是因为你努力不够的时代』，这位作家分析道。『美貌已不再被视为一种拥有或不拥有的特质，而是变成了一种个人责任。仿佛如今不年轻、不纤瘦、不迷人，首先是一种个人的失败。』",
+      "vocab": [
+        {
+          "word": "perseguirlo",
+          "translation": "追求它、追逐它",
+          "note": "perseguir 本义为『追赶、追捕』，引申为『追求某个目标』，perseguir un ideal / un objetivo（追求一种理想/目标）是固定搭配，注意与 buscar（寻找）的区别：perseguir 更强调主动且持续的追逐过程。"
+        },
+        {
+          "word": "responsabilidad",
+          "translation": "责任、义务",
+          "note": "responsabilidad 在本文语境中体现了新自由主义话语的核心逻辑：将社会结构性问题转化为个人责任，这种用法在社会批评文本中极为常见，理解此词的意识形态含义对阅读当代西语评论至关重要。"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "es": "Esta cultura de la optimización produce cuerpos deseables, pero también otros castigados y excluidos, en especial si no son normativos. En ese territorio se sitúa Gorda sinvergüenza, de Aida González Rossi, un ensayo que aborda la <strong>gordofobia</strong> desde el lenguaje. Su punto de partida es esa palabra usada históricamente como insulto, pero también la posibilidad de <strong>habitarla</strong> de otro modo, despojándola en parte de su carga despectiva y convirtiéndola en una identidad posible, como otros han hecho con marica o bollera. Aunque González Rossi tampoco idealiza el ciclo anterior de diversidad corporal. \"El discurso body positive, tan visible entre 2016 y 2021, encierra muchas trampas. Al final lo que hace es crear otro canon de belleza\", afirma. \"Eso nos lleva a pensar mucho en nuestras apariencias. Y al capitalismo le interesa mucho que hagamos eso, por eso este discurso ha estado tan absorbido por el sistema\".",
+      "zh": "这种优化文化制造出令人心动的身体，但也制造出被惩罚和排斥的身体，尤其是那些不符合规范的身体。艾达·冈萨雷斯·罗西的随笔《无耻的胖子》便处于这一领域，从语言角度切入对肥胖恐惧的探讨。其出发点是那个历史上被用作侮辱的词，但也探讨了以另一种方式栖居其中的可能性——部分剥除其贬义色彩，将其转化为一种可能的身份认同，正如其他人对『娘炮』或『蕾丝边』所做的那样。不过，冈萨雷斯·罗西也并不美化此前的身体多元化浪潮。『身体正能量话语在2016年至2021年间非常显眼，但其中暗藏许多陷阱。它最终做的，是创造了另一种美貌规范』，她说道。『这让我们花大量时间思考自己的外表。而资本主义非常乐于见到我们这样做，这就是为什么这种话语被系统如此彻底地吸收。』",
+      "vocab": [
+        {
+          "word": "gordofobia",
+          "translation": "对肥胖的恐惧与歧视、仇胖",
+          "note": "gordofobia 由 gordo（胖）+ -fobia（恐惧/厌恶）构成，是近年来西语社会讨论中的重要新词，指对超重或肥胖者的系统性歧视，后缀 -fobia 还见于 homofobia、xenofobia 等社会议题词汇。"
+        },
+        {
+          "word": "habitarla",
+          "translation": "栖居其中、以……为家",
+          "note": "habitar 本义为『居住、栖居』，在哲学和文化批评中引申为『以某种方式与某个概念、身份或空间共存』，habitarla de otro modo（以另一种方式栖居其中）是当代身份政治讨论中的高频隐喻表达。"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "es": "¿Hasta dónde llegará el fenómeno? La película The End of It, rodada en Londres por la directora catalana Maria Martínez Bayona y presentada en el Festival de Cannes, imagina un futuro en el que envejecer puede tratarse médicamente y morir se ha vuelto opcional. Su protagonista tiene 250 años, se renueva la sangre gracias a una máquina y ha sustituido sus huesos por materiales más resistentes. En su relato, la noción de edad ha sido <strong>abolida</strong>. \"Aunque la película se sitúe en un futuro, no estamos tan lejos de esa realidad\", sostiene la directora. \"Hoy ya hay madres e hijas que parecen, de forma casi <strong>bizarra</strong>, de la misma edad. La medicina ha logrado cosas que antes sonaban a ciencia ficción, y existe un debate real sobre cuál es nuestro límite biológico\".",
+      "zh": "这一现象将走向何方？加泰罗尼亚导演玛丽亚·马丁内斯·巴约纳在伦敦拍摄、并在戛纳电影节亮相的影片《它的终结》，想象了一个衰老可以通过医疗手段加以治疗、死亡已成为可选项的未来。主角已有250岁，借助机器更新血液，并将骨骼替换为更坚固的材料。在这个故事里，年龄的概念已被废除。『尽管电影设定在未来，但我们离那个现实并不遥远』，导演说道。『如今已经有母女看起来年龄几乎一样，这有些令人称奇。医学已经实现了以前听起来像科幻小说的事情，而关于我们生物极限的真实讨论正在进行。』",
+      "vocab": [
+        {
+          "word": "abolida",
+          "translation": "被废除、被废止",
+          "note": "abolir 是废除法律、制度或概念的正式用词，如 abolir la esclavitud（废除奴隶制），比 eliminar 更强调对某种制度性存在的彻底废除，是法律和历史文本的高频词。"
+        },
+        {
+          "word": "bizarra",
+          "translation": "奇异的、令人称奇的",
+          "note": "注意假朋友陷阱：bizarro/a 在西班牙语中意为『奇异的、怪诞的』，而非英语 bizarre 的完全对应（尽管含义相近），更需注意的是在拉丁美洲西语中 bizarro 有时仍保留『英勇的』古义，需根据地区和语境判断。"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "es": "Martínez Bayona escribió el guion antes de que el Ozempic llegara a las masas, aunque estas preguntas ya estaban en el aire desde hacía mucho tiempo. \"La idea de encontrar un elixir de la eterna juventud es tan antigua como nosotros, pero en los últimos cinco o seis años el foco sobre la <strong>longevidad</strong> ha crecido mucho. Se está creando toda una industria, con gurús como Bryan Johnson, que afirma que va a vivir para siempre\". La cultura del Ozempic no es solo un dogma de la delgadez, sino también uno que se opone a cualquier señal de deterioro y posible <strong>finitud</strong>. \"No sé si llegaremos a vivir 250 años, pero no me cabe duda de que se va a intentar\", sostiene la directora. Sus palabras recuerdan, en una variante bastante menos grotesca, a la famosa confesión de Kim Kardashian en 2022. Preguntada sobre qué haría si le dijeran que ingerir excrementos cada mañana la haría parecer más joven, respondió: \"Puede que lo hiciera. Puede que sí\". Horror corporal, decíamos, aunque cada vez haya menos necesidad de recurrir a los efectos especiales.",
+      "zh": "马丁内斯·巴约纳在奥泽匹克走进大众视野之前便写下了这个剧本，尽管这些问题早已在空气中悬浮已久。『寻找永葆青春灵药的想法和我们人类一样古老，但在过去五六年里，对长寿的关注急剧增长。一整个产业正在形成，有布莱恩·约翰逊这样的大师声称自己将永生』。奥泽匹克文化不仅仅是一种纤瘦的教条，也是一种对抗任何衰退迹象和可能的有限性的教条。『我不知道我们是否能活到250岁，但我毫不怀疑人们会去尝试』，导演说道。她的话让人想起金·卡戴珊2022年的那段著名表白，只是以一种远没有那么怪诞的方式。当被问及如果有人告诉她每天早上吃排泄物能让她看起来更年轻她会怎么做时，她回答：『我可能会这样做。也许真的会。』身体恐怖，我们说过，尽管越来越不需要借助特效了。",
+      "vocab": [
+        {
+          "word": "longevidad",
+          "translation": "长寿、寿命",
+          "note": "longevidad 来自拉丁语 longus（长）+ vita（生命），指『长寿或寿命的长度』，在医学、科技和社会讨论中高频出现，近年来随着抗衰老产业的兴起，这一词汇在新闻中的出现频率大幅上升。"
+        },
+        {
+          "word": "finitud",
+          "translation": "有限性、终有一死的本质",
+          "note": "finitud 是哲学术语，指人类存在的『有限性』，尤其指终将死亡这一本质，与 infinitud（无限性）相对，后缀 -itud 构成抽象名词，如 exactitud（精确性）、magnitud（规模），掌握此后缀可举一反三。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "estar en el aire",
+      "type": "modismo",
+      "translation": "悬而未决、在空气中弥漫",
+      "usage": "estar en el aire 有两种常见含义：一是『悬而未决、尚不确定』，二是如本文中指某种想法或氛围『已在弥漫、隐约存在』，需根据语境判断，是日常和新闻语境的高频惯用语。",
+      "exampleEs": "La posibilidad de un acuerdo llevaba semanas en el aire antes de que se anunciara oficialmente.",
+      "exampleZh": "达成协议的可能性在正式宣布前已在空气中弥漫了好几周。"
+    },
+    {
+      "expression": "no me cabe duda",
+      "type": "expresión coloquial",
+      "translation": "我毫不怀疑、我确信无疑",
+      "usage": "no caber duda（de que）是表达强烈确信的固定句式，字面意思是『疑问没有容身之处』，比 estoy seguro/a 语气更强，常用于书面语和演讲，no me cabe la menor duda 语气更强。",
+      "exampleEs": "No me cabe duda de que la inteligencia artificial va a transformar el mercado laboral en los próximos años.",
+      "exampleZh": "我毫不怀疑，人工智能将在未来几年彻底改变劳动力市场。"
+    },
+    {
+      "expression": "causar estragos",
+      "type": "colocación",
+      "translation": "造成严重破坏、带来巨大损害",
+      "usage": "causar / provocar estragos 是固定搭配，estragos 几乎只与 causar、provocar、hacer 搭配使用，可用于战争、疾病、情感或社会影响等语境，语气强烈，是新闻文体的高频表达。",
+      "exampleEs": "La ola de calor causó estragos en los cultivos del sur del país.",
+      "exampleZh": "热浪对该国南部的农作物造成了严重破坏。"
+    },
+    {
+      "expression": "revestido de",
+      "type": "colocación",
+      "translation": "披着……的外衣、包裹着……",
+      "usage": "revestir(se) de 是固定搭配，意为『以……为外衣包装自身』，常用于揭示某种现象以合法或中性的话语掩盖其真实性质，如 revestido de cientificidad（披着科学外衣），是政治和文化批评的高频表达。",
+      "exampleEs": "La propaganda más peligrosa es la que viene revestida de objetividad periodística.",
+      "exampleZh": "最危险的宣传，是那种披着新闻客观性外衣的宣传。"
+    },
+    {
+      "expression": "que ya es decir",
+      "type": "expresión coloquial",
+      "translation": "这已经是很高的标准了、这话可不轻",
+      "usage": "que ya es decir 是口语插入语，用于强调前面所说的内容程度之深，相当于『这本身已经说明很多了』或『这可不是小事』，语气带有感叹，常出现在书面口语化表达中。",
+      "exampleEs": "El proyecto costó el doble de lo previsto, que ya es decir.",
+      "exampleZh": "这个项目花费了预算的两倍，这已经说明很多问题了。"
+    },
+    {
+      "expression": "no por casualidad",
+      "type": "expresión coloquial",
+      "translation": "并非偶然、绝非巧合",
+      "usage": "no por casualidad 是强调因果关系的固定表达，暗示某种现象背后有深层逻辑或结构性原因，常用于新闻评论和学术分析，语气带有点破迷局的意味，近义表达为 no es casualidad que。",
+      "exampleEs": "No por casualidad los países con mayor desigualdad presentan también los índices más altos de violencia.",
+      "exampleZh": "不等式最严重的国家同时也呈现出最高的暴力指数，这绝非偶然。"
+    }
+  ]
+}

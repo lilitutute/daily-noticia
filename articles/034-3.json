@@ -1,0 +1,256 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "经济与职场",
+  "difficulty": "B2",
+  "wordCount": "约1100词",
+  "title": "La semana laboral de cuatro días sigue siendo una promesa difícil de cumplir",
+  "subtitle": "四天工作制：一个难以兑现的承诺",
+  "resumenEs": "El artículo analiza por qué la semana laboral de cuatro días, pese a contar con evidencia científica a su favor y el apoyo de grandes líderes empresariales, sigue sin materializarse. La autora argumenta que los ejecutivos subestiman su propio apego a la presencia física, sobreestiman el ahorro de tiempo que traerá la IA y no tienen en cuenta la cultura adicta al trabajo arraigada en Estados Unidos.",
+  "resumenZh": "本文分析了为何四天工作制尽管有科学证据支持、也获得众多商界领袖背书，却始终未能真正落地。作者认为，高管们低估了自身对员工到岗出勤的执念，高估了人工智能带来的时间节省效果，也忽视了美国根深蒂固的工作狂文化。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Algunas de las mentes más brillantes del mundo empresarial creen que la inteligencia artificial será el fin de la semana laboral de 40 horas. El financista Steve Cohen ha dicho que pronto trabajaremos cuatro días a la semana, mientras que el director ejecutivo de Zoom, Eric Yuan, <strong>predice</strong> que serán tres. Bill Gates prevé una semana laboral de dos días en menos de una década, y Elon Musk afirma que, al final, trabajar se convertirá en algo totalmente opcional, similar a un <strong>pasatiempo</strong>, como <strong>practicar deporte o jugar a videojuegos</strong>.",
+      "zh": "商界一些最聪明的头脑认为，人工智能将终结每周40小时的工作制。金融家史蒂夫·科恩表示，我们很快就会每周工作四天，而Zoom首席执行官袁征则预测将缩减至三天。比尔·盖茨预计不到十年内将实现每周两天工作制，埃隆·马斯克则声称，最终工作将变成完全可选择的事情，就像一种消遣，比如『运动或打电子游戏』。",
+      "vocab": [
+        {
+          "word": "predice",
+          "translation": "预测、预言",
+          "note": "predecir 是不规则动词，第三人称单数现在时为 predice，注意与 prever（预见）的区别：predecir 更强调明确说出具体结论，prever 更强调提前预判趋势。"
+        },
+        {
+          "word": "pasatiempo",
+          "translation": "消遣、爱好",
+          "note": "pasatiempo 由 pasar（消磨）+ tiempo（时间）构成，指用来打发时间的休闲活动，比 hobby（外来词）更正式，常见于书面语。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "No <strong>cuentes con</strong> ello. La verdad es que cualquiera de estos ejecutivos podría haber acortado la semana laboral hace años, mucho antes de que existiera la IA.",
+      "zh": "别指望这一天到来。事实是，这些高管中的任何一位，早在人工智能出现之前的多年前，就本可以缩短工作周的。",
+      "vocab": [
+        {
+          "word": "cuentes con",
+          "translation": "指望、依赖",
+          "note": "contar con 意为『依靠、指望』，此处用虚拟式命令否定形式 no cuentes con ello，是口语和新闻评论中的高频表达，相当于英语的 don't count on it。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Los estudios han demostrado que una semana laboral de cuatro días con el mismo sueldo no solo es posible, sino que es mejor. Una prueba realizada en Islandia en 2015 tuvo tanto éxito —la productividad se mantuvo igual o mejor, mientras que la satisfacción de los empleados se <strong>disparó</strong>— que desde entonces se ha extendido por todo el país. Un estudio de 2022 en el Reino Unido, en el que participaron 61 empresas y casi 3000 empleados, reveló que los ingresos aumentaron mientras que el estrés y el <strong>agotamiento</strong> de los empleados se redujeron drásticamente. Los experimentos en Nueva Zelanda, Japón, Australia y Brasil también han sido todo un éxito.",
+      "zh": "研究表明，在同等薪资下实行四天工作制不仅可行，而且效果更好。2015年在冰岛进行的一项试验大获成功——生产力保持不变甚至有所提升，而员工满意度则大幅飙升——此后这一制度已在全国推广。2022年在英国进行的一项研究涵盖61家企业、近3000名员工，结果显示收入有所增加，而员工的压力和倦怠感则大幅下降。在新西兰、日本、澳大利亚和巴西的试验也同样取得了巨大成功。",
+      "vocab": [
+        {
+          "word": "disparó",
+          "translation": "飙升、猛增",
+          "note": "dispararse 本义为『枪支走火』，比喻义指数值或情绪急剧上升，常用于描述价格、满意度、温度等的骤增，是新闻中的高频比喻动词。"
+        },
+        {
+          "word": "agotamiento",
+          "translation": "精疲力竭、职业倦怠",
+          "note": "agotamiento 来自 agotar（耗尽），指体力或精力的完全耗竭，在职场语境中对应英语的 burnout，比 cansancio（疲倦）程度更深、更持久。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Los estadounidenses también están <strong>abrumadoramente</strong> a favor de la semana laboral de cuatro días. Sin embargo, aquí ha sido, en gran medida, un proyecto fallido. En mis más de cuatro décadas como periodista y editora, he escrito y encargado múltiples artículos sobre tendencias en el ámbito laboral. Casi todas las predicciones de los expertos sobre el fin de la semana laboral de cinco días han resultado equivocadas.",
+      "zh": "美国人也以压倒性的多数支持四天工作制。然而在美国，这在很大程度上仍是一个失败的项目。在我作为记者和编辑的四十余年职业生涯中，我撰写并约稿了大量关于职场趋势的文章。专家们关于五天工作制终结的预测，几乎全部被证明是错误的。",
+      "vocab": [
+        {
+          "word": "abrumadoramente",
+          "translation": "压倒性地、绝大多数地",
+          "note": "abrumadoramente 来自 abrumar（压垮、使不堪重负），副词形式用于强调比例或程度的绝对优势，如 abrumadoramente a favor / en contra，是新闻报道中的高频强调词。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "¿Por qué? Porque siempre subestimamos el <strong>feroz</strong> apego de los ejecutivos a la presencia física en la oficina. Los mismos líderes que se entusiasman con la idea de una semana laboral más corta en el futuro son los que exigen más tiempo, no menos, a sus empleados aquí y ahora. Musk exige un <strong>mínimo</strong> de 40 horas en la oficina y dijo que se necesitan 80 horas o más a la semana para tener un impacto real. Jensen Huang, de Nvidia, que también prevé una semana laboral de cuatro días, dijo que él trabaja siete días. El director ejecutivo de JPMorgan, Jamie Dimon, que predice una semana laboral de 3,5 días, insiste en cinco días completos en la oficina y es un crítico <strong>fervoroso</strong> del trabajo remoto.",
+      "zh": "为什么？因为我们总是低估高管们对员工实体到岗的强烈执念。那些对未来更短工作周充满热情的领导者，恰恰是那些在当下要求员工花更多时间、而非更少时间的人。马斯克要求员工在办公室工作的时间『至少』40小时，并表示每周需要80小时或以上才能产生真正的影响。英伟达的黄仁勋同样预言四天工作制，却表示自己每周工作七天。摩根大通首席执行官杰米·戴蒙预测每周工作3.5天，却坚持要求员工每周五天全程到岗，并且是远程办公的激烈批评者。",
+      "vocab": [
+        {
+          "word": "feroz",
+          "translation": "强烈的、凶猛的",
+          "note": "feroz 本义为『凶猛的、残暴的』，修饰抽象名词时表示程度极深，如 feroz apego（强烈执念）、feroz competencia（激烈竞争），比 fuerte 或 intenso 更具感情色彩。"
+        },
+        {
+          "word": "fervoroso",
+          "translation": "热烈的、狂热的",
+          "note": "fervoroso 来自 fervor（热忱），指对某事持有强烈情感，un crítico fervoroso 意为『激烈的批评者』，注意与 feroz 区分：fervoroso 强调热情，feroz 强调凶猛。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Los que predicen la semana laboral de cuatro días también <strong>sobreestiman</strong> cuánto tiempo se ahorrará realmente gracias a la tecnología. Cuando era pasante universitaria en The Wall Street Journal a principios de los años 80, escribíamos en máquinas de escribir manuales con papel carbón autocopiativo y corregíamos los errores recortando y pegando con tijeras y goma. En teoría, nuestras horas de trabajo deberían haber caído en <strong>picada</strong> con la llegada de las herramientas digitales, pero en cambio se dispararon, ya que la tecnología creó la capacidad de publicar las 24 horas del día.",
+      "zh": "那些预言四天工作制的人，同样高估了技术真正能节省的时间。当我80年代初在《华尔街日报》实习时，我们用手动打字机和复写纸工作，用剪刀和胶水剪贴来修改错误。理论上，数字工具的到来应该让我们的工作时间大幅缩减，但实际上却恰恰相反——工作时间反而飙升，因为技术创造了全天24小时发布内容的能力。",
+      "vocab": [
+        {
+          "word": "sobreestiman",
+          "translation": "高估",
+          "note": "前缀 sobre- 表示『超过、过度』，sobreestimar（高估）对应 subestimar（低估），同类构词还有 sobredosis（过量）、sobrecarga（超负荷），掌握该前缀可举一反三。"
+        },
+        {
+          "word": "picada",
+          "translation": "急剧下降、俯冲",
+          "note": "caer en picada 是固定搭配，源自飞机俯冲的意象，指数值或状况急剧下滑，常用于经济、统计类新闻，对应英语的 nosedive。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "El año pasado, los empleados a tiempo completo trabajaron una media de 41,9 horas a la semana, una cifra que no ha cambiado mucho desde los años noventa, antes de internet. Y en casa, la llegada de internet no redujo el tiempo que los estadounidenses dedicaban a las tareas domésticas. Es un <strong>patrón</strong> ya conocido: a medida que los lavavajillas y los microondas dispararon la productividad en el siglo XX, las expectativas sobre la limpieza, la nutrición y la crianza de los hijos se dispararon en consecuencia, y las tareas como lavar la ropa —que antes quizá se subcontrataban— volvieron a <strong>recaer</strong> sobre los propietarios de los hogares.",
+      "zh": "去年，全职员工平均每周工作41.9小时，这一数字与互联网普及之前的九十年代相比变化不大。在家庭领域，互联网的到来也没有减少美国人花在家务上的时间。这是一个已为人熟知的规律：随着洗碗机和微波炉在20世纪大幅提升生产力，人们对清洁、营养和育儿的期望也随之水涨船高，而那些曾经可能外包的家务——比如洗衣服——又重新落回了家庭成员自己的肩上。",
+      "vocab": [
+        {
+          "word": "patrón",
+          "translation": "规律、模式",
+          "note": "patrón 在社会科学和新闻语境中指可重复观察到的规律或模式，如 patrón de comportamiento（行为模式），注意其另一常见义为『老板、雇主』，需根据语境判断。"
+        },
+        {
+          "word": "recaer",
+          "translation": "重新落在……身上、再次归于",
+          "note": "recaer sobre alguien 指责任、负担或问题重新转移到某人身上，是正式文体中的高频搭配，前缀 re- 强调『再次』的含义。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "La IA parece seguir la misma <strong>trayectoria</strong>, aumentando tu rendimiento en lugar de reducir tu carga de trabajo. Un estudio reciente sobre una empresa tecnológica de 200 empleados concluyó que <strong>las herramientas de IA no redujeron el trabajo, sino que lo intensificaron constantemente</strong>, lo que provocó un <strong>aumento progresivo de la carga de trabajo</strong> a medida que los empleados empezaban a asumir responsabilidades adicionales. Del mismo modo, un artículo de 2025 reveló que el uso de la IA <strong>se asocia con jornadas laborales más largas y menos tiempo libre</strong>.",
+      "zh": "人工智能似乎正沿着同样的轨迹发展——提升你的产出，而非减轻你的工作负担。最近一项针对一家200人科技公司的研究得出结论：『人工智能工具并没有减少工作量，而是持续使其强化』，随着员工开始承担额外责任，工作负荷呈现出『渐进式增长』。同样，一篇2025年的文章揭示，人工智能的使用『与更长的工作时间和更少的空闲时间相关联』。",
+      "vocab": [
+        {
+          "word": "trayectoria",
+          "translation": "轨迹、发展路径",
+          "note": "trayectoria 本指物体运动的轨迹，引申为某人或某事物的发展路径，如 trayectoria profesional（职业轨迹）、seguir la misma trayectoria（沿着同样的路径），是新闻和学术语境的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Quizá esta vez sí sea diferente y la IA reduzca significativamente la semana laboral. Puede que no haya otra opción, si tienen razón quienes creen que estamos al <strong>borde</strong> de un apocalipsis laboral provocado por la IA. Cisco, Block, Coinbase, HP, IBM y Salesforce ya figuran entre las empresas que han citado la IA como motivo de <strong>despidos</strong>. Algunos economistas creen que tendremos que reducir las horas de trabajo para que más gente pueda participar en el mercado laboral y en los sueldos.",
+      "zh": "也许这一次真的会有所不同，人工智能将大幅缩短工作周。如果那些认为我们正处于人工智能引发的就业末日边缘的人是对的，那或许别无选择。思科、Block、Coinbase、惠普、IBM和Salesforce已跻身将人工智能列为裁员原因的企业之列。一些经济学家认为，我们将不得不缩减工作时间，以便让更多人能够参与劳动力市场并获得薪酬。",
+      "vocab": [
+        {
+          "word": "borde",
+          "translation": "边缘",
+          "note": "al borde de 是固定搭配，意为『处于……的边缘』，常用于危机或转折点语境，如 al borde del colapso（濒临崩溃）、al borde de la quiebra（濒临破产），语气强烈。"
+        },
+        {
+          "word": "despidos",
+          "translation": "裁员、解雇",
+          "note": "despido 指雇主主动终止劳动合同，即裁员或解雇，对应动词 despedir，注意与 dimisión（员工主动辞职）区分，两者方向相反。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Cabe destacar que, aunque cada vez son más los líderes que predicen una semana laboral más corta, la mayoría no aclara cuándo podría producirse ese cambio. Ninguno de ellos parece estar <strong>poniendo las cosas en marcha</strong> ahora mismo. Hay que reconocer que un cambio generalizado a una semana laboral más corta sería muy complejo para las grandes empresas —y mucho más aún para una sociedad que gira en torno al ritmo de cinco días, que <strong>abarca</strong> desde el horario escolar hasta los proyectos de infraestructura.",
+      "zh": "值得注意的是，尽管越来越多的领导者预言工作周将会缩短，但大多数人并未说明这一变化何时可能发生。他们中没有一个人看起来正在当下推动这件事落地。必须承认，对大型企业而言，全面转向更短工作周将极为复杂——对于一个围绕五天节奏运转的社会来说更是如此，这一节奏涵盖了从学校时间表到基础设施项目的方方面面。",
+      "vocab": [
+        {
+          "word": "poniendo las cosas en marcha",
+          "translation": "推动事情落地、付诸实施",
+          "note": "poner en marcha 是固定搭配，意为『启动、推进』某项计划或行动，比 empezar 更强调将事物从静止状态推向运转，常用于商业和政策语境。"
+        },
+        {
+          "word": "abarca",
+          "translation": "涵盖、囊括",
+          "note": "abarcar 指在范围上覆盖或包含多个方面，常用于描述某一概念或政策的覆盖范围，如 abarcar todos los sectores，比 incluir 更强调范围的广度。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Una semana laboral más corta también requeriría un cambio significativo en la cultura <strong>adicta al trabajo</strong> de Estados Unidos, que ve el ajetreo como un símbolo de estatus. Aunque los estadounidenses dicen que quieren una semana laboral más corta, la mayoría de los empleados, en una encuesta reciente, dijeron que usarían la mayor parte del tiempo ahorrado gracias a la inteligencia artificial para trabajar más. Tal y como están las cosas, más del 40 por ciento de los estadounidenses no se toman todos sus días de vacaciones, y el 88 por ciento de los padres que participaron en una encuesta reciente dijo que era importante que sus hijos tuvieran una carrera profesional que les gustara, más del cuádruple del por ciento que dijo que era importante casarse y tener hijos. No es casualidad que una de las frases más citadas de El diablo viste a la moda 2 sea la de la editora adicta al trabajo Miranda Priestly susurrando: <strong>Vaya, me encanta trabajar. De verdad. ¿A ti no?</strong>.",
+      "zh": "更短的工作周还需要美国根深蒂固的工作狂文化发生重大转变——这种文化将忙碌视为一种身份地位的象征。尽管美国人声称想要更短的工作周，但在最近一项调查中，大多数员工表示，他们会将人工智能节省下来的大部分时间用于更多工作。就目前情况而言，超过40%的美国人不会休完所有假期，而在最近一项调查中，88%的父母表示，孩子拥有一份自己喜欢的职业很重要，这一比例是认为结婚生子重要的比例的四倍多。《穿普拉达的女王2》中被引用最多的台词之一，是工作狂编辑米兰达·普里斯特利的低语：『哇，我真的很爱工作。真的。你不爱吗？』——这绝非偶然。",
+      "vocab": [
+        {
+          "word": "adicta al trabajo",
+          "translation": "工作狂的、沉迷工作的",
+          "note": "adicto/a a 意为『对……上瘾的』，adicto al trabajo 即『工作狂』，对应英语 workaholic，前缀 a- 在此表示依附，同类表达还有 adicto a las redes sociales（社交媒体成瘾）。"
+        },
+        {
+          "word": "ajetreo",
+          "translation": "忙碌、奔波",
+          "note": "ajetreo 指持续不断的忙碌和奔波状态，带有疲惫感，在文化批评语境中常指美国的『hustle culture』（奋斗文化），比 trabajo 更强调状态的紧张和混乱。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "A pesar de los obstáculos, hay algunos motivos para el <strong>optimismo</strong>. Unas cuantas pequeñas empresas estadounidenses han adoptado la semana laboral de cuatro días en los últimos años, entre ellas Kickstarter y ThredUp. El director ejecutivo de ThredUp dijo que ha observado <strong>mejoras enormes</strong> en la felicidad y la creatividad de los empleados y que <strong>las cifras de retención se han disparado</strong>.",
+      "zh": "尽管障碍重重，仍有一些理由保持乐观。近年来，少数美国小型企业已经采用了四天工作制，其中包括Kickstarter和ThredUp。ThredUp的首席执行官表示，他观察到员工的幸福感和创造力出现了『巨大改善』，员工留存率也『大幅飙升』。",
+      "vocab": [
+        {
+          "word": "optimismo",
+          "translation": "乐观、乐观主义",
+          "note": "motivos para el optimismo 是新闻评论中的固定表达，意为『乐观的理由』，其反义搭配为 motivos para la preocupación（令人担忧的理由），掌握该句式可直接用于写作。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "Los líderes empresariales empezaron a <strong>pronosticar</strong> el fin de la semana laboral de cinco días incluso antes de que Henry Ford la estandarizara en 1926. El ingeniero Charles Steinmetz dijo en 1923 que la energía eléctrica llevaría a una jornada laboral de cuatro horas en menos de un siglo. El economista John Maynard Keynes predijo una semana laboral de 15 horas para 2030. Ahora, la semana laboral más corta puede convertirse finalmente en una realidad. No hace falta esperar a que llegue un momento mágico en el que la IA cambie de repente nuestra forma de trabajar. Las empresas deberían dejar de hacer predicciones <strong>vagas</strong> sobre una semana laboral más corta y empezar a hacerla realidad.",
+      "zh": "商界领袖们甚至在亨利·福特于1926年将五天工作制标准化之前，就已经开始预言其终结。工程师查尔斯·斯坦梅茨在1923年表示，电能将在不到一个世纪内带来每天四小时的工作制。经济学家约翰·梅纳德·凯恩斯预测，到2030年每周工作时间将缩减至15小时。如今，更短的工作周终于有可能成为现实。无需等待人工智能突然改变我们工作方式的那个神奇时刻。企业应该停止对更短工作周做出模糊的预测，而是开始将其付诸实现。",
+      "vocab": [
+        {
+          "word": "pronosticar",
+          "translation": "预测、预报",
+          "note": "pronosticar 与 predecir 近义，但 pronosticar 更常用于基于数据或趋势的专业预判，如天气预报或经济预测，而 predecir 更泛用，也可指直觉性的预言。"
+        },
+        {
+          "word": "vagas",
+          "translation": "模糊的、含糊的",
+          "note": "vago/a 意为『模糊的、不明确的』，predicciones vagas 指缺乏具体时间表或细节的空泛承诺，注意 vago 还有『懒惰的』含义，需根据语境区分。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "no cuentes con ello",
+      "type": "expresión coloquial",
+      "translation": "别指望了、别抱希望",
+      "usage": "用于否定对方的期待或假设，语气直接甚至略带讽刺，常单独成句出现在评论或文章开头，相当于英语的 don't count on it，口语和新闻评论中均可使用。",
+      "exampleEs": "¿Crees que te van a subir el sueldo este año? No cuentes con ello.",
+      "exampleZh": "你以为今年会给你涨薪？别做梦了。"
+    },
+    {
+      "expression": "caer en picada",
+      "type": "colocación",
+      "translation": "急剧下降、断崖式下跌",
+      "usage": "源自飞机俯冲的意象，指数值、状况或声誉的急速下滑，常用于经济、体育或政治新闻，语气生动有力，是新闻写作中替代 bajar mucho 的高级表达。",
+      "exampleEs": "Tras el escándalo, la popularidad del político cayó en picada.",
+      "exampleZh": "丑闻曝光后，这位政客的支持率急剧下滑。"
+    },
+    {
+      "expression": "poner en marcha",
+      "type": "colocación",
+      "translation": "启动、推进、付诸实施",
+      "usage": "指将某项计划、项目或机制从静止状态推向实际运转，常用于商业、政策和项目管理语境，比 empezar 更强调从无到有的启动过程。",
+      "exampleEs": "El gobierno prometió poner en marcha el plan de vivienda antes de fin de año.",
+      "exampleZh": "政府承诺在年底前启动住房计划。"
+    },
+    {
+      "expression": "cosechar éxitos",
+      "type": "colocación",
+      "translation": "收获成功、赢得佳绩",
+      "usage": "cosechar 本义为收割庄稼，与 éxitos、aplausos、críticas、beneficios 等搭配形成比喻，指在某领域获得丰厚回报，语气积极，常见于媒体报道和商业评论。",
+      "exampleEs": "La empresa cosechó grandes beneficios tras adoptar la semana laboral de cuatro días.",
+      "exampleZh": "该公司在推行四天工作制后收获了丰厚的回报。"
+    },
+    {
+      "expression": "al borde de",
+      "type": "colocación",
+      "translation": "处于……的边缘、濒临",
+      "usage": "固定介词短语，后接名词或动词原形，表示某种极端状态即将发生，常用于危机、崩溃或重大转折的描述，语气紧迫，是新闻标题和评论的高频表达。",
+      "exampleEs": "Varias empresas del sector están al borde de la quiebra.",
+      "exampleZh": "该行业的几家企业已濒临破产。"
+    }
+  ]
+}

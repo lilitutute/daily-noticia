@@ -1,0 +1,188 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科学与环境",
+  "difficulty": "B2",
+  "wordCount": "约750词",
+  "title": "China ha plantado 66.000 millones de árboles en el desierto. Lo sorprendente es que crecen más rápido que en el bosque",
+  "subtitle": "中国在沙漠中种植了660亿棵树，令人惊讶的是它们比森林里的树长得更快",
+  "resumenEs": "El artículo analiza el programa chino de reforestación conocido como la Gran Muralla Verde, iniciado en 1978 para frenar el avance del desierto de Gobi. Un estudio coordinado por la Universidad de Pekín revela que los bosques plantados artificialmente crecen un 66% más rápido que los nativos, aunque esta ventaja es temporal y no sustituye la capacidad de almacenamiento de carbono a largo plazo de los ecosistemas naturales.",
+  "resumenZh": "本文分析了中国始于1978年的绿化工程——『绿色长城』，该工程旨在遏制戈壁沙漠的扩张。北京大学主导的一项研究揭示，人工种植的森林比天然森林生长速度快66%，但这一优势是暂时的，无法取代天然生态系统在长期碳储存方面的能力。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "La Gran Muralla Verde de China nació en 1978, cuando el gobierno de la nación implementó el Programa Cortavientos de las Tres Regiones del Norte. Su objetivo principal era <strong>frenar</strong> el rápido avance del desierto de Gobi y, con ello, detener las cada vez más frecuentes y <strong>asfixiantes</strong> tormentas de arena y proteger las tierras agrícolas de la desertificación. Se estima que, hasta la fecha, se han plantado 66.000 millones de árboles en un espacio que ya ocupa más de 4.480 kilómetros de área, formando una especie de cinturón o barrera alrededor de uno de los lugares más <strong>inhóspitos</strong> del planeta. Por si fuera poco, se prevé la adición de otros 34.000 millones en los próximos años.",
+      "zh": "中国的『绿色长城』诞生于1978年，当时中国政府实施了『三北防护林工程』。其主要目标是遏制戈壁沙漠的快速推进，进而阻止日益频繁且令人窒息的沙尘暴，并保护农业用地免遭荒漠化侵袭。据估计，迄今为止已在逾4480公里的区域内种植了660亿棵树，在地球上最荒凉的地方之一形成了一条绿色腰带或屏障。更有甚者，未来数年内还计划再增植340亿棵。",
+      "vocab": [
+        {
+          "word": "frenar",
+          "translation": "遏制、刹住",
+          "note": "frenar 本义为『踩刹车』，比喻义指阻止某种趋势或进程的发展，常见搭配有 frenar el avance、frenar la inflación、frenar el cambio climático，是新闻中的高频动词。"
+        },
+        {
+          "word": "asfixiantes",
+          "translation": "令人窒息的",
+          "note": "asfixiante 来自 asfixia（窒息），既可描述物理上使人无法呼吸的环境，也可比喻令人喘不过气的压力或局面，如 calor asfixiante（闷热）、deuda asfixiante（压垮性债务）。"
+        },
+        {
+          "word": "inhóspitos",
+          "translation": "荒凉的、不宜居的",
+          "note": "inhóspito 由 in-（否定）+ hóspito（好客的）构成，指自然环境恶劣、不适合生存的地方，常用于描述沙漠、极地等极端地貌，是地理和科学报道中的高频形容词。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Ahora, un <strong>exhaustivo</strong> análisis internacional coordinado por la Universidad de Pekín desvela un fenómeno botánico sin precedentes en las masivas reforestaciones del gigante asiático. El equipo científico liderado por el ecólogo paisajista Yuhang Luo ha descubierto que los ejemplares arbóreos sembrados de forma artificial crecen a una velocidad <strong>sustancialmente</strong> mayor que los pertenecientes a ecosistemas boscosos nativos. Este hallazgo aporta una perspectiva crucial para optimizar las futuras estrategias globales de mitigación contra el cambio climático.",
+      "zh": "如今，一项由北京大学牵头协调的国际综合分析，揭示了这个亚洲巨国大规模植树造林中一个前所未有的植物学现象。由景观生态学家罗宇航领导的科研团队发现，人工种植的树木比天然森林生态系统中的树木生长速度快得多。这一发现为优化未来全球应对气候变化的减缓策略提供了至关重要的视角。",
+      "vocab": [
+        {
+          "word": "exhaustivo",
+          "translation": "详尽的、全面彻底的",
+          "note": "exhaustivo 指对某一主题进行了全面深入的研究或分析，不留遗漏，常修饰 análisis、estudio、informe 等词，是学术和新闻语境的高频形容词，比 completo 更强调彻底性。"
+        },
+        {
+          "word": "sustancialmente",
+          "translation": "大幅地、显著地",
+          "note": "sustancialmente 来自 sustancia（实质），副词形式表示在程度或数量上有实质性的差异，比 mucho 更正式，常用于学术报告和新闻中描述数据对比。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Los investigadores encargados del manuscrito utilizaron datos satelitales con el objetivo de <strong>monitorizar</strong> el índice de área foliar, un indicador clave para evaluar la densidad del <strong>dosel</strong> y la absorción de carbono en la atmósfera. Los resultados finales arrojaron una divergencia verdaderamente sorprendente, debido a que las superficies vegetales plantadas por la acción humana expandieron su masa de hojas un 66% más rápido en comparación con aquellas áreas que se desarrollan de manera silvestre.",
+      "zh": "负责该研究的科学家们利用卫星数据，对叶面积指数进行监测——这是评估林冠密度和大气碳吸收量的关键指标。最终结果呈现出令人惊叹的差异：人类活动种植的植被区域，其叶片总量的扩张速度比自然生长区域快了66%。",
+      "vocab": [
+        {
+          "word": "monitorizar",
+          "translation": "监测、持续监控",
+          "note": "monitorizar 来自英语 monitor，后缀 -izar 是西班牙语中将名词或形容词转化为动词的常见构词法，同类词有 digitalizar（数字化）、optimizar（优化）、globalizar（全球化）。"
+        },
+        {
+          "word": "dosel",
+          "translation": "林冠、树冠层",
+          "note": "dosel 在植物学和生态学中专指森林最上层的树冠覆盖层，是科学报道中的专业词汇，了解该词有助于阅读环境和生态类文章。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "La mayor parte de esta marcada <strong>disparidad</strong> responde a que las masas forestales artificiales son notablemente más jóvenes que las nativas, asumiendo que los ejemplares de menor edad disfrutan de ritmos de desarrollo biológico superiores. No obstante, al <strong>emparejar</strong> formaciones vegetales de idéntica madurez cronológica y bajo las mismas condiciones ambientales, los bosques sembrados mantuvieron una ventaja superior del 4.6% en su ritmo de expansión vegetal, una diferencia que se acentuó de forma clara en los entornos mixtos y perennifolios.",
+      "zh": "这一显著差异在很大程度上源于人工林比天然林年轻得多，而年龄较小的树木本身就享有更快的生物发育节律。然而，当研究人员将树龄相同、环境条件相同的人工林与天然林进行配对比较时，人工种植的森林仍保持着4.6%的植被扩张速度优势，这一差异在混交林和常绿林环境中尤为突出。",
+      "vocab": [
+        {
+          "word": "disparidad",
+          "translation": "差异、悬殊",
+          "note": "disparidad 指两者之间在数量、程度或质量上的明显不平等，比 diferencia 更强调差距的显著性，常用于统计数据对比，如 disparidad salarial（薪资差距）、disparidad regional（地区差异）。"
+        },
+        {
+          "word": "emparejar",
+          "translation": "配对、使匹配",
+          "note": "emparejar 在科学研究语境中指将两组对象按相同条件进行配对比较，是统计学和实验设计中的常用术语，日常含义为『使成对、使相配』。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Este comportamiento singular se <strong>deriva</strong> del modelo de gestión humana aplicado directamente sobre el terreno, ya que habitualmente se seleccionan especies de rápido progreso biológico como el eucalipto y el chopo. Las labores de mantenimiento eliminan activamente la vegetación competidora e incluso aportan nutrientes específicos al suelo, lo que reduce drásticamente la <strong>disputa</strong> por la luz solar y los recursos hídricos en el desierto de Gobi y en el desierto de Taklamakan.",
+      "zh": "这一独特现象源于直接施加于土地的人工管理模式：通常会优先选择桉树和白杨等生长迅速的树种。日常养护工作会主动清除竞争性植被，甚至向土壤补充特定养分，从而大幅减少了戈壁沙漠和塔克拉玛干沙漠中对阳光和水资源的争夺。",
+      "vocab": [
+        {
+          "word": "deriva",
+          "translation": "源于、衍生自",
+          "note": "derivarse de 是固定搭配，意为『源自、由……产生』，用于说明某现象的成因，比 venir de 更正式，常见于学术和新闻分析语境，如 este problema se deriva de una mala gestión。"
+        },
+        {
+          "word": "disputa",
+          "translation": "争夺、竞争",
+          "note": "disputa 在生态学语境中指生物之间对资源的竞争，比 competencia 更强调对抗性，日常语境中也指人与人之间的争论或纠纷，是一词多义的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Estas intervenciones <strong>silvícolas</strong> terminan amplificando de manera artificial el efecto fertilizante provocado por el incremento sostenido del dióxido de carbono en la atmósfera terrestre, potenciando la captura de gases de efecto invernadero. La discrepancia descrita por los expertos alcanza su punto <strong>álgido</strong> cuando las arboledas artificiales alcanzan una edad comprendida entre los 30 y los 40 años, iniciando un declive bastante pronunciado a partir de las cuatro décadas de existencia.",
+      "zh": "这些林业干预措施最终人为放大了大气中二氧化碳持续增加所产生的施肥效应，从而增强了对温室气体的捕获能力。专家所描述的这种差异在人工林树龄达到30至40年时达到顶峰，此后便开始相当明显地走向衰退。",
+      "vocab": [
+        {
+          "word": "silvícolas",
+          "translation": "林业的、森林管理的",
+          "note": "silvícola 来自拉丁语 silva（森林），指与森林培育和管理相关的，intervenciones silvícolas 即『林业干预措施』，是生态和环境报道中的专业形容词。"
+        },
+        {
+          "word": "álgido",
+          "translation": "顶点的、最激烈的",
+          "note": "álgido 本义为『极寒的』，但在现代西班牙语中几乎专用于 punto álgido 这一固定搭配，意为『最高点、顶峰时刻』，是新闻和学术写作中描述峰值的高频表达。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "<strong>De cara a</strong> la resiliencia y el almacenamiento de carbono a largo plazo, los ecosistemas boscosos naturales siguen demostrando una capacidad estructural completamente <strong>insustituible</strong> en el planeta Tierra. Los bosques plantados pueden ser una herramienta poderosa a corto plazo para la absorción de carbono, pero esta ventaja es temporal, afirmó de manera tajante el investigador principal Yuhang Luo al analizar los límites del proyecto.",
+      "zh": "就长期韧性和碳储存而言，天然森林生态系统仍然展现出地球上完全不可替代的结构性能力。『人工种植的森林在短期内可以成为吸收碳的有力工具，但这一优势是暂时的，』首席研究员罗宇航在分析该项目的局限性时斩钉截铁地表示。",
+      "vocab": [
+        {
+          "word": "de cara a",
+          "translation": "就……而言、面向",
+          "note": "de cara a 是固定介词短语，意为『面向、针对、就……来看』，常用于引出某一目标或评估视角，如 de cara al futuro（着眼未来）、de cara a las elecciones（在选举方面），是新闻和正式文体的高频表达。"
+        },
+        {
+          "word": "insustituible",
+          "translation": "不可替代的",
+          "note": "insustituible 由 in-（否定）+ sustituible（可替代的）构成，前缀 in- 在形容词前表示否定，同类构词有 insuperable（无法超越的）、inalcanzable（遥不可及的）、irreversible（不可逆的）。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Nuestro trabajo ofrece una guía más práctica para la acción climática basada en los bosques: cuándo plantar, qué plantar, cuánto duran los beneficios y qué están haciendo mal los modelos actuales. Esperamos que eso ayude a la gente a tomar mejores decisiones, concluyó Yuhang Luo sobre la utilidad del estudio científico. Los autores confían en que estas <strong>evidencias</strong> sirvan para corregir las variables de los actuales modelos climáticos globales, los cuales <strong>omitían</strong> los sutiles efectos de la gestión del suelo.",
+      "zh": "『我们的研究为基于森林的气候行动提供了更实用的指南：何时种植、种植什么、收益能持续多久，以及现有模型存在哪些错误。我们希望这能帮助人们做出更好的决策，』罗宇航就该科学研究的实用价值总结道。研究人员相信，这些证据将有助于修正现有全球气候模型中的变量——这些模型此前忽略了土地管理所产生的微妙影响。",
+      "vocab": [
+        {
+          "word": "evidencias",
+          "translation": "证据、实证",
+          "note": "evidencia 在科学语境中指实验或研究所得的客观证据，是假朋友：西班牙语 evidencia 侧重『经过验证的证据』，而英语 evidence 更泛指任何证明材料，两者不完全对等。"
+        },
+        {
+          "word": "omitían",
+          "translation": "忽略、遗漏",
+          "note": "omitir 指有意或无意地略去某项内容，比 ignorar 更强调在操作层面的遗漏，常用于学术批评语境，如 el informe omitía datos clave（报告遗漏了关键数据）。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "por si fuera poco",
+      "type": "expresión coloquial",
+      "translation": "更有甚者、还不止如此",
+      "usage": "用于在已列举内容之后追加更多信息，强调情况比预想的更进一步，语气可以是正面的惊喜，也可以是负面的强调，常见于新闻和口语叙述中。",
+      "exampleEs": "La empresa perdió a sus mejores empleados y, por si fuera poco, el director también dimitió.",
+      "exampleZh": "公司失去了最优秀的员工，更糟的是，总监也辞职了。"
+    },
+    {
+      "expression": "alcanzar su punto álgido",
+      "type": "colocación",
+      "translation": "达到顶峰、到达最高点",
+      "usage": "punto álgido 是固定搭配，专指某一过程或现象的顶峰时刻，常与 alcanzar 搭配使用，是新闻和学术写作中描述峰值或高潮的标准表达，不可将 álgido 替换为其他词。",
+      "exampleEs": "La crisis política alcanzó su punto álgido cuando el presidente anunció su renuncia.",
+      "exampleZh": "当总统宣布辞职时，政治危机达到了顶峰。"
+    },
+    {
+      "expression": "de manera tajante",
+      "type": "colocación",
+      "translation": "斩钉截铁地、毫不含糊地",
+      "usage": "tajante 意为『斩断的、毫不留情的』，de manera tajante 用于强调某人表态时的坚决和明确，常用于新闻引语中，相当于英语的 categorically 或 bluntly。",
+      "exampleEs": "La ministra rechazó de manera tajante cualquier posibilidad de negociación.",
+      "exampleZh": "部长斩钉截铁地拒绝了任何谈判的可能性。"
+    },
+    {
+      "expression": "arrojar resultados",
+      "type": "colocación",
+      "translation": "得出结果、呈现数据",
+      "usage": "arrojar 本义为『抛出、投掷』，与 resultados、datos、cifras、luz 等搭配时意为『呈现、揭示』，是科学报道和新闻写作中描述研究结论的高频固定搭配。",
+      "exampleEs": "El análisis arrojó resultados inesperados sobre el comportamiento del consumidor.",
+      "exampleZh": "该分析呈现出关于消费者行为的意外结果。"
+    }
+  ]
+}
