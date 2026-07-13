@@ -1,0 +1,184 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会与文化",
+  "difficulty": "B2",
+  "wordCount": "约900词",
+  "title": "¿Por qué cada vez más mujeres en China usan ropa de hombre?",
+  "subtitle": "为什么越来越多的中国女性穿男装？",
+  "resumenEs": "Un número creciente de mujeres jóvenes chinas está optando por ropa masculina debido a su mejor calidad, mayor comodidad, tallas más inclusivas y precios más bajos. El fenómeno se enmarca en una economía de consumo debilitada tras la pandemia y refleja el rechazo a los estándares de belleza impuestos por la moda femenina tradicional. Diseñadoras del sector advierten que las presiones económicas sobre la industria textil solo agravarán el problema de las tallas en el futuro.",
+  "resumenZh": "越来越多的中国年轻女性开始选择男装，原因在于其更好的质量、更高的舒适度、更包容的尺码体系以及更低廉的价格。这一现象发生在疫情后消费经济走弱的背景下，也折射出女性对传统女装所强加的审美标准的抵制。业内设计师警告，纺织行业面临的经济压力只会让尺码问题在未来愈发严峻。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "A medida que se acercaba el verano, Kexin notó un cambio cuando estaba organizando su <strong>indumentaria</strong>: la cantidad de ropa de hombre superaba sus prendas femeninas. Camisas, camisetas y shorts no habían sido comprados para su novio ni sus padres, sino para ella misma. Un creciente número de mujeres jóvenes chinas afirman haber optado por la vestimenta masculina por razones similares como la mejor calidad, bajo precio, mayor comodidad y menor <strong>humillación corporal</strong>.",
+      "zh": "随着夏天临近，可欣在整理衣物时发现了一个变化：『男装』的数量已经超过了她的女装。那些衬衫、T恤和短裤，并非为男友或父亲购买，而是为她自己买的。越来越多的中国年轻女性表示，出于相似的原因——更好的质量、更低的价格、更高的舒适度以及更少的身材羞辱——她们选择了男装。",
+      "vocab": [
+        {
+          "word": "indumentaria",
+          "translation": "服装、衣着",
+          "note": "indumentaria 是比 ropa 更正式的书面词，泛指一个人的全套着装或服饰体系，常用于时尚、文化和社会学语境，如 indumentaria tradicional（传统服饰）、indumentaria deportiva（运动服装）。"
+        },
+        {
+          "word": "humillación corporal",
+          "translation": "身材羞辱",
+          "note": "humillación corporal 对应英语的 body shaming，指因体型、外貌等身体特征而受到的羞辱或贬低，是当代女权主义和社会议题讨论中的核心概念，humillar（羞辱）的名词形式为 humillación。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "En la popular aplicación china Xiaohongshu, la etiqueta mujeres vistiendo ropa de hombre ha atraído más de 82 millones de visualizaciones, mientras que la de vestimenta de género neutral ha <strong>sobrepasado</strong> los 90 millones. Las reacciones sobre el tema se han multiplicado, frecuentemente refiriéndose a las ventajas de la ropa de hombre como mayor contenido de algodón y lino, corte más <strong>refinado</strong>, bolsillos más grandes, costuras más lisas, mejor terminado y precios más bajos.",
+      "zh": "在中国热门应用小红书上，『女生穿男装』这一标签已吸引超过8200万次浏览，而『中性穿搭』相关内容则突破了9000万次。围绕这一话题的讨论层出不穷，频繁提及男装的优势：更高的棉麻含量、更精致的剪裁、更大的口袋、更平整的缝线、更好的做工以及更低廉的价格。",
+      "vocab": [
+        {
+          "word": "sobrepasado",
+          "translation": "超过、突破",
+          "note": "sobrepasar 由 sobre-（超过）+ pasar（经过）构成，意为在数量或程度上超越某一界限，比 superar 更强调跨越某个具体数值节点，常用于数据报道，如 sobrepasar el límite（突破上限）。"
+        },
+        {
+          "word": "refinado",
+          "translation": "精致的、考究的",
+          "note": "refinado 来自 refinar（精炼），指经过精心处理、达到高水准的状态，corte refinado（精致的剪裁）是时尚类文章的高频搭配，比 elegante 更强调工艺层面的精细程度。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Comparada a las transmisiones dirigidas a mujeres —que suelen hacer énfasis en adelgazar, ocultar supuestas imperfecciones, o proyectar un ideal delicado y femenino— la transmisión de ropa masculina se concentraba en la calidad de la tela y los materiales. Eso realmente me atrajo, comenta Kexin. Nunca entendí por qué la ropa de mujeres insistía constantemente en los estándares tradicionales de belleza, especialmente cuando los diseños suelen ser <strong>incómodos</strong>. Compró su primera camiseta para hombre y quedó <strong>sorprendida</strong>. Era más confortable, gruesa y <strong>transpirable</strong> que las prendas de mujer que había comprado antes al triple de precio.",
+      "zh": "与面向女性的直播相比——后者通常强调显瘦、遮盖所谓的缺陷，或呈现一种纤细柔美的理想形象——男装直播专注于面料和材质的质量。『这真的吸引了我，』可欣说，『我从来不明白，为什么女装要不断强调传统审美标准，尤其是那些设计往往还很不舒适。』她买了第一件『男款』T恤，结果大吃一惊——比她之前花三倍价钱买的女装更舒适、更厚实、更透气。",
+      "vocab": [
+        {
+          "word": "incómodos",
+          "translation": "不舒适的、令人不便的",
+          "note": "incómodo 由 in-（否定）+ cómodo（舒适的）构成，既可指物理上的不舒适（如衣物），也可指心理上的不自在，是日常高频词，其名词形式 incomodidad（不适感）在社会评论中同样常见。"
+        },
+        {
+          "word": "transpirable",
+          "translation": "透气的",
+          "note": "transpirable 来自 transpirar（排汗、透气），指面料能够让空气和水分流通的特性，是服装和纺织品描述中的专业词汇，tejido transpirable（透气面料）是时尚和消费类文章的高频搭配。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Con el tiempo, estas prendas poco a poco se <strong>apoderaron</strong> de su armario, como una especie invasiva marginando a la nativa, señala. Esta tendencia también sucede en el marco de una economía de consumo más débil en China desde el fin de las restricciones por covid en 2022. Para empleadas como Kexin —que trabaja en el exigente horario de 996 (9am a 9pm, seis días a la semana)— la <strong>cautela</strong> financiera se ha vuelto la norma. En este contexto, algunos consumidores han optado por las tendencias de consumo inverso, priorizando el valor y la <strong>durabilidad</strong> sobre la moda rápida.",
+      "zh": "渐渐地，这些衣物一点一点地占领了她的衣柜，『就像一种入侵物种将本土物种边缘化，』她说。这一趋势也发生在2022年新冠限制措施结束后中国消费经济走弱的大背景下。对于像可欣这样的职场女性——她遵循着严苛的『996』工作制（早9点到晚9点，每周六天）——财务上的谨慎已成为常态。在此背景下，部分消费者转向了『逆消费』趋势，将性价比和耐用性置于快时尚之上。",
+      "vocab": [
+        {
+          "word": "apoderaron",
+          "translation": "占领、掌控",
+          "note": "apoderarse de 是固定搭配，意为『占据、掌控某物』，既可用于具体事物（apoderarse del armario），也可用于抽象概念（apoderarse del mercado），比 ocupar 更强调逐渐取得支配权的过程。"
+        },
+        {
+          "word": "cautela",
+          "translation": "谨慎、小心",
+          "note": "cautela 指在行动或决策时保持审慎的态度，cautela financiera（财务谨慎）是经济类文章的高频搭配，其形容词 cauteloso/a 同样常见，比 prudencia 更强调对潜在风险的警惕。"
+        },
+        {
+          "word": "durabilidad",
+          "translation": "耐用性、持久性",
+          "note": "durabilidad 来自 durar（持续、耐用），指产品或材料在长期使用中保持性能的能力，是消费品和可持续发展讨论中的核心词汇，其形容词 duradero/a（耐用的）同样高频。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Para muchas, el cambio se debe menos a demostrar una postura sobre el género y más sobre la <strong>funcionalidad</strong>. El tamaño es uno de los aspectos más criticados de la vestimenta femenina en China. En las plataformas de redes sociales, las influencers <strong>esbeltas</strong> suelen mostrar cómo las llamadas tallas más grandes a duras penas les caben. En un video que se volvió viral, una bloguera le pone una camisa talla L a su caniche y le queda muy <strong>ajustada</strong>.",
+      "zh": "对许多人来说，这一转变与其说是在表明性别立场，不如说更多出于实用考量。尺码是中国女装被批评最多的问题之一。在各大社交媒体平台上，身材纤细的博主们常常展示所谓的大码服装穿在她们身上也几乎撑不开的窘况。在一个病毒式传播的视频中，一位博主把一件L码衬衫套在她的贵宾犬身上，结果还是很紧。",
+      "vocab": [
+        {
+          "word": "funcionalidad",
+          "translation": "功能性、实用性",
+          "note": "funcionalidad 指某物在实际使用中发挥功能的程度，是产品设计和消费评论中的核心词汇，与 estética（美观性）常形成对比，priorizar la funcionalidad sobre la estética（将实用性置于美观之上）是当代消费趋势讨论的高频表达。"
+        },
+        {
+          "word": "esbeltas",
+          "translation": "纤细的、苗条的",
+          "note": "esbelta 指身材修长纤细，带有正面审美评价，是时尚和身体描述中的高频词，比 delgada（瘦的）更强调线条感和比例美，在批评性语境中也常用于揭示以纤细为唯一标准的审美偏见。"
+        },
+        {
+          "word": "ajustada",
+          "translation": "紧身的、贴合的",
+          "note": "ajustado/a 指衣物与身体贴合程度高，可以是正面描述（ajuste perfecto，完美贴合），也可以是负面描述（demasiado ajustado，过于紧绷），此处显然是后者，ropa ajustada 是服装类文章的核心词汇。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Según Wang, una diseñadora de una marca de modas, tanto los problemas de talla como de calidad reflejan las presiones más amplias sobre la industria. El sector de la <strong>confección</strong> en China se ha <strong>encogido</strong> significativamente desde la pandemia. Para bajar costos, algunas marcas ahora compran diseños listos para llevar del Sureste Asiático en lugar de desarrollar los propios. Pero esos diseños no suelen quedarles a las formas de los cuerpos chinos, lo que contribuye a un mal ajuste y el auge de la llamada talla de niña de la vestimenta femenina.",
+      "zh": "据某时装品牌设计师王女士介绍，尺码和质量问题都折射出整个行业所承受的更深层压力。中国服装行业自疫情以来已大幅萎缩。为了降低成本，一些品牌如今从东南亚采购现成设计，而非自主研发。但这些设计往往不适合中国人的体型，由此导致版型不合身，以及女装『娃娃码』的盛行。",
+      "vocab": [
+        {
+          "word": "confección",
+          "translation": "服装制造、成衣",
+          "note": "confección 在工业语境中专指服装的批量生产和制造，sector de la confección（服装制造业）是纺织和时尚行业的核心术语，比 industria de la moda 更强调生产制造层面，其动词 confeccionar 意为『制作、缝制』。"
+        },
+        {
+          "word": "encogido",
+          "translation": "萎缩、收缩",
+          "note": "encoger(se) 本义为布料遇水收缩，比喻义指经济体量或规模的缩减，el sector se ha encogido（该行业已萎缩）是财经新闻的高频表达，比 reducirse 更生动，带有不可逆收缩的含义。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "La variedad de diseños también está dirigida por la economía. La ropa para el tipo de cuerpo <strong>esbelto</strong> es más barata y más fácil de producir, mientras que las tallas más grandes requieren una <strong>confección</strong> más compleja a costos más altos. Si vender 20 tallas grandes cuesta lo mismo que 200 medianas, las empresas simplemente <strong>abandonarán</strong> las tallas más grandes, afirma Wang. Con el costo de las telas subiendo <strong>pronunciadamente</strong>, los productores enfrentan nuevas presiones, y advierte que el resultado probablemente será ropa aún más estrecha en el año venidero.",
+      "zh": "设计款式的多样性同样受经济逻辑驱动。为纤细体型设计的服装成本更低、生产更容易，而大码服装则需要更复杂的工艺，成本也更高。『如果卖出20件大码的成本与卖出200件中码相当，企业就会直接放弃大码，』王女士说。随着面料成本大幅攀升，生产商面临新的压力，她警告说，明年的结果很可能是服装尺码愈发偏小。",
+      "vocab": [
+        {
+          "word": "abandonarán",
+          "translation": "放弃、舍弃",
+          "note": "abandonar 在商业语境中指企业主动放弃某一产品线、市场或策略，比 dejar 更强调有意识的战略性撤退，abandonar las tallas grandes（放弃大码产品线）是本文语境下的核心表达。"
+        },
+        {
+          "word": "pronunciadamente",
+          "translation": "大幅地、显著地",
+          "note": "pronunciadamente 来自 pronunciado（明显的、陡峭的），在数据和趋势描述中意为『幅度显著地』，subir pronunciadamente（大幅攀升）是财经新闻的高频搭配，比 mucho 更正式，常用于描述价格、指数的急剧变化。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "a duras penas",
+      "type": "expresión coloquial",
+      "translation": "勉强、好不容易",
+      "usage": "a duras penas 意为『费尽力气才勉强做到』，带有强烈的艰难感，常用于强调某事几乎无法实现，比 apenas 语气更强，是口语和新闻文体均适用的高频表达。",
+      "exampleEs": "A duras penas llegó a fin de mes con su sueldo.",
+      "exampleZh": "她勉强靠薪水撑到了月底。"
+    },
+    {
+      "expression": "especie invasiva",
+      "type": "metáfora",
+      "translation": "入侵物种（比喻逐渐占据主导的事物）",
+      "usage": "especie invasiva 本为生态学术语，指在新环境中迅速扩张、排挤本土物种的外来物种，此处作者将其比喻性地用于描述男装逐渐取代女装占据衣柜的过程，是一种生动的跨领域比喻，体现了西班牙语评论文体的文学性。",
+      "exampleEs": "Las aplicaciones de mensajería extranjeras se extendieron como una especie invasiva en el mercado local.",
+      "exampleZh": "外国即时通讯应用像入侵物种一样在本地市场迅速蔓延。"
+    },
+    {
+      "expression": "consumo inverso",
+      "type": "colocación",
+      "translation": "逆消费、反向消费",
+      "usage": "consumo inverso 对应中文网络流行语『反向消费』，指消费者放弃品牌溢价、转向性价比更高的替代品的消费趋势，是当代消费社会学的新兴术语，反映了年轻一代对过度消费主义的抵制。",
+      "exampleEs": "El consumo inverso está ganando terreno entre los jóvenes que rechazan pagar por la marca.",
+      "exampleZh": "逆消费在拒绝为品牌溢价买单的年轻人中正日益流行。"
+    },
+    {
+      "expression": "moda rápida",
+      "type": "colocación",
+      "translation": "快时尚",
+      "usage": "moda rápida 对应英语 fast fashion，指以低价、快速更新为特征的时装生产和消费模式，是当代时尚批评和可持续发展讨论中的核心术语，与 moda sostenible（可持续时尚）形成对比。",
+      "exampleEs": "Cada vez más consumidores rechazan la moda rápida en favor de prendas duraderas.",
+      "exampleZh": "越来越多的消费者开始抵制快时尚，转而选择更耐用的服装。"
+    },
+    {
+      "expression": "volverse viral",
+      "type": "colocación",
+      "translation": "病毒式传播、爆红",
+      "usage": "volverse viral 对应英语 go viral，指某内容在社交媒体上迅速大范围传播，是数字媒体时代的核心表达，hacerse viral 是同义替换，两者在新闻和网络语境中均极为高频。",
+      "exampleEs": "El video se volvió viral en pocas horas y acumuló millones de reproducciones.",
+      "exampleZh": "这段视频在几小时内病毒式传播，累计了数百万次播放。"
+    }
+  ]
+}

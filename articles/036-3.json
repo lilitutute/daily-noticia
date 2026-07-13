@@ -1,0 +1,132 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会与文化",
+  "difficulty": "B2",
+  "wordCount": "约500词",
+  "title": "Los lectores opinan sobre los incendios, el arte, las bajas laborales y los propósitos",
+  "subtitle": "读者来信：关于山火、艺术、病假与人生目标",
+  "resumenEs": "Cuatro lectores comparten sus reflexiones sobre temas de actualidad: la prevención de incendios forestales mediante el desbroce y la creación de empleo rural; el papel humanizador del arte en un mundo polarizado; el agotamiento laboral de los trabajadores y la injusticia de culpabilizarlos por el aumento de bajas; y el rechazo a las fórmulas de autoayuda que imponen un modelo único de felicidad.",
+  "resumenZh": "四位读者就时事话题分享了各自的思考：通过清理灌木丛预防森林火灾并创造农村就业；艺术在两极分化世界中的人性化作用；劳动者的职业倦怠以及将病假增加归咎于工人本身的不公正；以及对那些强加单一幸福模式的心灵鸡汤公式的抵制。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Hacer <strong>desbroce</strong> y limpieza de montes para proteger la masa forestal genera empleo, activa la economía de los pueblos y elimina masa de combustión. De esta manera la prevención de incendios durante el verano consigue su objetivo. Todas las Comunidades deberían contratar más personal, pagando salarios justos y <strong>estabilizando</strong> el empleo para todo el año con contratos indefinidos. Al final se ahorraría muchísimo dinero. Comenzar a apagar los fuegos en el invierno generaría empleo en el medio rural y salvaría la <strong>superficie forestal</strong>.",
+      "zh": "对山地进行清理和除草以保护森林，不仅能创造就业、激活乡村经济，还能消除可燃物，从而实现夏季防火的目标。各自治区应当招募更多人员，支付合理薪酬，并以无固定期限合同稳定全年就业。从长远来看，这将节省大量资金。从冬季就开始扑灭火患，既能为农村地区创造就业，也能保护森林面积。",
+      "author": "Victorio Martínez Armero. Móstoles (Madrid)",
+      "vocab": [
+        {
+          "word": "desbroce",
+          "translation": "清除灌木杂草、林地清理",
+          "note": "desbroce 来自 desbrozar（清除灌木、杂草），指对林地或山地进行清理以消除火灾隐患的作业，是林业和防灾领域的专业词汇，hacer desbroce 是固定搭配。"
+        },
+        {
+          "word": "estabilizando",
+          "translation": "稳定、使固定",
+          "note": "estabilizar 指使某种状态趋于稳定、不再波动，estabilizar el empleo（稳定就业）是劳工政策讨论中的高频搭配，其反义词 desestabilizar（使不稳定）同样常见于政治和经济新闻。"
+        },
+        {
+          "word": "superficie forestal",
+          "translation": "森林面积、林地面积",
+          "note": "superficie forestal 是林业和环境新闻的核心固定搭配，superficie 在地理和统计语境中专指『面积、面域』，比 área 更正式，常见于官方报告和新闻数据引用。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "En un mundo cada vez más <strong>polarizado</strong>, en el que a la mínima de cambio ya estamos divididos en un lado u otro del hemiciclo, nos olvidamos de lo que nos hace verdaderamente humanos: el arte. Ese concepto que parece pasado de moda es lo único que nos mantiene medianamente cuerdos. El arte no entiende de izquierdas ni de derechas, no comprende edades, no habla un idioma concreto. El arte habla el lenguaje de la emoción y eso, por mucho que lo neguemos, lo entiende todo el mundo. Dar <strong>visibilidad</strong> a la pintura, la escultura, la moda, la música, la danza... es también una forma de darse cuenta de que aún queda un mínimo de esperanza en medio de las guerras, el hambre o el sufrimiento.",
+      "zh": "在一个日益两极分化的世界里，稍有风吹草动我们就分裂成议会两侧的对立阵营，却忘记了真正使我们成为人的东西：艺术。这个看似过时、甚至对许多人来说显得陈旧的『概念』，是唯一让我们保持基本理智的东西。艺术不分左右，不论年龄，不讲特定语言。艺术说的是情感的语言，而这一点，无论我们如何否认，全世界所有人都能理解。让绘画、雕塑、时尚、音乐、舞蹈……获得更多关注，也是一种方式，让我们意识到，在战争、饥饿与苦难之中，仍存有一丝希望。",
+      "author": "Clara Muñoz Moreno. Puerto Llano (Ciudad Real)",
+      "vocab": [
+        {
+          "word": "polarizado",
+          "translation": "两极分化的",
+          "note": "polarizado 来自 polarizar（使两极化），在政治和社会语境中指社会或舆论分裂为对立的两个阵营，sociedad polarizada（两极分化的社会）是当代政治评论的核心词汇，其名词 polarización 同样高频。"
+        },
+        {
+          "word": "visibilidad",
+          "translation": "能见度、曝光度",
+          "note": "visibilidad 在媒体和文化语境中指某事物被公众看见和关注的程度，dar visibilidad a（给……更多曝光/关注）是新闻和社会评论的高频固定搭配，比 promocionar 更强调让被忽视的事物进入公众视野。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Esta semana mi mujer quedó con un grupo de amigas de la infancia a las cuales hacía varios años que no veía. A pesar de que cada una trabaja en un sector diferente, todas coincidieron en que estaban <strong>quemadas</strong>, bien por exceso de carga de trabajo o por presión comercial. Además, si comparaban su situación con hace 15 o 20 años, este incremento del esfuerzo no había supuesto un incremento en su salario. No sé si me resulta más injusto que las declaraciones de Feijóo insinúen que los responsables del incremento de las <strong>bajas laborales</strong> sean los trabajadores, o que no se incida en que posiblemente muchas de esas bajas son debidas a unas condiciones laborales que llevan al límite al trabajador tanto a nivel físico como a nivel mental.",
+      "zh": "这周，我妻子和一群儿时好友聚会，她们已经好几年没见了。尽管各自从事不同行业，所有人却不约而同地表示已经精疲力竭——或因工作负荷过重，或因业绩压力。而且，与十五二十年前相比，付出的增加并没有换来薪酬的提升。我不知道，更让我感到不公的是：费霍的言论暗示病假增加的责任在于工人本身，还是没有人指出，这些病假中有相当一部分恰恰源于将工人逼到身心极限的劳动条件。",
+      "author": "Rubén Rodríguez Abalde. Vigo",
+      "vocab": [
+        {
+          "word": "quemadas",
+          "translation": "精疲力竭的、职业倦怠的",
+          "note": "estar quemado/a 是口语固定表达，对应英语的 burned out，指因长期过度工作或压力而产生的极度疲惫和倦怠感，其名词形式 síndrome del quemado 或 burnout 是心理健康领域的专业术语。"
+        },
+        {
+          "word": "bajas laborales",
+          "translation": "病假、工伤假",
+          "note": "baja laboral 指因疾病、工伤或心理健康问题而获得的带薪病假，estar de baja（在休病假）是固定搭配，是西班牙劳工政策讨论中的核心术语，近年来因职业倦怠导致的心理健康类病假增加而频繁见诸新闻。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "El titular de una entrevista a un psicólogo dice: Para ser feliz es fundamental tener un propósito. Y me preocupo. Porque analizo mi actitud ante la vida y no encuentro un propósito concreto. Mi objetivo diario no es otro que estar en paz conmigo misma y con mi entorno. Eso, a mis 38 años, es suficiente para sentirme feliz. La preocupación viene del efecto que puede tener ese titular en quienes estén <strong>transitando</strong> las incertidumbres de los 30 y cómo lemas semejantes pueden sugerir propósitos a los que no hubieran llegado de forma más real. Supongo que es mi <strong>reivindicación</strong> en contra de fórmulas mágicas y en favor de dejar que cada uno encuentre su felicidad en lo que quiera. O en lo que pueda.",
+      "zh": "一篇对某知名心理学家的采访标题写道：『拥有人生目标是幸福的根本。』这让我开始担忧。因为当我审视自己对待生活的态度时，找不到一个具体的目标。我每天的追求不过是与自己和周围的环境和平相处。对于38岁的我来说，这已足以让我感到幸福，无需树立一个在社会眼中更宏大的目标。我的担忧来自这个标题可能对那些正在穿越三十岁迷茫期的人产生的影响——类似的口号可能会向他们灌输一些并非发自内心的目标。我想这是我对心灵鸡汤公式的一种抵制，也是对让每个人以自己的方式寻找幸福的一种呼吁。或者说，以力所能及的方式。",
+      "author": "Jessica Herboso. Bilbao",
+      "vocab": [
+        {
+          "word": "transitando",
+          "translation": "穿越、经历（某一阶段）",
+          "note": "transitar 本义为『通行、穿越某地』，在心理和人生语境中比喻经历某一人生阶段或情感过程，transitar las incertidumbres（穿越迷茫期）是当代自我成长类文章的高频比喻表达，比 pasar por 更具文学色彩。"
+        },
+        {
+          "word": "reivindicación",
+          "translation": "诉求、主张、抵制",
+          "note": "reivindicación 指对某种权利、立场或价值观的主张和捍卫，在社会和政治语境中常指集体诉求，此处作者将其用于个人层面，指对心灵鸡汤文化的个人抵制立场，其动词 reivindicar（主张、捍卫）同样高频。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "estar quemado/a",
+      "type": "expresión coloquial",
+      "translation": "精疲力竭、职业倦怠",
+      "usage": "estar quemado/a 对应英语的 burned out，指因长期高压工作而产生的身心俱疲状态，是西班牙语职场口语中极为高频的表达，其正式说法为 síndrome de burnout 或 agotamiento laboral，在医疗和劳工政策讨论中均常见。",
+      "exampleEs": "Después de cinco años sin vacaciones, el médico estaba completamente quemado.",
+      "exampleZh": "五年没有休假之后，这位医生已经彻底精疲力竭。"
+    },
+    {
+      "expression": "a la mínima de cambio",
+      "type": "expresión coloquial",
+      "translation": "稍有风吹草动、一有机会",
+      "usage": "a la mínima de cambio 意为『只要有一点点变化或借口』，强调某种反应或行为发生的门槛极低，带有轻微批评色彩，是西班牙口语和评论文体的高频表达，常用于描述过激或草率的反应。",
+      "exampleEs": "A la mínima de cambio, la prensa ya lo convierte en un escándalo nacional.",
+      "exampleZh": "稍有风吹草动，媒体就把它炒成全国性丑闻。"
+    },
+    {
+      "expression": "llevar al límite",
+      "type": "colocación",
+      "translation": "逼到极限、使达到承受边界",
+      "usage": "llevar al límite 指将某人或某物推至其承受能力的边界，在劳工和心理健康语境中常用于描述过度工作对身心的摧残，estar al límite（已到极限）是其常见变体。",
+      "exampleEs": "Las jornadas de doce horas llevan al límite a cualquier trabajador.",
+      "exampleZh": "每天十二小时的工作会把任何劳动者逼到极限。"
+    },
+    {
+      "expression": "fórmulas mágicas",
+      "type": "expresión coloquial",
+      "translation": "万能公式、心灵鸡汤",
+      "usage": "fórmulas mágicas 指那些被包装成放之四海而皆准的成功或幸福秘诀，带有明显的讽刺意味，暗示这类建议过于简化、脱离现实，是对自助文化和励志话语的批评性表达。",
+      "exampleEs": "No existen fórmulas mágicas para el éxito; cada persona tiene que encontrar su propio camino.",
+      "exampleZh": "成功没有万能公式，每个人都必须找到自己的道路。"
+    },
+    {
+      "expression": "medio rural",
+      "type": "colocación",
+      "translation": "农村地区、乡村环境",
+      "usage": "medio rural 是西班牙语中指代农村和乡村地区的标准表达，与 medio urbano（城市环境）相对，在政策、就业和环境新闻中极为高频，比 zona rural 更正式，常用于官方文件和新闻报道。",
+      "exampleEs": "El gobierno prometió invertir más en infraestructuras del medio rural para frenar la despoblación.",
+      "exampleZh": "政府承诺加大对农村基础设施的投入，以遏制人口流失。"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会与文化",
+  "difficulty": "C1",
+  "wordCount": "约600词",
+  "title": "La selección nacional de fútbol y el nacionalismo integrador",
+  "subtitle": "国家足球队与包容性民族主义",
+  "resumenEs": "El artículo reflexiona sobre la dimensión política del fútbol, especialmente a través de la selección nacional española. El autor argumenta que la selección funciona como un modelo de cohesión e integración, en contraste con la polarización de la política cotidiana. En un mundo globalizado, los equipos nacionales —integrados por jugadores de orígenes diversos— encarnan una paradoja: vender una identidad nacional con ingredientes universales, lo que el autor llama 'nacionalismo integrador'.",
+  "resumenZh": "本文探讨了足球的政治维度，尤其聚焦于西班牙国家队。作者认为，国家队作为一种凝聚力与包容性的典范，与日常政治中的极化现象形成了鲜明对比。在全球化时代，由多元背景球员组成的国家队体现了一种悖论：用普世性的素材来兜售民族身份认同。作者将这种现象称为『包容性民族主义』。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Una de las dimensiones del fútbol es que permite <strong>sublimar</strong> los enfrentamientos políticos. Eso lo sabemos bien en España, porque los partidos Madrid-Barça incorporan de modo más o menos explícito ese componente de lucha política <strong>soterrada</strong>. O por esa predilección que solían tener los equipos vascos de incorporar solo jugadores de su tierra, un medio eficaz de afirmar su identidad específica frente al resto. <strong>Parafraseando</strong> a Clausewitz, Orwell decía que el deporte es la guerra sin los disparos; o sea, hacer política por otros medios, pacíficos en este caso.",
+      "zh": "足球的维度之一在于，它能够升华政治对抗。这一点在西班牙体现得尤为明显——皇马与巴萨之间的比赛或多或少地融入了潜在政治斗争的成分。巴斯克球队历来偏好只招募本土球员，这也是彰显其独特身份认同、有别于其他地区的有效手段。套用克劳塞维茨的话，奥威尔曾说『体育是没有枪声的战争』，也就是说，用其他手段——在此是和平手段——来从事政治。",
+      "vocab": [
+        {
+          "word": "sublimar",
+          "translation": "升华、转化",
+          "note": "sublimar 源自心理学（尤其是弗洛伊德理论），指将原始冲动或负面情绪转化为社会可接受的形式，此处指足球将政治对抗转化为竞技对决，是人文社科类文章的高频词。"
+        },
+        {
+          "word": "soterrada",
+          "translation": "潜藏的、隐秘的",
+          "note": "soterrado/a 来自 soterrrar（埋入地下），比喻某种情绪、冲突或意图被压制在表面之下，暗中存在，比 oculto 更强调『被刻意压制』的状态，是政治和社会评论的高级词汇。"
+        },
+        {
+          "word": "parafraseando",
+          "translation": "套用……的话、转述",
+          "note": "parafrasear 指用自己的话重新表述他人的观点，与 citar（直接引用）相对，parafrasear a alguien 是学术和评论写作中引用思想时的常用句式，比 según 更强调对原意的再诠释。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "A nadie se le escapa ese aspecto político de este deporte, pues incorpora dos de sus principales componentes: la <strong>cohesión</strong> tribal, la afirmación de un nosotros; y el elemento <strong>conflictual</strong>, la competencia frente a un otro, cuyo antagonismo conduce necesariamente a que uno gane y otro pierda. El hecho de que se trate de un juego de equipo, territorial y sujeto a una estrategia contribuye a subrayar estos rasgos <strong>bélico-políticos</strong>. No hay que olvidar que estrategia procede del término griego strategía, que significa conducción de ejércitos.",
+      "zh": "没有人会忽视这项运动的政治面向，因为它融合了政治的两大核心要素：部落式的凝聚力——对『我们』这一共同体的确认；以及冲突性因素——与『他者』的竞争，这种对抗必然导致一方胜、一方负。足球作为一项团队性、领土性且需要战略部署的运动，进一步凸显了这些战争-政治特征。不要忘记，『战略』一词源于希腊语 strategía，意为『统率军队』。",
+      "vocab": [
+        {
+          "word": "cohesión",
+          "translation": "凝聚力、内聚性",
+          "note": "cohesión 指群体内部成员之间的团结与向心力，cohesión social（社会凝聚力）、cohesión interna（内部凝聚力）是政治和社会学的核心搭配，其反义词为 disgregación（分裂、离散）。"
+        },
+        {
+          "word": "conflictual",
+          "translation": "冲突性的",
+          "note": "conflictual 是从 conflicto（冲突）派生的形容词，在社会学和政治学语境中指涉及对立与博弈的性质，比 conflictivo 更学术化，后者更偏向描述『容易引发冲突的』。"
+        },
+        {
+          "word": "bélico-políticos",
+          "translation": "战争-政治的",
+          "note": "bélico 来自拉丁语 bellum（战争），指与战争相关的，bélico-político 是作者自创的复合形容词，将战争逻辑与政治逻辑并置，体现了奥威尔『体育即战争』论断的核心思想。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Pero vayamos a las peculiaridades de nuestra selección como representación simbólica de rasgos políticos bien distintos a los que apreciamos en la política cotidiana. Para empezar, porque este equipo ha conseguido que nos sintamos reconocidos en él. Incluso si ya nos hubieran eliminado, tanto el liderazgo silencioso y sin <strong>alharacas</strong> del seleccionador como la unidad y el espíritu de equipo que transmiten los jugadores, funcionan como un magnífico contraste en positivo con nuestras habituales e <strong>hiperbólicas</strong> confrontaciones políticas. La polarización, los muros y la retórica <strong>incendiaria</strong> ceden aquí el paso a la sorprendente cohesión interna.",
+      "zh": "但让我们回到真正想探讨的话题：国家队作为一种象征性表达，所呈现的政治特质与我们在日常政治中看到的截然不同。首先，这支球队让我们感到被认同——我们觉得『它真的代表我们』。即便已经遭到淘汰，主教练那种沉稳低调、不事张扬的领导风格，以及球员们所传递出的团结与团队精神，都与我们惯常的、夸张的政治对抗形成了鲜明的正面对比。极化、壁垒与煽动性言辞，在这里让位于令人惊叹的内部凝聚力。",
+      "vocab": [
+        {
+          "word": "alharacas",
+          "translation": "喧嚣、大张旗鼓",
+          "note": "alharaca 指过度的喧嚣、夸张的表现或无谓的大惊小怪，sin alharacas 是固定搭配，意为『不声不响地、低调地』，带有对浮夸行为的隐性批评，是西班牙语特有的生动表达。"
+        },
+        {
+          "word": "hiperbólicas",
+          "translation": "夸张的、言过其实的",
+          "note": "hiperbólico 来自修辞学术语 hipérbole（夸张法），指超出实际程度的夸大表达，在政治评论中常用于批评政客言辞的极端化，比 exagerado 更具文学和修辞色彩。"
+        },
+        {
+          "word": "incendiaria",
+          "translation": "煽动性的、激进的",
+          "note": "incendiario 本义为『纵火的』，比喻义指具有强烈煽动性、容易激起对立情绪的言论或行为，retórica incendiaria（煽动性言辞）是政治评论的高频固定搭配。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Ayuda, desde luego, que nos enfrentemos a otros, a extranjeros, pero lo más interesante es que nuestro combinado lo integra también gente con orígenes <strong>foráneos</strong>. Aquí no hay prioridad nacional que valga, si entendemos ahora por tal el no ser español de <strong>pata negra</strong>.",
+      "zh": "当然，与他者、与外国人的对抗有助于凝聚内部，但最耐人寻味的是，我们的国家队本身也融入了来自异域的球员。在这里，所谓的『国家优先』毫无立足之地——如果我们将其理解为必须是『纯正西班牙人』的话。",
+      "vocab": [
+        {
+          "word": "foráneos",
+          "translation": "外来的、异域的",
+          "note": "foráneo 指来自外部或外国的，比 extranjero 语气更中性，常用于描述文化、人员或事物的外来属性，在移民和多元文化讨论中是高频词汇。"
+        },
+        {
+          "word": "pata negra",
+          "translation": "纯正的、地道的",
+          "note": "pata negra 本指西班牙顶级伊比利亚火腿（因猪蹄为黑色而得名），比喻义指『最纯正、最地道的』，español de pata negra 指『纯正西班牙血统的人』，带有对血统纯粹论的讽刺意味，是西班牙语特有的文化表达。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "El extraordinario seguimiento del Mundial nos confirma una vez más que vivimos en una sociedad global, pero también que esta solo cobra pleno sentido a partir de lo local, afirmando sus <strong>singularidades</strong>. Cada nación proyecta su marca en un mercado que nos engloba a todos. No es menos cierto, sin embargo, que esta sociedad de todas las tribus es en realidad <strong>trans-tribal</strong>. Salvo casos puntuales, la mayoría de las selecciones están integradas por jugadores de orígenes diversos cuyo único vínculo de unión es la nacionalidad, no la etnia.",
+      "zh": "世界杯引发的非凡关注再次印证：我们生活在一个全球化社会，但这个社会只有在立足本土、彰显各自特性的基础上才能获得完整的意义。每个国家都在一个将我们所有人囊括其中的市场上投射自己的品牌。然而同样不可否认的是，这个由所有部落构成的社会，实际上已是超越部落的。除个别例外，大多数国家队都由来自不同背景的球员组成，他们唯一的纽带是国籍，而非族裔。",
+      "vocab": [
+        {
+          "word": "singularidades",
+          "translation": "独特性、特殊性",
+          "note": "singularidad 指某事物区别于其他事物的独特特征，在文化和哲学语境中常指某个民族或地区的独有属性，比 particularidades 更强调不可复制的唯一性。"
+        },
+        {
+          "word": "trans-tribal",
+          "translation": "超越部落的",
+          "note": "前缀 trans- 表示『超越、跨越』，trans-tribal 是作者自创的复合词，指超越了单一族群或部落边界的状态，体现了全球化语境下民族认同的复杂性，与文中 tribal（部落的）形成辩证对照。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "La globalización ha penetrado ya en el interior de sus partes. Y esa paradoja, el vender una marca con <strong>retales</strong> de otras, crea una peculiar <strong>dialéctica</strong> entre universalismo y particularismos, que será la que acabe marcando el futuro de todos. Este Mundial está siendo ejemplar en dos sentidos: primero, por subrayar la importancia de las fuerzas <strong>cohesionadoras</strong> frente a las disgregadoras; y, luego, porque relativiza la importancia de los orígenes, lo que contrasta vivamente con los nuevos discursos supremacistas. Es una cura frente al fanatismo, una manifestación de <strong>nacionalismo integrador</strong>.",
+      "zh": "全球化已经渗透到其各组成部分的内部。这种悖论——用其他品牌的碎片来兜售一个品牌——在普世主义与特殊主义之间创造出一种独特的辩证关系，而这种关系终将决定所有人的未来。本届世界杯在两个层面上堪称典范：其一，它彰显了凝聚力量相对于分裂力量的重要性；其二，它淡化了出身的重要性，与当下新兴的至上主义话语形成了鲜明对比。这是对狂热主义的一剂解药，是包容性民族主义的一种体现。",
+      "vocab": [
+        {
+          "word": "retales",
+          "translation": "碎布料、零碎片段",
+          "note": "retal 本指裁剪布料后剩余的边角料，比喻义指来自不同来源的零散元素，vender una marca con retales de otras（用其他品牌的碎片兜售一个品牌）是作者的独创比喻，生动描绘了多元文化构成国家认同的悖论。"
+        },
+        {
+          "word": "dialéctica",
+          "translation": "辩证关系、对立统一",
+          "note": "dialéctica 源自哲学（尤其是黑格尔和马克思主义），指通过对立面的矛盾与融合推动发展的逻辑，在人文社科评论中常用于描述两种对立力量之间的张力与互动，是C1级别的核心学术词汇。"
+        },
+        {
+          "word": "cohesionadoras",
+          "translation": "具有凝聚力的、促进团结的",
+          "note": "cohesionador/a 是从 cohesionar（使凝聚）派生的形容词，指能够将群体团结在一起的力量或因素，与文中 disgregadoras（分裂性的）形成直接对照，是政治和社会分析的高频词。"
+        },
+        {
+          "word": "nacionalismo integrador",
+          "translation": "包容性民族主义",
+          "note": "nacionalismo integrador 是本文的核心概念，由作者提出，指一种不以血统或族裔为边界、而以共同价值和归属感为基础的民族认同，与 nacionalismo excluyente（排他性民族主义）相对，是当代政治哲学的重要议题。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "pata negra",
+      "type": "expresión coloquial",
+      "translation": "纯正的、地道的",
+      "usage": "pata negra 本指顶级伊比利亚黑蹄猪火腿，比喻义指某事物或某人最纯正、最地道，español de pata negra 指纯正西班牙血统，在政治语境中常带有讽刺排外主义的意味，是西班牙语特有的文化隐喻。",
+      "exampleEs": "Presume de ser madrileño de pata negra, pero lleva veinte años viviendo en el extranjero.",
+      "exampleZh": "他自称是地道的马德里人，但已在国外生活了二十年。"
+    },
+    {
+      "expression": "sin alharacas",
+      "type": "expresión coloquial",
+      "translation": "不声不响地、低调地",
+      "usage": "alharaca 指夸张的喧嚣或大惊小怪，sin alharacas 意为『不张扬、不做作地』，常用于称赞某人处事低调沉稳，带有正面评价色彩，是西班牙口语和评论文体的特色表达。",
+      "exampleEs": "Hizo su trabajo sin alharacas y los resultados hablaron por sí solos.",
+      "exampleZh": "他默默完成了工作，成果自己说话。"
+    },
+    {
+      "expression": "a nadie se le escapa",
+      "type": "expresión coloquial",
+      "translation": "无人不知、显而易见",
+      "usage": "a nadie se le escapa + 名词从句，意为『没有人会忽视或不注意到……』，用于强调某事显而易见、众所周知，是新闻和评论文体中引出论点的高频句式，语气比 todo el mundo sabe 更文雅。",
+      "exampleEs": "A nadie se le escapa que la situación económica ha empeorado en los últimos meses.",
+      "exampleZh": "没有人会忽视过去几个月经济形势已经恶化这一事实。"
+    },
+    {
+      "expression": "ceder el paso a",
+      "type": "colocación",
+      "translation": "让位于、为……让路",
+      "usage": "ceder el paso a 本义为『给……让路』，比喻义指某种现象或力量被另一种所取代，是描述社会或政治转变时的高频搭配，比 ser reemplazado por 更具动态感和主动性。",
+      "exampleEs": "El miedo cedió el paso a la esperanza cuando llegaron las buenas noticias.",
+      "exampleZh": "好消息传来，恐惧让位于希望。"
+    },
+    {
+      "expression": "cobrar pleno sentido",
+      "type": "colocación",
+      "translation": "获得完整意义、真正有意义",
+      "usage": "cobrar sentido 意为『变得有意义、显现出意义』，cobrar pleno sentido 加强语气，指某事物在特定条件下才能展现其完整价值，是哲学和社会评论文体的高频表达，比 tener sentido 更强调意义的动态显现过程。",
+      "exampleEs": "El sacrificio de años de estudio cobra pleno sentido cuando ves los resultados.",
+      "exampleZh": "当你看到成果时，多年苦读的付出才真正有了意义。"
+    }
+  ]
+}

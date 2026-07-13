@@ -1,0 +1,164 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会与文化",
+  "difficulty": "C1",
+  "wordCount": "约600词",
+  "title": "Nadie sufre como yo quiero",
+  "subtitle": "没有人像我希望的那样受苦",
+  "resumenEs": "La autora reflexiona sobre la dificultad de acompañar el duelo ajeno sin imponerlo ni abandonarlo. A través de ejemplos cotidianos y del ensayo de la escritora Yiyun Li, cuestiona la empatía performativa y el deseo inconsciente de controlar el dolor del otro. Concluye con una autocrítica: incluso quien cree entender el sufrimiento ajeno puede estar proyectando su propia vanidad emocional.",
+  "resumenZh": "作者反思了陪伴他人哀痛的困难——既不强加于人，也不弃之不顾。通过日常案例和美籍华裔作家李翊云的散文，她质疑了表演性共情以及潜意识中控制他人痛苦的欲望。文章以自我批判作结：即便是自以为理解他人苦难的人，也可能不过是在投射自己的情感虚荣。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Hablaba con mi amiga del <strong>duelo</strong>, y de lo difícil que es acompañarlo cuando no es el tuyo. Cómo consolar a un amigo de una pérdida <strong>inconsolable</strong> cuando eres parte de su vida pero no de su intimidad. Cómo transmitir calor y una disponibilidad genuina sin imponer también una empatía <strong>pegajosa</strong>, proyectando fantasmas propios sobre su experiencia, ahogándola de buenas intenciones, y un poco de vanidad. En contra de lo que dicen los libros, el amor no es suficiente. Consolar es un talento que no se enseña en clase y, quizá por eso, casi nadie lo practica bien.",
+      "zh": "我和朋友谈起哀痛，谈起当那份哀痛不属于你时，陪伴它有多难。当你是某人生命的一部分，却并非其内心世界的一部分时，该如何安慰一个遭受无法弥补之失的朋友。如何传递温暖与真诚的陪伴，同时又不强加一种黏腻的共情——把自己的心魔投射到对方的经历上，用善意将其淹没，还夹杂着一丝虚荣。与书本所言相反，爱是不够的。安慰是一种无法在课堂上习得的天赋，也许正因如此，几乎没有人能将其践行得好。",
+      "vocab": [
+        {
+          "word": "duelo",
+          "translation": "哀痛、丧亲之痛",
+          "note": "duelo 在心理学语境中专指因失去亲人或重要事物而产生的悲痛过程，对应英语的 grief，比 tristeza（悲伤）更强调失去后的哀悼过程，proceso de duelo（哀痛历程）是心理健康类文章的核心固定搭配。"
+        },
+        {
+          "word": "inconsolable",
+          "translation": "无法安慰的、难以弥补的",
+          "note": "inconsolable 由前缀 in-（否定）+ consolable（可安慰的）构成，指悲痛程度之深以至于无法被任何安慰所缓解，既可修饰人（una persona inconsolable），也可修饰损失本身（una pérdida inconsolable）。"
+        },
+        {
+          "word": "pegajosa",
+          "translation": "黏腻的、令人窒息的",
+          "note": "pegajoso/a 本义为『黏糊糊的』，比喻义指过于黏缠、令人不适的情感表达方式，empatía pegajosa 是作者的独创搭配，指那种强加于人、令对方感到窒息的过度共情，带有明显的批评色彩。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Cabalgamos <strong>precariamente</strong> entre la imposición y el abandono. Unos dicen estoy para lo que necesites y se <strong>esfuman</strong> para siempre, delegando la responsabilidad del cuidado sobre el que más lo necesita, sabiendo que la oferta jamás será reclamada pero habiendo dejado nota de su falsa predisposición. La decepción es el precio que pagamos por saber quiénes son. Luego están esas personas que se plantan sin invitación en la puerta de los <strong>huérfanos</strong> recién nacidos con tuppers de compota y guisos de lentejas para ver cómo están y hacer las preguntas de rigor.",
+      "zh": "我们岌岌可危地游走于强加与遗弃之间。有些人说『我随时都在，有什么需要尽管开口』，然后永远消失，将照料的责任推给最需要照料的人，心知这份承诺永远不会被兑现，却留下了一张虚假善意的便条。失望是我们为看清他人真面目所付出的代价。还有些人则不请自来，出现在刚刚痛失至亲的人家门口，带着装满苹果泥和扁豆炖菜的饭盒，来看看他们怎么样，问几句例行公事的问候。",
+      "vocab": [
+        {
+          "word": "precariamente",
+          "translation": "岌岌可危地、不稳定地",
+          "note": "precariamente 来自 precario（不稳定的、岌岌可危的），指某种状态缺乏稳固基础，随时可能崩塌，cabalgar precariamente（岌岌可危地骑行）是作者的比喻，生动描绘了人们在两种极端之间摇摆的困境。"
+        },
+        {
+          "word": "esfuman",
+          "translation": "消失、烟消云散",
+          "note": "esfumarse 本义为像烟雾一样散去，比喻义指某人突然或悄然消失，带有不负责任的隐含批评，比 desaparecer 更口语化，常用于描述承诺落空后当事人的失踪。"
+        },
+        {
+          "word": "huérfanos",
+          "translation": "失去亲人的人、孤儿",
+          "note": "huérfano 本指失去父母的孤儿，此处作者将其比喻性地用于指刚刚经历丧亲之痛的成年人，huérfanos recién nacidos（刚刚成为孤儿的人）是作者的独创搭配，强调丧亲之痛的突然性与脆弱性。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "La intuición es buena pero en la ejecución se cometen <strong>delitos</strong> que añaden <strong>agravio</strong> a la pena y revelan una intención que trasciende el cuidado. Hay formas de enviar comida, cestas de fruta y flores sin imponer nuestra presencia en una casa demasiado pronto. Las visitas inesperadas son bienvenidas cuando uno <strong>convalece</strong> de gripe o sufre una pérdida amorosa. Pero no cuando la pérdida es literal porque uno no quiere recomponerse ni distraerse de eso. Hace falta tiempo y espacio para comprender lo perdido antes de saber dejar ir.",
+      "zh": "出发点是好的，但在执行过程中往往犯下『罪行』，在悲痛之上再添委屈，暴露出一种超越关怀本身的意图。完全可以寄送食物、水果篮和鲜花，而不必过早地将自己的存在强加于一个家庭。当一个人在从流感中康复、韧带断裂或经历失恋时，朋友和邻居的不期而至是受欢迎的。但当失去是字面意义上的失去时则不然，因为人此时不想振作，也不想从中分心。在学会放手之前，需要时间和空间去理解所失去的一切。",
+      "vocab": [
+        {
+          "word": "delitos",
+          "translation": "罪行、过失",
+          "note": "delito 本指法律意义上的犯罪行为，此处作者将其比喻性地用于描述陪伴他人哀痛时的不当行为，这种夸张用法带有强烈的批评色彩，暗示某些『好意』实际上造成了真实的伤害。"
+        },
+        {
+          "word": "agravio",
+          "translation": "委屈、冒犯、额外伤害",
+          "note": "agravio 指对某人造成的冒犯、不公或额外伤害，añadir agravio a la pena（在悲痛之上再添委屈）是作者对英语表达 adding insult to injury 的西班牙语化用，是正式文体的高频词。"
+        },
+        {
+          "word": "convalece",
+          "translation": "康复、恢复中",
+          "note": "convalecer 指在疾病或伤害之后逐渐恢复健康的过程，比 recuperarse 更强调过程的缓慢性，常用于医疗语境，其名词 convalecencia（康复期）在文学和新闻中同样高频。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Quizá lo más difícil y lo más deseable es aprender a convivir con el duelo ajeno sin juzgar las herramientas que otros escogen para salir adelante, tanto si se han entregado a una curiosidad <strong>minuciosa</strong> sobre el proceso de descomposición del cuerpo amado como si han elegido abrazar creencias que nos parecen <strong>delirantes</strong>. El duelo nunca es limpio, ni sensato, pero nuestro acompañamiento casi siempre quiere serlo, y soñamos <strong>vanidosamente</strong> con empujar el dolor por las cinco fases como si fueran cinco pantallas de un videojuego que, con nuestra inestimable ayuda, acaba en coreografía de delfines y música de namastés.",
+      "zh": "也许最难做到、也最值得追求的，是学会与他人的哀痛共处，而不去评判他们为走出困境所选择的方式——无论是对挚爱之人遗体腐化过程产生了细致入微的好奇，还是选择拥抱在我们看来近乎荒诞的信仰。哀痛从来不是干净的，也不是理性的，但我们的陪伴几乎总想如此，我们虚荣地幻想着推着痛苦走过五个阶段，仿佛那是电子游戏的五个关卡，在我们无可替代的帮助下，最终以海豚舞蹈和冥想音乐收场。",
+      "vocab": [
+        {
+          "word": "minuciosa",
+          "translation": "细致入微的、一丝不苟的",
+          "note": "minucioso/a 指对细节极为关注、不放过任何细微之处，curiosidad minuciosa（细致入微的好奇心）在此语境中带有一丝病态执念的意味，比 detallado 更强调对细节近乎强迫性的关注。"
+        },
+        {
+          "word": "delirantes",
+          "translation": "荒诞的、近乎疯狂的",
+          "note": "delirante 来自 delirar（胡言乱语、精神错乱），比喻义指某种想法或行为超出了常规理性的边界，在此作者刻意用第一人称视角（nos parecen delirantes）来强调评判本身的主观性。"
+        },
+        {
+          "word": "vanidosamente",
+          "translation": "虚荣地、自以为是地",
+          "note": "vanidosamente 来自 vanidad（虚荣），在此指一种自我中心的幻想——以为自己能够主导他人的哀痛进程，作者用这个词揭示了陪伴者内心深处隐藏的自我满足动机。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "La escritora chino estadounidense Yiyun Li describe en un ensayo el momento <strong>inimaginable</strong> en que un policía le anuncia la muerte de su segundo hijo. Increíblemente, no ocurre por primera vez. Su primer hijo se ha suicidado seis años antes. En lugar de llorar o <strong>perder los papeles</strong>, ella observa que el policía hizo todo lo posible por evitar cualquier referencia al suicidio, repitiendo una y otra vez las palabras no podemos decir más por el momento, investigación en curso y la escena del crimen. Luego añade: Es una verdad incómoda que no puedo evitar observar y notar cosas incluso en los momentos más terribles.",
+      "zh": "美籍华裔作家李翊云在一篇散文中描述了那个难以想象的时刻——一名警察向她宣告了她第二个儿子的死讯。难以置信的是，这并非第一次。她的第一个儿子六年前已在不远处自杀离世。她没有哭泣，也没有崩溃失控，而是观察到那名警察竭尽全力回避任何关于自杀的字眼，一遍又一遍地重复着『目前我们无可奉告』、『调查正在进行中』和『犯罪现场』这几个措辞。她随后写道：『这是一个令人不安的事实，我无法避免地在即便是最可怕的时刻也在观察和记录着一切。』",
+      "vocab": [
+        {
+          "word": "inimaginable",
+          "translation": "难以想象的",
+          "note": "inimaginable 由 in-（否定）+ imaginable 构成，指某事超出了人类正常想象力的边界，在描述极端创伤或苦难时常用，比 increíble 更强调认知层面的无法企及。"
+        },
+        {
+          "word": "perder los papeles",
+          "translation": "崩溃失控、情绪失控",
+          "note": "perder los papeles 是西班牙语口语固定表达，意为完全失去自我控制、情绪彻底崩溃，papeles 在此比喻自我控制的能力，类似汉语的『崩了』，是情感类文章的高频口语表达。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "¿Es una verdad incómoda o una estrategia de supervivencia? En los últimos años, he aprendido que el análisis <strong>minucioso</strong> de una realidad trágica es una clase más de <strong>disociación</strong>. Y aquí estoy yo, segura de que entiendo el dolor de una madre que ha perdido sus dos hijos, con mi empatía pegajosa, proyectando mi experiencia, tan considerada. Tan llena de buena intención.",
+      "zh": "这究竟是一个令人不安的事实，还是一种生存策略？近年来，我逐渐明白，对悲剧现实的细致分析，不过是另一种形式的解离。而我就在这里，自以为理解了一位痛失两子的母亲的苦痛，带着我那黏腻的共情，投射着我自己的经历，如此体贴，如此充满善意。",
+      "vocab": [
+        {
+          "word": "disociación",
+          "translation": "解离、心理分离",
+          "note": "disociación 是心理学术语，指个体在面对极端压力或创伤时，将自身意识与当下现实分离的心理防御机制，作者在此指出：对悲剧的冷静分析，本质上也是一种逃避直面痛苦的解离策略。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "perder los papeles",
+      "type": "expresión coloquial",
+      "translation": "崩溃失控、情绪失控",
+      "usage": "perder los papeles 是西班牙语口语固定表达，意为完全失去自我控制、情绪彻底崩溃，papeles 比喻维持自我形象和理性的能力，常用于描述极端情绪爆发的场景，是日常口语和情感类文章的高频表达。",
+      "exampleEs": "Cuando le dijeron que había perdido el trabajo, perdió los papeles delante de todos.",
+      "exampleZh": "当被告知失业时，他当着所有人的面彻底崩溃了。"
+    },
+    {
+      "expression": "estoy para lo que necesites",
+      "type": "expresión coloquial",
+      "translation": "我随时都在，有什么需要尽管开口",
+      "usage": "这是西班牙语中表达支持与陪伴的经典套话，字面意思真诚，但作者在文中揭示其常被用作一种免责声明——说了却不兑现，是对表演性关怀的精准讽刺。",
+      "exampleEs": "Me dijo 'estoy para lo que necesites' y no volvió a llamar en tres meses.",
+      "exampleZh": "他说『有什么需要尽管开口』，然后三个月没再打来一个电话。"
+    },
+    {
+      "expression": "salir adelante",
+      "type": "expresión coloquial",
+      "translation": "走出困境、撑过去",
+      "usage": "salir adelante 意为克服困难、在逆境中继续前进，是西班牙语中描述韧性与复原力的最高频表达之一，既可用于个人（salir adelante tras una pérdida），也可用于集体或国家层面。",
+      "exampleEs": "No sé cómo lo hizo, pero consiguió salir adelante después de perderlo todo.",
+      "exampleZh": "我不知道她是怎么做到的，但她在失去一切之后还是撑了过来。"
+    },
+    {
+      "expression": "de rigor",
+      "type": "colocación",
+      "translation": "例行的、必不可少的",
+      "usage": "de rigor 指某事是惯例要求、不可或缺的，las preguntas de rigor（例行问候）指那些在特定场合必须问、却往往流于形式的问题，带有轻微的讽刺意味，是正式和半正式文体的高频搭配。",
+      "exampleEs": "Tras la reunión, el director hizo las declaraciones de rigor ante los periodistas.",
+      "exampleZh": "会议结束后，主任在记者面前发表了例行声明。"
+    }
+  ]
+}

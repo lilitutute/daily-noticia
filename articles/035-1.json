@@ -1,0 +1,160 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "经济与国际关系",
+  "difficulty": "C1",
+  "wordCount": "约450词",
+  "title": "A China le falta planeta",
+  "subtitle": "中国缺少一个星球",
+  "resumenEs": "El artículo analiza el desequilibrio estructural de la economía china, cuya sobreproducción industrial —especialmente en sectores tecnológicos como paneles solares, baterías y vehículos eléctricos— supera con creces la demanda global. Apoyada por masivas subvenciones estatales y una lógica geoeconómica de dominación, esta sobrecapacidad amenaza directamente a la industria europea, especialmente tras el cierre del mercado estadounidense.",
+  "resumenZh": "本文分析了中国经济的结构性失衡：其工业产能严重过剩——尤其在太阳能板、电池和电动汽车等科技领域——远超全球需求。在国家大规模补贴和地缘经济主导逻辑的支撑下，这种产能过剩对欧洲工业构成直接威胁，在美国市场关闭之后尤为突出。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Las fábricas chinas producen más paneles solares, más baterías de litio y más vehículos eléctricos de los que compran sus consumidores y los del resto del mundo juntos. En concreto, de los dos primeros productos <strong>duplican</strong> la demanda de todo el planeta. Eso quiere decir que su producción no está <strong>sujeta</strong> ni condicionada por el mercado, sino por su política económica.",
+      "zh": "中国工厂生产的太阳能板、锂电池和电动汽车，比本国消费者和全球其他地区消费者的购买总量还要多。具体而言，前两类产品的产量是全球需求的两倍。这意味着其生产并非受制于市场，而是由经济政策所驱动。",
+      "vocab": [
+        {
+          "word": "duplican",
+          "translation": "是……的两倍、使翻倍",
+          "note": "duplicar 意为『使翻倍』，在数据对比语境中直接表示『是……的两倍』，同类构词有 triplicar（三倍）、multiplicar（成倍增加），掌握该词族可举一反三。"
+        },
+        {
+          "word": "sujeta",
+          "translation": "受制于、受约束于",
+          "note": "sujeto/a a 是固定搭配，意为『受……约束或制约』，常用于正式文体，如 sujeto a cambios（可能有变）、sujeto a normas（受规范约束），比 condicionado por 更强调外部约束力。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "La situación <strong>deriva</strong> de un desequilibrio estructural que va creciendo con los años. El país asiático dedica el 40% de su PIB al consumo privado, por el 50% de Europa y el 68% de Estados Unidos. Por contra, destina un 42% del PIB a la inversión, el doble que europeos y norteamericanos. Como ha explicado de forma magistral la investigadora del Real Instituto Elcano Judith Arnal, una economía que invierte más de lo que consume produce más de lo que absorbe y el <strong>excedente</strong> sale fuera como <strong>superávit</strong>. No es una flecha discutible, es una identidad contable.",
+      "zh": "这一局面源于一种多年来持续加剧的结构性失衡。这个亚洲国家将GDP的40%用于私人消费，而欧洲为50%，美国则高达68%。相反，它将GDP的42%用于投资，是欧美的两倍。正如西班牙皇家埃尔卡诺研究所研究员胡迪思·阿尔纳尔精辟阐释的那样：『一个投资多于消费的经济体，其生产必然多于吸收，多余的部分便以顺差形式流向海外。这不是一个可争议的推断，而是一个会计恒等式。』",
+      "vocab": [
+        {
+          "word": "deriva",
+          "translation": "源于、衍生自",
+          "note": "derivarse de 是固定搭配，意为『源自、由……产生』，用于说明某现象的成因，比 venir de 更正式，常见于学术和新闻分析语境，如 este problema se deriva de una mala gestión。"
+        },
+        {
+          "word": "excedente",
+          "translation": "剩余、过剩部分",
+          "note": "excedente 指超出需求或消耗的多余部分，在经济语境中强调实物层面的过剩，与下文 superávit（贸易顺差/财政盈余）形成搭配：前者指生产过剩的实物，后者指体现在账面上的盈余。"
+        },
+        {
+          "word": "superávit",
+          "translation": "顺差、盈余",
+          "note": "superávit 是经济学核心术语，指收入或出口大于支出或进口的差额，其反义词为 déficit（逆差/赤字），两者均为不可数名词，在财经新闻中极为高频。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "La famosa <strong>sobrecapacidad</strong> industrial china está <strong>inflándose</strong> según transcurren los trimestres. El gasto en activos inmobiliarios está en caída libre como consecuencia de su enorme burbuja, por lo que toda la potencia inversora se centra en las manufacturas. A ello se añaden dos elementos nuevos. Ya no se trata de productos de bajo valor añadido, sino de la tecnología más avanzada. Además, el cierre del mercado de Estados Unidos concentra las exportaciones en la UE, lo que deja al sector europeo totalmente <strong>desguarnecido</strong>.",
+      "zh": "随着季度推移，中国工业产能过剩的问题正在不断膨胀。受巨大房地产泡沫影响，房地产资产支出处于自由落体状态，因此全部投资力量都集中到了制造业。此外还叠加了两个新因素：一是所涉产品已不再是低附加值商品，而是最先进的技术产品；二是美国市场的关闭使出口集中涌向欧盟，令欧洲相关行业完全失去防护。",
+      "vocab": [
+        {
+          "word": "sobrecapacidad",
+          "translation": "产能过剩",
+          "note": "前缀 sobre- 表示『超过、过度』，sobrecapacidad = sobre- + capacidad（产能），同类构词有 sobreproducción（过度生产）、sobrecarga（超负荷）、sobreestimar（高估），掌握该前缀可大幅扩展词汇量。"
+        },
+        {
+          "word": "inflándose",
+          "translation": "膨胀、不断扩大",
+          "note": "inflarse 本义为『充气膨胀』，比喻义指某问题或数值持续扩大，与 burbuja（泡沫）同段出现形成呼应，其名词形式 inflación（通货膨胀）是财经新闻的核心词汇。"
+        },
+        {
+          "word": "desguarnecido",
+          "translation": "失去防护的、毫无防备的",
+          "note": "desguarnecido 来自 guarnición（防御工事/驻军），在经济和政治评论中比喻某行业或国家在竞争中处于毫无保护的脆弱状态，是军事词汇向政经语境迁移的典型例子。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "La OCDE calcula que las grandes industrias de China reciben nueve veces más apoyo público que sus <strong>pares</strong> en el resto del mundo. Pero hay que <strong>aterrizar</strong> este dato por sectores. La Unión Europea ha puesto algunas cifras en el automóvil eléctrico. Los coches BYD están <strong>subvencionados</strong> al 17%; los Geely (propietarios de Volvo), al 18%, y los SAIC, nada menos que al 35,5%. Esta última compañía perteneciente al Estado ultima la instalación de una factoría de ensamblaje en El Ferrol a escasos kilómetros de Vigo, donde está ubicada Stellantis (Citroën). ¿Se trata de competencia o de sustitución? Las autoridades españolas defienden que SAIC producirá con componentes europeos sin protestar porque tiene prohibido compartir conocimientos tecnológicos con el país receptor.",
+      "zh": "经合组织估算，中国大型工业企业获得的公共支持是全球其他地区同类企业的九倍。但这一数据需要落实到具体行业来看。欧盟已就电动汽车领域列出了一些数字：比亚迪汽车享受17%的补贴，吉利（沃尔沃母公司）为18%，上汽集团则高达35.5%。上汽这家国有企业正在加紧推进在费罗尔设立一家组装工厂，距离雪铁龙母公司Stellantis所在的维戈仅数公里之遥。这究竟是竞争，还是取代？西班牙当局坚持认为，上汽将使用欧洲零部件生产，且不会提出异议，因为其被禁止与东道国共享技术知识。",
+      "vocab": [
+        {
+          "word": "pares",
+          "translation": "同类、同行",
+          "note": "par 在此指『同等级别或同类型的对象』，sus pares 意为『同类企业/同行』，对应英语的 peers，是学术报告和国际新闻中的高频词，注意与日常义『一对』区分。"
+        },
+        {
+          "word": "aterrizar",
+          "translation": "落地、具体化",
+          "note": "aterrizar 本义为『飞机着陆』，在新闻和商业语境中比喻将抽象数据或概念『落地、具体化到实际层面』，aterrizar un dato（把数据落实到具体情境）是评论文体的高频比喻用法。"
+        },
+        {
+          "word": "subvencionados",
+          "translation": "获得补贴的",
+          "note": "subvencionado 来自 subvención（补贴、津贴），指由政府或机构提供资金支持，estar subvencionado al X%（享受X%补贴）是贸易和产业政策新闻的核心句式，其动词形式为 subvencionar。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "La identidad contable china de la que habla Arnal no forma parte de un balance <strong>encorsetado</strong> por unas reglas financieras <strong>homologables</strong>, sino por una óptica <strong>geoeconómica</strong> de dominación. Y así, con sus pros y sus contras, es como debe afrontarse.",
+      "zh": "阿尔纳尔所说的中国会计恒等式，并非源于一套受可比较金融规则约束的资产负债表，而是出于一种地缘经济主导的视角。正是如此，连同其利与弊，才是应对这一问题的正确方式。",
+      "vocab": [
+        {
+          "word": "encorsetado",
+          "translation": "被束缚的、受严格约束的",
+          "note": "encorsetado 来自 corsé（束腰衣），比喻被规则或框架紧紧束缚、缺乏灵活性，是政经评论中形容制度僵化的生动比喻，类似汉语的『被套上紧箍咒』。"
+        },
+        {
+          "word": "homologables",
+          "translation": "可比较的、可认证的、符合通行标准的",
+          "note": "homologable 来自 homologar（认证、使标准化），指可与其他体系进行比较或互认的，在法律和经济语境中常指符合国际通行规则的标准，是正式文体的高级词汇。"
+        },
+        {
+          "word": "geoeconómica",
+          "translation": "地缘经济的",
+          "note": "geoeconómico 是由 geo-（地理）+ económico（经济）构成的复合形容词，指将地理政治因素与经济利益相结合的战略视角，是当代国际关系和财经评论中的核心术语。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "caída libre",
+      "type": "colocación",
+      "translation": "自由落体、急剧下滑",
+      "usage": "caída libre 本为物理学术语，在经济和新闻语境中比喻某指标毫无阻力地急速下跌，estar en caída libre 是固定搭配，带有失控感，比 caída pronunciada 语气更强烈，是财经新闻的高频比喻表达。",
+      "exampleEs": "Tras el escándalo contable, las acciones de la empresa entraron en caída libre.",
+      "exampleZh": "财务丑闻曝光后，该公司股价急剧下滑。"
+    },
+    {
+      "expression": "aterrizar un dato",
+      "type": "expresión coloquial",
+      "translation": "将数据落地、把抽象信息具体化",
+      "usage": "aterrizar 本义为飞机着陆，在新闻和商业语境中比喻将宏观或抽象的信息『落地』到具体可感的层面，hay que aterrizar este dato（需要把这个数据落实到具体情境）是评论文体的高频表达。",
+      "exampleEs": "El ministro presentó las cifras globales, pero hay que aterrizar ese dato en cada comunidad autónoma.",
+      "exampleZh": "部长公布了总体数字，但需要将这一数据落实到每个自治区的具体情况。"
+    },
+    {
+      "expression": "pros y contras",
+      "type": "colocación",
+      "translation": "利与弊、正反两面",
+      "usage": "pros y contras 是固定搭配，源自拉丁语 pro（支持）和 contra（反对），指某事物的优缺点或正反两面，con sus pros y sus contras 常作插入语，表示『尽管有利有弊』，是书面和口语均适用的高频表达。",
+      "exampleEs": "Antes de tomar una decisión, conviene analizar los pros y contras de cada opción.",
+      "exampleZh": "在做决定之前，最好分析每个选项的利与弊。"
+    },
+    {
+      "expression": "nada menos que",
+      "type": "expresión coloquial",
+      "translation": "高达、竟然多达",
+      "usage": "nada menos que 用于强调某数字或事实出乎意料地高或重要，带有惊叹语气，常置于数字或重要信息之前，相当于英语的 no less than 或 as much as，是新闻和口语中的高频强调表达。",
+      "exampleEs": "El proyecto costó nada menos que 200 millones de euros.",
+      "exampleZh": "该项目耗资竟高达两亿欧元。"
+    },
+    {
+      "expression": "valor añadido",
+      "type": "colocación",
+      "translation": "附加值",
+      "usage": "valor añadido 是经济学固定术语，指产品在生产过程中新增的价值，bajo/alto valor añadido（低/高附加值）是产业政策和贸易新闻的核心搭配，理解该词对阅读经济类文章至关重要。",
+      "exampleEs": "España necesita apostar por sectores de alto valor añadido para mejorar su competitividad.",
+      "exampleZh": "西班牙需要押注高附加值行业以提升竞争力。"
+    }
+  ]
+}
