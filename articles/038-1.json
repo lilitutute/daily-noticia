@@ -1,0 +1,271 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与教育",
+  "difficulty": "B2",
+  "wordCount": "约900词",
+  "title": "Las gafas con IA están facilitando las trampas en los exámenes. Asia es el epicentro",
+  "subtitle": "AI眼镜助长考试作弊风潮，亚洲成重灾区",
+  "resumenEs": "El uso de gafas inteligentes con IA para hacer trampa en exámenes se ha convertido en un problema creciente, especialmente en Asia Oriental, donde la presión académica es extrema. Casos recientes en Corea del Sur y Taiwán han alertado a las autoridades educativas, mientras los expertos advierten que la tecnología evoluciona más rápido que los sistemas de evaluación. El debate de fondo no es solo sobre seguridad en los exámenes, sino sobre cómo repensar la educación en la era de la IA.",
+  "resumenZh": "利用AI智能眼镜在考试中作弊的现象日益严峻，在学业压力极大的东亚地区尤为突出。韩国和中国台湾近期发生的案例已引发教育主管部门警惕，专家警告技术发展速度远超评估体系的应对能力。这场争论的核心不仅是考场安全，更是如何在AI时代重新思考教育的本质。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Desde que existen exámenes en las escuelas, los estudiantes han encontrado maneras de hacer trampa, ya sea mirando por encima del hombro de un compañero o tomando notas en la palma de la mano o en una <strong>chuleta</strong>.",
+      "zh": "自从学校有了考试，学生们就一直在想方设法作弊——无论是偷看同学的试卷，还是把答案写在手心或小抄上。",
+      "vocab": [
+        {
+          "word": "chuleta",
+          "translation": "小抄；作弊纸条",
+          "note": "chuleta 本义为『排骨/猪排』，在西班牙口语中引申为考试用的『小抄』，是典型的一词多义词，这一俚语用法在拉美部分地区也通用。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Pero a medida que la tecnología evoluciona y aumenta la presión por obtener las mejores calificaciones, los estudiantes recurren ahora a gafas inteligentes con IA para obtener <strong>ventaja</strong>. Y en las sociedades de Asia Oriental <strong>obsesionadas</strong> con los exámenes, donde una sola prueba puede influir en la trayectoria profesional y el estatus social de un estudiante, los educadores se esfuerzan por anticiparse al problema.",
+      "zh": "但随着技术不断进步、对高分的压力持续攀升，学生们如今开始借助AI智能眼镜来获取优势。在东亚这些对考试近乎痴迷的社会中，一场考试就可能左右学生的职业轨迹和社会地位，教育工作者正竭力抢先应对这一问题。",
+      "vocab": [
+        {
+          "word": "ventaja",
+          "translation": "优势；有利条件",
+          "note": "obtener ventaja 是固定搭配，表示『获得优势/占得先机』；注意 ventaja 与 beneficio 的区别：ventaja 强调相对于他人的竞争优势，beneficio 侧重获得的利益或好处。"
+        },
+        {
+          "word": "obsesionadas",
+          "translation": "痴迷的；着魔的",
+          "note": "obsesionado/a con 是固定搭配，表示对某事物有强烈执念，语气比 apasionado 更强烈，带有无法自控的负面含义，常用于批评性语境。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "En dos ocasiones el mes pasado, personas en Corea del Sur que realizaban un examen para evaluar sus conocimientos del idioma inglés —cuyos resultados se utilizan a menudo para tomar decisiones de <strong>contratación</strong>— fueron sorprendidas utilizando gafas inteligentes. En Taiwán, se descubrió que un estudiante que se presentaba a un examen de ingreso a una <strong>prestigiosa</strong> facultad de medicina llevaba gafas inteligentes después de que los supervisores notaran que el estudiante miraba de forma extraña durante la prueba, lo que llevó a una inspección que reveló que la montura emitía calor.",
+      "zh": "上个月，韩国两度发生考生在参加英语水平考试——其成绩常被用于招聘决策——时被当场抓获使用智能眼镜的事件。在台湾，一名报考一所知名医学院的考生被发现佩戴智能眼镜，起因是监考人员注意到该考生在考试中眼神异常，随即进行检查，发现眼镜镜框在散热。",
+      "vocab": [
+        {
+          "word": "contratación",
+          "translation": "招聘；雇用",
+          "note": "contratación 源自动词 contratar（签合同、雇用），在人力资源和新闻语境中专指『招聘录用』行为，decisiones de contratación 即『招聘决策』，是职场类文章的核心词汇。"
+        },
+        {
+          "word": "prestigiosa",
+          "translation": "享有盛誉的；名望卓著的",
+          "note": "prestigioso/a 是新闻文体中描述机构、奖项或人物地位的高频形容词，与 famoso（出名的）的区别在于 prestigioso 更强调因卓越品质而赢得的社会尊重，语气更正式。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Hacer trampa con gafas inteligentes no es algo nuevo. Pero a medida que los dispositivos <strong>portátiles</strong> con IA se vuelven más comunes, <strong>asequibles</strong> y sofisticados, los aspectos tradicionales de la educación —desde la enseñanza hasta la evaluación— se ven sometidos a una enorme presión para evolucionar. En un sentido más amplio, esta tecnología también reaviva el debate sobre cómo equilibrar la eficacia del aprendizaje con el riesgo de hacer trampa.",
+      "zh": "用智能眼镜作弊并非新鲜事。但随着AI可穿戴设备变得越来越普及、价格越来越亲民、功能越来越强大，教育的传统面貌——从教学到评估——正承受着巨大的变革压力。从更宏观的角度来看，这一技术也重新点燃了关于如何平衡学习效果与作弊风险的争论。",
+      "vocab": [
+        {
+          "word": "portátiles",
+          "translation": "便携的；可穿戴的",
+          "note": "portátil 由 portar（携带）+ 后缀 -til 构成，既指『便携式设备』（如 ordenador portátil，即笔记本电脑），在科技语境中也对应英语 wearable（可穿戴设备）的含义。"
+        },
+        {
+          "word": "asequibles",
+          "translation": "价格实惠的；负担得起的",
+          "note": "假朋友警告：asequible 表示『价格亲民、可负担』，而非英语 accessible（可进入的/无障碍的）；西语中『无障碍』通常用 accesible，两词拼写相近但含义不同，需注意区分。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Los países ya están <strong>intensificando</strong> las inspecciones a los candidatos que realizan las pruebas. Para el exigente examen anual de ingreso a la universidad en China, celebrado a principios de este mes —al que se presentan más de 10 millones de <strong>aspirantes</strong> cada año—, las autoridades exigieron la revisión de todas las gafas. En el Reino Unido, el director del organismo de control de exámenes de Inglaterra advirtió a principios de este mes que las gafas con inteligencia artificial y los dispositivos inteligentes como los auriculares podrían agravar las trampas en los exámenes.",
+      "zh": "各国已开始加强对考生的检查力度。针对中国每年举行的严格高考——每年有逾千万名考生参加——当局要求对所有眼镜进行检查。在英国，英格兰考试监管机构负责人本月初警告称，AI眼镜和智能耳机等智能设备可能会加剧考试作弊问题。",
+      "vocab": [
+        {
+          "word": "intensificando",
+          "translation": "加强；强化；升级",
+          "note": "intensificar 由 intenso + 后缀 -ficar 构成，-ficar 是『使……化』的构词后缀，可类推 simplificar（简化）、clarificar（澄清）、amplificar（放大）等高频词。"
+        },
+        {
+          "word": "aspirantes",
+          "translation": "考生；申请者；有志者",
+          "note": "aspirante 来自 aspirar a（渴望、有志于），在教育语境中特指『报考者、申请入学者』，比 candidato 更强调主动追求某目标的意愿，是招生和考试报道的核心词。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Los dos incidentes ocurridos en Corea del Sur fueron los primeros casos reportados en el país de fraude mediante gafas con inteligencia artificial. En respuesta, la entidad administradora de los exámenes de ingreso a la universidad de Corea del Sur declaró a CNN que está en conversaciones con el Ministerio de Educación y las oficinas educativas locales sobre medidas para <strong>prevenir</strong> las trampas con gafas de inteligencia artificial, que, junto con todos los demás dispositivos electrónicos, ya están <strong>prohibidas</strong> en las salas de examen.",
+      "zh": "韩国发生的这两起事件，是该国首次有记录的AI眼镜作弊案例。对此，韩国大学入学考试管理机构向CNN表示，正在与教育部及地方教育机构就预防AI眼镜作弊的措施进行磋商——AI眼镜与其他所有电子设备一样，已被明令禁止带入考场。",
+      "vocab": [
+        {
+          "word": "prevenir",
+          "translation": "预防；防范",
+          "note": "prevenir 与 evitar 的区别：prevenir 强调提前采取措施以阻止不良事件发生（prevention），evitar 则更泛指『避免』某事，两者在新闻文体中均高频，但语义侧重不同。"
+        },
+        {
+          "word": "prohibidas",
+          "translation": "被禁止的",
+          "note": "prohibir + estar 构成被动状态，表示某事物处于被禁止的状态；注意 estar prohibido（状态）与 se prohíbe（规定/动作）的区别，前者描述现状，后者强调规定本身。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Pero a los expertos les preocupa que estos casos individuales apunten a un problema más <strong>generalizado</strong>. \"Si bien se están reportando algunos casos, se están produciendo muchos más que no se reportan\", afirmó Thomas Corbin, profesor de la Universidad Deakin en Australia, quien ha realizado investigaciones sobre el uso de gafas con inteligencia artificial y otros dispositivos inteligentes en la <strong>evaluación</strong> académica.",
+      "zh": "但专家们担忧，这些个案只是一个更普遍问题的冰山一角。「虽然有一些案例被报告出来，但还有更多案例根本没有被上报，」澳大利亚迪肯大学教授Thomas Corbin表示，他长期研究AI眼镜及其他智能设备在学术评估中的使用问题。",
+      "vocab": [
+        {
+          "word": "generalizado",
+          "translation": "普遍的；广泛存在的",
+          "note": "generalizado 是新闻和学术文体中描述某现象大范围存在的高频词，由 generalizar（普及化）的过去分词转化而来，常与 problema、uso、rechazo 等名词搭配。"
+        },
+        {
+          "word": "evaluación",
+          "translation": "评估；考核；测评",
+          "note": "evaluación 在教育语境中泛指所有形式的学业考核，比 examen（考试）范围更广，涵盖测验、论文、项目等多种形式，是教育政策类文章的核心词汇。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Sin embargo, con el rápido desarrollo de la tecnología de IA, las gafas inteligentes se están volviendo más <strong>delgadas</strong> y discretas, a la vez que integran modelos de IA que pueden operar de forma independiente con conectividad, lo que plantea preocupaciones no solo sobre la <strong>integridad</strong> de los exámenes, sino también sobre riesgos más amplios para la privacidad. Estos dispositivos portátiles están dejando de ser una novedad para convertirse rápidamente en un producto de consumo masivo.",
+      "zh": "然而，随着AI技术的快速发展，智能眼镜正变得越来越轻薄低调，同时集成了可在联网状态下独立运行的AI模型，这不仅引发了对考试诚信的担忧，也带来了更广泛的隐私风险。这些可穿戴设备正迅速从新奇玩意儿演变为大众消费品。",
+      "vocab": [
+        {
+          "word": "delgadas",
+          "translation": "纤薄的；轻薄的",
+          "note": "delgado/a 在描述人时意为『苗条、瘦』，在描述物体时意为『薄、细』；注意与 fino（精细、细腻）的区别：delgado 强调物理厚度，fino 更侧重质感或精致程度。"
+        },
+        {
+          "word": "integridad",
+          "translation": "诚信；完整性；廉洁",
+          "note": "integridad 在教育和法律语境中指『诚信、廉洁』，在技术语境中指『数据完整性』，是典型的多义词；其形容词 íntegro 表示『正直的、完整的』，构词价值高。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "El gigante tecnológico estadounidense Meta lanzó sus primeras gafas con inteligencia artificial junto con Ray-Ban a finales de 2023, y desde entonces ha presentado varias versiones nuevas. Solo el año pasado, se vendieron más de siete millones de pares. \"La IA portátil supone un <strong>desafío</strong> para los exámenes tan grande como lo fue ChatGPT para los ensayos en 2022, y simplemente no creo que haya ninguna manera real de que podamos tener prácticas de examen <strong>confiables</strong> en el futuro\", declaró Corbin.",
+      "zh": "美国科技巨头Meta于2023年底联合Ray-Ban推出首款AI眼镜，此后陆续发布多个新版本。仅去年一年，销量就超过700万副。「AI可穿戴设备对考试的冲击，就如同2022年ChatGPT对论文写作的冲击一样巨大，我实在不认为未来还能有任何真正可靠的考试方式，」Corbin表示。",
+      "vocab": [
+        {
+          "word": "desafío",
+          "translation": "挑战；难题",
+          "note": "desafío 和 reto 均表示『挑战』，但 desafío 更强调来自外部的威胁性挑战，语气更强烈；reto 则更中性，常用于个人成长或积极应对的语境。"
+        },
+        {
+          "word": "confiables",
+          "translation": "可靠的；值得信赖的",
+          "note": "confiable 在拉美西语中极为常见，对应西班牙本土的 fiable；两者可互换，但 confiable 在新闻和口语中更为普遍，学习者两种形式均需掌握。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Hace un año, el profesor adjunto Meng Zili, de la Universidad de Ciencia y Tecnología de Hong Kong (HKUST), se fijó en unas gafas elegantes que llevaba un estudiante durante un examen que él <strong>supervisaba</strong>. Como investigador que trabaja en gafas con inteligencia artificial, la montura le llamó la atención. Las gafas resultaron ser corrientes. Pero el incidente lo inspiró a probar gafas comerciales con inteligencia artificial en un examen de <strong>pregrado</strong> de un curso de ingeniería eléctrica.",
+      "zh": "一年前，香港科技大学助理教授孟子立在监考时注意到一名学生戴着一副造型别致的眼镜。作为一名研究AI眼镜的学者，这副镜架引起了他的注意。那副眼镜最终证实是普通眼镜。但这次经历启发他在一门电气工程本科课程的考试中，亲自测试了市售AI眼镜的实际效果。",
+      "vocab": [
+        {
+          "word": "supervisaba",
+          "translation": "监督；监考",
+          "note": "supervisar 是『监督、监管』的通用动词，在教育语境中特指『监考』，比 vigilar（看守、盯梢）更正式，在职场语境中也常用于描述上级对下属工作的监督。"
+        },
+        {
+          "word": "pregrado",
+          "translation": "本科（阶段）",
+          "note": "pregrado 对应英语 undergraduate，指大学本科教育阶段；对应词为 posgrado（研究生阶段），前缀 pre-（之前）和 pos-（之后）的对比构词规律值得掌握。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "El resultado fue <strong>sorprendente</strong>, demostrando que las gafas con IA son una tecnología viable para la realización de exámenes, afirmó Meng. Con solo mirar el examen, las gafas podían transmitir las preguntas a un modelo de lenguaje de IA conectado, que generaba las respuestas y las mostraba en las lentes. La puntuación obtenida con el dispositivo lo situó entre los cinco primeros de una clase de más de 100 alumnos, superando <strong>significativamente</strong> la puntuación media de 72.",
+      "zh": "结果令人震惊——孟子立表示，这证明AI眼镜是一种切实可行的考试作弊技术。只需看一眼试卷，眼镜便能将题目传输给联网的AI语言模型，由其生成答案并显示在镜片上。借助该设备获得的分数使他跻身百余名学生中的前五名，远超72分的班级平均分。",
+      "vocab": [
+        {
+          "word": "sorprendente",
+          "translation": "令人惊讶的；出人意料的",
+          "note": "注意主动与被动形式的区别：sorprendente（令人惊讶的，修饰事物）vs. sorprendido（感到惊讶的，修饰人），这对形容词的主被动区分是西语学习者的常见难点。"
+        },
+        {
+          "word": "significativamente",
+          "translation": "显著地；大幅地",
+          "note": "significativamente 在学术和新闻文体中是描述数据差异或变化幅度的核心副词，对应英语 significantly，比 mucho 更正式，常出现在研究报告和统计分析类文章中。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "\"Tras realizar el experimento, surge la pregunta de cuánto conocimiento necesitan <strong>memorizar</strong> realmente los estudiantes para los exámenes, en comparación con si deberíamos permitirles usar la IA durante la evaluación, dado a lo que la IA es capaz de hacer actualmente\", comentó Meng. Zhang Jun, profesor de ingeniería eléctrica en la HKUST y codirector del proyecto junto con Meng, afirmó que, dada la rapidez con la que evolucionan la tecnología y la IA, la educación tradicional tiene dificultades para <strong>mantenerse al día</strong>.",
+      "zh": "「做完这个实验之后，一个问题随之浮现：考虑到AI目前的能力，学生究竟真正需要为考试记忆多少知识，还是说我们应该允许他们在评估中使用AI？」孟子立说。香港科技大学电气工程教授、该项目联合负责人张军表示，鉴于技术和AI的发展速度之快，传统教育已难以跟上步伐。",
+      "vocab": [
+        {
+          "word": "memorizar",
+          "translation": "记忆；背诵",
+          "note": "memorizar 强调主动将信息存入记忆的过程，比 recordar（记得、回忆起）更强调『刻意背记』的动作，在教育类文章中是描述应试学习方式的核心动词。"
+        },
+        {
+          "word": "mantenerse al día",
+          "translation": "跟上时代；与时俱进",
+          "note": "固定搭配，al día 字面意为『在今天』，引申为『最新的、及时的』；mantenerse al día（con/de）表示持续跟进某领域的最新动态，是新闻和职场语境的高频表达。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "Pero a pesar de suponer una importante <strong>disrupción</strong> para la educación, el poder de la IA no debería ser motivo para <strong>desalentar</strong> su uso, afirmó Kong Siu Cheung, profesor y director del Centro de Educación en IA y Competencia Digital de la Universidad de Educación de Hong Kong. En cambio, los sistemas educativos deberían centrarse en desarrollar las capacidades de pensamiento y la metacognición de los estudiantes para evitar una dependencia excesiva de la IA. \"Debemos usar la tecnología. Debemos usar la IA. No debemos limitarnos a decir que hay que evitarla… En resumen: no delegues tu capacidad de pensamiento\", añadió.",
+      "zh": "然而，尽管AI对教育构成重大颠覆，但这不应成为阻止使用AI的理由，香港教育大学AI教育与数字素养中心教授兼主任江绍祥表示。他认为，教育体系应着力培养学生的思维能力和元认知能力，以避免对AI产生过度依赖。「我们必须使用技术，必须使用AI。我们不能只是说要回避它、停止使用它……总而言之：不要把你的思考能力拱手相让，」他补充道。",
+      "vocab": [
+        {
+          "word": "disrupción",
+          "translation": "颠覆性变革；破坏性冲击",
+          "note": "disrupción 是从英语 disruption 借入的新词，在科技和教育新闻中极为高频，形容词为 disruptivo（颠覆性的），是当代商业和科技报道必掌握的词汇。"
+        },
+        {
+          "word": "desalentar",
+          "translation": "使气馁；阻止；打消积极性",
+          "note": "desalentar 由 des-（否定）+ alentar（鼓励、激励）构成，表示『打消积极性、使人望而却步』，与 desanimar 近义，但 desalentar 更常用于正式和书面语境。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "hacer trampa",
+      "type": "colocación",
+      "translation": "作弊；耍手段",
+      "usage": "固定搭配，是西语中表达『作弊、欺骗』最自然的说法，适用于考试、游戏、商业等各类语境。trampa 本义为『陷阱』，hacer trampa 即『设陷阱/耍花招』，语气可轻可重，日常口语和正式文体均可使用。",
+      "exampleEs": "Si haces trampa en el examen y te descubren, podrías ser expulsado de la universidad.",
+      "exampleZh": "如果你在考试中作弊被发现，可能会被大学开除。"
+    },
+    {
+      "expression": "llamar la atención",
+      "type": "colocación",
+      "translation": "引起注意；吸引眼球",
+      "usage": "高频固定搭配，有两种常见用法：一是『引起某人注意』（algo le llama la atención a alguien），二是『批评/提醒某人』（llamarle la atención a alguien por algo）。本文中为第一种用法，需根据语境判断含义。",
+      "exampleEs": "El diseño tan inusual del edificio le llamó la atención a todos los transeúntes.",
+      "exampleZh": "那栋建筑造型奇特，吸引了所有路人的目光。"
+    },
+    {
+      "expression": "mantenerse al día",
+      "type": "colocación",
+      "translation": "跟上时代；保持与最新动态同步",
+      "usage": "固定搭配，常与介词 con 或 de 连用，如 mantenerse al día con la tecnología（跟上技术发展）。al día 表示『最新的、及时的』，这一搭配在职场、科技和教育语境中极为常见，也可用 estar al día 表示状态。",
+      "exampleEs": "Es difícil mantenerse al día con todos los avances en inteligencia artificial.",
+      "exampleZh": "要跟上人工智能领域的所有最新进展，实在不是一件容易的事。"
+    },
+    {
+      "expression": "anticiparse al problema",
+      "type": "colocación",
+      "translation": "提前应对问题；抢先一步防患于未然",
+      "usage": "固定搭配，anticiparse a 表示『比……提前行动、抢先应对』，强调主动预判并提前布局，在新闻报道中常用于描述机构或个人对潜在危机的前瞻性应对。",
+      "exampleEs": "Las empresas deben anticiparse a los cambios del mercado para seguir siendo competitivas.",
+      "exampleZh": "企业必须提前预判市场变化，才能保持竞争力。"
+    },
+    {
+      "expression": "suponer un desafío",
+      "type": "colocación",
+      "translation": "构成挑战；带来难题",
+      "usage": "固定搭配，suponer 在此作『意味着、构成』解，而非『假设』，是新闻和学术文体中描述某事物带来挑战或影响的标准句式，类似搭配还有 suponer un riesgo（构成风险）、suponer una amenaza（构成威胁）。",
+      "exampleEs": "La escasez de agua supone un desafío enorme para las ciudades del desierto.",
+      "exampleZh": "水资源匮乏对沙漠城市而言是一项巨大的挑战。"
+    }
+  ]
+}

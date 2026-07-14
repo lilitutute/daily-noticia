@@ -1,0 +1,168 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "文学与散文",
+  "difficulty": "C1",
+  "wordCount": "约700词",
+  "title": "El miedo que da el mar",
+  "subtitle": "大海带来的恐惧",
+  "resumenEs": "El autor escribe una carta íntima a su hija Candela mientras la observa jugar sin miedo en el mar Cantábrico. A través de referencias literarias, el horror lovecraftiano y recuerdos de sus padres ya fallecidos, reflexiona sobre el miedo al mar como metáfora de la eternidad, la finitud humana y el paso del tiempo. El mar, indiferente y eterno, sobrevive a todos: al padre que emergía victorioso de las olas, a la madre que ya no está, y sobrevivirá también a él.",
+  "resumenZh": "作者以一封私密的信写给女儿坎德拉，看着她无所畏惧地在坎塔布里亚海玩耍。通过文学典故、洛夫克拉夫特式的恐怖意象以及对已故双亲的回忆，他将对大海的恐惧升华为对永恒、人类有限性与时间流逝的沉思。大海冷漠而永恒，它见证了一切：曾经从海浪中凯旋而出的父亲，已然离世的母亲，也终将见证他自己的消逝。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Yo a ti, Candela, te digo que no pasa nada, que basta con sentir un poco de respeto. Pero es mentira: a mí el mar me provoca mucho miedo. Hay gente que ve el mar con los ojos de Sorolla, hay quien piensa el mar en las palabras de Vicent, algunos lo leen a través de la máquina de Camba. Pero yo veo el mar al modo del <strong>horror lovecraftiano</strong>: es un monstruo dormido que lame las playas y que, respirando lentamente, atraviesa la inmensidad del espacio y la eternidad del tiempo. A su lado, todos nuestros sueños <strong>carecen</strong> de sentido.",
+      "zh": "坎德拉，我告诉你没事的，只需要保持一点敬畏就好。但这是谎言：大海让我非常恐惧。有人用索罗亚的眼睛看海，有人用比森特的文字思考海，有些人透过坎巴的文字机器来阅读海。但我看海的方式是洛夫克拉夫特式的恐怖：它是一头沉睡的怪兽，舔舐着海滩，缓缓呼吸，穿越空间的无垠与时间的永恒。在它面前，我们所有的梦想都失去了意义。",
+      "vocab": [
+        {
+          "word": "horror lovecraftiano",
+          "translation": "洛夫克拉夫特式的恐怖",
+          "note": "lovecraftiano 来自美国恐怖小说家 H.P. Lovecraft（1890-1937），其作品以『宇宙恐惧』为核心——面对浩瀚宇宙和古老存在，人类的渺小与无意义，这种恐惧感被称为 cosmic horror 或 horror lovecraftiano，是文学评论中的专业术语。"
+        },
+        {
+          "word": "carecen",
+          "translation": "缺乏、没有",
+          "note": "carecer de 是固定搭配，意为『缺乏某种东西』，比 no tener 更正式，常用于书面语，如 carecer de sentido（毫无意义）、carecer de fundamento（缺乏依据），是C1级别的核心词汇。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Yo estoy mirando al mar. Tú, Candela, no cuentas cinco años ni tienes miedo a nada. Vemos pasar un enorme carguero, se mueve y parece que está quieto. Dices que viene una ola gigantesca que apenas te cubre la cintura. Observas el <strong>remolino</strong> del agua con la arena, que hoy tiene un poco de carbón. No dejas de reír, es increíble, cuando estás cerca del Cantábrico.",
+      "zh": "我凝视着大海。而你，坎德拉，还不到五岁，什么都不怕。我们看着一艘巨大的货轮驶过，它在移动，却看起来纹丝不动。你说来了一个『巨浪』，那浪几乎只到你的腰。你观察着水与沙混合时形成的漩涡，今天沙里还带着一点煤渣。靠近坎塔布里亚海的时候，你总是笑个不停，真是不可思议。",
+      "vocab": [
+        {
+          "word": "remolino",
+          "translation": "漩涡、旋涡",
+          "note": "remolino 指水、风或沙形成的旋转运动，可用于液体（remolino de agua）、气体（remolino de viento）或固体颗粒（remolino de arena），在文学语境中也常比喻混乱或情绪的旋涡。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Te cojo en brazos y siento en el tobillo el roce de las algas: me <strong>asalta</strong> la imagen del kraken —su estallido de tentáculos—, del voraz tiburón de la película, me horroriza acabar <strong>enredado</strong> en el fondo marino o, peor, la idea de nadar sobre una inmensidad de agua oscura y fría, sin saber qué seres se deslizan por debajo. Dicen, te cuento, que en Asturias hay <strong>galernas</strong> que, partiendo de la calma, en pocos minutos se llevan para siempre a los marineros en sus barcos. Pero todo eso a ti te da igual, Candela, y vuelves a brincar entre la espuma y vuelves a reírte de las olas.",
+      "zh": "我把你抱起来，脚踝感到海藻的触碰：脑海中猛然浮现出克拉肯的形象——那爆发的触手——还有电影里那条贪婪的鲨鱼，我恐惧于最终被缠绕在海底，或者更糟，在一片黑暗冰冷的无垠水域中游泳，不知道什么生物在脚下滑行。我告诉你，据说在阿斯图里亚斯，有一种突如其来的狂风暴浪，从平静中骤然而起，几分钟内就能把渔船和水手永远带走。但这一切对你来说都无所谓，坎德拉，你继续在浪花中蹦跳，继续对着海浪大笑。",
+      "vocab": [
+        {
+          "word": "asalta",
+          "translation": "突然涌现、袭来",
+          "note": "asaltar 本义为『袭击、突击』，在心理语境中指某种念头、记忆或恐惧突然涌入脑海，me asalta una imagen/idea（一个画面/念头突然闯入脑海）是文学和散文中的高频比喻用法，比 me viene 更具冲击感。"
+        },
+        {
+          "word": "enredado",
+          "translation": "缠绕、困陷",
+          "note": "enredado 来自 enredar（缠绕、使陷入），既指物理上被缠住，也比喻陷入复杂困境，acabar enredado en（最终被缠在……中）是表达恐惧或困境的常见句式，带有无法脱身的无力感。"
+        },
+        {
+          "word": "galernas",
+          "translation": "加莱纳风暴（坎塔布里亚海特有的突发性暴风）",
+          "note": "galerna 是西班牙北部坎塔布里亚海特有的气象现象，指从西南方向突然袭来的猛烈风暴，以来势迅猛、毫无预兆著称，历史上曾造成大量渔船沉没，是西班牙北部沿海文化中充满恐惧色彩的自然意象。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Mis padres también me llevaban a la playa como yo te llevo a ti. Playas <strong>anónimas</strong>, salvajes, donde no había gente ni arena, solo piedras grises y marrones y bolitas verdes de cristal erosionado por el mar, playas cubiertas de <strong>ocle</strong>, con frecuente <strong>galipote</strong>. Recuerdo a mi padre hundiéndose con su slip rojo en el mar bravo y salado que daba <strong>dentelladas</strong> a las rocas, un mar puramente cantábrico del que emergía con el cuerpo perlado de sal, la barba goteando, el pecho ancho y peludo, abierto al sol, el arpón en una mano y un pulpo muerto colgando de la otra. Ese era mi padre, Poseidón, que se enfrentaba a la naturaleza desnudo y salía victorioso. El alcohol le mató poco después, ya hace más de 30 años.",
+      "zh": "我的父母也曾像我带你一样带我去海滩。那是些无名的、荒野的海滩，没有人群，没有沙子，只有灰色和棕色的石头，还有被海水侵蚀成绿色小球的玻璃碎片，海滩上铺满了墨角藻，还时常有焦油污迹。我记得父亲穿着红色游泳短裤没入那片狂野咸涩的海水——那海水向礁石猛扑撕咬——然后从那片纯粹的坎塔布里亚海中浮现，身上缀满盐粒，胡须滴水，宽阔多毛的胸膛敞向阳光，一手持鱼叉，另一手悬挂着一只死章鱼。那就是我的父亲，波塞冬，赤手空拳与自然搏斗，并且胜出。不久之后，酒精夺走了他的生命，距今已逾三十年。",
+      "vocab": [
+        {
+          "word": "anónimas",
+          "translation": "无名的、不知名的",
+          "note": "anónimo/a 本指『匿名的』，用于修饰地点时意为『不知名的、没有名气的』，playas anónimas 在此带有一种被遗忘、远离人群的荒凉感，与旅游胜地的知名海滩形成对比。"
+        },
+        {
+          "word": "ocle",
+          "translation": "墨角藻、海藻",
+          "note": "ocle 是西班牙北部方言词，指一种常见于坎塔布里亚海岸的褐色海藻（墨角藻），是阿斯图里亚斯和加利西亚海岸文化的典型意象，体现了作者对故乡海岸的细腻描写。"
+        },
+        {
+          "word": "galipote",
+          "translation": "焦油、沥青污迹",
+          "note": "galipote 指船舶或工业排放的焦油在海滩上留下的黑色污迹，是西班牙北部工业海岸的历史性污染标志，在文中与荒野海滩的意象并置，带有一种粗粝的现实感。"
+        },
+        {
+          "word": "dentelladas",
+          "translation": "猛咬、撕咬",
+          "note": "dentellada 来自 diente（牙齿），指用牙齿猛力撕咬的动作，dar dentelladas a las rocas（向礁石猛扑撕咬）是将海浪拟人化的生动比喻，体现了坎塔布里亚海的狂暴性格，是文学散文中的高级词汇。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Y el mar allí seguía, porque ni siquiera papá podía vencer al mar. Yo empecé a ver en el mar una <strong>metáfora</strong> de la eternidad del mundo y de nuestra <strong>finitud</strong>, el mar como un ser vivo, enfadado e insistente, que nunca se cansará de vibrar, ni siquiera después de nuestra muerte. Nacemos y morimos y nunca deja el Cantábrico de empujar a los acantilados asturianos ni el Pacífico de lamer las lejanas costas del Japón.",
+      "zh": "而大海依然在那里，因为就连父亲也无法战胜大海。我开始在大海中看到一个隐喻：世界的永恒与我们的有限。大海是一个活生生的存在，愤怒而执着，永远不会停止震颤，即便在我们死后亦然。我们生了又死，而坎塔布里亚海从未停止拍打阿斯图里亚斯的峭壁，太平洋也从未停止舔舐日本遥远的海岸。",
+      "vocab": [
+        {
+          "word": "metáfora",
+          "translation": "隐喻、比喻",
+          "note": "metáfora 是修辞学核心术语，指用一种事物来暗示另一种事物的比喻方式，比 símil（明喻，用 como 连接）更隐含，ver en algo una metáfora de（在某物中看到……的隐喻）是文学评论和散文的高频句式。"
+        },
+        {
+          "word": "finitud",
+          "translation": "有限性、必死性",
+          "note": "finitud 是哲学术语，指人类存在的有限性和必然走向终结的本质，与 eternidad（永恒）形成对比，是存在主义哲学和文学散文中的核心词汇，比 mortalidad（死亡率/必死性）更强调存在边界的哲学维度。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Mamá también me traía a estas playas, a estos prados, a estos precipicios, donde pastaba un caballo solitario rondando una bañera llena de agua y un señor vendía bocadillos y refrescos. Estos días hace cuatro años que mamá murió y ahí siguen las mareas, y ahí sigue el mar lleno de <strong>prodigios</strong> y centollos, de misterios y cadáveres, de basuras microplásticas, completamente <strong>ajeno</strong>.",
+      "zh": "妈妈也曾带我来这些海滩、这些草甸、这些悬崖，那里有一匹孤独的马在一个装满水的浴缸旁踱步，有个男人在卖三明治和饮料。就在这几天，妈妈离世已经四年了，而潮汐依然在那里，大海依然在那里，满载着奇迹与海蟹，满载着谜团与尸骸，满载着微塑料垃圾，对一切漠然无知。",
+      "vocab": [
+        {
+          "word": "prodigios",
+          "translation": "奇迹、奇观",
+          "note": "prodigio 指令人惊叹的奇异事物或现象，在文学语境中常用于描述自然界的神奇与壮观，lleno de prodigios（充满奇迹）带有一种敬畏与惊叹并存的情感色彩，比 maravillas 更具神秘和超自然的意味。"
+        },
+        {
+          "word": "ajeno",
+          "translation": "漠然的、与己无关的",
+          "note": "ajeno 本意为『属于他人的、外来的』，在此语境中指大海对人类的生死悲欢完全漠然、毫不在意，completamente ajeno（完全漠然）是文章情感的核心词，揭示了永恒自然与短暂人生之间的根本断裂。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Pero yo a ti, Candela, que brincas en las olas gigantescas y te ríes como un <strong>duende</strong>, te digo que no pasa nada y, de <strong>reojo</strong>, vuelvo a mirar, otra vez, al mar, otra vez, al mar, otra vez, al mar.",
+      "zh": "但我对你说，坎德拉，你在巨浪中蹦跳，笑得像个小精灵，我告诉你没事的——然后，用眼角的余光，我再次望向大海，再一次，望向大海，再一次，望向大海。",
+      "vocab": [
+        {
+          "word": "duende",
+          "translation": "小精灵、顽皮的小妖",
+          "note": "duende 在西班牙民间传说中指一种顽皮的小精灵，用于形容人时带有活泼、灵动、难以捉摸的意味，reírse como un duende（笑得像个小精灵）是充满温情的比喻，也暗示孩子对成人恐惧的天然免疫。"
+        },
+        {
+          "word": "de reojo",
+          "translation": "用眼角余光、斜眼偷看",
+          "note": "de reojo 指不正面直视、用眼角或余光偷偷观察，mirar de reojo（用余光看）在此意味深长：作者表面上专注于女儿，内心却始终无法摆脱对大海的恐惧与凝视，是全文情感张力的最终体现。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "de reojo",
+      "type": "expresión coloquial",
+      "translation": "用眼角余光、斜眼偷看",
+      "usage": "de reojo 指不正面直视、用眼角余光偷偷观察某人或某物，常暗示一种不想被发现的关注或警惕，是口语和文学语境均适用的高频表达，mirar de reojo 是最常见的搭配。",
+      "exampleEs": "Durante toda la reunión, la miraba de reojo para ver su reacción.",
+      "exampleZh": "整个会议期间，他一直用余光偷偷观察她的反应。"
+    },
+    {
+      "expression": "perlado de",
+      "type": "expresión literaria",
+      "translation": "缀满……、点缀着……",
+      "usage": "perlado de 来自 perla（珍珠），比喻某物表面布满细小闪亮的颗粒，perlado de sal（缀满盐粒）是文学散文中描写海水蒸发后在皮肤上留下盐晶的经典意象，体现了西班牙语散文对身体描写的诗意化处理。",
+      "exampleEs": "Salió del lago con el pelo perlado de gotas brillantes.",
+      "exampleZh": "他从湖中出来，发丝上缀满了闪亮的水珠。"
+    },
+    {
+      "expression": "completamente ajeno",
+      "type": "colocación",
+      "translation": "完全漠然、毫不相干",
+      "usage": "ajeno a 指对某事物毫不关心或毫无关联，completamente ajeno（完全漠然）在文学语境中常用于描述自然界对人类悲欢的冷漠无知，是存在主义文学的核心意象表达，带有强烈的哲学色彩。",
+      "exampleEs": "La ciudad seguía su ritmo frenético, completamente ajena al dolor de aquella familia.",
+      "exampleZh": "城市依旧以疯狂的节奏运转，对那个家庭的痛苦完全漠然。"
+    }
+  ]
+}

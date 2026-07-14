@@ -1,0 +1,156 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会评论",
+  "difficulty": "B2",
+  "wordCount": "约550词",
+  "title": "Niñofobia en el avión",
+  "subtitle": "飞机上的「恐童症」",
+  "resumenEs": "Un padre relata la experiencia de volar por primera vez con sus hijos pequeños y el rechazo que sufrieron por parte de otros pasajeros. A partir de este episodio, reflexiona sobre la creciente niñofobia en la sociedad, critica las zonas solo para adultos en los aviones y reivindica una actitud más empática hacia los niños y sus padres en los espacios públicos.",
+  "resumenZh": "一位父亲讲述了第一次带年幼的孩子乘飞机的经历，以及他们遭到其他乘客排斥的遭遇。以此为切入点，他反思了社会中日益蔓延的「恐童」情绪，批评了飞机上的纯成人区设置，并呼吁公众对孩子及其父母抱有更多同理心。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Este verano mis hijos montaron por primera vez en avión. Casi tres horas de vuelo entre Madrid y Tenerife se <strong>tragaron</strong> a sus seis y tres años. Mi mujer y yo teníamos claro que no iba a ser un viaje fácil, así que nos <strong>armamos hasta los dientes</strong> con cuentos, capítulos de Peppa Pig y gusanitos, que son terribles para la nutrición y maravillosos para evitar rabietas. Hasta ensayamos el vuelo en casa los días previos. Pero hubo algo para lo que no nos preparamos: en los aviones también viaja gente con niñofobia.",
+      "zh": "今年夏天，我的孩子们第一次坐上了飞机。从马德里飞往特内里费岛近三个小时的航程，就这样被他们六岁和三岁的小身板硬撑了下来。我和妻子心里清楚，这趟旅程不会轻松，于是把故事书、《小猪佩奇》剧集和小零食备得满满当当——那些零食对营养来说是场灾难，但对平息孩子的哭闹简直是神器。我们甚至在出发前几天就在家里提前演练了一遍。但有一件事我们没有料到：飞机上也坐着患有「恐童症」的人。",
+      "vocab": [
+        {
+          "word": "tragaron",
+          "translation": "（在此）撑过了；熬过了",
+          "note": "tragar 本义为『吞咽』，此处为比喻用法，表示孩子们『硬撑着度过』了漫长飞行，这种将身体动作引申为忍耐、承受的用法在西语口语中十分常见。"
+        },
+        {
+          "word": "armarse hasta los dientes",
+          "translation": "武装到牙齿；做好万全准备",
+          "note": "modismo，字面意为『武装到牙齿』，引申为『做好充分准备、备齐一切所需』，语气夸张幽默，常用于口语和非正式书面语，强调准备之充分。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Nos tocaron dos tipos delante que parecían tener una única preocupación: de qué serie se iban a <strong>marcar un maratón</strong> durante el vuelo. El caso es que a mis hijos, pasada la emoción del despegue, les llegó el <strong>tedio</strong> de la velocidad de crucero y empezaron a moverse. Lo normal. Tampoco echaron carreras, pero a los dos caballeros les bastó para chasquear la lengua. Y luego uno se giró indignado porque los niños le habían dado una patada en el respaldo. Le pedí disculpas y volví a recordarles a mis hijos que se estuvieran quietos, pero al otro señor no le pareció suficiente y salió con la frase favorita de los niñofóbicos: \"Si no sabéis educarlos, no los subáis a un avión\". Mi mujer y yo nos callamos porque cómo le explicas a gente que no tiene ni idea de lo que es de verdad un niño que las reglas del mundo tardan en aprenderse por mucho que se las repitas.",
+      "zh": "我们前排恰好坐了两个大老爷们，看样子脑子里只有一件事：这趟飞机上要刷哪部剧。问题是，孩子们过了起飞时的兴奋劲儿，很快就被巡航阶段的无聊给击中了，开始坐立不安。这很正常。他们也没有在过道里跑来跑去，但就这样已经足够让那两位先生啧啧咂嘴了。随后，其中一人气呼呼地转过身来，因为孩子踢了他的椅背。我道了歉，再次提醒孩子们坐好，但另一位先生显然不满意，甩出了「恐童族」最爱的那句话：「不会管孩子就别带上飞机。」我和妻子没有吭声——你怎么跟一个对孩子究竟是什么一无所知的人解释：无论你重复多少遍，世界的规则都需要时间才能被学会。",
+      "vocab": [
+        {
+          "word": "marcar un maratón",
+          "translation": "刷（剧）；一口气看完",
+          "note": "expresión coloquial，marcarse un maratón（de series）是当代西语口语中『连续刷剧』的地道说法，marcarse 在口语中常用于表示『做某件带劲的事』，如 marcarse un viaje、marcarse un discurso。"
+        },
+        {
+          "word": "tedio",
+          "translation": "无聊；倦怠；百无聊赖",
+          "note": "tedio 比 aburrimiento 语气更文学化、更强烈，带有一种深层的倦怠感，常出现在散文、评论等正式文体中；aburrimiento 更口语化，日常使用更频繁。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "El caso es que aquellos dos pasajeros no son los únicos a los que les molestan los fans de Peppa Pig. Un estudio dice que el 50% de los viajeros volaría encantado en aviones solo para adultos. De hecho, ya hay compañías que ofrecen zonas <strong>only adults</strong>, vendiendo la <strong>segregación</strong> por edad como un servicio premium de comodidad. La realidad es que normalizan la idea de que los niños son ciudadanos de segunda de los que hay que protegerse. Diseñar un mundo solo para adultos es una forma de exclusión social.",
+      "zh": "问题是，那两位乘客并不是唯一对《小猪佩奇》粉丝感到厌烦的人。有研究显示，50%的旅客会乐意乘坐纯成人航班。事实上，已经有航空公司推出了「纯成人区」，把年龄隔离包装成一种高端舒适服务来出售。而现实是，这些做法在悄然将「孩子是需要防范的二等公民」这一观念正常化。设计一个只属于成年人的世界，本质上是一种社会排斥。",
+      "vocab": [
+        {
+          "word": "only adults",
+          "translation": "纯成人（区）；仅限成人",
+          "note": "这是西语文章中直接借用的英语词组，反映了当代西语媒体在商业和旅游领域大量引入英语术语的趋势，类似用法还有 low cost、premium、check-in 等，阅读时需识别此类借词。"
+        },
+        {
+          "word": "segregación",
+          "translation": "隔离；区隔；歧视性分离",
+          "note": "segregación 在社会议题中语气强烈，通常指基于种族、年龄、性别等特征的歧视性隔离，作者在此有意使用这一词汇，暗示年龄隔离与种族隔离在逻辑上如出一辙，具有批判色彩。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Y resulta curioso que, mientras se intenta que los menores tengan menos derechos en el aire, a las mascotas se les ha mejorado las condiciones para que puedan viajar con sus dueños en <strong>cabina</strong>. Dice mucho de las prioridades <strong>adultocéntricas</strong> de nuestra sociedad.",
+      "zh": "耐人寻味的是，一方面有人试图削减未成年人在空中的权利，另一方面宠物的乘机条件却在不断改善，让它们得以陪伴主人在客舱内出行。这深刻揭示了我们这个社会以成人为中心的价值取向。",
+      "vocab": [
+        {
+          "word": "cabina",
+          "translation": "（飞机）客舱；驾驶舱",
+          "note": "cabina 在航空语境中既可指『客舱』（passenger cabin），也可指『驾驶舱』（cockpit），需结合上下文判断；此处 en cabina 指宠物被允许在客舱内随行，而非托运。"
+        },
+        {
+          "word": "adultocéntricas",
+          "translation": "以成人为中心的",
+          "note": "adulto-（成人）+ -céntrico（以……为中心）构成的复合词，-céntrico 是高产后缀，可类推 eurocéntrico（欧洲中心主义的）、egocéntrico（自我中心的）、etnocéntrico（民族中心主义的）等词。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "En cualquier caso, ya está bien de decirnos a los padres que no sabemos educar a nuestros hijos. Somos los que peor lo pasamos cuando no se comportan como el mundo espera. Las malas caras y <strong>bufidos</strong> solo consiguen que todo sea aún más difícil. Lo que sí ayuda es lo que hicieron un par de pasajeras (siempre son mujeres) en nuestro vuelo: les <strong>rieron dos gracias</strong> a los niños y nos preguntaron si necesitábamos algo. Que sí, que no son tus hijos y no tienes por qué tragártelos (aunque igual luego te acaben pagando la pensión), pero la próxima vez que un niño te moleste, prueba a ser amable. Igual tienes suerte y te da gusanitos.",
+      "zh": "不管怎么说，请别再对我们这些父母说什么『不会教孩子』了。孩子举止失当时，我们才是最难受的那个。冷脸相向和哼哼唧唧只会让一切雪上加霜。真正有帮助的，是我们这趟航班上几位女乘客（总是女性）的做法：她们对孩子的小把戏报以一笑，还问我们是否需要帮忙。没错，他们不是你的孩子，你没有义务忍受他们（尽管说不定将来他们会给你缴养老金），但下次有孩子让你觉得烦，不妨试试友善一点。说不定你运气好，还能得到一包小零食。",
+      "vocab": [
+        {
+          "word": "bufidos",
+          "translation": "哼声；不满的嗤鼻声",
+          "note": "bufido 本指动物（如公牛）的喷鼻声，引申为人表示不满或轻蔑时发出的哼声，在口语和非正式文体中生动传神，与 resoplido（叹气声）近义，但 bufido 更带有怒气。"
+        },
+        {
+          "word": "rieron dos gracias",
+          "translation": "对孩子的小把戏报以一笑；夸孩子可爱",
+          "note": "reírle las gracias a alguien 是固定搭配，表示『对某人的言行报以笑声、捧场』，带有宽容、友善的含义；gracia 在此指『令人发笑的小举动』，是口语中的高频用法。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "armarse hasta los dientes",
+      "type": "modismo",
+      "translation": "武装到牙齿；做好万全准备",
+      "usage": "惯用语，字面意为军事上的全副武装，引申为在任何场合『备齐一切、做好充分准备』，语气夸张幽默，适用于口语和非正式书面语，强调准备工作之彻底。",
+      "exampleEs": "Antes de la reunión con los inversores, el equipo se armó hasta los dientes con datos y presentaciones.",
+      "exampleZh": "在与投资人开会之前，团队把数据和演示文稿准备得万无一失。"
+    },
+    {
+      "expression": "marcarse un maratón",
+      "type": "expresión coloquial",
+      "translation": "一口气刷完（剧）；连续看马拉松式的内容",
+      "usage": "当代西语口语表达，marcarse 在俚语中表示『痛快地做某事』，un maratón（de series/películas）指连续不间断地观看，常见于年轻人的日常对话和社交媒体语境。",
+      "exampleEs": "Este fin de semana me voy a marcar un maratón de la nueva temporada de mi serie favorita.",
+      "exampleZh": "这个周末我打算一口气把我最爱的剧新一季全刷完。"
+    },
+    {
+      "expression": "chasquear la lengua",
+      "type": "expresión coloquial",
+      "translation": "啧啧咂嘴；发出不满的咂舌声",
+      "usage": "描述用舌头发出『啧』声来表达不满、轻蔑或不耐烦的动作，是西语中描述肢体语言的生动表达，常出现在叙事性文章中，用于刻画人物情绪。",
+      "exampleEs": "Cuando anunciaron el retraso del vuelo, varios pasajeros chasquearon la lengua con impaciencia.",
+      "exampleZh": "当广播宣布航班延误时，几位乘客不耐烦地啧啧咂嘴。"
+    },
+    {
+      "expression": "ciudadanos de segunda",
+      "type": "colocación",
+      "translation": "二等公民；被边缘化的群体",
+      "usage": "固定搭配，ciudadano de segunda（clase）指在社会中权利或地位被视为次等的群体，常用于批评性语境，讨论歧视、不平等或社会排斥问题，语气带有强烈的社会批判色彩。",
+      "exampleEs": "Durante décadas, las personas con discapacidad fueron tratadas como ciudadanos de segunda en muchos países.",
+      "exampleZh": "数十年来，残障人士在许多国家被当作二等公民对待。"
+    },
+    {
+      "expression": "reírle las gracias a alguien",
+      "type": "colocación",
+      "translation": "对某人的言行捧场；宽容地一笑置之",
+      "usage": "固定搭配，表示对某人（尤其是孩子或爱开玩笑的人）的小把戏或俏皮话报以笑声，含有宽容、友善的态度；有时也可带轻微讽刺意味，指对不值得笑的事情也跟着笑。",
+      "exampleEs": "La abuela siempre le ríe las gracias al nieto, aunque sus bromas no tengan ninguna gracia.",
+      "exampleZh": "奶奶总是对孙子的把戏报以笑声，哪怕那些玩笑根本不好笑。"
+    },
+    {
+      "expression": "ya está bien de",
+      "type": "expresión coloquial",
+      "translation": "够了；受够了；别再……了",
+      "usage": "口语中表达强烈不满或忍无可忍的固定句式，后接动词原形或名词，语气坚定甚至带有愤慨，相当于英语的 enough of...，常见于评论文章、演讲或激动的日常对话中。",
+      "exampleEs": "Ya está bien de promesas vacías; queremos ver resultados concretos.",
+      "exampleZh": "空头承诺够了，我们要看到实际成果。"
+    },
+    {
+      "expression": "no tener ni idea",
+      "type": "expresión coloquial",
+      "translation": "一无所知；完全不懂",
+      "usage": "口语高频表达，表示对某事完全不了解，语气可以是中性的（承认自己不懂）或批评性的（指责他人无知），本文中作者用其批评那些对育儿毫无了解却随意指责的乘客。",
+      "exampleEs": "No tiene ni idea de lo que implica dirigir una empresa con cien empleados.",
+      "exampleZh": "他对管理一家百人企业意味着什么，完全一无所知。"
+    }
+  ]
+}

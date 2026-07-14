@@ -1,0 +1,495 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "饮食文化",
+  "difficulty": "B2",
+  "wordCount": "约1400词",
+  "title": "Por qué los noodles instantáneos siguen conquistando al mundo pese a su mala fama",
+  "subtitle": "为何方便面顶着骂名，依然征服全球？",
+  "resumenEs": "A pesar de su reputación poco saludable, los fideos instantáneos siguen creciendo en popularidad y en valor de mercado a nivel mundial. Desde su creación en el Japón de la posguerra hasta convertirse en un fenómeno global, estos productos combinan accesibilidad, sabor y valor emocional. Chefs de alto nivel los reivindican como ingrediente legítimo, mientras las empresas buscan innovar sin perder su esencia reconfortante.",
+  "resumenZh": "尽管方便面以不健康著称，其全球市场规模和消费量仍持续增长。从战后日本的发明到席卷全球的饮食现象，方便面凭借价格亲民、美味便捷和情感价值赢得人心。顶级厨师将其视为合法食材，而生产企业也在不断创新，试图在保留慰藉本质的同时提升其营养价值。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "¿Qué es lo primero que se te viene a la mente cuando tu pareja, preocupada por la alimentación saludable, se va de viaje de trabajo?",
+      "zh": "当你那位注重健康饮食的伴侣出差在外，你脑海中第一个浮现的念头是什么？",
+      "vocab": [
+        {
+          "word": "venirse a la mente",
+          "translation": "浮现在脑海中",
+          "note": "固定搭配，等同于 ocurrírsele a uno，常用于描述某个想法自然涌现，语气比 pensar 更口语化、更生动。"
+        },
+        {
+          "word": "alimentación",
+          "translation": "饮食；营养摄入",
+          "note": "注意与 comida（食物）的区别：alimentación 强调『吃』这一行为或饮食习惯整体，comida 指具体的食物或餐食。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Para mí, significa cancelar los planes para cenar y <strong>rebuscar</strong> en la cocina algunos ingredientes clave: queso americano, gruesas <strong>rebanadas</strong> de Spam y un puñado de dumplings congelados, todos destinados al tazón del sabor de fideos instantáneos que haya elegido para esa noche.",
+      "zh": "对我来说，这意味着取消晚餐计划，在厨房里翻找几样关键食材：美式奶酪、厚厚的午餐肉片，还有一把冷冻饺子——全都要扔进我当晚选好的那碗方便面里。",
+      "vocab": [
+        {
+          "word": "rebuscar",
+          "translation": "仔细翻找；搜寻",
+          "note": "前缀 re- 在此表示『反复、深入』，rebuscar 比 buscar 更强调翻来覆去地找，带有费力搜寻的含义。"
+        },
+        {
+          "word": "rebanadas",
+          "translation": "（面包、肉等的）薄片；切片",
+          "note": "rebanada 专指用刀切下的扁平薄片，常搭配 pan、jamón、queso 等食材；若是圆形切片（如香肠）则用 rodaja。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Estos coloridos paquetes llenos de sabor y sal han alimentado a los protagonistas de \"KPop Demon Hunters\", llenado el estómago de chefs <strong>agotados</strong> tras terminar su turno e incluso ayudado a un excompañero mío a ahorrar para un anillo de compromiso. (Ella dijo que sí, y sus niveles de colesterol nunca volvieron a ser los mismos).",
+      "zh": "这些色彩鲜艳、咸香十足的小包装，养活了《KPop Demon Hunters》里的主角们，填饱了下班后精疲力竭的厨师们的肚子，甚至帮我一位前同事省下了买求婚戒指的钱。（她答应了，而他的胆固醇水平也再没恢复正常。）",
+      "vocab": [
+        {
+          "word": "agotados",
+          "translation": "精疲力竭的；耗尽的",
+          "note": "agotar 兼有『使人精疲力竭』和『耗尽资源/库存』两个常见义，如 agotar las existencias（售罄），是一词多义的典型例子。"
+        },
+        {
+          "word": "anillo de compromiso",
+          "translation": "订婚戒指",
+          "note": "固定搭配，compromiso 在此指『婚约』，注意其假朋友陷阱：compromiso 并不等于英语 compromise（妥协），而是『承诺、约定』。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Pocos alimentos ocupan un lugar tan <strong>singular</strong> como los fideos instantáneos, <strong>venerados</strong> al mismo tiempo como un gusto culposo y como un alimento básico y confiable para millones de personas en todo el mundo.",
+      "zh": "很少有食物能像方便面这样占据如此独特的地位——它同时被奉为一种有罪恶感的享受，也是全球数百万人赖以为生的基本口粮。",
+      "vocab": [
+        {
+          "word": "singular",
+          "translation": "独特的；非凡的",
+          "note": "假朋友警告：singular 在西语正式文体中多表示『独一无二、与众不同』，而非英语 singular 的『单数』语法含义，切勿混淆。"
+        },
+        {
+          "word": "venerados",
+          "translation": "被崇敬的；被奉为神圣的",
+          "note": "venerar 语气比 respetar 更强烈，带有近乎宗教式的崇拜意味，常出现在正式或文学文体中，用于人物、传统或象征性事物。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Lo que comenzó como una solución al hambre en el Japón de la posguerra <strong>evolucionó</strong> hasta convertirse en un placer culpable global, capaz de ofrecer comidas rápidas, económicas y satisfactorias para las masas. Pero no es ningún secreto que los fideos instantáneos no son saludables. Cada cierto tiempo aparecen nuevos estudios que explican cómo aumentan el riesgo de demencia, enfermedades cardíacas y <strong>desequilibrios</strong> hormonales, algo que sorprende a muy pocas personas.",
+      "zh": "这一起初为解决战后日本饥荒问题的发明，逐渐演变为全球性的罪恶享受，能为大众提供快速、廉价而令人满足的餐食。但方便面不健康，这早已不是什么秘密。每隔一段时间，就会有新研究揭示它如何增加痴呆症、心脏病和荷尔蒙失调的风险——这几乎不会让任何人感到意外。",
+      "vocab": [
+        {
+          "word": "evolucionó",
+          "translation": "演变；逐渐发展",
+          "note": "evolucionar 常与介词 hasta、hacia 搭配，表示『演变至某种状态』，是新闻和学术文体中描述事物发展变化的高频动词。"
+        },
+        {
+          "word": "desequilibrios",
+          "translation": "失衡；紊乱",
+          "note": "前缀 des- 表示否定或逆转，equilibrio（平衡）加上 des- 变为 desequilibrio（失衡），这一构词规律可类推至 desorden、desigualdad、desconfianza 等词。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Incluso recibí una carta de rechazo sincera y preocupada de un científico especializado en alimentos que <strong>declinó</strong> ser entrevistado para esta historia por temor a que su experiencia pudiera <strong>contribuir a fomentar</strong> la popularidad de estos productos.",
+      "zh": "我甚至收到了一位食品科学家措辞诚恳而忧虑的婉拒信——他拒绝接受采访，担心自己的专业背景会助长这类产品的流行。",
+      "vocab": [
+        {
+          "word": "declinó",
+          "translation": "婉拒；谢绝",
+          "note": "declinar 在正式文体中表示『礼貌地拒绝』，比 rechazar 语气更委婉，常见于新闻报道中描述受访者或官员拒绝置评的场景。"
+        },
+        {
+          "word": "contribuir a fomentar",
+          "translation": "助长；促进……的发展",
+          "note": "固定搭配结构：contribuir a + 动词原形，表示『为……做出贡献/助推』；fomentar 本身含有『推动、促进（通常指不良事物）』的含义，语气比 promover 更负面。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Por eso resulta aún más sorprendente que, en un mundo cada vez más <strong>inclinado</strong> hacia una alimentación saludable, donde las dietas basadas en plantas y el bienestar ocupan un lugar central para muchas personas, el mercado de los fideos instantáneos siga <strong>proyectando</strong> un enorme crecimiento. Según diversas estimaciones, se espera que la industria mundial pase de US$ 64.670 millones en 2025 a US$ 98.460 millones en 2032.",
+      "zh": "正因如此，以下这一现象才显得格外令人惊讶：在一个越来越崇尚健康饮食、植物性饮食和身心健康备受关注的世界里，方便面市场依然预测着巨大的增长空间。据多方估计，全球方便面行业规模预计将从2025年的646.7亿美元增长至2032年的984.6亿美元。",
+      "vocab": [
+        {
+          "word": "inclinado",
+          "translation": "倾向于；偏向……的",
+          "note": "inclinar(se) hacia 是固定搭配，表示『倾向于某种趋势或立场』，在新闻文体中常用于描述社会、市场或个人的偏好走向。"
+        },
+        {
+          "word": "proyectando",
+          "translation": "预测；预计（增长）",
+          "note": "proyectar 在经济和商业语境中作『预测、预期』解，是假朋友：不要只联想到英语 project（项目），其动词形式在此表示『展望未来数据』。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Los científicos tienen una explicación sencilla para su popularidad: la <strong>adicción</strong>. Los investigadores que estudian los alimentos <strong>ultraprocesados</strong> sostienen que su alta densidad energética (la cantidad de calorías por gramo de alimento) y su hiperpalatabilidad (las deliciosas combinaciones de sal, azúcar, grasa y carbohidratos) garantizan que nunca queramos dejar de comerlos.",
+      "zh": "科学家对其流行给出了一个简单的解释：成瘾。研究超加工食品的学者认为，其高能量密度（每克食物所含的卡路里量）和超高适口性（盐、糖、脂肪与碳水化合物的美味组合）决定了我们永远不想停下来。",
+      "vocab": [
+        {
+          "word": "adicción",
+          "translation": "成瘾；上瘾",
+          "note": "adicción 来自拉丁语，与英语 addiction 同源，是真朋友；其形容词形式 adictivo 和名词 adicto 也是新闻健康类文章的高频词。"
+        },
+        {
+          "word": "ultraprocesados",
+          "translation": "超加工的",
+          "note": "前缀 ultra- 表示『超越、极度』，alimentos ultraprocesados 是当代营养学和新闻报道中的核心术语，可类推 ultrarápido、ultravioleta 等词。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "\"La razón por la que los fideos instantáneos han sido ampliamente adoptados en todo el mundo como una 'comida <strong>reconfortante</strong>' radica en su capacidad para ofrecer valores universales que las personas buscan en los alimentos: buen sabor, practicidad, conservación, <strong>accesibilidad</strong> económica y seguridad\", afirma un representante de Nissin Foods Group, al citar los cinco valores fundamentales establecidos por el fundador del grupo, Momofuku Ando, considerado el padre de los fideos instantáneos.",
+      "zh": "日清食品集团的一位代表援引集团创始人安藤百福——被誉为方便面之父——所确立的五大核心价值观时表示：「方便面在全球被广泛接受为『慰藉食物』，原因在于它能提供人们在食物中所追求的普世价值：美味、便利、耐储存、经济实惠与安全。」",
+      "vocab": [
+        {
+          "word": "reconfortante",
+          "translation": "令人慰藉的；抚慰人心的",
+          "note": "reconfortar 由 re-（再次）+ confortar（给予力量/安慰）构成，『comida reconfortante』即英语的 comfort food，是饮食文化报道中的高频表达。"
+        },
+        {
+          "word": "accesibilidad",
+          "translation": "可及性；亲民性（价格）",
+          "note": "accesibilidad 在经济语境中特指『价格上的可负担性』，在社会议题中则指『无障碍获取』，是一词多义的典型，需结合语境判断。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Todo comenzó en el modesto <strong>cobertizo</strong> de madera de Ando en Osaka, Japón, en la década de 1950. Al presenciar la grave escasez de alimentos que afectaba al país en la posguerra, Ando se <strong>obsesionó</strong> con crear un alimento que cumpliera esos cinco criterios.",
+      "zh": "一切始于20世纪50年代，安藤在日本大阪那间简陋的木制小屋里。目睹战后日本严峻的粮食短缺，安藤痴迷于研发一种能满足上述五大标准的食品。",
+      "vocab": [
+        {
+          "word": "cobertizo",
+          "translation": "小棚屋；简易木屋",
+          "note": "cobertizo 特指简陋的遮蔽性建筑，常为木制，用于储物或简单作业，与 casa（房子）或 taller（工作室）有明显语义区别，此处强调发明诞生环境的朴素。"
+        },
+        {
+          "word": "obsesionó",
+          "translation": "使……痴迷；使……着魔",
+          "note": "obsesionarse con 是固定搭配，表示对某事物产生强烈的执念，语气比 interesarse en 强烈得多，常用于描述创业者或艺术家的极度专注。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "En 1958, después de meses de <strong>ensayo y error</strong>, tuvo una revelación mientras observaba a su esposa freír tempura. Comprendió que freír rápidamente los fideos eliminaba su humedad, creando un alimento que podía <strong>rehidratarse</strong> de forma instantánea al sumergirse en agua caliente.",
+      "zh": "1958年，经过数月的反复试验，他在观察妻子炸天妇罗时灵光一现。他意识到，将面条迅速油炸可以去除其中的水分，从而制造出一种浸入热水后能瞬间复水的食品。",
+      "vocab": [
+        {
+          "word": "ensayo y error",
+          "translation": "反复试验；试错法",
+          "note": "固定搭配，对应英语 trial and error，是描述探索性研究或创新过程的标准表达，在科技、教育和商业报道中均高频出现。"
+        },
+        {
+          "word": "rehidratarse",
+          "translation": "复水；重新吸收水分",
+          "note": "前缀 re- 表示『重新』，hidrat- 词根来自希腊语『水』，可类推 hidratación（补水）、deshidratación（脱水）等营养健康类高频词。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "En 1971, la empresa presentó sus primeros fideos en vaso: fideos instantáneos que venían en un <strong>recipiente</strong> desechable acompañado de un tenedor para quienes no dominaban el uso de los palillos. La innovación se expandió rápidamente más allá de las fronteras. Apenas dos años después, Nissin abrió su primera fábrica en el extranjero, en Pensilvania, EE.UU.",
+      "zh": "1971年，公司推出了首款杯装方便面：装在一次性容器里，并附赠叉子，方便不会使用筷子的人食用。这一创新迅速走出国门。仅仅两年后，日清便在美国宾夕法尼亚州开设了第一家海外工厂。",
+      "vocab": [
+        {
+          "word": "recipiente",
+          "translation": "容器；器皿",
+          "note": "recipiente 是泛指各类容器的通用词，与 envase（包装容器，侧重商业包装）和 vasija（陶制器皿）有细微区别，在日常和新闻文体中使用频率最高。"
+        },
+        {
+          "word": "desechable",
+          "translation": "一次性的；用后即弃的",
+          "note": "由动词 desechar（丢弃）+ 后缀 -able 构成，表示『可被丢弃的』，同类构词有 reciclable（可回收的）、reutilizable（可重复使用的），是环保议题的核心词汇。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "Hoy, la demanda mundial de fideos instantáneos alcanzó un máximo histórico de 123.000 millones de porciones al año. Según los datos más recientes, China es el mayor consumidor del mundo, con unos 43.802 millones de paquetes al año, por delante de Indonesia (14.680 millones de porciones) e India (8.320 millones), los otros dos países que <strong>completan el podio</strong>. Sin embargo, en términos <strong>per cápita</strong>, el amor de Vietnam por este alimento no tiene rival: cada ciudadano consume en promedio 81 porciones al año.",
+      "zh": "如今，全球方便面需求已创下历史新高，每年消费量达1230亿份。据最新数据，中国是全球最大消费国，每年约消费438.02亿包，领先于印度尼西亚（146.8亿份）和印度（83.2亿份）——后两者并列第二、三名。然而，论人均消费量，越南对方便面的热爱无可匹敌：每位公民平均每年消费81份。",
+      "vocab": [
+        {
+          "word": "completan el podio",
+          "translation": "包揽前三名；登上领奖台",
+          "note": "固定搭配，源自体育报道，podio 指颁奖台，completar el podio 意为『凑齐前三甲』，现广泛用于新闻中描述排名前三的情况，语气生动。"
+        },
+        {
+          "word": "per cápita",
+          "translation": "人均",
+          "note": "拉丁语借词，在经济、统计类新闻中极为高频，直接作形容词或副词使用，如 consumo per cápita、PIB per cápita，无需变形。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "\"En Vietnam, los fideos forman parte desde hace mucho tiempo de la cultura culinaria del país y, a medida que la economía continúa creciendo, también aumenta la demanda de opciones de comida rápidas y <strong>convenientes</strong>\", explica un representante de la Asociación Mundial de Fideos Instantáneos (WINA, por sus siglas en inglés). Pero el mercado vietnamita ya no gira únicamente en torno a la accesibilidad económica. WINA observa \"una clara <strong>transición</strong> hacia productos de precio medio y alto que ponen énfasis en el valor agregado y la conveniencia\".",
+      "zh": "世界方便面协会（WINA）的一位代表解释道：「在越南，面条长期以来是该国饮食文化的重要组成部分，随着经济持续增长，对快速便捷餐食选择的需求也在不断上升。」但越南市场已不再仅仅围绕价格实惠展开。WINA观察到「一种明显的转变趋势，消费者开始转向注重附加值和便利性的中高端产品」。",
+      "vocab": [
+        {
+          "word": "convenientes",
+          "translation": "便利的；方便的",
+          "note": "假朋友警告：conveniente 在西语中主要表示『方便、合适』，而非英语 convenient 的全部含义；西语中表示『划算』时更常用 económico 或 asequible。"
+        },
+        {
+          "word": "transición",
+          "translation": "转变；过渡",
+          "note": "transición 在新闻和学术文体中是描述社会、市场或政治变化的核心词，常与介词 hacia（向……转变）或 de...a...（从……到……）搭配使用。"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "es": "Mientras tanto, en EE.UU., el mercado de los fideos instantáneos ha crecido de forma constante año tras año. Alcanzó los 5.150 millones de porciones en 2024 y se convirtió en el sexto mercado más grande del mundo, <strong>impulsado</strong> por la creciente demanda de sabores inspirados en la cocina asiática y de opciones picantes. \"Aunque el clásico sabor a pollo sigue siendo un <strong>referente</strong>, el mercado ha evolucionado para ofrecer una gama más amplia de opciones, incluidas variedades de carne de res, camarón y vegetales\", indicó WINA.",
+      "zh": "与此同时，美国方便面市场逐年稳步增长。2024年消费量达51.5亿份，跻身全球第六大市场，增长动力来自消费者对亚洲风味和辣味选项日益旺盛的需求。WINA表示：「尽管经典鸡肉口味依然是市场标杆，但市场已不断演进，提供了更广泛的选择，包括牛肉、虾和蔬菜等口味。」",
+      "vocab": [
+        {
+          "word": "impulsado",
+          "translation": "被推动的；受……驱动的",
+          "note": "impulsar 在商业和新闻文体中是描述增长驱动力的高频词，常见结构为 impulsado por（受……推动），与 motivado por、propulsado por 可互换但 impulsar 更正式。"
+        },
+        {
+          "word": "referente",
+          "translation": "标杆；参照；代表性事物",
+          "note": "referente 在新闻文体中常用于指某领域的『标准参照物』或『代表性存在』，比 ejemplo 更具权威感，是B2以上文体的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "es": "En Neighborhood, un <strong>discreto</strong> restaurante escondido en un callejón de Hong Kong, el chef David Lai corta cuidadosamente, marina y cura un pámpano fresco que acaba de comprar en el mercado. En unas horas, será ahumado y cocinado a la parrilla sobre fuego abierto. El restaurante de Lai ocupa el puesto número 24 en la lista Asia's 50 Best Restaurants de 2026.",
+      "zh": "在香港一条小巷深处，有一家低调的餐厅「Neighborhood」，主厨David Lai正在仔细切割、腌制并处理一条刚从市场买回的新鲜鲳鱼。几个小时后，它将被熏制并在明火上炙烤。Lai的餐厅在2026年亚洲50最佳餐厅榜单上位列第24名。",
+      "vocab": [
+        {
+          "word": "discreto",
+          "translation": "低调的；不张扬的",
+          "note": "假朋友警告：discreto 在西语中主要表示『低调、不引人注目』或『谨慎、慎重』，而非英语 discreet 强调的『保守秘密』，两者语义有重叠但侧重不同。"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "es": "Pero su reconocimiento más reciente es, hasta ahora, su favorito: este año se convirtió en <strong>embajador</strong> de Nongshim, el gigante surcoreano famoso por sus fideos picantes en empaques rojos que desaparecen rápidamente de los estantes en EE.UU. y otros mercados. \"Me encantan los fideos instantáneos. Son la comida reconfortante por excelencia cuando tenemos hambre, poco tiempo o simplemente pereza\", dice Lai. \"También son muy <strong>democráticos</strong>: cualquiera puede permitírselos. Son una dosis barata de dopamina\".",
+      "zh": "但他最近获得的这份认可，目前是他最珍视的：今年他成为农心的品牌大使——这家韩国巨头以红色包装的辣味方便面闻名，在美国和其他市场常常一上架就被抢购一空。「我非常喜欢方便面。当我们饿了、时间紧或者只是懒得动的时候，它是最极致的慰藉食物，」Lai说。「它也非常民主：任何人都买得起。这是一剂廉价的多巴胺。」",
+      "vocab": [
+        {
+          "word": "embajador",
+          "translation": "大使；品牌代言人",
+          "note": "embajador 本义为『外交大使』，在商业语境中引申为『品牌大使/代言人』，这种语义扩展在新闻文体中极为常见，学习者需掌握其双重含义。"
+        },
+        {
+          "word": "democráticos",
+          "translation": "民主的；人人可及的",
+          "note": "democrático 在此为比喻用法，意指『不分贫富、人人皆可享用』，这种将政治词汇用于日常生活的修辞手法在西语新闻和评论中十分常见。"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "es": "Dentro de su bistró, el menú está lleno de platos ejecutados con <strong>maestría</strong> y elaborados con ingredientes frescos y de primera calidad, como el pámpano que compró esa misma mañana, un mundo aparentemente muy distante de los bloques de fideos instantáneos producidos en fábricas. Pero para Lai, el ramen instantáneo es un ingrediente <strong>legítimo</strong>.",
+      "zh": "在他的小馆子里，菜单上满是以精湛技艺烹制、选用新鲜优质食材的菜肴——比如他那天早上刚买的鲳鱼——这个世界与工厂流水线上生产的方便面块看似相去甚远。但对Lai而言，方便面是一种货真价实的食材。",
+      "vocab": [
+        {
+          "word": "maestría",
+          "translation": "精湛技艺；高超造诣",
+          "note": "maestría 源自 maestro（大师），后缀 -ía 表示『某种状态或品质』，可类推 valentía（勇气）、cobardía（懦弱）等词，是有构词价值的高频后缀。"
+        },
+        {
+          "word": "legítimo",
+          "translation": "合法的；正当的；货真价实的",
+          "note": "legítimo 在此为比喻义，表示『值得被认可的、有正当地位的』，而非法律意义上的『合法』，是新闻和评论文体中常见的语义延伸用法。"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "es": "\"Los fideos instantáneos son un ingrediente único por sí mismos. En el sur de Italia, por ejemplo, existe la pasta seca. No creo que un ingrediente sea <strong>intrínsecamente</strong> superior a otro\", afirma. \"Hay un momento para McDonald's. Hay un momento para la alta cocina. Y hay un momento para los fideos instantáneos. Cumplen una función muy importante más allá de la conveniencia. Se trata de estar en el lugar adecuado en el momento adecuado\".",
+      "zh": "「方便面本身就是一种独特的食材。比如在意大利南部，就有干意面。我不认为某种食材在本质上优于另一种，」他说。「有适合麦当劳的时刻，有适合高级料理的时刻，也有适合方便面的时刻。它们在便利之外承担着非常重要的功能。关键在于在正确的时间出现在正确的地方。」",
+      "vocab": [
+        {
+          "word": "intrínsecamente",
+          "translation": "本质上；内在地",
+          "note": "intríseco/a 表示『事物本身固有的、内在的』属性，与 esencialmente 近义但更强调『与生俱来、不依赖外部因素』，是哲学和学术文体的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "es": "Para los clientes habituales que conocen bien el restaurante, Lai ofrece fuera de menú una muestra de cómo luce esa filosofía. En una sartén amplia añade los bloques de fideos junto con mantequilla y grasa de res, y fríe la mezcla hasta lograr una intensa <strong>caramelización</strong>. Después incorpora pulpa y puré de tomate. Luego agrega lentamente caldo de tomate y de res, permitiendo que los fideos absorban el líquido. Periódicamente, Lai <strong>despega</strong> los fideos ligeramente tostados del fondo de la sartén, añade un poco más de líquido y repite el proceso.",
+      "zh": "对于熟悉餐厅的老顾客，Lai会在菜单之外展示这套哲学的具体呈现。他在宽口平底锅里放入方便面块，加入黄油和牛脂，翻炒至深度焦糖化。随后加入番茄果肉和番茄泥，再缓缓倒入番茄牛肉高汤，让面条充分吸收汤汁。他不时将略微焦脆的面条从锅底铲起，再加入少量液体，如此反复。",
+      "vocab": [
+        {
+          "word": "caramelización",
+          "translation": "焦糖化（反应）",
+          "note": "后缀 -ización 表示『某种过程或转变』，由 caramelo（焦糖）派生而来，同类构词有 globalización、digitalización、industrialización，是新闻和学术文体的超高频构词模式。"
+        },
+        {
+          "word": "despega",
+          "translation": "（将……）从……剥离；铲起",
+          "note": "despegar 本义为『起飞、揭开』，此处用其具体物理含义『将粘附物从表面剥离』，注意其常见义还有飞机起飞，是典型的一词多义词。"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "es": "\"Es parecido al proceso de preparación de los spaghetti all'assassina: los fideos se convierten en una <strong>maraña</strong> crujiente y elástica. No es instantáneo; toma unos 30 minutos cocinarlo porque quiero mostrarle a la gente las posibilidades que tienen los fideos\", explica. En Japón, cuna de los fideos instantáneos, los fabricantes también exploran sus propias versiones de esas posibilidades. Aunque recientemente compartieron recetas experimentales populares como el chawanmushi preparado con el caldo de los fideos o el arroz frito con fideos instantáneos, Nissin busca innovaciones que vayan más allá de los <strong>perfiles</strong> de sabor.",
+      "zh": "「这与制作『杀手意面』的过程类似：面条会变成一团酥脆而有嚼劲的网状结构。这并不是即食的；烹饪需要约30分钟，因为我想向大家展示方便面所蕴含的可能性，」他解释道。在方便面的发源地日本，生产商们也在探索属于自己的可能性。尽管他们近期分享了用方便面汤底制作茶碗蒸、或用方便面做炒饭等颇受欢迎的实验性食谱，日清寻求的创新却远不止于口味层面。",
+      "vocab": [
+        {
+          "word": "maraña",
+          "translation": "乱团；纠缠在一起的一团",
+          "note": "maraña 本指杂草丛或乱麻，引申为任何纠缠混乱的事物，在文学和新闻中也常比喻『错综复杂的局面』，如 una maraña de problemas（一团乱麻般的问题）。"
+        },
+        {
+          "word": "perfiles",
+          "translation": "（风味）特征；轮廓；档案",
+          "note": "perfil 在饮食语境中指食物的『风味特征组合』（flavor profile），在商业中指『用户画像』，在建筑中指『侧面轮廓』，是典型的多义高频词。"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "es": "La empresa <strong>invierte fuertemente</strong> en tecnología alimentaria, en particular en su línea Kanzen Meshi (Nutrición Completa), que incorpora 33 nutrientes esenciales en una porción estándar de fideos. El objetivo es cambiar la <strong>percepción</strong> pública. \"Buscamos ampliar las posibilidades de alimentos que combinen gran sabor y salud, no preguntándonos qué puede hacerse a pesar de que sea comida instantánea, sino precisamente qué puede hacerse gracias a que es comida instantánea\", dijo el representante.",
+      "zh": "该公司在食品技术上大力投入，尤其是其「完全饭」（Kanzen Meshi，即完整营养）产品线——在一份标准方便面中融入33种必需营养素。目标是改变公众认知。「我们致力于拓展兼具美味与健康的食品可能性，不是在问『尽管是方便食品，还能做什么』，而是在问『正因为是方便食品，才能做什么』，」这位代表说。",
+      "vocab": [
+        {
+          "word": "invierte fuertemente",
+          "translation": "大力投资；重金投入",
+          "note": "固定搭配，invertir fuertemente en 是商业新闻中描述大规模资金投入的标准表达，fuertemente 在此作程度副词，比 mucho 更正式，类似搭配还有 apostar fuertemente por。"
+        },
+        {
+          "word": "percepción",
+          "translation": "认知；感知；印象",
+          "note": "percepción 在新闻和社会议题中常指公众对某事物形成的『整体印象或认知』，与 opinión（观点）的区别在于 percepción 更强调感知层面而非理性判断。"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "es": "Lai, sin embargo, no está preocupado por convertir los fideos instantáneos en un alimento saludable. Para él, no están destinados a formar parte de la dieta diaria de una persona. Su atractivo radica en la <strong>moderación</strong> y en tomarse un momento para apreciar sus cualidades reconfortantes. \"La salud mental también es importante\", añade. Aun con sus distintas visiones sobre el futuro de los fideos instantáneos, el chef y la comunidad que los produce comparten una admiración similar por la forma en que esta creación se ha mantenido <strong>fiel</strong> a su significado original.",
+      "zh": "然而，Lai并不担心将方便面改造成健康食品。在他看来，方便面本就不是为了成为日常饮食的一部分而存在的。它的魅力在于适度享用，在于花一点时间去体会它的慰藉特质。「心理健康同样重要，」他补充道。尽管对方便面未来的看法各有不同，这位主厨与生产方却对这一发明始终忠于其初心的方式，抱有同样的钦佩。",
+      "vocab": [
+        {
+          "word": "moderación",
+          "translation": "适度；节制",
+          "note": "moderación 常出现在健康饮食和生活方式类文章中，固定表达 con moderación 意为『适量地、有节制地』，是营养建议类文本的核心词汇。"
+        },
+        {
+          "word": "fiel",
+          "translation": "忠实的；忠于……的",
+          "note": "mantenerse fiel a 是固定搭配，表示『始终忠于/坚守……』，常用于描述品牌、人物或作品对其核心价值或初衷的坚守，语气庄重。"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "es": "Casi siete décadas después, Nissin afirma que las decisiones empresariales del grupo siguen <strong>guiándose</strong> en gran medida por los principios fundacionales de Ando. Hasta mayo de 2026, los miembros globales de WINA habían distribuido cerca de ocho millones de porciones de fideos instantáneos en 53 operaciones de ayuda ante <strong>desastres</strong>. Además de ofrecer una opción alimentaria rápida y confiable a las personas afectadas, la organización considera que una comida caliente y satisfactoria como una sopa de fideos puede brindar \"consuelo y tranquilidad\" a quienes atraviesan circunstancias difíciles.",
+      "zh": "近七十年后，日清表示集团的商业决策在很大程度上仍以安藤的创业原则为指引。截至2026年5月，WINA全球成员已在53次灾难救援行动中分发了近800万份方便面。除了为受灾人群提供快速可靠的食物选择外，该组织认为，一碗热腾腾、令人满足的面条汤，能为身处困境的人们带来「慰藉与安心」。",
+      "vocab": [
+        {
+          "word": "guiándose",
+          "translation": "以……为指引；遵循",
+          "note": "guiarse por 是固定搭配，表示『以某原则/标准为行动依据』，常用于描述机构或个人的决策依据，比 seguir 更强调主动遵循某种价值导向。"
+        },
+        {
+          "word": "desastres",
+          "translation": "灾难；灾害",
+          "note": "ayuda ante desastres 是人道主义报道中的核心固定搭配，desastre 还常与 natural（自然灾害）搭配，形容词形式 desastroso 表示『灾难性的』，构词规律值得掌握。"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "es": "Para otras personas como Lai y yo, los fideos instantáneos constituyen una importante <strong>red de seguridad</strong> emocional y física en la vida cotidiana moderna. \"Al final, sigue tratándose de servir a quienes no tienen suficiente comida en el momento oportuno\", dice Lai. \"Cuando todo lo demás en la ciudad está cerrado, pero tienes un paquete de fideos en casa, significa que puedes preparar rápidamente una comida satisfactoria. Creo que sigue cumpliendo ese criterio fundamental\". En una época marcada por agendas estresantes y un sinfín de decisiones invisibles, estas confiables comidas de cinco minutos —ya sean fideos instantáneos sabor masala en India o ramen sabor churrasco en Brasil— son algo que vale la pena <strong>agradecer</strong>.",
+      "zh": "对于Lai和我这样的人来说，方便面是现代日常生活中重要的情感与物质双重安全网。「归根结底，它仍然是在合适的时机服务于那些食物不够的人，」Lai说。「当城里其他一切都关门了，但你家里还有一包方便面，这意味着你能迅速做出一顿令人满足的饭。我认为它依然满足着那个最根本的标准。」在一个被繁忙日程和无数隐形决策所主导的时代，这些可靠的五分钟餐食——无论是印度马萨拉口味的方便面，还是巴西烤肉风味的拉面——都值得我们心存感激。",
+      "vocab": [
+        {
+          "word": "red de seguridad",
+          "translation": "安全网；保障机制",
+          "note": "red de seguridad 是固定搭配，本义为杂技或高空作业的『安全网』，引申为社会或个人层面的『保障机制』，在社会政策和日常语境中均高频使用。"
+        },
+        {
+          "word": "agradecer",
+          "translation": "感激；感谢",
+          "note": "agradecer 直接接名词或动词原形，无需介词，如 agradecer algo / agradecer que + 虚拟式；注意与 dar las gracias（口头道谢）的区别：agradecer 更强调内心的感激之情。"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "es": "Quizás por eso los fideos procesados, pese a toda su mala fama, siguen <strong>prosperando</strong> como una cultura culinaria compartida a escala mundial. O, como lo expresa Nissin: \"Creemos que las marcas que <strong>perduran</strong> durante décadas pertenecen cada vez menos a la empresa y cada vez más a los recuerdos y experiencias de nuestros consumidores\".",
+      "zh": "也许正因如此，方便面尽管声名狼藉，却依然作为一种全球共享的饮食文化蓬勃发展。正如日清所言：「我们相信，那些历经数十年而长盛不衰的品牌，越来越少地属于企业本身，而越来越多地属于消费者的记忆与体验。」",
+      "vocab": [
+        {
+          "word": "prosperando",
+          "translation": "蓬勃发展；繁荣兴旺",
+          "note": "prosperar 在商业和社会语境中是描述事物持续增长、欣欣向荣的高频词，名词形式 prosperidad 和形容词 próspero 同样常见，构成一组重要的词族。"
+        },
+        {
+          "word": "perduran",
+          "translation": "长久持续；经久不衰",
+          "note": "perdurar 由 per-（贯穿、持续）+ durar（持续）构成，强调『跨越漫长时间而依然存在』，比 durar 更具文学和正式色彩，常用于品牌、文化或情感的描述。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "gusto culposo",
+      "type": "expresión coloquial",
+      "translation": "罪恶的享受；明知不该却忍不住的乐趣",
+      "usage": "口语和书面语均可使用，指明知某事物不健康、不高雅或不理性，却依然乐在其中的心理状态。英语对应 guilty pleasure，在饮食、娱乐、消费等话题中极为常见。",
+      "exampleEs": "Ver reality shows es mi gusto culposo de los viernes por la noche.",
+      "exampleZh": "周五晚上看真人秀节目是我的罪恶享受。"
+    },
+    {
+      "expression": "dosis barata de dopamina",
+      "type": "expresión coloquial",
+      "translation": "廉价的多巴胺；低成本的即时满足感",
+      "usage": "当代网络和口语中流行的比喻表达，将神经科学概念融入日常语言，用来形容那些花费不多却能带来即时愉悦感的事物或行为，语气轻松幽默。",
+      "exampleEs": "Revisar las notificaciones del móvil cada cinco minutos es solo una dosis barata de dopamina.",
+      "exampleZh": "每隔五分钟刷一次手机通知，不过是在寻求廉价的多巴胺罢了。"
+    },
+    {
+      "expression": "por excelencia",
+      "type": "colocación",
+      "translation": "最典型的；首屈一指的；无可争议的",
+      "usage": "源自法语的固定搭配，置于名词之后，表示某事物是同类中最具代表性或最出色的，语气正式，常见于新闻、评论和学术文体，相当于英语的 par excellence。",
+      "exampleEs": "El fútbol es el deporte popular por excelencia en América Latina.",
+      "exampleZh": "足球是拉丁美洲最具代表性的大众运动，无出其右。"
+    },
+    {
+      "expression": "ensayo y error",
+      "type": "colocación",
+      "translation": "试错法；反复试验",
+      "usage": "固定搭配，对应英语 trial and error，常以 por ensayo y error 或 mediante ensayo y error 的形式出现，用于描述通过不断尝试和失败来摸索解决方案的过程，适用于科技、教育、创业等语境。",
+      "exampleEs": "Aprender a cocinar sin recetas es un proceso de ensayo y error que requiere paciencia.",
+      "exampleZh": "不看食谱学做饭是一个需要耐心的试错过程。"
+    },
+    {
+      "expression": "mantenerse fiel a",
+      "type": "colocación",
+      "translation": "始终忠于；坚守……",
+      "usage": "固定搭配，表示在时间流逝或外部压力下仍坚持某种价值观、承诺或初衷，语气庄重，常用于描述品牌理念、艺术风格或个人原则的坚守，比 seguir 更具情感分量。",
+      "exampleEs": "A pesar del éxito comercial, el director siempre se mantuvo fiel a su visión artística original.",
+      "exampleZh": "尽管取得了商业成功，这位导演始终忠于自己最初的艺术理念。"
+    },
+    {
+      "expression": "a escala mundial",
+      "type": "colocación",
+      "translation": "在全球范围内；在世界规模上",
+      "usage": "固定搭配，用于强调某现象或行为覆盖全球的广度，常见于新闻、报告和学术文体，可与 a nivel mundial、a nivel global 互换，但 a escala 更强调『规模维度』。",
+      "exampleEs": "El cambio climático es un problema que debe abordarse a escala mundial.",
+      "exampleZh": "气候变化是一个必须在全球范围内共同应对的问题。"
+    }
+  ]
+}

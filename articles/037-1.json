@@ -1,0 +1,200 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与健康",
+  "difficulty": "B2",
+  "wordCount": "约950词",
+  "title": "\"Cuerpo de teléfono\": cómo la tecnología nos arruga el cuello y debilita las manos",
+  "subtitle": "『手机身体』：科技如何让我们颈部起皱、双手无力",
+  "resumenEs": "El artículo analiza los efectos físicos del uso prolongado de dispositivos digitales en el cuerpo humano. Expertos en dermatología, optometría, sociología médica y psicología del desarrollo advierten sobre problemas como el 'cuello tecnológico', daños cutáneos por relojes inteligentes, miopía, pérdida de fuerza de agarre y deterioro de la motricidad fina. Para cada problema se ofrecen soluciones prácticas, desde ajustar la postura hasta pasar más tiempo al aire libre o incorporar actividades manuales a la rutina diaria.",
+  "resumenZh": "本文分析了长期使用数字设备对人体造成的生理影响。皮肤科、视光学、医学社会学和发展心理学领域的专家就『科技颈』、智能手表导致的皮肤损伤、近视、握力下降以及精细运动能力退化等问题发出警告。文章针对每个问题提供了实用解决方案，从调整姿势到增加户外活动时间，或将手工活动融入日常生活。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Hace poco bajé la vista y noté una pequeña dureza o <strong>callosidad</strong> en el dedo meñique, justo en el punto donde apoyo el teléfono. Los estudios científicos más recientes sugieren que el teléfono y sus compañeros digitales podrían estar alterando la forma del cuello, perjudicando la vista, afectando la <strong>motricidad</strong> y reduciendo la fuerza muscular. Incluso existe la preocupación de que nuestras vidas dominadas por la tecnología estén provocando más arrugas. Además, algunos de estos problemas físicos podrían <strong>derivar</strong> en un deterioro cognitivo o en otras complicaciones más graves.",
+      "zh": "不久前，我低头看到小拇指上有一小块硬皮或老茧，就在我托着手机的那个位置。最新科学研究表明，手机及其数字同伴可能正在改变颈部形态、损害视力、影响运动能力并削减肌肉力量。甚至有人担忧，被科技主导的生活正在加速皱纹的产生。此外，这些身体问题中有一些还可能进一步引发认知退化或其他更严重的并发症。",
+      "vocab": [
+        {
+          "word": "callosidad",
+          "translation": "老茧、硬皮",
+          "note": "callosidad 来自 callo（茧），指皮肤因长期摩擦或压力而形成的硬化组织，是医学和日常语境均适用的词汇，tener callosidades（长老茧）是固定表达，比 dureza（硬块）更专业。"
+        },
+        {
+          "word": "motricidad",
+          "translation": "运动能力、动作机能",
+          "note": "motricidad 是医学和教育心理学术语，指身体控制和协调运动的能力，分为 motricidad fina（精细运动，如写字、捏握）和 motricidad gruesa（大运动，如跑跳），是儿童发展和康复医学的核心词汇。"
+        },
+        {
+          "word": "derivar",
+          "translation": "引发、演变为",
+          "note": "derivar en 是固定搭配，意为『导致、演变成某种结果』，常用于描述问题的连锁反应，比 causar 更强调渐进演变的过程，如 derivar en complicaciones（引发并发症）。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Si estás leyendo esto en un teléfono, es muy probable que estés inclinando la cabeza hacia abajo para mirarlo. Esta postura de cabeza adelantada puede ejercer una presión de hasta 27kg sobre el cuello. Con el tiempo, esto puede dañar los <strong>discos</strong> de la columna vertebral, provocar el deterioro de articulaciones y músculos, e incluso reducir la <strong>capacidad pulmonar</strong>. Esta afección tiene incluso un nombre coloquial: cuello tecnológico. Pon la pantalla a la altura de los ojos y, a ser posible, a una distancia equivalente a la <strong>longitud</strong> de tu brazo.",
+      "zh": "如果你正在用手机阅读这篇文章，很可能正低着头看屏幕。这种『头部前倾姿势』会对颈部施加高达27公斤的压力。长此以往，可能损伤脊柱椎间盘、导致关节和肌肉退化，甚至降低肺活量。这种病症甚至有一个通俗名称：『科技颈』。请将屏幕抬至与眼睛齐平的高度，如果可能的话，保持一臂距离。",
+      "vocab": [
+        {
+          "word": "discos",
+          "translation": "椎间盘",
+          "note": "disco 在解剖学语境中专指脊柱椎骨之间的软骨垫——椎间盘，disco intervertebral 是完整术语，hernia de disco（椎间盘突出）是相关高频搭配，是骨科和健康新闻的核心词汇。"
+        },
+        {
+          "word": "capacidad pulmonar",
+          "translation": "肺活量、肺部容量",
+          "note": "capacidad pulmonar 是医学固定搭配，指肺部能够容纳和交换气体的最大量，reducir la capacidad pulmonar（降低肺活量）常见于讨论姿势、呼吸系统疾病或运动健康的文章中。"
+        },
+        {
+          "word": "longitud",
+          "translation": "长度",
+          "note": "longitud 在物理和日常语境中指物体的长度，a una distancia equivalente a la longitud del brazo（保持一臂距离）是人体工程学建议中的标准表达，注意与 largo/a（形容词，长的）区分，longitud 是名词。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Recientemente ha surgido una nueva preocupación: ¿está provocando el llamado cuello tecnológico arrugas en la zona? La tensión repetitiva provoca arrugas; por tanto, inclinar la cabeza hacia adelante y mantener el cuello <strong>flexionado</strong> constantemente podría ser un problema. Sin embargo, no existen estudios sólidos que demuestren dicha relación. Aconseja no comprar productos específicos para la piel destinados a tratar el cuello tecnológico que han empezado a aparecer en internet. No obstante, existen otros problemas <strong>cutáneos</strong> que conviene tener en cuenta, especialmente para los usuarios de relojes inteligentes que nunca se los quitan.",
+      "zh": "近来出现了一个新的担忧：所谓的『科技颈』是否正在导致该部位产生皱纹？重复性张力会引发皱纹；因此，持续低头并保持颈部弯曲可能是个问题。然而，目前尚无有力研究证明两者之间存在直接关联。专家建议不要购买网络上开始涌现的、专门针对『科技颈』的护肤产品。不过，还有其他皮肤问题值得关注，尤其是对那些从不摘下智能手表的用户而言。",
+      "vocab": [
+        {
+          "word": "flexionado",
+          "translation": "弯曲的、屈曲的",
+          "note": "flexionado 来自 flexionar（弯曲、屈曲），是解剖学和运动医学术语，指关节或肢体处于弯曲状态，与 extendido（伸展的）相对，mantener el cuello flexionado（保持颈部弯曲）是姿势分析中的核心表达。"
+        },
+        {
+          "word": "cutáneos",
+          "translation": "皮肤的、皮肤方面的",
+          "note": "cutáneo 来自拉丁语 cutis（皮肤），是医学形容词，指与皮肤相关的，problemas cutáneos（皮肤问题）、afección cutánea（皮肤病症）是皮肤科和健康新闻的核心搭配，比 de la piel 更正式专业。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Un entorno oscuro y húmedo, como la zona situada bajo el reloj, es ideal para la <strong>proliferación</strong> de levaduras, lo que puede provocar irritación o incluso <strong>eccema</strong>. Dado que esto puede dañar la <strong>barrera cutánea</strong>, también podría derivar en sensibilidad a algunos componentes presentes en estos dispositivos, como el níquel, el caucho, el látex y un grupo de sustancias químicas denominadas acrilatos. La solución es sencilla: quitarse el reloj inteligente con más frecuencia y lavarse la piel.",
+      "zh": "黑暗潮湿的环境——比如手表下方的皮肤区域——是酵母菌繁殖的理想场所，可能导致皮肤刺激甚至湿疹。由于这可能损伤皮肤屏障，还可能进一步引发对这些设备中某些成分的过敏反应，如镍、橡胶、乳胶以及一类被称为丙烯酸酯的化学物质。解决方法很简单：更频繁地摘下智能手表，并清洁皮肤。",
+      "vocab": [
+        {
+          "word": "proliferación",
+          "translation": "增殖、大量繁殖",
+          "note": "proliferación 来自 proliferar（大量繁殖、扩散），在生物医学语境中指微生物或细胞的快速增殖，在社会语境中也比喻某事物的迅速蔓延，如 proliferación de aplicaciones（应用程序的激增）。"
+        },
+        {
+          "word": "eccema",
+          "translation": "湿疹",
+          "note": "eccema（也写作 eczema）是皮肤科常见病症，指皮肤出现红肿、瘙痒、起疹的炎症反应，是健康类文章的核心词汇，在西班牙语中两种拼写均可接受。"
+        },
+        {
+          "word": "barrera cutánea",
+          "translation": "皮肤屏障",
+          "note": "barrera cutánea 是皮肤科核心术语，指皮肤最外层保护人体免受外界刺激和病原体侵入的防御机制，dañar la barrera cutánea（损伤皮肤屏障）是护肤和皮肤科讨论中的高频表达。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Las tasas de <strong>miopía</strong> vienen disparadas hace décadas. Realizamos un estudio longitudinal de más de 20 años sobre el desarrollo ocular de los niños, analizando los factores de riesgo para la aparición y progresión de la miopía. Una pregunta clave era si existe una conexión entre la miopía y el trabajo de cerca, es decir, las tareas que requieren enfocar la vista en algo cercano a la cara. La respuesta fue que no. Pero el estudio reveló algo más: pasar tiempo al aire libre parece tener un efecto <strong>protector</strong>. La idea es que la luz brillante del exterior estimula la liberación de <strong>dopamina</strong> en la retina, y parece que esto podría afectar el desarrollo de la vista.",
+      "zh": "近视率几十年来一直在急剧攀升。我们对儿童眼部发育进行了一项长达20年以上的纵向研究，分析近视发生和发展的风险因素。一个关键问题是：近视与近距离用眼——即需要将视线聚焦在靠近面部物体的任务——之间是否存在关联。答案是否定的。但研究揭示了另一个发现：在户外活动似乎具有保护作用。其原理是，户外明亮的光线会刺激视网膜释放多巴胺，而这似乎可能影响视力的发育。",
+      "vocab": [
+        {
+          "word": "miopía",
+          "translation": "近视",
+          "note": "miopía 是眼科核心术语，指眼球无法将远处物体清晰聚焦在视网膜上的屈光不正，其形容词 miope（近视的）同样高频，在比喻义中 visión miope 也指『短视的、缺乏远见的』思维方式。"
+        },
+        {
+          "word": "protector",
+          "translation": "保护性的、防护的",
+          "note": "protector 在医学和科学语境中指对某种疾病或损害具有预防或减缓作用的因素，efecto protector（保护性效果）是流行病学和健康研究的核心固定搭配，其名词 protección 同样高频。"
+        },
+        {
+          "word": "dopamina",
+          "translation": "多巴胺",
+          "note": "dopamina 是神经科学核心术语，指大脑中与奖励、动机和愉悦感相关的神经递质，liberación de dopamina（多巴胺释放）是神经科学和健康新闻的高频表达，近年来在流行科学文章中极为常见。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "La <strong>fuerza de agarre</strong> se reconoce cada vez más como un marcador clave para la salud general. Un estudio encontró que predice la muerte prematura mejor que la presión arterial. Y la fuerza de agarre está disminuyendo en muchos países, especialmente entre los más jóvenes. Un declive generacional no se trata solo de manos más débiles, sino que puede ser una señal temprana de advertencia sobre la salud futura de las generaciones más jóvenes. Existe un caso razonable de que el cambio hacia el trabajo <strong>sedentario</strong> basado en computadora está contribuyendo a la disminución de la condición física.",
+      "zh": "握力越来越被认为是反映整体健康状况的关键指标。一项研究发现，它预测过早死亡的能力甚至优于血压。而握力正在许多国家下降，尤其是在年轻人中。这种代际衰退不仅仅意味着双手更加无力，更可能是对年轻一代未来健康状况的早期预警信号。有充分理由认为，向以电脑为基础的久坐工作模式的转变，正在助推整体体能的下降。",
+      "vocab": [
+        {
+          "word": "fuerza de agarre",
+          "translation": "握力",
+          "note": "fuerza de agarre 是运动医学和老年医学的核心术语，指手部握持物体时所能施加的最大力量，被广泛用作评估整体肌肉功能和健康状态的简便指标，握力计（dinamómetro）是测量工具。"
+        },
+        {
+          "word": "sedentario",
+          "translation": "久坐的、缺乏运动的",
+          "note": "sedentario 来自拉丁语 sedere（坐），指以久坐为主、缺乏体力活动的生活或工作方式，trabajo sedentario（久坐工作）、estilo de vida sedentario（久坐生活方式）是健康新闻的核心搭配，其名词 sedentarismo 同样高频。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Parece que la tecnología afecta a las habilidades motoras, aquellas capacidades que vinculan la mente y el cuerpo para realizar movimientos precisos. Podría mejorar la <strong>destreza</strong> en acciones como hacer clic o deslizar el dedo por la pantalla. Sin embargo, si analizamos el desarrollo de las habilidades motoras en un sentido más amplio —y en particular la <strong>motricidad fina</strong>—, la evidencia apunta a un efecto negativo. Las investigaciones muestran una relación entre un mayor tiempo frente a las pantallas y un peor desarrollo de las habilidades motoras. Esto resulta especialmente preocupante debido a la correlación existente entre las habilidades motoras y el desarrollo <strong>cognitivo</strong> y académico en niños y adolescentes.",
+      "zh": "科技似乎正在影响运动技能——那些将思维与身体联结以完成精确动作的能力。它可能提升了点击或滑动屏幕等操作的灵巧度。然而，如果从更广泛的意义上分析运动技能的发展——尤其是精细运动能力——证据指向的是负面影响。研究显示，屏幕时间越长，运动技能发育越差。这一点尤为令人担忧，因为运动技能与儿童及青少年的认知和学业发展之间存在相关性。",
+      "vocab": [
+        {
+          "word": "destreza",
+          "translation": "灵巧、技巧",
+          "note": "destreza 指在某项技能或操作上的熟练程度和灵巧性，比 habilidad 更强调动作层面的精准与流畅，destreza manual（手部灵巧度）是运动医学和教育心理学的高频搭配。"
+        },
+        {
+          "word": "motricidad fina",
+          "translation": "精细运动能力",
+          "note": "motricidad fina 指需要手指、手腕等小肌肉群精确协调的运动能力，如写字、绘画、使用餐具等，与 motricidad gruesa（大运动，如跑跳）相对，是儿童发展和特殊教育的核心术语。"
+        },
+        {
+          "word": "cognitivo",
+          "translation": "认知的",
+          "note": "cognitivo 来自拉丁语 cognoscere（认识、了解），指与思维、学习、记忆和理解相关的心理过程，desarrollo cognitivo（认知发展）、deterioro cognitivo（认知退化）是心理学和教育学的核心固定搭配。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Su consejo no es entrar en pánico ni prohibir las pantallas, sino incorporar de manera <strong>consciente</strong> actividades manuales y prácticas a la vida cotidiana. Las actividades manuales prolongadas, como preparar una comida o realizar manualidades, pueden ser beneficiosas. No es el fin del mundo; se trata de efectos sutiles. Pero, aunque a nivel individual los efectos sean de moderados a leves, en conjunto y a lo largo de las generaciones estamos hablando de un posible <strong>embrutecimiento</strong> de la sociedad y de una incapacidad para pensar en la realidad, ya que las manos constituyen un punto de contacto fundamental con el mundo.",
+      "zh": "他的建议不是恐慌或禁止屏幕，而是有意识地将手工和实践活动融入日常生活。长时间的手工活动，如准备一顿饭或做手工艺，可能大有裨益。这不是世界末日，影响是细微的。但是，尽管在个体层面影响从中等到轻微不等，从整体和代际角度来看，我们谈论的是社会可能的粗鄙化，以及一种无法在现实中思考的无能——因为双手是我们与世界接触的根本节点。",
+      "vocab": [
+        {
+          "word": "consciente",
+          "translation": "有意识的、自觉的",
+          "note": "consciente 在此指主动、有意识地做出某种选择，de manera consciente（有意识地）是行为和心理学语境中的高频搭配，与 inconscientemente（无意识地）相对，比 deliberadamente 更强调清醒的自我觉察。"
+        },
+        {
+          "word": "embrutecimiento",
+          "translation": "粗鄙化、能力退化",
+          "note": "embrutecimiento 来自 embrutecer（使变得粗野、使退化），指个体或社会在智识、感知或技能层面的退化和粗鄙化，是文化批评和社会学的高级词汇，带有强烈的警示色彩。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "venir disparado",
+      "type": "expresión coloquial",
+      "translation": "急剧攀升、像子弹一样飙升",
+      "usage": "venir disparado 本义为『像子弹一样飞来』，比喻某数据或趋势急速上升，带有失控感，las tasas vienen disparadas（数据急剧攀升）是财经和健康新闻的高频比喻表达，比 aumentar rápidamente 更生动有力。",
+      "exampleEs": "Los precios de la vivienda vienen disparados desde hace tres años.",
+      "exampleZh": "住房价格三年来一直急剧攀升。"
+    },
+    {
+      "expression": "entrar en pánico",
+      "type": "expresión coloquial",
+      "translation": "陷入恐慌、惊慌失措",
+      "usage": "entrar en pánico 是固定搭配，意为突然陷入强烈的恐惧或慌乱状态，是口语和新闻文体均适用的高频表达，no entrar en pánico（不要惊慌）常用于专家建议中，以平衡对某一问题的警示。",
+      "exampleEs": "Cuando vio los resultados del análisis, entró en pánico antes de hablar con el médico.",
+      "exampleZh": "看到化验结果后，他在与医生交谈之前就已经陷入了恐慌。"
+    },
+    {
+      "expression": "a ser posible",
+      "type": "expresión coloquial",
+      "translation": "如果可能的话、最好",
+      "usage": "a ser posible 是口语和书面语均适用的固定表达，意为『在条件允许的情况下』，常用于建议或要求中，语气比 si es posible 更简洁，是西班牙语实用建议类文章的高频句式。",
+      "exampleEs": "Llega a ser posible antes de las nueve para evitar el tráfico.",
+      "exampleZh": "如果可能的话，九点前到以避开堵车。"
+    }
+  ]
+}
