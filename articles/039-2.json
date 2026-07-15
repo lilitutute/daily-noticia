@@ -1,0 +1,746 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "时事与犯罪调查",
+  "difficulty": "B2",
+  "wordCount": "约1400词",
+  "title": "¿Quién es Zhang Zhidong, el graduado universitario chino acusado de ser el «rey del fentanilo» de México?",
+  "subtitle": "张志东是谁？这位被指控为墨西哥『芬太尼之王』的中国大学毕业生",
+  "resumenEs": "Zhang Zhidong, graduado de la Universidad de Pekín, es acusado por el Departamento de Justicia de EE.UU. de haber construido una cadena de suministro global de fentanilo, conectando a fabricantes químicos chinos con cárteles mexicanos. Arrestado en México en 2024, logró fugarse antes de ser recapturado y extraditado a Estados Unidos, donde espera juicio declarándose inocente.",
+  "resumenZh": "北京大学毕业生张志东被美国司法部指控建立了一条全球芬太尼供应链，将中国化工厂商与墨西哥贩毒集团连接起来。他于2024年在墨西哥被捕，随后成功逃脱，后被重新抓获并引渡至美国，目前以无罪抗辩等待审判。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "\"El hermano Wang era muy importante. Era el número uno\", dice Enrique, riendo con <strong>complicidad</strong>.",
+      "zh": "『王哥非常重要，他是老大，』恩里克心照不宣地笑着说。",
+      "vocab": [
+        {
+          "word": "complicidad",
+          "translation": "共谋；心照不宣的默契",
+          "note": "complicidad 在法律语境中指『共谋关系』，在日常语境中形容两人之间心照不宣的默契；形容词/名词 cómplice 表示『同谋者』，是犯罪新闻的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Enrique —nombre ficticio— <strong>se describe a sí mismo</strong> como un coordinador de alto nivel en el cártel de Sinaloa, en México, una de las organizaciones criminales más poderosas del mundo.",
+      "zh": "恩里克（化名）自称是墨西哥锡那罗亚贩毒集团的高级协调员，该集团是世界上最强大的犯罪组织之一。",
+      "vocab": [
+        {
+          "word": "se describe a sí mismo",
+          "translation": "自称、自我描述",
+          "note": "describirse a sí mismo 是反身结构的固定表达，新闻中常用此结构保持客观距离，暗示该描述来自当事人本人，记者并不为其背书。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "En las afueras de Culiacán, la capital del estado de Sinaloa, sentado en un coche estacionado en un lugar donde nadie puede oírle, explica cómo se transportan los ingredientes para fabricar el letal fentanilo desde fábricas chinas hasta laboratorios en México, recorriendo miles de kilómetros.",
+      "zh": "在锡那罗亚州首府库利亚坎郊外，他坐在一辆停在无人能听见的地方的汽车里，解释着如何将制造致命芬太尼的原料从中国工厂运往墨西哥实验室，跨越数千公里。",
+      "vocab": []
+    },
+    {
+      "id": 4,
+      "es": "Los miembros de su cartel le <strong>atribuyen</strong> al \"Hermano Wang\" el establecimiento de esta <strong>cadena de suministro</strong>.",
+      "zh": "他的贩毒集团成员将这条供应链的建立归功于『王哥』。",
+      "vocab": [
+        {
+          "word": "atribuyen",
+          "translation": "归因于、将……归功/归咎于",
+          "note": "atribuir algo a alguien 是固定搭配，表示『将某事归因于某人』，可用于正面（归功）或负面（归咎）语境；名词形式 atribución 在新闻中常见于责任认定报道。"
+        },
+        {
+          "word": "cadena de suministro",
+          "translation": "供应链",
+          "note": "cadena de suministro 是商业和犯罪报道的核心固定搭配，cadena（链条）在此作比喻，同类表达有 cadena de valor（价值链）、cadena de distribución（分销链），迁移价值高。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Conocido en el mundo del crimen como el \"rey del fentanilo\", el Hermano Wang es un ciudadano chino de 39 años, cuyo nombre real es Zhang Zhidong, según el Departamento de Justicia de Estados Unidos. Arrestado en México en 2024, Zhang <strong>protagonizó</strong> una espectacular <strong>fuga</strong> antes de ser recapturado y <strong>extraditado</strong> a Estados Unidos en 2025.",
+      "zh": "根据美国司法部的信息，在犯罪世界中以『芬太尼之王』著称的王哥，真名张志东，是一名39岁的中国公民。2024年在墨西哥被捕后，张志东上演了一场惊人的逃脱，随后被重新抓获，并于2025年被引渡至美国。",
+      "vocab": [
+        {
+          "word": "protagonizó",
+          "translation": "主演、成为……的主角",
+          "note": "protagonizar 本义为『担任主角』，在新闻中引申为『亲历、上演（某事件）』，如 protagonizar un escándalo（成为丑闻主角）；比 realizar 更生动，带有戏剧性色彩。"
+        },
+        {
+          "word": "fuga",
+          "translation": "逃脱、出逃",
+          "note": "fuga 是新闻高频词，动词形式为 fugarse；常见搭配有 darse a la fuga（仓皇出逃）、fuga de capitales（资本外逃），一词多义，迁移价值高。"
+        },
+        {
+          "word": "extraditado",
+          "translation": "被引渡",
+          "note": "extraditar 专指将嫌疑人移交他国司法机构，注意与 deportar（驱逐出境）的区别：deportar 是行政手段，extraditar 是司法程序，两者不可混用。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "El fentanilo es un <strong>opioide</strong> sintético 50 veces más potente que la heroína. Causa la muerte de decenas de miles de personas cada año, principalmente en Estados Unidos, donde suele terminar la droga ya procesada. Una dosis tan pequeña como unos pocos granos de sal puede ser <strong>letal</strong>.",
+      "zh": "芬太尼是一种合成阿片类药物，效力是海洛因的50倍。它每年导致数万人死亡，主要在美国，加工后的毒品最终流向那里。仅几粒盐大小的剂量便可致命。",
+      "vocab": [
+        {
+          "word": "opioide",
+          "translation": "阿片类物质",
+          "note": "后缀 -oide 表示『类似……的物质』，来自希腊语，同类词有 humanoide（类人的）、esferoide（球状体）、asteroide（小行星），是科学文体中的高频构词后缀。"
+        },
+        {
+          "word": "letal",
+          "translation": "致命的",
+          "note": "letal 与 mortal 均可表示『致命的』，但 letal 更强调物质或剂量本身的直接杀伤力（如 dosis letal 致死剂量），mortal 还可指『凡人的』，两者语义有别。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "El presidente estadounidense, Donald Trump, ha calificado a los traficantes de fentanilo de \"narcoterroristas\" y a la droga y sus componentes como armas de destrucción masiva. Además, ha utilizado el comercio de fentanilo como motivo para <strong>imponer aranceles</strong> a China, México y Canadá.",
+      "zh": "美国总统唐纳德·特朗普将芬太尼贩运者定性为『毒品恐怖分子』，并将该毒品及其成分称为大规模杀伤性武器。此外，他还以芬太尼贸易为由，对中国、墨西哥和加拿大加征关税。",
+      "vocab": [
+        {
+          "word": "imponer aranceles",
+          "translation": "加征关税",
+          "note": "imponer aranceles 是国际贸易新闻的核心固定搭配；imponer 表示『强制施加』，同类搭配有 imponer sanciones（实施制裁）、imponer condiciones（施加条件），动词 imponer 迁移价值极高。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Cuando Zhang <strong>compareció</strong> ante un tribunal de Nueva York en 2025, el entonces fiscal general adjunto, Todd Blanche, lo describió como uno de \"los traficantes más peligrosos del mundo\".",
+      "zh": "2025年张志东出庭纽约法庭时，时任司法部副部长托德·布兰奇将其描述为『世界上最危险的贩毒者』之一。",
+      "vocab": [
+        {
+          "word": "compareció",
+          "translation": "出庭、到庭",
+          "note": "comparecer ante un tribunal 是法律新闻的固定搭配，专指当事人正式出现在法庭接受审理；比 aparecer 更正式，仅用于司法语境，是法庭报道的必备词汇。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "También lo acusó de \"dirigir una empresa global que introducía cantidades masivas de cocaína, fentanilo y metanfetamina\" en Estados Unidos y de <strong>blanquear</strong> \"millones de dólares <strong>procedentes</strong> del narcotráfico\".",
+      "zh": "他还被指控『经营一家向美国输入大量可卡因、芬太尼和甲基苯丙胺的全球性企业』，以及洗白『数百万美元的毒品犯罪所得』。",
+      "vocab": [
+        {
+          "word": "blanquear",
+          "translation": "洗钱；漂白",
+          "note": "blanquear 字面意为『使变白』，在金融犯罪语境中专指『洗钱』，这是典型的一词多义；名词形式为 blanqueo de capitales/dinero，与 lavado de dinero 完全同义可互换。"
+        },
+        {
+          "word": "procedentes",
+          "translation": "来自……的、源于……的",
+          "note": "procedente de 是固定搭配，表示来源或出处，比单独用 de 更正式；在新闻中广泛用于说明资金、人员或货物的来源，如 fondos procedentes del extranjero（来自境外的资金）。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Zhang <strong>se declaró inocente</strong> y ahora espera su juicio. Nos pusimos en contacto con su abogado, quien <strong>declinó</strong> hacer comentarios mientras el caso esté en curso.",
+      "zh": "张志东以无罪抗辩，目前等待审判。我们联系了他的律师，对方以案件仍在审理中为由拒绝置评。",
+      "vocab": [
+        {
+          "word": "se declaró inocente",
+          "translation": "以无罪抗辩、宣称无罪",
+          "note": "declararse inocente 是法律新闻的固定表达，指被告在庭上正式作出无罪答辩；对应表达为 declararse culpable（认罪），是司法报道的核心句式。"
+        },
+        {
+          "word": "declinó",
+          "translation": "婉拒、谢绝",
+          "note": "declinar 是假朋友警示词：它不是『下降』（那是 disminuir/bajar），而是『礼貌地拒绝』；declinar un comentario/una invitación 是新闻报道引述拒绝回应时的标准用语。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Miembros del cartel y antiguos colegas accedieron a hablar con la BBC para ofrecer una visión poco común de cómo creen que Zhang, graduado de la universidad más prestigiosa de China, <strong>presuntamente</strong> se convirtió en un <strong>eslabón</strong> clave en la cadena entre los fabricantes de productos químicos chinos y los laboratorios farmacéuticos mexicanos.",
+      "zh": "贩毒集团成员和昔日同事接受了BBC的采访，提供了一个罕见的视角，讲述他们所认为的张志东——这位中国最顶尖大学的毕业生——如何据称成为中国化工厂商与墨西哥制药实验室之间供应链上的关键一环。",
+      "vocab": [
+        {
+          "word": "presuntamente",
+          "translation": "据称、涉嫌",
+          "note": "presuntamente 是新闻报道中的关键法律副词，表示『尚未经法庭证实、仅为指控』，体现新闻客观性原则；对应形容词 presunto，如 presunto asesino（涉嫌凶手）。"
+        },
+        {
+          "word": "eslabón",
+          "translation": "（链条的）一环；关键环节",
+          "note": "eslabón 字面指链条上的单个链环，引申为某系统中不可缺少的『关键一环』；eslabón clave/perdido 是新闻和学术文章中的高频比喻表达，迁移价值高。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Zhang se graduó en 2010 en la prestigiosa Universidad de Pekín, con una <strong>licenciatura</strong> en Filología Hispánica, y un año después viajó a México para trabajar en una empresa de propiedad china dedicada a la <strong>extracción</strong> de mineral de hierro. Pronto consiguió un puesto de responsabilidad.",
+      "zh": "张志东于2010年从北京大学西班牙语言文学专业本科毕业，一年后赴墨西哥在一家中资铁矿石开采企业工作，很快便晋升至管理职位。",
+      "vocab": [
+        {
+          "word": "licenciatura",
+          "translation": "本科学位、学士学位",
+          "note": "licenciatura 是假朋友警示词：它不等于英语 licence（执照），而是指大学本科/学士学历；西语学位体系为 licenciatura → máster → doctorado。"
+        },
+        {
+          "word": "extracción",
+          "translation": "开采、提取",
+          "note": "构词为 ex-（向外）+ trahere（拉），后缀 -ción 将动词转为名词；动词 extraer 表示『提取、开采』，同族词有 extracto（摘录/提取物），词根 -traer 迁移价值极高。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "Quienes lo conocieron en aquel entonces lo veían como un joven profesional brillante, con muchas ganas de <strong>vivir en el extranjero</strong>.",
+      "zh": "那时认识他的人都将他视为一位才华横溢的年轻职业人士，对旅居海外充满热情。",
+      "vocab": [
+        {
+          "word": "vivir en el extranjero",
+          "translation": "旅居海外、在国外生活",
+          "note": "extranjero 作名词时意为『外国人』，作形容词或与 en 搭配时意为『在国外』；en el extranjero 是固定地点状语，注意不说 en extranjero（缺冠词则错误）。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "\"Era capaz de negociar con la gente, muy <strong>ingenioso</strong> y capaz de <strong>adaptarse</strong> a todo tipo de entornos\", dice Alex (nombre ficticio), quien estudió en la misma universidad y posteriormente trabajó en la misma empresa minera que Zhang en México.",
+      "zh": "『他善于与人打交道，非常机智，能够适应各种环境，』亚历克斯（化名）说，他与张志东就读于同一所大学，后来也在同一家矿业公司共事。",
+      "vocab": [
+        {
+          "word": "ingenioso",
+          "translation": "机智的、足智多谋的",
+          "note": "注意区分 ingenioso（机智的）和 ingenuo（天真的、轻信的），两词拼写极为相近但含义截然相反，是西语学习者最容易混淆的词对之一。"
+        },
+        {
+          "word": "adaptarse",
+          "translation": "适应、调整自身",
+          "note": "adaptarse a 是固定搭配，后接名词；构词前缀 ad-（朝向）+ aptus（合适的），同族词有 apto（适合的）、aptitud（能力），迁移价值高。"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "es": "Según él, Zhang hablaba un español excelente, con un instinto para el <strong>lenguaje coloquial</strong> y la capacidad de hablar con cualquiera, siempre con un marcado acento de Pekín.",
+      "zh": "据他描述，张志东西班牙语说得极好，对口语有天生的语感，能与任何人交谈，始终带着浓重的北京口音。",
+      "vocab": [
+        {
+          "word": "lenguaje coloquial",
+          "translation": "口语、俗语",
+          "note": "coloquial 指非正式的日常口语风格，与 formal（正式的）相对；lenguaje coloquial、registro coloquial、expresión coloquial 是语言学习中描述语体层次的核心术语。"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "es": "Alex afirma que hacer negocios en México a veces implicaba tratar con el crimen organizado, incluidos los cárteles, que controlan zonas importantes del país. Zhang logró <strong>establecer relaciones</strong> con \"todas las personas <strong>influyentes</strong> del lugar, tanto del lado oficial como del lado no oficial\", dice Alex.",
+      "zh": "亚历克斯表示，在墨西哥做生意有时意味着要与有组织犯罪打交道，包括控制着该国重要地区的贩毒集团。他说，张志东设法与当地『所有有影响力的人建立了关系，无论是官方还是非官方』。",
+      "vocab": [
+        {
+          "word": "establecer relaciones",
+          "translation": "建立关系、搭建人脉",
+          "note": "establecer relaciones 是外交、商业和犯罪报道的高频固定搭配；establecer 比 crear 或 hacer 更正式，强调有意为之地构建稳固关系，同类搭配有 establecer vínculos、establecer contactos。"
+        },
+        {
+          "word": "influyentes",
+          "translation": "有影响力的",
+          "note": "influyente 来自 influir（影响），名词形式为 influencia；注意与近年新词 influencer（网红）的词根关联，后者直接借用英语，但词根相同，体现语言演变规律。"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "es": "Según Alex, a Zhang le encantaba este aspecto de México, y lo describe como un hombre atraído por el riesgo y la <strong>imprudencia</strong>. Recuerda que Zhang estrelló el auto de su jefe sin preocuparse por las consecuencias, y describe cómo una noche lo llevó fuera de la ciudad para disparar con pistolas a señales de tráfico en una carretera <strong>desierta</strong>.",
+      "zh": "据亚历克斯描述，张志东非常喜欢墨西哥的这一面，他形容张是一个被风险和鲁莽所吸引的人。他记得张志东撞坏了老板的车却毫不在意，还描述了一个夜晚，张志东带他开出城外，在一条空旷的公路上对着交通标志开枪射击。",
+      "vocab": [
+        {
+          "word": "imprudencia",
+          "translation": "鲁莽、轻率",
+          "note": "构词为 im-（否定前缀）+ prudencia（谨慎），前缀 im- 在 p/b 开头的词前替代 in-，同类词有 impaciente（不耐烦的）、imparcial（公正的），规律性强，值得举一反三。"
+        },
+        {
+          "word": "desierta",
+          "translation": "空旷的、荒无人烟的",
+          "note": "desierto 作形容词时表示『空无一人的』，作名词时表示『沙漠』；isla desierta（荒岛）、calle desierta（空无一人的街道）是常见搭配，注意形容词和名词用法的区分。"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "es": "En 2013, la empresa minera quebró y Alex regresó a China, pero Zhang se quedó en México.",
+      "zh": "2013年，矿业公司倒闭，亚历克斯回到了中国，但张志东留在了墨西哥。",
+      "vocab": []
+},
+{
+      "id": 19,
+      "es": "Alex afirma que, uno o dos años después, Zhang empezó a publicar en el grupo de exalumnos de Español de la Universidad de Pekín en la plataforma WeChat, ofreciendo cambiar dólares a <strong>tipos de cambio preferenciales</strong>. Alex cree que estaba <strong>blanqueando</strong> dinero.",
+      "zh": "亚历克斯表示，一两年后，张志东开始在北京大学西班牙语系校友微信群里发布消息，以优惠汇率提供换汇服务。亚历克斯认为他当时在洗钱。",
+      "vocab": [
+        {
+          "word": "tipos de cambio preferenciales",
+          "translation": "优惠汇率",
+          "note": "tipo de cambio 是『汇率』的标准金融表达，preferencial 表示『优惠的、优先的』；也可说 tasa de cambio，两者在金融新闻中可互换使用。"
+        },
+        {
+          "word": "blanqueando",
+          "translation": "洗钱（进行时）",
+          "note": "与第9段 blanquear 呼应，此处为现在分词形式；blanqueo de dinero/capitales 与 lavado de dinero 完全同义，前者在西班牙更常用，后者在拉丁美洲更普遍。"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "es": "Además, Enrique, miembro del cártel, afirma que Zhang también se <strong>involucró</strong> en el narcotráfico. Documentos judiciales en Estados Unidos acusan a Zhang de dirigir \"una organización a gran escala de narcotráfico y <strong>lavado de dinero</strong>\" desde junio de 2016.",
+      "zh": "此外，贩毒集团成员恩里克表示，张志东也涉足了毒品走私。美国司法文件指控张志东自2016年6月起领导『一个大规模毒品走私和洗钱组织』。",
+      "vocab": [
+        {
+          "word": "involucró",
+          "translation": "涉足、卷入",
+          "note": "involucrarse en 是固定搭配，表示『主动卷入或参与某事』，比 participar en 更强调深度介入且常带负面含义；新闻中常见被动结构 verse involucrado en（被卷入）。"
+        },
+        {
+          "word": "lavado de dinero",
+          "translation": "洗钱",
+          "note": "lavado de dinero 与 blanqueo de capitales 完全同义，均源于将『脏钱』洗干净的比喻；前者在拉丁美洲更常用，后者在西班牙更普遍，是犯罪新闻必备词汇。"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "es": "Enrique cree que Zhang inició una <strong>relación sentimental</strong> con una pariente de uno de los líderes del cartel y sugiere que esto le ayudó a <strong>acercarse</strong> a su círculo íntimo.",
+      "zh": "恩里克认为，张志东与贩毒集团某位领导人的一名女性亲属发展了感情关系，并暗示这帮助他进入了该领导人的核心圈子。",
+      "vocab": [
+        {
+          "word": "relación sentimental",
+          "translation": "感情关系、恋爱关系",
+          "note": "relación sentimental 是『恋爱关系』的正式表达；注意 sentimental 在西语中专指与情感、爱情相关，不像英语 sentimental 那样带有『多愁善感』的贬义色彩，属于假朋友。"
+        },
+        {
+          "word": "acercarse",
+          "translation": "靠近、接近（某人/某圈子）",
+          "note": "acercarse a 表示物理上或社交上的『靠近』，反义词为 alejarse de（远离）；在政治和犯罪报道中常用于描述渗透或建立关系的过程，是高频动词短语。"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "es": "Otro miembro del cartel que hacía <strong>recados</strong> para la organización, Luis (nombre ficticio), recuerda una calurosa tarde de 2019, cuando sus jefes le pidieron que hiciera guardia en una reunión donde Zhang \"vino a ofrecer sus productos\".",
+      "zh": "另一名为组织跑腿的贩毒集团成员路易斯（化名）回忆起2019年一个炎热的下午，他的上司要求他在一次会面中站岗，张志东在那次会面中『前来推销他的产品』。",
+      "vocab": [
+        {
+          "word": "recados",
+          "translation": "跑腿任务、差事",
+          "note": "hacer recados 是固定搭配，表示『跑腿、办杂事』；recado 也可指『口信、留言』，是一词多义的常用词，在犯罪组织语境中委婉指代底层成员执行的各类任务。"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "es": "Luis afirma que estos productos eran los <strong>precursores</strong> —los componentes químicos básicos— necesarios para fabricar fentanilo. Considera que Zhang fue quien, en efecto, lo introdujo en el mundo del fentanilo e <strong>impulsó</strong> esta <strong>rama</strong> del negocio del grupo.",
+      "zh": "路易斯表示，这些产品是制造芬太尼所需的前体物质——即基本化学成分。他认为，正是张志东将他引入了芬太尼的世界，并推动了集团这一业务分支的发展。",
+      "vocab": [
+        {
+          "word": "precursores",
+          "translation": "前体物质；先驱者",
+          "note": "precursor 构词为 pre-（在前）+ cursor（奔跑者），既可指化学上的『前体/前驱物质』，也可指某领域的『先驱者』，是典型的一词多义，需根据语境判断。"
+        },
+        {
+          "word": "impulsó",
+          "translation": "推动、促进",
+          "note": "impulsar 表示给予动力使某事发展，比 promover 更强调推动力度；常见搭配有 impulsar el crecimiento（推动增长）、impulsar la economía（拉动经济）。"
+        },
+        {
+          "word": "rama",
+          "translation": "分支、部门",
+          "note": "rama 字面意为树枝，引申为组织、学科或业务的『分支』；rama del negocio（业务分支）、rama del derecho（法律分支）是常见搭配，比 sector 更形象生动。"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "es": "Luis cuenta que pronto se convirtió en \"cocinero\" de fentanilo, elaborando la droga en un laboratorio <strong>clandestino</strong>. Afirma haber visto morir delante de él al menos a otros cinco \"cocineros\", y cree que esto se debió a que las sustancias que manipulaban se <strong>filtraron</strong> por las rendijas de su ropa protectora.",
+      "zh": "路易斯讲述，他很快成为了芬太尼『厨师』，在一个秘密实验室里制造毒品。他声称亲眼目睹至少另外五名『厨师』在他面前死去，他认为这是因为他们操作的物质从防护服的缝隙中渗入所致。",
+      "vocab": [
+        {
+          "word": "clandestino",
+          "translation": "秘密的、地下的、非法的",
+          "note": "clandestino 描述秘密进行、不为当局所知的活动或场所，比 secreto 更强调非法性和隐蔽性；laboratorio clandestino（地下实验室）、reunión clandestina（秘密会议）是常见搭配。"
+        },
+        {
+          "word": "filtraron",
+          "translation": "渗入、泄漏",
+          "note": "filtrar 是一词多义词：既指液体或气体『渗透』，也指信息『泄露』；新闻中 filtrarse una noticia 表示消息『走漏』，filtrarse documentos 表示文件『外泄』，是媒体报道的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "es": "\"A veces la gente simplemente se desmaya y tenemos que sacarla de la habitación\", dice.",
+      "zh": "『有时候人就这么晕倒了，我们得把他们抬出房间，』他说。",
+      "vocab": []
+    },
+    {
+      "id": 26,
+      "es": "Enrique describe cómo se realizaban los pedidos de precursores a Zhang, quien, según él, utilizó sus <strong>contactos</strong> en China para conseguir los productos químicos. También según Enrique, los ingredientes se enviaban luego por vía aérea o marítima a México. Afirma que su propia red los <strong>distribuiría</strong> a los fabricantes de fentanilo, como Luis, en los laboratorios clandestinos de Sinaloa.",
+      "zh": "恩里克描述了向张志东订购前体物质的过程——据他说，张志东利用在中国的人脉获取化学品。同样据恩里克所述，这些原料随后通过空运或海运发往墨西哥，他自己的网络则负责将其分发给锡那罗亚秘密实验室里的芬太尼制造者，比如路易斯。",
+      "vocab": [
+        {
+          "word": "contactos",
+          "translation": "人脉、关系网",
+          "note": "contactos 在商业和犯罪语境中专指『人脉关系』，tener contactos（有人脉）、usar sus contactos（动用关系）是固定搭配；与 conocidos（熟人）的区别在于 contactos 更强调功能性和利益关联。"
+        },
+        {
+          "word": "distribuiría",
+          "translation": "会分发、负责分销（条件式）",
+          "note": "此处用条件式（condicional）转述他人说法，是新闻报道中引用消息来源时保持客观距离的重要语法手段；构词 dis-（分散）+ tribuere（分配），同族词有 contribuir、atribuir。"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "es": "Al ser preguntado sobre si se siente culpable por estar involucrado en una industria que causa tantas muertes, Enrique responde que uno de sus familiares murió por una <strong>sobredosis</strong> de fentanilo. \"Te <strong>revuelve la conciencia</strong>\", dice, pero añade: \"El trabajo es trabajo y no conocemos otra forma de <strong>ganarnos la vida</strong>\".",
+      "zh": "当被问及是否对参与一个造成如此多死亡的行业感到愧疚时，恩里克回答说他有一位家人死于芬太尼过量。『这会让你良心不安，』他说，但补充道：『工作就是工作，我们不知道还有什么别的谋生方式。』",
+      "vocab": [
+        {
+          "word": "sobredosis",
+          "translation": "过量、过度用药",
+          "note": "构词为 sobre-（超过）+ dosis（剂量），前缀 sobre- 表示『超出、过度』，同类词有 sobrepasar（超越）、sobrecarga（超负荷）、sobreestimar（高估），是高价值构词前缀。"
+        },
+        {
+          "word": "revuelve la conciencia",
+          "translation": "使良心不安、搅动内心",
+          "note": "revolver la conciencia 是固定惯用表达，字面为『搅动良心』，引申为『使内心感到不安或愧疚』；动词 revolver 词根 -volver 表示『转动』，同族词有 revolución、devolver、envolver。"
+        },
+        {
+          "word": "ganarnos la vida",
+          "translation": "谋生、维持生计",
+          "note": "ganarse la vida 是固定搭配，表示『通过劳动维持生计』；注意反身代词随主语变化：me gano la vida、se gana la vida、nos ganamos la vida，是B1以上必掌握的惯用表达。"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "es": "Cuando se le hizo la misma pregunta, Luis contó que una vez intentó dejar de trabajar en el laboratorio, pero su jefe le dijo que la alternativa era salir a hacer rondas de vigilancia. Dijo que su jefe le dio a elegir: \"Te pones el chaleco, el equipo, y sales a combatir; es eso o sigues <strong>cocinando</strong>\".",
+      "zh": "当被问及同样的问题时，路易斯讲述了他曾试图离开实验室工作，但他的上司告诉他另一个选择是出去巡逻。他说上司给了他两个选择：『你穿上防弹衣、带上装备出去战斗，要么就继续做饭。』",
+      "vocab": [
+        {
+          "word": "cocinando",
+          "translation": "做饭；（隐语）制造毒品",
+          "note": "cocinar 在毒品犯罪语境中是隐语，指在实验室中『制造毒品』，cocinero（厨师）因此成为毒品制造者的代称；这是典型的语言在特定社群中产生引申义的案例，体现语言的社会性。"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "es": "Según las agencias de seguridad mexicanas, Zhang dirigía operaciones ilegales que <strong>abarcaban</strong> América, Europa, China y Japón.",
+      "zh": "据墨西哥安全机构称，张志东领导的非法行动涵盖美洲、欧洲、中国和日本。",
+      "vocab": [
+        {
+          "word": "abarcaban",
+          "translation": "涵盖、覆盖、囊括",
+          "note": "abarcar 表示在范围或内容上『涵盖、囊括』，比 incluir 更强调广度和全面性；常见搭配有 abarcar varios temas（涵盖多个主题）、abarcar todo el territorio（覆盖全境），是学术和新闻文体的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "es": "Victoria Dittmar, investigadora del centro de estudios InSight Crime, ha dedicado años a investigar el flujo de precursores químicos hacia México. Afirma que los <strong>intermediarios</strong> —el papel que se sugiere que desempeñó Zhang— se encuentran en la <strong>intersección</strong> crucial entre los productores químicos y los cárteles.",
+      "zh": "洞察犯罪研究中心研究员维多利亚·迪特马尔多年来致力于研究化学前体物质流入墨西哥的情况。她表示，中间人——即张志东据称所扮演的角色——处于化工生产商与贩毒集团之间的关键交汇点。",
+      "vocab": [
+        {
+          "word": "intermediarios",
+          "translation": "中间人、中介",
+          "note": "构词为 inter-（之间）+ medio（中间），前缀 inter- 表示『在……之间』，同类词有 internacional（国际的）、intervenir（介入）、intercambio（交流），是极高价值的构词前缀。"
+        },
+        {
+          "word": "intersección",
+          "translation": "交汇点、交叉点",
+          "note": "intersección 在抽象语境中指两个领域或群体的『交叉地带』；与英语 intersection 是真朋友，在学术和新闻文体中广泛使用，也常见于 en la intersección de（处于……的交汇处）这一固定结构。"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "es": "\"Era un intermediario que ponía en contacto a organizaciones mexicanas de narcotráfico con proveedores chinos de precursores químicos\", un mundo que, según ella, es difícil de comprender para quienes no pertenecen a él. \"También tenía una enorme <strong>presencia</strong> en Estados Unidos\", añade. \"Eso no se ve a menudo... una persona que pueda conectar tres regiones\".",
+      "zh": "『他是一个将墨西哥毒品走私组织与中国化学前体供应商联系起来的中间人，』她说，这是一个局外人难以理解的世界。『他在美国也有巨大的影响力，』她补充道，『这并不常见……一个能够连接三个地区的人。』",
+      "vocab": [
+        {
+          "word": "presencia",
+          "translation": "存在感、影响力",
+          "note": "presencia 在抽象语境中表示某人或某组织在某地的『影响力和存在感』，tener presencia en 是商业和犯罪报道的高频搭配；与 ausencia（缺席）构成反义对，两词均为新闻高频词。"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "es": "\"También tenía una enorme presencia en Estados Unidos\", añade. \"Eso no se ve a menudo... una persona que pueda <strong>conectar</strong> tres regiones\".",
+      "zh": "『他在美国也有巨大的影响力，』她补充道，『这并不常见……一个能够连接三个地区的人。』",
+      "vocab": [
+        {
+          "word": "conectar",
+          "translation": "连接、将……联系起来",
+          "note": "conectar 既指物理连接，也指在人与人、组织与组织之间建立联系；构词为 con-（共同）+ nectere（绑缚），同族词有 nexo（纽带）、conexión（联系），词根 -nect- 迁移价值高。"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "es": "Las autoridades mexicanas afirmaron que Zhang era responsable de la exportación y distribución de más de 1.000 kg de cocaína, 1.800 kg de fentanilo y 600 kg de metanfetamina. También lo acusaron de <strong>manejar</strong> más de US$150 millones en <strong>ganancias anuales</strong> provenientes del narcotráfico.",
+      "zh": "墨西哥当局称，张志东负责出口和分销逾1000公斤可卡因、1800公斤芬太尼及600公斤甲基苯丙胺，并指控他掌控每年逾1.5亿美元的毒品犯罪收益。",
+      "vocab": [
+        {
+          "word": "manejar",
+          "translation": "掌控、操控、处理",
+          "note": "manejar 是假朋友警示词：它不等于英语 manage（管理），更接近『操控、驾驭、处理』；manejar dinero（掌控资金）、manejar una situación（处理局面）是常见搭配，注意与 gestionar（管理）的区别。"
+        },
+        {
+          "word": "ganancias anuales",
+          "translation": "年度收益、年利润",
+          "note": "ganancias 是『收益、利润』的常用词，与 beneficios 基本同义；anuales 表示『年度的』，在财经报道中也可说 ingresos anuales（年收入），两者在语境中可互换。"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "es": "El Departamento de Justicia de Estados Unidos emitió un comunicado de prensa en 2025 con detalles de la acusación contra Zhang. Además de acusarlo de narcotráfico, afirmó que <strong>reclutó</strong> personas para abrir cuentas bancarias en nombre de más de 100 <strong>empresas fantasma</strong>.",
+      "zh": "美国司法部于2025年发布新闻稿，详述对张志东的指控。除毒品走私指控外，还称他招募人员以逾100家空壳公司的名义开设银行账户。",
+      "vocab": [
+        {
+          "word": "reclutó",
+          "translation": "招募、招兵买马",
+          "note": "reclutar 原指军事『征兵』，引申为任何组织『招募成员』；名词形式为 reclutamiento（招募）；在犯罪报道中常见 reclutar cómplices（招募同谋），是新闻文体的高频词。"
+        },
+        {
+          "word": "empresas fantasma",
+          "translation": "空壳公司",
+          "note": "empresa fantasma 是金融犯罪报道的固定搭配，fantasma 作形容词表示『虚假存在、徒有其名』；同类表达有 cuenta fantasma（幽灵账户）、trabajador fantasma（幽灵员工），迁移价值高。"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "es": "Según el documento, recogían el dinero en varios lugares de Estados Unidos, lo depositaban en las cuentas bancarias de la empresa fantasma y <strong>transferían</strong> los fondos a otras cuentas beneficiarias para blanquearlos fuera de Estados Unidos.",
+      "zh": "据该文件显示，他们在美国多处收取现金，存入空壳公司的银行账户，再将资金转移至其他受益账户，以在美国境外完成洗钱。",
+      "vocab": [
+        {
+          "word": "transferían",
+          "translation": "转移、转账",
+          "note": "transferir 构词为 trans-（跨越）+ ferre（携带），前缀 trans- 表示『跨越、转移』，同类词有 transformar（转变）、transmitir（传递）、transparente（透明的），是极高价值的构词前缀。"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "es": "En el otro extremo de las supuestas operaciones de Zhang se encuentra China. Según un informe del Departamento de Estado de EE.UU. de 2025, el país es uno de los principales productores y exportadores mundiales de los precursores químicos utilizados para fabricar drogas sintéticas. El informe señala que la industria química china es \"enorme\", con 160.000 empresas, y que, a pesar de las medidas adoptadas por las autoridades para <strong>implementar</strong> controles, la supervisión \"<strong>carece de</strong> personal y equipamiento suficientes\".",
+      "zh": "张志东涉嫌行动的另一端是中国。根据美国国务院2025年的一份报告，中国是制造合成毒品所用化学前体物质的全球主要生产国和出口国之一。报告指出，中国化工行业『规模庞大』，拥有16万家企业，尽管当局采取了实施管控的措施，但监管『仍缺乏足够的人员和设备』。",
+      "vocab": [
+        {
+          "word": "implementar",
+          "translation": "实施、落实",
+          "note": "implementar 是来自英语的借词，在正式文体中表示『将政策或措施付诸实施』，与 aplicar（应用）和 ejecutar（执行）近义但更强调系统性推进；在官方报告和新闻中极为高频。"
+        },
+        {
+          "word": "carece de",
+          "translation": "缺乏、欠缺",
+          "note": "carecer de 是固定搭配，表示『缺少某种必要的东西』，比 no tener 更正式；常见搭配有 carecer de recursos（缺乏资源）、carecer de pruebas（缺乏证据），是学术和新闻文体的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "es": "La embajada china en Washington declaró a la BBC que China es \"uno de los países más duros del mundo en la lucha contra el narcotráfico\". Añadió que el gigante asiático incluyó todas las sustancias relacionadas con el fentanilo en su lista de <strong>sustancias controladas</strong> en 2019, lo que significa que están bajo estricto control gubernamental. No están prohibidas porque algunas tienen <strong>usos legítimos</strong> en diversas industrias.",
+      "zh": "中国驻华盛顿大使馆向BBC表示，中国是『世界上打击毒品犯罪最严厉的国家之一』。大使馆补充说，中国于2019年将所有芬太尼相关物质列入管制物质名单，意味着这些物质处于严格的政府管控之下。它们并未被完全禁止，因为其中一些在多个行业有合法用途。",
+      "vocab": [
+        {
+          "word": "sustancias controladas",
+          "translation": "管制物质",
+          "note": "sustancias controladas 是国际禁毒法律的核心术语，指受政府严格监管但未必完全禁止的化学物质；与英语 controlled substances 是真朋友，可直接对应使用。"
+        },
+        {
+          "word": "usos legítimos",
+          "translation": "合法用途",
+          "note": "legítimo 来自拉丁语 lex（法律），表示『符合法律或道德标准的』；与 legal（合法的）的区别在于 legítimo 还含有『正当、合理』的道德层面，如 defensa legítima（正当防卫）。"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "es": "La embajada afirmó que la cooperación \"amplia y profunda\" de China con Estados Unidos en la lucha contra el narcotráfico había sido \"<strong>altamente productiva</strong>\".",
+      "zh": "大使馆表示，中国与美国在打击毒品犯罪方面『广泛而深入』的合作已经『成效显著』。",
+      "vocab": [
+        {
+          "word": "altamente productiva",
+          "translation": "成效显著的、高度富有成效的",
+          "note": "altamente 是副词，修饰形容词时表示『高度地、极为』，常见于外交和官方声明；注意 productivo 在此为引申义『富有成效的』，而非字面的『有生产力的』，需根据语境判断。"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "es": "La presunta implicación de Zhang en el tráfico de drogas llegó a un <strong>abrupto</strong> final cuando fue arrestado en México el 31 de octubre de 2024. Un juez tomó la <strong>controvertida</strong> decisión de ponerlo bajo arresto domiciliario, pero Zhang logró <strong>escabullirse</strong> —al parecer, a través de un agujero en una pared— y huir en un avión privado a Cuba y luego a Rusia.",
+      "zh": "2024年10月31日，张志东在墨西哥被捕，其涉嫌参与毒品走私的活动戛然而止。一名法官作出颇具争议的决定，将其置于软禁之下，但张志东设法溜走——据称是通过墙上的一个洞——随后乘私人飞机逃往古巴，再转往俄罗斯。",
+      "vocab": [
+        {
+          "word": "abrupto",
+          "translation": "突然的、骤然的",
+          "note": "abrupto 描述某事以出人意料、毫无预警的方式发生，比 repentino 更强调戏剧性的突然终止；fin abrupto（骤然终结）、cambio abrupto（急剧转变）是新闻文体的常见搭配。"
+        },
+        {
+          "word": "controvertida",
+          "translation": "有争议的",
+          "note": "controvertido 与 polémico 近义，但 controvertido 更强调存在明确的正反两方争论，多用于法律和政治报道；polémico 则更强调引发公众激烈讨论，语气略强。"
+        },
+        {
+          "word": "escabullirse",
+          "translation": "溜走、悄悄逃脱",
+          "note": "escabullirse 指悄悄地、不引人注意地溜走，比 escapar 更强调隐蔽性和狡猾性；在新闻叙事中用此词往往带有轻微讽刺意味，暗示当局的疏失。"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "es": "Los funcionarios fronterizos rusos detectaron sus documentos <strong>falsificados</strong> y fue enviado de vuelta a Cuba, que lo devolvió a México, desde donde fue extraditado a Estados Unidos. Su arresto fue noticia en todo el mundo. La red de exalumnos de la Universidad de Pekín, donde Zhang había estudiado español, quedó <strong>conmocionada</strong>.",
+      "zh": "俄罗斯边境官员发现了他伪造的证件，将其遣返古巴，古巴再将其移交墨西哥，随后他被引渡至美国。他的被捕成为全球新闻。张志东曾就读西班牙语专业的北京大学校友网络为此震惊不已。",
+      "vocab": [
+        {
+          "word": "falsificados",
+          "translation": "伪造的",
+          "note": "falsificar 表示『蓄意伪造文件、货币等』，注意与 falso（假的、错误的）的区别：falso 泛指不真实，falsificado 专指人为蓄意伪造，在法律语境中含义更严重，性质更恶劣。"
+        },
+        {
+          "word": "conmocionada",
+          "translation": "震惊的、受到强烈冲击的",
+          "note": "conmocionado/a 描述人或群体受到巨大冲击；注意与 emocionado（激动的）的区别：conmocionado 强调震惊和不安，emocionado 则可以是正面情绪，两词不可混用。"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "es": "\"Todo el mundo hablaba de ello\", dice Alex. \"Fue una historia impactante y probablemente sea una de las personas más famosas que ha dado la Universidad de Pekín\".",
+      "zh": "『所有人都在谈论这件事，』亚历克斯说，『这是一个令人震惊的故事，他可能是北京大学培养出的最出名的人之一。』",
+      "vocab": []
+    },
+    {
+      "id": 42,
+      "es": "En Culiacán, los miembros del cartel afirman que la ausencia de Zhang se sintió de inmediato. Luis dice que se volvió \"realmente difícil conseguir los precursores\". \"Se llevaron al hombre y eso causó un gran problema\", dice Enrique. Explica que Zhang era \"el que tenía los contactos\" en China, y que los cárteles tuvieron que \"<strong>empezar de cero</strong> y construir una nueva ruta\".",
+      "zh": "在库利亚坎，贩毒集团成员表示张志东的缺席立刻产生了影响。路易斯说，获取前体物质变得『真的非常困难』。『他们把那个人带走了，这造成了大问题，』恩里克说。他解释说，张志东是在中国『有人脉的那个人』，贩毒集团不得不『从零开始，重建一条新路线』。",
+      "vocab": [
+        {
+          "word": "empezar de cero",
+          "translation": "从零开始、从头再来",
+          "note": "empezar/comenzar de cero 是固定惯用表达，表示在没有任何基础的情况下重新开始；也可说 partir de cero，两者完全同义，口语和书面语均适用。"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "es": "Casi al mismo tiempo, la Administración para el Control de Drogas de Estados Unidos (DEA) comenzó a detectar una <strong>disminución</strong> en la pureza del fentanilo, lo que, según afirmó, era \"<strong>coherente con</strong> los indicadores de que muchos fabricantes de fentanilo con sede en México están teniendo dificultades para obtener algunos precursores químicos clave\".",
+      "zh": "几乎与此同时，美国缉毒局（DEA）开始检测到芬太尼纯度下降，并表示这与『许多在墨西哥的芬太尼制造商正难以获得某些关键化学前体』的迹象『相吻合』。",
+      "vocab": [
+        {
+          "word": "disminución",
+          "translation": "下降、减少",
+          "note": "disminución 是 disminuir（减少）的名词形式，与 aumento（增加）构成反义对；在数据报道中常见 registrar una disminución（记录到下降）、experimentar una disminución（经历减少）等搭配。"
+        },
+        {
+          "word": "coherente con",
+          "translation": "与……一致、与……吻合",
+          "note": "coherente con 是固定搭配，表示『与……相符、逻辑上吻合』，是新闻和学术文体中表达逻辑一致性的高频词；与英语 coherent 是真朋友，但中文翻译需根据语境灵活处理。"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "es": "Pero las interrupciones en las cadenas de suministro de medicamentos suelen ser temporales, en lo que Dittmar describe como un \"<strong>constante juego del gato y el ratón</strong>\". Su investigación ha analizado cómo, cuando se eliminan los intermediarios o se controlan los productos químicos clave, los productores de fentanilo se <strong>adaptan</strong> buscando sustitutos y aprendiendo nuevos procesos.",
+      "zh": "但迪特马尔将供应链中断描述为一场『猫鼠游戏』，这种中断通常是暂时的。她的研究分析了当中间人被清除或关键化学品受到管控时，芬太尼生产者如何通过寻找替代品和学习新工艺来适应。",
+      "vocab": [
+        {
+          "word": "constante juego del gato y el ratón",
+          "translation": "持续的猫鼠游戏",
+          "note": "juego del gato y el ratón 是西语中与中文完全对应的固定惯用语，形容执法方与违法方之间永无止境的追逐与反追逐；constante 强调这种博弈的持续性，是新闻评论中的生动比喻。"
+        },
+        {
+          "word": "adaptan",
+          "translation": "适应、调整",
+          "note": "与第14段 adaptarse 呼应；adaptarse 在描述犯罪组织应对打压时是关键动词，体现其灵活性和韧性；构词前缀 ad-（朝向）+ aptus（合适的），同族词有 apto、aptitud。"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "es": "También se puede <strong>sustituir</strong> a los individuos que forman parte de la cadena de suministro; incluso, según los miembros del cartel, a aquellos con conexiones tan profundas y extensas como las que supuestamente tenía Zhang. Enrique dice que ya hay alguien en el punto de mira, otra persona china, pero dice que no puede decir más \"por mi propia seguridad\".",
+      "zh": "供应链中的个人也可以被替换，甚至据贩毒集团成员称，像张志东据称拥有的那种深厚而广泛的人脉关系也不例外。恩里克说，已经有人进入视野，是另一名中国人，但他表示出于『自身安全』无法透露更多。",
+      "vocab": [
+        {
+          "word": "sustituir",
+          "translation": "替换、取代",
+          "note": "sustituir a alguien/algo 是固定搭配，后接人时需加 a；与 reemplazar 近义，但 sustituir 更正式，常用于书面语；名词形式 sustituto（替代者）、sustitución（替换）在新闻中同样高频。"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "es": "Otro miembro del cartel, que se describe a sí mismo como coordinador responsable del traslado de mercancías y personal, indica que aunque \"todo esto empezó por su culpa [del hermano Wang]... dejó muchas conexiones que nos ayudaron a <strong>seguir adelante</strong>\". \"Si él se va, alguien más tomará su lugar... el negocio no se <strong>detendrá</strong>.\"",
+      "zh": "另一名自称负责货物和人员转移的协调员表示，尽管『这一切都是因为他（王哥）才开始的……他留下了许多帮助我们继续前行的关系网』。『如果他走了，会有别人取而代之……生意不会停止。』",
+      "vocab": [
+        {
+          "word": "seguir adelante",
+          "translation": "继续前行、坚持下去",
+          "note": "seguir adelante 是固定惯用表达，表示『不顾困难继续推进』，既可用于积极语境（坚持梦想），也可用于负面语境（如此处的犯罪活动）；adelante 作副词表示『向前』，是口语和书面语均高频的表达。"
+        },
+        {
+          "word": "detendrá",
+          "translation": "将会停止、将会中断",
+          "note": "detener 表示『使停止、阻止』，反身形式 detenerse 表示『自行停下』；此处 no se detendrá 用将来时表达对未来的强烈断言，是新闻引语中传递说话者确信态度的常见句式。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "darse a la fuga",
+      "type": "colocación",
+      "translation": "仓皇出逃、逃之夭夭",
+      "usage": "darse a la fuga 是犯罪和新闻报道中描述嫌疑人逃跑的固定搭配，比单独用 huir 更正式，且强调主动逃脱的行为；常见于警方通报和犯罪报道，语气较强。",
+      "exampleEs": "El sospechoso se dio a la fuga antes de que llegara la policía.",
+      "exampleZh": "嫌疑人在警察赶到之前仓皇逃跑了。"
+    },
+    {
+      "expression": "poner en contacto",
+      "type": "colocación",
+      "translation": "将……联系起来、牵线搭桥",
+      "usage": "poner en contacto a A con B 是固定搭配，表示『在A和B之间建立联系』，强调中间人的桥梁作用；广泛用于商业、外交和犯罪报道，是描述中介功能的核心表达。",
+      "exampleEs": "La agencia puso en contacto a los inversores con las empresas emergentes.",
+      "exampleZh": "该机构将投资者与初创企业联系了起来。"
+    },
+    {
+      "expression": "juego del gato y el ratón",
+      "type": "modismo",
+      "translation": "猫鼠游戏、你追我躲的博弈",
+      "usage": "字面意思与实际意思相近但已固定为惯用语，专指两方之间持续的追逐与反追逐博弈，常用于描述执法机构与犯罪分子、监管方与被监管方之间的长期对抗关系。",
+      "exampleEs": "Entre los hackers y los expertos en ciberseguridad existe un eterno juego del gato y el ratón.",
+      "exampleZh": "黑客与网络安全专家之间存在着一场永无止境的猫鼠游戏。"
+    },
+    {
+      "expression": "ganarse la vida",
+      "type": "colocación",
+      "translation": "谋生、维持生计",
+      "usage": "ganarse la vida 是固定搭配，表示『通过劳动换取生活所需』；注意反身代词随主语变化：me gano la vida、se gana la vida、nos ganamos la vida；在口语和书面语中均极为高频，是B1以上必掌握表达。",
+      "exampleEs": "Se gana la vida dando clases de idiomas en línea.",
+      "exampleZh": "他靠在网上教语言课谋生。"
+    },
+    {
+      "expression": "imponer sanciones",
+      "type": "colocación",
+      "translation": "实施制裁、施加惩罚",
+      "usage": "imponer + 名词 是国际政治和经济新闻的核心动词搭配结构，同类表达有 imponer aranceles（加征关税）、imponer condiciones（施加条件）、imponer multas（处以罚款）；imponer 强调单方面强制施加，语气强硬。",
+      "exampleEs": "La Unión Europea decidió imponer sanciones económicas al país agresor.",
+      "exampleZh": "欧盟决定对侵略国实施经济制裁。"
+    },
+    {
+      "expression": "seguir adelante",
+      "type": "colocación",
+      "translation": "继续前行、坚持下去",
+      "usage": "seguir adelante 是高频固定表达，表示『不顾困难或阻碍继续推进』；可用于正面语境（克服困难坚持目标）或负面语境（如文中犯罪活动的延续）；adelante 也可替换为其他方向副词构成类似表达。",
+      "exampleEs": "A pesar de los obstáculos, el equipo decidió seguir adelante con el proyecto.",
+      "exampleZh": "尽管困难重重，团队还是决定继续推进这个项目。"
+    }
+  ]
+}
