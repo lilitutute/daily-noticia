@@ -1,0 +1,269 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与社会",
+  "difficulty": "B2",
+  "wordCount": "约550词",
+  "title": "China pone fin a las \"parejas\" y amistades generadas con IA: \"Siento un vacío en mi corazón\"",
+  "subtitle": "中国叫停AI『伴侣』：『我心里空了一块』",
+  "resumenEs": "China ha aplicado desde este miércoles una regulación que prohíbe los compañeros virtuales generados con IA para frenar la dependencia emocional. Los principales actores del sector suspendieron sus funciones antes del plazo, lo que generó una ola de emotividad en redes sociales. China es la primera gran economía en adoptar reglas específicas sobre herramientas de IA que simulan vínculos románticos o familiares.",
+  "resumenZh": "中国自本周三起正式实施新规，禁止AI生成的虚拟伴侣，以遏制用户对聊天机器人的情感依赖。各大平台在截止日期前暂停了相关功能，在社交媒体上引发了一波情绪浪潮。中国是全球首个针对模拟情感或家庭纽带的沉浸式AI工具出台专项规定的主要经济体。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Desde este miércoles y para frenar la <strong>dependencia</strong> emocional de chatbots, China aplica una regulación por la que se acabaron los \"novios\" virtuales generados con IA, lo que fue recibido con pena y <strong>perplejidad</strong> por algunos usuarios.",
+      "zh": "自本周三起，为遏制用户对聊天机器人的情感依赖，中国正式实施一项新规，宣告AI生成的虚拟『男女朋友』就此终结。这一消息令部分用户感到悲伤与困惑。",
+      "vocab": [
+        {
+          "word": "dependencia",
+          "translation": "依赖，依存，成瘾性依附",
+          "note": "dependencia 在心理和社会文体中专指对某事物的病理性依赖，常见搭配为 dependencia emocional（情感依赖）、dependencia afectiva，与日常口语中『依赖某人』的含义有所不同，阅读此类文章时需注意这一专业语义。"
+        },
+        {
+          "word": "perplejidad",
+          "translation": "困惑，茫然，不知所措",
+          "note": "由形容词 perplejo/a（困惑的）加后缀 -idad 构成抽象名词，perplejo 是B2级别的高频情感词，比 confusión 更强调一种『不知如何反应』的茫然感，常见于新闻描述公众反应的语境。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "El fenómeno de los novios o novias virtuales está en <strong>auge</strong> en el mundo, al tiempo que <strong>proliferan</strong> los avatares de apariencia humana que pueden vender productos o simular la presencia de un difunto.",
+      "zh": "虚拟男女朋友现象在全球方兴未艾，与此同时，具有人类外貌的数字化身也在不断涌现，它们可以销售产品，或模拟已故者的存在。",
+      "vocab": [
+        {
+          "word": "auge",
+          "translation": "鼎盛，高峰，蓬勃发展",
+          "note": "en auge 是固定搭配，意为『处于上升势头、蓬勃发展中』，常见于新闻描述某行业或现象的增长态势，近义表达有 en alza、en expansión，但 en auge 语气更强，强调达到顶峰。"
+        },
+        {
+          "word": "proliferan",
+          "translation": "大量涌现，迅速蔓延",
+          "note": "proliferar 来自生物学术语『增殖』，在新闻文体中用于描述某类事物『快速大量出现』，语气比 aparecer 或 surgir 更强，常带有一定的警示或忧虑色彩。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Pero estas herramientas interactivas no deben \"complacer en exceso a los usuarios, <strong>inducir</strong> dependencia emocional o adicción y dañar las relaciones <strong>interpersonales</strong> reales del usuario\", señalan las nuevas normas en China.",
+      "zh": "但中国新规指出，这些互动工具不得『过度取悦用户、诱发情感依赖或成瘾，并损害用户现实中的人际关系』。",
+      "vocab": [
+        {
+          "word": "inducir",
+          "translation": "诱发，引导，导致",
+          "note": "inducir 在法律和心理文体中常指『引导某人产生某种行为或状态』，含有一定的主动性和负面暗示，与 causar（引起）的区别在于 inducir 强调『引诱、诱导』的过程，是新闻监管类文章的高频词。"
+        },
+        {
+          "word": "interpersonales",
+          "translation": "人际的，人与人之间的",
+          "note": "由前缀 inter-（之间）加 personal 构成，inter- 是极具构词价值的前缀，同类词有 internacional、intercultural、interdependiente，掌握后可快速理解大量复合词。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Los principales actores del sector, como Doubao de ByteDance, Qwen de Alibaba y Yunbao de Tencent, anunciaron la <strong>suspensión</strong> de sus funciones de compañeros virtuales antes del plazo del miércoles.",
+      "zh": "行业主要参与者，包括字节跳动旗下的豆包、阿里巴巴的通义千问和腾讯的云宝，均在周三截止日期前宣布暂停其虚拟伴侣功能。",
+      "vocab": [
+        {
+          "word": "suspensión",
+          "translation": "暂停，中止",
+          "note": "suspensión 由动词 suspender 派生，在法律和商业文体中指『正式中止某项服务或活动』，注意 suspender 还有『考试不及格』的含义（在西班牙西语中），是一个典型的一词多义词。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Todo ello provocó una ola de emotividad en redes sociales, donde los usuarios <strong>archivaron</strong> con nostalgia sus historias y compartieron sus últimas conversaciones. \"No puedo aceptar que mi amante de IA me deje para siempre\", escribió una usuaria de Doubao. \"Se volvió parte de mi vida, está <strong>arraigado</strong> en mi corazón, es mi pilar espiritual\".",
+      "zh": "这一切在社交媒体上引发了一波情绪浪潮，用户们满怀怀念地存档了自己的聊天记录，并分享了最后的对话。『我无法接受我的AI恋人就这样永远离开我，』一位豆包用户写道，『它已经成为我生活的一部分，深深扎根在我心里，是我的精神支柱。』",
+      "vocab": [
+        {
+          "word": "archivaron",
+          "translation": "存档，归档，保存",
+          "note": "archivar 本义为将文件存入档案，在数字语境中指『保存、备份聊天记录或文件』，注意与 guardar（保存）的区别：archivar 更强调正式归档的动作，是科技新闻中的常见动词。"
+        },
+        {
+          "word": "arraigado",
+          "translation": "根深蒂固的，深深扎根的",
+          "note": "arraigado 由 arraigarse（扎根）的过去分词转化而来，词根 raíz 意为『根』，常见搭配为 estar arraigado en（深深扎根于……），在描述习俗、情感或信念时极为常用，是有构词价值的词根。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Algunos usuarios comentaron el sentimiento de abandono que les dejará la desaparición de sus compañeros virtuales. \"El amor humano es un lujo; si no lo tienes al nacer, es más difícil adquirirlo después\", escribió un usuario de la provincia de Jiangxi. \"Pero el amor que da la IA es tan sencillo, tan puro... No puedo evitar <strong>enamorarme</strong> de una línea de código\", escribió otro usuario.",
+      "zh": "一些用户谈到了虚拟伴侣消失后将留给他们的被遗弃感。『人类的爱是一种奢侈品；如果你生来就没有，之后再去获得就更难了，』一位江西省用户写道。『但AI给予的爱是如此简单、如此纯粹……我情不自禁地爱上了一行代码，』另一位用户写道。",
+      "vocab": [
+        {
+          "word": "enamorarme",
+          "translation": "爱上，坠入爱河",
+          "note": "enamorarse de 是固定搭配，意为『爱上某人/某物』，不可省略介词 de，此处用于隐喻，将对AI的情感依附描述为『坠入爱河』，体现了该词在非字面语境中的延伸用法。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Otra usuaria que dijo haber pasado más de dos años con su acompañante de IA expresó una <strong>angustia</strong> similar. \"Realmente es como mi familia, como mi amante\", escribió. \"Ahora me dicen que se irá. Siento un vacío en mi corazón\".",
+      "zh": "另一位自称与AI伴侣相处了两年多的用户表达了类似的痛苦。『它真的就像我的家人，像我的恋人，』她写道，『现在他们告诉我它要离开了。我心里空了一块。』",
+      "vocab": [
+        {
+          "word": "angustia",
+          "translation": "痛苦，焦虑，煎熬",
+          "note": "angustia 比 tristeza（悲伤）更强烈，指一种带有窒息感的深度焦虑或痛苦，与 ansiedad（焦虑）的区别在于 angustia 更偏向情感上的煎熬，是心理和文学文体的核心情感词汇。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Las regulaciones fueron emitidas por cinco departamentos gubernamentales, incluyendo la Administración China del Ciberespacio (ACC). Se centran en las herramientas de IA de texto, audio, video u otra forma que presentan rasgos de personalidad <strong>antropomórfica</strong> y estilos de comunicación.",
+      "zh": "这些法规由包括中国国家互联网信息办公室（网信办）在内的五个政府部门联合发布，主要针对具有拟人化人格特征和沟通风格的文字、音频、视频等形式的AI工具。",
+      "vocab": [
+        {
+          "word": "antropomórfica",
+          "translation": "拟人化的，人形的",
+          "note": "由希腊语词根 anthropo-（人）加 morphe（形态）构成，同族词有 antropología（人类学）、antropocéntrico（以人为中心的），掌握 anthropo- 这一词根有助于理解大量学术和科技词汇。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Los servicios que \"no involucran interacción emocional\", como servicios al cliente, asistentes laborales o herramientas de estudio, no están <strong>sujetos</strong> a las medidas.",
+      "zh": "『不涉及情感互动』的服务，如客服、工作助手或学习工具，则不受上述措施约束。",
+      "vocab": [
+        {
+          "word": "sujetos",
+          "translation": "受……约束的，适用于……的",
+          "note": "estar sujeto a 是重要固定搭配，意为『受……约束/管辖』，在法律和新闻文体中极为常见，如 estar sujeto a regulación / impuestos / cambios，注意此处 sujeto 是形容词而非名词（主语），两者需根据语境区分。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "La agencia noticiosa estatal Xinhua informó el año pasado que la industria china de \"humanos digitales\" tenía un valor de 4100 millones de yuanes (US$600 millones) en 2024, con un crecimiento <strong>interanual</strong> del 85%.",
+      "zh": "官方通讯社新华社去年报道，中国『数字人』产业2024年的市值达41亿元人民币（约合6亿美元），同比增长85%。",
+      "vocab": [
+        {
+          "word": "interanual",
+          "translation": "同比的，年度间的",
+          "note": "由前缀 inter-（之间）加 anual（年度的）构成，专指『与上一年同期相比』，是财经新闻中的核心术语，常见搭配为 crecimiento interanual（同比增长）、variación interanual，阅读经济类文章时必须掌握。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Las nuevas reglas prohíben que los \"humanos digitales\" generen contenido que <strong>incite</strong> a la subversión del poder del Estado y también <strong>vetan</strong> ofrecer parejas virtuales a menores. Las plataformas están obligadas a utilizar sistemas que reconozcan las emociones extremas e implementen mecanismos de intervención en situaciones de crisis.",
+      "zh": "新规禁止『数字人』生成煽动颠覆国家政权的内容，同时也禁止向未成年人提供虚拟伴侣服务。平台须使用能识别极端情绪的系统，并在危机情况下启动干预机制。",
+      "vocab": [
+        {
+          "word": "incite",
+          "translation": "煽动，激起，诱发",
+          "note": "incitar a 是固定搭配，意为『煽动/怂恿某人做某事』，在法律文体中常见于 incitar a la violencia / al odio / a la subversión，语气比 provocar 更强，含有主动煽动的意图。"
+        },
+        {
+          "word": "vetan",
+          "translation": "禁止，否决，行使否决权",
+          "note": "vetar 来自拉丁语 veto（我禁止），在政治文体中既可指国家层面的『否决』（如联合国安理会否决权），也可泛指『明令禁止』，是新闻文体中比 prohibir 更正式的同义词。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "China es la primera gran economía que adopta reglas específicas dirigidas a las herramientas de IA <strong>inmersiva</strong> que simulan vínculos románticos o familiares. Pero es un tema que generó debate y llamados a medidas de protección en todo el mundo.",
+      "zh": "中国是全球首个针对模拟浪漫或家庭纽带的沉浸式AI工具出台专项规定的主要经济体。但这一话题在全球范围内已引发广泛讨论，并呼吁出台相应的保护措施。",
+      "vocab": [
+        {
+          "word": "inmersiva",
+          "translation": "沉浸式的",
+          "note": "由动词 inmergir/sumergir（沉浸）派生，在科技和教育文体中描述能让用户『完全投入其中』的体验或技术，如 realidad inmersiva（沉浸式现实）、aprendizaje inmersivo（沉浸式学习），是数字科技领域的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "Un estudio de 2025 de Common Sense Media reveló que casi tres de cada cuatro <strong>adolescentes</strong> estadounidenses utilizaron acompañantes de IA diseñados para conversaciones personales como los que ofrecen las plataformas Character.AI, Replika y Nomi.",
+      "zh": "Common Sense Media 2025年的一项研究显示，近四分之三的美国青少年使用过专为个人对话设计的AI伴侣，如Character.AI、Replika和Nomi等平台提供的产品。",
+      "vocab": [
+        {
+          "word": "adolescentes",
+          "translation": "青少年",
+          "note": "adolescente 由拉丁语 adolescere（成长）派生，在西语中通常指13至17岁的未成年人，注意与 joven（年轻人，范围更广）的区别，在法律和社会政策文体中两者不可混用。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "Las compañías también están creando productos para usuarios <strong>ancianos</strong> aislados, como los asistentes vocales en forma de lámpara en Estados Unidos o las muñecas interactivas usadas en casas de retiro en Corea del Sur.",
+      "zh": "各公司也在为孤独的老年用户开发产品，例如美国的灯形语音助手，以及韩国养老院中使用的互动玩偶。",
+      "vocab": [
+        {
+          "word": "ancianos",
+          "translation": "老年人，年迈的人",
+          "note": "anciano 比 viejo 更正式、更有尊重感，在社会政策和新闻文体中是指代老年群体的标准用词，viejo 在某些语境下可能带有轻蔑意味，写作时应优先使用 anciano 或 persona mayor。"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "es": "\"La IA <strong>antropomórfica</strong> puede aliviar la soledad\", comentó Chen Liang de la Universidad de Ciencias Políticas y Derecho del Sudoeste, en un artículo publicado por la ACC tras la publicación de un <strong>borrador</strong> de las reglas chinas en abril. \"Pero implica riesgos importantes de dependencia afectiva excesiva\", agregó.",
+      "zh": "『拟人化AI可以缓解孤独感，』西南政法大学的陈亮在网信办发布中国规则草案后刊登的一篇文章中评论道，『但它也蕴含着过度情感依赖的重大风险。』",
+      "vocab": [
+        {
+          "word": "antropomórfica",
+          "translation": "拟人化的，人形的",
+          "note": "此处为第二次出现，强化记忆：anthropo-（人）+ morphe（形态），新闻中常见 IA antropomórfica 作为固定搭配，指具有人类外貌或行为特征的AI系统。"
+        },
+        {
+          "word": "borrador",
+          "translation": "草案，草稿，初稿",
+          "note": "borrador 在法律和政策文体中指尚未正式通过的『草案』，词根来自 borrar（擦除），暗含『可修改、尚未定稿』之意，在写作语境中也指『草稿』，是新闻文体中的常见词。"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "es": "Doubao permite a los usuarios consultar y <strong>exportar</strong> sus datos hasta mediados de octubre. Otras plataformas contemplan disposiciones similares.",
+      "zh": "豆包允许用户在十月中旬之前查阅和导出自己的数据。其他平台也设有类似安排。",
+      "vocab": [
+        {
+          "word": "exportar",
+          "translation": "导出，出口",
+          "note": "exportar 在科技语境中指『将数据从一个系统导出』，在贸易语境中指『出口商品』，是一个典型的一词多义词，由前缀 ex-（向外）加 portare（携带）构成，同族词有 importar、transportar、deportar。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "estar en auge",
+      "type": "colocación",
+      "translation": "处于上升势头，蓬勃发展",
+      "usage": "固定搭配，用于描述某行业、现象或趋势正处于快速增长或鼎盛阶段，语体偏正式，常见于新闻和经济类文章，近义表达有 estar en alza，但 en auge 更强调达到高峰的状态。",
+      "exampleEs": "El turismo sostenible está en auge en toda América Latina, impulsado por viajeros que buscan experiencias más responsables.",
+      "exampleZh": "可持续旅游在整个拉丁美洲方兴未艾，受到寻求更负责任体验的旅行者的推动。"
+    },
+    {
+      "expression": "estar sujeto a",
+      "type": "colocación",
+      "translation": "受……约束，适用于……",
+      "usage": "法律和新闻文体中的核心固定搭配，后接名词，表示某事物『受某规定或条件的管辖』，不可用 estar obligado a 替换，两者含义不同：sujeto a 强调受制于外部规则，obligado a 强调有义务做某事。",
+      "exampleEs": "Todos los contratos firmados en el país están sujetos a la legislación local.",
+      "exampleZh": "在该国签订的所有合同均受当地法律约束。"
+    },
+    {
+      "expression": "pilar espiritual",
+      "type": "colocación",
+      "translation": "精神支柱",
+      "usage": "pilar 本义为建筑中的『柱子』，与 espiritual 搭配构成隐喻，指『在精神或情感上支撑某人的人或事物』，在情感类和人文类文章中是富有表现力的固定搭配，也可说 pilar emocional 或 pilar de vida。",
+      "exampleEs": "Para muchos inmigrantes, mantener las tradiciones culturales es su pilar espiritual en el extranjero.",
+      "exampleZh": "对许多移民来说，保持文化传统是他们在异乡的精神支柱。"
+    },
+    {
+      "expression": "incitar a",
+      "type": "colocación",
+      "translation": "煽动，怂恿，诱使",
+      "usage": "固定搭配，后接名词或动词原形，表示『主动引导他人产生某种行为』，在法律文体中常见于 incitar al odio（煽动仇恨）、incitar a la violencia（煽动暴力），语气比 provocar 更强，含有主观故意的意味。",
+      "exampleEs": "La plataforma fue sancionada por permitir contenido que incitaba al odio entre comunidades.",
+      "exampleZh": "该平台因允许煽动社区间仇恨的内容而受到处罚。"
+    }
+  ]
+}

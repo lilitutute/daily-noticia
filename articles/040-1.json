@@ -1,0 +1,269 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "人文与社会",
+  "difficulty": "B2",
+  "wordCount": "约750词",
+  "title": "Las preguntas que llegan con la vejez de nuestros padres",
+  "subtitle": "父母老去时，那些悄然而至的问题",
+  "resumenEs": "El texto reflexiona sobre la experiencia de cuidar a los padres cuando envejecen: las dudas, la culpa, el duelo silencioso y los sentimientos contradictorios que acompañan ese proceso. El autor propone que acompañar no es controlar, y que cuidar a los mayores es también una forma de aprender sobre la propia fragilidad y de imaginar la vejez propia.",
+  "resumenZh": "本文探讨了父母年迈时照料他们的体验：那些挥之不去的疑问、愧疚感、无声的哀恸，以及伴随这一过程的复杂情感。作者提出，陪伴不是掌控，照料年迈的父母也是一种认识自身脆弱、想象自己老年的方式。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Hay asuntos que no anuncian su llegada. No <strong>irrumpen</strong> de golpe como una tormenta de verano ni aparecen marcados en el calendario. Más bien se acercan despacio, casi en silencio, como esas tardes en que la luz cambia de color sin que nadie pueda <strong>precisar</strong> el momento exacto en que ocurrió.",
+      "zh": "有些事情不会提前宣告它的到来。它们不像夏日雷雨那样骤然闯入，也不会标注在日历上。它们更像是悄悄靠近，几乎无声无息，就像那些傍晚时分光线悄然变色，却没有人能说清究竟是在哪一刻发生的。",
+      "vocab": [
+        {
+          "word": "irrumpen",
+          "translation": "闯入，突然出现",
+          "note": "irrumpir 由前缀 ir-（即 in-，表示『向内』）加词根 rumpir（冲破）构成，同族词有 interrumpir（打断）、corrupción（腐败），掌握这一词根可举一反三。"
+        },
+        {
+          "word": "precisar",
+          "translation": "确定，说清楚，精确指出",
+          "note": "precisar 是假朋友陷阱：它不等于英语 to be precise，而是动词『精确说明、确定』，常见搭配为 precisar el momento / la fecha / los detalles，在正式文体中极为常用。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Trabajo escuchando historias sobre envejecimiento, <strong>dependencia</strong> y cuidados. He conversado con personas mayores en ciudades, pueblos, hospitales, centros comunitarios y hogares donde el tiempo parece transcurrir con una velocidad distinta. Y si hay algo que he aprendido es que existe una pregunta que aparece una y otra vez, aunque casi nunca con las mismas palabras. ¿Cómo se cuida a quienes alguna vez nos cuidaron?",
+      "zh": "我的工作是倾听关于衰老、依赖与照护的故事。我曾与城市、乡村、医院、社区中心和家庭中的老年人交谈，在那些地方，时间仿佛以一种不同的速度流逝。如果说我学到了什么，那就是有一个问题反复出现，尽管措辞几乎从不相同：我们该如何照料曾经照料过我们的人？",
+      "vocab": [
+        {
+          "word": "dependencia",
+          "translation": "依赖，依存，（老年）失能状态",
+          "note": "在老年护理和社会政策文体中，dependencia 专指因年老或疾病而需要他人协助的『失能状态』，与日常口语中『依赖某人』的含义有所不同，阅读此类文章时需注意这一专业语义。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "No me refiero únicamente a los cuidados visibles. No hablo de medicamentos, controles médicos o ayudas técnicas. Hablo de algo más difícil de nombrar. Hablo de las dudas que aparecen cuando comenzamos a notar que nuestros padres ya no caminan con la misma seguridad, cuando olvidan el nombre de alguien conocido, cuando nos llaman para preguntarnos algo que antes habrían resuelto solos o cuando descubrimos que la preocupación por ellos se ha <strong>instalado</strong> discretamente en nuestros pensamientos cotidianos.",
+      "zh": "我说的不仅仅是那些看得见的照护。我说的不是药物、医疗检查或辅助器具。我说的是更难以言说的东西。我说的是那些疑虑——当我们开始注意到父母走路不再那么稳当，当他们忘记了某个熟人的名字，当他们打来电话询问以前自己就能解决的事，或者当我们发现对他们的牵挂已悄然在日常思绪中安了家。",
+      "vocab": [
+        {
+          "word": "instalado",
+          "translation": "安置，悄然扎根，占据",
+          "note": "instalar 本义为『安装、安置』，此处用作反身动词 instalarse，隐喻某种情绪或想法『在内心悄然扎根、占据一席之地』，是文学和散文文体中富有表现力的用法。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Entonces empieza una conversación interior que puede durar años. ¿Estoy haciendo suficiente?, ¿Debí haber ido más veces?, ¿Debo insistir o respetar su decisión?, ¿Lo estoy ayudando o lo estoy <strong>limitando</strong>?",
+      "zh": "于是，一场可能持续数年的内心对话就此开始。我做得够吗？我是否应该多去几次？我该坚持还是尊重他们的决定？我是在帮助他，还是在束缚他？",
+      "vocab": [
+        {
+          "word": "limitando",
+          "translation": "限制，束缚",
+          "note": "limitar 在此语境中与 ayudar 形成对比，体现了照护者的核心两难困境：帮助与限制自主之间的张力。注意 limitar a alguien（限制某人）与 limitarse a（仅限于做某事）是两个不同用法。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Son preguntas que rara vez encuentran respuestas definitivas. Tal vez porque el envejecimiento tiene algo de río: nunca es exactamente el mismo de un día para otro, aunque desde la <strong>orilla</strong> parezca inmóvil.",
+      "zh": "这些问题很少能找到确定的答案。也许是因为衰老有几分像河流：从岸边看去似乎纹丝不动，但它从来不是今天和昨天完全相同的那条河。",
+      "vocab": [
+        {
+          "word": "orilla",
+          "translation": "岸边，边缘",
+          "note": "orilla 本义为河岸或海岸，此处用于比喻，指旁观者的视角，与 río（河流）共同构成一个完整的隐喻。注意 a la orilla de（在……岸边）是常见固定搭配。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "La investigación internacional ha descubierto algo que muchas familias ya saben sin necesidad de estudios. Cuidar a los padres es una experiencia hecha de sentimientos <strong>mezclados</strong>. Amor y cansancio. <strong>Ternura</strong> y frustración. Gratitud y agotamiento. Deseo de acompañar y necesidad de descanso.",
+      "zh": "国际研究发现了一件许多家庭无需研究就已知晓的事：照料父母是一种由复杂情感交织而成的体验。爱与疲惫。温柔与沮丧。感激与精疲力竭。想要陪伴的渴望与需要休息的迫切。",
+      "vocab": [
+        {
+          "word": "mezclados",
+          "translation": "混杂的，交织的",
+          "note": "sentimientos mezclados 是固定搭配，对应英语的 mixed feelings，指『复杂矛盾的情感』，在心理和情感类文章中极为常见，不可用 combinados 或 unidos 替换。"
+        },
+        {
+          "word": "ternura",
+          "translation": "温柔，柔情，爱怜",
+          "note": "ternura 比 cariño 更具文学色彩，强调一种柔软、怜爱的情感质地，常出现在描写亲子、老人或脆弱关系的语境中，是散文和诗歌文体的高频情感词汇。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Durante mucho tiempo pensamos que esas contradicciones eran una señal de fracaso. Hoy sabemos que son una señal de humanidad. Porque nadie <strong>atraviesa</strong> <strong>indemne</strong> el momento en que los roles comienzan a desplazarse.",
+      "zh": "很长一段时间里，我们以为这些矛盾是失败的信号。如今我们知道，它们是人性的信号。因为没有人能在角色开始转换的那一刻毫发无损地走过去。",
+      "vocab": [
+        {
+          "word": "atraviesa",
+          "translation": "穿越，经历，渡过",
+          "note": "atravesar 在情感和人生经历语境中意为『经历、渡过（艰难时期）』，常见搭配为 atravesar una crisis / un momento difícil，是描述人生阶段的高频动词，比 pasar 更具文学感。"
+        },
+        {
+          "word": "indemne",
+          "translation": "毫发无损的，未受伤害的",
+          "note": "indemne 是B2-C1级别的正式词汇，常与动词 salir 或 atravesar 搭配，如 salir indemne de（从……中全身而退），在新闻和文学文体中使用，日常口语中较少见。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Un día, sin ceremonia alguna, nos descubrimos observando a nuestros padres de una manera distinta. Ya no sólo como quienes nos enseñaron a cruzar una calle o a enfrentar los problemas de la vida. También como personas <strong>vulnerables</strong>. Como hombres y mujeres que envejecen. Como seres humanos atravesados por el mismo tiempo que algún día nos alcanzará a nosotros. Y ahí aparece una emoción que pocas veces reconocemos en voz alta. El duelo.",
+      "zh": "某一天，毫无征兆地，我们发现自己以一种不同的眼光打量父母。不再只是把他们看作曾经教我们过马路、教我们面对生活难题的人，也开始把他们看作脆弱的人，看作正在老去的男人和女人，看作被同一时间穿越的人——而那时间终有一天也会追上我们自己。就在那里，一种我们很少大声承认的情感出现了：哀恸。",
+      "vocab": [
+        {
+          "word": "vulnerables",
+          "translation": "脆弱的，易受伤害的",
+          "note": "vulnerable 来自拉丁语 vulnus（伤口），在社会和心理文体中常以 personas vulnerables（弱势群体）或 sectores vulnerables 的形式出现，是新闻和学术文体的核心词汇。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "No el duelo de la pérdida definitiva, sino otro más lento y silencioso. El duelo de los cambios. El duelo de comprender que ciertas cosas ya no volverán a ser iguales. Que la fuerza tiene límites. Que la memoria puede volverse frágil. Que la <strong>autonomía</strong>, esa palabra que damos por <strong>sentada</strong> durante décadas, es uno de los bienes más delicados que existen.",
+      "zh": "不是那种永久失去的哀恸，而是另一种更缓慢、更无声的哀恸。是面对改变的哀恸。是理解某些事情再也不会如从前一样的哀恸。力气是有限的。记忆可能变得脆弱。而自主——这个我们数十年来视为理所当然的词——是世上最珍贵、最脆弱的财富之一。",
+      "vocab": [
+        {
+          "word": "autonomía",
+          "translation": "自主，自主权，独立性",
+          "note": "由希腊语前缀 auto-（自我）加 nomos（法则）构成，在老年护理和生命伦理文体中是核心概念，指个体自行做决定的能力与权利，同族词有 autónomo、autonomía、autogobierno。"
+        },
+        {
+          "word": "sentada",
+          "translation": "视为理所当然（dar por sentado）",
+          "note": "dar por sentado 是重要固定搭配，意为『想当然地认为、视为理所当然』，对应英语的 take for granted，不可将 sentado 单独理解为『坐着的』，整体搭配才有此含义。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Quizás por eso tantas personas hablan de culpa. La culpa aparece como una sombra <strong>persistente</strong>. Culpa por no estar más presentes. Culpa por cansarse. Culpa por necesitar ayuda. Culpa por pensar en una residencia. Culpa por querer seguir viviendo la propia vida. Pero con los años he llegado a sospechar que muchas veces esa culpa nace de una ilusión imposible: la idea de que existe una forma perfecta de cuidar y esa forma no existe.",
+      "zh": "也许正因如此，那么多人谈到愧疚。愧疚像一道挥之不去的阴影。因为陪伴不够而愧疚。因为感到疲惫而愧疚。因为需要帮助而愧疚。因为考虑过养老院而愧疚。因为想继续过自己的生活而愧疚。但多年来我渐渐怀疑，这种愧疚很多时候源于一种不可能实现的幻想：以为存在一种完美的照护方式——而那种方式根本不存在。",
+      "vocab": [
+        {
+          "word": "persistente",
+          "translation": "持续的，挥之不去的",
+          "note": "persistente 由动词 persistir（坚持、持续存在）派生，强调某事物『顽固地持续存在、难以消除』，在描述负面情绪或社会问题时语气比 continuo 更强，常见于新闻和心理文体。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Nadie puede detener el paso del tiempo. Nadie puede evitar todas las pérdidas. Nadie puede estar en todas partes. Lo que sí podemos hacer es acompañar. Y acompañar, a diferencia de controlar, es un acto profundamente <strong>humilde</strong>.",
+      "zh": "没有人能阻止时间的流逝。没有人能避免所有的失去。没有人能无处不在。我们能做的，是陪伴。而陪伴，与掌控不同，是一种深刻谦逊的行为。",
+      "vocab": [
+        {
+          "word": "humilde",
+          "translation": "谦逊的，谦卑的",
+          "note": "humilde 在此不是指社会地位低下（贫寒的），而是指一种态度上的谦逊与放下自我，这是该词的两个主要义项，阅读时需根据语境判断，避免混淆。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Es permanecer cerca sin invadir. Es ayudar sin borrar la autonomía. Es escuchar incluso cuando no tenemos soluciones. Es comprender que el cuidado no consiste en salvar a alguien del envejecimiento, sino en <strong>recorrer</strong> con él una parte del camino.",
+      "zh": "是靠近而不侵入。是帮助而不抹去自主。是即便没有答案也愿意倾听。是理解照护的本质不在于把某人从衰老中拯救出来，而在于陪他走完一段路。",
+      "vocab": [
+        {
+          "word": "recorrer",
+          "translation": "走过，经历，陪伴走过",
+          "note": "recorrer 本义为『走遍、穿越某段路程』，在此处用于隐喻，指『陪伴某人经历人生的一段旅程』，常见搭配为 recorrer un camino / una etapa，是散文中富有表现力的动词。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "Tal vez por eso las conversaciones más importantes son aquellas que solemos <strong>postergar</strong>. Cómo queremos vivir cuando seamos mayores. Qué decisiones nos gustaría tomar por nosotros mismos. Qué apoyos aceptaríamos. Qué significa para nosotros una vida digna.",
+      "zh": "也许正因如此，最重要的对话往往是我们习惯拖延的那些。我们年老时想怎样生活。我们希望自己做哪些决定。我们愿意接受哪些帮助。对我们而言，有尊严的生活意味着什么。",
+      "vocab": [
+        {
+          "word": "postergar",
+          "translation": "推迟，拖延，搁置",
+          "note": "postergar 比 retrasar 更正式，且含有『主动选择推后、将某事置于次要位置』的意味，常见于正式文体和心理类文章，在拉美西语中比西班牙本土更为常用。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "Porque mientras cuidamos a nuestros padres, algo inesperado ocurre, comenzamos también a imaginar nuestra propia vejez, en cada decisión aparece una pregunta sobre el futuro. En cada conversación se esconde una reflexión sobre quiénes seremos dentro de 20 o 30 años. Como si al mirar el rostro <strong>envejecido</strong> de quienes amamos pudiéramos <strong>vislumbrar</strong>, por un instante, una versión lejana de nosotros mismos.",
+      "zh": "因为在照料父母的过程中，一件意想不到的事情发生了：我们也开始想象自己的老年。每一个决定里都藏着一个关于未来的问题。每一次对话里都隐藏着一种反思——20年或30年后，我们会成为怎样的人。仿佛凝视着我们所爱之人那张老去的面容，我们能在某个瞬间，隐约瞥见遥远的自己。",
+      "vocab": [
+        {
+          "word": "envejecido",
+          "translation": "老去的，苍老的",
+          "note": "envejecido 是动词 envejecer（变老）的过去分词转形容词，envejecer 属于不规则动词（yo envejezco），由 en- 前缀加 viejo（老）构成，同类构词如 empobrecer（变穷）、enriquecer（变富）。"
+        },
+        {
+          "word": "vislumbrar",
+          "translation": "隐约看见，依稀感知，瞥见",
+          "note": "vislumbrar 比 ver 更具文学色彩，强调『模糊地、不确定地感知到』，常用于抽象事物，如 vislumbrar una solución / el futuro，是散文和新闻评论中的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "es": "Y quizás ahí reside la verdadera enseñanza, cuidar a nuestros padres no es solamente un acto de <strong>reciprocidad</strong>, es también una de las formas más profundas de aprender sobre la fragilidad humana, sobre el amor que resiste al tiempo y sobre la necesidad de construir una sociedad donde nadie tenga que enfrentar la última etapa de la vida en soledad.",
+      "zh": "而也许真正的教益就在于此：照料父母不仅仅是一种回报，它也是最深刻地认识人类脆弱性的方式之一，是认识那种抵抗时间的爱的方式，也是认识到我们需要构建一个让人无需在生命最后阶段独自面对一切的社会的方式。",
+      "vocab": [
+        {
+          "word": "reciprocidad",
+          "translation": "互惠，回报，相互性",
+          "note": "reciprocidad 由形容词 recíproco（相互的）派生，后缀 -idad 构成抽象名词，同类构词如 solidaridad、dignidad、fragilidad，掌握这一后缀可大幅扩充抽象名词词汇量。"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "es": "Porque llega un momento en que comprendemos algo sencillo y enorme a la vez: que el cuidado nunca ha sido únicamente una tarea, es una manera de decirle a otro ser humano, cuando las fuerzas empiezan a <strong>faltar</strong>, que sigue <strong>perteneciendo</strong> al mundo. Que sigue siendo importante. Que sigue siendo amado. Y pocas cosas son más necesarias que eso.",
+      "zh": "因为终有一刻，我们会明白一件既简单又宏大的事：照护从来不只是一项任务，它是一种方式——在另一个人的力气开始不支时，告诉他，他依然属于这个世界。他依然重要。他依然被爱着。而很少有什么事情比这更必要。",
+      "vocab": [
+        {
+          "word": "faltar",
+          "translation": "缺乏，不足，开始不支",
+          "note": "faltar 是一词多义的高频动词：可表示『缺席』（falta a clase）、『缺少』（falta dinero）、也可表示『力气/时间不够用』（las fuerzas empiezan a faltar），需根据语境判断，切勿只记一个义项。"
+        },
+        {
+          "word": "perteneciendo",
+          "translation": "属于，归属于",
+          "note": "pertenecer a 是固定搭配，意为『属于……』，此处用现在分词强调一种持续的归属感，在文学和哲学文体中，pertenecer al mundo（属于这个世界）是一个富有人文色彩的表达。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "dar por sentado",
+      "type": "colocación",
+      "translation": "视为理所当然",
+      "usage": "固定搭配，对应英语的 take for granted，后可接名词或从句（dar por sentado que...），在反思类、哲学类和新闻评论文体中高频出现，语体中性，书面口语均可使用。",
+      "exampleEs": "Durante años dimos por sentado el acceso al agua potable, hasta que la sequía nos hizo valorarlo.",
+      "exampleZh": "多年来我们把饮用水的获取视为理所当然，直到干旱让我们重新珍视它。"
+    },
+    {
+      "expression": "hacer hincapié en",
+      "type": "colocación",
+      "translation": "强调，着重指出",
+      "usage": "正式文体中表示『特别强调某一点』的固定搭配，比 enfatizar 更地道，常见于学术写作、新闻评论和演讲中，后接名词或动词原形。",
+      "exampleEs": "La directora hizo hincapié en la importancia de escuchar a los pacientes antes de tomar decisiones médicas.",
+      "exampleZh": "院长着重强调了在做出医疗决定之前倾听患者意见的重要性。"
+    },
+    {
+      "expression": "salir indemne",
+      "type": "colocación",
+      "translation": "全身而退，毫发无损地走出",
+      "usage": "固定搭配，indemne 几乎只与 salir 搭配使用，表示『经历某种危险或困境后未受伤害地走出来』，可用于身体伤害，也可用于情感或道德层面的考验，语体偏正式。",
+      "exampleEs": "Pocos periodistas salen indemnes de cubrir conflictos armados durante años.",
+      "exampleZh": "很少有记者能在多年报道武装冲突后全身而退。"
+    },
+    {
+      "expression": "en voz alta",
+      "type": "colocación",
+      "translation": "大声说出，公开承认",
+      "usage": "字面义为『出声地』，引申义为『公开表达、敢于承认』，常与 reconocer、decir、hablar 等动词搭配，与 en voz baja（低声地）形成对比，在情感类文章中常用于描述人们不愿说出口的感受。",
+      "exampleEs": "Muchos sienten miedo al envejecer, pero pocos se atreven a reconocerlo en voz alta.",
+      "exampleZh": "许多人害怕变老，但很少有人敢于公开承认这一点。"
+    }
+  ]
+}

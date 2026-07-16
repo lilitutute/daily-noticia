@@ -1,0 +1,257 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与媒体",
+  "difficulty": "C1",
+  "wordCount": "约900词",
+  "title": "¿Reemplazará la IA a los columnistas?",
+  "subtitle": "AI会取代专栏作家吗？",
+  "resumenEs": "El autor reflexiona sobre si la inteligencia artificial puede sustituir a los columnistas de prensa, poniendo a prueba esta hipótesis con un experimento: pidió a tres motores de IA que analizaran los aciertos y desaciertos de la Cuarta Transformación en México. Los resultados, aunque distintos en énfasis, resultan inquietantes por su calidad y coherencia.",
+  "resumenZh": "作者探讨人工智能是否能取代报纸专栏作家，并通过一项实验来检验这一假设：他要求三款AI引擎分析墨西哥[第四次变革]政府的得失。结果虽在侧重点上各有不同，但其质量与连贯性令人不安。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "¿En qué momento la inteligencia artificial hará <strong>obsoletos</strong> a los columnistas de los periódicos? Muy pronto, según el escritor y filósofo Yuval Noah Harari, autor del célebre libro Sapiens. En una entrevista reciente con el diario El País, afirmó que en cualquier cosa que tenga que ver con textos, con palabras escritas o habladas, con lenguaje, la IA será, o ya es, más <strong>eficiente</strong> que los seres humanos, incluyendo el trabajo de la mayoría de los profesionales.",
+      "zh": "人工智能何时会让报纸专栏作家变得过时？《人类简史》的作者、作家兼哲学家尤瓦尔·诺亚·赫拉利认为，这一天很快就会到来。他在近期接受《国家报》采访时表示，在一切涉及文本、书面或口头语言的领域，AI已经或即将比人类更高效，包括大多数专业人士的工作。",
+      "vocab": [
+        {
+          "word": "obsoletos",
+          "translation": "过时的，被淘汰的",
+          "note": "形容词 obsoleto/a，常与动词 hacer、quedar、volver 搭配，如 hacer obsoleto（使……过时）、quedar obsoleto（变得过时），是新闻和科技文体中的高频词。"
+        },
+        {
+          "word": "eficiente",
+          "translation": "高效的",
+          "note": "注意与 eficaz 的区别：eficiente 强调『以较少资源达成目标』（过程），eficaz 强调『能达到预期效果』（结果），两者不可随意互换。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "¿Los articulistas también? ¿Leemos a un columnista por la calidad, objetividad y claridad de los textos que escribe? En tal caso la IA, en efecto, podría hacerlo mejor. O quizá los leemos por el nombre, la <strong>trayectoria</strong>, el respeto y, en ocasiones, el morbo que las posiciones de ese analista despiertan en un lector. Si de eso se trata, la inteligencia artificial no nos reemplazará tan pronto. Y, por lo demás, la valoración de la <strong>pertinencia</strong> de un tema para los lectores; es decir, el oficio de \"curadores\" de la realidad de los periodistas, a la manera en que un curador de arte elige qué piezas colocar y cuáles deja fuera en una exposición.",
+      "zh": "专栏作家也会被取代吗？我们读专栏，是因为文章的质量、客观性和清晰度吗？如果是这样，AI确实可能做得更好。或者，我们读专栏是因为作者的名气、资历、声望，以及他的立场有时在读者心中激起的那种猎奇感。如果是这样，AI短期内还无法取代我们。此外，还有一点：判断某个话题对读者是否具有相关性——也就是说，记者作为现实[策展人]的职能，就像艺术策展人决定在展览中展出哪些作品、排除哪些作品一样。",
+      "vocab": [
+        {
+          "word": "trayectoria",
+          "translation": "职业轨迹，资历，经历",
+          "note": "本义为物理学中的『运动轨迹』，在人文语境中引申为某人的职业或人生历程，是新闻和传记文体中的常见词，不要误译为单纯的『轨道』。"
+        },
+        {
+          "word": "pertinencia",
+          "translation": "相关性，切题性",
+          "note": "由形容词 pertinente（切题的、相关的）派生而来，后缀 -encia 构成抽象名词，同类构词如 coherencia、transparencia，在学术和新闻文体中高频出现。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Sin embargo, persiste el primer punto. ¿Sus análisis son mejores? Usted juzgue la siguiente y modesta prueba. Redacté un breve texto y posteriormente pedí a tres motores de IA que me ofrecieran su propia versión: \"Escribe un texto de 200 palabras que analice los <strong>aciertos</strong> y <strong>desaciertos</strong> de los gobiernos de la Cuarta Transformación en México y las posibilidades de que Claudia Sheinbaum cumpla su promesa de conseguir crecimiento y mejor distribución y resolver problemas de fondo de México\". A continuación incluyo las cuatro versiones.",
+      "zh": "然而，第一个问题依然存在：AI的分析更好吗？请您自行判断以下这个小小的实验。我先撰写了一段简短的文字，随后请三款AI引擎各自提供它们的版本，提示词为：『写一篇200字的文章，分析墨西哥第四次变革政府的得与失，以及克劳迪娅·谢因鲍姆实现其承诺——促进经济增长、改善财富分配、解决墨西哥深层问题——的可能性。』以下是四个版本。",
+      "vocab": [
+        {
+          "word": "aciertos",
+          "translation": "正确之举，成功之处",
+          "note": "acierto 与 desacierto 是一对反义词，前缀 des- 表示否定，这一构词规律极为常见，如 acuerdo/desacuerdo、orden/desorden，掌握后可举一反三。"
+        },
+        {
+          "word": "desaciertos",
+          "translation": "失误，错误之处",
+          "note": "见上条备注，此处作为对比词一并出现，两词常以 aciertos y desaciertos 的固定搭配形式出现在政治评论和新闻文体中。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Resulta interesante la selección de aciertos y desaciertos que cada robot tuvo a bien considerar, todo un editorial. La de Chat AI parecería la más <strong>condescendiente</strong> con la 4T y Geminis la más severa. La versión de Copilot sería notoriamente la más <strong>editorializada</strong> o interpretativa. Lo curioso es que se trata de versiones distintas a pesar de que las tres, supuestamente utilizan todo lo publicado; los argumentos se parecen pero los énfasis difieren. Como quiera, un resultado inquietante. ¿Usted qué opina?",
+      "zh": "每款AI所选取的得失内容都颇为有趣，堪称一篇完整的社论。Chat AI的版本看起来对第四次变革最为宽容，而Gemini则最为严苛。Copilot的版本则明显是最具社论色彩或解读性的。有趣的是，尽管三款AI据称都使用了所有已发布的内容，它们给出的却是不同的版本——论点相似，但侧重点各异。无论如何，这是一个令人不安的结果。您怎么看？",
+      "vocab": [
+        {
+          "word": "condescendiente",
+          "translation": "宽容的，迁就的，居高临下的",
+          "note": "此词具有两面性：在本文语境中指『对某方较为宽松、手下留情』；但在人际关系语境中常含贬义，指『居高临下地迁就他人』，使用时需注意语境。"
+        },
+        {
+          "word": "editorializada",
+          "translation": "带有社论立场的，主观解读的",
+          "note": "由名词 editorial（社论）加后缀 -izar 动词化再转为形容词，-izar 是西语中极能产的动词化后缀，如 globalizar、digitalizar、neutralizar，掌握后可大幅扩充词汇量。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Texto personal. El gobierno de la Cuarta Transformación ha cumplido una parte <strong>sustantiva</strong> de sus promesas al mejorar el poder adquisitivo de los sectores populares. No es poca cosa, tratándose de un país tan desigual y considerando los riesgos de estallidos sociales que la indiferencia del sistema habría provocado. Adicionalmente, el gobierno popular tiene aciertos evidentes en la disminución de la delincuencia y un manejo responsable de las finanzas públicas. Sin embargo, en muchos otros aspectos aún queda a deber. Acusa problemas de fondo en materia de eficiencia administrativa, de resultados económicos, de combate a la corrupción y exhibe prácticas políticas <strong>atropelladas</strong>, entre otros.",
+      "zh": "作者个人文本。第四次变革政府通过提升平民阶层的购买力，兑现了其承诺中相当实质性的部分。对于一个如此不平等的国家而言，这并非小事，尤其考虑到若体制漠然置之，将可能引发社会动荡的风险。此外，该政府在降低犯罪率和负责任地管理公共财政方面也有明显建树。然而，在许多其他方面仍有亏欠。它在行政效率、经济成果、反腐败等方面暴露出深层问题，并表现出鲁莽草率的政治行事方式，等等。",
+      "vocab": [
+        {
+          "word": "sustantiva",
+          "translation": "实质性的，重要的",
+          "note": "此处 sustantivo/a 作形容词，意为『实质性的、重大的』，是假朋友陷阱：学习者易误以为它只是语法术语『名词』，但在正式文体中它常作形容词表示『有实质内容的』。"
+        },
+        {
+          "word": "atropelladas",
+          "translation": "鲁莽的，草率的，粗暴的",
+          "note": "动词 atropellar 本义为『撞倒、碾压』，引申为『粗暴行事、不顾后果』，形容词 atropellado/a 在政治文体中常指决策或行为『仓促而缺乏考量』，是一个有构词价值的词根。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "No está claro si podría resolver limitaciones y contradicciones en su segunda versión, encabezada por Claudia Sheinbaum, pese a los esfuerzos de la presidenta para profundizar, ajustar, limpiar y modificar a su propio movimiento. Me parece que Sheinbaum es la mejor y quizá última <strong>apuesta</strong> que tiene la 4T para hacer posible un gobierno que ofrezca condiciones de crecimiento y al mismo tiempo de distribución de la riqueza. Si ella no puede hacerlo o no la dejan, lo que venga será otra cosa.",
+      "zh": "目前尚不清楚，在克劳迪娅·谢因鲍姆领导的第二阶段，这一运动能否解决自身的局限与矛盾——尽管这位总统正努力深化、调整、净化并改造自己的运动。在我看来，谢因鲍姆是第四次变革最好、也许也是最后一次机会，以实现一个既能提供增长条件、又能推动财富分配的政府。如果她做不到，或者有人不让她做，接下来的将会是另一回事。",
+      "vocab": [
+        {
+          "word": "apuesta",
+          "translation": "赌注，押注，寄望",
+          "note": "apuesta 本义为赌博中的『赌注』，在政治和新闻文体中引申为『押注于某人/某事』，常见搭配为 hacer una apuesta por（押注于……），是一个高频的隐喻性用法。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Chat AI. \"La Cuarta Transformación (4T) en México, liderada por el presidente Andrés Manuel López Obrador, ha generado un amplio debate sobre sus aciertos y desaciertos. Entre los logros, se <strong>destacan</strong> la implementación de programas sociales como 'Sembrando Vida' y 'Jóvenes Construyendo el Futuro', que han buscado reducir la pobreza y brindar oportunidades a sectores vulnerables. Sin embargo, estos esfuerzos han sido criticados por carecer de un enfoque sostenible y a largo plazo, además de un incremento en la corrupción en algunas áreas.",
+      "zh": "Chat AI版本。『墨西哥第四次变革（4T）在安德烈斯·曼努埃尔·洛佩斯·奥夫拉多尔总统的领导下，围绕其得失引发了广泛争议。在成就方面，[播种生命]和[青年建设未来]等社会项目的实施尤为突出，这些项目致力于减少贫困、为弱势群体创造机会。然而，这些努力因缺乏可持续的长期导向而受到批评，此外部分领域的腐败现象也有所加剧。』",
+      "vocab": [
+        {
+          "word": "destacan",
+          "translation": "突出，脱颖而出，值得关注",
+          "note": "destacar 既可作及物动词（强调某事）也可作反身动词 destacarse（脱颖而出），此处用第三人称复数主动式，在新闻文体中常以 se destacan 或 destacan 引出重点内容，是写作中的高频结构。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Claudia Sheinbaum, aspira a continuar y profundizar estas políticas. Su promesa de alcanzar un crecimiento económico sostenido y una distribución más equitativa de la riqueza enfrenta serios retos. Los problemas <strong>estructurales</strong> del país, como la corrupción endémica, el déficit de infraestructura y la inseguridad, son obstáculos significativos. Para que Sheinbaum logre cumplir sus promesas, necesitará propuestas innovadoras que integren la inclusión social con el desarrollo económico. Además, será crucial su capacidad para construir alianzas con otros sectores, así como su compromiso con la transparencia y la <strong>rendición de cuentas</strong>. Su éxito dependerá de una visión holística que aborde las raíces de los problemas profundos que persisten en México.\"",
+      "zh": "克劳迪娅·谢因鲍姆立志延续并深化这些政策。她关于实现持续经济增长和更公平财富分配的承诺面临严峻挑战。该国的结构性问题——如根深蒂固的腐败、基础设施缺口和治安问题——是重大障碍。为了兑现承诺，谢因鲍姆需要能将社会包容与经济发展相结合的创新方案。此外，她构建跨部门联盟的能力，以及对透明度和问责制的承诺，都将至关重要。她的成功将取决于一种整体性视野，能够触及墨西哥长期存在的深层问题的根源。』",
+      "vocab": [
+        {
+          "word": "estructurales",
+          "translation": "结构性的",
+          "note": "形容词 estructural 在政治、经济和新闻文体中极为高频，常修饰 problema、reforma、cambio 等名词，构成固定搭配，学习者应将其作为一个整体词块记忆。"
+        },
+        {
+          "word": "rendición de cuentas",
+          "translation": "问责制，汇报工作",
+          "note": "这是政治和行政文体中的核心固定搭配，直译为『交账』，对应英语的 accountability，不可拆开理解，是B2以上政治类文章的必备词组。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Gemini de Google. \"La Cuarta Transformación (4T) ha redefinido el panorama político mexicano mediante una narrativa de justicia social y austeridad. Entre sus principales aciertos destaca la reducción de la pobreza y la implementación de programas sociales que han <strong>dinamizado</strong> el consumo interno. Además, ha logrado una movilización de masas inédita que devolvió al 'pueblo' un papel <strong>protagónico</strong> en el debate público. Sin embargo, los desaciertos son estructurales. La inseguridad persiste como el mayor lastre, con una percepción de miedo que en 2026 alcanza al 61.5% de la población.",
+      "zh": "谷歌Gemini版本。『第四次变革通过社会正义与紧缩财政的叙事，重新定义了墨西哥的政治格局。其主要成就包括减少贫困，以及实施激活国内消费的社会项目。此外，它还实现了前所未有的群众动员，使『人民』重新在公共讨论中扮演主角。然而，其失误具有结构性。治安问题依然是最大拖累，2026年有61.5%的民众感到恐惧。』",
+      "vocab": [
+        {
+          "word": "dinamizado",
+          "translation": "激活的，使充满活力的",
+          "note": "动词 dinamizar 由名词 dinámica 加后缀 -izar 构成，意为『激活、使动起来』，-izar 后缀可将名词或形容词变为动词，如 modernizar、digitalizar，是极具构词价值的后缀。"
+        },
+        {
+          "word": "protagónico",
+          "translation": "主角的，主导性的",
+          "note": "由 protagonista（主角）派生的形容词，在拉美政治文体中常见 papel protagónico（主导角色）这一固定搭配，注意重音在倒数第三音节：pro-ta-GÓ-ni-co。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "A esto se suma la incertidumbre jurídica generada por la desaparición de órganos autónomos y la reforma judicial, lo que ha frenado la inversión fija bruta. Las posibilidades de que Claudia Sheinbaum cumpla su promesa de crecimiento y mejor distribución son complejas. Aunque México recibe flujos récord de Inversión Extranjera Directa por el nearshoring, el crecimiento real ha sido débil, con apenas un 0.5% en 2025 tras una fase de contracción. Para resolver los problemas de fondo, Sheinbaum enfrenta el reto de <strong>transitar</strong> de una 'revolución de conciencias' a un modelo económico sostenible que garantice seguridad jurídica y rompa los <strong>cuellos de botella</strong> logísticos que impiden que la distribución del ingreso se convierta en una mejora real y permanente de la calidad de vida\".",
+      "zh": "与此同时，自治机构的撤销和司法改革所带来的法律不确定性，也抑制了固定资产投资。谢因鲍姆兑现增长与更好分配承诺的可能性错综复杂。尽管墨西哥因近岸外包而获得创纪录的外国直接投资，但实际增长依然疲软，2025年在经历收缩阶段后仅增长0.5%。为解决深层问题，谢因鲍姆面临的挑战是：从一场『意识革命』过渡到一个可持续的经济模式，以保障法律安全、打通阻碍收入分配转化为真实且持久的生活质量改善的物流瓶颈。』",
+      "vocab": [
+        {
+          "word": "transitar",
+          "translation": "过渡，转变，通行",
+          "note": "transitar 本义为『通行、穿行』，在政治和学术文体中引申为『从一种状态过渡到另一种状态』，常见结构为 transitar de... a...（从……过渡到……），是正式文体的高频动词。"
+        },
+        {
+          "word": "cuellos de botella",
+          "translation": "瓶颈",
+          "note": "这是一个典型的 modismo，字面意思为『瓶子的脖子』，实际指『阻碍流程推进的关键卡点』，与中文『瓶颈』完全对应，在经济和管理文体中极为常见。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Copilot de Word. \"La Cuarta Transformación llega a una nueva etapa con un balance de <strong>claroscuros</strong>. Entre sus principales aciertos destacan el aumento sostenido del salario mínimo, la expansión de los programas sociales y la decisión de colocar la desigualdad en el centro de la agenda pública. Esos resultados fortalecieron su base social y dieron contenido político a la idea de una prosperidad más incluyente. También hubo estabilidad macroeconómica y una apuesta por la obra pública como motor de desarrollo. Pero el saldo no está libre de costos: el crecimiento fue limitado, la inversión avanzó entre señales de incertidumbre, la inseguridad siguió marcando la vida cotidiana y los <strong>rezagos</strong> en salud, educación, informalidad y justicia revelaron la fragilidad del Estado mexicano.",
+      "zh": "微软Copilot版本。『第四次变革以一份明暗交织的成绩单迈入新阶段。其主要成就包括：最低工资的持续提升、社会项目的扩展，以及将不平等问题置于公共议程核心的决策。这些成果巩固了其社会基础，并为更具包容性的繁荣理念赋予了政治内涵。宏观经济也保持稳定，并以公共工程作为发展引擎。但这份成绩单并非没有代价：经济增长有限，投资在不确定信号中艰难推进，治安问题持续影响日常生活，卫生、教育、非正规就业和司法领域的滞后揭示了墨西哥国家的脆弱性。』",
+      "vocab": [
+        {
+          "word": "claroscuros",
+          "translation": "明暗交织，得失参半",
+          "note": "claroscuro 来自绘画术语（明暗对比法），在政治和文学文体中引申为『有得有失、褒贬参半的局面』，是一个具有文化内涵的隐喻词，使用它能让文章显得更有文采。"
+        },
+        {
+          "word": "rezagos",
+          "translation": "滞后，落后，欠账",
+          "note": "rezago 在拉美政治和社会文体中极为常见，指某一领域『发展落后、欠账未补』的状态，常见搭配为 rezagos en（在……方面的滞后），是B2以上新闻词汇的必备词。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Claudia Sheinbaum recibe, por tanto, un mandato amplio y una promesa difícil: hacer crecer la economía y distribuir mejor sus beneficios. Su margen dependerá de que la continuidad social se acompañe de una estrategia productiva más sólida. El llamado Plan México, la relocalización de empresas, la vivienda y la manufactura ofrecen oportunidades reales, siempre que se traduzcan en empleo formal, mayor productividad, energía suficiente e infraestructura eficiente. El desafío central no será sólo gastar más, sino <strong>gobernar mejor</strong>. Seguridad, justicia, corrupción, capacidad institucional y confianza para invertir son los nudos que definirán si la 4T logra pasar de la política social a una <strong>transformación estructural</strong>. Si Sheinbaum los enfrenta con eficacia, podrá ampliar el legado del movimiento; si no, corre el riesgo de administrar popularidad sin resolver los problemas de fondo del país\".",
+      "zh": "因此，谢因鲍姆接手的是一项广泛的授权和一个艰难的承诺：推动经济增长，并更好地分配其成果。她的施政空间将取决于社会政策的延续能否辅以更为扎实的生产战略。所谓『墨西哥计划』、企业迁址、住房和制造业提供了切实的机遇，前提是这些能够转化为正规就业、更高生产率、充足能源和高效基础设施。核心挑战不仅仅是多花钱，而是更好地治理。安全、司法、腐败、制度能力和投资信心，是决定第四次变革能否从社会政策迈向结构性变革的关键节点。如果谢因鲍姆能有效应对这些挑战，她将能扩大这一运动的历史遗产；否则，她将面临只是管理民望、却无法解决国家深层问题的风险。』",
+      "vocab": [
+        {
+          "word": "gobernar mejor",
+          "translation": "更好地治理",
+          "note": "此处 gobernar 作不定式使用，与 gastar más 形成对仗结构（gastar más vs. gobernar mejor），是政论文中常见的修辞手法，体现了Copilot版本『最具社论色彩』的写作风格。"
+        },
+        {
+          "word": "transformación estructural",
+          "translation": "结构性变革",
+          "note": "这是政治经济类文章中的核心固定搭配，区别于表面的政策调整（ajuste de políticas），强调对体制根基的深层改变，在拉美政治文体中出现频率极高。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "no es poca cosa",
+      "type": "expresión coloquial",
+      "translation": "这可不是小事，这相当了不起",
+      "usage": "口语和书面语均可使用，用于强调某件事的重要性或难度，语气上带有『不要小看它』的意味，常用于转折或让步结构之后，起到加重语气的作用。",
+      "exampleEs": "Lograr que dos países en conflicto firmen un acuerdo de paz no es poca cosa.",
+      "exampleZh": "让两个交战国签署和平协议，这可不是小事。"
+    },
+    {
+      "expression": "queda a deber",
+      "type": "expresión coloquial",
+      "translation": "仍有亏欠，还没做到位",
+      "usage": "来自『欠债』的隐喻，在政治和评论文体中用于指某人或某机构『在某方面未能兑现承诺或达到预期』，语气较为委婉，常见于拉美新闻评论。",
+      "exampleEs": "El nuevo alcalde ha mejorado el transporte, pero en materia de seguridad todavía queda a deber.",
+      "exampleZh": "新市长在交通方面有所改善，但在治安问题上仍有亏欠。"
+    },
+    {
+      "expression": "cuellos de botella",
+      "type": "modismo",
+      "translation": "瓶颈，阻碍流程的关键卡点",
+      "usage": "源自瓶子颈部收窄导致液体流速变慢的意象，用于描述阻碍进展的关键障碍点，广泛用于经济、物流、管理等正式文体，与中文『瓶颈』完全对应。",
+      "exampleEs": "La falta de puertos modernos es uno de los principales cuellos de botella para el comercio exterior del país.",
+      "exampleZh": "缺乏现代化港口是该国对外贸易的主要瓶颈之一。"
+    },
+    {
+      "expression": "balance de claroscuros",
+      "type": "colocación",
+      "translation": "明暗交织的成绩单，褒贬参半的评价",
+      "usage": "claroscuro 借用自绘画术语，与 balance（评估、成绩单）搭配，形成富有文学色彩的固定表达，常见于政治评论和年度总结类文章，语体偏正式，带有一定的文学修养感。",
+      "exampleEs": "El informe anual de la organización presenta un balance de claroscuros: avances en educación, pero retrocesos en salud.",
+      "exampleZh": "该组织的年度报告呈现出一份明暗交织的成绩单：教育有所进步，但卫生领域出现倒退。"
+    },
+    {
+      "expression": "hacer obsoleto",
+      "type": "colocación",
+      "translation": "使……过时，淘汰",
+      "usage": "hacer + 形容词 是西语中构成使役意义的高频结构，hacer obsoleto 在科技和媒体文体中极为常见，可替换形容词形成大量类似搭配，如 hacer posible、hacer viable、hacer innecesario。",
+      "exampleEs": "La llegada del correo electrónico hizo obsoleto el uso del fax en la mayoría de las oficinas.",
+      "exampleZh": "电子邮件的出现使传真机在大多数办公室中成了过时之物。"
+    },
+    {
+      "expression": "correr el riesgo de",
+      "type": "colocación",
+      "translation": "冒……的风险",
+      "usage": "correr 与 riesgo 的固定搭配，不可用 tener 或 llevar 替换，后接不定式或名词，是B2以上正式文体的必备表达，在新闻、政治和学术写作中出现频率极高。",
+      "exampleEs": "Si no diversifica sus fuentes de ingreso, la empresa corre el riesgo de depender demasiado de un solo cliente.",
+      "exampleZh": "如果不实现收入来源多元化，该公司将面临过度依赖单一客户的风险。"
+    }
+  ]
+}
