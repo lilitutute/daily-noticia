@@ -1,0 +1,147 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与社会",
+  "difficulty": "B2",
+  "wordCount": "约280词",
+  "title": "China diseña perros guía robot para las personas con problemas visuales",
+  "subtitle": "中国为视障人士研发导盲机器狗",
+  "resumenEs": "China ha desarrollado perros robot con inteligencia artificial capaces de guiar a personas con discapacidad visual, detectar obstáculos, planificar rutas y ofrecer funciones adicionales como avisos de caída o videollamadas, presentándose como una alternativa complementaria a los perros guía tradicionales.",
+  "resumenZh": "中国研发了搭载人工智能的机器狗，能够引导视障人士出行、识别障碍物、规划路线，并提供跌倒提醒、视频通话等附加功能，被定位为传统导盲犬的补充替代方案。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "La evolución de la tecnología y de la inteligencia artificial ha <strong>dado lugar a</strong> innovaciones que hace apenas unos años parecían propias de la ciencia ficción. Uno de los avances más <strong>llamativos</strong> es el desarrollo de perros robot capaces de ayudar a personas con discapacidad visual en sus desplazamientos diarios. Estos dispositivos están diseñados para <strong>desempeñar</strong> funciones similares a las de un perro guía tradicional, pero incorporan sistemas inteligentes que les permiten adaptarse a diferentes entornos y ofrecer nuevas <strong>prestaciones</strong>.",
+      "zh": "技术与人工智能的发展催生了许多创新成果，而就在几年前，这些成果还像是科幻小说中的情节。其中最引人注目的进展之一，是能够帮助视障人士日常出行的机器狗的研发。这些设备被设计用来执行与传统导盲犬相似的功能，但同时搭载了智能系统，使其能够适应不同环境并提供全新的服务功能。",
+      "vocab": [
+        {
+          "word": "dado lugar a",
+          "translation": "催生了，导致了",
+          "note": "固定搭配 dar lugar a，后接名词，表示『引发某种结果』，语气比 causar 更正式，常见于新闻和学术文体。"
+        },
+        {
+          "word": "llamativos",
+          "translation": "引人注目的，显眼的",
+          "note": "形容词 llamativo 源自动词 llamar（呼唤），构词上表示『吸引眼球的』，可用于外观、数据、现象等，注意不要与 famoso（著名的）混用。"
+        },
+        {
+          "word": "desempeñar",
+          "translation": "履行，承担（职责/功能）",
+          "note": "desempeñar un papel / una función 是新闻中极高频的固定搭配，强调主动承担某种角色或职责，不可用 hacer 直接替换。"
+        },
+        {
+          "word": "prestaciones",
+          "translation": "（设备/服务的）功能，性能",
+          "note": "在科技和产品语境中指设备提供的功能或服务项目；在劳工语境中则指『福利待遇』，属于典型的一词多义，需根据语境判断。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Gracias a la inteligencia artificial y a un conjunto de sensores, cámaras y sistemas de navegación, estos perros robot pueden detectar y <strong>esquivar</strong> obstáculos como escaleras, bordillos, vehículos, bicicletas, mobiliario urbano o peatones. Además, son capaces de planificar rutas de forma <strong>autónoma</strong>, identificar caminos seguros y modificar el recorrido cuando encuentran algún <strong>imprevisto</strong>, lo que proporciona una mayor seguridad durante los desplazamientos.",
+      "zh": "借助人工智能以及一系列传感器、摄像头和导航系统，这些机器狗能够识别并绕开楼梯、路缘石、车辆、自行车、城市街道设施或行人等障碍物。此外，它们还能自主规划路线、识别安全路径，并在遇到突发情况时调整行进路线，从而在出行过程中提供更高的安全保障。",
+      "vocab": [
+        {
+          "word": "esquivar",
+          "translation": "躲避，绕开",
+          "note": "esquivar 强调主动灵活地回避障碍或危险，比 evitar 更具动态感，常用于描述物理上的闪躲动作。"
+        },
+        {
+          "word": "autónoma",
+          "translation": "自主的，自动的",
+          "note": "前缀 auto- 表示『自我、独立』，由此可衍生出 autosuficiente（自给自足的）、autorregulación（自我调节）等大量词汇，构词价值极高。"
+        },
+        {
+          "word": "imprevisto",
+          "translation": "突发情况，意外",
+          "note": "由前缀 im-（否定）+ previsto（预见的）构成，作名词用时指『意外事件』，作形容词用时指『未预料到的』，是新闻中描述突发状况的常用词。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Más allá de la función de guía, estos dispositivos incluyen herramientas adicionales que <strong>amplían</strong> su utilidad. Entre ellas destacan los avisos automáticos en caso de caída del usuario, la posibilidad de realizar videollamadas para contactar con familiares o servicios de emergencia y diferentes funciones relacionadas con el seguimiento del estado de salud, como la <strong>monitorización</strong> de determinados parámetros o el envío de alertas cuando detectan una situación de riesgo.",
+      "zh": "除导航功能之外，这些设备还配备了额外工具，进一步拓展了其实用性。其中包括：用户跌倒时的自动提醒、可与家人或紧急服务进行视频通话的功能，以及多种与健康状态追踪相关的功能，例如对特定指标的实时监测，以及在检测到危险情况时发送警报。",
+      "vocab": [
+        {
+          "word": "amplían",
+          "translation": "扩大，拓展",
+          "note": "动词 ampliar 后常接名词如 ampliar el alcance / la utilidad / los conocimientos，是正式文体中表达『扩展范围』的高频词，比 aumentar 更强调范围的延伸。"
+        },
+        {
+          "word": "monitorización",
+          "translation": "监测，监控",
+          "note": "由动词 monitorizar 派生而来，后缀 -ización 表示『某一动作或过程』，同类词有 digitalización（数字化）、globalización（全球化），是极具构词价值的后缀。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Los desarrolladores presentan este sistema como una alternativa <strong>complementaria</strong> a los perros guía convencionales. Aunque estos animales continúan siendo fundamentales para muchas personas, su disponibilidad es limitada debido al elevado coste de su <strong>adiestramiento</strong> y al largo proceso de selección y formación que requieren antes de poder acompañar a un usuario.",
+      "zh": "开发者将该系统定位为传统导盲犬的补充替代方案。尽管这些动物对许多人来说仍不可或缺，但由于训练成本高昂，加之在正式陪伴用户之前需要经历漫长的选拔和培训过程，其供应数量十分有限。",
+      "vocab": [
+        {
+          "word": "complementaria",
+          "translation": "补充性的，互补的",
+          "note": "形容词 complementario/a 强调两者相辅相成，而非相互取代，在新闻中常用于区分『替代』与『补充』关系，注意与 suplementario（附加的）的语义差异。"
+        },
+        {
+          "word": "adiestramiento",
+          "translation": "训练，培训（尤指动物）",
+          "note": "adiestrar 及其名词形式 adiestramiento 专指对动物或人员进行系统性技能训练，比通用词 entrenamiento 更正式，多用于军事、警务或导盲犬等专业语境。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Con esta innovación, los perros robot podrían <strong>contribuir a</strong> cubrir una demanda creciente y facilitar que más personas con problemas de visión dispongan de una ayuda para desplazarse con mayor autonomía, seguridad e independencia en su <strong>vida cotidiana</strong>.",
+      "zh": "借助这一创新，机器狗或许能够帮助满足日益增长的需求，让更多视障人士在日常生活中能够更自主、更安全、更独立地出行。",
+      "vocab": [
+        {
+          "word": "contribuir a",
+          "translation": "有助于，为……做出贡献",
+          "note": "contribuir a 后接动词原形或名词，表示『在某方面发挥积极作用』，是新闻和学术文体中的高频搭配，语气比 ayudar a 更正式。"
+        },
+        {
+          "word": "vida cotidiana",
+          "translation": "日常生活",
+          "note": "cotidiano/a 是 diario/a 的正式书面替代词，两者意思相近但 cotidiano 更常出现于学术、新闻及文学文体中，学习者可借此提升书面表达的层次。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "dar lugar a",
+      "type": "colocación",
+      "translation": "催生，引发，导致",
+      "usage": "正式书面语中的高频固定搭配，后接名词，表示某事物引发了某种结果或现象。语气比 causar 更中性客观，常见于新闻导语和学术论文。",
+      "exampleEs": "El cambio climático ha dado lugar a fenómenos meteorológicos cada vez más extremos.",
+      "exampleZh": "气候变化催生了越来越极端的气象现象。"
+    },
+    {
+      "expression": "desempeñar un papel",
+      "type": "colocación",
+      "translation": "扮演（某种）角色，发挥（某种）作用",
+      "usage": "新闻和学术文体中极为常见的固定搭配，papel 可替换为 función（功能）或 rol（角色）。强调主体在某一系统或过程中承担的具体职能，不可用 hacer 直接替换 desempeñar。",
+      "exampleEs": "Las energías renovables desempeñan un papel clave en la lucha contra el cambio climático.",
+      "exampleZh": "可再生能源在应对气候变化的过程中发挥着关键作用。"
+    },
+    {
+      "expression": "más allá de",
+      "type": "colocación",
+      "translation": "超越……，不仅仅是……",
+      "usage": "介词短语，用于引出超出某一范围或预期的内容，语气正式，常见于新闻和议论文中，用来拓展论述角度。相当于中文的『除……之外，更进一步』。",
+      "exampleEs": "Más allá de los beneficios económicos, este proyecto tiene un gran impacto social.",
+      "exampleZh": "除经济效益之外，这个项目还具有深远的社会影响。"
+    },
+    {
+      "expression": "contribuir a cubrir una demanda",
+      "type": "colocación",
+      "translation": "帮助满足需求",
+      "usage": "cubrir una demanda（满足需求）是新闻经济和社会类文章中的高频固定搭配，demanda 在此指市场或社会需求，与 contribuir a 连用时强调积极的、部分性的贡献，语气客观。",
+      "exampleEs": "Las nuevas viviendas de protección oficial contribuirán a cubrir la demanda de alojamiento asequible.",
+      "exampleZh": "新建的保障性住房将有助于满足对经济适用房的需求。"
+    }
+  ]
+}

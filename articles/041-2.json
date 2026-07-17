@@ -1,0 +1,187 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "文化与生活",
+  "difficulty": "C1",
+  "wordCount": "约620词",
+  "title": "Estuve aquí y me olvidé de ti",
+  "subtitle": "我到此一游，却忘了你",
+  "resumenEs": "A través del hilo conductor del abanico, el autor reflexiona con humor e ironía sobre la industria del souvenir, los regalos de boda, el calor del metro de Madrid y la progresiva degradación de los espacios públicos de la ciudad, apuntando al cambio climático y a la desidia política como responsables de hacer Madrid cada vez más inhabitable en verano.",
+  "resumenZh": "作者以扇子为线索，用幽默与讽刺的笔调，串联起对纪念品产业、婚礼小礼物、马德里地铁酷热以及城市公共空间日益恶化等现象的思考，并将矛头指向气候变化与政治冷漠，认为两者共同让马德里的夏天愈发令人窒息。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "La <strong>boyante</strong> industria de las baratijas <strong>hace su agosto</strong> en agosto. Millones de personas están en algún lado acordándose de alguien. Comprando un llavero o una camiseta que lo diga de forma literal. Los souvenirs tienen unas coordenadas geográficas concretas. Porque acordarse de alguien en Getafe no tiene el mismo mérito que hacerlo en Bali. Y decirlo en una carta no tiene el mismo valor que hacerlo en una camiseta. Sueño con encontrar un souvenir que dé la vuelta a esta idea y <strong>rece</strong>: \"Estuve aquí y me olvidé de ti\". A fin de cuentas, uno se va de vacaciones para desconectar, no solo de un lugar, sino de la gente que lo habita.",
+      "zh": "廉价纪念品这门红火的生意在八月大发横财。数以百万计的人身处异乡，心里惦记着某个人，于是买下一个钥匙扣或一件T恤，把这份思念白纸黑字地写出来。纪念品有着明确的地理坐标——毕竟，在赫塔菲想起某人，和在巴厘岛想起某人，含金量可不一样。把思念写在信里，也远不如印在一件T恤上来得有分量。我梦想着有一天能找到一件颠覆这种逻辑的纪念品，上面写着：『我到此一游，却忘了你。』说到底，人们出去度假是为了放空，不仅要逃离某个地方，更要逃离那里的人。",
+      "vocab": [
+        {
+          "word": "boyante",
+          "translation": "繁荣的，兴旺的",
+          "note": "boyante 形容事业、经济等处于上升繁荣状态，是新闻财经类文章的高频词，与 próspero 近义但更强调动态上的蓬勃势头。"
+        },
+        {
+          "word": "hace su agosto",
+          "translation": "大发横财，趁机捞一笔",
+          "note": "西班牙语惯用语，源自农民在八月麦收季节收入最丰的传统，现泛指趁某个时机大赚一笔，字面意思与实际意思完全不同，属于典型的 modismo。"
+        },
+        {
+          "word": "rece",
+          "translation": "（此处指）写着，载有",
+          "note": "rezar 本义为『祈祷』，但在书面语中还有『（文字）写道、载明』的意思，如 el cartel reza...（牌子上写着……），属于典型的一词多义，易被误解为宗教含义。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Siguiendo esta dinámica estival, en las bodas se ha empezado a normalizar la demostración de amor con baratijas. Me casé con este señor y me acordé de ti. Así que te regalo este despertador, esta mini botella de aceite, esta reproducción en 3D de mi mascota recientemente fallecida… Yo en mi boda regalé abanicos, más que nada por garantizar la supervivencia de los invitados a un enlace en agosto en Roma. El caso es que me <strong>vine arriba</strong> y compré 200 para apenas 90 personas. Iba la gente abanicándose a dos manos, que se notara que no habíamos <strong>reparado en gastos</strong>. Cuatro años después de aquello, todavía sigo encontrando abanicos de colores <strong>desperdigados</strong> por casa en cualquier rincón, como polillas adormiladas.",
+      "zh": "顺着这股夏日风潮，婚礼上用小礼品表达爱意也逐渐成了常态。我嫁给了这位先生，也没忘了你——于是送你一个闹钟、一小瓶橄榄油，或者一个我家最近去世的宠物的3D复制品……我自己婚礼上送的是扇子，主要是为了确保宾客们能在八月份的罗马婚礼上活下来。结果我一时兴起，明明只有90位客人，却买了200把。宾客们双手各持一把扇子猛扇，生怕别人看不出我们出手有多阔绰。那都是四年前的事了，如今我家各个角落还时不时冒出几把彩色扇子，像几只打盹的蛾子。",
+      "vocab": [
+        {
+          "word": "vine arriba",
+          "translation": "（此处）一时兴起，飘了，得意忘形",
+          "note": "venirse arriba 是口语惯用语，表示因兴奋或自信而超出原本计划地行事，带有轻微自嘲意味，相当于中文的『飘了』或『一时上头』。"
+        },
+        {
+          "word": "reparado en gastos",
+          "translation": "在乎花费，计较开销",
+          "note": "no reparar en gastos 是固定搭配，意为『不惜花费、出手阔绰』，reparar en 表示『注意到、在意』，此搭配常用于描述大方消费的场合。"
+        },
+        {
+          "word": "desperdigados",
+          "translation": "散落的，分散的",
+          "note": "desperdigar 表示将东西零散地分布各处，强调无序散落的状态，比 dispersar 更口语化，常用于描述物品杂乱分布的生活场景。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "En esta época me vienen de perlas. No tengo aire acondicionado en el coche. De hecho, no tengo ni coche, e ir en metro en julio en Madrid es un deporte de riesgo. El abanico es tan necesario como el abono transporte. Cuando llega el tren, vas mirando los vagones, a ver si te ha tocado uno con aire, que es casi como si te tocase el Billete Dorado de Willy Wonka, solo que en lugar de a una fábrica de chocolate, llegas a tu oficina sin sudar. Un lujo. Normalmente no hay suerte. Lo intuyes ya al ver los vagones llenos de gente abanicándose, como una <strong>cofradía</strong> de oficinistas <strong>folclóricas</strong>. Suelen ser ellas las que lo usan. Me hace gracia ver a todos esos hombres sudando con <strong>estoicismo</strong>, con su recia masculinidad de cristal a salvo, que uno empieza agitando un abanico y acaba casándose con un señor. Yo esa última parte ya la hice. De hecho, gracias a ese casamiento me convertí en el orgulloso dueño de un arsenal de abanicos, así que me da un poco igual usarlos con cierta alegría.",
+      "zh": "这个季节，扇子对我来说真是及时雨。我的车没有空调——其实我连车都没有，七月份在马德里坐地铁简直是一项高危运动。扇子跟交通月票一样不可或缺。火车进站时，你会挨个打量车厢，看看有没有空调，那感觉几乎像中了威利·旺卡的金奖券——只不过你抵达的不是巧克力工厂，而是没有汗流浃背地到了办公室，堪称奢侈。但通常运气不会那么好。看到车厢里一群人齐刷刷地扇扇子，你就已经心里有数了，活像一帮民俗风浓郁的办公室女职员联谊会。通常都是女性在用扇子。看着那些男人们用斯多葛式的坚忍默默流汗，我忍不住想笑——他们那脆弱的『钢铁男儿』形象岌岌可危，毕竟，一个男人今天开始扇扇子，明天说不定就嫁给另一个男人了。这最后一步我已经走过了。正因为那场婚礼，我成了一大批扇子的骄傲拥有者，所以我用起来倒也毫无心理负担。",
+      "vocab": [
+        {
+          "word": "cofradía",
+          "translation": "（宗教）兄弟会；（此处讽刺）小团体，帮派",
+          "note": "cofradía 本指西班牙天主教传统中的宗教游行团体，此处作者借用其庄重感制造幽默反差，用来调侃地铁里集体扇扇子的上班族，体现了作者文字的讽刺风格。"
+        },
+        {
+          "word": "folclóricas",
+          "translation": "民俗风的；（此处）土气的，有地方特色的",
+          "note": "folclórico/a 本义指与民间传统文化相关的，但在口语中常带有轻微调侃意味，暗指某种夸张或过时的风格，此处与 cofradía 搭配强化了幽默效果。"
+        },
+        {
+          "word": "estoicismo",
+          "translation": "斯多葛主义；坚忍，隐忍",
+          "note": "estoicismo 源自古希腊哲学流派，在日常语境中引申为『默默忍受痛苦而不抱怨』，此处作者用这个高级词汇来讽刺男性因性别偏见而拒绝用扇子的行为，语气幽默。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Los abanicos tienen algo de dramático, como de folclórica <strong>despechada</strong> rememorando sus días de gloria. Un cotilleo siempre suena mejor si se subraya con su sincopado aleteo. El abrir y cerrar de sus varillas ofrece un dramático chimpún a cualquier comentario malicioso. Con todo lo que ha avanzado la tecnología, hay pocos modos más auténticos e <strong>infalibles</strong> para ahuyentar el calor. Están los miniventiladores portátiles que llevan los turistas, pero son un poco como la IA del fresquito. Una ventolera fría y administrativa, que no requiere de la intervención del sudoroso. Los abanicos, por el contrario, tienen su técnica y su arte. Se mueven a un ritmo sincopado y <strong>onanista</strong>. Suben y bajan y crean pequeños vendavales de colores.",
+      "zh": "扇子自有一种戏剧性，像一位心灰意冷的民俗歌手在追忆往昔荣光。八卦说起来，若能配上扇子那断断续续的扑扇声，总会更添几分韵味。扇骨一开一合之间，为任何一句刻薄话都画上了一个戏剧性的句号。纵然科技日新月异，能如此真实可靠地驱散暑热的方式，也没有几种。游客们带的那种迷你手持小风扇，不过是『人工智能版的小凉风』——冷冰冰、程序化地送来一阵风，完全不需要流汗者本人的参与。扇子则截然不同，它有自己的技法与艺术，以一种断续而自我沉醉的节奏起伏摆动，扇出一阵阵五彩缤纷的小旋风。",
+      "vocab": [
+        {
+          "word": "despechada",
+          "translation": "心灰意冷的，因失恋或受辱而愤恨的",
+          "note": "despechado/a 源自名词 despecho（怨恨、失望），专指因感情受挫或遭受轻视而产生的愤懑情绪，常用于描述失恋或受辱后的心理状态，比 decepcionado 情感色彩更强烈。"
+        },
+        {
+          "word": "infalibles",
+          "translation": "万无一失的，绝对可靠的",
+          "note": "由前缀 in-（否定）+ falible（可能出错的）构成，表示『不会失误的』，是正式文体中强调可靠性的常用词，注意与英语 infallible 是同源词，属于学习者的友好词汇。"
+        },
+        {
+          "word": "onanista",
+          "translation": "（此处）自我陶醉的，自顾自的",
+          "note": "此词本义具有强烈的性暗示色彩，但作者在此将其引申用于描述扇子自顾自摆动、自得其乐的节奏感，是典型的文学性挪用，体现了西语专栏文章的语言大胆性。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "En una ciudad como Madrid son imprescindibles. No solo por el metro. En otros lugares más lúdicos se tiene que <strong>echar mano de</strong> ellos. Se habló mucho de la reforma de la Puerta del Sol, quizá por su simbolismo, pero hay muchos más lugares, chiquititos, que explican esta <strong>querencia</strong> del Ayuntamiento por el achicharramiento ciudadano. Los parques infantiles de Madrid no tienen árboles, pero sí unos toboganes de hierro incandescente y un pavimento gomoso con el que se puede jugar a \"el suelo es lava\" de una forma casi literal. Las piscinas aquí son <strong>eriales</strong> de cemento. Las últimas reformas las han convertido en charcas al sol: se ha sustituido el césped real por artificial y los árboles por sombrillas. Es más barato de mantener, supongo. Y total, las piscinas públicas, como el metro o el parque no son una prioridad si tienes un buen coche, vives en una urbanización y veraneas en una casita en Sotogrande.",
+      "zh": "在马德里这样的城市，扇子不可或缺，不仅仅是因为地铁。在其他更适合休闲的场所，人们同样得仰仗它。索尔广场的改造工程引发了大量讨论，或许是因为它的象征意义，但还有许多不起眼的小地方，同样能说明市政府对『烤熟市民』这件事的执念。马德里的儿童游乐场没有树，却有几乎烧红的铁滑梯和一种橡胶地面，玩『地面是熔岩』的游戏几乎可以当真。这里的游泳池是水泥荒地。最近几轮改造把它们变成了暴晒在太阳下的水坑：真草被人造草皮取代，树木让位给遮阳伞。维护起来更便宜，我猜是这样。再说了，公共游泳池、地铁、公园这些东西，对那些有好车、住在封闭式社区、去索托格兰德度假的人来说，本来就不是什么优先考虑的事。",
+      "vocab": [
+        {
+          "word": "echar mano de",
+          "translation": "借助，动用，使用",
+          "note": "echar mano de 是固定搭配，表示在需要时借助或使用某物/某人，带有『不得不用』或『临时取用』的语感，比 usar 更口语化，常见于非正式书面语。"
+        },
+        {
+          "word": "querencia",
+          "translation": "偏好，执念；对某地的眷恋",
+          "note": "querencia 本指动物对某一领地的本能依恋，引申为人对某地或某事的深厚情感或固执偏好，此处作者用来讽刺市政府对『不遮阴』设计的执念，语气带有强烈讽刺色彩。"
+        },
+        {
+          "word": "eriales",
+          "translation": "荒地，不毛之地",
+          "note": "erial 指未开垦、寸草不生的荒芜土地，作者将其用来形容游泳池，是一种强烈的文学性比喻，突出了公共空间缺乏绿化、毫无生机的现状，是C1级别的书面词汇。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Madrid no es una ciudad fresquita en verano. Nunca lo fue. Pero tengo la sensación de que en los últimos años, el cambio climático y la <strong>desidia</strong> política están haciendo esta ciudad aún más <strong>asfixiante</strong>. Imposible de <strong>sobrellevar</strong>, ni siquiera con 200 abanicos.",
+      "zh": "马德里夏天从来就不是一座凉快的城市，过去从未是，将来也不会是。但我有一种感觉：近几年来，气候变化与政治上的懒散冷漠，正让这座城市变得愈发令人窒息——哪怕有200把扇子，也难以为继。",
+      "vocab": [
+        {
+          "word": "desidia",
+          "translation": "懒散，冷漠，不作为",
+          "note": "desidia 指因懒惰或漠不关心而导致的失职状态，在政治评论中常用来批评当局的不作为，语气比 pereza 更正式、更具批判性，是新闻社论的高频词。"
+        },
+        {
+          "word": "asfixiante",
+          "translation": "令人窒息的，压抑的",
+          "note": "asfixiante 源自动词 asfixiar（使窒息），既可指物理上的闷热难耐，也可引申为政治、社会环境的压抑感，此处作者一语双关，兼顾两层含义。"
+        },
+        {
+          "word": "sobrellevar",
+          "translation": "忍受，承受，熬过",
+          "note": "sobrellevar 由 sobre-（在……之上）+ llevar（承担）构成，表示勉强忍受某种困难或痛苦，比 aguantar 更书面，强调长期承受的艰难感，常见于文学和新闻评论。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "hacer su agosto",
+      "type": "modismo",
+      "translation": "趁机大赚一笔，发横财",
+      "usage": "源自西班牙农业传统，八月是麦收旺季，农民收入最丰。现用于任何人或行业趁某个时机大捞一笔的场合，语气带有轻微讽刺意味，常见于新闻和口语。",
+      "exampleEs": "Las empresas de aire acondicionado hacen su agosto cada verano con las olas de calor.",
+      "exampleZh": "空调公司每年夏天借着热浪大发一笔横财。"
+    },
+    {
+      "expression": "venirse arriba",
+      "type": "expresión coloquial",
+      "translation": "一时上头，飘了，情绪高涨到超出计划",
+      "usage": "口语表达，描述因兴奋、自信或冲动而做出超出原本预期的举动，通常带有自嘲或轻微夸张的语气，在西班牙日常口语中极为常见。",
+      "exampleEs": "Me vine arriba en el supermercado y compré el doble de lo que necesitaba.",
+      "exampleZh": "我在超市一时上头，买了两倍于所需的东西。"
+    },
+    {
+      "expression": "no reparar en gastos",
+      "type": "colocación",
+      "translation": "不惜花费，出手阔绰",
+      "usage": "固定搭配，reparar en 意为『注意到、在意』，整体表示『对花费毫不在意』，常用于描述大方消费或炫耀性支出的场合，语气可以是褒义也可带有讽刺意味。",
+      "exampleEs": "Para la fiesta de cumpleaños de su hija, no repararon en gastos: contrataron un castillo hinchable y un mago.",
+      "exampleZh": "为了给女儿办生日派对，他们不惜重金，租了充气城堡还请了魔术师。"
+    },
+    {
+      "expression": "echar mano de",
+      "type": "colocación",
+      "translation": "借助，动用，取用",
+      "usage": "固定搭配，表示在某种需要或紧迫情况下使用某物或某人的帮助，带有临时取用或不得不用的语感，比 utilizar 更口语化，适用于非正式书面语和日常对话。",
+      "exampleEs": "Cuando se fue la luz, tuvimos que echar mano de las velas.",
+      "exampleZh": "停电的时候，我们不得不借助蜡烛照明。"
+    },
+    {
+      "expression": "vienen de perlas",
+      "type": "expresión coloquial",
+      "translation": "正好派上用场，来得正是时候",
+      "usage": "口语惯用语，venir de perlas 表示某事物在某个时机出现得恰到好处，非常合适，相当于中文的『及时雨』或『正中下怀』，语气轻松积极。",
+      "exampleEs": "Estas sobras de ayer me vienen de perlas para el almuerzo de hoy.",
+      "exampleZh": "昨天的剩菜今天午饭正好派上用场。"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "读者来信·社会评论",
+  "difficulty": "B2",
+  "wordCount": "约400词",
+  "title": "\"Si la inteligencia artificial fuera realmente inteligente se apagaría por sí misma\"",
+  "subtitle": "『如果人工智能真的智能，它会自行关机』——四封读者来信",
+  "resumenEs": "Cuatro lectores reflexionan sobre temas de actualidad: el impacto medioambiental de la inteligencia artificial, la precariedad laboral de los jóvenes titulados, la pérdida de la escritura a mano en la era digital y las largas esperas en la sanidad pública madrileña.",
+  "resumenZh": "四位读者就当下热点话题各抒己见：人工智能对环境的冲击、年轻毕业生面临的就业困境、数字时代手写习惯的消逝，以及马德里公共医疗系统漫长的等待问题。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "【Javier Gil Jaime · L'Hospitalet de Llobregat】Si la inteligencia artificial fuera realmente inteligente se apagaría por sí misma porque su uso <strong>contribuye al</strong> calentamiento global, al cambio climático y a la destrucción medioambiental. Los centros de datos generan más y más calor, consumen millones de litros de agua y una <strong>ingente</strong> cantidad de energía y todo tipo de recursos. Hemos quedado <strong>deslumbrados</strong> por la magia de su lenguaje, su asombrosa capacidad de razonamiento y por el contenido generado por IA, que crea imágenes que parecen absolutamente reales. ¿Podemos pararlo? Pienso que, si realmente fuera inteligente, la IA se apagaría, desaparecería por el bien de nuestro planeta y nuestro futuro.",
+      "zh": "【Javier Gil Jaime · 洛夫雷加特河畔奥斯皮塔莱特】如果人工智能真的智能，它就会自行关机——因为它的使用助长了全球变暖、气候变化和环境破坏。数据中心产生越来越多的热量，消耗数百万升水、巨量的能源以及各种各样的资源。我们被它语言的魔力、惊人的推理能力以及AI生成的内容所迷惑——那些图像看起来无比真实。我们能阻止它吗？我认为，如果AI真的智能，它会选择关机，为了我们星球和未来的利益而消失。",
+      "vocab": [
+        {
+          "word": "contribuye al",
+          "translation": "助长，促成，对……有所贡献",
+          "note": "contribuir a 后接名词或动词原形，在环境、社会类新闻中常表示『加剧某种负面现象』，注意它既可用于正面也可用于负面语境，需结合上下文判断褒贬。"
+        },
+        {
+          "word": "ingente",
+          "translation": "巨大的，庞大的（尤指数量）",
+          "note": "ingente 是B2-C1级别的正式书面词，专用于强调数量或规模的庞大，比 enorme 更具文学和新闻色彩，常搭配 cantidad、esfuerzo、suma 等名词。"
+        },
+        {
+          "word": "deslumbrados",
+          "translation": "被迷惑的，被耀眼光芒所震慑的",
+          "note": "deslumbrar 字面义为『使眼花缭乱、使目眩』，引申为被某事物的魅力或表象所迷惑而失去判断力，此处带有批判性语气，暗示人们被AI表象蒙蔽。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "【Sergio de Fuente Garrido · Alcorcón (Madrid)】Hace unas semanas, mi hermana se graduó. Ha cumplido su sueño de convertirse en maestra con un <strong>expediente académico</strong> excelente, fruto del esfuerzo y una vocación ejemplar. Sin embargo, la realidad laboral no ha tardado en <strong>imponerse</strong>. Solo la llamaron algunas guarderías, donde le ofrecen trabajar como becaria para cuidar cerca de diez bebés. Una responsabilidad inmensa bajo una figura concebida para aprender, no para sustituir un empleo. Yo la animo a aceptar cualquier oportunidad, ganar experiencia y <strong>perseverar</strong>. También le digo que, si no encuentra el futuro que merece, se marche al extranjero. Ella siempre responde que no quiere irse de España. ¿Qué futuro puede construir un país que convierte la excelencia en un billete de salida y la permanencia en resignación?",
+      "zh": "【Sergio de Fuente Garrido · 阿尔科孔（马德里）】几周前，我妹妹毕业了。她以优异的学业成绩实现了成为一名教师的梦想，这是努力与出色职业热忱的结晶。然而，残酷的就业现实很快便找上门来。只有几家托儿所联系了她，给她提供的是以实习生身份照看近十个婴儿的工作。这是一份极其沉重的责任，而实习生这个身份本是为了学习而设，并非用来顶替正式雇员的。我鼓励她抓住任何机会，积累经验，坚持下去。我也告诉她，如果在这里找不到她应得的未来，就出国去。她总是回答说不想离开西班牙。一个把卓越变成出走的单程票、把留下变成认命的国家，还能为年轻人构建什么未来？",
+      "vocab": [
+        {
+          "word": "expediente académico",
+          "translation": "学业档案，成绩记录",
+          "note": "expediente académico 是西班牙教育体系中的固定说法，指学生在校期间的完整成绩档案，相当于中文的『学业成绩单』，是求职和申请时的重要材料，属于高频教育类词汇。"
+        },
+        {
+          "word": "imponerse",
+          "translation": "（现实）强行介入，占据上风",
+          "note": "imponer 本义为『强加、施加』，反身形式 imponerse 表示某种力量或现实不可抗拒地显现或占据主导，此处 la realidad laboral no tardó en imponerse 是新闻评论中的高频表达。"
+        },
+        {
+          "word": "perseverar",
+          "translation": "坚持，持之以恒",
+          "note": "perseverar 强调在困难或挫折面前仍坚持不懈，比 continuar 或 seguir 更正式，带有意志力和毅力的含义，常见于励志、教育类语境。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "【Yolanda Cousillas Collazos · Zaragoza】Mi padre tiene 88 años y <strong>deterioro cognitivo</strong> así que le he comprado cuadernillos de caligrafía. Él, que siempre tuvo una letra preciosa, ahora la tiene temblorosa e ilegible. Es increíble como con los años volvemos a los inicios y perdemos la <strong>motricidad fina</strong>, pero en estos días de móviles y ordenadores, ¿Cuántas personas perderán el hábito de escribir? ¿Cuántas grafías preciosas desaparecerán por golpecitos de teclas? ¿En la evolución los humanos perderemos la pinza digital en <strong>detrimento</strong> del desarrollo de pulgares que teclean y meñiques que sostienen dispositivos móviles? La tecnología está bien, pero no deberíamos olvidar nuestros orígenes ni todo lo que la escritura a mano aporta a nuestra memoria, nuestra creatividad y nuestra forma de relacionarnos con el mundo.",
+      "zh": "【Yolanda Cousillas Collazos · 萨拉戈萨】我父亲88岁，有认知障碍，所以我给他买了书法练习本。他曾经写得一手漂亮的字，如今却颤抖而难以辨认。随着岁月流逝，我们回到起点、失去精细运动能力，这令人唏嘘。但在这个手机和电脑横行的时代，有多少人会渐渐失去书写的习惯？有多少美丽的笔迹会消失在键盘的敲击声中？在人类的进化过程中，我们会不会以牺牲手指捏合能力为代价，换来越来越擅长打字的拇指和越来越擅长托着手机的小指？科技固然好，但我们不应忘记自己的根，也不应忘记手写对我们的记忆、创造力以及与世界建立联系的方式所带来的一切。",
+      "vocab": [
+        {
+          "word": "deterioro cognitivo",
+          "translation": "认知障碍，认知退化",
+          "note": "deterioro 源自动词 deteriorar（使恶化），名词形式表示『退化、恶化』，deterioro cognitivo 是医疗和社会新闻中的高频固定搭配，构词前缀 de- 在此表示向下、退化的方向。"
+        },
+        {
+          "word": "motricidad fina",
+          "translation": "精细运动能力（手指等小肌肉的协调控制）",
+          "note": "motricidad 指运动能力，fina 在此表示『精细的』，motricidad fina 是教育和医学语境中的固定搭配，与之对应的是 motricidad gruesa（大肌肉运动能力），两者常成对出现。"
+        },
+        {
+          "word": "detrimento",
+          "translation": "损害，损失",
+          "note": "en detrimento de 是固定介词短语，意为『以……为代价，损害……』，是正式文体中表达负面代价关系的高频表达，在西语中几乎只以 en detrimento de 的固定形式出现。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "【Sofía Illana López · Alcalá de Henares (Madrid)】El tiempo lo cura todo. Creo que la Consejería de Sanidad de la Comunidad de Madrid se lo ha tomado <strong>al pie de la letra</strong>: de siete a diez días para las afecciones más leves o de cuatro a seis meses para las más complejas. Si las <strong>dolencias</strong> persisten, los que se resisten a los efectos curativos del tiempo son unos afortunados si logran ser atendidos por un profesional de la salud. ¿Cuánto vamos a tener que esperar para disfrutar de unos servicios sanitarios públicos de calidad? Estaría bien que se <strong>decantasen</strong> antes por el refrán: \"No dejes para mañana lo que puedas hacer hoy\".",
+      "zh": "【Sofía Illana López · 阿尔卡拉德埃纳雷斯（马德里）】时间能治愈一切。我觉得马德里自治区卫生厅是把这句话当真了：轻症等七到十天，复杂病症等四到六个月。如果病痛迟迟不愈，那些没能被时间治好的患者，能被医疗专业人员接诊，就已经算是幸运儿了。我们还要等多久，才能享受到有质量的公共医疗服务？要是他们能先信奉另一句谚语就好了：『今日事，今日毕。』",
+      "vocab": [
+        {
+          "word": "al pie de la letra",
+          "translation": "逐字地，照字面意思，一丝不苟地执行",
+          "note": "固定惯用语，表示完全按照字面意思或规定执行，不做任何变通，此处作者用它讽刺卫生厅把『时间治愈一切』当成了医疗政策，语气辛辣幽默。"
+        },
+        {
+          "word": "dolencias",
+          "translation": "病痛，不适，疾患",
+          "note": "dolencia 指身体上的疼痛或慢性不适，比 enfermedad（疾病）更强调主观感受到的持续痛苦，常用于描述慢性病或反复出现的症状，是医疗类新闻的常用词。"
+        },
+        {
+          "word": "decantasen",
+          "translation": "倾向于选择，偏向",
+          "note": "decantarse por 是固定搭配，表示在多个选项中倾向于或最终选择某一方，比 elegir 更强调经过权衡后的倾向性，是新闻和评论文体中的高频表达。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "tomarse algo al pie de la letra",
+      "type": "modismo",
+      "translation": "照字面意思理解，一字不差地执行",
+      "usage": "惯用语，描述某人完全按照字面意思理解或执行某事，不做任何灵活变通。常带有讽刺意味，暗示这种死板的理解造成了荒谬的结果，口语和书面语均可使用。",
+      "exampleEs": "Le dije que se tomara las cosas con calma y se lo tomó al pie de la letra: llegó dos horas tarde.",
+      "exampleZh": "我让他放轻松，他却当了真——足足迟到了两个小时。"
+    },
+    {
+      "expression": "no tardar en",
+      "type": "colocación",
+      "translation": "很快就……，没过多久便……",
+      "usage": "固定搭配，后接动词原形，表示某事在很短时间内就发生了，常用于新闻叙事中强调事态发展之迅速，带有一定的必然性语气。",
+      "exampleEs": "Tras el anuncio, las críticas no tardaron en llegar.",
+      "exampleZh": "公告发出后，批评声很快便接踵而至。"
+    },
+    {
+      "expression": "decantarse por",
+      "type": "colocación",
+      "translation": "倾向于选择，偏向于",
+      "usage": "固定搭配，表示在多个选项中经过考量后偏向某一方，语气比 elegir 更强调过程中的权衡与倾向性，常见于新闻评论、政治和消费类文章。",
+      "exampleEs": "A la hora de votar, muchos ciudadanos indecisos se decantaron por la candidata independiente.",
+      "exampleZh": "在投票时，许多摇摆选民最终倒向了独立候选人。"
+    },
+    {
+      "expression": "billete de salida",
+      "type": "colocación",
+      "translation": "出走的单程票，被迫离开的理由",
+      "usage": "作者的创意性比喻搭配，将 billete（票）与 salida（出口/离开）结合，形象地表达『迫使人不得不离开的处境』。单程票暗示无奈且难以逆转的离开，语气带有强烈的批判与悲凉色彩。",
+      "exampleEs": "Para muchos jóvenes con talento, la falta de oportunidades se ha convertido en un billete de salida hacia otros países.",
+      "exampleZh": "对许多有才华的年轻人来说，机会的匮乏把他们推上了出走他国的单程列车。"
+    }
+  ]
+}
