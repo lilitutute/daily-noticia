@@ -1,0 +1,199 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "健康与生活方式",
+  "difficulty": "B2",
+  "wordCount": "约750词",
+  "title": "'Runner face' o cómo la obsesión por el ejercicio físico y las dietas puede transformar y envejecer el rostro",
+  "subtitle": "「跑者脸」：过度运动与节食如何让面部加速老化",
+  "resumenEs": "El ejercicio extremo y las dietas restrictivas pueden provocar un envejecimiento facial prematuro conocido como 'runner face', causado por la pérdida de grasa subcutánea, el estrés oxidativo, la deshidratación y la exposición solar acumulada. Los expertos advierten que el problema no es el deporte en sí, sino la velocidad e intensidad de los cambios corporales, y proponen soluciones que van desde el cuidado básico de la piel hasta tratamientos de medicina estética.",
+  "resumenZh": "极度运动与严格节食可能导致一种被称为「跑者脸」的面部过早老化现象，其成因包括皮下脂肪流失、氧化应激、慢性脱水以及长期日晒累积。专家指出，问题的根源不在于运动本身，而在于身体变化的速度与幅度，并提出了从基础护肤到医美治疗的一系列应对方案。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "El ejercicio físico se ha convertido en un pilar esencial del estilo de vida de muchas personas. Más allá de la tendencia fitness en las redes sociales, cada vez más estudios <strong>avalan</strong> los beneficios de llevar una vida activa para la salud y la longevidad. La recomendación es realizar tanto ejercicio de cardio como de fuerza, combinados también con movilidad. Sin embargo, como todo, el deporte llevado al <strong>extremo</strong> puede tener efectos indeseados, y uno de ellos se hace visible en el rostro, con un envejecimiento prematuro que se la ha dado el nombre de 'cara de runner'.",
+      "zh": "体育锻炼已成为许多人生活方式的核心支柱。超越社交媒体上的健身潮流，越来越多的研究证实了积极生活方式对健康与长寿的益处。专家建议将有氧运动与力量训练相结合，同时辅以灵活性练习。然而，凡事皆有度，运动一旦走向极端，便可能产生不良后果，其中之一便会显现于面部——一种被称为「跑者脸」的过早老化现象。",
+      "vocab": [
+        {
+          "word": "avalan",
+          "translation": "证实，支持，为……背书",
+          "note": "avalar 本义为提供担保（金融术语），在新闻和学术文体中引申为『以证据或权威为某观点背书、证实』，是B2-C1级高频词，比 confirmar 更强调权威性支撑，常见搭配为 avalar una teoría / una decisión。"
+        },
+        {
+          "word": "extremo",
+          "translation": "极端，过度",
+          "note": "llevar algo al extremo 是固定搭配，表示将某事推向极端，结构为 llevar + 名词 + al extremo，可替换为 llevar al límite。注意 extremo 作名词和形容词均高频，需根据语境判断词性。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Según explica Inmaculada Canterla, farmacéutica, máster en Antienvejecimiento y directora de Comeceutical Center, «durante el ejercicio, el consumo de oxígeno se multiplica. Esto genera un aumento de especies reactivas de oxígeno (radicales libres), que provocan <strong>estrés oxidativo</strong>. Este proceso daña el ADN celular, proteínas y lípidos de la piel, acelerando el envejecimiento. Los deportistas de élite o quienes realizan entrenamientos muy intensos y prolongados tienen ciclos celulares más cortos y una mayor producción de radicales libres. Esto puede <strong>traducirse en</strong> menor síntesis de colágeno, pérdida de elasticidad y un aspecto más cansado. El famoso 'runner's face' (o cara de corredor) no se debe solo al impacto del running, sino a una combinación de factores: pérdida de grasa <strong>subcutánea</strong> facial por bajo porcentaje de grasa corporal, deshidratación crónica, exposición solar acumulada y estrés oxidativo».",
+      "zh": "药剂师、抗衰老硕士、Comeceutical Center总监伊玛库拉达·坎特拉解释道：「运动期间，氧气消耗量成倍增加，由此产生大量活性氧（自由基），引发氧化应激。这一过程会损伤皮肤的细胞DNA、蛋白质和脂质，加速衰老。精英运动员或进行高强度、长时间训练的人，细胞周期更短，自由基产生更多，这可能导致胶原蛋白合成减少、弹性下降，面容显得更加疲惫。著名的『跑者脸』不仅仅源于跑步本身的冲击，而是多重因素共同作用的结果：因体脂率过低导致的面部皮下脂肪流失、慢性脱水、长期日晒累积以及氧化应激。」",
+      "vocab": [
+        {
+          "word": "estrés oxidativo",
+          "translation": "氧化应激",
+          "note": "estrés 是英语借词，在医学和心理学语境中均高频使用。estrés oxidativo 是健康类新闻的核心术语，指体内自由基与抗氧化防御之间失衡的状态，掌握此词有助于读懂大量健康与营养类文章。"
+        },
+        {
+          "word": "traducirse en",
+          "translation": "转化为，最终导致",
+          "note": "traducirse en 是新闻和学术文体的高频固定搭配，表示某原因或过程最终产生某具体结果，相当于 resultar en 或 derivar en，但更强调转化的过程，比 causar 更书面化。"
+        },
+        {
+          "word": "subcutánea",
+          "translation": "皮下的",
+          "note": "由前缀 sub-（在……之下）+ cutánea（皮肤的，源自 cutis）构成。sub- 是构词能力极强的前缀，如 subterráneo（地下的）、subyacente（潜在的）、subdesarrollado（欠发达的），掌握它可快速理解大量词汇。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "El ejercicio moderado y regular, añade Canterla, «actúa como un potente <strong>antioxidante</strong> endógeno, mejorando las defensas celulares y retrasando el envejecimiento. El exceso, en cambio, genera daño neto». Como ha señalado la farmacéutica, uno de los principales problemas es la pérdida de grasa asociada tanto al deporte extremo, como a las dietas restrictivas (la popular 'Ozempic face' o cara de Ozempic), que, además de en el cuerpo, se refleja en el rostro, con mejillas <strong>hundidas</strong> y un rostro más <strong>anguloso</strong>. A ello hay que añadir, el deterioro de la calidad de la piel, la pérdida de hidratación y de luminosidad.",
+      "zh": "坎特拉补充道，适度规律的运动「如同一种强效的内源性抗氧化剂，能够增强细胞防御能力，延缓衰老。而过度运动则会造成净损伤」。正如这位药剂师所指出的，主要问题之一是脂肪流失——无论是极端运动还是严格节食（即流行的「奥泽姆皮克脸」）都会导致这一问题，其影响不仅体现在身体上，也会反映在面部，表现为面颊凹陷、轮廓更加棱角分明。此外还需加上皮肤质量下降、水分流失和光泽减退。",
+      "vocab": [
+        {
+          "word": "antioxidante",
+          "translation": "抗氧化剂；抗氧化的",
+          "note": "由前缀 anti-（对抗）+ oxidante（氧化剂）构成。anti- 是极高频构词前缀，如 antiinflamatorio（消炎的）、antienvejecimiento（抗衰老的）、anticonceptivo（避孕的）。掌握此前缀可快速理解大量医学和健康词汇。"
+        },
+        {
+          "word": "hundidas",
+          "translation": "凹陷的，下沉的",
+          "note": "hundir 本义为『使沉没、使下陷』，hundido/a 作形容词描述面部特征时指凹陷状态，如 mejillas hundidas（凹陷的脸颊）、ojos hundidos（深陷的眼睛）。注意与 marcado（轮廓分明的）的区别。"
+        },
+        {
+          "word": "anguloso",
+          "translation": "棱角分明的，轮廓锐利的",
+          "note": "anguloso/a 由 ángulo（角度）派生，描述面部或物体具有明显的棱角和线条，在美容和时尚语境中常用于描述因消瘦而显现的骨骼轮廓，语气中性，不含明显褒贬。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Desde los Laboratorios Teoxane también ponen el foco en un tema cada vez más habitual en las consultas de los médicos estéticos: cómo el deporte intenso o la pérdida rápida de peso transforma el rostro. «Sporty Face, Runner's Face, o el término popular Ozempic Face… son expresiones utilizadas en medios y redes para describir un aspecto facial asociado a personas que realizan ejercicio intenso o que han experimentado una pérdida importante de grasa corporal y, principalmente, facial», explica la doctora Laura Núñez Robinson, médico estético. Y comenta que estos términos se usan para referirse «a una pérdida de <strong>volumen</strong> facial que puede hacer que el rostro parezca más delgado, marcado o envejecido». El doctor Omar Martínez, médico estético, <strong>coincide</strong>: «No se trata de una consecuencia inevitable del deporte, sino de una serie de modificaciones en los volúmenes faciales. El problema no es el ejercicio en sí, sino la velocidad o <strong>magnitud</strong> de ciertos cambios corporales».",
+      "zh": "泰奥赛恩实验室同样将目光聚焦于一个在医美诊所中日益常见的话题：高强度运动或快速减重如何改变面部形态。「『运动脸』『跑者脸』或流行词『奥泽姆皮克脸』……这些都是媒体和社交网络上用来描述高强度运动者或经历了大量体脂——尤其是面部脂肪——流失者的面部状态的表达，」医美医生劳拉·努涅斯·罗宾逊博士解释道。她补充说，这些词汇都是在描述「一种面部容量流失，可能使面容显得更消瘦、更有棱角或更显老态」。医美医生奥马尔·马丁内斯博士也持相同看法：「这并非运动不可避免的后果，而是面部容量发生的一系列变化。问题不在于运动本身，而在于某些身体变化的速度或幅度。」",
+      "vocab": [
+        {
+          "word": "volumen",
+          "translation": "（面部）饱满度，体积，容量",
+          "note": "volumen 在医美语境中专指面部脂肪支撑所带来的饱满感，是该领域的核心词汇。注意其一词多义：还可指书籍的『册』、声音的『音量』、数学的『体积』，需根据语境判断。"
+        },
+        {
+          "word": "coincide",
+          "translation": "持相同看法，意见一致",
+          "note": "coincidir 在新闻引语中作为引述动词，表示两位专家或信息源观点一致，是新闻写作中替代 estar de acuerdo 的正式用法，语气更简洁客观，常见于学术和报道文体。"
+        },
+        {
+          "word": "magnitud",
+          "translation": "幅度，规模，程度",
+          "note": "magnitud 在科学和新闻文体中表示某变化或事件的规模与程度，是B2-C1级高频词，常见搭配有 de gran magnitud（大规模的）、la magnitud del problema（问题的严重程度）。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Cuando disminuye el porcentaje de grasa corporal, el rostro también pierde parte de sus <strong>reservas</strong> grasas, responsables de sostener determinadas estructuras faciales y de aportar frescura. «Si el adelgazamiento es rápido o muy <strong>acusado</strong>, el cambio facial suele ser más evidente», añade la doctora Núñez Robinson. Estos cambios se traducen, según el experto, en mejillas más hundidas, ojeras más marcadas, pérdida de volumen facial y una mandíbula con menos soporte.",
+      "zh": "当体脂率下降时，面部也会失去部分脂肪储备——正是这些脂肪支撑着特定的面部结构，并赋予面容以鲜活感。「如果消瘦速度过快或程度过深，面部变化通常会更加明显，」努涅斯·罗宾逊博士补充道。据专家介绍，这些变化具体表现为：脸颊更加凹陷、黑眼圈更加明显、面部容量流失，以及下颌缺乏支撑。",
+      "vocab": [
+        {
+          "word": "reservas",
+          "translation": "储备，储量",
+          "note": "reservas 在生理学语境中指身体储存的脂肪或能量，是医学和营养类文章的高频词。注意其多义性：还可指酒店『预订』、心理上的『保留意见』（tener reservas sobre algo）以及自然保护区（reserva natural）。"
+        },
+        {
+          "word": "acusado",
+          "translation": "明显的，显著的，严重的",
+          "note": "acusado/a 作形容词表示『程度明显、突出』，是容易被误解的词——学习者可能联想到 acusar（指控），但此处为完全不同的形容词用法，相当于 marcado 或 pronunciado，常见于医学和新闻文体。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "¿Se pueden evitar esos rostros <strong>demacrados</strong> a consecuencia de dietas estrictas o ejercicio intenso? Como son varios los factores que influyen, la farmacéutica Inmaculada Canterla recomienda cuidar la piel con un ritual básico antes y después del ejercicio: «limpieza suave, hidratación ligera y protector solar, es <strong>imprescindible</strong> siempre, incluso aunque se haga deporte en interior, si se hace en exterior, además hay que reaplicar cada dos horas y usar gorra y ropa técnica con filtros solares. Después del ejercicio, conviene limpiar la piel para eliminar el sudor que puede irritar, y aplicar el tratamiento habitual. Además, aconsejo <strong>suplementar</strong> con NAD+, ubiquinol (coenzima Q10 reducida) y otros como vitamina C, E, polifenoles, astaxantina y una dieta rica en antioxidantes».",
+      "zh": "能否避免因严格节食或高强度运动而导致的面容憔悴？由于影响因素众多，药剂师伊玛库拉达·坎特拉建议在运动前后做好基础护肤：「温和清洁、轻度保湿和防晒霜是任何时候都必不可少的，即便在室内运动也不例外；若在户外运动，还需每两小时补涂一次，并佩戴帽子、穿着含防晒指数的专业运动服。运动后应及时清洁皮肤，去除可能刺激皮肤的汗液，再涂抹日常护理产品。此外，我建议补充NAD+、泛醇（还原型辅酶Q10）以及维生素C、E、多酚、虾青素，并保持富含抗氧化物的饮食。」",
+      "vocab": [
+        {
+          "word": "demacrados",
+          "translation": "憔悴的，面容枯槁的",
+          "note": "demacrado/a 专门用于描述因疾病、疲劳或营养不良导致的面容憔悴、消瘦状态，语气比 cansado 更强烈，带有明显的病态或极度疲惫的含义，是医学和文学语境中的高级词汇。"
+        },
+        {
+          "word": "imprescindible",
+          "translation": "不可或缺的，必不可少的",
+          "note": "由前缀 im-（否定）+ prescindible（可省略的，源自 prescindir de）构成。prescindir de 表示『舍弃、不依赖』，imprescindible 即『无法舍弃的』。注意与 necesario 的区别：imprescindible 语气更强，强调缺少则不可行。"
+        },
+        {
+          "word": "suplementar",
+          "translation": "补充（营养素），服用补剂",
+          "note": "suplementar 在营养和健康语境中表示通过额外摄入补充某种营养素，对应名词为 suplemento（营养补剂）。注意与 complementar（补充完善）的区别：suplementar 更专指营养补充，complementar 更广泛。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "La medicina estética es una ayuda extra para revertir la cara cansada y con pérdida de volumen. Los tratamientos siempre deben ser personalizados, y el objetivo de ellos que el rostro recupere su luminosidad y energía, sin perder la naturalidad. «Hoy damos mucha más importancia a mejorar textura, luminosidad, firmeza e hidratación de la piel», explica la doctora Núñez Robinson. «Un buen resultado no depende de añadir volumen, sino de <strong>preservar</strong> la <strong>armonía</strong> facial», matiza. Para ello se pueden usar ácidos hialurónicos como RHA® de Teoxane, diseñados para zonas dinámicas del rostro, son materiales capaces de acompañar la movilidad facial y adaptarse a los gestos sin <strong>alterar</strong> la expresión. Los expertos aconsejan protocolos que mejoren la calidad de la piel y estimulen el colágeno propio.",
+      "zh": "医学美容是改善疲惫面容和容量流失的额外辅助手段。治疗方案必须个性化定制，目标是让面部恢复光泽与活力，同时保持自然感。「如今我们更注重改善皮肤的质地、光泽、紧致度和水分，」努涅斯·罗宾逊博士解释道。「好的效果不在于增加容量，而在于维护面部的和谐平衡，」她进一步说明。为此可以使用泰奥赛恩的RHA®透明质酸，这种材料专为面部动态区域设计，能够配合面部运动，适应各种表情变化而不改变表情本身。专家建议采用能改善皮肤质量、刺激自身胶原蛋白生成的综合方案。",
+      "vocab": [
+        {
+          "word": "preservar",
+          "translation": "维护，保全，保持",
+          "note": "preservar 强调主动采取措施防止某种良好状态被破坏，比 mantener 更强调保护性的努力，常见于环境、文化遗产和医美语境，如 preservar el medio ambiente、preservar la armonía。"
+        },
+        {
+          "word": "armonía",
+          "translation": "和谐，协调，平衡",
+          "note": "armonía facial 是医美领域的核心概念，指面部各部位比例与整体的协调统一。armonía 在音乐、人际关系和美学语境中均高频出现，掌握其引申用法有助于理解多类文体。"
+        },
+        {
+          "word": "alterar",
+          "translation": "改变，扰乱，使失常",
+          "note": "alterar 是一词多义的高频词：可表示『改变某物的状态』（alterar la expresión），也可表示『使人情绪激动、扰乱』（no te alteres，别激动）。两种含义在新闻和口语中都很常见，需根据语境判断。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "poner el foco en",
+      "type": "colocación",
+      "translation": "将关注点聚焦于，着重关注",
+      "usage": "新闻和学术文体的高频固定搭配，表示将注意力或讨论重心集中于某一议题，比 centrarse en 更强调主动聚焦的动作，常用于引出文章或段落的核心论点。近义表达还有 poner el acento en 和 hacer hincapié en。",
+      "exampleEs": "El informe pone el foco en las desigualdades educativas que persisten en las zonas rurales.",
+      "exampleZh": "该报告将关注点聚焦于农村地区持续存在的教育不平等问题。"
+    },
+    {
+      "expression": "llevar al extremo",
+      "type": "colocación",
+      "translation": "将……推向极端，过度追求",
+      "usage": "固定搭配，结构为 llevar + 名词 + al extremo，表示将某种行为或状态推至不健康或危险的程度，常用于健康、心理和社会议题，近义表达为 llevar al límite（推至极限）。",
+      "exampleEs": "La búsqueda de la perfección, llevada al extremo, puede convertirse en una fuente de ansiedad crónica.",
+      "exampleZh": "对完美的追求一旦走向极端，便可能成为慢性焦虑的根源。"
+    },
+    {
+      "expression": "daño neto",
+      "type": "colocación",
+      "translation": "净损伤，整体负面效果",
+      "usage": "经济学术语 neto（净值）移植到医学和健康语境中，表示扣除所有正面效益后仍为负值的损伤，即弊大于利的整体结果。这种跨领域的词汇借用在西语新闻中十分常见，体现了经济话语对其他领域的渗透。",
+      "exampleEs": "Cuando el estrés supera cierto umbral, el organismo sufre un daño neto que ningún antioxidante puede compensar.",
+      "exampleZh": "当压力超过某一临界值，机体所受的净损伤是任何抗氧化剂都无法弥补的。"
+    },
+    {
+      "expression": "revertir la situación",
+      "type": "colocación",
+      "translation": "逆转局面，扭转状况",
+      "usage": "revertir 表示使某种负面状态回到原来的良好状态，是医学、经济和政治新闻中的高频词，比 cambiar 更强调方向性的逆转。常见搭配：revertir el daño（逆转损伤）、revertir la tendencia（扭转趋势）、revertir los efectos（逆转效果）。",
+      "exampleEs": "Con el tratamiento adecuado, es posible revertir parte del daño causado por años de exposición solar.",
+      "exampleZh": "通过适当的治疗，可以逆转多年日晒所造成的部分损伤。"
+    },
+    {
+      "expression": "a consecuencia de",
+      "type": "colocación",
+      "translation": "由于……，作为……的后果",
+      "usage": "正式书面语中的高频因果介词短语，表示某结果直接源于某原因，语气比 por 更正式，比 debido a 更强调后果的直接性，常见于新闻、法律和医学文体，结构为 a consecuencia de + 名词。",
+      "exampleEs": "Varios edificios quedaron inhabitables a consecuencia de las inundaciones.",
+      "exampleZh": "数栋建筑因洪水而无法居住。"
+    }
+  ]
+}

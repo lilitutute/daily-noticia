@@ -1,0 +1,195 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "文化与人文随笔",
+  "difficulty": "C1",
+  "wordCount": "约750词",
+  "title": "El animal interior",
+  "subtitle": "内心深处的动物性",
+  "resumenEs": "La autora reflexiona sobre la profunda conexión emocional y espiritual que los seres humanos pueden experimentar con los animales, a través de anécdotas de Rilke, Nietzsche y su propio encuentro con una ballena jorobada en Canadá. Para ella, esa continuidad con el reino animal representa una forma de trascendencia y es lo más cercano a lo sagrado que ha vivido.",
+  "resumenZh": "作者通过里尔克、尼采的轶事以及自己在加拿大与座头鲸相遇的亲身经历，深刻反思了人类与动物之间深层的情感与精神联结。在她看来，这种与动物界的共通性是一种超越，是她此生最接近神圣的时刻。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Leyendo la novela El amigo, de Sigrid Nunez, (qué libro tan hermoso, ¿cómo he tardado tanto en llegar hasta él? Salió en 2018) me entero de que el gran escritor Rilke amaba a los perros y se sentía muy <strong>compenetrado</strong> con ellos. Y que una vez, saliendo de un café en España, se <strong>topó con</strong> una perrita vagabunda a punto de parir que le dirigió tal mirada de <strong>súplica</strong> (se me abren las carnes de imaginar la vida atroz de esa criatura en 1912, que es cuando nos visitó el poeta, y en este país, tan feroz con los animales por entonces) que Rilke quedó de alguna manera fulminado. En los ojos de la perra vio, diría después, \"toda esa verdad que va más allá de lo particular para dirigirse no sé a dónde, hacia el porvenir o lo incomprensible\". Le dio un azucarillo de su café, un gesto que, escribió, fue como decir misa juntos.",
+      "zh": "在阅读西格丽德·努涅斯的小说《朋友》时（多么美的一本书，我怎么这么晚才读到它？它出版于2018年），我得知伟大的作家里尔克深爱着狗，与它们心意相通。有一次，他走出西班牙一家咖啡馆，偶然遇到一只即将临盆的流浪母狗，那只狗向他投来一个哀求的眼神（想象那只可怜生灵在1912年——也就是这位诗人造访西班牙那年——的悲惨处境，我不寒而栗，那时这个国家对待动物是如此残酷），里尔克就此被彻底击中。他后来说，在那只母狗的眼睛里，他看到了「那种超越个体、指向不知何处——指向未来或不可知之境——的全部真相」。他把咖啡里的一块方糖给了它，他写道，这个举动就像是他们一同做了一场弥撒。",
+      "vocab": [
+        {
+          "word": "compenetrado",
+          "translation": "心意相通的，默契融洽的",
+          "note": "compenetrarse 表示两者之间达到深度理解与融合，常用于人与人或人与动物之间，前缀 com-（共同）强调双向性，比 entenderse 更强调精神层面的契合。"
+        },
+        {
+          "word": "topó con",
+          "translation": "偶然遇到，碰上",
+          "note": "toparse con 是固定搭配，表示无意间遇到某人或某物，带有偶然性，不可省略介词 con，比 encontrarse con 更强调意外性。"
+        },
+        {
+          "word": "súplica",
+          "translation": "哀求，恳求",
+          "note": "súplica 是名词，对应动词为 suplicar，属正式或文学用语，语气比 ruego 更强烈，带有卑微恳求的情感色彩，常见于文学和宗教文体。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "No es el único personaje relevante impactado cognitiva y <strong>anímicamente</strong> por el contacto con los animales. A mí me emociona de manera especial la terrible historia de Nietzsche, que el 3 de enero de 1889, estando en Turín, vio cómo un pobre caballo de tiro era <strong>azotado</strong> de forma brutal por el cochero. Espantado, el filósofo rompió a llorar, se abrazó al cuello del equino e, instantes después, se <strong>desplomó</strong> con un colapso nervioso. Fue el comienzo del fin; tras ser detenido por alteración del orden público, lo trasladaron a una clínica psiquiátrica en Suiza y después a otra en Alemania. Ya no volvería a salir ni a recuperar la razón hasta su muerte, ocurrida 11 años más tarde. No se sabe si su deterioro mental fue causado por una sífilis avanzada, o por una demencia frontotemporal, o incluso por un tumor cerebral, pero la obvia metáfora de que lo enloqueció el sufrimiento insoportable de una criatura indefensa me conmueve muchísimo.",
+      "zh": "他并非唯一一位在认知和精神层面都被与动物的接触深深震撼的重要人物。让我格外动容的，是尼采那段令人痛心的故事：1889年1月3日，他在都灵目睹了一匹可怜的役马被车夫残忍鞭打。哲学家惊骇万分，放声大哭，抱住那匹马的脖颈，随即便因神经崩溃而倒地不起。这是他走向终点的开始——他因扰乱公共秩序被捕，随后被送往瑞士一家精神病院，后又转至德国另一家。此后他再未走出病院，也未曾恢复神志，直至11年后离世。没有人确切知道他的精神崩溃究竟源于梅毒晚期、额颞叶痴呆，还是脑肿瘤，但那个显而易见的隐喻——是一个手无寸铁的生命所承受的难以言说的痛苦令他崩溃——深深触动了我。",
+      "vocab": [
+        {
+          "word": "anímicamente",
+          "translation": "在精神上，在心理层面",
+          "note": "副词，由 anímico（精神的、心理的）加后缀 -mente 构成。ánimo 一词兼有『精神、情绪、意志』等含义，注意与 alma（灵魂）区分：ánimo 更侧重当下的情绪状态。"
+        },
+        {
+          "word": "azotado",
+          "translation": "被鞭打，被抽打",
+          "note": "azotar 本义为用鞭子抽打，也可引申为风雨等自然力量的猛烈侵袭，如 el viento azota la costa（风猛烈地拍打海岸）。注意与 golpear（打击）区分，azotar 更强调鞭打动作。"
+        },
+        {
+          "word": "desplomó",
+          "translation": "（突然）倒下，轰然倒塌",
+          "note": "desplomarse 指人或物突然失去支撑而倒下，带有猝然性和戏剧性，可用于人（晕倒）、建筑（坍塌）或经济（崩盘），比 caerse 更强调突然性和严重性。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "En ambas anécdotas hay reconocimiento y trascendencia. Hay una verdad que, en palabras de Rilke, va más allá de lo particular, es decir, que es más grande que una misma. Siempre me han gustado los animales. De pequeña no jugaba con muñecos antropomórficos, con bebés de goma o peponas de trapo, sino con animales de peluche. El gran amor de mi infancia fue una mona Chita descosida y llena de calvas que mi madre, que era una maga, me convenció de tirar a la basura a los 14 años, envuelta en un pañito-sudario, a modo de <strong>rito de madurez</strong> (aún no se lo he perdonado). Quiero decir que siempre me he sabido <strong>perteneciente</strong> al reino animal, e incluso diría que en ocasiones he sentido que formaba más parte de la manada peluda que de la humana. Ahora bien, con el paso del tiempo ese sentimiento se ha ido haciendo más profundo, más complejo, más absoluto. Como si esa continuidad con los demás seres vivos me <strong>rescatara</strong> de la indecible soledad de la experiencia humana y del sinsentido de la vida.",
+      "zh": "这两则轶事中都有认同与超越。用里尔克的话说，有一种真相超越了个体，也就是说，它比我们自身更宏大。我一直都喜欢动物。小时候，我不玩拟人化的玩偶，不玩橡皮娃娃或布偶，只玩毛绒动物。我童年最爱的，是一只缝线开裂、到处秃毛的奇塔猴子玩偶。我妈妈——她真是个魔法师——在我14岁时说服我把它扔进垃圾桶，还用一块小布把它裹起来当作裹尸布，以一种成人礼的仪式感道别（我至今未能原谅她）。我想说的是，我始终知道自己属于动物界，甚至有时会觉得自己更像是那群毛茸茸的同类，而非人类群体的一员。然而随着时间流逝，这种感受变得愈发深沉、复杂、彻底。仿佛与其他生命的这种连续性，将我从人类经验中那难以言说的孤独与生命的无意义中拯救出来。",
+      "vocab": [
+        {
+          "word": "rito de madurez",
+          "translation": "成人礼，成熟仪式",
+          "note": "rito 指仪式性行为，de madurez 说明其象征意义。rito 在文化和人类学语境中高频出现，常见搭配还有 rito de iniciación（入会仪式）、rito funerario（葬礼仪式）。"
+        },
+        {
+          "word": "perteneciente",
+          "translation": "属于……的，隶属于……的",
+          "note": "perteneciente a 是 pertenecer a 的形容词形式，用于书面语，比动词形式更正式。注意 pertenecer 是假朋友陷阱：它不等于英语 pertain（涉及），而是 belong to。"
+        },
+        {
+          "word": "rescatara",
+          "translation": "（能）拯救，（能）解救",
+          "note": "此处为虚拟式过去未完成时，用在 como si（仿佛）之后，表达假设或主观感受。como si + 虚拟式是西语中表达非现实比较的固定结构，必须使用虚拟式。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Hace muchos años entrevisté para EL PAÍS al gran naturalista David Attenborough, y ese hombre maravilloso me dijo algo que no puedo citar literalmente, porque no tengo el texto, pero sí <strong>fielmente</strong>, porque me impresionó. La experiencia más <strong>trascendente</strong> de su vida, explicó, fue encontrarse cara a cara en Ruanda con un espalda plateada, el enorme y majestuoso gorila de las montañas; se miraron fijamente a los ojos y Attenborough no sólo se reconoció en el gorila, sino que <strong>advirtió</strong> que el animal se reconocía en él.",
+      "zh": "多年前，我曾为《国家报》采访伟大的博物学家大卫·爱登堡。那位了不起的人对我说了一些话，虽然我没有留存原文，无法逐字引用，但因为印象深刻，我可以忠实地转述其意。他说，他一生中最具超越性的经历，是在卢旺达与一只银背大猩猩——那种雄伟壮观的山地大猩猩——面对面相遇；他们对视良久，爱登堡不仅在大猩猩身上认出了自己，更察觉到那只动物也在他身上认出了自己。",
+      "vocab": [
+        {
+          "word": "fielmente",
+          "translation": "忠实地，如实地",
+          "note": "副词，由 fiel（忠实的）加 -mente 构成。fiel 还可搭配名词，如 traducción fiel（忠实的翻译）、fiel reflejo（真实写照）。注意与 literalmente（逐字地）的区分：fielmente 强调精神忠实，literalmente 强调字面一致。"
+        },
+        {
+          "word": "trascendente",
+          "translation": "超越性的，具有深远意义的",
+          "note": "trascendente 在哲学和文学语境中指超越日常经验、具有更高精神意义的事物，比 importante 语气更强烈，带有形而上的色彩。对应名词为 trascendencia。"
+        },
+        {
+          "word": "advirtió",
+          "translation": "察觉到，注意到",
+          "note": "advertir 是一词多义的高频词：在此表示『察觉、意识到』；在其他语境中可表示『警告』（advertir a alguien de un peligro）。两种含义在新闻中都很常见，需根据语境判断。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Yo también me reconocí en un ojo no humano y creo que fue, en efecto, la experiencia más trascendente que he vivido. La he contado en dos libros y no quiero repetirme, pero sucedió hace mucho en la costa occidental de Canadá cuando, estando yo en el mar en una pequeña zódiac, emergió justo a mi lado una gigantesca ballena <strong>corcovada</strong>. Vi pasar su ojo, curioso e inteligente, <strong>incrustado</strong> en la gran mole de su cuerpo. Mirándome. Mirándonos. Y el tiempo se detuvo. Ese salto <strong>interespecies</strong> es algo muy cercano a la eternidad.",
+      "zh": "我也曾在一双非人类的眼睛里认出了自己，我相信那确实是我此生最具超越性的经历。我已在两本书中讲述过这段经历，不想再重复，但它发生在很久以前的加拿大西海岸——当时我乘坐一艘小型充气艇在海上漂行，一头巨大的座头鲸就在我身旁破水而出。我看见它的眼睛从我面前缓缓掠过，那双眼睛充满好奇与智慧，嵌在它庞大的躯体之中。它在看我。它在看我们。时间静止了。那种跨越物种的跃越，是某种无限接近永恒的东西。",
+      "vocab": [
+        {
+          "word": "corcovada",
+          "translation": "座头鲸（驼背鲸）",
+          "note": "ballena corcovada 字面意思为『驼背鲸』，源自 corcova（驼背），是西语中座头鲸的通用名称。corcovado/a 作形容词也可描述人或动物背部弯曲，有构词迁移价值。"
+        },
+        {
+          "word": "incrustado",
+          "translation": "嵌入的，镶嵌在……中的",
+          "note": "incrustar 表示将某物嵌入另一物体中，常用于描述宝石镶嵌、物体嵌入等，在文学语境中也用于生动描绘某物深陷于更大整体之中，具有视觉冲击力。"
+        },
+        {
+          "word": "interespecies",
+          "translation": "跨物种的，种际的",
+          "note": "前缀 inter- 表示『在……之间』，可构成大量词汇，如 intercultural（跨文化的）、interdisciplinar（跨学科的）、interactuar（互动）。interespecies 是生态和哲学文体中的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Rilke escribió que, cuando le dio el azucarillo a la perra, sintió como si estuvieran celebrando misa juntos. Entiendo lo que quiere decir; no soy creyente, pero la historia de la ballena tuvo para mí algo religioso, del latín <strong>religare</strong>, de unirte con el todo. Fue lo más cerca que he estado en toda mi atea vida de lo <strong>sagrado</strong>, de ese misterio colosal que está en el centro de todo y produce asombro y <strong>reverencia</strong>. Cada día tengo más claro, en fin, que para mí Dios es el animal que llevo dentro.",
+      "zh": "里尔克写道，当他把方糖给那只母狗时，感觉就像他们一同做了一场弥撒。我理解他想说的——我不是信徒，但那次与鲸鱼相遇的经历对我而言带有某种宗教性，那个词来自拉丁语 religare，意为将你与整体相连。那是我这一生无神论的岁月里，最接近神圣之物的时刻——那个盘踞于万物核心、令人生出敬畏与虔敬的巨大神秘。我越来越清楚地明白，对我而言，上帝就是我内心深处的那只动物。",
+      "vocab": [
+        {
+          "word": "religare",
+          "translation": "（拉丁语）重新连结，绑定",
+          "note": "作者在此点明 religión 的拉丁语词源 religare（重新连结），这是理解西语宗教词汇的重要词根。同根词还有 ligar（连接）、ligamento（韧带）、obligar（强制，字面义为『绑住』）。"
+        },
+        {
+          "word": "sagrado",
+          "translation": "神圣的，圣洁的",
+          "note": "sagrado 在宗教和文学语境中均高频出现，指具有神圣性或不可侵犯性的事物。注意与英语 sacred 的对应，以及近义词 santo（圣人、圣洁）的区别：sagrado 更强调神圣属性，santo 更多用于人或节日。"
+        },
+        {
+          "word": "reverencia",
+          "translation": "敬畏，崇敬，虔诚",
+          "note": "reverencia 兼有『鞠躬行礼』和『内心的崇敬』两层含义，在此取后者。与 respeto（尊重）相比，reverencia 带有更强的情感深度和宗教色彩，常与 asombro（惊叹）搭配出现。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "se me abren las carnes",
+      "type": "modismo",
+      "translation": "令我不寒而栗，让我毛骨悚然",
+      "usage": "惯用语，字面意思是『我的肉裂开了』，实际表达强烈的恐惧、震惊或不忍直视的感受，语气强烈，多用于口语和文学叙述中，相当于 se me pone la piel de gallina（起鸡皮疙瘩）但更具戏剧性。",
+      "exampleEs": "Se me abren las carnes cuando pienso en lo que sufrieron las víctimas.",
+      "exampleZh": "一想到那些受害者所经历的一切，我就不寒而栗。"
+    },
+    {
+      "expression": "rompió a llorar",
+      "type": "colocación",
+      "translation": "突然放声大哭，忍不住哭起来",
+      "usage": "romper a + 动词原形 是固定结构，表示某种情绪或动作突然爆发，强调动作的猝然性。常见搭配有 romper a llorar（突然哭起来）、romper a reír（突然笑起来）、romper a correr（突然跑起来）。",
+      "exampleEs": "Al escuchar la noticia, la madre rompió a llorar sin poder contenerse.",
+      "exampleZh": "听到这个消息，那位母亲再也忍不住，放声大哭起来。"
+    },
+    {
+      "expression": "cara a cara",
+      "type": "colocación",
+      "translation": "面对面，直接相对",
+      "usage": "固定副词短语，表示两者直接面对面的状态或接触，可用于人与人、人与动物或双方正面交锋的场景，语体中性，口语书面语均适用。",
+      "exampleEs": "Por fin pudieron hablar cara a cara y resolver el malentendido.",
+      "exampleZh": "他们终于得以面对面交谈，解开了误会。"
+    },
+    {
+  "expression": "quedar fulminado",
+  "type": "colocación",
+  "translation": "被彻底击中，被震撼得呆若木鸡",
+  "usage": "fulminar 本义为『雷击、闪电击中』，quedar fulminado 用作固定搭配，表示某人被某事或某人瞬间震撼、彻底折服，带有强烈的戏剧性和瞬间性。常见于文学和口语，语气远比 impresionarse 强烈。",
+  "exampleEs": "Cuando la vio entrar al salón, quedó fulminado por su presencia.",
+  "exampleZh": "她一走进大厅，他就被她的气场彻底击中，呆在了原地。"
+},
+{
+  "expression": "saberse perteneciente a",
+  "type": "estructura gramatical",
+  "translation": "清楚地知道自己属于……",
+  "usage": "saber + 动词原形 / 形容词 的反身结构，表示对自身状态或身份有清醒的自我认知，语气比 creer ser 更笃定，带有内省色彩。类似结构如 saberse inferior、saberse observado，在文学和随笔文体中高频出现。",
+  "exampleEs": "Desde niño se supo diferente, aunque tardó años en entender por qué.",
+  "exampleZh": "他从小就清楚地知道自己与众不同，尽管花了多年才明白原因所在。"
+},
+    {
+      "expression": "va más allá de",
+      "type": "colocación",
+      "translation": "超越……，不止于……",
+      "usage": "固定搭配，表示某事物在范围、深度或意义上超出某一界限，常用于哲学、文学和新闻文体，结构为 ir más allá de + 名词，具有很强的迁移价值。",
+      "exampleEs": "El impacto de esta obra va más allá de las fronteras del arte contemporáneo.",
+      "exampleZh": "这部作品的影响已经超越了当代艺术的边界。"
+    }
+  ]
+}

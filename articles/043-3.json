@@ -1,0 +1,250 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与经济",
+  "difficulty": "C1",
+  "wordCount": "约1100词",
+  "title": "Los humanoides chinos están deslumbrando al mundo. ¿Quién los comprará?",
+  "subtitle": "中国人形机器人正令世界眼花缭乱——但谁来买单？",
+  "resumenEs": "China lidera la producción mundial de robots humanoides, respaldada por una cadena de suministro sin rival concentrada en el delta del río Yangtsé. Sin embargo, la industria enfrenta un dilema estructural: la demanda real es escasa y el Estado se ha convertido en el principal comprador, adquiriendo robots mayormente como piezas de exhibición. Expertos advierten que si la producción masiva no se sustenta en un mercado genuino, la burbuja humanoide podría estallar.",
+  "resumenZh": "中国引领全球人形机器人生产，背后是集中于长三角地区、无可匹敌的供应链体系。然而，这一产业面临结构性困境：真实需求严重不足，国家已成为最大买家，购入的机器人大多只作展示之用。专家警告，若大规模生产无法以真实市场需求为支撑，人形机器人泡沫随时可能破裂。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "La Gala del Festival de Primavera es un <strong>escaparate</strong> tanto de la riqueza cultural como del <strong>poderío</strong> tecnológico de China. El programa de la televisión estatal, de cuatro horas de duración, que se celebra en Pekín la víspera de cada Año Nuevo Lunar, suele contar con <strong>falanges</strong> de soldados cantantes que marchan al paso de la oca. El 16 de febrero, el plato fuerte fue un grupo de robots humanoides que <strong>blandían</strong> espadas y realizaban una elaborada rutina de artes marciales. Fue uno de los cuatro números con robots humanoides que cautivaron a los espectadores de todo el mundo.",
+      "zh": "春节联欢晚会既是中国文化底蕴的展示橱窗，也是其科技实力的炫耀舞台。这档由官方电视台播出的四小时节目，每年在北京农历除夕夜举行，惯常的节目是成排的歌唱士兵踏着正步行进。今年2月16日，压轴大戏换成了一群挥舞宝剑、表演精心编排武术套路的人形机器人。这是当晚四个人形机器人节目之一，令全球观众为之倾倒。",
+      "vocab": [
+        {
+          "word": "escaparate",
+          "translation": "橱窗；展示平台",
+          "note": "escaparate 本义为商店橱窗，作隐喻时指向外界展示实力或形象的平台，是新闻和政论文体的高频词。注意与上期文章中的用法呼应：ser un escaparate de algo 是固定结构，强调展示功能。"
+        },
+        {
+          "word": "poderío",
+          "translation": "实力，威势，强大力量",
+          "note": "poderío 由 poder 派生，带有强调压倒性力量的语气，比 poder 更书面化、更具气势，常用于军事、经济或科技语境，如 poderío militar（军事实力）、poderío económico（经济实力）。"
+        },
+        {
+          "word": "falanges",
+          "translation": "方阵，纵队，大批",
+          "note": "falange 本义为古希腊军事方阵，在现代语境中引申为整齐排列的大批人或物，带有强烈的视觉冲击感，是新闻文体中生动的隐喻用法，比 grupos 更具画面感和文学色彩。"
+        },
+        {
+          "word": "blandían",
+          "translation": "挥舞（武器）",
+          "note": "blandir 专指挥舞刀剑等武器，带有威慑或展示的含义，是文学和新闻中描述武器动作的精确词汇。注意与 agitar（摇动）的区别：blandir 专用于武器，agitar 更泛用。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "La industria de la robótica humanoide en China está en pleno <strong>auge</strong>. El año pasado se entregaron más de 14.500 autómatas en todo el mundo, frente a los aproximadamente 3.000 de 2024, según los informes de las empresas y las estimaciones de Omdia, una compañía de investigación. Casi todos procedían de China. Agibot y Unitree, los dos principales fabricantes de humanoides del país, representaron alrededor de tres cuartas partes del total; Tesla, de Elon Musk, solo entregó 150 de sus robots Optimus. Además, China también cuenta con la cadena de suministro de humanoides más completa del mundo.",
+      "zh": "中国人形机器人产业正处于全面爆发期。据各企业报告及研究机构Omdia估计，去年全球共交付逾14500台机器人，而2024年这一数字约为3000台。其中几乎全部来自中国。国内两大人形机器人制造商宇树科技和智元机器人约占总量的四分之三；埃隆·马斯克旗下的特斯拉仅交付了150台Optimus机器人。此外，中国还拥有全球最完整的人形机器人供应链。",
+      "vocab": [
+        {
+          "word": "auge",
+          "translation": "鼎盛期，高峰，蓬勃发展",
+          "note": "en pleno auge 是固定搭配，表示某事物正处于最旺盛的发展阶段，是经济和科技新闻的高频表达。注意 auge 只描述上升阶段，不含衰退含义，对应反义表达为 en declive（走下坡路）。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Esto preocupa a algunas personas en Occidente, que creen que los humanoides acabarán convirtiéndose en una de las industrias más importantes del mundo. Morgan Stanley, un banco de inversión, estima que para 2050 podría haber 1.000 millones de humanoides en circulación, con un gasto anual superior a los 7,5 <strong>billones</strong> de dólares. Sin embargo, por ahora, el camino desde los robots que dan <strong>volteretas</strong> hacia atrás hasta un negocio viable no está claro. La mayoría de los humanoides que se compran, como los de la gala, son puramente para <strong>exhibición</strong>. Pocos realizan un trabajo real.",
+      "zh": "这令西方一些人士感到忧虑——他们相信人形机器人终将成为全球最重要的产业之一。投资银行摩根士丹利估计，到2050年，全球在用人形机器人数量可能达到10亿台，年支出规模超过7.5万亿美元。然而就目前而言，从能翻后空翻的机器人到可持续盈利的商业模式，这条路仍不清晰。大多数已售出的人形机器人，如春晚上的那些，纯粹用于展示，真正在执行实际工作的寥寥无几。",
+      "vocab": [
+        {
+          "word": "billones",
+          "translation": "万亿（西语单位）",
+          "note": "经典假朋友，已在上期收录，此处再次出现，请注意：西语 billón = 一万亿（10¹²），英语 billion = 十亿（10⁹），两者相差1000倍，阅读经济新闻时务必区分。"
+        },
+        {
+          "word": "volteretas",
+          "translation": "翻筋斗，空翻",
+          "note": "voltereta 指身体翻转的杂技动作，在此用于描述机器人的高难度动作展示，是具体生动的口语词汇。dar volteretas 是固定搭配，比 saltar（跳跃）更精确地描述翻滚动作。"
+        },
+        {
+          "word": "exhibición",
+          "translation": "展示，展览，炫耀性展出",
+          "note": "exhibición 在此强调纯粹的视觉展示功能，与实际使用价值相对，是理解本文核心论点的关键词。注意 para exhibición 与 para uso real（实际使用）构成文章的核心对比。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Probablemente, el Estado chino seguirá siendo la mayor fuente de demanda durante algún tiempo. Sin la compra de máquinas por parte de los gobiernos locales, sería difícil mantener con vida a los más de 100 fabricantes de humanoides chinos, además de los miles de proveedores que dependen cada vez más de ellos. No es la primera vez que China <strong>derrocha</strong> dinero en una nueva tecnología antes de que haya un mercado importante para ella. Sin embargo, hacerlo en el caso de los humanoides podría resultar un costoso <strong>desperdicio</strong>.",
+      "zh": "中国国家力量在相当长一段时间内可能仍将是最大的需求来源。若没有地方政府的采购，100余家中国人形机器人制造商以及日益依赖它们的数千家供应商将难以为继。这并非中国第一次在市场尚未成熟之前便向新技术大手笔砸钱。然而，在人形机器人领域这样做，代价可能极为高昂。",
+      "vocab": [
+        {
+          "word": "derrocha",
+          "translation": "挥霍，大手笔投入，不计成本地花费",
+          "note": "derrochar 本义为浪费、挥霍，带有轻微的负面含义，暗示花费超出合理范围。在此语境中作者用它描述中国在市场尚未成熟时的大规模投入，语气带有批评性审视，比 invertir（投资）更强调非理性的一面。"
+        },
+        {
+          "word": "desperdicio",
+          "translation": "浪费，白白耗费",
+          "note": "desperdicio 由 desperdiciar（浪费）派生，指资源或金钱的无效消耗。costoso desperdicio（代价高昂的浪费）是本文的核心判断之一，注意与 inversión（投资）的语义对立关系，体现作者对中国策略的保留态度。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Detrás de los robots bailarines de China hay una cadena de suministro en rápida expansión. Tomemos como ejemplo el distrito de Wujin, en la ciudad de Changzhou. Sus empresarios <strong>presumen</strong> de que alrededor del 90% de las piezas necesarias para montar un humanoide se pueden adquirir allí. Varios proveedores conocidos del Optimus de Tesla proceden de este distrito. RealMan, uno de los mayores fabricantes de brazos robóticos de China, <strong>cuadruplicó</strong> su capacidad de producción en febrero cuando abrió una nueva fábrica en la zona. En las amplias instalaciones, un directivo señala cómo se ha reducido la oferta de terrenos en el último año debido a la apertura de nuevas plantas de robótica.",
+      "zh": "中国那些翩翩起舞的机器人背后，是一条正在迅速扩张的供应链。以常州市武进区为例，当地企业家自豪地宣称，组装一台人形机器人所需约90%的零部件均可在此采购。特斯拉Optimus的多家知名供应商便来自这一地区。中国最大的机械臂制造商之一如本机器人，今年2月在该区新建工厂，产能一举扩大至原来的四倍。在宽敞的厂房内，一位管理人员指出，过去一年间，随着新机器人工厂不断落地，当地可用土地供应已大幅收紧。",
+      "vocab": [
+        {
+          "word": "presumen",
+          "translation": "自豪地宣称，引以为傲",
+          "note": "presumir de 表示以某事为傲、得意地炫耀，语气带有自我标榜的色彩，比 afirmar 更强调主观的自豪感。注意与 presumir（推测）的区别：presumir de + 名词/动词原形 = 自夸；presumir que + 陈述句 = 推测。"
+        },
+        {
+          "word": "cuadruplicó",
+          "translation": "扩大至四倍，增加了三倍",
+          "note": "cuadruplicar 由 cuádruplo（四倍）派生，表示增至原来的四倍。西语中此类倍数动词系列值得整体记忆：duplicar（翻倍）、triplicar（增至三倍）、cuadruplicar（增至四倍）、quintuplicar（增至五倍）。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Wujin es solo un <strong>nodo</strong> de la ingente red de suministro de robots humanoides que se extiende desde Shanghái, en la costa, hacia el interior, hasta las partes bajas de la provincia de Jiangsu –incluida Changzhou– y las partes altas de la provincia de Zhejiang –incluida su capital, Hangzhou–. La región, conocida como el 'delta del río Yangtsé', es la sede de Agibot, Unitree y muchos otros fabricantes de humanoides. Tres cuartas partes, por capitalización bursátil, de los 30 principales proveedores chinos de piezas que se utilizan en robots que cotizan en bolsa tienen su sede en la zona. La red también <strong>alberga</strong> laboratorios de inteligencia artificial, como los de DeepSeek, situada en Hangzhou. En esa ciudad también tiene su sede Alibaba, gigante tecnológico que este mes ha lanzado RynnBrain, un modelo avanzado de IA para controlar robots.",
+      "zh": "武进只是这张庞大人形机器人供应网络中的一个节点——这张网络从沿海的上海向内陆延伸，覆盖江苏省南部（包括常州）和浙江省北部（包括省会杭州）。这一被称为「长三角」的地区，是智元机器人、宇树科技及众多其他人形机器人制造商的大本营。按市值计算，30家主要上市中国机器人零部件供应商中，有四分之三总部设于此地。这一网络还汇聚了人工智能实验室，包括总部位于杭州的DeepSeek。同城的阿里巴巴本月也推出了RynnBrain——一款用于控制机器人的先进AI模型。",
+      "vocab": [
+        {
+          "word": "nodo",
+          "translation": "节点",
+          "note": "nodo 源自网络和图论术语，指网络中的连接点，在经济地理和科技新闻中广泛用于描述供应链、交通或信息网络中的关键节点，是理解现代产业链报道的核心词汇。"
+        },
+        {
+          "word": "alberga",
+          "translation": "容纳，汇聚，坐落着",
+          "note": "albergar 本义为提供住所，引申为某地区或机构『容纳、汇聚』某类组织或设施，是地理和产业报道的高频词，比 tener 或 contar con 更强调空间上的聚集感，如 albergar empresas / laboratorios / sedes。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "El éxito de la región refleja su papel como centro de vehículos eléctricos (VE), pues representa dos quintas partes de la producción de China. Los motores de alto par, los inversores, las baterías, los sensores lidar y otros componentes se utilizan tanto en los VE como en los humanoides, aunque su tamaño suele ser diferente. En los últimos años, muchos proveedores de la industria de los VE, que se encuentra <strong>saturada</strong> por el exceso de capacidad, se han pasado, al menos en parte, a prestar servicio a los fabricantes de robots. Los proveedores de la región también han invertido en tecnologías que antes <strong>dominaban</strong> las empresas extranjeras. Fine Motion Technology, fabricante de cajas de cambios, aumentó su cuota en el mercado chino de los reductores de vector rotatorio que se utilizan en robots desde una décima parte de 2021 hasta una cuarta parte en 2024, <strong>desplazando</strong> a rivales extranjeros como la japonesa Nippon Gear.",
+      "zh": "该地区的成功折射出其作为电动汽车（EV）中心的重要地位——长三角贡献了中国电动汽车产量的五分之二。高扭矩电机、逆变器、电池、激光雷达传感器等零部件，在电动汽车和人形机器人中均有应用，尽管尺寸规格通常有所不同。近年来，许多深陷产能过剩困境的电动汽车供应商，已至少部分转型，开始服务机器人制造商。该地区供应商还在此前由外资企业主导的技术领域大举投入。变速箱制造商非夕科技在中国机器人用旋转矢量减速器市场的份额，从2021年的十分之一提升至2024年的四分之一，成功挤压了日本纳博特斯克等外资竞争对手的市场空间。",
+      "vocab": [
+        {
+          "word": "saturada",
+          "translation": "饱和的，过度拥挤的",
+          "note": "saturado/a 在经济语境中描述市场或产能达到或超过上限的状态，saturada por el exceso de capacidad（因产能过剩而饱和）是产业新闻的高频表达。注意与 sobresaturado（过度饱和）的程度差异。"
+        },
+        {
+          "word": "dominaban",
+          "translation": "主导，垄断，占据主导地位",
+          "note": "dominar 在产业和市场语境中表示某企业或国家在某领域占据压倒性优势，是经济新闻的核心动词，常见搭配：dominar el mercado（主导市场）、dominar la tecnología（掌握核心技术）。"
+        },
+        {
+          "word": "desplazando",
+          "translation": "挤压，取代，排挤",
+          "note": "desplazar 本义为『移动位置』，在商业竞争语境中引申为将竞争对手从市场中排挤出去，是产业报道的高频词，比 reemplazar 更强调竞争性的取代过程，如 desplazar a un rival（挤走竞争对手）。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Visite el delta del río Yangtsé y no tendrá que esforzarse demasiado para dar con un robot. Hay uno en un quiosco del centro de Hangzhou, sirviendo café y otras bebidas. Botshare, un servicio de alquiler de humanoides lanzado en Shanghái en diciembre, suministra autómatas a comerciantes, que los colocan en sus entradas para saludar a los clientes cuando entran. Un Agibot cuesta más de 100.000 yuanes (14.500 dólares), pero se puede alquilar por tan solo 2.200 yuanes. El problema es que, para convertirse en algo más que un entretenimiento <strong>novedoso</strong>, los robots deben <strong>desplegarse</strong> regularmente en entornos en los que realicen las mismas tareas que los humanos, lo cual les permite recopilar datos con los que pueden entrenarse. Por eso es tan importante para la industria encontrar situaciones en las que los humanoides puedan llevar a cabo trabajos reales. Solo una pequeña parte de los humanoides que se venden hoy en día terminan en fábricas, donde suelen transportar cajas, con una eficiencia de entre el 30% y el 40% con respecto a la de un humano.",
+      "zh": "走访长三角，你不需要费多大力气就能与机器人不期而遇。杭州市中心一处售货亭里，就有一台机器人在调制咖啡和其他饮品。去年12月在上海推出的人形机器人租赁服务Botshare，向商家提供机器人，商家将其摆在店门口迎接进店顾客。一台智元机器人售价逾10万元人民币（约合14500美元），但租赁费用低至2200元。问题在于，机器人若想超越新奇玩意儿的定位，就必须在真实环境中持续执行与人类相同的任务，从而积累可供训练的数据。因此，为行业找到能让人形机器人承担真实工作的应用场景至关重要。目前，已售出的人形机器人中只有一小部分最终进入工厂，通常从事搬运箱子的工作，效率仅相当于人类的30%至40%。",
+      "vocab": [
+        {
+          "word": "novedoso",
+          "translation": "新奇的，充满新鲜感的",
+          "note": "novedoso/a 由 novedad（新奇、新事物）派生，描述某事物因新颖而引发好奇或兴趣，但隐含这种兴趣可能是短暂的。entretenimiento novedoso（新奇娱乐）在此暗示机器人目前只是吸引眼球的噱头，而非真正有用的工具。"
+        },
+        {
+          "word": "desplegarse",
+          "translation": "部署，投入使用，展开运作",
+          "note": "desplegar 本义为展开、铺开（如地图或军队），在科技和产业语境中引申为将技术或设备大规模投入实际应用，是AI和机器人新闻的高频词，如 desplegar modelos de IA（部署AI模型）。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "El Estado chino está deseoso de ayudar. Los gobiernos locales han creado centros que permiten a las empresas poner a sus robots a trabajar en tareas diversas y recopilar datos. Algunos de ellos se agrupan y se comparten posteriormente. Shanghái ha creado uno de estos centros con capacidad para 100 humanoides. El papel del Estado es tan fundamental que los inversores de capital riesgo eligen las empresas de robótica no solo por sus capacidades tecnológicas, sino también por los recursos de los gobiernos locales de los que <strong>disponen</strong>. El Estado también ha concedido <strong>subvenciones</strong> a esta industria. La robótica se ha convertido en una prioridad para los funcionarios locales de todo el país, que esperan captar una parte de la industria para su <strong>jurisdicción</strong> fiscal. Sin embargo, el papel más importante del gobierno es, con diferencia, el de comprador.",
+      "zh": "中国国家力量急于伸出援手。地方政府建立了专项中心，让企业得以将机器人投入各类任务、积累数据，部分数据还会被汇总共享。上海已建立一个可容纳100台人形机器人的此类中心。国家的作用如此举足轻重，以至于风险投资人在选择机器人企业时，不仅看重其技术能力，同样看重其能够调动的地方政府资源。国家还向这一产业发放了大量补贴。机器人产业已成为全国各地地方官员的施政重点，他们都希望为本辖区争得这一产业的一席之地。然而，政府最重要的角色，毫无疑问还是买家。",
+      "vocab": [
+        {
+          "word": "disponen",
+          "translation": "拥有，可调动，掌握",
+          "note": "disponer de 是固定搭配，表示拥有或可以使用某种资源、能力或条件，比 tener 更强调可支配性，是正式文体的高频表达，如 disponer de recursos（拥有资源）、disponer de tiempo（有时间）。"
+        },
+        {
+          "word": "subvenciones",
+          "translation": "补贴，政府资助",
+          "note": "subvención 指政府或机构向特定产业或个人提供的财政支持，是经济和政策新闻的核心词汇。注意与 subsidio 的细微区别：subvención 更强调一次性或项目性资助，subsidio 更常指持续性补贴，但在新闻中两者常可互换。"
+        },
+        {
+          "word": "jurisdicción",
+          "translation": "管辖范围，辖区",
+          "note": "jurisdicción 源自法律术语，指某机构或官员的权力管辖范围，在此指地方官员的行政辖区。在新闻中常见于法律、税务和行政语境，如 jurisdicción fiscal（税收管辖区）、fuera de su jurisdicción（超出其管辖范围）。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "La estrategia de China <strong>conlleva</strong> riesgos. El entusiasmo por la robótica va acompañado de la sensación entre los ejecutivos e inversores de que la industria se está <strong>adelantando a sí misma</strong>. Wang Zhongyuan, de la Academia de Inteligencia Artificial de Pekín, un laboratorio de investigación respaldado por el Estado, dijo en un discurso el año pasado que si la producción en masa no se sustenta por una demanda real, el entusiasmo del público será <strong>efímero</strong>. Si los robots se generalizan antes de que sean útiles, explicó, la burbuja de los humanoides estallará.",
+      "zh": "中国的这一策略并非没有风险。对机器人产业的热情背后，企业高管和投资者普遍感到，这个行业正在超越自身发展节奏、自我透支。北京人工智能研究院（一家国家支持的研究机构）的王中元去年在一次演讲中指出，若大规模生产无法以真实需求为支撑，公众的热情将是昙花一现。他解释说，如果机器人在真正发挥实用价值之前便已大规模普及，人形机器人泡沫将会破裂。",
+      "vocab": [
+        {
+          "word": "conlleva",
+          "translation": "伴随着，意味着，带来",
+          "note": "conllevar 表示某事物内在地附带或引发某种后果，比 implicar 更强调不可分离的伴随关系，是正式文体的高频词，常见搭配：conllevar riesgos（伴随风险）、conllevar consecuencias（带来后果）。"
+        },
+        {
+          "word": "adelantándose a sí misma",
+          "translation": "超越自身节奏，自我透支，跑在自己前面",
+          "note": "adelantarse a sí mismo 是极具表现力的反身结构，描述某行业或个体的发展速度超出其实际能力或市场支撑，形成内在的失衡，是本文最具文学性的表达之一，在经济评论中属于高级隐喻用法。"
+        },
+        {
+          "word": "efímero",
+          "translation": "短暂的，昙花一现的",
+          "note": "efímero 源自希腊语，本义为『只存活一天的』，引申为极其短暂、转瞬即逝的，是文学和新闻文体的高级词汇，语气比 temporal 或 breve 更强调短暂性的遗憾色彩，常用于描述泡沫、热潮或情感。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "en pleno auge",
+      "type": "colocación",
+      "translation": "正处于鼎盛期，正在蓬勃发展",
+      "usage": "en pleno + 名词 是西语中强调『正处于某状态最高峰』的固定结构，pleno 表示完全、充分，如 en plena crisis（危机正酣）、en pleno debate（争论正烈）、en pleno verano（盛夏之际）。这一结构在新闻中极为高频，值得整体记忆。",
+      "exampleEs": "La empresa quebró en pleno auge de su expansión internacional, sorprendiendo a todos los analistas.",
+      "exampleZh": "这家公司在国际扩张的鼎盛期宣告破产，令所有分析人士大感意外。"
+    },
+    {
+      "expression": "mantener con vida",
+      "type": "colocación",
+      "translation": "维持……的生存，让……勉强存活",
+      "usage": "mantener con vida 本义为维持生命体征，在经济语境中引申为通过外部支撑使某企业或产业勉强维持运营，带有强烈的隐喻色彩，暗示若无外力介入则难以为继，是产业报道中生动的隐喻表达。",
+      "exampleEs": "Solo las ayudas estatales lograron mantener con vida a varias aerolíneas durante la pandemia.",
+      "exampleZh": "疫情期间，只有国家援助才让数家航空公司勉强维持运营。"
+    },
+    {
+      "expression": "dar con",
+      "type": "expresión coloquial",
+      "translation": "碰到，找到，偶然遇见",
+      "usage": "dar con 表示偶然找到或遇见某人或某物，带有意外发现的语感，是西语口语和书面语中均高频的表达。注意它与 encontrar 的区别：dar con 更强调偶然性，而非主动寻找的结果，如 dar con la solución（找到解决方案）、dar con alguien（碰到某人）。",
+      "exampleEs": "Llevaba meses buscando ese documento hasta que di con él por casualidad en un archivo olvidado.",
+      "exampleZh": "我找了好几个月，最后在一个被遗忘的档案里偶然找到了那份文件。"
+    },
+    {
+      "expression": "pasarse a",
+      "type": "expresión coloquial",
+      "translation": "转投，改行，转型至",
+      "usage": "pasarse a + 名词/活动 表示从一个阵营、行业或立场转向另一个，带有主动选择转变的含义，在商业和政治语境中均高频，如 pasarse a la competencia（跳槽去竞争对手）、pasarse al bando contrario（倒戈）。语气比 cambiar a 更口语化，更强调转变的决断性。",
+      "exampleEs": "Tras años en la industria automotriz tradicional, varios ingenieros se pasaron al sector de los vehículos eléctricos.",
+      "exampleZh": "在传统汽车行业工作多年后，数位工程师转投了电动汽车领域。"
+    },
+    {
+      "expression": "con diferencia",
+      "type": "colocación",
+      "translation": "毫无疑问，远远地，遥遥领先地",
+      "usage": "con diferencia 用于强调某事物在程度上远超其他选项，相当于 por mucho 或 sin duda，是新闻和口语中强调最高级的高频表达。注意它通常紧跟在最高级结构之后，如 el más importante con diferencia（毫无疑问是最重要的）。",
+      "exampleEs": "Es, con diferencia, el mercado más competitivo al que nos hemos enfrentado en toda nuestra historia.",
+      "exampleZh": "这毫无疑问是我们有史以来面对过的竞争最激烈的市场。"
+    }
+  ]
+}

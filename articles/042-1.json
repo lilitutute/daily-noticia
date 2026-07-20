@@ -1,0 +1,226 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "旅游与酒店业",
+  "difficulty": "B2",
+  "wordCount": "约900词",
+  "title": "Entrada a las 15, salida antes de las 12: por qué cada vez se accede más tarde y se sale más pronto de los hoteles",
+  "subtitle": "下午3点才能入住，中午12点前必须退房：酒店入住时间为何越来越晚、退房时间越来越早？",
+  "resumenEs": "Los hoteles en España han ido restringiendo los horarios de check-in y check-out, fijando la entrada no antes de las 15:00 y la salida antes de las 12:00. Esta tendencia responde a dos factores principales: la dificultad de coordinar al personal de limpieza y la estrategia de fidelización de las grandes cadenas hoteleras, que reservan la flexibilidad horaria como beneficio exclusivo para sus clientes más leales.",
+  "resumenZh": "西班牙各酒店的入住与退房时间日益收紧，入住不早于下午3点，退房不晚于中午12点。这一趋势背后有两大主因：一是客房清洁人员的排班协调困难，二是大型连锁酒店的会员忠诚度策略——灵活的入退房时间已成为专属高级会员的特权。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "\"Buenas tardes. ¿Existe la posibilidad de entrar antes de la hora?\". La pregunta que una clienta realizó el pasado verano a través de la plataforma Tripadvisor a los responsables de un hotel situado en la <strong>periferia</strong> de Madrid en el que se alojaba al día siguiente obtuvo respuesta inmediata. \"Para entrar antes de la hora, que es a las 15:00h, no habría problema siempre que sea a partir de las 12:00 y si la disponibilidad de habitaciones limpias así lo permite. Si la entrada se hiciera antes, tendría un <strong>sobrecoste</strong> de 23 euros en <strong>concepto de</strong> early check-in. También puede dejar sus pertenencias en consigna y realizar la entrada más tarde sin ningún coste adicional\".",
+      "zh": "「下午好。请问有没有可能提前入住？」去年夏天，一位女顾客通过猫途鹰平台向她次日入住的马德里郊区某酒店负责人提出了这个问题，并立即得到了回复。「提前入住（正常入住时间为下午3点）没有问题，但须在中午12点之后，且需视洁净客房的空余情况而定。若需在此之前入住，将额外收取23欧元的早入住费。您也可以将行李存放在寄存处，稍后再办理入住，无需支付任何额外费用。」",
+      "vocab": [
+        {
+          "word": "periferia",
+          "translation": "郊区，外围地带",
+          "note": "常用于城市语境，指城市中心以外的区域。近义词 afueras 更口语化，periferia 则更正式，常见于新闻和书面语。"
+        },
+        {
+          "word": "sobrecoste",
+          "translation": "额外费用，超额成本",
+          "note": "前缀 sobre- 表示『超出、在……之上』，可构成大量词汇，如 sobrecarga（超负荷）、sobreprecio（溢价）、sobrepasar（超越）。"
+        },
+        {
+          "word": "concepto de",
+          "translation": "以……名义，作为……费用",
+          "note": "固定搭配 en concepto de，用于正式或商务文体，说明某笔费用的性质或名目，相当于中文的『以……名义收取』。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Los millones de turistas que se alojan en hoteles durante sus vacaciones en España han podido comprobar cómo los horarios de entrada y de salida del establecimiento se han ido <strong>estrechando</strong>. Cada vez se entra más tarde (no antes de las 15.00 horas) y cada vez se sale más pronto (normalmente entre las 11.00 y las 12.00 horas). Unas normas que se establecieron tras la salida de la pandemia y que han provocado numerosas protestas entre los clientes en los foros donde se concentran sus quejas o <strong>reivindicaciones</strong>. Las más frecuentes son las de aquellos que llegan a su destino a primera hora de la mañana, las de viajeros que han hecho vuelos de <strong>largo radio</strong> o las de grupos que se alojan para participar en eventos. Todos ellos se ven obligados a esperar durante varias horas a menos que estén dispuestos a pagar un extra para entrar antes (early check-in) o salir después (late check-out).",
+      "zh": "在西班牙度假期间入住酒店的数百万游客都已切身感受到，酒店的入住与退房时间正在不断压缩：入住越来越晚（不早于下午3点），退房越来越早（通常在上午11点至12点之间）。这些规定自疫情结束后开始实施，在各类投诉和维权论坛上引发了大量顾客不满。最常见的抱怨来自一大早就抵达目的地的旅客、乘坐长途航班的旅行者，以及为参加活动而入住的团体。所有这些人都不得不等待数小时，除非他们愿意额外付费提前入住或延迟退房。",
+      "vocab": [
+        {
+          "word": "estrechando",
+          "translation": "（逐渐）收窄，压缩",
+          "note": "estrechar 本义为『使变窄』，在此为引申义，表示时间窗口被压缩。注意与 estresar（使紧张）区分，两者形近但含义不同。"
+        },
+        {
+          "word": "reivindicaciones",
+          "translation": "诉求，维权主张",
+          "note": "在新闻文体中，reivindicación 常指劳工、消费者或社会群体提出的正式权利主张，语气比 queja（抱怨）更正式、更具对抗性。"
+        },
+        {
+          "word": "largo radio",
+          "translation": "长途（航班）",
+          "note": "vuelo de largo radio 是航空领域的固定搭配，指洲际或超远程航班；对应短途为 vuelo de corto radio 或 vuelo de cabotaje。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Dos fenómenos han <strong>exacerbado</strong> esta tendencia en los últimos años. El primero es la dificultad para cuadrar los horarios del personal que prepara y limpia las habitaciones. Esta labor está reservada tradicionalmente a las camareras de piso, comúnmente conocidas como kellys, que revelan que la verdadera razón que hay detrás de esos horarios es el exceso de <strong>carga de trabajo</strong>, que impide tener en poco tiempo el volumen de habitaciones que requiere el operador. \"No es un problema de falta de personal, sino de cuadrar horarios. En el hotel donde yo trabajo, la salida de los clientes que ya están alojados está fijada a las 11.00 horas y la entrada de los que vienen no se produce antes de las 15.00 horas. Esas cuatro horas es el tiempo del que disponemos para preparar todas las habitaciones\", <strong>recalca</strong> Sara del Mar, presidenta de la Asociación de Kellys de Baleares. Aunque depende de múltiples factores (tamaño del hotel, categoría, si está ubicado en la playa o en la ciudad y si está dirigido a adultos o a familias), calcula que la media diaria de limpieza por trabajadora <strong>oscila</strong> entre 20 y 30 habitaciones.",
+      "zh": "近年来，有两种现象加剧了这一趋势。第一是负责整理和清洁客房的员工排班协调困难。这项工作历来由楼层服务员承担，她们俗称「kellys」。她们透露，这些时间规定背后的真正原因是工作量过大，导致无法在短时间内准备好运营方所需数量的客房。「这不是人手不足的问题，而是排班协调的问题。在我工作的酒店，已入住客人的退房时间定在上午11点，新客人的入住时间不早于下午3点。这四个小时就是我们准备所有客房的全部时间，」巴利阿里群岛Kellys协会主席萨拉·德尔·马尔强调道。她指出，尽管具体情况因多种因素而异（酒店规模、星级、位于海滨还是城市、面向成人还是家庭），每位员工每天清洁的客房数量平均在20至30间之间浮动。",
+      "vocab": [
+        {
+          "word": "exacerbado",
+          "translation": "加剧，使恶化",
+          "note": "exacerbar 是B2-C1级正式词汇，常用于新闻和学术文体，表示使某种负面情况进一步恶化，比 empeorar 语气更强烈、更书面化。"
+        },
+        {
+          "word": "carga de trabajo",
+          "translation": "工作量，工作负荷",
+          "note": "carga de trabajo 是劳工和管理类话题中的高频固定搭配，其中 carga 还可搭配其他名词，如 carga fiscal（税负）、carga emocional（情感负担）。"
+        },
+        {
+          "word": "recalca",
+          "translation": "强调，着重指出",
+          "note": "recalcar 比 destacar 或 subrayar 语气更口语化，带有说话人反复强调、不厌其烦的语感，常见于引语中。"
+        },
+        {
+          "word": "oscila",
+          "translation": "（在某范围内）浮动，波动",
+          "note": "oscilar entre A y B 是新闻和统计文体中的高频结构，表示数值在两个区间内变化，相当于英语的 range from A to B。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Desde el grupo hotelero Hotusa <strong>justifican</strong> esos horarios por una necesidad logística. \"Los horarios estándar aseguran que los equipos de pisos disponen del tiempo óptimo para una limpieza <strong>impecable</strong> y garantiza que el flujo de huéspedes, tanto de entrada como de salida, reciba una atención excelente\", destaca una portavoz de la compañía, que limita la entrada anticipada o la salida tardía a los miembros de Star Travelers, su programa de <strong>fidelidad</strong>. \"Los miembros Silver que hagan entre 6 y 20 estancias al año como los Gold con más de 20 estancias anuales disfrutan de este servicio como un valor añadido a su lealtad\", detalla.",
+      "zh": "Hotusa酒店集团方面以后勤需求为由，为上述时间安排进行辩护。该公司发言人表示：「标准时间安排确保楼层团队拥有充裕时间进行无可挑剔的清洁工作，并保证进出店的宾客流都能得到优质服务。」该公司将提前入住或延迟退房的权利限定于其忠诚度计划Star Travelers的会员。发言人进一步介绍道：「每年入住6至20次的银卡会员和入住超过20次的金卡会员，均可享受这项服务，作为对其忠诚度的附加回馈。」",
+      "vocab": [
+        {
+          "word": "justifican",
+          "translation": "为……辩护，说明……的理由",
+          "note": "新闻文体中，justificar 常以第三人称复数出现，主语为机构或公司，表示官方对某政策或做法的正当性解释，语气较中性，不含强烈褒贬。"
+        },
+        {
+          "word": "impecable",
+          "translation": "无可挑剔的，完美无瑕的",
+          "note": "由前缀 im-（否定）+ pecable（可犯错的，源自 pecado 罪）构成，字面义为『不会犯错的』。常用于描述服务、外表或工作质量。"
+        },
+        {
+          "word": "fidelidad",
+          "translation": "忠诚度",
+          "note": "programa de fidelidad 是商业和酒店业的固定搭配，指会员积分或忠诚度计划。fidelidad 还可用于人际关系，表示忠诚、忠实。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Esa discriminación entre clientes es la principal razón de los nuevos horarios. Los beneficios para entrar antes y salir después del hotel han quedado prácticamente limitados a los <strong>titulares</strong> de los programas de fidelidad de las cadenas hoteleras. Una tradición <strong>heredada</strong> de los gigantes estadounidenses como Marriott o Hyatt. La segunda cadena cuenta con el programa World of Hyatt, con 66 millones de clientes en todo el mundo, que suelen alojarse casi en exclusiva en hoteles de esa marca a cambio de beneficios como descuentos o la <strong>consecución</strong> de puntos por cada reserva para canjearlos posteriormente por nuevas estancias. \"Hyatt ofrece estos beneficios como parte del programa de fidelización, ayudando a proporcionar mayor flexibilidad y comodidad a los miembros cuando sea operacionalmente posible\", resalta un portavoz de la compañía. En las tres categorías que se pueden beneficiar del late check-out se ofrece la salida entre dos y cuatro horas más tarde en función del número de puntos acumulados a lo largo del año. \"Los hoteles deben gestionar cuidadosamente los horarios de limpieza, los niveles de ocupación, los requisitos del personal y los tiempos de preparación de las habitaciones para garantizar que los huéspedes que llegan puedan acceder a alojamientos que cumplan con los estándares de calidad de Hyatt\".",
+      "zh": "这种对不同客户的差别对待，正是新时间规定背后的主要原因。提前入住和延迟退房的福利，实际上已几乎完全限定于各连锁酒店忠诚度计划的会员。这一传统源自万豪、凯悦等美国酒店巨头。凯悦旗下的World of Hyatt计划在全球拥有6600万会员，这些会员通常几乎只入住该品牌旗下酒店，以换取折扣或每次预订所积累的积分，并可在日后兑换新的住宿。凯悦发言人表示：「凯悦将这些福利作为忠诚度计划的一部分，在运营条件允许的情况下，为会员提供更大的灵活性和便利性。」在可享受延迟退房的三个会员等级中，根据全年累计积分的不同，可获得延迟2至4小时退房的权益。「酒店必须精心管理清洁时间表、入住率、人员配置需求及客房准备时间，以确保抵达的宾客能够入住符合凯悦质量标准的客房。」",
+      "vocab": [
+        {
+          "word": "titulares",
+          "translation": "持有人，拥有者",
+          "note": "titular 作名词时指某资格、账户或职位的正式持有人，如 titular de una cuenta（账户持有人）、titular de un cargo（职位持有人）；作形容词时意为『正式的、主要的』。"
+        },
+        {
+          "word": "heredada",
+          "translation": "继承自……的，沿袭自……的",
+          "note": "heredar 本义为继承遗产，在此为引申用法，表示某种做法或传统从其他机构或文化中沿袭而来，是新闻文体中常见的隐喻用法。"
+        },
+        {
+          "word": "consecución",
+          "translation": "获取，取得，达成",
+          "note": "consecución 是 conseguir 的名词形式，属书面语，指通过努力达成某目标或获取某物。注意与 ejecución（执行）和 conclusión（结论）区分，三者形近易混。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Un esquema similar al utilizado por Marriott, que ofrece salir sin cargos dos horas más tarde a los socios Gold Elite, con un mínimo de 25 noches al año, y lo amplía a cuatro horas para los socios Platinum Elite, con 50 noches al año. Minor, la antigua NH, ofrece también la posibilidad de salir más tarde para los miembros del programa de fidelidad Minor Discovery, \"siempre que reserven directamente a través de la web o la aplicación de Minor Hotels, según las condiciones <strong>vigentes</strong> de cada marca y hotel participante\". En definitiva, las cadenas tratan de contar con grandes bolsas de clientes <strong>fidelizados</strong> y <strong>potenciar</strong> las ventas directas.",
+      "zh": "万豪采用的是类似模式：为每年最少入住25晚的金英才会员提供免费延迟2小时退房服务，并为每年入住50晚的铂金英才会员将这一权益延长至4小时。美诺集团（前身为NH酒店）同样为其Minor Discovery忠诚度计划会员提供延迟退房服务，「前提是通过美诺酒店官网或应用程序直接预订，并须符合各参与品牌和酒店的现行条款」。总而言之，各连锁酒店致力于积累大规模忠实客户群，并推动直销渠道的增长。",
+      "vocab": [
+        {
+          "word": "vigentes",
+          "translation": "现行的，有效的，在执行中的",
+          "note": "vigente 是法律和商务文体的高频词，指法规、合同或条款目前处于有效执行状态，相当于英语的 in force 或 currently applicable，不可与 válido 完全互换。"
+        },
+        {
+          "word": "fidelizados",
+          "translation": "已忠诚化的，已成为忠实客户的",
+          "note": "fidelizar 是由 fidelidad 派生的动词，后缀 -izar 表示『使……化』，常见于营销语境。同类构词如 digitalizar（数字化）、rentabilizar（使盈利）。"
+        },
+        {
+          "word": "potenciar",
+          "translation": "推动，强化，提升",
+          "note": "potenciar 源自 potencia（力量、潜力），意为『发挥或提升某事物的潜力』，在商业和政策文体中极为常见，比 aumentar 更强调主动激活潜能的过程。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Aunque ninguna de las cadenas consultadas lo reconoce de una manera explícita, la posibilidad de cobrar por entrar antes o salir después de la hora fijada también se ha convertido en una <strong>línea de negocio</strong> para generar ingresos adicionales. Una portavoz de Barceló reconoce que la oferta de early check-in y late check-out como servicios de pago \"permite <strong>maximizar</strong> la rentabilidad de las habitaciones y ofrecer flexibilidad a quien la necesita\". Otra portavoz de Meliá asegura que garantizar ambos servicios supone reorganizar la operativa habitual del hotel y, en muchos casos, mantener una habitación bloqueada durante más tiempo, especialmente en periodos de alta ocupación. \"Ambos son servicios opcionales que permiten adaptar la estancia a las necesidades del cliente. Cuando este desea garantizar su disponibilidad, el servicio puede llevar asociado un coste que responde al esfuerzo operativo adicional que supone para el hotel. En todo caso, estas condiciones se comunican de forma clara antes de la reserva\", <strong>precisa</strong>. Solo están exentos de ese pago los clientes Gold y Platinum del programa Meliá Rewards, siempre y cuando haya disponibilidad de plazas.",
+      "zh": "尽管所有受访连锁酒店均未明确承认，但对提前入住或延迟退房收费，实际上也已成为一条创造额外收入的业务线。巴塞罗发言人承认，将早入住和晚退房作为付费服务提供，「可以最大化客房盈利能力，并为有需要的客人提供灵活性」。美利亚的一位发言人则表示，保障这两项服务意味着需要重新调整酒店的日常运营流程，在许多情况下还需将客房锁定更长时间，尤其是在高入住率时期。她进一步说明：「这两项服务均为可选服务，可根据客人需求灵活调整住宿安排。若客人希望确保服务可用性，该服务可能会附带相应费用，以体现酒店为此承担的额外运营成本。无论如何，相关条款均会在预订前清晰告知。」仅美利亚Rewards计划的金卡和白金卡会员可豁免此项费用，但须视空余房间情况而定。",
+      "vocab": [
+        {
+          "word": "línea de negocio",
+          "translation": "业务线，盈利板块",
+          "note": "línea de negocio 是商业新闻中的固定搭配，指企业的某一具体业务方向或收入来源，相当于英语的 business line 或 revenue stream。"
+        },
+        {
+          "word": "maximizar",
+          "translation": "最大化，使最大程度地发挥",
+          "note": "后缀 -izar 表示『使……化』，maximizar 源自英语 maximize 的借用，在商业和经济文体中高频出现；对应反义词为 minimizar（最小化）。"
+        },
+        {
+          "word": "precisa",
+          "translation": "（进一步）说明，补充说",
+          "note": "在新闻引语中，precisa 作为引述动词，表示说话人对前文进行补充或澄清，语气比 dice 更正式，比 aclara 更强调信息的精确性。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "En los 100 hoteles de la cadena balear Riu en todo el mundo, la hora de entrada estándar se produce a las 15.00 horas y la de salida, a las 12.00. \"Existen <strong>tarifas</strong> por horas para salir más tarde, que varían en función del país y de la moneda. Para entrar antes no se suele cobrar si hay alguna habitación disponible\", destaca una portavoz de la compañía, que resalta que la única excepción se produce cuando un cliente quiere entrar mucho antes de las 15.00. \"Si necesita entrar ocho horas antes, entonces sí se le cobra\", cita como ejemplo.",
+      "zh": "在里乌连锁酒店遍布全球的100家酒店中，标准入住时间为下午3点，退房时间为中午12点。该公司发言人表示：「延迟退房设有按小时计算的收费标准，具体费用因国家和货币而异。若有空余客房，提前入住通常不收费。」她同时强调，唯一的例外情况是客人希望比下午3点提前很多入住。「如果需要提前8小时入住，那就会收费，」她举例说明道。",
+      "vocab": [
+        {
+          "word": "tarifas",
+          "translation": "收费标准，费率，票价",
+          "note": "tarifa 是商业和服务业的通用词，指官方或公开的收费标准，可用于酒店、交通、电信等多种场景，比 precio 更强调标准化和正式性。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "a primera hora de la mañana",
+      "type": "colocación",
+      "translation": "一大早，清晨时分",
+      "usage": "固定时间表达，用于强调某事发生在早晨最早的时段，语气自然，适用于口语和书面语。类似结构还有 a última hora（在最后时刻）、a altas horas de la noche（深夜）。",
+      "exampleEs": "Llegamos al aeropuerto a primera hora de la mañana para no perder el vuelo.",
+      "exampleZh": "我们一大早就赶到了机场，以免错过航班。"
+    },
+    {
+      "expression": "en función de",
+      "type": "colocación",
+      "translation": "根据……，取决于……",
+      "usage": "正式书面语中极高频的介词短语，表示某事物随另一变量而变化，相当于 depending on 或 according to，常见于新闻、合同和学术文体。",
+      "exampleEs": "El precio del billete varía en función de la temporada y la antelación con la que se compre.",
+      "exampleZh": "机票价格因季节和购买提前量的不同而有所差异。"
+    },
+    {
+      "expression": "llevar asociado",
+      "type": "colocación",
+      "translation": "附带，与……相关联",
+      "usage": "商业和法律文体中的固定搭配，表示某项服务或条款附带某种条件或费用，结构为 llevar asociado + 名词，语气正式客观。",
+      "exampleEs": "La suscripción premium lleva asociado un coste mensual de diez euros.",
+      "exampleZh": "高级订阅套餐附带每月10欧元的费用。"
+    },
+    {
+      "expression": "siempre y cuando",
+      "type": "colocación",
+      "translation": "只要……，前提是……",
+      "usage": "条件从句的固定连接词，语气比 si 更正式，强调条件的约束性，后接虚拟式。常见于合同、规章和正式声明中，相当于 con la condición de que。",
+      "exampleEs": "Puedes usar la sala de reuniones siempre y cuando la reserves con antelación.",
+      "exampleZh": "只要提前预约，你就可以使用会议室。"
+    },
+    {
+      "expression": "en definitiva",
+      "type": "colocación",
+      "translation": "总而言之，归根结底",
+      "usage": "新闻和议论文体中常用的总结性副词短语，用于在段末或论述结尾提炼核心观点，相当于 en resumen 或 en conclusión，但语气更具论断性。",
+      "exampleEs": "En definitiva, el objetivo de todas estas medidas es reducir el gasto público.",
+      "exampleZh": "总而言之，所有这些措施的目的都是削减公共开支。"
+    }
+  ]
+}

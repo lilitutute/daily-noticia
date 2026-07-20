@@ -1,0 +1,149 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "体育与时评",
+  "difficulty": "B1",
+  "wordCount": "约350词",
+  "title": "El Mundial de nuestras vidas",
+  "subtitle": "我们一生中的世界杯",
+  "resumenEs": "El autor reflexiona sobre cómo el Mundial que se vive en la infancia marca para siempre a una generación, y celebra el camino de España desde la maldición de los cuartos de final hasta convertirse en potencia mundial del fútbol. Con la final de 2026 ante Argentina, reivindica los valores de talento, humildad y espíritu colectivo que definen a la selección española.",
+  "resumenZh": "作者感慨童年时经历的世界杯如何永远烙印在一代人心中，并回顾了西班牙从屡屡止步八强的魔咒，到成为世界足球强国的历程。面对2026年与阿根廷的决赛，他颂扬了西班牙队所代表的天赋、谦逊与团队精神。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Dicen que el Mundial de nuestras vidas es el que nos <strong>pilla</strong> siendo niños, pero con plena conciencia. Y que, desde entonces, nos pasamos los veranos <strong>evocando</strong> aquellas vivencias <strong>irrepetibles</strong> que sólo se experimentan con la intensidad de esa edad.",
+      "zh": "人们说，我们一生中最难忘的世界杯，是那届在我们童年时恰好赶上、且已懂事的世界杯。从那以后，每个夏天我们都在追忆那些只有在那个年纪才能以那种强度去体验的、不可复制的记忆。",
+      "vocab": [
+        {
+          "word": "pilla",
+          "translation": "恰好赶上，碰上",
+          "note": "pillar 在口语中表示『碰上、赶上』某事或某状态，如 me pilló lloviendo（我出门碰上下雨了）、te pilla lejos（对你来说太远了）。这是西班牙口语中极高频的用法，正式场合可替换为 encontrar 或 sorprender。"
+        },
+        {
+          "word": "evocando",
+          "translation": "追忆，唤起（回忆）",
+          "note": "evocar 是书面语和文学语境的高频词，指通过某种触发物唤起过去的记忆或情感，比 recordar 更强调那种被动唤起、情感浮现的过程，常见于散文和新闻评论。"
+        },
+        {
+          "word": "irrepetibles",
+          "translation": "不可复制的，独一无二的",
+          "note": "由前缀 ir-（否定）+ repetible（可重复的）构成。ir- 是 in- 在 r 前的变体形式，同类构词如 irreversible、irrecuperable、irrenunciable，掌握这一规律可快速理解大量C1级词汇。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Yo iba camino de cumplir los 11 años cuando Naranjito apareció en nuestras pantallas y el color llegó a nuestras calles. Era 1982 y aquella era nuestra Copa del Mundo. Pero aún no era nuestro momento. La última generación nacida en el siglo XX vivió en 2010 su Mundial de los 11 años. Y ahí llegó la primera estrella para España. De la mano de una selección masculina que supo <strong>desprenderse</strong> de la <strong>maldición</strong> de los cuartos. La segunda estrella está en la camiseta de la selección femenina y la lucimos con orgullo desde 2023.",
+      "zh": "小橘子吉祥物出现在我们的荧幕上、彩色旗帜装点我们街头的时候，我即将迎来11岁生日。那是1982年，那届世界杯是属于我们的。但那还不是我们的时刻。最后一批生于二十世纪的人，在2010年迎来了他们的「11岁世界杯」。就在那一届，西班牙摘得了第一颗星。男子国家队终于挣脱了八强魔咒。第二颗星绣在女子国家队的球衣上，自2023年起我们便骄傲地佩戴着它。",
+      "vocab": [
+        {
+          "word": "desprenderse",
+          "translation": "摆脱，挣脱，脱离",
+          "note": "desprenderse de 表示从某种束缚、习惯或负担中解脱出来，比 liberarse de 更强调主动剥离的过程。此外 desprenderse de 还可表示『舍弃、放手』某物，如 desprenderse de sus posesiones（放弃财产）。"
+        },
+        {
+          "word": "maldición",
+          "translation": "魔咒，诅咒",
+          "note": "maldición 源自 maldecir（诅咒），由 mal-（坏）+ decir（说）构成，字面义为『说坏话』。在体育新闻中常用于描述某支球队反复在同一阶段出局的规律性失败，是隐喻用法。对应反义词为 bendición（祝福）。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Hemos aprendido a ganar. Sin renunciar al coraje y la entrega. Pero haciendo del talento la base del éxito. Dejamos atrás el <strong>jugamos como nunca y perdimos como siempre</strong>, para jugar y ganar como nunca.",
+      "zh": "我们学会了赢。没有放弃勇气与拼搏，而是将天赋作为成功的基石。我们告别了「发挥超常却一如既往地输球」的时代，迎来了前所未有的发挥与胜利。",
+      "vocab": [
+        {
+          "word": "jugamos como nunca y perdimos como siempre",
+          "translation": "发挥超常却依然输球",
+          "note": "西班牙足球史上的经典自嘲名句，出自1990年世界杯后球迷的总结，意指球队踢出了历史最佳水准却仍以失败告终。如今常被反用，以对比衬托西班牙足球的蜕变，具有强烈的文化背景色彩。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Este domingo, 26 compatriotas disputarán la final de la Copa del Mundo contra Argentina representando a España ante una audiencia <strong>planetaria</strong>. La mayoría eran niños cuando vieron por televisión el gol de Iniesta en aquella final inolvidable. Algunos, como Lamine o Cubarsí, apenas tenían tres años. Pero todos son <strong>herederos</strong> de la filosofía con la que España aprendió a ganar entonces. La del talento y la técnica. La de la precisión en el pase. La de la solidaridad y el espíritu de equipo.",
+      "zh": "这个周日，26位同胞将代表西班牙，在全球观众的注视下与阿根廷争夺世界杯冠军。他们中的大多数，当年还是孩子，在电视机前目睹了伊涅斯塔在那场难忘决赛中的进球。其中一些人，如拉明或库巴尔西，那时甚至只有三岁。但他们都是西班牙当年学会赢球那套哲学的传承者——天赋与技术的哲学，传球精准的哲学，团结与团队精神的哲学。",
+      "vocab": [
+        {
+          "word": "planetaria",
+          "translation": "全球性的，全球范围的",
+          "note": "planetario/a 作形容词表示『覆盖全球的』，是新闻文体中替代 mundial 或 global 的高级词汇，带有强调规模之宏大的语气，如 audiencia planetaria（全球观众）、fenómeno planetario（全球现象）。"
+        },
+        {
+          "word": "herederos",
+          "translation": "传承者，继承人",
+          "note": "heredero 本义为法律意义上的遗产继承人，在此为引申义，指精神或理念的传承者。ser heredero de 是固定搭配，表示继承某种传统、风格或价值观，在文化和体育评论中极为常见。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Es la España que no se pone límites, porque cree en sí misma. La que hace suyas las palabras de Laporte al ser preguntado por nuestras opciones de ser campeones: \"¿Y por qué no?\". La España llena de confianza y voluntad que sabe que ya ha ganado llegando a la final. Esa es la Selección que <strong>enamora</strong>. Con el juego <strong>asociativo</strong> y valiente que tanto nos caracteriza. Pero también con los valores que definen a nuestro país. Una España que se conduce con humildad y respeto al adversario. Y que confía en el talento colectivo para ganar y mostrarse al mundo como el país querido y respetado que es.",
+      "zh": "这是一支不给自己设限的西班牙队，因为她相信自己。她将拉波尔特被问及夺冠希望时说的那句话化为己用：「为什么不呢？」这支充满自信与意志力的西班牙队深知，能够进入决赛本身就已是一种胜利。这就是那支令人倾心的国家队。凭借那种极具我们特色的流畅进攻与无畏勇气，也凭借那些定义我们国家的价值观——一支以谦逊和尊重对手的姿态行事的西班牙队，以集体才华赢得胜利，向世界展示这个被热爱与尊重的国家的真实面貌。",
+      "vocab": [
+        {
+          "word": "enamora",
+          "translation": "令人倾心，使人着迷",
+          "note": "enamorar 在此为及物动词用法，表示某事物令人深深喜爱、着迷，不限于爱情语境，可用于风格、音乐、城市等，如 me enamora su forma de jugar（他的踢球方式让我着迷）。比 gustar 情感更强烈。"
+        },
+        {
+          "word": "asociativo",
+          "translation": "配合式的，组合传递式的（足球术语）",
+          "note": "juego asociativo 是足球评论中的专业表达，指以短传配合、球员间紧密协作为核心的踢法，是西班牙Tiki-taka风格的代名词。asociativo 源自 asociar（联合、配合），构词规律与 colectivo、cooperativo 相同。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Este domingo, los niños y niñas que sueñan con emular a Rodri, Oyarzabal o Cucurella marcarán el latido de nuestro país. Y todos seremos uno, guiados por ese espíritu de <strong>compañerismo</strong> que Luis de la Fuente ha sabido <strong>inculcar</strong> a este equipo único. Dentro de cuatro años se celebrará el Mundial 2030 en España. Pero hasta entonces, este de 2026 ha vuelto a ser el Mundial de nuestras vidas. Hoy todos volvemos a tener 11 años.",
+      "zh": "这个周日，那些梦想着成为罗德里、奥亚尔萨瓦尔或库库雷利亚的孩子们，将成为这个国家心跳的节拍。我们将凝聚为一体，被路易斯·德拉富恩特倾心培育在这支独特球队中的那种团队情谊所引领。四年后，2030年世界杯将在西班牙举办。但在那之前，2026年这届世界杯已再度成为我们一生中的世界杯。今天，我们都重新变回了11岁。",
+      "vocab": [
+        {
+          "word": "compañerismo",
+          "translation": "团队情谊，同伴精神",
+          "note": "后缀 -ismo 在此表示一种精神或品质，由 compañero（同伴）派生而来。注意 -ismo 的构词功能极广：既可表示主义（socialismo）、风格（impresionismo），也可表示品质或行为方式（compañerismo、profesionalismo）。"
+        },
+        {
+          "word": "inculcar",
+          "translation": "灌输，培育，使深入人心",
+          "note": "inculcar 表示通过反复教导将某种价值观、习惯或信念植入他人心中，常见搭配为 inculcar valores / disciplina / respeto a alguien，语气比 enseñar 更强调深层内化，多用于教育和管理语境。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "pillarse siendo niño",
+      "type": "expresión coloquial",
+      "translation": "在童年时恰好赶上某事",
+      "usage": "pillar 在口语中表示『碰上、赶上』某种状态或时机，结构灵活，可接现在分词或名词，如 me pilló dormido（被人撞见我在睡觉）、nos pilló la lluvia（我们被雨淋了）。语体非正式，是西班牙口语中替代 encontrar / sorprender 的高频用法。",
+      "exampleEs": "La crisis le pilló recién llegado al país, sin trabajo ni ahorros.",
+      "exampleZh": "经济危机来袭时，他刚刚抵达这个国家，既没有工作，也没有积蓄。"
+    },
+    {
+      "expression": "hacer suyas las palabras",
+      "type": "colocación",
+      "translation": "将某人的话化为己用，认同并内化某种表达",
+      "usage": "hacer suyo/a + 名词 是固定结构，表示将某种外部的理念、话语或风格完全内化、据为己用，语气带有主动认同的含义。可替换名词：hacer suya una idea / una filosofía / una causa。",
+      "exampleEs": "El nuevo director hizo suya la visión del fundador y la llevó a otro nivel.",
+      "exampleZh": "新任总监将创始人的愿景化为己用，并将其推向了新的高度。"
+    },
+    {
+      "expression": "desprenderse de la maldición",
+      "type": "colocación",
+      "translation": "挣脱魔咒，摆脱长期的失败宿命",
+      "usage": "desprenderse de 表示主动从某种束缚中剥离，maldición 在体育语境中指某支球队反复在同一阶段失利的规律性魔咒。两者结合构成体育新闻的高频隐喻表达，可替换为 romper la maldición（打破魔咒）。",
+      "exampleEs": "Tras décadas de fracasos en semifinales, el equipo por fin se desprendió de esa maldición histórica.",
+      "exampleZh": "在数十年的半决赛失利之后，这支球队终于挣脱了那个历史魔咒。"
+    },
+    {
+      "expression": "marcar el latido",
+      "type": "colocación",
+      "translation": "成为……的心跳，定义……的脉搏",
+      "usage": "latido（心跳）在此为隐喻，指某群体或事件成为一个国家或社会情感的核心律动。marcar el latido de + 地点/群体 是文学性较强的书面表达，常见于政论和文化评论，语气庄重而富有感染力。",
+      "exampleEs": "Durante los Juegos Olímpicos, los atletas marcan el latido de toda una nación.",
+      "exampleZh": "奥运会期间，运动员们成为整个国家的心跳。"
+    }
+  ]
+}
