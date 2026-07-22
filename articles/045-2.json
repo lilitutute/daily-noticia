@@ -1,0 +1,313 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与媒体素养",
+  "difficulty": "B2",
+  "wordCount": "约1000词",
+  "title": "Los bulos sobre alimentos inundan las redes con vídeos hiperrealistas generados con IA",
+  "subtitle": "AI生成的超真实视频让食品谣言席卷社交网络",
+  "resumenEs": "Personajes creados con inteligencia artificial difunden bulos sobre alimentación y salud en redes sociales, acumulando millones de visualizaciones. Estos vídeos se producen a escala industrial de forma automatizada, con perfiles clonados y adaptados a distintos públicos. La IA generativa ha roto el vínculo entre imagen y realidad, haciendo casi imposible distinguir lo verdadero de lo falso. Sus consecuencias van desde decisiones alimentarias erróneas hasta riesgos para la salud pública y la democracia.",
+  "resumenZh": "由人工智能创造的虚假人物在社交网络上大肆传播食品和健康谣言，累计获得数百万次播放。这些视频以工业化规模自动生成，账号经过克隆并针对不同受众量身定制。生成式AI打破了图像与现实之间的联系，使真假几乎难以分辨。其后果涵盖错误的饮食决策乃至对公共健康和民主选举的威胁。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "\"Si has comprado pescado en el mercado, mételo en agua. Si se hunde, está fresco; si flota, está malo\". Así comienza un vídeo que ya han visto más de 25 millones de personas. El protagonista es Paco del Campo, un anciano de aspecto <strong>entrañable</strong> que ofrece consejos sobre alimentación y salud. No es un caso <strong>aislado</strong>. En las últimas semanas han <strong>proliferado</strong> vídeos muy similares que también acumulan millones de reproducciones.",
+      "zh": "『如果你在市场上买了鱼，把它放进水里。如果沉下去，说明是新鲜的；如果浮起来，说明已经变质。』一段视频就以这样的开场白吸引了超过2500万人观看。视频主角是Paco del Campo，一位外表亲切可爱的老人，专门分享饮食和健康建议。这并非个例。近几周来，大量类似视频如雨后春笋般涌现，同样积累了数百万次播放量。",
+      "vocab": [
+        {
+          "word": "entrañable",
+          "translation": "亲切可爱的，令人动容的",
+          "note": "entrañable 来自 entrañas（内脏、内心深处），引申为『触动内心的、令人感到亲近温暖的』，常用于描述人物形象或回忆，如 un recuerdo entrañable（珍贵的回忆）。注意它与 simpático（友好的）的区别：entrañable 情感更深沉。"
+        },
+        {
+          "word": "aislado",
+          "translation": "孤立的，个别的，单独的",
+          "note": "un caso aislado 是新闻中的高频固定搭配，意为『个例、孤立事件』，与 generalizado（普遍的）形成对比。动词形式 aislar 意为『隔离、孤立』，医疗新闻中常见 aislar a un paciente（隔离患者）。"
+        },
+        {
+          "word": "proliferado",
+          "translation": "大量涌现，迅速蔓延",
+          "note": "proliferar 是新闻高频动词，意为『（数量）快速增长、蔓延』，常用于描述负面现象的扩散，如 proliferar bulos（谣言蔓延）、proliferar especies invasoras（入侵物种扩散）。语气比 aumentar 更强调失控式增长。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Podemos citar tres ejemplos, como el de Eduardo, un hombre de mediana edad que se presenta como \"experto en salud holística y dietista\" y que nos advierte sobre la <strong>supuesta</strong> peligrosidad del panga, la tilapia y el salmón en un vídeo que comienza así: \"Nunca comas estos tres pescados si no quieres morir mañana…\".",
+      "zh": "我们可以举出三个例子，比如Eduardo，一位中年男性，自称『整体健康专家兼营养师』，在一段视频中警告我们巴沙鱼、罗非鱼和三文鱼所谓的危险性，视频开头是这样的：『如果你不想明天就死，就永远不要吃这三种鱼……』",
+      "vocab": [
+        {
+          "word": "supuesta",
+          "translation": "所谓的，据称的，假定的",
+          "note": "supuesto/a 在新闻文体中是重要的客观性标记词，表示『尚未证实的、所谓的』，用于与事实保持距离，如 la supuesta víctima（所谓的受害者）。注意与 falso（虚假的）的区别：supuesto 不直接断定为假，只表示存疑。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "O el de Sofía, una mujer que comparte \"métodos sobre salud holística\" y que nos advierte sobre el peligro de los pesticidas que <strong>supuestamente</strong> contienen las manzanas: \"Nunca compres manzanas sin antes revisar esto…\". El tercer ejemplo es también el más <strong>surrealista</strong>. Manuel del Campo, un anciano con aspecto amish, nos muestra dos trozos de salmón sobre el asfalto del aparcamiento de un supermercado. Uno está <strong>repleto</strong> de hormigas porque se supone que es salvaje, mientras que el otro trozo está libre de insectos porque es de piscifactoría y \"está cargado de tóxicos\", según dice.",
+      "zh": "还有Sofía，一位分享『整体健康方法』的女性，她警告我们苹果中据称含有农药的危险：『买苹果之前，一定要先检查这个……』第三个例子也是最荒诞的一个。Manuel del Campo，一位外表像阿米什人的老者，在一家超市停车场的沥青地面上展示两块三文鱼。其中一块爬满了蚂蚁，据说是因为它是野生的；而另一块没有虫子，因为它是养殖的，『充满了毒素』，他如此说道。",
+      "vocab": [
+        {
+          "word": "supuestamente",
+          "translation": "据称，所谓地，据说",
+          "note": "supuestamente 是新闻文体中标记未经证实信息的副词，与 supuesto 同根，使用时表示作者对该说法持保留态度。注意与 aparentemente（表面上看来）的区别：supuestamente 更强调信息来源存疑。"
+        },
+        {
+          "word": "surrealista",
+          "translation": "超现实的，荒诞离奇的",
+          "note": "surrealista 源自艺术流派『超现实主义』，在口语和新闻中引申为『荒诞得难以置信的』，语气带有强烈的主观色彩。注意它是形容词，阴阳性同形，如 una situación surrealista / un caso surrealista。"
+        },
+        {
+          "word": "repleto",
+          "translation": "充满的，塞满的，挤满的",
+          "note": "repleto/a 比 lleno 程度更强，强调『塞得满满当当』，常见搭配为 repleto de（充满……），如 una sala repleta de gente（挤满了人的大厅）。在正式文体中比 lleno 更有表现力。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Todos estos vídeos acumulan millones de visitas, miles de me gusta y cientos de comentarios de personas preocupadas por su salud y su alimentación. Pero la mayoría <strong>desconoce</strong> dos cosas: que los mensajes son falsos y que Paco, Eduardo, Sofía y Manuel ni siquiera existen. Son personajes creados con inteligencia artificial. Pero eso no es todo.",
+      "zh": "所有这些视频都积累了数百万次观看、数千个点赞，以及数百条来自关心自身健康和饮食的用户评论。但大多数人并不知道两件事：这些信息是虚假的，而且Paco、Eduardo、Sofía和Manuel根本就不存在。他们都是用人工智能创造出来的虚构人物。但这还不是全部。",
+      "vocab": [
+        {
+          "word": "desconoce",
+          "translation": "不知道，不了解",
+          "note": "desconocer 是 conocer 加前缀 des-（否定）构成，意为『不知道、对……一无所知』，比 no saber 更正式。构词规律：des- 前缀表否定，同类词有 desconfiar（不信任）、desaparecer（消失）、deshacer（拆除）。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Si hacemos una búsqueda rápida en esos perfiles, veremos que todos ellos publican versiones prácticamente idénticas de los mismos vídeos, con la misma <strong>escenografía</strong> y exactamente los mismos mensajes, palabra por palabra: el de los tres pescados, el de las manzanas, el de los salmones… Es más, si seguimos buscando en las redes sociales, veremos que Paco, Eduardo, Sofía y Manuel no son los únicos personajes que aparecen en esos vídeos. Existen cientos de <strong>variantes</strong>, quizá miles, con la misma escenografía e idéntico mensaje, pero distintos protagonistas: de diferentes edades, ocupaciones, nacionalidades, etnias, religiones, idiomas. Hay para todos los gustos: ancianas afables, monjes tibetanos, granjeras, médicos, chamanes… Diseñados a medida y adaptados a diferentes públicos para despertar nuestra <strong>empatía</strong> y ganarse nuestra confianza.",
+      "zh": "如果我们快速搜索这些账号，会发现它们发布的视频几乎完全相同，场景布置一模一样，信息也逐字逐句完全一致：那条关于三种鱼的、那条关于苹果的、那条关于三文鱼的……更进一步，如果我们继续在社交网络上搜索，会发现Paco、Eduardo、Sofía和Manuel并不是出现在这些视频中的唯一人物。存在数百个、甚至数千个变体，场景和信息完全相同，但主角各不相同：年龄、职业、国籍、族裔、宗教、语言各异。应有尽有：慈祥的老奶奶、藏族僧侣、女农夫、医生、萨满……这些形象都是量身定制的，针对不同受众进行了适配，目的是唤起我们的共情，赢得我们的信任。",
+      "vocab": [
+        {
+          "word": "escenografía",
+          "translation": "场景布置，舞台布景",
+          "note": "escenografía 原指戏剧或电影的『舞台/场景设计』，在此引申为视频中精心布置的视觉背景。构词词根 escena（场景）+ -grafía（描绘、设计），同族词有 escenario（场景、舞台）、escénico（舞台的）。"
+        },
+        {
+          "word": "variantes",
+          "translation": "变体，变种，不同版本",
+          "note": "variante 在语言学、生物学和新闻中均为高频词，意为『在保留核心特征的基础上有所不同的版本』，如 variante del virus（病毒变种）、variante lingüística（语言变体）。注意与 versión 的区别：variante 强调差异性，versión 强调同一内容的不同呈现。"
+        },
+        {
+          "word": "empatía",
+          "translation": "共情，同理心",
+          "note": "empatía 是心理学和新闻文体中的高频词，指『感同身受、理解他人情感的能力』。注意与 simpatía（好感、友善）的区别：empatía 强调情感上的深度共鸣，simpatía 更偏向表面的好感。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Todas ellas repiten la misma fórmula: perfiles con nombres relacionados con la salud (sanador, natural, holístico, bienestar, etcétera), vídeos impactantes sobre temas <strong>cotidianos</strong> y guiones construidos expresamente para despertar nuestras emociones. Para la redacción de este artículo se han analizado 150 perfiles de Instagram con estas características, que acumulan en conjunto más de 23 millones de seguidores. El 75% en inglés, el 20% en español y el 5% restante en otros idiomas, como francés, alemán o ruso. Pero hay muchos más perfiles en esta red social y también en otras, como TikTok, X o Facebook.",
+      "zh": "它们都遵循同一套公式：账号名称与健康相关（治愈者、天然、整体、健康等），视频内容涉及日常生活话题且极具冲击力，脚本则专门为激发我们的情绪而设计。为撰写本文，作者分析了150个具有上述特征的Instagram账号，这些账号合计拥有超过2300万粉丝。其中75%使用英语，20%使用西班牙语，其余5%使用其他语言，如法语、德语或俄语。但在这个社交平台上还有更多此类账号，在TikTok、X和Facebook等其他平台上也同样存在。",
+      "vocab": [
+        {
+          "word": "cotidianos",
+          "translation": "日常的，每天的",
+          "note": "cotidiano/a 是B2书面词，意为『日常生活中的、每天都会遇到的』，比 diario 更正式，常见于新闻和文学，如 la vida cotidiana（日常生活）、problemas cotidianos（日常问题）。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Este tipo de vídeos pueden <strong>enmarcarse</strong> dentro de un fenómeno más amplio conocido como AI slop, un término coloquial que se utiliza para describir la <strong>avalancha</strong> de contenidos de baja calidad generados con inteligencia artificial. En muchos casos, el objetivo parece centrarse en captar millones de visualizaciones para <strong>monetizar</strong> la atención de los usuarios o dirigirlos hacia productos, cursos o libros electrónicos.",
+      "zh": "这类视频可以被纳入一个更广泛的现象之中，即所谓的『AI slop』——这是一个口语化术语，用来描述人工智能生成的大量低质量内容。在很多情况下，其目的似乎在于吸引数百万次观看，从而将用户的注意力变现，或将其引导至产品、课程或电子书。",
+      "vocab": [
+        {
+          "word": "enmarcarse",
+          "translation": "被纳入，被归入（某一框架或范畴）",
+          "note": "enmarcar 字面意为『为……加框』，引申为『将某事置于某一背景或框架之内』，是新闻和学术文体的高频词，常见搭配为 enmarcarse dentro de / en（被纳入……范畴）。"
+        },
+        {
+          "word": "avalancha",
+          "translation": "大量涌现，洪流，雪崩式增长",
+          "note": "avalancha 字面意为『雪崩』，在新闻中常用于比喻『大量事物突然涌现』，如 una avalancha de críticas（铺天盖地的批评）、una avalancha de solicitudes（大量申请）。语气比 gran cantidad 更强调突发性和难以控制。"
+        },
+        {
+          "word": "monetizar",
+          "translation": "变现，货币化",
+          "note": "monetizar 是数字经济和新闻领域的高频词，意为『将某种资源或注意力转化为经济收益』，如 monetizar un canal de YouTube（将YouTube频道变现）。构词规律：moneda（货币）+ -izar（动词化后缀），同类词有 digitalizar、privatizar。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Pero detrás de todo ello hay algo más importante que unos cuantos vídeos virales: todo un <strong>cambio de paradigma</strong>. En primer lugar, porque ahora, gracias a la IA, los bulos se pueden producir a <strong>escala industrial</strong> y prácticamente sin necesidad de tiempo, esfuerzo ni grandes conocimientos. De hecho, ya existen cuentas de IA prácticamente <strong>autónomas</strong> (bautizadas por algunos investigadores como \"agentic AI account\"), capaces de generar el contenido de forma automatizada: detectan los temas de salud o alimentación que más interés despiertan en cada momento, generan un guion, crean vídeos adaptados a cada uno de los perfiles que señalamos anteriormente, publican el contenido, analizan las publicaciones que obtienen mejores resultados y repiten las fórmulas que funcionan.",
+      "zh": "但这一切背后，有比几段病毒式传播的视频更重要的东西：整个范式的转变。首先，因为现在借助AI，谣言可以以工业化规模生产，几乎不需要时间、精力或专业知识。事实上，已经存在几乎完全自主运行的AI账号（部分研究人员将其称为『代理型AI账号』），能够自动化地生成内容：它们检测当下最受关注的健康或饮食话题，生成脚本，针对前文提到的各类人物形象创作视频，发布内容，分析哪些帖子效果最好，并重复那些有效的套路。",
+      "vocab": [
+        {
+          "word": "cambio de paradigma",
+          "translation": "范式转变，思维模式的根本性转变",
+          "note": "cambio de paradigma 是学术和新闻文体中的高频固定搭配，源自科学哲学，意为『某一领域基本思维框架的根本性转变』。paradigma 本身也是B2+词汇，可单独使用，如 el paradigma dominante（主流范式）。"
+        },
+        {
+          "word": "escala industrial",
+          "translation": "工业化规模，大规模",
+          "note": "a escala industrial 是固定搭配，字面指『以工业生产的规模』，在新闻中常用于比喻某事被大批量、系统化地生产或执行，语气强调规模之大和效率之高。"
+        },
+        {
+          "word": "autónomas",
+          "translation": "自主的，自治的，独立运作的",
+          "note": "autónomo/a 来自前缀 auto-（自身）+ 词根 nomo（规则、管理），意为『自我管理的、不依赖外部控制的』。构词规律：auto- 前缀还可生成 autogestión（自我管理）、autorregulación（自我调节）、autopublicación（自出版）等词。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Es decir, ni siquiera es necesario que una persona produzca cada vídeo. Su papel puede limitarse a poner en marcha el sistema y <strong>supervisarlo</strong>. Pero la revolución no termina aquí. Hay un segundo cambio, aún más profundo: ya no podemos confiar en lo que vemos. Durante más de un siglo hemos considerado que la fotografía, y después el vídeo, eran una prueba <strong>fiable</strong> de la realidad. Si lo veíamos con nuestros propios ojos, tenía que ser verdad. Pero la IA generativa ha roto ese <strong>vínculo</strong> entre imagen y realidad porque es capaz de producir de forma hiperrealista personas que no existen en escenarios que no son reales.",
+      "zh": "也就是说，甚至不需要有人亲自制作每一段视频。人的角色可以仅限于启动系统并对其进行监督。但这场变革还没有结束。还有第二个、更为深刻的转变：我们再也无法相信自己所看到的东西了。一个多世纪以来，我们一直认为照片，以及后来的视频，是现实的可靠证明。眼见为实。但生成式AI打破了图像与现实之间的这种联系，因为它能够以超真实的方式生成不存在的人物和虚构的场景。",
+      "vocab": [
+        {
+          "word": "supervisarlo",
+          "translation": "对其进行监督，监管它",
+          "note": "supervisar 是新闻和职场文体的高频词，意为『从上层对某事进行监控和管理』，比 controlar 更强调宏观层面的把控而非直接操作。构词：super-（在上）+ visar（查看），同族词有 supervisor（监督者）、supervisión（监督）。"
+        },
+        {
+          "word": "fiable",
+          "translation": "可靠的，值得信赖的",
+          "note": "fiable 是假朋友提示词：它不对应英语 viable（可行的），而是意为『reliable（可靠的）』。常见搭配有 fuente fiable（可靠来源）、información fiable（可靠信息），是新闻文体中评价信息质量的核心词。"
+        },
+        {
+          "word": "vínculo",
+          "translation": "纽带，联系，关联",
+          "note": "vínculo 在新闻和学术文体中意为『两者之间深层的联系或纽带』，比 relación 更强调不可分割性，常见搭配有 romper el vínculo（打破联系）、establecer un vínculo（建立纽带）。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "En muchos casos todavía hay detalles que nos permiten detectar a simple vista que han sido generadas con IA, como unos movimientos poco naturales o una iluminación poco realista. Pero es muy probable que en un futuro cercano esas imágenes sean prácticamente <strong>indistinguibles</strong> de la realidad. Como podemos imaginar, este fenómeno supone una <strong>amenaza</strong>. La avalancha de bulos nos transmite ideas sobre alimentación y salud que no son ciertas, lo que puede <strong>condicionar</strong> nuestro comportamiento y nuestras elecciones alimentarias.",
+      "zh": "在很多情况下，仍然存在一些细节让我们能够一眼识别出AI生成的内容，比如不自然的动作或不真实的光线效果。但很可能在不久的将来，这些图像将与现实几乎无从区分。可以想象，这一现象构成了一种威胁。铺天盖地的谣言向我们传递关于饮食和健康的错误信息，这可能影响我们的行为和饮食选择。",
+      "vocab": [
+        {
+          "word": "indistinguibles",
+          "translation": "无从区分的，难以辨别的",
+          "note": "构词规律：前缀 in-（否定）+ distinguible（可区分的），来自动词 distinguir（区分）。同类构词如 indetectable（无法检测的）、incomprensible（难以理解的）。in- 前缀在辅音 b/p 前变为 im-，如 imposible、impensable。"
+        },
+        {
+          "word": "amenaza",
+          "translation": "威胁，隐患",
+          "note": "amenaza 是新闻文体的核心词，常见搭配有 suponer una amenaza（构成威胁）、amenaza para la salud pública（公共健康威胁）。动词形式为 amenazar（威胁），注意与 peligro（危险）的区别：amenaza 强调潜在的、尚未发生的威胁。"
+        },
+        {
+          "word": "condicionar",
+          "translation": "影响，左右，制约",
+          "note": "condicionar 在新闻中意为『对某事产生决定性影响或制约』，比 influir 更强调限制性，如 condicionar el resultado（左右结果）、condicionar el comportamiento（制约行为）。名词形式为 condicionamiento（制约）。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "En algunos casos esos bulos son prácticamente <strong>inofensivos</strong>, como el que nos dice que el sabor de los pimientos está relacionado con el número de <strong>protuberancias</strong> que tiene en la base. Pero otros son mucho más peligrosos, como los que nos dicen que podemos curar enfermedades graves comiendo fruta con miel. No solo pueden comprometer nuestra salud, sino también nuestro bolsillo. Sin ir más lejos, muchos de los perfiles mencionados en este artículo venden libros electrónicos con remedios \"naturales\" tan falsos como los que recogen en sus vídeos y, probablemente, elaborados también con IA.",
+      "zh": "在某些情况下，这些谣言几乎无害，比如那个声称辣椒的味道与其底部突起数量有关的说法。但另一些则危险得多，比如那些声称吃水果配蜂蜜就能治愈重病的说法。这些谣言不仅可能危害我们的健康，还可能损害我们的钱包。就在眼前，本文提到的许多账号都在销售电子书，里面充斥着和视频中一样虚假的『天然』疗法，而这些书很可能也是用AI生成的。",
+      "vocab": [
+        {
+          "word": "inofensivos",
+          "translation": "无害的，人畜无害的",
+          "note": "构词规律：in-（否定）+ ofensivo（有害的、冒犯的），意为『不造成伤害的』。注意 ofensivo 本身有两个义项：『冒犯性的』和『有害的』，inofensivo 对应后者。常用于对比危险程度，如 un bulo inofensivo vs. uno peligroso。"
+        },
+        {
+          "word": "protuberancias",
+          "translation": "突起，凸起部分",
+          "note": "protuberancia 是有构词价值的词，来自拉丁语 protuberare（向外鼓起），在科学和日常语境中均可使用。前缀 pro-（向前、向外）还可生成 prominente（突出的）、proyectar（投射）等词。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Las consecuencias de este fenómeno no se limitan al ámbito personal. Ese tipo de bulos puede comprometer la salud pública y la reputación o <strong>supervivencia</strong> de un producto, de una empresa o de todo un sector. Y pueden ir aún más allá. Por ejemplo, si esos vídeos se centraran en cuestiones relacionadas directamente con la política, podrían <strong>condicionar</strong> resultados electorales.",
+      "zh": "这一现象的后果并不局限于个人层面。此类谣言可能危及公共健康，也可能损害一个产品、一家企业乃至整个行业的声誉或生存。其影响还可能更为深远。例如，如果这些视频聚焦于与政治直接相关的议题，就可能左右选举结果。",
+      "vocab": [
+        {
+          "word": "supervivencia",
+          "translation": "生存，存续",
+          "note": "supervivencia 在商业和新闻语境中常用于比喻，意为『（企业、行业）能否继续存在下去』，如 la supervivencia de la empresa（企业的存亡）。构词：super-（超越）+ vivencia（生存体验），动词形式为 sobrevivir（幸存）。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "A veces detectar bulos es complicado, sobre todo si no tenemos conocimientos específicos sobre los temas que tratan. Pero ahora se complica mucho más porque el uso de imágenes hiperrealistas los hace más <strong>creíbles</strong>. También se complica mucho la tarea de <strong>desmontarlos</strong>. Siempre ha sido costoso porque requiere mucho más tiempo y esfuerzo que el necesario para crearlos. Pero ahora que se producen a escala industrial, se convierte en una misión casi imposible. Los mecanismos de <strong>moderación</strong> de las redes sociales tampoco ayudan porque no están siendo eficaces para evitar la proliferación de este tipo de publicaciones y no obligan a mostrar claramente que han sido generadas con IA. De hecho, algunos de estos perfiles cuentan con un sello de verificación.",
+      "zh": "有时识别谣言并不容易，尤其是当我们对所涉及的话题缺乏专业知识时。而现在，由于使用了超真实的图像，谣言变得更加可信，识别难度也大幅增加。反驳谣言的任务同样变得更加艰难。这项工作向来费时费力，所需的时间和精力远超创作谣言本身。而如今谣言以工业化规模生产，辟谣几乎成了一项不可能完成的任务。社交网络的内容审核机制也无济于事，因为它们无法有效遏制此类内容的扩散，也不强制要求明确标注内容是由AI生成的。事实上，这些账号中有些甚至拥有认证标识。",
+      "vocab": [
+        {
+          "word": "creíbles",
+          "translation": "可信的，令人信服的",
+          "note": "creíble 来自 creer（相信）+ 后缀 -ible（可……的），意为『值得相信的、有说服力的』。构词规律：-ible/-able 后缀表示『可以被……』，同类词有 fiable（可靠的）、detectable（可检测的）、comprensible（可理解的）。"
+        },
+        {
+          "word": "desmontarlos",
+          "translation": "拆穿它们，反驳它们",
+          "note": "desmontar 字面意为『拆卸、拆解』，在新闻和辩论语境中引申为『逐一反驳、揭穿（谣言或论点）』，如 desmontar un bulo（拆穿谣言）、desmontar un argumento（驳倒一个论点）。构词：des-（拆除）+ montar（组装）。"
+        },
+        {
+          "word": "moderación",
+          "translation": "审核，内容管理",
+          "note": "moderación 在互联网和新闻语境中专指平台对用户内容的『审核与管理』，如 moderación de contenidos（内容审核）。注意它同时保有『适度、节制』的传统含义，需根据语境判断。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "Así que, en la era de la IA generativa, nuestros ojos ya no bastan para distinguir la realidad de la ficción. Por eso, antes de compartir un vídeo, conviene <strong>afinar</strong> nuestro sentido crítico: comprobar quién lo publica, qué pruebas aporta y si la información está <strong>respaldada</strong> por fuentes fiables. En caso de duda, podemos tener presente que si un mensaje es demasiado bonito o demasiado terrible como para parecer verdad, lo más probable es que no lo sea.",
+      "zh": "因此，在生成式AI的时代，我们的眼睛已经不足以区分现实与虚构。正因如此，在转发一段视频之前，有必要磨砺我们的批判性思维：核实发布者是谁，提供了哪些证据，以及信息是否有可靠来源的支撑。如有疑问，我们可以牢记：如果一条信息好得令人难以置信，或者可怕得令人难以置信，那它很可能就不是真的。",
+      "vocab": [
+        {
+          "word": "afinar",
+          "translation": "磨砺，精进，调校",
+          "note": "afinar 字面意为『调音（使乐器音准）』，引申为『使某种能力或工具更加精准』，如 afinar el sentido crítico（磨砺批判性思维）、afinar la puntería（提高准头）。这一比喻用法在新闻和评论文体中很常见。"
+        },
+        {
+          "word": "respaldada",
+          "translation": "有……支撑的，得到……背书的",
+          "note": "respaldar 字面意为『靠背支撑』，引申为『为某事提供支持或背书』，是新闻高频词，常见搭配为 estar respaldado por（得到……的支持/证明），如 una afirmación respaldada por estudios científicos（有科学研究支撑的说法）。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "sin ir más lejos",
+      "type": "modismo",
+      "translation": "就在眼前，就拿……来说，不用走远",
+      "usage": "口语和书面语均常用的惯用语，用于引出一个近在眼前、无需远求的具体例子，相当于中文的『就拿……来说』或『举个现成的例子』，语气自然，衔接流畅。",
+      "exampleEs": "La tecnología avanza muy rápido; sin ir más lejos, hace cinco años nadie usaba este tipo de aplicaciones.",
+      "exampleZh": "科技进步飞快，就拿五年前来说，没有人用这类应用程序。"
+    },
+    {
+      "expression": "a simple vista",
+      "type": "modismo",
+      "translation": "一眼就能看出，肉眼可见",
+      "usage": "固定惯用语，意为『不需要借助工具或深入分析，凭肉眼或第一印象就能判断』，常用于描述某种特征显而易见，书面口语均适用。",
+      "exampleEs": "A simple vista, el documento parecía auténtico, pero los expertos detectaron irregularidades.",
+      "exampleZh": "乍一看，这份文件像是真的，但专家发现了其中的异常。"
+    },
+    {
+      "expression": "hay para todos los gustos",
+      "type": "expresión coloquial",
+      "translation": "应有尽有，各种口味都有",
+      "usage": "口语表达，用于强调某类事物种类繁多、能满足各种不同需求或偏好，语气轻松，带有一定的讽刺或感叹色彩，视语境而定。",
+      "exampleEs": "En ese mercado venden ropa de todas las épocas: hay para todos los gustos.",
+      "exampleZh": "那个市场卖各个年代的衣服，真是应有尽有。"
+    },
+    {
+      "expression": "ganarse la confianza",
+      "type": "colocación",
+      "translation": "赢得信任",
+      "usage": "固定搭配，强调信任是通过努力或策略『赢得』的，而非自然获得，常用于描述人际关系、营销或操纵行为的语境中。注意动词必须用 ganar(se)，不可替换为 obtener la confianza。",
+      "exampleEs": "La marca tardó años en ganarse la confianza de sus clientes tras el escándalo.",
+      "exampleZh": "丑闻发生后，这个品牌花了数年时间才重新赢得客户的信任。"
+    },
+    {
+      "expression": "poner en marcha",
+      "type": "colocación",
+      "translation": "启动，开始运作，付诸实施",
+      "usage": "高频固定搭配，意为『使某个系统、计划或机器开始运转』，比 iniciar 或 comenzar 更强调从静止到运转的过程，常用于描述项目、政策或机制的启动。",
+      "exampleEs": "El gobierno puso en marcha un plan de emergencia para frenar la desinformación.",
+      "exampleZh": "政府启动了一项紧急计划，以遏制虚假信息的传播。"
+    }
+  ]
+}

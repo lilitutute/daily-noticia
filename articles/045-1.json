@@ -1,0 +1,230 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "教育与社会",
+  "difficulty": "B2",
+  "wordCount": "约650词",
+  "title": "Una china que vive en España cuenta cómo era la educación antes de la reforma de 2021: \"Clases de repaso hasta las 10 de la noche\"",
+  "subtitle": "一位旅居西班牙的中国女性讲述2021年改革前的教育状况：『补课上到晚上十点』",
+  "resumenEs": "Alba Chen, una joven china residente en España, describe en TikTok cómo era el sistema educativo chino antes de la reforma de 2021: jornadas que comenzaban antes de las 8 de la mañana y se extendían con clases de repaso hasta las 10 de la noche, entrenamientos militares previos al bachillerato y apenas dos semanas de vacaciones de verano. Tras la reforma conocida como política de doble reducción, las clases no pueden superar las ocho horas y las sesiones nocturnas son voluntarias. Desde 2025, China también ha introducido la IA como materia obligatoria desde los 6 años.",
+  "resumenZh": "旅居西班牙的中国年轻女性Alba Chen在TikTok上讲述了2021年改革前中国的教育体制：学生每天早上不到八点就开始上课，晚上还要补课直到十点，高中前须接受军事训练，暑假仅有两周左右。『双减』政策实施后，每日上课时间不得超过八小时，夜间补课改为自愿参加。自2025年起，中国还将人工智能列为六岁起的必修课。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Las vacaciones ya están aquí y los estudiantes españoles pueden olvidarse del mundo académico hasta septiembre. Tienen dos meses enteros para <strong>desconectar</strong> y disfrutar del verano. Países como el nuestro, Italia, Portugal o Grecia <strong>cuentan con</strong> un descanso entre curso y curso de entre 10 y 13 semanas; Suecia, Finlandia, Polonia y Austria bajan a entre ocho y 10 semanas y Alemania, los Países Bajos, Dinamarca y Francia tienen los veranos más cortos, de menos de ocho semanas. Y si le parece poco tiempo, debe saber que hasta hace no mucho los niños chinos tan solo tenían 10 días de vacaciones.",
+      "zh": "暑假已经到来，西班牙的学生们可以把学业抛在脑后，一直到九月份。他们有整整两个月的时间放松身心、享受夏日。像西班牙、意大利、葡萄牙和希腊这样的国家，两个学年之间拥有10到13周的假期；瑞典、芬兰、波兰和奥地利则缩短至8到10周；德国、荷兰、丹麦和法国的暑假最短，不足8周。如果你觉得这些假期已经不长了，那你应该知道，就在不久前，中国的孩子们只有10天假期。",
+      "vocab": [
+        {
+          "word": "desconectar",
+          "translation": "放松身心，从（压力/工作中）抽离",
+          "note": "在口语和新闻中常用于比喻义，表示『从压力、工作或学业中彻底抽离』，如 necesito desconectar unos días（我需要放松几天）。注意它同时保有『断开电源/网络』的字面意思，需结合语境判断。"
+        },
+        {
+          "word": "cuentan con",
+          "translation": "拥有，具备",
+          "note": "contar con 是高频固定搭配，意为『拥有某种资源或条件』，不可替换为 tener con。另一常见义为『依靠某人』，如 puedes contar conmigo（你可以依靠我）。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Alba Chen, una mujer china que vive en España, cuenta con <strong>resignación</strong> en su cuenta de TikTok que, cuando ella estudiaba, las vacaciones de verano de los jóvenes de segundo de bachillerato no llegaban ni a dos semanas. \"Esto ocurría en los institutos más <strong>competitivos</strong> antes de la reforma de 2021\", aclara.",
+      "zh": "旅居西班牙的中国女性Alba Chen在她的TikTok账号上无奈地讲述道，在她求学时，高二学生的暑假连两周都不到。她补充说：『这是2021年改革之前，在竞争最激烈的学校里发生的情况。』",
+      "vocab": [
+        {
+          "word": "resignación",
+          "translation": "无奈，认命，听天由命",
+          "note": "常见搭配为 con resignación（带着无奈地）或 aceptar algo con resignación（无奈地接受某事），语气中带有一种被迫接受、无力改变的情绪，比 tristeza 更强调『认命』的态度。"
+        },
+        {
+          "word": "competitivos",
+          "translation": "竞争激烈的；有竞争力的",
+          "note": "注意一词两义：修饰机构或市场时意为『竞争激烈的』（institutos competitivos），修饰人、产品或价格时意为『有竞争力的』（un precio competitivo），需根据语境区分。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "China se sitúa como una de las grandes <strong>potencias</strong> mundiales. Una combinación de factores la sitúa a la cabeza de los estándares económicos y tecnológicos. Sin embargo, hasta la histórica reforma de 2021 (conocida como política de \"doble reducción\" o shuangjian), la educación no era una de ellas. Esta decisión política fue una de las mayores <strong>intervenciones</strong> del Gobierno chino en su sistema educativo en décadas y es que tenía un objetivo muy claro: reducir la cantidad de deberes escolares y la <strong>dependencia</strong> de las clases particulares de refuerzo.",
+      "zh": "中国是世界大国之一，多重因素使其在经济和技术标准上处于领先地位。然而，直到2021年那场历史性的改革（即『双减』政策）出台之前，教育并不是其领先领域之一。这一政策决定是中国政府数十年来对教育体制最重大的干预之一，其目标十分明确：减少课业负担，降低对课外辅导的依赖。",
+      "vocab": [
+        {
+          "word": "potencias",
+          "translation": "大国，强国",
+          "note": "potencia 在政治新闻中专指『强国、大国』，如 potencia mundial / potencia nuclear。注意与 poder（权力）的区别：potencia 强调国家层面的综合实力，是新闻高频词。"
+        },
+        {
+          "word": "intervenciones",
+          "translation": "干预，介入",
+          "note": "intervención 在政治和新闻文体中指政府或机构对某领域的『干预行为』，是假朋友提示词：与英语 intervention 含义高度一致，但在医疗语境中还可指『手术』（intervención quirúrgica）。"
+        },
+        {
+          "word": "dependencia",
+          "translation": "依赖，依存",
+          "note": "构词规律：de- + 词根 pend（依附）+ -encia，同族词有 independencia（独立）、depender de（依赖于）。新闻中固定搭配为 dependencia de（对……的依赖）。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "La realidad <strong>previa</strong> a 2021 era muy compleja. Los niños pasaban muchas horas en el colegio y después <strong>acudían</strong> a academias privadas hasta la noche. Los fines de semana seguían asistiendo a clases extra y algunos incluso durante las vacaciones continuaban estudiando.",
+      "zh": "2021年之前的现实情况十分复杂。孩子们在学校待很长时间，之后还要去私立补习机构一直上到晚上。周末继续上额外的课，有些人甚至在假期期间也坚持学习。",
+      "vocab": [
+        {
+          "word": "previa",
+          "translation": "之前的，先前的",
+          "note": "previo/a 是新闻和正式文体的高频形容词，意为『在……之前的』，常见搭配如 experiencia previa（相关经验）、aviso previo（事先通知）。注意它是形容词，需与名词性别数一致，不可与介词 antes 混用。"
+        },
+        {
+          "word": "acudían",
+          "translation": "前往，赶赴（某处）",
+          "note": "acudir 比 ir 更正式，含有『有目的地前往或应召而去』的语义，常见于新闻文体，如 acudir a una cita（赴约）、acudir en ayuda de（前去援助）。此处用过去未完成时表示过去的习惯性动作。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "La organización de los cursos es similar a la de España: primaria, ESO, bachillerato y universidad. Teniendo esto en cuenta, Alba Chen ha explicado cómo era la rutina de los estudiantes chinos antes de la reforma en las diferentes edades. \"En primaria empezaban a las 7:30, hasta las 8:20, luego las clases de repaso <strong>matutino</strong> y ya comenzaban oficialmente las clases hasta las once y media para parar a comer. Y luego vuelven a tener clase de 14 a 16:30\", un horario que la joven considera normal <strong>teniendo en cuenta</strong> las siguientes etapas. \"Cuando llegaba la ESO, las clases comenzaban a las 7:20, la clase matutina empezaba oficialmente a las 8 y a las seis de la tarde cenaban\".",
+      "zh": "中国的学制与西班牙类似：小学、初中、高中和大学。基于此，Alba Chen介绍了改革前不同年龄段中国学生的日常作息。『小学阶段，7点半到校，8点20分之前是晨读课，之后正式上课直到11点半吃午饭，下午2点到4点半继续上课。』考虑到后面更繁重的阶段，这个时间表在她看来还算正常。『到了初中，7点20分开始上课，8点正式进入晨读，下午六点吃晚饭。』",
+      "vocab": [
+        {
+          "word": "matutino",
+          "translation": "早晨的，上午的",
+          "note": "matutino 是正式/书面词，对应口语中的 de la mañana。同族词有 madrugada（凌晨）、madrugar（早起）。新闻中常见 edición matutina（早间版）、informativo matutino（早间新闻）。"
+        },
+        {
+          "word": "teniendo en cuenta",
+          "translation": "考虑到，鉴于",
+          "note": "tener en cuenta 是极高频固定搭配，意为『考虑到、将……纳入考量』，此处用现在分词构成状语从句。近义词 considerando 可替换，但 tener en cuenta 更口语化，使用频率更高。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "En España podría resultar <strong>impensable</strong> que los estudiantes cenen en el propio instituto, pero en China era una práctica habitual antes de la reforma. \"Tenían horario para cenar porque desde las siete de la tarde hasta las nueve de la noche tenían clases de repaso. Con profe y todo, eh, por si tenían dudas\", <strong>bromea</strong> Alba Chen.",
+      "zh": "在西班牙，学生在学校吃晚饭简直难以想象，但在改革前的中国，这是一种常见做法。『他们有专门的晚饭时间，因为从晚上七点到九点还要上补习课，还有老师在场，以防有问题要问，』Alba Chen打趣道。",
+      "vocab": [
+        {
+          "word": "impensable",
+          "translation": "难以想象的，不可思议的",
+          "note": "构词规律：前缀 im-（否定）+ pensable（可以想到的），同类构词如 imposible、improbable、imprescindible。在新闻中常用于强调某事在特定文化或语境下的反常程度。"
+        },
+        {
+          "word": "bromea",
+          "translation": "开玩笑，打趣",
+          "note": "bromear 是新闻引语中常见的说话动词，用于标注说话者的轻松或调侃语气，比 decir 更具情感色彩。名词形式为 broma（玩笑），常见搭配 gastar una broma（开玩笑）。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Por si aún no había quedado <strong>patente</strong> el nivel de exigencia, \"en bachillerato llega lo fuerte\", avisa la estudiante china. \"Comenzaban a las siete de la mañana y tenían clases de repaso hasta las 10 de la noche\", expone. Aunque todo esto parezca una <strong>barbaridad</strong>, es un sistema muy <strong>arraigado</strong> a la cultura de la sociedad china y, aunque la reforma ha dado mayor libertad a los jóvenes chinos, \"la mayoría de los padres prefieren que sus chiquillos se sigan quedando hasta las 10 de la noche igualmente por la competencia que hay\", aclara Alba Chen.",
+      "zh": "如果这还不足以说明其严苛程度，那么『到了高中，才是真正的重头戏』，这位中国女生提醒道。『他们早上七点开始上课，补习课要上到晚上十点。』她说道。尽管这一切听起来像是天方夜谭，但这是一个深深植根于中国社会文化的体制。虽然改革给中国年轻人带来了更多自由，『但大多数家长还是希望自己的孩子继续待到晚上十点，因为竞争压力摆在那里，』Alba Chen解释道。",
+      "vocab": [
+        {
+          "word": "patente",
+          "translation": "明显的，显而易见的",
+          "note": "patente 作形容词时是假朋友：它不是英语 patent（专利）的对应词，而是意为『显而易见的、明摆着的』，常见搭配为 quedar patente（变得显而易见）、hacer patente（使……清晰呈现）。"
+        },
+        {
+          "word": "barbaridad",
+          "translation": "荒唐事，过分的事",
+          "note": "barbaridad 字面含义为『野蛮行为』，但在口语中常用于夸张表达，意为『太过分了、简直荒唐』，如 ¡Qué barbaridad!（太夸张了！）。注意这是情感色彩强烈的口语词，正式文体中较少使用。"
+        },
+        {
+          "word": "arraigado",
+          "translation": "根深蒂固的，深植于……的",
+          "note": "arraigado 来自动词 arraigar（生根），常见搭配为 estar arraigado en（深植于……），用于描述习俗、观念或制度在某文化中根深蒂固。构词词根 raíz 意为『根』，同族词有 raíz（根源）、desarraigar（连根拔起）。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Quizá para cualquier alumno de bachillerato español lo más duro del curso sea hacer el examen de selectividad. Sin embargo, los estudiantes chinos, hace apenas cinco años, \"antes de comenzar bachillerato y universidad tenían como unas dos o tres semanas de <strong>entrenamiento</strong> militar, donde aprendían cosas básicas como: postura, caminar, defensa personal o disciplina\", explica Alba Chen.",
+      "zh": "对于任何一位西班牙高中生来说，这学年最难熬的事或许就是参加高考。然而，就在五年前，中国学生『在开始高中和大学之前，还要接受大约两到三周的军事训练，学习基本的站姿、走路、自卫和纪律，』Alba Chen解释道。",
+      "vocab": [
+        {
+          "word": "entrenamiento",
+          "translation": "训练，培训",
+          "note": "entrenamiento 既可指体育训练，也可指军事或职业培训，是高频通用词。动词形式为 entrenar(se)，名词 entrenador 意为『教练』，构词规律清晰，迁移价值高。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Todo esto da sentido a la fama que tienen los chinos de ser tan trabajadores. \"Muchos llevan funcionando así prácticamente desde que nacieron\", justifica la joven. \"Antes de la reforma me parecía muy <strong>exigente</strong>\", indica Chen, y aclara: \"No quiere decir que una educación sea peor que la otra o mejor. La educación de China es la de China y la de España es la educación de España\".",
+      "zh": "这一切都解释了中国人以勤劳著称的原因。『很多人从出生起就几乎一直这样运转，』这位年轻女性说道。『在改革之前，我觉得这套教育非常严苛，』Chen表示，并补充道：『这并不意味着哪种教育更好或更差。中国的教育就是中国的教育，西班牙的教育就是西班牙的教育。』",
+      "vocab": [
+        {
+          "word": "exigente",
+          "translation": "严格的，要求高的，严苛的",
+          "note": "exigente 可修饰人（un profesor exigente，严格的老师）或制度/标准（un sistema exigente，严苛的体制），是B2高频形容词。动词形式为 exigir（要求、强制要求），名词为 exigencia（要求、严格程度）。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Con las reformas de estos últimos años, oficialmente las clases no pueden superar más de ocho horas y las sesiones de repaso nocturnos han <strong>pasado a ser</strong> voluntarias. El progreso educativo en China no se ha quedado aquí. Desde septiembre de 2025, destaca la <strong>integración</strong> de la Inteligencia Artificial (IA) como materia obligatoria desde los 6 años y la <strong>reconversión</strong> universitaria, cerrando más del 30% de las carreras tradicionales (como humanidades y administración) para priorizar la tecnología y robótica, de las que el Gobierno introdujo más de 10.000 programas.",
+      "zh": "随着近年来的改革，官方规定每日上课时间不得超过八小时，夜间补习课也已改为自愿参加。中国的教育进步并未止步于此。自2025年9月起，人工智能被列为六岁起的必修课，同时高校也在进行结构性调整，关闭了超过30%的传统专业（如人文和行政管理类），以优先发展科技和机器人领域——政府为此新增了逾一万个相关专业项目。",
+      "vocab": [
+        {
+          "word": "pasado a ser",
+          "translation": "变为，转变为",
+          "note": "pasar a ser 是重要固定搭配，表示『逐渐转变为某种状态』，强调状态的转变过程，比 convertirse en 更强调政策或制度层面的正式转变，常见于新闻文体。"
+        },
+        {
+          "word": "integración",
+          "translation": "整合，纳入，融合",
+          "note": "integración 在教育和政策新闻中高频出现，意为『将某事物纳入现有体系』，如 integración curricular（课程整合）。构词规律：integrar（动词）→ integración（名词）→ integral（形容词，全面的）。"
+        },
+        {
+          "word": "reconversión",
+          "translation": "结构性调整，转型改造",
+          "note": "构词规律：前缀 re-（再次）+ conversión（转变），意为『对原有结构进行重新改造』。在新闻中常见于经济或教育领域，如 reconversión industrial（产业转型）、reconversión universitaria（高校结构调整）。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "llega lo fuerte",
+      "type": "expresión coloquial",
+      "translation": "重头戏来了，真正难的来了",
+      "usage": "口语表达，用于强调某件事进入最艰难或最关键的阶段，语气带有警示或夸张色彩，常出现在叙述递进关系的语境中。",
+      "exampleEs": "Ya terminamos los ejercicios fáciles; ahora llega lo fuerte: el examen oral.",
+      "exampleZh": "简单的练习做完了，现在才是真正的重头戏：口语考试。"
+    },
+    {
+      "expression": "dar sentido a",
+      "type": "colocación",
+      "translation": "赋予……意义，解释……的原因",
+      "usage": "固定搭配，意为『使某事变得有意义或可以理解』，常用于解释某一现象背后的逻辑，语体中性，书面口语均可使用。",
+      "exampleEs": "Sus años de esfuerzo dan sentido a todos los sacrificios que hizo su familia.",
+      "exampleZh": "他多年的努力，让家人所有的牺牲都有了意义。"
+    },
+    {
+      "expression": "quedar patente",
+      "type": "colocación",
+      "translation": "变得显而易见，清晰呈现",
+      "usage": "正式或新闻文体中的高频搭配，用于说明某一事实或情况已经明确无疑地展现出来，比 quedar claro 更书面化。",
+      "exampleEs": "Con estos datos, queda patente la necesidad de una reforma urgente del sistema.",
+      "exampleZh": "这些数据清楚地表明，该体制亟需进行改革。"
+    },
+    {
+      "expression": "situar a la cabeza",
+      "type": "colocación",
+      "translation": "使……处于领先地位",
+      "usage": "新闻和正式文体中的固定搭配，意为『使某人或某国在某领域占据首位』，常与 de 连用，如 a la cabeza de（在……方面领先）。",
+      "exampleEs": "La inversión en tecnología ha situado al país a la cabeza de la innovación mundial.",
+      "exampleZh": "对技术的大力投入使该国在全球创新领域处于领先地位。"
+    },
+    {
+      "expression": "con profe y todo",
+      "type": "expresión coloquial",
+      "translation": "连老师都配上了，老师也在场",
+      "usage": "口语表达，结构为 con + 名词 + y todo，用于强调某事连细节都考虑周全、出乎意料地完备，带有轻微惊讶或调侃语气，多见于非正式口语。",
+      "exampleEs": "Montaron una oficina en casa, con escritorio y todo.",
+      "exampleZh": "他们在家里搭了个办公室，连办公桌都配齐了。"
+    }
+  ]
+}
