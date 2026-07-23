@@ -1,0 +1,218 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "文化与社会",
+  "difficulty": "B2",
+  "wordCount": "约650词",
+  "title": "Escribía versos entre entrega y entrega: el repartidor de comida que ganó uno de los mayores premios literarios de China",
+  "subtitle": "在一单又一单外卖之间写诗：赢得中国最高文学奖之一的外卖员",
+  "resumenEs": "Wang Jibing, un repartidor de comida de 56 años, ganó el prestigioso Premio Literario Lu Xun de China con su colección de poemas Vuelo rasante, inspirada en la vida cotidiana de los trabajadores de reparto. Su historia forma parte de un fenómeno creciente en China, donde trabajadores manuales están conquistando el mundo literario con obras que reflejan las presiones de la economía informal.",
+  "resumenZh": "56岁的外卖员王计兵凭借诗集《低飞》荣获中国著名的鲁迅文学奖，该诗集以外卖骑手的日常生活为灵感创作而成。他的故事是中国一股日益壮大的潮流的缩影——越来越多的体力劳动者正以反映非正规经济压力的文学作品征服文坛。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Una colección de poemas, algunos <strong>garabateados</strong> en trozos de papel entre entrega y entrega de comida, le ha <strong>valido</strong> a Wang Jibing uno de los mayores reconocimientos literarios de China. Vuelo rasante, inspirada en los desafíos cotidianos a los que se enfrentan los repartidores, ha obtenido el Premio Literario Lu Xun, llamado así en honor al escritor considerado por muchos como el padre de la literatura china moderna.",
+      "zh": "一部诗集让王计兵赢得了中国最高文学荣誉之一，其中一些诗句是他在一单又一单外卖之间匆匆写在纸片上的。这部名为《低飞》的诗集以外卖员日常面临的挑战为灵感，荣获鲁迅文学奖——该奖项以被许多人视为中国现代文学之父的作家鲁迅命名。",
+      "vocab": [
+        {
+          "word": "garabateados",
+          "translation": "潦草写下的，涂写的",
+          "note": "动词 garabatear 指「匆忙潦草地书写或涂鸦」，强调书写的随意性和仓促感，与 escribir 相比带有更强的画面感，常用于描述非正式、即兴的书写行为。"
+        },
+        {
+          "word": "valido",
+          "translation": "为……赢得，使……获得",
+          "note": "valer + 间接宾语结构，意为「为某人带来、赢得某物」，如 Le valió un premio（为他赢得了一个奖项），注意这是假朋友：不同于英语 valid（有效的）。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Wang, de 56 años, que comenzó a trabajar como repartidor alrededor de 2019, ganó <strong>notoriedad</strong> en las redes sociales gracias a sus poemas y ensayos. Forma parte de un creciente grupo de trabajadores manuales, cuyos trabajos literarios están siendo reconocidos y celebrados, ofreciendo una visión de las presiones a las que se enfrentan dentro de la enorme economía de trabajos temporales y por encargo de China.",
+      "zh": "56岁的王计兵于2019年前后开始从事外卖配送工作，凭借诗歌和散文在社交媒体上声名大噪。他是中国一个日益壮大的体力劳动者群体的一员，这些人的文学作品正获得越来越多的认可与赞誉，为外界提供了一扇了解中国庞大零工经济中劳动者所承受压力的窗口。",
+      "vocab": [
+        {
+          "word": "notoriedad",
+          "translation": "知名度，声望，名气",
+          "note": "注意与 notorio/a 的关系：notorio 在西语中多指「众所周知的、显而易见的」，有时带负面含义，而 notoriedad 在新闻语境中通常中性，指「被广泛知晓的状态」。"
+        },
+        {
+          "word": "economía de trabajos temporales y por encargo",
+          "translation": "零工经济，按需用工经济",
+          "note": "对应英语 gig economy 的西语表达，por encargo 意为「按订单、按需」，是描述平台经济和灵活用工模式的重要新闻词汇，近年在拉美和西班牙媒体中高频出现。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Para Wang, este <strong>prestigioso</strong> galardón literario llega después de varias décadas difíciles desempeñando trabajos ocasionales. «Contuve la respiración y me sentí extremadamente nervioso… Una vez que se anunció el resultado, sentí que me liberaba de un peso», declaró Wang al medio estatal Global Times el 15 de julio, cuando se dio a conocer que había ganado el premio. Añadió que la atención mediática generada en torno a su persona le había provocado una gran presión psicológica.",
+      "zh": "对王计兵而言，这一殊荣的到来，是在他数十年辗转于各种零散工作之后。【我屏住呼吸，感到极度紧张……结果公布后，我感觉如释重负，】王计兵在7月15日奖项公布当天向官方媒体《环球时报》表示。他还补充说，围绕自己所产生的媒体关注给他带来了巨大的心理压力。",
+      "vocab": [
+        {
+          "word": "prestigioso",
+          "translation": "享有声望的，备受尊崇的",
+          "note": "与英语 prestigious 同源，但注意西语中 prestigio 及其派生词均为正面含义，不存在负面用法，是新闻文体中描述奖项、机构或人物的高频形容词。"
+        },
+        {
+          "word": "galardón",
+          "translation": "奖项，荣誉，奖励",
+          "note": "galardón 是 premio 的正式文雅替换词，多见于书面语和新闻报道，语气更庄重，常用于文学、艺术和科学领域的重要奖项，避免与日常口语中的 premio 混淆使用场景。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "La cuantía económica del Premio Literario Lu Xun no se anuncia públicamente, aunque en 2014 <strong>ascendía</strong> a 100.000 yuanes chinos, unos US$14.800. Nacido en la provincia de Jiangsu, Wang <strong>abandonó</strong> los estudios durante la adolescencia debido a las dificultades económicas de su familia. Antes de convertirse en repartidor de comida, desempeñó diversos trabajos, desde la construcción hasta la recolección de residuos reciclables y la venta ambulante en puestos callejeros.",
+      "zh": "鲁迅文学奖的奖金金额不对外公布，但2014年时奖金为10万元人民币，约合14,800美元。王计兵出生于江苏省，因家庭经济困难在青少年时期辍学。在成为外卖员之前，他从事过各种工作，从建筑工地到收废品，再到街头摆摊叫卖。",
+      "vocab": [
+        {
+          "word": "ascendía",
+          "translation": "（金额）达到，高达",
+          "note": "ascender a + 数字是表达「金额/数量达到某一水平」的固定搭配，常见于新闻财经报道，如 la deuda asciende a millones（债务高达数百万），注意不要与 subir 随意互换。"
+        },
+        {
+          "word": "abandonó los estudios",
+          "translation": "辍学，中断学业",
+          "note": "abandonar los estudios 是「辍学」的标准固定搭配，abandonar 在此语境中意为「放弃、中断」，类似搭配还有 abandonar el proyecto（放弃项目）、abandonar el hogar（离家出走）。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Sin embargo, su amor por la lectura <strong>perduró</strong> y, durante la última década, ha publicado sus propios poemas y ensayos en las redes sociales. En 2022, uno de sus poemas, titulado Un hombre con prisa, se hizo <strong>viral</strong> en internet. La obra se inspiró en un incidente ocurrido en 2019, cuando pasó horas intentando completar una entrega frustrante porque un cliente había introducido una dirección incorrecta.",
+      "zh": "然而，他对阅读的热爱经久不衰，在过去十年间，他持续在社交媒体上发表自己的诗歌和散文。2022年，他的一首题为《一个急着赶路的人》的诗歌在网络上迅速走红。这首诗的灵感来源于2019年的一次经历——当时他因一位顾客输入了错误地址，花了数小时试图完成一单令人沮丧的配送。",
+      "vocab": [
+        {
+          "word": "perduró",
+          "translation": "持续，延续，经久不衰",
+          "note": "perdurar 强调「在时间长河中持续存在」，比 durar 更具文学色彩，前缀 per- 表示「贯穿始终、彻底」，同类词如 permanecer、persistir，常用于正式和书面语境。"
+        },
+        {
+          "word": "viral",
+          "translation": "病毒式传播的，爆红的",
+          "note": "hacerse viral 是社交媒体语境中「内容迅速大范围传播」的固定搭配，是英语 go viral 的直接借用，现已完全融入西语新闻和口语，属于近年高频新词。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "A pesar de haber ganado el premio, Wang declaró al medio que no tiene intención de <strong>abandonar</strong> su trabajo y añadió que planea seguir trabajando hasta cumplir los 60 años. «Desde el punto de vista económico, no necesito este trabajo para ganarme la vida, pero me gusta el ambiente que lo rodea y me mantiene en forma», recoge el reportaje de Global Times. «Quiero llevar una vida sencilla y con los pies en la tierra, y el premio nunca cambiará quién soy», añadió.",
+      "zh": "尽管获得了这一奖项，王计兵向该媒体表示，他无意放弃现在的工作，并补充说他计划继续工作到60岁。【从经济角度来说，我不需要靠这份工作谋生，但我喜欢它所带来的氛围，它让我保持活力，】《环球时报》的报道引述了他的话。【我想过一种简单、脚踏实地的生活，这个奖项永远不会改变我是谁，】他补充道。",
+      "vocab": [
+        {
+          "word": "abandonar",
+          "translation": "放弃，离开，抛弃",
+          "note": "abandonar 是一词多义的高频动词：可指放弃工作/计划、离开某地，也可指抛弃人，注意根据语境判断含义，不要一律译为「抛弃」，此处意为「放弃（工作）」。"
+        },
+        {
+          "word": "con los pies en la tierra",
+          "translation": "脚踏实地，务实",
+          "note": "这是一个固定惯用语，字面意思是「双脚踩在地上」，实际表达「务实、不脱离现实」的性格特质，与英语 down-to-earth 完全对应，是高频modismo。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "«Vuelo raso» publicada en 2024, es una colección de poemas inspirada en entrevistas y encuestas que Wang realizó a alrededor de 200 repartidores. «¿Quién dice que extender las alas significa volar alto? Volar bajo también es volar», <strong>reza</strong> uno de los versos de sus poemas. Su victoria se produce en un momento en que un número cada vez mayor de trabajadores de oficios varios en China está <strong>dejando huella</strong> en el mundo literario.",
+      "zh": "2024年出版的《低飞》是一部诗集，灵感来源于王计兵对约200名外卖员进行的访谈和调查。【谁说展翅就要飞得高？低飞也是飞，】他的诗中有这样一句诗行。他的获奖发生在中国越来越多各行各业的劳动者在文学世界留下印记的时刻。",
+      "vocab": [
+        {
+          "word": "reza",
+          "translation": "（文字）写道，如此说道",
+          "note": "rezar 在此为假朋友警告：其常见含义是「祈祷」，但在书面语中还有「（文字）写道、如此表述」的用法，如 el cartel reza...（牌子上写着……），是新闻引用文字时的正式表达。"
+        },
+        {
+          "word": "dejando huella",
+          "translation": "留下印记，产生深远影响",
+          "note": "dejar huella 是高频固定搭配，huella 本义为「脚印、痕迹」，比喻「留下深刻影响或印记」，常用于正面语境，如 dejar huella en la historia（在历史上留下印记）。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Reparto paquetes en Beijing, unas memorias publicadas en 2023 por el antiguo mensajero Hu Anyan, se convirtió en un <strong>éxito de ventas arrollador</strong> en China y también atrajo la atención de medios internacionales. Una traducción al inglés de la obra fue publicada el año pasado. Otro título, Soy Fan Yusu, un ensayo autobiográfico sobre las dificultades personales de una trabajadora migrante, <strong>conquistó</strong> internet en China en 2017. La respuesta fue tan <strong>abrumadora</strong> que Fan tuvo que abandonar temporalmente su hogar debido a las incesantes solicitudes de los medios de comunicación.",
+      "zh": "前快递员胡安焉于2023年出版的回忆录《我在北京送快递》在中国成为畅销书，同时也吸引了国际媒体的关注。该书的英译版已于去年出版。另一部作品《我是范雨素》是一篇关于一位女性农民工个人艰辛经历的自传体散文，于2017年在中国互联网上引发轰动。反响之强烈，令范雨素不得不暂时离开家中，以躲避媒体的不断骚扰。",
+      "vocab": [
+        {
+          "word": "éxito de ventas arrollador",
+          "translation": "畅销书，销售大获成功",
+          "note": "arrollador/a 意为「势不可挡的、碾压式的」，由动词 arrollar（碾压、横扫）派生，与 éxito de ventas（畅销）搭配后语气极强，常用于形容文化产品的爆炸性市场反响。"
+        },
+        {
+          "word": "conquistó",
+          "translation": "征服，赢得（大众的心）",
+          "note": "conquistar 在媒体语境中常用于比喻「赢得受众、征服市场」，如 conquistó internet（席卷网络）、conquistó al público（征服了观众），是新闻文体中的高频比喻动词。"
+        },
+        {
+          "word": "abrumadora",
+          "translation": "压倒性的，排山倒海的",
+          "note": "abrumador/a 来自动词 abrumar（压垮、使不堪重负），形容反应、数量或压力「大到令人难以承受」，常见搭配有 respuesta abrumadora、mayoría abrumadora（压倒性多数）。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Lu Xun, en cuyo honor se denomina el premio literario, es ampliamente considerado uno de los mayores escritores chinos del siglo XX, conocido por utilizar novelas <strong>satíricas</strong> para criticar la sociedad tradicional china. Durante mucho tiempo recordado como una de las figuras literarias más importantes de China, las obras de Lu han adquirido una nueva <strong>relevancia</strong> entre las generaciones más jóvenes. Hace algunos años, Kong Yiji, un personaje de uno de sus relatos, se convirtió en un meme que simbolizaba el <strong>desencanto</strong> de la juventud china que lucha por encontrar empleo.",
+      "zh": "鲁迅文学奖以鲁迅的名字命名，他被普遍认为是20世纪最伟大的中国作家之一，以运用讽刺小说批判中国传统社会而著称。长期以来，鲁迅被视为中国最重要的文学人物之一，而他的作品近年来在年轻一代中重新焕发出新的意义。几年前，他小说中的人物孔乙己成为一个网络表情包，象征着在就业市场中挣扎的中国年轻人的幻灭感。",
+      "vocab": [
+        {
+          "word": "satíricas",
+          "translation": "讽刺性的，讥讽的",
+          "note": "satírico/a 来自名词 sátira（讽刺文学），是文学批评和新闻语境中的高频词，注意与 sarcástico（刻薄讽刺的、带个人攻击性）的区别：satírico 更多指以文学手法批判社会现象。"
+        },
+        {
+          "word": "relevancia",
+          "translation": "意义，重要性，关联性",
+          "note": "relevancia 是 relevante 的名词形式，在学术和新闻语境中意为「重要性、现实意义」，adquirir relevancia（获得新的意义/重要性）是常见固定搭配，注意不要与英语 relevance 完全等同，西语中语气更正式。"
+        },
+        {
+          "word": "desencanto",
+          "translation": "幻灭，失望，醒悟后的失落感",
+          "note": "由 des-（否定前缀）+ encanto（魅力、迷恋）构成，字面意思是「魔法破除」，比 decepción 更具文学色彩，强调「曾经抱有期望后的深层失落」，是社会评论类文章的高频词。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "con los pies en la tierra",
+      "type": "modismo",
+      "translation": "脚踏实地，务实",
+      "usage": "固定惯用语，形容一个人性格务实、不脱离现实，口语和书面语均可使用，常与 ser、mantenerse、vivir 等动词搭配，语气积极正面。",
+      "exampleEs": "A pesar de la fama repentina, el joven escritor supo mantenerse con los pies en la tierra.",
+      "exampleZh": "尽管突然走红，这位年轻作家依然保持着脚踏实地的态度。"
+    },
+    {
+      "expression": "dejar huella",
+      "type": "colocación",
+      "translation": "留下印记，产生深远影响",
+      "usage": "固定搭配，huella 本义为「脚印、痕迹」，比喻在某领域或某人心中留下持久影响，常用于正面语境，后可接 en + 领域/人物，是新闻和文学评论中的高频表达。",
+      "exampleEs": "La escritora dejó una profunda huella en la literatura latinoamericana del siglo XX.",
+      "exampleZh": "这位女作家在20世纪拉丁美洲文学中留下了深刻的印记。"
+    },
+    {
+      "expression": "hacerse viral",
+      "type": "expresión coloquial",
+      "translation": "（在网络上）迅速走红，病毒式传播",
+      "usage": "社交媒体时代的高频口语表达，直接借用英语 go viral，现已完全融入西语日常用法，适用于视频、文章、图片等各类网络内容，语体偏口语和新闻非正式风格。",
+      "exampleEs": "Un video de tan solo treinta segundos se hizo viral y acumuló millones de reproducciones en pocas horas.",
+      "exampleZh": "一段仅三十秒的视频迅速走红，在短短几小时内积累了数百万次播放量。"
+    },
+    {
+      "expression": "éxito de ventas arrollador",
+      "type": "colocación",
+      "translation": "畅销书，销售大获全胜",
+      "usage": "arrollador/a 意为「势不可挡的」，与 éxito de ventas 搭配后语气极强，强调销售成绩碾压式的成功，常用于描述书籍、电影、专辑等文化产品，多见于新闻和文化评论。",
+      "exampleEs": "Su primera novela fue un éxito de ventas arrollador, traducida a más de veinte idiomas en menos de un año.",
+      "exampleZh": "他的第一部小说大获成功，不到一年便被译成二十多种语言。"
+    },
+    {
+      "expression": "ganarme la vida",
+      "type": "colocación",
+      "translation": "谋生，养活自己",
+      "usage": "ganarse la vida 是「靠某种方式维持生计」的固定搭配，注意必须带反身代词 se，后可接 con/como + 职业或方式，如 ganarse la vida como músico（以音乐为生），是口语和书面语均适用的高频表达。",
+      "exampleEs": "Durante años se ganó la vida vendiendo artesanías en los mercados locales.",
+      "exampleZh": "多年来，他靠在当地市集售卖手工艺品谋生。"
+    }
+  ]
+}
