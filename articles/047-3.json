@@ -1,0 +1,167 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与文化",
+  "difficulty": "C1",
+  "wordCount": "约600词",
+  "title": "Las cosas",
+  "subtitle": "那些「东西」：数字时代的拥有与失去",
+  "resumenEs": "El autor reflexiona sobre cómo la revolución digital ha transformado radicalmente su relación con los objetos cotidianos. Usando la metáfora del asteroide que extinguió a los dinosaurios, describe cómo libros, música, fotos y recuerdos migraron al mundo digital, generando una dependencia creciente de suscripciones y plataformas. Al mismo tiempo, los objetos físicos se han encarecido, poniendo fin a la era de los lujos accesibles.",
+  "resumenZh": "作者以小行星撞击地球导致物种灭绝为隐喻，反思数字革命如何彻底改变了他与日常物品的关系。书籍、音乐、照片和记忆纷纷迁移至数字世界，带来对订阅服务和平台的日益依赖；与此同时，实体物品价格不断攀升，曾经触手可及的「小奢侈」时代正走向终结。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Cuando hace 66 millones de años cayó el asteroide que extinguió a las tres cuartas partes de las plantas y animales del planeta, el suelo quedó marcado por una capa de arcilla con iridio llamada límite K-Pg (por Cretácico-Paleógeno) visible en <strong>afloramientos</strong> de varios lugares de la Tierra. Bajo esa línea aún se encuentran fósiles de dinosaurios; encima, no. Los cambios tecnológicos tuvieron un impacto similar entre mis cosas. Algunas siguieron acompañándome: la ropa, los muebles, las herramientas, los chismes de cocina, el cesto con la calderilla de la que no me logro <strong>deshacer</strong>. Pero otras se transformaron en <strong>vestigios</strong> de una época lejana.",
+      "zh": "6600万年前，一颗小行星撞击地球，导致地球上四分之三的动植物灭绝，地层中留下了一层含铱的黏土，称为K-Pg界线（白垩纪-古近纪界线），在地球多处的地质露头中清晰可见。这条线以下仍能找到恐龙化石；线以上，则再无踪迹。技术变革对我的物品世界产生了类似的冲击。有些东西依然陪伴着我：衣物、家具、工具、厨房杂物，还有那篮子怎么也处理不掉的零钱。但另一些东西，却变成了遥远时代的遗迹。",
+      "vocab": [
+        {
+          "word": "afloramientos",
+          "translation": "地质露头，出露地表",
+          "note": "afloramiento 由动词 aflorar（浮现、露出地表）派生，-miento 后缀构成名词，aflorar 本义为「从地下涌出、显现」，比喻用法指「情感或问题浮现」，如 aflorar sentimientos（情感涌现），是有构词迁移价值的词根。"
+        },
+        {
+          "word": "deshacer",
+          "translation": "处理掉，摆脱，丢弃",
+          "note": "deshacerse de algo 是「摆脱、处置某物」的固定搭配，前缀 des- 表示「解除、逆向」，注意与 hacer 的反义关系，类似构词如 deshacer un nudo（解开绳结）、deshacerse de una costumbre（戒掉习惯）。"
+        },
+        {
+          "word": "vestigios",
+          "translation": "遗迹，残留，痕迹",
+          "note": "vestigio 指「某已消失事物留下的痕迹或残余」，语气比 resto 更文学化，常用于历史、考古和比喻语境，如 vestigios de una civilización（文明遗迹），是C1级别的高频书面词。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Fueron los libros, los juegos, la música, las películas y los recuerdos guardados en cajas; aquí sucedió la extinción. Pasaron a ser digitales, más abundantes y baratos. Solo conservo unas decenas de fotografías de mis primeros 20 años de vida, pero guardo muchos miles de imágenes de los siguientes. Tengo solo unas pocas cartas de papel, pero almaceno con <strong>esmero</strong> veintidós años de correos electrónicos y quince de conversaciones. Mis estanterías están <strong>descompensadas</strong>: desde que empecé a usar un lector electrónico guardan demasiados libros viejos y pocas novedades. Ocurre igual con la música o las películas, porque dejé de almacenar copias en algún momento de los dosmiles.",
+      "zh": "书籍、游戏、音乐、电影，以及装在盒子里的记忆——灭绝正是发生在这些领域。它们纷纷数字化，变得更加丰富、更加廉价。我人生前20年只保存了几十张照片，此后却存下了数以千计的影像。我只有几封纸质信件，却精心保存着22年的电子邮件和15年的聊天记录。我的书架失去了平衡：自从开始使用电子阅读器，架上堆满了旧书，新书却寥寥无几。音乐和电影也是如此，因为我在2000年代的某个时刻就停止了收藏实体拷贝。",
+      "vocab": [
+        {
+          "word": "esmero",
+          "translation": "精心，用心，细心",
+          "note": "con esmero 是固定搭配，意为「用心地、精心地」，强调做事时投入的细致与认真，动词形式为 esmerarse（精心对待、用心做），是书面语中描述认真态度的高频词，比 cuidado 更强调主动投入。"
+        },
+        {
+          "word": "descompensadas",
+          "translation": "失衡的，不成比例的",
+          "note": "由 des-（否定）+ compensado（平衡的）构成，descompensado/a 在医学中指「失代偿的」，在日常语境中指「比例失调、不平衡的」，前缀 des- 的否定构词规律在此再次体现，可类推 desequilibrado、desproporcionado。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Como todos, descubrí que permitir a una empresa almacenar mis objetos digitales era más cómodo que preocuparme por discos duros y copias de seguridad. Esto al principio fue casi gratis, después no. Google cada vez restringe más el almacenamiento gratuito en la nube, <strong>obligándome</strong> en la práctica a una cuota mensual por conservar mis fotos, correos y WhatsApps (es decir, mis memorias). La pago desde hace años y no sé si la dejaré de pagar alguna vez. También es crónica la cuota de los servicios de <strong>streaming</strong>, que han subido sus tarifas un 20% en tres años. <strong>Suscriptocracia</strong>, lo llama el periodista Javier Pastor.",
+      "zh": "和所有人一样，我发现让一家公司替我存储数字物品，远比自己操心硬盘和备份要省心得多。起初这几乎是免费的，后来就不再是了。谷歌对免费云存储的限制越来越多，实际上迫使我每月付费才能保留照片、邮件和WhatsApp记录（也就是我的记忆）。我已经付了好几年，也不知道什么时候才能停止。流媒体服务的订阅费同样是一笔长期支出，三年内涨价了20%。记者哈维尔·帕斯托尔称之为「订阅制独裁」。",
+      "vocab": [
+        {
+          "word": "obligándome",
+          "translation": "迫使我，强制我",
+          "note": "obligar a alguien a + 动词原形是「迫使某人做某事」的固定结构，此处为现在分词形式表示伴随状语，强调「在实际操作中被迫」的含义，是描述制度性强制的高频表达，如 la ley me obliga a（法律强制我）。"
+        },
+        {
+          "word": "streaming",
+          "translation": "流媒体，在线串流",
+          "note": "英语借词，已完全融入西语新闻和日常用语，指「通过网络实时传输音视频内容」的服务模式，西语中无对应的单一本土词汇，因此直接沿用英语原词，是数字时代的核心词汇。"
+        },
+        {
+          "word": "Suscriptocracia",
+          "translation": "订阅制独裁，订阅霸权",
+          "note": "由 suscripción（订阅）+ -cracia（统治，来自希腊语 kratos）合成的新造词，-cracia 是极高产的构词后缀，如 democracia、burocracia、meritocracia，掌握此后缀可快速理解大量政治和社会批评词汇。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "A veces recuerdo que los objetos casi extintos también tenían sus ventajas. Entonces recupero con <strong>nostalgia</strong> el reloj de pulsera, el despertador, la agenda de papel. Pero volver a ellos como si el asteroide no hubiera caído no es posible. Hace décadas que me deshice de todas las viejas cintas y no sabría ni dónde reproducirlas. Sony ha dicho que dejará de publicar los juegos de PlayStation en formato físico en enero de 2028.",
+      "zh": "有时我会想起那些几近消亡的物品其实也有它们的好处。于是我带着怀旧之情重新拾起腕表、闹钟和纸质日历。但要回到过去，假装那颗小行星从未撞击，已经不可能了。我处理掉所有旧磁带已经是几十年前的事，现在甚至不知道去哪里找播放设备。索尼已宣布将于2028年1月停止以实体格式发行PlayStation游戏。",
+      "vocab": [
+        {
+          "word": "nostalgia",
+          "translation": "怀旧，乡愁，对过去的眷恋",
+          "note": "nostalgia 来自希腊语 nostos（回家）+ algos（痛苦），原指「思乡之苦」，现泛指「对过去美好事物的眷恋与惆怅」，形容词为 nostálgico/a，是情感类文章和文化评论的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Mientras lo digital se <strong>evaporaba</strong>, los objetos físicos de primera mano se encarecían. Durante unos breves años vivimos ciertos lujos. Sin ser ricos, tuvimos el mismo teléfono que un rico; sin ser las Kardashian hicimos tantos pedidos en línea como ellas. Eso cambió también. La inflación se <strong>desbocó</strong>. La tasa Shein añade un mínimo de tres euros a cada envío de Temu o AliExpress. Mi último móvil y mi último ordenador han costado más de lo esperado, porque los chips de memoria se dedican a la inteligencia artificial y <strong>escasean</strong>, elevando sus precios y amenazando la existencia de la gama baja.",
+      "zh": "当数字内容逐渐蒸发消散，实体物品的价格却在不断攀升。有那么短暂的几年，我们享受着某种小奢侈：不是富人，却用着和富人一样的手机；不是卡戴珊，却和她们一样频繁地在网上下单。这一切也改变了。通货膨胀失控狂奔。「Shein税」让每一单来自Temu或速卖通的包裹至少多付三欧元。我最近买的手机和电脑都比预期贵得多，因为内存芯片被大量用于人工智能，供不应求，价格随之飙升，低端产品线的生存也因此受到威胁。",
+      "vocab": [
+        {
+          "word": "evaporaba",
+          "translation": "蒸发，消散，无形中消失",
+          "note": "evaporarse 本义为「液体蒸发」，比喻用法指「某物无声无息地消失」，语气带有「不知不觉间就没了」的惋惜感，是文学和新闻评论中描述无形流失的高级比喻动词，比 desaparecer 更有画面感。"
+        },
+        {
+          "word": "desbocó",
+          "translation": "失控，脱缰，狂奔",
+          "note": "desbocarse 本指「马匹脱缰狂奔」，比喻用法指「价格、局势等完全失控、急速恶化」，是新闻经济报道中描述通胀或危机的高频比喻动词，如 los precios se desbocaron（物价失控飙升）。"
+        },
+        {
+          "word": "escasean",
+          "translation": "短缺，供不应求，匮乏",
+          "note": "escasear 由名词 escasez（短缺、匮乏）派生，意为「某物供应不足」，与 abundar（大量存在）构成反义对，是经济和新闻语境中描述供应链问题的高频动词，如 escasean los médicos（医生短缺）。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "La era de los objetos que describió Perec en 1965 y que durante tantas décadas nos <strong>distrajo</strong> se va terminando, y lo que hay al otro lado de la línea, que no es del precioso iridio sino de silicio, esa especie de <strong>alquiler eterno</strong> pagado a las mismas empresas de siempre, no es tan accesible como creímos. «Las cosas no son solo cosas: son promesas de una vida tranquila, una vida mejor», escribe la novelista Beatriz Serrano. Pero cuando quisimos regresar al cálido refugio de nuestras cosas, o no existían o ya no eran nuestras.",
+      "zh": "佩雷克1965年所描绘的、令我们沉迷了数十年的「物品时代」正走向终结。而那条界线另一侧的东西，不是珍贵的铱，而是硅——一种永无止境地付给那几家老面孔公司的「永久租金」，并不像我们曾以为的那样触手可及。小说家贝阿特里斯·塞拉诺写道：「东西不只是东西：它们是对平静生活、更好生活的承诺。」但当我们想要回到那个温暖的物品庇护所时，那些东西要么已不复存在，要么早已不再属于我们。",
+      "vocab": [
+        {
+          "word": "distrajo",
+          "translation": "使沉迷，令人分心，转移注意力",
+          "note": "distraer 由 dis-（分散）+ traer（带来）构成，意为「转移注意力、使沉迷于某事」，此处带有「让我们沉浸其中、忘却其他」的含义，过去时不规则变位为 distrajo，需特别记忆。"
+        },
+        {
+          "word": "alquiler eterno",
+          "translation": "永久租金，永无止境的租赁",
+          "note": "alquiler 意为「租金、租赁」，此处作者用 alquiler eterno 比喻「订阅制服务本质上是永久租用而非真正拥有」，是全文核心论点的凝练表达，eterno 的夸张用法强化了对这种商业模式的批判。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "deshacerse de algo",
+      "type": "colocación",
+      "translation": "处理掉，摆脱，丢弃某物",
+      "usage": "固定搭配，后接名词，表达「主动摆脱或处置某物/某习惯/某人」，语气中性，可用于实体物品、习惯或负面情绪，如 deshacerse de una costumbre（戒掉习惯）、deshacerse de la culpa（摆脱愧疚），是日常和书面语均适用的高频表达。",
+      "exampleEs": "Después de la mudanza, aprovechó para deshacerse de todo lo que llevaba años sin usar.",
+      "exampleZh": "搬家之后，她趁机处理掉了所有积压多年没用过的东西。"
+    },
+    {
+      "expression": "la inflación se desbocó",
+      "type": "colocación",
+      "translation": "通货膨胀失控，物价脱缰飙升",
+      "usage": "desbocarse 本指「马匹脱缰」，用于经济语境时形容「价格或局势完全失控、急速恶化」，是新闻财经报道的高频比喻搭配，也可说 los precios se desbocaron，语气比 subir mucho 更强烈、更具画面感。",
+      "exampleEs": "Tras el conflicto, la inflación se desbocó y muchas familias no podían permitirse los productos básicos.",
+      "exampleZh": "冲突爆发后，通货膨胀失控飙升，许多家庭连基本生活物资都买不起。"
+    },
+    {
+      "expression": "con esmero",
+      "type": "colocación",
+      "translation": "精心地，用心地，细致地",
+      "usage": "固定搭配，常与 guardar、cuidar、elaborar、preparar 等动词搭配，强调做事时投入的认真与细致，语体偏正式和书面，比 con cuidado 更强调主动投入的态度，常见于文学和新闻描写。",
+      "exampleEs": "La artesana elaboraba con esmero cada pieza, asegurándose de que ningún detalle quedara descuidado.",
+      "exampleZh": "这位工匠精心制作每一件作品，确保每一个细节都无可挑剔。"
+    },
+    {
+      "expression": "al otro lado de la línea",
+      "type": "expresión coloquial",
+      "translation": "在界线的另一侧，在分水岭之后",
+      "usage": "本文中呼应开篇K-Pg界线的核心隐喻，泛指「某一重大转变之后的新时代或新状态」，在口语和书面语中均可用于比喻「跨越某一临界点后的截然不同的处境」。",
+      "exampleEs": "Nadie sabe con certeza qué hay al otro lado de la línea cuando una tecnología reemplaza por completo a la anterior.",
+      "exampleZh": "当一项技术彻底取代前一项时，没有人能确切知道那条分界线的另一侧究竟是什么。"
+    },
+    {
+      "expression": "gama baja",
+      "type": "colocación",
+      "translation": "低端产品线，入门级产品",
+      "usage": "gama 意为「产品系列、档次范围」，gama baja/media/alta 分别对应「低端/中端/高端」，是消费电子和市场营销领域的核心词组，在科技新闻中极为高频，如 móvil de gama baja（低端手机）。",
+      "exampleEs": "El aumento del precio de los componentes amenaza la supervivencia de los móviles de gama baja.",
+      "exampleZh": "零部件价格上涨威胁着低端手机的生存空间。"
+    }
+  ]
+}

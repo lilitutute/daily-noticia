@@ -1,0 +1,273 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "语言与文化",
+  "difficulty": "C1",
+  "wordCount": "约900词",
+  "title": "Duelo de pronombres en la final del Mundial: ¿por qué en Argentina se usa 'vos' y en España 'tú'?",
+  "subtitle": "世界杯决赛中的代词之争：为何阿根廷用『vos』而西班牙用『tú』？",
+  "resumenEs": "El artículo explica las razones históricas, gramaticales y sociales por las que Argentina usa 'vos' y España usa 'tú' como pronombre de confianza. Desde el latín hasta el Siglo de Oro, pasando por la colonización americana y la estigmatización del voseo, el texto traza la evolución de estos dos sistemas pronominales que hoy definen identidades lingüísticas a ambos lados del Atlántico.",
+  "resumenZh": "本文从历史、语法和社会角度解释了阿根廷使用『vos』、西班牙使用『tú』作为亲昵称谓的原因。从拉丁语到西班牙黄金世纪，再经由美洲殖民化进程和对voseo的污名化，文章梳理了这两套代词体系的演变历程，它们如今已成为大西洋两岸各自语言身份认同的标志。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "La del domingo será la primera final de habla hispana del campeonato mundial de fútbol desde la que <strong>disputaron</strong> Argentina y Uruguay en 1930. En esta ocasión, entre ambas selecciones <strong>mediará</strong> un océano y, a través de la distancia, también dos variedades del español diferentes, especialmente a la hora de expresar el trato de confianza. Porque justo antes del encuentro, un español le gritará a Lamine Yamal «¡tú puedes!» mientras que un argentino apelará a Messi diciendo «¡vos podés!».",
+      "zh": "本周日的决赛将是自1930年阿根廷与乌拉圭那场较量以来，世界杯历史上首次全西班牙语的决赛。这一次，两支球队之间横亘着一片大洋，也隔着两种不同的西班牙语变体，尤其体现在表达亲昵称谓的方式上。因为就在比赛前，一个西班牙人会对拉明·亚马尔高喊「¡tú puedes!」，而一个阿根廷人则会呼唤梅西：「¡vos podés!」。",
+      "vocab": [
+        {
+          "word": "disputaron",
+          "translation": "（两队）争夺，角逐，对阵",
+          "note": "disputar 在体育语境中意为「争夺、角逐某场比赛或奖项」，固定搭配为 disputar un partido/un título/una final，是西语体育新闻的核心动词，比 jugar 更正式，强调竞争性。"
+        },
+        {
+          "word": "mediará",
+          "translation": "横亘，居间，介于两者之间",
+          "note": "mediar 本义为「居中调解」，在此为比喻用法，意为「（距离、差异等）横亘于两者之间」，是书面语中描述间隔或差异的高级动词，如 entre ellos media una gran diferencia（两者之间存在巨大差异）。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "¿Por qué? ¿Cuál es la razón de que en Argentina usen vos y en España tú? Lejos de ser un mero <strong>capricho</strong> geográfico, la utilización de estos pronombres es el resultado de un largo y complejo proceso de evolución histórica, gramatical y social.",
+      "zh": "为什么？阿根廷用vos、西班牙用tú，原因何在？这绝非地理上的随意之举，这些代词的使用是历史、语法与社会长期复杂演变的结果。",
+      "vocab": [
+        {
+          "word": "capricho",
+          "translation": "随意，任性，一时兴起",
+          "note": "capricho 指「毫无理由的任性之举或随机偏好」，lejos de ser un mero capricho 是新闻和学术文章中常见的否定引入句式，用于强调「某现象背后有深刻原因而非偶然」，语气带有纠正误解的意味。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Para comprender la distribución actual, es <strong>imprescindible</strong> remontarse a las raíces latinas de nuestro idioma. El latín contaba con el pronombre tú para dirigirse a un solo individuo y vos para referirse a la pluralidad. Sin embargo, la cortesía pronominal se transformó cuando, como respuesta al <strong>nos mayestático</strong> –empleado tradicionalmente en documentos papales y del discurso de las altas dignidades civiles y eclesiásticas, como reyes o emperadores–, el pronombre vos adquirió un valor de «pluralidad ficticia» dirigido a un único interlocutor al que se le debía reverencia.",
+      "zh": "要理解当今的代词分布格局，追溯我们语言的拉丁语根源是不可或缺的。拉丁语中，tú用于称呼单个个体，vos用于指称复数。然而，代词礼貌体系随后发生了转变——作为对「王室复数」的回应（王室复数传统上用于教皇文件以及国王、皇帝等高级文武官员和教会人士的讲话中），vos获得了一种「虚拟复数」的含义，专门用于称呼应受尊敬的单一对话者。",
+      "vocab": [
+        {
+          "word": "imprescindible",
+          "translation": "不可或缺的，必不可少的",
+          "note": "由 im-（否定）+ prescindible（可省略的）构成，prescindible 来自动词 prescindir de（省去、不考虑），imprescindible 是学术和新闻语境中表达「某事绝对必要」的高频形容词，语气比 necesario 更强。"
+        },
+        {
+          "word": "nos mayestático",
+          "translation": "王室复数，尊严复数",
+          "note": "mayestático/a 来自 majestad（陛下、威严），指「君主或高级权威以复数自称以彰显威严」的语言现象，了解 majestad 这一词根有助于理解 majestuoso（雄伟的）、majestuosamente 等派生词。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Durante la Edad Media y gran parte del Siglo de Oro español, el pronombre vos se empleaba de manera <strong>generalizada</strong> para dirigirse tanto a un individuo como a varios. En el trato en singular, se utilizaba entre nobles o personas de igual rango, mientras que el tú quedaba <strong>reservado</strong> para dirigirse a inferiores (como los sirvientes) o para situaciones de extrema intimidad y familiaridad.",
+      "zh": "在中世纪和西班牙黄金世纪的大部分时期，代词vos被普遍用于称呼单个个体或多人。在单数称谓中，它用于贵族之间或同等级别的人之间，而tú则专门用于称呼下级（如仆人）或极度亲密、熟悉的场合。",
+      "vocab": [
+        {
+          "word": "generalizada",
+          "translation": "普遍的，广泛使用的",
+          "note": "generalizado/a 由动词 generalizar（推广、普及）派生，意为「已被广泛采用的」，de manera generalizada 是「普遍地、广泛地」的固定搭配，是学术和新闻语境中描述某现象广泛存在的高频表达。"
+        },
+        {
+          "word": "reservado",
+          "translation": "专门留给，保留用于",
+          "note": "quedar reservado para 是「被专门保留给某用途或某群体」的固定搭配，在语言学和历史叙述中常用于说明某词汇或形式的专属使用范围，比 usado solo para 更正式。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Con el tiempo, el uso del vos se extendió tanto en la escala social que se <strong>devaluó</strong>: perdió su prestigio y dejó de ser una forma distintiva para el trato de respeto hacia y entre las altas esferas sociales. Precisamente para llenar ese <strong>vacío</strong> de deferencia, a partir del siglo XVI se crearon nuevas formas de tratamiento compuestas, entre las que destacó vuestra merced. Debido a su uso frecuente, se fue <strong>desgastando</strong> fonéticamente a través de los siglos (vuesarced, vuasted, vusted) hasta convertirse en el actual pronombre usted.",
+      "zh": "随着时间推移，vos在社会各阶层的使用范围扩展得如此之广，以至于它贬值了：失去了原有的威望，不再是上层社会之间或对上层社会表达尊重的专属形式。正是为了填补这一礼貌称谓的空白，从16世纪起出现了新的复合称谓形式，其中最突出的是vuestra merced（您的恩典）。由于使用频繁，这一形式在数百年间经历了语音磨损（vuesarced、vuasted、vusted），最终演变为今天的代词usted。",
+      "vocab": [
+        {
+          "word": "devaluó",
+          "translation": "贬值，失去价值",
+          "note": "devaluar 本为经济术语，指「货币贬值」，此处比喻语言形式「失去社会威望」，是跨领域使用的高频比喻动词，前缀 de- 表示「向下、减少」，同类词如 degradar、depreciar。"
+        },
+        {
+          "word": "vacío",
+          "translation": "空白，缺口，真空",
+          "note": "vacío 本义为「空的、真空」，在社会和语言学语境中比喻「某功能或角色的缺失留下的空白」，llenar un vacío（填补空白）是高频固定搭配，常用于描述制度、语言或市场中的缺口。"
+        },
+        {
+          "word": "desgastando",
+          "translation": "磨损，侵蚀，逐渐消耗",
+          "note": "desgastar 由 des-（去除）+ gastar（消耗）构成，本指物理磨损，在语言学中指「词汇因高频使用而发生语音简化」的过程，即「语音侵蚀」，是语言演变研究的核心概念词。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "A partir de los siglos XVI y XVII, los sistemas de tratamiento de nuestra lengua se <strong>reorganizaron</strong>. En la España peninsular, el pronombre vos terminó por desaparecer casi por completo del habla cotidiana. De esta forma, el sistema europeo se simplificó dejando tú como la forma habitual para el trato de confianza, en clara oposición al usted, que asumió el rol de respeto. Asimismo, para eliminar la <strong>ambigüedad</strong> etimológica del plural, se consolidó el pronombre vosotros, empleado exclusivamente en la confianza plural, en oposición a ustedes. Sin embargo, esta distinción entre confianza y respeto en el plural no se aplica en todo el territorio español; en las islas Canarias y en la Andalucía occidental se suprimió esta oposición al emplearse únicamente la forma ustedes para designar a la segunda persona del plural.",
+      "zh": "从16至17世纪起，我们语言的称谓体系经历了重组。在伊比利亚半岛，代词vos几乎从日常口语中彻底消失。由此，欧洲西班牙语体系得到简化，tú成为亲昵称谓的常规形式，与承担尊称功能的usted形成鲜明对立。与此同时，为消除复数形式的词源歧义，vosotros得以确立，专用于复数亲昵场合，与ustedes相对。然而，这种复数亲昵与尊称的区分并非适用于整个西班牙：在加那利群岛和安达卢西亚西部，这一对立被取消，仅使用ustedes来指称第二人称复数。",
+      "vocab": [
+        {
+          "word": "reorganizaron",
+          "translation": "重组，重新整合",
+          "note": "前缀 re- 表示「再次、重新」，reorganizar 意为「对已有体系进行重新整合」，是描述语言、制度或社会结构演变的学术高频词，同类构词如 reestructurar（重构）、reformular（重新表述）。"
+        },
+        {
+          "word": "ambigüedad",
+          "translation": "歧义，模糊性",
+          "note": "ambigüedad 由形容词 ambiguo（模糊的、有歧义的）派生，-edad 后缀构成抽象名词，是语言学、法律和逻辑学的核心术语，注意 ü 上的分音符（diéresis）在西语中不可省略，否则拼写错误。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Hoy en día, el único <strong>vestigio</strong> del vos en el español peninsular es el denominado «voseo reverencial». Este uso queda muy restringido a actos ceremoniales, contextos litúrgicos o documentos oficiales dirigidos a altas dignidades. Además, gramaticalmente, el voseo reverencial difiere del americano: presenta formas verbales <strong>diptongadas</strong> (por ejemplo, vos sabéis, vos tenéis) y concuerda con los pronombres átonos de segunda persona del plural (os) y el posesivo «vuestro».",
+      "zh": "如今，vos在伊比利亚半岛西班牙语中唯一留存的痕迹是所谓的「尊礼式voseo」。这种用法仅限于典礼场合、宗教礼仪语境或致高级权贵的官方文件。此外，从语法角度看，尊礼式voseo与美洲voseo有所不同：它呈现双元音化的动词形式（例如vos sabéis、vos tenéis），并与第二人称复数的非重读代词（os）及物主代词「vuestro」保持一致。",
+      "vocab": [
+        {
+          "word": "vestigio",
+          "translation": "遗迹，残留痕迹",
+          "note": "与第一段 vestigios 呼应，此处再次出现，指「某已消失现象在现代语言中留下的残余形式」，在语言学中专指「历史语言特征的残存」，是语言演变研究的核心词汇。"
+        },
+        {
+          "word": "diptongadas",
+          "translation": "双元音化的",
+          "note": "diptongo（双元音）是语音学核心术语，指两个元音在同一音节中合并发音，diptongado/a 为其形容词形式，与 monoptongado（单元音化的）构成对比，是理解西语语音演变的关键概念。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "La historia tomó un rumbo muy distinto en el continente americano. Las corrientes colonizadoras y las posteriores divisiones <strong>sociopolíticas</strong> forjaron un mapa dialectal donde el vos <strong>pervivió</strong> con vitalidad como trato de familiaridad en la región del Río de la Plata.",
+      "zh": "历史在美洲大陆走向了截然不同的方向。殖民浪潮与此后的社会政治分化共同塑造了一幅方言地图，在这幅地图上，vos作为亲昵称谓在拉普拉塔河流域地区以勃勃生机延续了下来。",
+      "vocab": [
+        {
+          "word": "sociopolíticas",
+          "translation": "社会政治的",
+          "note": "socio- 前缀来自拉丁语 socius（伙伴、社会），是极高产的构词前缀，如 socioeconómico（社会经济的）、sociocultural（社会文化的）、sociolingüístico（社会语言学的），掌握此前缀可快速识别大量学术复合词。"
+        },
+        {
+          "word": "pervivió",
+          "translation": "延续，存活，留存",
+          "note": "pervivir 由 per-（贯穿始终）+ vivir（生存）构成，强调「在漫长时间中顽强存活」，比 sobrevivir 更强调时间的持久性，是历史和语言学叙述中描述「某特征跨越时代留存」的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Esta distribución no fue casual: las áreas americanas que hoy son mayoritariamente <strong>tuteantes</strong>, como México y Perú, coinciden con las regiones donde se asentaron los <strong>virreinatos</strong> y mantuvieron un contacto más estrecho con la metrópoli. En estas zonas se impuso la norma peninsular que acabó desplazando al vos en favor del tú.",
+      "zh": "这种分布并非偶然：如今主要使用tú称谓的美洲地区，如墨西哥和秘鲁，恰好与当年总督辖区的所在地重合，这些地区与宗主国保持着更为密切的联系。在这些地区，伊比利亚半岛的语言规范得以推行，最终将vos排挤出去，tú取而代之。",
+      "vocab": [
+        {
+          "word": "tuteantes",
+          "translation": "使用tú称谓的，tuteo区的",
+          "note": "由动词 tutear（用tú称呼某人）派生，-ante 后缀表主动含义，tuteante 指「习惯使用tú的人或地区」，与 voseante（使用vos的）构成对比，是西语方言学的专业术语，体现了西语构词的灵活性。"
+        },
+        {
+          "word": "virreinatos",
+          "translation": "总督辖区，副王领地",
+          "note": "virrey（副王、总督）+ -ato（表示职位或管辖区域的后缀）构成，-ato 后缀还可见于 consulado（领事馆）、ducado（公爵领地），是理解西班牙殖民历史词汇的重要构词规律。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Por el contrario, la región rioplatense se caracterizó por un menor trato con la administración central. Esta lejanía permitió que el voseo, libre de la <strong>presión normativa</strong> de los centros virreinales, sobreviviera y evolucionara hasta convertirse en el <strong>pilar</strong> de la identidad lingüística que hoy define a los hablantes de esta región.",
+      "zh": "相反，拉普拉塔河流域地区与中央行政机构的往来相对较少。这种地理上的疏远使得voseo得以摆脱总督辖区规范中心的压力，存活下来并持续演变，最终成为如今定义该地区语言身份认同的基石。",
+      "vocab": [
+        {
+          "word": "presión normativa",
+          "translation": "规范压力，标准化压力",
+          "note": "normativo/a 来自 norma（规范、标准），指「与语言或社会规范相关的」，presión normativa 在社会语言学中专指「来自权威机构或标准语的规范化压力」，是理解语言变体存亡的核心概念。"
+        },
+        {
+          "word": "pilar",
+          "translation": "基石，支柱，核心",
+          "note": "pilar 本义为「建筑柱子」，比喻用法指「支撑某体系或身份认同的核心要素」，是新闻和学术语境中的高频比喻名词，如 pilar de la democracia（民主的基石）、pilar fundamental（根本支柱）。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Sin embargo, esto no siempre fue así. Durante mucho tiempo, el voseo rioplatense estuvo <strong>estigmatizado</strong>. Gramáticos ilustres del siglo XIX y XX, como Andrés Bello o Rufino José Cuervo, lo consideraron un vulgarismo o un «rígido arcaísmo», y las instituciones educativas intentaron <strong>erradicarlo</strong> en favor del tuteo. No obstante, el <strong>arraigo</strong> social del voseo fue más fuerte. En la actualidad, es la única forma de tratamiento de confianza en la Argentina, empleada por todas las clases sociales y en todos los registros, un hecho que fue refrendado oficialmente por la Academia Argentina de Letras en 1982.",
+      "zh": "然而，情况并非一直如此。长期以来，拉普拉塔河流域的voseo饱受污名化。19至20世纪的著名语法学家，如安德烈斯·贝略和鲁菲诺·何塞·库尔沃，将其视为粗俗用法或「僵化的古语」，教育机构也曾试图将其根除，以tú称谓取而代之。然而，voseo的社会根基更为深厚。时至今日，它是阿根廷唯一的亲昵称谓形式，被所有社会阶层在所有语域中使用，这一事实于1982年获得阿根廷语言学院的官方认可。",
+      "vocab": [
+        {
+          "word": "estigmatizado",
+          "translation": "被污名化的，被贴上负面标签的",
+          "note": "estigmatizar 来自希腊语 stigma（烙印），指「对某群体或现象贴上负面社会标签」，是社会学和语言学的核心术语，近年在心理健康和社会议题讨论中极为高频，如 estigma social（社会污名）。"
+        },
+        {
+          "word": "erradicarlo",
+          "translation": "根除它，彻底消灭",
+          "note": "erradicar 来自拉丁语 radix（根），字面意思是「连根拔除」，比 eliminar 语气更强，强调「彻底、从根本上消除」，常用于疾病、贫困、歧视等语境，如 erradicar la pobreza（根除贫困）。"
+        },
+        {
+          "word": "arraigo",
+          "translation": "根基，扎根程度，深厚基础",
+          "note": "arraigo 由动词 arraigar（生根、扎根）派生，指「某事物在社会或文化中扎根的深度」，tener arraigo（有深厚根基）是固定搭配，常用于描述语言、习俗或信仰在社会中的稳固程度。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Desde el punto de vista <strong>morfológico</strong>, el voseo rioplatense presenta una serie de rasgos distintivos. En el ámbito pronominal, vos funciona como sujeto (vos sabés) y como término de preposición (con vos, para vos), pero toma prestado del paradigma del tú el pronombre átono (te) y el posesivo (tu, tuyo). En lo verbal, se caracteriza por las llamadas <strong>desinencias</strong> monoptongadas en el presente de indicativo (cantás, tenés, partís), que surgieron por la contracción de las antiguas desinencias de segunda persona del plural (-ádes > -áes > -ás y -édes > -ées > -és), aunque en el español europeo se perdieron hacia mediados del siglo XVI. Además tuvo lugar la omisión de la -d final en el imperativo (cantá, tené, partí).",
+      "zh": "从形态学角度来看，拉普拉塔河流域的voseo呈现出一系列独特特征。在代词层面，vos充当主语（vos sabés）和介词宾语（con vos、para vos），但借用了tú范式中的非重读代词（te）和物主代词（tu、tuyo）。在动词层面，其特征是陈述式现在时中所谓的单元音化词尾（cantás、tenés、partís），这些词尾源于古代第二人称复数词尾的缩合（-ádes > -áes > -ás；-édes > -ées > -és），尽管这些形式在欧洲西班牙语中于16世纪中叶前后已经消失。此外，命令式中还发生了词尾-d的省略（cantá、tené、partí）。",
+      "vocab": [
+        {
+          "word": "morfológico",
+          "translation": "形态学的，词形变化的",
+          "note": "morfología 由希腊语 morphe（形态）+ logos（学问）构成，是语言学研究词形变化规律的分支，morfológico/a 为其形容词，掌握 morfo- 词根有助于理解 morfema（词素）、morfosintaxis（形态句法）等术语。"
+        },
+        {
+          "word": "desinencias",
+          "translation": "词尾，屈折词缀",
+          "note": "desinencia 是语法学术语，指「动词或名词词尾的屈折变化部分」，如人称词尾、格词尾等，是理解西语动词变位体系的核心概念，与 terminación（词尾）近义，但 desinencia 更专业、更学术。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "A esto se suma que, en gran parte del continente americano, el pronombre vosotros se perdió y se conservó ustedes como la única forma para el plural, tanto para el trato de confianza como de respeto. En resumen, la camiseta roja y la <strong>albiceleste</strong> no serán el único rasgo <strong>identitario</strong> que se reflejará en la final del domingo: el uso de los pronombres de segunda persona también diferenciará a argentinos y españoles, como viene siendo habitual desde hace siglos.",
+      "zh": "除此之外，在美洲大陆大部分地区，代词vosotros消失了，ustedes作为复数的唯一形式得以保留，无论亲昵还是尊称场合均如此。总而言之，周日决赛中，红色球衣与蓝白条纹球衣并非唯一能体现身份认同的标志：第二人称代词的使用同样将区分阿根廷人与西班牙人，正如数百年来的惯例一样。",
+      "vocab": [
+        {
+          "word": "albiceleste",
+          "translation": "蓝白条纹的（阿根廷国家队球衣）",
+          "note": "由 albo（白色，拉丁语词根）+ celeste（天蓝色）合成，专指阿根廷国家队的蓝白条纹球衣，是体育新闻中代指阿根廷队的固定词汇，了解 albo- 词根有助于识别 albino（白化病）等词。"
+        },
+        {
+          "word": "identitario",
+          "translation": "身份认同的，认同感相关的",
+          "note": "identitario/a 由 identidad（身份认同）派生，-ario 后缀构成形容词，是社会学、政治学和语言学中的高频词，如 rasgo identitario（身份认同特征）、política identitaria（身份政治），近年在文化讨论中极为常见。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "llenar un vacío",
+      "type": "colocación",
+      "translation": "填补空白，弥补缺口",
+      "usage": "固定搭配，vacío 比喻「某功能或角色缺失留下的空缺」，llenar un vacío 常用于描述制度、语言、市场或情感中的缺口被填补，可搭配 legal、afectivo、lingüístico 等修饰语，是学术和新闻语境的高频表达。",
+      "exampleEs": "La nueva ley vino a llenar un vacío legal que llevaba años generando conflictos.",
+      "exampleZh": "这部新法律填补了一个多年来引发争议的法律空白。"
+    },
+    {
+      "expression": "tomar un rumbo distinto",
+      "type": "colocación",
+      "translation": "走向截然不同的方向，走上另一条路",
+      "usage": "rumbo 本指「航行方向、罗盘方位」，tomar un rumbo 比喻「走向某一方向或发展轨迹」，是历史叙述和新闻评论中描述事态转变的高频搭配，如 tomar un rumbo inesperado（走向意想不到的方向）。",
+      "exampleEs": "Tras la crisis, la economía del país tomó un rumbo completamente distinto al previsto.",
+      "exampleZh": "危机过后，该国经济走上了一条与预期完全不同的道路。"
+    },
+    {
+      "expression": "forjar una identidad",
+      "type": "colocación",
+      "translation": "塑造身份认同，锻造认同感",
+      "usage": "forjar 本义为「锻造金属」，比喻「通过长期努力塑造某种特质或认同」，语气强调过程的艰辛与主动性，常见搭配还有 forjar un carácter（磨砺性格）、forjar alianzas（缔结联盟），是书面语和演讲中的高频比喻动词。",
+      "exampleEs": "Décadas de historia compartida forjaron una identidad cultural única en la región.",
+      "exampleZh": "数十年的共同历史在该地区锻造出了一种独特的文化认同。"
+    },
+    {
+      "expression": "venir siendo habitual",
+      "type": "estructura gramatical",
+      "translation": "一直以来都是惯例，长期如此",
+      "usage": "venir + gerundio 是西语中表达「某状态或行为持续至今」的渐进体结构，强调「从过去延续到现在的持续性」，比 ser habitual 更强调时间跨度，常与 desde hace + 时间搭配，是B2以上的重要语法结构。",
+      "exampleEs": "El uso del subjuntivo en estas construcciones viene siendo habitual en el español formal desde hace siglos.",
+      "exampleZh": "这类结构中虚拟式的使用，数百年来在正式西班牙语中一直是惯例。"
+    }
+  ]
+}

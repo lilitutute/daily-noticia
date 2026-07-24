@@ -1,0 +1,162 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "文化与社会",
+  "difficulty": "B2",
+  "wordCount": "约550词",
+  "title": "Ni sol ni bikinis ni porno",
+  "subtitle": "不晒太阳、不穿比基尼、也没有色情——中国海滩见闻",
+  "resumenEs": "El autor narra una experiencia en una playa china donde un hombre graba en secreto a su acompañante en bikini. A partir de este incidente, reflexiona sobre las diferencias culturales en torno a la exposición del cuerpo en China: la censura del porno, el ideal de piel blanca y el conservadurismo en espacios públicos, y cómo estas normas pueden derivar en actitudes que vulneran la privacidad de las mujeres.",
+  "resumenZh": "作者讲述了在中国某海滩的一段亲身经历：一名男子偷偷拍摄穿着比基尼晒太阳的同伴。以此为切入点，作者反思了中国在身体暴露方面的文化差异——色情内容的审查、白皮肤的审美理想以及公共场所的保守风气——并探讨这些规范如何可能演变为侵犯女性隐私的行为。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "La playa de una isla cerca de Shanghái está prácticamente vacía al mediodía, como de costumbre cuando el sol <strong>aprieta</strong>. Apenas un puñado de madres juega con sus hijos en la orilla. Algunas se protegen bajo un paraguas. Otras llevan los célebres <strong>facekinis</strong>, esas coloridas máscaras que solo dejan al descubierto los ojos, la nariz y la boca. Y las hay que parecen <strong>enfundadas</strong> en un preservativo gigante: un traje de baño de látex que las cubre de la cabeza a los pies. La consigna es evidente en un país donde la piel clara tradicionalmente ha sido un símbolo de estatus: que el sol no encuentre ni un solo centímetro al descubierto.",
+      "zh": "上海附近一座岛屿的海滩在正午几乎空无一人，这在烈日当头时是常态。只有寥寥几位母亲在岸边陪孩子玩耍。有些人撑着雨伞遮阳，另一些人戴着大名鼎鼎的[脸基尼]——那种只露出眼睛、鼻子和嘴巴的彩色面罩。还有些人看起来像是套进了一个巨大的避孕套：一件从头包到脚的乳胶泳衣。在这个白皙皮肤历来是身份象征的国度，这一切背后的原则显而易见：绝不让阳光照到哪怕一厘米的裸露皮肤。",
+      "vocab": [
+        {
+          "word": "aprieta",
+          "translation": "（太阳）猛烈，（热度）逼人",
+          "note": "apretar 本义为「拧紧、按压」，用于天气时形容「太阳/热浪逼人」，是极具画面感的口语表达，类似用法如 el frío aprieta（寒意逼人），比 hace mucho calor 更生动地道。"
+        },
+        {
+          "word": "facekinis",
+          "translation": "脸基尼（防晒面罩）",
+          "note": "由英语 face + bikini 混合构成的新造词，是中国特有防晒文化的产物，作者在文中加以解释说明，属于文化专有词汇，了解其构词方式有助于理解西语中的混合新词现象。"
+        },
+        {
+          "word": "enfundadas",
+          "translation": "套入，裹进，包裹于",
+          "note": "enfundar 本义为「将物品套入套子/鞘中」，如 enfundar una espada（将剑插入剑鞘），用于人体时带有强烈的比喻色彩，暗示「被紧紧包裹、毫无缝隙」，是B2级别的高级比喻动词。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Mientras observo la escena desde el agua, me fijo en un detalle. Detrás del grupo de madres hay un hombre de mediana edad que avanza <strong>descaradamente</strong> con el móvil en alto hacia mi acompañante, que permanece tumbada sobre la toalla, tomando el sol en bikini. Salgo del agua de inmediato, le sujeto del brazo y le exijo que deje de grabar y borre el vídeo.",
+      "zh": "当我在水中观察这一幕时，注意到了一个细节。在那群母亲身后，一个中年男子厚颜无耻地举着手机，朝我的同伴走去——她正躺在毛巾上，穿着比基尼晒太阳。我立刻从水里出来，抓住他的手臂，要求他停止拍摄并删除视频。",
+      "vocab": [
+        {
+          "word": "descaradamente",
+          "translation": "厚颜无耻地，肆无忌惮地",
+          "note": "由 descaro（厚颜无耻）派生，des-（否定）+ cara（脸）构成，字面意思是「不要脸地」，是西语中极具表现力的副词，同根词有 descarado/a（厚脸皮的人），常用于描述毫无羞耻心的行为。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Su primera reacción es no entender la razón de mi enfado, el cual va en aumento cuando veo que encima se está <strong>descojonando</strong> porque le hace gracia escuchar a un extranjero soltar insultos en chino. Al tipo se le quita la sonrisa cuando es mi acompañante la que, con un abanico más amplio de insultos en su lengua materna, le hace entender que grabar a una mujer sin su <strong>consentimiento</strong> es inaceptable y que, si no borra el vídeo, llamará a la policía.",
+      "zh": "他的第一反应是不明白我为何愤怒，而当我看到他居然还在哈哈大笑——因为听到一个外国人用中文骂人觉得好玩——我的怒火更是不断上涨。等到我的同伴用她母语中更丰富的骂人词汇让他明白，在未经许可的情况下拍摄女性是不可接受的，如果他不删除视频就报警，这家伙的笑容才终于消失。",
+      "vocab": [
+        {
+          "word": "descojonando",
+          "translation": "（粗口）捧腹大笑，笑得不行",
+          "note": "descojonarse 是西班牙口语中极粗俗的俚语，意为「笑得停不下来」，语体极低，仅用于非正式场合，相当于中文的「笑死了」，了解此类词有助于识别原文语气，但写作中应避免使用。"
+        },
+        {
+          "word": "consentimiento",
+          "translation": "同意，许可，知情同意",
+          "note": "由动词 consentir（同意、允许）派生，-miento 后缀构成名词，sin consentimiento（未经同意）是法律和社会议题中的核心词组，近年在性别平等讨论中极为高频，如 consentimiento informado（知情同意）。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Al final, el hombre se disculpa, elimina el vídeo y se marcha. En ese momento, una de las madres protegidas con un facekini se acerca y <strong>suelta</strong> que en esta playa nunca hay mujeres chinas en bikini, como si eso <strong>justificara</strong> la acción del pervertido.",
+      "zh": "最终，那名男子道了歉，删除了视频，然后离开了。就在这时，一位戴着脸基尼的母亲走了过来，随口说道这片海滩上从来没有中国女性穿比基尼，仿佛这句话能为那个变态的行为提供正当理由。",
+      "vocab": [
+        {
+          "word": "suelta",
+          "translation": "随口说出，脱口而出",
+          "note": "soltar 本义为「松开、释放」，在口语中 soltar + 言语内容意为「随口抛出一句话」，带有「不假思索、脱口而出」的含义，常用于转述令人意外或不当的言论，如 soltar un comentario（随口发表评论）。"
+        },
+        {
+          "word": "justificara",
+          "translation": "为……辩护，使……合理化",
+          "note": "此处为虚拟式过去时，出现在 como si（仿佛）之后，como si + 虚拟式是西语中表达「假设性、反事实比较」的固定结构，务必牢记：como si 后面必须接虚拟式，不可用陈述式。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Aquella fue la segunda ocasión en que mi acompañante y yo <strong>sorprendíamos</strong> a un hombre grabándola mientras tomaba el sol en una playa china. Días después comenté la situación con un amigo de Shanghái, que me hizo una <strong>reflexión</strong>: «En China el porno está censurado. Y muchos hombres, sobre todo de zonas menos desarrolladas, nunca han visto a una mujer con poca ropa más allá de su propia esposa. De repente ven a una mujer en bikini y les parece algo tan extraordinario que quieren grabarlo y enseñárselo a sus amigos».",
+      "zh": "那是我和同伴在中国海滩上第二次当场抓到有人偷拍她晒太阳。几天后，我把这件事告诉了一位上海朋友，他的一番话让我若有所思：「在中国，色情内容是被审查的。很多男性，尤其是来自欠发达地区的，除了自己的妻子，从未见过穿着暴露的女性。突然看到一个穿比基尼的女人，他们觉得这是如此不寻常的事，就想把它录下来给朋友看。」",
+      "vocab": [
+        {
+          "word": "sorprendíamos",
+          "translation": "当场抓到，撞见",
+          "note": "sorprender a alguien + 动名词是「当场抓住某人正在做某事」的固定结构，如 sorprender a alguien robando（当场抓住某人偷窃），比 pillar 更正式，是新闻和叙事文体中的高频用法。"
+        },
+        {
+          "word": "reflexión",
+          "translation": "思考，感悟，一番话",
+          "note": "hacer una reflexión 意为「提出一个值得深思的观点」，比 comentario（评论）更强调「经过思考的见解」，在新闻和学术语境中常用于引出专家或人物的深层观点，是B2级别的高频搭配。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "La cultura china sigue manteniendo una idea mucho más <strong>conservadora</strong> sobre la exposición del cuerpo en espacios públicos. Muchas mujeres se sienten más cómodas llevando bañadores enteros, camisetas de lycra y pantalones cortos para nadar. No es una <strong>imposición</strong>, sino una combinación de pudor, costumbre y preferencias estéticas. El problema empieza cuando esa diferencia cultural convierte a algunas mujeres en una atracción y a ciertos hombres les hace creer que pueden grabarlas como si fueran parte del <strong>paisaje</strong>.",
+      "zh": "中国文化在公共场所的身体暴露问题上依然保持着更为保守的观念。许多女性更习惯穿连体泳衣、莱卡T恤和短裤游泳。这并非强制规定，而是羞耻感、习俗与审美偏好的综合体现。问题在于，当这种文化差异将某些女性变成一道「奇观」，并让某些男性误以为可以随意拍摄她们，仿佛她们只是风景的一部分时，麻烦便由此而生。",
+      "vocab": [
+        {
+          "word": "conservadora",
+          "translation": "保守的，守旧的",
+          "note": "conservador/a 在政治语境中意为「保守派的」，在文化和社会语境中意为「传统保守的」，注意根据语境区分，与 progresista（进步的）构成反义对，是新闻和社会评论的核心词汇。"
+        },
+        {
+          "word": "imposición",
+          "translation": "强制，强加，硬性规定",
+          "note": "由动词 imponer（强加、强制）派生，-ción 后缀构成名词，常见于讨论社会规范、宗教或政治强制行为的语境，如 imposición cultural（文化强制）、imposición de normas（强制推行规范）。"
+        },
+        {
+          "word": "paisaje",
+          "translation": "风景，景观，背景",
+          "note": "paisaje 本指「自然风景」，此处为比喻用法，指「背景的一部分、可被随意观赏的客体」，这一比喻隐含强烈的批判意味，暗示某些男性将女性「物化」为风景，是全文主题的点睛之笔。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "el sol aprieta",
+      "type": "expresión coloquial",
+      "translation": "太阳毒辣，烈日当头",
+      "usage": "口语高频表达，apretar 用于天气时形容「热度或寒意逼人」，语气生动，比 hace mucho calor 更有画面感，同样可说 el frío aprieta（寒意逼人），是描述极端天气的地道口语。",
+      "exampleEs": "En agosto el sol aprieta tanto que la gente prefiere quedarse en casa hasta que anochece.",
+      "exampleZh": "八月的太阳太毒了，人们宁愿待在家里等到天黑再出门。"
+    },
+    {
+      "expression": "soltar insultos",
+      "type": "colocación",
+      "translation": "破口大骂，脱口骂出",
+      "usage": "soltar + 言语内容表示「不假思索地说出某话」，带有「脱口而出、毫无保留」的含义，常与 insultos、comentarios、palabrotas 等搭配，语体偏口语，语气生动。",
+      "exampleEs": "Cuando vio que le habían rayado el coche, soltó una sarta de insultos en medio de la calle.",
+      "exampleZh": "当他发现车被划了，当场在大街上破口大骂。"
+    },
+    {
+      "expression": "quitársele la sonrisa",
+      "type": "modismo",
+      "translation": "笑容消失，笑不出来了",
+      "usage": "固定惯用语，字面意思是「笑容从脸上被拿走」，用于描述某人因受到威胁、警告或意外情况而瞬间停止笑容，语气带有「活该」的讽刺意味，口语和书面语均适用。",
+      "exampleEs": "Se le quitó la sonrisa en cuanto el jefe entró a la sala y anunció los recortes.",
+      "exampleZh": "老板一走进会议室宣布裁员，他脸上的笑容立刻消失了。"
+    },
+    {
+      "expression": "como si fuera parte del paisaje",
+      "type": "expresión coloquial",
+      "translation": "仿佛只是风景的一部分，视而不见地对待",
+      "usage": "口语和书面语均可使用，como si + 虚拟式构成反事实比较，整个短语用于批评某人被「物化」或「忽视」，在社会评论和女性主义语境中常用于揭示对人的客体化态度。",
+      "exampleEs": "Los turistas fotografiaban a los aldeanos como si fueran parte del paisaje, sin pedirles permiso.",
+      "exampleZh": "游客们拍摄村民，仿佛他们只是风景的一部分，根本不征求任何人的同意。"
+    },
+    {
+      "expression": "hacer gracia",
+      "type": "expresión coloquial",
+      "translation": "觉得好笑，感到有趣",
+      "usage": "hacerle gracia a alguien 是「某事让某人觉得好笑或有趣」的固定搭配，注意主语是引发笑意的事物，而非感到好笑的人，结构为 algo + le hace gracia + a alguien，是西语口语中极高频的表达。",
+      "exampleEs": "Le hizo mucha gracia que su perro intentara perseguir su propia sombra.",
+      "exampleZh": "她的狗试图追自己影子的样子让她忍俊不禁。"
+    }
+  ]
+}
