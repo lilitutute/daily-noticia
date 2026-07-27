@@ -1,0 +1,336 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会奇闻",
+  "difficulty": "B2",
+  "wordCount": "约1050词",
+  "title": "Las falsas muertes en China... y el 'cadáver' que salió del ataúd porque hacía demasiado calor",
+  "subtitle": "中国的假死事件……以及那具因太热而从棺材里爬出来的『尸体』",
+  "resumenEs": "En China se han registrado varios casos llamativos de personas que fingieron su propia muerte para escapar de la justicia, evadir deudas o reclamar seguros de vida. Desde un conductor ebrio que se enterró en vida hasta una mujer que descubrió que llevaba años oficialmente fallecida, estos episodios revelan tanto la ingeniosidad de los implicados como las grietas del sistema administrativo y judicial chino.",
+  "resumenZh": "中国发生了多起引人注目的假死事件，当事人或为逃避法律制裁，或为躲避债务，或为骗取人寿保险。从一名活埋自己的醉驾司机，到一名发现自己在官方档案中已『死亡』多年的女性，这些案例既揭示了当事人的奇特心机，也暴露了中国行政与司法体系的漏洞。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "El ataúd ya estaba bajo tierra cuando llegaron los policías. La familia insistía en que no había nada que investigar. El <strong>cadáver</strong>, aseguraban, había quedado tan <strong>demacrado</strong> por una supuesta sobredosis que nadie, salvo la madre y la abuela, debía verlo. El entierro se había celebrado con una rapidez inusual, sin apenas testigos y antes de que cayera la noche, en una aldea de la provincia central china de Henan.",
+      "zh": "警察赶到时，棺材已经入土。家人坚称没有任何需要调查的事情。他们说，死者因疑似过量服药，面容已经极度憔悴，除了母亲和祖母，任何人都不应该看到遗体。葬礼在河南省中部一个村庄举行，速度异常仓促，几乎没有目击者，天黑之前便已结束。",
+      "vocab": [
+        {
+          "word": "cadáver",
+          "translation": "尸体，遗体",
+          "note": "cadáver 是正式用语，对应英语 cadaver/corpse；口语中有时用 muerto 代替，但在新闻和法律文体中 cadáver 更为规范，注意不要与英语 cadaver 混淆使用场景。"
+        },
+        {
+          "word": "demacrado",
+          "translation": "憔悴的，面容枯槁的",
+          "note": "demacrado 专指因疾病、饥饿或极度疲劳导致的面容消瘦憔悴，比 delgado（瘦）语气更强，带有病态含义，常出现在新闻或文学描写中。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Sin <strong>certificado de defunción</strong>, sin constancia de cremación, la Policía comenzó a sospechar que el muerto podía seguir vivo. Y así era.",
+      "zh": "没有死亡证明，没有火化记录，警方开始怀疑这个『死者』可能仍然在世。事实正是如此。",
+      "vocab": [
+        {
+          "word": "certificado de defunción",
+          "translation": "死亡证明",
+          "note": "certificado 是『证书、证明文件』的通用词，可搭配多种名词构成固定表达，如 certificado de nacimiento（出生证明）、certificado médico（医疗证明），是行政文体中的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Los <strong>fiscales</strong> de la ciudad de Anyang han revelado esta semana un caso que ha causado un enorme <strong>revuelo</strong> en las redes sociales chinas: un hombre acusado de conducir ebrio fingió su propia muerte con la ayuda de su madre y de su abuela para escapar de la justicia y desaparecer a más de 2.000 kilómetros de distancia.",
+      "zh": "安阳市检察官本周披露了一起在中国社交网络上引发巨大轰动的案件：一名被指控醉驾的男子在母亲和祖母的协助下伪造了自己的死亡，以逃避法律制裁，并消失在两千多公里之外。",
+      "vocab": [
+        {
+          "word": "fiscales",
+          "translation": "检察官",
+          "note": "fiscal 作名词指『检察官』，作形容词则意为『财政的、税务的』（如 año fiscal 财政年度），是典型的一词多义，需根据语境判断，切勿混淆。"
+        },
+        {
+          "word": "revuelo",
+          "translation": "轰动，骚动，哗然",
+          "note": "revuelo 字面意思是『再次飞起、扑腾』，引申为『轩然大波、舒动』，causar/provocar un revuelo 是新闻中描述舆论哗然的高频搭配，语气比 polémica 更强调混乱和骚动。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Todo comenzó en enero del año pasado, cuando el hombre, identificado únicamente por su apellido, Si, fue detenido por conducir bajo los efectos del alcohol. Durante la investigación, la policía descubrió que no era un <strong>infractor primerizo</strong>: ya había sido detenido en dos ocasiones anteriores por conducir ebrio y sin carnet. Estaba en libertad bajo <strong>fianza</strong> a la espera de juicio.",
+      "zh": "一切始于去年一月，这名男子——仅以姓氏『司』作为身份标识——因酒后驾车被捕。调查过程中，警方发现他并非初犯：此前已有两次因醉驾且无驾照被拘的记录。案件等待审判期间，他以缴纳保释金的方式获释。",
+      "vocab": [
+        {
+          "word": "infractor primerizo",
+          "translation": "初犯",
+          "note": "infractor 意为『违法者、违规者』，primerizo 意为『第一次的、初次的』，两词合用构成『初犯』；infractor 比 delincuente（罪犯）语气轻，更多用于交通违规等行政违法场景。"
+        },
+        {
+          "word": "fianza",
+          "translation": "保释金，担保金",
+          "note": "libertad bajo fianza 是法律术语固定搭配，意为『取保候审/保释』；fianza 还可指租房押金，属于一词多义，需结合语境区分法律场景与日常场景。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Según declaró posteriormente, el miedo a ingresar en prisión, unido a las deudas que acumulaba y a sus <strong>antecedentes</strong>, terminó empujándole a <strong>idear</strong> su falsa muerte. En junio del año pasado puso en marcha la farsa. Compró un ataúd, esparció por su vivienda varios frascos vacíos de medicamentos para simular una sobredosis y utilizó equipos de refrigeración para bajar la temperatura de su cuerpo mientras contenía la respiración, recreando el aspecto de un cadáver.",
+      "zh": "他事后供述，对入狱的恐惧，加上累积的债务和前科，最终将他推向了策划假死的念头。去年六月，他开始实施这场闹剧。他买来一口棺材，在住所四处散放空药瓶以模拟过量服药的现场，并借助制冷设备降低体温，同时屏住呼吸，重现出一具尸体的外观。",
+      "vocab": [
+        {
+          "word": "antecedentes",
+          "translation": "前科，犯罪记录",
+          "note": "antecedentes 在法律语境中专指『前科、案底』，常以复数形式出现，如 tener antecedentes penales（有犯罪前科）；在其他语境中也可泛指『背景、先例』，是一词多义的典型词。"
+        },
+        {
+          "word": "idear",
+          "translation": "策划，构思，想出（计划）",
+          "note": "idear 意为『想出、构思』，强调创造性地设计某个方案或计划，比 pensar 更正式，常用于描述精心策划的行动，如 idear un plan（策划一个方案）。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Su madre y su abuela completaron la <strong>representación</strong>. Explicaron a los vecinos que el rostro del supuesto fallecido había quedado irreconocible por los efectos de las drogas y cubrieron la cabeza con una sábana durante el <strong>velatorio</strong>. Antes del anochecer enterraron el ataúd con rapidez, mientras Si emprendía la huida hacia la provincia de Yunnan, en el suroeste del país.",
+      "zh": "他的母亲和祖母完成了这场表演的收尾。她们向邻居解释，死者的面容因毒品影响已面目全非，并在守灵期间用一块床单遮住了头部。天黑之前，棺材被迅速下葬，而司某则已踏上逃往中国西南部云南省的逃亡之路。",
+      "vocab": [
+        {
+          "word": "representación",
+          "translation": "表演，演出；（此处）一场戏，骗局",
+          "note": "representación 的核心义是『表演、演出』，此处引申为精心设计的欺骗行为，带有讽刺意味；在正式语境中也可指『代表、代理』（如 representación diplomática 外交代表），是一词多义的重要词。"
+        },
+        {
+          "word": "velatorio",
+          "translation": "守灵，灵堂",
+          "note": "velatorio 指遗体告别仪式前的守灵活动或场所，词根来自 velar（守夜、守灵）；区别于 funeral（葬礼）和 entierro（下葬），三者指向丧葬流程的不同阶段。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "La investigación fue <strong>desmontando</strong> poco a poco la farsa. Los agentes revisaron grabaciones de cámaras de vigilancia, movimientos bancarios y registros telefónicos hasta concluir que Si seguía vivo. Se inició entonces una operación de búsqueda que terminó hace tres meses con su detención en Yunnan.",
+      "zh": "调查一点一点地拆穿了这场骗局。警方调取了监控录像、银行流水和通话记录，最终确认司某仍然在世。随即展开搜捕行动，三个月前在云南将其逮捕归案。",
+      "vocab": [
+        {
+          "word": "desmontando",
+          "translation": "拆穿，瓦解，推翻",
+          "note": "desmontar 字面意思是『拆卸、拆解』，引申为『推翻、揭穿』某个谎言或论点，如 desmontar un mito（打破一个神话）、desmontar una mentira（拆穿谎言），是新闻评论中的高频动词。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "En mayo de 2017, la Policía de Yongzhou, en la provincia de Hunan, recibió varias <strong>denuncias</strong> de personas que afirmaban haber sido estafadas por una mujer llamada Deng. La sospechosa se había presentado durante meses como una consultora con acceso a inversiones muy rentables. Convenció a amigos, conocidos y otros inversores para que le prestaran grandes cantidades de dinero, prometiendo elevados intereses. Al principio cumplió <strong>puntualmente</strong> con los pagos, lo que aumentó la confianza de las víctimas, pero en realidad devolvía intereses utilizando el dinero que iba obteniendo de nuevos préstamos. Cuando la rueda dejó de girar y las deudas comenzaron a acumularse, desapareció.",
+      "zh": "2017年5月，湖南省永州市警方收到多起报案，举报人均声称遭到一名邓姓女子的诈骗。这名嫌疑人数月来一直以能够获取高回报投资渠道的顾问身份示人。她说服朋友、熟人及其他投资者向她借出大笔资金，并承诺给付高额利息。起初她按时还款，进一步赢得了受害者的信任，但实际上她是用不断从新借款人处获得的钱来偿还利息。当这个资金链断裂、债务开始堆积时，她消失了。",
+      "vocab": [
+        {
+          "word": "denuncias",
+          "translation": "举报，报案，投诉",
+          "note": "denuncia 在法律语境中专指向警方或当局的正式举报或报案，动词形式为 denunciar；注意与英语 denounce 的区别——西语 denunciar 更侧重法律程序上的举报，而非公开谴责。"
+        },
+        {
+          "word": "puntualmente",
+          "translation": "按时地，准时地",
+          "note": "puntual 是典型的假朋友陷阱：它的主要意思是『准时的、按时的』，而非英语 punctual 所强调的『守时』那么简单；此外 puntual 还可表示『具体的、特定的』（如 un caso puntual 一个具体案例），需根据语境判断。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Poco después, los <strong>acreedores</strong> recibieron la noticia de que Deng se había suicidado arrojándose a un río. Sus padres comunicaron que el cuerpo había sido recuperado y enterrado. El funeral se celebró con toda la <strong>solemnidad</strong> habitual y el ataúd fue sepultado en su pueblo natal. Para muchos de los estafados aquello suponía el final definitivo de cualquier posibilidad de recuperar el dinero.",
+      "zh": "不久之后，债权人们收到消息，称邓某已投河自尽。其父母告知众人，遗体已被打捞并下葬。葬礼按照惯常的庄严仪式举行，棺木被安葬于她的故乡。对许多受骗者而言，这意味着追回钱款的任何可能性都已彻底断绝。",
+      "vocab": [
+        {
+          "word": "acreedores",
+          "translation": "债权人，债主",
+          "note": "acreedor 指有权向他人追讨债务的一方，与 deudor（债务人）相对；词根 creer（相信）在此体现为『被信任而借出钱的人』，掌握这一词根有助于理解 crédito（信用/信贷）等相关词汇。"
+        },
+        {
+          "word": "solemnidad",
+          "translation": "庄严，隆重，正式",
+          "note": "solemnidad 来自形容词 solemne（庄严的），常用于描述仪式、场合的正式与庄重程度；con toda la solemnidad 是固定表达，意为『以全套庄严仪式』，多见于描述宗教或官方场合。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Sin embargo, los investigadores encontraron demasiadas <strong>incoherencias</strong>. Nadie había visto realmente el cadáver, el entierro se había organizado con una rapidez poco habitual y el comportamiento de los familiares despertaba sospechas. Tras varios días de vigilancia, descubrieron que los padres mantenían contactos discretos con una persona que se ocultaba en Changsha. La policía montó un <strong>dispositivo</strong> y, apenas cuatro días después del supuesto entierro, encontró a la 『difunta』 perfectamente viva, alojada en un hotel.",
+      "zh": "然而，调查人员发现了太多前后矛盾之处。没有人真正见过遗体，葬礼的筹办速度异常仓促，家属的行为举止也引发了怀疑。经过数日监视，他们发现其父母正在秘密与一名藏匿于长沙的人保持联系。警方随即部署行动，就在所谓葬礼仅仅四天之后，便在一家酒店找到了这位『已故者』——她活得好好的。",
+      "vocab": [
+        {
+          "word": "incoherencias",
+          "translation": "前后矛盾，不一致之处",
+          "note": "incoherencia 由 in-（否定）+ coherencia（连贯性、一致性）构成，指陈述或行为中的逻辑矛盾；在新闻调查报道中是高频词，常以复数形式出现，如 encontrar incoherencias en el relato（发现陈述中的矛盾）。"
+        },
+        {
+          "word": "dispositivo",
+          "translation": "（警方）部署，行动部署；装置",
+          "note": "dispositivo 在日常语境中指『设备、装置』，但在警务新闻中专指『警力部署、行动方案』，如 montar un dispositivo policial（部署警力）；这是典型的语境专义，需注意区分。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Entre todos los casos de falsas muertes registrados en China, pocos resultan tan <strong>devastadores</strong> como el ocurrido en 2018 en el condado de Xinhua, también en la provincia de Hunan. El protagonista era He, un hombre <strong>asfixiado</strong> por las deudas. Convencido de que no podría devolver el dinero, ideó un plan para que su familia cobrara un seguro de vida.",
+      "zh": "在中国所有记录在案的假死案例中，鲜有案例像2018年发生在同属湖南省的新化县那起事件一样令人痛彻心扉。主角是一名姓何的男子，被债务压得喘不过气来。他确信自己无力还清欠款，于是策划了一个让家人领取人寿保险金的方案。",
+      "vocab": [
+        {
+          "word": "devastadores",
+          "translation": "毁灭性的，令人痛彻心扉的",
+          "note": "devastador 来自动词 devastar（彻底摧毁），此处用于描述情感上的毁灭性打击，而非物理破坏；该词在新闻中既可描述自然灾害，也可描述悲剧事件的情感冲击，语气极强。"
+        },
+        {
+          "word": "asfixiado",
+          "translation": "窒息的；（此处）被……压垮的，喘不过气的",
+          "note": "asfixiar 字面意思是『使窒息』，引申为『被压垮、被束缚得无法动弹』，asfixiado por las deudas（被债务压垮）是新闻中的高频比喻用法，生动形象，值得积累。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Sin decírselo a su esposa, contrató una <strong>póliza</strong> de accidentes, en la que ella figuraba como beneficiaria. Días después tomó prestado un coche y, de madrugada, lo lanzó a un río para simular un accidente mortal. El vehículo apareció hundido y él desapareció sin dejar rastro. Todo indicaba que había fallecido. Mientras permanecía escondido esperando que la aseguradora iniciara el proceso de <strong>indemnización</strong>, ignoraba las consecuencias que su 『muerte』 estaba provocando.",
+      "zh": "他瞒着妻子购买了一份意外险，将她列为受益人。数日后，他借来一辆汽车，趁着深夜将其推入河中，以模拟一场致命事故。车辆沉入河底，他本人则消失得无影无踪。一切迹象都表明他已经遇难。他躲藏起来，等待保险公司启动理赔程序，却对自己的『死亡』正在引发的后果浑然不知。",
+      "vocab": [
+        {
+          "word": "póliza",
+          "translation": "保险单，保单",
+          "note": "póliza 在西语中专指保险合同文件，常见搭配有 contratar una póliza（购买保险）、póliza de vida（人寿保险单）、póliza de accidentes（意外险保单），是保险领域的核心词汇。"
+        },
+        {
+          "word": "indemnización",
+          "translation": "赔偿，赔偿金，理赔",
+          "note": "indemnización 指因损失或伤害而获得的经济补偿，动词形式为 indemnizar；在保险、劳动法和事故报道中高频出现，如 cobrar una indemnización（领取赔偿金）。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "Su esposa no pudo <strong>soportarlo</strong> y publicó una larga carta de despedida en redes sociales en la que expresaba que ya no encontraba motivos para seguir viviendo y que deseaba reunirse con su marido. Al día siguiente desapareció junto a sus dos hijos pequeños, de cuatro y dos años. Poco después, los tres fueron encontrados muertos. Cuando el marido supo lo ocurrido, se entregó a la Policía.",
+      "zh": "他的妻子无法承受这一切，在社交网络上发布了一封长长的遗书，表达自己已找不到继续活下去的理由，渴望与丈夫团聚。第二天，她带着两个年幼的孩子——一个四岁，一个两岁——一同失踪。不久之后，三人被发现，均已离世。丈夫得知消息后，向警方自首。",
+      "vocab": [
+        {
+          "word": "soportarlo",
+          "translation": "承受，忍受",
+          "note": "soportar 是典型的假朋友：它不等于英语的 support（支持），而是『忍受、承受』的意思，相当于 aguantar 或 tolerar；no poder soportarlo 意为『无法承受/忍受』，是口语和书面语中都极常用的表达。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "En 2023, un anciano de 84 años de la provincia de Anhui decidió organizar su funeral. Lejos de ocultarse, asistió personalmente a los preparativos y contempló cómo vecinos, familiares y amigos acudían a despedirse de él. Hubo ataúd, rituales funerarios tradicionales, coronas, banquete y decenas de asistentes. Cuando los periodistas le preguntaron por qué había organizado <strong>semejante</strong> ceremonia, respondió con una mezcla de humor y sinceridad: quería saber cuánta gente acudiría el día en que realmente muriera.",
+      "zh": "2023年，安徽省一位84岁的老人决定为自己操办葬礼。他非但没有躲避，反而亲自参与了筹备工作，亲眼目睹邻居、亲属和朋友们前来与他道别。葬礼一应俱全：棺木、传统丧葬仪式、花圈、宴席，以及数十位宾客。当记者问他为何要举办这样一场仪式时，他以幽默与坦诚兼而有之的态度回答：他想知道，等他真正离世那天，会有多少人前来送行。",
+      "vocab": [
+        {
+          "word": "semejante",
+          "translation": "如此的，这样的；类似的",
+          "note": "semejante 有两个常用义：一是『类似的、相似的』（如 son semejantes 它们很相似），二是用于感叹句或强调句中表示『如此这般的』，带有惊讶或不可思议的语气，此处属于后者。"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "es": "En 2023, en la provincia de Hubei, una protesta contra los agentes municipales de gestión urbana terminó <strong>protagonizando</strong> una de las escenas más <strong>surrealistas</strong> de los últimos años. Tras un enfrentamiento con los inspectores, varios vendedores ambulantes denunciaron que uno de sus compañeros había fallecido como consecuencia del incidente. Para exigir responsabilidades, organizaron un velatorio improvisado en plena calle. Colocaron al supuesto muerto dentro de un ataúd y comenzaron una protesta pública que atrajo a numerosos curiosos y medios locales.",
+      "zh": "2023年，湖北省发生了一场针对城管人员的抗议活动，最终上演了近年来最超现实的一幕。与城管发生冲突后，几名街头小贩声称其中一名同伴因事件而身亡。为了追究责任，他们在大街上临时搭起了灵堂。他们将这名所谓的死者放入棺材，开始了一场引来大批围观者和当地媒体的公开抗议。",
+      "vocab": [
+        {
+          "word": "protagonizando",
+          "translation": "主演，成为……的主角",
+          "note": "protagonizar 意为『主演、成为主角』，来自 protagonista（主角），在新闻中常用于描述某人或某事成为某一事件的核心，如 protagonizar un escándalo（成为丑闻主角），是新闻文体的高频动词。"
+        },
+        {
+          "word": "surrealistas",
+          "translation": "超现实的，荒诞的",
+          "note": "surrealista 源自艺术流派『超现实主义』（surrealismo），在新闻和口语中引申为『荒诞离奇、难以置信』，用于描述令人匪夷所思的真实场景，是B2以上文体中的高频形容词。"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "es": "Durante varias horas el hombre permaneció inmóvil, interpretando el papel de cadáver mientras el féretro permanecía cerrado bajo un calor <strong>sofocante</strong>. Finalmente, incapaz de soportar la temperatura y la falta de aire, el supuesto difunto se incorporó delante de todos, abrió el ataúd y salió diciendo que ya no podía aguantar más y que necesitaba beber agua.",
+      "zh": "数小时内，这名男子一动不动地躺着，扮演着尸体的角色，而棺材就在令人窒息的酷热中紧闭着。最终，这位所谓的死者实在无法忍受高温和缺氧，当着所有人的面坐了起来，打开棺盖走了出来，说他再也撑不住了，需要喝水。",
+      "vocab": [
+        {
+          "word": "sofocante",
+          "translation": "令人窒息的，酷热难耐的",
+          "note": "sofocante 来自动词 sofocar（使窒息、扑灭），作形容词描述极度闷热或令人喘不过气的环境；sofocar 还可用于比喻义，如 sofocar una rebelión（镇压叛乱），是一词多义的重要词。"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "es": "Hace un par de años salió a la luz un caso extraordinario cuando una mujer descubrió, al intentar renovar su documento de identidad, que para la Administración china llevaba más de un <strong>lustro</strong> fallecida. La investigación reveló que su marido había conseguido <strong>falsificar</strong> toda la documentación necesaria para certificar oficialmente su defunción, incluyendo certificados relacionados con la cremación y la cancelación de su registro de residencia, el sistema que acredita legalmente la existencia administrativa de cada ciudadano en China. Sobre el papel, la mujer había dejado de existir.",
+      "zh": "两年前，一起非同寻常的案件浮出水面：一名女性在尝试更新身份证时，发现在中国行政系统中，她已经『死亡』超过五年。调查显示，她的丈夫设法伪造了所有必要文件，以正式认定其死亡，包括与火化相关的证明以及户籍注销记录——户籍制度是中国在法律上确认每位公民行政存在的系统。从纸面上看，这名女性已不复存在。",
+      "vocab": [
+        {
+          "word": "lustro",
+          "translation": "五年，一个五年",
+          "note": "lustro 是西语中表示『五年』的专用词，相当于英语的 lustrum，在新闻和文学中用于替代 cinco años 以增加文体变化；类似的时间词还有 década（十年）、siglo（百年）。"
+        },
+        {
+          "word": "falsificar",
+          "translation": "伪造，造假",
+          "note": "falsificar 意为『伪造文件、数据或物品』，来自 falso（假的）；同族词有 falsificación（伪造行为）、falsificador（造假者），词根 fals- 还衍生出 falsedar（歪曲）等词，构词规律清晰。"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "es": "Zeng Jia, una estudiante de 22 años de Wuhan que cursaba estudios relacionados con los servicios funerarios, organizó su funeral. La idea surgió después de asistir al entierro de su abuelo. Se preguntó por qué las personas reciben tantas muestras de afecto cuando ya no pueden <strong>apreciarlas</strong> y decidió experimentar su propio velatorio mientras seguía viva. No <strong>escatimó</strong> en detalles. Alquiló un ataúd, contrató maquilladores especializados en preparar cadáveres, decoró el escenario con flores e invitó a familiares, amigos e incluso a fotógrafos y periodistas. Durante aproximadamente una hora permaneció inmóvil dentro del féretro, abrazando un muñeco de Hello Kitty sobre el pecho, mientras los asistentes desfilaban para despedirse de ella y depositar flores. Al finalizar la ceremonia, se levantó del ataúd y pronunció un discurso: 『Me siento muy bien después de haber estado muerta』.",
+      "zh": "曾佳，武汉一名22岁的殡葬服务专业学生，为自己举办了一场葬礼。这个念头源于她参加祖父葬礼之后。她开始思考，为何人们总是在逝者已无法感受的时候，才给予他们如此多的爱与关怀，于是决定趁自己还活着，亲身体验一场属于自己的守灵仪式。她在细节上毫不吝啬：租来一口棺材，聘请了专业的遗体化妆师，用鲜花布置了现场，并邀请了家人、朋友，乃至摄影师和记者。她在棺材里一动不动地躺了大约一个小时，胸前抱着一个Hello Kitty玩偶，宾客们依次走过，与她道别并献上鲜花。仪式结束时，她从棺材里坐起，发表了一段感言：『死过一次之后，我感觉好极了。』",
+      "vocab": [
+        {
+          "word": "apreciarlas",
+          "translation": "欣赏，感受，珍惜",
+          "note": "apreciar 有多个常用义：『欣赏、珍视』（apreciar la música）、『感受到』（apreciar los detalles）以及『感激』（apreciar el gesto）；此处指逝者已无法『感受、体会』他人的爱意，需根据语境选择最贴切的中文译法。"
+        },
+        {
+          "word": "escatimó",
+          "translation": "吝惜，节省，克扣",
+          "note": "escatimar 意为『在某事上过于节省、吝啬』，no escatimar en 则表示『在……上毫不吝啬、不惜代价』，是固定搭配；常见于 no escatimar esfuerzos（不遗余力）、no escatimar gastos（不惜花费）。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "poner en marcha",
+      "type": "colocación",
+      "translation": "启动，开始实施，付诸行动",
+      "usage": "固定搭配，意为『启动某个计划、项目或机制』，比 empezar 更正式，强调从静止到运转的过程；常见于新闻、政治和商业语境，如 poner en marcha una reforma（启动改革）。",
+      "exampleEs": "El gobierno puso en marcha un nuevo plan de ayudas para las familias afectadas por los incendios.",
+      "exampleZh": "政府启动了一项新的援助计划，为受山火影响的家庭提供帮助。"
+    },
+    {
+      "expression": "sin dejar rastro",
+      "type": "colocación",
+      "translation": "不留痕迹地，消失得无影无踪",
+      "usage": "固定搭配，字面意思是『不留下踪迹』，常与 desaparecer（消失）搭配使用，描述某人或某物彻底消失、毫无线索可循；多见于犯罪、悬疑类新闻报道。",
+      "exampleEs": "El sospechoso abandonó el país sin dejar rastro, lo que complicó enormemente la investigación.",
+      "exampleZh": "嫌疑人不留痕迹地离开了该国，这给调查工作带来了极大困难。"
+    },
+    {
+      "expression": "salir a la luz",
+      "type": "colocación",
+      "translation": "浮出水面，曝光，被披露",
+      "usage": "固定搭配，意为『（隐藏的事实或信息）被公开、被揭露』，常用于新闻报道中描述丑闻、秘密或案件细节的曝光；近义表达有 revelarse、hacerse público，但 salir a la luz 更具画面感。",
+      "exampleEs": "Años después salió a la luz que el director había estado malversando fondos de la empresa.",
+      "exampleZh": "多年后，这名主管一直在挪用公司资金的事实终于浮出水面。"
+    },
+    {
+      "expression": "no escatimar en detalles",
+      "type": "colocación",
+      "translation": "在细节上毫不吝啬，不惜代价地精心筹备",
+      "usage": "no escatimar en + 名词，意为『在某方面毫不吝惜投入』，常见变体有 no escatimar esfuerzos（不遗余力）、no escatimar gastos（不惜花费）；语气积极，强调全力以赴的态度。",
+      "exampleEs": "Los organizadores no escatimaron en detalles para que la boda fuera un evento inolvidable.",
+      "exampleZh": "主办方在细节上毫不吝啬，力求让这场婚礼成为一段难忘的回忆。"
+    },
+    {
+      "expression": "montar un dispositivo",
+      "type": "colocación",
+      "translation": "部署（警力）行动，布置搜查网",
+      "usage": "警务新闻中的高频固定搭配，montar un dispositivo（policial）意为『部署警力、布置行动方案』；montar 在此表示『搭建、部署』，而非字面的『骑乘』，是典型的语境专义用法。",
+      "exampleEs": "Las autoridades montaron un dispositivo de seguridad especial para el partido de fútbol internacional.",
+      "exampleZh": "当局为这场国际足球比赛专门部署了安保行动。"
+    }
+  ]
+}

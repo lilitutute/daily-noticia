@@ -1,0 +1,196 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "读者来信",
+  "difficulty": "B2",
+  "wordCount": "约430词",
+  "title": "Carta de un lector: \"El futuro es una humareda\"",
+  "subtitle": "读者来信：『未来是一片烟雾』",
+  "resumenEs": "Cuatro lectores comparten sus reflexiones sobre la España actual: el primero lamenta los incendios forestales y la inacción política; la segunda denuncia la sobrecarga laboral que sufren las profesoras universitarias a causa de la ley de paridad; el tercero, argentino, reflexiona sobre el prejuicio colectivo tras el Mundial; y la última reivindica el valor de los lazos familiares y comunitarios frente al individualismo del sistema.",
+  "resumenZh": "四位读者分享了他们对当下西班牙的思考：第一位痛惜山火肆虐与政治不作为；第二位揭露大学女教师因性别平等法而承受的额外工作负担；第三位阿根廷读者在世界杯后反思集体偏见；最后一位则呼吁在个人主义盛行的时代重新珍视家庭与社群纽带。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "El verano solía <strong>apetecer</strong>. Si el cielo estaba raro, es que venía una tormenta. Si olía a quemado, era algún primerizo con la paella. Y si caía ceniza, era por los petardos en honor a San Onofre. Aunque no entendíamos lo del \"40 de mayo\" sabíamos que ahí empezaba el festival de cloro, gaseosa y nocilla; paseos en el monte por caminos de arena y vistas a bosques de encinas y pinos <strong>centenarios</strong>. El presente era nuestro y el futuro, sin importar lo que fuera, también.",
+      "zh": "夏天曾经令人向往。天色异常，不过是暴风雨将至。闻到焦糊味，不过是哪个新手在煎海鲜饭。飘落灰烬，不过是为圣奥诺弗雷节燃放的爆竹。虽然我们不懂『五月四十天』是什么意思，却知道那是氯气味、汽水和榛子酱的节日序幕；是在沙土小径上穿行山间，眺望百年栎树与松林的时节。当下是我们的，未来无论是什么，也同样属于我们。",
+      "vocab": [
+        {
+          "word": "apetecer",
+          "translation": "令人向往，使人想要，有吸引力",
+          "note": "apetecer 的用法类似 gustar，以事物为主语，如 me apetece salir（我想出去）；此处用作不及物动词，表示『令人期待、令人渴望』，注意它不能直接以人为主语，这与中文思维不同。"
+        },
+        {
+          "word": "centenarios",
+          "translation": "百年的，有百年历史的",
+          "note": "centenario 由 cien（百）+ -ario（形容词后缀）构成，意为『有百年历史的』；作名词则指『百年纪念』，如 el centenario de la independencia（独立百年纪念），掌握 -ario 后缀可识别大量类似词。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Ahora vamos por la tercera ola de calor del verano. El presente arde y el futuro es una <strong>humareda</strong>. Al final, la Roja era esto: un país ardiendo sin nadie que salga a defenderlo. <strong>Pasto</strong> de negacionistas y pirómanos de lo público. David García. Madrid",
+      "zh": "如今，我们已经迎来今夏第三波热浪。当下在燃烧，未来是一片烟雾。到头来，『红色西班牙』不过如此：一个国家在燃烧，却没有人站出来守护它。成了否认主义者和公共资源纵火犯的口粮。——大卫·加西亚，马德里",
+      "vocab": [
+        {
+          "word": "humareda",
+          "translation": "浓烟，烟雾弥漫",
+          "note": "humareda 指大量浓烟聚集的状态，由 humo（烟）+ 后缀 -areda 构成，表示『大量……』；此处作为标题核心词，兼具字面义（山火浓烟）和比喻义（前途晦暗），是文学性很强的表达。"
+        },
+        {
+          "word": "Pasto",
+          "translation": "口粮，牧草；（此处）猎物，任人宰割的对象",
+          "note": "pasto 字面意思是『牧草、饲料』，引申为『被某种力量吞噬的对象』，ser pasto de 是固定搭配，如 ser pasto de las llamas（被火焰吞噬）；此处用于比喻，语气强烈，带有愤慨色彩。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "He sido <strong>agraciada</strong> con mi quinto tribunal de este curso para una plaza de profesor universitario. ¿Adivinan cuántos de este tipo han tenido mis compañeros hombres? En su mayoría, cero o uno. ¿Alguien se encarga de hacer mi trabajo docente y de investigación mientras yo estoy allí? No, se me <strong>acumula</strong> para después. ¿Me pagan ese trabajo extra? A menos de seis euros la hora.",
+      "zh": "本学期，我已经第五次『荣幸』地被选入大学教职评审委员会。猜猜我的男同事们参加过几次？大多数是零次或一次。我在那里的时候，有人替我完成教学和科研工作吗？没有，全部积压着等我回来处理。这份额外工作有报酬吗？每小时不到六欧元。",
+      "vocab": [
+        {
+          "word": "agraciada",
+          "translation": "被赐予，被选中（此处含反讽）",
+          "note": "agraciado/a 通常指『被赐予好运、获奖』，如 el agraciado con el premio（获奖者）；此处作者用反讽语气，将沉重的额外负担说成『荣幸』，理解这一反讽是读懂全段情感的关键。"
+        },
+        {
+          "word": "acumula",
+          "translation": "积累，堆积，积压",
+          "note": "acumular 意为『积累、堆积』，此处用反身结构 se me acumula，表示工作『对我来说堆积起来』，这种用法强调主语是被动承受者，是西语中表达无奈处境的常见句式。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "¿Desde cuándo ocurre esto? Desde que la última ley de universidades <strong>estipuló</strong> la <strong>paridad</strong> en todos los tribunales, y, para ello, se podía contar con cualquier mujer de una universidad española. En las áreas en las que hay una abrumadora mayoría de hombres, como es el caso de la mía, a las que hemos logrado llegar a titulares o catedráticas nos han cargado con un trabajo extra que nos dificulta avanzar. Por favor, señores (¿y señoras?), pregunten antes a las que estamos en el barro. Magdalena Caballero Campos. Córdoba",
+      "zh": "这种情况从何时开始？自从最新的大学法规定所有评审委员会必须实现性别平等，并为此可以从西班牙任意一所大学抽调女性成员。在我所在的领域，男性占据压倒性多数，而我们这些好不容易晋升为副教授或正教授的女性，被迫承担起额外的工作，这反而阻碍了我们自身的发展。拜托，各位先生（还有女士们？），在做决定之前，先来问问我们这些在泥地里打滚的人吧。——玛格达莱纳·卡瓦列罗·坎波斯，科尔多瓦",
+      "vocab": [
+        {
+          "word": "estipuló",
+          "translation": "规定，明确规定，约定",
+          "note": "estipular 是法律和正式文体中的高频动词，意为『在法律、合同或规章中明确规定』，比 decir 或 establecer 更正式，常用于描述法律条文或合同条款的具体内容。"
+        },
+        {
+          "word": "paridad",
+          "translation": "平等，均等；（此处）性别平等配额",
+          "note": "paridad 来自 par（相等），在政治和社会议题中专指『性别比例均等』，即 paridad de género；注意与 igualdad（平等）的区别：paridad 强调数量上的对等比例，igualdad 更侧重权利层面的平等。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Muchos argentinos dejamos de ser juzgados por cómo jugaba nuestra selección para ser definidos como un país de tramposos, ladrones o incluso racistas. Ya no se cuestionaban jugadas, sino una identidad. Y dolió. Esa sensación de <strong>impotencia</strong> es la misma que millones de personas viven cada día cuando son criticados y <strong>acosados</strong> por su religión, su color de piel, su nacionalidad, su orientación sexual o sus creencias.",
+      "zh": "许多阿根廷人不再只是因为国家队的表现而被评判，而是被定性为一个充满骗子、小偷乃至种族主义者的国家。人们质疑的不再是球场上的动作，而是一种身份认同。这让人很受伤。那种无力感，与每天因宗教信仰、肤色、国籍、性取向或个人信念而遭受批判和骚扰的数百万人所经历的，是同一种感受。",
+      "vocab": [
+        {
+          "word": "impotencia",
+          "translation": "无力感，无能为力",
+          "note": "impotencia 由 im-（否定）+ potencia（力量）构成，意为『无力、无能为力的状态』；在情感语境中指面对不公时的无力感，在医学语境中则有特定含义，需注意区分使用场景。"
+        },
+        {
+          "word": "acosados",
+          "translation": "被骚扰，被迫害，被霸凌",
+          "note": "acosar 意为『骚扰、持续追逼』，acoso 是对应名词，常见搭配有 acoso escolar（校园霸凌）、acoso sexual（性骚扰）、acoso laboral（职场骚扰）；注意它强调持续性和压迫性，比 molestar 语气严重得多。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Criticar nunca puede convertirse en <strong>condenar</strong> comunidades o pueblos. La próxima copa será dentro de cuatro años. Ojalá nosotros, los que no jugamos, aprovechemos ese tiempo para llegar siendo mejores personas y no olvidemos lo que se siente cuando el <strong>prejuicio</strong> tiene nuestro nombre. Santiago Andrés Lucero. Buenos Aires (Argentina)",
+      "zh": "批评永远不能演变为对整个群体或民族的定罪。下一届世界杯还有四年。但愿我们这些不上场的人，能利用这段时间让自己成为更好的人，也不要忘记，当偏见冠上我们自己名字时，那是一种怎样的滋味。——圣地亚哥·安德烈斯·卢塞罗，布宜诺斯艾利斯（阿根廷）",
+      "vocab": [
+        {
+          "word": "condenar",
+          "translation": "谴责；判决；定罪",
+          "note": "condenar 有两个核心义：法律上的『判决、定罪』和道德上的『强烈谴责』；此处兼具两义，暗示将批评升级为对整个群体的『宣判』，是一词多义的典型用法，需结合语境理解。"
+        },
+        {
+          "word": "prejuicio",
+          "translation": "偏见，成见",
+          "note": "prejuicio 由 pre-（预先）+ juicio（判断）构成，意为『预先形成的判断』，即偏见；常见搭配有 tener prejuicios contra（对……有偏见）、superar prejuicios（克服偏见），是社会议题报道中的核心词汇。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Nos hemos creído que la vida era producir y consumir, pero es <strong>otro cantar</strong>. No podemos conformarnos con el simulacro, los <strong>sucedáneos</strong> que nos ofrecen para que no echemos en falta algo que cada vez menos gente va a tener: una estabilidad familiar, económica y laboral. El sistema nos quiere cada vez más solos, porque viviendo en un <strong>cuchitril</strong>, con un perrete y un patinete, no tenemos grandes alicientes por los que luchar.",
+      "zh": "我们一直以为生活就是生产和消费，但其实远不止于此。我们不能满足于这场虚假的表演，满足于那些被提供给我们的替代品——它们的目的，是让我们不去追问那些越来越少的人才能拥有的东西：家庭、经济与职业上的稳定。这个体制希望我们越来越孤独，因为住在一个破烂小屋里，养条小狗、骑辆滑板车，我们就没有什么值得为之奋斗的大目标了。",
+      "vocab": [
+        {
+          "word": "otro cantar",
+          "translation": "另一回事，完全不同的事情",
+          "note": "eso es otro cantar 是西语固定惯用语，字面意思是『那是另一首歌』，实际意思是『那完全是另一回事』；此处省略 eso es，直接用 es otro cantar，语气口语化，表达强烈的转折。"
+        },
+        {
+          "word": "sucedáneos",
+          "translation": "替代品，代用品",
+          "note": "sucedáneo 指功能上可替代原物但品质较低的替代品，带有贬义，暗示『以次充好』；在此处作者用它比喻体制提供的虚假满足感，是B2以上文体中有迁移价值的词汇。"
+        },
+        {
+          "word": "cuchitril",
+          "translation": "破烂小屋，蜗居，陋室",
+          "note": "cuchitril 是带有强烈感情色彩的口语词，指极其狭小、简陋的居住空间，语气比 piso pequeño 更贬义，常用于批评住房条件恶劣或表达对蜗居生活的无奈，是地道的口语表达。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "La vida es que mi abuelo cultive en su huerto tomates e higos para sus hijos y nietos. La vida es cuidado. En los tiempos <strong>individualistas</strong> que corren, formar una familia puede llegar a ser un acto <strong>revolucionario</strong>. Aitana Olmeda. Alicante",
+      "zh": "生活，是我祖父在菜园里为子孙种下西红柿和无花果。生活，是彼此的照料与关怀。在这个个人主义盛行的时代，组建一个家庭，或许已经可以算作一种革命性的行为。——艾塔纳·奥尔梅达，阿利坎特",
+      "vocab": [
+        {
+          "word": "individualistas",
+          "translation": "个人主义的",
+          "note": "individualista 由名词 individualismo（个人主义）派生而来，后缀 -ista 既可构成形容词（个人主义的）也可构成名词（个人主义者）；同类构词如 capitalista、feminista、idealista，-ista 是西语中极高产的后缀。"
+        },
+        {
+          "word": "revolucionario",
+          "translation": "革命性的，颠覆性的",
+          "note": "revolucionario 在此并非字面上的政治革命含义，而是引申为『颠覆常规、具有反抗意味的』；这种将日常行为升华为政治姿态的修辞手法在评论文体中很常见，理解这一比喻义是读懂作者意图的关键。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "es otro cantar",
+      "type": "modismo",
+      "translation": "那是另一回事，完全不同的事情",
+      "usage": "固定惯用语，字面意思是『那是另一首歌』，实际表示『那完全是另一码事』，常用于话题转折或强调某事与之前所说截然不同；口语和书面语均可使用，语气轻松自然。",
+      "exampleEs": "Aprobar el examen teórico fue fácil, pero el práctico es otro cantar.",
+      "exampleZh": "笔试通过很容易，但实操考试就完全是另一回事了。"
+    },
+    {
+      "expression": "estar en el barro",
+      "type": "expresión coloquial",
+      "translation": "在泥地里打滚；身处第一线，亲历其中",
+      "usage": "口语表达，字面意思是『在泥土里』，比喻『亲身处于艰难处境或第一线』，强调说话者有切身经历，而非旁观者；常用于反驳那些脱离实际的决策者，语气带有不满和强调。",
+      "exampleEs": "Antes de proponer soluciones, escuchen a los enfermeros que están en el barro cada día.",
+      "exampleZh": "在提出解决方案之前，先听听那些每天奋战在第一线的护士们怎么说。"
+    },
+    {
+      "expression": "pasto de",
+      "type": "colocación",
+      "translation": "成为……的猎物/口粮；被……吞噬",
+      "usage": "固定搭配，ser pasto de 意为『成为某种破坏力量的牺牲品或猎物』，常见于 ser pasto de las llamas（被大火吞噬）；此处作者将其用于比喻，指国家沦为否认主义者的口粮，语气愤慨，多见于评论文体。",
+      "exampleEs": "El antiguo edificio fue pasto de las llamas antes de que llegaran los bomberos.",
+      "exampleZh": "消防员赶到之前，那栋老建筑已经被大火吞噬。"
+    },
+    {
+      "expression": "echar en falta",
+      "type": "colocación",
+      "translation": "感到缺少，意识到缺失，怀念",
+      "usage": "固定搭配，意为『发现某物不在而感到遗憾或怀念』，相当于 notar la ausencia de；比 extrañar 更强调意识到缺失的那一刻，常用于书面语和口语，后接名词或动词原形。",
+      "exampleEs": "Solo cuando se fue echamos en falta todo lo que hacía por nosotros.",
+      "exampleZh": "直到她离开，我们才意识到她为我们做了多少。"
+    },
+    {
+      "expression": "los tiempos que corren",
+      "type": "expresión coloquial",
+      "translation": "当今时代，如今这个年头",
+      "usage": "固定口语表达，意为『当下这个时代』，通常带有对现状的感慨或批评语气；常出现在句首或句中，如 en los tiempos que corren 或 con los tiempos que corren，是地道的日常和书面语表达。",
+      "exampleEs": "Con los tiempos que corren, ahorrar dinero se ha convertido en un verdadero lujo.",
+      "exampleZh": "在当今这个年头，存下钱来已经成了一种真正的奢侈。"
+    }
+  ]
+}
