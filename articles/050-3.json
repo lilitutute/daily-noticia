@@ -1,0 +1,298 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科学伦理",
+  "difficulty": "C1",
+  "wordCount": "约1100词",
+  "title": "Científicos chinos ocultan la muerte de una niña tras recibir una terapia génica experimental y publican el estudio como un éxito",
+  "subtitle": "中国科学家隐瞒一名女童在接受实验性基因疗法后死亡，并将研究发表为成功案例",
+  "resumenEs": "Una niña de seis años murió en Shanghái tras recibir una terapia génica experimental diseñada específicamente para ella. El hospital y la universidad responsables ocultaron su muerte, y el equipo investigador publicó el estudio en Nature sin mencionar el fallecimiento. Una investigación de la revista Science y Retraction Watch destapó el caso, que sacude los cimientos éticos de la terapia génica en China y a nivel mundial.",
+  "resumenZh": "一名六岁女童在上海接受专为她定制的实验性基因疗法后不治身亡。负责治疗的医院和大学隐瞒了她的死亡，研究团队随后在《自然》期刊发表论文，却对这一致命结果只字未提。《科学》杂志与Retraction Watch的联合调查揭露了此案，令中国乃至全球基因疗法领域的伦理根基受到强烈冲击。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Una niña de seis años que sufría una enfermedad genética rara que le provocaba discapacidad intelectual y autismo murió tras recibir una terapia experimental contra su <strong>dolencia</strong> en China. La muerte de la pequeña no había sido <strong>desvelada</strong> ni por el hospital donde se la trató ni por la universidad que desarrolló la terapia, según <strong>desvela</strong> una investigación del equipo de noticias de la revista Science y el portal Retraction Watch.",
+      "zh": "中国一名六岁女童因患有一种导致智力障碍和自闭症的罕见遗传病，在接受实验性疗法治疗后不治身亡。据《科学》杂志新闻团队与Retraction Watch网站的联合调查披露，无论是为她提供治疗的医院，还是开发该疗法的大学，均未公开这名女童的死亡消息。",
+      "vocab": [
+        {
+          "word": "dolencia",
+          "translation": "病痛，疾患",
+          "note": "dolencia 比 enfermedad 更强调患者所承受的痛苦感受，语气更具文学性；在新闻和医疗报道中常用于替代 enfermedad 以避免重复，两者可互换但 dolencia 更偏书面正式。"
+        },
+        {
+          "word": "desvelada",
+          "translation": "被披露，被揭露，被公开",
+          "note": "desvelar 是新闻文体高频动词，意为『揭露隐藏信息』；注意它还有另一常见义『使人失眠』（el ruido me desvela），属于一词多义，需根据语境判断。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Los padres de la niña habían reunido más de 800.000 dólares para facilitar que científicos y médicos desarrollasen una terapia génica específica para su hija. Este era uno de los <strong>ensayos</strong> del tipo (n=1), con un solo paciente y un tratamiento creado específicamente para él. En este caso se trataba de una sola mutación, una errata de una sola letra química, una A en lugar de una G, en su genoma compuesto por 3.000 millones de letras químicas.",
+      "zh": "这名女童的父母筹集了逾80万美元，资助科学家和医生为女儿开发专属基因疗法。这是一项所谓『n=1』类型的试验——只有一名患者，治疗方案专为其量身定制。具体而言，这是一个单一突变的问题：在由30亿个化学字母组成的基因组中，仅有一个化学字母出现了错误——一个A代替了本应是G的位置。",
+      "vocab": [
+        {
+          "word": "ensayos",
+          "translation": "试验，临床试验；（文学）随笔",
+          "note": "ensayo 是典型的一词多义：在科学语境中指『试验、实验』，在文学语境中指『随笔、散文』；此处为科学义，ensayo clínico（临床试验）是医学报道中的核心固定搭配。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "La muerte de esta paciente <strong>supone</strong> un golpe para todo el campo de la terapia génica, que está consiguiendo resultados históricos en el tratamiento de enfermedades genéticas muy graves. El caso sucede años después de que China <strong>protagonizara</strong> uno de los mayores escándalos de la ciencia mundial, cuando en 2018 el científico He Jiankui editó el genoma de tres bebés sin una justificación válida, creando los primeros seres humanos con genoma modificado y poniéndoles en riesgo de enfermedades graves ocasionadas por las técnicas imperfectas de edición genómica. Jiankui acabó en la cárcel y China <strong>endureció</strong> los controles para ensayos de este tipo en humanos. A día de hoy, el estado de salud, paradero o cualquier otro dato de los tres niños nacidos de esos experimentos delirantes son algunos de los secretos mejor guardados de China.",
+      "zh": "这名患者的死亡对整个基因疗法领域是一次沉重打击——该领域正在攻克多种严重遗传病，并已取得历史性成果。此案发生在中国制造全球科学界最大丑闻数年之后：2018年，科学家贺建奎在缺乏正当理由的情况下编辑了三名婴儿的基因组，创造出首批经过基因改造的人类，并使他们面临因不完善的基因组编辑技术而引发严重疾病的风险。贺建奎最终身陷囹圄，中国也随之收紧了此类人体试验的管控。时至今日，那三名诞生于这些荒诞实验的孩子的健康状况、下落及任何相关信息，仍是中国保守得最严密的秘密之一。",
+      "vocab": [
+        {
+          "word": "supone",
+          "translation": "意味着，构成，相当于",
+          "note": "suponer 在新闻文体中极为常见，意为『意味着、构成』，如 supone un riesgo（构成风险）、supone un avance（意味着一项进步）；注意它不等于英语 suppose（认为），而更接近 represent 或 mean，是典型的假朋友。"
+        },
+        {
+          "word": "protagonizara",
+          "translation": "成为……的主角，主演",
+          "note": "protagonizar 意为『成为某一事件的核心』，此处用虚拟式过去时，因前有 después de que 引导的时间状语从句，当主句与从句主语不同且指已发生之事时，规范书面语用虚拟式过去时，是重要语法考点。"
+        },
+        {
+          "word": "endureció",
+          "translation": "收紧，强化，使更严格",
+          "note": "endurecer 字面意思是『使变硬』，在政策和法规语境中引申为『收紧、强化』，如 endurecer las leyes（收紧法律）、endurecer los controles（加强管控）；前缀 en- 在此表示『使……变成某种状态』，同类词有 enriquecer（使富裕）、enfriar（使变冷）。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Esa única errata en el gen CHD3 producía en la niña el síndrome de Snijders Blok-Campeau, un <strong>trastorno</strong> neurológico y del desarrollo raro — solo se conocen 237 casos en todo el mundo— y no degenerativo que afectaba a sus capacidades cognitivas. La niña recibió la terapia génica en marzo de 2025 en el Hospital Xinhua de Shanghái a través de una inyección en el líquido cerebroespinal que rodea el cerebro y la médula espinal. El tratamiento contenía virus desactivados que debían transportar al encéfalo una terapia basada en la edición de bases. Este tipo de edición genética es una evolución del sistema CRISPR que es capaz de corregir <strong>selectivamente</strong> erratas de una sola letra en el genoma. La niña sufrió una fuerte reacción inmune tras recibir el tratamiento y falleció unos días después. Una investigación interna del hospital confirmó que la causa de su muerte fue la inyección de la terapia, según la investigación publicada el jueves.",
+      "zh": "CHD3基因上的这一单一错误，使这名女童患上了斯奈德斯-布洛克-坎波综合征——一种罕见的神经和发育障碍，全球已知病例仅237例，且为非退行性疾病，主要影响其认知能力。2025年3月，这名女童在上海新华医院接受了基因疗法，通过注射至包裹大脑和脊髓的脑脊液来给药。该疗法所含的灭活病毒负责将一种基于碱基编辑的疗法运送至大脑。这类基因编辑是CRISPR系统的进化版本，能够有针对性地纠正基因组中单个字母的错误。女童在接受治疗后出现强烈免疫反应，数日后不治身亡。据周四发布的调查报告，医院内部调查证实，其死亡原因正是注射该疗法所致。",
+      "vocab": [
+        {
+          "word": "trastorno",
+          "translation": "障碍，紊乱，失调",
+          "note": "trastorno 在医学和心理学语境中专指功能性的『障碍、紊乱』，如 trastorno del sueño（睡眠障碍）、trastorno mental（精神障碍）；与 enfermedad（疾病）相比，trastorno 更强调功能层面的失调而非器质性病变。"
+        },
+        {
+          "word": "selectivamente",
+          "translation": "有选择性地，针对性地",
+          "note": "selectivamente 来自形容词 selectivo（有选择性的），后缀 -mente 将形容词转化为副词；同类构词如 específicamente（具体地）、progresivamente（逐步地），掌握 -mente 后缀可快速构建大量副词。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "En 2023, los padres de la muchacha, en busca de un posible tratamiento, habían encontrado en un foro de la red de mensajería Wechat a Zilong Qiu, un prestigioso neurocientífico de la Facultad de Medicina Jiao Tong de Shanghái que se ofreció desarrollar una terapia para la pequeña. El investigador es miembro de la Academia Nacional de Ciencias de China, y lleva años intentando desarrollar terapias génicas contra el síndrome de Rett, una enfermedad rara que provoca autismo en niños de corta edad. Los <strong>progenitores</strong> financiaron ellos mismos el trabajo de investigación previo para desarrollar ratones con la mutación de su hija y hacer los experimentos <strong>preclínicos</strong>, primero en roedores, y después en monos.",
+      "zh": "2023年，这名女童的父母在寻找可能的治疗方案时，通过微信的一个论坛找到了裘子龙——上海交通大学医学院的知名神经科学家，他主动提出为这名女童开发疗法。该研究员是中国科学院院士，多年来一直致力于开发针对雷特综合征的基因疗法，该病是一种导致幼儿自闭症的罕见病。父母自行出资，资助了前期研究工作，包括培育携带女儿基因突变的小鼠，并先后在啮齿动物和猴子身上开展临床前实验。",
+      "vocab": [
+        {
+          "word": "progenitores",
+          "translation": "父母，双亲",
+          "note": "progenitores 是『父母』的正式书面用语，比 padres 更正式，常见于法律、医学和新闻文体；词根 gen- 与『产生、起源』有关，同族词有 generar（产生）、generación（一代人）、género（性别/类型）。"
+        },
+        {
+          "word": "preclínicos",
+          "translation": "临床前的",
+          "note": "前缀 pre-（在……之前）+ clínico（临床的）= preclínico（临床前的）；pre- 是极高产的前缀，同类词有 precoz（早熟的）、previo（事先的）、predecir（预测），掌握这一前缀可识别大量词汇。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Con los resultados aparentemente positivos de estos experimentos, el equipo de Qiu solicitó permiso para administrar el tratamiento como parte de un ensayo clínico de un solo paciente. El equipo <strong>recurrió</strong> a una vía legal en China que permite que para ciertos ensayos no comerciales impulsados por investigadores no haya que pedir permiso a las autoridades nacionales, que aplican criterios más estrictos, sino solo a las <strong>locales</strong>.",
+      "zh": "凭借这些实验表面上积极的结果，裘子龙团队申请许可，将该疗法作为单一患者临床试验的一部分予以施用。团队援引了中国的一项法律途径——该途径允许研究人员主导的某些非商业性试验无需向标准更为严格的国家主管部门申请许可，只需获得地方当局批准即可。",
+      "vocab": [
+        {
+          "word": "recurrió",
+          "translation": "诉诸，借助，求助于",
+          "note": "recurrir a 是固定搭配，意为『借助、诉诸某种手段或途径』，如 recurrir a la violencia（诉诸暴力）、recurrir a un abogado（求助于律师）；注意它与 acudir a 近义，但 recurrir a 更强调将某物作为解决问题的手段。"
+        },
+        {
+          "word": "locales",
+          "translation": "地方的，当地的",
+          "note": "local 作形容词意为『地方的、当地的』，与 nacional（全国的）相对；此处 autoridades locales（地方当局）与 autoridades nacionales（国家当局）形成对比，是政治和新闻文体中的高频对比搭配。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Los padres no tomaron medidas ante la muerte de su hija hasta que vieron publicado en Nature un estudio del equipo de Qiu donde se describía la nueva terapia génica, pero que no mencionaba que la mutación en cuestión era la de su hija, ni <strong>advertía</strong> del ensayo clínico ni de su fatal resultado. Los progenitores tenían grabadas muchas de sus conversaciones con Qiu, que han sido ahora <strong>analizadas</strong> por Science y Retraction Watch.",
+      "zh": "父母在女儿去世后一直未采取任何行动，直到他们看到裘子龙团队在《自然》期刊发表了一篇描述这一新型基因疗法的论文——该论文既未提及涉事突变正是他们女儿的病例，也未披露临床试验的存在及其致命结果。父母录下了与裘子龙的大量对话，这些录音现已由《科学》杂志和Retraction Watch进行分析。",
+      "vocab": [
+        {
+          "word": "advertía",
+          "translation": "告知，提醒，警告",
+          "note": "advertir 意为『提醒、警告、告知』，advertir de/sobre algo 是固定搭配，意为『就某事发出警告或提醒』；注意它是假朋友，不等于英语 advertise（做广告），而更接近 warn 或 notify。"
+        },
+        {
+          "word": "analizadas",
+          "translation": "被分析，被研究",
+          "note": "analizar 是新闻和学术文体中的高频动词，名词形式为 análisis（分析）；此处用被动结构 han sido analizadas，是西语中表达被动的常见句式，由 ser + 过去分词构成，过去分词须与主语在性数上保持一致。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "La investigación muestra que las investigaciones con ratones y monos <strong>destaparon</strong> potenciales daños de la terapia que deberían haber frenado el proyecto y <strong>propiciado</strong> más ensayos con animales, según varios expertos, incluido uno de los revisores del estudio publicado en Nature. A pesar de esto el equipo de Qiu siguió adelante con el ensayo.",
+      "zh": "调查显示，包括《自然》期刊该论文的一名审稿人在内的多位专家认为，对小鼠和猴子的研究已揭示出该疗法的潜在危害，这本应叫停该项目，并促使研究团队开展更多动物实验。尽管如此，裘子龙团队仍一意孤行，推进了试验。",
+      "vocab": [
+        {
+          "word": "destaparon",
+          "translation": "揭示，揭露，暴露",
+          "note": "destapar 字面意思是『揭开盖子』，引申为『揭露、暴露』隐藏的问题或信息；与 revelar、desvelar 近义，但 destapar 更口语化，带有突然揭开的动态感，常用于描述丑闻或问题的曝光。"
+        },
+        {
+          "word": "propiciado",
+          "translation": "促成，推动，创造有利条件",
+          "note": "propiciar 意为『促成、为……创造有利条件』，是B2以上正式文体的高频词；比 causar（导致）更强调主动创造条件而非直接引发结果，常见于新闻和学术报道中描述间接推动关系。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "La terapia desarrollada consiste en billones de virus adenoasociados desactivados que portan en su interior el editor de bases. Dado el tamaño de la secuencia genética reparadora, el equipo tuvo que partirla en dos, e incluir una mitad en una parte de los virus y la otra mitad en la otra. Ambas variantes debían llegar hasta el cerebro y penetrar en las neuronas y corregir la errata en una de las dos <strong>hélices</strong> de las que se compone el genoma, justo en el lugar donde está la mutación. Los mecanismos naturales de reparación del ADN corregirían el segundo brazo de la doble hélice, lo que en teoría curaría la enfermedad de la niña.",
+      "zh": "所开发的疗法由数万亿个灭活的腺相关病毒组成，这些病毒内部携带着碱基编辑器。由于修复性基因序列体积过大，团队不得不将其一分为二，分别装入两批病毒中。两种变体均需抵达大脑，穿透神经元，并在基因组的两条链之一上纠正突变所在位置的错误。DNA的天然修复机制随后会修正双链的另一条链，从理论上讲，这将治愈这名女童的疾病。",
+      "vocab": [
+        {
+          "word": "hélices",
+          "translation": "螺旋，链（DNA双链）",
+          "note": "hélice 字面指『螺旋桨、螺旋形』，在生物学中专指DNA的双螺旋结构中的『链』；doble hélice（双螺旋）是分子生物学的核心术语，此处了解其字面构词有助于在科学文本中快速识别。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Poco después de recibir la inyección la paciente tuvo fiebre. Era algo esperable, pero su reacción inmune se <strong>agravó</strong> hasta el <strong>paroxismo</strong> y acabó con su vida. A pesar de que el hospital concluyó que el fallecimiento se debió a una reacción inmune provocada por el tratamiento, la muerte de la niña no se desveló. Los investigadores responsables, con Qiu a la cabeza, no fueron <strong>sancionados</strong> ni retirados de sus puestos. Unos meses después, las autoridades regionales le pusieron al hospital una multa de unos 3.500 dólares. El neurocientífico Zilong Qiu fue uno de las decenas de científicos chinos que condenaron los absurdos experimentos de He Jiankui.",
+      "zh": "患者在接受注射后不久便开始发烧。这在预料之中，但她的免疫反应急剧恶化至极点，最终夺去了她的生命。尽管医院得出结论，认定死亡原因是治疗引发的免疫反应，这名女童的死亡消息仍未被公开。以裘子龙为首的相关研究人员既未受到处分，也未被免除职务。数月后，地方当局对医院处以约3500美元的罚款。神经科学家裘子龙曾是谴责贺建奎荒诞实验的数十名中国科学家之一。",
+      "vocab": [
+        {
+          "word": "agravó",
+          "translation": "恶化，加重，加剧",
+          "note": "agravarse 是反身动词，意为『（病情、局势）恶化、加重』；前缀 a- 在此有强化动作的作用，同类词有 agravar（使恶化）；注意与 empeorar 近义，但 agravarse 更常用于医学和法律语境，语气更正式。"
+        },
+        {
+          "word": "paroxismo",
+          "translation": "极点，顶点，（病情）发作高峰",
+          "note": "paroxismo 指某种情绪、病情或状态达到的极端顶点，在医学中指病情的急性发作高峰，在文学和新闻中则用于描述情绪或事态的极端状态；hasta el paroxismo 是固定搭配，意为『到了极点』。"
+        },
+        {
+          "word": "sancionados",
+          "translation": "被处分，被制裁，被惩处",
+          "note": "sancionar 有两个截然相反的含义：一是『制裁、处分』，二是『批准、认可』（如 sancionar una ley 批准一项法律）；此处为前者，是典型的一词多义，务必根据语境判断，切勿望文生义。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "La publicación del estudio en Nature <strong>impulsó</strong> a los padres de la niña a sacar el caso a la luz. Varios expertos cuestionan la validez del trabajo y piden que se <strong>retire</strong> de la revista.",
+      "zh": "该研究在《自然》期刊的发表，促使这名女童的父母将此案公之于众。多位专家对该研究的有效性提出质疑，并要求期刊将其撤稿。",
+      "vocab": [
+        {
+          "word": "impulsó",
+          "translation": "促使，推动，驱使",
+          "note": "impulsar a alguien a hacer algo 是固定搭配，意为『促使某人做某事』，强调外部力量推动行动的产生；比 motivar 更强调推力的作用，在新闻文体中常用于描述事件触发行动的因果关系。"
+        },
+        {
+          "word": "retire",
+          "translation": "撤回，撤稿，撤销",
+          "note": "retirar 在学术出版语境中专指『撤稿』，即 retirar un artículo/estudio（撤回一篇论文）；此处用虚拟式 se retire，因为前有 piden que 引导的愿望从句，pedir que + 虚拟式是重要语法结构。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Este es uno de los golpes más duros para un campo en <strong>eclosión</strong>. El caso recuerda a la muerte de Jesse Gelsinger, un paciente de 18 años que murió en 1999 durante un ensayo pionero de terapia génica en Estados Unidos. La universidad responsable tuvo que pagar una multa de medio millón de dólares y el investigador principal fue <strong>inhabilitado</strong> durante cinco años por no haber informado claramente de los riesgos que <strong>conllevaba</strong> el tratamiento. Esta muerte detuvo la investigación de terapia génica durante años.",
+      "zh": "这是对一个正处于蓬勃发展阶段的领域所遭受的最沉重打击之一。此案令人联想到杰西·盖尔辛格之死——1999年，这名18岁的患者在美国一项开创性基因疗法试验中不幸离世。负责该试验的大学被迫支付50万美元罚款，首席研究员因未能清晰告知治疗所涉及的风险，被吊销资质长达五年。这一死亡事件使基因疗法研究停滞了数年之久。",
+      "vocab": [
+        {
+          "word": "eclosión",
+          "translation": "蓬勃兴起，破壳而出，迸发",
+          "note": "eclosión 字面指生物学中的『孵化、破壳』，引申为某一领域或现象的『蓬勃兴起、迸发』；campo en eclosión 意为『正在蓬勃发展的领域』，是新闻文体中描述新兴领域的高级表达。"
+        },
+        {
+          "word": "inhabilitado",
+          "translation": "被吊销资质，被取消资格，被禁止执业",
+          "note": "inhabilitar 由 in-（否定）+ habilitar（授权、使具备资格）构成，意为『取消某人的执业资格或从事某活动的权利』；在法律和新闻文体中高频出现，如 inhabilitar para el ejercicio público（禁止担任公职）。"
+        },
+        {
+          "word": "conllevaba",
+          "translation": "伴随，附带，意味着",
+          "note": "conllevar 意为『伴随、附带（某种后果或代价）』，是正式文体的高频词；con- 前缀表示『共同、伴随』，conllevar riesgos（伴随风险）是新闻和学术报道中的固定搭配，比 tener 更强调内在附带性。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "Esta <strong>aproximación</strong> finalmente ha triunfado en los últimos años, gracias en parte a las nuevas tecnologías de edición genética. Por primera vez han hecho posible curar de una vez enfermedades incurables en ensayos clínicos pioneros. Según la investigación publicada este jueves, es posible que Qiu y el resto del equipo no explicaran claramente a los padres los riesgos que conllevaba la terapia.",
+      "zh": "这一研究路径近年来终于取得了突破，部分得益于新型基因编辑技术的发展。这些技术首次使在开创性临床试验中一举治愈不治之症成为可能。据周四发布的调查报告，裘子龙及其团队成员很可能未能向患儿父母清晰说明该疗法所涉及的风险。",
+      "vocab": [
+        {
+          "word": "aproximación",
+          "translation": "研究路径，方法，途径；接近",
+          "note": "aproximación 在科学和学术语境中常指某一研究『方法或路径』，相当于 enfoque 或 método；注意它还有字面义『接近、靠近』，属于一词多义；此处是假朋友，不等于英语 approximation（近似值）。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "\"Esto es un problema de China, donde han pasado cosas como estas antes y ahora han vuelto a pasar\", opina Marcelo Bellusci, pediatra del Hospital 12 de Octubre que participa en varios ensayos de terapia génica contra enfermedades raras. \"En este tipo de ensayos es posible que haya efectos secundarios graves, pero siempre se informa de ello a la familia. Este equipo se ha <strong>saltado</strong> todas las normas <strong>vigentes</strong>\", añade. El pediatra cree que este drama no \"debería\" afectar al desarrollo del campo. \"Aunque aún no está claro, parece que una reacción inmune así se debió probablemente a los adenovirus asociados más que a la terapia génica en sí. Y este tipo de vectores son muy utilizados en terapias que han demostrado efectividad, entre ellas una ya aprobada para tratar la atrofia muscular espinal\", señala. \"La terapia génica está en una fase precoz de desarrollo, es fundamental que todo se haga en un entorno no <strong>sesgado</strong> por ambiciones personales, con garantía máxima para los pacientes y por la propia comunidad científica. Es casi seguro este tratamiento en concreto en China no estaba listo para pasar a ensayo en humanos\", añade.",
+      "zh": "『这是中国的问题，类似的事情以前发生过，现在又再次发生，』马德里十二月医院儿科医生马塞洛·贝卢西表示，他本人参与了多项针对罕见病的基因疗法试验。『在此类试验中，出现严重副作用是有可能的，但必须始终告知家属。这个团队违反了所有现行规范，』他补充道。这位儿科医生认为，这一悲剧『不应该』影响该领域的发展。『尽管目前尚不明朗，但这样的免疫反应似乎很可能源于腺相关病毒本身，而非基因疗法。而这类载体被广泛应用于已证实有效的疗法中，其中包括一种已获批准用于治疗脊髓性肌萎缩症的疗法，』他指出。『基因疗法目前处于早期发展阶段，至关重要的是，一切工作都必须在不受个人野心左右的环境中进行，以患者利益为最高保障，并在科学共同体的监督下开展。几乎可以肯定，中国这一具体疗法尚未准备好进入人体试验阶段，』他补充道。",
+      "vocab": [
+        {
+          "word": "saltado",
+          "translation": "跳过，绕过，违反",
+          "note": "saltarse algo 意为『跳过、无视、违反』规则或程序，如 saltarse un semáforo（闯红灯）、saltarse las normas（违反规定）；这是口语化的固定搭配，语气带有批评色彩，比 incumplir 更生动形象。"
+        },
+        {
+          "word": "vigentes",
+          "translation": "现行的，有效的，在执行中的",
+          "note": "vigente 指法律、规定或协议『目前有效、正在执行中』，normas vigentes（现行规范）是法律和新闻文体的高频搭配；动词形式为 estar en vigor 或 estar vigente，注意不能用 actual 替代，两者含义不同。"
+        },
+        {
+          "word": "sesgado",
+          "translation": "有偏见的，带有倾向性的，失去客观性的",
+          "note": "sesgado 来自 sesgo（偏差、偏向），在学术和新闻文体中指『受某种因素影响而失去客观性』，如 un estudio sesgado（一项有偏差的研究）；是B2以上科学和评论类文章的核心词汇，迁移价值极高。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "sacar el caso a la luz",
+      "type": "colocación",
+      "translation": "将案件公之于众，使真相曝光",
+      "usage": "固定搭配，sacar algo a la luz 意为『将隐藏的事实或信息公开披露』，是新闻调查报道中的高频表达；结构为 sacar + 名词 + a la luz，与 salir a la luz（浮出水面）互为主被动关系。",
+      "exampleEs": "Fueron los propios afectados quienes sacaron el escándalo a la luz, ante el silencio de las instituciones.",
+      "exampleZh": "正是受害者本人在机构沉默之际，将这桩丑闻公之于众。"
+    },
+    {
+      "expression": "seguir adelante con",
+      "type": "colocación",
+      "translation": "继续推进，坚持进行",
+      "usage": "固定搭配，意为『不顾阻碍或反对，继续推进某计划或行动』；常与 el proyecto、el plan、el ensayo 等名词搭配，语气中性，但在负面语境中带有『一意孤行』的批评含义。",
+      "exampleEs": "A pesar de las advertencias de los expertos, la empresa decidió seguir adelante con el lanzamiento del producto.",
+      "exampleZh": "尽管专家发出警告，该公司仍决定继续推进产品发布。"
+    },
+    {
+      "expression": "saltarse las normas",
+      "type": "colocación",
+      "translation": "违反规定，无视规则",
+      "usage": "口语化固定搭配，saltarse 后接规则、程序或禁令，表示『无视、绕过』，语气带有明显的批评色彩；常见变体有 saltarse un semáforo（闯红灯）、saltarse el turno（插队），迁移价值高。",
+      "exampleEs": "El conductor fue multado por saltarse repetidamente las normas de tráfico.",
+      "exampleZh": "这名司机因屡次违反交通规则而被罚款。"
+    },
+    {
+      "expression": "conllevar riesgos",
+      "type": "colocación",
+      "translation": "伴随风险，附带风险",
+      "usage": "固定搭配，conllevar 意为『附带、伴随（某种后果）』，conllevar riesgos 是医学、法律和新闻报道中的高频表达；比 tener riesgos 更正式，强调风险是内在附带的，而非外加的。",
+      "exampleEs": "Toda intervención quirúrgica conlleva riesgos que deben ser explicados al paciente con antelación.",
+      "exampleZh": "每一项外科手术都伴随着风险，必须提前向患者说明清楚。"
+    },
+    {
+      "expression": "con Qiu a la cabeza",
+      "type": "colocación",
+      "translation": "以……为首，由……带头",
+      "usage": "固定结构，a la cabeza 字面意思是『在头部』，引申为『处于领导位置』；con + 人名/名词 + a la cabeza 是描述领导者或牵头人的固定表达，常见于新闻报道，语气正式。",
+      "exampleEs": "El grupo de investigadores, con la directora a la cabeza, presentó sus conclusiones ante el comité científico.",
+      "exampleZh": "以主任为首的研究团队在科学委员会面前陈述了他们的研究结论。"
+    }
+  ]
+}

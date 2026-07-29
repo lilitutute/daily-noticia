@@ -1,0 +1,120 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "生活随笔",
+  "difficulty": "C1",
+  "wordCount": "约380词",
+  "title": "Nadar por razones sentimentales",
+  "subtitle": "因为情感而游泳",
+  "resumenEs": "La autora narra cómo su cachorro, que llevaba días negándose a entrar al mar, finalmente se lanzó al agua nadando cuando vio que su familia se alejaba en una tabla de pádel surf. A través de esta anécdota cotidiana, reflexiona sobre el miedo, el apego y el valor: a veces el miedo a quedarse atrás es más poderoso que el miedo a lo desconocido.",
+  "resumenZh": "作者讲述了她的小狗在连续几天拒绝下水之后，眼看着家人乘桨板渐渐远去，终于纵身跃入大海游了过来。借由这个日常小故事，她思考了恐惧、依恋与勇气的本质：有时候，对被落下的恐惧，比对未知的恐惧更为强大。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Nos subimos a una tabla de pádel surf mi hijo, mi pareja y yo, y el <strong>cachorro</strong>, que se había quedado en la orilla con dos amigas, empezó a pasearse nervioso. Llevábamos varios días tratando de que se metiese en el agua sin resultado. Pone la cara de aquel francés que citaba Iñaki Uriarte en sus Diarios cuando vio por primera vez el mar: \"Tal cantidad de agua es <strong>indecente</strong>\". Yo lo bajo a la playa nada más amanecer, cuando no hay nadie, y me baño (ese baño de las ocho de la mañana en el Atlántico, el baño que anuncia una vida).",
+      "zh": "我儿子、我的伴侣和我一起爬上了桨板，留在岸边陪两位朋友的小狗开始焦躁地踱来踱去。我们已经连续几天试图让它下水，却毫无成效。它摆出那副表情——就像伊尼亚基·乌里亚尔特在他的《日记》里引用的那位法国人第一次见到大海时的神情：『这么多水，简直有伤风化。』我每天一大早就带它去海滩，趁着还没有人，自己下水游泳（那个清晨八点在大西洋里的晨浴，那个预示着一种生活方式的晨浴）。",
+      "vocab": [
+        {
+          "word": "cachorro",
+          "translation": "幼犬，小狗；幼崽",
+          "note": "cachorro 泛指各种动物的幼崽，但最常用于指小狗；与 perro（狗）相比，cachorro 强调年幼和可爱，在日常口语和文学描写中都很常见，也可用于比喻称呼孩子气的年轻人。"
+        },
+        {
+          "word": "indecente",
+          "translation": "有伤风化的，不体面的，过分的",
+          "note": "indecente 字面指『不得体、有伤风化』，但在口语和文学中常用于夸张表达『多得过分、大得离谱』，此处引用法国人的话带有幽默色彩；注意它与英语 indecent 含义基本一致，但夸张用法是西语特色。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Pero el perro no me hace caso. Se queda en la arena bien <strong>pancho</strong>, echando de vez en cuando una <strong>ojeada</strong> al agua, alejándose por momentos pero volviendo siempre a la línea de visión. El día de la tabla, sin embargo, se mojó las patas y no volvió a la arena. Hizo eso que tanto hace, ahora que paso los días <strong>descifrándolo</strong>: mirar para los lados, inquieto, como para pedir permiso. Y, según la tabla se iba yendo, debió entrar en pánico porque ahí vino.",
+      "zh": "但狗狗根本不理我。它心安理得地待在沙滩上，偶尔朝水里瞥上一眼，有时走远几步，却总是回到视线范围之内。然而那天桨板出海，它把爪子打湿了，就再没回到沙滩上。它做了那个它常做的动作——如今我整日都在揣摩它的意思：不安地左顾右盼，像是在征求许可。随着桨板越漂越远，它大概慌了神，于是就游过来了。",
+      "vocab": [
+        {
+          "word": "pancho",
+          "translation": "心安理得的，泰然自若的，满不在乎的",
+          "note": "pancho 是西班牙口语形容词，意为『悠然自得、毫不在意』，常见于 quedarse tan pancho（若无其事地待着），带有轻微的幽默或调侃色彩；这是典型的口语词，正式文体中不常见。"
+        },
+        {
+          "word": "ojeada",
+          "translation": "一瞥，匆匆一看",
+          "note": "ojeada 指快速、随意的一瞥，echar una ojeada 是固定搭配，意为『扫一眼、瞥一下』；与 mirada（目光、凝视）相比，ojeada 更强调短暂性和随意性，类似 vistazo，两者可互换。"
+        },
+        {
+          "word": "descifrándolo",
+          "translation": "解读它，破译它，琢磨它的意思",
+          "note": "descifrar 字面意思是『破译密码』，引申为『解读难以理解的事物』，此处指作者努力理解狗狗的行为和情绪；这种将日常行为比作『破译密码』的用法体现了文学随笔的语言特色。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "La cabecita ansiosa, las patas veloces. Fue recibido con una fiesta y se subió a la tabla <strong>dichoso</strong>, moviendo el rabo de un lado a otro (amable recordatorio de que, cuando lo adoptamos, yo le movía la cola con las manos para que estuviese contento, siguiendo <strong>férreamente</strong> la disciplina que impongo alrededor en verano: \"¿Estás triste? No estés triste\"). No sé si los perros saben nadar desde que nacen; el mío, desde luego, sospechaba otra cosa: que nos íbamos sin él.",
+      "zh": "小脑袋焦急，四爪飞速。它被热烈迎接，欢天喜地地爬上桨板，尾巴左右摇个不停（这让我想起一件事：刚领养它时，我会用手帮它摇尾巴，让它开心，严格贯彻着我夏天在周围人身上推行的那套纪律：『你难过吗？别难过。』）我不知道狗生来是否就会游泳；我家这只，显然以为的是另一件事：我们要丢下它走了。",
+      "vocab": [
+        {
+          "word": "dichoso",
+          "translation": "欢天喜地的，幸福的；（口语）该死的，烦人的",
+          "note": "dichoso 有两个截然不同的用法：正面义指『幸福快乐的』，如此处描述小狗；但在口语中也常用于表达不满或烦躁，如 ese dichoso teléfono（那该死的电话），是典型的一词多义，语气由语境决定。"
+        },
+        {
+          "word": "férreamente",
+          "translation": "坚定地，铁一般地，严格地",
+          "note": "férreamente 来自形容词 férreo（铁制的，引申为坚定不移的），词根 ferr- 与铁有关，同族词有 ferrocarril（铁路）、hierro（铁）；此处带有自嘲的幽默，用夸张的正式词描述一个轻松的生活原则。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Hasta entonces el mar había sido una <strong>extravagancia</strong> de los humanos; luego fue una distancia. Así que supongo que nadó por razones sentimentales, que son las razones que nos enseñan a hacer aquello que necesitamos para sobrevivir. Es sabido que el valor consiste en que el miedo a quedarse atrás sea mayor que el miedo a seguir adelante. Cuando volvimos, corrió por la arena, mordió una cuerda y se <strong>tumbó</strong> al sol.",
+      "zh": "在那之前，大海对它来说不过是人类的一种怪癖；之后，它变成了一段距离。所以我想，它游过来，是出于情感的原因——而正是这样的原因，教会我们去做那些我们为了生存所必须做的事。众所周知，勇气的本质在于：对被落下的恐惧，大于对继续向前的恐惧。回到岸上之后，它在沙滩上撒了会儿欢，咬了咬一根绳子，然后躺在阳光下晒太阳。",
+      "vocab": [
+        {
+          "word": "extravagancia",
+          "translation": "怪癖，奇异之举，异想天开",
+          "note": "extravagancia 指超出常规、令人觉得奇怪的行为或想法，来自 extravagante（古怪的、奢华的）；在此处作者用狗的视角，将人类游泳这件事描述为一种『怪癖』，体现了随笔文体的幽默与独特视角。"
+        },
+        {
+          "word": "tumbó",
+          "translation": "躺下，倒下",
+          "note": "tumbarse 是反身动词，意为『躺下、倒下』，此处用第三人称 se tumbó；与 acostarse（躺下睡觉）相比，tumbarse 更随意，不一定是为了睡觉，常用于描述放松地躺着或倒下的动作。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "no hacer caso",
+      "type": "colocación",
+      "translation": "不理睬，不听话，置之不理",
+      "usage": "固定搭配，no hacer caso（a alguien/algo）意为『不理会某人或某事』，是日常口语中极高频的表达；注意介词用法：no me hace caso（不理我）、no hacer caso de las advertencias（无视警告），语体中性，口语书面均可。",
+      "exampleEs": "Le dije mil veces que no corriese dentro de casa, pero no me hizo ningún caso.",
+      "exampleZh": "我跟他说了一千遍不要在屋里跑，他根本不听。"
+    },
+    {
+      "expression": "quedarse tan pancho",
+      "type": "expresión coloquial",
+      "translation": "若无其事，泰然自若，满不在乎",
+      "usage": "西班牙口语固定表达，描述某人做了令人惊讶的事之后，却表现得毫不在意、心安理得；常带有轻微的调侃或不满语气，多用于描述他人的淡定令说话者感到意外或无奈。",
+      "exampleEs": "Llegó dos horas tarde a la reunión y se quedó tan pancho, sin dar ninguna explicación.",
+      "exampleZh": "他开会迟到了两个小时，却若无其事，连个解释都没有。"
+    },
+    {
+      "expression": "echar una ojeada",
+      "type": "colocación",
+      "translation": "瞥一眼，扫视一下",
+      "usage": "固定搭配，意为『快速地看一眼』，强调随意性和短暂性；与 echar un vistazo 几乎同义可互换，但 ojeada 在文学和书面语中更常见；后接介词 a + 名词，如 echar una ojeada al informe（扫一眼报告）。",
+      "exampleEs": "Antes de salir, echó una ojeada al espejo y ajustó su corbata.",
+      "exampleZh": "出门前，他朝镜子瞥了一眼，整了整领带。"
+    },
+    {
+      "expression": "quedarse atrás",
+      "type": "colocación",
+      "translation": "落后，被落下，掉队",
+      "usage": "固定搭配，字面意思是『留在后面』，引申为『落后于他人、被甩在身后』；文中作者将其升华为哲理：对『被落下』的恐惧是勇气的来源；可用于具体场景（比赛落后）或抽象语境（人生落伍）。",
+      "exampleEs": "En un mundo que cambia tan rápido, quien no se adapta se queda atrás.",
+      "exampleZh": "在这个变化如此之快的世界里，不能适应的人就会被落下。"
+    }
+  ]
+}
