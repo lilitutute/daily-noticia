@@ -1,0 +1,156 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "健康科普",
+  "difficulty": "B2",
+  "wordCount": "约600词",
+  "title": "\"Los mosquitos solo pican si tienes la sangre dulce\" y otros mitos y realidades sobre estos insectos",
+  "subtitle": "『蚊子只叮血甜的人』——关于蚊子的那些迷思与真相",
+  "resumenEs": "Los mosquitos llevan picando a los humanos desde hace dos millones de años, pero muchas creencias populares sobre su comportamiento son falsas. Este artículo repasa los factores que realmente atraen a los mosquitos —como el olor de la piel, el CO2 y el grupo sanguíneo— y desmiente mitos extendidos, como que la diabetes aumenta las picaduras o que hacer una cruz con la uña alivia el picor.",
+  "resumenZh": "蚊子叮咬人类已有两百万年历史，但关于蚊子行为的许多民间说法并不正确。本文梳理了真正吸引蚊子的因素——如皮肤气味、二氧化碳排放量和血型——并逐一破解了广泛流传的迷思，例如糖尿病患者更容易被叮，或用指甲掐十字能缓解瘙痒等说法。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Aunque estos molestos insectos voladores llevan en el planeta Tierra desde el periodo Cretácico, hace más de 100 millones de años, su gusto por la sangre humana es mucho más reciente: comenzaron a picar a nuestros <strong>antepasados</strong> homínidos hace unos dos millones de años. Y desde entonces no han parado de hacerlo, y este verano también nos están picando... aunque a unos más que a otros.",
+      "zh": "尽管这些令人烦恼的飞虫早在一亿多年前的白垩纪便已栖居于地球，但它们对人类血液的偏好却是近得多的事：大约两百万年前，它们才开始叮咬我们的人科祖先。自那以后便从未停歇，今年夏天依然如此——只不过有些人被叮得更多。",
+      "vocab": [
+        {
+          "word": "antepasados",
+          "translation": "祖先，先辈",
+          "note": "antepasado 由 ante-（在……之前）+ pasado（过去的）构成，意为『生活在更早时代的先辈』；前缀 ante- 表示『在……之前』，同类词有 anteayer（前天）、anteponer（置于……之前），是高产前缀。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Las mosquitas, ya que las hembras son las únicas que pican, utilizan una combinación de su olfato y su vista para elegir a qué humano picar. Existen una serie de factores que te <strong>predisponen</strong> para ser una persona atractiva para su picadura: el olor de tu piel, la emisión de dióxido de carbono (CO2) y el grupo sanguíneo.",
+      "zh": "雌蚊——因为只有雌性才会叮人——综合运用嗅觉和视觉来选择叮咬对象。有若干因素会使你更容易成为它们的目标：皮肤气味、二氧化碳排放量以及血型。",
+      "vocab": [
+        {
+          "word": "predisponen",
+          "translation": "使倾向于，使易于，使具有……的倾向",
+          "note": "predisponer 由 pre-（预先）+ disponer（安排、使处于某种状态）构成，意为『预先使某人具有某种倾向』；predisponer a algo 是固定搭配，在医学和心理学文体中常用于描述风险因素，如 predisponer a una enfermedad（使易患某病）。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "El olor de tu piel vendrá <strong>determinado</strong> por el tipo de bacterias que viven sobre nuestra superficie corporal de forma natural. Esos microorganismos se alimentan de nuestro sudor, lo <strong>descomponen</strong>, y al hacerlo producen un olor determinado que puede atraer en mayor o menor medida a los mosquitos.",
+      "zh": "皮肤气味由自然栖居于体表的细菌种类所决定。这些微生物以我们的汗液为食，在分解汗液的过程中产生特定气味，对蚊子的吸引程度因人而异。",
+      "vocab": [
+        {
+          "word": "determinado",
+          "translation": "决定的，特定的；坚定的",
+          "note": "determinado 是一词多义：作过去分词意为『被决定的、由……决定的』；作形容词意为『特定的、某一』（如 en un momento determinado，在某一特定时刻）；还可意为『坚定的』（una persona determinada）；需根据语境判断。"
+        },
+        {
+          "word": "descomponen",
+          "translation": "分解，降解",
+          "note": "descomponer 由 des-（逆向）+ componer（组合）构成，意为『将整体分解为部分』；前缀 des- 表示逆向或否定，同类词有 deshacer（拆开）、desactivar（使失效）、descubrir（揭开），是极高产的前缀。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "La emisión de dióxido de carbono (CO2) que todos los seres humanos <strong>exhalamos</strong> al respirar sirve para atraer a los mosquitos, y lo hará en mayor o menor medida en función de sus características y su cantidad en cada respiración. Varias recientes investigaciones han llegado a la conclusión de que las personas con sangre del tipo 0 son estadísticamente más <strong>propensas</strong> a recibir picaduras de mosquitos, si las comparamos con los tipos A o B.",
+      "zh": "我们呼吸时呼出的二氧化碳能够吸引蚊子，其吸引程度因每次呼吸的特征和气体量而有所不同。多项近期研究得出结论：与A型或B型血的人相比，O型血的人在统计学上更容易被蚊子叮咬。",
+      "vocab": [
+        {
+          "word": "exhalamos",
+          "translation": "呼出，吐出（气体）",
+          "note": "exhalar 意为『呼出（气体）、散发（气味）』，与 inhalar（吸入）相对；两词均来自拉丁语，前缀 ex-（向外）和 in-（向内）清晰体现方向，掌握这对反义词有助于理解医学和科学文本。"
+        },
+        {
+          "word": "propensas",
+          "translation": "容易……的，有……倾向的",
+          "note": "propenso a 是固定搭配，意为『容易出现某种情况、有某种倾向』，如 propenso a enfermar（体弱多病）；在医学和科学报道中极为高频，比 probable 更强调内在的体质或性格倾向。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "\"Si no ves mosquitos a tu alrededor puedes estar tranquilo\": Falso. Aunque no los veas, ellos te están viendo a ti desde muy lejos. Una mosquita puede <strong>localizarte</strong> a más de 50 metros de distancia, y si lo hace y le resultas atractivo volará hasta posarse sobre tu piel y conseguir un poco de tu sangre. \"Si tienes diabetes te pican más\": Para nada. Los mosquitos no te pican más cuando tienes niveles altos de glucosa en sangre. Es una <strong>afirmación</strong> sin ninguna base científica.",
+      "zh": "『周围看不到蚊子就可以放心了』：错。就算你看不见它们，它们也能从很远的地方发现你。雌蚊能在50米以外锁定你的位置，一旦锁定且觉得你有吸引力，便会径直飞来落在你皮肤上吸血。『糖尿病患者更容易被叮』：完全不对。血糖水平高并不会让蚊子更频繁地叮你，它们并不特别喜欢血液中的糖分。这种说法毫无科学依据。",
+      "vocab": [
+        {
+          "word": "localizarte",
+          "translation": "定位你，找到你的位置",
+          "note": "localizar 意为『定位、找到某人或某物的位置』，在新闻和科学文体中高频出现；注意它与 encontrar（找到）的区别：localizar 更强调通过技术或感官手段确定位置的过程，如 localizar una señal（定位信号）。"
+        },
+        {
+          "word": "afirmación",
+          "translation": "说法，断言，陈述",
+          "note": "afirmación 来自动词 afirmar（断言、肯定），指一种明确的陈述或主张；在学术和新闻文体中，una afirmación sin base científica（缺乏科学依据的说法）是批驳伪科学的固定表达，迁移价值高。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "\"En España la picadura de mosquito no transmite enfermedades\": Es cierto que en España no tenemos el mismo riesgo de <strong>contraer</strong> enfermedades por la picadura de un mosquito que en otros países de regiones tropicales o subtropicales, pero sí pueden transmitir enfermedades. El riesgo es muy bajo, la mayoría de los casos que tenemos en España de Zika, Virus del Nilo o Chikungunya son por personas que han viajado a países de riesgo y se han infectado allí, pero la <strong>proliferación</strong> en nuestro país del mosquito tigre ha provocado algunos casos puntuales de transmisión autóctona.",
+      "zh": "『在西班牙，蚊子叮咬不会传播疾病』：确实，西班牙感染蚊媒疾病的风险远低于热带或亚热带地区的国家，但蚊子仍然可以传播疾病。风险极低，西班牙境内的寨卡病毒、西尼罗河病毒或基孔肯雅热病例，大多来自曾前往高风险国家并在当地感染的旅行者，但虎蚊在本国的扩散蔓延已导致少数本土传播病例的出现。",
+      "vocab": [
+        {
+          "word": "contraer",
+          "translation": "感染（疾病），染上；收缩",
+          "note": "contraer 在医学语境中专指『感染、染上疾病』，如 contraer una infección（感染）、contraer matrimonio（缔结婚姻）；注意它还有『收缩、缩短』的字面义，属于一词多义，在医学文体中 contraer una enfermedad 是固定搭配。"
+        },
+        {
+          "word": "proliferación",
+          "translation": "扩散，蔓延，大量繁殖",
+          "note": "proliferación 来自动词 proliferar（大量繁殖、扩散），在生物学、医学和政治语境中均高频出现，如 proliferación nuclear（核扩散）；强调数量的快速增长和蔓延，语气比 aumento（增加）更强烈。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "\"La ropa de color negro atrae a los mosquitos\": Cierto. Aunque el 85% de las probabilidades de ser picado por un mosquito dependen de los factores ya explicados anteriormente, estos insectos tienden a sentirse atraídos por los colores de ropa oscuros y <strong>llamativos</strong>. Por el contrario, tienden a evitar los tonos más claros. \"Si te pica un mosquito, haz una cruz con la uña\": Falso. Se trata de un mito curioso y muy <strong>extendido</strong>, pero que ni cura ni elimina el veneno. Y aunque es posible que se sienta un alivio temporal del picor porque estamos tapando un estímulo con otro, corremos el riesgo de romper la piel y provocar una herida.",
+      "zh": "『深色衣物会吸引蚊子』：正确。尽管被蚊子叮咬的概率85%取决于前文已提及的因素，但这些昆虫确实倾向于被深色和鲜艳的衣物颜色所吸引，相反，它们倾向于回避较浅的色调。『被蚊子叮了，用指甲掐个十字』：错误。这是一个有趣且广为流传的迷思，但既不能治愈，也无法消除毒素。尽管用另一种刺激覆盖原有刺激或许能暂时缓解瘙痒感，但我们可能因此划破皮肤，造成伤口。",
+      "vocab": [
+        {
+          "word": "llamativos",
+          "translation": "鲜艳的，醒目的，引人注目的",
+          "note": "llamativo 来自 llamar（吸引注意），意为『颜色鲜艳或外观醒目、引人注目的』；在描述颜色时带有视觉冲击强的含义，如 colores llamativos（鲜艳的颜色）；注意它可以是中性描述，也可带有『过于张扬』的轻微负面色彩。"
+        },
+        {
+          "word": "extendido",
+          "translation": "广泛流传的，普遍存在的",
+          "note": "extendido 作形容词意为『广泛传播的、普遍存在的』，un mito extendido（广泛流传的迷思）是新闻和科普文体的高频搭配；注意与 generalizado（普遍化的）近义，但 extendido 更强调传播范围广，generalizado 更强调程度的普遍性。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "para nada",
+      "type": "expresión coloquial",
+      "translation": "完全不，根本不，一点也不",
+      "usage": "口语中用于强烈否定某一说法或假设，语气比 no 更强烈，相当于 en absoluto；常单独使用作为回应，也可置于句首引出否定陈述，是日常西语中极为高频的口语表达。",
+      "exampleEs": "¿Te molestó lo que dijo? Para nada, lo entendí perfectamente.",
+      "exampleZh": "他说的话让你不舒服吗？完全没有，我完全理解他的意思。"
+    },
+    {
+      "expression": "llegar a la conclusión de que",
+      "type": "colocación",
+      "translation": "得出……的结论",
+      "usage": "固定搭配，意为『经过研究或推理后得出某一结论』；在学术、新闻和科普文体中极为高频，后接 que 引导的从句；比 concluir que 更强调得出结论的过程，常用于描述研究成果。",
+      "exampleEs": "Tras analizar los datos, los investigadores llegaron a la conclusión de que el estrés acelera el envejecimiento celular.",
+      "exampleZh": "在分析数据后，研究人员得出结论：压力会加速细胞老化。"
+    },
+    {
+      "expression": "correr el riesgo de",
+      "type": "colocación",
+      "translation": "冒……的风险",
+      "usage": "固定搭配，后接动词原形，意为『面临某种负面结果发生的可能性』；在医学、新闻和日常语境中均极为高频，如 correr el riesgo de infectarse（冒感染的风险）；比 arriesgarse a 更正式，多见于书面语。",
+      "exampleEs": "Si no usas protector solar, corres el riesgo de sufrir quemaduras graves.",
+      "exampleZh": "如果不涂防晒霜，你就有遭受严重晒伤的风险。"
+    },
+    {
+      "expression": "en mayor o menor medida",
+      "type": "colocación",
+      "translation": "或多或少，在不同程度上",
+      "usage": "固定搭配，意为『程度有所不同，但均有一定影响』；在学术和新闻文体中用于表达某一因素对不同对象的影响程度存在差异，语气客观，是正式分析类文章的常用表达。",
+      "exampleEs": "Todos nos vemos afectados, en mayor o menor medida, por los cambios en el entorno económico.",
+      "exampleZh": "我们每个人都或多或少地受到经济环境变化的影响。"
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会文化",
+  "difficulty": "B2",
+  "wordCount": "约1000词",
+  "title": "En China, una generación que busca alternativas sin alcohol desafía una cultura empresarial de consumo excesivo",
+  "subtitle": "在中国，寻求无酒精替代品的一代人正在挑战过度饮酒的商业文化",
+  "resumenEs": "Una nueva generación de jóvenes chinos está rechazando la cultura del alcohol que ha dominado las relaciones sociales y profesionales en China durante décadas. La producción de baijiu, el licor nacional, ha caído durante nueve años consecutivos, y las destilerías luchan por adaptarse. Impulsados por razones de salud, bienestar y un rechazo a las presiones coercitivas del entorno laboral, los jóvenes chinos están redefiniendo cómo socializan, en sintonía con una tendencia global hacia el consumo responsable.",
+  "resumenZh": "新一代中国年轻人正在抵制数十年来主导中国社交与职场关系的饮酒文化。国产白酒的产量已连续九年下滑，各大酒厂纷纷寻求转型。出于健康、身体状态和对职场强制饮酒压力的抵触，中国年轻人正在重新定义社交方式，与全球范围内兴起的理性饮酒趋势遥相呼应。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "En la mayoría de las bodas en las que trabaja la maquilladora Chen Xue, los invitados ya no <strong>brindan</strong> con alcohol por los recién casados. \"Es perfectamente normal\", dijo Chen, de 27 años. \"¿Quién quiere champán cuando puede tomar té de burbujas?\".",
+      "zh": "在化妆师陈雪参与的大多数婚礼上，宾客们已不再用酒向新人祝酒。『这很正常，』27岁的陈雪说，『有奶茶喝，谁还要香槟？』",
+      "vocab": [
+        {
+          "word": "brindan",
+          "translation": "祝酒，干杯；提供，给予",
+          "note": "brindar 是典型的一词多义：brindar con algo（用某物干杯）是社交场合的常用义；brindar algo a alguien（向某人提供某物）则是另一常见义，如 brindar una oportunidad（提供一个机会），两义需根据语境区分。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "El alcohol ha sido un elemento fundamental de la vida profesional y social en China durante décadas. Pero ahora, según ejecutivos y analistas del sector, los jóvenes rechazan la presión de beber en exceso, o incluso de no beber en absoluto, lo que forma parte de una <strong>tendencia</strong> global que mejora la salud, pero que <strong>supone</strong> un desafío para un negocio multimillonario.",
+      "zh": "数十年来，酒精一直是中国职业和社交生活的核心元素。但如今，据业内高管和分析人士表示，年轻人开始抵制过度饮酒的压力，甚至拒绝饮酒，这是一股有益健康的全球性趋势的组成部分，但对这一价值数十亿美元的行业而言却构成严峻挑战。",
+      "vocab": [
+        {
+          "word": "tendencia",
+          "translation": "趋势，倾向",
+          "note": "tendencia 在新闻和分析文体中极为高频，常见搭配有 seguir una tendencia（跟随趋势）、marcar tendencia（引领潮流）、tendencia al alza/a la baja（上升/下降趋势）；注意与 moda（时尚、流行）的区别，tendencia 更强调方向性的长期变化。"
+        },
+        {
+          "word": "supone",
+          "translation": "意味着，构成，相当于",
+          "note": "suponer 在新闻文体中意为『意味着、构成』，是假朋友，不等于英语 suppose（认为）；suponer un desafío（构成挑战）、suponer un riesgo（构成风险）是高频固定搭配，务必与 significar 和 representar 一同掌握。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "En Estados Unidos, el movimiento que busca alternativas sin alcohol <strong>impulsa</strong> la demanda de bebidas y bares sin alcohol. Alemania, cuna del Oktoberfest, lidera ahora el mundo en consumo de bebidas sin alcohol. En Corea del Sur, las \"fiestas matutinas\" —fiestas con baile y café en lugar de cócteles— se han vuelto comunes.",
+      "zh": "在美国，寻求无酒精替代品的运动正在推动无酒精饮品和无酒精酒吧的需求增长。德国——啤酒节的发源地——如今在无酒精饮料消费方面已领跑全球。在韩国，『晨间派对』——以舞蹈和咖啡取代鸡尾酒的聚会——已蔚然成风。",
+      "vocab": [
+        {
+          "word": "impulsa",
+          "translation": "推动，促进，驱动",
+          "note": "impulsar 意为『推动、促进』，强调外部力量带动某事物发展；impulsar la demanda（推动需求）、impulsar el crecimiento（推动增长）是经济和新闻报道中的高频搭配，比 aumentar 更强调主动推力的作用。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "En China, el alcohol ha <strong>desempeñado</strong> tradicionalmente un papel clave en la construcción de relaciones, y los brindis son habituales en cenas de negocios, celebraciones familiares y otras reuniones. Para muchos, la presión de beber —o al menos de demostrar su participación con una copa en la mano— ha sido difícil de resistir. Como gerente de cuentas de un parque industrial en Xi'an, Xu Changpeng, de 32 años, pasó un año viajando por el país para conseguir negocios de funcionarios locales. El alcohol, según él, era esencial para <strong>romper el hielo</strong>. Las reuniones iniciales a menudo consistían únicamente en brindis, sin que se permitiera ninguna conversación sustancial sobre negocios.",
+      "zh": "在中国，酒精历来在建立人际关系中扮演着关键角色，商务晚宴、家庭庆典及各类聚会上，祝酒词随处可见。对许多人而言，喝酒的压力——或者至少是手持酒杯以示参与的压力——难以抗拒。32岁的徐长鹏是西安一家工业园区的客户经理，他曾花一年时间走遍全国，向地方官员争取业务。据他说，酒精是打破僵局的必要手段。最初的会面往往只有举杯祝酒，根本不允许进行任何实质性的商业谈话。",
+      "vocab": [
+        {
+          "word": "desempeñado",
+          "translation": "扮演（角色），承担（职责），发挥（作用）",
+          "note": "desempeñar un papel 是固定搭配，意为『扮演某一角色、发挥某种作用』，是新闻和学术文体中描述功能或作用的核心表达；注意 desempeñar 还可指『履行职务』，如 desempeñar un cargo（担任某职位）。"
+        },
+        {
+          "word": "romper el hielo",
+          "translation": "打破僵局，活跃气氛",
+          "note": "romper el hielo 是高频惯用语，字面意思是『打破冰块』，实际指在陌生或尴尬的社交场合中『打破沉默、消除隔阂』；在社交和商务语境中极为常用，与英语 break the ice 完全对应。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "\"Por el ambiente que se respiraba al beber, podíamos saber más o menos si íbamos a <strong>cerrar un trato</strong>\", dijo Xu. \"Algunos... obligaban a la gente a beber para poner a prueba nuestra <strong>disposición</strong> a cooperar\".",
+      "zh": "『从喝酒时的氛围，我们大概能判断出这笔生意是否能谈成，』徐说。『有些人……强迫大家喝酒，以此来考验我们合作的意愿。』",
+      "vocab": [
+        {
+          "word": "cerrar un trato",
+          "translation": "谈成一笔生意，达成交易",
+          "note": "cerrar un trato 是商务语境中的固定搭配，意为『完成谈判、达成协议』；同类表达有 cerrar un acuerdo（达成协议）、cerrar una venta（完成销售），动词 cerrar 在商务文体中有『完成、敲定』的引申义。"
+        },
+        {
+          "word": "disposición",
+          "translation": "意愿，态度；安排，布置",
+          "note": "disposición 是一词多义：disposición a/para hacer algo 意为『做某事的意愿或准备』；a disposición de 意为『供……使用、听候……差遣』；在新闻和外交文体中两义均高频，需结合语境判断。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Pero un número creciente de jóvenes chinos está reduciendo su consumo de alcohol por motivos de salud, <strong>bienestar</strong> físico y económicos. La producción de baijiu, el potente licor nacional, ha disminuido durante nueve años <strong>consecutivos</strong> hasta alcanzar una cuarta parte de su máximo de 2016, según la Oficina Nacional de Estadística, lo que representa una crisis para esta industria de 170 mil millones de dólares. Solo una quinta parte de los encuestados de entre 25 y 35 años mencionó el baijiu, un licor transparente que generalmente se destila del sorgo, como su bebida alcohólica preferida, según una encuesta encargada el año pasado por la destilería Wuliangye.",
+      "zh": "然而，越来越多的中国年轻人出于健康、身体状态和经济方面的考量，正在减少饮酒。据国家统计局数据，国产烈酒白酒的产量已连续九年下滑，降至2016年峰值的四分之一，这对这个规模达1700亿美元的行业而言是一场危机。五粮液酒厂去年委托开展的一项调查显示，在25至35岁的受访者中，仅有五分之一的人将白酒——一种通常以高粱为原料蒸馏而成的透明烈酒——列为自己最喜爱的酒精饮料。",
+      "vocab": [
+        {
+          "word": "bienestar",
+          "translation": "健康状态，身心健康，福祉",
+          "note": "bienestar 由 bien（好）+ estar（状态）构成，泛指身心健康与生活质量；在健康、社会和经济语境中均高频出现，如 bienestar social（社会福祉）、bienestar emocional（情绪健康）；与 salud（健康）相比，bienestar 更强调整体的良好状态。"
+        },
+        {
+          "word": "consecutivos",
+          "translation": "连续的，接连的",
+          "note": "consecutivo 意为『连续不断的』，常与数字搭配，如 tres años consecutivos（连续三年）；注意与 seguido 近义，但 consecutivo 更正式，多见于新闻、统计和学术报道，是描述持续趋势的核心词汇。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Beber menos \"reduce el riesgo de enfermedades crónicas relacionadas con el alcohol y, sin duda, es una buena noticia para la salud pública\", afirmó Pan Xiongfei, epidemiólogo de la Universidad de Sichuan. Investigadores que realizaron un <strong>seguimiento</strong> a más de 500.000 adultos chinos informaron en 2023 que el consumo de alcohol estaba asociado con un mayor riesgo de padecer más de 60 enfermedades. \"A medida que se <strong>acumula</strong> la evidencia, es inevitable que más personas reconozcan los peligros del consumo excesivo de alcohol\", concluyó Pan.",
+      "zh": "四川大学流行病学家潘雄飞表示，少喝酒『能降低酒精相关慢性病的风险，无疑是公共卫生领域的好消息』。2023年，对逾50万名中国成年人进行跟踪研究的研究人员报告称，饮酒与罹患60余种疾病的风险升高存在关联。潘雄飞总结道：『随着证据不断积累，越来越多的人认识到过度饮酒的危害是必然趋势。』",
+      "vocab": [
+        {
+          "word": "seguimiento",
+          "translation": "跟踪，随访，追踪",
+          "note": "seguimiento 来自动词 seguir（跟随），在医学和新闻语境中专指对研究对象或事件的持续追踪；hacer un seguimiento de 是固定搭配，意为『对……进行跟踪/随访』，是科学报道和医疗文体的核心词汇。"
+        },
+        {
+          "word": "acumula",
+          "translation": "积累，累积",
+          "note": "acumular 意为『积累、累积』，前缀 a- 在此有强化动作的作用；acumularse la evidencia（证据不断积累）是学术和新闻文体的高频表达，同类搭配有 acumular deudas（积累债务）、acumular experiencia（积累经验）。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Las directrices más recientes del gobierno chino recomiendan a los adultos limitar el consumo de alcohol a no más de 15 gramos, lo que equivale aproximadamente a un chupito de baijiu o una copa de vino. Pan afirmó que el consumo en la población china debería ser menor que en las poblaciones occidentales, ya que un porcentaje relativamente alto de asiáticos orientales <strong>porta</strong> una variante genética asociada con la reacción de <strong>rubor</strong> facial por alcohol, también conocida como \"rubor asiático\", que dificulta la metabolización del alcohol por parte del organismo.",
+      "zh": "中国政府最新指南建议成年人将饮酒量限制在不超过15克，大约相当于一小杯白酒或一杯葡萄酒。潘雄飞表示，中国人群的饮酒量应低于西方人群，因为相当高比例的东亚人携带一种与酒精性面部潮红反应相关的基因变异，即俗称的『亚洲红脸』，这种变异会使人体难以代谢酒精。",
+      "vocab": [
+        {
+          "word": "porta",
+          "translation": "携带（基因变异等）",
+          "note": "portar 在医学和生物学语境中意为『携带（病毒、基因变异等）』，如 portar un gen（携带某基因）、portar el virus（携带病毒）；注意它与 llevar 近义，但 portar 更正式，多见于医学和法律文体。"
+        },
+        {
+          "word": "rubor",
+          "translation": "潮红，脸红；羞耻感",
+          "note": "rubor 字面指皮肤的『潮红、脸红』，在医学语境中指酒精引发的面部潮红反应；在文学和日常语境中也可指因羞耻或害羞而脸红，属于一词多义；形容词形式为 rojo（红色），词根 rub- 与『红色』有关。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "\"En los banquetes tradicionales chinos, el baijiu es mucho más que una bebida alcohólica: es un <strong>catalizador</strong> de nuevas conexiones y una muestra de lealtad\", declaró el analista del sector Cai Xuefei. \"Su sabor intenso y su alto contenido alcohólico han contribuido a que el consumo en comunidad se convierta en un ritual, mediante el cual las personas generan confianza y liberan emociones\". Pero los jóvenes no se lo creen.",
+      "zh": "业内分析师蔡学飞表示：『在中国传统宴席上，白酒远不止是一种酒精饮料：它是建立新联系的催化剂，也是忠诚的象征。它浓烈的口感和高酒精含量，使集体饮酒逐渐演变为一种仪式，人们借此建立信任、释放情感。』但年轻人并不买账。",
+      "vocab": [
+        {
+          "word": "catalizador",
+          "translation": "催化剂；推动因素",
+          "note": "catalizador 源自化学术语『催化剂』，在新闻和社会分析文体中引申为『推动变化的关键因素』；ser un catalizador de 是固定搭配，意为『成为……的催化剂/推动力』，是B2以上分析类文章的高频比喻表达。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Una campaña anticorrupción lanzada por el presidente chino Xi Jinping en 2012 impuso límites estrictos a los banquetes oficiales <strong>ostentosos</strong>, el entretenimiento financiado por el gobierno y el consumo de alcohol caro por parte de los funcionarios. A finales de la década de 2010, las muertes, ampliamente difundidas, de varias personas tras reuniones laborales con consumo excesivo de alcohol <strong>desataron</strong> un debate sobre las prácticas coercitivas relacionadas con el consumo de alcohol.",
+      "zh": "2012年，中国国家主席习近平发起反腐运动，对铺张的官方宴请、政府资助的娱乐活动以及官员消费高档酒精饮料实施了严格限制。2010年代末，多起因工作聚会过度饮酒导致人员死亡的事件被广泛传播，引发了一场关于强制饮酒行为的社会讨论。",
+      "vocab": [
+        {
+          "word": "ostentosos",
+          "translation": "铺张的，炫耀性的，奢华招摇的",
+          "note": "ostentoso 指以炫耀财富或地位为目的的过度奢华，带有明显的负面评价色彩；与 lujoso（豪华的）相比，ostentoso 更强调炫耀性和过度性，常用于批评性语境，如 gasto ostentoso（铺张消费）。"
+        },
+        {
+          "word": "desataron",
+          "translation": "引发，触发，掀起",
+          "note": "desatar 字面意思是『解开（绳结）』，引申为『引发、触发』某种反应或局面；desatar un debate（引发争论）、desatar una crisis（触发危机）是新闻文体的高频搭配，比 provocar 更强调突然释放的爆发感。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "En 2020, un nuevo empleado del Banco Internacional de Xiamen publicó en redes sociales que un supervisor lo había <strong>abofeteado</strong> por negarse a brindar. La publicación generó un amplio debate en línea; en la plataforma de microblogging Weibo, el hashtag #NewHireSlappedForRefusingToast obtuvo más de 870 millones de visualizaciones. Amplificada por los medios estatales y comentaristas públicos, <strong>reavivó</strong> el escrutinio sobre el consumo de alcohol en entornos profesionales.",
+      "zh": "2020年，厦门国际银行一名新员工在社交媒体上发帖称，一名主管因其拒绝敬酒而扇了他一巴掌。该帖子在网上引发广泛讨论；在微博平台上，话题标签『新员工拒绝敬酒遭掌掴』的浏览量超过8.7亿次。经官方媒体和公众评论人士的放大传播，此事重新引发了外界对职场饮酒行为的审视。",
+      "vocab": [
+        {
+          "word": "abofeteado",
+          "translation": "被打耳光，被扇巴掌",
+          "note": "abofetear 意为『打耳光』，名词形式为 bofetada（耳光）；dar una bofetada 是同义的固定搭配；这类具体动作动词在新闻报道中直接使用，语气强烈，有助于理解西语新闻对暴力事件的描述方式。"
+        },
+        {
+          "word": "reavivó",
+          "translation": "重新点燃，再度激起，使重燃",
+          "note": "reavivar 由 re-（再次）+ avivar（使燃烧、激活）构成，意为『使某种情绪、争论或局面重新活跃起来』；reavivar el debate（重燃争论）是新闻文体的高频搭配，前缀 re- 表示『再次』，同类词有 reactivar（重新激活）、retomar（重新拾起）。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Xu, el gerente de cuentas del parque industrial, describió haber llegado a una cena en Shandong donde le sirvieron vino y baijiu. El anfitrión, un funcionario del condado encargado de atraer inversiones, se bebió tres copas de baijiu y animó a los invitados a hacer lo mismo. Xu, que se consideraba un bebedor <strong>empedernido</strong>, bebió varias rondas y vomitó. Se vio obligado a regresar a la mesa y terminar sus bebidas. Continuó hasta que se desmayó.",
+      "zh": "工业园区客户经理徐描述了他参加一场山东晚宴的经历：席间上了葡萄酒和白酒。东道主是一位负责招商引资的县级官员，他一口气喝了三杯白酒，并鼓励宾客们照做。自认为是老酒鬼的徐喝了好几轮后呕吐了，却被迫回到桌上把剩下的酒喝完，一直喝到昏倒为止。",
+      "vocab": [
+        {
+          "word": "empedernido",
+          "translation": "积习难改的，老练的，根深蒂固的",
+          "note": "empedernido 来自 piedra（石头），字面意思是『像石头一样硬化的』，引申为『积习难改的、根深蒂固的』；常与表示不良习惯的名词搭配，如 fumador empedernido（老烟枪）、mentiroso empedernido（惯于撒谎的人），语气带有无奈或批评色彩。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "\"Quema la garganta y apesta. Y el regusto persistente es insoportable, peor que una mezcla de queso rancio y jugo fermentado\", dijo. Desde entonces, dejó su trabajo y la bebida para <strong>emprender</strong> su propio negocio de informática. La disminución del consumo ha sido un duro golpe para los productores y destiladores. \"Nuestro mercado se está <strong>reduciendo</strong>\", dijo Chai Jia, propietaria de una pequeña destilería de baijiu en Harbin. \"Los jóvenes no compran baijiu y todos los productores de la ciudad están reduciendo la producción\".",
+      "zh": "『它灼烧喉咙，气味难闻。那股挥之不去的回味令人难以忍受，比变质奶酪和发酵果汁的混合物还要糟糕，』他说。此后，他辞去工作，戒了酒，自己创办了一家信息技术公司。饮酒量的下滑对生产商和酿酒商而言是一次沉重打击。『我们的市场正在萎缩，』哈尔滨一家小型白酒酒厂的老板柴佳说，『年轻人不买白酒，城里所有的生产商都在压缩产量。』",
+      "vocab": [
+        {
+          "word": "emprender",
+          "translation": "创业，着手，开始（某项事业）",
+          "note": "emprender 意为『着手开展某项事业或行动』，emprender un negocio 即『创业』；名词形式 emprendedor（创业者）和 emprendimiento（创业）在商业和新闻文体中极为高频，是B2必掌握的词族。"
+        },
+        {
+          "word": "reduciendo",
+          "translation": "缩减，萎缩，减少",
+          "note": "reducirse 作反身动词意为『缩减、萎缩』，常用于描述市场、规模或数量的下降；注意 reducir（主动使减少）与 reducirse（自身缩减）的区别，前者有外部施力，后者强调自然萎缩的过程。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "Chai propuso elaborar bebidas más ligeras para los jóvenes, pero su padre, maestro cervecero, <strong>vetó</strong> la idea. Sin embargo, las destilerías más grandes se esfuerzan por recuperar a los clientes jóvenes. Algunas han ofrecido productos con menor <strong>graduación</strong> alcohólica y botellas más pequeñas. Otras se han asociado con bares para experimentar con cócteles a base de baijiu.",
+      "zh": "柴佳提议为年轻人研发口感更清淡的饮品，但她的父亲——一位酿酒师傅——否决了这个想法。然而，规模较大的酒厂正在竭力争夺年轻消费者。一些酒厂推出了酒精度更低、瓶装规格更小的产品，另一些则与酒吧合作，尝试研发以白酒为基酒的鸡尾酒。",
+      "vocab": [
+        {
+          "word": "vetó",
+          "translation": "否决，一票否决",
+          "note": "vetar 来自拉丁语 veto（我禁止），意为『行使否决权、否决某提案或想法』；在政治语境中指正式的否决权，在日常语境中泛指强硬拒绝某人的提议；名词形式 veto 在政治新闻中极为常见。"
+        },
+        {
+          "word": "graduación",
+          "translation": "酒精度；毕业；刻度",
+          "note": "graduación 是典型的一词多义：在饮品语境中指『酒精度』，如 alta/baja graduación（高/低酒精度）；在教育语境中指『毕业』；在测量语境中指『刻度』；此处为第一义，需结合语境判断。"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "es": "En 2022 y 2023, Moutai anunció lanzamientos de productos <strong>derivados</strong>, como lattes, helados y chocolates con sabor a baijiu, pero pronto los retiró. Si bien estos productos hicieron que la marca fuera más accesible para los jóvenes, según declaró el gerente general interino Wang Li el mes pasado, no aportaron nada a su imagen de lujo. Para los jóvenes consumidores, el desafío del baijiu no reside solo en su sabor, sino también en su asociación con las tradiciones y la generación anterior, afirmó Xiao Ling, crítico gastronómico de Guangzhou. \"Los jóvenes no rechazan el alcohol: rechazan la forma de beber de la generación anterior\", explicó. \"Beben cuando les <strong>apetece</strong>, no por obligación\".",
+      "zh": "2022年至2023年间，茅台相继推出了拿铁咖啡、冰淇淋和白酒味巧克力等衍生产品，但很快便将其撤市。据代理总经理王莉上月表示，尽管这些产品让品牌对年轻人更具亲和力，却无益于其高端形象的塑造。广州美食评论家肖凌表示，对年轻消费者而言，白酒面临的挑战不仅在于口味，还在于它与传统和上一代人的深度关联。『年轻人拒绝的不是酒精，而是上一代人的饮酒方式，』他解释道，『他们喝酒是因为想喝，而不是出于义务。』",
+      "vocab": [
+        {
+          "word": "derivados",
+          "translation": "衍生产品，派生品",
+          "note": "derivado 作名词意为『衍生产品、副产品』，在商业和化学语境中均高频出现；作形容词意为『源自……的、派生的』；动词 derivar de 意为『源自、衍生自』，词根 deriv- 与『流向、来源』有关，迁移价值高。"
+        },
+        {
+          "word": "apetece",
+          "translation": "想要，有欲望，感兴趣",
+          "note": "apetecer 是一个类似 gustar 的动词，结构为 me/te/le apetece + 动词原形/名词，意为『想要做某事』；注意它强调一时的欲望或兴致，比 querer 更口语化，常用于表达当下的意愿，如 ¿te apetece salir?（你想出去吗？）。"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "es": "Chen, la maquilladora, regresó a su hogar rural en Henan en febrero para celebrar el Año Nuevo Lunar con su familia. Cuando su madre y su abuela brindaron, ella alzó una taza de té. \"El alcohol es <strong>reemplazable</strong>\", dijo. \"Y lo que bebes no es tan importante\".",
+      "zh": "化妆师陈雪今年二月回到河南农村老家，与家人共度农历新年。当她的母亲和祖母举杯祝酒时，她端起的是一杯茶。『酒是可以替代的，』她说，『你喝什么，并没有那么重要。』",
+      "vocab": [
+        {
+          "word": "reemplazable",
+          "translation": "可替代的，可取代的",
+          "note": "reemplazable 由 reemplazar（替代）+ 后缀 -able（可……的）构成；-able/-ible 是极高产的后缀，可将动词转化为形容词，如 sostenible（可持续的）、prescindible（可省略的）、inevitable（不可避免的），掌握这一后缀可快速识别大量形容词。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "romper el hielo",
+      "type": "modismo",
+      "translation": "打破僵局，消除隔阂，活跃气氛",
+      "usage": "惯用语，字面意思是『打破冰块』，实际指在陌生或尴尬的社交场合中消除紧张感、开启交流；与英语 break the ice 完全对应，可用于商务、社交等多种语境，是高频地道表达。",
+      "exampleEs": "El organizador propuso un juego sencillo para romper el hielo entre los nuevos participantes.",
+      "exampleZh": "组织者提议用一个简单的游戏来打破新参与者之间的隔阂。"
+    },
+    {
+      "expression": "desatar un debate",
+      "type": "colocación",
+      "translation": "引发争论，掀起讨论",
+      "usage": "固定搭配，desatar 字面意思是『解开』，引申为『触发、释放』某种局面；desatar + debate/polémica/crisis 是新闻文体的高频组合，比 provocar 更强调突然爆发的动态感。",
+      "exampleEs": "La nueva ley desató un intenso debate entre defensores de los derechos civiles y el gobierno.",
+      "exampleZh": "这项新法律在公民权利倡导者与政府之间引发了激烈争论。"
+    },
+    {
+      "expression": "suponer un desafío",
+      "type": "colocación",
+      "translation": "构成挑战，意味着一项挑战",
+      "usage": "固定搭配，suponer 在此意为『构成、意味着』，后接 desafío、riesgo、amenaza、avance 等名词；是新闻和分析文体中描述影响或后果的核心句式，比 ser un desafío 更正式，语气更书面。",
+      "exampleEs": "La transición hacia las energías renovables supone un enorme desafío para las economías dependientes del petróleo.",
+      "exampleZh": "向可再生能源的转型对依赖石油的经济体而言构成巨大挑战。"
+    },
+    {
+      "expression": "poner a prueba",
+      "type": "colocación",
+      "translation": "考验，检验，测试",
+      "usage": "固定搭配，意为『对某人或某物进行考验或测试』，后接名词，如 poner a prueba la paciencia（考验耐心）、poner a prueba la lealtad（考验忠诚）；在新闻、文学和日常语境中均极为高频。",
+      "exampleEs": "La crisis económica puso a prueba la cohesión del equipo directivo.",
+      "exampleZh": "经济危机考验了管理团队的凝聚力。"
+    },
+    {
+      "expression": "sacar a la luz",
+      "type": "colocación",
+      "translation": "公之于众，使真相曝光，揭露",
+      "usage": "固定搭配，意为『将隐藏的事实或信息公开披露』；sacar algo a la luz 与 salir a la luz（浮出水面）互为主被动关系，是新闻调查报道中描述信息披露的核心表达。",
+      "exampleEs": "Fueron los periodistas quienes sacaron a la luz las irregularidades en la gestión de los fondos públicos.",
+      "exampleZh": "正是记者们将公共资金管理中的违规行为公之于众。"
+    }
+  ]
+}
