@@ -1,0 +1,209 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与环境",
+  "difficulty": "C1",
+  "wordCount": "约580词",
+  "title": "Pague, y decida cuándo se hace de día",
+  "subtitle": "付钱，然后决定何时天亮",
+  "resumenEs": "Una empresa californiana ha recibido permiso para lanzar satélites con espejos gigantes capaces de iluminar zonas de la Tierra durante la noche. El artículo reflexiona sobre los peligros de la privatización del espacio, la contaminación lumínica y espacial, y la inquietante posibilidad de que una sola empresa pueda alterar el cielo nocturno para todo el planeta.",
+  "resumenZh": "一家加州公司已获准发射携带巨型反光镜的卫星，能够在夜间照亮地球特定区域。文章就太空私有化、光污染与太空垃圾的危险展开反思，并对一家公司竟能改变全球夜空这一令人不安的可能性提出质疑。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "\"Me parece <strong>terrorífico</strong> que un país pueda cambiar el cielo nocturno para el resto del mundo\", le dice la astrónoma Samantha Lawler a The New York Times. La científica habla de la aprobación por parte de Estados Unidos de un satélite experimental diseñado para que de repente se haga de día en plena noche.",
+      "zh": "『我觉得一个国家能够为全世界其他人改变夜空，这件事令人毛骨悚然，』天文学家萨曼莎·劳勒对《纽约时报》说道。这位科学家谈到的是美国批准了一颗实验性卫星——这颗卫星的设计目的，是让深夜突然变成白昼。",
+      "vocab": [
+        {
+          "word": "terrorífico",
+          "translation": "令人恐惧的，骇人的",
+          "note": "由 terror（恐惧）+ 后缀 -ífico 构成，-ífico 表示『产生……效果的』，同类构词：pacífico（带来和平的）、científico（产生知识的）、horrífico（令人毛骨悚然的），掌握此后缀可举一反三。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "La empresa californiana Reflect Orbital <strong>proyecta</strong> enviar al espacio una flota de estos ingenios. Cada uno <strong>despliega</strong> un espejo de unos 20 metros que refleja la luz del Sol, y hace que sea de día en medio de la noche a unos cinco kilómetros a la redonda. El amanecer artificial puede <strong>alumbrar</strong> barrios enteros en casos de catástrofes, dice la compañía, o alimentar granjas de paneles solares. El argumento va reforzado por una teórica reducción de combustibles fósiles que alimentan el cambio climático.",
+      "zh": "加州公司 Reflect Orbital 计划向太空发射一批这样的装置。每个装置展开一面约20米的镜子，反射太阳光，使方圆约五公里范围内的深夜变成白昼。该公司表示，这种人造黎明在灾难发生时可以照亮整片街区，或为太阳能电池板农场供电。这一论点还以理论上减少助推气候变化的化石燃料为佐证。",
+      "vocab": [
+        {
+          "word": "proyecta",
+          "translation": "计划，打算",
+          "note": "proyectar 是假朋友陷阱：它不只是『投影/放映』（proyectar una película），在正式文体中还高频表示『计划、规划』，与 planear 近义，但 proyectar 更强调有具体方案的预谋。"
+        },
+        {
+          "word": "despliega",
+          "translation": "展开，部署",
+          "note": "desplegar 由 des-（展开）+ plegar（折叠）构成，字面义为『把折叠的东西打开』，引申为军事或技术语境中的『部署、展开』，常见搭配：desplegar tropas（部署军队）、desplegar una pantalla（展开屏幕）。"
+        },
+        {
+          "word": "alumbrar",
+          "translation": "照亮，提供光源",
+          "note": "alumbrar 与 iluminar 近义，但 alumbrar 更侧重『提供实际光源使黑暗变亮』，iluminar 则更常用于比喻义（iluminar una idea）；两者在物理照明场景中可互换，但语感有别。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Es una prueba más de que los humanos, sobre todo algunos, hemos convertido el espacio en una versión futurista del lejano oeste. Las grandes constelaciones de pequeños satélites de comunicaciones, como los Starlink del <strong>ubicuo</strong> Elon Musk, crean unas <strong>enigmáticas</strong> estelas de lucecitas que recorren el cielo nocturno a una velocidad <strong>inquietantemente</strong> lenta vistos desde Tierra. Para muchos observadores será una feliz curiosidad ver ese desfile, pero para los astrónomos es una tragedia que emborrona los cielos hasta hacer inservibles telescopios que han costado millones. Y las normas medioambientales que existen en la Tierra no valen nada en el espacio.",
+      "zh": "这再次证明，人类——尤其是其中某些人——已经将太空变成了一个未来主义版本的蛮荒西部。以无处不在的埃隆·马斯克旗下星链卫星为代表的大型小卫星通信星座，在夜空中划出一道道神秘的小光点轨迹，从地面看来以一种令人不安的缓慢速度穿越夜空。对许多观察者来说，看到这支『游行队伍』是一种愉快的好奇体验，但对天文学家而言，这是一场悲剧——它模糊了天空，使耗资数百万的望远镜变得毫无用处。而地球上存在的环境法规在太空中分文不值。",
+      "vocab": [
+        {
+          "word": "ubicuo",
+          "translation": "无处不在的",
+          "note": "来自拉丁语 ubique（到处），是C1以上的书面语词汇，在新闻中常带有轻微讽刺语气，暗示某人或某物的存在已令人厌倦；注意与 omnipresente 近义，但 ubicuo 更简洁，书面感更强。"
+        },
+        {
+          "word": "enigmáticas",
+          "translation": "神秘的，令人费解的",
+          "note": "来自 enigma（谜），后缀 -ático 表示『具有……性质的』，同类构词：problemático（有问题的）、sistemático（系统性的）、temático（主题性的），是构词规律性极强的后缀。"
+        },
+        {
+          "word": "inquietantemente",
+          "translation": "令人不安地",
+          "note": "由 inquietante（令人不安的）+ 副词后缀 -mente 构成，inquietante 本身由 inquietar（使不安）派生；注意词根 quieto（静止的、平静的），加前缀 in- 后变为反义，是理解该词族的关键。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Reflect Orbital espera lanzar 1.000 satélites para finales de 2028, y otros 5.000 para 2030. Está previsto que los espejos más grandes midan más de 50 metros de ancho y reflejen tanta luz como 100 lunas llenas. Según los precios <strong>anunciados</strong>, hacer el día en la noche costará unos 5.000 dólares la hora, eso sí, comprando <strong>por adelantado</strong> 1.000 horas de luz.",
+      "zh": "Reflect Orbital 预计在2028年底前发射1000颗卫星，并在2030年前再发射5000颗。最大的镜子预计宽度超过50米，反射的光亮相当于100个满月。根据已公布的价格，将夜晚变成白昼每小时约需5000美元——不过需要提前购买1000小时的光照时长。",
+      "vocab": [
+        {
+          "word": "anunciados",
+          "translation": "已公布的，已宣布的",
+          "note": ""
+        },
+        {
+          "word": "por adelantado",
+          "translation": "提前，预先",
+          "note": "固定搭配，常见于商业和合同语境，如 pagar por adelantado（预付款）、reservar por adelantado（提前预订）；近义表达 de antemano 更书面，con antelación 更正式，三者可在不同语体中替换使用。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "El organismo público que le ha dado permiso a esta empresa para lanzar su primer satélite es la Comisión Federal de Comunicaciones. El organismo, <strong>ajeno</strong> a asuntos de impacto ambiental, parece ser muy <strong>partidario</strong> de las flotillas satelitales de Musk y Amazon, a las que ha permitido desplegar constelaciones de miles de satélites que además de emborronar el cielo tienden a caer <strong>ineludiblemente</strong> a Tierra, lo que obliga a reponerlos, además de suponer un peligro para personas y propiedad privada dependiendo de donde caigan.",
+      "zh": "授权该公司发射首颗卫星的公共机构是联邦通信委员会。该机构与环境影响事务毫无关联，却似乎对马斯克和亚马逊的卫星舰队极为支持，已允许它们部署由数千颗卫星组成的星座——这些卫星除了模糊天空之外，还不可避免地会坠落地球，这不仅需要补充替换，还会根据坠落地点对人员和私人财产构成危险。",
+      "vocab": [
+        {
+          "word": "ajeno",
+          "translation": "与……无关的；他人的",
+          "note": "ajeno 是一词多义的高频词：ajeno a（与……无关）用于描述机构或人对某事漠然或无管辖权；ajeno 也可表示『属于他人的』，如 bienes ajenos（他人财产）。两个义项在新闻中均常见，需结合语境判断。"
+        },
+        {
+          "word": "partidario",
+          "translation": "支持者，拥护……的",
+          "note": "ser partidario de 是表达立场的固定搭配，意为『支持/赞成某事或某人』，比 apoyar 更强调意识形态或政治上的倾向性，在新闻评论中常暗示偏袒，带有轻微批评色彩。"
+        },
+        {
+          "word": "ineludiblemente",
+          "translation": "不可避免地，必然地",
+          "note": "由 in-（否定）+ eludir（规避）+ -ible + -mente 构成，eludir 本义为『巧妙回避』，加 in- 后表示『无法回避』；近义词 inevitablemente 更常见，但 ineludiblemente 语气更强，强调『无论如何都无法逃脱』。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Todo indica que la <strong>proliferación</strong> de satélites en la órbita de la Tierra va a seguir creciendo en la nueva era que los expertos llaman new space, nuevo espacio. Hay mucho dinero que ganar y servicios realmente importantes que prestar, como una vigilancia y reacción ante catástrofes nunca vista. Lo que no es tan prometedor es nuestra capacidad de <strong>lidiar</strong> con el old space: todos esos satélites y fragmentos de chatarra espacial que orbitan nuestro planeta como un ejército zombi que no deja de crecer, y que supone un creciente problema de seguridad y logística para cada nueva misión que se lanza al espacio.",
+      "zh": "一切迹象表明，地球轨道上的卫星数量将在专家所称的『新太空』时代继续增长。这其中有巨大的利润可图，也有真正重要的服务可以提供，例如前所未有的灾难监测与响应能力。然而不那么令人乐观的，是我们应对『旧太空』的能力：那些围绕地球运行的卫星残骸和太空垃圾碎片，如同一支不断壮大的僵尸大军，对每一次新发射的太空任务构成日益严峻的安全与后勤难题。",
+      "vocab": [
+        {
+          "word": "proliferación",
+          "translation": "激增，扩散",
+          "note": "proliferación 在新闻中常用于描述难以控制的数量增长，带有隐忧色彩，常见搭配：proliferación nuclear（核扩散）、proliferación de fake news（虚假信息泛滥）；其动词形式 proliferar 同样高频。"
+        },
+        {
+          "word": "lidiar",
+          "translation": "应对，处理（困难局面）",
+          "note": "lidiar con 是口语和书面语中表达『费力应对某棘手问题』的地道搭配，比 manejar 或 tratar 更强调过程的艰难；词源来自斗牛术语（与牛搏斗），语感中保留了『搏斗』的意味。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Ahí arriba, en las salvajes extensiones de la órbita terrestre, un fragmento milimétrico de basura espacial puede <strong>atravesar</strong> tu nave espacial y tu cuerpo como si fuera mantequilla. A pesar de toda nuestra tecnología, los humanos aún estamos lejos de poder <strong>barrer</strong> toda esa <strong>morralla</strong>, o programar nuestros satélites para que bajen a Tierra cuando acaba su vida.",
+      "zh": "在那片蛮荒的地球轨道空间里，一块毫米级的太空垃圾碎片能像穿透黄油一样穿透你的飞船和身体。尽管拥有所有这些技术，人类距离能够清扫掉那些废物——或者为卫星编程使其在寿命终结时返回地球——还差得很远。",
+      "vocab": [
+        {
+          "word": "atravesar",
+          "translation": "穿透，穿越",
+          "note": "atravesar 由 a- + través（穿过）构成，既可表示物理穿透（atravesar una pared），也可表示经历困难（atravesar una crisis），是高频多义动词；注意与 cruzar 的区别：cruzar 强调从一侧到另一侧，atravesar 更强调穿透或贯穿。"
+        },
+        {
+          "word": "barrer",
+          "translation": "清扫，扫除",
+          "note": "barrer 本义为『扫地』，在此处引申为『彻底清除』，是新闻和口语中常见的隐喻用法；固定搭配 barrer con todo（横扫一切）在体育报道中也十分常见。"
+        },
+        {
+          "word": "morralla",
+          "translation": "废物，垃圾，无用之物",
+          "note": "morralla 是口语色彩较强的贬义词，原指『劣质小鱼』或『零碎杂物』，在此指太空垃圾，带有明显的轻蔑语气；作者用此词而非中性词 basura，体现了评论文体的主观立场。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Y por si todo esto no fuera poco, nos queda el terror compartido con la astrónoma Lawler al saber que un solo país —una sola empresa— pueda decidir cuándo y cómo se hace de día para el resto del planeta.",
+      "zh": "而如果这一切还不够的话，我们还要与天文学家劳勒共同承受那份恐惧：一个国家——一家公司——竟然可以决定地球上其他所有人何时、以何种方式迎来白昼。",
+      "vocab": [
+        {
+          "word": "por si todo esto no fuera poco",
+          "translation": "如果这一切还不够的话，更有甚者",
+          "note": "固定句式，使用虚拟式过去未完成时 fuera（而非 es），表达一种反讽式的递进，意为『仿佛以上这些还不够糟糕』，是新闻评论和议论文中表达层层加码的地道表达。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "el lejano oeste",
+      "type": "modismo",
+      "translation": "蛮荒西部，无法无天之地",
+      "usage": "字面指美国西部拓荒时代，引申为『缺乏规则、弱肉强食的混乱地带』，在新闻评论中常用于批评某一领域监管缺失，语气带有讽刺，是政治和科技报道中的高频隐喻。",
+      "exampleEs": "El mercado de las criptomonedas sigue siendo el lejano oeste de las finanzas.",
+      "exampleZh": "加密货币市场依然是金融界的蛮荒西部。"
+    },
+    {
+      "expression": "no valer nada",
+      "type": "colocación",
+      "translation": "毫无价值，分文不值",
+      "usage": "口语和书面语均适用，用于强调某事物完全失去效力或意义；在本文中用于批评地球环境法规在太空中形同虚设，语气强烈，带有愤慨色彩。",
+      "exampleEs": "Sin voluntad política, las leyes contra la corrupción no valen nada.",
+      "exampleZh": "没有政治意愿，反腐法律形同虚设。"
+    },
+    {
+      "expression": "como si fuera mantequilla",
+      "type": "modismo",
+      "translation": "如同穿透黄油一般，毫不费力地穿透",
+      "usage": "比喻固定表达，用于形容某物被穿透或切割时毫无阻力，语气生动，多见于口语和新闻特写，能使抽象的物理危险变得直观可感。",
+      "exampleEs": "La bala atravesó la puerta de madera como si fuera mantequilla.",
+      "exampleZh": "子弹毫不费力地穿透了那扇木门。"
+    },
+    {
+      "expression": "por si todo esto no fuera poco",
+      "type": "estructura gramatical",
+      "translation": "如果这一切还不够的话；更有甚者",
+      "usage": "递进式固定句式，使用虚拟式（fuera）表达反讽语气，意为『以上种种还不够糟糕，还有更坏的』，是议论文和新闻评论中表达层层递进、强化批评力度的地道结构。",
+      "exampleEs": "Por si todo esto no fuera poco, ahora resulta que los datos también estaban mal.",
+      "exampleZh": "如果这一切还不够糟的话，现在发现数据也是错的。"
+    },
+    {
+      "expression": "ejercer presión",
+      "type": "colocación",
+      "translation": "施加压力",
+      "usage": "高频固定搭配，presión 不可随意替换为其他名词，动词也固定用 ejercer 而非 hacer 或 poner；常见于政治、外交、商业报道，如 ejercer presión sobre un gobierno（向某国政府施压）。",
+      "exampleEs": "Los grupos ecologistas ejercen presión sobre las empresas para que reduzcan sus emisiones.",
+      "exampleZh": "环保团体向企业施压，要求其减少排放。"
+    },
+    {
+      "expression": "lidiar con",
+      "type": "colocación",
+      "translation": "费力应对，艰难处理",
+      "usage": "固定搭配，后接名词，强调应对过程的艰辛与持续性，语源来自斗牛，保留了『搏斗』的语感；比 manejar 或 enfrentarse a 更口语化，适用于描述长期棘手的问题。",
+      "exampleEs": "Cada día tenemos que lidiar con una burocracia interminable.",
+      "exampleZh": "我们每天都要费力应对无休止的官僚程序。"
+    }
+  ]
+}

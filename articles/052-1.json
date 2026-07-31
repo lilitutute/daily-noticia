@@ -1,0 +1,162 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "健康与营养",
+  "difficulty": "B2",
+  "wordCount": "约370词",
+  "title": "¿Qué calma más la sed: el agua fría o a temperatura ambiente?",
+  "subtitle": "冷水还是常温水，哪个更解渴？专家的回答出乎你意料",
+  "resumenEs": "Una experta nutricionista aclara que el agua fría no hidrata más que el agua a temperatura ambiente: solo calma antes la sensación de sed. Lo que realmente importa es la cantidad de líquidos ingeridos y su contenido en sales minerales y micronutrientes.",
+  "resumenZh": "一位营养学专家指出，冷水并不比常温水更能补水，只是能更快缓解口渴的感觉。真正重要的是摄入液体的量以及其中所含的矿物盐和微量营养素。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "El mundo de la nutrición suele estar rodeado de <strong>dogmas</strong> y creencias, y a veces es muy difícil distinguir lo que es cierto de lo que no. \"El agua fría quita más la sed\" es una de esas <strong>afirmaciones</strong>: ¿es un mito o tiene alguna base científica? Se lo preguntamos a la doctora Raffaella Cancello, bióloga nutricionista y <strong>especialista</strong> en Ciencia de la Alimentación del Instituto Auxológico IRCCS de Milán.",
+      "zh": "营养学领域往往充斥着各种教条与观念，有时很难分辨哪些是真的，哪些是假的。『冷水更解渴』就是这样一种说法：它究竟是个迷思，还是有一定的科学依据？我们就此请教了米兰辅助医学研究所（IRCCS）的营养生物学家、食品科学专家拉法埃拉·坎切洛博士。",
+      "vocab": [
+        {
+          "word": "dogmas",
+          "translation": "教条，定论",
+          "note": "常用于批评某种观点被不加质疑地奉为真理，在新闻和学术文体中带有轻微负面色彩，如 romper con los dogmas（打破教条）。"
+        },
+        {
+          "word": "afirmaciones",
+          "translation": "说法，断言",
+          "note": "afirmación 指『做出的某个肯定性陈述』，与 declaración（声明）有别：declaración 更正式、常指官方表态，afirmación 侧重内容本身是否属实。"
+        },
+        {
+          "word": "especialista",
+          "translation": "专家，专科医生",
+          "note": "注意与 experto 的区别：especialista 强调在某一领域经过专业训练（尤指医学专科），experto 则泛指经验丰富的行家，两者不可完全互换。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "\"Es un mito\", <strong>aclara</strong> de inmediato la doctora Cancello. \"No es la temperatura del agua la que nos quita la sed —o, mejor dicho, la que nos <strong>hidrata</strong>—, sino la cantidad de líquidos, sales minerales y micronutrientes que aporta. Sin embargo, es cierto que el agua fría calma antes la sensación de sed, lo cual es diferente de rehidratarse y es precisamente esa sensación inmediata lo que buscamos\".",
+      "zh": "『这是个迷思，』坎切洛博士立刻澄清道。『让我们解渴的——或者更准确地说，让我们补水的——并不是水的温度，而是水所提供的液体量、矿物盐和微量营养素。不过，冷水确实能更快缓解口渴的感觉，但这与真正补水是两回事，而我们追求的恰恰是那种即时的感觉。』",
+      "vocab": [
+        {
+          "word": "aclara",
+          "translation": "澄清，说明",
+          "note": "aclarar 在新闻引语中是高频动词，表示『纠正误解或补充说明』，比 decir 更精准，常见搭配：aclarar dudas（解答疑问）、aclarar un malentendido（澄清误解）。"
+        },
+        {
+          "word": "hidrata",
+          "translation": "补水，使水合",
+          "note": "hidratar 由前缀 hidro-（水）+ -atar 构成，同族词有 deshidratación（脱水）、hidratante（保湿的），掌握词根 hidro- 可举一反三。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Por tanto, más que de <strong>pseudociencia</strong>, se trata de una <strong>confusión</strong> entre los conceptos de calmar la sed y rehidratar el organismo.",
+      "zh": "因此，与其说这是伪科学，不如说是将『缓解口渴』和『为身体补水』这两个概念混为一谈。",
+      "vocab": [
+        {
+          "word": "pseudociencia",
+          "translation": "伪科学",
+          "note": "前缀 pseudo-（伪、假）来自希腊语，可构成大量学术词汇，如 pseudónimo（笔名/化名）、pseudodemocracia（伪民主），在批评性文章中十分常见。"
+        },
+        {
+          "word": "confusión",
+          "translation": "混淆，误解",
+          "note": "注意固定搭配 confusión entre A y B（将A与B混淆），以及动词形式 confundir A con B，是表达『概念辨析』类文章的核心句式。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Para <strong>saciar</strong> la sed de forma adecuada, lo más recomendable es optar por aguas de <strong>mineralización</strong> media (con un residuo seco de entre 500 y 1.500 mg/l), especialmente en verano, cuando perdemos una cantidad importante de líquidos —y, por tanto, de sales minerales— a través del sudor.",
+      "zh": "为了充分解渴，最推荐选择中等矿化度的水（干燥残留物在500至1500毫克/升之间），尤其是在夏季——因为我们会通过汗液流失大量液体，进而流失矿物盐。",
+      "vocab": [
+        {
+          "word": "saciar",
+          "translation": "满足，使充分满足（饥渴等）",
+          "note": "saciar 比 calmar 程度更深，表示『彻底满足』，常见搭配：saciar el hambre（填饱肚子）、saciar la curiosidad（满足好奇心），语气比 satisfacer 更口语化。"
+        },
+        {
+          "word": "mineralización",
+          "translation": "矿化度，矿化作用",
+          "note": "由动词 mineralizar + 后缀 -ción 构成名词，-ción 是西语最高频的名词后缀之一，凡动词加此后缀均表示『该动作的过程或结果』，如 hidratación、alimentación。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "\"Si bebemos poca agua fría y con bajo contenido en minerales, tendremos la impresión de haber calmado la sed enseguida, porque en nuestros órganos internos existen <strong>receptores</strong> que se <strong>activan</strong> con las bajas temperaturas. Sin embargo, poco después volveremos a sentir la necesidad de beber\".",
+      "zh": "『如果我们喝了少量冷水且矿物质含量低，会立刻产生已经解渴的错觉，因为我们体内器官中存在会被低温激活的感受器。然而，不久之后我们又会感到需要喝水。』",
+      "vocab": [
+        {
+          "word": "receptores",
+          "translation": "感受器，受体",
+          "note": "receptor 由 recibir（接收）派生而来，后缀 -tor/-sor 表示『执行该动作的人或物』，同类构词：emisor（发射器）、conductor（导体/司机）、sensor（传感器）。"
+        },
+        {
+          "word": "activan",
+          "translation": "激活，启动",
+          "note": "activar 是由形容词 activo 加后缀 -ar 构成的动词，同类构词规律：pasivo→pasivar（少用）、efectivo→efectivizar，在科技和医学文本中 activar/desactivar 是高频对义词组。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "No solo importa el tipo de agua; para hidratarse correctamente también es necesario <strong>ingerir</strong> la cantidad adecuada de líquidos: alrededor de 2,5 litros al día, contando también el agua que contienen alimentos como las frutas y las verduras frescas.",
+      "zh": "不仅水的种类重要，要正确补水，还需要摄入足量的液体：每天约2.5升，其中也包括新鲜水果和蔬菜等食物中所含的水分。",
+      "vocab": [
+        {
+          "word": "ingerir",
+          "translation": "摄入，吞咽",
+          "note": "ingerir 是医学和营养学文体中的正式用词，日常口语更常说 tomar 或 comer/beber；注意其名词形式 ingesta（摄入量）也是营养学高频词。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "\"Lo ideal es beber poco a poco y a pequeños <strong>sorbos</strong> —aconseja la doctora Cancello—, aproximadamente un vaso de agua cada hora. Esto es especialmente importante en el caso de los niños y de las personas mayores\".",
+      "zh": "『理想的做法是慢慢喝、小口喝，』坎切洛博士建议道，『大约每小时喝一杯水。这对儿童和老年人尤为重要。』",
+      "vocab": [
+        {
+          "word": "sorbos",
+          "translation": "小口，一小口（液体）",
+          "note": "sorbo 指『小口抿饮』，固定搭配 a pequeños sorbos（小口小口地喝）是描述饮水方式的地道表达；动词形式为 sorber，也可指用吸管吸饮。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "\"Un agua a unos 10-15 °C representa un buen <strong>equilibrio</strong>. El agua muy fría puede provocar <strong>molestias</strong> gástricas, mientras que el agua fresca resulta agradable sin afectar a la salud. Se puede sacar del frigorífico unos 20 minutos antes de beberla o, si se consume agua del grifo, enfriarla con un cubito de hielo\", recomienda la especialista.",
+      "zh": "『10至15摄氏度的水是一个很好的平衡点。非常冷的水可能引起胃部不适，而凉爽的水则令人舒适，且不影响健康。可以在喝之前约20分钟从冰箱里取出，或者如果喝自来水，可以加一块冰块来降温，』这位专家建议道。",
+      "vocab": [
+        {
+          "word": "equilibrio",
+          "translation": "平衡，均衡",
+          "note": "equilibrio 在健康、政治、生态等多类文章中均为高频词，常见搭配：mantener el equilibrio（保持平衡）、romper el equilibrio（打破平衡）、buscar un equilibrio（寻求平衡点）。"
+        },
+        {
+          "word": "molestias",
+          "translation": "不适，轻微疼痛",
+          "note": "molestia 是医学文体中表示『轻微不适』的委婉用词，比 dolor（疼痛）程度轻，注意动词 molestar 是假朋友：它不等于英语 molest（性骚扰），而是『打扰、使不舒服』。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "mejor dicho",
+      "type": "estructura gramatical",
+      "translation": "更确切地说，或者说",
+      "usage": "插入语，用于纠正或补充前面说过的话，使表达更精准，相当于中文的『换句话说』或『准确来讲』，在口语和书面语中均十分常见，是B2以上写作的加分表达。",
+      "exampleEs": "Llegó tarde, o mejor dicho, llegó justo cuando todo había terminado.",
+      "exampleZh": "他来晚了，更确切地说，他到的时候一切都已经结束了。"
+    },
+    {
+      "expression": "optar por",
+      "type": "colocación",
+      "translation": "选择，倾向于选择",
+      "usage": "固定搭配，后接名词或动词原形，比 elegir 更正式，常见于建议类、新闻类文章，表达经过考量后的主动选择，如 optar por una solución alternativa（选择替代方案）。",
+      "exampleEs": "Ante la incertidumbre, muchos inversores optaron por retirar su dinero.",
+      "exampleZh": "面对不确定性，许多投资者选择了撤资。"
+    }
+  ]
+}
