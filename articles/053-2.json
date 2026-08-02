@@ -1,0 +1,178 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会生活",
+  "difficulty": "B2",
+  "wordCount": "约850词",
+  "title": "La boda soñada de los españoles: 45.000 euros de gasto, con el 40% para el hotel y otros 12.000 en la luna de miel ideal",
+  "subtitle": "西班牙人梦想中的婚礼：花费4.5万欧元，40%用于酒店，蜜月另需1.2万",
+  "resumenEs": "Las bodas en España son cada vez menos frecuentes pero más costosas. Según el estudio Hyatt Vows & Venues, el presupuesto ideal para una boda española ronda los 45.000 euros, con el 40% destinado al hotel o resort. La luna de miel también evoluciona: los españoles prefieren viajes a varios destinos, y ganan popularidad fórmulas como el 'early moon', la 'mini moon' y los viajes compartidos con amigos.",
+  "resumenZh": "西班牙婚礼数量越来越少，但花费越来越高。根据凯悦酒店集团的调查，西班牙人理想婚礼的预算约为4.5万欧元，其中40%用于酒店或度假村。蜜月旅行也在不断演变：西班牙人倾向于多目的地旅行，『婚前蜜月』、『迷你蜜月』以及与好友同行等新形式也越来越受欢迎。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Las bodas cada vez son menos y más selectas. En los últimos 20 años el número de matrimonios celebrados en España se ha <strong>desplomado</strong> cerca del 20%, con cerca de 41.000 enlaces menos, pero es cierto que en los últimos años se ha notado cierto <strong>repunte</strong> de los matrimonios coincidiendo con la buena racha de la economía. No es <strong>baladí</strong>. Una década atrás, allá por 2014, con España sacando la cabeza de una crisis de deuda que puso en entredicho la viabilidad de nuestra economía y con el paro disparado, el número de matrimonios se desplomó a la menor cifra histórica desde la década de los 90, solo superada por el Covid, cuando el cierre temporal del país supuso un duro golpe para el sector.",
+      "zh": "婚礼越来越少，也越来越精致。过去20年间，西班牙举办的婚礼数量骤降近20%，减少了约4.1万场，但近年来随着经济形势向好，婚礼数量出现了一定程度的回升，这并非小事。十年前的2014年，西班牙刚从一场令国家经济可行性受到质疑的债务危机中艰难抬头，失业率居高不下，婚礼数量跌至90年代以来的历史最低点，这一纪录仅被新冠疫情期间打破——彼时国家短暂封锁，对这一行业造成了沉重打击。",
+      "vocab": [
+        {
+          "word": "desplomado",
+          "translation": "骤降，暴跌，崩塌",
+          "note": "desplomarse 意为『骤然下跌、崩塌』，比 bajar 或 caer 语气强烈得多，强调急剧且幅度巨大的下降；在经济和新闻报道中极为高频，如 desplomarse la bolsa（股市暴跌）；前缀 des- 在此强化了动作的彻底性。"
+        },
+        {
+          "word": "repunte",
+          "translation": "回升，小幅反弹",
+          "note": "repunte 来自动词 repuntar（小幅回升），在经济和统计报道中专指数据的小幅反弹或回升；与 aumento（增加）相比，repunte 更强调从低谷开始的回升趋势，常与 notar/registrar un repunte 搭配使用。"
+        },
+        {
+          "word": "baladí",
+          "translation": "微不足道的，无关紧要的",
+          "note": "baladí 是一个较为高级的形容词，意为『琐碎的、无足轻重的』；no es baladí 是固定表达，意为『这并非小事、不可小觑』，在新闻和评论文体中用于强调某一现象的重要性，是C1级别的地道表达。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "En total, en España se celebraron 175.324 matrimonios el año 2024, último dato disponible elaborado por el Instituto Nacional de Estadística (INE), unos 2.900 más que el año anterior. En uno de cada cinco enlaces al menos uno de los <strong>cónyuges</strong> era extranjero y el 4% estuvo formado por personas del mismo sexo, entre los que la tendencia por casarse desde la aprobación de la Ley del matrimonio igualitario en 2005 sigue en aumento.",
+      "zh": "2024年，西班牙共举办了175,324场婚礼，这是国家统计局（INE）提供的最新数据，比上一年多约2,900场。每五对新人中，至少有一对的其中一方是外国人；4%的婚礼由同性伴侣缔结，自2005年平等婚姻法获批以来，同性婚姻的比例持续上升。",
+      "vocab": [
+        {
+          "word": "cónyuges",
+          "translation": "配偶，夫妻双方",
+          "note": "cónyuge 是法律和正式文体中『配偶』的专用词，不区分性别，可指丈夫或妻子；在日常口语中通常用 pareja（伴侣）或 marido/mujer（丈夫/妻子）替代，但在法律文件、统计报告和新闻中 cónyuge 是标准用词。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Las cifras recogen cómo las bodas se han convertido en un evento cada vez más exclusivo y al que se destina una parte importante del ahorro. De media, los españoles aseguran que para vivir su enlace ideal el presupuesto <strong>ronda</strong> los 45.000 euros, entre la celebración y la luna de miel. Son datos que se recogen en el estudio Hyatt Vows & Venues, elaborado por la cadena hotelera a partir de una encuesta a más de 2.000 españoles. La inmensa mayoría dice querer casarse en casa, en su país, y la mitad opta por celebrar el enlace en un hotel o un resort, que se lleva el mayor <strong>bocado</strong> del presupuesto, con el 40% del total y un coste medio por celebración de unos 18.300 euros entre el banquete, la estancia y la celebración.",
+      "zh": "这些数据揭示了婚礼如何成为一项越来越专属的活动，人们为此投入了相当大一部分积蓄。平均而言，西班牙人表示，举办一场理想婚礼的预算约为4.5万欧元，涵盖婚礼庆典和蜜月旅行。这些数据来自凯悦酒店集团基于逾2,000名西班牙人调查所编制的《Hyatt Vows & Venues》报告。绝大多数人表示希望在国内举办婚礼，半数人选择在酒店或度假村庆祝，这也是预算中最大的一块，占总额的40%，每场庆典的平均费用约为18,300欧元，涵盖宴席、住宿和庆典本身。",
+      "vocab": [
+        {
+          "word": "ronda",
+          "translation": "约为，大约，接近",
+          "note": "rondar 在数字和统计语境中意为『大约、接近某一数值』，如 ronda los 50 años（大约五十岁）、el precio ronda los 100 euros（价格约为100欧元）；比 aproximadamente 更口语化，是新闻报道中描述近似数值的高频动词。"
+        },
+        {
+          "word": "bocado",
+          "translation": "一口；（比喻）最大的份额",
+          "note": "bocado 字面意思是『一口食物、一口咬下的量』，此处 llevarse el mayor bocado 是比喻用法，意为『拿走最大的一份』；这一比喻在新闻和口语中极为常见，生动形象地描述某一项目占据预算或资源的最大比例。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "\"Los españoles imaginan un formato más <strong>contenido</strong>, con 118 invitados de media, pero una inversión relevante\", sostiene la encuesta. De ahí la preferencia de los <strong>contrayentes</strong> sea un resort; seguido de hoteles de cinco estrellas u hoteles boutique, que convence a algo más de 1 de cada diez parejas. No obstante, el informe también recoge como hay quien prefiere casarse en otros países. Este es el caso de 1 de cada 10 españoles que elegirían Italia como su destino favorito para celebrar una boda; seguida de Maldivas, con el 8% de los encuestados, mientras que cierran el ranking de cinco destinos favoritos Francia y Grecia.",
+      "zh": "调查显示，『西班牙人设想的是一种规模更为适中的形式，平均邀请118位宾客，但投入相当可观』。因此，新人最偏爱的场地是度假村，其次是五星级酒店或精品酒店，后者获得了超过十分之一的新人青睐。不过，报告也记录了部分人倾向于在其他国家举办婚礼的情况：每10名西班牙人中就有1人会选择意大利作为婚礼目的地；其次是马尔代夫，占受访者的8%；法国和希腊则位列五大热门目的地榜单末尾。",
+      "vocab": [
+        {
+          "word": "contenido",
+          "translation": "适中的，克制的，有节制的",
+          "note": "contenido 作形容词意为『有所克制的、规模适中的』，来自动词 contener（控制、抑制）；un formato contenido 意为『规模不过分铺张的形式』；注意它还有名词义『内容』（el contenido de un texto），是典型的一词多义。"
+        },
+        {
+          "word": "contrayentes",
+          "translation": "新人，缔结婚约的双方",
+          "note": "contrayente 来自动词 contraer（缔结），contraer matrimonio（缔结婚姻）是法律文体的固定搭配；contrayentes 专指『正在或即将缔结婚约的双方』，是婚礼和法律报道中的正式用词，比 novios 更书面正式。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Hay que tener en cuenta que cada vez es más común celebraciones que se <strong>prolongan</strong> por todo un fin de semana, incluyendo a familiares y amigos, como también lo son los viajes a destinos exóticos en pareja una vez que se ha dicho el 'sí, quiero'. A ello habría que sumar las despedidas de soltero (el 20% prefiere celebrar sus últimos momentos de su estado civil en el extranjero). Los restantes 15.000 euros del presupuesto ideal <strong>nupcial</strong> van destinados a contratar un fotógrafo, la compra de alianzas, el vestido o el traje de los novios y demás gastos que rodean a todo matrimonio que opte por seguir algunas de las tradiciones.",
+      "zh": "值得注意的是，持续整个周末的婚礼庆典越来越普遍，亲友们一同参与；婚后前往异域目的地旅行的情况也同样如此。此外还要加上单身派对的费用（20%的人倾向于在国外庆祝自己告别单身状态的最后时光）。理想婚礼预算中剩余的1.5万欧元，则用于聘请摄影师、购买婚戒、新娘婚纱或新郎礼服，以及遵循部分传统习俗所产生的其他各项开支。",
+      "vocab": [
+        {
+          "word": "prolongan",
+          "translation": "延续，延长，持续",
+          "note": "prolongarse 作反身动词意为『持续、延续一段时间』，强调时间上的延伸；pro-（向前）+ longar（延长）= prolongar；与 durar（持续）近义，但 prolongarse 更强调超出预期或原定时长的延续，常用于描述活动或状态的延伸。"
+        },
+        {
+          "word": "nupcial",
+          "translation": "婚礼的，婚姻的",
+          "note": "nupcial 是形容词，意为『与婚礼或婚姻相关的』，来自拉丁语 nuptiae（婚礼）；常见搭配有 banquete nupcial（婚宴）、marcha nupcial（婚礼进行曲）、suite nupcial（新婚套房）；是婚礼和法律文体中的核心修饰词。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "El viaje de novios ha sufrido una larga transformación a través de los tiempos. Cada vez se viaja menos por España, aunque sigue siendo el destino ideal de las parejas que contraen matrimonio. Italia es el segundo lugar más popular para los recién casados y la elección para una de cada 10 parejas, según el estudio Hyatt Vows & Venues, un porcentaje similar al de Maldivas, que ocupa la tercera posición. Cada vez es más habitual un viaje que \"transcurre en varios destinos en lugar de <strong>concentrarse</strong> en un único lugar (...) y que responde al deseo de combinar diferentes experiencias en un mismo viaje: playa y ciudad, descanso y cultura, desconexión y aventura\", sostiene el informe.",
+      "zh": "蜜月旅行随着时代的变迁经历了漫长的演变。在西班牙境内旅行的比例越来越低，尽管它仍是新婚夫妇的首选目的地。根据《Hyatt Vows & Venues》报告，意大利是新婚夫妇第二受欢迎的目的地，每10对夫妇中就有1对选择那里，与位列第三的马尔代夫比例相近。报告指出，在多个目的地辗转的旅行越来越普遍，『而非集中在单一地点（……），这反映了在同一趟旅行中融合不同体验的愿望：海滩与城市、休闲与文化、放空与冒险』。",
+      "vocab": [
+        {
+          "word": "concentrarse",
+          "translation": "集中于，专注于，聚焦于",
+          "note": "concentrarse en 是固定搭配，意为『将注意力或资源集中于某一点』；在旅行语境中指『集中停留在单一地点』，与 dispersarse（分散）相对；在学习和工作语境中则指『专心、集中精力』，是一词多义的高频动词。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "La mitad de los futuros contrayentes dice estar a favor de un viaje previo a la boda \"para desconectar antes del gran día\". Es lo que se conoce como 'early moon'. Y también gana <strong>adeptos</strong> una luna de miel más breve ('mini moon'), \"generalmente más cercana y accesible, convence al 42% de los encuestados\". Y una última opción, cada vez más <strong>extendida</strong>, y es quienes quieren compartir el viaje con amigos muy cercanos. Un tercio de los españoles dice tener interés en esta opción, que se basa en \"una forma de viajar basada en la experiencia compartida\".",
+      "zh": "半数准新人表示支持在婚礼前来一次旅行，『在大日子到来前放松一下』，这就是所谓的『婚前蜜月』。更短暂的蜜月形式（『迷你蜜月』）也在不断积累人气，『通常目的地更近、更易实现，获得了42%受访者的认可』。还有一种越来越普遍的选择，就是与至交好友共同出行。三分之一的西班牙人表示对这一选项感兴趣，其核心理念是『一种以共同体验为基础的旅行方式』。",
+      "vocab": [
+        {
+          "word": "adeptos",
+          "translation": "支持者，拥护者，追随者",
+          "note": "adepto 指某一理念、潮流或活动的『支持者、追随者』；ganar adeptos 是固定搭配，意为『赢得更多支持者、越来越受欢迎』，是新闻报道中描述趋势扩散的高频表达，比 seguidores 更正式，常用于描述思想或运动的传播。"
+        },
+        {
+          "word": "extendida",
+          "translation": "普遍的，广泛流行的",
+          "note": "extendido 作形容词意为『广泛传播的、越来越普遍的』；una opción cada vez más extendida 意为『一种越来越普遍的选择』；与 generalizado（普遍化的）近义，但 extendido 更强调传播范围的扩大，generalizado 更强调程度的普遍性。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "El factor más relevante a la hora de elegir el destino de la luna de miel es la <strong>relación calidad-precio</strong>, seguido del clima en destino y del deseo de visitar aquellos \"lugares pendientes\". \"Otros factores, como evitar las <strong>aglomeraciones</strong>, con un 21,6%, o que el destino tenga fama de romántico, con un 18,6%, quedan en un segundo plano. Los datos muestran así que la luna de miel ideal no se decide únicamente por la postal romántica, sino por una combinación de valor, oportunidad y deseo personal\".",
+      "zh": "选择蜜月目的地时，最重要的因素是性价比，其次是目的地的气候，以及探访那些『一直想去的地方』的愿望。『其他因素，如避开人群（占21.6%）或目的地是否以浪漫著称（占18.6%），则退居次要位置。数据由此表明，理想的蜜月目的地并非仅凭一张浪漫明信片来决定，而是价值、时机与个人意愿的综合考量。』",
+      "vocab": [
+        {
+          "word": "relación calidad-precio",
+          "translation": "性价比，质价比",
+          "note": "relación calidad-precio 是固定搭配，意为『质量与价格之间的比值』，即『性价比』；buena/mala relación calidad-precio（高/低性价比）是消费和旅游报道中的核心表达，是B2以上必掌握的固定短语。"
+        },
+        {
+          "word": "aglomeraciones",
+          "translation": "人群聚集，拥挤，扎堆",
+          "note": "aglomeración 来自动词 aglomerarse（聚集、扎堆），指大量人群或事物集中在同一地点造成的拥挤状态；evitar las aglomeraciones（避开人群）是旅游和城市规划报道中的高频搭配，在新冠疫情报道中也大量出现。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "sacar la cabeza",
+      "type": "modismo",
+      "translation": "艰难抬头，开始走出困境",
+      "usage": "惯用语，字面意思是『把头伸出来』，比喻『从困境中艰难抬头、开始摆脱危机』；在经济和社会报道中常用于描述国家或个人从危机中逐渐复苏的过程，语气带有挣扎后终于露出水面的形象感。",
+      "exampleEs": "Después de años de recesión, la industria turística empieza a sacar la cabeza gracias al aumento de los viajeros internacionales.",
+      "exampleZh": "经历多年衰退后，旅游业借助国际游客数量的增加开始艰难复苏。"
+    },
+    {
+      "expression": "poner en entredicho",
+      "type": "colocación",
+      "translation": "使受到质疑，令……陷入争议",
+      "usage": "固定搭配，意为『使某事的可信度、合法性或可行性受到公开质疑』；在新闻和评论文体中极为高频，如 poner en entredicho la credibilidad（令公信力受到质疑）；语气比 cuestionar 更强，带有公开挑战的色彩。",
+      "exampleEs": "El escándalo puso en entredicho la gestión del equipo directivo y aceleró su dimisión.",
+      "exampleZh": "这起丑闻令管理层的治理能力受到质疑，并加速了他们的辞职。"
+    },
+    {
+      "expression": "quedar en un segundo plano",
+      "type": "colocación",
+      "translation": "退居次要位置，变得不那么重要",
+      "usage": "固定搭配，意为『相对于其他因素而言变得次要、不再处于核心位置』；在新闻和分析文体中常用于描述优先级的排序，与 cobrar protagonismo（成为焦点）形成对比，是描述重要性变化的核心表达。",
+      "exampleEs": "Con la llegada de la inteligencia artificial, muchas habilidades técnicas tradicionales han quedado en un segundo plano.",
+      "exampleZh": "随着人工智能的到来，许多传统技术技能已退居次要位置。"
+    },
+    {
+      "expression": "ganar adeptos",
+      "type": "colocación",
+      "translation": "赢得更多支持者，越来越受欢迎",
+      "usage": "固定搭配，意为『某一理念、趋势或做法吸引到越来越多的支持者』；在新闻报道中用于描述新兴趋势的扩散，比 hacerse popular 更正式，常见于社会、文化和消费类报道。",
+      "exampleEs": "El veganismo sigue ganando adeptos entre los jóvenes urbanos de toda Europa.",
+      "exampleZh": "纯素食主义在欧洲各地的城市年轻人中持续赢得越来越多的支持者。"
+    }
+  ]
+}

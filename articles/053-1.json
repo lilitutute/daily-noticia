@@ -1,0 +1,210 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会人文",
+  "difficulty": "C1",
+  "wordCount": "约900词",
+  "title": "Carta a mi hijo con discapacidad: el valor de una vida nunca depende de su utilidad",
+  "subtitle": "致我残障儿子的信：一个生命的价值，从不取决于它的用处",
+  "resumenEs": "Un padre escribe una carta a su hijo con discapacidad intelectual para reflexionar sobre una pregunta que le hizo un potencial donante: ¿por qué destinar recursos a causas que ayudan a pocas personas? A través de la carta, el autor defiende que el valor de una vida no puede medirse por su utilidad o rendimiento, y que una civilización se define por cómo protege a los más frágiles, no por cómo maximiza resultados.",
+  "resumenZh": "一位父亲写信给患有智力残障的儿子，借此反思一位潜在捐助者提出的问题：为何要将资源投入到只能帮助少数人的事业？在信中，作者坚定地主张，生命的价值不能以其用处或产出来衡量，一个文明的高度，体现在它如何保护最脆弱的人，而非如何最大化结果。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Hoy permíteme que me <strong>desahogue</strong> contigo. Que me sirvas de sparring para liberar todos mis pensamientos. De verdad que lo necesito. El otro día, hablando con un potencial donante, surgió una pregunta que llevo años escuchando: ¿por qué destinar tantos recursos a causas que, por su propia naturaleza, siempre ayudarán a relativamente pocas personas cuando, con ese mismo dinero, podrían impulsarse proyectos de mayor alcance? La pregunta estaba formulada con toda la buena fe del mundo y no tiene nada de indigna, porque nace de la razón, pero hay verdades que la razón, por sí sola, no basta para comprender.",
+      "zh": "今天，请允许我向你倾诉。让你充当我的陪练，帮我释放所有的思绪。我真的需要这样做。前几天，在与一位潜在捐助者交谈时，出现了一个我已听了多年的问题：为什么要把这么多资源投入到那些就其本质而言永远只能帮助相对少数人的事业，而用同样的钱，本可以推动覆盖面更广的项目？这个问题出于十足的善意，并无任何不妥，因为它源于理性，但有些真理，单凭理性是不够理解的。",
+      "vocab": [
+        {
+          "word": "desahogue",
+          "translation": "倾诉，宣泄，发泄",
+          "note": "desahogarse 是反身动词，意为『倾诉内心积压的情绪、宣泄压力』；前缀 des-（逆向）+ ahogo（窒息感）= desahogarse（从压抑中解脱）；在口语和书信体中极为常见，比 expresarse 更强调情绪释放的迫切性。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Durante unos segundos pensé incluso que quizá tenían razón. Que tal vez nosotros también deberíamos dedicar nuestros esfuerzos a otras causas donde estos pudieran ayudar a más personas. Pero enseguida empecé a pensar en ti. En que, si alguien se limitara a analizar tu vida solo desde una <strong>hoja de cálculo</strong>, sin tener nada más en consideración, probablemente nunca le saldrían las cuentas. Y, sin embargo, pocas personas conozco que hayan cambiado tanto a quienes lo rodean. Muchos sostendrán que es más inteligente destinar el dinero allí donde produzca un mayor \"<strong>rendimiento</strong>\" humano. Hablarán de eficacia, de alcance, de impacto.",
+      "zh": "有那么几秒钟，我甚至觉得他们也许说得对。也许我们也应该把精力投入到能帮助更多人的其他事业上。但我很快开始想到你。想到如果有人只用一张电子表格来分析你的人生，不考虑其他任何因素，账目大概永远也算不平。然而，我认识的人中，很少有人像你一样，如此深刻地改变了身边的每一个人。许多人会坚持认为，把钱投入到能产生更大人类『回报』的地方才更明智。他们会谈论效率、覆盖面、影响力。",
+      "vocab": [
+        {
+          "word": "hoja de cálculo",
+          "translation": "电子表格；算账逻辑",
+          "note": "hoja de cálculo 字面指办公软件中的『电子表格』，此处用作比喻，指纯粹以数字和效益衡量一切的思维方式；这种比喻用法在评论和人文类文章中常见，代表一种冷冰冰的功利主义逻辑。"
+        },
+        {
+          "word": "rendimiento",
+          "translation": "回报，产出，效益；性能",
+          "note": "rendimiento 来自动词 rendir（产出、使屈服），在经济语境中指『投资回报、产出效益』，在体育或技术语境中指『性能、表现』；此处加引号暗含讽刺，质疑将人的价值量化为『回报率』的逻辑。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Pero existe un peligro oculto en esa lógica cuando se convierte en una ley absoluta. Porque el día en que una sociedad empiece a decidir quién merece ayuda en función de su \"<strong>rentabilidad</strong>\", habrá comenzado también a decidir qué vidas poseen menos valor. Las personas más frágiles siempre serán ineficientes: el anciano <strong>dependiente</strong>, el niño gravemente enfermo, la persona con gran discapacidad, el que nunca producirá riqueza ni devolverá a la sociedad aquello que consume… Si el criterio supremo fuese únicamente la maximización del resultado, todos ellos quedarían lentamente apartados de la mesa común.",
+      "zh": "但当这种逻辑变成一条绝对法则时，其中隐藏着一种危险。因为当一个社会开始根据『盈利能力』来决定谁值得获得帮助的那一天，它也就开始决定哪些生命价值更低了。最脆弱的人永远是『低效率』的：需要照料的老人、身患重病的孩子、重度残障者、那些永远不会创造财富、也无法将消耗的资源归还给社会的人……如果最高准则仅仅是最大化结果，他们都将被慢慢地排除在公共餐桌之外。",
+      "vocab": [
+        {
+          "word": "rentabilidad",
+          "translation": "盈利能力，回报率，经济效益",
+          "note": "rentabilidad 来自 rentable（有利可图的），后缀 -idad 将形容词转化为抽象名词；在经济语境中指『投资回报率』，此处加引号将其用于人的价值评估，带有强烈的批判色彩，是全文论证的核心词。"
+        },
+        {
+          "word": "dependiente",
+          "translation": "需要照料的，依赖他人的；店员",
+          "note": "dependiente 作形容词意为『依赖他人、无法自理的』，如 anciano dependiente（需要照料的老人）；作名词意为『商店店员』；注意这是一词多义，在医疗和社会福利语境中为前者，在商业语境中为后者。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "No de golpe, no con una crueldad <strong>manifiesta</strong>, sino poco a poco, basándonos en argumentos razonables. Así empiezan las peores <strong>decadencias</strong> morales: cuando el corazón se reviste de matemáticas para justificar su indiferencia. Una civilización no se define por cómo trata a las mayorías fuertes, sino por cómo protege a quienes no pueden devolver nada a cambio. Ahí es donde un pueblo revela su verdadera <strong>estatura</strong> moral.",
+      "zh": "不是一蹴而就，不是以赤裸裸的残忍，而是一点一点地，以合理的论据为依托。最严重的道德堕落往往就是这样开始的：当内心披上数学的外衣，用来为自己的冷漠辩护。一个文明的高度，不在于它如何对待强大的多数，而在于它如何保护那些无以为报的人。正是在这里，一个民族展现出其真正的道德境界。",
+      "vocab": [
+        {
+          "word": "manifiesta",
+          "translation": "明显的，显而易见的，公然的",
+          "note": "manifiesto 作形容词意为『明显的、公然的』，如 una mentira manifiesta（明显的谎言）；作名词意为『宣言、声明』，如 el Manifiesto Comunista（共产党宣言）；是典型的一词多义，在政治和文学文体中均高频出现。"
+        },
+        {
+          "word": "decadencias",
+          "translation": "衰落，堕落，颓废",
+          "note": "decadencia 来自动词 decaer（衰落），指道德、文化或文明层面的退步与堕落；在历史、哲学和评论文体中常见，如 la decadencia del Imperio Romano（罗马帝国的衰落）；与 declive（下滑）近义，但 decadencia 更强调道德和精神层面的腐化。"
+        },
+        {
+          "word": "estatura",
+          "translation": "（道德）高度，境界；身高",
+          "note": "estatura 字面意思是『身高、个子』，在文学和评论语境中引申为『（道德或精神上的）高度、境界』；estatura moral（道德境界）是政治和人文评论中的高频比喻搭配，体现了西语中以身体特征喻精神品质的修辞传统。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Tú nunca me has dado las gracias por cuidarte, al menos no de la manera en que la gente suele darlas. Lo has hecho de muchas otras formas, pero tampoco las necesitaba, o eso quiero pensar. Ya que hace mucho que comprendí que quien ama de verdad no espera ser <strong>recompensado</strong>, porque el propio amor ya es su recompensa. Quizá por eso me cuesta tanto entender un mundo que solo sabe medir el valor de las cosas por lo que pueden <strong>devolver</strong>.",
+      "zh": "你从未为我照顾你而道谢，至少不是人们通常表达感谢的那种方式。你以许多其他方式表达过，但我也并不需要，或者说我希望如此。因为很久以前我就明白了，真正爱一个人的人不期待回报，因为爱本身就是它自己的回报。也许正因如此，我很难理解一个只懂得用事物能够回馈什么来衡量其价值的世界。",
+      "vocab": [
+        {
+          "word": "recompensado",
+          "translation": "得到回报的，被奖励的",
+          "note": "recompensar 意为『给予回报、奖励』，名词形式为 recompensa（回报、奖励）；前缀 re-（再次）+ compensar（补偿）= recompensar（予以回报）；此处用于表达『真正的爱不求回报』这一核心论点，是全文情感高潮的关键词。"
+        },
+        {
+          "word": "devolver",
+          "translation": "归还，回馈，返还",
+          "note": "devolver 意为『归还、返还』，在此处引申为『回馈社会、产生回报』；de-（逆向）+ volver（返回）= devolver（还回去）；devolver a la sociedad（回馈社会）是社会学和公益语境中的高频搭配。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Hay, además, otra verdad que los calculadores del mundo olvidan con frecuencia: el bien jamás termina donde creemos. Un centro que cuida a 300 personas quizá <strong>sostiene</strong> también a 300 familias. Y esas familias educan a hijos distintos. Y esos hijos crecerán mirando la fragilidad humana no con miedo ni desprecio, sino con <strong>compasión</strong>. Y esa compasión transformará decisiones futuras, leyes futuras, sociedades futuras. El bien auténtico posee raíces invisibles.",
+      "zh": "此外，还有另一个真理是世间那些精于计算的人常常忘记的：善的影响从不止于我们所以为的终点。一个照顾300人的中心，或许同时也在支撑着300个家庭。而那些家庭会培育出不同的孩子。那些孩子长大后，看待人类的脆弱，不会带着恐惧或鄙视，而是带着悲悯。而那份悲悯，将会改变未来的决策、未来的法律、未来的社会。真正的善，拥有看不见的根。",
+      "vocab": [
+        {
+          "word": "sostiene",
+          "translation": "支撑，维系，供养",
+          "note": "sostener 意为『支撑、维系、供养』，在社会和家庭语境中常指经济或情感上的支持；sostener una familia（养活一个家庭）、sostener una teoría（支持一种理论）是常见搭配；注意与 apoyar（支持）近义，但 sostener 更强调持续性的承托。"
+        },
+        {
+          "word": "compasión",
+          "translation": "悲悯，同情，怜悯",
+          "note": "compasión 来自 com-（共同）+ pasión（苦难），字面意思是『共同承担苦难』，即『悲悯、同情』；sentir compasión por alguien（对某人感到怜悯）是固定搭配；与 lástima（可怜）相比，compasión 更强调深层的情感共鸣，语气更庄重。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Quien solo ama a la humanidad en <strong>abstracto</strong> suele terminar olvidando a los hombres reales. Por eso desconfío de quienes hablan constantemente de salvar al mundo, pero son incapaces de detenerse primero ante el sufrimiento del que tienen delante de sus ojos. El verdadero deber moral siempre comienza en casa. Teresa de Calcuta entendió algo que la gente olvida con frecuencia: cuando una persona encuentra a alguien que sufre, deja de preguntarse cuántos podría haber ayudado y empieza, sencillamente, a cuidar de quien tiene delante.",
+      "zh": "那些只在抽象层面热爱人类的人，往往最终会忘记真实的人。正因如此，我不信任那些口口声声要拯救世界，却无法先在眼前之人的苦难面前驻足的人。真正的道德责任，永远从身边开始。加尔各答的特蕾莎修女理解了一件人们常常遗忘的事：当一个人遇见正在受苦的人，他不再问自己本可以帮助多少人，而是简单地开始照顾眼前这个人。",
+      "vocab": [
+        {
+          "word": "abstracto",
+          "translation": "抽象的，空泛的",
+          "note": "abstracto 作形容词意为『抽象的、脱离具体现实的』；en abstracto 是固定搭配，意为『在抽象层面上、脱离实际地』；与 concreto（具体的）相对，两者在哲学和评论文体中常作对比使用，是论证类文章的核心词对。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "No te <strong>avergüences</strong>, por tanto, de luchar por una causa pequeña a los ojos del resto. A menudo son precisamente esas causas las que preservan la mayor grandeza. Porque cuando una sociedad decide que incluso el más vulnerable merece belleza, cuidado, descanso y dignidad, está <strong>proclamando</strong> algo extraordinario: que la vida humana tiene valor por sí misma y no por su utilidad.",
+      "zh": "因此，不要为了在他人眼中微不足道的事业而感到羞耻。往往正是那些事业，守护着最伟大的东西。因为当一个社会决定，即便是最脆弱的人也值得拥有美、关怀、休息与尊严时，它正在宣告一件非凡的事：人的生命本身就有价值，而不是因为它的用处。",
+      "vocab": [
+        {
+          "word": "avergüences",
+          "translation": "感到羞耻，感到难为情",
+          "note": "avergonzarse de 是固定搭配，意为『为……感到羞耻或难为情』；此处用虚拟式 avergüences，因为前有否定命令 no te avergüences，西语否定命令句统一使用虚拟式，是重要语法考点。"
+        },
+        {
+          "word": "proclamando",
+          "translation": "宣告，宣示，昭示",
+          "note": "proclamar 意为『公开宣告、郑重宣示』，比 decir 或 afirmar 语气更庄重，带有公开声明的仪式感；在政治、法律和文学语境中均高频出现，如 proclamar la independencia（宣告独立）；此处用于强调社会价值观的公开表态。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Y esa idea, querido Alvarete, <strong>sostiene</strong> el mundo mucho más de lo que creemos. Los hombres prácticos te dirán que hay batallas más eficientes. Quizá tengan razón. Pero el alma humana no sobrevive solo de eficiencia. También necesita símbolos. Necesita lugares que nos recuerden que el valor de una vida nunca depende de su utilidad; lugares donde los más frágiles no sean una <strong>carga</strong> que administrar, sino personas a las que cuidar. No porque vayan a cambiar todas las estadísticas del sufrimiento humano, sino porque impiden que nos acostumbremos a mirar hacia otro lado.",
+      "zh": "而那个理念，亲爱的小阿尔瓦雷特，比我们所以为的更深地支撑着这个世界。务实的人会告诉你，有更有效率的仗可以打。也许他们说得对。但人类的灵魂不能只靠效率存活，它还需要象征。它需要那些提醒我们『一个生命的价值从不取决于它的用处』的地方；在那里，最脆弱的人不是需要管理的负担，而是需要照料的人。不是因为他们会改变所有关于人类苦难的统计数字，而是因为他们阻止了我们习惯于转移视线。",
+      "vocab": [
+        {
+          "word": "carga",
+          "translation": "负担，重担；货物；充电",
+          "note": "carga 是典型的一词多义：在社会和情感语境中意为『负担、重担』；在运输语境中意为『货物』；在电子语境中意为『充电』；ser una carga para alguien（成为某人的负担）是社会福利和伦理讨论中的高频表达，此处带有强烈的批判性反讽。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Ese es, en el fondo, el sueño de la Casa AVA: no cambiar el mundo entero, sino impedir que una sola familia se sienta olvidada por él. Porque el día en que una sociedad deje de <strong>conmoverse</strong> ante el dolor concreto de los más frágiles, habrá empezado también a perder lo mejor de sí misma. Cuida, pues, de esas pocas vidas como si fueran el centro del mundo. Porque para quienes habitan en ellas, lo son.",
+      "zh": "这，从根本上说，就是AVA之家的梦想：不是改变整个世界，而是不让任何一个家庭感到被这个世界遗忘。因为当一个社会不再被最脆弱者具体的痛苦所触动的那一天，它也就开始失去自身最好的部分了。因此，请像对待世界的中心一样，去照料那少数几条生命。因为对于生活在其中的人而言，它们就是。",
+      "vocab": [
+        {
+          "word": "conmoverse",
+          "translation": "被感动，被触动，动容",
+          "note": "conmoverse 是反身动词，意为『内心受到触动、被感动』；con-（共同）+ mover（移动）= conmover（使感动）；conmoverse ante algo（被某事触动）是固定搭配；与 emocionarse（感动落泪）相比，conmoverse 更强调深层的内心震动，语气更庄重。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "no faltará razón",
+      "type": "colocación",
+      "translation": "不无道理，也有几分道理",
+      "usage": "固定表达，no faltarle razón a alguien 意为『某人说的不无道理』，用于承认对方观点有一定合理性，但通常后接转折；在论证和评论文体中极为高频，是表达『让步-转折』逻辑的核心句式。",
+      "exampleEs": "No les faltará razón a quienes piden mayor rigor en el gasto público, pero la austeridad tiene límites humanos.",
+      "exampleZh": "那些要求更严格管控公共支出的人不无道理，但紧缩政策有其人道边界。"
+    },
+    {
+      "expression": "mirar hacia otro lado",
+      "type": "modismo",
+      "translation": "视而不见，转移视线，袖手旁观",
+      "usage": "惯用语，字面意思是『看向另一边』，实际指面对问题或苦难时故意回避、装作没看见；在社会批评和道德讨论中极为常见，语气带有明显的谴责色彩。",
+      "exampleEs": "No podemos seguir mirando hacia otro lado mientras miles de personas no tienen acceso a atención médica básica.",
+      "exampleZh": "在数千人无法获得基本医疗保障的情况下，我们不能继续视而不见。"
+    },
+    {
+      "expression": "de golpe",
+      "type": "expresión coloquial",
+      "translation": "突然，一下子，猛地",
+      "usage": "固定表达，意为『突然发生、一下子』，强调变化的突然性和猛烈性；与 de repente 近义，但 de golpe 更强调冲击感；常见变体有 de un golpe（一举、一下子），在叙事和口语中均极为高频。",
+      "exampleEs": "No perdió la fe de golpe; fue un proceso lento y doloroso de años.",
+      "exampleZh": "他并非一下子失去了信仰，而是经历了多年缓慢而痛苦的过程。"
+    },
+    {
+      "expression": "revestirse de",
+      "type": "colocación",
+      "translation": "披上……的外衣，以……为掩护",
+      "usage": "固定搭配，revestirse de algo 意为『以某种形式或名义作为外表掩护』，带有强烈的比喻色彩；在文学和评论文体中用于揭示表象与本质的背离，如 revestirse de legalidad（披上合法的外衣），语气具有批判性。",
+      "exampleEs": "La discriminación a veces se reviste de argumentos técnicos para parecer objetiva.",
+      "exampleZh": "歧视有时会披上技术性论据的外衣，以显得客观公正。"
+    },
+    {
+      "expression": "en el fondo",
+      "type": "colocación",
+      "translation": "从根本上说，说到底，内心深处",
+      "usage": "固定搭配，意为『从本质上、说到底』，用于揭示事物的核心或某人内心真实的想法；在论证、叙事和口语中均极为高频，常置于句首或句中，是连接表象与本质的过渡表达。",
+      "exampleEs": "En el fondo, todos buscamos lo mismo: ser escuchados y comprendidos.",
+      "exampleZh": "说到底，我们所有人追求的都是同一件事：被倾听，被理解。"
+    }
+  ]
+}
