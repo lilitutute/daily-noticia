@@ -1,0 +1,170 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "情感与社会",
+  "difficulty": "B2",
+  "wordCount": "约600词",
+  "title": "Llamar poco a los padres",
+  "subtitle": "给父母打电话太少",
+  "resumenEs": "El autor reflexiona sobre el olvido y la culpa a través de Rosarín, una anciana de 88 años casi ciega que vive sola y le pidió que no la olvidara. Su visita le lleva a pensar en la soledad de los mayores y en la frecuencia con que llama a sus propios padres. Entre estudios sobre hábitos telefónicos familiares y el testimonio de un amigo que perdió a su madre joven, el texto concluye con una llamada sencilla y emotiva: la que uno debería hacer hoy mismo.",
+  "resumenZh": "作者通过探望88岁、几近失明、独居的老邻居罗萨琳，引发了对遗忘与愧疚的深刻反思。老人只请求他「一个小时」，却让他想起自己给父母打电话的频率。文章穿插关于家庭通话习惯的研究数据，以及一位早年失去母亲的朋友的忠告，最终以一句简单而动情的问候作结：那个我们今天就应该拨出的电话。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Rosarín me pidió que no la olvidara y yo la había olvidado. Rosarín tiene 88 años, está casi ciega y vive sola. La conozco desde que a los diecisiete años esperaba a mi novia en el portal de ese edificio de <strong>protección oficial</strong> franquista en el que vive. Antes la fachada tenía una placa vieja con yugos y flechas. Ahora tiene otra placa que, traducida, viene a decir: la democracia ya no hace pisos sociales para gente humilde pero condena la dictadura. Más o menos.",
+      "zh": "罗萨琳请求我不要忘记她，而我已经忘记了她。罗萨琳88岁，几乎失明，独自生活。我认识她，是从17岁在那栋佛朗哥时代的公租房门廊等我女友时开始的。那栋楼的外墙以前挂着一块旧牌匾，上面刻着轭与箭。现在换了另一块，翻译过来大意是：民主不再为穷苦百姓建社会住房，但谴责独裁。大概是这个意思。",
+      "vocab": [
+        {
+          "word": "protección oficial",
+          "translation": "政府保障性住房，公租房",
+          "note": "西班牙特有的行政术语，指国家补贴的社会住房项目，类似中文的『经济适用房』或『公租房』，在新闻和社会议题中频繁出现，了解这一背景有助于理解西班牙战后城市化语境。"
+        },
+        {
+          "word": "yugos y flechas",
+          "translation": "轭与箭（佛朗哥政权的象征符号）",
+          "note": "轭与箭是西班牙法西斯政党长枪党（Falange）及佛朗哥独裁政权的标志性符号，在西班牙历史和政治语境中具有强烈的意识形态含义，理解这一意象是读懂本段讽刺语气的关键。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Rosarín, que durante medio siglo ha sido la vecina del primero para la familia de mi pareja, me pidió que no la olvidara cuando me despedí de ella. Yo la visito de vez en cuando. Voy, le cuento mis historias y veo el asombro <strong>reverdecer</strong> en unos ojos llenos de niebla que ya solo ven eso: sombras, bultos, algún asombro ocasional.",
+      "zh": "罗萨琳半个世纪以来一直是我伴侣家庭的一楼邻居，在我和她道别时，她请求我不要忘记她。我偶尔去看她。去了，给她讲我的故事，看着惊喜在那双雾蒙蒙的眼睛里重新焕发——那双眼睛如今只能看到：影子、轮廓，偶尔一丝惊喜。",
+      "vocab": [
+        {
+          "word": "reverdecer",
+          "translation": "重新焕发，再度萌生",
+          "note": "reverdecer 本义是『重新变绿、草木复苏』，前缀 re- 表示『再次』，verde（绿色）象征生机，引申为某种情感或活力的重新焕发，是极具画面感的文学用词，比 renacer 更强调生命力的视觉意象。"
+        },
+        {
+          "word": "bultos",
+          "translation": "模糊的轮廓，影影绰绰的形状",
+          "note": "bulto 本义是『包裹、肿块』，在视觉语境中指看不清细节、只能辨认出大致形状的物体，常用于描述视力衰退者眼中的世界，是理解本段老人失明状态的关键词。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Por la escalera me dijo: no m'oblides, Paco. En ese instante me propuse que iría más a menudo a visitarla. Una vez al mes, qué menos. Pero desde Navidad que no iba. Las excusas, la culpa, el <strong>remordimiento</strong>. Esta semana he vuelto. Su padre murió en la guerra, nadie sabe dónde ni ya nunca lo sabrá. Su madre era criada de unos <strong>señoritos</strong> y vivían en el semisótano de un caserón: de niña penumbras, de anciana tinieblas. A los doce años ya había dejado la escuela y trabajaba de <strong>costurerita</strong> con el hilo, la aguja y el dedal infantil en el dedo corazón. Una vida dura, digna, eclipsada por el desarrollismo de un país amnésico. Mi asombro, cuando la escucho, es mayor que el suyo.",
+      "zh": "在楼梯上，她对我说：不要忘了我，帕科。那一刻，我下定决心要更常来看她。至少一个月一次。但自从圣诞节之后就没来过。借口、愧疚、悔恨。这周我回来了。她的父亲死于战争，没有人知道死在哪里，也永远不会知道了。她的母亲是某户有钱人家的女仆，她们住在一栋大宅的半地下室：童年是昏暗，老年是黑暗。十二岁时她就辍学了，拿着针线和顶针做小裁缝，那枚小小的顶针套在中指上。这是一段艰辛而有尊严的人生，被一个患了失忆症的国家的经济腾飞所遮蔽。每次听她讲述，我的惊叹比她还要深。",
+      "vocab": [
+        {
+          "word": "remordimiento",
+          "translation": "悔恨，良心的谴责",
+          "note": "remordimiento 源自 remorder（反复咬噬），形象地描述良心对内心的持续折磨，比 arrepentimiento（后悔）更强调情感上的持续痛苦，常见搭配为 sentir remordimiento（感到悔恨）、con remordimiento（带着愧疚）。"
+        },
+        {
+          "word": "señoritos",
+          "translation": "有钱的少爷，富家子弟（带轻蔑意味）",
+          "note": "señorito 是 señor 的指小词，在历史语境中专指出身富裕、不事劳动的年轻地主或资产阶级，带有明显的阶级批判色彩，与 rico 相比，señorito 更强调其养尊处优、颐指气使的态度。"
+        },
+        {
+          "word": "costurerita",
+          "translation": "小裁缝，小女裁缝",
+          "note": "costurera（女裁缝）加上指小后缀 -ita，构成 costurerita，既表示年龄小，也带有一种心酸的温柔感，指小后缀 -ito/-ita 在西语中用途极广，可表示小、亲昵或怜悯，是理解西语情感色彩的重要构词规律。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Al marcharme de su casa esta semana, otra vez por la escalera, Rosarín me dijo: Vuelve pronto, que con una hora nos <strong>apañamos</strong>. Una hora. Solo pedía una hora. Un mes tiene 720 horas. Y entonces yo pensé en ella, en la vejez, en la soledad. Y pensé en mis padres. Cuántas veces los llamo por teléfono. Cuántas más podría hacerlo.",
+      "zh": "这周离开她家时，又是在楼梯上，罗萨琳对我说：快点回来，一个小时就够我们用的了。一个小时。她只要求一个小时。一个月有720个小时。于是我想到了她，想到了老年，想到了孤独。我也想到了我的父母。我打了多少次电话给他们。还可以打多少次。",
+      "vocab": [
+        {
+          "word": "apañamos",
+          "translation": "够用，凑合，搞定",
+          "note": "apañarse 是西班牙口语中极为地道的表达，意为『将就着用、自己想办法搞定』，con una hora nos apañamos 即『一个小时就够我们用了』，语气亲切随和，体现了说话者不愿给对方添麻烦的心理，是典型的日常口语搭配。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Ya en casa encuentro un estudio que dice que los hijos españoles son los que más llaman a sus padres de toda Europa —de dos a tres veces por semana—. Que las mujeres llaman a sus padres casi el doble que los varones. Y que es en esa <strong>franja</strong> de combustión que une crianza y trabajo cuando más se deja de llamar a los padres. Luego leo a una experta que considera que la frecuencia de las llamadas es una mala <strong>métrica</strong> para evaluar una relación y que la obligación —impuesta o autoimpuesta, presión paterna y culpa filial— suele ser <strong>contraproducente</strong>. A continuación descubro que el mensaje de \"buenas noches, mamá\" ha pasado a ocupar un lugar central en la dinámica familiar.",
+      "zh": "回到家，我看到一项研究说，西班牙子女是全欧洲给父母打电话最多的——每周两到三次。女性给父母打电话的频率几乎是男性的两倍。而在养育子女与工作交织的那段燃烧期，给父母打电话的频率最低。随后我读到一位专家的观点，她认为通话频率是衡量一段关系的糟糕指标，而义务感——无论是外部施加还是自我施加、父母的压力还是子女的愧疚——往往适得其反。接着我发现，「晚安，妈妈」这条消息已经在家庭互动中占据了核心位置。",
+      "vocab": [
+        {
+          "word": "franja",
+          "translation": "阶段，时段，地带",
+          "note": "franja 本义是『条纹、带状区域』，引申为时间或年龄上的某一『区间』或『阶段』，常见搭配有 franja horaria（时间段）、franja de edad（年龄段），是新闻和社会学文体中的高频词。"
+        },
+        {
+          "word": "métrica",
+          "translation": "衡量指标，度量标准",
+          "note": "métrica 在数字化和商业语境中被广泛借用，指用于评估某事物的量化指标，是英语 metric 的对应词，属于近年来随科技语境渗透进日常西语的新兴用法，在传统语境中 métrica 仅指诗歌格律。"
+        },
+        {
+          "word": "contraproducente",
+          "translation": "适得其反的，事与愿违的",
+          "note": "contraproducente 由 contra-（反）+ producente（产生效果的）构成，是正式语体中表达『反效果』的高频词，比口语中的 al revés 更书面，常见于心理学、教育学和社会评论语境。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Cuando la vida <strong>atropella</strong> y llega la noche y parece tarde para coger el teléfono, me acuerdo de un amigo que perdió a su madre demasiado joven. Hace tiempo me dijo que el mayor error que podía cometer en mi vida era no hablar cada día con mis padres. Él daría lo que fuera por hablar de nuevo con los suyos.",
+      "zh": "当生活将人撞得措手不及，夜晚来临，拿起电话似乎已经太晚，我会想起一个朋友，他在太年轻的时候就失去了母亲。他曾对我说，我这辈子能犯的最大错误，就是不每天和父母说话。他愿意付出一切，只为能再和他的父母说上一句话。",
+      "vocab": [
+        {
+          "word": "atropella",
+          "translation": "撞倒，冲撞；（比喻）将人压垮，令人措手不及",
+          "note": "atropellar 本义是车辆撞人，引申为生活、事件等以不可抗拒之势冲击某人，使其无暇应对，是极具冲击力的比喻动词，比 abrumar（压垮）更强调突然性和外力的猛烈感。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "A veces la <strong>sensatez</strong> no cabe en los estudios. A veces es a través de la niebla de unos ojos agradecidos cuando se ve claro. Hola, mare, com estàs?",
+      "zh": "有时候，理智是装不进研究报告里的。有时候，恰恰是透过一双充满感激的、雾蒙蒙的眼睛，才能看得清楚。你好，妈，你还好吗？",
+      "vocab": [
+        {
+          "word": "sensatez",
+          "translation": "理智，明智，清醒的判断力",
+          "note": "sensatez 是形容词 sensato（明智的、理性的）的名词形式，后缀 -ez 将形容词转化为抽象名词，同类构词如 madurez（成熟）、delgadez（消瘦）、vejez（老年），掌握这一后缀可举一反三。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "de vez en cuando",
+      "type": "expresión coloquial",
+      "translation": "偶尔，有时候",
+      "usage": "极高频的固定副词短语，表示不规律、间隔较长的频率，语体中性，口语书面均可使用。与 a veces 相比，de vez en cuando 更强调间隔的不规律性和相对稀少性，不可拆分替换。",
+      "exampleEs": "De vez en cuando me gusta desconectar del móvil y salir a caminar sin rumbo.",
+      "exampleZh": "我偶尔喜欢放下手机，漫无目的地出去走走。"
+    },
+    {
+      "expression": "daría lo que fuera",
+      "type": "expresión coloquial",
+      "translation": "愿意付出一切，不惜任何代价",
+      "usage": "daría lo que fuera（por + 动词原形）是口语中表达强烈渴望的固定句式，字面意思是『会给出任何东西』，语气真诚而强烈，常用于表达对失去之物的深切思念或对某事的极度渴望。",
+      "exampleEs": "Daría lo que fuera por volver a escuchar su voz una vez más.",
+      "exampleZh": "我愿意付出一切，只为再听一次他的声音。"
+    },
+    {
+      "expression": "qué menos",
+      "type": "expresión coloquial",
+      "translation": "这是最起码的，至少应该这样",
+      "usage": "qué menos 是口语中表达『这是最低限度的要求』的固定感叹式短语，语气带有轻微的自我要求或道德期许，常独立成句或置于句末，相当于『这点都做不到吗』的委婉说法。",
+      "exampleEs": "Llamar a tu abuela una vez a la semana, qué menos.",
+      "exampleZh": "一周给奶奶打一次电话，这是最起码的吧。"
+    },
+    {
+      "expression": "eclipsada por",
+      "type": "colocación",
+      "translation": "被……所遮蔽，被……所掩盖",
+      "usage": "eclipsar 本义是天文学中的『遮蔽、日食/月食』，引申为某事物的光芒或存在被另一事物所压制或忽视，是文学和评论文体中的高频比喻动词，固定搭配为 eclipsado/a por，常用于描述被历史或社会遗忘的群体或事件。",
+      "exampleEs": "La contribución de las mujeres a la ciencia fue durante siglos eclipsada por la de sus colegas masculinos.",
+      "exampleZh": "几个世纪以来，女性对科学的贡献一直被她们的男性同行所遮蔽。"
+    },
+    {
+      "expression": "no cabe en",
+      "type": "colocación",
+      "translation": "装不进……，无法被……所容纳",
+      "usage": "caber 意为『容得下、装得进』，no cabe en 在此为比喻用法，表示某种东西无法被某种框架或形式所涵盖，是文学和评论语境中表达『超越某种局限』的优雅说法，比 no se puede medir con 更简洁有力。",
+      "exampleEs": "Hay emociones que no caben en palabras; solo se sienten.",
+      "exampleZh": "有些情感是语言装不下的，只能去感受。"
+    }
+  ]
+}
+
