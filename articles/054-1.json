@@ -1,571 +1,132 @@
 {
   "date": "西语外刊阅读",
   "brand": "公众号【西语SuperO】",
-  "category": "文化与社会",
-  "difficulty": "C1",
-  "wordCount": "约2200词",
-  "title": "La siesta, esa pausa nacional convertida hoy en una insurrección silenciosa",
-  "subtitle": "午睡，这一民族习惯如今已成为一场无声的反抗",
-  "resumenEs": "La siesta, tradición arraigada en la cultura mediterránea, ha adquirido en el siglo XXI una nueva dimensión política y filosófica. Pensadores como Byung-Chul Han y Jonathan Crary denuncian el capitalismo del 24/7 que coloniza hasta el descanso, mientras escritores, filósofos y artistas reivindican la siesta como acto de resistencia y emancipación. Entre el entusiasmo reivindicativo y las advertencias científicas de la cronobiología, el artículo explora por qué detenerse a dormir de día se ha convertido en un gesto cargado de significado cultural, político y existencial.",
-  "resumenZh": "午睡是地中海文化中根深蒂固的传统，在21世纪却被赋予了全新的政治与哲学意涵。韩炳哲、乔纳森·克拉里等思想家批判全天候资本主义对休息时间的侵占，而作家、哲学家与艺术家们则将午睡视为抵抗与解放的行动。文章在热情的倡导与时间生物学的科学警示之间，探讨了白天小睡这一举动何以成为承载文化、政治与生存意义的姿态。",
+  "category": "社会与移民",
+  "difficulty": "B1",
+  "wordCount": "约350词",
+  "title": "Zhan Qiao Lin, chino que vive en España: «Los chinos no van a los hospitales porque no quieren esperar mucho tiempo y tener la tienda cerrada»",
+  "subtitle": "旅西华人詹巧林：「华人不去医院，是因为不想等太久、不想关店」",
+  "resumenEs": "Según datos del INE, la población china en España supera los 230.000 residentes en 2025, concentrada principalmente en el comercio y la hostelería. El cirujano plástico Zhan Qiao Lin explica en un pódcast que muchos compatriotas evitan acudir al médico por miedo a perder tiempo y tener que cerrar su negocio, sumado a las barreras idiomáticas y la costumbre del copago en China. Entre los médicos existe incluso una regla no escrita: si un paciente chino llega a urgencias, la situación es realmente grave.",
+  "resumenZh": "据西班牙国家统计局数据，2025年在西华人超过23万，主要集中于商业和餐饮服务业。整形外科医生詹巧林在一档播客中解释，许多华人同胞因担心耽误时间、被迫关店而回避就医，加之语言障碍和在中国习惯了自费就医的观念。医生圈中甚至流传着一条不成文的规则：华人患者一旦来了急诊，情况必然已经相当严重。",
   "paragraphs": [
     {
       "id": 1,
-      "es": "¿Has comido bien? ¿Tienes un rato? Entonces, pon el móvil en modo avión, túmbate y duerme. <strong>Arráncale</strong> a tu jornada un momento de suspensión. Un dominio pleno sobre ti mismo. Para. Descansa. No pasa nada. Échate una siesta. No calcules el tiempo, dale el lujo a tu cuerpo de que decida por ti el momento en que volver a abrir los ojos. En justa recompensa a que ha sido él, no tu voluntad, quien decidió cerrarlos. El sofá del salón está bien, con la tele baja, aunque, mejor, apagada. Preferible el cuarto, tu cama, tu colchón, ligero de ropa o como decía Camilo José Cela, por qué no, una de pijama, padrenuestro y orinal. Pero también en la playa, tendido en el campo, a la sombra de un árbol, con el <strong>murmullo</strong> del viento o las olas del mar. Sueña si quieres, de hecho vas a soñar, pero mejor no interrumpas ese rato con pesadillas o interferencias desconcertantes. Cuando despiertes, si estás de vacaciones, nadie sospechará de ti. Pero si andas en periodo activo, <strong>arréglatelas</strong> para hacerlo igual, sin complejos, ajeno a cualquier <strong>atisbo</strong> de culpa. La siesta no es un invento, es una necesidad. Si no lo percibes así, probablemente actúas contra natura. O te engañas imbuido en otro sueño equivocado de autorrealización por medio del destajo que probablemente nunca llegará...",
-      "zh": "你吃得好吗？有空吗？那就把手机调成飞行模式，躺下来睡吧。从你的一天中抢回一段悬停的时光。对自己拥有完全的掌控。停下来。休息。没什么大不了的。睡个午觉吧。不要计算时间，把决定何时睁开眼睛的权利交还给你的身体，作为对它——而非你的意志——决定闭上眼睛的公正回报。客厅的沙发也不错，电视声音调低，当然，最好关掉。卧室更好，你的床，你的床垫，穿得轻便些——或者就像卡米洛·何塞·塞拉说的，为什么不呢，穿着睡衣，念着主祷文，枕着夜壶。但也可以在海滩上，躺在田野里，在一棵树的阴影下，听着风的低语或海浪的声音。想做梦就做梦，事实上你会做梦的，但最好别让噩梦或令人困惑的干扰打断那段时光。醒来时，如果你在度假，没有人会对你起疑。但如果你正处于工作状态，也要想办法照样去睡，不要有心理负担，远离任何一丝愧疚感。午睡不是什么发明，而是一种需要。如果你不这么觉得，你大概是在违背自然。或者你正沉浸在另一个关于自我实现的错误幻梦中，靠着计件工作来追求，而那个目标大概永远不会到来……",
+      "es": "De acuerdo con el Instituto Nacional de Estadística (INE), en 2025 <strong>residían</strong> más de 230.000 personas de nacionalidad china en España, frente a las apenas 35.000 <strong>registradas</strong> a principios de los años 2000. En esas dos décadas, la población china se ha multiplicado por más de seis, con fuertes <strong>concentraciones</strong> en Madrid, Cataluña, Valencia y Andalucía.",
+      "zh": "根据西班牙国家统计局（INE）的数据，2025年居住在西班牙的中国国籍人口超过23万，而2000年代初这一数字仅约3.5万。在这二十年间，华人人口增长了六倍以上，主要集中在马德里、加泰罗尼亚、巴伦西亚和安达卢西亚。",
       "vocab": [
         {
-          "word": "Arráncale",
-          "translation": "夺回，从……抢出",
-          "note": "arrancar 本义是『拔出、扯掉』，此处用于比喻义，表示从时间或日程中『硬抢』出一段空间，常见搭配如 arrancarle tiempo al trabajo（从工作中挤出时间）。"
+          "word": "residían",
+          "translation": "居住，定居",
+          "note": "residir 比 vivir 更正式，多用于法律、行政和统计语境，强调在某地的合法或长期居住状态，常见搭配有 residir en el extranjero（居住在国外）、permiso de residencia（居留许可）。"
         },
         {
-          "word": "murmullo",
-          "translation": "低语，细语，潺潺声",
-          "note": "指轻柔连续的低沉声响，可用于风声、水声、人声等，与 susurro（耳语）的区别在于 murmullo 更强调声音的连续性和弥漫感，而非特指人与人之间的悄声细语。"
+          "word": "registradas",
+          "translation": "登记在册的，有记录的",
+          "note": "registrado/a 在统计和行政语境中指经过官方登记或记录的数据，与 censado/a（入户登记的）近义但更广泛，强调数据来源于正式记录，是新闻报道引用官方数据时的高频词。"
         },
         {
-          "word": "arréglatelas",
-          "translation": "想办法，设法做到",
-          "note": "固定口语表达 arreglárselas（para hacer algo），意为『自己想办法搞定』，语气带有自力更生的意味，相当于英语 manage to，是高频口语搭配。"
-        },
-        {
-          "word": "atisbo",
-          "translation": "一丝，一点儿，些许迹象",
-          "note": "常用于否定句或带有轻微程度的语境，如 sin atisbo de duda（毫无疑问），强调极微小的痕迹或迹象，比 pizca 更正式，多见于书面语。"
+          "word": "concentraciones",
+          "translation": "集中，聚集，高密度分布",
+          "note": "concentración 在人口和社会学语境中指某一群体在特定地区的高密度聚居现象，固定搭配为 fuertes concentraciones en（大量集中于），与 distribución（分布）形成对比，是社会统计报道中的核心词汇。"
         }
       ]
     },
     {
       "id": 2,
-      "es": "Cuando muchos escuchan la palabra \"siesta\", viene a la mente una buena costumbre, y ahora, en los escasos <strong>resquicios</strong> de esta vida <strong>desaforada</strong>, un privilegio. Sin embargo, su significado se ha transformado en los últimos tiempos: hoy resulta algo parecido a una insurrección.",
-      "zh": "许多人一听到「午睡」这个词，脑海中浮现的是一种好习惯，而如今，在这疯狂生活留下的寥寥几道缝隙中，它更成了一种特权。然而，它的意涵近年来已悄然改变：如今，午睡俨然成了某种近乎起义的事。",
+      "es": "Su <strong>inserción laboral</strong> ha estado tradicionalmente ligada al comercio, la <strong>hostelería</strong> y los servicios. Diversos estudios señalan que una parte muy significativa trabaja como autónoma o en negocios familiares, especialmente en alimentación, bazares, textil y restauración. También tienen presencia en venta minorista, transporte y otros servicios personales.",
+      "zh": "华人群体的劳动力融入传统上与商业、餐饮住宿业和服务业紧密相连。多项研究指出，相当大一部分华人以个体户或家庭经营的方式工作，尤其集中在食品、百货店、纺织品和餐饮行业。此外，他们在零售、运输及其他个人服务领域也有一定存在。",
       "vocab": [
         {
-          "word": "resquicios",
-          "translation": "缝隙，空隙，余地",
-          "note": "本义指门缝或墙缝等物理缝隙，引申为时间、制度或生活中的『空档』或『漏洞』，在新闻和文学语境中常带有珍贵稀缺的含义，如 resquicios de libertad（自由的缝隙）。"
+          "word": "inserción laboral",
+          "translation": "劳动力融入，就业融合",
+          "note": "inserción laboral 是社会学和移民研究中的固定搭配，指某一群体进入劳动力市场并融入职业体系的过程，常与移民、青年就业等议题挂钩，不可替换为 integración laboral（虽近义但侧重点不同，后者更强调文化层面的融合）。"
         },
         {
-          "word": "desaforada",
-          "translation": "疯狂的，失控的，过度的",
-          "note": "前缀 des- 表示否定或超越，aforado 源自 fuero（法规、限度），desaforado 意为『超出限度的』，常用于描述过激的行为或失控的状态，如 gritar de manera desaforada（歇斯底里地大喊）。"
+          "word": "hostelería",
+          "translation": "餐饮住宿业，酒店餐饮行业",
+          "note": "hostelería 是西班牙语特有的行业术语，涵盖酒店、餐厅、酒吧等所有餐饮住宿相关行业，是西班牙经济中的支柱产业之一，不要与英语 hostelry（旅馆）混淆，其范围更广。"
         }
       ]
     },
     {
       "id": 3,
-      "es": "Así es. Si estás en este momento recostadito, no lo desaproveches y quizás estas palabras alienten en ti un pequeño sueño... Entra en él, mientras te cuento lo que sigue acompañado de algunas voces. En este siglo XXI <strong>descuartizado</strong> en sus dimensiones temporales y espaciales por el capitalismo salvaje, ese <strong>rescoldo</strong> cotidiano de intimidad se ha convertido en un germen de revolución. Toda una revuelta <strong>amparada</strong> por multitud de movimientos globales y tendencias filosóficas insurgentes masivas, como las de Byung-Chul Han, autor de La sociedad del cansancio. Corrientes que se han colocado al lado de Sancho Panza cuando don Quijote le explica su lugar en el mundo y le marca la diferencia entre quienes, como el escudero, nacieron para dormir, mientras los caballeros andantes llegaron para velar.",
-      "zh": "确实如此。如果你此刻正斜倚着，不要浪费这个时机，也许这些文字会在你心中点燃一个小小的梦……进入梦乡吧，我来陪着几位声音，继续讲述接下来的故事。在这个21世纪，野蛮资本主义将时间与空间的维度撕裂肢解，那一点点日常私密的余温，已然成为革命的种子。这是一场有众多全球运动和大规模反叛哲学思潮撑腰的反抗，比如韩炳哲的思想——他是《倦怠社会》的作者。这些思潮站在了桑丘·潘沙一边：当堂吉诃德向他解释自己在世界中的位置，并指出区别——像这位侍从一样，有些人生来就是为了睡觉，而游侠骑士则生来是为了守夜。",
+      "es": "Esa realidad ayuda a entender por qué, como apunta el cirujano plástico Zhan Qiao Lin, la decisión de ir al médico para sus <strong>compatriotas</strong> suele <strong>posponerse</strong> hasta el límite: parar significa perder ingresos, dejar el local sin atención y romper una rutina económica muy exigente.",
+      "zh": "这一现实有助于理解为什么——正如整形外科医生詹巧林所指出的——他的同胞们往往把就医的决定推迟到极限：停下来意味着损失收入、让店铺无人看管，以及打破一套极为严苛的经济运转规律。",
       "vocab": [
         {
-          "word": "descuartizado",
-          "translation": "被肢解的，被撕裂的",
-          "note": "descuartizar 本义是『将尸体分尸』，此处用作强烈的比喻，形容资本主义对时间与空间的彻底破坏，语气极为激烈，是文学和评论文体中常见的夸张修辞手法。"
+          "word": "compatriotas",
+          "translation": "同胞，同国人",
+          "note": "compatriota 由前缀 com-（共同）+ patria（祖国）构成，指来自同一国家的人，语气比 paisano（同乡，更强调地域）更正式，多见于新闻和正式文体，同类构词如 compatibilidad（兼容性）、compañero（同伴）。"
         },
         {
-          "word": "rescoldo",
-          "translation": "余烬，残火；残存的情感或记忆",
-          "note": "本义是火熄灭后灰烬中残留的热度，引申为某种几乎消逝但仍存在的情感、习惯或信念，常见于文学语境，如 un rescoldo de esperanza（一丝残存的希望）。"
-        },
-        {
-          "word": "amparada",
-          "translation": "受到庇护的，有……撑腰的",
-          "note": "amparar 表示『庇护、保护、支持』，常用于法律和政治语境，如 amparado por la ley（受法律保护）；与 proteger 相比，amparar 更强调来自权威或制度的背书与支撑。"
+          "word": "posponerse",
+          "translation": "被推迟，被延后",
+          "note": "posponer 由前缀 pos-（之后）+ poner（放置）构成，意为『推迟、延后』，与 aplazar 近义但更正式，常用于书面语，如 posponer una reunión（推迟会议）；注意与 postpone 的英语拼写差异。"
         }
       ]
     },
     {
       "id": 4,
-      "es": "El escritor Miguel Ángel Hernández (Murcia, 49 años) es uno de los <strong>agitadores</strong> máximos con su libro El don de la siesta (Anagrama), donde la <strong>reivindica</strong>, escribe, \"como una resistencia, algo que creíamos perdido\". Lo hace con una mezcla de ironía y espíritu combativo. La convierte en un arma para poner en valor todos los dones del descanso voluntario, tan <strong>heréticos</strong> para las dinámicas tecnofeudales. Aunque matiza esa característica actual de insurgencia, algo ve en ella de herramienta para lograrla: \"Llamarla rebelión es tal vez llevar las cosas muy lejos. Las verdaderas movilizaciones se producen en las calles. Para derrocar un régimen hay que levantarse, alzarse. Eso sí, para lograrlo es mejor estar bien descansado. Y ahí, la siesta representa un acto revolucionario\".",
-      "zh": "作家米格尔·安赫尔·埃尔南德斯（穆尔西亚人，49岁）是这一领域最重要的鼓动者之一，他在著作《午睡的馈赠》（阿纳格拉马出版社）中为午睡正名，称其为「一种抵抗，一种我们以为已经失去的东西」。他以讽刺与战斗精神兼具的笔触，将午睡变成一件武器，用以彰显自愿休息的种种价值——这在技术封建主义的运作逻辑中是如此异端。尽管他对午睡当下这种反叛特质有所保留，但他仍从中看到了实现反叛的工具：「把它叫做反抗，也许是把事情说得太远了。真正的动员发生在街头。要推翻一个政权，必须站起来、奋起抗争。当然，要做到这一点，最好先好好休息。而在这一点上，午睡就是一个革命性的行动。」",
+      "es": "En una entrevista en el pódcast 'Un chino y medio', el doctor apunta que muchos evitan acudir al médico salvo que la situación sea realmente grave. «Los chinos no van a los hospitales en España porque no quieren esperar mucho tiempo y tener la tienda cerrada», indica. El cirujano plástico <strong>reconstructivo</strong> en el Hospital La Paz de Madrid atribuye esa conducta a varios factores, entre ellos las dificultades con el idioma, la costumbre de un sistema sanitario en China en el que la atención se asocia a <strong>copago</strong> y, sobre todo, el temor a perder tiempo en esperas que obliguen a cerrar un negocio.",
+      "zh": "在播客《一个半中国人》的一次采访中，这位医生指出，许多人会避免就医，除非情况真的很严重。「华人在西班牙不去医院，是因为他们不想等太久、不想关店，」他说。这位马德里拉巴斯医院的整形重建外科医生将这种行为归因于多个因素：语言障碍、在中国习惯了需要自费就医的医疗体系，以及最重要的——害怕在漫长的等待中耽误时间，被迫关闭生意。",
       "vocab": [
         {
-          "word": "agitadores",
-          "translation": "鼓动者，煽动者",
-          "note": "agitador 在政治语境中指积极推动思想变革或社会运动的人，带有正面或中性色彩（取决于立场），与 provocador（挑衅者）不同，agitador 更强调思想上的动员与传播。"
+          "word": "reconstructivo",
+          "translation": "重建的，修复性的",
+          "note": "前缀 re- 表示『重新』，constructivo 意为『建设性的』，reconstructivo 在医学语境中特指通过手术修复受损组织或器官的专科方向，cirugía plástica reconstructiva（整形重建外科）与 cirugía estética（美容整形）是两个不同的专科方向。"
         },
         {
-          "word": "reivindica",
-          "translation": "为……正名，主张，捍卫",
-          "note": "reivindicar 是新闻和政治文体中的高频词，表示『为某事物争取应有的承认或地位』，常见搭配有 reivindicar derechos（维权）、reivindicar la memoria（为历史正名），注意不要与 reclamar（索要、要求）混淆。"
-        },
-        {
-          "word": "heréticos",
-          "translation": "异端的，离经叛道的",
-          "note": "herético 源自宗教语境（异端邪说），在现代文体中常用于比喻，形容某种观念或行为与主流体制的价值观格格不入，语气带有反讽或批判色彩。"
+          "word": "copago",
+          "translation": "共同付费，自付费用，医疗自费部分",
+          "note": "copago 由前缀 co-（共同）+ pago（付款）构成，指患者在享受医保的同时仍需自行承担的那部分费用，是医疗政策领域的核心词汇，同类构词如 cofinanciación（联合融资）、corresponsabilidad（共同责任）。"
         }
       ]
     },
     {
       "id": 5,
-      "es": "Hernández construye sus teorías con base histórica: \"La palabra viene directamente de la hora sexta establecida en el horario romano. Ellos dividían la luz del día en 12 horas, y esa sexta caía justo alrededor del mediodía. En ese momento realizaban una pausa para interrumpir sus labores\". No se borra la costumbre tras la caída del imperio: \"Fue posteriormente <strong>institucionalizada</strong> en el mundo cristiano a través de la Regla de San Benito, que <strong>prescribía</strong> a los monjes descansar en sumo silencio después de esa misma hora, propicia para el <strong>recogimiento</strong> íntimo y la meditación\".",
-      "zh": "埃尔南德斯以历史为基础构建其理论：「这个词直接来源于罗马历法中确立的第六时辰。罗马人将白昼分为12个小时，第六时辰恰好落在正午前后。在那个时刻，他们会暂停劳作，休息片刻。」这一习俗在帝国覆灭后并未消失：「此后，它通过《圣本笃会规》在基督教世界中被制度化，该会规规定修士们须在同一时辰之后在绝对的静默中休息，这一时刻适合内心的收敛与冥想。」",
+      "es": "El asiático hace mención en la entrevista a que existe una especie de regla no escrita entre los médicos: si un paciente chino acude a urgencias, es porque realmente «está jodido», ya que nadie de su comunidad cerraría su negocio temporalmente por una <strong>dolencia</strong> menor.",
+      "zh": "这位医生在采访中提到，医生圈子里存在一条不成文的规则：如果一位华人患者来了急诊，那是因为他真的『不行了』，因为他们社区里没有人会为了一点小病小痛而暂时关店。",
       "vocab": [
         {
-          "word": "institucionalizada",
-          "translation": "被制度化的，被纳入体制的",
-          "note": "后缀 -izar 表示『使成为……』，institucionalizar 即『使制度化』，同类构词如 normalizar（使正常化）、globalizar（使全球化），掌握这一后缀可举一反三。"
-        },
-        {
-          "word": "prescribía",
-          "translation": "规定，指定，开具（处方）",
-          "note": "prescribir 是假朋友警告词：在医学语境中意为『开处方』，在法律或宗教语境中意为『规定、指令』，此处为后者。另注意其法律含义还有『（权利）因时效而失效』。"
-        },
-        {
-          "word": "recogimiento",
-          "translation": "内心的收敛，静思，隐修",
-          "note": "源自 recoger（收拢），recogimiento 在宗教和文学语境中指一种向内专注、远离外界喧嚣的精神状态，与 meditación 相近但更强调主动的内敛与自我收束。"
+          "word": "dolencia",
+          "translation": "病痛，不适，小毛病",
+          "note": "dolencia 指轻微或慢性的身体不适，比 enfermedad（疾病）程度轻，比 molestia（不便、轻微不适）更具医学色彩，常用于描述不足以就医的日常病痛，如 una dolencia crónica（慢性病痛）。"
         }
       ]
-    },
-    {
-      "id": 6,
-      "es": "Descanso y oración tras la comida. Un orden biológico y místico. De ahí venimos. De un territorio donde, como cuenta Byung-Chul Han en La desaparición de los rituales, \"el reposo pertenece a la esfera de lo santo y el trabajo es una actividad profana\". ¿Qué ocurrió tras el <strong>despedazamiento</strong> de esa lógica? Perdón por la elipsis, pero debemos aterrizar a finales del siglo XX. Justo cuando se imponen las dinámicas perversas del 24/7 en muchos lugares. Una máquina capaz de <strong>aplastarnos</strong> el día y la noche enteros cada jornada del calendario durante la semana. Una esclavitud de neón, con las luces encendidas y la maquinaria en marcha hasta en las horas sagradas del descanso.",
-      "zh": "饭后的休息与祈祷。一种生物性与神圣性兼具的秩序。我们从那里走来。那是一片土地，正如韩炳哲在《仪式的消失》中所述：「休息属于神圣的领域，而劳动是一种世俗的活动。」这套逻辑被撕碎之后，发生了什么？请原谅我在此跳跃，但我们必须落地到20世纪末。正是在那时，24/7的扭曲运作模式在许多地方强行确立。这台机器能够将一周中每一天的昼与夜整个碾压。这是一种霓虹灯式的奴役——灯火通明，机器不停，即便是神圣的休息时刻也不例外。",
-      "vocab": [
-        {
-          "word": "despedazamiento",
-          "translation": "撕碎，肢解，瓦解",
-          "note": "despedazar 意为『将某物撕成碎片』，名词形式 despedazamiento 在文学和评论文体中常用于比喻某种秩序或整体的彻底崩解，语气比 destrucción 更具暴力感和具象性。"
-        },
-        {
-          "word": "aplastarnos",
-          "translation": "将我们压垮，碾压我们",
-          "note": "aplastar 本义是『压扁、碾碎』，引申为对人的彻底压制或摧毁，常见于政治和社会批评语境，如 aplastar una rebelión（镇压起义），语气比 oprimir 更强烈直接。"
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "es": "El término lo utilizó el pensador norteamericano Jonathan Crary, profesor de Arte en la Universidad de Columbia, para un ensayo con ese mismo título: 24/7: el capitalismo al asalto del sueño (Ariel). <strong>Sostiene</strong> que, según el paradigma neoliberal, dormir es de perdedores. \"Hoy, el sueño está más desprotegido que nunca de las agresiones que lo <strong>corroen</strong> y lo disminuyen\", escribe. No conviene al sistema porque, durante ese tiempo suspendido, nos trasladamos más allá de lo que poseemos o se nos dice que necesitamos. Pero podemos, según él, \"imaginar un futuro sin capitalismo como el sueño de alguien que está durmiendo\".",
-      "zh": "美国思想家乔纳森·克拉里——哥伦比亚大学艺术学教授——用这个词为一篇同名论文命名：《24/7：资本主义对睡眠的侵袭》（阿里尔出版社）。他主张，根据新自由主义范式，睡觉是失败者的行为。「如今，睡眠比以往任何时候都更无力抵御那些侵蚀它、削弱它的攻击，」他写道。睡眠不符合体制的利益，因为在那段悬停的时间里，我们会超越自己所拥有的，或被告知所需要的。但他认为，我们可以「像一个正在熟睡的人做梦那样，去想象一个没有资本主义的未来」。",
-      "vocab": [
-        {
-          "word": "Sostiene",
-          "translation": "主张，坚持认为，论证",
-          "note": "sostener 在学术和新闻文体中是引述观点的高频动词，比 decir 更正式，暗示说话者对其观点有所坚持和论证支撑，常见于 el autor sostiene que...（作者认为……）的结构。"
-        },
-        {
-          "word": "corroen",
-          "translation": "侵蚀，腐蚀，蚕食",
-          "note": "corroer 本义指化学腐蚀（如铁锈侵蚀金属），引申为对某事物的缓慢破坏，常用于抽象语境，如 la corrupción corroe las instituciones（腐败侵蚀制度），语气比 dañar 更强调渐进性和隐蔽性。"
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "es": "De noche, claro. Pero también de día, si nos atrevemos a detener nuestro ritmo productivo, nuestra ansia y delirio de <strong>autoexplotación</strong>, que diría Byung-Chul Han. Por eso, cuando recogió su Premio Princesa de Asturias de Comunicación y Humanidades el año pasado, el filósofo autor de Vida contemplativa nos animó a que dedicáramos nuestro tiempo a, dijo, \"más fiesta y más siesta\". Es en ese libro donde este poeta contemporáneo del pensamiento <strong>reivindica</strong> los parones cotidianos con más <strong>ahínco</strong>: \"La inactividad es una forma de esplendor de la existencia humana\".",
-      "zh": "当然，这发生在夜晚。但也可以在白天——如果我们敢于停下自己的生产节奏，停下韩炳哲所说的那种对自我剥削的渴望与狂热。正因如此，当他去年领取阿斯图里亚斯王储传播与人文奖时，这位《沉思的生活》的作者鼓励我们把时间用于，他说，「更多的节日，更多的午睡」。正是在那本书中，这位当代思想诗人以最大的热情为日常的停顿正名：「无所事事是人类存在的一种辉煌形式。」",
-      "vocab": [
-        {
-          "word": "autoexplotación",
-          "translation": "自我剥削，自我压榨",
-          "note": "前缀 auto- 表示『自我』，是构词能力极强的前缀，如 autocrítica（自我批评）、autogestión（自我管理）、autosuficiente（自给自足），掌握后可快速理解大量复合词。"
-        },
-        {
-          "word": "ahínco",
-          "translation": "热情，劲头，执着与努力",
-          "note": "con ahínco 是固定搭配，意为『全力以赴地、锲而不舍地』，多用于书面语，如 trabajar con ahínco（全力工作），语气比 con entusiasmo 更强调坚持不懈的意志力。"
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "es": "Sus posiciones y las de Crary, entre otros, han constituido para muchos esa llamada a la rebelión. Un toque de corneta inverso no para levantarse, sino para acostarse. Un levantamiento sin riesgo de sangre, pero consciente del daño que puede y debe causar a un sistema <strong>pernicioso</strong> y plagado de almas quemadas. El extintor capaz de <strong>sosegarnos</strong>. La pandemia se convirtió en un punto de inflexión. El reencuentro con la casa, con otra percepción de nuestros cuerpos y una nueva dimensión del tiempo, según Hernández.",
-      "zh": "他们的立场，以及克拉里等人的立场，对许多人而言已构成一声反叛的号召。这是一声反向的号角——不是为了起身，而是为了躺下。这是一场没有流血风险的起义，却清醒地意识到它能够、也应当对一个充满精疲力竭灵魂的有害体制造成冲击。这是能够让我们平静下来的灭火器。疫情成了一个转折点——正如埃尔南德斯所说，那是一次与家的重逢，是对自己身体的重新感知，也是对时间的全新认识。",
-      "vocab": [
-        {
-          "word": "pernicioso",
-          "translation": "有害的，危害深远的",
-          "note": "pernicioso 比 dañino 或 malo 语气更强，多用于正式或学术语境，强调危害的深远性与严重性，常见搭配如 efectos perniciosos（有害影响）、anemia perniciosa（恶性贫血，医学术语）。"
-        },
-        {
-          "word": "sosegarnos",
-          "translation": "使我们平静，让我们安定",
-          "note": "sosegar 意为『使平静、使安抚』，名词形式为 sosiego（平静、安宁），是文学和正式文体中的高频词，比 calmar 更具诗意，常用于描述内心或社会层面的安定状态。"
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "es": "El escritor promueve siestas colectivas, como también hace Juan Evaristo Valls, el filósofo autor de Metafísica de la pereza (Ned Ediciones), El derecho a las cosas bellas (Ariel) o JOMO (Anagrama). El pasado 5 de junio participó en una sesión de Descanso y motín junto a la artista Clara López y el equipoDIVERSO en un programa del Museo Reina Sofía. Se titulaba Sacar las camas a la calle.",
-      "zh": "这位作家积极推广集体午睡活动，哲学家胡安·埃瓦里斯托·巴尔斯也在做同样的事——他是《懒惰的形而上学》（内德出版社）、《享有美好事物的权利》（阿里尔出版社）和《JOMO》（阿纳格拉马出版社）的作者。6月5日，他参加了马德里索菲亚王后国家博物馆一个名为「休息与哗变」的活动，与艺术家克拉拉·洛佩斯及DIVERSO团队共同参与。活动的标题叫做「把床搬到街上」。",
-      "vocab": [
-        {
-          "word": "motín",
-          "translation": "哗变，暴动，骚乱",
-          "note": "motín 指有组织的集体反抗行为，可用于军队（兵变）、监狱（囚犯暴动）或社会层面，此处与 descanso（休息）并置，形成强烈的反差张力，是作者有意为之的政治隐喻。"
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "es": "Organizaron una siesta colectiva en los jardines de Sabatini para, dice Valls, convertir el descanso privado en una pregunta pública. \"El valor de la siesta es que consiste, por así decirlo, en dormir a <strong>destiempo</strong>. Eso supone detener el tiempo diurno y sus dinámicas. Nos permite preguntarnos si esos ritmos capitalistas son los tempos de la vida o van en su contra. Parar es siempre la oportunidad de pensar, de preguntarse, de escuchar, de tener un acceso alternativo a la experiencia. La siesta <strong>encarna</strong> todas estas prácticas, y por eso no es solo un hábito: es un arte y una política\", asegura el profesor de Filosofía de la Cultura en la Complutense.",
-      "zh": "他们在萨巴蒂尼花园组织了一场集体午睡，目的是——正如巴尔斯所说——将私人的休息转化为一个公共议题。「午睡的价值在于，可以说，它是在『不合时宜的时刻』入睡。这意味着打断白昼的时间流动及其运作逻辑。它让我们得以追问：那些资本主义的节奏究竟是生命本身的节拍，还是与生命背道而驰？停下来，永远是思考的机会，是自我追问的机会，是倾听的机会，是以另一种方式接触经验的机会。午睡体现了所有这些实践，因此它不仅仅是一种习惯：它是一门艺术，也是一种政治，」这位马德里康普顿斯大学文化哲学教授如是说。",
-      "vocab": [
-        {
-          "word": "destiempo",
-          "translation": "不合时宜，不在正确的时间",
-          "note": "a destiempo 是固定副词短语，意为『在不恰当的时机』，与 a tiempo（及时）相对，前缀 des- 在此表示否定，类似构词还有 desorden（无序）、desacuerdo（不同意）。"
-        },
-        {
-          "word": "encarna",
-          "translation": "体现，化身为，具体呈现",
-          "note": "encarnar 源自拉丁语 caro（肉体），本义是『化为肉身』（如基督降世），引申为『具体体现某种抽象概念』，比 representar 更强调深度融合，常见于哲学和文学语境。"
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "es": "Son iniciativas que en Madrid contaron también con el Círculo de Bellas Artes como precursor desde hace tiempo. Cada verano organizan allí un <strong>siestódromo</strong> dentro de su refugio climático en pleno Salón de Baile. Pueden llegar a <strong>congregar</strong> en tres meses a 60.000 personas. Lo animan con diversas propuestas sonoras y poéticas con las que relajarse y dormir.",
-      "zh": "在马德里，这些活动还有美术圈（Círculo de Bellas Artes）作为先行者，由来已久。每年夏天，他们都会在舞厅正中的气候避暑空间里举办一场「午睡场」。三个月内，参与人数可达6万人。活动以各种声音和诗歌提案为伴，帮助人们放松入眠。",
-      "vocab": [
-        {
-          "word": "siestódromo",
-          "translation": "午睡场，集体午睡空间",
-          "note": "后缀 -dromo 源自希腊语，表示『用于某种活动的场所』，如 hipódromo（赛马场）、velódromo（自行车赛场）、aeródromo（小型机场），掌握这一后缀有助于理解大量场所类名词。"
-        },
-        {
-          "word": "congregar",
-          "translation": "聚集，汇聚，召集",
-          "note": "congregar 比 reunir 更正式，常用于描述大规模人群的聚集，多见于新闻报道，如 el evento congregó a miles de personas（活动吸引了数千人聚集），带有一定的庄重或仪式感。"
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "es": "La siesta como protesta alcanza hoy el grado de acto de <strong>insumisión</strong> colectiva. Pero eso no debe despistarnos de ejercerla a diario en la intimidad de nuestras casas y de todas las maneras dentro del catálogo que nos propone Miguel Ángel Hernández: desde la reina de la baraja, la siesta de la hora de la siesta, a quedarse traspuesto y a merced de los ojos de cualquiera en un viaje; la de después de desayunar, la del borrego o el carnero, antes de comer, y la meditativa previa a la cena... Todas estas, de aroma latino y mediterráneo, se contraponen a la power nap anglosajona, <strong>detestada</strong> por Byung-Chul Han, o a la inemuri japonesa, una práctica, cuenta Hernández, \"socialmente aceptada y bien considerada porque para ellos resulta un síntoma de que has trabajado duro y tu cuerpo necesita un pequeño descanso, bien sea en el metro, en la mesa de tu oficina, en clase, en el Parlamento, en mitad de una comida familiar...\".",
-      "zh": "作为抗议的午睡，如今已上升为集体不服从的行动。但这不应让我们忘记在家中的私密空间里每天践行它，并以米格尔·安赫尔·埃尔南德斯为我们列出的各种方式去实践：从牌中之王——正点午睡，到在旅途中不知不觉睡着、任人打量；早饭后的小憩、饭前的羊羔觉，以及晚饭前的冥想式小睡……所有这些带着拉丁与地中海气息的午睡方式，与盎格鲁-撒克逊的「强效小憩」（power nap）形成对照——韩炳哲对后者深恶痛绝——也与日本的「居眠り」（inemuri）不同。埃尔南德斯介绍说，后者是「一种被社会接受并受到好评的做法，因为对日本人来说，这是你努力工作、身体需要短暂休息的表现，无论是在地铁上、办公桌前、课堂上、议会里，还是家庭聚餐中途……」",
-      "vocab": [
-        {
-          "word": "insumisión",
-          "translation": "不服从，拒绝顺从",
-          "note": "前缀 in- 表示否定，sumisión 意为『服从、顺从』，insumisión 在西班牙语境中有特定历史含义，曾专指拒绝服兵役的公民抗命运动，此处泛指对体制规范的主动拒绝。"
-        },
-        {
-          "word": "detestada",
-          "translation": "被厌恶的，令人憎恶的",
-          "note": "detestar 表示强烈的厌恶，程度强于 odiar 的日常用法，多见于书面语，常用于表达对某种事物或现象的深刻反感，如 detestar la hipocresía（深恶虚伪）。"
-        }
-      ]
-    },
-    {
-      "id": 14,
-      "es": "Es una buena lista con que conjurar también los peligros de las empresas que las recomiendan con fines productivos. Algunas compañías fomentan dormir un poco para seguir <strong>machacándonos</strong> más... y así mecernos en los brazos del demonio. La siesta, sostiene Hernández, debe hacerse porque sí. \"Al entregarnos a ella reclamamos el tiempo <strong>obsceno</strong> de no hacer nada y nos situamos por un momento fuera del control mercantilista. Como dice el filósofo Thierry Paquot, dormirla hoy se ha convertido en una pequeña <strong>emancipación</strong> para demostrar que el reloj nos pertenece. Es lo que me interesa de este hábito: reivindicarlo como placer prohibido y no como una mera recarga de baterías\".",
-      "zh": "这也是一份很好的清单，用来抵御那些以提高生产力为由推荐午睡的企业所带来的风险。一些公司鼓励小睡一会儿，是为了让我们之后被压榨得更狠……从而把我们摇进魔鬼的怀抱。埃尔南德斯坚持认为，午睡应该纯粹为了午睡本身而睡。「当我们沉浸其中，我们便夺回了那段『什么都不做』的、放肆的时间，让自己暂时置身于市场控制之外。正如哲学家蒂埃里·帕科所说，如今睡午觉已成为一种小小的解放，证明时钟属于我们自己。这正是我对这一习惯感兴趣的地方：把它作为一种被禁止的快乐来捍卫，而不仅仅是一种充电方式。」",
-      "vocab": [
-        {
-          "word": "machacándonos",
-          "translation": "把我们压垮，折磨我们，狠狠剥削我们",
-          "note": "machacar 本义是『捣碎、反复敲打』，口语中引申为对人的持续施压或剥削，也可指反复唠叨，如 ¡No me machaques!（别烦我了！），是极具表现力的口语词。"
-        },
-        {
-          "word": "obsceno",
-          "translation": "放肆的，冒犯体制的；（本义）淫秽的",
-          "note": "此处 obsceno 是反讽用法，将『什么都不做的时间』称为『放肆的』，暗讽资本主义逻辑将休息视为道德上不可接受的行为，与其本义（色情、淫秽）形成强烈反差，是理解语境的关键。"
-        },
-        {
-          "word": "emancipación",
-          "translation": "解放，自由，摆脱束缚",
-          "note": "emancipación 在政治和社会语境中指从压迫或依附关系中获得自由，如 emancipación de la mujer（女性解放），与 liberación 相近但更强调法律或制度层面的正式独立。"
-        }
-      ]
-    },
-    {
-      "id": 15,
-      "es": "De cualquier manera, esta necesidad que muchas veces se nos ha colgado a los españoles como un síntoma de <strong>vagancia</strong> ha experimentado en los últimos tiempos, dice Hernández, \"una transformación sin precedentes\". Ha dejado de ser lo que para algunos representaba una mala costumbre, afirma el escritor murciano. \"Con ello, ha abandonado su carácter de vicio natural para convertirse en una rutina saludable, un imperativo del bienestar, una herramienta central de la productividad e incluso una práctica cool y de moda consumible\".",
-      "zh": "无论如何，这种需求——它长期以来被扣在西班牙人身上，作为懒惰的标签——近年来，据埃尔南德斯所说，经历了「前所未有的转变」。这位穆尔西亚作家表示，它已不再是某些人眼中的坏习惯。「由此，它脱去了『天生恶习』的外衣，转变为一种健康的日常习惯、一种身心健康的必要条件、生产力的核心工具，甚至成为一种时髦的、可消费的潮流实践。」",
-      "vocab": [
-        {
-          "word": "vagancia",
-          "translation": "懒惰，游手好闲",
-          "note": "vagancia 源自 vago（懒散的、游荡的），在西班牙文化语境中长期带有道德批判色彩，与 pereza（懒惰，更中性）相比，vagancia 更强调社会层面的不负责任，有时含有轻蔑意味。"
-        }
-      ]
-    },
-    {
-      "id": 16,
-      "es": "En medio de esta fiebre, acudimos a la ciencia. La <strong>cronobióloga</strong> Marta Garaulet, nutricionista, catedrática de Fisiología en la Universidad de Murcia y formada como experta en Harvard, advierte sobre los beneficios y también de sus riesgos: \"No deberíamos preguntarnos solo si la siesta es buena o mala, sino para quién es buena, en qué momento y de qué duración\". <strong>Desaconseja</strong> una buena parte del catálogo anterior: \"Los casos que más nos preocupan son las siestas largas, las muy tempranas, las muy tardías y las que aparecen como consecuencia de una mala calidad del sueño nocturno, del sedentarismo, las alteraciones en el metabolismo, la apnea del sueño, la depresión o la obesidad\".",
-      "zh": "在这股热潮中，我们转向科学寻求答案。时间生物学家玛尔塔·加劳莱特——营养学家、穆尔西亚大学生理学教授、哈佛大学培训的专家——对午睡的益处与风险均提出了警示：「我们不应该只问午睡是好是坏，而应该问：对谁好、在什么时间好、睡多久好。」她对前面列出的大部分午睡方式持保留态度：「最令我们担忧的情况是：时间过长的午睡、过早的午睡、过晚的午睡，以及那些因夜间睡眠质量差、久坐不动、代谢紊乱、睡眠呼吸暂停、抑郁或肥胖而出现的午睡。」",
-      "vocab": [
-        {
-          "word": "cronobióloga",
-          "translation": "时间生物学家",
-          "note": "前缀 crono- 源自希腊语 chronos（时间），常见于科学词汇，如 cronología（年代学）、cronómetro（计时器）、crónico（慢性的），掌握这一词根有助于识别大量时间相关词汇。"
-        },
-        {
-          "word": "Desaconseja",
-          "translation": "不建议，劝阻",
-          "note": "前缀 des- 表示否定，desaconsejar 是 aconsejar（建议）的反义词，意为『劝阻、不推荐』，是医学和建议类文体中的高频词，比 prohibir（禁止）语气更温和。"
-        }
-      ]
-    },
-    {
-      "id": 17,
-      "es": "Según esta experta, la siesta hay que entenderla mejor y aboga por lo siguiente: \"Una breve y bien situada en el día, adaptada a la biología de cada persona, puede ser beneficiosa. Pero una larga, muy temprana, muy tardía o utilizada para compensar malos hábitos de sueño y alimentación puede convertirse en un <strong>marcador</strong> de <strong>desajuste</strong> circadiano y de peor salud metabólica\".",
-      "zh": "这位专家认为，我们需要更好地理解午睡，她主张如下：「一次短暂、时间安排合理、适应每个人生物节律的午睡，可以带来益处。但一次过长、过早、过晚，或用来弥补不良睡眠和饮食习惯的午睡，则可能成为昼夜节律紊乱和代谢健康恶化的标志。」",
-      "vocab": [
-        {
-          "word": "marcador",
-          "translation": "标志物，指标，标记",
-          "note": "marcador 在医学和科学语境中指用于识别某种状态的『生物标志物』或『指标』，与日常用法（记分牌、记号笔）形成一词多义，是典型的跨领域词汇，需根据语境判断含义。"
-        },
-        {
-          "word": "desajuste",
-          "translation": "失调，紊乱，不协调",
-          "note": "前缀 des- 否定 ajuste（调节、协调），desajuste 指系统或节律的失衡状态，在医学语境中常见于 desajuste circadiano（昼夜节律失调），也可用于社会或心理层面，如 desajuste emocional（情绪失调）。"
-        }
-      ]
-    },
-    {
-      "id": 18,
-      "es": "Todo eso casa con el buen juicio y el raciocinio. No con la inspiración para el arte que supone también hoy el hecho de dormir bien y en cualquier parte. Desde las tendencias new age a las que ha puesto música el compositor Max Richter en su disco Sleep o las derivas de los surrealistas, con el territorio freudiano del sueño y campo de batalla que reivindicaban André Breton y los suyos como método creativo. Un ejemplo, las siestas de la cuchara y la llave a las que se entregaba Salvador Dalí. Se sentaba en una silla con cualquiera de esos dos objetos en la mano y un plato metálico debajo. Al quedarse dormido y caer, el ruido lo despertaba entre la vigilia y el sueño, dentro de un estado <strong>hipnagónico</strong> que fomentaba su invención.",
-      "zh": "这一切都与良好的判断力和理性思维相符。但与之不符的，是如今随时随地好好睡一觉所带来的艺术灵感。从作曲家马克斯·里希特以专辑《Sleep》为之谱曲的新纪元音乐潮流，到超现实主义者的漫游——安德烈·布勒东及其同仁将弗洛伊德式的梦境领域作为创作方法加以推崇。萨尔瓦多·达利的「汤匙与钥匙午睡法」便是一例：他坐在椅子上，手握其中一件物品，脚下放一个金属盘子。一旦睡着，物品落下，声响将他唤醒，让他徘徊在清醒与睡眠之间，处于一种催生灵感的入眠前状态。",
-      "vocab": [
-        {
-          "word": "hipnagónico",
-          "translation": "入眠前的，半梦半醒的",
-          "note": "hipnagógico/hipnagónico 源自希腊语 hypnos（睡眠）+ agogos（引导），指从清醒过渡到睡眠的临界状态，常伴随幻觉和创意思维，是心理学和神经科学中的专业术语，但在文化语境中也常见。"
-        }
-      ]
-    },
-    {
-      "id": 19,
-      "es": "Tampoco casan las recomendaciones médicas con el arte de afrontar la vida tumbado, como de manera consciente y <strong>reivindicativa</strong> pasaron buena parte de su vida <strong>encamados</strong> escritores como Juan Carlos Onetti o Paul Bowles en Tánger, donde el neoyorquino recibía en pijama en su casa a desconocidos que se desplazaban en peregrinación de visita. Podía quedarse dormido delante de tus narices, con la tele encendida y su ensalada de medicamentos en una mesilla, junto a la cama.",
-      "zh": "医学建议同样与那种有意识地、带着抗争意味躺着面对生活的艺术格格不入——就像作家胡安·卡洛斯·奥内蒂或保罗·鲍尔斯在丹吉尔那样，有意识地、带着捍卫姿态，将大半生都躺在床上度过。这位纽约人在家中穿着睡衣接待那些专程前来朝圣的陌生访客。他可能就在你面前睡着，电视开着，床头柜上摆着他那一堆五花八门的药。",
-      "vocab": [
-        {
-          "word": "reivindicativa",
-          "translation": "带有捍卫意味的，主张权利的",
-          "note": "形容词 reivindicativo/a 源自 reivindicar，描述某种行为或姿态具有主动争取权利或正名的性质，常见于社会运动语境，如 actitud reivindicativa（维权姿态）、huelga reivindicativa（诉求型罢工）。"
-        },
-        {
-          "word": "encamados",
-          "translation": "卧床的，长期躺在床上的",
-          "note": "encamado 由 en- + cama（床）构成，指长期卧床的状态，在医学语境中多指因病卧床，此处则带有主动选择的意味，体现了前缀 en- 表示『处于某种状态』的构词规律。"
-        }
-      ]
-    },
-    {
-      "id": 20,
-      "es": "\"Si queremos conquistar el horizonte, hay que comenzar por la horizontalidad\", asegura el editor Víctor Ludens en el prólogo que le dedica a Metafísica de la pereza, de Juan Evaristo Valls. En esta obra y en El derecho a las cosas bellas, el autor emprende toda una <strong>diatriba</strong> contra lo vertical, lo erguido, como metáfora de lo jerárquico. Nos propone tumbarnos y afrontar el mundo desde ese otro ángulo. ¿Por qué? Entre otras cosas, dice Valls, \"porque somos <strong>conminados</strong> a vivir contra el cansancio y el cansancio vive contra nosotros\".",
-      "zh": "「如果我们想征服地平线，就必须从水平开始，」编辑维克托·卢登斯在为胡安·埃瓦里斯托·巴尔斯的《懒惰的形而上学》所作的序言中如是说。在这部作品以及《享有美好事物的权利》中，作者对一切竖直的、挺立的事物展开了猛烈批判，将其作为等级制度的隐喻。他建议我们躺下来，从那个角度去面对世界。为什么？巴尔斯说，原因之一是「因为我们被迫与疲惫为敌而活，而疲惫也与我们为敌」。",
-      "vocab": [
-        {
-          "word": "diatriba",
-          "translation": "猛烈批判，长篇抨击",
-          "note": "diatriba 指措辞激烈、充满攻击性的批评或演说，多用于书面语，比 crítica 语气强烈得多，带有持续性和系统性的意味，常见于文学评论和政论文体。"
-        },
-        {
-          "word": "conminados",
-          "translation": "被强迫的，被命令的，被威逼的",
-          "note": "conminar 意为『以威胁或命令强迫某人做某事』，语气比 obligar 更强，带有强制和威慑的意味，多见于正式或文学语境，如 conminar a alguien a dimitir（强令某人辞职）。"
-        }
-      ]
-    },
-    {
-      "id": 21,
-      "es": "No es un tiempo muerto solo el que recomienda Valls, en sintonía con El derecho a la pereza, el gran ensayo de Paul Lafargue. Es una adecuación al siglo XXI de lo que este reivindicó para finales del XIX. Hoy son multitud también quienes hacen suyo el <strong>mantra</strong> de Bartleby, el escribiente, aquel personaje tótem de Herman Melville en el germen del liberalismo, que contemplaba el mar desde su oficina y <strong>declinaba</strong> amablemente excesos de trabajo con una frase sencilla: \"Preferiría no hacerlo\".",
-      "zh": "巴尔斯所推崇的并非单纯的虚度时光，这与保罗·拉法格的重要论著《懒惰的权利》一脉相承。这是对拉法格在19世纪末所倡导之事的21世纪版本。如今，也有许多人将巴特比这个书记员的「咒语」奉为圭臬——他是赫尔曼·梅尔维尔笔下的标志性人物，出现在自由主义萌芽之时，他从办公室凝视大海，以一句简单的话温和地拒绝过度劳动：「我宁愿不这样做。」",
-      "vocab": [
-        {
-          "word": "mantra",
-          "translation": "咒语，口头禅，信条",
-          "note": "mantra 源自梵语，本指冥想中反复吟诵的神圣音节，在现代语境中引申为某人反复强调的信条或口头禅，此处带有轻微的讽刺意味，暗示这句话被奉为近乎宗教式的信仰。"
-        },
-        {
-          "word": "declinaba",
-          "translation": "婉拒，谢绝",
-          "note": "declinar 在此意为『礼貌地拒绝』，是正式文体中的高频词，如 declinar una invitación（婉拒邀请）、declinar responsabilidades（推卸责任）；注意其语法含义（动词变位）和天文含义（天体偏斜）均不同。"
-        }
-      ]
-    },
-    {
-        "es": "En ese aspecto, el performer y profesor portugués Hugo Cruz, con sus talleres de pereza, extrae algunas enseñanzas: \"Nuestro objetivo es entrenarla, introducir la capacidad de estarlo, desconectando, desacelerando, dejando espacio para la circulación de ideas libres. Las producimos, pero con utilidad para dinámicas de capitalismo salvaje\".",
-        "zh": "在这方面，葡萄牙行为艺术家兼教师乌戈·克鲁斯通过他的『懒惰工作坊』提炼出一些启示：『我们的目标是训练懒惰，引入一种能够懒下来的能力——断开连接，放慢节奏，为自由思想的流动留出空间。我们确实产生想法，但这些想法却被野蛮资本主义的运作逻辑所利用。』",
-        "vocab": [
-          {
-            "word": "desacelerando",
-            "translation": "放慢速度，减速",
-            "note": "前缀 des- 否定 acelerar（加速），desacelerar 意为『减速、放缓』，在社会批评语境中常用于比喻放慢生活或工作节奏，与 slow life 等概念相呼应，是当代文化讨论中的高频词。"
-          }
-        ]
-      },
-      {
-        "id": 23,
-        "es": "Cruz lucha por arrancarle su <strong>estigma</strong> a la pereza. \"Es un derecho. Nos la arrebataron cuando era algo completamente orgánico. Todas las personas la sienten y debe extinguirse el sentido de culpa que nos la anula. Desde el punto de vista físico y mental, activa la posibilidad onírica e imaginativa, una capacidad de producir realidades alternativas. El capitalismo da mucha importancia a esto, por eso la ve como un pecado mortal para <strong>condicionar</strong> así el control social\".",
-        "zh": "克鲁斯致力于为懒惰去除污名。「这是一种权利。当它还是完全自然的东西时，它就被从我们身上夺走了。每个人都会感受到懒惰，那种让我们压抑它的罪恶感必须消除。从身心角度来看，懒惰激活了梦境与想象的可能性，一种创造替代现实的能力。资本主义对此极为重视，因此将懒惰视为一种大罪，以此来控制社会。」",
-        "vocab": [
-          {
-            "word": "estigma",
-            "translation": "污名，耻辱标记，社会偏见",
-            "note": "estigma 源自希腊语，本义是烙在皮肤上的印记，引申为社会对某种特质或群体的负面标签，在社会学语境中是核心词汇，固定搭配有 cargar con el estigma（背负污名）、estigma social（社会污名）。"
-          },
-          {
-            "word": "condicionar",
-            "translation": "制约，影响，条件性控制",
-            "note": "condicionar 在心理学和社会学语境中意为『通过条件设置来影响或控制行为』，比 controlar 更强调通过间接机制施加影响，如 condicionar la conducta（制约行为），是分析权力关系时的高频词。"
-          }
-        ]
-      },
-      {
-        "id": 24,
-        "es": "Mejor tener todo esto en cuenta hoy que ante la más que probable <strong>patraña</strong> del mañana, dice Hugo Cruz: \"La idea del futuro es una trampa, una red que nos va aprisionando. Es un concepto muy peligroso porque no nos moviliza. El derecho a la pereza lo tenemos que vivir ahora para pensar realidades alternativas\". Y si empezáramos, propone, \"por dormir la siesta todos los días...\".",
-        "zh": "乌戈·克鲁斯说，与其面对明天那极有可能的谎言，不如今天就把这一切铭记在心：「未来的概念是一个陷阱，一张将我们逐渐囚禁的网。这是一个非常危险的概念，因为它不能动员我们。懒惰的权利必须在当下践行，才能思考替代性的现实。」他提议，如果我们从「每天睡午觉」开始呢……",
-        "vocab": [
-          {
-            "word": "patraña",
-            "translation": "谎言，骗局，无稽之谈",
-            "note": "patraña 是带有轻蔑色彩的口语词，指明显荒诞或蓄意欺骗的谎言，比 mentira 更强调其荒谬性，常用于批评那些被广泛接受却实为虚假的承诺或叙事，如 la patraña del progreso（进步的谎言）。"
-          }
-        ]
-      },
-      {
-        "id": 25,
-        "es": "Algunos, como David Jiménez Torres, profesor en la Facultad de Ciencias Políticas y Sociología de la Complutense, no podrían. Es el contrapunto a esta reivindicación. <strong>Padece</strong> insomnio y es autor del ensayo El mal dormir (Libros del Asteroide). \"En principio, la siesta es un oasis para un maldurmiente: una forma de resetear el día, de corregir la aberración que supone llegar a la mañana tan cansado. Si tienes un trabajo que te permite echártelas, o si tus problemas de sueño nocturnos no te lo impiden, suponen una gran solución\".",
-        "zh": "然而有些人做不到，比如大卫·希门尼斯·托雷斯——马德里康普顿斯大学政治学与社会学学院教授。他是这场倡导的反调。他患有失眠症，是论著《睡不好》（小行星出版社）的作者。「原则上，午睡对一个睡眠不好的人来说是一片绿洲：一种重置一天的方式，纠正那种早上起来依然疲惫不堪的荒谬状态。如果你的工作允许你睡午觉，或者你的夜间睡眠问题不妨碍你这样做，午睡确实是一个很好的解决方案。」",
-        "vocab": [
-          {
-            "word": "Padece",
-            "translation": "患有，遭受，忍受",
-            "note": "padecer 比 tener 更正式，强调长期承受痛苦或疾病，常用于医学和文学语境，如 padecer una enfermedad crónica（患慢性病）；与 sufrir 相比，padecer 更强调被动承受，sufrir 则更强调主观感受的强度。"
-          }
-        ]
-      },
-      {
-        "id": 26,
-        "es": "Pero, para muchos, más que un oasis termina siendo un <strong>espejismo</strong>, afirma Jiménez Torres, que no aplaca las consecuencias cotidianas de irascibilidad, frustración, incomprensión o angustia que van asociadas a ello. \"El mal dormir da forma a tu experiencia del mundo y de ti mismo. No define del todo tu <strong>subjetividad</strong>, pero es uno de los factores que la condicionan\".",
-        "zh": "但对许多人来说，它最终不过是一个海市蜃楼，希门尼斯·托雷斯说，它无法平息与失眠相伴而来的日常后果——易怒、沮丧、不被理解，或是焦虑。「睡不好会塑造你对世界和自我的体验。它不能完全定义你的主体性，但它是影响主体性的因素之一。」",
-        "vocab": [
-          {
-            "word": "espejismo",
-            "translation": "海市蜃楼，幻觉，虚幻的希望",
-            "note": "espejismo 本义是沙漠中的光学幻象，引申为令人向往却无法实现的幻想，与 ilusión 相比，espejismo 更强调其欺骗性和最终的落空，常用于批评某种被过度美化的承诺。"
-          },
-          {
-            "word": "subjetividad",
-            "translation": "主体性，主观性，自我感知",
-            "note": "subjetividad 在哲学和社会学语境中指个体对自身存在的感知与建构方式，是人文学科的核心概念词，后缀 -idad 将形容词 subjetivo 转化为抽象名词，同类构词如 identidad、realidad、libertad。"
-          }
-        ]
-      },
-      {
-        "id": 27,
-        "es": "Puede que le sirva el apoyo de organizaciones como el Instituto del Tiempo Suspendido (ITS), que llevan el filósofo Javier Bassas y la artista Raquel Friera. Ambos recomiendan la siesta como esa parada para dejar de vivir como nos imponen y en la que cabe la concentración en ese momento de dejarnos ir: \"Cuando se te cierran los ojos <strong>progresivamente</strong> y empiezas a confundir realidad y sueño, cuando entras <strong>paulatinamente</strong> en una dimensión entre-mundos, entre-tiempos: ni despierto ni dormido. Una categoría especial propia que nos hace experimentar dimensiones temporales de máxima tendencia y conexión con la fantasía\".",
-        "zh": "也许「悬停时间研究所」（ITS）的支持对他有所帮助——该机构由哲学家哈维尔·巴萨斯和艺术家拉克尔·弗里耶拉主持。两人都将午睡推荐为一种停顿，让我们得以暂时脱离被强加的生活方式，在那个放手的时刻专注于自身：「当你的眼睛渐渐合上，你开始混淆现实与梦境，当你一点一点进入一个介于世界之间、时间之间的维度：既非清醒，也非沉睡。这是一种独特的特殊状态，让我们体验到极度趋向幻想与连接的时间维度。」",
-        "vocab": [
-          {
-            "word": "progresivamente",
-            "translation": "逐渐地，渐进地",
-            "note": "副词 progresivamente 强调变化的连续性和方向性，与 paulatinamente 同义但更常见于正式书面语；两词在同一句中并用，是作者有意为之的文学重复，强调过程的缓慢与层次感。"
-          },
-          {
-            "word": "paulatinamente",
-            "translation": "缓缓地，一点一点地",
-            "note": "paulatino/a 是形容词，意为『缓慢而渐进的』，副词形式 paulatinamente 在文学和正式语境中比 poco a poco 更雅致，常用于描述不易察觉的细微变化过程。"
-          }
-        ]
-      },
-      {
-        "id": 28,
-        "es": "A partir de eso y otras iniciativas, se proponen su fin fundamental: \"<strong>Reapropiarnos</strong> del tiempo que el sistema nos expropia. El ITS no es cultura, arte, entretenimiento. Tiene una función política, somos activistas del tiempo\".",
-        "zh": "基于这一点及其他行动，他们提出了自己的根本目标：「重新夺回被体制剥夺的时间。悬停时间研究所不是文化、艺术或娱乐。它具有政治功能，我们是时间的行动主义者。」",
-        "vocab": [
-          {
-            "word": "Reapropiarnos",
-            "translation": "重新占有，夺回所有权",
-            "note": "前缀 re- 表示『重新』，apropiarse de 意为『占有、据为己有』，reapropiarse 则强调夺回原本属于自己的东西，是政治和社会运动语境中的高频词，如 reapropiación del espacio público（重夺公共空间）。"
-          }
-        ]
-      },
-      {
-        "id": 29,
-        "es": "Lo que necesitamos para entrar ahora en ese territorio vedado, pero absolutamente nuestro y que debemos reconquistar cada día. Así que si has despertado ya después de haberte incitado a este sueño de siesta y lees esto, por ejemplo, por la mañana, tú, profeta de la autorrealización o el emprendimiento propio, desafía tus propios dogmas, tu sacrosanta obediencia productiva y recuerda, antes del almuerzo, una siesta del borrego que no descuente minutos a la de después de comer. Si prefieres, lo haces justo al despertarte y merendar algo, querido aspirante a empleado del mes, <strong>autista</strong> del rendimiento y muerto viviente, que diría Han, porque esperamos haberte contagiado de razones. Vuelve a encontrar un hueco si puedes previo a la cena, por voluntad, antes de que te venza el cansancio que te lleva a caer de agotamiento sin proponértelo. Duerme cuando quieras, donde quieras, <strong>plusmarquista</strong> de los beneficios ajenos, porque así lo eliges, porque con ello te rebelas orgánica y políticamente. Porque si paras, si cada uno nos detenemos, ganamos nuestro propio terreno conquistado por quienes nos quieren convencer de que dormir en mitad del día es cosa de <strong>pringados</strong>.",
-        "zh": "这正是我们进入那片被禁止却完全属于我们、必须每天重新夺回的领地所需要的。所以，如果你已经在被这篇文章引入午睡之梦后醒来，或者你是在早上读到这里——你这位自我实现或自主创业的先知——挑战你自己的教条，挑战你那神圣不可侵犯的生产力服从，记得在午饭前睡一觉「羊羔觉」，而且不要占用饭后午睡的时间。如果你愿意，就在刚睡醒、吃点东西的时候去睡，亲爱的月度最佳员工候选人、绩效狂人、韩炳哲所说的行尸走肉——因为我们希望已经用足够的理由感染了你。如果可以的话，在晚饭前再找一个空档，出于自愿，在疲惫将你不由自主地击倒之前。想睡就睡，想在哪里睡就在哪里睡，你这位为他人利益创造纪录的打工人，因为这是你的选择，因为这样你便在身体上和政治上进行了反抗。因为如果你停下来，如果我们每个人都停下来，我们就赢回了属于自己的地盘——那些想说服我们「大白天睡觉是废物才做的事」的人一直在占据的地盘。",
-        "vocab": [
-          {
-            "word": "autista",
-            "translation": "（比喻）封闭于自我世界的，对外界漠然的",
-            "note": "autista 本义是『自闭症患者』，此处为比喻用法，形容一个人完全沉浸于绩效逻辑而对其他一切封闭，语气带有讽刺和批判色彩，使用时需注意该词在医学语境中的本义，避免对自闭症群体造成冒犯。"
-          },
-          {
-            "word": "plusmarquista",
-            "translation": "纪录保持者；（讽刺）拼命为他人创造业绩的人",
-            "note": "plusmarquista 本义是体育竞技中的『纪录保持者』，此处反讽地用于形容那些拼命工作、为资本创造利润却不为自己所得的打工人，是作者在结尾段密集使用的讽刺性称呼之一。"
-          },
-          {
-            "word": "pringados",
-            "translation": "倒霉蛋，傻瓜，被人利用的人",
-            "note": "pringado 是西班牙口语俚语，指被人当冤大头使唤、吃亏却不自知的人，带有强烈的口语色彩和轻蔑意味，此处出现在文章结尾，以反讽方式揭示资本主义话语对午睡者的污名化逻辑。"
-          }
-        ]
-      }
-    ],
+    }
+  ],
   "slangExpressions": [
     {
-      "expression": "echarse una siesta",
-      "type": "colocación",
-      "translation": "睡午觉",
-      "usage": "echarse 与 siesta 的固定搭配，是西语中表达『睡午觉』最地道的说法，不可随意替换为 dormir una siesta（虽可理解但不够自然）。同类结构还有 echarse una cabezada（打个盹）。语体为日常口语，全西语区通用。",
-      "exampleEs": "Después de comer, me echo una siesta de veinte minutos y me siento como nuevo.",
-      "exampleZh": "吃完饭我睡了二十分钟午觉，感觉整个人焕然一新。"
-    },
-    {
-      "expression": "actuar contra natura",
+      "expression": "estar jodido",
       "type": "expresión coloquial",
-      "translation": "违背自然，逆天而为",
-      "usage": "contra natura 是拉丁语借用表达，意为『违背自然规律』，在西语中已完全固定为成语式短语，常用于批评某种行为有悖于人的本能或自然秩序，语体偏正式或文学，带有强烈的批判语气。",
-      "exampleEs": "Trabajar dieciséis horas al día sin descanso es actuar contra natura.",
-      "exampleZh": "每天工作十六小时不休息，简直是在违背自然规律。"
+      "translation": "完蛋了，不行了，处境很糟",
+      "usage": "jodido 是西班牙口语中极为常见的粗口词，源自 joder，在此语境中表示身体状况极差、已到危急程度，语气强烈且粗俗，仅用于非正式场合。在拉美西语中同样常见但使用场景略有差异，正式场合可替换为 estar muy mal 或 estar grave。",
+      "exampleEs": "Cuando llegó al hospital, el médico dijo que estaba realmente jodido y lo ingresaron de inmediato.",
+      "exampleZh": "他到医院时，医生说情况非常糟糕，立刻将他收治入院。"
     },
     {
-      "expression": "poner en valor",
+      "expression": "regla no escrita",
       "type": "colocación",
-      "translation": "彰显价值，使……得到重视",
-      "usage": "poner en valor 是新闻、政治和文化语境中的高频固定搭配，意为『让某事物的价值得到认可和彰显』，不可替换为 dar valor（赋予价值，含义不同）。常见于文化遗产、社会议题等正式语境。",
-      "exampleEs": "El festival busca poner en valor las tradiciones artesanales de la región.",
-      "exampleZh": "这个节日旨在彰显该地区手工艺传统的价值。"
+      "translation": "不成文的规则，约定俗成的惯例",
+      "usage": "regla no escrita 是固定搭配，指在某个群体或行业中不需明文规定、大家心照不宣的行为准则，常见于社会评论和新闻报道，相当于英语 unwritten rule，语体中性，口语书面均可使用。",
+      "exampleEs": "En esta oficina hay una regla no escrita: nadie se va antes de que lo haga el jefe.",
+      "exampleZh": "这个办公室有条不成文的规定：没人会在老板之前离开。"
     },
     {
-      "expression": "un toque de corneta inverso",
-      "type": "modismo",
-      "translation": "反向的号角声（号召人们躺下而非起身的信号）",
-      "usage": "toque de corneta 本指军队中用号角发出的集合或起床信号，此处加上 inverso（反向的）构成一个临时性比喻表达，形容午睡运动是一种『反其道而行之』的号召——不是叫人起来战斗，而是叫人躺下休息。体现了作者将政治修辞与日常生活融合的写作风格。",
-      "exampleEs": "El movimiento por el descanso lanzó un toque de corneta inverso: en vez de llamar a las armas, llamaba a las almohadas.",
-      "exampleZh": "这场休息运动吹响了一声反向的号角：不是号召人们拿起武器，而是号召大家拿起枕头。"
-    },
-    {
-      "expression": "mecernos en los brazos del demonio",
-      "type": "modismo",
-      "translation": "被哄入魔鬼的怀抱，在不知不觉中落入陷阱",
-      "usage": "mecer 意为『摇晃、哄睡』，en los brazos del demonio 是『在魔鬼的怀抱中』，整个表达形容某种表面温柔、实则危险的诱惑或操控，语气带有强烈的讽刺和警示色彩，多见于文学和评论文体。",
-      "exampleEs": "Algunas apps de bienestar prometen relajarte, pero en realidad te mecen en los brazos del demonio del consumo.",
-      "exampleZh": "一些健康类应用声称帮你放松，实际上却悄悄把你哄进了消费主义的怀抱。"
-    },
-    {
-      "expression": "punto de inflexión",
+      "expression": "hasta el límite",
       "type": "colocación",
-      "translation": "转折点，拐点",
-      "usage": "punto de inflexión 源自数学术语（曲线的拐点），在新闻和社会评论中广泛用于指某一事件或时刻成为历史走向的重大转变节点，是B2以上正式语体中的高频固定搭配，不可替换为 punto de cambio。",
-      "exampleEs": "La crisis económica de 2008 fue un punto de inflexión en la historia del capitalismo contemporáneo.",
-      "exampleZh": "2008年的经济危机是当代资本主义历史上的一个重要转折点。"
-    },
-      {
-      "expression": "dormir a destiempo",
-      "type": "colocación",
-      "translation": "在不合时宜的时刻睡觉，打破时间规范地入睡",
-      "usage": "a destiempo 与 dormir 搭配，强调在社会规定的『工作时间』内入睡这一反常规行为，在文章的哲学语境中被赋予了政治意涵，象征对资本主义时间秩序的主动抵抗。固定短语 a destiempo 也可用于其他动词，如 llegar a destiempo（来得不是时候）。",
-      "exampleEs": "Dormir a destiempo es, para estos filósofos, una forma de resistencia cotidiana contra el ritmo impuesto.",
-      "exampleZh": "在这些哲学家看来，在不合时宜的时刻入睡，是对强加节奏的一种日常抵抗。"
+      "translation": "推到极限，拖到最后关头",
+      "usage": "hasta el límite 表示将某事推迟或延伸到所能承受的最大程度，常与 aguantar、esperar、posponer 等动词搭配，语气带有一种被迫为之的无奈感，在描述极端行为或忍耐时使用频率很高。",
+      "exampleEs": "Aguantó el dolor hasta el límite antes de decidirse a ir al médico.",
+      "exampleZh": "他把疼痛忍到了极限，才终于决定去看医生。"
     },
     {
-      "expression": "recarga de baterías",
-      "type": "expresión coloquial",
-      "translation": "充电，恢复精力",
-      "usage": "recarga de baterías 是现代口语中极为常见的比喻表达，将人体比作需要充电的设备，指通过休息恢复精力。文章中作者有意批判这一说法，认为将午睡仅仅理解为『充电』是对其政治与哲学价值的矮化，体现了该表达在当代文化批评中的反讽用法。",
-      "exampleEs": "No me echo la siesta para hacer una simple recarga de baterías, sino para reivindicar mi derecho al descanso.",
-      "exampleZh": "我睡午觉不是为了简单地充个电，而是为了捍卫我休息的权利。"
+      "expression": "multiplicarse por",
+      "type": "colocación",
+      "translation": "增长……倍，扩大……倍",
+      "usage": "multiplicarse por + 数字 是新闻和统计报道中表达倍数增长的标准固定搭配，如 multiplicarse por seis（增长六倍），注意西语中『增长六倍』即最终数量是原来的六倍，与中文『增长了六倍』（即原来的七倍）的计算方式不同，需注意语境。",
+      "exampleEs": "En diez años, el número de usuarios de la plataforma se multiplicó por diez.",
+      "exampleZh": "十年间，该平台的用户数量增长了十倍。"
     }
   ]
 }
