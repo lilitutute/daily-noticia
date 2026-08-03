@@ -1,0 +1,175 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "媒体与科技",
+  "difficulty": "C1",
+  "wordCount": "约550词",
+  "title": "Cómo saber si este texto está escrito con IA",
+  "subtitle": "如何判断一篇文章是否由AI写成",
+  "resumenEs": "El autor reflexiona, con ironía y humor, sobre las señales que delatan un texto generado por inteligencia artificial: desde la extrañeza intuitiva del lector hasta rasgos formales concretos como el uso de guiones largos, estructuras simétricas o progresiones lógicas demasiado pulidas. Al mismo tiempo, advierte de que la tecnología avanza y cada vez resulta más difícil detectar la intervención de la máquina.",
+  "resumenZh": "作者以讽刺而幽默的笔调，探讨了识别AI生成文本的各种线索：从读者直觉上感受到的「异样感」，到具体的形式特征，如长破折号的使用、过度对称的结构或过于工整的逻辑推进。与此同时，他也提醒读者，随着技术进步，识别机器介入正变得越来越困难。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Una parte de este texto ha sido escrita con IA. ¿Cuánto? ¿Dónde? Ah, corresponde al <strong>sagaz</strong> lector averiguarlo. Iba a decir que no resulta difícil, debido a que cada vez más periodistas y escritores <strong>subarriendan</strong> la elaboración casi íntegra de sus textos a la inteligencia artificial -¿quiénes?, ¿aparecen en estas páginas? Calma, calma. Demasiadas preguntas; y no soy ChatGPT para responderlas todas-, pero el avance de la tecnología hace cada vez más complicado distinguirlo. De igual manera, su uso extendido <strong>contamina</strong> el lenguaje cotidiano y provoca que la gente escriba IA sin darse cuenta. Así, desde el primer párrafo uno no está leyendo, sino inspeccionando.",
+      "zh": "这篇文章有一部分是用AI写的。多少？在哪里？啊，这就留给聪明的读者自己去发现吧。我本想说这并不难，因为越来越多的记者和作家把自己文章的几乎全部内容「转包」给人工智能——是谁？这些页面里有他们吗？冷静，冷静。问题太多了，我又不是ChatGPT，没法全部回答——但技术的进步让辨别这件事越来越困难。同样，AI的广泛使用也在污染日常语言，让人们在不知不觉中写出AI腔调。于是，从第一段开始，读者就不再是在阅读，而是在检查。",
+      "vocab": [
+        {
+          "word": "sagaz",
+          "translation": "敏锐的；机智的；有洞察力的",
+          "note": "sagaz 是描述智识敏锐度的B2-C1形容词，比 inteligente 更强调「善于洞察和推断」的能力，常用于正式或文学语境；名词形式为 sagacidad，常见搭配有 mente sagaz（敏锐的头脑）、analista sagaz（眼光独到的分析师）。"
+        },
+        {
+          "word": "subarriendan",
+          "translation": "转包；分包；转租",
+          "note": "subarrendar 本义为「转租（房产）」，此处用作隐喻，指将本应自己完成的写作工作「转包」给AI；前缀 sub- 表示「在……之下、次级」，可构成 subcontratar（分包）、subdirector（副主任）等词，是理解层级关系词汇的关键前缀。"
+        },
+        {
+          "word": "contamina",
+          "translation": "污染；侵蚀；使变质",
+          "note": "contaminar 在环境语境中指「污染」，在语言和文化语境中引申为「使（语言/风格）受到不良影响而变质」；此处用作隐喻批评AI对日常写作风格的渗透，名词 contaminación 在新闻文体中兼具字面和隐喻两种用法。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Hace un tiempo ayudé en la edición de un libro antológico de varias firmas. Una de ellas, conocida y <strong>multipremiada</strong>, envió su parte. Al leerla noté algo extraño, que terminó de confirmarse con la inclusión de un dato <strong>llamativamente</strong> erróneo. Ajá. Eureka, incluso. El típico caso en que la máquina prefiere pedir perdón a pedir permiso. Estoy seguro de que si preguntase a la persona en cuestión lo negaría con violencia. Y ésa es, precisamente, una de las mejores pistas: cuanto mayor es el <strong>teatrillo</strong> de la indignación, más probable resulta que el autor acusado recurra a los prompts para fabricar escritos a los que luego añade su firma.",
+      "zh": "前段时间，我参与编辑了一本多位作者联合署名的选集。其中一位知名且获奖无数的作者提交了她的部分。读的时候我察觉到一种异样，而一处明显错误的数据最终证实了我的判断。啊哈，简直是「尤里卡」时刻。这是机器的典型做派——宁可事后道歉，也不事先请示。我敢肯定，如果去问当事人，对方一定会激烈否认。而这恰恰是最好的线索之一：愤慨的表演越夸张，被指控的作者越有可能是靠输入提示词来生产文章、再署上自己大名的那种人。",
+      "vocab": [
+        {
+          "word": "multipremiada",
+          "translation": "获奖无数的；多次获奖的",
+          "note": "前缀 multi- 表示「多、多次」，可构成大量复合词，如 multimillonario（亿万富翁）、multicultural（多元文化的）、multifuncional（多功能的）；multipremiado 虽非词典常见词，但构词逻辑清晰，体现西语中前缀的高度能产性。"
+        },
+        {
+          "word": "llamativamente",
+          "translation": "显眼地；引人注目地；明显得令人惊讶地",
+          "note": "llamativo/a 意为「显眼的、惹人注目的」，副词形式 llamativamente 在新闻文体中常用于强调某事「异常突出、不寻常地明显」；注意与 notablemente（显著地）区分：llamativamente 带有「令人侧目」的主观色彩，语气更强。"
+        },
+        {
+          "word": "teatrillo",
+          "translation": "小把戏；夸张的表演；做作的闹剧",
+          "note": "teatro（剧院/表演）加指小后缀 -illo 构成 teatrillo，带有贬义，指「不真诚的、夸张做作的表演行为」；西语中 -illo/-illa 后缀除表示「小」外，常带有轻蔑或戏谑色彩，如 politicastro、pueblucho，是理解语气的重要构词知识。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Pero es esa extrañeza de la que hablaba antes el mejor <strong>detector</strong> de intervención no humana. Algo parecido a lo que sintieron los primeros lectores de La Bête et la Belle, novela policiaca que Thierry Jonquet publicó en 1985. En aquellas páginas de crímenes sin resolver había algo raro; no se sabía muy bien qué. Al final del libro -me perdonarán el spoiler-, la explicación: la historia estaba contada a través de los ojos de un perro.",
+      "zh": "但正是我之前提到的那种「异样感」，才是检测非人类介入的最佳探测器。这有点像蒂埃里·容克1985年出版的犯罪小说《野兽与美女》最初的读者所感受到的东西。那些悬而未决的犯罪案页面里有某种奇怪之处，却说不清是什么。书的结尾——请原谅我剧透——给出了解释：整个故事是通过一只狗的视角讲述的。",
+      "vocab": [
+        {
+          "word": "detector",
+          "translation": "探测器；检测手段",
+          "note": "detector 由 detectar（探测、发现）加后缀 -or 构成，表示「执行探测功能的工具或手段」；此处用作隐喻，将「异样感」比作一种探测装置；同类构词如 regulador、generador、indicador，掌握 -or 后缀可系统扩充工具类名词。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Hay otros rasgos, mucho más mundanos, que <strong>delatan</strong> una elaboración ajena al encéfalo sapiens. Por ejemplo, el uso de las rayas o guiones ingleses —mucho más largos que los habituales, como se puede comprobar— para introducir incisos. También algunas estructuras, como la de una negación seguida de dos puntos y una afirmación. No es una fórmula retórica: es un recurso de la máquina. De igual manera, las <strong>progresiones lógicas</strong> (de A se sigue B, de la que se sigue C, rematado todo con una conclusión) o el exceso de <strong>simetría</strong> (frases de longitud parecida, párrafos equilibrados, disposición en espejo de las ideas, tríadas argumentales) evidencian la vagancia de algunos escribidores. En general, cuando un texto es demasiado limpio, sin reiteraciones accidentales ni errores, resulta sospechoso.",
+      "zh": "还有一些更为平常的特征，会暴露出一篇文章并非出自智人大脑。例如，使用英式长破折号——比常见的破折号长得多，正如这里可以看到的——来插入补充说明。还有一些句式结构，比如否定句后接冒号再接肯定句。这不是修辞手法：这是机器的惯用套路。同样，过于工整的逻辑推进（由A推出B，再由B推出C，最后以结论收尾），或过度的对称性（句子长度相近、段落均衡、观点呈镜像排列、三段式论证），都暴露了某些「码字工」的懒惰。总体而言，一篇过于干净、没有任何偶发性重复或错误的文章，本身就值得怀疑。",
+      "vocab": [
+        {
+          "word": "delatan",
+          "translation": "暴露；出卖；揭露",
+          "note": "delatar 意为「告发、揭发」，也可指某特征「无意间暴露」某种真相，主语可以是人（delatar a alguien）或事物（sus nervios lo delataron，他的紧张出卖了他）；此处主语为文本特征，是新闻和文学中的高频隐喻用法。"
+        },
+        {
+          "word": "progresiones lógicas",
+          "translation": "逻辑推进；逐步递进的论证",
+          "note": "progresión 来自 progresar（进展），指有序的「递进、推进」过程；在修辞学和写作分析中，progresión lógica 指论点按因果或演绎顺序逐步展开的结构；注意与 secuencia（序列）区分，progresión 更强调方向性和累积性。"
+        },
+        {
+          "word": "simetría",
+          "translation": "对称性；均衡；匀称",
+          "note": "simetría 来自希腊语，在数学中指几何对称，在写作分析中引申为句式、段落或论点结构的「过度均衡」；形容词 simétrico/a 和反义词 asimétrico/a 在社会学（asimetría de poder，权力不对称）和新闻文体中均高频出现。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Los <strong>juntaletras</strong> serán (seremos) haraganes, pero no tontos, y cada vez existen más herramientas capaces de <strong>rehumanizar</strong> los textos generados por la IA. También hay quien 'ensucia' deliberadamente lo que le ofrecen Claude o Grok para que no se note tanto.",
+      "zh": "「码字工」们也许（我们也许）很懒，但不傻，而且越来越多的工具能够将AI生成的文本「再人性化」。也有人故意在Claude或Grok给出的内容里「加点脏」，让痕迹不那么明显。",
+      "vocab": [
+        {
+          "word": "juntaletras",
+          "translation": "码字工；舞文弄墨者（带戏谑色彩）",
+          "note": "juntaletras 是由 juntar（拼凑）+ letras（字母/文字）构成的合成词，带有自嘲或轻蔑色彩，指以写作为生却水平平平的人；西语中此类「动词+名词」合成词极为能产，如 sacacorchos（开瓶器）、paraguas（雨伞）、limpiabotas（擦鞋匠），是构词学习的重要模式。"
+        },
+        {
+          "word": "rehumanizar",
+          "translation": "使重新具有人性化特征；去AI腔",
+          "note": "前缀 re- 表示「再次、重新」，humanizar 意为「使人性化」，合成词 rehumanizar 指将AI生成的机械文本重新赋予人类写作的自然感；re- 是西语最能产的前缀之一，如 reescribir、reformular、reconsiderar，掌握后可大幅扩充词汇。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "¿Y cómo sé todo esto? ¿No será que yo mismo soy usuario <strong>asiduo</strong> de todo lo antes mencionado? Eso, <strong>avispadísimo</strong> lector, es algo que le dejo a usted.",
+      "zh": "那我又是怎么知道这一切的呢？难道我自己就是上述所有工具的常客？这个问题嘛，极其机敏的读者，就留给您自己去判断了。",
+      "vocab": [
+        {
+          "word": "asiduo",
+          "translation": "常客；忠实用户；经常性的",
+          "note": "asiduo/a 作形容词意为「经常性的、持续性的」，作名词意为「常客、老主顾」；常见搭配有 lector asiduo（忠实读者）、cliente asiduo（常客）、asiduo colaborador（长期撰稿人），在新闻和文化类文章中高频出现。"
+        },
+        {
+          "word": "avispadísimo",
+          "translation": "极其机敏的；非常精明的",
+          "note": "avispado/a 来自 avispa（黄蜂），意为「像黄蜂一样机警、精明」，是口语和文学中描述智识敏锐的地道词汇；-ísimo 为绝对最高级后缀，表示「极其……」；注意 avispado 比 inteligente 更口语化，带有「世故、不好糊弄」的含义。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "pedir perdón antes que pedir permiso",
+      "type": "refrán",
+      "translation": "宁可事后道歉，也不事先请示",
+      "usage": "描述一种「先斩后奏」的行事风格，即不经许可直接行动，出了问题再道歉；此处用来形容AI生成内容时不加核实、出错后再纠正的特点，语气带有讽刺。也常用于描述大胆冒进的人或机构。",
+      "exampleEs": "Ese director siempre actúa así: primero lanza el producto al mercado y luego pide perdón si hay fallos.",
+      "exampleZh": "那位总监一贯如此：先把产品推向市场，出了问题再道歉。"
+    },
+    {
+      "expression": "ensuciar deliberadamente",
+      "type": "expresión coloquial",
+      "translation": "故意加点「脏」；刻意制造不完美",
+      "usage": "此处为口语隐喻用法，指在AI生成的过于完美的文本中故意加入错误、口语化表达或不规则之处，使其看起来更像人类所写；ensuciar 本义为「弄脏」，此处引申义生动形象，体现西语口语的隐喻创造力。",
+      "exampleEs": "Algunos estudiantes ensucian deliberadamente sus trabajos para que el detector de IA no los marque.",
+      "exampleZh": "一些学生故意在作业里制造一些不完美，这样AI检测工具就不会把他们标记出来。"
+    },
+    {
+      "expression": "dar el salto a los medios internacionales",
+      "type": "colocación",
+      "translation": "登上国际媒体；引发国际关注",
+      "usage": "dar el salto 表示「跃升至更大舞台」，与 a los medios internacionales 搭配后专指某话题或事件从本地扩散至全球媒体视野；新闻文体高频表达，也可说 dar el salto a la fama（一举成名）。",
+      "exampleEs": "El escándalo político local dio el salto a los medios internacionales en cuestión de horas.",
+      "exampleZh": "这起地方政治丑闻在数小时内便登上了国际媒体的版面。"
+    },
+    {
+      "expression": "recurrir a",
+      "type": "colocación",
+      "translation": "求助于；诉诸；借助于",
+      "usage": "recurrir a + 名词是新闻和学术文体的核心固定搭配，表示「在需要时使用某手段或寻求某帮助」；比 usar 更正式，暗含「在其他方式不奏效时的选择」；常见搭配有 recurrir a la violencia（诉诸暴力）、recurrir a los tribunales（诉诸法院）。",
+      "exampleEs": "Ante la falta de ideas propias, algunos escritores recurren a la IA sin reconocerlo públicamente.",
+      "exampleZh": "面对自身创意的匮乏，一些作家悄悄借助AI，却不公开承认。"
+    },
+    {
+      "expression": "sin darse cuenta",
+      "type": "colocación",
+      "translation": "不知不觉地；在没有意识到的情况下",
+      "usage": "darse cuenta de 是「意识到、察觉到」的固定搭配，否定形式 sin darse cuenta 表示「无意识地、不自觉地」；注意 darse cuenta 后必须接 de，不可省略；与 inconscientemente 近义，但前者更口语化、更常用。",
+      "exampleEs": "Llevaba meses usando expresiones propias de la IA sin darse cuenta de que su estilo había cambiado.",
+      "exampleZh": "他已经不知不觉地使用AI惯用表达好几个月了，自己都没意识到写作风格已经变了。"
+    },
+    {
+      "expression": "negaría con violencia",
+      "type": "expresión coloquial",
+      "translation": "激烈否认；强烈否认",
+      "usage": "negar con violencia 是口语化的夸张表达，用 violencia（暴力、激烈程度）来修饰否认的力度，形容某人极力、情绪化地否认某事；violencia 在此为程度副词性用法，体现西语中用具体名词表达程度的修辞习惯。",
+      "exampleEs": "Cuando le preguntaron si había plagiado el informe, lo negó con violencia y amenazó con demandar.",
+      "exampleZh": "当被问及是否抄袭了报告时，他激烈否认，并扬言要提起诉讼。"
+    }
+  ]
+}

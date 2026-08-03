@@ -1,0 +1,305 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会文化",
+  "difficulty": "B2",
+  "wordCount": "约850词",
+  "title": "Kokushobi, la nueva palabra japonesa para describir los días de calor extremo",
+  "subtitle": "Kokushobi：日本为极端高温天气创造的新词",
+  "resumenEs": "Japón ha acuñado oficialmente el término kokushobi para designar los días en que el termómetro supera los 40 grados, ante una ola de calor que bate récords históricos. El fenómeno está transformando la agricultura, disparando el consumo energético y generando debates sociales inesperados, como la polémica sobre los códigos de vestimenta en las oficinas y la presión estética que recae de forma desigual sobre hombres y mujeres.",
+  "resumenZh": "面对屡破历史纪录的高温浪潮，日本正式启用新词「kokushobi」来指代气温超过40摄氏度的天气。这一现象正在改变农业生产方式、推高能源消耗，并引发意想不到的社会讨论——包括办公室着装规范的争议，以及男女之间不对等的外貌压力。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "El termómetro marcaba 40 grados. Pero en Japón, un país donde hasta el lenguaje suele medir cuidadosamente las emociones, las cifras ya no bastaban para <strong>transmitir</strong> el peligro. A finales de julio, cuando tres ciudades superaron por primera vez este año esa barrera psicológica, las autoridades <strong>estrenaron</strong> oficialmente una nueva palabra: kokushobi, que significa \"día de calor extremo\". No es un tecnicismo meteorológico, sino una señal de alarma. Un intento de convencer a la población de que el calor ha dejado de ser una <strong>molestia estival</strong> para convertirse en una amenaza nacional.",
+      "zh": "温度计显示40摄氏度。但在日本这个连语言都习惯于精准衡量情感的国家，数字已不足以传达危险。七月底，当三座城市今年首次突破这一心理关口时，当局正式启用了一个新词：kokushobi，意为「极端高温日」。这不是一个气象学专业术语，而是一个警报信号——试图让民众意识到，高温已不再是夏季的小烦恼，而已演变为一种全国性威胁。",
+      "vocab": [
+        {
+          "word": "transmitir",
+          "translation": "传达；传递；播报",
+          "note": "transmitir 在媒体语境中指「播出、直播」，在抽象语境中指「传达信息或情感」；其名词 transmisión 和施动者名词 transmisor 在新闻和科技文本中高频出现，前缀 trans- 含「穿越、跨越」之义，可举一反三至 transformar、transferir 等词。"
+        },
+        {
+          "word": "estrenaron",
+          "translation": "首次启用；首次推出；首映",
+          "note": "estrenar 本义为「首次使用某物或首次公演」，名词形式 estreno 指「首映、首演」；用于制度或词汇时意为「正式启用」，是新闻文体中描述「首次推出某政策/措辞」的地道表达，比 lanzar 更强调「第一次」的仪式感。"
+        },
+        {
+          "word": "molestia estival",
+          "translation": "夏季的小烦恼；夏日的不适",
+          "note": "estival 是「夏季的」的正式/书面形容词，对应名词 estío（夏季，文学用词）；日常口语更常用 de verano，但 estival 在新闻和气象文体中高频出现，掌握此词可提升书面语的精准度。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Las temperaturas récord, unidas a una humedad que convierte el aire en una pared invisible, están <strong>alterando</strong> desde la vida cotidiana hasta la agricultura, el consumo energético o incluso la forma de vestir en las oficinas. En un país acostumbrado a <strong>planificarlo</strong> todo, el calor se ha convertido en una variable cada vez más difícil de controlar.",
+      "zh": "创纪录的高温，加上将空气变成一堵无形之墙的湿度，正在改变从日常生活到农业、能源消耗乃至办公室着装方式的方方面面。在一个习惯于事无巨细加以规划的国家，高温已成为一个越来越难以掌控的变量。",
+      "vocab": [
+        {
+          "word": "alterando",
+          "translation": "改变；扰乱；影响",
+          "note": "alterar 在新闻文体中常表示「（负面地）改变或扰乱某种既有秩序」，比 cambiar 语气更强，暗含「打破平衡」的含义；其形容词 alterado 还可描述情绪激动的状态（estar alterado），注意根据语境区分。"
+        },
+        {
+          "word": "planificarlo",
+          "translation": "对其进行规划；将其纳入计划",
+          "note": "planificar 是 planear 的更正式变体，在行政、经济和城市规划类文本中高频出现；名词 planificación 常见于 planificación urbana（城市规划）、planificación familiar（计划生育）等固定搭配，是B2以上学术词汇。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "La Agencia Meteorológica de Japón decidió este año que hacía falta algo más que un número en los mapas del tiempo. Tras una <strong>encuesta pública</strong> en la que participaron más de 400.000 personas, escogió kokushobi como el término que <strong>identificaría</strong> los días en los que el mercurio supera los 40 grados.",
+      "zh": "日本气象厅今年认定，仅凭天气图上的一个数字已经不够。在一项逾40万人参与的公众调查之后，他们选定了「kokushobi」作为标识气温超过40摄氏度天气的专用术语。",
+      "vocab": [
+        {
+          "word": "encuesta pública",
+          "translation": "公众调查；民意调查",
+          "note": "encuesta 是新闻和社会科学的核心词，常见搭配有 realizar/llevar a cabo una encuesta（开展调查）、según una encuesta（根据一项调查）；注意与 entrevista（采访/面试）区分，encuesta 强调收集大量样本数据。"
+        },
+        {
+          "word": "identificaría",
+          "translation": "将用于标识；将用来指称",
+          "note": "此处为条件式（condicional simple），在新闻文体中常用于转述官方表态或决定，相当于间接引语中的将来时；identificar algo como / identificar algo con 是重要搭配，表示「将某物认定为/与某物关联」。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Cuando el nuevo concepto apareció por primera vez en los boletines oficiales, las autoridades recomendaron permanecer en interiores, encender el aire acondicionado y evitar cualquier actividad física innecesaria. La imagen de muchas ciudades prácticamente <strong>desiertas</strong> durante las horas centrales del día <strong>evocó</strong> escenas que muchos japoneses sólo recordaban de los confinamientos por la pandemia.",
+      "zh": "当这一新概念首次出现在官方公告中时，当局建议民众留在室内，开启空调，避免一切不必要的体力活动。许多城市在正午前后几乎空无一人的景象，令许多日本人想起了疫情封控期间的场景。",
+      "vocab": [
+        {
+          "word": "desiertas",
+          "translation": "空无一人的；荒无人迹的",
+          "note": "desierto 作形容词意为「空无一人的」，作名词意为「沙漠」；用于城市或街道时是新闻描写的高频词，如 calles desiertas（空荡荡的街道）；注意与 abandonado（被遗弃的）区分，desierto 强调暂时性的空旷。"
+        },
+        {
+          "word": "evocó",
+          "translation": "唤起；令人联想到；使人回想起",
+          "note": "evocar 是B2以上新闻和文学写作的高频动词，表示某景象或气味「唤起」某种记忆或联想；比 recordar 更文学化，主语通常是事物而非人，常见搭配 evocar recuerdos / evocar imágenes。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "El simple hecho de poner nombre al fenómeno parecía haber conseguido <strong>transmitir</strong> mejor el riesgo que cualquier estadística. Como explicó Taro Kawasato, subdirector de Predicción Climática de la Agencia Meteorológica: \"Los números son difíciles de entender porque cada persona los <strong>percibe</strong> de forma distinta. Si lo llamamos 'día de calor extremo', cualquiera comprende inmediatamente que es peligroso\".",
+      "zh": "仅仅是为这一现象命名这一简单举动，似乎比任何统计数据都更有效地传达了风险。正如气象厅气候预测副局长川里太郎所解释的：「数字很难理解，因为每个人对数字的感受不同。如果我们称之为『极端高温日』，任何人都能立刻明白这是危险的。」",
+      "vocab": [
+        {
+          "word": "percibe",
+          "translation": "感知；察觉；理解",
+          "note": "percibir 在感官层面指「感知、察觉」，在认知层面指「理解、领会」，在经济层面指「领取（薪资）」；名词 percepción 在心理学和新闻文体中高频出现，如 percepción del riesgo（风险感知），是典型的多义高频词。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "El verano pasado, Japón registró el mayor número de golpes de calor desde que comenzaron los registros oficiales en 2008: más de 100.000 personas necesitaron asistencia médica entre mayo y septiembre. Este verano la tendencia continúa <strong>agravándose</strong>. Sólo entre el 13 y el 19 de julio, 10.857 personas fueron trasladadas en ambulancia por insolación, más del doble que durante la semana equivalente del año anterior. El pasado fin de semana, según informó la cadena pública NHK, la ola de calor <strong>pulverizó</strong> otro récord: nunca desde que comenzaron los registros Japón había encadenado tantos días consecutivos con temperaturas extremas.",
+      "zh": "去年夏天，日本自2008年开始官方记录以来，中暑人数创下历史新高：5月至9月间，超过10万人需要接受医疗救治。今年夏天，这一趋势仍在持续恶化。仅7月13日至19日一周，就有10857人因中暑被救护车送医，是去年同期的两倍以上。据公共媒体NHK报道，上周末，这波热浪再度打破纪录：自有记录以来，日本从未出现过如此多的连续极端高温天数。",
+      "vocab": [
+        {
+          "word": "agravándose",
+          "translation": "持续恶化；不断加剧",
+          "note": "agravarse 意为「（情况）恶化、加重」，是新闻文体中描述负面趋势的核心动词；注意与 empeorar 近义，但 agravarse 更正式，且常用于医疗（el paciente se agrava）和社会问题语境；前缀 a- 含「使进入某状态」之义。"
+        },
+        {
+          "word": "pulverizó",
+          "translation": "粉碎；彻底打破（纪录）",
+          "note": "pulverizar 本义为「研磨成粉末」，在体育和新闻文体中引申为「彻底打破纪录」，语气远强于 batir un récord（打破纪录）；这类从具体动作到抽象含义的隐喻迁移在西语新闻写作中极为常见。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "El calor está transformando también la economía agrícola de un país donde el arroz no es únicamente un cultivo, sino un elemento central de la <strong>identidad nacional</strong>. Las altas temperaturas durante la floración y el llenado del grano están reduciendo la calidad del producto y obligando a los agricultores a cambiar <strong>prácticas centenarias</strong>. En numerosas regiones se están introduciendo variedades más resistentes, mientras otros productores comienzan a experimentar con cultivos impensables hace apenas unos años, como el aguacate, favorecidos por unas condiciones climáticas cada vez más parecidas a las subtropicales.",
+      "zh": "高温还在改变这个国家的农业经济——在日本，水稻不仅仅是一种农作物，更是民族认同的核心元素。抽穗期和灌浆期的高温正在降低产品质量，迫使农民改变延续了数百年的耕作方式。许多地区正在引进更耐热的品种，而其他种植者则开始尝试种植几年前还难以想象的作物，如牛油果，这得益于日益接近亚热带的气候条件。",
+      "vocab": [
+        {
+          "word": "identidad nacional",
+          "translation": "民族认同；国家身份认同",
+          "note": "identidad 在社会学和政治学中是核心概念，常见搭配有 identidad cultural（文化认同）、identidad de género（性别认同）、crisis de identidad（身份危机）；动词 identificarse con 表示「认同某群体或价值观」，是B2以上必掌握的词族。"
+        },
+        {
+          "word": "prácticas centenarias",
+          "translation": "延续百年的做法；百年传统",
+          "note": "centenario/a 作形容词意为「有百年历史的」，作名词意为「百年纪念」；类似构词有 milenario（千年的）、secular（世俗的/延续数世纪的）；prácticas centenarias 在文化和农业类报道中是描述传统做法的固定表达。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Este desafío climático llega además cuando Japón continúa pagando una <strong>elevada factura energética</strong> tras la crisis provocada por el bloqueo del Estrecho de Ormuz, que <strong>disparó</strong> los costes de las importaciones de combustibles. En un país profundamente dependiente del exterior para abastecerse de energía, mantener millones de aparatos de aire acondicionado funcionando durante semanas supone un esfuerzo económico considerable para familias, empresas y administraciones.",
+      "zh": "这一气候挑战到来之际，日本仍在承受霍尔木兹海峡封锁危机引发的高昂能源账单——那场危机大幅推高了燃料进口成本。在一个能源供应高度依赖外部的国家，让数以百万计的空调设备持续运转数周，对家庭、企业和政府机构而言都是一笔相当可观的经济负担。",
+      "vocab": [
+        {
+          "word": "elevada factura energética",
+          "translation": "高昂的能源账单；沉重的能源成本",
+          "note": "factura 在商业语境中指「发票、账单」，factura energética 是新闻报道中描述国家或个人能源支出的固定表达；动词 pasar factura 还有重要引申义：「（某事）产生代价/后果」，如 el estrés le pasó factura（压力让他付出了代价）。"
+        },
+        {
+          "word": "disparó",
+          "translation": "使急剧上升；引爆；触发",
+          "note": "disparar 本义为「开枪、射击」，在经济和新闻文体中引申为「使（价格、数量）急剧飙升」，如 disparar la inflación（引爆通货膨胀）、disparar el consumo（使消费激增）；这一隐喻用法在西语财经新闻中极为高频。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "En supermercados y grandes almacenes <strong>proliferan</strong> prendas con ventiladores incorporados, paraguas capaces de bloquear parte del calor radiante, ventiladores portátiles, toallas refrigerantes y todo tipo de dispositivos diseñados para sobrevivir a un verano que está siendo excepcional. Pero quizá ninguna consecuencia resulte tan japonesa como la <strong>polémica</strong> surgida en torno a la vestimenta de oficina.",
+      "zh": "超市和百货商店里，带内置风扇的服装、能阻挡部分辐射热的遮阳伞、便携式风扇、冷感毛巾以及各种为应对这个非同寻常的夏天而设计的产品大量涌现。但也许没有哪个后果比围绕办公室着装引发的争议更具日本特色了。",
+      "vocab": [
+        {
+          "word": "proliferan",
+          "translation": "大量涌现；激增；扩散",
+          "note": "proliferar 来自拉丁语，意为「迅速繁殖或大量出现」，在新闻文体中用于描述某类现象或事物的快速增多，比 aumentar 更强调「蔓延扩散」的态势；名词 proliferación 在军控新闻中常见于 proliferación nuclear（核扩散）。"
+        },
+        {
+          "word": "polémica",
+          "translation": "争议；论战；公开辩论",
+          "note": "polémica 作名词指「引发广泛争议的事件或话题」，作形容词（polémico/a）意为「有争议的」；常见搭配有 generar/suscitar polémica（引发争议）、una medida polémica（一项有争议的措施），是新闻文体的核心词。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "En abril, la gobernadora de Tokio, Yuriko Koike, decidió <strong>ampliar</strong> la histórica campaña Cool Biz, creada hace dos décadas para reducir el consumo eléctrico permitiendo a los empleados <strong>prescindir de</strong> la chaqueta y la corbata. La nueva versión da un paso más: anima a los hombres a acudir al trabajo con pantalones cortos, zapatillas deportivas y ropa mucho más ligera.",
+      "zh": "今年四月，东京都知事小池百合子决定扩大历史性的「Cool Biz」活动的范围——该活动创立于二十年前，旨在通过允许员工不穿西装外套和领带来降低电力消耗。新版本更进一步：鼓励男性穿着短裤、运动鞋和更轻便的服装上班。",
+      "vocab": [
+        {
+          "word": "ampliar",
+          "translation": "扩大；延伸；拓展",
+          "note": "ampliar 来自 amplio（宽广的），意为「扩大范围或规模」；常见搭配有 ampliar el plazo（延长期限）、ampliar la oferta（扩大供给）、ampliar conocimientos（拓展知识）；注意与 aumentar（数量增加）区分，ampliar 更强调范围或边界的扩展。"
+        },
+        {
+          "word": "prescindir de",
+          "translation": "放弃；省去；不使用",
+          "note": "prescindir de 是B2以上的重要固定搭配，意为「主动放弃或省去某物」，语气比 dejar de usar 更正式；常见于 prescindir de intermediarios（省去中间商）、prescindir de personal（裁员）等商业和新闻语境。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "La medida pretendía facilitar la adaptación al calor sin <strong>disparar</strong> el uso del aire acondicionado. Sin embargo, terminó abriendo un inesperado debate sobre igualdad, estética y <strong>normas sociales</strong>.",
+      "zh": "这一措施旨在帮助人们适应高温，同时避免空调使用量激增。然而，它最终引发了一场关于平等、审美与社会规范的意外讨论。",
+      "vocab": [
+        {
+          "word": "disparar",
+          "translation": "使激增；引爆（此处为避免激增）",
+          "note": "与第8段同词，此处以否定形式出现（sin disparar），再次体现该词在经济/社会议题报道中「使某指标急剧上升」的固定隐喻用法，前后两处对照有助于加深记忆。"
+        },
+        {
+          "word": "normas sociales",
+          "translation": "社会规范；社会准则",
+          "note": "norma 在社会学中指约定俗成的「规范、准则」，复数 normas 常与 sociales、culturales、laborales 搭配；动词 normalizar 意为「使正常化/规范化」，名词 normalización 在社会议题报道中高频出现。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Muchas mujeres respondieron que, mientras los hombres podían presentarse ahora en la oficina con pantalones cortos sin demasiados <strong>complejos</strong>, ellas seguían sintiendo la presión de mantener unos <strong>códigos estéticos</strong> mucho más estrictos: llevar medias, depilarse y cuidar al detalle el aspecto de sus piernas para ajustarse a las expectativas sociales.",
+      "zh": "许多女性回应称，男性现在可以穿着短裤出现在办公室而不会有太多心理负担，而她们却仍然感受到维持更严格审美标准的压力：穿丝袜、脱毛，并精心打理腿部外观，以符合社会期待。",
+      "vocab": [
+        {
+          "word": "complejos",
+          "translation": "心理负担；自卑感；情结",
+          "note": "complejo 作名词在心理学中指「情结」（complejo de inferioridad，自卑情结），在日常口语中泛指「心理负担、顾虑」；sin complejos 是常用固定表达，意为「毫无顾虑地、坦然地」，是理解社会类报道的重要词汇。"
+        },
+        {
+          "word": "códigos estéticos",
+          "translation": "审美规范；外貌准则",
+          "note": "código 在此指约定俗成的「规范体系」，常见搭配有 código de conducta（行为准则）、código de vestimenta（着装规范）、código penal（刑法典）；注意 código 兼具「法典」和「规范体系」两种含义，需根据语境判断。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "El debate, como suele ocurrir en Japón, <strong>derivó</strong> rápidamente hacia la creación de un nuevo término. En las redes sociales comenzó a popularizarse sunehara, que han traducido libremente como \"acoso por el vello de las piernas\", para describir, con una mezcla de humor y crítica, la incomodidad que algunas mujeres dicen sentir al ver las piernas <strong>velludas</strong> de sus compañeros de trabajo.",
+      "zh": "这场争论与日本惯常的情形一样，迅速演变为创造一个新词的契机。社交网络上开始流行「sunehara」一词，被自由翻译为「腿毛骚扰」，用一种幽默与批评交织的方式，描述一些女性看到男同事多毛的腿时所感受到的不适。",
+      "vocab": [
+        {
+          "word": "derivó",
+          "translation": "演变为；转向；衍生出",
+          "note": "derivar（hacia/en）意为「逐渐转向或演变为某种结果」，在新闻文体中常用于描述讨论或局势的走向；注意与 desviar（偏离、转移）区分，derivar 更强调自然演变的过程，而非人为干预。"
+        },
+        {
+          "word": "velludas",
+          "translation": "多毛的；毛茸茸的",
+          "note": "velludo/a 来自 vello（体毛、细毛），是描述体毛旺盛的形容词；注意与 peludo/a（毛发浓密的，多用于动物或头发）区分：vello 专指体毛，pelo 指头发或动物毛发，两者不可混用。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "La polémica, que la semana pasada dio el salto a medios internacionales, ha terminado incluso en las consultas de las clínicas de depilación láser. Varios especialistas aseguran que cada vez reciben más hombres interesados en eliminar el vello de las piernas, no por razones deportivas o estéticas, sino por una nueva cuestión de <strong>etiqueta laboral</strong>. Algunos reconocen que, si van a vestir pantalón corto en la oficina, prefieren hacerlo con las piernas depiladas para evitar miradas o comentarios.",
+      "zh": "这场争议上周已登上国际媒体，甚至蔓延至激光脱毛诊所的诊室。多位专家表示，越来越多的男性前来咨询腿部脱毛，原因不是运动或审美需求，而是出于一种新的「职场礼仪」考量。一些人坦言，如果要在办公室穿短裤，他们宁愿在腿部脱毛后再穿，以免引来异样的目光或评论。",
+      "vocab": [
+        {
+          "word": "etiqueta laboral",
+          "translation": "职场礼仪；职业行为规范",
+          "note": "etiqueta 在社交语境中指「礼仪、礼节规范」，与 protocolo（正式场合的礼宾程序）有所区分：etiqueta 更侧重日常行为准则，protocolo 更侧重正式仪式；注意不要与 etiqueta（标签、标贴）混淆，两者同形但语境不同。"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "es": "Esta campaña concebida para combatir la ola de calor extremo y reducir el consumo de aire acondicionado ha acabado <strong>alimentando</strong> otra preocupación muy japonesa: la presión por no incomodar a los demás ni salirse de los <strong>rígidos códigos de apariencia</strong> que siguen marcando buena parte de la vida cotidiana del archipiélago asiático.",
+      "zh": "这场本为应对极端高温、减少空调消耗而发起的活动，最终却助长了另一种极具日本特色的焦虑：不给他人添麻烦、不偏离那些仍然主导着这个亚洲群岛国家日常生活的严格外貌规范的压力。",
+      "vocab": [
+        {
+          "word": "alimentando",
+          "translation": "助长；滋养；加剧",
+          "note": "alimentar 本义为「喂养、提供食物」，在抽象语境中引申为「助长、滋生」某种情绪、现象或问题，如 alimentar el miedo（助长恐惧）、alimentar la desigualdad（加剧不平等）；这类从具体到抽象的隐喻迁移在西语新闻写作中极为常见。"
+        },
+        {
+          "word": "rígidos códigos de apariencia",
+          "translation": "严格的外貌规范；僵化的形象准则",
+          "note": "rígido/a 意为「僵硬的、严格的、不灵活的」，在社会批评类文章中常用于描述难以撼动的规范或制度；名词 rigidez 指「僵化性」，动词 flexibilizar 则表示「使之灵活化」，两者常在改革类报道中对举出现。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "dar el salto",
+      "type": "modismo",
+      "translation": "跃升；进入更大舞台；引发更广泛关注",
+      "usage": "字面意思是「跳跃」，引申为「从较小范围跃升至更大平台或受众」，常用于描述话题、人物或品牌从地方走向全国乃至国际；新闻文体中高频出现，后常接 a + 目标范围。",
+      "exampleEs": "La historia de esta startup dio el salto a los medios internacionales tras ganar el premio europeo de innovación.",
+      "exampleZh": "这家初创公司的故事在赢得欧洲创新奖后，登上了国际媒体的版面。"
+    },
+    {
+      "expression": "pasar factura",
+      "type": "modismo",
+      "translation": "产生代价；让人付出代价",
+      "usage": "字面意思是「开发票」，引申为「某事终究带来了负面后果或代价」，语气含有「积累已久的后果终于显现」的意味；主语通常是某种行为或状况，宾语是承受后果的人或事物。",
+      "exampleEs": "Años de mala gestión le pasaron factura a la empresa cuando llegó la crisis.",
+      "exampleZh": "多年的管理失当，在危机到来时让这家公司付出了沉重代价。"
+    },
+    {
+      "expression": "sin complejos",
+      "type": "expresión coloquial",
+      "translation": "毫无顾虑地；坦然地；不带心理负担地",
+      "usage": "口语和新闻中均常见，用于描述某人做某事时不受社会眼光或自我顾虑的束缚；语气偏正面，暗含一种自信或洒脱的态度，常作状语修饰动词。",
+      "exampleEs": "En esa ciudad la gente habla de sus fracasos sin complejos, como parte natural del aprendizaje.",
+      "exampleZh": "在那座城市，人们坦然谈论自己的失败，把它视为学习过程中自然的一部分。"
+    },
+    {
+      "expression": "encadenar récords",
+      "type": "colocación",
+      "translation": "连续打破纪录；接连创下纪录",
+      "usage": "encadenar 本义为「用链条串联」，与 récords、victorias、derrotas 等名词搭配时表示「连续不断地」积累某种结果；体育和气象新闻中的高频搭配，强调连续性和累积效应。",
+      "exampleEs": "La selección encadenó cinco victorias consecutivas y se clasificó para la final.",
+      "exampleZh": "国家队连续赢得五场胜利，成功晋级决赛。"
+    },
+    {
+      "expression": "suscitar polémica",
+      "type": "colocación",
+      "translation": "引发争议；激起论战",
+      "usage": "suscitar 意为「激起、引发」，与 polémica、debate、interés、dudas 等名词构成固定搭配，是新闻报道中描述某措施或言论引发公众反应的核心表达；比 causar polémica 更正式，多见于书面语。",
+      "exampleEs": "La nueva ley de vivienda suscitó una polémica inmediata entre propietarios e inquilinos.",
+      "exampleZh": "新出台的住房法立即在房东和租客之间引发了激烈争议。"
+    }
+  ]
+}

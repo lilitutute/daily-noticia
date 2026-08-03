@@ -1,0 +1,358 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "心理健康",
+  "difficulty": "B2",
+  "wordCount": "约900词",
+  "title": "La venganza de acostarnos tarde: por qué robamos a propósito horas al sueño",
+  "subtitle": "晚睡的「报复」：为什么我们故意偷走自己的睡眠时间",
+  "resumenEs": "Muchas personas retrasan voluntariamente la hora de dormir no por insomnio, sino como respuesta a un día que no les ha dejado tiempo propio. Este fenómeno, conocido como procrastinación del sueño, funciona como una estrategia de regulación emocional y búsqueda de autonomía, aunque acaba generando un círculo vicioso de agotamiento y mayor necesidad de evasión nocturna.",
+  "resumenZh": "许多人主动推迟入睡时间，并非因为失眠，而是因为白天没有属于自己的时间。这种现象被称为「睡眠拖延」，本质上是一种情绪调节策略和对自主感的追求，但最终往往形成疲惫与夜间逃避需求相互强化的恶性循环。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Son las once y media de la noche. Sabemos que deberíamos irnos a dormir. Mañana sonará el despertador y nos tendremos que enfrentar a trabajo, clases, cuidados, correos, reuniones o <strong>tareas pendientes</strong>.",
+      "zh": "现在是晚上十一点半。我们知道该去睡觉了。明天闹钟会响，我们又得面对工作、课业、照料家人、邮件、会议或各种待办事项。",
+      "vocab": [
+        {
+          "word": "tareas pendientes",
+          "translation": "待办事项；未完成的任务",
+          "note": "pendiente 作形容词意为「悬而未决的、待处理的」，常见搭配有 asunto pendiente（未了结的事）、deuda pendiente（未偿债务）、tema pendiente（待议议题），在新闻和商务文体中高频出现。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Pero nos asalta una frase íntima, casi <strong>justificadora</strong>: \"me merezco un rato para mí\". Ponemos una serie. Miramos el móvil. Encadenamos vídeos. Revisamos redes sociales. Leemos noticias que no necesitábamos leer. Contestamos mensajes. O, simplemente, seguimos despiertos, como si alargar la noche permitiera recuperar algo que el día nos ha quitado.",
+      "zh": "但一句私密的、近乎自我开脱的话涌上心头：「我值得拥有一点属于自己的时间。」于是我们打开一部剧，刷手机，一个接一个地看视频，浏览社交网络，读着其实不需要读的新闻，回复消息。或者，就这样保持清醒，仿佛把夜晚拉长，就能找回白天失去的某些东西。",
+      "vocab": [
+        {
+          "word": "justificadora",
+          "translation": "为自己辩解的；自我开脱性质的",
+          "note": "justificador/a 由 justificar（辩解、证明正当）加后缀 -dor/a 构成，表示「起到辩解作用的」；同类构词如 regulador、compensador、motivador，掌握 -dor 后缀可系统扩充词汇。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "No es exactamente insomnio, porque no siempre existe una imposibilidad real de dormir. A veces hay cansancio, incluso mucho cansancio, pero también una <strong>resistencia</strong> extraña a cerrar la jornada. Es lo que popularmente se conoce como \"venganza de acostarse tarde\". En psicología, el concepto más <strong>asentado</strong> es el de procrastinación del sueño: retrasar la hora de irse a la cama sin que exista una causa externa que lo impida.",
+      "zh": "这不完全是失眠，因为并不总是存在真正无法入睡的情况。有时候人是疲倦的，甚至非常疲倦，但同时又有一种奇怪的抗拒，不愿结束这一天。这就是俗称的「晚睡报复」。在心理学中，更为确立的概念是「睡眠拖延」：在没有任何外部原因阻碍的情况下，主动推迟上床睡觉的时间。",
+      "vocab": [
+        {
+          "word": "resistencia",
+          "translation": "抗拒；阻力；抵抗",
+          "note": "resistencia 在心理学语境中指内心的「抵触感」，在物理/政治语境中分别指「阻力」和「抵抗运动」；动词 resistirse a + 动词原形表示「抗拒做某事」，是B2必掌握的多义高频词。"
+        },
+        {
+          "word": "asentado",
+          "translation": "（概念/观点）成熟的，确立的，公认的",
+          "note": "asentar 有「使稳固、使确立」之义，asentado 描述某一理论或概念已被广泛接受；注意与 sentado（坐着的）区分，前缀 a- 赋予其「使进入某状态」的含义。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "La explicación fácil sería pensar que nos falta disciplina. Sin embargo, esta <strong>conducta</strong> suele tener una lógica psicológica más compleja. Muchas personas no retrasan el sueño porque ignoren su importancia, sino porque sienten que el día no les ha pertenecido.",
+      "zh": "简单的解释是认为我们缺乏自律。然而，这种行为背后往往有更复杂的心理逻辑。许多人推迟睡眠，并不是因为不了解睡眠的重要性，而是因为他们感到这一天根本不属于自己。",
+      "vocab": [
+        {
+          "word": "conducta",
+          "translation": "行为；举止；行为模式",
+          "note": "conducta 在心理学和社会学文体中专指可观察的「行为模式」，比 comportamiento 更正式，常见搭配有 conducta de riesgo（危险行为）、modificación de conducta（行为矫正），是学术写作的核心词。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Durante la jornada, el tiempo está lleno de obligaciones: producir, cuidar, responder, desplazarse, organizar, cumplir. La noche aparece entonces como un pequeño territorio de <strong>soberanía</strong> personal: nadie pide nada, nadie interrumpe, nadie evalúa. Por fin, aunque sea tarde, podemos elegir.",
+      "zh": "白天的时间被各种义务填满：生产、照料、回应、通勤、组织、完成任务。于是夜晚便成了一小片个人自主的领地：没有人提要求，没有人打扰，没有人评判。终于，哪怕已经很晚，我们可以自己做选择了。",
+      "vocab": [
+        {
+          "word": "soberanía",
+          "translation": "主权；自主权",
+          "note": "soberanía 源自 soberano（君主、至高无上的），政治语境中指国家主权，此处引申为个人对自己时间和空间的完全掌控感；同族词有 soberano（形/名）、soberanamente（副），是理解政治新闻的关键词。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Ahí aparece la palabra \"venganza\". No es una venganza contra el sueño, sino contra un día que no ha dejado espacio para uno mismo. El problema es que esa recuperación de libertad tiene un coste: se paga con tiempo de descanso. Desde esta perspectiva, acostarse tarde no es solo un mal hábito. Puede ser una forma <strong>torpe</strong> de defender una necesidad <strong>legítima</strong>: autonomía, placer, silencio, intimidad, desconexión. La literatura científica sobre motivación ha mostrado que la satisfacción o frustración de necesidades psicológicas básicas, como la autonomía o la competencia, se relaciona con indicadores de bienestar y salud. Así lo plantean distintos trabajos inspirados en la teoría de la autodeterminación.",
+      "zh": "「报复」这个词由此而来。这不是对睡眠的报复，而是对一个没有给自己留出空间的白天的报复。问题在于，这种对自由的找回是有代价的：用休息时间来偿还。从这个角度看，晚睡不只是一个坏习惯，它可能是一种笨拙的方式，用来捍卫一种合理的需求：自主、愉悦、安静、私人空间、断开连接。动机领域的科学文献表明，基本心理需求（如自主感和胜任感）的满足或受挫，与幸福感和健康指标密切相关。这一观点在多项以自我决定理论为基础的研究中均有阐述。",
+      "vocab": [
+        {
+          "word": "torpe",
+          "translation": "笨拙的；不得当的；适得其反的",
+          "note": "torpe 既指肢体上的笨拙，也可如本文指方式或策略的不明智，是一词多义的典型；其名词形式 torpeza 和副词 torpemente 在文学和新闻中均常见，注意不要只理解为肢体层面。"
+        },
+        {
+          "word": "legítima",
+          "translation": "合理的；正当的；合法的",
+          "note": "legítimo/a 在法律语境中指「合法的」，在日常和学术语境中引申为「正当的、有充分理由的」；常见搭配有 defensa legítima（正当防卫）、interés legítimo（正当利益），是新闻和论述文的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "La procrastinación suele <strong>interpretarse</strong> como pereza, pero muchas veces funciona como una estrategia de regulación emocional. No aplazamos solo porque no sepamos organizarnos, sino porque queremos evitar una emoción incómoda ahora mismo. Los investigadores Fuschia Sirois y Timothy Pychyl lo formularon con claridad al explicar la procrastinación como una forma de <strong>reparación del estado de ánimo</strong> a corto plazo.",
+      "zh": "拖延通常被解读为懒惰，但很多时候它实际上是一种情绪调节策略。我们拖延，不只是因为不会安排时间，而是因为我们想要在此刻回避某种不舒服的情绪。研究人员 Fuschia Sirois 和 Timothy Pychyl 对此有清晰的表述：他们将拖延解释为一种短期的情绪修复方式。",
+      "vocab": [
+        {
+          "word": "interpretarse",
+          "translation": "被解读为；被理解为",
+          "note": "interpretar 的被动反身式，在学术和新闻文体中极为常见，用于描述某现象被如何理解或定性；注意与 traducirse（被翻译为）区分，两者均可用 se 结构表被动，但语义不同。"
+        },
+        {
+          "word": "reparación del estado de ánimo",
+          "translation": "情绪修复；心境修复",
+          "note": "estado de ánimo 是描述持续性情绪基调的固定搭配，不可拆分；reparación 来自 reparar（修复），整体作为心理学术语指通过某种行为暂时改善情绪，与 regulación emocional 形成概念上的呼应。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "En la procrastinación del sueño ocurre algo parecido. Irse a la cama implica aceptar que el día termina, pero también que el día siguiente está cerca. Para algunas personas, dormir no se vive como descanso, sino como <strong>rendición</strong>: cerrar los ojos significa abandonar el único momento propio y <strong>entregarse</strong> de nuevo a la rueda de obligaciones.",
+      "zh": "睡眠拖延中也发生着类似的事情。上床睡觉意味着接受这一天的结束，同时也意味着第二天即将到来。对某些人来说，睡觉不是休息，而是一种投降：闭上眼睛意味着放弃唯一属于自己的时刻，重新把自己交还给那个义务的轮转。",
+      "vocab": [
+        {
+          "word": "rendición",
+          "translation": "投降；屈服；放弃抵抗",
+          "note": "rendición 来自 rendirse（投降、屈服），此处用作隐喻形容睡觉如同放弃抵抗；注意与同族词 rendimiento（表现、绩效）的区分——两词词根相同，但 rendición 含「放弃」义，rendimiento 含「产出」义。"
+        },
+        {
+          "word": "entregarse",
+          "translation": "把自己交付给；投身于；屈从于",
+          "note": "entregarse a 是重要固定搭配，可表示积极的「投身于某事」（entregarse al trabajo）或消极的「屈从于某种状态」，本文取后者含义；与 rendirse 在此语境中构成语义上的呼应。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Por eso el móvil, la serie o el libro no son solo entretenimiento: funcionan como <strong>anestesia</strong>, recompensa, <strong>compensación</strong>. Durante un rato, la persona no está cumpliendo expectativas ajenas. Está escapando, descansando a su manera, aplazando mentalmente el mañana. El problema es que el alivio inmediato puede producir malestar diferido. Hoy gano una hora de libertad; mañana pierdo energía, atención, paciencia y capacidad de autocontrol.",
+      "zh": "正因如此，手机、剧集或书本不只是娱乐，它们充当着麻醉剂、奖励和补偿。在这段时间里，人不需要满足他人的期待，而是在逃离，以自己的方式休息，在心理上推迟明天的到来。问题在于，眼前的解脱可能带来延迟的不适。今天赢得一小时自由，明天就失去精力、注意力、耐心和自控能力。",
+      "vocab": [
+        {
+          "word": "anestesia",
+          "translation": "麻醉；（引申）使人麻木的事物",
+          "note": "本义为医学「麻醉」，此处用作隐喻，指娱乐让人暂时感受不到压力和焦虑；动词形式为 anestesiar，形容词为 anestesiado（被麻醉的、麻木的），在社会批评类文章中常见此类隐喻用法。"
+        },
+        {
+          "word": "compensación",
+          "translation": "补偿；弥补",
+          "note": "compensación 与动词 compensar 构成核心搭配，在心理学中指用某种行为弥补另一方面的缺失；注意 compensar 还可表示「值得、划算」（¿Compensa el esfuerzo?），是一词多义的常见词。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Sería injusto decir que la culpa es solo de las pantallas, ya que antes del smartphone se retrasaba la hora de dormir con la televisión, la lectura, las llamadas o simplemente dando vueltas a la cabeza. Sin embargo, el móvil ha cambiado la <strong>escala</strong> del fenómeno.",
+      "zh": "说这一切都是屏幕的错，未免有失公允——在智能手机出现之前，人们也会因为看电视、读书、打电话，或者脑子里转个不停而推迟睡觉。然而，手机确实改变了这一现象的规模。",
+      "vocab": [
+        {
+          "word": "escala",
+          "translation": "规模；尺度；量级",
+          "note": "escala 是典型的多义词：音乐中指「音阶」，地图中指「比例尺」，在新闻和学术文体中常表示「规模、量级」；固定搭配 a gran escala（大规模地）、a escala global（全球范围内）是B2必掌握的表达。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "El teléfono ofrece tres <strong>ingredientes</strong> muy potentes: recompensa inmediata, variedad infinita y ausencia de punto final. Una serie termina, aunque la plataforma nos sugiera otra, y un libro tiene capítulos. Pero el scroll no acaba nunca. Siempre hay otro vídeo, otra noticia, otro mensaje, otra comparación, otro <strong>estímulo</strong>.",
+      "zh": "手机提供了三种极具威力的要素：即时奖励、无限多样性，以及没有终点。一部剧会结束，哪怕平台会推荐下一部；一本书有章节。但刷屏永远不会结束。总有下一个视频、下一条新闻、下一条消息、下一次比较、下一个刺激。",
+      "vocab": [
+        {
+          "word": "ingredientes",
+          "translation": "（构成要素）成分；要素",
+          "note": "ingrediente 本指烹饪中的「食材」，在论述文中引申为构成某种现象或结果的「关键要素」，是新闻和人文写作中常见的隐喻用法，体现西语中日常词汇向抽象语境迁移的规律。"
+        },
+        {
+          "word": "estímulo",
+          "translation": "刺激；激励；诱因",
+          "note": "estímulo 在心理学中指引发反应的「刺激物」，在经济学中指「激励措施」（estímulo fiscal），在日常语境中也可指「动力、诱因」；动词形式为 estimular，是跨领域的高频学术词。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Diversos trabajos han <strong>relacionado</strong> el uso del teléfono antes de dormir con peores indicadores de sueño. En adultos, se ha asociado con peor calidad del descanso, más síntomas de insomnio y más fatiga. Y en adolescentes, investigaciones recientes también han encontrado asociaciones entre uso <strong>problemático</strong> del teléfono, procrastinación del sueño y peor calidad del descanso.",
+      "zh": "多项研究将睡前使用手机与更差的睡眠指标联系起来。在成年人中，这一行为与更差的睡眠质量、更多的失眠症状以及更强的疲劳感相关。在青少年中，近期研究也发现了手机问题性使用、睡眠拖延与睡眠质量下降之间的关联。",
+      "vocab": [
+        {
+          "word": "relacionado",
+          "translation": "（与……）相关联的；有关联的",
+          "note": "relacionar A con B 是学术写作中表达「相关性」的核心句式，与 asociar A con B 近义但可互换；注意区分「相关」（relacionado con）和「导致」（conducir a），前者不含因果关系。"
+        },
+        {
+          "word": "problemático",
+          "translation": "成问题的；有害的；问题性的",
+          "note": "problemático/a 在心理学和社会学文体中常修饰行为模式，如 uso problemático（问题性使用）、conducta problemática（问题行为），语气比 malo 更学术，暗含「需要干预」的含义。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "Hay otro <strong>matiz</strong> importante: a veces ya no procrastinamos solo antes de acostarnos, sino dentro de la propia cama. Nos metemos bajo las sábanas, apagamos la luz física y encendemos otra jornada digital. La cama deja de ser un espacio asociado al sueño y se convierte en una extensión del salón, la oficina o la vida social.",
+      "zh": "还有一个重要的细节：有时候我们的拖延不只发生在上床之前，而是在床上本身。我们钻进被窝，关掉实体的灯，却开启了另一段数字生活。床不再是与睡眠相关联的空间，而变成了客厅、办公室或社交生活的延伸。",
+      "vocab": [
+        {
+          "word": "matiz",
+          "translation": "细微差别；微妙之处；补充说明",
+          "note": "matiz 本义为色彩的「色调」，引申为观点或情况中的「微妙差别」；动词 matizar 意为「对某观点加以补充说明或细化」，在辩论和学术写作中极为常用，如 hay que matizar esta afirmación（需要对这一说法加以细化）。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "La trampa de la venganza nocturna es que parece <strong>autocuidado</strong>, pero puede convertirse en <strong>autosabotaje</strong>. Si una persona termina agotada, se queda despierta para recuperar algo de vida personal y duerme poco, al día siguiente estará más cansada. Ese cansancio reducirá su capacidad para gestionar emociones, tomar decisiones, organizarse y tolerar frustraciones. Como consecuencia, llegará de nuevo a la noche con más necesidad de <strong>evasión</strong>.",
+      "zh": "夜间「报复」的陷阱在于：它看起来像是自我关爱，实则可能变成自我破坏。如果一个人精疲力竭地结束一天，为了找回一点个人生活而熬夜，睡眠不足，那么第二天他会更加疲惫。这种疲惫会削弱他管理情绪、做出决策、自我组织以及承受挫折的能力。结果，他再次带着更强烈的逃避需求迎来夜晚。",
+      "vocab": [
+        {
+          "word": "autocuidado",
+          "translation": "自我关爱；自我照护",
+          "note": "前缀 auto- 表示「自我、自动」，可构成大量现代心理学词汇：autoestima（自尊）、autocontrol（自控）、autosabotaje（自我破坏）、autogestión（自我管理）、autorregulación（自我调节），掌握此前缀可举一反三。"
+        },
+        {
+          "word": "autosabotaje",
+          "translation": "自我破坏；自我阻碍",
+          "note": "sabotaje 来自法语，意为「蓄意破坏」，加前缀 auto- 后指无意识地破坏自身利益；动词形式为 sabotearse，在心理健康类文章中高频出现，与 autocuidado 在本段形成鲜明对比。"
+        },
+        {
+          "word": "evasión",
+          "translation": "逃避；回避；（心理上的）出逃",
+          "note": "evasión 来自 evadir（逃避、回避），在心理学语境中指通过娱乐或分心来回避现实压力；注意在法律/经济语境中 evasión fiscal 意为「逃税」，是同一词的不同语域用法。"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "es": "Se forma así un <strong>círculo vicioso</strong> difícil de romper: día saturado, necesidad de compensación, retraso del sueño, peor descanso, más agotamiento, más necesidad de compensación. Además, la falta de sueño no afecta solo al cansancio físico. Revisiones sobre descanso nocturno y emoción muestran que dormir poco puede aumentar el estado de ánimo negativo y reducir el positivo.",
+      "zh": "就这样形成了一个难以打破的恶性循环：白天过度饱和，产生补偿需求，推迟睡眠，休息质量变差，更加疲惫，补偿需求更强。此外，睡眠不足不只影响身体疲劳。关于夜间休息与情绪的综述研究表明，睡眠不足可能加重负面情绪，并削弱正面情绪。",
+      "vocab": [
+        {
+          "word": "círculo vicioso",
+          "translation": "恶性循环",
+          "note": "círculo vicioso 是固定搭配，其反义表达为 círculo virtuoso（良性循环）；vicioso/a 本义为「有恶习的、堕落的」，在此搭配中已固化为「恶性的」含义，不可单独拆解理解。"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "es": "Por eso no basta con decir \"acuéstate antes\". Para muchas personas, esa recomendación suena casi insultante. Claro que saben que deberían dormir más: la cuestión es por qué sienten que no pueden <strong>permitirse</strong> terminar el día.",
+      "zh": "因此，仅仅说「早点睡」是不够的。对很多人来说，这个建议听起来几乎是一种冒犯。他们当然知道应该多睡：问题在于，为什么他们觉得自己无法「承担」结束这一天。",
+      "vocab": [
+        {
+          "word": "permitirse",
+          "translation": "允许自己（做某事）；有余裕去做",
+          "note": "permitirse + 动词原形是重要结构，意为「有条件/余裕去做某事」，兼具经济层面（no puedo permitirme ese lujo，我负担不起那种奢侈）和心理层面（no me permito descansar，我不允许自己休息）的双重含义。"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "es": "Salir de este <strong>patrón</strong> no consiste únicamente en fuerza de voluntad, ni en convertir el sueño en otra obligación más que cumplir perfectamente. La clave está en preguntarse qué necesidad estamos intentando satisfacer de madrugada.",
+      "zh": "走出这一模式，不只是靠意志力，也不是把睡眠变成另一项需要完美完成的义务。关键在于问自己：我们在深夜试图满足的究竟是什么需求。",
+      "vocab": [
+        {
+          "word": "patrón",
+          "translation": "模式；规律；行为模式",
+          "note": "patrón 是多义词：可指「老板/雇主」、「船长」、「缝纫纸样」，在心理学和社会科学文体中专指可重复的「行为模式或规律」；常见搭配有 patrón de conducta、patrón de sueño、romper un patrón。"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "es": "Si la respuesta es \"necesito silencio\", habrá que buscar pequeñas islas de calma antes. Si la contestación es \"necesito ocio\", quizá el día está organizado de manera que no deja espacio para el placer. Y si nos respondemos \"necesito sentir que decido algo\", el problema no es solo nocturno: nos enfrentamos a una falta de autonomía <strong>acumulada</strong>. Algunas medidas ayudan: poner una hora de cierre digital, sacar el móvil de la cama, elegir actividades nocturnas con final claro, reducir tareas pendientes antes de dormir o crear un <strong>ritual</strong> de transición.",
+      "zh": "如果答案是「我需要安静」，那就需要在此之前寻找一些平静的小片段。如果答案是「我需要休闲」，也许是白天的安排根本没有给愉悦留出空间。如果答案是「我需要感觉自己能做主」，那问题就不只是夜间的问题了：我们面对的是长期积累的自主感缺失。一些措施是有帮助的：设定一个数字关机时间，把手机移出卧室，选择有明确结束点的夜间活动，在睡前减少待办事项，或者建立一个过渡仪式。",
+      "vocab": [
+        {
+          "word": "acumulada",
+          "translation": "积累的；长期积压的",
+          "note": "acumular 意为「积累、堆积」，在心理和社会学语境中常描述长期未被处理的压力或情绪，如 estrés acumulado（积压的压力）、deuda acumulada（累积债务）；前缀 a- 含「向……聚拢」之义。"
+        },
+        {
+          "word": "ritual",
+          "translation": "仪式；固定程序；过渡性惯例",
+          "note": "ritual 在心理学和生活方式类文章中已超越宗教含义，泛指任何有助于心理状态切换的固定行为序列，如 ritual de sueño（睡前仪式）、ritual matutino（晨间惯例），是当代健康类文本的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "es": "Las investigaciones sobre procrastinación del sueño la han relacionado con procesos de <strong>autorregulación</strong> y descanso nocturno insuficiente, pero esa autorregulación no ocurre en el <strong>vacío</strong>: falla más cuando estamos saturados, cansados o emocionalmente sobrecargados.",
+      "zh": "关于睡眠拖延的研究将其与自我调节过程和夜间休息不足联系起来，但这种自我调节并非在真空中发生：当我们处于过度饱和、疲惫或情绪超负荷的状态时，它更容易失效。",
+      "vocab": [
+        {
+          "word": "autorregulación",
+          "translation": "自我调节",
+          "note": "auto-（自我）+ regulación 的复合词，心理学和教育学核心术语；同族词系列：autorregularse（动）、autorregulado（形），与之并列的概念还有 heterorregulación（他人调节），前缀 hetero- 表示「他者」。"
+        },
+        {
+          "word": "vacío",
+          "translation": "真空；空白；虚空",
+          "note": "en el vacío 作为固定表达意为「脱离具体情境、孤立地」，强调某现象无法脱离背景而单独存在；vacío 作名词还常见于 dejar un vacío（留下空缺）、sentir un vacío（感到空虚）等搭配。"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "es": "Quizá la <strong>intervención</strong> más importante sea anterior: dejar de colocar todo el descanso, todo el placer y toda la vida personal al final del día.",
+      "zh": "也许最重要的干预发生在更早之前：停止把所有的休息、所有的愉悦和所有的个人生活都堆放到一天的末尾。",
+      "vocab": [
+        {
+          "word": "intervención",
+          "translation": "干预；介入；干涉",
+          "note": "intervención 在心理学和医学中指「干预措施」，在政治语境中指「（外部）干涉」，在外科语境中指「手术」；动词 intervenir 同样多义，是理解新闻和学术文本的关键词，注意根据语境判断具体含义。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "dar vueltas a la cabeza",
+      "type": "modismo",
+      "translation": "脑子里转个不停；反复思虑",
+      "usage": "描述一个人无法停止思考某件事，通常带有焦虑或无法入睡的含义。动词结构为 darle vueltas a algo，主语是人；也可说 no parar de darle vueltas，强调持续性。",
+      "exampleEs": "Después de la discusión, me quedé horas dándole vueltas a la cabeza sin poder dormir.",
+      "exampleZh": "争吵过后，我脑子里转个不停，好几个小时都睡不着。"
+    },
+    {
+      "expression": "a raíz de",
+      "type": "colocación",
+      "translation": "由于；起因于；在……之后",
+      "usage": "正式书面语中表示「以某事为起因/导火索」，比 debido a 更强调事件的触发性，常用于新闻报道描述某政策或现象的直接诱因，后接名词或名词短语。",
+      "exampleEs": "A raíz de la pandemia, muchas personas desarrollaron hábitos de sueño irregulares.",
+      "exampleZh": "疫情过后，许多人养成了不规律的睡眠习惯。"
+    },
+    {
+      "expression": "hacer hincapié en",
+      "type": "colocación",
+      "translation": "强调；着重指出",
+      "usage": "正式书面语和新闻中的高频固定搭配，相当于 enfatizar 或 subrayar，但语气更正式；常出现在学术报告、演讲和新闻评论中，后接名词或 que 从句，不可用其他动词替换 hacer。",
+      "exampleEs": "Los expertos hacen hincapié en que la calidad del sueño afecta directamente a la salud mental.",
+      "exampleZh": "专家们着重强调，睡眠质量直接影响心理健康。"
+    },
+    {
+      "expression": "a corto plazo / a largo plazo",
+      "type": "colocación",
+      "translation": "短期内 / 长期来看",
+      "usage": "经济、心理和新闻文体中的核心固定搭配，两者常对举使用；介词和词序固定，不可替换，常与 beneficio、solución、consecuencia、alivio 等名词搭配，是B2论述文的必备表达。",
+      "exampleEs": "Evitar el conflicto puede ser un alivio a corto plazo, pero agrava el problema a largo plazo.",
+      "exampleZh": "回避冲突短期内或许能带来解脱，但从长远来看只会让问题更严重。"
+    },
+    {
+      "expression": "desempeñar un papel",
+      "type": "colocación",
+      "translation": "扮演（某种）角色；发挥（某种）作用",
+      "usage": "学术和新闻写作中的高频固定搭配，相当于 jugar un papel，但 desempeñar 语气更正式；后接形容词修饰 papel，如 desempeñar un papel clave / fundamental / determinante，不可用 hacer 替换。",
+      "exampleEs": "La familia desempeña un papel fundamental en la formación de hábitos de sueño desde la infancia.",
+      "exampleZh": "家庭在从童年起养成睡眠习惯的过程中发挥着根本性的作用。"
+    },
+    {
+      "expression": "en el vacío",
+      "type": "modismo",
+      "translation": "在真空中；脱离现实背景地",
+      "usage": "字面意思是「在真空中」，引申为「脱离具体情境、孤立地存在」，常用于学术和新闻文体，强调某一现象或过程无法脱离其社会、心理背景而单独发生，语气客观正式。",
+      "exampleEs": "Ninguna decisión política ocurre en el vacío: siempre responde a un contexto social determinado.",
+      "exampleZh": "任何政治决策都不是凭空发生的，它始终是对某种特定社会背景的回应。"
+    }
+  ]
+}
