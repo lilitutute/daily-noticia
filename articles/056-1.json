@@ -1,0 +1,298 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "文化与职场",
+  "difficulty": "B2",
+  "wordCount": "约950词",
+  "title": "Nadie quiere verte en pantalones cortos en la oficina",
+  "subtitle": "没有人想在办公室看到你穿短裤",
+  "resumenEs": "Con tono irónico y humor sofisticado, el autor argumenta que los pantalones cortos no tienen cabida en la oficina, por muy sofocante que sea el verano. A través de referencias culturales —desde Don Draper hasta los capos de la mafia, pasando por la iniciativa japonesa Cool Biz— defiende que la ropa sigue siendo un código de competencia y autoridad, y que ceder a la informalidad extrema equivale a renunciar a la credibilidad profesional.",
+  "resumenZh": "作者以讽刺幽默的笔调论证：无论夏天多么酷热，短裤都不应出现在办公室。他援引从《广告狂人》主角唐·德雷珀到黑手党老大、再到日本『清凉商务』运动等文化参照，主张着装仍是传递专业能力与权威感的重要符码，向极度休闲妥协就等于放弃职业公信力。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "El largo y caluroso verano puede llevar a los hombres a lugares extraños. El clima <strong>sofocante</strong> pone a prueba nuestra capacidad colectiva de razonar, así como los aires acondicionados sobrecargan la red eléctrica. La última <strong>ocurrencia</strong>, que horrorizaría a Oscar Wilde, George Plimpton o a tu abuelo, es que los hombres usen pantalones cortos en la oficina. Sí, las generaciones informales ven con malos ojos los códigos de vestimenta, pero ¿de verdad quieres verle las rodillas a tu jefe?",
+      "zh": "漫长炎热的夏天会把男人逼到奇怪的地方。令人窒息的天气考验着我们集体的理性能力，就像空调机组让电网超负荷运转一样。最新的奇思妙想——会让奥斯卡·王尔德、乔治·普林普顿或你祖父大为震惊——是男人们在办公室穿短裤。是的，随性的一代人对着装规范嗤之以鼻，但你真的想看到你老板的膝盖吗？",
+      "vocab": [
+        {
+          "word": "sofocante",
+          "translation": "令人窒息的，闷热难耐的",
+          "note": "sofocar 意为『使窒息、扑灭』，形容词 sofocante 既可描述物理上的闷热，也可比喻令人压抑的氛围，如 un ambiente sofocante（令人窒息的氛围），比 caluroso（热的）语气更强烈，带有无法喘息的感受。"
+        },
+        {
+          "word": "ocurrencia",
+          "translation": "奇思妙想，突发奇想，馊主意",
+          "note": "ocurrencia 指突然冒出的想法或念头，语气通常带有轻微的讽刺或调侃，暗示这个想法不够成熟或荒唐可笑，与 idea 相比多了一层『异想天开』的意味，是西语评论文体中的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "El verano en la ciudad es intenso. Te despiertas un lunes por la mañana y observas un índice de calor <strong>diabólico</strong> que solo va a empeorar. Puede que te consuman sentimientos de <strong>insubordinación</strong> profesional cuando se requiere tu presencia en la oficina, sobre todo si tu jefe llama desde su casa de campo. Un correo electrónico que le enviaste a una colega europea rebota indicando que está de vacaciones por otras cuatro semanas.",
+      "zh": "城市里的夏天格外难熬。周一早晨醒来，你看到一个恶魔般的热浪指数，而且只会越来越糟。当你被要求到办公室上班，尤其是你的老板却从乡间别墅打来电话时，一种职业上的不服从感可能会将你吞噬。你发给一位欧洲同事的邮件弹回来，提示她还要再休四周假。",
+      "vocab": [
+        {
+          "word": "diabólico",
+          "translation": "恶魔般的，极端的，糟糕透顶的",
+          "note": "diabólico 源自 diablo（魔鬼），本义是『魔鬼的』，引申为程度极端、令人难以承受的，在口语和新闻中常用于夸张表达，如 un tráfico diabólico（糟糕透顶的交通），语气比 terrible 更具戏剧性。"
+        },
+        {
+          "word": "insubordinación",
+          "translation": "不服从，反抗，不听指挥",
+          "note": "前缀 in- 否定 subordinación（服从、隶属），insubordinación 在职场和军事语境中指拒绝服从上级命令的行为，此处用于比喻对职场规范的心理抵触，语气正式，带有一定的讽刺色彩。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Tu traje luce especialmente poco atractivo. Tal vez renunciaste al traje hace años, pero incluso tus <strong>monótonas</strong> opciones de estilo \"casual de negocios\" se sienten <strong>opresivas</strong>. En lugar de un agotador viaje diario al trabajo, quieres libertad, circulación de aire y alivio térmico. Quieres, en otras palabras, usar pantalones cortos en la oficina.",
+      "zh": "你的西装看起来格外不讨人喜欢。也许你多年前就放弃了西装，但即便是那些单调乏味的『商务休闲』穿搭选项，也让你感到压抑。你不想经历那段令人精疲力竭的每日通勤，你想要自由、空气流通和清凉。换句话说，你想在办公室穿短裤。",
+      "vocab": [
+        {
+          "word": "monótonas",
+          "translation": "单调乏味的，一成不变的",
+          "note": "monótono/a 源自希腊语 mono-（单一）+ tonos（音调），本指音调单一，引申为缺乏变化、令人厌倦的，名词形式为 monotonía（单调、乏味），是描述重复性生活或工作的高频词汇。"
+        },
+        {
+          "word": "opresivas",
+          "translation": "压抑的，令人窒息的，沉重的",
+          "note": "opresivo/a 源自 oprimir（压迫），既可描述物理上的压迫感，也可形容心理或社会层面的压制，比 incómodo（不舒服）语气更强，常见于政治批评语境，如 un régimen opresivo（压迫性政权）。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Por supuesto que sí. Los pantalones cortos son ocio, los pantalones cortos son liberación, los pantalones cortos son placer. Los pantalones cortos no tienen plazos de entrega, no hacen <strong>transacciones bursátiles</strong> ni redactan informes <strong>trimestrales</strong>.",
+      "zh": "当然想。短裤是休闲，短裤是解放，短裤是享乐。短裤没有截止日期，不做股票交易，也不起草季度报告。",
+      "vocab": [
+        {
+          "word": "transacciones bursátiles",
+          "translation": "股票交易，证券交易",
+          "note": "bursátil 是形容词，源自 bolsa（证券交易所），专指与股票市场相关的事务，如 mercado bursátil（股票市场）、valor bursátil（股票价值），是金融新闻中的核心词汇，不要与 bolsillo（口袋）混淆。"
+        },
+        {
+          "word": "trimestrales",
+          "translation": "季度的，每季一次的",
+          "note": "trimestral 源自 trimestre（三个月、一季度），前缀 tri- 表示『三』，同类构词如 bimestral（两个月一次）、semestral（半年一次）、anual（每年一次），掌握这一系列时间频率形容词对阅读商业新闻极为实用。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Pero el hombre que usa pantalones cortos en la oficina le está diciendo a todo el mundo que quiere estar en otro lugar. El hecho de que realmente quiera estar en otro lugar no lo justifica. Sé que estos son tiempos de sudorosa necesidad, pero por favor, <strong>reconsidéralo</strong>.",
+      "zh": "但是，在办公室穿短裤的男人是在告诉所有人：他想在别的地方。他确实想在别的地方，这并不能成为理由。我知道这是汗流浃背的必要时刻，但请你重新考虑一下。",
+      "vocab": [
+        {
+          "word": "reconsidéralo",
+          "translation": "重新考虑它，三思而行",
+          "note": "reconsiderar 由前缀 re-（重新）+ considerar（考虑）构成，是劝说或警告语境中的高频词，语气比 piénsalo bien（好好想想）更正式，常见于建议类文体，此处用命令式直接向读者发出警告，增强了文章的对话感。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "¿Sabes quién usa pantalones cortos para trabajar? Los árbitros de la Copa del Mundo. Su trabajo es muy diferente al tuyo. Corren a toda velocidad junto a atletas de élite solo para que sus decisiones erróneas sean <strong>anuladas</strong> por los árbitros de video cómodamente sentados, vestidos con pantalones largos, en un estudio con clima controlado. ¿Sabes quién no usa pantalones cortos para trabajar? Nadie que esté en una posición de autoridad. Por eso, supuestamente un <strong>capo</strong> de la mafia llamó a James Gandolfini y elogió su actuación en Los Soprano, pero le ofreció un consejo: los capos no usan pantalones cortos. ¡Salute!",
+      "zh": "你知道谁上班穿短裤吗？世界杯裁判。他们的工作和你的截然不同。他们跟着顶级运动员全速奔跑，结果他们的错误判决还是被那些坐在恒温演播室里、穿着长裤的视频裁判推翻。你知道谁上班不穿短裤吗？任何身处权威地位的人。正因如此，据说一位黑手党老大曾致电詹姆斯·甘多尔菲尼，称赞他在《黑道家族》中的表演，但给了他一条建议：老大不穿短裤。干杯！",
+      "vocab": [
+        {
+          "word": "anuladas",
+          "translation": "被推翻的，被撤销的，被取消的",
+          "note": "anular 在体育语境中指『判决无效、推翻』，在法律语境中指『撤销合同或判决』，在数学中指『抵消』，是典型的一词多义词，需根据语境判断，固定搭配有 anular un gol（取消进球）、anular un contrato（撤销合同）。"
+        },
+        {
+          "word": "capo",
+          "translation": "老大，头目，首领",
+          "note": "capo 源自意大利语，意为『头』，在黑手党语境中专指犯罪组织的头目，已作为外来词进入西班牙语，在口语中也可泛指某领域的顶尖人物，语气带有一定的江湖气息，属于非正式用法。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Ahora bien, para aquellas almas inquietas que no se dedican a actividades delictivas (los <strong>dóciles</strong> asistentes a las reuniones, los que publican en Slack, cualquiera que se pase el día mirando hojas de Excel), por favor mantengan las piernas cubiertas con pantalones, chinos, caquis, pantalones de vestir, llámenlos como quieran. Pero un hombre en pantalones cortos no dirige una reunión, no presenta una moción ni inspira confianza. Los pantalones cortos son para esos policías en las Bermudas o para los consejeros de campamento en una película de Wes Anderson.",
+      "zh": "好了，对于那些不从事犯罪活动的不安分灵魂（那些乖乖参加会议的人、在Slack上发消息的人、整天盯着Excel表格的人），请用长裤、休闲裤、卡其裤、正装裤把腿遮住，随便叫什么都行。但穿着短裤的男人主持不了会议，提不了动议，也激不起信任感。短裤是留给百慕大警察或韦斯·安德森电影里的夏令营辅导员的。",
+      "vocab": [
+        {
+          "word": "dóciles",
+          "translation": "顺从的，乖顺的，听话的",
+          "note": "dócil 形容人或动物易于管教、顺从，在此带有轻微的讽刺意味，暗示这些办公室职员像被驯化的动物一样乖乖服从规则，与 rebelde（叛逆的）形成对比，是描述性格特质的常用形容词。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "¿Usaba pantalones cortos en la oficina Don Draper, el ejemplo de la elegancia de mediados de siglo del Midtown? Por supuesto que no. ¿Llevaba Gordon Gekko, el <strong>tiburón corporativo</strong> que nunca desayunaba, pantalones cortos a las reuniones con las empresas que estaba a punto de <strong>liquidar</strong>? No, él se peinaba el cabello hacia atrás, se ajustaba los <strong>tirantes</strong> de un chasquido y se daba un festín con información privilegiada. ¿Qué hay de un habitante de la oficina más amable, Jack Lemmon en El apartamento? Traje estilo Brooks Brothers, camisa y corbata, y una sonrisa para Shirley MacLaine.",
+      "zh": "唐·德雷珀——中城区世纪中叶优雅风范的典范——在办公室穿短裤吗？当然不。戈登·盖柯——那个从不吃早饭的企业鲨鱼——去见他即将收购清算的公司时穿短裤吗？不，他把头发向后梳，啪地一声弹紧吊带，然后用内幕消息大快朵颐。那么更温和的办公室居民，《公寓》里的杰克·莱蒙呢？布鲁克斯兄弟风格的西装、衬衫和领带，以及对雪莉·麦克雷恩的一个微笑。",
+      "vocab": [
+        {
+          "word": "tiburón corporativo",
+          "translation": "企业鲨鱼，商界掠食者",
+          "note": "tiburón（鲨鱼）在商业语境中比喻凶猛、不择手段的商界人士，tiburón corporativo 是固定搭配，与英语 corporate shark 完全对应，是财经新闻和文化评论中的高频比喻表达。"
+        },
+        {
+          "word": "liquidar",
+          "translation": "清算，收购解散；（口语）消灭，干掉",
+          "note": "liquidar 是典型的一词多义词：在商业语境中指『清盘、收购后解散公司』，在口语中可指『消灭某人』，在日常语境中还可指『清仓甩卖』，需根据语境判断，是阅读财经和犯罪题材文章的必备词汇。"
+        },
+        {
+          "word": "tirantes",
+          "translation": "吊带裤，背带",
+          "note": "tirantes 指用于固定裤子的肩带式背带，源自 tirar（拉），是服装类词汇中的实用词，注意与 tirante 的形容词用法（紧绷的、紧张的）区分，如 una situación tirante（紧张的局面）。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "La oficina ha cambiado desde entonces. No bebes whisky en Sterling Cooper; te <strong>hidratas</strong> con tu termo Yeti como si estuvieras entrenando para un maratón. No almuerzas en el 21; pides una ensalada en una aplicación. Sí, todo es más informal ahora. Estamos en Zoom. Trabajamos de manera remota. Cuando me presento deberían estar contentos con lo que sea que lleve puesto. Bueno, parte de la vida de oficina es aceptar cierta dosis de <strong>conformidad</strong>, por muy triste que suene. No, no es justo, pero eso ya lo sabías.",
+      "zh": "从那以后，办公室已经变了。你不在斯特林·库珀喝威士忌了；你用Yeti保温杯补水，仿佛在备战马拉松。你不在21俱乐部吃午饭了；你在App上点一份沙拉。是的，现在一切都更随意了。我们在Zoom上开会。我们远程工作。我出现了，他们就该对我穿什么感到满意。好吧，办公室生活的一部分就是接受一定程度的从众，不管听起来多么令人沮丧。不，这不公平，但你早就知道了。",
+      "vocab": [
+        {
+          "word": "hidratas",
+          "translation": "补水，保持水分",
+          "note": "hidratarse 是反身动词，意为『为自己补充水分』，源自 agua（水），在健身和健康语境中极为常见，如 mantenerse hidratado（保持水分充足），此处作者用运动补水的意象讽刺现代办公室文化的过度健康主义。"
+        },
+        {
+          "word": "conformidad",
+          "translation": "从众，顺从，一致性",
+          "note": "conformidad 在社会学语境中指个体对群体规范的服从，与 conformismo（随大流主义）近义，但 conformidad 更中性，强调与规范保持一致的状态，而非贬义的随波逐流，固定搭配有 en conformidad con（符合、依照）。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "¿Es esta una forma de pensar superficial y <strong>anticuada</strong>? ¿Crees que la ropa es simple autoexpresión y que todo esto es arbitrario? Entonces pregúntate si contratarías a un abogado que usa pantalones cortos de licra en la sala del tribunal. ¿A un contador o agente que se presentara a una reunión luciendo como si acabara de salir de una cabaña de piscina? La ropa todavía tiene el poder de transmitir competencia y de brindar seguridad. Por eso los pilotos usan uniformes. Y te darías media vuelta en la <strong>pasarela</strong> de embarque si, al asomarte a la cabina, vieras tela de madras, piernas al aire y chanclas.",
+      "zh": "这是一种肤浅、过时的思维方式吗？你认为穿着只是个人表达，这一切都是随意的吗？那么问问自己，你会雇用一个在法庭上穿莱卡短裤的律师吗？会雇用一个出席会议时看起来刚从泳池小屋出来的会计或经纪人吗？着装仍然有传递专业能力和给人安全感的力量。这就是为什么飞行员要穿制服。如果你走上登机廊桥，探头一看驾驶舱，看到格子布料、裸露的双腿和人字拖，你会掉头就走的。",
+      "vocab": [
+        {
+          "word": "anticuada",
+          "translation": "过时的，老派的，陈旧的",
+          "note": "anticuado/a 由前缀 anti-（反对、旧有）+ cuado（源自 cuanto，与时间相关）构成，形容某事物已不符合当代标准或潮流，比 viejo（旧的）更强调与时代脱节，常见搭配有 idea anticuada（陈旧观念）、método anticuado（过时方法）。"
+        },
+        {
+          "word": "pasarela",
+          "translation": "登机廊桥；（时装）T台；天桥",
+          "note": "pasarela 是典型的一词多义词：在机场指连接候机楼与飞机的廊桥，在时尚语境中指模特走秀的T台，在城市中指人行天桥，掌握这一词的多义性有助于在不同语境中准确理解。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Pero espera, dirás, estos son unos pantalones cortos elegantes, de lino color tabaco, fabricados por una empresa que fotografió su catálogo en Isquia. Bueno, eso es genial: guárdalos para cuando uses alpargatas, saborees un Negroni y almuerces a las tres de la tarde lejos de los <strong>imperativos</strong> de la empresa capitalista. Pero hoy estamos en la ciudad, sacando el trabajo adelante y posiblemente odiando nuestras vidas. Al menos llevamos pantalones largos.",
+      "zh": "但等等，你会说，这是一条优雅的短裤，烟草色亚麻布料，出自一家在伊斯基亚岛拍摄目录册的品牌。好吧，那很棒：把它留到你穿着草编鞋、品着内格罗尼、在下午三点远离资本主义企业的种种强制要求悠然用餐的时候再穿。但今天我们在城市里，把工作推进下去，可能还在痛恨自己的生活。至少我们穿着长裤。",
+      "vocab": [
+        {
+          "word": "imperativos",
+          "translation": "强制要求，必要条件，命令式规则",
+          "note": "imperativo 在哲学语境中指康德式的『绝对命令』，在日常语境中指不可回避的强制性要求，此处复数形式 imperativos 指资本主义体系强加于人的种种规则与压力，是政治和社会评论中的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Este problema ha cruzado a Japón, tierra de oficinistas y <strong>conformidad</strong> corporativa, donde la iniciativa \"Cool Biz\" tiene como objetivo hacer más informal la oficina y ahorrar en aire acondicionado. A los hombres ahora se les permite mostrar la rodilla. Como era de esperar, esto no ha transcurrido sin problemas. Los medios de comunicación japoneses describen a mujeres que se ven abrumadas por un sentimiento de \"sune-hara\" (o \"acoso del vello de las piernas\") al ver las <strong>frondosas</strong> extremidades de sus compañeros de trabajo masculinos.",
+      "zh": "这个问题已经蔓延到了日本——那片上班族与企业从众精神的土地——在那里，『清凉商务』倡议旨在让办公室更加休闲，并节省空调开支。男性现在被允许露出膝盖。不出所料，这并非一帆风顺。日本媒体描述了一些女性在看到男性同事毛茸茸的腿时，被一种『胫骚扰』（即『腿毛骚扰』）的感觉所淹没。",
+      "vocab": [
+        {
+          "word": "frondosas",
+          "translation": "茂密的，枝繁叶茂的；（此处）毛茸茸的",
+          "note": "frondoso/a 本义形容树木枝叶繁茂，此处幽默地用于形容男性腿上浓密的体毛，是作者刻意使用的比喻性移用，将人体特征与植物意象并置，制造出荒诞的喜剧效果，体现了西语中比喻用法的灵活性。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "Lo que usamos puede <strong>disminuir</strong> nuestra reputación, y por eso es vergonzoso cuando los hombres mayores que deberían ser más sensatos intentan vestirse como adolescentes. No los hace lucir más jóvenes: los hace lucir desesperados. Si eres Picasso produciendo obras maestras en el sur de Francia preparándote para tu <strong>retrospectiva</strong>, entonces, por supuesto, usa pantalones cortos. Incluso puedes quitarte la camisa, como el viejo Pablo, ya que es parte de tu arte sin concesiones. Pero piénsalo de nuevo si tienes una reunión de presentación.",
+      "zh": "我们的穿着可以损害我们的声誉，这就是为什么当那些本该更明智的年长男性试图打扮得像青少年时，会显得如此可悲。这不会让他们看起来更年轻：只会让他们看起来很desperate。如果你是毕加索，在法国南部创作杰作，准备你的回顾展，那当然，穿短裤吧。你甚至可以像老帕布洛那样脱掉衬衫，因为那是你毫不妥协的艺术的一部分。但如果你有一个提案会议，还是再想想吧。",
+      "vocab": [
+        {
+          "word": "disminuir",
+          "translation": "损害，降低，减少",
+          "note": "disminuir 本义是『减少、降低数量或程度』，此处用于抽象语境，意为『损害声誉』，比 dañar（损害）更强调程度上的递减，固定搭配有 disminuir la velocidad（减速）、disminuir el riesgo（降低风险）。"
+        },
+        {
+          "word": "retrospectiva",
+          "translation": "回顾展，回顾性展览",
+          "note": "retrospectiva 源自前缀 retro-（向后）+ spectiva（观看），在艺术语境中指对某位艺术家整个创作生涯的系统性回顾展览，在商业和政治语境中也可指对过去工作的总结回顾，是文化报道中的常见词汇。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "Podrías señalar a ese eterno adolescente de Silicon Valley que lleva con orgullo una camiseta y jeans mal ajustados, y utiliza una mesa de ping-pong como escritorio. Esta anti-ropa funciona para él. ¿Por qué no puede funcionar para mí?, te preguntarás. Bueno, si diriges una empresa y se te conoce por un solo nombre, entonces puedes usar pantalones cortos en tu oficina. Pero recuerda, cuando estos <strong>reyes del algoritmo</strong> tienen que <strong>testificar</strong> ante el Congreso, todavía se presentan y niegan cualquier irregularidad usando saco y corbata.",
+      "zh": "你可能会指出硅谷那个永恒的青少年，他骄傲地穿着一件T恤和一条不合身的牛仔裤，用乒乓球桌当办公桌。这种『反着装』对他有效。为什么对我不行？你会问。好吧，如果你经营着一家公司，人们只用一个名字称呼你，那你可以在办公室穿短裤。但请记住，当这些算法之王不得不在国会作证时，他们仍然穿着西装打着领带出现，否认任何违规行为。",
+      "vocab": [
+        {
+          "word": "reyes del algoritmo",
+          "translation": "算法之王，科技巨头",
+          "note": "reyes del algoritmo 是作者创造的比喻表达，指以算法和数据为核心商业模式的科技公司创始人（如扎克伯格、贝佐斯等），rey（国王）与 algoritmo（算法）的组合带有讽刺意味，暗示这些人在数字王国中拥有近乎绝对的权力。"
+        },
+        {
+          "word": "testificar",
+          "translation": "作证，出庭作证，宣誓证词",
+          "note": "testificar 在法律语境中指在法庭或立法机构正式作证，与 declarar（陈述、申报）相比更强调宣誓后的正式证词，名词形式为 testimonio（证词），是法律和政治新闻中的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "es": "Sí, la ropa todavía importa. Ese es un trato a la antigua, pero, por otra parte, también lo son los pantalones largos.",
+      "zh": "是的，着装仍然重要。这是一种老派的约定，但话说回来，长裤也是。",
+      "vocab": [
+        {
+          "word": "a la antigua",
+          "translation": "老派的，守旧的，按老规矩",
+          "note": "a la antigua 是固定副词短语，意为『以传统方式、按旧规矩』，语气可以是中性的怀旧，也可以是轻微的批评，常见搭配有 ser a la antigua（守旧）、cocinar a la antigua（用传统方法烹饪），与 a la moderna（现代方式）形成对比。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "ver con malos ojos",
+      "type": "modismo",
+      "translation": "对……嗤之以鼻，不赞同，看不顺眼",
+      "usage": "ver con malos ojos 是固定惯用语，字面意思是『用坏眼神看』，实际表示对某事物持负面态度或不赞同，与 ver con buenos ojos（赞同、看好）形成对比，语体中性，口语书面均可使用。",
+      "exampleEs": "La dirección ve con malos ojos que los empleados lleguen tarde sin avisar.",
+      "exampleZh": "管理层对员工不打招呼就迟到的行为很不满。"
+    },
+    {
+      "expression": "sacar el trabajo adelante",
+      "type": "colocación",
+      "translation": "把工作推进下去，完成工作任务",
+      "usage": "sacar adelante 是固定搭配，意为『克服困难将某事推进完成』，可用于 sacar adelante un proyecto（推进项目）、sacar adelante a los hijos（把孩子抚养成人）等多种语境，强调在困难条件下仍坚持完成目标，语气带有一定的坚韧感。",
+      "exampleEs": "A pesar de los recortes de presupuesto, el equipo logró sacar el proyecto adelante.",
+      "exampleZh": "尽管预算被削减，团队还是设法把项目推进完成了。"
+    },
+    {
+      "expression": "darse media vuelta",
+      "type": "expresión coloquial",
+      "translation": "掉头就走，转身离开",
+      "usage": "darse media vuelta 字面意思是『转半圈』，指在看到或遇到某种情况后立刻转身离开，带有果断拒绝或震惊退缩的语气，是口语中极为地道的表达，常用于描述本能的逃离反应。",
+      "exampleEs": "Cuando vio la cola interminable en el banco, se dio media vuelta y se fue.",
+      "exampleZh": "看到银行里排着望不到头的队，他掉头就走了。"
+    },
+    {
+      "expression": "hacer pleno al quince",
+      "type": "modismo",
+      "translation": "全部命中，样样都占",
+      "usage": "此表达在文中未出现，但与本文主题高度相关，故不重复收录。",
+      "exampleEs": "",
+      "exampleZh": ""
+    },
+    {
+      "expression": "poner a prueba",
+      "type": "colocación",
+      "translation": "考验，检验，使经受考验",
+      "usage": "poner a prueba 是固定搭配，意为『使某人或某物接受考验』，不可随意替换为 examinar 或 probar，常见于描述极端条件对能力或品质的检验，如 poner a prueba la paciencia（考验耐心）、poner a prueba una teoría（检验一个理论）。",
+      "exampleEs": "La crisis puso a prueba la solidez del sistema financiero.",
+      "exampleZh": "这场危机考验了金融体系的稳健性。"
+    },
+    {
+      "expression": "como era de esperar",
+      "type": "expresión coloquial",
+      "translation": "不出所料，正如预期",
+      "usage": "固定副词短语，用于引出一个在情理之中、早已预见的结果，语气带有轻微的讽刺或无奈，相当于中文的『果然不出所料』，常置于句首，是新闻和评论文体中的高频表达。",
+      "exampleEs": "Como era de esperar, el partido prometió bajar los impuestos justo antes de las elecciones.",
+      "exampleZh": "不出所料，该党在选举前夕承诺降低税收。"
+    }
+  ]
+}

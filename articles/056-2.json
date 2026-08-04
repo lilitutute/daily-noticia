@@ -1,0 +1,456 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "情感与生活",
+  "difficulty": "B2",
+  "wordCount": "约1400词",
+  "title": "Un triángulo amoroso no estaba entre mis planes",
+  "subtitle": "一段三角恋，从未在我的计划之中",
+  "resumenEs": "La narradora, una joven de los Apalaches que escapó de un pasado difícil para llegar a Harvard, emprende el Sendero de los Apalaches tras la muerte de su padre y el abandono de un posgrado. Durante el recorrido, mantiene una relación con Lookout, un excursionista británico, pero se enamora de Atún, un chico de su misma región. Incapaz de elegir, prolonga la ambigüedad hasta que sus diarios la delatan. Tras la ruptura con Lookout, retoma el contacto con Atún, y un año después se casan.",
+  "resumenZh": "叙述者是一位来自阿巴拉契亚山区的年轻女性，从艰难的过去逃脱后考入哈佛。在父亲猝然离世、研究生项目中途退出后，她踏上了阿巴拉契亚小径。途中，她与英国徒步者Lookout保持着一段感情，却爱上了来自同乡的Atún。无法抉择的她拖延着这段模糊关系，直到日记将她出卖。与Lookout分手后，她重新联系Atún，一年后两人步入婚姻。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Acababa de ducharme por primera vez en tres días y 80 kilómetros. Son muchos kilómetros, pero solo una fracción de los aproximadamente 3,500 que conforman el Sendero de los Apalaches, que estaba intentando recorrer en su <strong>totalidad</strong>.",
+      "zh": "我刚刚洗了三天来、走了80公里后的第一个澡。这是很多公里，但只是阿巴拉契亚小径约3500公里的一小部分，而我正试图走完全程。",
+      "vocab": [
+        {
+          "word": "totalidad",
+          "translation": "全部，整体，全程",
+          "note": "固定搭配 en su totalidad 意为『全部地、完整地』，是正式文体中替代 completamente 的高频书面表达，常见于法律、新闻和学术语境，如 leer el contrato en su totalidad（通读整份合同）。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Con el cabello húmedo, estaba recostada en uno de los dos sofás del sótano de una iglesia de Pensilvania que se había convertido en un albergue, quejándome con mi compañero de caminata por el calor brutal de julio.",
+      "zh": "我顶着湿漉漉的头发，斜躺在宾夕法尼亚州一座教堂地下室的两张沙发之一上——那里已经改成了一间青年旅舍——和我的徒步伙伴抱怨着七月的酷热。",
+      "vocab": [
+        {
+          "word": "quejándome",
+          "translation": "抱怨，发牢骚",
+          "note": "quejarse de 是固定搭配，介词必须用 de，不可用 por；与 protestar 相比，quejarse 更强调个人情绪的宣泄，而非正式抗议，如 quejarse del calor（抱怨天热）、quejarse de la situación（对现状发牢骚）。"
+        },
+        {
+          "word": "brutal",
+          "translation": "残酷的，极端的，猛烈的",
+          "note": "brutal 在口语和新闻中常用于夸张强调程度之极端，如 un calor brutal（酷热难耐）、una crítica brutal（猛烈的批评），注意它不是英语 brutal 的假朋友，两者含义基本一致，但西语中口语化程度更高。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Un chico rubio que estaba en el otro sofá me miró como si me conociera y me dijo: \"¿De dónde eres?\". Así fue como empezó todo: reconoció mi acento de los Apalaches. Resultó que habíamos crecido a menos de 40 kilómetros de distancia, en la zona rural de Virginia.",
+      "zh": "另一张沙发上坐着一个金发男孩，他看着我，像是认识我一样，问道：「你从哪里来？」一切就这样开始了：他认出了我的阿巴拉契亚口音。结果我们发现，我们在弗吉尼亚州的农村地区长大，相距不到40公里。",
+      "vocab": [
+        {
+          "word": "Resultó que",
+          "translation": "结果发现，原来",
+          "note": "resultar que 是叙事文体中引出出乎意料或令人惊喜结论的固定句式，语气带有『没想到』的意味，比 descubrimos que 更口语化，常见于故事性文章，如 resultó que nos conocíamos（结果发现我们认识）。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Los excursionistas que recorren el sendero de punta a punta rara vez se identifican con sus nombres reales, y optan por adoptar <strong>apodos</strong> de la ruta. El suyo era Atún, un <strong>guiño</strong> a su meta de pescar una trucha en cada estado a lo largo del sendero (a la trucha se le llama coloquialmente \"atún de montaña\"). El mío era Holy Roller, una referencia a mi crianza evangélica y a una cómica caída cuesta abajo que había sufrido antes en el sendero.",
+      "zh": "从头走到尾的徒步者很少用真名相互介绍，而是选择采用路上的绰号。他的绰号是「金枪鱼」，这是对他在小径沿途每个州钓一条鳟鱼这一目标的一个暗示（鳟鱼在口语中被称为『山中金枪鱼』）。我的绰号是Holy Roller，既指我的福音派成长背景，也指我之前在小径上滑倒翻滚的一次滑稽摔跤。",
+      "vocab": [
+        {
+          "word": "apodos",
+          "translation": "绰号，外号",
+          "note": "apodo 指非正式的外号或绰号，与 alias（化名，多用于犯罪或文学语境）和 seudónimo（笔名）有所区别：apodo 通常由他人起，带有描述性或调侃性，是日常口语中的常用词。"
+        },
+        {
+          "word": "guiño",
+          "translation": "暗示，致意，眨眼示意",
+          "note": "guiño 本义是『眨眼』，引申为对某事物的隐晦致敬或暗示，在文化评论中常用于描述作品对某一传统或人物的致敬，如 un guiño al cine clásico（向经典电影致敬），是文学和评论文体中的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Cuando la gente me preguntaba de dónde era, nunca les decía el nombre de mi pueblo natal, segura de que nunca habían oído hablar de él. Era el tipo de lugar que solo aparecía en los titulares por las estadísticas de sobredosis de opioides y los cierres de minas de carbón. Mi papá trabajaba en una cantera. Mi mamá era maestra de preescolar.",
+      "zh": "当人们问我从哪里来时，我从不说出我家乡小镇的名字，因为我确信他们从没听说过。那是那种只会因阿片类药物过量的统计数据和煤矿关闭而登上新闻标题的地方。我爸爸在采石场工作。我妈妈是幼儿园老师。",
+      "vocab": [
+        {
+          "word": "titulares",
+          "translation": "新闻标题，头条",
+          "note": "titular 作名词时指报纸或新闻的标题，固定搭配 aparecer en los titulares（登上头条）、saltar a los titulares（成为头条新闻）是新闻语境中的高频表达；作形容词时意为『正式任职的』，如 profesor titular（正式编制教授），需注意区分。"
+        },
+        {
+          "word": "cantera",
+          "translation": "采石场；（比喻）人才摇篮",
+          "note": "cantera 是典型的一词多义词：本义指开采石料的矿场，在体育（尤其是足球）语境中引申为培养年轻球员的青训体系，如 la cantera del Real Madrid（皇马青训营），掌握这一双重含义有助于理解西语体育新闻。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Y yo, anticipando una vida dedicada a la maternidad y al cristianismo, me <strong>comprometí</strong> a los 16 años. Tenía planeado casarme después de cumplir 18, pero mi compromiso terminó poco antes del día de nuestra boda cuando mi prometido fue arrestado y acusado de posesión de pornografía infantil.",
+      "zh": "而我，预期着一种献身于母职和基督信仰的生活，在16岁时订了婚。我计划在满18岁后结婚，但我的婚约在婚礼前不久告终——我的未婚夫被捕，被指控持有儿童色情制品。",
+      "vocab": [
+        {
+          "word": "comprometí",
+          "translation": "订婚；承诺；使陷入困境",
+          "note": "comprometerse 是典型的一词多义动词：comprometerse con alguien 意为『与某人订婚』，comprometerse a hacer algo 意为『承诺做某事』，estar comprometido 还可指『处于两难境地』，是理解西语情感和政治文章的核心词汇。"
+        },
+        {
+          "word": "acusado",
+          "translation": "被指控的，被告",
+          "note": "acusado/a 在法律语境中既是形容词（被指控的）也是名词（被告），固定搭配有 ser acusado de（被指控……罪）、el acusado declaró（被告陈述），与 culpable（有罪的）不同，acusado 仅指被起诉，不代表已定罪。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Cuando ese sueño se <strong>desvaneció</strong>, necesitaba un nuevo sueño, así que decidí ir a la universidad, algo que mi prometido me había <strong>desaconsejado</strong>. En parte por <strong>despecho</strong>, debido a la mala opinión que tenía de mí, presenté mi solicitud a Harvard y, de alguna manera, me aceptaron. Me fui, pero el choque cultural fue extremo. Me costó mucho, pero me gradué, sin saber muy bien qué vendría después.",
+      "zh": "当那个梦想消散时，我需要一个新的梦想，于是决定上大学——这正是我的前未婚夫曾劝阻我做的事。部分出于赌气，因为他对我评价很低，我申请了哈佛，不知怎么地，我被录取了。我离开了，但文化冲击极为强烈。我付出了很多，但最终毕业了，却不太清楚接下来会是什么。",
+      "vocab": [
+        {
+          "word": "desvaneció",
+          "translation": "消散，消失，烟消云散",
+          "note": "desvanecerse 意为『逐渐消失、烟消云散』，比 desaparecer 更强调缓慢淡去的过程，常用于梦想、希望、幻觉等抽象事物，也可指人昏厥（se desvaneció del calor——他因热晕倒了），是一词多义的高频文学词汇。"
+        },
+        {
+          "word": "desaconsejado",
+          "translation": "被劝阻的，被建议不要做的",
+          "note": "desaconsejar 由 des-（否定）+ aconsejar（建议）构成，意为『劝阻、建议不要做』，是 aconsejar 的反义词，语气比 prohibir（禁止）温和，多见于医疗、法律和建议类语境，如 el médico le desaconsejó el alcohol（医生建议他戒酒）。"
+        },
+        {
+          "word": "despecho",
+          "translation": "赌气，怨恨，负气",
+          "note": "despecho 指因受到轻视或伤害而产生的怨愤情绪，固定搭配 por despecho 意为『出于赌气、负气而为之』，与 rencor（长期积怨）相比，despecho 更强调即时的情绪反应和由此引发的冲动行为。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Había tantas cosas de Atún que me gustaban, además de la comodidad de haber crecido prácticamente puerta con puerta. Su diente delantero <strong>astillado</strong>. El tono rojizo de su barba. El hecho de que tocara el banjo, llevara una caña de pescar en miniatura en su mochila y fuera un alcohólico en recuperación que recorría el sendero para celebrar un año de <strong>sobriedad</strong>. Era claramente de los Apalaches, pero también un <strong>forastero</strong>, diferente de la mayoría de la gente con la que habíamos crecido.",
+      "zh": "Atún身上有太多我喜欢的地方，除了几乎是邻居长大所带来的那种亲切感。他那颗缺了一角的门牙。他胡子里泛出的红色调。他会弹班卓琴，背包里带着一根迷你钓鱼竿，还是一个正在戒酒的酒鬼，走这条小径是为了庆祝戒酒一周年。他明显是阿巴拉契亚人，但同时也是个异类，与我们共同成长的大多数人都不同。",
+      "vocab": [
+        {
+          "word": "astillado",
+          "translation": "缺了一角的，碎裂的，有裂口的",
+          "note": "astillar 意为『使碎裂成碎片』，astilla 是『木刺、碎片』，形容词 astillado 描述因碰撞或磨损而出现缺口或裂纹的状态，常用于牙齿、木头、骨头等，西语谚语 de tal palo, tal astilla（有其父必有其子）中的 astilla 即此词。"
+        },
+        {
+          "word": "sobriedad",
+          "translation": "清醒，戒酒状态；节制，朴素",
+          "note": "sobriedad 有两层含义：在戒瘾语境中专指戒酒或戒毒后保持清醒的状态；在一般语境中指风格或行为上的节制与朴素，如 la sobriedad de su estilo（他风格的简约），是一词多义的高级词汇。"
+        },
+        {
+          "word": "forastero",
+          "translation": "外来者，异乡人，格格不入的人",
+          "note": "forastero 指来自外地或不属于某个群体的人，比 extranjero（外国人）范围更广，强调的是与所在群体的文化或背景差异，而非国籍差异，带有一种『不属于这里』的疏离感，常见于文学叙事语境。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Mientras hablábamos, surgió un pensamiento: \"Este es mi futuro\". Seguido de otro: \"Ay, no\". Porque el excursionista con quien había estado hablando en el sofá cuando conocí a Atún era un chico con quien llevaba meses <strong>saliendo</strong>. Nos conocimos el primer día de nuestras travesías y habíamos compartido botellas de agua, tazas de ramen y, de vez en cuando, habitaciones de hotel.",
+      "zh": "我们聊着聊着，一个念头冒了出来：「这就是我的未来。」紧接着又来了另一个：「哦，不。」因为我认识Atún时正在沙发上聊天的那个徒步者，是一个我已经交往了好几个月的男孩。我们在各自旅程的第一天相识，分享过水瓶、泡面，偶尔也共住酒店房间。",
+      "vocab": [
+        {
+          "word": "saliendo",
+          "translation": "交往中，在谈恋爱",
+          "note": "salir con alguien 是西语中表达『与某人谈恋爱、约会』的最常用口语表达，相当于英语 to be dating someone，注意这是固定搭配，单独的 salir 只是『出去』，必须加 con + 人才有恋爱含义，是情感类文章的必备词组。"
+        },
+        {
+          "word": "travesías",
+          "translation": "长途跋涉，艰难旅程，穿越之旅",
+          "note": "travesía 指穿越某片地域的艰难旅程，比 viaje（旅行）更强调过程的艰辛和距离的漫长，常用于徒步、航海、沙漠穿越等语境，也可比喻人生中的艰难阶段，是文学叙事中的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Tres meses y medio no es mucho tiempo para estar con alguien —a menos que pases cada momento del día caminando con esa persona—. Para cuando llegamos al albergue de Pensilvania, habíamos caminado poco más de 2000 kilómetros a través de siete estados, bajo la nieve, el granizo y el sol <strong>abrasador</strong> del verano. Nos habíamos visto caer, vomitar, sangrar y llorar.",
+      "zh": "三个半月和一个人在一起算不上很长——除非你每天每时每刻都和那个人一起走路。当我们到达宾夕法尼亚州的那间旅舍时，我们已经穿越七个州走了2000多公里，经历了风雪、冰雹和夏日灼烈的阳光。我们见过彼此摔倒、呕吐、流血和哭泣。",
+      "vocab": [
+        {
+          "word": "abrasador",
+          "translation": "灼热的，炙烤般的",
+          "note": "abrasar 意为『灼烧、烤焦』，形容词 abrasador 形容热度达到灼烧程度，比 caluroso（热的）或 sofocante（闷热的）更强调热力的直接伤害感，常见搭配有 sol abrasador（烈日）、calor abrasador（炙热），多用于文学和新闻描写。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Así que me sentía <strong>leal</strong> a él. Y también había muchas cosas que me gustaban de él. Su espíritu viajero (había vivido en cuatro continentes), sus pasatiempos (esquiar y bucear), su acento (británico) y su naturaleza <strong>servicial</strong>, que le había valido el apodo de \"Lookout\", porque, como observó otro excursionista, siempre estaba cuidando de los demás.",
+      "zh": "所以我对他感到忠诚。他身上也有很多我喜欢的地方。他的旅行精神（他在四大洲生活过）、他的爱好（滑雪和潜水）、他的口音（英式英语），以及他乐于助人的天性——正是这一点为他赢得了「Lookout」这个绰号，因为正如另一位徒步者所观察到的，他总是在照顾别人。",
+      "vocab": [
+        {
+          "word": "leal",
+          "translation": "忠诚的，忠实的",
+          "note": "leal 强调对人或群体发自内心的忠诚，比 fiel（忠实的，更强调行为上的一致性）更侧重情感和道德层面的归属感，固定搭配有 ser leal a alguien（对某人忠诚）、un amigo leal（忠实的朋友），名词形式为 lealtad（忠诚）。"
+        },
+        {
+          "word": "servicial",
+          "translation": "乐于助人的，热心服务的",
+          "note": "servicial 形容一个人主动、热心地帮助他人，比 amable（友善的）更强调行动上的付出，语气积极正面，常见于描述人物性格，如 una persona muy servicial（一个非常乐于助人的人），名词形式为 servicialidad。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Pero la mezcla electrizante de coincidencia y química entre Atún y yo me dejaba sin aliento. La sensación era <strong>arrolladora</strong>. Nunca me había impactado tanto alguien. \"¿Vienes a caminar conmigo?\", me preguntó. <strong>Dudé</strong>. Después de todo lo que Lookout y yo habíamos pasado juntos, ¿cómo podría dejarlo por alguien a quien acababa de conocer?",
+      "zh": "但Atún和我之间那种令人触电的巧合与化学反应让我喘不过气来。那种感觉势不可挡。从未有人这样冲击过我。「你来和我一起走吗？」他问道。我犹豫了。经历了Lookout和我共同走过的一切，我怎么能为了一个刚认识的人而离开他？",
+      "vocab": [
+        {
+          "word": "arrolladora",
+          "translation": "势不可挡的，排山倒海的，压倒性的",
+          "note": "arrollador/a 源自 arrollar（碾压、横扫），形容某种力量或情感强大到无法抵抗，常见搭配有 una victoria arrolladora（压倒性的胜利）、un éxito arrollador（巨大的成功），比 abrumador（令人不堪重负的）更强调动态的冲击力。"
+        },
+        {
+          "word": "Dudé",
+          "translation": "我犹豫了，我迟疑了",
+          "note": "dudar 在此为不及物用法，意为『犹豫、迟疑』，与 dudar de algo（怀疑某事）的及物用法不同；固定搭配 dudar en hacer algo 意为『对做某事犹豫不决』，如 no dudó en ayudarme（他毫不犹豫地帮了我）。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "Meses antes, me había preparado para mi travesía planificando cada <strong>contingencia</strong> imaginable. Picaduras de garrapatas. Encuentros con osos. Tormentas de hielo. ¿Adivinas qué no estaba en la lista? Los triángulos amorosos. No había tomado en cuenta el romance en mi aventura porque había planeado caminar sola. Me había lanzado a la ruta en una <strong>encrucijada</strong> de dolor e incertidumbre unos meses después de la muerte repentina de mi papá por un ataque al corazón a los 53 años, y apenas unas semanas después de abandonar un programa de posgrado. Tenía 25 años y andaba a la <strong>deriva</strong>. Pensé que 3500 kilómetros de soledad me darían la sanación y la <strong>autorreflexión</strong> que necesitaba para encontrarle sentido a mi vida.",
+      "zh": "几个月前，我为这次旅程做准备时，规划了每一种可以想象的意外情况。蜱虫叮咬。与熊相遇。冰雪风暴。你猜什么不在清单上？三角恋。我没有把浪漫情感纳入这次冒险的考量，因为我计划独自行走。我是在痛苦与迷茫的十字路口踏上这条路的——就在我父亲因心脏病突发、53岁猝然离世的几个月后，也是在我退出研究生项目的几周后。那时我25岁，漫无目的地漂泊着。我以为3500公里的孤独会给我带来疗愈和自我反思，让我找到生命的意义。",
+      "vocab": [
+        {
+          "word": "contingencia",
+          "translation": "意外情况，突发事件，偶然性",
+          "note": "contingencia 在哲学语境中指『偶然性』（与必然性相对），在实际语境中指可能发生的意外情况，固定搭配 plan de contingencia（应急预案）是商业和新闻语境中的高频词，比 imprevisto（意外）更正式。"
+        },
+        {
+          "word": "encrucijada",
+          "translation": "十字路口，抉择关头",
+          "note": "encrucijada 本义是道路交叉的十字路口，引申为人生中面临重大抉择的关键时刻，固定搭配 estar en una encrucijada（处于十字路口、面临抉择）是文学和评论文体中的高频比喻，比 dilema（两难困境）更强调方向性的选择。"
+        },
+        {
+          "word": "deriva",
+          "translation": "漂泊，随波逐流，失去方向",
+          "note": "deriva 本义是船只因风浪偏离航线的漂移，固定搭配 a la deriva 意为『漫无目的地漂泊、失去方向』，在描述人生迷失状态时极为传神，比 perdida（迷失的）更强调被动漂流、缺乏掌控的感受。"
+        },
+        {
+          "word": "autorreflexión",
+          "translation": "自我反思，内省",
+          "note": "前缀 auto- 表示『自我』，autorreflexión 即对自身行为、思想和情感的主动审视，同类构词如 autoconocimiento（自我认知）、autocrítica（自我批评）、autoestima（自尊），掌握 auto- 前缀可快速理解大量心理学和哲学词汇。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "En cambio, había pasado casi cada kilómetro con la voz de alguien (con un acento maravilloso) en mi oído. Y ahora me estaba <strong>enamorando</strong> de otra persona. Lo más amable que podría haber hecho era ser honesta con mis sentimientos. En cambio, <strong>titubeé</strong>. Seguí caminando con Lookout, pero invité a Atún a que se uniera a nosotros. Sabía que no había ningún escenario en el que esto pudiera terminar bien. Pero no quería elegir.",
+      "zh": "然而，我几乎每一公里都有一个人的声音（带着迷人的口音）在我耳边响着。而现在，我正在爱上另一个人。我能做的最善良的事本是对自己的感情诚实。然而，我却退缩了。我继续和Lookout一起走，但邀请了Atún加入我们。我知道这件事没有任何一种结局是好的。但我不想做选择。",
+      "vocab": [
+        {
+          "word": "enamorando",
+          "translation": "爱上，坠入爱河",
+          "note": "enamorarse de alguien 是固定搭配，介词必须用 de，表示对某人产生爱意的过程，与 estar enamorado（已经爱上，强调状态）相比，enamorarse 强调动态的过程，进行时 estar enamorándose 则强调正在发生的情感变化。"
+        },
+        {
+          "word": "titubeé",
+          "translation": "我退缩了，我犹豫不决，我畏缩了",
+          "note": "titubear 比 dudar 更强调行动上的犹豫不决和反复摇摆，带有一种软弱或不果断的意味，常用于描述在关键时刻未能采取行动，如 titubeó antes de responder（他回答前犹豫了一下），是叙事文体中描写心理状态的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "es": "Una mañana, Atún y yo nos dimos cuenta de que nos estábamos quedando atrás de Lookout, así que seguimos juntos, solo nosotros dos. Durante 29 kilómetros fui muy consciente de nuestra cercanía. Estábamos tan <strong>absortos</strong> el uno en el otro que tropezamos a menos de 18 metros de un oso negro que estaba buscando comida. Atún lo rodeó describiendo un arco amplio y cuidadoso; yo lo seguí. Era <strong>erótico</strong> pisar los mismos pedazos de tierra donde sus pies acababan de caer.",
+      "zh": "一天早上，Atún和我意识到我们落在了Lookout后面，于是我们继续走，只有我们两个。在接下来的29公里里，我非常清醒地感受着我们之间的靠近。我们彼此太过沉浸，以至于在距离一头正在觅食的黑熊不到18米处才发现它。Atún绕着它划了一道宽阔而谨慎的弧线；我跟着他走。踩在他的脚刚刚踏过的同一片土地上，有一种令人心跳加速的感觉。",
+      "vocab": [
+        {
+          "word": "absortos",
+          "translation": "全神贯注的，沉浸其中的，出神的",
+          "note": "absorto/a 形容人完全沉浸在某事物中、对外界浑然不觉的状态，固定搭配 estar absorto en algo（沉浸于某事）常见于文学叙事，与 distraído（心不在焉的）形成对比——absorto 是主动的专注，而非被动的分心。"
+        },
+        {
+          "word": "erótico",
+          "translation": "情欲的，令人心动的，充满感官张力的",
+          "note": "erótico 在文学语境中不仅指性欲层面，更广泛地指一种充满感官张力和情感吸引力的体验，此处作者用它描述踩在对方脚印上的微妙感受，体现了该词在文学中超越字面意义的用法。"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "es": "Más tarde esa noche, Lookout se acercó a mi tienda. \"Se nota que le gustas\", dijo. Pude <strong>intuir</strong> lo que no dijo: \"Se nota que a ti también te gusta\". Sintiéndome culpable, le dije a Atún que ya no podía seguir estando cerca de él. Seguí caminando con Lookout, pero me <strong>atormentaba</strong> la idea, y me costaba imaginar que estuviéramos juntos más allá del sendero. Éramos diferentes en todos los aspectos en los que Atún y yo éramos iguales.",
+      "zh": "那天晚上晚些时候，Lookout走到我的帐篷旁。「看得出他喜欢你，」他说。我能感觉到他没说出口的话：「看得出你也喜欢他。」出于愧疚，我告诉Atún我不能再和他待在一起了。我继续和Lookout一起走，但那个念头折磨着我，我很难想象我们在小径之外还能在一起。在Atún和我相同的每一个方面，我们都是不同的。",
+      "vocab": [
+        {
+          "word": "intuir",
+          "translation": "直觉感知，隐约察觉",
+          "note": "intuir 指不经过逻辑推理、凭直觉感知某事，比 percibir（感知）更强调非理性的内心感受，名词形式为 intuición（直觉），固定搭配有 tener la intuición de que（有一种直觉认为……），是心理和情感叙事中的高频词。"
+        },
+        {
+          "word": "atormentaba",
+          "translation": "折磨，煎熬，使痛苦",
+          "note": "atormentar 意为『使某人遭受持续的精神或身体折磨』，比 molestar（打扰）和 preocupar（使担心）语气强烈得多，强调持续性的痛苦，固定搭配有 atormentarse con algo（为某事而自我折磨），是文学叙事中描写内心煎熬的核心词汇。"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "es": "La tensión se hacía <strong>palpable</strong> cada vez que los tres nos cruzábamos en el bosque. Lookout y Atún apenas se saludaban. Lookout me observaba para ver si algo en la forma en que miraba a Atún indicaba un interés <strong>persistente</strong>. Atún me lanzaba una mirada herida que decía: \"Sigo aquí, ¿sabes?\". Y yo me <strong>encogía</strong> de vergüenza, desconcertada de que lo que se suponía que iba a ser un viaje terapéutico de autodescubrimiento se hubiera convertido en esto. Una telenovela vivida a base de mochilas.",
+      "zh": "每次我们三人在林中相遇，紧张感都变得触手可及。Lookout和Atún几乎不打招呼。Lookout观察着我，看我望向Atún的眼神是否透露出持续的兴趣。Atún则投来一个受伤的眼神，仿佛在说：「我还在这里，你知道吗？」而我则羞愧地缩成一团，困惑于这趟本应是治愈性自我发现之旅的旅程，怎么变成了这样。一部用背包演绎的肥皂剧。",
+      "vocab": [
+        {
+          "word": "palpable",
+          "translation": "明显可感的，触手可及的，显而易见的",
+          "note": "palpable 源自 palpar（触摸），本义是『可以用手触摸到的』，引申为某种抽象事物（如紧张、兴奋）强烈到几乎可以被感知，是新闻和文学语境中描述氛围的高频词，如 una tensión palpable（显而易见的紧张气氛）。"
+        },
+        {
+          "word": "persistente",
+          "translation": "持续的，坚持不懈的，挥之不去的",
+          "note": "persistente 形容某种状态或行为持续存在、难以消除，比 continuo（持续的）更强调顽固性，固定搭配有 una tos persistente（持续性咳嗽）、un rumor persistente（挥之不去的传言），名词形式为 persistencia（坚持、持续性）。"
+        },
+        {
+          "word": "encogía",
+          "translation": "缩成一团，畏缩，蜷缩",
+          "note": "encogerse 本义是身体因寒冷或恐惧而蜷缩，固定搭配 encogerse de vergüenza（羞愧地缩成一团）和 encogerse de hombros（耸肩）是两个最常见的惯用搭配，后者是表达『无所谓、不知道』态度的地道表达。"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "es": "Cada vez que veía a Atún pescando en un arroyo o tocando el banjo en el porche de un albergue, me sentía un poco más enamorada. Pero luego <strong>vadeaba</strong> un río o atravesaba un campo de rocas con Lookout, y salíamos al otro lado riendo. Cuando me topaba con Atún descansando junto al sendero, intercambiábamos sonrisas que me dejaban sin fuerzas.",
+      "zh": "每次看到Atún在溪流中钓鱼，或在旅舍门廊弹奏班卓琴，我就觉得自己又多爱了他一点。但随后我又和Lookout一起涉过一条河，或穿越一片乱石地，我们从另一侧出来时相视而笑。当我偶然遇到Atún在小径旁休息时，我们交换的微笑让我浑身无力。",
+      "vocab": [
+        {
+          "word": "vadeaba",
+          "translation": "涉水而过，趟水过河",
+          "note": "vadear 指涉水穿越河流或浅滩，是徒步和探险语境中的专业词汇，名词形式为 vado（浅滩、涉水处），在比喻语境中也可指克服困难，如 vadear obstáculos（克服障碍），是B2以上词汇中具有构词价值的动词。"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "es": "Finalmente, Lookout y yo llegamos al <strong>desgastado</strong> letrero de madera en Maine que marca el extremo norte del Sendero de los Apalaches. Lo invité a acompañarme a Virginia por unos días antes de tomar mi vuelo de regreso a Londres. De regreso a casa, vacié mi mochila y dejé mis diarios de la ruta sobre la cómoda de mi recámara. La noche antes de su vuelo, Lookout me dijo que los había leído.",
+      "zh": "终于，Lookout和我到达了缅因州那块标志着阿巴拉契亚小径北端的破旧木牌。我邀请他在飞回伦敦之前陪我去弗吉尼亚州待几天。回到家，我清空了背包，把路上的日记本放在了卧室的梳妆台上。在他飞走的前一晚，Lookout告诉我他读了那些日记。",
+      "vocab": [
+        {
+          "word": "desgastado",
+          "translation": "磨损的，破旧的，风化的",
+          "note": "desgastar 由 des-（去除）+ gastar（消耗）构成，意为『因长期使用或风化而磨损』，形容词 desgastado 常用于描述物品因时间和使用而呈现的破旧状态，也可比喻人因疲惫或压力而精力耗尽，如 una relación desgastada（一段已经消磨殆尽的关系）。"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "es": "No parecía enojado ni siquiera sorprendido. Mis diarios contenían la verdad de lo mucho que sentía por Atún. También contenían la verdad de mis sentimientos de lealtad y <strong>afinidad</strong> hacia Lookout. Pero en ese momento comprendí que él merecía más que la mitad de mi corazón, y él comprendió que nunca lo tendría. Nuestra relación terminó ahí, incluso antes de que Lookout se subiera a su avión.",
+      "zh": "他看起来既不生气，甚至也不惊讶。我的日记里写着我对Atún的深厚感情的真相，也写着我对Lookout的忠诚与亲近之情的真相。但那一刻我明白了，他值得拥有我完整的心，而他也明白，他永远不会拥有。我们的关系就在那里结束了，甚至在Lookout登上飞机之前。",
+      "vocab": [
+        {
+          "word": "afinidad",
+          "translation": "亲近感，契合，相似性",
+          "note": "afinidad 指两人或两事物之间在性格、价值观或兴趣上的自然契合与吸引，比 compatibilidad（兼容性）更强调情感层面的共鸣，固定搭配有 tener afinidad con alguien（与某人有共鸣）、afinidad electiva（选择性亲和，歌德名著标题）。"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "es": "¿Cómo había sido lo suficientemente valiente para dormir sola en el bosque, escalar rocas y andar de puntillas para evitar a los osos, pero no lo suficientemente valiente para ser honesta conmigo misma y con los demás? Después de que Lookout estuviera al otro lado del Atlántico, le escribí una novela a modo de <strong>disculpa</strong>. También le pedí perdón a Atún, a quien no había visto ni con quien había hablado en semanas, por todos esos <strong>coqueteos</strong> que no habían llevado a ninguna parte.",
+      "zh": "我怎么能有勇气独自在森林里睡觉、攀爬岩石、踮着脚尖躲避熊，却没有勇气对自己和他人诚实？Lookout飞到大西洋彼岸后，我给他写了一封长得像小说一样的道歉信。我也向Atún道了歉——那个我已经好几周没见、没说话的人——为了那些没有结果的调情。",
+      "vocab": [
+        {
+          "word": "disculpa",
+          "translation": "道歉，致歉，请求原谅",
+          "note": "disculpa 是名词，对应动词 disculparse（道歉），固定表达有 pedir disculpas（道歉）、a modo de disculpa（作为道歉）；注意与 perdón（宽恕，更强调对方的原谅）的区别：disculpa 侧重说话者主动认错的行为。"
+        },
+        {
+          "word": "coqueteos",
+          "translation": "调情，卖弄风情，暧昧",
+          "note": "coqueteo 源自 coquetear（调情、卖弄风情），指带有暧昧意味的言行举止，比 flirteo（英语借词 flirt 的西语化）更传统，名词复数 coqueteos 在叙事中常指一系列暧昧的互动，是情感类文章的高频词汇。"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "es": "Atún, para mi sorpresa, respondió: \"Hablemos\". Conduje nerviosamente a través de las dos montañas que separaban nuestras casas. Después de haber conocido a Atún solo en el bosque, me resultó extraño verlo duchado y con jeans. Nos sentamos en la mesa de su patio; él estaba, como era de esperarse, <strong>tranquilo</strong>.",
+      "zh": "出乎我意料的是，Atún回复道：「我们谈谈吧。」我紧张地驾车穿过隔开我们两家的两座山。在只见过森林里的Atún之后，看到他洗过澡、穿着牛仔裤，感觉很奇怪。我们坐在他家院子的桌旁；他一如既往地，平静。",
+      "vocab": [
+        {
+          "word": "tranquilo",
+          "translation": "平静的，沉着的，镇定的",
+          "note": "tranquilo 在此语境中不仅指表面的安静，更暗示一种内心的沉稳与从容，与前文 titubear（犹豫退缩）形成鲜明对比，体现了Atún的性格特质；固定口语表达 ¡tranquilo!（冷静！别急！）是安慰他人时的常用语。"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "es": "\"Pensé que estarías en Londres en este momento\", dijo. \"Cometí un error\", le dije. Atún se <strong>ablandó</strong> un poco. A diferencia de mí, él no podía ocultar sus sentimientos. A pesar de todas nuestras similitudes, esta no era una de ellas —hasta que, de repente, lo fue. Empecé a <strong>desahogar</strong> todo lo que había reprimido durante meses. Lo mucho que me había importado Lookout, pero lo mucho que había deseado a Atún desde el momento en que nos conocimos.",
+      "zh": "「我以为你现在应该在伦敦，」他说。「我犯了一个错误，」我说。Atún稍稍软化了。和我不同，他无法隐藏自己的感情。尽管我们有那么多相似之处，这却不是其中之一——直到突然间，它变成了。我开始倾诉那些压抑了几个月的一切。Lookout对我有多重要，但从我们相识的那一刻起，我对Atún有多渴望。",
+      "vocab": [
+        {
+          "word": "ablandó",
+          "translation": "软化，态度缓和，心软",
+          "note": "ablandarse 本义是物体变软，引申为人的态度或情绪从强硬、冷漠转为温和，固定搭配 ablandarse ante algo（因某事而心软）常见于叙事文体，与 endurecerse（变得强硬）形成对比，是描写人物情感变化的高频词。"
+        },
+        {
+          "word": "desahogar",
+          "translation": "倾诉，发泄，宣泄积压的情感",
+          "note": "desahogar 由 des-（去除）+ ahogar（使窒息）构成，意为『释放长期压抑的情感』，反身形式 desahogarse 更常见，如 necesito desahogarme（我需要倾诉一下），比 expresar（表达）更强调情感的积压与释放，是心理和情感叙事中的核心词汇。"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "es": "Cuando me iba, se ablandó y me preguntó si quería vernos ese fin de semana. Le dije que sí, y que sí para el siguiente fin de semana, y para el siguiente. Un año después, cuando me pidió que me casara con él, volví a decir que sí. En nuestra boda, nos pusimos nuestras viejas botas de senderismo, que se estaban cayendo a <strong>pedazos</strong>, cubiertas de tierra de nuestro pasado, y caminamos hacia nuestro futuro.",
+      "zh": "当我准备离开时，他软化了，问我那个周末想不想见面。我说好，下个周末也好，再下个周末也好。一年后，当他向我求婚时，我再次说了好。在我们的婚礼上，我们穿上了那双快要散架的旧徒步靴，沾满了我们过去的泥土，向着我们的未来走去。",
+      "vocab": [
+        {
+          "word": "pedazos",
+          "translation": "碎片，破片",
+          "note": "固定搭配 caerse a pedazos 意为『散架、分崩离析』，既可指物品因破旧而碎裂，也可比喻人因疲惫或压力而崩溃，如 me estoy cayendo a pedazos（我快撑不住了），是口语和文学中极为地道的表达，比 romperse（破碎）更具画面感。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "andar a la deriva",
+      "type": "modismo",
+      "translation": "漫无目的地漂泊，失去人生方向",
+      "usage": "deriva 本指船只偏离航线的漂移，固定搭配 a la deriva 比喻人生失去方向、随波逐流的状态，语气带有一种被动的无力感，常用于描述人生迷失或情感空白期，是文学叙事中极为传神的比喻表达。",
+      "exampleEs": "Tras perder su trabajo y su pareja en el mismo mes, estuvo meses andando a la deriva.",
+      "exampleZh": "在同一个月失去工作和伴侣之后，他漫无目的地漂泊了好几个月。"
+    },
+    {
+      "expression": "encogerse de vergüenza",
+      "type": "colocación",
+      "translation": "羞愧地缩成一团，因羞耻而无地自容",
+      "usage": "encogerse 本义是身体蜷缩，与 vergüenza（羞耻）搭配后形容因极度羞愧而想缩小自己、消失不见的心理状态，是描写羞耻感的高度地道表达，另一常见搭配 encogerse de hombros（耸肩）则表示漠然或不知道。",
+      "exampleEs": "Cuando le recordaron su discurso de aquella noche, se encogió de vergüenza.",
+      "exampleZh": "当有人提起他那晚的发言时，他羞愧得恨不得找个地缝钻进去。"
+    },
+    {
+      "expression": "caerse a pedazos",
+      "type": "modismo",
+      "translation": "散架，分崩离析；（比喻）快撑不住了",
+      "usage": "字面意思是『碎成一片片』，既可指物品因破旧而散架，也可比喻人因极度疲惫或压力而身心俱疲，口语中极为常见，语气生动形象，比 estar agotado（精疲力竭）更具画面感和情感张力。",
+      "exampleEs": "Después de tres semanas sin descanso, siento que me estoy cayendo a pedazos.",
+      "exampleZh": "连续三周没有休息之后，我感觉自己快撑不住了。"
+    },
+    {
+      "expression": "desahogar(se)",
+      "type": "colocación",
+      "translation": "倾诉，宣泄积压的情感",
+      "usage": "desahogarse 是反身动词，指将长期压抑在内心的情绪或想法一次性倾诉出来，常见搭配有 necesito desahogarme（我需要倾诉）、desahogarse con un amigo（向朋友倾诉），比 expresarse（表达自己）更强调情感的积压程度和释放后的如释重负感。",
+      "exampleEs": "Llamó a su mejor amiga solo para desahogarse después de una semana horrible.",
+      "exampleZh": "在经历了糟糕的一周之后，她打电话给最好的朋友，只是想倾诉一下。"
+    },
+    {
+      "expression": "estar en una encrucijada",
+      "type": "modismo",
+      "translation": "处于十字路口，面临重大抉择",
+      "usage": "encrucijada 本义是道路交叉点，比喻人生中必须做出方向性选择的关键时刻，比 dilema（两难困境）更强调选择的方向性和不可逆性，是文学、新闻和演讲中描述人生转折点的经典表达。",
+      "exampleEs": "A los cuarenta años, se encontraba en una encrucijada: seguir en la empresa o lanzarse a su propio negocio.",
+      "exampleZh": "四十岁时，他站在了人生的十字路口：是继续留在公司，还是自己创业。"
+    },
+    {
+      "expression": "toparse con",
+      "type": "colocación",
+      "translation": "偶然碰到，不期而遇",
+      "usage": "toparse con 强调邂逅的偶然性，不含主动寻找的意味，可用于人、事物或信息，如 toparse con un artículo（偶然看到一篇文章）、toparse con un viejo amigo（偶遇老朋友），比 encontrarse con 更口语化，带有一种意外之喜的语气。",
+      "exampleEs": "Paseando por el mercado, me topé con una edición antigua del libro que llevaba años buscando.",
+      "exampleZh": "在市场闲逛时，我偶然发现了一本我寻找多年的书的旧版本。"
+    }
+  ]
+}

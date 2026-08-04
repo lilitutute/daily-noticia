@@ -1,0 +1,251 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科学与健康",
+  "difficulty": "B2",
+  "wordCount": "约800词",
+  "title": "Radiografía de los edulcorantes en España: así sustituye la industria el azúcar en miles de alimentos",
+  "subtitle": "西班牙甜味剂全景扫描：食品工业如何在数千种产品中以甜味剂替代糖",
+  "resumenEs": "Un estudio español del CIBEROBN ha analizado la presencia de edulcorantes bajos y sin calorías en productos que representan el 85% del mercado español, identificándolos en 2.469 alimentos y bebidas. Los resultados revelan que los refrescos siguen siendo la categoría principal, pero los chocolates y dulces han escalado al segundo lugar, lo que indica una extensión del uso de estos ingredientes más allá de las bebidas. El acesulfamo K ha desplazado al sorbitol como el edulcorante más utilizado, y la combinación de varios edulcorantes en un mismo producto se ha convertido en la estrategia predominante de la industria.",
+  "resumenZh": "西班牙CIBEROBN的一项研究分析了覆盖西班牙市场85%的产品中低卡路里和无卡路里甜味剂的使用情况，在2469种食品和饮料中发现了这类成分。结果显示，碳酸饮料仍是主要类别，但巧克力和糖果已跃升至第二位，表明甜味剂的使用已超出饮料范畴。安赛蜜取代山梨糖醇成为最常用的甜味剂，而在同一产品中混合使用多种甜味剂已成为食品工业的主流策略。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Cada vez es más habitual encontrar productos 'zero', sin azúcares... En los etiquetados aparecen nombres de sustitutos del azúcar como acesulfamo K, sorbitol, sucralosa y aspartamo. Esto lleva a un uso de <strong>edulcorantes</strong> bajos y sin calorías (LNCS, por sus siglas en inglés) cada vez mayor.",
+      "zh": "越来越常见到『零糖』、无糖产品……在标签上出现了安赛蜜、山梨糖醇、三氯蔗糖和阿斯巴甜等糖替代品的名称。这导致低卡路里和无卡路里甜味剂（英文缩写LNCS）的使用日益增多。",
+      "vocab": [
+        {
+          "word": "edulcorantes",
+          "translation": "甜味剂，代糖",
+          "note": "edulcorante 源自拉丁语 dulcis（甜），前缀 e- 表示『使……化』，即『使变甜的物质』，同族词有 dulce（甜的）、endulzar（使变甜）、dulzura（甜蜜），掌握这一词根有助于识别食品标签和营养学文章中的相关词汇。"
+        },
+        {
+          "word": "etiquetados",
+          "translation": "标签，产品标注",
+          "note": "etiquetado 既是名词（标签信息、标注内容），也是动词 etiquetar 的过去分词，在食品法规和营养学语境中是核心词汇，固定搭配有 normativa de etiquetado（标签法规）、información declarada en el etiquetado（标签上标注的信息）。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Este aumento en los últimos años en España responde, entre otros factores, a la <strong>reformulación</strong> de alimentos y bebidas para reducir su contenido en azúcares. Ahora, un trabajo español refleja novedades significativas en las <strong>pautas</strong> de la industria.",
+      "zh": "近年来西班牙这一增长趋势，部分原因在于食品和饮料为降低含糖量而进行的配方重组。如今，一项西班牙研究揭示了食品行业模式的重大新变化。",
+      "vocab": [
+        {
+          "word": "reformulación",
+          "translation": "配方重组，重新调整成分",
+          "note": "reformulación 由 re-（重新）+ formulación（配方、表述）构成，在食品工业语境中专指对产品成分配比的重新调整，在学术和政策语境中也可指对理论或政策的重新表述，是本文的核心概念词。"
+        },
+        {
+          "word": "pautas",
+          "translation": "模式，规律，准则",
+          "note": "pauta 指指导行为或现象的规律性模式，比 norma（规范）更强调观察到的行为规律，比 tendencia（趋势）更强调稳定性，固定搭配有 marcar las pautas（制定规则、引领潮流）、seguir las pautas（遵循模式），是新闻和学术文体的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Conocer qué productos contienen estos ingredientes es importante para los consumidores de cara a una toma de decisiones alimentarias más <strong>informada</strong>, especialmente en personas que desean controlar su <strong>ingesta</strong> de azúcares o que presentan necesidades dietéticas específicas. Para las autoridades sanitarias es clave de cara a disponer de una visión actualizada de las tendencias de uso de los edulcorantes, lo que puede contribuir al seguimiento de la reformulación de alimentos, a la evaluación de las prácticas de etiquetado y al desarrollo de futuras políticas nutricionales.",
+      "zh": "了解哪些产品含有这些成分，对消费者做出更有依据的饮食决策非常重要，尤其是对于希望控制糖摄入量或有特定饮食需求的人群。对卫生主管部门而言，掌握甜味剂使用趋势的最新动态至关重要，这有助于跟踪食品配方调整情况、评估标签标注做法，并为未来营养政策的制定提供依据。",
+      "vocab": [
+        {
+          "word": "informada",
+          "translation": "有依据的，知情的，基于信息的",
+          "note": "toma de decisiones informada 是固定搭配，意为『基于充分信息的决策』，是医疗、法律和消费者权益语境中的核心概念，与英语 informed decision-making 完全对应，体现了 informado/a 在专业语境中超越『被告知』的深层含义。"
+        },
+        {
+          "word": "ingesta",
+          "translation": "摄入量，摄取",
+          "note": "ingesta 是营养学和医学语境中的专业名词，指食物或某种成分的摄入量，固定搭配有 ingesta calórica（热量摄入）、ingesta diaria admisible（每日允许摄入量），比口语词 consumo（消费、摄入）更精确，是阅读健康类文章的必备词汇。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "La investigación, llevada a cabo por personal investigador del área de Fisiopatología de la Obesidad y Nutrición del CIBEROBN, —liderado por el grupo de María Puy Portillo, de la Universidad del País Vasco (UPV/EHU) y directora científica del CIBEROBN—, ha servido para <strong>actualizar</strong> la información sobre la presencia de edulcorantes bajos en y sin calorías en los alimentos y bebidas <strong>comercializados</strong> en España.",
+      "zh": "这项研究由CIBEROBN肥胖与营养病理生理学领域的研究人员开展——由巴斯克大学（UPV/EHU）玛丽亚·普伊·波尔蒂略团队主导，她同时担任CIBEROBN科学主任——旨在更新西班牙市面上销售的食品和饮料中低卡路里和无卡路里甜味剂存在情况的相关信息。",
+      "vocab": [
+        {
+          "word": "actualizar",
+          "translation": "更新，使与时俱进",
+          "note": "actualizar 由 actual（当前的、现时的）派生而来，意为『使信息或状态与当前实际情况保持一致』，是科技、新闻和学术语境中的高频词，固定搭配有 actualizar datos（更新数据）、actualizar el sistema（更新系统），注意 actual 是假朋友，不等于英语 actual（实际的）。"
+        },
+        {
+          "word": "comercializados",
+          "translation": "上市销售的，商业化的",
+          "note": "comercializar 意为『将产品推向市场进行销售』，过去分词 comercializado 常作定语修饰产品，固定搭配有 productos comercializados en España（在西班牙销售的产品）、fecha de comercialización（上市日期），是商业和食品法规文章中的核心词汇。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "El trabajo, publicado en Journal of Food Composition and Analysis, ha incluido el análisis de alimentos y bebidas <strong>representativos</strong> del 85 % del mercado español, con la identificación de la presencia de uno o más edulcorantes bajos y sin calorías autorizados en la Unión Europea en 2.469 alimentos y bebidas, lo que <strong>pone de manifiesto</strong> su uso habitual por parte de la industria alimentaria en las diferentes categorías de alimentos y bebidas.",
+      "zh": "这项发表于《食品成分与分析杂志》的研究，分析了代表西班牙市场85%份额的食品和饮料，在2469种食品和饮料中识别出一种或多种欧盟批准的低卡路里和无卡路里甜味剂，这充分表明食品行业在各类食品和饮料中普遍使用这些成分。",
+      "vocab": [
+        {
+          "word": "representativos",
+          "translation": "有代表性的，具有代表意义的",
+          "note": "representativo/a 在统计和研究语境中指样本能够反映整体特征，固定搭配有 muestra representativa（代表性样本）、ser representativo de（代表……、体现……），是学术论文和新闻报道中描述研究方法时的高频词。"
+        },
+        {
+          "word": "pone de manifiesto",
+          "translation": "表明，揭示，清楚显示",
+          "note": "poner de manifiesto 是学术和新闻文体中的高频固定搭配，意为『使某事变得清晰可见、明确揭示』，比 mostrar（显示）更正式，比 demostrar（证明）更强调将隐藏的事实呈现出来，是科学报告和评论文章的标志性表达。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Además, puede interpretarse como un <strong>indicador</strong> de la reformulación que se ha llevado a cabo en los productos alimenticios por parte de la industria alimentaria en los últimos 15 años. \"En el contexto europeo, muchas empresas han sustituido parcial o totalmente los azúcares añadidos por edulcorantes para reducir el contenido energético o cumplir objetivos de reducción o <strong>eliminación</strong> de azúcares en la alimentación\".",
+      "zh": "此外，这可以被解读为食品行业在过去15年中对食品进行配方重组的一个指标。「在欧洲背景下，许多企业已将添加糖部分或全部替换为甜味剂，以降低能量含量，或实现减少乃至消除饮食中糖分的目标。」",
+      "vocab": [
+        {
+          "word": "indicador",
+          "translation": "指标，标志，指示器",
+          "note": "indicador 在统计、经济和科学语境中指用于衡量或反映某种状态的量化标准，固定搭配有 indicador económico（经济指标）、indicador de salud（健康指标），与 señal（信号）相比更强调可量化性和系统性，是学术和新闻文体的核心词汇。"
+        },
+        {
+          "word": "eliminación",
+          "translation": "消除，去除，淘汰",
+          "note": "eliminación 在食品和医学语境中指对某种成分的彻底去除，与 reducción（减少）形成程度上的对比，固定搭配有 eliminación de azúcares（去糖）、eliminación de residuos（废物排除），是科学报告中描述干预措施时的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "El estudio pone de manifiesto cambios respecto a investigaciones previas, realizadas en los últimos 8 años. Mientras que la categoría de refrescos continúa siendo la principal y <strong>concentra</strong> el 36,65 % de los productos identificados con estos ingredientes, \"Barras de chocolate y confitería, coberturas dulces y postres\" pasa a ocupar el segundo lugar en presencia de LNCS, sustituyendo a los zumos y <strong>néctares</strong> de frutas.",
+      "zh": "该研究揭示了与过去8年间此前研究相比的变化。碳酸饮料类别仍居首位，占含有这些成分产品的36.65%，而『巧克力棒和糖果、甜味涂层和甜点』在LNCS存在量上跃升至第二位，取代了果汁和果汁饮料。",
+      "vocab": [
+        {
+          "word": "concentra",
+          "translation": "集中，汇聚，占据",
+          "note": "concentrar 在统计语境中表示某类别占据总量中较大比例，固定搭配有 concentrar el X% de（占……的X%）、concentrarse en（集中于），比 acumular（积累）更强调比例上的集中性，是市场分析和社会统计报道中的高频词。"
+        },
+        {
+          "word": "néctares",
+          "translation": "果汁饮料，花蜜饮料",
+          "note": "néctar 在食品法规中专指含果汁比例介于25%至99%之间的饮料，与 zumo（100%纯果汁）和 bebida de frutas（果味饮料，含果汁低于25%）有严格区别，了解这一区分对阅读食品标签和营养法规文章至关重要。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Este hecho indica que el empleo de LNCS se está extendiendo más allá de las categorías <strong>tradicionalmente</strong> asociadas a estos ingredientes, como las bebidas, señala la experta, e indica una evolución de las estrategias de reformulación dirigidas a reducir o eliminar el contenido de azúcares en un <strong>espectro</strong> más amplio de productos alimenticios. \"Este desplazamiento puede tener relevancia desde el punto de vista de la exposición. Si los LNCS están cada vez más presentes en alimentos y bebidas de consumo cotidiano, y no solo en bebidas, las fuentes potenciales de exposición se <strong>diversifican</strong>\".",
+      "zh": "这一事实表明，LNCS的使用正在扩展到传统上与这些成分相关联的类别（如饮料）之外，该专家指出，这标志着旨在减少或消除食品含糖量的配方重组策略在更广泛的食品范围内的演变。「这一转变从暴露角度来看可能具有重要意义。如果LNCS在日常消费的食品和饮料中越来越普遍，而不仅仅是饮料，那么潜在的暴露来源就会多样化。」",
+      "vocab": [
+        {
+          "word": "tradicionalmente",
+          "translation": "传统上，历来，惯例上",
+          "note": "tradicionalmente 在学术和新闻语境中用于描述某种长期存在的惯例或历史规律，与 históricamente（历史上）相比更强调文化或行业惯例的延续性，是对比新旧变化时的高频副词，常见于 tradicionalmente asociado a（传统上与……相关联）等结构。"
+        },
+        {
+          "word": "espectro",
+          "translation": "范围，谱系，广度",
+          "note": "espectro 本义是物理学中的『光谱』，引申为某事物涵盖的范围或多样性，固定搭配 un espectro más amplio de（更广泛的……范围）是学术和新闻文体中的高频表达，比 gama（系列、范围）更强调连续性和多样性。"
+        },
+        {
+          "word": "diversifican",
+          "translation": "多样化，分散，扩展",
+          "note": "diversificar 由 diverso（多样的）+ -ficar（使……化）构成，意为『使更加多样』，在经济语境中常见于 diversificar inversiones（分散投资），在此指暴露来源的多元化，后缀 -ficar 与 -izar 类似，是构词能力强的动词后缀。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "El estudio también muestra cambios en el tipo de edulcorantes utilizados. El acesulfamo K se convierte en el más empleado en los productos analizados -sustituyendo al sorbitol-, seguido de la sucralosa y el aspartamo. Este es un edulcorante de alta <strong>intensidad</strong> que permite endulzar los alimentos utilizando cantidades muy pequeñas. Presenta además la ventaja de su gran <strong>estabilidad térmica</strong>.",
+      "zh": "研究还显示了所用甜味剂类型的变化。安赛蜜成为分析产品中使用最多的甜味剂——取代了山梨糖醇——其次是三氯蔗糖和阿斯巴甜。安赛蜜是一种高强度甜味剂，只需极少量即可使食品变甜。它还具有热稳定性好的优点。",
+      "vocab": [
+        {
+          "word": "intensidad",
+          "translation": "强度，烈度",
+          "note": "edulcorante de alta intensidad 是食品科学中的固定术语，指甜度远高于蔗糖（通常数百倍以上）、因此只需极少量使用的甜味剂，与 edulcorante de volumen（填充型甜味剂，如山梨糖醇）形成对比，是阅读食品标签和营养政策文章的必备概念。"
+        },
+        {
+          "word": "estabilidad térmica",
+          "translation": "热稳定性",
+          "note": "estabilidad térmica 是化学和食品科学中的固定搭配，指物质在高温条件下保持其化学结构和功能不变的特性，对食品加工（如烘焙）具有重要意义，estabilidad 还可与其他词搭配，如 estabilidad emocional（情绪稳定性）、estabilidad política（政治稳定）。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "\"Los resultados muestran que la reformulación de los alimentos está modificando el perfil de edulcorantes utilizados en distintas categorías de productos. Esto pone de manifiesto la necesidad de mantener una <strong>monitorización</strong> continua del mercado alimentario\", señala Asier Léniz, primer autor del estudio. Cabe destacar que en esta investigación no se ha <strong>cuantificado</strong> de manera experimental la cantidad real de edulcorantes presentes en los alimentos y bebidas, sino que nos hemos basado exclusivamente en la información declarada en el etiquetado de los productos.",
+      "zh": "「研究结果表明，食品配方重组正在改变不同产品类别中所使用的甜味剂构成。这凸显了对食品市场进行持续监测的必要性，」研究第一作者阿西尔·莱尼斯指出。值得注意的是，本研究并未通过实验手段对食品和饮料中实际存在的甜味剂数量进行定量测定，而是完全依赖于产品标签上标注的信息。",
+      "vocab": [
+        {
+          "word": "monitorización",
+          "translation": "监测，持续跟踪",
+          "note": "monitorización 源自英语借词 monitor，在医学、环境和市场语境中指对某一指标进行持续系统性观察，与 seguimiento（跟踪、随访）近义但更强调技术手段的介入，固定搭配有 monitorización continua（持续监测）、monitorización del mercado（市场监测）。"
+        },
+        {
+          "word": "cuantificado",
+          "translation": "量化的，定量测定的",
+          "note": "cuantificar 由 cuanto（多少）+ -ficar（使……化）构成，意为『将某事物转化为可测量的数值』，是科学研究方法论中的核心词汇，与 cualificar（定性）形成对比，固定搭配有 cuantificar el riesgo（量化风险）、difícil de cuantificar（难以量化）。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Otra de las conclusiones del trabajo es que la combinación de varios edulcorantes en un mismo alimento constituye la práctica más habitual y se ha convertido en la <strong>estrategia predominante</strong> de reformulación, ya que la mayoría de los productos contienen dos o tres LNCS utilizados de forma conjunta. Además, la industria alimentaria tiende a utilizar sustancias de alto poder edulcorante para usar la mínima cantidad posible. Ambos hechos son relevantes ya que permiten minimizar el <strong>regusto</strong> que producen algunos edulcorantes.",
+      "zh": "研究的另一项结论是，在同一食品中混合使用多种甜味剂已成为最普遍的做法，并已发展为主流的配方重组策略，因为大多数产品含有两种或三种联合使用的LNCS。此外，食品行业倾向于使用高甜度物质，以尽可能减少用量。这两点都很重要，因为它们有助于最大程度地减少某些甜味剂产生的余味。",
+      "vocab": [
+        {
+          "word": "estrategia predominante",
+          "translation": "主流策略，占主导地位的策略",
+          "note": "predominante 源自 predominar（占主导地位），形容在同类事物中占据最大比重或影响力的，固定搭配有 tendencia predominante（主流趋势）、factor predominante（主要因素），比 principal（主要的）更强调相对于其他选项的压倒性优势。"
+        },
+        {
+          "word": "regusto",
+          "translation": "余味，后味，残留口感",
+          "note": "regusto 由 re-（再次）+ gusto（味道）构成，专指食物或饮料在吞咽后在口腔中残留的味道，在食品科学中是描述感官体验的专业词汇，某些甜味剂（如甜菊糖）因其苦涩的 regusto 而受到消费者的负面评价，是理解食品配方策略的关键词。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "En consecuencia, \"en la actualidad, el consumidor puede estar expuesto a edulcorantes diferentes, a través de más tipos de alimentos y bebidas que hace unos años. No obstante, dado que, como se ha señalado, se tiende a utilizar cantidades pequeñas, esta situación no significa necesariamente que la cantidad <strong>ingerida</strong> sea mayor\", concluye María Puy Portillo.",
+      "zh": "因此，「目前，消费者可能通过比几年前更多种类的食品和饮料接触到不同的甜味剂。然而，鉴于如前所述，使用量趋于减少，这种情况并不一定意味着摄入量更大，」玛丽亚·普伊·波尔蒂略总结道。",
+      "vocab": [
+        {
+          "word": "ingerida",
+          "translation": "摄入的，吞咽的",
+          "note": "ingerir 是医学和营养学中的正式动词，意为『摄入、吞咽』，比口语词 comer/beber 更精确，专指将食物或药物经口摄入体内的行为，名词形式为 ingesta（摄入量），固定搭配有 cantidad ingerida（摄入量）、dosis ingerida（摄入剂量）。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "poner de manifiesto",
+      "type": "colocación",
+      "translation": "揭示，表明，清楚显示",
+      "usage": "学术、新闻和正式文体中极为高频的固定搭配，意为『将原本不明显的事实清晰呈现出来』，比 mostrar 更正式，比 demostrar 更强调揭示性而非论证性，常见结构为 esto pone de manifiesto que...（这表明……），是西语学术写作的标志性表达。",
+      "exampleEs": "Los datos ponen de manifiesto que el consumo de ultraprocesados ha aumentado un 30% en la última década.",
+      "exampleZh": "数据清楚表明，过去十年间超加工食品的消费量增长了30%。"
+    },
+    {
+      "expression": "de cara a",
+      "type": "colocación",
+      "translation": "为了，面向，着眼于",
+      "usage": "de cara a 是正式文体中表达目的或方向的固定介词短语，意为『以……为目标、着眼于』，比 para 更正式，常见于政策、学术和新闻语境，如 de cara al futuro（着眼未来）、de cara a las elecciones（面向选举），不可用于口语随意场合。",
+      "exampleEs": "El gobierno aprobó nuevas medidas de cara a reducir las emisiones de carbono antes de 2030.",
+      "exampleZh": "政府批准了新措施，着眼于在2030年前减少碳排放。"
+    },
+    {
+      "expression": "cabe destacar",
+      "type": "colocación",
+      "translation": "值得注意的是，需要指出的是",
+      "usage": "cabe destacar（que）是学术论文、新闻报道和正式演讲中引出重要补充信息或注意事项的固定句式，caber 在此意为『有必要、适合』，语气比 es importante señalar 更简洁正式，是西语书面表达中的高频学术套语。",
+      "exampleEs": "Cabe destacar que los resultados del estudio no pueden extrapolarse a toda la población.",
+      "exampleZh": "值得注意的是，该研究结果不能推广至整个人群。"
+    },
+    {
+      "expression": "más allá de",
+      "type": "colocación",
+      "translation": "超越，不仅限于，在……之外",
+      "usage": "más allá de 是正式文体中表达『超出某一范围或界限』的固定介词短语，既可用于物理空间，也可用于抽象概念，如 más allá de lo esperado（超出预期）、más allá de las fronteras（超越国界），是学术和新闻写作中描述范围扩展时的高频表达。",
+      "exampleEs": "El impacto de la crisis fue más allá de lo económico: afectó también a la salud mental de la población.",
+      "exampleZh": "这场危机的影响超出了经济层面，也波及了民众的心理健康。"
+    }
+  ]
+}
