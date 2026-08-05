@@ -1,0 +1,333 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会与环境",
+  "difficulty": "B2",
+  "wordCount": "约1100词",
+  "title": "El debate | ¿Es el aire acondicionado una solución imprescindible ante las olas de calor?",
+  "subtitle": "辩论 | 面对热浪，空调是不可或缺的解决方案吗？",
+  "resumenEs": "Dos periodistas debaten sobre el uso del aire acondicionado ante las olas de calor. Thiago Ferrer defiende que vivir dignamente exige temperaturas cómodas y que la climatización debe considerarse un derecho, aunque subraya la necesidad de usarla de forma eficiente y justa. María Arranz reconoce su utilidad en casos vulnerables, pero advierte del impacto energético y medioambiental, y critica la apuesta exclusiva por el aire acondicionado como solución individual a un problema colectivo que requiere medidas estructurales.",
+  "resumenZh": "两位记者就热浪期间使用空调的问题展开辩论。Thiago Ferrer认为有尊严地生活需要舒适的温度，制冷应被视为一项权利，但强调必须高效、公平地使用。María Arranz承认空调在弱势群体中的实用价值，但警告其能源和环境影响，并批评将空调作为唯一解决方案的做法——这是将集体问题个人化，真正需要的是结构性措施。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Europa occidental vive el verano más caluroso de su historia, como ya ha pasado muchas veces desde el principio de este siglo y empieza a ser consciente de los efectos que la crisis climática tiene sobre la calidad de vida y la salud. La adaptación a las nuevas temperaturas es necesaria, pero una de las soluciones más evidentes, el aire acondicionado, despierta ciertas <strong>reticencias</strong>, por su alto consumo energético y sus efectos sobre la salud. Los periodistas Thiago Ferrer y María Arranz discuten sobre los pros y los contras de la <strong>climatización</strong> en la vida diaria.",
+      "zh": "西欧正经历其历史上最炎热的夏天，这种情况自本世纪初以来已多次出现，人们也开始意识到气候危机对生活质量和健康的影响。适应新的气温是必要的，但最显而易见的解决方案之一——空调——因其高能耗和对健康的影响而引发了一定的抵触情绪。记者Thiago Ferrer和María Arranz就日常生活中空调的利与弊展开讨论。",
+      "vocab": [
+        {
+          "word": "reticencias",
+          "translation": "抵触情绪，保留意见，不情愿",
+          "note": "reticencia 指对某事持保留或不愿接受的态度，固定搭配 mostrar reticencias ante/hacia algo（对某事表现出抵触）在新闻和评论文体中极为常见，比 resistencia（抵抗）语气更温和，强调心理上的犹豫而非行动上的对抗。"
+        },
+        {
+          "word": "climatización",
+          "translation": "空调系统，温控，制冷供暖",
+          "note": "climatización 是比 aire acondicionado 更宽泛的技术词汇，涵盖制冷和供暖两种功能，源自 clima（气候）+ -ización（使……化），同类构词如 urbanización（城市化）、digitalización（数字化），掌握 -ización 后缀可快速识别大量抽象名词。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Los populismos de derecha casi siempre juegan a la guerra cultural de la misma forma. De cuando en cuando, salen <strong>titulares</strong> indignadísimos de que \"la izquierda\" quiere prohibir algo: la carne roja, los caramelos, los gatitos, you name it. Generalmente haciendo referencia a lo que ha dicho algún <strong>iluminado</strong> —muchas veces fuera de contexto— como demostración. Y, en muchos casos, con una exhibición del comportamiento presuntamente perseguido: si hoy toca la carne roja, con un chuletón a la brasa de dos dedos de grueso; si es el turno del tabaco, fumándose un Montecristo en plan Sara Montiel, y así sucesivamente.",
+      "zh": "右翼民粹主义几乎总是以同样的方式玩弄文化战争。时不时地，就会出现愤慨至极的新闻标题，称『左派』想要禁止某样东西：红肉、糖果、小猫咪，诸如此类。通常是以某个『启蒙者』所说的话——很多时候断章取义——作为佐证。而且在很多情况下，还会展示所谓被打压的行为：如果今天轮到红肉，就来一块两指厚的炭烤牛排；如果轮到烟草，就像萨拉·蒙铁尔那样叼着一根蒙特克里斯托雪茄，如此循环往复。",
+      "vocab": [
+        {
+          "word": "titulares",
+          "translation": "新闻标题，头条",
+          "note": "titular 作名词时指报纸或新闻标题，固定搭配 salir en los titulares（登上头条）、acaparar titulares（霸占头条）是新闻语境高频表达；作形容词时意为『正式任职的』（如 profesor titular），两种用法需根据语境区分。"
+        },
+        {
+          "word": "iluminado",
+          "translation": "自以为是的人，狂热分子，『先知』",
+          "note": "iluminado 字面意思是『被照亮的』，在口语和评论文体中带有讽刺意味，指那些自认为拥有特殊见解或使命感、实则偏激的人，语气类似中文的『先知』或『圣人』，是理解政治评论文章的重要文化词汇。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Cuando hablamos del aire acondicionado, estamos ante un ejemplo de la frase clásica de H. L. Mencken: \"Hay una solución conocida para cualquier problema humano: simple, <strong>plausible</strong> y equivocada\". Los populismos venden las soluciones que entendería alguien de 15 años y probablemente son las que intentaría alguien de 15 años. Al fin y al cabo, ya llevamos varias generaciones criadas en la creencia de que el ser humano puede hacer lo que le <strong>plazca</strong> y, si no puede, es por falta de fuerza de voluntad. Corresponde a los expertos la ingrata tarea de despertar a la gente de esta <strong>adolescencia perpetua</strong>, recordar que nada es tan sencillo, que los comportamientos tienen consecuencias y que vivir en sociedad implica sacrificios. En este caso, la solución más obvia es poner máquinas de aire acondicionado \"en todos lados\".",
+      "zh": "当我们谈论空调时，我们面对的正是H. L. 门肯那句经典话语的一个例证：『对于任何人类问题，都有一个众所周知的解决方案：简单、貌似合理，却是错误的。』民粹主义兜售的是一个15岁的人能理解、也可能会尝试的解决方案。毕竟，我们已经有好几代人是在这样的信念中长大的：人类可以为所欲为，如果做不到，那只是意志力不够。向专家们施加这项吃力不讨好的任务——唤醒人们走出这种永久的青春期——提醒他们没有什么是那么简单的，行为是有后果的，生活在社会中意味着要做出牺牲。在这种情况下，最显而易见的解决方案就是『到处』安装空调。",
+      "vocab": [
+        {
+          "word": "plausible",
+          "translation": "貌似合理的，看似可信的",
+          "note": "假朋友警告：plausible 在西语中意为『表面上说得通的、貌似合理的』，带有一定的质疑意味，与英语 plausible 含义相近，但中文直觉可能误译为『可行的』，注意它不等于 viable（可行的）或 razonable（合理的）。"
+        },
+        {
+          "word": "plazca",
+          "translation": "（使）满意，（使）高兴",
+          "note": "placer 的虚拟式形式，固定搭配 lo que le plazca 意为『任何他/她想要的』，是正式或文学语体中表达随意性的高级表达，比口语的 lo que quiera 更典雅，常见于法律文本和文学作品。"
+        },
+        {
+          "word": "adolescencia perpetua",
+          "translation": "永久的青春期，永远长不大的状态",
+          "note": "perpetua 源自 perpetuo（永久的、永恒的），固定搭配如 cadena perpetua（无期徒刑）、movimiento perpetuo（永动机），此处与 adolescencia 搭配构成比喻，形容社会上拒绝承担责任、追求即时满足的心态。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "La Organización Mundial de la Salud estima que cada año 548.000 personas mueren por causas relacionadas con el calor. Esta cifra no hará sino crecer <strong>conforme</strong> el cambio climático vaya elevando las temperaturas globales y empeorando olas de calor como las que estamos viviendo en España esta misma semana. Y, para los vivos, el calor extremo representa un <strong>deterioro</strong> en la salud y la calidad de vida. Dormimos peor, pensamos peor, nuestras enfermedades se agravan.",
+      "zh": "世界卫生组织估计，每年有54.8万人死于与高温相关的原因。随着气候变化不断推高全球气温、加剧如我们本周在西班牙正经历的热浪，这一数字只会不断攀升。而对于活着的人来说，极端高温意味着健康和生活质量的恶化。我们睡得更差，思考更差，疾病也会加重。",
+      "vocab": [
+        {
+          "word": "conforme",
+          "translation": "随着，与……相应地",
+          "note": "conforme 作连词时引导表示同步变化的从句，结构为 conforme + 动词，意为『随着……的进展』，比 a medida que 更简洁，常见于新闻和学术文体，如 conforme avanza el tiempo（随着时间推移）。"
+        },
+        {
+          "word": "deterioro",
+          "translation": "恶化，退化，损耗",
+          "note": "deterioro 是 deteriorar（使恶化）的名词形式，固定搭配有 deterioro de la salud（健康恶化）、deterioro cognitivo（认知退化）、deterioro medioambiental（环境恶化），是医学、环境和社会新闻中的核心词汇。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Vivir dignamente, pues, implica pasar el mayor tiempo posible con una temperatura compatible con la vida y la salud. La mejor de las opciones posibles es reducir las emisiones de <strong>gases de efecto invernadero</strong> para que el calentamiento de la atmósfera no sea más grave de lo que ya es. Pero, mientras tanto, tenemos que adaptarnos a las condiciones que tenemos ahora. Como apunta Pedro Vicente Quiles, presidente del Comité Técnico de la Asociación Técnica Española de Climatización y Refrigeración (Atecyr), cuando las temperaturas en la calle superan los 30 grados \"resulta generalmente imposible conseguir unas condiciones interiores adecuadas sin el uso de sistemas de climatización, y más aún en olas de calor\", por lo que \"en las viviendas, la climatización debe ser considerada como un derecho y no como un lujo\".",
+      "zh": "因此，有尊严地生活意味着尽可能多地待在与生命和健康相适应的温度环境中。最佳选择是减少温室气体排放，以免大气升温比现在更为严重。但与此同时，我们必须适应当前的条件。正如西班牙空调与制冷技术协会（Atecyr）技术委员会主席Pedro Vicente Quiles所指出的，当街道温度超过30摄氏度时，『在没有空调系统的情况下，通常不可能获得适宜的室内条件，在热浪期间更是如此』，因此『在住宅中，空调应被视为一项权利而非奢侈品』。",
+      "vocab": [
+        {
+          "word": "gases de efecto invernadero",
+          "translation": "温室气体",
+          "note": "efecto invernadero（温室效应）是气候议题的核心固定搭配，invernadero 本义是『温室、暖房』，此处用于比喻大气层对热量的保留效应，掌握这一搭配是阅读所有气候类新闻的基础。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "El problema, y es ahí donde entran los adultos en la ecuación, todos tenemos que disfrutar de este derecho, y de una manera que no perjudique a los demás. Primero, porque hay que usar la energía de forma <strong>eficiente</strong>. Segundo, porque algunos métodos de producción de electricidad agravan la emisión de gases contaminantes. Tercero, porque el uso excesivo del aire acondicionado también tiene sus efectos sobre la salud. Y cuarto, porque, como dijo Homer Simpson, \"en esta casa obedecemos las leyes de la termodinámica\": el calor que sacamos de nuestras casas y lugares de trabajo tiene que parar en algún sitio, que es, generalmente, la calle.",
+      "zh": "问题在于——这正是理性的人介入的地方——我们所有人都必须享有这项权利，且方式不能损害他人。第一，因为必须高效地使用能源。第二，因为某些发电方式会加剧污染气体的排放。第三，因为过度使用空调也会对健康产生影响。第四，正如荷马·辛普森所说：『在这个家里，我们遵守热力学定律』——我们从家中和工作场所排出的热量必须停在某个地方，而那个地方通常就是街道。",
+      "vocab": [
+        {
+          "word": "eficiente",
+          "translation": "高效的，效率高的",
+          "note": "易混辨析：eficiente（高效的，强调以最少资源达到目标）与 eficaz（有效的，强调能达到预期结果）是一对常见易混词，固定搭配 uso eficiente de la energía（高效用能）是能源和环保新闻的核心表达。"
+        },
+        {
+          "word": "agravan",
+          "translation": "加剧，使恶化，使严重",
+          "note": "agravar 由 a- + grave（严重的）构成，意为『使情况变得更严重』，固定搭配有 agravar la situación（加剧局势）、agravar una enfermedad（使病情恶化），与 empeorar 近义但更正式，常见于医学和政治新闻。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Para lo primero, tan importante como la climatización es garantizar que ese frío se queda en la casa, con sistemas de <strong>aislamiento térmico</strong> y circulación de aire. Para lo segundo, avanzar en la electrificación y la implementación de <strong>renovables</strong> y sistemas de almacenamiento de energía. Para lo tercero, poner el aire a un nivel razonable; si te tienes que poner una rebequita, así no es. Y, cuarto, plantar árboles, quitar asfalto y hormigón e instalar sombras para evitar los efectos de <strong>isla de calor</strong>.",
+      "zh": "对于第一点，与空调同样重要的是确保冷气留在室内，这需要隔热系统和空气循环。对于第二点，要推进电气化以及可再生能源和储能系统的实施。对于第三点，将空调调到合理温度；如果你不得不套上一件小开衫，那就不对了。第四点，种植树木，去除沥青和混凝土，安装遮阳设施，以避免热岛效应。",
+      "vocab": [
+        {
+          "word": "aislamiento térmico",
+          "translation": "隔热，热绝缘",
+          "note": "aislamiento 源自 aislar（隔离、绝缘），前缀 a- + isla（岛）构成『使成孤岛』之意，同类搭配有 aislamiento acústico（隔音）、aislamiento social（社会隔离），掌握 aislamiento 的多义性有助于理解建筑、物理和社会类文章。"
+        },
+        {
+          "word": "renovables",
+          "translation": "可再生能源（的）",
+          "note": "renovables 作名词时是 energías renovables（可再生能源）的简称，在能源新闻中单独使用极为常见，源自 renovar（更新、再生），同族词有 renovación（更新）、renovado（焕然一新的），是气候和能源议题的核心词汇。"
+        },
+        {
+          "word": "isla de calor",
+          "translation": "热岛效应",
+          "note": "isla de calor 是城市气候学的固定术语，指城市因大量建筑和路面吸热导致气温高于周边农村地区的现象，与英语 urban heat island 完全对应，是阅读城市规划和气候变化类文章的必备词组。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Todo esto tiene un coste. <strong>Repartirlo</strong> de forma justa es igualmente importante. Porque no todos somos igualmente responsables del cambio climático pero todos sufrimos sus consecuencias. No podemos, voluntariamente, hacerlas peores. Thiago Ferrer Morini es periodista.",
+      "zh": "这一切都有代价。公平地分担这一代价同样重要。因为我们并非对气候变化负有同等责任，但我们都承受着其后果。我们不能自愿地让这些后果变得更糟。Thiago Ferrer Morini是一名记者。",
+      "vocab": [
+        {
+          "word": "Repartirlo",
+          "translation": "分担它，分配它",
+          "note": "repartir 意为『分配、分摊』，固定搭配 repartir de forma justa（公平分配）在社会政策和经济新闻中极为常见，与 distribuir 近义但更口语化，强调将整体分成若干份分给不同主体。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "El aire acondicionado se ha convertido en la <strong>enésima</strong> guerra cultural en plena <strong>canícula</strong> y, como manda la costumbre en estos casos, parece obligatorio manifestarse, de la forma más extrema posible, a favor o en contra de un invento que, ante el alarmante aumento de las temperaturas a escala planetaria, se posiciona como el aliado imprescindible para la supervivencia. Vaya por delante que odio profundamente el verano y sé que esta \"fobia\" me situaría como la candidata perfecta para adorar cualquier tecnología de refrigeración, pero una de las razones por las que no soporto esta estación es, precisamente, por el aire acondicionado. — María Arranz",
+      "zh": "空调已经成为盛夏时节第N次文化战争的主题，按照惯例，在这种情况下，人们似乎必须以最极端的方式表态——支持或反对这项发明。面对全球气温的惊人上升，它被定位为生存的必要盟友。先说明一点：我深深厌恶夏天，我知道这种『恐惧症』会让我成为崇拜任何制冷技术的完美候选人，但我无法忍受这个季节的原因之一，恰恰就是空调。——María Arranz",
+      "vocab": [
+        {
+          "word": "enésima",
+          "translation": "第N次的，不知第几次的",
+          "note": "enésimo/a 源自数学中的 n（表示任意正整数），在口语和新闻中表示『数不清的、又一次的』，带有厌倦或讽刺意味，固定搭配 por enésima vez（又一次、第N次）极为常见，是表达重复疲惫感的地道表达。"
+        },
+        {
+          "word": "canícula",
+          "translation": "盛夏，三伏天，酷暑期",
+          "note": "canícula 专指一年中最炎热的时期（通常为七八月），源自拉丁语 canicula（小狗星，即天狼星），古罗马人认为天狼星升起时带来酷热，是新闻气象报道和文学描写夏季的高级词汇，比 verano 更强调极端高温。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Tengo claro que un uso adecuado de estos aparatos evita muchos de los males asociados a ellos —sequedad de las <strong>mucosas</strong>, irritación de garganta, dolor de cabeza, por citar algunos—, el problema es que en la mayoría de los espacios compartidos, el aire acondicionado está a temperaturas polares. Aunque en verano se recomienda ponerlo a entre 24 y 26°C, basta con darse un paseo por tiendas, oficinas o supermercados para <strong>percatarse</strong> de que no se hace demasiado caso a esta recomendación.",
+      "zh": "我很清楚，适当使用这些设备可以避免与之相关的许多问题——黏膜干燥、喉咙刺激、头痛，仅举几例——问题在于，在大多数公共场所，空调温度都低得像极地一样。尽管夏季建议将其设定在24至26摄氏度之间，但只需在商店、办公室或超市走一圈，就会发现这一建议几乎没有人遵守。",
+      "vocab": [
+        {
+          "word": "mucosas",
+          "translation": "黏膜",
+          "note": "mucosa 是医学和日常健康语境中的常用词，指覆盖人体内腔（鼻腔、口腔、喉咙等）的湿润组织，形容词 mucoso（黏液状的）同族，是理解健康类文章的实用词汇。"
+        },
+        {
+          "word": "percatarse",
+          "translation": "意识到，察觉到，注意到",
+          "note": "percatarse de algo 是固定搭配，介词必须用 de，意为『突然意识到或察觉到某事』，比 darse cuenta de 更正式，常见于书面语和新闻文体，强调通过观察或经历而产生的认知。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Tampoco entiendo esa pasión por dormir toda la noche con un flujo de aire frío y seco en la habitación. Soy consciente de que la sensación de taparse con una mantita en verano es de lo más gustosa, pero un ventilador de techo puede hacer un efecto similar, con menos impacto para la salud y también menor <strong>consumo energético</strong>.",
+      "zh": "我也不理解那种整晚开着冷干气流睡觉的热情。我知道夏天盖着小毯子的感觉非常惬意，但吊扇可以产生类似的效果，对健康的影响更小，能耗也更低。",
+      "vocab": [
+        {
+          "word": "consumo energético",
+          "translation": "能源消耗，能耗",
+          "note": "consumo energético 是能源政策和环保新闻中的核心固定搭配，consumo 还可与其他词搭配构成类似结构，如 consumo de agua（用水量）、consumo de recursos（资源消耗），掌握这一名词搭配模式有助于快速理解经济和环境类文章。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Más allá de mis preferencias individuales, el gasto energético y su <strong>consiguiente</strong> impacto medioambiental son los grandes melones que sobrevuelan siempre el tema del aire acondicionado. Que todos tengamos un aparato de climatización en casa parece una gran solución a corto plazo, pero es bien sabido que, mientras estos aparatos enfrían el interior de los edificios, expulsan aire caliente al exterior, contribuyendo a <strong>caldear</strong> aún más el ambiente. Leo que, por suerte, cada vez hay aparatos más eficientes en este sentido y que este impacto se podría minimizar, pero ahora mismo el aire acondicionado no parece la opción más <strong>sostenible</strong> ni para el planeta ni para nuestros bolsillos.",
+      "zh": "撇开我个人的偏好不谈，能源消耗及其随之而来的环境影响，是空调话题中始终悬而未决的大难题。家家户户都拥有一台空调设备，短期内看似是个好方案，但众所周知，这些设备在冷却建筑内部的同时，会向外排出热空气，进一步加热环境。我读到，幸运的是，越来越多的设备在这方面效率更高，这种影响可以被最小化，但目前空调对地球和我们的钱包来说都不是最可持续的选择。",
+      "vocab": [
+        {
+          "word": "consiguiente",
+          "translation": "随之而来的，由此产生的",
+          "note": "consiguiente 是正式文体中表示因果关系的形容词，固定搭配 y su consiguiente + 名词（及其随之而来的……）在新闻和学术写作中极为常见，比 resultante（由此产生的）更口语化，是连接原因与结果的高级表达。"
+        },
+        {
+          "word": "caldear",
+          "translation": "加热，使升温；（比喻）激化",
+          "note": "caldear 本义是『加热金属或空间』，比喻义可指激化气氛或情绪，如 caldear el ambiente（激化气氛），此处用本义描述空调排热加剧室外高温，是一词多义的实用词汇。"
+        },
+        {
+          "word": "sostenible",
+          "translation": "可持续的，可维持的",
+          "note": "sostenible 是环境和经济新闻中的核心词汇，源自 sostener（支撑、维持），固定搭配有 desarrollo sostenible（可持续发展）、energía sostenible（可持续能源），注意与 sustentable 在拉美西语中可互换，但在西班牙更常用 sostenible。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "Tener un aparato de aire acondicionado y mantenerlo es caro, por lo que la refrigeración se está convirtiendo en un nuevo factor de <strong>desigualdad</strong>. Y mientras lo siga siendo, debemos avanzar también en otras soluciones que garanticen el confort térmico de todo el mundo. Por supuesto, creo que hay casos en los que el aire acondicionado no debería ser un debate. Lugares como hospitales, residencias de personas mayores, escuelas, el transporte público y otros espacios donde se junta mucha gente u hogares donde hay personas especialmente <strong>vulnerables</strong> necesitan refrigeración cuando aprieta el calor y, a falta de otras soluciones, el aire acondicionado se <strong>perfila</strong> como la opción más eficaz.",
+      "zh": "拥有并维护一台空调设备是昂贵的，因此制冷正在成为一个新的不平等因素。在这种情况持续的同时，我们也必须在其他解决方案上取得进展，以保障所有人的热舒适。当然，我认为有些情况下空调不应该成为争论的话题。医院、养老院、学校、公共交通等人员聚集的场所，以及有特别脆弱人群的家庭，在酷热来袭时需要制冷，在缺乏其他解决方案的情况下，空调是最有效的选择。",
+      "vocab": [
+        {
+          "word": "desigualdad",
+          "translation": "不平等，差距",
+          "note": "desigualdad 由 des-（否定）+ igualdad（平等）构成，是社会政策和新闻中的核心词汇，固定搭配有 desigualdad social（社会不平等）、brecha de desigualdad（不平等差距），掌握 des- 前缀可快速识别大量表示『缺乏』或『相反』含义的词汇。"
+        },
+        {
+          "word": "vulnerables",
+          "translation": "脆弱的，易受伤害的，弱势的",
+          "note": "vulnerable 在医疗、社会政策和人道主义语境中专指容易受到伤害或风险影响的群体，固定搭配 personas vulnerables（弱势群体）、grupos vulnerables（脆弱群体）是新闻和政策文件中的高频表达。"
+        },
+        {
+          "word": "perfila",
+          "translation": "显现为，逐渐成为，定位为",
+          "note": "perfilarse como 是新闻和分析文体中的高频固定搭配，意为『逐渐呈现出……的面貌、被定位为』，比 convertirse en 更强调趋势性和可能性，常用于描述尚未完全确定但已初现端倪的发展方向。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "Mis <strong>reticencias</strong> vienen más bien por esa apuesta a una sola carta que se hace desde algunos sectores, mientras se niega el cambio climático y se siguen llenando las ciudades de asfalto y hormigón. <strong>Fiarlo todo</strong> al aire acondicionado es una manera de individualizar un problema que deberíamos abordar como colectivo. Si es el mercado el que asume el reto de hacer frente al aumento generalizado de las temperaturas, corremos el riesgo de centrarnos solo en <strong>mitigarlas</strong>, en lugar de apostar también por soluciones de climatización estructurales y a largo plazo, que ayuden a <strong>paliar</strong> la crisis medioambiental.",
+      "zh": "我的保留意见更多来自于某些领域所做的孤注一掷，同时否认气候变化，继续用沥青和混凝土填满城市。把一切都押注在空调上，是将一个本应集体应对的问题个人化的方式。如果由市场来承担应对普遍气温上升的挑战，我们就有只专注于缓解气温的风险，而不是同时押注于有助于缓解环境危机的结构性和长期制冷解决方案。",
+      "vocab": [
+        {
+          "word": "reticencias",
+          "translation": "保留意见，抵触情绪",
+          "note": "见第一段注释，此处再次出现强调其在辩论文体中的高频性，固定搭配 mis reticencias vienen de（我的保留意见来自于）是表达有条件反对立场的地道句式。"
+        },
+        {
+          "word": "Fiarlo todo",
+          "translation": "把一切都押注在，完全依赖于",
+          "note": "fiar 本义是『赊账、信任』，fiar(lo) todo a algo 意为『把全部希望或赌注押在某事上』，是口语和评论文体中表达过度依赖某一方案的地道表达，带有批评意味，类似中文的『孤注一掷』。"
+        },
+        {
+          "word": "mitigarlas",
+          "translation": "缓解它们，减轻它们",
+          "note": "mitigar 意为『减轻、缓和负面影响』，固定搭配有 mitigar el cambio climático（缓解气候变化）、mitigar el riesgo（降低风险），比 reducir（减少）更强调对已存在问题的缓和处理，是环境和政策新闻的核心词汇。"
+        },
+        {
+          "word": "paliar",
+          "translation": "缓解，减轻，姑息",
+          "note": "paliar 与 mitigar 近义，但 paliar 更强调对症状或后果的临时性缓解，而非根本解决，医学中 cuidados paliativos（姑息治疗）即此词根，在环境和社会政策语境中常暗示措施的局限性。"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "es": "Viviendas con mejor aislamiento térmico, que permitan la refrigeración pasiva y la ventilación, la instalación de toldos o contar con ciudades con más espacios de sombra, arbolado y vegetación parecen una apuesta de futuro más <strong>sostenible</strong>, en todos los sentidos, que darle a un botón para climatizar nuestra parcelita de mundo. Quizá sigamos necesitando el aire acondicionado en interiores, pero esto no debería hacer que nos olvidemos de construir un exterior más <strong>habitable</strong>.",
+      "zh": "拥有更好隔热性能、允许被动制冷和通风的住宅，安装遮阳篷，或拥有更多遮阴空间、树木和植被的城市，在各种意义上，似乎都是比按下一个按钮来给我们那一小片世界制冷更可持续的未来选择。也许我们在室内仍然需要空调，但这不应该让我们忘记打造一个更宜居的室外环境。",
+      "vocab": [
+        {
+          "word": "sostenible",
+          "translation": "可持续的",
+          "note": "见第12段注释，此处再次出现，强调其在环境议题文章中的超高频率，是B2以上学习者必须主动掌握的词汇。"
+        },
+        {
+          "word": "habitable",
+          "translation": "宜居的，适合居住的",
+          "note": "habitable 源自 habitar（居住），后缀 -able 表示『可……的』，同类构词如 sostenible（可持续的）、renovable（可再生的）、viable（可行的），掌握 -able/-ible 后缀可快速识别大量形容词。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "entrar en la ecuación",
+      "type": "modismo",
+      "translation": "介入，成为考量因素",
+      "usage": "字面意思是『进入方程式』，比喻某人或某因素开始参与或影响某一局面，常用于政治、经济和社会评论，语气带有一定的讽刺或强调意味，如 ahí es donde entran los adultos en la ecuación（这正是理性的人介入的地方）。",
+      "exampleEs": "Cuando el dinero entra en la ecuación, las amistades se complican.",
+      "exampleZh": "一旦钱成为考量因素，友谊就会变得复杂。"
+    },
+    {
+      "expression": "apuesta a una sola carta",
+      "type": "modismo",
+      "translation": "孤注一掷，把所有赌注押在一件事上",
+      "usage": "源自赌牌游戏，比喻将全部希望或资源押注在单一方案上，带有批评意味，暗示这种策略缺乏灵活性和远见，常见于政治和经济评论文体。",
+      "exampleEs": "Apostar a una sola carta en los negocios es arriesgado; siempre hay que tener un plan B.",
+      "exampleZh": "在商业上孤注一掷是危险的，总要有一个备选方案。"
+    },
+    {
+      "expression": "como manda la costumbre",
+      "type": "expresión coloquial",
+      "translation": "按照惯例，一如既往地",
+      "usage": "固定口语表达，用于指出某种行为符合既定惯例或套路，语气通常带有轻微的讽刺或无奈，暗示这种惯例本身值得质疑，常见于新闻评论和口语叙述。",
+      "exampleEs": "Como manda la costumbre, el debate político terminó sin ningún acuerdo concreto.",
+      "exampleZh": "一如既往，这场政治辩论以没有任何具体协议告终。"
+    },
+    {
+      "expression": "hacer frente a",
+      "type": "colocación",
+      "translation": "应对，面对，正视",
+      "usage": "hacer frente a 是正式和新闻文体中表达『积极应对某挑战或问题』的高频固定搭配，比 enfrentarse a 更强调主动性和责任感，常见于政策、危机和社会议题报道，不可随意替换为 afrontar（虽近义但更口语）。",
+      "exampleEs": "El gobierno anunció nuevas medidas para hacer frente a la crisis energética.",
+      "exampleZh": "政府宣布了应对能源危机的新措施。"
+    },
+    {
+      "expression": "a falta de",
+      "type": "colocación",
+      "translation": "在缺乏……的情况下，由于没有……",
+      "usage": "a falta de 是正式文体中表达『在某更好选项缺席时退而求其次』的固定介词短语，常用于描述在理想条件不具备时的替代方案，语气带有一定的遗憾或无奈，比 sin（没有）更强调选择的被动性。",
+      "exampleEs": "A falta de transporte público, muchos vecinos se ven obligados a usar el coche.",
+      "exampleZh": "由于缺乏公共交通，许多居民不得不开车出行。"
+    },
+    {
+      "expression": "correr el riesgo de",
+      "type": "colocación",
+      "translation": "冒……的风险，有……的危险",
+      "usage": "correr el riesgo de + 动词原形是新闻、学术和正式文体中表达潜在危险或不良后果的高频固定搭配，比 arriesgarse a 更强调客观存在的风险而非主观冒险行为，是政策分析和警示性文章的标志性表达。",
+      "exampleEs": "Si no diversificamos las fuentes de energía, corremos el riesgo de depender demasiado del petróleo.",
+      "exampleZh": "如果不实现能源来源多元化，我们就有过度依赖石油的风险。"
+    }
+  ]
+}

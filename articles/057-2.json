@@ -1,0 +1,142 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "教育与科技",
+  "difficulty": "B2",
+  "wordCount": "约550词",
+  "title": "La UNAM como aviso",
+  "subtitle": "墨西哥国立自治大学事件：一记警示",
+  "resumenEs": "La UNAM, la mayor universidad de América Latina, enfrenta una crisis sin precedentes tras descubrirse que numerosos aspirantes usaron inteligencia artificial de forma fraudulenta en su examen de admisión, celebrado por primera vez en línea. La institución reaccionó tarde y solo tras la publicación de resultados. Una comisión de 16 académicos debe decidir el futuro de 158.000 estudiantes. El editorial exige transparencia, señala la gravedad del fallo institucional y advierte que el caso sentará precedente para toda la educación superior latinoamericana.",
+  "resumenZh": "墨西哥国立自治大学——拉丁美洲最大的大学——正面临空前危机：大量考生在首次以全线上形式举行的入学考试中被发现使用人工智能作弊。校方在成绩公布后才作出反应。一个由16名学者组成的委员会需要决定15.8万名考生的命运。社论要求校方保持透明，指出机构失职的严重性，并警告此案将为整个拉丁美洲高等教育树立先例。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "La Universidad Nacional Autónoma de México (UNAM), la más grande de América Latina por prestigio y cantidad de alumnos, <strong>atraviesa</strong> una de las crisis más profundas en su historia. El hallazgo de que un buen número de aspirantes de licenciatura utilizaron inteligencia artificial (IA) para mejorar su nota en el examen de admisión ha dado paso a una investigación interna sin <strong>precedentes</strong>. La institución pública celebró hace dos meses su prueba de ingreso, por primera vez, totalmente en línea. Tras la publicación de los resultados, ha quedado expuesto que el uso <strong>fraudulento</strong> de herramientas digitales ha sido significativo, hasta el punto de modificar notablemente la tendencia histórica de los resultados de la prueba en las carreras más demandadas.",
+      "zh": "墨西哥国立自治大学（UNAM）是拉丁美洲按声誉和学生人数计算最大的大学，正经历其历史上最深重的危机之一。发现大量本科申请者使用人工智能（AI）提升入学考试成绩一事，已引发一场史无前例的内部调查。这所公立机构两个月前首次以全线上形式举行了入学考试。成绩公布后，数字工具的欺诈性使用规模之大已昭然若揭，以至于显著改变了最热门专业考试成绩的历史趋势。",
+      "vocab": [
+        {
+          "word": "atraviesa",
+          "translation": "经历，穿越，渡过（困难时期）",
+          "note": "atravesar 本义是『穿越』，引申为『经历（困难、危机）』，固定搭配 atravesar una crisis（经历危机）在新闻文体中极为常见，比 sufrir（遭受）更强调过程的持续性，暗示终将走出困境。"
+        },
+        {
+          "word": "precedentes",
+          "translation": "先例，前例",
+          "note": "固定搭配 sin precedentes 意为『史无前例的』，是新闻标题和评论文体中的超高频表达，注意它与英语 unprecedented 完全对应，名词 precedente 还常见于 sentar un precedente（树立先例）这一搭配。"
+        },
+        {
+          "word": "fraudulento",
+          "translation": "欺诈性的，作弊的，虚假的",
+          "note": "fraudulento 源自 fraude（欺诈），后缀 -ulento 表示『充满……性质的』，同类构词如 turbulento（动荡的）、virulento（猛烈的），固定搭配 uso fraudulento（欺诈性使用）在法律和教育新闻中是核心表达。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Es grave que la UNAM solo revise las irregularidades en los resultados después de su publicación y cuando el debate ya está en las redes sociales. A pesar de que la institución ha argumentado que tomó medidas de protección digital para evitar la trampa —anuló el 2% de las pruebas—, los resultados finales mostraron una realidad que ya ha alcanzado a la academia en todo el mundo: la IA tiene un uso <strong>ubicuo</strong> en la vida de los estudiantes, para bien y para mal.",
+      "zh": "UNAM直到成绩公布后、辩论已在社交网络上发酵时才审查结果中的违规行为，这是严重的失职。尽管该机构辩称已采取数字保护措施以防止作弊——取消了2%的考试成绩——但最终结果揭示了一个已席卷全球学术界的现实：人工智能在学生生活中的使用无处不在，有利有弊。",
+      "vocab": [
+        {
+          "word": "ubicuo",
+          "translation": "无处不在的，普遍存在的",
+          "note": "ubicuo 源自拉丁语 ubique（到处），是描述某事物广泛渗透到各个领域的高级词汇，比 común（常见的）语气更强，强调几乎无法回避的存在感，名词形式为 ubicuidad（无处不在性），是科技和社会评论文体的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Para los mexicanos ha sido impactante ver expuesta la <strong>fragilidad</strong> de la que es considerada la máxima casa del conocimiento del país. Pese a que ninguna prueba es <strong>infalible</strong>, la introducción de nuevas tecnologías en el proceso de admisión de la UNAM debió ser medida, revisada y comprobada antes de su implementación. El fallo es <strong>mayúsculo</strong> y el episodio quedará para la historia.",
+      "zh": "对墨西哥人来说，看到被视为全国最高学府的脆弱性暴露出来，令人震惊。尽管没有任何考试是万无一失的，但在UNAM招生流程中引入新技术，本应在实施前经过充分衡量、审查和验证。这一失误是巨大的，这一事件将载入史册。",
+      "vocab": [
+        {
+          "word": "fragilidad",
+          "translation": "脆弱性，易碎性",
+          "note": "fragilidad 是 frágil（脆弱的）的名词形式，后缀 -idad 将形容词转化为抽象名词，同类构词如 vulnerabilidad（脆弱性）、credibilidad（可信度）、responsabilidad（责任），掌握 -idad 后缀是快速扩充词汇量的有效方法。"
+        },
+        {
+          "word": "infalible",
+          "translation": "万无一失的，绝对可靠的",
+          "note": "infalible 由 in-（否定）+ falible（可能出错的）构成，意为『不会出错的』，前缀 in- 在此表示否定，同类构词如 inevitable（不可避免的）、incapaz（无能力的）、injusto（不公正的），是构词能力极强的前缀。"
+        },
+        {
+          "word": "mayúsculo",
+          "translation": "巨大的，严重的，重大的",
+          "note": "mayúsculo 本义是『大写字母的』，引申为『极其重大的、严重的』，是评论文体中表达程度之深的高级形容词，比 grande（大的）更具文学性和讽刺意味，固定搭配 un error mayúsculo（重大错误）在新闻评论中极为地道。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Una comisión técnica ha hecho un análisis <strong>a posteriori</strong> del examen de 2026 ha llegado cuando la UNAM ya está <strong>desbordada</strong> ante la situación. El grupo de 16 académicos que lo integran tiene en sus manos la decisión sobre el futuro de 158.000 estudiantes que se presentaron al examen. Muchos de ellos con pocos recursos para seguir sus estudios o con escasas alternativas para desarrollar una carrera profesional. Ningún veredicto dejará satisfechos a todos. La decisión de implementar un examen de control entre aquellos que obtuvieron las notas más altas <strong>resarce</strong> parcialmente el fiasco de la primera prueba, mas no aclara del todo el panorama para los aspirantes. La universidad ha abierto un ciclo de incertidumbre que afecta la vida de miles de personas y la credibilidad de la institución.",
+      "zh": "一个技术委员会对2026年考试进行的事后分析，在UNAM已被局势压垮之际才姗姗来迟。由16名学者组成的小组手握着15.8万名参加考试的学生的未来命运。他们中许多人缺乏继续学业的资源，或几乎没有发展职业生涯的替代选择。任何裁决都无法让所有人满意。对获得最高分的考生实施补充考试的决定，部分弥补了第一次考试的惨败，但并未完全厘清申请者的前景。这所大学开启了一个不确定性的循环，影响着数千人的生活和该机构的公信力。",
+      "vocab": [
+        {
+          "word": "a posteriori",
+          "translation": "事后的，后验的",
+          "note": "a posteriori 是拉丁语借词，在学术和新闻文体中指『在事件发生之后进行的分析或判断』，与 a priori（事先的、先验的）形成对比，两者均已作为固定表达进入西班牙语，是阅读学术和法律文章的必备词组。"
+        },
+        {
+          "word": "desbordada",
+          "translation": "不堪重负的，被淹没的，应接不暇的",
+          "note": "desbordar 本义是『（水）溢出、漫过堤岸』，引申为机构或个人面对压力时超出承受能力，固定搭配 estar desbordado/a（不堪重负）在描述危机状态时极为传神，比 abrumado（不堪重负）更强调外部压力的涌入。"
+        },
+        {
+          "word": "resarce",
+          "translation": "弥补，补偿，赔偿",
+          "note": "resarcir 意为『对损失或错误进行补偿』，比 compensar（补偿）更强调对已造成损害的修复，固定搭配有 resarcir los daños（赔偿损失）、resarcir parcialmente（部分弥补），是法律和新闻文体中的正式用词。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "La universidad debe presentar con <strong>transparencia</strong> los incidentes, mostrar cómo han afectado los resultados, y señalar a los responsables. La crisis también invita a una oportunidad para entender cómo la IA está cambiando el entorno académico y establecer medidas claras sobre su uso. El caso <strong>sentará un precedente</strong> para decenas de instituciones educativas que miran a la UNAM como una base ejemplar para las escuelas de educación superior.",
+      "zh": "大学必须透明地呈现事件经过，说明其如何影响了考试结果，并指出相关责任人。这场危机也带来了一个机会，让人们理解人工智能如何正在改变学术环境，并就其使用建立明确的规范。此案将为数十所将UNAM视为高等教育典范的教育机构树立先例。",
+      "vocab": [
+        {
+          "word": "transparencia",
+          "translation": "透明度，公开性",
+          "note": "transparencia 在政治和机构语境中是描述信息公开程度的核心词汇，固定搭配有 actuar con transparencia（透明行事）、falta de transparencia（缺乏透明度），是新闻评论和政策文件中的超高频词，与 opacidad（不透明）形成对比。"
+        },
+        {
+          "word": "sentará un precedente",
+          "translation": "树立先例，开创先例",
+          "note": "sentar un precedente 是法律和新闻文体中的核心固定搭配，意为『通过某一决定或事件为未来类似情况确立参照标准』，注意动词用 sentar 而非 establecer 或 crear，这是不可随意替换的固定搭配。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "dar paso a",
+      "type": "colocación",
+      "translation": "引发，导致，为……开路",
+      "usage": "dar paso a 意为『为某事物的出现创造条件或直接引发某事』，比 provocar（引发）更强调顺序上的承接关系，常用于新闻和学术文体描述事件的连锁反应，固定结构为 dar paso a + 名词。",
+      "exampleEs": "El escándalo financiero dio paso a una investigación judicial que duró tres años.",
+      "exampleZh": "这起金融丑闻引发了一场持续三年的司法调查。"
+    },
+    {
+      "expression": "tener en sus manos",
+      "type": "colocación",
+      "translation": "掌握在手中，由……决定",
+      "usage": "tener algo en sus manos 意为『对某事拥有决定权或控制权』，强调责任与权力的集中，常用于描述关键决策者的处境，语气带有一定的庄重感，在新闻和政治评论中极为常见。",
+      "exampleEs": "El jurado tiene en sus manos el destino del acusado.",
+      "exampleZh": "陪审团掌握着被告的命运。"
+    },
+    {
+      "expression": "para bien y para mal",
+      "type": "expresión coloquial",
+      "translation": "有利有弊，不管好坏",
+      "usage": "固定口语表达，用于承认某事物同时具有正面和负面影响，语气客观中立，常用于评论新技术、社会变化等话题，相当于中文的『有利有弊』或『无论好坏』，是辩论和评论文体中的地道表达。",
+      "exampleEs": "Las redes sociales han cambiado nuestra forma de comunicarnos, para bien y para mal.",
+      "exampleZh": "社交媒体改变了我们的沟通方式，有利有弊。"
+    },
+    {
+      "expression": "alcanzar a",
+      "type": "colocación",
+      "translation": "波及，影响到，触达",
+      "usage": "alcanzar a + 名词在新闻文体中意为『某现象或影响蔓延至某群体或领域』，强调影响范围的扩展，比 afectar a（影响）更强调到达的过程，固定搭配如 la crisis ha alcanzado a todos los sectores（危机已波及各个行业）极为常见。",
+      "exampleEs": "La ola de calor ha alcanzado a regiones que históricamente no sufrían temperaturas tan extremas.",
+      "exampleZh": "这股热浪已波及历史上从未经历如此极端气温的地区。"
+    }
+  ]
+}
