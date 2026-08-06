@@ -1,0 +1,229 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与社会",
+  "difficulty": "B2",
+  "wordCount": "约900词",
+  "title": "Te lo ruego: nunca escribas con IA",
+  "subtitle": "我求你了：永远不要用AI写作",
+  "resumenEs": "El autor argumenta que usar IA para escribir no solo es un problema ético, sino que debilita la capacidad de pensar, razonar y crear. La escritura es un ejercicio intelectual insustituible que sostiene tanto el desarrollo personal como la democracia. Delegar esta tarea a una máquina nos lleva hacia una sociedad cada vez menos capaz de pensar por sí misma.",
+  "resumenZh": "作者认为，使用AI写作不仅是道德问题，更会削弱人类思考、推理和创造的能力。写作是一种不可替代的智识训练，支撑着个人发展与民主社会的运转。将这项任务委托给机器，正将我们引向一个越来越丧失独立思考能力的社会。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Esta columna no es tanto un argumento como una <strong>súplica</strong>: no utilices la inteligencia artificial para ayudarte a escribir. Nunca dejes que la IA escriba por ti. No la uses para trabajos escolares, informes laborales, cartas a tus suegros, discursos en las reuniones de tu empresa, ni correos electrónicos (por muy rutinarios que sean) a tus colegas o amigos. No dejes que organice tus notas. No permitas que sugiera una frase inicial, un enlace o un párrafo de cierre. No le pidas que escriba un primer borrador y pretendas que editar ese borrador lo convierte de algún modo en propio. No es así.",
+      "zh": "这篇专栏与其说是一个论点，不如说是一声恳求：不要使用人工智能来帮你写作。永远不要让AI替你写东西。不要用它来完成学校作业、工作报告、给岳父母的信、公司会议上的发言稿，也不要用它来写给同事或朋友的电子邮件（哪怕再例行公事也好）。不要让它整理你的笔记。不要允许它建议开头的句子、过渡语或结尾段落。不要让它写初稿，然后假装编辑那份初稿就能让它变成你自己的东西。事实并非如此。",
+      "vocab": [
+        {
+          "word": "súplica",
+          "translation": "恳求，哀求",
+          "note": "名词，来自动词 suplicar（恳求）。比 petición（请求）语气更强烈，带有情感上的迫切感。常见搭配为 hacer una súplica（发出恳求）、en tono de súplica（以恳求的语气）。"
+        },
+        {
+          "word": "borrador",
+          "translation": "草稿，初稿",
+          "note": "高频写作和办公词汇，常见搭配有 escribir un borrador（起草）、primer borrador（初稿）、revisar el borrador（修改草稿）。动词形式为 borrar（删除、擦除），两者共享同一词根。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "No hagas nada de esto, no porque sea poco ético. Escribir con IA es poco ético cuando es un engaño: cuando presentas palabras, ideas e información como propias cuando no lo son. Un reconocimiento puede solucionar en gran medida el problema. Pero tampoco lo hagas porque puedas llegar a escribir mejor que una IA. Muy pronto, si es que no ha sucedido ya, no será así, de la misma manera que no puedes correr más rápido que un automóvil ni jugar mejor que una <strong>aplicación</strong> de ajedrez.",
+      "zh": "不要做这些，但原因不是因为这不道德。用AI写作在构成欺骗时才是不道德的：当你把并非出自自己的文字、想法和信息当作自己的来呈现时。注明来源在很大程度上可以解决这个问题。但也不要因为你能写得比AI更好而这样做。很快，如果还没发生的话，情况将不再如此——就像你跑不过汽车、也下不过国际象棋应用程序一样。",
+      "vocab": [
+        {
+          "word": "engaño",
+          "translation": "欺骗，欺诈",
+          "note": "名词，来自动词 engañar（欺骗）。与 mentira（谎言）的区别：engaño 强调通过行为或手段造成的误导，mentira 特指口头上的不实陈述。常见搭配有 caer en un engaño（上当受骗）、vivir en el engaño（活在欺骗中）。"
+        },
+        {
+          "word": "aplicación",
+          "translation": "应用程序，App",
+          "note": "一词多义：在科技语境中指『应用程序』，但在其他语境中可表示『应用、运用』（la aplicación de una ley 法律的适用）或『专注、勤奋』（trabaja con aplicación 他学习很用功）。注意根据语境判断含义。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "El problema de escribir con IA es que <strong>debilita</strong> mentalmente: es una escalera mecánica hacia un resultado cuando realmente necesitas hacer del esfuerzo diario de subir las escaleras un hábito. A medida que se vuelve <strong>ubicua</strong>, no solo <strong>socava</strong> nuestra capacidad individual para escribir, sino también la capacidad colectiva de una sociedad para razonar, la capacidad interna de una cultura para crear y el motivo de cada uno para interesarse. Ya estamos lidiando con la bien documentada disminución de la lectura; la IA está acelerando la decadencia de la escritura, llevándonos aún más lejos en lo que Rose Horowitch, de The Atlantic, llama nuestra \"era post-alfabetizada\".",
+      "zh": "用AI写作的问题在于它会让人在智识上变得衰弱：这是一部通向结果的自动扶梯，而你真正需要的是把每天爬楼梯的努力变成一种习惯。随着它变得无处不在，它不仅削弱了我们个人的写作能力，也削弱了一个社会集体推理的能力、一种文化内在的创造力，以及每个人投入其中的动力。我们已经在应对有据可查的阅读量下降问题；AI正在加速写作能力的衰退，将我们带向《大西洋》杂志罗斯·霍洛维奇所称的『后识字时代』。",
+      "vocab": [
+        {
+          "word": "debilita",
+          "translation": "削弱，使衰弱",
+          "note": "动词 debilitar 来自形容词 débil（弱的），后缀 -itar 表示『使……化』，同类构词有 fortalecer（强化）、capacitar（使有能力）、inutilizar（使失效）。常用于描述能力、制度或身体的削弱。"
+        },
+        {
+          "word": "ubicua",
+          "translation": "无处不在的，普遍存在的",
+          "note": "形容词 ubicuo/a，B2-C1高频学术词汇，常见于科技、社会类新闻，如 la tecnología se ha vuelto ubicua（技术已无处不在）。名词形式为 ubicuidad，与英语 ubiquitous 高度对应。"
+        },
+        {
+          "word": "socava",
+          "translation": "侵蚀，动摇，削弱",
+          "note": "动词 socavar 本义为『在地下挖空』，引申为『从内部逐渐削弱或动摇』，比 debilitar 更强调隐蔽性和渐进性，如 socavar la confianza（动摇信任）、socavar las instituciones（侵蚀制度）。是新闻政治类文章的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "¿Qué es lo que hace de manera única la escritura? Obliga a pensar. Obliga a pensar de formas que la contemplación silenciosa o el lenguaje hablado rara vez pueden lograr. Nos obliga a someter nuestro pensamiento al esfuerzo de la <strong>articulación</strong>, al rigor de la gramática, a las pruebas de inteligibilidad y coherencia, a la inspección de los demás. Al hacerlo, también nos impone ser claros, lógicos, precisos y <strong>responsables</strong>. Puede que la gente perdone fácilmente una palabra dicha con ira, pero no tan fácilmente una palabra escrita con ira, precisamente porque el hecho de haberla escrito indica que fue reflexionada.",
+      "zh": "写作独特地能做到什么？它迫使人思考。它以沉默的冥想或口头语言很少能达到的方式迫使人思考。它迫使我们将思想置于表达的努力之下、语法的严格约束之中、可理解性与连贯性的检验之下，以及他人的审视之中。在此过程中，它也要求我们做到清晰、合乎逻辑、精确，并承担责任。人们也许很容易原谅一句愤怒之下说出的话，但不那么容易原谅一句愤怒之下写下的话，恰恰是因为将其写下这一事实表明它是经过深思的。",
+      "vocab": [
+        {
+          "word": "articulación",
+          "translation": "表达，阐述；关节",
+          "note": "一词多义：在语言和思想语境中指『将想法清晰表达出来』，在生理语境中指『关节』。动词形式 articular 在新闻文体中常见，如 articular una propuesta（阐明一项提案）、articular un discurso（构建一篇演讲）。"
+        },
+        {
+          "word": "responsables",
+          "translation": "负责任的，承担责任的",
+          "note": "形容词 responsable 在新闻和政治文体中高频出现，常见搭配有 hacer responsable a alguien（追究某人责任）、responsable de（对……负责）。注意名词用法：el responsable 指『负责人』。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "La palabra <strong>meditada</strong> importa. Tiene permanencia y peso moral. Usamos la expresión \"quiero eso por escrito\" no solo para que no haya duda sobre las palabras exactas acordadas, sino también como prueba de que las palabras tienen significado en primer lugar. ¿Pero qué sucede cuando las palabras no son meditadas porque las escribió (o ayudó a escribir) una máquina?",
+      "zh": "经过深思的文字是有分量的。它具有持久性和道德重量。我们使用『我要白纸黑字』这个说法，不仅是为了不让约定的确切措辞产生歧义，也是作为文字本身具有意义的证明。但当文字并非经过深思——因为它是由机器写的（或协助写的）——又会发生什么呢？",
+      "vocab": [
+        {
+          "word": "meditada",
+          "translation": "经过深思的，深思熟虑的",
+          "note": "来自动词 meditar（深思、冥想），形容词 meditado/a 在正式文体中表示『经过仔细思考的』，如 una decisión meditada（深思熟虑的决定）、una respuesta meditada（经过斟酌的回答）。比 pensado 更正式，强调思考的深度。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Las palabras se vuelven vacías. Imagina que el padre de la novia acude a la IA para que le ayude a escribir el brindis en la boda de su hija: lo que la IA puede aportar en <strong>elocuencia</strong> lo resta en esfuerzo y autenticidad. Ahora imagina que la hija descubre que el discurso fue escrito por una IA: ¿no tendría razón en sentirse decepcionada, si no insultada?",
+      "zh": "文字变得空洞。想象一下，新娘的父亲求助于AI来帮他写女儿婚礼上的祝酒词：AI在辞藻华美上能给予的，它在努力与真诚上就扣去了多少。现在想象一下，女儿发现这篇致辞是AI写的：她感到失望，甚至觉得受到了侮辱，难道不是理所当然的吗？",
+      "vocab": [
+        {
+          "word": "elocuencia",
+          "translation": "口才，雄辩，辞藻华美",
+          "note": "名词，形容词形式为 elocuente（有口才的、雄辩的）。在新闻和文学文体中高频出现，如 hablar con elocuencia（口若悬河）、un silencio elocuente（意味深长的沉默）。注意后者为比喻用法，表示『不言而喻』。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Muchos argumentarían que hay una gran diferencia entre usar la IA para algo tan significativo y personal como un discurso de boda y las tareas de escritura tediosas y frecuentemente agotadoras, como pueden ser los memorandos de oficina rutinarios. Pero el músculo intelectual que se <strong>ejercita</strong> en la redacción cotidiana es el mismo que se usa para la escritura que realmente importa. Nos convertimos en mejores escritores mediante el esfuerzo constante que exige la escritura <strong>mundana</strong>. Nos convertimos en mejores pensadores al invertir en esa escritura un nivel de atención que nunca le prestaríamos si delegáramos la tarea a la IA. Nos volvemos más creativos cuando aprendemos a dejar una huella personal incluso en lo rutinario, haciéndolo inconfundiblemente nuestro.",
+      "zh": "许多人会争辩说，将AI用于婚礼致辞这样重要而私人的事情，与用于日常繁琐且往往令人精疲力竭的写作任务（比如例行的办公室备忘录）之间，有着很大的区别。但在日常写作中锻炼的智识肌肉，与用于真正重要的写作时是同一块。我们通过日复一日应对平凡写作所要求的持续努力，成为更好的写作者。我们通过在这些写作中投入一种若将任务委托给AI便永远不会付出的专注程度，成为更好的思考者。当我们学会在平凡之事中也留下个人印记、使其成为无可替代的自我表达时，我们变得更有创造力。",
+      "vocab": [
+        {
+          "word": "ejercita",
+          "translation": "锻炼，训练",
+          "note": "动词 ejercitar 表示『通过练习来训练或强化』，与 ejercer（行使、从事）不同：ejercitar 强调反复练习的过程，如 ejercitar la memoria（训练记忆力）、ejercitar un músculo（锻炼肌肉）。两词形近，注意区分。"
+        },
+        {
+          "word": "mundana",
+          "translation": "平凡的，世俗的，日常的",
+          "note": "形容词 mundano/a 来自拉丁语 mundus（世界），在此语境中表示『日常琐碎的』，如 tareas mundanas（日常琐事）。在其他语境中可指『世俗的、追求物质享乐的』，注意根据语境区分含义。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Estas habilidades están desapareciendo. Un estudio reciente utilizando tecnología de detección de IA en 100 tesis doctorales encontró que el 56 por ciento contenía \"más que una cantidad insignificante\" de escritura generada por IA y el 19 por ciento tenía \"más del 50 por ciento de texto generado por IA\". Relatos <strong>anecdóticos</strong> de profesores universitarios transmiten la sensación de estar poniendo el dedo en el dique frente al <strong>aluvión</strong> de trabajos de estudiantes generados por IA. Es fácil tratar el problema solo como una cuestión de trampa. Pero hacer trampa no capta el verdadero alcance de la amenaza de la IA, que no solo pone en peligro la integridad académica o el desarrollo personal, sino también la <strong>autogobernanza</strong> democrática.",
+      "zh": "这些能力正在消失。一项近期对100篇博士论文使用AI检测技术的研究发现，56%的论文含有『超过少量』的AI生成文字，19%的论文中『超过50%的文本由AI生成』。大学教授们的零散叙述传递出一种感觉：面对AI生成的学生作业洪流，他们仿佛在用手指堵住决口。人们很容易将这个问题仅仅视为作弊问题。但作弊并不能概括AI威胁的真正范围——它不仅危及学术诚信或个人发展，也危及民主的自我治理。",
+      "vocab": [
+        {
+          "word": "anecdóticos",
+          "translation": "零散的，轶事性的，非系统的",
+          "note": "形容词 anecdótico/a 在学术和新闻文体中指『基于个别案例而非系统数据的』，如 evidencia anecdótica（轶事证据）与 evidencia empírica（实证证据）相对。使用此词暗示所引用的信息缺乏统计代表性。"
+        },
+        {
+          "word": "aluvión",
+          "translation": "洪流，大量涌来",
+          "note": "本义为地质学上的『冲积层、洪积物』，在新闻文体中常用于比喻，表示大量事物的涌入，如 un aluvión de críticas（铺天盖地的批评）、un aluvión de solicitudes（大量涌入的申请）。是新闻文体中的高频比喻词。"
+        },
+        {
+          "word": "autogobernanza",
+          "translation": "自我治理，自治",
+          "note": "前缀 auto- 表示『自我、自动』，同类高频构词有 autocrítica（自我批评）、autosuficiente（自给自足的）、autodidacta（自学成才的）、autonomía（自治权）。在政治和社会类文章中大量出现。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "La relación entre la <strong>alfabetización</strong> generalizada y el surgimiento de la democracia es bien conocida: las personas que pueden leer y escribir por sí mismas, históricamente, también han sido buenas eligiendo y <strong>abogando</strong> por sí mismas. ¿Qué pasa cuando el proceso se invierte? ¿Cuando la gente no tiene paciencia para absorber argumentos de más de unas cuantas páginas o frases? ¿Cuando carecen de la capacidad de contradecir esos argumentos porque nunca han perfeccionado, mediante la práctica diaria, la habilidad más esencial para pensar con claridad?",
+      "zh": "普及识字与民主兴起之间的关系众所周知：历史上，能够自己读写的人，在选择和为自己发声方面也往往表现出色。当这一过程发生逆转时会怎样？当人们没有耐心去吸收超过几页或几句话的论点时？当他们缺乏反驳这些论点的能力，因为他们从未通过日常练习磨砺出清晰思考的最基本技能时？",
+      "vocab": [
+        {
+          "word": "alfabetización",
+          "translation": "识字，扫盲，读写能力",
+          "note": "来自 alfabeto（字母表），后缀 -ización 表示『……化的过程』，同类构词有 digitalización（数字化）、globalización（全球化）、democratización（民主化）。掌握此后缀可识别大量社会政治类词汇。"
+        },
+        {
+          "word": "abogando",
+          "translation": "倡导，为……辩护，支持",
+          "note": "动词 abogar por 表示『倡导、支持某事业或立场』，是新闻政治类文章的高频搭配，如 abogar por los derechos humanos（倡导人权）、abogar por una reforma（呼吁改革）。注意与名词 abogado（律师）共享同一词根。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Ya estamos probando cómo es ese mundo en las publicaciones en redes sociales del presidente Trump y la influencia que ejercen claramente sobre decenas de millones de estadounidenses. Pero eso es un reflejo de dónde estaba el país hace una década, en la era pre-IA. ¿Cuánto más hemos <strong>retrocedido</strong> ahora, con una capacidad aún más <strong>mermada</strong> para leer, escribir y pensar?",
+      "zh": "我们已经在特朗普总统的社交媒体帖子及其对数千万美国人的显著影响中，预先体验了那个世界的样子。但那不过是这个国家十年前、AI前时代的缩影。如今，在阅读、写作和思考能力进一步萎缩的情况下，我们又倒退了多少？",
+      "vocab": [
+        {
+          "word": "retrocedido",
+          "translation": "倒退，退步",
+          "note": "动词 retroceder 由前缀 retro-（向后）+ ceder（退让）构成，表示『向后退、倒退』。前缀 retro- 同类构词有 retroalimentación（反馈）、retrospectiva（回顾）、retrógrado（守旧的）。"
+        },
+        {
+          "word": "mermada",
+          "translation": "萎缩的，减损的，削减的",
+          "note": "来自动词 mermar（减少、削减），在新闻文体中常用于描述能力、资源或权力的缩减，如 recursos mermados（缩减的资源）、autoridad mermada（受损的权威）。比 reducida 更强调损耗和流失的过程。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "La próxima vez que sientas la tentación de elegir una respuesta automatizada para un mensaje de texto o un correo electrónico, no lo hagas. Escribe una respuesta propia. Piensa en ello como un acto de <strong>libre albedrío</strong>. O como un voto en contra de Trump. Lo que te lleve unos segundos más será un acto de resistencia contra un mundo cada vez más tonto.",
+      "zh": "下次当你忍不住想为短信或电子邮件选择一个自动回复时，不要这样做。写一个属于你自己的回复。把它看作一次自由意志的行使。或者把它看作一张反对特朗普的选票。那多花的几秒钟，将是对一个日益愚钝的世界的一次抵抗。",
+      "vocab": [
+        {
+          "word": "libre albedrío",
+          "translation": "自由意志",
+          "note": "哲学和人文类文章的高频固定搭配，指人类不受外力强制、自主做出选择的能力。albedrío 单独使用时也表示『意愿、意志』，如 a su libre albedrío（随其意愿）。是B2以上人文类阅读的核心词组。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "poner el dedo en el dique",
+      "type": "modismo",
+      "translation": "用手指堵决口，做无济于事的努力",
+      "usage": "源自荷兰民间故事，比喻面对巨大压力或不可阻挡的趋势时，所做的努力微不足道、无法从根本上解决问题。多用于描述个人或机构面对系统性问题时的无力感，语气带有悲观色彩。",
+      "exampleEs": "Los reguladores intentan poner el dedo en el dique frente a la desinformación en redes sociales, pero la tarea parece imposible.",
+      "exampleZh": "监管机构试图遏制社交媒体上的虚假信息，但这感觉像是在用手指堵决口，根本无济于事。"
+    },
+    {
+      "expression": "ejercer influencia",
+      "type": "colocación",
+      "translation": "施加影响，发挥影响力",
+      "usage": "高频固定搭配，ejercer 与 influencia 的组合不可随意替换为 tener 或 dar。类似结构还有 ejercer presión（施压）、ejercer poder（行使权力）、ejercer un cargo（担任职务），是新闻政治类文章的核心动词搭配。",
+      "exampleEs": "Las grandes tecnológicas ejercen una influencia enorme sobre los hábitos de consumo de información.",
+      "exampleZh": "大型科技公司对人们获取信息的习惯施加着巨大影响。"
+    },
+    {
+      "expression": "dejar huella",
+      "type": "colocación",
+      "translation": "留下印记，产生深远影响",
+      "usage": "固定搭配，字面意思为『留下足迹』，引申为『留下持久的影响或痕迹』。可用于人、事件或作品，如 dejar huella en la historia（在历史上留下印记）。注意与 dejar marca 的区别：huella 更强调个人化和情感上的印迹。",
+      "exampleEs": "Ese profesor dejó huella en todos sus alumnos con su forma apasionada de enseñar.",
+      "exampleZh": "那位老师充满热情的教学方式在每一位学生心中都留下了深刻的印记。"
+    },
+    {
+      "expression": "captar el alcance",
+      "type": "colocación",
+      "translation": "把握……的范围，理解……的深度",
+      "usage": "captarel alcance de algo 是新闻和学术文体中的高频搭配，表示『充分理解某事物的规模或深度』。alcance 本身也是高频词，常见搭配有 de largo alcance（深远的）、fuera del alcance（超出范围）。",
+      "exampleEs": "Es difícil captar el alcance real de los daños causados por el terremoto hasta que se visita la zona.",
+      "exampleZh": "在亲身前往灾区之前，很难真正把握地震造成的实际破坏规模。"
+    }
+  ]
+}

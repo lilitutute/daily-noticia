@@ -1,0 +1,261 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科学与进化",
+  "difficulty": "B2",
+  "wordCount": "约900词",
+  "title": "¿Por qué somos (casi todos) diestros? Dos millones de años de misterio evolutivo",
+  "subtitle": "为什么我们（几乎）都是右撇子？两百万年的进化之谜",
+  "resumenEs": "El 90% de los humanos son diestros, una cifra estable en todas las culturas y épocas. Los científicos apuntan a una combinación de factores: la asimetría cerebral vinculada al lenguaje, el uso de herramientas, la transmisión cultural y la genética. La lateralidad manual no tiene una causa única, sino que es el resultado acumulado de millones de años de evolución.",
+  "resumenZh": "90%的人类是右撇子，这一比例在所有文化和时代中保持稳定。科学家认为这源于多重因素的叠加：与语言相关的大脑不对称性、工具使用、文化传承以及遗传基因。手部侧偏性并非单一原因所致，而是数百万年进化积累的结果。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Hay un número que los neurocientíficos llevan décadas mirando con fascinación y <strong>perplejidad</strong>: 90. Es el porcentaje de humanos que, en cualquier cultura, época estudiada y rincón del planeta, usan preferentemente la mano derecha. Ese 90% es una cifra tan estable, tan universal, tan redonda y tan extraña que la pregunta siquiera no es por qué existen zurdos. Es por qué hay tan pocos, y de forma tan consistente, en el tiempo y en el espacio.",
+      "zh": "有一个数字让神经科学家们几十年来既着迷又困惑：90。这是在地球上任何文化、任何研究过的时代、任何角落里，习惯使用右手的人类比例。这个90%如此稳定、如此普遍、如此整齐，又如此奇特，以至于问题甚至不是为什么存在左撇子，而是为什么左撇子如此之少，并且在时间和空间上如此一致。",
+      "vocab": [
+        {
+          "word": "perplejidad",
+          "translation": "困惑，茫然",
+          "note": "名词，来自形容词 perplejo。常见搭配为 con perplejidad（困惑地）、causar perplejidad（引发困惑），多用于正式书面语境，比 confusión 语气更强，带有『不知所措』的含义。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "La lateralidad manual, es decir, tener una mano buena y una mano tonta, como decimos coloquialmente, no es exclusiva de nuestra especie. Los gatos tienen una pata favorita y los loros sostienen la comida siempre con la misma. Casi todos los animales con cerebro tienen algún <strong>sesgo</strong> que orienta su actividad un lado u otro. Lo verdaderamente extraño de los humanos es que casi toda la especie se <strong>inclina</strong> hacia el mismo lado desde nuestros mismísimos orígenes. \"Lo llamamos preferencia poblacional\", explica Miquel Llorente, investigador de la Universitat de Girona especializado en etología comparada y evolución del lenguaje. \"No es que cada individuo tenga su mano favorita, eso pasa siempre, sino que casi todos los individuos de la especie comparten la misma. En los chimpancés, por cada zurdo hay dos diestros; en nosotros, por cada zurdo hay ocho o nueve. Es ese salto el que pide explicación y no hay todavía una respuesta clara\", cuenta.",
+      "zh": "手部侧偏性，也就是我们口语中所说的有一只灵巧的手和一只笨拙的手，并非人类独有。猫有它偏爱的爪子，鹦鹉也总是用同一只爪子抓食物。几乎所有有大脑的动物都有某种偏向，使其活动倾向于某一侧。人类真正奇特之处在于，几乎整个物种从我们最初的起源起就倾向于同一侧。『我们称之为群体偏好，』赫罗纳大学专攻比较行为学和语言进化的研究员米克尔·略伦特解释道。『不是说每个个体都有自己偏爱的手，这很正常，而是说这个物种中几乎所有个体都共享同一偏好。黑猩猩中每有一个左撇子就有两个右撇子；而在我们人类中，每有一个左撇子就有八九个右撇子。正是这个跨越需要解释，而目前还没有清晰的答案，』他说。",
+      "vocab": [
+        {
+          "word": "sesgo",
+          "translation": "偏向，偏差，偏见",
+          "note": "高频新闻学术词汇，可指统计偏差、媒体立场偏向或认知偏见，如 sesgo cognitivo（认知偏差）、sesgo mediático（媒体偏向）。形容词形式为 sesgado（有偏向的），使用范围极广。"
+        },
+        {
+          "word": "inclina",
+          "translation": "倾向于，偏向",
+          "note": "动词 inclinarse hacia 表示『倾向于某一方向或立场』，是新闻和学术文体中的高频搭配，如 el gobierno se inclina hacia una solución negociada（政府倾向于谈判解决）。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Los científicos llevan años buscando esa explicación, que no tiene una sola causa. Es una <strong>amalgama</strong> de varias de ellas, <strong>entrelazadas</strong> a lo largo de millones de años.",
+      "zh": "科学家们多年来一直在寻找这个解释，而它并非只有单一原因，而是多种原因交织在一起、历经数百万年形成的混合体。",
+      "vocab": [
+        {
+          "word": "amalgama",
+          "translation": "混合体，融合物",
+          "note": "正式书面词，指多种异质元素的复杂融合，常用于抽象语境，如 una amalgama de culturas（多种文化的融合）、una amalgama de intereses（多方利益的交织）。比 mezcla 更正式，含『复杂难以分离』的意味。"
+        },
+        {
+          "word": "entrelazadas",
+          "translation": "交织的，相互缠绕的",
+          "note": "前缀 entre- 表示『相互之间』，同类构词有 entrechocar（相互碰撞）、entrecruzar（交叉）、entrelíneas（字里行间）。掌握此前缀可举一反三识别大量词汇。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "La lateralidad manual es, ante todo, una historia de cerebros. Aunque los dos hemisferios parecen gemelos a simple vista, en realidad <strong>reparten</strong> el trabajo de forma muy desigual: el izquierdo se ocupa preferentemente del lenguaje; el derecho, de tareas como reconocer caras u orientarse en el espacio. En más del 95% de los diestros, el lenguaje vive en el hemisferio izquierdo. La mano y el habla, en el cerebro humano, viajan juntas.",
+      "zh": "手部侧偏性，首先是一个关于大脑的故事。尽管两个半球乍看之下像是双胞胎，但实际上它们分工极不均等：左半球主要负责语言；右半球负责识别面孔或空间定向等任务。在超过95%的右撇子中，语言功能位于左半球。在人类大脑中，手与语言是相伴而行的。",
+      "vocab": [
+        {
+          "word": "reparten",
+          "translation": "分配，分担",
+          "note": "动词 repartir 表示『分配、分摊』，常见搭配有 repartir el trabajo（分配工作）、repartir responsabilidades（分担责任）、repartir beneficios（分配利润），在新闻经济类文章中高频出现。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Esa conexión es la pista más interesante que existe hasta ahora sobre por qué existe esa cifra tan estable de diestros humanos. \"La hipótesis que tiene más fuerza hoy es que el lenguaje no nació hablando, sino <strong>gesticulando</strong>\", dice Llorente. \"Los signos manuales habrían sido la primera forma de comunicación compleja entre nuestros antepasados, y solo más tarde pasaron a la voz\". Como los gestos los hacemos preferentemente con la mano derecha, gobernada por el hemisferio izquierdo, ese mismo hemisferio se habría <strong>especializado</strong> en mover la mano hábil y en hablar al mismo tiempo, añade el experto. Las áreas cerebrales del lenguaje y las del control de la mano derecha no solo están relacionadas: están literalmente pegadas, compartiendo circuitos.",
+      "zh": "这一关联是迄今为止关于为何人类右撇子比例如此稳定的最有趣线索。『目前最有说服力的假说是：语言并非起源于说话，而是起源于手势，』略伦特说。『手势符号应该是我们祖先最早的复杂交流方式，后来才转变为语音。』由于我们主要用右手做手势，而右手受左半球支配，因此同一个半球便逐渐专门负责控制灵巧的手和同时进行言语表达，专家补充道。大脑中负责语言的区域与控制右手的区域不仅相互关联，而且字面意义上是紧挨着的，共享同一套神经回路。",
+      "vocab": [
+        {
+          "word": "gesticulando",
+          "translation": "做手势，比划",
+          "note": "动词 gesticular 的现在分词，名词形式为 gesticulación，相关词 gesto（手势、表情）。在语言学和传播学语境中高频出现，如 la comunicación no verbal incluye gesticular y el contacto visual（非语言交流包括手势和眼神接触）。"
+        },
+        {
+          "word": "especializado",
+          "translation": "专门化，专业化",
+          "note": "此处用条件过去时 se habría especializado，表示对过去演化过程的推测，是科学论述中表达『尚未证实的历史推断』的标准语气。动词 especializarse en 表示『专攻某领域』。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Los loros, que también son animales muy vocales y comunicativos, son casi la única especie no humana donde se observa algo parecido a esa <strong>asimetría</strong> poblacional. La coincidencia no parece casual.",
+      "zh": "鹦鹉同样是非常善于发声和交流的动物，它们几乎是唯一一种在非人类物种中观察到类似群体不对称性现象的物种。这一巧合似乎并非偶然。",
+      "vocab": [
+        {
+          "word": "asimetría",
+          "translation": "不对称性，不均衡",
+          "note": "前缀 a- 在西语中表示否定，同类构词有 atípico（非典型的）、anormal（不正常的）、asimétrico（不对称的）、apolítico（非政治的）。掌握此前缀可快速识别大量学术词汇。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "¿Cómo sabemos que esta lateralidad se ha mantenido durante millones de años en nuestros ancestros? Los cerebros de nuestros antepasados no se conservan, pero el cráneo sí deja una huella interna (el endocráneo, una especie de molde del cerebro impreso en el hueso) que permite <strong>reconstruir</strong> su forma y sus asimetrías. Ya en los australopitecos, hace tres o cuatro millones de años, el cerebro no era simétrico. Cuando aparecen las primeras herramientas de piedra trabajadas, hace unos dos millones y medio de años, esas asimetrías se <strong>acentúan</strong>. Y por la forma en que están talladas las lascas más antiguas, los arqueólogos pueden deducir que la mayoría de aquellos homínidos golpeaba con la mano derecha.",
+      "zh": "我们如何知道这种侧偏性在我们祖先身上已维持了数百万年？我们祖先的大脑无法保存，但颅骨确实留下了内部印记（颅内模，一种印在骨骼上的大脑模型），使我们得以重建其形态和不对称性。早在南方古猿时期，距今三四百万年前，大脑就已不是对称的。当距今约两百五十万年前最早的打制石器出现时，这些不对称性进一步加剧。而从最古老的石片的打制方式来看，考古学家可以推断出，那些古人类中的大多数是用右手敲击的。",
+      "vocab": [
+        {
+          "word": "reconstruir",
+          "translation": "重建，复原",
+          "note": "前缀 re- 表示『再次、重新』，同类高频构词有 rehacer（重做）、replantear（重新思考）、reformular（重新表述）、retomar（重新拾起）。掌握此前缀可大幅扩展词汇量。"
+        },
+        {
+          "word": "acentúan",
+          "translation": "加剧，凸显，强化",
+          "note": "动词 acentuar 在学术和新闻文体中高频出现，表示『使某特征或趋势更加突出』，如 la crisis acentuó las desigualdades（危机加剧了不平等）。注意与 aumentar（增加数量）的区别：acentuar 强调程度的凸显。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Fabricar herramientas <strong>exige</strong> una coordinación muy precisa: una mano sostiene, la otra golpea con un ángulo, una fuerza y una secuencia determinados. Y eso se aprende viendo a otros, lo que añade una capa cultural. Herramientas, gestos, lenguaje, enseñanza entre generaciones… \"La imagen que mejor funciona no es la de una causa única, sino la de una bola de nieve\", dice Llorente. \"Empezamos con un sesgo diestro suave, parecido al de los grandes simios actuales\", añade. La marcha bípeda, las herramientas, los gestos comunicativos, el lenguaje y la cultura fueron añadiendo capas una sobre otra durante millones de años, explica el investigador. Y al final del proceso: nueve de cada diez personas diestras, en cualquier rincón del mundo.",
+      "zh": "制造工具需要极为精确的协调：一只手固定，另一只手以特定的角度、力度和顺序敲击。而这是通过观察他人来学习的，这又增添了一层文化因素。工具、手势、语言、代际传授……『最贴切的比喻不是单一原因，而是一个雪球，』略伦特说。『我们从一种轻微的右手偏向开始，与现代大型猿类相似，』他补充道。两足行走、工具使用、交流手势、语言和文化在数百万年间一层层叠加，研究员解释道。最终的结果是：无论世界哪个角落，每十个人中有九个是右撇子。",
+      "vocab": [
+        {
+          "word": "exige",
+          "translation": "要求，需要",
+          "note": "动词 exigir 表示『强制性地要求或需要』，语气比 necesitar 和 requerir 更强，常用于正式文体，如 el puesto exige experiencia（该职位要求有工作经验）、la situación exige medidas urgentes（形势要求采取紧急措施）。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Todo esto ocurrió porque algo en nuestra biología lo permitió y lo <strong>favoreció</strong>. Así que una de las ideas de la ciencia ha sido tratar de <strong>identificar</strong> exactamente qué genes están detrás de la lateralidad. Pero la investigación ha resultado mucho más complicada de lo que los científicos esperaban.",
+      "zh": "这一切之所以发生，是因为我们生物学上的某些因素允许并促进了这一过程。因此，科学界的一个思路是试图准确找出哪些基因在侧偏性背后发挥作用。然而，研究结果远比科学家预期的复杂得多。",
+      "vocab": [
+        {
+          "word": "favoreció",
+          "translation": "促进，有利于",
+          "note": "动词 favorecer 表示『有利于、促成』，比 ayudar 更正式，常见于新闻和学术文体，如 las condiciones favorecieron el desarrollo económico（条件有利于经济发展）。名词形式为 favorecimiento，形容词为 favorable。"
+        },
+        {
+          "word": "identificar",
+          "translation": "识别，确定，找出",
+          "note": "学术高频动词，常见搭配有 identificar un problema（找出问题）、identificar patrones（识别规律）、identificar causas（确定原因）。后缀 -ficar 表示『使……化』，同类构词有 clasificar、verificar、amplificar。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "\"Cuando empecé a trabajar en esto, pensábamos que encontraríamos quizás 10 genes que lo explicaran todo\", cuenta Silvia Paracchini, genetista de la Universidad de St. Andrews (Escocia) que lleva años estudiando la lateralidad y su relación con el lenguaje y la dislexia. Hace años su equipo identificó el gen PCSK6 como un candidato <strong>prometedor</strong>. Después llegaron estudios con más de un millón de personas, y el panorama se <strong>complicó</strong>: aparecieron 42 genes superando el <strong>umbral</strong> de significación estadística, y aun así, no explican todo. \"La biología es complicada\", dice Paracchini. \"Y cuanto más sabemos, más apreciamos esa complejidad\".",
+      "zh": "『当我开始研究这个课题时，我们以为也许会找到10个能解释一切的基因，』西尔维娅·帕拉基尼说，她是苏格兰圣安德鲁斯大学的遗传学家，多年来一直研究侧偏性及其与语言和阅读障碍的关系。几年前，她的团队将PCSK6基因确定为一个有前景的候选基因。后来，涉及逾百万人的研究陆续出现，情况变得更加复杂：有42个基因超过了统计显著性阈值，即便如此，它们仍无法解释全部现象。『生物学很复杂，』帕拉基尼说，『我们了解得越多，就越能体会到这种复杂性。』",
+      "vocab": [
+        {
+          "word": "prometedor",
+          "translation": "有前景的，有希望的",
+          "note": "来自动词 prometer（承诺），后缀 -dor 表示『具有某种特质的』，同类构词有 emprendedor（有进取心的）、innovador（创新的）、revelador（揭示性的）。在新闻文体中常修饰研究成果或候选方案。"
+        },
+        {
+          "word": "umbral",
+          "translation": "阈值，门槛",
+          "note": "本义为建筑上的『门槛』，在学术和新闻语境中广泛用于比喻，如 umbral de pobreza（贫困线）、umbral del dolor（痛觉阈值）、umbral de rentabilidad（盈亏平衡点）。是跨学科高迁移价值词汇。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Lo que sí empieza a <strong>dibujarse</strong> es qué tipo de biología está implicada en la lateralidad. Varios de esos genes tienen que ver con los cilios, pequeños orgánulos celulares implicados en establecer la asimetría izquierda-derecha del cuerpo desde las primeras fases del desarrollo embrionario. También aparecen genes relacionados con el neurodesarrollo, y una relación <strong>llamativa</strong> con variantes asociadas a condiciones como la dislexia, el autismo o la esquizofrenia. El efecto es pequeño —ser zurdo no aumenta significativamente el riesgo de nada—, pero la señal es consistente: los mismos circuitos biológicos que establecen qué lado es izquierdo y qué lado es derecho en el cuerpo parecen estar conectados con cómo se organiza el cerebro para el lenguaje.",
+      "zh": "目前开始逐渐清晰的是，哪种类型的生物学机制与侧偏性有关。这些基因中有几个与纤毛有关，纤毛是一种微小的细胞器，从胚胎发育的最早阶段起就参与建立身体的左右不对称性。此外还出现了与神经发育相关的基因，以及与阅读障碍、自闭症或精神分裂症等状况相关变异之间引人注目的关联。这种影响很小——左撇子并不会显著增加任何疾病的风险——但信号是一致的：在身体中确定哪侧是左、哪侧是右的相同生物回路，似乎也与大脑如何组织语言功能相关联。",
+      "vocab": [
+        {
+          "word": "dibujarse",
+          "translation": "逐渐显现，开始清晰",
+          "note": "动词 dibujarse 本义为『被描绘出来』，在新闻和学术文体中用作比喻，表示某趋势或结论逐渐浮现，如 empieza a dibujarse una tendencia（一种趋势开始显现）、se dibuja un acuerdo（协议的轮廓逐渐清晰）。"
+        },
+        {
+          "word": "llamativa",
+          "translation": "引人注目的，显著的",
+          "note": "来自动词 llamar（呼唤），字面意思是『会呼唤注意力的』。在新闻文体中常用于描述数据或现象的显著性，如 una diferencia llamativa（显著差异）、un resultado llamativo（引人注目的结果）。注意与 notable（值得注意的）的区别：llamativo 更强调视觉或感官上的突出。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Queda la pregunta más <strong>contraintuitiva</strong>: si ser diestro es tan ventajoso, ¿por qué no desaparecieron los zurdos hace millones de años? Una de las hipótesis más ingeniosas viene de la teoría de juegos: ser zurdo tiene una ventaja táctica en el combate cuerpo a cuerpo, precisamente porque es inesperado. Un diestro entrenado a pelear contra otros diestros se desorienta ante un zurdo, como bien saben los fans de La princesa prometida, donde un duelo entre dos míticos espadachines zurdos se vuelve aún más interesante cuando ambos confiesan estar usando la mano mala. Pero esa ventaja solo funciona mientras los zurdos sean minoría: si todo el mundo fuera zurdo, la sorpresa desaparecería. Así que la evolución habría encontrado así un <strong>equilibrio</strong> estable en torno al 10%. Que los zurdos estén <strong>sobrerrepresentados</strong> en deportes de contacto como el boxeo o la esgrima (entre el 13% y el 20%, según los estudios) le da cierto respaldo empírico a la hipótesis. Aunque sigue siendo solo eso: una hipótesis.",
+      "zh": "还剩下一个最反直觉的问题：如果右撇子如此有优势，为什么左撇子没有在数百万年前就消失？最具创意的假说之一来自博弈论：成为左撇子在近身格斗中具有战术优势，恰恰因为这出乎意料。一个训练有素、习惯与右撇子对打的人，面对左撇子时会感到困惑，《公主新娘》的影迷对此深有体会——片中两位传奇左手剑客之间的决斗，在双方都坦承自己用的是『笨手』时变得更加精彩。但这种优势只在左撇子是少数时才有效：如果所有人都是左撇子，出其不意的效果就会消失。因此，进化便在10%左右找到了一个稳定的平衡点。左撇子在拳击或击剑等对抗性运动中比例偏高（据研究在13%至20%之间），这为该假说提供了一定的实证支持。尽管它仍只是一个假说。",
+      "vocab": [
+        {
+          "word": "contraintuitiva",
+          "translation": "反直觉的",
+          "note": "前缀 contra- 表示『反对、相反』，同类高频构词有 contradecir（反驳）、contrarrestar（抵消）、contraproducente（适得其反的）、contraponer（对立）。在新闻和学术文体中大量出现。"
+        },
+        {
+          "word": "equilibrio",
+          "translation": "平衡，均衡",
+          "note": "高频跨学科词汇，常见搭配有 alcanzar/mantener/romper el equilibrio（达到/维持/打破平衡），广泛用于经济、生态、博弈论等领域。动词形式为 equilibrar，形容词为 equilibrado。"
+        },
+        {
+          "word": "sobrerrepresentados",
+          "translation": "比例偏高的，过度代表的",
+          "note": "前缀 sobre- 表示『超过、过度』，同类构词有 sobrevalorar（高估）、sobrepasar（超越）、sobrecargado（超负荷的）、sobreestimar（过高估计）。在社会科学和统计类新闻中高频出现。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "Casi todo en este campo sigue, en realidad, siendo <strong>materia de debate</strong>. \"La lateralidad manual parece sencilla porque es binaria: o izquierda o derecha\", reflexiona Paracchini. \"Eso hace que todo el mundo piense que debería ser fácil de explicar. Pero resulta que es una de las ventanas más complejas y fascinantes que tenemos para entender cómo evolucionó el cerebro humano.\" Una mano tonta, una mano buena, y dos millones de años de preguntas que aún siguen sin <strong>respuesta definitiva</strong>.",
+      "zh": "事实上，这一领域几乎所有问题至今仍是争论的焦点。『手部侧偏性看似简单，因为它是二元的：要么左，要么右，』帕拉基尼沉思道。『这让所有人都以为它应该很容易解释。但事实证明，它是我们理解人类大脑如何进化的最复杂、最迷人的窗口之一。』一只笨手，一只巧手，以及两百万年来至今仍无定论的问题。",
+      "vocab": [
+        {
+          "word": "materia de debate",
+          "translation": "争论的焦点，有待讨论的议题",
+          "note": "固定搭配，常见形式为 ser materia de debate 或 seguir siendo materia de debate，是新闻和学术文体中表达『尚无定论、仍存争议』的标准表达。类似搭配还有 materia de estudio（研究课题）、materia de reflexión（值得思考的议题）。"
+        },
+        {
+          "word": "respuesta definitiva",
+          "translation": "最终答案，确定性结论",
+          "note": "固定搭配，sin respuesta definitiva（没有定论）是学术和新闻文体中表达研究局限性的高频表达。形容词 definitivo 还常见于 acuerdo definitivo（最终协议）、versión definitiva（最终版本）等搭配中。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "bola de nieve",
+      "type": "modismo",
+      "translation": "雪球效应，滚雪球式的积累",
+      "usage": "用于比喻事物像滚雪球一样不断积累扩大的过程，可指问题、影响或趋势的累积性增长。口语和书面语均可使用，也可说 efecto bola de nieve（雪球效应）或动词化用法 convertirse en una bola de nieve。",
+      "exampleEs": "La deuda pública se convirtió en una bola de nieve que ningún gobierno supo detener a tiempo.",
+      "exampleZh": "公共债务变成了一个没有任何政府能及时刹车的雪球，越滚越大。"
+    },
+    {
+      "expression": "cuanto más..., más...",
+      "type": "estructura gramatical",
+      "translation": "越……越……",
+      "usage": "表示两种程度同步增长的固定结构，两个分句均用陈述式，语序固定为 cuanto más + 动词/形容词，más + 动词/形容词。是B2核心语法结构，口语书面均常用。",
+      "exampleEs": "Cuanto más practicas la escritura en español, más fluida se vuelve tu expresión.",
+      "exampleZh": "你越多练习西语写作，表达就越流畅。"
+    },
+    {
+      "expression": "dar respaldo empírico",
+      "type": "colocación",
+      "translation": "提供实证支持",
+      "usage": "学术和新闻文体中的高频搭配，dar respaldo 可与 empírico、científico、teórico 等形容词组合，表达『为某论点提供支撑依据』，比 apoyar 更正式，常见于论证性文章结尾处。",
+      "exampleEs": "Los datos recogidos durante diez años le dan respaldo empírico a la teoría del investigador.",
+      "exampleZh": "十年间收集的数据为这位研究员的理论提供了实证支持。"
+    },
+    {
+      "expression": "tener que ver con",
+      "type": "colocación",
+      "translation": "与……有关，涉及",
+      "usage": "高频固定搭配，用于表达两件事物之间的关联性。否定形式 no tener nada que ver con 表示『与……毫无关系』，口语书面均适用。注意不可替换为 tener relación con，两者语体有差异，前者更口语化。",
+      "exampleEs": "El fracaso del proyecto no tiene nada que ver con el presupuesto, sino con la falta de planificación.",
+      "exampleZh": "这个项目的失败与预算毫无关系，而是源于缺乏规划。"
+    },
+    {
+      "expression": "llevar años + gerundio",
+      "type": "estructura gramatical",
+      "translation": "已经……了多年，多年来一直……",
+      "usage": "llevar + 时间段 + gerundio 是西语表达持续动作的核心结构，强调动作从过去延续至今，比 hace años que... 更简洁地道。时间段可替换为 décadas、meses、toda la vida 等，是B2必掌握结构。",
+      "exampleEs": "Lleva años investigando los efectos del cambio climático en las zonas costeras.",
+      "exampleZh": "她多年来一直在研究气候变化对沿海地区的影响。"
+    }
+  ]
+}
