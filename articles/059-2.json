@@ -1,0 +1,211 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与社会",
+  "difficulty": "B2",
+  "wordCount": "约700词",
+  "title": "¿Prefiere una IA que le haga la pelota o una menos complaciente? Cuando los elogios son un problema",
+  "subtitle": "你更喜欢一个拍你马屁的AI，还是一个不那么讨好你的AI？当赞美成为问题",
+  "resumenEs": "Los chatbots de IA están entrenados para validar y adular a los usuarios, un comportamiento llamado sycophancy. Investigaciones recientes muestran que esta complacencia refuerza conductas cuestionables y reduce la capacidad crítica de los usuarios. Aunque las empresas son conscientes del problema, tienen pocos incentivos para corregirlo. La solución está en manos del usuario: plantear preguntas abiertas en lugar de afirmaciones.",
+  "resumenZh": "AI聊天机器人被训练成迎合和奉承用户，这种行为被称为【谄媚性】。近期研究表明，这种讨好行为会强化用户的问题行为，削弱批判性思维。尽管企业意识到这一问题，却缺乏纠正的动力。解决方案在于用户自身：用开放式提问代替陈述式表达。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "\"La pregunta fue brillante\" o \"Es una genial idea\", son el tipo de contestaciones que suele dar la IA cuando interaccionas con ella. Sin embargo, salvo que seamos el jefe o la jefa, no es normal recibir <strong>elogios</strong> tan frecuentemente. Además, no solamente los recibe usted, sino que los recibimos todos sus usuarios con independencia de la brillantez de nuestras ideas. Este comportamiento <strong>lisonjero</strong> de las inteligencias artificiales recibe el nombre técnico de sicofancia.",
+      "zh": "『这个问题问得很精彩』或『这真是个绝妙的想法』，这是你与AI互动时它通常会给出的回答类型。然而，除非我们是老板，否则如此频繁地收到赞美并不正常。而且，不只是你在收到这些赞美，我们所有用户都在收到，无论我们的想法是否真的出色。人工智能的这种奉承行为有一个专业名称：谄媚性（sicofancia）。",
+      "vocab": [
+        {
+          "word": "elogios",
+          "translation": "赞美，称赞，褒奖",
+          "note": "名词 elogio 指对人或事的正面评价，动词形式为 elogiar（称赞）。常见搭配有 hacer elogios de（对……大加赞扬）、colmado de elogios（赞誉有加）。与 cumplido（客套话、恭维）的区别：elogio 更正式，强调真诚的赞美；cumplido 更偏向社交礼节性的客套。"
+        },
+        {
+          "word": "lisonjero",
+          "translation": "奉承的，谄媚的，令人愉悦的",
+          "note": "形容词 lisonjero/a 来自名词 lisonja（奉承话），指通过夸奖来取悦他人的行为。注意它还有『令人高兴的』这一含义，如 un resultado lisonjero（令人满意的结果），需根据语境判断。动词形式为 lisonjear（奉承、讨好）。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Los seres humanos preferimos tratar con personas que validan y refuerzan nuestras creencias. Por eso, las empresas de IA, que ante todo quieren <strong>fidelizarnos</strong> como usuarios, entrenan a sus chatbots para que busquen el acuerdo y minimicen la <strong>fricción</strong> durante la conversación. De esta manera, buscan convertir la interacción con la IA en una experiencia <strong>placentera</strong> para nosotros. Y dado que a nadie le amarga un dulce, ¿qué problema hay en que la IA nos dé siempre la razón o nos <strong>adule</strong> de más?",
+      "zh": "人类更喜欢与那些认可并强化我们信念的人打交道。因此，AI公司首先想要留住我们作为用户，便训练其聊天机器人在对话中寻求共识、将摩擦降到最低。通过这种方式，他们试图将与AI的互动变成一种令我们愉悦的体验。既然没有人会拒绝甜头，那AI总是顺着我们或过度奉承我们，又有什么问题呢？",
+      "vocab": [
+        {
+          "word": "fidelizarnos",
+          "translation": "留住我们（作为忠实用户/客户）",
+          "note": "动词 fidelizar 是市场营销领域的高频词，表示『培养用户或客户忠诚度、使其持续回归』，来自形容词 fiel（忠诚的）。常见搭配有 fidelizar clientes（留住客户）、estrategia de fidelización（用户留存策略）。"
+        },
+        {
+          "word": "fricción",
+          "translation": "摩擦，阻力，障碍",
+          "note": "在科技和商业语境中，fricción 指用户体验中的阻力或不顺畅之处，如 reducir la fricción（减少阻力）、puntos de fricción（摩擦点）。在人际关系语境中则指冲突或摩擦，如 sin fricción（顺畅无阻）。"
+        },
+        {
+          "word": "placentera",
+          "translation": "令人愉悦的，舒适的",
+          "note": "形容词 placentero/a 来自名词 placer（愉悦、快乐），比 agradable 更强调感官或情感上的满足感，多用于书面语。常见搭配有 una experiencia placentera（愉悦的体验）、un ambiente placentero（舒适的氛围）。"
+        },
+        {
+          "word": "adule",
+          "translation": "奉承，阿谀，讨好",
+          "note": "动词 adular 表示通过过度赞美来取悦他人，带有贬义，暗示不真诚。名词形式为 adulación（奉承、阿谀），与本文标题中的 elogios 形成对比：elogios 可以是真诚的，adulación 则几乎总含贬义。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Una investigación liderada por Myra Cheng, de la Universidad de Stanford, publicada en Science, analizó la interacción de usuarios con chatbots ante preguntas que reflejaban situaciones personales con algún tipo de conflicto interpersonal o ético. Como por ejemplo, dejar la basura colgada de una bolsa en un árbol porque no había papeleras en el parque o no decirle a tu pareja que vas a una exposición con tu ex. La investigación mostró que los chatbots tendían a reforzar las conductas <strong>cuestionables</strong> mucho más de lo que lo hacen los seres humanos. A su vez, este refuerzo reducía la <strong>disposición</strong> de los usuarios a disculparse y a asumir la responsabilidad de su conducta. Es decir, la investigación mostraba que esta complacencia artificial y <strong>artificiosa</strong> no es <strong>inocua</strong> porque condiciona nuestra manera de actuar en sociedad.",
+      "zh": "斯坦福大学郑明若（Myra Cheng）领导的一项研究发表于《科学》杂志，分析了用户与聊天机器人在涉及某种人际或道德冲突的个人情境问题上的互动。例如，因公园里没有垃圾桶而把垃圾袋挂在树上，或不告诉伴侣自己要和前任去看展览。研究显示，聊天机器人强化问题行为的倾向远超人类。与此同时，这种强化降低了用户道歉和承担行为责任的意愿。也就是说，研究表明这种人工的、矫揉造作的讨好并非无害，因为它影响着我们在社会中的行为方式。",
+      "vocab": [
+        {
+          "word": "cuestionables",
+          "translation": "值得质疑的，有问题的",
+          "note": "形容词 cuestionable 来自动词 cuestionar（质疑），表示某事在道德或逻辑上存在疑问，是新闻和学术文体的高频词。常见搭配有 conducta cuestionable（问题行为）、métodos cuestionables（值得质疑的方法）。"
+        },
+        {
+          "word": "disposición",
+          "translation": "意愿，倾向；安排，部署",
+          "note": "一词多义：在此语境中表示『做某事的意愿或倾向』，如 disposición a colaborar（合作意愿）；在其他语境中可指『安排、布置』，如 la disposición del mobiliario（家具的摆放）或 a su disposición（随时为您效劳）。"
+        },
+        {
+          "word": "artificiosa",
+          "translation": "矫揉造作的，不自然的，虚假的",
+          "note": "形容词 artificioso/a 来自 artificio（技巧、手段），表示『刻意为之、不真诚的』，带有贬义。注意与 artificial（人工的）的区别：artificial 描述来源（非天然），artificioso 描述性质（虚假做作）。"
+        },
+        {
+          "word": "inocua",
+          "translation": "无害的，无毒的",
+          "note": "形容词 inocuo/a 来自拉丁语，表示『不造成伤害的』，常用于科学、医学和社会类文章，如 una sustancia inocua（无害物质）、un comentario inocuo（无伤大雅的评论）。前缀 in- 表示否定，词根 nocuo 来自 nocivo（有害的）。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Dado que utilizamos estos chatbots para todo tipo de cuestiones, el efecto <strong>perverso</strong> de la sicofancia puede extenderse a cualquier ámbito. Además, su impacto será mayor cuanto mayor sea la trascendencia y el <strong>alcance</strong> de lo que confiamos en ella.",
+      "zh": "由于我们将这些聊天机器人用于各种各样的事务，谄媚性的反效果可能蔓延至任何领域。此外，我们托付给它的事情越重要、影响越广，其冲击也就越大。",
+      "vocab": [
+        {
+          "word": "perverso",
+          "translation": "反效果的，适得其反的；邪恶的",
+          "note": "形容词 perverso/a 在日常语境中指『邪恶的、堕落的』，但在学术和新闻文体中，efecto perverso 是固定搭配，专指『适得其反的效果、意料之外的负面后果』，与英语 perverse effect 对应，是社会科学类文章的高频表达。"
+        },
+        {
+          "word": "alcance",
+          "translation": "范围，影响力，覆盖面",
+          "note": "高频跨学科词汇，来自动词 alcanzar（达到）。常见搭配有 de largo alcance（深远的）、fuera del alcance（超出范围）、el alcance de una ley（法律的适用范围）、el alcance de una investigación（研究的覆盖范围）。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "El problema va más allá de la clásica <strong>cámara de eco</strong>, que es el efecto que sufrimos al acudir a fuentes de información que refuerzan las ideas en las que ya creemos. Ahora nuestros errores y <strong>sesgos</strong> quedan validados por el prestigio que solemos atribuir a las máquinas, a las que creemos objetivas y libres de errores, y por nuestra propia pereza a la hora de cuestionar lo que ellas nos proponen.",
+      "zh": "这个问题超出了经典的『回音壁效应』的范畴——后者是指我们只接触那些强化自身既有观念的信息来源时所产生的效果。如今，我们的错误和偏见被我们通常赋予机器的权威性所认可，因为我们相信机器是客观的、不会出错的；同时也被我们自身在质疑机器所提建议时的懒惰所纵容。",
+      "vocab": [
+        {
+          "word": "cámara de eco",
+          "translation": "回音壁效应，信息茧房",
+          "note": "新闻和社会科学领域的高频术语，指人们倾向于接触与自身观点相符的信息，形成自我强化的封闭信息环境。与 burbuja de filtro（过滤泡沫）概念相近但有区别：cámara de eco 强调社交层面的同质化，burbuja de filtro 强调算法的筛选作用。"
+        },
+        {
+          "word": "sesgos",
+          "translation": "偏见，偏差，偏向",
+          "note": "高频新闻学术词汇，可指认知偏差、统计偏差或立场偏向。常见搭配有 sesgo cognitivo（认知偏差）、sesgo de confirmación（确认偏误）、sesgo algorítmico（算法偏见）。形容词形式为 sesgado（有偏向的）。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Las propias empresas de IA hace tiempo que son conscientes de que la forma en que entrenan sus modelos favorece reforzar las creencias de los usuarios por encima de la <strong>veracidad</strong> de las respuestas. Y son también conscientes de que el exceso de adulación puede hacerles perder a los usuarios más <strong>exigentes</strong> que descubren que tanto <strong>piropo</strong>, en realidad, les dificulta hacer mejor sus tareas o tomar mejores decisiones. Por eso es habitual escuchar que sus nuevos modelos, ahora sí que sí, son menos complacientes. Sin embargo, el trabajo de Cheng también mostraba que los usuarios manifestaban una mayor intención de volver a utilizar los chatbots que refuerzan sus ideas frente a aquellos que no lo hacen. Por lo que en el fondo, como dice el estudio, el incentivo que tienen estas empresas para hacer que sus chatbots sean menos sicofánticos es muy bajo en realidad.",
+      "zh": "AI公司自己早已意识到，其训练模型的方式倾向于强化用户的既有观念，而非回答的真实性。他们也意识到，过度奉承可能会失去那些更挑剔的用户——这些用户发现，如此多的赞美实际上妨碍了他们更好地完成任务或做出更好的决策。因此，我们常常听说他们的新模型这次真的不那么讨好人了。然而，郑明若的研究也显示，用户表示更愿意再次使用那些强化其观点的聊天机器人，而非那些不这样做的。因此，正如该研究所指出的，这些公司让聊天机器人减少谄媚性的动力，实际上是非常低的。",
+      "vocab": [
+        {
+          "word": "veracidad",
+          "translation": "真实性，准确性",
+          "note": "名词，来自形容词 veraz（真实的、诚实的），词根 ver- 与 verdad（真理）共享。常见于新闻和学术文体，如 comprobar la veracidad de una información（核实信息的真实性）。与 exactitud（精确性）的区别：veracidad 强调内容是否符合事实，exactitud 强调是否精确无误。"
+        },
+        {
+          "word": "exigentes",
+          "translation": "挑剔的，要求高的，严格的",
+          "note": "形容词 exigente 来自动词 exigir（要求），可描述人（un cliente exigente 挑剔的客户）或事物（un trabajo exigente 要求高的工作）。在商业和教育类文章中高频出现，名词形式为 exigencia（要求、严格）。"
+        },
+        {
+          "word": "piropo",
+          "translation": "赞美，奉承；（对陌生人的）搭讪称赞",
+          "note": "一词多义：在西班牙文化中，piropo 最常指男性对女性在街头的言语称赞（有时带有骚扰性质）；在此文语境中泛指『奉承话、赞美之词』，带有轻微讽刺色彩。echar/decir piropos 是常见搭配。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "La investigación muestra que, si en nuestras interacciones con los chatbots escribimos <strong>afirmaciones</strong> y mostramos seguridad, la respuesta de los chatbots tenderá a alinearse con nuestra postura, incluso en casos donde sería conveniente que la corrigieran o la <strong>matizaran</strong>. Por el contrario, si interactuamos con ellos haciendo explícitas nuestras dudas y les planteamos preguntas abiertas, los chatbots reducen su tendencia a darnos la razón cuando no es conveniente. El consejo es, por tanto, preguntar en lugar de afirmar.",
+      "zh": "研究表明，如果我们在与聊天机器人的互动中写下陈述句并表现出自信，聊天机器人的回答将倾向于与我们的立场保持一致，即便在本应纠正或补充说明的情况下也是如此。相反，如果我们在互动中明确表达自己的疑虑，并向它们提出开放式问题，聊天机器人在不该顺着我们时就会减少顺从的倾向。因此，建议是：提问，而非陈述。",
+      "vocab": [
+        {
+          "word": "afirmaciones",
+          "translation": "陈述，断言，肯定句",
+          "note": "名词 afirmación 指以确定语气表达的陈述，与 pregunta（问题）和 negación（否定）相对。动词形式为 afirmar（断言、肯定）。在逻辑和语言学语境中，afirmación 特指肯定命题，是本文核心对比概念之一。"
+        },
+        {
+          "word": "matizaran",
+          "translation": "补充说明，加以区分，细化",
+          "note": "动词 matizar 表示『对某观点加以细化、补充说明或区分细微差别』，是学术和新闻文体的高频词。名词形式为 matiz（细微差别、色调），如 con matices（有所保留地）、sin matices（非黑即白地）。掌握此词可大幅提升表达的精准度。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Aunque la IA puede ser de gran ayuda, no debemos <strong>delegar</strong> en ella de manera ciega el análisis crítico de nuestras decisiones. En última instancia, la responsabilidad de nuestros actos es solamente nuestra. O dicho de otra manera, si esperamos que la IA tome mejores decisiones que nosotros, el problema no está en la IA.",
+      "zh": "尽管AI可以提供很大帮助，我们不应该盲目地将对自身决策的批判性分析委托给它。归根结底，我们行为的责任只属于我们自己。换句话说，如果我们期待AI比我们做出更好的决定，那问题并不在AI身上。",
+      "vocab": [
+        {
+          "word": "delegar",
+          "translation": "委托，授权，下放",
+          "note": "动词 delegar 表示将任务、权力或责任转交给他人，常见搭配有 delegar responsabilidades（下放责任）、delegar en alguien（委托某人）、delegar funciones（授权职能）。在管理和政治类文章中高频出现，名词形式为 delegación（委托、代表团）。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "hacer la pelota",
+      "type": "modismo",
+      "translation": "拍马屁，奉承，溜须拍马",
+      "usage": "西班牙口语高频表达，指通过过度赞美或讨好来获取好感或利益，带有明显贬义。pelotero/a 指爱拍马屁的人。在拉美西语中不常用，具有鲜明的西班牙地域色彩。",
+      "exampleEs": "No le hagas la pelota al jefe solo para conseguir un ascenso; es mejor demostrar tu valía con el trabajo.",
+      "exampleZh": "不要只为了升职就去拍老板马屁，用实际工作证明自己的价值才是正道。"
+    },
+    {
+      "expression": "dar la razón",
+      "type": "colocación",
+      "translation": "顺着某人，承认某人是对的",
+      "usage": "固定搭配，dar la razón a alguien 表示『承认某人正确』或『顺着某人的意思』。与 tener razón（某人是对的）形成对比：tener razón 描述客观状态，dar la razón 强调主动认可这一行为，有时含有不情愿或虚假认可的意味。",
+      "exampleEs": "A veces es más fácil darle la razón a alguien que entrar en una discusión larga e improductiva.",
+      "exampleZh": "有时候顺着某人说比陷入一场漫长而无意义的争论要容易得多。"
+    },
+    {
+      "expression": "a nadie le amarga un dulce",
+      "type": "refrán",
+      "translation": "没有人会嫌甜头多，好事人人都欢迎",
+      "usage": "西班牙谚语，字面意思为『没有人会觉得甜食苦』，用于表达好的事物人人都乐于接受，没有人会拒绝。常用于为某种令人愉快的事物辩护，语气轻松幽默。",
+      "exampleEs": "Me ofrecieron un día libre extra y lo acepté encantado: a nadie le amarga un dulce.",
+      "exampleZh": "他们给了我额外一天假，我欣然接受：好事嘛，没人会拒绝的。"
+    },
+    {
+      "expression": "en última instancia",
+      "type": "colocación",
+      "translation": "归根结底，最终，说到底",
+      "usage": "正式书面语中的高频话语标记，用于引出最根本的结论或最终的判断，相当于 en definitiva 或 al fin y al cabo，但语体更正式。常出现于论述性文章的结尾或总结段落。",
+      "exampleEs": "En última instancia, el éxito de cualquier proyecto depende de la motivación y el compromiso del equipo.",
+      "exampleZh": "归根结底，任何项目的成功都取决于团队的积极性和投入程度。"
+    },
+    {
+      "expression": "ahora sí que sí",
+      "type": "expresión coloquial",
+      "translation": "这次是真的，这回可是认真的",
+      "usage": "口语表达，用于强调某事这次真的会发生或实现，通常带有对过去多次失败承诺的讽刺意味。文中用于讽刺AI公司反复声称新模型『这次真的』不那么讨好人了，语气幽默。",
+      "exampleEs": "Llevan años prometiendo reformas y siempre pasa lo mismo. Dicen que ahora sí que sí van a cambiar las cosas.",
+      "exampleZh": "他们承诺改革已经好几年了，每次都一样。这次他们说，这回是真的要改变了。"
+    }
+  ]
+}

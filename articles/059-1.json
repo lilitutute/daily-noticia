@@ -1,0 +1,179 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "文学与生活随笔",
+  "difficulty": "B1",
+  "wordCount": "约600词",
+  "title": "Sueños de verano",
+  "subtitle": "夏日之梦",
+  "resumenEs": "El autor repasa los momentos más significativos de su vida, todos ocurridos en verano: su primer beso a los 12 años, un amor juvenil en Buenos Aires, su llegada a Madrid y el encuentro con su pareja en Lisboa. A través de estos recuerdos, reflexiona sobre cómo el verano representa la libertad, los sueños y la posibilidad de ser uno mismo.",
+  "resumenZh": "作者回顾了人生中最重要的几个时刻，它们都发生在夏天：12岁时的初吻、布宜诺斯艾利斯的青春恋情、来到马德里，以及在里斯本与伴侣的相遇。通过这些回忆，他思考夏天如何象征着自由、梦想与做自己的可能。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Sucedió una de esas tardes <strong>bochornosas</strong> y húmedas del insoportable verano porteño. Un día de febrero, poco antes de volver a la escuela, Andrés y yo nos escapamos de la piscina del club y nos escondimos bajo las gradas del campo de rugby. Ahí, con los bañadores empapados, nos dimos el primer beso. Nos besamos <strong>torpemente</strong> como dos chavales de 12 años en 1994: rápido y con miedo. Recuerdo la sensación de peligro, la idea de estar haciendo algo prohibido. El corazón me latía como nunca, bombeando chorros de sangre que me hicieron sentir vivo, libre y verdadero por primera vez.",
+      "zh": "那是布宜诺斯艾利斯难以忍受的夏日里，一个闷热潮湿的午后。二月的某天，在返校前不久，安德烈斯和我从俱乐部的游泳池溜走，躲到了橄榄球场的看台下面。就在那里，穿着湿透的泳裤，我们初吻了。我们笨拙地接吻，像1994年两个12岁的孩子：又快又害怕。我记得那种危险的感觉，那种正在做一件被禁止的事的念头。我的心跳从未如此剧烈，涌动的血液让我第一次感到自己是活着的、自由的、真实的。",
+      "vocab": [
+        {
+          "word": "bochornosas",
+          "translation": "闷热的，令人窒息的",
+          "note": "形容词 bochornoso/a 专门描述湿热、令人不适的天气，比 caluroso（热的）更强调闷热感。名词 bochorno 还可比喻『难堪、羞耻』，如 ¡qué bochorno!（真丢人！），注意这一引申义。"
+        },
+        {
+          "word": "torpemente",
+          "translation": "笨拙地，不灵活地",
+          "note": "副词，来自形容词 torpe（笨拙的）。torpe 可描述动作上的笨拙，也可指思维迟钝，如 una respuesta torpe（笨拙的回答）。后缀 -mente 是西语构成副词的标准方式，可套用于绝大多数形容词。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Tardé en volver a sentir todo eso. Fue también una tarde de verano, pero esta vez del año 2000. Conocí a Juan en una tienda de discos en la avenida de Santa Fe, esquina con Riobamba, en el centro de Buenos Aires. Él tenía 26 años, pero me dijo que tenía 22. Yo tenía 18 recién cumplidos, pero le dije que tenía 22. Él era abogado; yo todavía no había empezado la universidad. Empezamos a charlar mientras dábamos un paseo por Santa Fe. No había un alma en la calle. Las librerías y cafés estaban desiertos. Intercambiamos correos electrónicos y nos despedimos.",
+      "zh": "我花了很长时间才再次感受到这一切。那也是一个夏日午后，但这次是2000年。我在布宜诺斯艾利斯市中心圣菲大道与里奥班巴街的交叉口，一家唱片店里认识了胡安。他26岁，但告诉我他22岁。我刚满18岁，但告诉他我22岁。他是律师；我还没开始上大学。我们边沿着圣菲大道散步边聊了起来。街上空无一人。书店和咖啡馆都空着。我们交换了电子邮件地址，然后道别。",
+      "vocab": [
+        {
+          "word": "tardé en",
+          "translation": "花了很长时间才……",
+          "note": "固定结构 tardar en + 动词原形，表示『花费时间做某事』或『迟迟才做某事』，如 tardó en responder（他迟迟才回复）、no tardó en llegar（他很快就到了）。注意否定形式 no tardar en 表示『很快就……』。"
+        },
+        {
+          "word": "no había un alma",
+          "translation": "空无一人，连一个人都没有",
+          "note": "固定表达，alma（灵魂）在此用于强调完全没有人的状态，语气比 no había nadie 更文学化。类似用法还有 ni un alma（连一个人影都没有），常见于文学和新闻叙事文体。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Yo fui el primero en escribir a su dirección. Unos días después, a comienzos de febrero, fui con él a la plaza de Leloir, detrás de la casa de mis abuelos. Nunca hay nadie en ese jardín olvidado que <strong>brota</strong> a la sombra de la Biblioteca Nacional. Ahí, bajo un ombú <strong>centenario</strong>, a escondidas, me dieron (o quizás di, no lo recuerdo bien) mi segundo beso. Me gusta pensar que la biblioteca, esa bestia de hormigón en medio de la Recoleta que Borges alguna vez domó, fue la única que nos vio. Yo pensaba que aquello no iba a acabar, pero el primer amor suele durar lo que dura un verano.",
+      "zh": "我是第一个给他写信的人。几天后，二月初，我和他去了莱洛伊尔广场，就在我祖父母家后面。那个被遗忘的花园隐于国家图书馆的树荫之下，从来没有人。就在那里，在一棵百年老树下，悄悄地，我得到了（或者也许是给出了，我记不太清楚）我的第二个吻。我喜欢想象那座图书馆——那头矗立在雷科莱塔中心、博尔赫斯曾经驯服过的混凝土巨兽——是唯一目睹了我们的见证者。我以为那一切不会结束，但初恋往往只持续一个夏天的时间。",
+      "vocab": [
+        {
+          "word": "brota",
+          "translation": "生长，冒出，涌现",
+          "note": "动词 brotar 本义为植物『发芽、冒出』，在此比喻花园从图书馆树荫中『生长出来』。引申用法广泛，如 brotar lágrimas（泪水涌出）、brotar una idea（萌生一个想法）。名词形式为 brote，如 brote de violencia（暴力事件的爆发）。"
+        },
+        {
+          "word": "centenario",
+          "translation": "百年的，有百年历史的",
+          "note": "形容词，来自 cien（百）+ 后缀 -enario，同类构词有 milenario（千年的）、bicentenario（两百周年的）、cincuentenario（五十周年的）。作名词时 el centenario 指『百年纪念』，如 el centenario de su nacimiento（诞辰百年纪念）。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Unos años más tarde, con 26, me fui lejos de mi ciudad. Llegué a Madrid un día de septiembre, en el <strong>ocaso</strong> de otro verano, diciéndome a mí mismo que venía a estudiar. Me llevó mucho tiempo comprender que en realidad me fui de casa para encontrarme. A veces, el camino más largo y doloroso es el más fácil. Otras veces, es el único camino.",
+      "zh": "几年后，26岁时，我离开了我的城市。九月的某天，在另一个夏天的尾声，我来到马德里，告诉自己是来读书的。我花了很长时间才明白，我其实是离开家去寻找自己。有时候，最漫长、最痛苦的路是最容易的那条。有时候，它是唯一的路。",
+      "vocab": [
+        {
+          "word": "ocaso",
+          "translation": "日落，黄昏；衰落，尾声",
+          "note": "一词多义：本义为『日落、黄昏』，引申为某事物的『衰落、终结或尾声』，如 el ocaso de un imperio（帝国的衰落）、en el ocaso de su carrera（在其职业生涯的暮年）。与 amanecer（黎明、开端）形成对比，是文学文体的高频词。"
+        },
+        {
+          "word": "encontrarme",
+          "translation": "找到自我，认识自己",
+          "note": "动词 encontrarse 作反身动词时，除表示『相遇』外，还可表示『找到自我、认清自己』，是文学和心理类文章的高频表达。前缀 en- 加词根 contr-（对面）构成，与 confrontarse（面对）共享词根。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Y fue aquí donde, otro verano, con 28, entrevisté a María Kodama, la viuda de Borges. Gracias a ella conocí a Israel. Él me invitó a un café; yo le dije que mejor nos tomábamos unas cañas. A las pocas semanas nos fuimos de viaje. Caminando por las calles de Lisboa volví a sentirme vivo, como aquella tarde en el club cuando tenía 12 años. Me prometí a mí mismo que nunca más volvería a <strong>esconderme</strong>, que intentaría vivir el resto de mi vida como lo hice aquel verano portugués: libre. Creo que he cumplido mi palabra.",
+      "zh": "就是在这里，又一个夏天，28岁的我采访了博尔赫斯的遗孀玛丽亚·科达马。通过她，我认识了伊斯雷尔。他邀我喝咖啡；我说不如去喝几杯生啤。几周后我们一起去旅行了。漫步在里斯本的街头，我再次感到自己是活着的，就像12岁那年在俱乐部的那个午后。我向自己承诺，再也不会躲藏，会努力像那个葡萄牙之夏一样度过余生：自由地活着。我想我兑现了这个承诺。",
+      "vocab": [
+        {
+          "word": "esconderme",
+          "translation": "躲藏，隐藏自我",
+          "note": "动词 esconderse 在此超越字面意思，指『隐藏真实的自我或身份』。这一比喻用法在描述LGBTQ+经历或个人成长的文章中高频出现，与 salir del armario（出柜）形成语义上的对照。"
+        },
+        {
+          "word": "cumplido mi palabra",
+          "translation": "兑现了承诺，说到做到",
+          "note": "固定搭配 cumplir la/su palabra 表示『遵守诺言、说到做到』，是B2高频表达。注意 cumplir 的多种搭配：cumplir años（过生日）、cumplir una condena（服刑期满）、cumplir con su deber（尽职尽责）。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Recordando todos estos momentos me he dado cuenta de que los veranos me saben a libertad y a sueños cumplidos. Supongo que no soy el único que se siente así en esta época del año. Durante estos meses trabajamos menos. Perdemos más tiempo porque hay más tiempo que perder y hacemos un poco más de todo aquello que nos gusta y que nunca tenemos tiempo de hacer o que no nos <strong>atrevemos</strong> a hacer. Comemos más, leemos más, hacemos más deporte, hacemos más el amor. También soñamos más. Cuando lo hacemos dormidos, es difícil recordar las fantasías que <strong>rondan</strong> nuestra cabeza. Pero en estos meses también soñamos despiertos, tumbados bajo al sol, mirando ciegamente al firmamento. Y así es más fácil acordarse de los deseos y las posibilidades de futuros brillantes que <strong>destellan</strong> en nuestra mente.",
+      "zh": "回想这一切，我意识到夏天对我来说尝起来是自由的味道，是梦想成真的味道。我想我不是这个季节里唯一有这种感受的人。在这几个月里，我们工作得少一些。我们浪费更多时间，因为有更多时间可以浪费，我们也多做一点那些我们喜欢却从来没时间做、或者不敢去做的事。我们吃得更多，读得更多，运动更多，也更多地做爱。我们也做更多的梦。当我们在睡梦中做梦时，很难记住那些在脑海中萦绕的幻想。但在这几个月里，我们也在清醒时做梦，躺在阳光下，茫然地凝视苍穹。这样更容易记住那些在脑海中闪烁的愿望，以及光明未来的种种可能。",
+      "vocab": [
+        {
+          "word": "atrevemos",
+          "translation": "敢于，鼓起勇气",
+          "note": "动词 atreverse a + 动词原形，表示『敢于做某事』，是B2高频固定结构。与 osar（敢于，更文学化）相比，atreverse 更口语化常用。名词形式为 atrevimiento（大胆、冒失），形容词为 atrevido（大胆的）。"
+        },
+        {
+          "word": "rondan",
+          "translation": "萦绕，盘旋，徘徊",
+          "note": "动词 rondar 本义为『在某地附近徘徊、巡逻』，引申为想法、感觉或记忆在脑海中『萦绕』，如 una idea que ronda la cabeza（一个萦绕心头的想法）。在文学文体中高频出现，比 perseguir 更有诗意。"
+        },
+        {
+          "word": "destellan",
+          "translation": "闪烁，闪现",
+          "note": "动词 destellar 表示光线或想法的短暂闪现，名词形式为 destello（闪光、灵光一现），如 un destello de esperanza（一线希望）、destellos de genialidad（天才的灵光闪现）。是文学和新闻文体中的高频比喻词。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Creo que tendríamos que <strong>aprovechar</strong> este momento para pensar cómo hacer realidad todos esos sueños, para trazar planes <strong>minuciosos</strong> que nos hagan sentir vivos y verdaderos todo el año. Porque el verano termina en septiembre, pero el resto de nuestras vidas está a punto de comenzar.",
+      "zh": "我想我们应该利用这个时刻，思考如何将所有这些梦想变为现实，制定周密的计划，让我们全年都能感到自己是活着的、真实的。因为夏天在九月结束，但我们余下的人生即将开始。",
+      "vocab": [
+        {
+          "word": "aprovechar",
+          "translation": "利用，充分把握",
+          "note": "高频动词，表示『充分利用时间、机会或资源』，常见搭配有 aprovechar el tiempo（充分利用时间）、aprovechar la oportunidad（把握机会）。注意与 utilizar（使用工具或手段）的区别：aprovechar 更强调不浪费、充分发挥价值。"
+        },
+        {
+          "word": "minuciosos",
+          "translation": "周密的，细致入微的",
+          "note": "形容词 minucioso/a 表示『注重细节、极为仔细』，常见搭配有 un análisis minucioso（细致的分析）、una investigación minuciosa（详尽的调查）。比 detallado（详细的）更强调对细节的严格把控，多用于正式书面语。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "a escondidas",
+      "type": "modismo",
+      "translation": "偷偷地，背着人",
+      "usage": "固定副词短语，表示秘密地、不让人知道地做某事，口语和书面语均常用。类似表达有 a hurtadillas（鬼鬼祟祟地）、en secreto（秘密地），但 a escondidas 更强调躲避他人视线的动作感。",
+      "exampleEs": "De adolescente, leía novelas a escondidas cuando se suponía que debía estar estudiando.",
+      "exampleZh": "青少年时期，我常常偷偷看小说，而那时本该在学习。"
+    },
+    {
+      "expression": "hacer realidad",
+      "type": "colocación",
+      "translation": "实现，使成真",
+      "usage": "高频固定搭配，hacer realidad + 名词，表示『将某事变为现实』，如 hacer realidad un sueño（实现梦想）、hacer realidad un proyecto（落实一个项目）。注意不可替换为 realizar，后者在西班牙语中主要表示『意识到』而非『实现』。",
+      "exampleEs": "Con esfuerzo y constancia, es posible hacer realidad incluso los proyectos más ambiciosos.",
+      "exampleZh": "凭借努力和坚持，即使是最雄心勃勃的计划也有可能变为现实。"
+    },
+    {
+      "expression": "soñar despierto",
+      "type": "modismo",
+      "translation": "白日做梦，清醒时幻想",
+      "usage": "固定表达，指在清醒状态下沉浸于幻想或憧憬，中性甚至带有诗意色彩，不像中文『白日做梦』那样含有贬义。在文学和日常语境中均可使用。",
+      "exampleEs": "En las largas tardes de verano, me tumbaba en el jardín y me pasaba horas soñando despierto.",
+      "exampleZh": "在漫长的夏日午后，我躺在花园里，一连几个小时沉浸在白日梦中。"
+    },
+    {
+      "expression": "estar a punto de",
+      "type": "colocación",
+      "translation": "即将，正要",
+      "usage": "固定结构 estar a punto de + 动词原形，表示某事即将发生，是B2核心表达。与 acabar de + 动词原形（刚刚做完某事）形成时间上的对照，两者都是西语叙事中描述时间节点的高频结构。",
+      "exampleEs": "Estaba a punto de rendirse cuando llegaron las buenas noticias.",
+      "exampleZh": "他正要放弃的时候，好消息传来了。"
+    },
+    {
+      "expression": "tomarse unas cañas",
+      "type": "expresión coloquial",
+      "translation": "去喝几杯生啤，去喝一杯",
+      "usage": "西班牙口语高频表达，caña 指小杯扎啤，tomarse unas cañas 泛指朋友间随意喝酒聊天的社交活动。是西班牙文化中极具代表性的日常表达，在拉美西语中不常用，具有鲜明的地域色彩。",
+      "exampleEs": "Después del trabajo, quedamos para tomarnos unas cañas y ponernos al día.",
+      "exampleZh": "下班后，我们约好去喝几杯，顺便叙叙旧。"
+    }
+  ]
+}

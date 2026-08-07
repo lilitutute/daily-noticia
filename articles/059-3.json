@@ -1,0 +1,135 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "读者来信",
+  "difficulty": "B2",
+  "wordCount": "约500词",
+  "title": "Cartas al director",
+  "subtitle": "读者来信",
+  "resumenEs": "Cuatro lectores escriben sobre temas de actualidad: la cesión de servicios de atención a víctimas de violencia de género a un partido que la niega; la persistencia de los feminicidios y la necesidad de compromiso social; la paradoja del empleo temporal en España; y la dependencia del móvil que nos aleja de la realidad y de los demás.",
+  "resumenZh": "四位读者就时事议题写信：将性别暴力受害者评估服务移交给一个否认性别暴力的政党；女性谋杀案的持续发生及社会承担责任的必要性；西班牙临时就业的悖论；以及手机依赖让我们远离现实与他人。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Resulta alarmante la decisión del Gobierno de la Junta de Andalucía de ceder a Vox el servicio de valoración de las víctimas de violencia de género. Delegar esas <strong>competencias</strong> a una formación que niega de forma <strong>rotunda</strong> la violencia machista es como dejar al zorro al cargo del gallinero. Este no es un conflicto que se resuelve en privado, es un problema muy grave que nos obliga a exigir garantías. Si ceden el control de estos recursos a quienes los cuestionan, ¿a dónde vamos a llegar? Los derechos de las mujeres ni pueden ni deben ser <strong>vulnerados</strong> por nada ni por nadie. Y, mucho menos, convertirse en una moneda de cambio político. ¿Qué podemos esperar si llegan al Gobierno central? Cristina Carmona. Ciudad Real",
+      "zh": "安达卢西亚自治区政府将性别暴力受害者评估服务移交给Vox党的决定令人震惊。将这些职能委托给一个断然否认男性暴力的政党，无异于让狐狸看守鸡舍。这不是一个可以私下解决的冲突，而是一个严重问题，迫使我们要求提供保障。如果将这些资源的控制权移交给那些质疑它们的人，我们将走向何方？女性的权利不能也不应该被任何事物或任何人所侵害。更不应该成为政治交换的筹码。如果他们进入中央政府，我们还能期待什么？克里斯蒂娜·卡莫纳，Ciudad Real",
+      "vocab": [
+        {
+          "word": "competencias",
+          "translation": "职能，权限，管辖权",
+          "note": "在行政和政治语境中专指机构或政府部门的『职权范围』，与日常含义『能力、竞争』不同，如 transferir competencias（移交职权）、competencias autonómicas（自治区权限），阅读政治新闻时需注意区分。"
+        },
+        {
+          "word": "rotunda",
+          "translation": "断然的，明确的，毫不含糊的",
+          "note": "形容词 rotundo/a 表示态度或表述上的坚决、不留余地，常见搭配有 un rechazo rotundo（断然拒绝）、una negativa rotunda（明确拒绝），比 claro 语气更强，多用于正式书面语。"
+        },
+        {
+          "word": "vulnerados",
+          "translation": "被侵害的，被损害的",
+          "note": "动词 vulnerar 常用于权利、法律或尊严的语境，如 vulnerar derechos（侵害权利）、vulnerar la ley（违反法律）；形容词 vulnerable（脆弱的、易受伤害的）与之共享词根，是人权类新闻的核心词汇。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Ha vuelto a suceder. Aunque siempre es un horror, impresiona el doble cuando ocurre tan cerca. Pero no se trata de una plaga bajada del cielo, ni afecta solo al ámbito privado. Muy al contrario, la violencia de género es el hecho más brutal que <strong>evidencia</strong> la desigualdad entre los hombres y las mujeres que todavía se sigue sufriendo hoy. Sin embargo, hay quienes la niegan y con su actitud contribuyen mucho más de lo que creemos a que se <strong>perpetúe</strong> el rol del macho alfa herido que no es capaz de vivir y dejar vivir. Y algunos, <strong>avalados</strong> por un buen número de votantes, apoyan que la sociedad mire para otro lado. Ojalá todos comprendiéramos por fin que, para acabar con esta lacra, nuestra sociedad tiene que comprometerse y actuar unida. Luis de Luxán Meléndez. Porrúa (Asturias)",
+      "zh": "它再次发生了。尽管每一次都是噩梦，但当它发生在如此近的地方时，震撼感加倍。但这不是从天而降的瘟疫，也不只是私人领域的问题。恰恰相反，性别暴力是最残酷地揭示男女之间不平等的事实，而这种不平等至今仍在延续。然而，有人否认它，并以其态度在远超我们想象的程度上助长了那种受伤的『雄性主导者』角色的延续——那种无法做到活着也让别人活着的角色。还有一些人，在大量选民的支持下，鼓励社会对此视而不见。但愿我们所有人终于能明白，要终结这一社会毒瘤，我们的社会必须齐心协力、共同行动。路易斯·德·卢尚·梅伦德斯，Porrúa（阿斯图里亚斯）",
+      "vocab": [
+        {
+          "word": "evidencia",
+          "translation": "揭示，证明，表明",
+          "note": "动词 evidenciar 在此作『揭示、证明某事实』讲，是学术和新闻文体的高频词；注意与名词 evidencia（证据）区分，两者形同但词性不同，需根据句子结构判断。"
+        },
+        {
+          "word": "perpetúe",
+          "translation": "使延续，使永久化",
+          "note": "此处为虚拟式现在时，用于 contribuir a que + 虚拟式 这一固定结构，表示『促使某事发生』；动词 perpetuar 常用于描述负面现象的延续，如 perpetuar la desigualdad（固化不平等）。"
+        },
+        {
+          "word": "avalados",
+          "translation": "得到支持的，被背书的",
+          "note": "动词 avalar 本义为『担保、背书』，在政治语境中表示获得某群体的支持或认可，如 avalado por las encuestas（得到民调支持）；比 apoyado 更强调权威性或公信力的背书。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Por estas fechas suelen coincidir todos los años dos noticias aparentemente <strong>dispares</strong> que, sin embargo, comparten un carácter <strong>análogo</strong>. Están referidas a la realidad laboral de nuestro país y deberían ser objeto de mayor análisis por parte de los poderes públicos. La primera se refiere a los miles de trabajadores que siguen trasladándose a Francia todos los años para realizar la vendimia. La segunda es la cancelación de miles de contratos de carácter fijo discontinuo aplicados a enseñantes de forma incomprensible. Ambos casos <strong>denotan</strong> lo alejados que estamos de lo que debería ser normal y oscilan, entre lo asombroso y lo penoso, sobre dos clases de temporeros. Javier Arqued. Santiago de Compostela",
+      "zh": "每年这个时候，总会有两条看似毫不相干的新闻同时出现，然而它们却有着相似的性质。两者都涉及我们国家的劳动现实，应当成为公共权力机构深入分析的对象。第一条是关于每年仍有数千名工人前往法国参与葡萄采摘。第二条是数千份适用于教师的固定间歇性合同被莫名其妙地取消。这两种情况都表明我们距离应有的正常状态有多遥远，在令人惊讶与令人痛心之间摇摆，涉及两类季节性工人。哈维尔·阿尔克德，圣地亚哥-德孔波斯特拉",
+      "vocab": [
+        {
+          "word": "dispares",
+          "translation": "迥异的，悬殊的",
+          "note": "形容词 dispar 比 diferente 更强调两者之间的显著差距和难以相提并论，前缀 dis- 表示分离或否定，同类构词有 disparidad（差异悬殊）、discrepancia（分歧），常用于对比性论述。"
+        },
+        {
+          "word": "análogo",
+          "translation": "类似的，相似的",
+          "note": "比 similar 更正式，常用于学术和论述性文章中进行类比，名词形式为 analogía（类比、相似性），如 por analogía（以此类推）、establecer una analogía（建立类比关系）。"
+        },
+        {
+          "word": "denotan",
+          "translation": "表明，显示，揭示",
+          "note": "动词 denotar 在正式文体中表示『通过某现象揭示或说明某深层事实』，比 mostrar 更书面，常见于社会分析类文章，如 esto denota una falta de planificación（这表明缺乏规划）。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Desde que me mudé a Madrid por motivos de trabajo, hay una imagen que se repite constantemente: miles de personas escondidas tras las pantallas de sus teléfonos. Esperando el autobús, entrando en el vagón del metro, haciendo la compra e incluso cruzando la calle. Estamos completamente <strong>abstraídos</strong> de la realidad. Nos movemos como un rebaño por <strong>inercia</strong> y, en cuanto aparece un segundo de silencio, parece que estamos programados para sacar el móvil. Gracias a la tecnología hemos ganado inmediatez, comodidad y acceso a un mundo de información que antes era inimaginable. Sin embargo, también nos está alejando de algo esencial: la capacidad de observar nuestro entorno, relacionarnos con quienes tenemos cerca o, simplemente, dejar <strong>vagar</strong> nuestros pensamientos. María Pilar Romero Moreno. Madrid",
+      "zh": "自从我因工作搬到马德里，有一幅画面不断重复出现：数千人躲在手机屏幕后面。等公共汽车时、走进地铁车厢时、购物时，甚至过马路时。我们完全脱离了现实。我们像一群羊一样凭着惯性移动，一旦出现片刻的沉默，我们似乎就被程序化地掏出手机。得益于技术，我们获得了即时性、便利性，以及对一个以前难以想象的信息世界的访问。然而，它也让我们远离了某些本质的东西：观察周围环境的能力、与身边的人建立联系的能力，或者，仅仅是让思绪自由漫游的能力。玛丽亚·皮拉尔·罗梅罗·莫雷诺，马德里",
+      "vocab": [
+        {
+          "word": "abstraídos",
+          "translation": "心不在焉的，沉浸其中而脱离现实的",
+          "note": "来自动词 abstraerse，描述一个人精神上与周围环境脱节的状态；注意与 abstracto（抽象的）区分：abstraído 描述人的精神状态，abstracto 描述概念或艺术风格。"
+        },
+        {
+          "word": "inercia",
+          "translation": "惯性，惰性",
+          "note": "本义为物理学上的『惯性』，在社会和日常语境中比喻『不加思考地延续既有行为』，常见搭配有 actuar por inercia（凭惯性行事）、romper la inercia（打破惰性），是社会评论类文章的高频比喻词。"
+        },
+        {
+          "word": "vagar",
+          "translation": "漫游，游荡",
+          "note": "动词 vagar 表示无目的地游走或漂移，在此比喻思绪的自由漫游，如 dejar vagar la imaginación（让想象力自由驰骋）；注意形容词 vago 还有『懒惰的』含义，需根据词性和语境区分。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "dejar al zorro al cargo del gallinero",
+      "type": "modismo",
+      "translation": "让狐狸看守鸡舍，引狼入室",
+      "usage": "比喻将某事的监管权交给与其利益直接冲突的人，强调这种安排从根本上荒谬且危险，常用于政治和社会评论中批评不合理的权力安排。",
+      "exampleEs": "Nombrar a ese lobista como regulador del sector es dejar al zorro al cargo del gallinero.",
+      "exampleZh": "任命那个游说者担任该行业的监管者，无异于让狐狸看守鸡舍。"
+    },
+    {
+      "expression": "moneda de cambio",
+      "type": "colocación",
+      "translation": "交换筹码，谈判砝码",
+      "usage": "固定搭配，字面意思为『零钱』，在政治和外交语境中比喻用于交换利益的筹码，常见形式为 usar algo como moneda de cambio（将某事作为交换条件），是新闻政治类文章的高频表达。",
+      "exampleEs": "Los derechos civiles no pueden convertirse en moneda de cambio en ninguna negociación política.",
+      "exampleZh": "公民权利不能在任何政治谈判中沦为交换筹码。"
+    },
+    {
+      "expression": "mirar para otro lado",
+      "type": "modismo",
+      "translation": "视而不见，故意回避",
+      "usage": "比喻对问题或不公正现象故意忽视、不作为，常用于批评个人、机构或社会的不作为，语气带有道德谴责色彩。",
+      "exampleEs": "Durante años, las autoridades miraron para otro lado ante las denuncias de corrupción.",
+      "exampleZh": "多年来，当局对腐败举报视而不见。"
+    },
+    {
+      "expression": "como un rebaño",
+      "type": "modismo",
+      "translation": "像一群羊，随波逐流，盲目跟从",
+      "usage": "用 rebaño（羊群）比喻人们缺乏独立思考、盲目跟随群体行为，语气带有批判色彩，类似表达有 mentalidad de rebaño（羊群心理）。",
+      "exampleEs": "En las redes sociales, muchos comparten bulos como un rebaño, sin verificar la información.",
+      "exampleZh": "在社交媒体上，许多人像一群羊一样转发谣言，根本不核实信息。"
+    }
+  ]
+}
