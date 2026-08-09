@@ -1,0 +1,332 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会与家庭",
+  "difficulty": "B1",
+  "wordCount": "约620词",
+  "title": "Pantallas en verano: el problema no es solo el tiempo",
+  "subtitle": "暑假与屏幕：问题不只是时间",
+  "resumenEs": "En verano, los niños pasan más tiempo con el móvil y los videojuegos. Los expertos dicen que el problema no es solo cuántas horas usan las pantallas, sino por qué las usan y qué contenidos ven. Es importante que los padres pongan normas claras, hablen con sus hijos y sean un buen ejemplo.",
+  "resumenZh": "暑假期间，孩子们花更多时间玩手机和游戏。专家指出，问题不只是使用屏幕的时长，还在于为什么使用、看了什么内容。家长应制定明确规则、与孩子沟通，并以身作则。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Las vacaciones significan más tiempo libre, horarios más relajados y, para muchos niños y adolescentes, más horas frente a una pantalla. Muchos padres <strong>permiten</strong> más uso del móvil, la tableta o los videojuegos durante el verano. Pero los expertos dicen que el problema no es solo cuánto tiempo pasan los niños <strong>conectados</strong>, sino qué <strong>papel</strong> tienen las pantallas en la vida familiar.",
+      "zh": "假期意味着更多的空闲时间、更轻松的作息，对许多儿童和青少年来说，也意味着更多盯着屏幕的时间。许多家长在暑假期间允许孩子更多地使用手机、平板或电子游戏。但专家表示，问题不只是孩子上网花了多少时间，而是屏幕在家庭生活中扮演着什么角色。",
+      "vocab": [
+        {
+          "word": "permiten",
+          "translation": "允许",
+          "note": "动词 permitir，常见结构为 permitir + 不定式 或 permitir + que + 虚拟式，例如：Los padres no permiten usar el móvil en la mesa。"
+        },
+        {
+          "word": "conectados",
+          "translation": "上网的；连线的",
+          "note": "形容词，来自动词 conectar（连接）。在本文中指上网、使用网络设备，是日常非常常见的词。"
+        },
+        {
+          "word": "papel",
+          "translation": "角色；作用",
+          "note": "papel 除了表示纸张，还常用来表示某人或某物扮演的角色或作用。常见搭配：jugar un papel importante（扮演重要角色）、tener un papel en...（在……中起作用）。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Los datos son <strong>preocupantes</strong>. Según el Plan Nacional contra las Drogas, uno de cada cinco adolescentes de entre 14 y 18 años en España tiene un uso <strong>problemático</strong> de internet. Un estudio de 2022, elaborado por Cáritas, mostraba que cuando no hay <strong>normas</strong> claras en casa, el uso problemático de los dispositivos <strong>aumenta</strong>.",
+      "zh": "数据令人担忧。根据西班牙国家禁毒计划，西班牙每五名14至18岁的青少年中，就有一名存在问题性互联网使用。慈善机构明爱2022年的一项研究显示，当家中没有明确规则时，设备的问题性使用情况会增加。",
+      "vocab": [
+        {
+          "word": "preocupantes",
+          "translation": "令人担忧的",
+          "note": "形容词，来自动词 preocupar。注意区分：preocupante 描述事物（令人担忧的），preocupado 描述人（感到担忧的）。"
+        },
+        {
+          "word": "problemático",
+          "translation": "有问题的；成问题的",
+          "note": "形容词，表示某事存在问题或隐患。本文中 uso problemático 指过度或有害的使用方式。"
+        },
+        {
+          "word": "normas",
+          "translation": "规则；规范",
+          "note": "日常高频词。常见搭配：establecer normas（制定规则）、seguir las normas（遵守规则）、normas claras（明确的规则）。"
+        },
+        {
+          "word": "aumenta",
+          "translation": "增加；上升",
+          "note": "动词 aumentar，表示数量或程度上升。反义词是 reducir / disminuir（减少）。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Para la psiquiatra Lucía Torres, directora médica de Tranquilamente, la pregunta más importante no es cuántas horas pasa un niño con el móvil, sino por qué se lo damos. ¿Lo hacemos porque estamos cansados? ¿Para <strong>evitar</strong> una rabieta? ¿Porque tenemos miedo de que el niño se sienta diferente a sus amigos? Según Torres, cuando el móvil se <strong>convierte en</strong> la solución para cualquier momento de aburrimiento o frustración, los niños no aprenden a <strong>tolerar</strong> esas emociones. El problema no es que un niño se frustre. El problema es que no tenga la oportunidad de <strong>comprobar</strong> que puede superar esa frustración con la ayuda de un adulto, explica.",
+      "zh": "精神科医生、Tranquilamente机构医疗总监卢西亚·托雷斯认为，最重要的问题不是孩子用手机用了多少小时，而是我们为什么把手机给他们。我们是因为累了才这样做的吗？是为了避免孩子发脾气吗？还是因为担心孩子觉得自己和朋友不一样？托雷斯指出，当手机变成解决任何无聊或沮丧时刻的万能方案时，孩子就无法学会承受这些情绪。她解释道：问题不在于孩子感到沮丧，而在于他们没有机会亲身验证自己可以在大人的帮助下克服这种挫败感。",
+      "vocab": [
+        {
+          "word": "evitar",
+          "translation": "避免；防止",
+          "note": "高频动词，后接不定式或名词，例如：evitar una discusión（避免争吵）、evitar comer azúcar（避免吃糖）。"
+        },
+        {
+          "word": "convierte en",
+          "translation": "变成；成为",
+          "note": "固定搭配 convertirse en，表示转变为某种状态或身份，例如：El agua se convierte en hielo（水变成冰）。注意需要用反身代词 se。"
+        },
+        {
+          "word": "tolerar",
+          "translation": "忍受；承受",
+          "note": "动词，表示忍受某种不适或情绪，例如：Es importante aprender a tolerar la frustración（学会承受挫折很重要）。"
+        },
+        {
+          "word": "comprobar",
+          "translation": "验证；确认",
+          "note": "动词，表示通过亲身经历或检验来确认某事，例如：Pude comprobar que tenía razón（我证实了他是对的）。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Torres también <strong>señala</strong> que los padres son el primer modelo para sus hijos. La forma en que los adultos <strong>gestionan</strong> el aburrimiento o la incomodidad enseña a los niños cómo <strong>afrontar</strong> las dificultades. Si siempre usamos una pantalla para evitar cualquier momento difícil, los niños pueden aprender a hacer lo mismo.",
+      "zh": "托雷斯还指出，父母是孩子的第一榜样。成年人处理无聊或不适的方式，教会了孩子如何面对困难。如果我们总是用屏幕来逃避任何困难时刻，孩子也可能学着这样做。",
+      "vocab": [
+        {
+          "word": "señala",
+          "translation": "指出；表明",
+          "note": "动词 señalar，在新闻和文章中非常常见，用于引用某人的观点，例如：El experto señala que el problema es grave（专家指出问题很严重）。"
+        },
+        {
+          "word": "gestionan",
+          "translation": "处理；管理",
+          "note": "动词 gestionar，表示处理或管理某事，例如：gestionar el tiempo（管理时间）、gestionar un problema（处理问题）。"
+        },
+        {
+          "word": "afrontar",
+          "translation": "面对；应对",
+          "note": "动词，表示主动面对困难或挑战，常见搭配：afrontar las dificultades（面对困难）、afrontar un problema（应对问题）。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "La periodista Carmen Osorio, madre de cuatro hijos y creadora de la plataforma Adictos a la Tecnología, <strong>comparte</strong> esta preocupación. Para ella, el verano no debe ser una época sin normas digitales. La barra libre nunca será una buena idea cuando hablamos de algo que puede <strong>generar</strong> adicción, afirma. Osorio considera que pedirle a un adolescente que se controle solo frente a aplicaciones <strong>diseñadas</strong> para captar su atención es irreal.",
+      "zh": "记者卡门·奥索里奥是四个孩子的母亲，也是[科技成瘾]平台的创始人，她对此深有同感。在她看来，暑假不应该是没有数字规则的时期。她表示，当我们谈论一种可能让人上瘾的东西时，完全放开永远不是个好主意。奥索里奥认为，要求一个青少年在专门设计来吸引其注意力的应用程序面前独自自律，是不现实的。",
+      "vocab": [
+        {
+          "word": "comparte",
+          "translation": "认同；分享",
+          "note": "动词 compartir，本义是分享物品，也可表示认同某种观点或感受，例如：Comparto tu opinión（我认同你的看法）。"
+        },
+        {
+          "word": "generar",
+          "translation": "产生；引发",
+          "note": "动词，表示产生或引发某种结果，例如：generar adicción（产生成瘾）、generar empleo（创造就业）。"
+        },
+        {
+          "word": "diseñadas",
+          "translation": "被设计的",
+          "note": "动词 diseñar（设计）的过去分词，作形容词用。本文中 aplicaciones diseñadas para... 表示专门为某目的而设计的应用程序，para 后接不定式说明目的。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Osorio cree que las vacaciones pueden <strong>justificar</strong> algo más de flexibilidad, pero solo si durante el curso ya existen buenos hábitos. Nunca deben <strong>desaparecer</strong> las normas completamente, especialmente porque la mayoría de los menores ya usa las pantallas más tiempo del que <strong>recomiendan</strong> las organizaciones de salud.",
+      "zh": "奥索里奥认为，假期可以允许多一些灵活性，但前提是在学期期间已经养成了良好习惯。规则绝不应该完全消失，尤其是因为大多数未成年人使用屏幕的时间已经超过了卫生组织的建议时长。",
+      "vocab": [
+        {
+          "word": "justificar",
+          "translation": "为……提供理由；证明……合理",
+          "note": "动词，表示为某事提供合理依据，例如：Nada justifica ese comportamiento（没有什么能为那种行为辩解）。"
+        },
+        {
+          "word": "desaparecer",
+          "translation": "消失；不见",
+          "note": "动词，反义词是 aparecer（出现）。本文中指规则不应该完全消失，日常生活中也很常用。"
+        },
+        {
+          "word": "recomiendan",
+          "translation": "建议；推荐",
+          "note": "动词 recomendar，常见搭配：recomendar + 不定式 或 recomendar + que + 虚拟式，例如：Los médicos recomiendan dormir ocho horas（医生建议睡八小时）。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "El contenido también es importante. Torres explica que dejar a un niño pequeño solo con un teléfono conectado a internet puede ser <strong>peligroso</strong>: no siempre sabemos qué imágenes va a ver o qué le va a recomendar el <strong>algoritmo</strong>. En su consulta, atiende a menores con ansiedad o problemas de sueño después de ver contenidos para los que no estaban preparados. La <strong>supervisión</strong>, dice, no es solo instalar controles parentales. Es hablar con los hijos, preguntar qué han visto y crear un ambiente de <strong>confianza</strong> para que puedan contarlo sin miedo.",
+      "zh": "内容同样重要。托雷斯解释说，让一个小孩独自使用连网手机可能很危险：我们并不总是知道他们会看到什么图片，或者算法会向他们推荐什么。在她的诊室里，她接诊过因看了自己尚未准备好接受的内容而出现焦虑或睡眠问题的未成年人。她说，监督不只是安装家长控制软件，而是与孩子交流、询问他们看了什么，并营造一种信任的氛围，让他们能够毫无恐惧地说出来。",
+      "vocab": [
+        {
+          "word": "peligroso",
+          "translation": "危险的",
+          "note": "常用形容词，名词形式是 peligro（危险）。常见搭配：ser peligroso para...（对……有危险）。"
+        },
+        {
+          "word": "algoritmo",
+          "translation": "算法",
+          "note": "科技类文章中的常见词，指平台根据用户行为推送内容的机制。理解这个词有助于读懂现代媒体相关文章。"
+        },
+        {
+          "word": "supervisión",
+          "translation": "监督；监管",
+          "note": "名词，来自动词 supervisar（监督）。本文中指家长对孩子使用设备的监督和关注。"
+        },
+        {
+          "word": "confianza",
+          "translation": "信任；信心",
+          "note": "高频名词。常见搭配：tener confianza en（对……有信心）、crear un ambiente de confianza（营造信任氛围）、de confianza（可信赖的）。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Otra <strong>señal de alarma</strong> es cuando el menor empieza a preferir quedarse en su habitación con el móvil en lugar de salir con amigos o hacer actividades que antes le gustaban. Cuando <strong>sustituimos</strong> actividades que antes nos gustaban por el uso de pantallas, ya tenemos una señal clara de que están afectando negativamente a nuestra vida, dice Osorio.",
+      "zh": "另一个警示信号是，当未成年人开始宁愿待在房间里玩手机，也不愿出去和朋友玩或做以前喜欢的活动时。奥索里奥说：当我们用屏幕取代以前喜欢的活动时，就已经有了一个明确的信号，说明屏幕正在对我们的生活产生负面影响。",
+      "vocab": [
+        {
+          "word": "señal de alarma",
+          "translation": "警示信号；警报",
+          "note": "固定搭配，表示某种值得警惕的迹象，例如：Eso es una señal de alarma（那是一个警示信号）。señal 单独使用也很常见，表示信号或迹象。"
+        },
+        {
+          "word": "sustituimos",
+          "translation": "替代；取代",
+          "note": "动词 sustituir，常见结构：sustituir A por B，表示用B取代A，例如：Sustituye el azúcar por miel（用蜂蜜代替糖）。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "El sueño es otro problema. Aunque es normal acostarse algo más tarde en verano, quedarse conectado durante gran parte de la noche <strong>provoca</strong> cansancio, <strong>irritabilidad</strong> y dificultades para concentrarse durante el día.",
+      "zh": "睡眠是另一个问题。虽然暑假晚睡一些是正常的，但整夜连着网会导致白天疲惫、烦躁，以及注意力难以集中。",
+      "vocab": [
+        {
+          "word": "provoca",
+          "translation": "导致；引起",
+          "note": "动词 provocar，表示引发某种结果或反应，例如：El ruido provoca estrés（噪音会引起压力）。与 causar 意思相近，都很常用。"
+        },
+        {
+          "word": "irritabilidad",
+          "translation": "烦躁；易怒",
+          "note": "名词，形容词形式是 irritable（易怒的）。在描述睡眠不足或情绪问题时经常出现。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Frente a la idea de que el aburrimiento es algo malo, las dos expertas <strong>defienden</strong> lo contrario. Torres recuerda que cada hora frente a una pantalla es una hora menos de juego, movimiento, conversación o aprendizaje social. El aburrimiento puede ser el <strong>punto de partida</strong> de la creatividad y la <strong>autonomía</strong>.",
+      "zh": "面对认为无聊是坏事的观念，两位专家持相反的立场。托雷斯提醒道，每一个盯着屏幕的小时，就是少了一小时的游戏、运动、交流或社交学习。无聊可以是创造力和自主性的起点。",
+      "vocab": [
+        {
+          "word": "defienden",
+          "translation": "主张；捍卫",
+          "note": "动词 defender，除了表示保卫，还常用于表达坚持某种观点或立场，例如：Defiende que el deporte es esencial（他主张体育运动是必不可少的）。"
+        },
+        {
+          "word": "punto de partida",
+          "translation": "出发点；起点",
+          "note": "固定搭配，字面意思是出发的点，引申为某事的起点或开端，例如：Este libro es un buen punto de partida（这本书是一个很好的起点）。"
+        },
+        {
+          "word": "autonomía",
+          "translation": "自主性；独立性",
+          "note": "名词，形容词形式是 autónomo（自主的、独立的）。在教育和心理类文章中经常出现。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "¿Y si durante el verano ya se ha perdido el control? Osorio dice que lo importante es no <strong>resignarse</strong>. Recomienda volver a las rutinas, <strong>reducir</strong> poco a poco el tiempo de uso y explicar a los hijos por qué se toman esas decisiones. Es posible que al principio <strong>protesten</strong>, pero los adultos siguen siendo responsables de proteger su bienestar.",
+      "zh": "如果暑假期间已经失控了怎么办？奥索里奥说，重要的是不要认命。她建议重新回归日常规律，逐渐减少使用时间，并向孩子解释为什么要做这些决定。孩子一开始可能会抗议，但成年人仍然有责任保护他们的身心健康。",
+      "vocab": [
+        {
+          "word": "resignarse",
+          "translation": "认命；放弃抵抗",
+          "note": "反身动词，表示消极地接受无法改变的现实。本文中 no resignarse 意为不要放弃、不要就此认命。"
+        },
+        {
+          "word": "reducir",
+          "translation": "减少；降低",
+          "note": "高频动词，反义词是 aumentar（增加）。常见搭配：reducir el tiempo（减少时间）、reducir el consumo（降低消耗）。"
+        },
+        {
+          "word": "protesten",
+          "translation": "抗议；反对",
+          "note": "动词 protestar，此处用虚拟式（Es posible que + subjuntivo），表示可能发生的情况。protestar 在日常中也指抱怨、发牢骚。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Por último, las expertas recuerdan que los padres no pueden pedir un uso responsable de la tecnología si ellos mismos están siempre mirando el teléfono. Osorio <strong>anima a</strong> dejar los dispositivos durante las comidas y los momentos en familia. Como <strong>resume</strong> Torres: La cuestión no es solo cuánto tiempo pasan los niños frente a una pantalla, sino qué experiencias están <strong>dejando de</strong> vivir mientras están frente a ella.",
+      "zh": "最后，专家们提醒道，如果父母自己总是盯着手机，就无法要求孩子负责任地使用技术。奥索里奥鼓励大家在用餐和家庭时光中放下设备。正如托雷斯总结的那样：问题不只是孩子在屏幕前花了多少时间，而是他们在屏幕前的这段时间里，错过了哪些生活体验。",
+      "vocab": [
+        {
+          "word": "anima a",
+          "translation": "鼓励……去做",
+          "note": "固定搭配 animar a + 不定式，表示鼓励某人做某事，例如：Te animo a intentarlo（我鼓励你去尝试）。"
+        },
+        {
+          "word": "resume",
+          "translation": "总结；概括",
+          "note": "动词 resumir，表示对内容进行总结或概括，名词形式是 resumen（摘要、总结）。在文章和演讲中非常常用。"
+        },
+        {
+          "word": "dejando de",
+          "translation": "停止；不再",
+          "note": "固定结构 dejar de + 不定式，表示停止做某事，例如：Dejó de fumar（他戒烟了）。本文中 dejando de vivir 指错过、不再经历某些体验。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "convertirse en",
+      "type": "colocación",
+      "translation": "变成；成为",
+      "usage": "反身动词结构，表示逐渐转变为某种状态或身份，后面直接接名词，不加冠词，例如：Se convirtió en un experto（他成为了一名专家）。",
+      "exampleEs": "El móvil se ha convertido en una parte esencial de nuestra vida.",
+      "exampleZh": "手机已经成为我们生活中不可缺少的一部分。"
+    },
+    {
+      "expression": "tener miedo de",
+      "type": "colocación",
+      "translation": "害怕；担心",
+      "usage": "固定搭配，后接名词或不定式，表示对某事感到害怕或担忧，例如：Tengo miedo de hablar en público（我害怕公开发言）。",
+      "exampleEs": "Muchos padres tienen miedo de que sus hijos se sientan diferentes.",
+      "exampleZh": "许多家长担心自己的孩子会觉得和别人不一样。"
+    },
+    {
+      "expression": "en lugar de",
+      "type": "estructura gramatical",
+      "translation": "而不是；代替",
+      "usage": "介词短语，后接名词或不定式，表示用一件事代替另一件事，例如：Sal a caminar en lugar de ver la televisión（去散步，而不是看电视）。",
+      "exampleEs": "Prefiere quedarse en casa en lugar de salir con sus amigos.",
+      "exampleZh": "他宁愿待在家里，也不愿意出去和朋友玩。"
+    },
+    {
+      "expression": "poco a poco",
+      "type": "expresión coloquial",
+      "translation": "慢慢地；逐渐地",
+      "usage": "副词短语，表示循序渐进，常用于描述缓慢但持续的变化，例如：Poco a poco vas a mejorar（你会慢慢进步的）。",
+      "exampleEs": "Es mejor reducir el tiempo de pantalla poco a poco.",
+      "exampleZh": "最好慢慢地减少使用屏幕的时间。"
+    },
+    {
+      "expression": "dejar de + infinitivo",
+      "type": "estructura gramatical",
+      "translation": "停止做某事",
+      "usage": "固定结构，表示停止或不再做某事，例如：Dejó de comer carne（他不再吃肉了）。注意与 dejar + 不定式（让某人做某事）区分。",
+      "exampleEs": "Deberías dejar de usar el móvil antes de dormir.",
+      "exampleZh": "你应该在睡前停止使用手机。"
+    },
+    {
+      "expression": "punto de partida",
+      "type": "colocación",
+      "translation": "起点；出发点",
+      "usage": "固定搭配，表示某事的开端或起始点，常与 ser 搭配使用，例如：Este error puede ser un buen punto de partida para aprender（这个错误可以成为学习的好起点）。",
+      "exampleEs": "El aburrimiento puede ser el punto de partida de la creatividad.",
+      "exampleZh": "无聊可以成为创造力的起点。"
+    }
+  ]
+}
