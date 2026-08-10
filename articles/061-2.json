@@ -1,0 +1,137 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "文学与散文",
+  "difficulty": "C1",
+  "wordCount": "约700词",
+  "resumenEs": "Una narradora adulta recuerda el 9 de agosto de 1997, cuando era niña y volvía a casa con una pizza junto a su madre y su hermano, sin saber que días después moriría Diana de Gales, a quien había decidido escribirle una carta. El relato oscila entre la inocencia de ese instante —el huevo frito intacto, el bolero mal recordado, los farolillos del porche— y la conciencia retrospectiva de la pérdida, usando una frase de Nabokov como hilo conductor: la ilusión de que nada cambia y nadie muere jamás.",
+  "resumenZh": "成年后的叙述者回忆起1997年8月9日，她还是个小女孩，和母亲、弟弟一起捧着披萨走回家，浑然不知几天后戴安娜王妃将离世——而她正打算给戴安娜写一封信。故事在那个瞬间的纯真（完好无损的煎蛋、被记错的波莱罗舞曲、门廊上的纸灯笼）与事后对失去的清醒认知之间来回游走，以纳博科夫的一句话为线索：一切如其所是，永不改变，无人死去。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Es 9 de agosto de 1997 y llevo una caja fina de cartón entre las manos. Pizzeria Sole Mío, se lee en la tapa. Hemos pedido pizzas para llevar porque los niños no comemos sardinas —demasiadas espinas— y dentro de la caja viaja una Margarita, que, en este caso, lleva un huevo frito en el centro. Mi favorita. La sostengo con cuidado procurando que no se incline para que no le pase nada al huevo. Nada significa que la yema, <strong>saltarina</strong> y <strong>aventurera</strong>, decida independizarse de la pizza y quedarse en la tapa de la caja, para que mi hermano y yo tengamos que <strong>despegarla</strong> con un tenedor.",
+      "zh": "1997年8月9日，我双手捧着一个薄薄的纸板盒。盒盖上写着：Pizzeria Sole Mío。我们点了外带披萨，因为小孩子不吃沙丁鱼——刺太多——盒子里装着一份玛格丽特披萨，中间还放了一个煎蛋。我最喜欢的。我小心翼翼地端着，不让它倾斜，免得蛋出什么意外。所谓意外，就是那颗活蹦乱跳、爱冒险的蛋黄决定脱离披萨，跑去贴在盒盖上，害得我和弟弟不得不用叉子把它铲下来。",
+      "vocab": [
+        {
+          "word": "saltarina",
+          "translation": "活蹦乱跳的，跳跃的",
+          "note": "由动词 saltar（跳跃）加形容词后缀 -ín/ina 构成，-ín/ina 后缀赋予词语小巧、活泼的色彩，同类词有 bailarín（舞蹈演员）、parlanchín（话多的），此处作者用拟人手法赋予蛋黄生命力，是文学散文的典型修辞。"
+        },
+        {
+          "word": "aventurera",
+          "translation": "爱冒险的，充满冒险精神的",
+          "note": "由名词 aventura（冒险）加形容词后缀 -ero/a 构成，-ero/a 是西语最高产的后缀之一，表示『与某事物相关的人或具有某特质的』，如 viajero（旅行者）、guerrero（战士），此处同样是拟人化修辞。"
+        },
+        {
+          "word": "despegarla",
+          "translation": "把它揭下来，剥离",
+          "note": "由前缀 des-（分离、逆转）+ pegar（粘贴）构成，des- 是西语最重要的否定/逆转前缀，可构成 deshacer（拆开）、desconectar（断开）、descubrir（揭开），掌握此前缀可快速理解大量反义动词。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Mi madre coge de la mano a mi hermano y los tres andamos en dirección a casa. El número 17 de la calle Sant Jordi. La urbanización todavía no existe. Tampoco existe —o no del todo— quien escribe estas líneas. Solo soy la niña que quiere llegar antes que nadie para comerse la pizza, la niña que solo lee en verano, por puro aburrimiento, con el <strong>zumbido</strong> del ventilador y la telenovela de fondo, y ha descubierto en un tomo de Vladimir Nabokov una frase que copia en una agenda sin entender del todo por qué: \"Todo es tal como debería ser, nada cambiará jamás, nadie morirá nunca\". Mientras cruzamos un puente bajo el que apenas queda agua, le digo a mi madre que ya sé a quién le voy a escribir esa carta que nos han pedido como tarea en el casal de verano. A Diana de Gales.",
+      "zh": "母亲牵着弟弟的手，我们三人朝家的方向走去。圣乔治街17号。那片住宅区还不存在。写下这些文字的人也还不存在——或者说，还不完整。我只是那个想第一个到家吃披萨的小女孩，那个只在夏天读书、纯粹因为无聊才读书的小女孩，伴着电风扇的嗡嗡声和背景里的肥皂剧，在弗拉基米尔·纳博科夫的一本书里发现了一句话，抄进日记本里，却不完全明白为什么：『一切如其所是，永不改变，无人死去。』我们走过一座桥，桥下几乎没有水，我告诉妈妈，我已经知道要把暑假学校布置的那封信写给谁了。写给威尔士王妃戴安娜。",
+      "vocab": [
+        {
+          "word": "zumbido",
+          "translation": "嗡嗡声，嗡鸣声",
+          "note": "由动词 zumbar（发出嗡嗡声）加名词后缀 -ido 构成，-ido 后缀专门构成表示声音的名词，如 silbido（口哨声）、rugido（咆哮声）、crujido（嘎吱声），掌握此后缀可快速识别大量声音类词汇。"
+        },
+        {
+          "word": "tomo",
+          "translation": "卷，册（书籍）",
+          "note": "在文学和出版语境中，tomo 专指一套书中的某一册或某一卷，比 libro 更正式，固定搭配有 el primer tomo（第一卷）、una obra en tres tomos（三卷本著作），常见于文学评论和书评文体。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "¿Y por qué a Diana?, me pregunta con una sonrisa, y le digo que porque sale en la revista Hola. Me parece suficiente motivo. Y mi hermano afirma que él le escribirá a Pep Guardiola o, quizás, a Luis Figo, y, <strong>risueño</strong>, <strong>entona</strong> Aquellos ojos verdes. En realidad, <strong>canturrea</strong> la versión de mi abuela, que solo se sabe hasta \"de mirada serena\". Lo que sigue ya no son palabras, sino un tarareo que desemboca, invariablemente, en un \"a otra cosa, mariposa\". Mi hermano lleva toda la vida convencido de que el bolero termina exactamente así.",
+      "zh": "为什么是戴安娜？她微笑着问我，我说因为她上过《Hola》杂志。我觉得这个理由已经够充分了。弟弟说他要写给瓜迪奥拉，或者也许是路易斯·菲戈，然后笑嘻嘻地哼起了《那双绿眼睛》。其实他哼的是奶奶的版本，只记得到『目光宁静』那一句。后面的歌词已经不是词了，而是一段哼鸣，不可避免地以一句『换个话题吧，蝴蝶』收尾。弟弟这辈子都深信不疑，那首波莱罗舞曲就是这样结束的。",
+      "vocab": [
+        {
+          "word": "risueño",
+          "translation": "笑嘻嘻的，面带笑容的",
+          "note": "由名词 risa（笑）加形容词后缀 -eño/a 构成，-eño/a 后缀表示『具有某种特质或来自某地』，如 madrileño（马德里人）、halagüeño（令人愉悦的），此处形容弟弟满脸笑意的神态，是文学散文中的高频描写词。"
+        },
+        {
+          "word": "entona",
+          "translation": "哼唱，用调子唱",
+          "note": "entonar 在音乐和文学语境中专指『有调子地唱出』，比 cantar 更强调音调和节奏感，固定搭配有 entonar una canción（唱一首歌）、entonar el himno（唱国歌），常用于描述非正式的、随口哼唱的场景。"
+        },
+        {
+          "word": "canturrea",
+          "translation": "轻声哼唱，小声哼歌",
+          "note": "由 cantar（唱歌）加后缀 -urrear 构成，表示『轻声、随意地哼唱』，带有亲切随意的语感，同类构词有 tararear（哼曲子，只有旋律没有歌词），两者区别在于 canturrea 可能有词，tararear 通常只有旋律。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Es 9 de agosto y en unos días aparecerá Diana sentada en la punta de un larguísimo trampolín blanco, bañador azul y la mirada hacia atrás, hacia ninguna parte, con la costa de Portofino <strong>recortada</strong> al fondo. Cuando la vea reiteraré mi decisión de escribirle, pero ¿entenderá el catalán?, ¿la mando al Palacio de Buckingham o ya no? ¿dónde queda Portofino? ¿Diana, a ti te gustan las sardinas? Pero, por ahora, sujeto la caja con fuerza, ya queda poco para llegar, y a lo lejos se <strong>intuyen</strong> las luces de casa, los farolillos de papel que cuelgan del porche, mi hermano que tropieza tontamente y mi madre que se ríe.",
+      "zh": "8月9日，再过几天，戴安娜就会出现在一块长长的白色跳板末端，蓝色泳衣，目光向后，望向虚空，身后是波托菲诺海岸的轮廓。当我看到那张照片时，我会再次坚定写信的决心，但她看得懂加泰罗尼亚语吗？我是寄到白金汉宫还是不用了？波托菲诺在哪里？戴安娜，你喜欢吃沙丁鱼吗？但此刻，我紧紧抱着盒子，快到家了，远处隐约可见家里的灯光，门廊上挂着的纸灯笼，弟弟笨手笨脚地绊了一跤，还有母亲的笑声。",
+      "vocab": [
+        {
+          "word": "recortada",
+          "translation": "轮廓清晰地映出，剪影般呈现",
+          "note": "由动词 recortar（剪裁、裁切）的过去分词转化而来，在文学和摄影语境中，recortarse / estar recortado al fondo 是固定搭配，专指『某物的轮廓在背景中清晰显现』，是描写风景和画面的高级表达。"
+        },
+        {
+          "word": "intuyen",
+          "translation": "隐约感知到，模糊辨出",
+          "note": "intuir 在文学语境中表示『凭直觉或模糊感知察觉到某物』，比 ver 更强调不确定性和朦胧感，固定搭配有 intuir un peligro（隐约感到危险）、intuirse a lo lejos（在远处隐约可见），是散文写作的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "La risa de mi madre. Todo agosto es una <strong>caja de resonancia</strong> de otros agostos, la promesa intacta de todos los que vendrán, pero aún faltan veintiún días para que Diana salga con prisas de un restaurante en esa puerta giratoria del Hotel Ritz, y yo descubra que le he escrito una carta a alguien que no la podrá leer ya. Quizá por eso copié aquella frase de Nabokov en mi agenda: para que fuera verdad. Pero aún es ahora y al fin estamos en casa y mi madre abre la caja. ¡El huevo ha llegado <strong>intacto</strong>! Y mi hermano vuelve al bolero <strong>remendado</strong>, las sardinas ya están listas, que no se enfríen, y Diana está sana y salva en algún lugar donde aún no le ha pasado nada. La carta puede esperar. Creo que la escribiré mañana.",
+      "zh": "母亲的笑声。整个八月都是其他八月的回响箱，是所有将要到来的八月所许下的完好无损的承诺。但距离戴安娜匆匆走出那家餐厅、穿过丽兹酒店的旋转门，还有二十一天；距离我发现自己写了一封再也无人能读的信，还有二十一天。也许正因如此，我把纳博科夫那句话抄进了日记本：为了让它成真。但此刻还是现在，我们终于到家了，母亲打开盒子。煎蛋完好无损地到了！弟弟又回到那首被拼凑过的波莱罗舞曲，沙丁鱼已经做好了，别让它凉了，而戴安娜正安然无恙地待在某个地方，什么事都还没有发生。信可以等。我想我明天再写。",
+      "vocab": [
+        {
+          "word": "caja de resonancia",
+          "translation": "共鸣箱，回响之所（比喻：承载回忆与情感的容器）",
+          "note": "本义为乐器中的共鸣腔体，在文学和新闻文体中用作隐喻，表示『能够放大、回响某种情感或记忆的空间或时间』，此处作者将整个八月比作承载所有过去八月记忆的共鸣箱，是极具文学价值的隐喻表达。"
+        },
+        {
+          "word": "intacto",
+          "translation": "完好无损的，未受破坏的",
+          "note": "由前缀 in-（否定）+ tactus（被触碰，源自拉丁语 tangere）构成，表示『未被触动、保持原状』，固定搭配有 llegar intacto（完好抵达）、permanecer intacto（保持完好），在文中同时呼应煎蛋和童年记忆两个层面。"
+        },
+        {
+          "word": "remendado",
+          "translation": "被修补过的，拼凑起来的",
+          "note": "由动词 remendar（缝补、修补）的过去分词转化而来，本义指缝补破损衣物，此处用作隐喻，形容弟弟把歌词记错后『拼凑』出来的残缺版本，是文学散文中以日常词汇制造隐喻效果的典型手法。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "a otra cosa, mariposa",
+      "type": "expresión coloquial",
+      "translation": "换个话题吧，翻篇了（口语：就此打住，转移话题）",
+      "usage": "西班牙口语中极具特色的押韵惯用语，用于表示『某事已经结束，该继续往前了』，语气轻松随意，带有一种不纠结的豁达感，常用于结束一个话题或安慰他人，是地道西班牙口语的标志性表达之一。",
+      "exampleEs": "Ya no hay nada que hacer con ese proyecto. A otra cosa, mariposa.",
+      "exampleZh": "那个项目已经没有什么可做的了。翻篇吧，别想了。"
+    },
+    {
+      "expression": "sano y salvo",
+      "type": "modismo",
+      "translation": "安然无恙，平安无事",
+      "usage": "固定惯用语，两词连用构成固定搭配，不可拆分，表示『毫发无伤、安全无事』，固定结构为 estar sano y salvo 或 llegar sano y salvo（平安抵达），在新闻和文学文体中均高频出现，注意性数需随主语变化：sana y salva（女性）。",
+      "exampleEs": "Los excursionistas regresaron sanos y salvos después de perderse en la montaña durante dos días.",
+      "exampleZh": "那些登山者在山中迷路两天后，平安无事地返回了。"
+    },
+    {
+      "expression": "con prisas",
+      "type": "colocación",
+      "translation": "匆匆忙忙地，急急忙忙地",
+      "usage": "固定搭配，prisa 几乎只与 con 搭配构成副词短语，不可替换为其他介词，固定表达还有 tener prisa（赶时间）、darse prisa（加快）、a toda prisa（火速），注意 prisa 通常用复数 prisas 表示状态。",
+      "exampleEs": "Salió con prisas de la reunión sin despedirse de nadie.",
+      "exampleZh": "她匆匆忙忙地离开了会议室，没有和任何人道别。"
+    }
+  ]
+}

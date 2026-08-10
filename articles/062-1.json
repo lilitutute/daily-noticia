@@ -1,0 +1,154 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "文化与评论",
+  "difficulty": "C1",
+  "wordCount": "约400词",
+  "title": "El bikini, talla de felicidad",
+  "subtitle": "比基尼，幸福的尺码",
+  "resumenEs": "Con ironía y humor, el autor reflexiona sobre cómo el bikini ha dejado de ser una prenda de baño para convertirse en un símbolo de éxito social en la era de las redes. Frente a la tiranía de la imagen corporal impuesta por Instagram, reivindica los placeres de la mesa y la vida interior, y concluye que la felicidad contemporánea ha sido secuestrada por la cirugía estética, los filtros y el escaparate de las redes, donde el cuerpo vale más que la persona.",
+  "resumenZh": "作者以讽刺和幽默的笔调，反思比基尼如何从一件泳装演变为社交媒体时代的社会成功符号。面对Instagram所强加的身体形象暴政，他为餐桌上的乐趣和内心生活辩护，并最终得出结论：当代的幸福已被整形手术、滤镜和社交网络的橱窗所绑架，在那里，身体的价值凌驾于人本身之上。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Como el verano es la resurrección de los cuerpos, nos importa el imperio del bikini. O les preocupa mucho a las 'instagramers' de éxito, que hasta compiten ante la afición desde el <strong>clamor</strong> del bikini, según leo. Yo pensé siempre que el bikini es la noticia de los días que no hay noticia, y esto aún va <strong>vigente</strong>, a bordo de la <strong>apoteosis</strong> de las redes, que ahora son una cátedra de bikini.",
+      "zh": "因为夏天是身体的复活节，比基尼的帝国便成了我们关心的大事。或者说，是那些成功的Instagram网红们极为在意的大事——据我所读，她们甚至在粉丝面前以比基尼的喧嚣相互竞争。我一直认为，比基尼是那些没有新闻的日子里的新闻，而这一点至今依然成立，乘着社交网络的盛大狂欢，那里如今已成了一座比基尼讲堂。",
+      "vocab": [
+        {
+          "word": "clamor",
+          "translation": "喧嚣，呼声，热潮",
+          "note": "本义为『人群的喧嚣呼声』，在新闻和评论文体中引申为『某一话题或现象引发的广泛关注和热议』，固定搭配有 el clamor popular（民间呼声）、el clamor de las redes（网络喧嚣），语气比 ruido 更强，带有集体性和情绪性。"
+        },
+        {
+          "word": "vigente",
+          "translation": "依然有效的，仍然适用的",
+          "note": "在新闻和评论文体中，vigente 表示『某规则、观点或现象至今仍然有效』，固定搭配有 seguir vigente（依然成立）、estar vigente（处于有效状态）、una ley vigente（现行法律），比 actual 更强调持续有效性。"
+        },
+        {
+          "word": "apoteosis",
+          "translation": "顶峰，盛大高潮，极致",
+          "note": "源自希腊语，本义为『神化、封神』，在现代文体中引申为『某事物达到极致或盛大高潮的状态』，在评论和文学文体中常带有讽刺意味，如 la apoteosis del consumismo（消费主义的极致），是C1以上的高频修辞词。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "El bikini es el <strong>aforismo</strong> de nuestra época, sin decir ni pío. Los bañadores diversos, en ellas, reúnen todas las geometrías imaginables, y no imaginables, desde el trikini hasta el hilo dental, que es pura costura, pero costura de relojero. En nosotros, el bañador es el bañador floreado que sólo defienden con cierta dignidad los surfistas, algún modelo de perfume carísimo, y Ferrán Torres, que es el <strong>guaperas inapelable</strong>.",
+      "zh": "比基尼是我们这个时代的格言，无声无息。女性的各式泳装汇聚了所有可以想象、乃至无法想象的几何形态，从三角比基尼到牙线泳裤——那是纯粹的裁缝手艺，但却是钟表匠级别的精细裁缝。而在男性这边，泳裤就是泳裤，那种花花绿绿的款式，只有冲浪者、某个天价香水的模特，还有费兰·托雷斯能穿出几分体面——他是那个无可争议的帅哥。",
+      "vocab": [
+        {
+          "word": "aforismo",
+          "translation": "格言，警句，箴言",
+          "note": "指用极简语言浓缩深刻道理的短句，作者用此词比喻比基尼以无声的方式传递了时代的价值观，是文学评论中的高级隐喻，固定搭配有 un aforismo filosófico（哲学格言）、acuñar un aforismo（创造一句格言）。"
+        },
+        {
+          "word": "guaperas inapelable",
+          "translation": "无可争议的帅哥",
+          "note": "guaperas 是西班牙口语词，指『长相出众的帅气男性』，带有几分调侃的亲切感；inapelable 本为法律术语，意为『不可上诉的、终局性的』，两词搭配构成幽默效果，表示『帅得无可辩驳』，是作者标志性的幽默修辞风格。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Las <strong>chavalas</strong> de Instagram, que son ninfas de algoritmo, y los muchachos de torso <strong>inverosímil</strong>, que vienen esculpidos por una aplicación de móvil, han terminado imponiendo una estética donde el cuerpo vale más que la persona. Se veía venir. Son signos de la <strong>época líquida</strong> que mantenemos.",
+      "zh": "Instagram上的那些女孩，算法的仙女们，还有那些躯干令人难以置信的小伙子们——他们仿佛是被手机应用程序雕刻出来的——最终强行推行了一种身体比人更有价值的审美观。这是意料之中的事。这些都是我们所处的这个流动时代的征兆。",
+      "vocab": [
+        {
+          "word": "chavalas",
+          "translation": "女孩们，小姑娘们（西班牙口语）",
+          "note": "西班牙口语词，chavala（女）/ chaval（男）指年轻人，带有亲切随意的语气，是典型的西班牙本土口语，在拉丁美洲不常用，固定搭配有 los chavales del barrio（街区的年轻人），常出现在口语化的新闻评论中。"
+        },
+        {
+          "word": "inverosímil",
+          "translation": "难以置信的，不像真实存在的",
+          "note": "由前缀 in-（否定）+ verosímil（似真的，由 vero 真实 + símil 相似构成），表示『不像真实存在的、令人难以相信的』，在文学和评论文体中常用于讽刺那些过于完美、脱离现实的形象，固定搭配有 una historia inverosímil（难以置信的故事）。"
+        },
+        {
+          "word": "época líquida",
+          "translation": "流动的时代（社会学概念）",
+          "note": "源自波兰社会学家齐格蒙特·鲍曼（Zygmunt Bauman）的『液态现代性』理论，指当代社会中身份、价值观和关系不断流动、缺乏稳定性的状态，在文化评论中是高频引用概念，掌握此典故有助于理解大量当代社会批评文章。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Le parece a la gente un talento el tatuaje, y aceptamos la <strong>operación bikini</strong> como un mérito de reverencia. Uno, que ha llegado a una edad en la que se aprecia mucho más un <strong>chuletón</strong> cumplido que un batido de color sospechoso, sigue creyendo que la alegría tiene bastante más que ver con una <strong>sobremesa</strong> que con una báscula. Intuyo incluso que la vida interior prospera mejor después de una buena comida que tras una ensalada <strong>penitencial</strong>. Igual arrastro una forma antigua de entender la existencia, pero tampoco conozco a nadie que haya alcanzado la iluminación masticando apio.",
+      "zh": "人们把纹身当作一种才华，把『比基尼手术』当作一种值得敬仰的成就来接受。而我，已经到了一个更欣赏一块地道大牛排胜过一杯颜色可疑的奶昔的年纪，依然相信快乐与饭后闲聊的关系，远比与体重秤的关系更密切。我甚至直觉地感到，内心生活在一顿好饭之后比在一盘苦行式沙拉之后更加繁荣。也许我拖着一种古老的理解存在的方式，但我也不认识任何一个靠嚼芹菜获得了开悟的人。",
+      "vocab": [
+        {
+          "word": "operación bikini",
+          "translation": "比基尼手术（夏前集中减肥塑形）",
+          "note": "西班牙文化中的固定惯用语，专指夏天来临前为了穿上比基尼而进行的集中节食、健身或整形，已成为一个文化符号，在媒体中高频出现，带有作者在此处明显的讽刺意味。"
+        },
+        {
+          "word": "chuletón",
+          "translation": "大块牛排，厚切肋排",
+          "note": "由 chuleta（排骨、肉排）加大词后缀 -ón 构成，-ón 后缀在西语中表示『大的、厚实的』，如 sillón（大扶手椅）、portón（大门），此处作者用 chuletón 与『颜色可疑的奶昔』形成对比，象征真实的生活乐趣。"
+        },
+        {
+          "word": "sobremesa",
+          "translation": "饭后闲聊时光",
+          "note": "西班牙文化中极具特色的词汇，专指饭后留在桌旁闲聊、休憩的时光，在英语中没有对应词，是理解西班牙饮食文化的关键词，固定搭配有 hacer la sobremesa（享受饭后时光）、una larga sobremesa（漫长的饭后闲聊）。"
+        },
+        {
+          "word": "penitencial",
+          "translation": "苦行式的，带有惩罚意味的",
+          "note": "由名词 penitencia（忏悔、苦行）加形容词后缀 -al 构成，本为宗教词汇，指『带有赎罪、自我惩罚性质的』，此处用作隐喻，形容那种为了减肥而强迫自己吃的、毫无乐趣的沙拉，是作者讽刺健康饮食文化的精妙用词。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "El negocio al respecto funciona <strong>apoteósico</strong>, obviamente. La felicidad, hoy, la administran la cirugía estética, los filtros del teléfono y el <strong>podio insomne</strong> de las redes sociales, donde cada fotografía es el <strong>naipe</strong> de ingreso en el paraíso. El bikini ha dejado de ser un <strong>jirón</strong> de baño para convertirse en un certificado de éxito. Quien cabe en él parece haber resuelto la vida. Quien no, carga con una derrota sin alivio. El verano es un concurso. La felicidad lleva talla de escaparate de bragas.",
+      "zh": "与此相关的生意，显然运转得如日中天。如今，幸福由整形手术、手机滤镜和社交网络那永不入眠的领奖台来分配——在那里，每一张照片都是进入天堂的入场牌。比基尼已不再是一块泳布，而是变成了一张成功证书。能穿进去的人，仿佛已经解决了人生的一切。穿不进去的人，则背负着一场无从解脱的失败。夏天是一场竞赛。幸福，穿的是内衣橱窗的尺码。",
+      "vocab": [
+        {
+          "word": "apoteósico",
+          "translation": "盛况空前的，极为壮观的",
+          "note": "由名词 apoteosis（顶峰、神化）加形容词后缀 -ico 构成，在新闻和评论文体中表示『达到极致、盛况空前』，常带有讽刺或夸张的修辞效果，固定搭配有 un éxito apoteósico（空前的成功）、un final apoteósico（壮观的结局）。"
+        },
+        {
+          "word": "podio insomne",
+          "translation": "永不入眠的领奖台（比喻：24小时运转的社交网络排名）",
+          "note": "podio 本义为『颁奖台、讲台』，insomne 意为『不眠的』，两词组合构成作者独创的隐喻，形容社交网络永不停歇地对人的外貌和生活进行排名评判，是本文最具文学价值的原创意象之一。"
+        },
+        {
+          "word": "naipe",
+          "translation": "扑克牌（此处比喻：入场券、通行证）",
+          "note": "本义为『扑克牌』，此处用作隐喻，将社交媒体上的照片比作进入『天堂』（即获得认可和关注）的入场牌，是作者惯用的以日常物件构建隐喻的修辞手法，语气带有明显的讽刺。"
+        },
+        {
+          "word": "jirón",
+          "translation": "碎布，布片，残片",
+          "note": "本义为『撕下来的一片布料』，此处作者用 un jirón de baño（一块泳布）来刻意矮化比基尼，与后文『成功证书』形成强烈反差，是本文核心对比修辞的关键词，固定搭配有 hecho jirones（破烂不堪）。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "sin decir ni pío",
+      "type": "modismo",
+      "translation": "一声不吭，无声无息",
+      "usage": "固定惯用语，pío 是小鸟的叫声，字面意思为『连一声鸟叫都没有』，实际表示『完全沉默、不发一言』，在口语和评论文体中高频出现，固定结构为 sin decir ni pío 或 no decir ni pío，语气带有一种意味深长的沉默感。",
+      "exampleEs": "Se fue de la reunión sin decir ni pío, lo que nos dejó a todos desconcertados.",
+      "exampleZh": "他一声不吭地离开了会议，让我们所有人都感到困惑。"
+    },
+    {
+      "expression": "cargar con una derrota",
+      "type": "colocación",
+      "translation": "背负着一场失败，承受失败的重量",
+      "usage": "cargar con 是固定搭配，表示『被迫承受某种沉重的负担或后果』，固定结构为 cargar con + 名词，不可替换为其他介词，常见组合有 cargar con la culpa（背负罪责）、cargar con las consecuencias（承担后果），在新闻和文学文体中高频出现。",
+      "exampleEs": "Durante años cargó con la derrota en silencio, sin contárselo a nadie.",
+      "exampleZh": "多年来，他默默地背负着那场失败，从未向任何人倾诉。"
+    },
+    {
+      "expression": "hecho jirones",
+      "type": "modismo",
+      "translation": "破烂不堪，支离破碎",
+      "usage": "固定惯用语，jirón 本义为碎布片，hecho jirones 字面意思为『变成碎布片』，实际形容某物或某人被彻底摧毁、破碎不堪，可用于具体物品也可用于抽象概念，如 su reputación quedó hecha jirones（他的名誉被彻底毁掉）。",
+      "exampleEs": "Después de la tormenta, las velas del barco quedaron hechas jirones.",
+      "exampleZh": "暴风雨过后，船帆被撕得破烂不堪。"
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科学与健康",
+  "difficulty": "B2",
+  "wordCount": "约900词",
+  "title": "Cómo lograr unas vacaciones verdaderamente reparadoras para nuestro cerebro",
+  "subtitle": "如何让大脑真正得到修复性的假期休息",
+  "resumenEs": "La neurociencia demuestra que el cerebro no se apaga en reposo y que no hacer nada puede generar divagación mental poco reparadora. Para unas vacaciones verdaderamente regeneradoras, la clave está en mantener activas las funciones ejecutivas —frías y calientes— mediante actividades como juegos de mesa, deportes con oponente o aprender algo nuevo, combinando bajo estrés, movimiento físico y reto cognitivo con carga emocional.",
+  "resumenZh": "神经科学表明，大脑在休息时并不会关闭，什么都不做反而可能导致思维游荡，并不真正令人放松。要获得真正具有修复性的假期，关键在于通过桌游、有对手的运动或学习新技能等活动，保持冷热执行功能的活跃，将低压力、身体运动与带有情感刺激的认知挑战相结合。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "Verano significa vacaciones y desconexión para muchos trabajadores: apagamos el ordenador, olvidamos el correo electrónico, desaparecen las reuniones, el jefe y, con un poco de suerte, hasta la voz que nos dice: \"Deberías estar produciendo\". Ponemos el cuerpo en modo pausa y salimos a la caza de relax y diversión en dosis generosas. El ritmo laboral, su <strong>coqueteo</strong> constante con el estrés y el riesgo de <strong>sobrecarga</strong> mental nos empujan a soñar con un verano sin pensar. Incluso a dejar el cerebro en modo \"encefalograma plano\", porque nos parece que eso es descansar. Pero es un error.",
+      "zh": "对许多上班族来说，夏天意味着假期和断联：关上电脑，忘掉邮件，告别会议、老板，运气好的话，连那个说『你应该去干活』的声音也一并消失。我们让身体进入暂停模式，出门大量寻觅放松与乐趣。工作的节奏、与压力的持续纠缠，以及精神超负荷的风险，推着我们梦想一个不用动脑的夏天。甚至想让大脑进入『脑电图平线』模式，因为我们觉得那才叫休息。但这是个错误。",
+      "vocab": [
+        {
+          "word": "coqueteo",
+          "translation": "纠缠，若即若离的关系（比喻）",
+          "note": "由动词 coquetear（调情、与……若即若离）加名词后缀 -eo 构成，本义为『调情、卖弄风情』，在新闻和评论文体中引申为『与某种危险或状态若即若离、反复纠缠』，如 su coqueteo con el peligro（与危险的纠缠），是生动的隐喻用法。"
+        },
+        {
+          "word": "sobrecarga",
+          "translation": "超负荷，过载",
+          "note": "由前缀 sobre-（超过、在……之上）+ carga（负荷）构成，sobre- 是高产前缀，可构成 sobrepasar（超越）、sobrevivir（幸存）、sobreestimar（高估），固定搭配有 sobrecarga mental（精神超负荷）、sobrecarga de trabajo（工作过载）。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Como nos demuestra la neurociencia, el cerebro no se \"apaga\" en estado de reposo. No hacer nada no implica no pensar en nada. Más bien al contrario: nuestro cerebro <strong>divaga</strong>, algo que no es precisamente relajante. Y así, nos podemos encontrar con que cuanto más queremos olvidarnos del trabajo o del estrés, tumbados bajo la sombrilla y con el relajante sonido del mar de fondo, más volvemos sobre determinadas ideas nada tranquilizadoras.",
+      "zh": "正如神经科学向我们揭示的，大脑在休息状态下并不会『关闭』。什么都不做并不意味着什么都不想。恰恰相反：我们的大脑会游荡，而这并不是真正令人放松的状态。于是我们会发现，越是躺在遮阳伞下、伴着令人放松的海浪声想要忘掉工作和压力，那些令人不安的念头就越是反复涌现。",
+      "vocab": [
+        {
+          "word": "divaga",
+          "translation": "游荡，漫无目的地思考，走神",
+          "note": "由前缀 di-（分散）+ vagar（漫游）构成，在心理和神经科学文体中专指思维的无目的漫游，固定搭配有 la mente divaga（思维游荡）、divagar en pensamientos（陷入漫无边际的思绪），其名词形式 divagación 同样常见。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Una manera de evitarlo y de lograr que nuestro cerebro verdaderamente descanse y recargue su energía es mantener bien encendidas las <strong>funciones ejecutivas</strong>. Son las que nos permiten controlar nuestro pensamiento y conducta, sin abandonarnos a la vida en <strong>piloto automático</strong> o al impulso inmediato y dependen sobre todo de la <strong>corteza prefrontal</strong>, esa área encargada de mantener activos nuestros objetivos, las reglas necesarias para alcanzarlos y focalizar el resto de nuestra actividad cognitiva en perseguirlos.",
+      "zh": "避免这种情况、让大脑真正休息并补充能量的一个方法，是保持执行功能的良好运转。执行功能使我们能够控制自己的思维和行为，而不是任由生活进入自动驾驶模式或被即时冲动所左右。它们主要依赖前额叶皮层——这一区域负责维持我们的目标活跃、掌握实现目标所需的规则，并将其余认知活动聚焦于追求这些目标。",
+      "vocab": [
+        {
+          "word": "funciones ejecutivas",
+          "translation": "执行功能（神经科学术语）",
+          "note": "神经科学和心理学中的核心概念，指大脑负责计划、决策、注意力控制和行为调节的高级认知功能，固定搭配有 desarrollar las funciones ejecutivas（发展执行功能）、deterioro de las funciones ejecutivas（执行功能退化），是科普文章的高频术语。"
+        },
+        {
+          "word": "piloto automático",
+          "translation": "自动驾驶模式（比喻：惯性行事，不加思考）",
+          "note": "本义为飞机或汽车的自动驾驶系统，在心理学和日常语境中引申为『不加思考、依靠习惯惯性行事的状态』，固定搭配为 vivir / actuar en piloto automático（在自动驾驶模式下生活/行动），是现代心理科普文章的高频隐喻。"
+        },
+        {
+          "word": "corteza prefrontal",
+          "translation": "前额叶皮层",
+          "note": "神经科学核心术语，corteza 指大脑皮层，prefrontal 由前缀 pre-（在……之前）+ frontal（额部的）构成，pre- 是高产前缀，可构成 predecir（预测）、prevenir（预防）、prever（预见），掌握此前缀有助于理解大量科学词汇。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Las funciones ejecutivas se dividen en frías y calientes. Las primeras son esos procesos cognitivos que ponemos en marcha al razonar, planificar o cambiar de estrategia en situaciones abstractas y poco cargadas de <strong>emotividad</strong>. Las calientes, en cambio, entran en juego cuando hay emoción de por medio: una tentación, un riesgo, una victoria, una derrota. En este segundo caso, dependen de una red neuronal algo distinta, con más peso de zonas cerebrales conectadas a circuitos de emoción y motivación.",
+      "zh": "执行功能分为冷热两类。前者是我们在推理、规划或在抽象、情感色彩较淡的情境中转换策略时启动的认知过程。热执行功能则在有情绪介入时发挥作用：一种诱惑、一种风险、一次胜利、一次失败。在后一种情况下，它们依赖一个略有不同的神经网络，其中与情绪和动机回路相连的大脑区域占有更大比重。",
+      "vocab": [
+        {
+          "word": "emotividad",
+          "translation": "情感色彩，情绪性",
+          "note": "由形容词 emotivo（情感的）加名词后缀 -idad 构成，-idad 是西语最高产的名词后缀之一，将形容词转化为抽象名词，如 creatividad（创造力）、flexibilidad（灵活性）、sensibilidad（敏感性），掌握此后缀可快速识别大量抽象名词。"
+        },
+        {
+          "word": "entran en juego",
+          "translation": "发挥作用，进入局面",
+          "note": "固定惯用语，表示『某因素开始发挥作用或介入某局面』，固定结构为 entrar en juego，在科学和新闻分析文章中极为常见，近义表达有 intervenir（介入）、activarse（被激活），但 entrar en juego 更强调从旁观到参与的转变。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "Y así, si a lo largo del curso la <strong>memoria de trabajo</strong> nos ayuda a sacar mejores notas o lograr mejores objetivos laborales, la <strong>flexibilidad cognitiva</strong> —que nos permite cambiar de una tarea a otra sin bloquearnos— predice cuánto riesgo asumimos en decisiones financieras, y la <strong>inhibición de la conducta</strong> —o el don de mordernos la lengua antes de meter la pata— nos permite tomar mejores decisiones y liderar bajo presión, durante el verano todas ellas necesitan ejercitarse de otras maneras para que la desconexión resulte verdaderamente reparadora.",
+      "zh": "因此，如果说在学期或工作期间，工作记忆帮助我们取得更好的成绩或实现更好的工作目标，认知灵活性——让我们能够在任务之间切换而不卡壳——能预测我们在财务决策中承担多少风险，而行为抑制——或者说在搞砸之前咬住舌头的天赋——让我们能够在压力下做出更好的决策和领导，那么在夏天，所有这些功能都需要以其他方式加以锻炼，才能让断联真正具有修复性。",
+      "vocab": [
+        {
+          "word": "memoria de trabajo",
+          "translation": "工作记忆",
+          "note": "认知心理学核心术语，指大脑短暂储存和处理当前任务所需信息的能力，固定搭配有 entrenar la memoria de trabajo（训练工作记忆）、capacidad de memoria de trabajo（工作记忆容量），是神经科学科普文章的高频词汇。"
+        },
+        {
+          "word": "flexibilidad cognitiva",
+          "translation": "认知灵活性",
+          "note": "由 flexibilidad（灵活性，来自 flexible + -idad）+ cognitiva（认知的，来自拉丁语 cognoscere 认识）构成，专指在不同任务或思维框架之间灵活切换的能力，是执行功能的三大核心成分之一。"
+        },
+        {
+          "word": "inhibición de la conducta",
+          "translation": "行为抑制",
+          "note": "神经科学术语，指抑制冲动反应、在行动前先思考的能力，inhibición 由动词 inhibir（抑制）加名词后缀 -ción 构成，固定搭配有 falta de inhibición（缺乏抑制力）、inhibición del impulso（冲动抑制）。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Un buen juego de mesa permite poner a punto las funciones ejecutivas: leer el reglamento ya reta a la memoria de trabajo. Las primeras partidas exigen flexibilidad e inhibición (funciones ejecutivas frías). Pero es la competición, querer ganar, ver cómo perdemos nuestra ficha estrella, gestionar el <strong>pique</strong> con nuestro cuñado, lo que enciende las funciones ejecutivas calientes. Tratar de controlar la frustración, tolerar la incertidumbre y decidir con la adrenalina <strong>disparada</strong>. Por eso, si sentimos que nos \"pica\" la competitividad en el Trivial, podemos estar tranquilos: son nuestras funciones ejecutivas dándolo todo, no un ataque de <strong>mal perder</strong>.",
+      "zh": "一款好的桌游能让执行功能调整到最佳状态：光是阅读规则就已经在挑战工作记忆了。最初几局需要灵活性和抑制力（冷执行功能）。但真正点燃热执行功能的，是竞争本身：想要赢、眼睁睁看着自己的明星棋子被吃掉、处理和姐夫之间的较劲。努力控制挫败感、忍受不确定性、在肾上腺素飙升时做出决策。所以，如果我们在玩Trivial时感到竞争欲『发痒』，大可放心：那是我们的执行功能在全力运转，而不是输不起的发作。",
+      "vocab": [
+        {
+          "word": "pique",
+          "translation": "较劲，暗中竞争，不服气",
+          "note": "口语高频词，表示两人之间的非正式竞争或互不服气的较量，固定搭配有 tener pique con alguien（和某人较劲）、por pique（出于不服气），在体育和日常叙事中极为常见，语气轻松，带有几分幽默的竞争感。"
+        },
+        {
+          "word": "disparada",
+          "translation": "飙升的，急速上升的",
+          "note": "由动词 disparar（射击、急速上升）的过去分词转化而来，在科学和口语文体中固定搭配为 con la adrenalina disparada（肾上腺素飙升）、los precios disparados（价格暴涨），比 elevada 更强调急速、失控式的上升。"
+        },
+        {
+          "word": "mal perder",
+          "translation": "输不起，不能接受失败",
+          "note": "固定口语表达，ser mal perdedor / tener mal perder 表示『输了就不高兴、无法接受失败』，在体育和日常语境中高频出现，其反义表达为 saber perder（输得起、有风度），两者常成对出现于体育评论。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "Con el deporte pasa algo parecido. No es lo mismo correr en solitario (funciones ejecutivas frías) que <strong>estrenarnos</strong> en un deporte con oponente, incertidumbre y adrenalina. Pádel, escalada, tenis de mesa, deportes de \"habilidad abierta\" son actividades en las hay que reaccionar en tiempo real a lo que hace el otro, y por lo tanto, entrenan más las funciones ejecutivas calientes que los deportes predecibles y en solitario. Y de paso, aprender un deporte nuevo genera cambios estructurales en regiones cerebrales vinculadas a la función ejecutiva: es decir, se crean conexiones neuronales nuevas. Así que el golpe inicial con la raqueta en la cara se traduce, con suerte, en convertirnos en una persona más competente después de las vacaciones.",
+      "zh": "运动也是同样的道理。独自跑步（冷执行功能）和初次尝试一项有对手、有不确定性和肾上腺素的运动，完全不是一回事。板球、攀岩、乒乓球——这些『开放技能』运动需要实时对对方的动作做出反应，因此比可预测的独自运动更能锻炼热执行功能。顺带一提，学习一项新运动会在与执行功能相关的大脑区域产生结构性变化：也就是说，会形成新的神经连接。所以，最初被球拍打到脸的那一下，运气好的话，会转化为假期结束后成为一个更有能力的人。",
+      "vocab": [
+        {
+          "word": "estrenarnos",
+          "translation": "初次尝试，第一次体验",
+          "note": "反身动词 estrenarse 表示『第一次做某事或使用某物』，固定搭配有 estrenarse en un deporte（初次尝试某运动）、estrenarse como director（首次担任导演），其名词形式 estreno 专指『首映、首演』，两者共享『第一次』的核心含义。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "El verano regala una oportunidad relajada para hacer esta <strong>puesta a punto</strong>. Las actividades recreativas al aire libre, poco estresantes, son especialmente buenas para la atención, la inhibición de la conducta y la flexibilidad cognitiva. Romper con el <strong>sedentarismo</strong> también moviliza los circuitos prefrontales y su eficiencia neuronal. Entonces, ¿a qué dedico el tiempo libre? La fórmula ideal es: con bajo estrés, el cuerpo en movimiento y afrontando un reto cognitivo con algo de picante emocional, una partida que queremos ganar o un deporte que aún no dominamos. Entrenamiento cerebral perfecto, funciones ejecutivas frías y calientes a la vez.",
+      "zh": "夏天为这种调整提供了一个轻松的机会。户外的休闲活动、压力较小，对注意力、行为抑制和认知灵活性尤其有益。打破久坐不动的习惯也能激活前额叶回路及其神经效率。那么，空闲时间该做什么？理想公式是：在低压力状态下，让身体动起来，同时面对一个带有一点情感刺激的认知挑战——一局我们想赢的棋，或一项我们还没掌握的运动。完美的大脑训练，冷热执行功能同时激活。",
+      "vocab": [
+        {
+          "word": "puesta a punto",
+          "translation": "调整，优化，调试到最佳状态",
+          "note": "固定搭配，字面意思为『调整到位』，在机械、医疗和心理语境中均有使用，表示『将某系统或能力调整到最佳运作状态』，固定结构为 hacer una puesta a punto（进行调整优化），在科技和健康类文章中高频出现。"
+        },
+        {
+          "word": "sedentarismo",
+          "translation": "久坐不动的生活方式，缺乏运动",
+          "note": "由形容词 sedentario（久坐的）加名词后缀 -ismo 构成，-ismo 后缀构成表示『某种生活方式、主义或倾向』的名词，如 consumismo（消费主义）、individualismo（个人主义），固定搭配有 combatir el sedentarismo（对抗久坐习惯）。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Incluso antes de irnos de vacaciones, podemos poner en marcha <strong>descansos activos</strong> (actividad física ligera entre horas de trabajo o estudio), añadiéndoles un pequeño reto cognitivo (sentadillas contando de tres en tres hacia atrás desde 50). La propia tarea de elegir el juego de mesa al que vamos a retar a alguien este verano también implica planificación y toma de decisiones. ¿De qué sirve todo esto cuando nos toque volver al trabajo? Pues tiene un efecto importante. Las evidencias científicas más recientes apuntan a que, para <strong>recargar pilas</strong> —lo que en la investigación se llama \"recuperación laboral\"— necesitamos lograr cuatro cosas: desconectar psicológicamente, relajarnos, tener autonomía y capacidad de decisión sobre qué hacemos con nuestro tiempo libre y aprender algo nuevo o superar un reto, algo que disminuye la sensación de agotamiento y nos ayuda a sentirnos competentes.",
+      "zh": "甚至在出发度假之前，我们就可以启动『主动休息』（工作或学习间隙进行轻度体力活动），并加入一个小小的认知挑战（比如深蹲时从50开始每次减3倒数）。光是选择这个夏天要挑战谁玩哪款桌游这件事本身，也涉及规划和决策。这一切在重返工作岗位时有什么用？其实效果相当重要。最新的科学证据表明，要真正『充好电』——研究中称之为『工作恢复』——我们需要实现四件事：心理上断联、放松、对自己的空闲时间拥有自主权和决策能力，以及学习新事物或克服挑战——这能减少疲惫感，帮助我们感到自己有能力。",
+      "vocab": [
+        {
+          "word": "descansos activos",
+          "translation": "主动休息，积极休息",
+          "note": "运动科学和心理学中的固定术语，指在工作或学习间隙通过轻度运动来恢复精力，区别于被动休息（坐着发呆），固定搭配有 incorporar descansos activos（引入主动休息）、practicar descansos activos（实践主动休息）。"
+        },
+        {
+          "word": "recargar pilas",
+          "translation": "充电，恢复精力",
+          "note": "固定惯用语，字面意思为『给电池充电』，引申为『恢复体力和精力』，在口语和科普文章中极为常见，固定结构为 recargar las pilas / recargar pilas，近义表达有 recuperar energías（恢复精力），但 recargar pilas 更口语化、更生动。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Los beneficios de las vacaciones no son eternos y ya en las primeras semanas de vuelta a la rutina podemos dejar de sentir sus efectos. Por eso, el reto cognitivo con <strong>pinceladas</strong> emocionales marca la diferencia: no solo prolonga el efecto \"buenas vacaciones\", sino que deja las funciones ejecutivas más entrenadas para <strong>encajar</strong> mejor ese primer lunes de vuelta.",
+      "zh": "假期的益处并非永久，回归日常的头几周内，我们就可能感受不到它的效果了。正因如此，带有情感色彩的认知挑战才能带来不同：它不仅能延长『美好假期』的效应，还能让执行功能得到更充分的锻炼，从而更好地承受重返工作后的第一个周一。",
+      "vocab": [
+        {
+          "word": "pinceladas",
+          "translation": "笔触，点缀，少许（比喻）",
+          "note": "pincelada 本义为『一笔画、笔触』，在文学和评论文体中引申为『少量的、点缀性的某种元素』，固定搭配有 con pinceladas de humor（带着一丝幽默）、pinceladas emocionales（情感色彩），是描写细微添加成分的高级隐喻词。"
+        },
+        {
+          "word": "encajar",
+          "translation": "承受，消化，适应（冲击或困难）",
+          "note": "encajar 在口语和体育文体中表示『承受打击或困难而不崩溃』，固定搭配有 encajar un golpe（承受一击）、encajar una derrota（消化一场失败）、encajar la presión（承受压力），比 soportar 更强调主动吸收和适应的能力。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "recargar pilas",
+      "type": "modismo",
+      "translation": "充电，恢复精力",
+      "usage": "固定惯用语，字面意思为『给电池充电』，引申为『通过休息恢复体力和精力』，在口语和科普文章中极为常见，固定结构为 recargar las pilas 或 recargar pilas，常用于描述假期、休息或任何恢复精力的活动。",
+      "exampleEs": "Después de un trimestre agotador, necesito estas vacaciones para recargar pilas antes de volver al trabajo.",
+      "exampleZh": "经过一个令人精疲力竭的学期，我需要这个假期来充好电，再回去工作。"
+    },
+    {
+      "expression": "en piloto automático",
+      "type": "modismo",
+      "translation": "在自动驾驶模式下，不假思索地惯性行事",
+      "usage": "固定惯用语，源自航空术语，引申为『依靠习惯惯性行事、不加思考』的状态，固定结构为 vivir / actuar / funcionar en piloto automático，在心理学科普和生活类文章中极为常见，带有对机械化、无意识生活方式的批评意味。",
+      "exampleEs": "Llevaba meses viviendo en piloto automático: trabajo, casa, cama, sin preguntarse qué quería realmente.",
+      "exampleZh": "他已经在自动驾驶模式下生活了好几个月：工作、回家、睡觉，从不问自己真正想要什么。"
+    },
+    {
+      "expression": "tener pique",
+      "type": "expresión coloquial",
+      "translation": "和某人较劲，暗中竞争",
+      "usage": "口语固定表达，表示两人之间非正式的、带有不服气意味的竞争关系，固定结构为 tener pique con alguien 或 por pique（出于不服气），在体育和日常叙事中极为常见，语气轻松幽默，不含敌意。",
+      "exampleEs": "Siempre que jugamos al pádel tengo pique con mi hermano y acabo dándolo todo aunque sea un partido amistoso.",
+      "exampleZh": "每次和哥哥打板球，我都忍不住和他较劲，结果明明是友谊赛却拼尽全力。"
+    },
+    {
+      "expression": "dándolo todo",
+      "type": "expresión coloquial",
+      "translation": "全力以赴，拼尽全力",
+      "usage": "口语高频表达，固定结构为 darlo todo（付出一切、全力以赴），在体育、工作和日常语境中极为常见，近义表达有 esforzarse al máximo（尽最大努力），但 darlo todo 更口语化，带有一种情绪饱满的投入感。",
+      "exampleEs": "Aunque el partido estaba perdido, el equipo siguió dándolo todo hasta el último minuto.",
+      "exampleZh": "尽管比赛已经输定了，球队还是坚持到最后一分钟全力以赴。"
+    }
+  ]
+}

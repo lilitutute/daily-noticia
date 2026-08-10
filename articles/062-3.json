@@ -1,0 +1,328 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "历史与政治",
+  "difficulty": "B2",
+  "wordCount": "约1600词",
+  "title": "El siglo de humillación histórica que China no está dispuesta a olvidar",
+  "subtitle": "中国不愿忘却的百年屈辱史",
+  "resumenEs": "El artículo recorre el llamado 'siglo de humillación' chino (1839-1949), desde la decadencia de la dinastía Qing y las Guerras del Opio hasta el reparto colonial de China por las potencias occidentales y japonesas, pasando por la rebelión de los Bóxers, la caída del Imperio, la República y la guerra civil. Concluye que ese trauma histórico sigue presente en la conciencia nacional china y condiciona su posición frente a las presiones externas en el siglo XXI.",
+  "resumenZh": "本文回顾了中国所称的『百年屈辱』（1839—1949年）：从清朝衰落和鸦片战争，到西方列强与日本对中国的殖民瓜分，再到义和团运动、帝制终结、民国建立与内战。文章最后指出，这段历史创伤至今仍深植于中国的民族意识之中，并影响着中国在21世纪面对外部压力时的立场。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "En 1898, un memorando dirigido al emperador de China por uno de sus funcionarios no podía ser más claro: \"Las potencias occidentales nos desprecian y nos tratan como bárbaros. Una vez acabado el reparto de África, hablan del reparto de China. Sus periódicos tratan el tema con todo el <strong>descaro</strong>, incluso proponiendo planes muy precisos\". El memorando era un retrato exacto de la situación que se <strong>perfilaba</strong> en el horizonte. A finales del siglo XIX, las potencias occidentales se disponían a repartirse Asia, con una quinta parte de la población mundial e inmensos recursos en materias primas. La joya de la corona de ese gran reparto era el Imperio chino.",
+      "zh": "1898年，一位中国官员向皇帝呈递的奏折言辞再清晰不过：『西方列强蔑视我们，视我们为蛮夷。瓜分非洲之后，他们便开始谈论瓜分中国。其报纸毫无顾忌地讨论此事，甚至提出了极为详尽的方案。』这份奏折是对当时正在形成的局势的精准写照。19世纪末，西方列强正准备瓜分亚洲——这片土地拥有全球五分之一的人口和丰富的原材料资源。而这场大瓜分中最耀眼的明珠，正是中华帝国。",
+      "vocab": [
+        {
+          "word": "descaro",
+          "translation": "厚颜无耻，肆无忌惮",
+          "note": "由前缀 des-（去除）+ cara（脸面）构成，字面意思为『不要脸』，固定搭配有 con todo el descaro（毫无顾忌地）、actuar con descaro（肆无忌惮地行事），在新闻和历史文体中常用于描述强权的傲慢行径。"
+        },
+        {
+          "word": "perfilaba",
+          "translation": "逐渐显现，初现轮廓",
+          "note": "perfilarse 作反身动词时表示『某事物的轮廓或形态逐渐清晰显现』，固定搭配有 perfilarse en el horizonte（在地平线上初现轮廓）、perfilarse como favorito（逐渐显现为热门人选），在历史和新闻文体中高频出现。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "El camino a la <strong>decadencia</strong> del Imperio chino, <strong>antaño</strong> el más poderoso del planeta, fue largo y tortuoso. Durante la dinastía Ming (1368-1644), China había vivido un extenso período de estabilidad y de reformas agrícolas. Comerciantes europeos actuaban en sus puertos. La plata española del Nuevo Mundo llegaba allí a través de Manila. Sin embargo, a diferencia de los europeos, los chinos no se embarcaron en grandes viajes de exploración. La prosperidad comenzó a <strong>decaer</strong> a comienzos del siglo XVI. En 1644, tras una serie de revueltas campesinas, los manchúes, una etnia guerrera del noroeste de China, se apoderaron de Pekín. La dinastía Qing sustituyó entonces a la de los Ming. Comenzó otro largo período de estabilidad durante el cual China logró duplicar su extensión.",
+      "zh": "曾经是世界上最强大帝国的中华帝国，走向衰落的道路漫长而曲折。明朝（1368—1644年）期间，中国经历了一段漫长的稳定时期，并推行了农业改革。欧洲商人在其港口经营贸易，来自新大陆的西班牙白银经由马尼拉流入中国。然而，与欧洲人不同，中国人并未踏上大规模的探索之旅。繁荣开始于16世纪初走向衰退。1644年，经历一系列农民起义后，来自中国西北的战斗民族满族占领了北京。清朝随即取代明朝。此后又开启了一段漫长的稳定时期，中国在此期间将其疆域扩大了一倍。",
+      "vocab": [
+        {
+          "word": "decadencia",
+          "translation": "衰落，衰退",
+          "note": "由动词 decaer（衰退）加名词后缀 -encia 构成，在历史和政治文体中固定搭配有 la decadencia del Imperio（帝国的衰落）、entrar en decadencia（走向衰落），其形容词形式 decadente 同样高频，注意与 declive（下滑趋势）的细微区别：decadencia 更强调文明或制度层面的全面衰退。"
+        },
+        {
+          "word": "antaño",
+          "translation": "昔日，往昔，从前",
+          "note": "文学和历史文体中的高频副词，表示『在过去某个时期』，比 antes 更正式，带有强烈的历史感和怀旧色彩，固定搭配有 antaño poderoso（昔日强大的）、como antaño（如往昔一般），是B2以上历史类文章的标志性词汇。"
+        },
+        {
+          "word": "decaer",
+          "translation": "衰退，减弱，走下坡路",
+          "note": "由前缀 de-（向下）+ caer（落下）构成，表示『逐渐走向衰弱』，固定搭配有 decaer el ánimo（士气低落）、decaer la economía（经济衰退），注意其名词形式 decaimiento（衰退、萎靡）和形容词 decaído（萎靡的）。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Hasta la década de 1750, China tenía un nivel de riqueza media similar al de las regiones europeas más prósperas. Sin embargo, a partir de ese momento, el Imperio Qing comenzó a mostrar múltiples señales de tensiones sociales, económicas y políticas. La población se había incrementado un 110% entre 1700 y 1794, pero la producción de alimentos no <strong>acompañaba</strong> ese crecimiento. En segundo lugar, la dinastía Qing basaba su poder en una pequeña élite, <strong>refractaria</strong> a las influencias externas, a las innovaciones europeas o al desarrollo cultural interno. China fue incapaz de competir en la carrera de la globalización que acompañaba a la Revolución Industrial.",
+      "zh": "直到18世纪50年代，中国的平均财富水平与欧洲最富裕地区相当。然而从那时起，清帝国开始显现出多重社会、经济和政治紧张的迹象。1700年至1794年间，人口增长了110%，但粮食生产却未能跟上这一增长。其次，清朝的权力建立在一个封闭的小型精英阶层之上，这一阶层对外部影响、欧洲创新或内部文化发展均持抵制态度。中国无力参与伴随工业革命而来的全球化竞争。",
+      "vocab": [
+        {
+          "word": "acompañaba",
+          "translation": "跟上，与……同步",
+          "note": "acompañar 在此语境中表示『与某趋势同步发展、跟上某变化』，固定搭配有 no acompañar el crecimiento（未能跟上增长）、los salarios no acompañan la inflación（工资未能跟上通胀），是经济和社会议题报道中的高频用法。"
+        },
+        {
+          "word": "refractaria",
+          "translation": "抵制的，排斥的，对……免疫的",
+          "note": "本为物理学术语，指『不导热、不导电的材料』，在社会和历史文体中引申为『对某种影响或变化具有强烈抵制性的』，固定搭配为 refractario/a a + 名词，如 refractario al cambio（抵制变革），语气比 opuesto a 更强，强调结构性的顽固抵制。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Gran Bretaña quería vender a China sus tejidos de algodón producidos a bajo coste. Pero los chinos no estaban interesados en comprarlos. Los ingleses cultivaban en la India la <strong>adormidera</strong> para extraer de ella el opio. A partir de 1750 exportaron opio de forma <strong>clandestina</strong> a Cantón, el único puerto de Asia oriental al que tenían acceso. El opio era la única mercancía que la Compañía de las Indias Orientales británica podía usar para <strong>equilibrar</strong> la balanza comercial con China, que vendía cada vez más seda, porcelana y té a cambio de plata. Entre 1800 y 1840, el número de consumidores de opio en China se multiplicó por diez. El gobierno imperial dio orden de destruir un stock de veinte mil cajas de opio en Cantón. El Parlamento británico declaró la guerra a China para defender el comercio ilegal de opio.",
+      "zh": "英国希望向中国出售其低成本生产的棉纺织品，但中国人对此并无兴趣。英国人在印度种植罂粟以提取鸦片。从1750年起，他们开始秘密向广州——他们能够进入的东亚唯一港口——出口鸦片。鸦片是英国东印度公司能够用来平衡对华贸易逆差的唯一商品，因为中国出售越来越多的丝绸、瓷器和茶叶，换取白银。1800年至1840年间，中国鸦片消费者的数量增长了十倍。清朝政府下令销毁广州的两万箱鸦片库存。英国议会随即以捍卫非法鸦片贸易为由，向中国宣战。",
+      "vocab": [
+        {
+          "word": "adormidera",
+          "translation": "罂粟",
+          "note": "专指用于提取鸦片的罂粟植物（Papaver somniferum），由 adormir（使入睡）派生而来，词根含义与其麻醉特性直接相关，在鸦片战争相关历史文章中为必备词汇，固定搭配有 cultivo de adormidera（罂粟种植）。"
+        },
+        {
+          "word": "clandestina",
+          "translation": "秘密的，非法的，地下的",
+          "note": "在历史和新闻文体中，clandestino/a 专指『违法或违规的秘密活动』，固定搭配有 comercio clandestino（非法贸易）、organización clandestina（地下组织）、inmigración clandestina（非法移民），语气比 secreto 更强调违法性。"
+        },
+        {
+          "word": "equilibrar",
+          "translation": "平衡，使均衡",
+          "note": "在经济文体中，equilibrar la balanza comercial（平衡贸易差额）是固定搭配，固定搭配还有 equilibrar el presupuesto（平衡预算）、equilibrar fuerzas（均衡力量），其名词形式 equilibrio 同样高频，如 equilibrio comercial（贸易平衡）。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "La primera guerra del Opio (1840-1842) constituyó un desastre para China. El ejército imperial, aunque mucho más numeroso, no pudo resistir el ataque de las tropas británicas, que se apoderaron de Cantón y Shanghái. Además de una <strong>indemnización</strong> astronómica (que significaba una subida de los tributos para la población), China se vio obligada a firmar un tratado que \"abría\" al comercio europeo cinco puertos libres judicialmente de la administración china, bajaba los <strong>aranceles</strong> a los productos británicos y cedía la ciudad de Hong Kong, que se convirtió en una colonia británica (hasta 1997, cuando fue devuelta a China). En 1856, británicos y franceses se aliaron para declararle de nuevo la guerra a una China debilitada. En realidad, esta segunda guerra del Opio (1856-1860) no era más que una operación para obligar a China a abrir el resto de puertos al comercio occidental. Un ejército anglo-francés <strong>saqueó</strong> la capital imperial en el otoño de 1860. En 1900, el número de consumidores de opio se había cuadruplicado.",
+      "zh": "第一次鸦片战争（1840—1842年）对中国而言是一场灾难。清朝军队尽管人数众多，却无力抵抗英国军队的进攻，广州和上海相继沦陷。除了天文数字般的赔款（这意味着对民众加征赋税）之外，中国被迫签订条约，向欧洲商业『开放』五个脱离中国行政管辖的自由港，降低对英国商品的关税，并割让香港——香港由此成为英国殖民地（直至1997年回归中国）。1856年，英法两国联合，再次向已然积弱的中国宣战。实际上，第二次鸦片战争（1856—1860年）不过是一场迫使中国向西方商业开放其余港口的军事行动。1860年秋，英法联军洗劫了清朝都城。到1900年，鸦片消费者的数量已增至原来的四倍。",
+      "vocab": [
+        {
+          "word": "indemnización",
+          "translation": "赔款，赔偿金",
+          "note": "由动词 indemnizar（赔偿）加名词后缀 -ción 构成，在历史和法律文体中固定搭配有 pagar una indemnización（支付赔款）、indemnización de guerra（战争赔款）、indemnización astronómica（天文数字的赔款），是不平等条约相关历史文章的核心词汇。"
+        },
+        {
+          "word": "aranceles",
+          "translation": "关税",
+          "note": "经济和贸易文体中的核心词汇，固定搭配有 bajar / subir los aranceles（降低/提高关税）、aranceles aduaneros（海关关税）、guerra arancelaria（关税战），其形容词形式 arancelario 同样高频，如 barrera arancelaria（关税壁垒）。"
+        },
+        {
+          "word": "saqueó",
+          "translation": "洗劫，抢劫（城市或建筑）",
+          "note": "saquear 在历史文体中专指对城市、宫殿或建筑的系统性抢劫破坏，固定搭配有 saquear una ciudad（洗劫一座城市）、saquear el palacio（劫掠宫殿），其名词形式 saqueo 同样高频，如 el saqueo del Palacio de Verano（火烧圆明园的劫掠）。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "Con la apertura de los puertos llegaron los misioneros occidentales. La influencia del cristianismo estuvo presente en la rebelión de la secta de los taiping, creada por Hong Xiuquan, un joven cantonés convencido de ser el hermano menor de Jesucristo. La sublevación de los taiping (1851-1864) <strong>desencadenó</strong> una guerra civil que costó la vida de entre veinte y treinta millones de personas. China se iba a convertir en el escenario de las oscuras maniobras occidentales. En 1885, Francia estableció un <strong>protectorado</strong> en Tonkín (Indochina), y Gran Bretaña se hizo al año siguiente con Birmania. A este reparto se sumaron Alemania, Estados Unidos, y, sobre todo, Rusia y Japón. Al acabar el siglo XIX, los tratados firmados por China mantenían noventa y dos puertos y sus \"esferas de influencia\" bajo el control de las potencias extranjeras.",
+      "zh": "随着港口的开放，西方传教士也随之而来。基督教的影响渗透到太平天国运动之中——该运动由洪秀全创立，这位广东年轻人自称是耶稣基督的弟弟。太平天国起义（1851—1864年）引发了一场内战，造成两千万至三千万人死亡。中国由此成为西方列强暗中操弄的角斗场。1885年，法国在东京（印度支那）建立保护国，英国次年占领缅甸。德国、美国，尤其是俄国和日本也相继加入这场瓜分。19世纪末，中国签订的各项条约使九十二个港口及其『势力范围』处于外国列强的控制之下。",
+      "vocab": [
+        {
+          "word": "desencadenó",
+          "translation": "引发，触发，unleash",
+          "note": "由前缀 des-（解除）+ encadenar（用链条束缚）构成，字面意思为『解开锁链』，引申为『触发某种难以控制的连锁反应』，固定搭配有 desencadenar una crisis（引发危机）、desencadenar una guerra（触发战争），比 provocar 更强调失控的连锁性。"
+        },
+        {
+          "word": "protectorado",
+          "translation": "保护国，殖民保护地",
+          "note": "由 protector（保护者）加名词后缀 -ado 构成，在殖民历史文体中专指『名义上保留本地政权但实际由外国控制的领土』，固定搭配有 establecer un protectorado（建立保护国）、bajo el protectorado de（处于……的保护国地位下），是理解19世纪殖民史的关键术语。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "China y Japón acabaron chocando en 1894 por Corea, que los Qing habían <strong>tutelado</strong> siempre como un reino asociado. La flota china fue rápidamente derrotada por la moderna armada japonesa en el río Yalu (el almirante chino se quitó la vida, sin poder soportar la humillación). Por el Tratado de Shimonoseki (1895), China tuvo que reconocer la independencia de Corea, que pasó a ser un satélite comercial japonés, perdió Formosa (Taiwán), las islas de los Pescadores, la península de Liaodong y su base naval de Port Arthur (Dalian). La continua <strong>expoliación</strong> extranjera, combinada con otro período de crisis económica y desastres naturales, provocó a comienzos de 1898 la rebelión de los Bóxers —como se les llamó en Occidente, porque algunos de sus miembros practicaban kung-fu, el boxeo chino—. Con el apoyo de la emperatriz, que esperaba poder usarlos para librarse de los europeos, los bóxers iniciaron una campaña de ataques contra los misioneros y funcionarios europeos y los cristianos chinos.",
+      "zh": "1894年，中日两国因朝鲜问题爆发冲突——朝鲜长期以来被清朝视为藩属国加以庇护。中国舰队在鸭绿江迅速被日本现代海军击败（中国海军提督无法承受这一屈辱，自尽身亡）。根据《马关条约》（1895年），中国被迫承认朝鲜独立——朝鲜随即沦为日本的商业附庸——并割让台湾、澎湖列岛、辽东半岛及旅顺（大连）海军基地。持续的外国掠夺，加之又一轮经济危机和自然灾害，于1898年初引发了义和团运动——西方将其称为『拳民』，因为其部分成员练习中国武术（功夫）。在慈禧太后的支持下——她希望借助义和团摆脱欧洲人的控制——义和团对欧洲传教士、官员及中国基督徒发动了一系列袭击。",
+      "vocab": [
+        {
+          "word": "tutelado",
+          "translation": "庇护的，监护下的，藩属的",
+          "note": "由动词 tutelar（监护、庇护）的过去分词转化而来，在历史和外交文体中表示『处于某强国保护或监管之下』，固定搭配有 estado tutelado（藩属国）、bajo la tutela de（在……的庇护下），其名词形式 tutela 同样高频。"
+        },
+        {
+          "word": "expoliación",
+          "translation": "掠夺，剥削，榨取",
+          "note": "由动词 expoliar（掠夺）加名词后缀 -ción 构成，在历史和政治文体中专指对弱势国家或群体的系统性掠夺，比 robo（盗窃）更强调有组织、持续性的剥削，固定搭配有 expoliación colonial（殖民掠夺）、expoliación de recursos（资源掠夺）。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "En junio de 1900, convergieron sobre Pekín, asesinaron al embajador alemán y comenzaron el asedio del barrio de las legaciones extranjeras (un episodio plasmado en la película 55 días en Pekín). Un ejército formado por tropas de ocho naciones marchó hacia Pekín y derrotó a las tropas bóxers e imperiales. El gobierno chino se vio obligado a pagar una <strong>indemnización</strong> enorme y permitir que tropas extranjeras se instalaran en la capital. Rusia y Japón chocaron cuatro años después a causa de sus proyectos <strong>expansionistas</strong> en Corea y Manchuria. China no tuvo absolutamente nada que decir. La monarquía Qing estaba herida de muerte. Las reformas tardías no habían funcionado, pero existían una clase media y un núcleo de intelectuales <strong>partidarios</strong> de la modernización y el cambio.",
+      "zh": "1900年6月，义和团向北京汇聚，杀死德国公使，并开始围攻外国使馆区（这一事件后来被拍成电影《北京五十五天》）。由八国军队组成的联军向北京进发，击败了义和团和清军。清政府被迫支付巨额赔款，并允许外国军队驻扎京城。四年后，俄日两国因在朝鲜和满洲的扩张计划而爆发冲突，中国对此完全没有发言权。清朝已是奄奄一息。虽然迟来的改革未能奏效，但此时已出现了一个中产阶级和一批主张现代化与变革的知识分子群体。",
+      "vocab": [
+        {
+          "word": "expansionistas",
+          "translation": "扩张主义的，扩张性的",
+          "note": "由名词 expansión（扩张）加形容词后缀 -ista 构成，-ista 后缀表示『持某种主义或倾向的』，如 imperialista（帝国主义的）、nacionalista（民族主义的），固定搭配有 política expansionista（扩张主义政策）、ambiciones expansionistas（扩张野心）。"
+        },
+        {
+          "word": "partidarios",
+          "translation": "支持者，拥护者，赞成……的人",
+          "note": "固定搭配为 ser partidario de + 名词／动词原形，表示『支持、赞成某立场或主张』，在政治和历史文体中极为常见，如 ser partidario de la reforma（支持改革）、los partidarios del cambio（变革的支持者），注意与 seguidor（追随者）的区别：partidario 更强调立场认同。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "Las nuevas generaciones miraban el triunfo de la potencia japonesa sobre la <strong>prepotente</strong> Rusia como un ejemplo a seguir. En 1905, el médico Sun Yat-sen creó la Alianza Revolucionaria. Su programa se basaba en tres principios: nacionalismo, democracia y reforma económica. Los tres eran un reflejo del sentimiento de humillación de China. En 1911, los revolucionarios establecieron un gobierno provisional en la ciudad de Nankín. A pesar de la represión inicial de la sublevación, en febrero de 1912, Sun consiguió proclamar la república. El Imperio chino había terminado tras 2.133 años. Nacía, así, la primera república asiática. La situación, sin embargo, <strong>distaba</strong> de ser estable.",
+      "zh": "新一代人将日本战胜傲慢俄国的胜利视为效仿的榜样。1905年，医生孙中山创立了中国同盟会，其纲领以三大原则为基础：民族主义、民主主义和民生主义。这三者都是中国屈辱感的折射。1911年，革命党人在南京建立了临时政府。尽管起义最初遭到镇压，1912年2月，孙中山仍成功宣布建立共和国。历经2133年的中华帝国就此终结，亚洲第一个共和国由此诞生。然而，局势远未稳定。",
+      "vocab": [
+        {
+          "word": "prepotente",
+          "translation": "傲慢的，盛气凌人的，自以为是的",
+          "note": "由前缀 pre-（超过）+ potente（强大的）构成，表示『凭借权势傲慢自大、不可一世』，在政治和历史文体中常用于描述强权的傲慢姿态，固定搭配有 actitud prepotente（傲慢的态度）、comportamiento prepotente（盛气凌人的行为）。"
+        },
+        {
+          "word": "distaba",
+          "translation": "远非，与……相去甚远",
+          "note": "distar de 是固定搭配，表示『与某种状态或标准相去甚远』，固定结构为 distar de + 形容词／名词，如 distar de ser perfecto（远非完美）、distar de la realidad（与现实相去甚远），在新闻和历史文体中高频出现，语气比 no ser 更强调差距之大。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "El general Yuan Shikai había ayudado a Sun a <strong>derrocar</strong> al último emperador, Xuantong (Puyi), pero luego se proclamó él mismo emperador en Pekín. Inmediatamente se vio obligado por los japoneses a aceptar el dominio de Tokio de la concesión alemana de Shandong. La república china seguía siendo para las <strong>cancillerías</strong> aliadas un simple <strong>botín de guerra</strong>. China participó en la Primera Guerra Mundial con la esperanza de que se anularan los tratados desiguales con las potencias occidentales, pero los vencedores no reconocieron su contribución, y las concesiones alemanas fueron incorporadas al Imperio japonés. La delegación china se negó a firmar el Tratado de Versalles.",
+      "zh": "袁世凯曾协助孙中山推翻末代皇帝宣统（溥仪），随后却在北京自立为帝。他随即被迫接受日本对德国山东租借地的控制。对协约国各国政府而言，中华民国不过是一块战利品。中国参加第一次世界大战，寄望于此能废除与西方列强签订的不平等条约，然而战胜国并未承认中国的贡献，德国的租借地被并入日本帝国。中国代表团拒绝在《凡尔赛条约》上签字。",
+      "vocab": [
+        {
+          "word": "derrocar",
+          "translation": "推翻，颠覆（政权或统治者）",
+          "note": "由前缀 de-（向下）+ roca（岩石）构成，字面意思为『从岩石上推落』，在政治和历史文体中专指推翻政权或统治者，固定搭配有 derrocar al gobierno（推翻政府）、derrocar a un dictador（推翻独裁者），比 destituir（免职）更强调暴力性的权力更迭。"
+        },
+        {
+          "word": "cancillerías",
+          "translation": "外交部，各国政府（外交语境）",
+          "note": "cancillería 在外交文体中专指『外交部或政府的外交决策机构』，固定搭配有 las cancillerías europeas（欧洲各国政府）、según fuentes de la cancillería（据外交部消息），是理解外交新闻和历史文章的关键词汇。"
+        },
+        {
+          "word": "botín de guerra",
+          "translation": "战利品，战争掠夺物",
+          "note": "固定搭配，botín 本义为『战利品、掠夺物』，botín de guerra 专指战争中掠夺的财物或利益，在历史文体中常引申为『被强权任意处置的对象』，固定搭配还有 repartirse el botín（瓜分战利品），语气强烈，带有明显的批判色彩。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "En Pekín, el 4 de mayo de 1919, un movimiento social de estudiantes organizó protestas y <strong>boicots</strong> a productos extranjeros como respuesta a lo que consideraban otra humillación para su país. En ese momento, a los vencedores de la Entente les preocupaba más la destrucción de los bolcheviques (Japón actuaba en Siberia en apoyo de los ejércitos blancos) que reconocer la ayuda de China, que además era un peligroso ejemplo para los pueblos <strong>colonizados</strong>. Puesto que no podían confiar en Occidente, los dos partidos de masas chinos, el Kuomintang (KMT) y el Partido Comunista (PCCh), creado por Mao Zedong en 1921, se inspiraron en la revolución bolchevique rusa y en la Nueva Política Económica soviética.",
+      "zh": "1919年5月4日，北京爆发了一场学生社会运动，组织抗议并抵制外国商品，以回应他们认为是对祖国又一次屈辱的事件。彼时，协约国战胜方更关心的是消灭布尔什维克势力（日本正在西伯利亚支援白军），而非承认中国的贡献——何况中国还是一个对被殖民人民颇具危险示范意义的例子。由于无法信任西方，中国两大群众性政党——国民党（KMT）和1921年由毛泽东创立的中国共产党（CCP）——从俄国布尔什维克革命和苏联新经济政策中汲取了灵感。",
+      "vocab": [
+        {
+          "word": "boicots",
+          "translation": "抵制，联合抵制",
+          "note": "源自英语 boycott，已完全融入西语，固定搭配有 organizar un boicot（组织抵制）、hacer un boicot a（抵制某产品或国家）、llamar al boicot（呼吁抵制），其动词形式 boicotear 同样高频，如 boicotear productos extranjeros（抵制外国商品）。"
+        },
+        {
+          "word": "colonizados",
+          "translation": "被殖民的，殖民地的",
+          "note": "由动词 colonizar（殖民）的过去分词转化而来，固定搭配有 pueblos colonizados（被殖民人民）、territorios colonizados（殖民地领土），其名词形式 colonización（殖民化）和 colonialismo（殖民主义）在历史文体中同样高频。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "Los bolcheviques renunciaron a todos los privilegios de las esferas de influencia que la Rusia <strong>zarista</strong> había obtenido en China. Asesores soviéticos ayudaron a instruir al ejército del Kuomintang y organizaron la Academia Militar de Whampoa, cuyo primer director fue el general Chiang Kai-shek. Tras la muerte de Sun Yat-sen en 1925, Chiang se hizo con el poder. Al principio, el PCCh apoyó a este en su lucha contra los señores de la guerra. En 1927 el idilio se rompió. Chiang <strong>desencadenó</strong> una purga para eliminar a los izquierdistas del KMT y a los comunistas, lo que dio comienzo a la guerra civil.",
+      "zh": "布尔什维克放弃了沙俄在中国获得的一切势力范围特权。苏联顾问协助训练国民党军队，并组建了黄埔军校，蒋介石担任首任校长。1925年孙中山逝世后，蒋介石掌握了权力。起初，中国共产党支持蒋介石对抗各地军阀。1927年，这段蜜月期宣告破裂。蒋介石发动清洗，大肆消灭国民党内的左派人士和共产党员，内战由此爆发。",
+      "vocab": [
+        {
+          "word": "zarista",
+          "translation": "沙皇的，沙俄的",
+          "note": "由 zar（沙皇，源自俄语 царь）加形容词后缀 -ista 构成，专指沙皇俄国时期的政权或政策，固定搭配有 Rusia zarista（沙俄）、régimen zarista（沙皇制度），是理解俄国革命前历史的关键词汇。"
+        },
+        {
+          "word": "idilio",
+          "translation": "蜜月期，短暂的和谐关系（比喻）",
+          "note": "本义为『田园诗、爱情故事』，在政治和历史文体中引申为『两方之间短暂的合作或和谐关系』，固定搭配有 el idilio se rompió（蜜月期结束）、un breve idilio（短暂的蜜月），语气带有讽刺意味，暗示这种关系本就脆弱。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "Mao se <strong>replegó</strong> con sus fuerzas al sur de China, donde poco a poco recabó el apoyo de una importante base campesina. Sin embargo, el ejército de Chiang estaba mejor entrenado y contaba con armamento occidental (los asesores soviéticos habían sido sustituidos por oficiales alemanes). Para evitar la aniquilación, entre 1934 y 1936, los comunistas iniciaron una inmensa retirada de 12.000 kilómetros hacia el norte del país. Mao consolidó su liderazgo dentro del PCCh, y la Larga Marcha se convirtió en uno de los mitos del comunismo chino, aunque tan solo cinco mil de los cien mil participantes en la huida consiguieron llegar a su destino.",
+      "zh": "毛泽东率部撤退至中国南方，在那里逐步赢得了广大农民群众的支持。然而，蒋介石的军队训练有素，装备着西方武器（苏联顾问已被德国军官取代）。为避免被歼灭，1934年至1936年间，共产党人开始了一次向北方的大规模战略转移，行程达一万两千公里。毛泽东在中国共产党内巩固了自己的领导地位，长征成为中国共产主义的重要历史丰碑——尽管参与这次转移的十万人中，最终抵达目的地的仅有五千人。",
+      "vocab": [
+        {
+          "word": "replegó",
+          "translation": "撤退，收缩兵力",
+          "note": "由前缀 re-（向后）+ plegar（折叠、收拢）构成，在军事文体中专指『有组织地向后撤退以保存实力』，固定搭配有 replegarse ante el enemigo（在敌前撤退）、replegarse al sur（向南撤退），比 huir（逃跑）更强调战略性和有序性。"
+        },
+        {
+          "word": "recabó",
+          "translation": "争取到，获得（支持或信息）",
+          "note": "recabar 在政治和历史文体中表示『通过努力争取或收集到某种支持、信息或资源』，固定搭配有 recabar apoyos（争取支持）、recabar información（收集信息）、recabar fondos（筹集资金），比 obtener 更强调主动争取的过程。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "Una vez más, Japón entró en escena. Tokio necesitaba los recursos de China para consolidar su \"esfera de prosperidad\". Tras derrotar a Rusia en 1905 había convertido Manchuria en un estado <strong>títere</strong> con el antiguo emperador Puyi en el trono. En 1937, Japón pasó al ataque para apoderarse de China. Mao y Chiang llegaron a un acuerdo para detener a los invasores. Esta alianza fue solo nominal. La lucha entre el KMT y los comunistas <strong>proseguía</strong>. Todo cambió en diciembre de 1941, cuando Japón atacó a EE. UU. y China entró en la guerra mundial al lado del bando aliado. Chiang participó, incluso, en la Conferencia de El Cairo en 1943. Las atrocidades japonesas en Shanghái y Nankín habían dado la vuelta al mundo y consiguieron crear en EE. UU. un estado de opinión favorable a China.",
+      "zh": "日本再度登场。东京需要中国的资源来巩固其『大东亚共荣圈』。1905年击败俄国后，日本将满洲变为一个以末代皇帝溥仪为傀儡的附庸国。1937年，日本发动全面侵华战争。毛泽东与蒋介石达成协议，共同抵御侵略者，但这一联合抗日的统一战线仅停留于名义之上，国共两党之间的斗争从未停止。1941年12月，一切发生了转变——日本袭击美国，中国由此加入盟军阵营参与世界大战。蒋介石甚至出席了1943年的开罗会议。日军在上海和南京犯下的暴行震惊世界，在美国形成了有利于中国的舆论氛围。",
+      "vocab": [
+        {
+          "word": "títere",
+          "translation": "傀儡，木偶（比喻：受人操控的政权）",
+          "note": "本义为『木偶、提线玩偶』，在政治和历史文体中引申为『受外部势力操控、没有实质独立性的政权或领导人』，固定搭配有 estado títere（傀儡国家）、gobierno títere（傀儡政府）、régimen títere（傀儡政权），是殖民和战争历史文章的高频词。"
+        },
+        {
+          "word": "proseguía",
+          "translation": "继续，持续进行",
+          "note": "由前缀 pro-（向前）+ seguir（继续）构成，在历史和叙事文体中表示『某行动或状态在中断或干扰之后仍然持续』，比 continuaba 更正式，固定搭配有 proseguir la lucha（继续斗争）、proseguir las negociaciones（继续谈判）。"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "es": "Los aliados renunciaron a los tratados desiguales del siglo anterior, con la esperanza de que China participara en la invasión de Japón, ahorrándose así pedir ayuda a Stalin. Pero, tras la derrota de Japón en 1945, la guerra civil entre comunistas y el KMT continuó hasta la victoria de Mao en 1949. Los vencedores proclamaron la República Popular China. El Ejército y los seguidores de Chiang escaparon a Taiwán. La <strong>historiografía</strong> oficial china data el final del \"siglo de la humillación\" en el momento en que Mao vence en la guerra civil. El recuerdo de la <strong>afrenta</strong> que los europeos impusieron a la poderosa China, impidiendo que liderara la globalización y saqueando sus recursos, <strong>planea</strong> en los proyectos de una nación híbrida entre comunismo y capitalismo tecnológico del siglo XXI. La guerra comercial que ahora impone Trump a los productos chinos suena familiar en Pekín.",
+      "zh": "盟国放弃了上个世纪签订的不平等条约，希望中国参与对日作战，从而避免向斯大林求援。然而，1945年日本战败后，共产党与国民党之间的内战仍在持续，直至1949年毛泽东取得最终胜利。胜利者宣告中华人民共和国成立，蒋介石的军队和追随者则撤退至台湾。中国官方史学将『百年屈辱』的终结定于毛泽东赢得内战之时。西方列强强加于强大中国的那段屈辱记忆——阻碍中国引领全球化、掠夺其资源——在这个21世纪共产主义与科技资本主义相融合的国家的各项战略规划中挥之不去。如今特朗普对中国商品发动的贸易战，在中国听来并不陌生。",
+      "vocab": [
+        {
+          "word": "historiografía",
+          "translation": "史学，历史编纂学",
+          "note": "由希腊语词根 historia（历史）+ graphía（书写、记录）构成，专指『对历史的书写、研究和诠释方式』，固定搭配有 historiografía oficial（官方史学）、historiografía moderna（现代史学），是理解历史叙事和国家记忆议题的关键学术词汇。"
+        },
+        {
+          "word": "afrenta",
+          "translation": "屈辱，侮辱，奇耻大辱",
+          "note": "在历史和政治文体中，afrenta 专指对国家或民族尊严的严重伤害，比 insulto（侮辱）更正式，带有强烈的历史积怨色彩，固定搭配有 sufrir una afrenta（遭受屈辱）、lavar una afrenta（洗雪耻辱），是理解中国『百年屈辱』叙事的核心词汇。"
+        },
+        {
+          "word": "planea",
+          "translation": "盘旋，萦绕（比喻：阴影挥之不去）",
+          "note": "planear 本义为『滑翔、在空中盘旋』，在文学和评论文体中引申为『某种记忆、威胁或情绪如阴影般持续笼罩』，固定搭配有 planear sobre（萦绕于……之上）、una sombra que planea（挥之不去的阴影），是描写历史创伤的高级隐喻动词。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "entrar en escena",
+      "type": "modismo",
+      "translation": "登场，介入，出现在局势中",
+      "usage": "固定惯用语，源自戏剧术语，字面意思为『走上舞台』，在新闻和历史文体中引申为『某国家、势力或人物开始介入某局势』，固定结构为 entrar en escena + 主语 或 主语 + entra en escena，近义表达有 aparecer en el panorama（出现在局势中）。",
+      "exampleEs": "Cuando la situación parecía estabilizarse, entró en escena una nueva potencia con intereses propios en la región.",
+      "exampleZh": "就在局势似乎趋于稳定之际，一个在该地区有自身利益的新势力登场了。"
+    },
+    {
+      "expression": "herido de muerte",
+      "type": "modismo",
+      "translation": "奄奄一息，已无可救药，走向终结",
+      "usage": "固定惯用语，字面意思为『受了致命伤』，在政治和历史文体中引申为『某制度、政权或组织已无法挽救、走向终结』，固定结构为 estar herido de muerte，近义表达有 estar condenado（注定灭亡），语气强调不可逆转性。",
+      "exampleEs": "Tras décadas de corrupción y mala gestión, el régimen estaba herido de muerte antes de que estallara la revolución.",
+      "exampleZh": "经历数十年的腐败和治理失当，这个政权在革命爆发之前就已奄奄一息。"
+    },
+    {
+      "expression": "dar la vuelta al mundo",
+      "type": "modismo",
+      "translation": "震惊世界，传遍全球",
+      "usage": "固定惯用语，表示『某消息、事件或图像迅速传遍全世界、引发国际关注』，固定结构为 dar la vuelta al mundo（主动）或 las imágenes dieron la vuelta al mundo（图像传遍世界），在新闻文体中极为常见。",
+      "exampleEs": "Las imágenes de la destrucción dieron la vuelta al mundo y generaron una ola de solidaridad internacional.",
+      "exampleZh": "那些破坏现场的图像传遍全球，引发了一波国际声援浪潮。"
+    },
+    {
+      "expression": "repartirse el botín",
+      "type": "modismo",
+      "translation": "瓜分战利品，分赃",
+      "usage": "固定惯用语，字面意思为『分配战利品』，在历史和政治文体中引申为『强权之间瓜分弱国的领土、资源或利益』，固定结构为 repartirse el botín 或 el reparto del botín，语气带有强烈的批判和讽刺色彩。",
+      "exampleEs": "Tras la guerra, las potencias vencedoras se repartieron el botín sin consultar a los pueblos afectados.",
+      "exampleZh": "战争结束后，战胜国在未征询受影响人民意见的情况下瓜分了战利品。"
+    }
+  ]
+}
+

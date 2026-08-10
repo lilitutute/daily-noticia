@@ -1,0 +1,319 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "科技与社会",
+  "difficulty": "B2",
+  "wordCount": "约1400词",
+  "title": "Así prepara China la revolución robótica contra su pesadilla: la falta de mano de obra",
+  "subtitle": "中国如何用机器人革命应对噩梦般的劳动力短缺",
+  "resumenEs": "China ha construido la mayor escuela de entrenamiento para robots humanoides del mundo en Pekín, donde cientos de instructores humanos enseñan a las máquinas los gestos más cotidianos mediante demostración y repetición. Impulsada por subsidios estatales y una crisis demográfica sin precedentes, China domina ya el 85% del mercado mundial de humanoides y aspira a convertir estos robots en la gran fuerza laboral del futuro, tanto en fábricas como en hogares.",
+  "resumenZh": "中国在北京建立了全球最大的人形机器人训练学校，数百名人类教师通过示范和重复动作向机器人传授最日常的生活技能。在国家补贴和前所未有的人口危机的双重驱动下，中国已占据全球人形机器人市场85%的份额，并致力于将这些机器人打造成未来工厂和家庭的主力劳动力。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "La clase <strong>arranca</strong> a primera hora con el <strong>golpeteo</strong> metálico de las manos de unos alumnos que todavía no distinguen bien entre un vaso de cristal y una caja de cartón. Los estudiantes, robots humanoides de 1,66 metros de altura, permanecen inmóviles hasta que reciben la orden de un profesor que lleva gafas de realidad virtual, auriculares, sensores en los brazos y mandos que recuerdan a los de una videoconsola.",
+      "zh": "课程一大早便开始了，伴随着一群学生金属质感的手部敲击声——他们还不太能分清玻璃杯和纸板箱的区别。这些学生是身高1.66米的人形机器人，静止不动，直到收到老师的指令。老师戴着虚拟现实眼镜、耳机，手臂上装有传感器，手持让人联想到游戏机手柄的控制器。",
+      "vocab": [
+        {
+          "word": "arranca",
+          "translation": "开始，启动（口语化）",
+          "note": "arrancar 本义为『拔出、发动引擎』，在新闻和口语中引申为『（活动、项目）正式开始』，固定搭配有 arrancar una campaña（启动一场运动）、arrancar el curso（开学），比 comenzar 更生动，带有突然启动的动感。"
+        },
+        {
+          "word": "golpeteo",
+          "translation": "敲击声，连续碰撞声",
+          "note": "由动词 golpear（敲击）加名词后缀 -eo 构成，-eo 后缀专门构成表示『持续、反复动作的声音或过程』的名词，如 parloteo（喋喋不休）、tecleo（键盘敲击声），掌握此后缀可举一反三。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Los docentes, todos jóvenes ingenieros, mueven lentamente los brazos mientras, frente a ellos, un centenar de robots imitan cada gesto como si fueran su reflejo en un espejo. Todos están unidos por un <strong>cordón umbilical</strong> invisible de datos. Cuando el profesor gira la muñeca, el robot la gira. Cuando estira el brazo para coger algún objeto, la máquina hace lo mismo. Si falla, vuelve a empezar. Si tropieza, el <strong>arnés</strong> que cuelga del techo evita la caída. Uno intenta agarrar una botella de detergente; otro clasifica cajas de cartón; un tercero extiende lentamente el brazo hacia una bandeja de plástico.",
+      "zh": "教师们都是年轻工程师，他们缓慢地移动手臂，而面对他们的上百台机器人则模仿着每一个动作，仿佛是他们在镜中的倒影。所有人都通过一根无形的数据『脐带』相连。老师转动手腕，机器人随之转动；老师伸手去拿某件物品，机器也做同样的动作。如果失败，就重新来过。如果绊倒，悬挂在天花板上的安全带会防止它摔倒。一台机器人试图抓住一瓶洗涤剂，另一台在分拣纸板箱，第三台则缓缓伸出手臂朝一个塑料托盘够去。",
+      "vocab": [
+        {
+          "word": "cordón umbilical",
+          "translation": "脐带（此处为比喻：数据连接纽带）",
+          "note": "本义为生物学术语『脐带』，此处用作隐喻，表示两者之间不可分割的数据连接，在新闻文体中以隐喻方式出现时通常不加引号，是修辞价值较高的固定意象。"
+        },
+        {
+          "word": "arnés",
+          "translation": "安全带，防护背带",
+          "note": "工业和运动安全领域的专业词汇，但因其在科技和工业报道中高频出现，具有较高的阅读迁移价值，固定搭配有 arnés de seguridad（安全防护带）、llevar puesto un arnés（佩戴安全带）。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Miles de veces al día se repite esta escena en un edificio de Shijingshan, un antiguo corazón industrial al oeste de Pekín <strong>reconvertido en</strong> polo tecnológico, donde China ha levantado la mayor escuela de entrenamiento para robots humanoides del mundo. Aquí educan a las máquinas que la superpotencia asiática espera convertir en la gran fuerza laboral del futuro. El edificio parece una mezcla entre una fábrica, un laboratorio de inteligencia artificial y una escuela de formación profesional. En una planta, los robots aprenden a doblar ropa, guardar utensilios de cocina o sacar medicamentos de un armario. En otra, practican cómo mover cajas en una <strong>cadena logística</strong>, clasificar paquetes o manipular piezas industriales.",
+      "zh": "这一幕每天在石景山的一栋大楼里重复数千次——石景山是北京西部一个由旧工业核心区改造而成的科技园区，中国在此建立了全球最大的人形机器人训练学校。这里培训的机器人，正是这个亚洲超级大国希望打造成未来主力劳动力的机器。这栋大楼看起来像是工厂、人工智能实验室和职业培训学校的混合体。在一个楼层，机器人学习叠衣服、收纳厨具或从柜子里取药。在另一个楼层，它们练习在物流链上搬运箱子、分拣包裹或操作工业零件。",
+      "vocab": [
+        {
+          "word": "reconvertido en",
+          "translation": "改造为，转型为",
+          "note": "由前缀 re-（再次）+ convertir（转变）构成，固定搭配为 reconvertir algo en algo，强调对原有事物的彻底改造和功能转变，在城市规划和产业报道中高频出现，如 reconvertir una fábrica en museo（将工厂改造为博物馆）。"
+        },
+        {
+          "word": "cadena logística",
+          "translation": "物流链，供应链",
+          "note": "cadena 在商业和工业文体中构成大量固定搭配，如 cadena de suministro（供应链）、cadena de montaje（装配线）、cadena de valor（价值链），掌握 cadena + 名词的搭配模式可快速理解大量商业词汇。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "Todo está cuidadosamente diseñado para parecerse al mundo real. Las cocinas tienen platos sucios. Los salones cuentan con sofás, mesas y juguetes infantiles. Las fábricas reproducen líneas de montaje auténticas. Incluso la iluminación cambia constantemente para que las máquinas aprendan que una taza sigue siendo una taza tanto bajo una luz blanca como bajo una bombilla <strong>amarillenta</strong>. Detrás del proyecto está el Gobierno y la empresa Leju Robotics, una de las compañías que lideran la carrera por fabricar humanoides capaces de <strong>convivir</strong> y trabajar junto a los humanos. Y, llegado el caso, incluso sustituirlos.",
+      "zh": "一切都经过精心设计，以尽可能贴近真实世界。厨房里有脏碟子，客厅里有沙发、桌子和儿童玩具，工厂里复制了真实的装配线。甚至连照明都在不断变化，让机器人学会无论是在白光还是在昏黄灯泡下，一个杯子依然是杯子。这个项目背后是政府和乐聚机器人公司——该公司是引领制造能与人类共处、共同工作的人形机器人竞赛的企业之一。必要时，甚至可以取代人类。",
+      "vocab": [
+        {
+          "word": "amarillenta",
+          "translation": "偏黄的，泛黄的",
+          "note": "由颜色词 amarillo（黄色）加形容词后缀 -ento/a 构成，-ento/a 表示『带有某种色调或性质但不完全是』，同类词有 verdoso（偏绿的）、rojizo（偏红的）、grisáceo（灰白的），掌握此后缀可构成大量颜色描述词。"
+        },
+        {
+          "word": "convivir",
+          "translation": "共处，共同生活",
+          "note": "由前缀 con-（共同）+ vivir（生活）构成，固定搭配为 convivir con（与……共处），在社会和科技议题中高频出现，如 convivir con la tecnología（与技术共存）、convivir con la enfermedad（与疾病共存）。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "\"Entrenar un robot se parece mucho a enseñar a un niño pequeño o a una mascota\", explica Zhang Lifeng, uno de los instructores. \"Todo consiste en ensayo, error, demostración y repetición. No basta con decirle qué debe hacer. Tiene que intentarlo cientos de veces\". Leng Xiaokun, fundador de Leju Robotics, explica que usan distintos modelos nacionales de IA para hacer el papel del cerebro de estas máquinas. \"Los robots son el cuerpo que ejecuta las decisiones. Este proceso es lo que conocemos como <strong>inteligencia encarnada</strong>, que surge cuando ambos trabajan como un solo sistema\". Feng Lu, una de las profesoras, pasa seis horas diarias repitiendo exactamente los mismos movimientos delante de sus alumnos metálicos. \"Al principio el robot no tiene conciencia. Tengo que controlarlo manualmente. Después aprende con los datos y ya puede hacerlo solo\".",
+      "zh": "『训练一个机器人非常像教一个小孩或一只宠物，』教师之一张立峰解释道。『一切都在于尝试、犯错、示范和重复。光告诉它该做什么是不够的，它必须尝试数百次。』乐聚机器人创始人冷晓坤解释说，他们使用多种国产AI模型来充当这些机器的大脑。『机器人是执行决策的身体。这个过程就是我们所说的具身智能，当两者作为一个整体系统协同运作时便会产生。』教师冯璐每天花六个小时在她的金属学生面前重复完全相同的动作。『起初机器人没有意识，我必须手动控制它。之后它通过数据学习，就能独立完成了。』",
+      "vocab": [
+        {
+          "word": "inteligencia encarnada",
+          "translation": "具身智能",
+          "note": "encarnada 由前缀 en-（进入）+ carne（肉体）+ 形容词后缀 -ada 构成，字面意思为『寓于肉身的』，en- 是高产前缀，可构成 encarnar（化身为）、enfocar（聚焦）、enriquecer（丰富），掌握此前缀有助于理解大量词汇。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "En Shijingshan trabajan alrededor de 200 instructores humanos. Cada jornada generan millones de puntos de datos que posteriormente <strong>alimentan</strong> modelos de IA. Una vez entrenados, esos modelos regresan a los robots, que vuelven a practicar con nuevas capacidades. El resultado empieza a verse fuera del laboratorio con los alumnos que ya graduados. Varios robots entrenados aquí trabajan en las plantas del fabricante automovilístico FAW Hongqi, donde transportan cajas, clasifican piezas y realizan tareas repetitivas que antes <strong>recaían sobre</strong> operarios humanos. Según Leju Robotics, su productividad <strong>ronda</strong> ya el 70% de la de un trabajador experimentado, una cifra que todavía impide reemplazar a los técnicos especializados, pero más que suficiente para justificar su incorporación en determinados procesos industriales.",
+      "zh": "石景山约有200名人类教师工作。每天他们产生数百万个数据点，随后输入AI模型。这些模型训练完成后再回到机器人身上，机器人便以新的能力继续练习。成果已开始在实验室外的『毕业生』身上显现。数台在此训练的机器人已在一汽红旗的工厂车间工作，负责搬运箱子、分拣零件，以及执行以前由人工操作员承担的重复性任务。据乐聚机器人称，其生产效率已达到一名有经验工人的70%左右——这一数字尚不足以取代专业技术人员，但已足以证明其在特定工业流程中引入的合理性。",
+      "vocab": [
+        {
+          "word": "alimentan",
+          "translation": "输入，供给（数据或信息）",
+          "note": "alimentar 在科技和AI文体中引申为『向系统输入数据或内容』，固定搭配有 alimentar un modelo（输入模型）、alimentar una base de datos（填充数据库），这是该词在数字技术语境中的专用引申义。"
+        },
+        {
+          "word": "recaían sobre",
+          "translation": "落在……身上，由……承担",
+          "note": "recaer sobre alguien 是固定搭配，表示『责任、负担或任务由某人承担』，在新闻和法律文体中高频出现，如 la responsabilidad recae sobre el Estado（责任落在国家身上），不可随意替换为 caer sobre。"
+        },
+        {
+          "word": "ronda",
+          "translation": "大约是，在……左右",
+          "note": "rondar + 数字 表示『接近某一数值』，是新闻文体中替换 aproximadamente 的简洁固定搭配，如 rondar el millón（接近百万）、rondar los 40 años（年龄在40岁左右），语感更自然流畅。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "La fiebre por formar robots ya no se limita a este edificio de Shijingshan. Desde Pekín hasta Shanghai, pasando por Shenzhen, China está levantando una red nacional de las llamadas \"escuelas profesionales para androides\" con una velocidad que recuerda al <strong>despliegue</strong> de las fábricas de vehículos eléctricos hace apenas una década. El objetivo es el mismo: dominar antes que nadie una industria que el gigante asiático considera <strong>estratégica</strong> para las próximas décadas. La siguiente gran parada de esa red acaba de abrir en Zhangjiang, un nuevo barrio tecnológico de Shanghai. Allí se ha construido una instalación de más de 5.000 metros cuadrados donde conviven más de un centenar de robots desarrollados por una docena de fabricantes nacionales. Su gran novedad consiste en que intentará resolver uno de los principales <strong>quebraderos de cabeza</strong> de la industria: que robots fabricados por empresas distintas puedan aprender unos de otros.",
+      "zh": "培训机器人的热潮已不再局限于石景山的这栋大楼。从北京到上海，途经深圳，中国正以一种让人联想到十年前电动汽车工厂大规模铺开的速度，建立一张被称为『机器人职业学校』的全国网络。目标始终如一：抢在所有人之前主导这个亚洲巨人视为未来数十年战略性产业的领域。这张网络的下一个重要节点刚刚在上海张江——一个新兴科技园区——开放。那里建有一座逾5000平方米的设施，汇聚了由十余家国内制造商开发的逾百台机器人。其最大亮点在于，它将尝试解决业界的一大头疼难题：由不同企业制造的机器人能否相互学习。",
+      "vocab": [
+        {
+          "word": "despliegue",
+          "translation": "大规模展开，铺开部署",
+          "note": "由动词 desplegar（展开、部署）加名词后缀 -ue 构成，在军事、科技和产业政策报道中高频出现，固定搭配有 despliegue de tropas（军队部署）、despliegue tecnológico（技术铺开），强调大规模、有组织的推进。"
+        },
+        {
+          "word": "estratégica",
+          "translation": "战略性的，具有战略意义的",
+          "note": "在政治和经济新闻中，industria estratégica（战略性产业）、sector estratégico（战略性领域）是固定搭配，指国家将其列为优先发展、不可受制于人的关键领域，语气远比 importante 更强。"
+        },
+        {
+          "word": "quebraderos de cabeza",
+          "translation": "头疼的难题，令人头痛的问题",
+          "note": "固定惯用语，字面意思为『让脑袋碎裂的事』，实际指令人烦恼、难以解决的问题，在新闻口语化段落中高频出现，近义表达有 dolor de cabeza（头痛，同为惯用语），两者可互换。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "Hoy cada fabricante utiliza motores, articulaciones y arquitecturas diferentes. Los datos que genera un robot suelen ser <strong>inútiles</strong> para otro modelo. En la escuela de Shanghai se quiere romper con esa barrera creando una gigantesca <strong>plataforma compartida</strong> de entrenamiento. \"Nuestro objetivo es convertirnos en la infraestructura básica de toda la industria\", ha explicado Xu Bin, director del centro. \"Queremos que los datos puedan compartirse entre diferentes fabricantes y <strong>acelerar</strong> el desarrollo de todo el ecosistema\". Todos estos centros de entrenamiento son fundamentales en la estrategia del Gobierno de Xi Jinping para liderar la gran revolución robótica. Como ocurrió con los paneles solares, las baterías o los coches eléctricos, Pekín está desplegando una combinación de subsidios, planificación industrial, financiación pública y compras estatales para acelerar el nacimiento de un campeón nacional.",
+      "zh": "目前每家制造商使用不同的电机、关节和架构，一台机器人产生的数据对另一款型号通常毫无用处。上海这所学校希望通过创建一个巨型共享训练平台来打破这一壁垒。『我们的目标是成为整个行业的基础设施，』该中心主任徐斌解释道。『我们希望数据能够在不同制造商之间共享，加速整个生态系统的发展。』所有这些训练中心都是习近平政府引领机器人大革命战略的核心。正如太阳能板、电池和电动汽车领域所发生的那样，北京正在综合运用补贴、产业规划、公共融资和国家采购，加速培育一个国家冠军企业。",
+      "vocab": [
+        {
+          "word": "inútiles",
+          "translation": "无用的，没有价值的",
+          "note": "由前缀 in-（否定）+ útil（有用的）构成，in- 是最高产的否定前缀之一，可构成 incapaz（无能的）、innecesario（不必要的）、ineficaz（无效的），掌握此前缀可快速理解大量反义词。"
+        },
+        {
+          "word": "plataforma compartida",
+          "translation": "共享平台",
+          "note": "在科技和产业政策报道中，plataforma 指『供多方共同使用的技术或数据基础设施』，compartida 强调开放共享的属性，固定搭配还有 plataforma abierta（开放平台）、plataforma de datos（数据平台）。"
+        },
+        {
+          "word": "acelerar",
+          "translation": "加速，推进",
+          "note": "在科技和政策新闻中，acelerar el desarrollo / la innovación / el proceso 是极高频的固定搭配，注意其名词形式 aceleración 同样常见，如 aceleración tecnológica（技术加速）。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "El año pasado, los robots humanoides chinos representaron alrededor del 85% del mercado mundial, según un informe reciente de Barclays. De los más de 13.000 robots humanoides vendidos en 2025, AGIBOT y Unitree, dos de las principales empresas de robótica de China, enviaron cada una más de 5.000, muy por encima de sus principales <strong>rivales</strong> estadounidenses, Figure AI y Tesla. Un informe de Morgan Stanley <strong>prevé</strong> que las ventas de humanoides en China se dupliquen con creces este año, alcanzando alrededor de 28.000 unidades. Se estima que los envíos anuales de robots chinos avanzados podrían superar el millón de unidades para 2030.",
+      "zh": "据巴克莱银行最新报告，去年中国人形机器人占据了全球市场约85%的份额。在2025年售出的逾1.3万台人形机器人中，中国两大机器人企业宇树科技和智元机器人各自出货超过5000台，远超其美国主要竞争对手Figure AI和特斯拉。摩根士丹利的一份报告预测，今年中国人形机器人销量将大幅翻倍，达到约2.8万台。据估计，到2030年，中国先进机器人的年出货量可能突破百万台。",
+      "vocab": [
+        {
+          "word": "rivales",
+          "translation": "竞争对手，对手",
+          "note": "在商业和科技新闻中，rival 是替换 competidor 的高频词，固定搭配有 superar a sus rivales（超越竞争对手）、rivalizar con（与……竞争），其动词形式 rivalizar 同样常见于正式文体。"
+        },
+        {
+          "word": "prevé",
+          "translation": "预测，预计",
+          "note": "prever 在新闻文体中专用于引述机构或报告的预测，固定搭配为 prever que + 虚拟式／陈述式，注意与 predecir（预言，更强调个人判断）的区别：prever 更客观，常用于数据和报告引用场景。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "Algunos fabricantes de robots aseguran que el negocio ya ha dejado de ser una promesa para <strong>convertirse en</strong> una actividad rentable. Unitree afirmó haber <strong>facturado</strong> el año pasado 1.700 millones de yuanes (unos 220 millones de euros) y obtenido un beneficio superior a los 278 millones de yuanes (alrededor de 36 millones de euros). Pekín anunció hace unos meses un fondo de un billón de yuanes —unos 120.000 millones de euros— destinado durante dos décadas al desarrollo de las llamadas \"nuevas fuerzas productivas\", un concepto político que engloba IA, computación cuántica, biotecnología y robótica. Las administraciones locales recibieron además instrucciones para incorporar cuanto antes robots con IA a hospitales, almacenes logísticos, comercios, fábricas y centros sanitarios. El objetivo pasa por instalar este año más de 10.000 robots humanoides en <strong>escenarios</strong> comerciales reales.",
+      "zh": "一些机器人制造商表示，这门生意已不再只是一个承诺，而是已经成为一项盈利业务。宇树科技称去年营收达17亿元人民币（约2.2亿欧元），获利超过2.78亿元人民币（约3600万欧元）。北京数月前宣布设立一项规模达一万亿元人民币（约1200亿欧元）、为期二十年的基金，用于发展所谓的『新质生产力』——这一政治概念涵盖人工智能、量子计算、生物技术和机器人技术。地方政府还收到指示，要求尽快将AI机器人引入医院、物流仓库、商店、工厂和医疗中心。目标是今年在真实商业场景中安装逾1万台人形机器人。",
+      "vocab": [
+        {
+          "word": "convertirse en",
+          "translation": "成为，转变为",
+          "note": "convertirse en + 名词 是表示『转变为某种状态或身份』的核心固定结构，强调变化的结果，注意与 hacerse（多用于职业或社会身份）和 volverse（多用于性格或状态变化）的区别：convertirse en 适用范围最广。"
+        },
+        {
+          "word": "facturado",
+          "translation": "营收，开票收入",
+          "note": "facturar 在商业新闻中专指『实现营业收入』，固定搭配为 facturar + 金额，如 facturar mil millones（营收十亿），其名词形式 facturación 同样高频，注意区别于日常含义『开发票』。"
+        },
+        {
+          "word": "escenarios",
+          "translation": "场景，应用场合",
+          "note": "escenario 本义为『舞台』，在科技和政策文体中引申为『应用场景或情境』，固定搭配有 escenarios reales（真实场景）、escenarios comerciales（商业场合）、escenarios de riesgo（风险情境），是B2以上文体的高频词。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Según la Federación Internacional de Robótica, China instaló el año pasado más robots industriales que el resto del mundo junto y <strong>concentra</strong> ya cerca de dos millones de unidades operando en sus fábricas. Más de la mitad de los nuevos robots instalados ya son de fabricación nacional. Toda esta gran apuesta responde también a razones <strong>demográficas</strong>. China envejece a una velocidad inédita. La población en edad de trabajar alcanzó su máximo hace apenas unos años, rozando los 1.000 millones de personas. Según las proyecciones de Naciones Unidas, esa cifra podría reducirse hasta unos 300 millones antes de terminar el siglo.",
+      "zh": "据国际机器人联合会数据，中国去年安装的工业机器人数量超过世界其他所有国家的总和，目前在其工厂中运行的机器人已接近200万台。新安装机器人中超过一半已是国产。这一重大押注背后也有人口方面的原因。中国正以前所未有的速度老龄化。劳动年龄人口在几年前达到峰值，接近10亿人。根据联合国预测，这一数字在本世纪末前可能缩减至约3亿。",
+      "vocab": [
+        {
+          "word": "concentra",
+          "translation": "集中，汇聚（大量资源或数量）",
+          "note": "concentrar 在统计和经济新闻中表示『在某地或某主体上集中了大量某物』，固定搭配有 concentrar el poder（集中权力）、concentrar la producción（集中生产），比 tener 更强调集中性和规模感。"
+        },
+        {
+          "word": "demográficas",
+          "translation": "人口方面的，人口学的",
+          "note": "由希腊语词根 demo-（人民）+ -grafía（记录、描述）构成，demo- 是高产词根，可构成 democracia（民主）、demografía（人口学）、demografía（人口统计），掌握此词根有助于理解大量社会科学词汇。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "El futuro pasa por los humanoides. Pero aquí también entra en juego el dilema de lo que muchos en el país asiático llaman la \"gran sustitución\". Hace unas semanas, Liu Qiangdong, fundador del gigante del comercio electrónico JD.com, <strong>pronosticó</strong> que \"tarde o temprano\" los robots terminarán reemplazando a sus más de 700.000 repartidores. La gran revolución robótica que imagina Pekín apunta cada vez más hacia los hogares. Mientras los ingenieros enseñan a los humanoides a transportar mercancías o asistir a ancianos, otras empresas compiten por crear una nueva categoría: el robot inteligente de <strong>compañía</strong>.",
+      "zh": "未来寄托于人形机器人。但这里也出现了许多亚洲国家人士所称的『大替代』困境。几周前，电商巨头京东创始人刘强东预言，机器人『迟早』会取代其逾70万名快递员。北京所构想的机器人大革命正越来越多地指向家庭领域。在工程师们教人形机器人运送货物或照料老人的同时，其他企业也在竞相开创一个新品类：智能陪伴机器人。",
+      "vocab": [
+        {
+          "word": "pronosticó",
+          "translation": "预言，预测",
+          "note": "pronosticar 在新闻引语中用于引述个人对未来的判断性预测，比 prever 更强调说话人的主观判断，固定搭配有 pronosticar una crisis（预言危机）、pronosticar el resultado（预测结果），常见于体育、经济和政治报道。"
+        },
+        {
+          "word": "compañía",
+          "translation": "陪伴（此处指情感陪伴功能）",
+          "note": "compañía 本义为『公司』或『陪伴』，此处特指机器人提供的情感陪伴功能，固定搭配有 hacer compañía（陪伴某人）、robot de compañía（陪伴机器人），注意根据语境判断是『公司』还是『陪伴』含义。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "La firma china UBTech acaba de abrir la preventa del primer robot humanoide ultrabiónico de tamaño real diseñado para ofrecer compañía emocional. Bautizado como U1, el androide —disponible en versión masculina y femenina— incorpora IA afectiva, memoria <strong>encriptada</strong> y 88 articulaciones capaces de reproducir movimientos y gestos más naturales. \"Creo que dentro de diez o veinte años la próxima generación podría <strong>enamorarse</strong> de los robots humanoides\", <strong>aventuró</strong> Zhou Jian, director ejecutivo de UBTech. Aun así, matizó que su empresa no pretende fabricar \"robots sexuales\", sino compañeros capaces de conversar, ver una película con el usuario o simplemente hacerle compañía.",
+      "zh": "中国企业优必选刚刚开启首款真人大小超仿生人形机器人的预售，该机器人专为提供情感陪伴而设计。这款被命名为U1的机器人——提供男性和女性两个版本——搭载情感AI、加密记忆和88个关节，能够再现更自然的动作和姿态。『我认为在十到二十年内，下一代人可能会爱上人形机器人，』优必选首席执行官周剑大胆预言道。尽管如此，他补充说，公司并不打算制造『性爱机器人』，而是能够与用户交谈、一起看电影或只是陪伴左右的伙伴。",
+      "vocab": [
+        {
+          "word": "encriptada",
+          "translation": "加密的",
+          "note": "由前缀 en-（使进入某状态）+ criptada（加密的，源自希腊语 kryptos 隐藏）构成，en- 前缀在科技词汇中高产，如 enmascarar（掩盖）、encapsular（封装），掌握此前缀有助于理解大量技术词汇。"
+        },
+        {
+          "word": "enamorarse",
+          "translation": "爱上，坠入爱河",
+          "note": "反身动词，固定搭配为 enamorarse de + 人／物，此处用于描述人对机器人产生情感依恋，在新闻文体中出现于非传统语境时往往带有引人深思的效果，注意与 estar enamorado de（已处于恋爱状态）的区别：enamorarse 强调过程。"
+        },
+        {
+          "word": "aventuró",
+          "translation": "大胆预言，冒险提出（观点）",
+          "note": "aventurar 在新闻引语中表示『冒险提出某个大胆或不确定的判断』，固定搭配为 aventurar una hipótesis / una predicción，比 afirmar 更强调说话人意识到观点的争议性，是新闻文体中引语动词的高级替换词。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "En Shijingshan, mientras tanto, la siguiente clase ya ha comenzado. Una profesora vuelve a colocarse los sensores en los brazos. Frente a ella, un robot permanece inmóvil esperando instrucciones. Dentro de unos minutos intentará recoger otra caja, abrir otro cajón o transportar otra pieza metálica. Volverá a <strong>equivocarse</strong> decenas de veces. Y cada uno de esos errores viajará inmediatamente a una gigantesca base de datos donde millones de pequeños fallos se convertirán, poco a poco, en inteligencia. Porque la imagen que <strong>resume</strong> la nueva carrera tecnológica de China no es la de un robot bailando sobre un escenario ni corriendo una maratón para impresionar al mundo y hacerse viral, sino la de cientos de máquinas aprendiendo <strong>pacientemente</strong> los gestos más cotidianos de la vida humana.",
+      "zh": "与此同时，在石景山，下一堂课已经开始。一位女教师再次将传感器戴上手臂。她面前，一台机器人静止不动地等待指令。几分钟后，它将尝试拿起另一个箱子、打开另一个抽屉或搬运另一块金属零件。它还会犯下数十次错误。而每一个错误都将立即传入一个庞大的数据库，数百万个微小的失误将在那里慢慢转化为智能。因为概括中国新一轮科技竞赛的画面，并非一台机器人在舞台上翩翩起舞，也非为了震惊世界、刷爆网络而奔跑马拉松，而是数百台机器人耐心地学习人类日常生活中最平凡的动作。",
+      "vocab": [
+        {
+          "word": "equivocarse",
+          "translation": "犯错，出错",
+          "note": "反身动词，固定搭配为 equivocarse de + 名词（如 equivocarse de camino 走错路）或直接使用，在此处强调机器人反复试错的过程，注意与 cometer un error（犯一个错误，强调单次行为）的区别：equivocarse 更口语化，强调状态。"
+        },
+        {
+          "word": "resume",
+          "translation": "概括，总结，代表",
+          "note": "resumir 在新闻文体中除『总结』外，还常用于表示『某一形象或事物最能代表某种本质』，固定搭配有 resumir en una frase（用一句话概括）、una imagen que resume（一幅概括……的画面），是B2以上写作的高频动词。"
+        },
+        {
+          "word": "pacientemente",
+          "translation": "耐心地",
+          "note": "由形容词 paciente 加副词后缀 -mente 构成，-mente 是西语副词的唯一构成方式，几乎所有形容词均可如此转化，如 lentamente（缓慢地）、constantemente（不断地），掌握此规律可快速构建大量副词。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "quebraderos de cabeza",
+      "type": "modismo",
+      "translation": "令人头疼的难题",
+      "usage": "固定惯用语，字面意思为『让脑袋碎裂的事』，实际指令人烦恼、难以解决的问题，在新闻口语化段落中高频出现，可作主语或宾语，如 suponer un quebradero de cabeza（构成一大难题）。",
+      "exampleEs": "La coordinación entre distintos departamentos es uno de los mayores quebraderos de cabeza para los directivos.",
+      "exampleZh": "协调各部门之间的关系，是管理者最头疼的难题之一。"
+    },
+    {
+      "expression": "entrar en juego",
+      "type": "modismo",
+      "translation": "发挥作用，进入局面，登场",
+      "usage": "固定惯用语，字面意思为『进入游戏』，实际指『某因素开始发挥作用或介入某局面』，在新闻和分析性文章中极为常见，结构为 entrar en juego + 主语 或 aquí entra en juego...（这里……开始发挥作用）。",
+      "exampleEs": "Cuando los precios suben, entran en juego factores políticos que van más allá de la economía.",
+      "exampleZh": "当价格上涨时，一些超越经济范畴的政治因素便开始发挥作用。"
+    },
+    {
+      "expression": "tarde o temprano",
+      "type": "modismo",
+      "translation": "迟早，早晚",
+      "usage": "固定惯用语，表示『某事必然会在某个时间点发生，无论早晚』，语体中性，口语和书面语均可使用，在新闻引语中常用于表达说话人对某趋势的确信，位置灵活，可置于句首或句中。",
+      "exampleEs": "Tarde o temprano, las empresas que no se adapten a la digitalización quedarán fuera del mercado.",
+      "exampleZh": "那些无法适应数字化转型的企业，迟早会被市场淘汰。"
+    },
+    {
+      "expression": "recaer sobre",
+      "type": "colocación",
+      "translation": "落在……身上，由……承担",
+      "usage": "固定搭配，表示『责任、负担或任务由某人或某方承担』，结构为 recaer sobre + 人／机构，在新闻、法律和社会议题文章中高频出现，不可随意替换为 caer sobre，两者语义有细微差别。",
+      "exampleEs": "La mayor parte de las tareas domésticas sigue recayendo sobre las mujeres en muchos hogares.",
+      "exampleZh": "在许多家庭中，大部分家务劳动仍然落在女性身上。"
+    },
+    {
+      "expression": "hacerse viral",
+      "type": "expresión coloquial",
+      "translation": "在网上爆红，迅速传播",
+      "usage": "源自英语 go viral 的借用表达，在数字媒体和科技报道中极为常见，固定结构为 hacerse viral（变得病毒式传播），也可说 volverse viral，指内容在社交网络上迅速大范围扩散。",
+      "exampleEs": "El vídeo del robot bailando se hizo viral en pocas horas y acumuló millones de visualizaciones.",
+      "exampleZh": "那段机器人跳舞的视频在几小时内爆红，积累了数百万次播放量。"
+    }
+  ]
+}
+
