@@ -1,0 +1,303 @@
+{
+  "date": "西语外刊阅读",
+  "brand": "公众号【西语SuperO】",
+  "category": "社会与健康",
+  "difficulty": "B2",
+  "wordCount": "约1200词",
+  "title": "Cómo Italia, un país famoso por la saludable dieta mediterránea, acabó teniendo tantos niños obesos",
+  "subtitle": "以地中海饮食闻名的意大利，为何成了儿童肥胖大国",
+  "resumenEs": "Italia, cuna de la dieta mediterránea, enfrenta hoy una paradoja: sus niños figuran entre los más obesos de Europa, especialmente en el sur empobrecido. El abandono de los hábitos alimentarios tradicionales, la proliferación de ultraprocesados y la falta de conciencia familiar explican el problema. Ante ello, Italia aprobó en 2025 una ley que reconoce la obesidad como enfermedad crónica, y la región de Campania ensaya intervenciones ambiciosas, aunque no exentas de controversia.",
+  "resumenZh": "作为地中海饮食的发源地，意大利如今面临一个悖论：其儿童肥胖率位居欧洲前列，尤其集中在贫困的南部地区。传统饮食习惯的丧失、超加工食品的泛滥以及家庭健康意识的缺失共同造成了这一问题。对此，意大利于2025年通过一项将肥胖认定为慢性病的法律，坎帕尼亚大区也在试行雄心勃勃但颇具争议的干预措施。",
+  "paragraphs": [
+    {
+      "id": 1,
+      "es": "La vida cotidiana no es fácil para Salvatore. A sus 17 años, pesa 170 kilos y tiene dificultades para caminar. Por ejemplo, no puede hacer cosas tan sencillas como atarse los cordones. Salvatore forma parte de un número <strong>creciente</strong> de niños y adolescentes italianos que <strong>padecen</strong> obesidad. El problema es especialmente grave en el sur: en algunas zonas de la región de Campania, más del 40% de los niños de 8 y 9 años tienen sobrepeso. La localidad de Ponticelli, en las afueras de Nápoles, se ha ganado la poco <strong>envidiable</strong> reputación de ser una de las capitales mundiales de la obesidad infantil.",
+      "zh": "萨尔瓦托雷的日常生活并不轻松。17岁的他体重达170公斤，走路都很困难。例如，他连系鞋带这样简单的事情都做不到。萨尔瓦托雷是意大利日益增多的肥胖儿童和青少年群体中的一员。这一问题在南部地区尤为严重：在坎帕尼亚大区的部分地区，超过40%的8至9岁儿童存在超重问题。那不勒斯郊外的蓬蒂切利镇已赢得了一个不那么光彩的名声——全球儿童肥胖率最高的地区之一。",
+      "vocab": [
+        {
+          "word": "creciente",
+          "translation": "不断增长的，日益增多的",
+          "note": "由动词 crecer 的现在分词转化而来的形容词，在新闻文体中极为常见，固定搭配有 un número creciente de（越来越多的）、una preocupación creciente（日益增长的担忧），注意它修饰名词时放在名词前后均可。"
+        },
+        {
+          "word": "padecen",
+          "translation": "患有，遭受（疾病或痛苦）",
+          "note": "padecer 在医疗和新闻文体中专用于描述长期承受疾病或痛苦，固定搭配为 padecer + 疾病名词，比 tener 更正式，强调持续性的病痛状态。"
+        },
+        {
+          "word": "envidiable",
+          "translation": "令人羡慕的（此处为反讽：不光彩的）",
+          "note": "由 envidia（嫉妒）加形容词后缀 -able 构成，本义为褒义，但与 poco 搭配后构成反讽，poco envidiable 是新闻文体中的固定反讽表达，意为『不值得羡慕的、不光彩的』。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "es": "Precisamente el sur de Italia es una de las zonas con mayores dificultades económicas de la región y <strong>destaca por</strong> tener los índices de personas y familias en riesgo de pobreza más altos de Europa continental. Por ejemplo, en Campania es del 35,5%, en Sicilia del 35,3% y en Calabria del 37,2%, según datos de Eurostat, la oficina de estadística de la Unión Europea. Italia fue durante mucho tiempo considerada la <strong>cuna</strong> espiritual de la dieta mediterránea. Sin embargo, hoy en día, los niños italianos se encuentran entre los que presentan mayores <strong>índices</strong> de sobrepeso de Europa, según la Organización Mundial de la Salud (OMS).",
+      "zh": "意大利南部恰恰是该地区经济困难最为突出的地区之一，以拥有欧洲大陆最高的贫困人口和家庭风险比例而著称。例如，根据欧盟统计局的数据，坎帕尼亚大区的贫困风险率为35.5%，西西里岛为35.3%，卡拉布里亚为37.2%。长期以来，意大利被视为地中海饮食的精神发源地。然而，如今根据世界卫生组织的数据，意大利儿童的超重率位居欧洲前列。",
+      "vocab": [
+        {
+          "word": "destaca por",
+          "translation": "以……著称，因……而突出",
+          "note": "destacar por + 名词／动词原形 是固定搭配，表示『因某特点而显得突出』，在新闻文体中极为常见，注意与 destacar en（在某领域表现出色）的区别：por 引出特征，en 引出领域。"
+        },
+        {
+          "word": "cuna",
+          "translation": "摇篮，发源地",
+          "note": "本义为婴儿摇篮，在新闻和文化文体中常用作隐喻，表示某事物的起源地，固定搭配有 cuna de la civilización（文明摇篮）、cuna del flamenco（弗拉门戈的发源地），是B2以上文化类文章的高频词。"
+        },
+        {
+          "word": "índices",
+          "translation": "指数，比率，数据",
+          "note": "índice 在新闻和统计文体中专指『量化指标或比率』，固定搭配有 índice de obesidad（肥胖率）、índice de pobreza（贫困率）、índice de natalidad（出生率），注意复数形式为 índices。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "es": "Salvatore aguarda una cirugía que cambiará su vida en el Hospital Betania de Ponticelli, donde la doctora Sonja Chiappetta lleva 15 años tratando a pacientes con obesidad grave. Hasta hace poco, comenta, la mayoría de sus pacientes <strong>rondaba</strong> los 50 años. \"Ahora veo a pacientes adolescentes, algunos de tan solo 16 años. Cada vez son más jóvenes, y eso resulta alarmante\". La intervención que ella realiza consiste en <strong>extirpar</strong> hasta el 90% del estómago, lo que impide a los pacientes ingerir grandes cantidades de comida. La demanda de este procedimiento ha aumentado considerablemente en esta zona de Italia. Sin embargo, a Salvatore le han comunicado que no puede someterse a la operación. Su peso es tan excesivo que la cirugía <strong>entraña</strong> demasiados riesgos.",
+      "zh": "萨尔瓦托雷正在蓬蒂切利的贝塔尼亚医院等待一场将改变他人生的手术。索尼娅·基亚佩塔医生在那里已治疗重度肥胖患者15年。她说，直到不久前，她的大多数患者年龄都在50岁左右。『现在我接诊青少年患者，有些才16岁。他们越来越年轻，这令人担忧。』她所实施的手术是切除最多90%的胃，从而阻止患者摄入大量食物。这一手术在意大利该地区的需求已大幅增加。然而，院方告知萨尔瓦托雷，他无法接受手术。他的体重过于超标，手术风险太大。",
+      "vocab": [
+        {
+          "word": "rondaba",
+          "translation": "大约是，在……左右",
+          "note": "rondar + 数字 是新闻文体中表示『大约、接近某数值』的固定搭配，如 rondar los 50 años（年龄在50岁左右）、rondar el millón（接近百万），比 aproximadamente 更简洁自然。"
+        },
+        {
+          "word": "extirpar",
+          "translation": "切除，摘除（器官或组织）",
+          "note": "医疗文体中的专业动词，但因其构词规律（ex- 表示『向外、去除』）具有迁移价值，同前缀词有 expulsar（驱逐）、exportar（出口）、excluir（排除），掌握 ex- 前缀可举一反三。"
+        },
+        {
+          "word": "entraña",
+          "translation": "蕴含，带有（风险或困难）",
+          "note": "entrañar 在正式和新闻文体中专用于表示『内含某种风险或复杂性』，固定搭配为 entrañar riesgos / dificultades / peligros，比 tener 或 implicar 更正式，语气更强调内在的、不可分割的关联。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "es": "En su lugar, la doctora Chiappetta le ha recetado una inyección de GLP-1 para reducir su apetito y ayudarle a perder el peso necesario para poder operarse. Durante décadas, Italia fue considerada un modelo de alimentación saludable. La dieta mediterránea —rica en verduras, legumbres, aceite de oliva, cereales integrales y pescado— se hizo famosa después de que el fisiólogo estadounidense Ancel Keys y su esposa, la bioquímica Margaret Keys, estudiaran comunidades del sur de Italia en la década de 1950 y <strong>vincularan</strong> sus hábitos con tasas notablemente bajas de enfermedades cardíacas. Su investigación transformó un estilo de alimentación regional en una de las dietas más conocidas del mundo: un <strong>referente</strong> de vida saludable. Sin embargo, la Italia que inspiró aquellos estudios ya no existe.",
+      "zh": "为此，基亚佩塔医生为他开具了一种GLP-1注射剂，以抑制食欲，帮助他减轻到足以接受手术的体重。数十年来，意大利一直被视为健康饮食的典范。地中海饮食——富含蔬菜、豆类、橄榄油、全谷物和鱼类——在20世纪50年代美国生理学家安塞尔·基斯及其妻子、生化学家玛格丽特·基斯对意大利南部社区进行研究，并将当地饮食习惯与极低的心脏病发病率相关联之后声名大噪。他们的研究将一种地区性饮食方式转变为世界上最知名的饮食之一：健康生活的标杆。然而，当年启发这些研究的那个意大利已不复存在。",
+      "vocab": [
+        {
+          "word": "vincularan",
+          "translation": "将……与……联系起来，关联",
+          "note": "vincular algo con algo 是学术和新闻文体中的固定搭配，表示『建立两者之间的关联』，此处为虚拟式过去时，用于从句中表示过去的事实，固定搭配还有 estar vinculado a（与……相关联）。"
+        },
+        {
+          "word": "referente",
+          "translation": "标杆，参照，典范",
+          "note": "在新闻和学术文体中，referente 指『被广泛认可的参照标准或典范』，固定搭配有 ser un referente de（成为……的标杆）、tomar como referente（以……为参照），比 modelo 更强调其被广泛引用的地位。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "es": "\"La dieta mediterránea tradicional se ha perdido\", afirma el doctor Valter Longo, director del Instituto de Longevidad de la Universidad del Sur de California. \"Solo el 10% de los italianos la sigue realmente\". Longo resume la dieta italiana moderna con lo que él <strong>denomina</strong> las \"cinco P\": pizza, pasta, papas, proteínas y pan. La transformación es visible en todas partes: desde los estantes de los supermercados <strong>repletos</strong> de alimentos ultraprocesados hasta las pizzerías que venden porciones cargadas de patatas fritas, salchichas y aperitivos fritos.",
+      "zh": "『传统的地中海饮食已经消失了，』南加州大学长寿研究所所长瓦尔特·隆戈博士表示。『只有10%的意大利人真正在坚持。』隆戈用他所称的『五个P』来概括现代意大利饮食：披萨（pizza）、意面（pasta）、土豆（papas）、蛋白质（proteínas）和面包（pan）。这种转变随处可见：从超市货架上摆满的超加工食品，到披萨店出售的堆满薯条、香肠和油炸小食的披萨。",
+      "vocab": [
+        {
+          "word": "denomina",
+          "translation": "称为，命名为",
+          "note": "denominar 在学术和新闻文体中用于引入专有概念或术语，固定结构为 lo que se denomina...（所谓的……）或 lo que él denomina...（他所称的……），比 llamar 更正式，常见于学术引用场景。"
+        },
+        {
+          "word": "repletos",
+          "translation": "装满的，充斥着的",
+          "note": "固定搭配为 repleto de + 名词，表示『充满、塞满某物』，语气比 lleno de 更强，带有『过度充斥』的含义，在新闻文体中常用于描述负面的过量状态，如 repleto de errores（错误百出）。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "es": "El doctor Roberto Berni Canani, pediatra y especialista en obesidad de la Universidad Federico II de Nápoles, observa las consecuencias a diario. \"He atendido a niños de apenas 2 o 3 años que ya pesan 25 kilos\", afirma. Señala Berni Canani que la mayoría de los padres no <strong>perciben</strong> que sus hijos tengan sobrepeso. \"Acuden a la consulta por otros problemas: tos, dolor de estómago o diarrea. No se dan cuenta de que la causa es el peso del niño\". Francesca, de 10 años, tiene una tos persistente y dificultades para tragar. Los médicos sospechan que padece una <strong>afección</strong> inflamatoria del esófago. Pesa 60 kilos —para su edad, la OMS estima un peso de entre 31 y 35 kilos—, pero ese no es el motivo por el que sus padres han buscado ayuda médica.",
+      "zh": "那不勒斯费德里科二世大学儿科医生兼肥胖症专家罗伯托·贝尔尼·卡纳尼博士每天都在目睹这些后果。『我接诊过才两三岁、体重已达25公斤的孩子，』他说。贝尔尼·卡纳尼指出，大多数父母并没有意识到自己的孩子超重。『他们来就诊是因为其他问题：咳嗽、胃痛或腹泻。他们没有意识到根本原因是孩子的体重。』10岁的弗朗切斯卡持续咳嗽，吞咽困难。医生怀疑她患有食道炎症性疾病。她体重60公斤——世卫组织估计该年龄段的正常体重在31至35公斤之间——但这并不是她父母寻求医疗帮助的原因。",
+      "vocab": [
+        {
+          "word": "perciben",
+          "translation": "察觉，意识到，感知",
+          "note": "percibir 在心理和医疗文体中指『感知或察觉某种状态』，固定搭配有 percibir un cambio（察觉变化）、percibir señales（感知信号），比 darse cuenta de 更正式，且不需要加 de。"
+        },
+        {
+          "word": "afección",
+          "translation": "疾病，病症",
+          "note": "医疗新闻文体中用于替换 enfermedad 的正式词汇，语体更专业，常见搭配有 afección crónica（慢性病症）、afección respiratoria（呼吸道疾病），由动词 afectar 派生而来。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "es": "La niña cuenta que desayuna pan con Nutella, toma un bizcocho relleno de chocolate como <strong>tentempié</strong>, come pasta con lentejas y suele cenar pollo. \"Pero no come verduras. Se las pongo delante, pero no las prueba\", interviene su madre, Carmen. Sus padres cuentan que es una niña activa: practica gimnasia artística y bailes latinos, y no se cansa. Nunca han considerado que su peso sea un problema. El doctor Berni Canani tiene otro razonamiento. El problema, explica, <strong>radica en</strong> el patrón general más que en una comida concreta: el consumo a lo largo del día de alimentos pequeños pero muy calóricos y de bebidas azucaradas, la ingesta insuficiente de frutas y verduras, y la falta de conciencia sobre cómo estos hábitos se <strong>acumulan</strong> con el tiempo.",
+      "zh": "这个女孩说，她早餐吃涂了能多益榛子酱的面包，课间吃一块夹心巧克力蛋糕，午餐吃扁豆意面，晚餐通常吃鸡肉。『但她不吃蔬菜。我把蔬菜放在她面前，她就是不碰，』她的母亲卡门插话道。父母说她是个活跃的孩子：练习艺术体操和拉丁舞，而且不知疲倦。他们从未认为她的体重是个问题。贝尔尼·卡纳尼博士有另一番分析。他解释说，问题的根源在于整体饮食模式，而非某一顿饭：全天摄入的食物量虽少但热量极高，加上含糖饮料，以及水果和蔬菜摄入不足，还有对这些习惯如何随时间累积缺乏认识。",
+      "vocab": [
+        {
+          "word": "tentempié",
+          "translation": "零食，课间点心，小吃",
+          "note": "日常口语词，专指正餐之间的小食，在饮食和健康类文章中高频出现，近义词为 snack（外来词）或 merienda（下午茶点），但 tentempié 更强调随时补充能量的轻食。"
+        },
+        {
+          "word": "radica en",
+          "translation": "根源在于，关键在于",
+          "note": "radicar en 是新闻和学术文体中的高频固定搭配，表示『问题或原因的根本所在』，固定结构为 el problema / la clave / la solución radica en...，比 estar en 更正式，强调根本性。"
+        },
+        {
+          "word": "acumulan",
+          "translation": "积累，累积",
+          "note": "acumularse 作反身动词时强调『逐渐堆积』的过程，固定搭配有 acumularse con el tiempo（随时间积累）、acumular deudas（积累债务）、acumular experiencia（积累经验），前缀 a- 此处表示强化动作。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "es": "\"Son una madre y un padre excelentes. Pero no perciben la importancia de la calidad de la dieta y del peso corporal\", sostiene. Para cuando muchas familias acuden a su consulta, los hábitos poco saludables ya están profundamente <strong>arraigados</strong>; comienzan en casa y se ven reforzados en la escuela. Además, en Italia, fomentar que los niños sean más activos puede resultar sorprendentemente difícil. Muchas escuelas se ubican en hermosos palacios antiguos que nunca fueron diseñados pensando en la educación física moderna. La escuela primaria Ugo Foscolo no es una excepción. Su gimnasio apenas tiene espacio suficiente para que una clase de niños pueda moverse.",
+      "zh": "『他们是非常好的父母。但他们没有意识到饮食质量和体重的重要性，』他说。当许多家庭前来就诊时，不健康的习惯往往已经根深蒂固；这些习惯从家里开始，在学校得到进一步强化。此外，在意大利，鼓励孩子多运动可能出乎意料地困难。许多学校坐落在美丽的古老宫殿中，这些建筑在设计之初根本没有考虑到现代体育教育的需求。乌戈·福斯科洛小学也不例外。它的体育馆几乎没有足够的空间让一个班的孩子活动。",
+      "vocab": [
+        {
+          "word": "arraigados",
+          "translation": "根深蒂固的，深植的",
+          "note": "由动词 arraigar（生根）的过去分词转化而来，固定搭配为 estar profundamente arraigado（根深蒂固）、arraigarse en la cultura（在文化中扎根），前缀 a- 加词根 raíz（根）构成，构词逻辑清晰。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "es": "\"Hay un alumno que me preocupa especialmente\", comenta Francesca Pecce, docente del centro. \"Tiene 10 años y pesa alrededor de 60 kilos\". Ha intentado abordar el asunto con la madre del niño. \"Pero ella no está preocupada. En la cultura napolitana, si un niño está un poco gordito y tiene las mejillas sonrosadas, la gente suele pensar que está sano\", dice Pecce. En su opinión, las escuelas pueden ayudar a cambiar esta percepción, sobre todo si los niños llevan a casa lo aprendido sobre alimentación saludable. \"A veces resulta más fácil <strong>educar a los padres a través de sus hijos</strong> que a la inversa\".",
+      "zh": "『有一个学生让我特别担心，』该校教师弗朗切斯卡·佩切说。『他10岁，体重大约60公斤。』她曾试图就此事与孩子的母亲沟通。『但她并不担心。在那不勒斯文化中，如果一个孩子有点胖乎乎的、脸颊红润，人们通常认为这是健康的表现，』佩切说。她认为，学校可以帮助改变这种观念，尤其是当孩子们把在学校学到的健康饮食知识带回家时。『有时候，通过孩子来教育父母，比反过来更容易。』",
+      "vocab": [
+        {
+          "word": "educar a los padres a través de sus hijos",
+          "translation": "通过孩子来教育父母",
+          "note": "a través de 是固定介词短语，表示『通过某媒介或途径』，不可替换为 por medio de 以外的其他表达，在新闻和教育文体中极为常见，如 a través de la educación（通过教育）、a través de los medios（通过媒体）。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "es": "En una escuela secundaria de Nápoles, los alumnos entran en fila en el aula para asistir a un taller de nutrición impartido por la Fundación Valter Longo. El programa forma parte de una <strong>iniciativa</strong> regional para combatir la obesidad infantil. En los próximos meses, participarán más de 17.000 alumnos de 25 escuelas. Las familias recibirán apoyo para modificar sus hábitos alimentarios en casa. Sin embargo, no todos los alumnos están convencidos. Ciro, de 18 años, duda de que la información por sí sola cambie los hábitos. \"Mis compañeros ya saben qué es saludable. Pero no les importa\", dice. Carmen, de 19 años, se muestra más optimista. \"(El taller) me pareció realmente útil, porque a los adolescentes de hoy les encanta la comida basura y no hacen tanto ejercicio\".",
+      "zh": "在那不勒斯一所中学，学生们排队走进教室，参加由瓦尔特·隆戈基金会举办的营养研讨课。该项目是一项旨在对抗儿童肥胖的地区性举措的组成部分。未来几个月内，将有来自25所学校的逾1.7万名学生参与其中。各家庭也将获得支持，以改变家中的饮食习惯。然而，并非所有学生都信服。18岁的西罗怀疑仅凭信息本身能否改变习惯。『我的同学已经知道什么是健康的了，但他们不在乎，』他说。19岁的卡门则更为乐观。『（这个研讨课）我觉得真的很有用，因为现在的青少年都爱吃垃圾食品，也不怎么运动。』",
+      "vocab": [
+        {
+          "word": "iniciativa",
+          "translation": "举措，倡议，行动方案",
+          "note": "在新闻和政策文体中，iniciativa 指『有组织、有目的的行动方案或倡议』，固定搭配有 lanzar una iniciativa（发起倡议）、iniciativa legislativa（立法动议）、por iniciativa propia（出于自身主动），比 medida 更强调首创性。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "es": "Señala que el problema radica en que la tentación está en todas partes. Incluso los alimentos tradicionalmente asociados a Italia han cambiado. \"Cuando salimos a comer pizza, la gente no pide simplemente una Margarita; le añaden patatas fritas, salchichas y otros fritos por encima\". Si a esto le sumamos los tópicos de siempre sobre las madres y abuelas italianas que demuestran su amor a través de la comida, tenemos la <strong>tormenta perfecta</strong>. La obesidad es una \"epidemia mundial en aumento\", según la OMS. Más de mil millones de personas en todo el mundo padecen obesidad, y la obesidad infantil se ha <strong>cuadruplicado</strong> desde 1990.",
+      "zh": "她指出，问题在于诱惑无处不在。即便是传统上与意大利相关联的食物也已发生了变化。『我们出去吃披萨时，人们不再只点一份玛格丽特披萨；他们会在上面加薯条、香肠和其他油炸食物。』再加上意大利母亲和祖母们用食物表达爱意这一老生常谈的文化习俗，一场完美风暴就此形成。根据世卫组织的数据，肥胖是一场『持续加剧的全球流行病』。全球超过十亿人患有肥胖症，自1990年以来，儿童肥胖率已增长至原来的四倍。",
+      "vocab": [
+        {
+          "word": "tormenta perfecta",
+          "translation": "完美风暴（多重不利因素同时叠加的局面）",
+          "note": "源自英语 perfect storm 的借用表达，在新闻文体中用于描述『多种负面因素同时汇聚、相互叠加』的局面，字面意思与实际意思有偏差，是典型的隐喻性固定表达。"
+        },
+        {
+          "word": "cuadruplicado",
+          "translation": "增至四倍",
+          "note": "由前缀 cuádru-（四）加动词 -plicar（折叠、倍增）构成，同类词有 duplicar（翻倍）、triplicar（增至三倍）、quintuplicar（增至五倍），掌握此构词规律可快速理解一系列倍数词汇。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "es": "En 2025, Italia se convirtió en el primer país en aprobar una ley nacional que reconoce la obesidad como una enfermedad crónica, progresiva y <strong>recurrente</strong>. En lugar de tratar la obesidad simplemente como el resultado de malas decisiones, la nueva ley del país la reconoce como una enfermedad crónica influida por la biología, el entorno y las circunstancias sociales. La región de Campania se ha convertido en un <strong>campo de pruebas</strong> para llevar esta filosofía a la práctica, implementando una serie de intervenciones ambiciosas, incluido un controvertido ensayo de una \"dieta que imita el ayuno\".",
+      "zh": "2025年，意大利成为全球首个通过国家法律将肥胖认定为慢性、进行性和复发性疾病的国家。这项新法律不再将肥胖简单地视为错误决定的结果，而是将其认定为一种受生物因素、环境和社会条件共同影响的慢性病。坎帕尼亚大区已成为将这一理念付诸实践的试验场，正在推行一系列雄心勃勃的干预措施，其中包括一项颇具争议的『模拟禁食饮食』试验。",
+      "vocab": [
+        {
+          "word": "recurrente",
+          "translation": "反复发作的，复发性的",
+          "note": "由前缀 re-（再次）+ currente（流动、发生）构成，在医疗和新闻文体中固定搭配有 enfermedad recurrente（复发性疾病）、problema recurrente（反复出现的问题）、tema recurrente（反复出现的主题）。"
+        },
+        {
+          "word": "campo de pruebas",
+          "translation": "试验场，测试基地",
+          "note": "固定搭配，字面意思为『测试场地』，在新闻文体中常用作隐喻，表示『某政策或理念的实验性推行地』，类似表达有 laboratorio（实验室，同样可用作隐喻），两者可互换但 campo de pruebas 更强调实地测试。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "es": "Los investigadores están reclutando a 300 adolescentes con sobrepeso que seguirán, durante cinco días cada tres meses, una dieta controlada de 1.100 calorías el primer día y 770 calorías los cuatro días siguientes; un régimen tan restrictivo que se <strong>asemeja</strong> a un ayuno. El objetivo es provocar un \"reinicio metabólico\". \"El ayuno, o la privación controlada de alimentos, está relacionado con una vida más larga y saludable\", apunta el doctor Longo, que lleva tres décadas estudiando los efectos del ayuno. Sin embargo, no todos los especialistas en obesidad están convencidos de que el ayuno sea el enfoque adecuado para los niños. El pediatra Berni Canani considera que la evidencia sobre las dietas que imitan el ayuno en niños es aún demasiado <strong>limitada</strong> como para recomendarlas en las guías clínicas de Italia. También le preocupa que las dietas restrictivas puedan <strong>conllevar</strong> riesgos psicológicos para los adolescentes, cuya relación con la comida aún está en fase de desarrollo.",
+      "zh": "研究人员正在招募300名超重青少年，他们每三个月将连续五天遵循一套控制饮食方案：第一天摄入1100卡路里，随后四天摄入770卡路里——这是一种严格到近似禁食的饮食方案。目标是触发一次『代谢重启』。『禁食，或对食物的有控制的剥夺，与更长寿、更健康的生活相关，』已研究禁食效果长达三十年的隆戈博士指出。然而，并非所有肥胖症专家都认为禁食是适合儿童的方法。儿科医生贝尔尼·卡纳尼认为，关于儿童模拟禁食饮食的证据目前仍过于有限，不足以将其纳入意大利临床指南。他还担心限制性饮食可能给青少年带来心理风险，因为他们与食物的关系仍处于发展阶段。",
+      "vocab": [
+        {
+          "word": "asemeja",
+          "translation": "类似于，近似于",
+          "note": "asemejarse a 是固定搭配，表示『在外观或性质上与某物相似』，比 parecerse a 更正式，常用于学术和新闻文体中进行类比描述，如 asemejarse a un experimento（类似于一项实验）。"
+        },
+        {
+          "word": "limitada",
+          "translation": "有限的，不充分的",
+          "note": "在学术和医疗文体中，evidencia limitada（证据有限）是固定搭配，注意句型 demasiado + 形容词 + como para + 动词原形，表示『太……以至于不能……』，是B2以上的重要语法结构。"
+        },
+        {
+          "word": "conllevar",
+          "translation": "带来，伴随（风险或后果）",
+          "note": "由前缀 con-（共同、伴随）+ llevar（携带）构成，专用于表示『某事物本身附带或引发某种后果』，固定搭配为 conllevar riesgos / consecuencias / dificultades，比 acarrear 更中性，不限于负面语境。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "es": "\"Temo que imponer restricciones alimentarias a los adolescentes pueda aumentar el riesgo de trastornos alimentarios, anorexia y <strong>dismorfia</strong> corporal\", afirma. Mientras tanto, Salvatore espera someterse a una cirugía en verano para poder usar bañador, por primera vez en años, sin sentirse <strong>cohibido</strong>. Pero no es el único. En toda Italia, una generación de niños crece cada vez más alejada de la dieta mediterránea que en su día dio fama al país.",
+      "zh": "『我担心对青少年强加饮食限制可能会增加饮食失调、厌食症和身体畸形恐惧症的风险，』他说。与此同时，萨尔瓦托雷期待在夏天接受手术，这样他就能多年来第一次穿着泳衣，而不感到局促不安。但他并不是个例。在整个意大利，一代孩子正在成长，与那个曾经让这个国家享誉世界的地中海饮食渐行渐远。",
+      "vocab": [
+        {
+          "word": "dismorfia",
+          "translation": "身体畸形恐惧（对自身外貌的扭曲认知）",
+          "note": "由希腊语前缀 dis-（异常、障碍）+ morphe（形态）构成，dis- 是高产前缀，可构成 disfunción（功能障碍）、discapacidad（残障）、disonancia（不协调），掌握此前缀有助于理解大量医学和心理学词汇。"
+        },
+        {
+          "word": "cohibido",
+          "translation": "局促不安的，拘谨的，不自在的",
+          "note": "由动词 cohibir（抑制、使拘束）的过去分词转化而来，固定搭配为 sentirse cohibido（感到局促不安），在描述心理状态时比 incómodo 更强调因外部压力或他人目光而产生的自我压抑感。"
+        }
+      ]
+    }
+  ],
+  "slangExpressions": [
+    {
+      "expression": "tormenta perfecta",
+      "type": "modismo",
+      "translation": "完美风暴（多重不利因素同时叠加的局面）",
+      "usage": "源自英语借用的隐喻表达，字面意思是『完美的风暴』，实际指多种负面因素同时汇聚、相互叠加的极端局面，在新闻评论和社会议题报道中高频出现，使用时通常不加引号。",
+      "exampleEs": "La crisis económica, el desempleo y la falta de vivienda crearon una tormenta perfecta para las familias más vulnerables.",
+      "exampleZh": "经济危机、失业和住房短缺共同为最脆弱的家庭制造了一场完美风暴。"
+    },
+    {
+      "expression": "poco envidiable",
+      "type": "modismo",
+      "translation": "不光彩的，不值得羡慕的（反讽用法）",
+      "usage": "envidiable 本为褒义词，与 poco 搭配后构成固定反讽表达，专用于描述某种负面的名声或处境，常见于新闻文体，如 poco envidiable récord（不光彩的纪录）、poco envidiable posición（尴尬的处境）。",
+      "exampleEs": "El país ostenta el poco envidiable récord de tener la mayor tasa de desempleo juvenil de la región.",
+      "exampleZh": "该国拥有一项不那么光彩的纪录——该地区最高的青年失业率。"
+    },
+    {
+      "expression": "radicar en",
+      "type": "colocación",
+      "translation": "根源在于，关键在于",
+      "usage": "固定搭配，结构为 el problema / la clave / la solución radica en + 名词／动词原形，在新闻和学术文体中用于指出问题或现象的根本原因，比 estar en 更正式，强调根本性和不可移动性。",
+      "exampleEs": "La solución al problema de la desigualdad radica en reformar el sistema educativo desde la base.",
+      "exampleZh": "解决不平等问题的关键，在于从根本上改革教育体系。"
+    },
+    {
+      "expression": "entrañar riesgos",
+      "type": "colocación",
+      "translation": "蕴含风险，带有风险",
+      "usage": "entrañar 专用于表示『内含某种不可分割的风险或复杂性』，固定搭配对象为 riesgos、peligros、dificultades、consecuencias，在医疗、法律和政策类新闻中高频出现，不可随意替换为 tener 或 llevar。",
+      "exampleEs": "Cualquier intervención quirúrgica entraña riesgos que deben ser evaluados con cuidado.",
+      "exampleZh": "任何外科手术都蕴含着必须审慎评估的风险。"
+    },
+    {
+      "expression": "estar profundamente arraigado",
+      "type": "colocación",
+      "translation": "根深蒂固，深植于……",
+      "usage": "固定搭配，profundamente 几乎是 arraigado 的固定修饰语，整体表达在新闻和社会议题文章中极为常见，用于描述习惯、观念或文化的深层固化，不可随意替换其中任何成分。",
+      "exampleEs": "Los prejuicios de género están profundamente arraigados en muchas sociedades y son difíciles de erradicar.",
+      "exampleZh": "性别偏见在许多社会中根深蒂固，难以根除。"
+    }
+  ]
+}

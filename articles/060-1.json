@@ -1,332 +1,247 @@
 {
   "date": "西语外刊阅读",
   "brand": "公众号【西语SuperO】",
-  "category": "社会与家庭",
-  "difficulty": "B1",
-  "wordCount": "约620词",
-  "title": "Pantallas en verano: el problema no es solo el tiempo",
-  "subtitle": "暑假与屏幕：问题不只是时间",
-  "resumenEs": "En verano, los niños pasan más tiempo con el móvil y los videojuegos. Los expertos dicen que el problema no es solo cuántas horas usan las pantallas, sino por qué las usan y qué contenidos ven. Es importante que los padres pongan normas claras, hablen con sus hijos y sean un buen ejemplo.",
-  "resumenZh": "暑假期间，孩子们花更多时间玩手机和游戏。专家指出，问题不只是使用屏幕的时长，还在于为什么使用、看了什么内容。家长应制定明确规则、与孩子沟通，并以身作则。",
+  "category": "心理与教育",
+  "difficulty": "B2",
+  "wordCount": "约1000词",
+  "title": "Los temas que los adolescentes prefieren no contar a sus padres (y por qué no siempre es una mala señal)",
+  "subtitle": "青少年不愿告诉父母的那些事（以及为什么这并不总是坏事）",
+  "resumenEs": "Durante la adolescencia, los jóvenes comienzan a reservarse ciertos aspectos de su vida, como la sexualidad, las relaciones de pareja, el consumo de sustancias o la orientación sexual. Los expertos explican que guardar secretos cumple una función evolutiva importante: ayuda a construir la autonomía e intimidad del adolescente. Lo clave no es que los hijos lo cuenten todo, sino que no sientan la necesidad de ocultar aquello para lo que realmente necesitan ayuda.",
+  "resumenZh": "青春期的青少年开始对父母保留某些生活领域的秘密，例如性、恋爱关系、物质使用或性取向。专家指出，保守秘密具有重要的成长功能：有助于青少年建立自主性和内心世界。关键不在于孩子是否事事汇报，而在于他们在真正需要帮助时不会选择隐瞒。",
   "paragraphs": [
     {
       "id": 1,
-      "es": "Las vacaciones significan más tiempo libre, horarios más relajados y, para muchos niños y adolescentes, más horas frente a una pantalla. Muchos padres <strong>permiten</strong> más uso del móvil, la tableta o los videojuegos durante el verano. Pero los expertos dicen que el problema no es solo cuánto tiempo pasan los niños <strong>conectados</strong>, sino qué <strong>papel</strong> tienen las pantallas en la vida familiar.",
-      "zh": "假期意味着更多的空闲时间、更轻松的作息，对许多儿童和青少年来说，也意味着更多盯着屏幕的时间。许多家长在暑假期间允许孩子更多地使用手机、平板或电子游戏。但专家表示，问题不只是孩子上网花了多少时间，而是屏幕在家庭生活中扮演着什么角色。",
+      "es": "En la vida de todo niño llega un momento en el que empieza a <strong>reservarse</strong> una parte de su mundo para sí mismo. Deja de contar a sus padres todo lo que le pasa, siente o hace. Suele ocurrir con la llegada de la adolescencia y, con frecuencia, genera conflictos en la <strong>relación paterno-filial</strong>. \"Muchas veces, los padres interpretan ese silencio como una falta de confianza, cuando en realidad puede ser una forma de construir su propia intimidad\", explica Natalia Ortega, psicóloga sanitaria en Activa Psicología. \"Padres e hijos viven esta situación desde lugares muy diferentes. Los padres suelen pensar que cuanto más sepan, mejor podrán proteger a sus hijos. En cambio, los adolescentes sienten que decidir qué cuentan y qué no forma parte de <strong>hacerse mayores</strong>\", sostiene la experta, que recuerda que esta etapa está marcada por la construcción de una personalidad cada vez más <strong>autónoma</strong> y una mayor independencia emocional.",
+      "zh": "在每个孩子的生命中，都会有那么一个时刻，他开始把自己世界的一部分留给自己。他不再把发生的一切、内心的感受或所做的事情都告诉父母。这通常发生在青春期到来之际，并且常常在亲子关系中引发冲突。『很多时候，父母把这种沉默解读为缺乏信任，但实际上这可能是孩子建立自我内心世界的一种方式，』Activa心理诊所的临床心理学家Natalia Ortega解释道。『父母和孩子对这种情况的感受截然不同。父母通常认为，了解得越多，就越能保护孩子。而青少年则觉得，决定说什么、不说什么，本身就是成长的一部分，』这位专家说道，并提醒大家，这一阶段的特点是青少年正在构建日益自主的个性，以及更强的情感独立性。",
       "vocab": [
         {
-          "word": "permiten",
-          "translation": "允许",
-          "note": "动词 permitir，常见结构为 permitir + 不定式 或 permitir + que + 虚拟式，例如：Los padres no permiten usar el móvil en la mesa。"
+          "word": "reservarse",
+          "translation": "留给自己，保留（不分享）",
+          "note": "反身用法，表示『把某事留给自己不说』，常见搭配有 reservarse el derecho de...（保留……的权利）、reservarse una opinión（不发表意见）。"
         },
         {
-          "word": "conectados",
-          "translation": "上网的；连线的",
-          "note": "形容词，来自动词 conectar（连接）。在本文中指上网、使用网络设备，是日常非常常见的词。"
+          "word": "relación paterno-filial",
+          "translation": "亲子关系",
+          "note": "paterno（父亲的）和 filial（子女的）均为构词活跃的形容词，可延伸出 amor paterno（父爱）、deber filial（子女义务）等正式表达。"
         },
         {
-          "word": "papel",
-          "translation": "角色；作用",
-          "note": "papel 除了表示纸张，还常用来表示某人或某物扮演的角色或作用。常见搭配：jugar un papel importante（扮演重要角色）、tener un papel en...（在……中起作用）。"
+          "word": "hacerse mayores",
+          "translation": "长大，成年",
+          "note": "hacerse + 形容词是表示『逐渐变成某种状态』的重要结构，如 hacerse famoso（成名）、hacerse independiente（变得独立），注意与 ser 的区别在于强调变化过程。"
+        },
+        {
+          "word": "autónoma",
+          "translation": "自主的，独立的",
+          "note": "前缀 auto- 表示『自我、自身』，是高产前缀，可构成 autoestima（自尊）、autocrítica（自我批评）、autosuficiente（自给自足的）等大量词汇。"
         }
       ]
     },
     {
       "id": 2,
-      "es": "Los datos son <strong>preocupantes</strong>. Según el Plan Nacional contra las Drogas, uno de cada cinco adolescentes de entre 14 y 18 años en España tiene un uso <strong>problemático</strong> de internet. Un estudio de 2022, elaborado por Cáritas, mostraba que cuando no hay <strong>normas</strong> claras en casa, el uso problemático de los dispositivos <strong>aumenta</strong>.",
-      "zh": "数据令人担忧。根据西班牙国家禁毒计划，西班牙每五名14至18岁的青少年中，就有一名存在问题性互联网使用。慈善机构明爱2022年的一项研究显示，当家中没有明确规则时，设备的问题性使用情况会增加。",
+      "es": "De hecho, según el artículo El secreto necesario. Función del secreto en la adolescencia, escrito por Marta González Rodríguez y publicado en 2019 en la Revista Oficial da Sección de Psicoloxía e Saúde do COPG (del Colegio Oficial de Psicología de Galicia), este cumple una importante <strong>función evolutiva</strong> que los padres deben aprender a respetar y que casi siempre se aleja de la \"mala fama que se le ha <strong>adjudicado</strong>\". \"El secreto cumpliría la importante función de ayudar al adolescente a sentirse más independiente de sus padres y a practicar su autonomía. Manteniendo un secreto, el adolescente metafóricamente crea una frontera entre sus padres y él\", escribe la autora.",
+      "zh": "事实上，根据Marta González Rodríguez撰写、2019年发表于加利西亚心理学会官方期刊的文章《必要的秘密——秘密在青春期的功能》，秘密承担着重要的成长功能，父母应当学会尊重这一点，而它几乎总是与人们赋予它的『坏名声』相去甚远。『秘密能帮助青少年感受到更强的独立性，并练习自主能力。通过保守秘密，青少年在隐喻意义上在自己与父母之间划定了一条边界，』作者写道。",
       "vocab": [
         {
-          "word": "preocupantes",
-          "translation": "令人担忧的",
-          "note": "形容词，来自动词 preocupar。注意区分：preocupante 描述事物（令人担忧的），preocupado 描述人（感到担忧的）。"
+          "word": "función evolutiva",
+          "translation": "成长功能，发展功能",
+          "note": "evolutivo/a 在心理学和教育语境中指『与个体发展相关的』，注意在新闻和学术文体中它偏向『发展心理学』含义，而非单指生物进化。"
         },
         {
-          "word": "problemático",
-          "translation": "有问题的；成问题的",
-          "note": "形容词，表示某事存在问题或隐患。本文中 uso problemático 指过度或有害的使用方式。"
-        },
-        {
-          "word": "normas",
-          "translation": "规则；规范",
-          "note": "日常高频词。常见搭配：establecer normas（制定规则）、seguir las normas（遵守规则）、normas claras（明确的规则）。"
-        },
-        {
-          "word": "aumenta",
-          "translation": "增加；上升",
-          "note": "动词 aumentar，表示数量或程度上升。反义词是 reducir / disminuir（减少）。"
+          "word": "adjudicado",
+          "translation": "赋予的，归咎于……的",
+          "note": "adjudicar 常用于正式文体，固定搭配为 adjudicar algo a alguien，表示『将某事归于某人/物』，如 adjudicar la culpa（归咎责任）、adjudicar un contrato（授予合同）。"
         }
       ]
     },
     {
       "id": 3,
-      "es": "Para la psiquiatra Lucía Torres, directora médica de Tranquilamente, la pregunta más importante no es cuántas horas pasa un niño con el móvil, sino por qué se lo damos. ¿Lo hacemos porque estamos cansados? ¿Para <strong>evitar</strong> una rabieta? ¿Porque tenemos miedo de que el niño se sienta diferente a sus amigos? Según Torres, cuando el móvil se <strong>convierte en</strong> la solución para cualquier momento de aburrimiento o frustración, los niños no aprenden a <strong>tolerar</strong> esas emociones. El problema no es que un niño se frustre. El problema es que no tenga la oportunidad de <strong>comprobar</strong> que puede superar esa frustración con la ayuda de un adulto, explica.",
-      "zh": "精神科医生、Tranquilamente机构医疗总监卢西亚·托雷斯认为，最重要的问题不是孩子用手机用了多少小时，而是我们为什么把手机给他们。我们是因为累了才这样做的吗？是为了避免孩子发脾气吗？还是因为担心孩子觉得自己和朋友不一样？托雷斯指出，当手机变成解决任何无聊或沮丧时刻的万能方案时，孩子就无法学会承受这些情绪。她解释道：问题不在于孩子感到沮丧，而在于他们没有机会亲身验证自己可以在大人的帮助下克服这种挫败感。",
+      "es": "Según se van haciendo mayores, los hijos necesitan mayor intimidad, y ese es uno de los temas sobre los que prefieren <strong>mantener a los progenitores al margen</strong>. \"Todas las personas tenemos un mundo interior y privado que nos gusta preservar y proteger y que mantenemos más o menos en secreto. De hecho, cuando somos adultos sabemos que no todo debe ser contado\", afirma Alejandro Villena, psicólogo y sexólogo clínico y director clínico y de investigación en la Asociación Dale Una Vuelta, cuyo objetivo es ofrecer información, prevención y recuperación de las personas que tengan adicción a la pornografía o un consumo problemático. \"Los secretos ayudan a los adolescentes a establecer una base para la intimidad emocional primero y sexual después\", <strong>recalca</strong> Villena.",
+      "zh": "随着孩子逐渐长大，他们需要更多的私人空间，这也是他们更倾向于让父母置身事外的话题之一。『每个人都有自己内心的私密世界，我们喜欢保护和守护它，或多或少地将其保密。事实上，当我们成年后，我们都知道不是所有事情都需要说出来，』心理学家、临床性学家、『Dale Una Vuelta』协会临床与研究总监Alejandro Villena表示，该协会旨在为色情成瘾或存在问题性消费的人提供信息、预防和康复支持。『秘密帮助青少年首先建立情感亲密感，继而建立性亲密感的基础，』Villena强调道。",
       "vocab": [
         {
-          "word": "evitar",
-          "translation": "避免；防止",
-          "note": "高频动词，后接不定式或名词，例如：evitar una discusión（避免争吵）、evitar comer azúcar（避免吃糖）。"
+          "word": "mantener a los progenitores al margen",
+          "translation": "让父母置身事外",
+          "note": "mantener a alguien al margen 是固定搭配，表示『让某人远离某事、不参与其中』，al margen 还可用于 al margen de la ley（游走于法律边缘）、al margen del debate（置身争论之外）等正式语境。"
         },
         {
-          "word": "convierte en",
-          "translation": "变成；成为",
-          "note": "固定搭配 convertirse en，表示转变为某种状态或身份，例如：El agua se convierte en hielo（水变成冰）。注意需要用反身代词 se。"
-        },
-        {
-          "word": "tolerar",
-          "translation": "忍受；承受",
-          "note": "动词，表示忍受某种不适或情绪，例如：Es importante aprender a tolerar la frustración（学会承受挫折很重要）。"
-        },
-        {
-          "word": "comprobar",
-          "translation": "验证；确认",
-          "note": "动词，表示通过亲身经历或检验来确认某事，例如：Pude comprobar que tenía razón（我证实了他是对的）。"
+          "word": "recalca",
+          "translation": "强调，着重指出",
+          "note": "recalcar 在新闻引语中高频出现，语气比 decir 或 afirmar 更强，强调说话人有意反复强调某一观点，正式文体中也常用 subrayar 或 enfatizar 替换。"
         }
       ]
     },
     {
       "id": 4,
-      "es": "Torres también <strong>señala</strong> que los padres son el primer modelo para sus hijos. La forma en que los adultos <strong>gestionan</strong> el aburrimiento o la incomodidad enseña a los niños cómo <strong>afrontar</strong> las dificultades. Si siempre usamos una pantalla para evitar cualquier momento difícil, los niños pueden aprender a hacer lo mismo.",
-      "zh": "托雷斯还指出，父母是孩子的第一榜样。成年人处理无聊或不适的方式，教会了孩子如何面对困难。如果我们总是用屏幕来逃避任何困难时刻，孩子也可能学着这样做。",
+      "es": "Respecto a los temas sobre los que los jóvenes suelen guardar silencio, suelen ser asuntos que socialmente se siguen considerando <strong>tabú</strong>, señala Ortega. En concreto, se refiere a la sexualidad, las primeras relaciones de pareja, el consumo de alcohol u otras sustancias, la identidad sexual… Sexo y primeras relaciones íntimas. En lo que se refiere a la sexualidad, Nayara Malnero, psicóloga y sexóloga clínica (con 238.000 seguidores en Instagram), <strong>reprocha</strong> a los padres que se enfrentan a ella con una especie de <strong>doble moral</strong>. \"Si se enteran de que han tenido relaciones sin contárselo, se molestan; pero, si se lo cuentan, se enfadan e incluso les cae la bronca\", censura la también sex coach. Hay un problema de comunicación del que los responsables son, al fin y al cabo, los adultos.",
+      "zh": "Ortega指出，青少年通常选择沉默的话题，往往是那些在社会上仍被视为禁忌的事情。具体而言，包括性、初次恋爱关系、饮酒或其他物质的使用、性身份认同等。性与初次亲密关系方面，临床心理学家兼性学家Nayara Malnero（Instagram拥有23.8万粉丝）批评父母在面对性这一话题时存在一种双重标准。『如果他们发现孩子发生了性关系却没有告诉自己，就会生气；但如果孩子说了，又会发火，甚至大骂一顿，』这位兼任性爱教练的专家批评道。归根结底，这是一个由成年人造成的沟通问题。",
       "vocab": [
         {
-          "word": "señala",
-          "translation": "指出；表明",
-          "note": "动词 señalar，在新闻和文章中非常常见，用于引用某人的观点，例如：El experto señala que el problema es grave（专家指出问题很严重）。"
+          "word": "tabú",
+          "translation": "禁忌，忌讳",
+          "note": "外来词，在西语中既可作形容词（un tema tabú）也可作名词（un tabú social），两种用法均常见，在社会议题类新闻中高频出现。"
         },
         {
-          "word": "gestionan",
-          "translation": "处理；管理",
-          "note": "动词 gestionar，表示处理或管理某事，例如：gestionar el tiempo（管理时间）、gestionar un problema（处理问题）。"
+          "word": "reprocha",
+          "translation": "责备，批评，指责",
+          "note": "固定结构为 reprochar algo a alguien（就某事责备某人），在新闻文体中常用于表达对某方行为的道德批评，语气比 criticar 更带有谴责意味。"
         },
         {
-          "word": "afrontar",
-          "translation": "面对；应对",
-          "note": "动词，表示主动面对困难或挑战，常见搭配：afrontar las dificultades（面对困难）、afrontar un problema（应对问题）。"
+          "word": "doble moral",
+          "translation": "双重标准，双重道德",
+          "note": "固定搭配，也可说 doble rasero，两者在新闻评论和社会议题中均高频使用；moral 此处作名词用，注意与形容词用法（una actitud moral）区分。"
         }
       ]
     },
     {
       "id": 5,
-      "es": "La periodista Carmen Osorio, madre de cuatro hijos y creadora de la plataforma Adictos a la Tecnología, <strong>comparte</strong> esta preocupación. Para ella, el verano no debe ser una época sin normas digitales. La barra libre nunca será una buena idea cuando hablamos de algo que puede <strong>generar</strong> adicción, afirma. Osorio considera que pedirle a un adolescente que se controle solo frente a aplicaciones <strong>diseñadas</strong> para captar su atención es irreal.",
-      "zh": "记者卡门·奥索里奥是四个孩子的母亲，也是[科技成瘾]平台的创始人，她对此深有同感。在她看来，暑假不应该是没有数字规则的时期。她表示，当我们谈论一种可能让人上瘾的东西时，完全放开永远不是个好主意。奥索里奥认为，要求一个青少年在专门设计来吸引其注意力的应用程序面前独自自律，是不现实的。",
+      "es": "La recomendación de la experta es crear un espacio en el que los adolescentes se sientan cómodos y no entiendan el sexo como un tabú del que no se habla. \"Si esto no sucede, los jóvenes, aunque lo necesiten, prefieren preguntar a otros, a sus educadores, a influencers o, a veces, con suerte, a especialistas. A mí, por ejemplo, me escriben muchísimo. Y a veces me cuentan situaciones muy dramáticas. Por ejemplo, varias chicas me han contado que están embarazadas y no saben qué hacer ni cómo <strong>solucionarlo</strong>, solo que no se lo quieren decir a sus padres\", explica Malnero.",
+      "zh": "这位专家建议，要为青少年创造一个让他们感到舒适的空间，使他们不会将性视为一个不可谈论的禁忌。『如果做不到这一点，青少年即便有需要，也宁愿去问别人——老师、网红，有时运气好的话会问专业人士。比如我，就经常收到很多私信。有时他们会告诉我一些非常严峻的情况。例如，有几个女孩告诉我她们怀孕了，不知道该怎么办、如何解决，只知道不想告诉父母，』Malnero解释道。",
       "vocab": [
         {
-          "word": "comparte",
-          "translation": "认同；分享",
-          "note": "动词 compartir，本义是分享物品，也可表示认同某种观点或感受，例如：Comparto tu opinión（我认同你的看法）。"
-        },
-        {
-          "word": "generar",
-          "translation": "产生；引发",
-          "note": "动词，表示产生或引发某种结果，例如：generar adicción（产生成瘾）、generar empleo（创造就业）。"
-        },
-        {
-          "word": "diseñadas",
-          "translation": "被设计的",
-          "note": "动词 diseñar（设计）的过去分词，作形容词用。本文中 aplicaciones diseñadas para... 表示专门为某目的而设计的应用程序，para 后接不定式说明目的。"
+          "word": "solucionarlo",
+          "translation": "解决它",
+          "note": "solucionar 由名词 solución 加动词化后缀 -ar 构成，这种『名词/形容词词根 + -ar/-izar』的构词方式极为常见，如 organizar（组织）、priorizar（优先处理），掌握规律可大量扩充词汇。"
         }
       ]
     },
     {
       "id": 6,
-      "es": "Osorio cree que las vacaciones pueden <strong>justificar</strong> algo más de flexibilidad, pero solo si durante el curso ya existen buenos hábitos. Nunca deben <strong>desaparecer</strong> las normas completamente, especialmente porque la mayoría de los menores ya usa las pantallas más tiempo del que <strong>recomiendan</strong> las organizaciones de salud.",
-      "zh": "奥索里奥认为，假期可以允许多一些灵活性，但前提是在学期期间已经养成了良好习惯。规则绝不应该完全消失，尤其是因为大多数未成年人使用屏幕的时间已经超过了卫生组织的建议时长。",
+      "es": "Consumo de porno. Hay que partir de la idea de que el porno, en gran medida, va en contra de una sexualidad saludable. \"Se <strong>cosifica</strong> al otro, suele haber conductas agresivas, provoca en los adolescentes sensaciones desagradables y la impresión de que se está haciendo algo que no está bien, algo de lo que sentirse avergonzado y por lo que se va a ser juzgado\". Así justifica Villena el silencio de los hijos con respecto al visionado de porno. A pesar de ello, recomienda no <strong>regañar</strong> a los chavales si los padres se enteran de que lo consumen. Al contrario, hay que aprovecharlo como una oportunidad para hablar de ello. \"Informarles de qué es una sexualidad sana y los problemas que puede <strong>acarrear</strong> ver pornografía; y <strong>calibrar</strong> la magnitud de este visionado, si es esporádico o pasa a un nivel perjudicial\". En cualquier caso, el experto sugiere tirar de naturalidad, acompañar sin juicio y con empatía.",
+      "zh": "色情消费方面。首先要明确一点：色情内容在很大程度上与健康的性观念背道而驰。『它将他人物化，通常伴随着攻击性行为，会让青少年产生不适感，以及一种『自己在做不该做的事』的印象——某种令人羞耻、会被评判的事情。』Villena以此解释孩子们在观看色情内容方面选择沉默的原因。尽管如此，他建议父母在得知孩子观看色情内容后，不要责骂孩子，而应将其视为一个谈话的契机。『告诉他们什么是健康的性，以及观看色情内容可能带来的问题；同时评估观看的程度，是偶尔为之，还是已经达到有害的程度。』无论如何，这位专家建议以自然的态度应对，陪伴孩子，不加评判，保持同理心。",
       "vocab": [
         {
-          "word": "justificar",
-          "translation": "为……提供理由；证明……合理",
-          "note": "动词，表示为某事提供合理依据，例如：Nada justifica ese comportamiento（没有什么能为那种行为辩解）。"
+          "word": "cosifica",
+          "translation": "将……物化，把人当作物品对待",
+          "note": "由名词 cosa（东西）加动词化后缀 -ificar 构成，-ificar 是高产后缀，可构成 simplificar（简化）、intensificar（强化）、clasificar（分类）等大量词汇。"
         },
         {
-          "word": "desaparecer",
-          "translation": "消失；不见",
-          "note": "动词，反义词是 aparecer（出现）。本文中指规则不应该完全消失，日常生活中也很常用。"
+          "word": "regañar",
+          "translation": "责骂，训斥",
+          "note": "口语色彩较强，多用于长辈对晚辈的训斥场景，正式文体中可替换为 reprender 或 amonestar，三者语气依次递增，新闻中更常见后两者。"
         },
         {
-          "word": "recomiendan",
-          "translation": "建议；推荐",
-          "note": "动词 recomendar，常见搭配：recomendar + 不定式 或 recomendar + que + 虚拟式，例如：Los médicos recomiendan dormir ocho horas（医生建议睡八小时）。"
+          "word": "acarrear",
+          "translation": "带来，引发（负面后果）",
+          "note": "几乎专用于负面语境，固定搭配为 acarrear consecuencias / problemas / riesgos，在新闻和学术文体中比 causar 或 provocar 更正式，且带有『拖带累积』的语感。"
+        },
+        {
+          "word": "calibrar",
+          "translation": "评估，衡量，判断（程度）",
+          "note": "本义为『校准仪器』，在新闻和学术文体中引申为『审慎评估某事的程度或影响』，搭配常见有 calibrar el impacto（评估影响）、calibrar los riesgos（权衡风险）。"
         }
       ]
     },
     {
       "id": 7,
-      "es": "El contenido también es importante. Torres explica que dejar a un niño pequeño solo con un teléfono conectado a internet puede ser <strong>peligroso</strong>: no siempre sabemos qué imágenes va a ver o qué le va a recomendar el <strong>algoritmo</strong>. En su consulta, atiende a menores con ansiedad o problemas de sueño después de ver contenidos para los que no estaban preparados. La <strong>supervisión</strong>, dice, no es solo instalar controles parentales. Es hablar con los hijos, preguntar qué han visto y crear un ambiente de <strong>confianza</strong> para que puedan contarlo sin miedo.",
-      "zh": "内容同样重要。托雷斯解释说，让一个小孩独自使用连网手机可能很危险：我们并不总是知道他们会看到什么图片，或者算法会向他们推荐什么。在她的诊室里，她接诊过因看了自己尚未准备好接受的内容而出现焦虑或睡眠问题的未成年人。她说，监督不只是安装家长控制软件，而是与孩子交流、询问他们看了什么，并营造一种信任的氛围，让他们能够毫无恐惧地说出来。",
+      "es": "Orientación sexual. Algo tan habitual e inconsciente como hablar de una manera <strong>heteronormativa</strong> puede provocar sensación de inseguridad en adolescentes que se plantean dudas sobre su orientación sexual, lo que les puede llevar a protegerse con el silencio y la <strong>ocultación</strong>, explica Ana Blázquez Ares, sexóloga y terapeuta de pareja. La buena noticia es que nunca es tarde para darle la vuelta a esa situación. \"Se puede aprovechar lo que se ve en las noticias, las series o situaciones en la calle para explicarles de manera <strong>asertiva</strong> que estamos presentes y que pueden contar con nosotros\", recomienda. Blázquez pone en valor que el hecho de que no pregunten o no hablen de ello no significa que no tengan dudas. \"Igual que con otras cosas del día a día se las explicamos sin que nos pregunten, deberíamos hacer lo mismo con la sexualidad, de una manera orgánica, natural\", concluye.",
+      "zh": "性取向方面。性学家兼伴侣治疗师Ana Blázquez Ares解释说，像以异性恋规范的方式说话这样习以为常、甚至无意识的行为，都可能让对自身性取向存有疑惑的青少年产生不安全感，进而促使他们用沉默和隐瞒来保护自己。好消息是，改变这种局面永远不嫌晚。『可以借助新闻、电视剧或街头见闻，以一种坚定而温和的方式告诉他们，我们就在这里，他们可以依靠我们，』她建议道。Blázquez强调，孩子不问或不谈，并不意味着他们没有疑惑。『就像日常生活中的其他事情，我们会在他们没有主动提问的情况下主动解释，对于性这个话题，我们也应该以同样自然、有机的方式去做，』她总结道。",
       "vocab": [
         {
-          "word": "peligroso",
-          "translation": "危险的",
-          "note": "常用形容词，名词形式是 peligro（危险）。常见搭配：ser peligroso para...（对……有危险）。"
+          "word": "heteronormativa",
+          "translation": "异性恋规范的，以异性恋为默认标准的",
+          "note": "由前缀 hetero-（异性）+ norma（规范）+ 形容词后缀 -tivo/a 构成，前缀 hetero- 对应 homo-（同性），掌握这类前缀有助于理解性别与社会议题相关词汇。"
         },
         {
-          "word": "algoritmo",
-          "translation": "算法",
-          "note": "科技类文章中的常见词，指平台根据用户行为推送内容的机制。理解这个词有助于读懂现代媒体相关文章。"
+          "word": "ocultación",
+          "translation": "隐瞒，隐藏",
+          "note": "由动词 ocultar 加名词后缀 -ción 构成，-ción 是西语最高产的名词后缀之一，几乎所有 -ar 动词均可如此转化，如 comunicar → comunicación、justificar → justificación。"
         },
         {
-          "word": "supervisión",
-          "translation": "监督；监管",
-          "note": "名词，来自动词 supervisar（监督）。本文中指家长对孩子使用设备的监督和关注。"
-        },
-        {
-          "word": "confianza",
-          "translation": "信任；信心",
-          "note": "高频名词。常见搭配：tener confianza en（对……有信心）、crear un ambiente de confianza（营造信任氛围）、de confianza（可信赖的）。"
+          "word": "asertiva",
+          "translation": "自信而坚定的，有主见的",
+          "note": "在心理学和教育语境中专指『既坚定表达自我又尊重他人』的沟通方式，在新闻文体中常见搭配有 comunicación asertiva（自信沟通）、respuesta asertiva（坚定回应）。"
         }
       ]
     },
     {
       "id": 8,
-      "es": "Otra <strong>señal de alarma</strong> es cuando el menor empieza a preferir quedarse en su habitación con el móvil en lugar de salir con amigos o hacer actividades que antes le gustaban. Cuando <strong>sustituimos</strong> actividades que antes nos gustaban por el uso de pantallas, ya tenemos una señal clara de que están afectando negativamente a nuestra vida, dice Osorio.",
-      "zh": "另一个警示信号是，当未成年人开始宁愿待在房间里玩手机，也不愿出去和朋友玩或做以前喜欢的活动时。奥索里奥说：当我们用屏幕取代以前喜欢的活动时，就已经有了一个明确的信号，说明屏幕正在对我们的生活产生负面影响。",
+      "es": "Primeros noviazgos. Enamorarse, comenzar a salir con alguien o simplemente sentirse atraído por otro son situaciones que los adolescentes viven con mucha intensidad. \"Esa intensidad les hace sentirse vulnerables, expuestos emocionalmente, y eso les provoca sentir vergüenza. Además, las posibles bromas familiares y las preguntas de control les producen rechazo a la hora de contarlo\", afirma Amaya Prado, psicóloga experta en Psicología Educativa y Psicología Clínica en infancia y adolescencia. Puede pasar que los padres se enteren por otros de que sus hijos han iniciado una relación. En ese caso, no cabe entrar en pánico, ni enfadarse ni reprochar la falta de confianza. \"La clave está en abrir la puerta a la conversación a través de comentarios sencillos, <strong>transmitiendo disponibilidad</strong> para escuchar cuando ellos decidan hablar y sin presionar para obtener una confesión inmediata. Cuando perciben una respuesta de calma, escucha activa, curiosidad respetuosa y confianza por parte de sus padres, se vuelven mucho más <strong>propensos</strong> a compartir información de forma espontánea\", aclara la experta.",
+      "zh": "初恋与初次交往方面。坠入爱河、开始与某人约会，或仅仅是对他人产生好感，这些都是青少年以极大强度体验的情感经历。『这种强烈的情感让他们感到脆弱、情感上暴露无遗，从而产生羞耻感。此外，家人可能的玩笑和带有控制意味的追问，也让他们在开口时产生抵触，』儿童与青少年教育心理学及临床心理学专家Amaya Prado表示。有时父母会从他人口中得知孩子开始了一段感情。在这种情况下，不要惊慌失措，不要发火，也不要责备孩子缺乏信任。『关键在于通过简单的话语打开对话的大门，传递出愿意倾听的态度，等待他们准备好开口，而不是施压要求立即坦白。当他们感受到父母平静、积极倾听、尊重好奇和信任的回应时，就会更愿意自发地分享信息，』这位专家解释道。",
       "vocab": [
         {
-          "word": "señal de alarma",
-          "translation": "警示信号；警报",
-          "note": "固定搭配，表示某种值得警惕的迹象，例如：Eso es una señal de alarma（那是一个警示信号）。señal 单独使用也很常见，表示信号或迹象。"
+          "word": "transmitiendo disponibilidad",
+          "translation": "传递出愿意倾听／随时在场的态度",
+          "note": "disponibilidad 在人际沟通语境中指『随时可以提供支持的意愿和状态』，transmitir disponibilidad 是心理学和教育类文章中的高频搭配，注意不要与 disponibilidad 的物理含义（可用性）混淆。"
         },
         {
-          "word": "sustituimos",
-          "translation": "替代；取代",
-          "note": "动词 sustituir，常见结构：sustituir A por B，表示用B取代A，例如：Sustituye el azúcar por miel（用蜂蜜代替糖）。"
+          "word": "propensos",
+          "translation": "倾向于……的，容易……的",
+          "note": "固定结构为 ser propenso a + 动词原形／名词，如 ser propenso a enfermarse（容易生病）、ser propenso a exagerar（倾向于夸大），在新闻和学术文体中比 tener tendencia a 更简洁正式。"
         }
       ]
     },
     {
       "id": 9,
-      "es": "El sueño es otro problema. Aunque es normal acostarse algo más tarde en verano, quedarse conectado durante gran parte de la noche <strong>provoca</strong> cansancio, <strong>irritabilidad</strong> y dificultades para concentrarse durante el día.",
-      "zh": "睡眠是另一个问题。虽然暑假晚睡一些是正常的，但整夜连着网会导致白天疲惫、烦躁，以及注意力难以集中。",
+      "es": "Alcohol y cannabis. \"La curiosidad por lo nuevo, a menudo, convierte a los adolescentes en impulsivos, poco reflexivos y necesitados de estímulos intensos. Por lo que, en esta etapa, probar y experimentar con alcohol o cannabis se convierte en algo estimulante\", argumenta la psicóloga perinatal Raquel Huéscar. Pero eso no significa que no les suponga riesgos importantes, de los que es labor de los padres informarles. Para ello, la especialista en infancia recomienda abrir un espacio de diálogo. \"Aquel en el que se aborde lo importante de <strong>guardarse de</strong> los riesgos, de llamar a casa a cualquier hora si lo necesitan, de explorar qué les lleva a consumir, con quién lo hacen y por qué, entender cómo les puede hacer sentir mezclar muchas sustancias y el riesgo que supone\". Y añade que, más importante que hablar, es siempre escuchar de verdad para comprender qué les lleva a determinados comportamientos o consumos. \"A veces, en su mayoría, es una actividad grupal <strong>lúdica</strong> de experimentación, pero, en ocasiones, esconde malestares y el consumo es una forma de <strong>anestesia</strong>\". Por eso, Huéscar recomienda observarlos y tratar de escuchar las señales que lanzan y que, a veces, a los padres les cuesta entender.",
+      "zh": "酒精与大麻方面。『对新鲜事物的好奇心往往使青少年变得冲动、缺乏思考，并渴望强烈的刺激。因此，在这一阶段，尝试和体验酒精或大麻会变成一件令人兴奋的事，』围产期心理学家Raquel Huéscar表示。但这并不意味着这些行为不会带来重大风险，而告知孩子这些风险正是父母的责任。为此，这位儿童专家建议开辟一个对话空间。『在这个空间里，可以谈谈防范风险的重要性，谈谈有需要时随时可以打电话回家，探讨是什么驱使他们去消费、和谁一起、为什么，理解混合多种物质会带来怎样的感受以及其中的风险。』她还补充说，比起说，更重要的是真正地倾听，以理解是什么驱使他们产生某些行为或消费。『有时，大多数情况下，这只是一种带有娱乐性质的集体尝试活动，但有时也隐藏着内心的不适，消费成了一种麻醉方式。』因此，Huéscar建议父母观察孩子，并努力读懂他们发出的信号——这些信号有时让父母难以理解。",
       "vocab": [
         {
-          "word": "provoca",
-          "translation": "导致；引起",
-          "note": "动词 provocar，表示引发某种结果或反应，例如：El ruido provoca estrés（噪音会引起压力）。与 causar 意思相近，都很常用。"
+          "word": "guardarse de",
+          "translation": "防范，警惕，避免",
+          "note": "固定搭配 guardarse de + 名词／动词原形，表示『小心防范某事』，如 guardarse de los peligros（防范危险）、guardarse de mentir（避免撒谎），语气比 evitar 更强调主动警觉。"
         },
         {
-          "word": "irritabilidad",
-          "translation": "烦躁；易怒",
-          "note": "名词，形容词形式是 irritable（易怒的）。在描述睡眠不足或情绪问题时经常出现。"
+          "word": "lúdica",
+          "translation": "娱乐性的，游戏性的",
+          "note": "来自拉丁语 ludus（游戏），在教育和心理学文体中高频出现，常见搭配有 actividad lúdica（娱乐活动）、enfoque lúdico（游戏化方式），是B2以上正式文体的常用词。"
+        },
+        {
+          "word": "anestesia",
+          "translation": "麻醉（此处为比喻义：逃避现实的方式）",
+          "note": "本义为医学术语『麻醉』，此处用作比喻，在新闻和文学文体中常以隐喻方式出现，表示『用某种方式麻痹自己、逃避痛苦』，是修辞价值较高的用法。"
         }
       ]
     },
     {
       "id": 10,
-      "es": "Frente a la idea de que el aburrimiento es algo malo, las dos expertas <strong>defienden</strong> lo contrario. Torres recuerda que cada hora frente a una pantalla es una hora menos de juego, movimiento, conversación o aprendizaje social. El aburrimiento puede ser el <strong>punto de partida</strong> de la creatividad y la <strong>autonomía</strong>.",
-      "zh": "面对认为无聊是坏事的观念，两位专家持相反的立场。托雷斯提醒道，每一个盯着屏幕的小时，就是少了一小时的游戏、运动、交流或社交学习。无聊可以是创造力和自主性的起点。",
+      "es": "Guardarse algunas cosas <strong>forma parte del</strong> crecimiento. Lo importante, coinciden los especialistas, es que los adolescentes no sientan la necesidad de esconder aquello para lo que sí <strong>necesitan ayuda</strong>.",
+      "zh": "保留一些事情是成长的一部分。专家们一致认为，重要的是青少年不要觉得有必要隐瞒那些他们真正需要帮助的事情。",
       "vocab": [
         {
-          "word": "defienden",
-          "translation": "主张；捍卫",
-          "note": "动词 defender，除了表示保卫，还常用于表达坚持某种观点或立场，例如：Defiende que el deporte es esencial（他主张体育运动是必不可少的）。"
+          "word": "forma parte del",
+          "translation": "是……的一部分，属于……",
+          "note": "固定搭配 formar parte de，表示『构成某整体的一部分』，主语可以是人或事物，如 formar parte de un equipo（成为团队的一员）、formar parte de la cultura（是文化的一部分），在正式文体中极为常用。"
         },
         {
-          "word": "punto de partida",
-          "translation": "出发点；起点",
-          "note": "固定搭配，字面意思是出发的点，引申为某事的起点或开端，例如：Este libro es un buen punto de partida（这本书是一个很好的起点）。"
-        },
-        {
-          "word": "autonomía",
-          "translation": "自主性；独立性",
-          "note": "名词，形容词形式是 autónomo（自主的、独立的）。在教育和心理类文章中经常出现。"
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "es": "¿Y si durante el verano ya se ha perdido el control? Osorio dice que lo importante es no <strong>resignarse</strong>. Recomienda volver a las rutinas, <strong>reducir</strong> poco a poco el tiempo de uso y explicar a los hijos por qué se toman esas decisiones. Es posible que al principio <strong>protesten</strong>, pero los adultos siguen siendo responsables de proteger su bienestar.",
-      "zh": "如果暑假期间已经失控了怎么办？奥索里奥说，重要的是不要认命。她建议重新回归日常规律，逐渐减少使用时间，并向孩子解释为什么要做这些决定。孩子一开始可能会抗议，但成年人仍然有责任保护他们的身心健康。",
-      "vocab": [
-        {
-          "word": "resignarse",
-          "translation": "认命；放弃抵抗",
-          "note": "反身动词，表示消极地接受无法改变的现实。本文中 no resignarse 意为不要放弃、不要就此认命。"
-        },
-        {
-          "word": "reducir",
-          "translation": "减少；降低",
-          "note": "高频动词，反义词是 aumentar（增加）。常见搭配：reducir el tiempo（减少时间）、reducir el consumo（降低消耗）。"
-        },
-        {
-          "word": "protesten",
-          "translation": "抗议；反对",
-          "note": "动词 protestar，此处用虚拟式（Es posible que + subjuntivo），表示可能发生的情况。protestar 在日常中也指抱怨、发牢骚。"
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "es": "Por último, las expertas recuerdan que los padres no pueden pedir un uso responsable de la tecnología si ellos mismos están siempre mirando el teléfono. Osorio <strong>anima a</strong> dejar los dispositivos durante las comidas y los momentos en familia. Como <strong>resume</strong> Torres: La cuestión no es solo cuánto tiempo pasan los niños frente a una pantalla, sino qué experiencias están <strong>dejando de</strong> vivir mientras están frente a ella.",
-      "zh": "最后，专家们提醒道，如果父母自己总是盯着手机，就无法要求孩子负责任地使用技术。奥索里奥鼓励大家在用餐和家庭时光中放下设备。正如托雷斯总结的那样：问题不只是孩子在屏幕前花了多少时间，而是他们在屏幕前的这段时间里，错过了哪些生活体验。",
-      "vocab": [
-        {
-          "word": "anima a",
-          "translation": "鼓励……去做",
-          "note": "固定搭配 animar a + 不定式，表示鼓励某人做某事，例如：Te animo a intentarlo（我鼓励你去尝试）。"
-        },
-        {
-          "word": "resume",
-          "translation": "总结；概括",
-          "note": "动词 resumir，表示对内容进行总结或概括，名词形式是 resumen（摘要、总结）。在文章和演讲中非常常用。"
-        },
-        {
-          "word": "dejando de",
-          "translation": "停止；不再",
-          "note": "固定结构 dejar de + 不定式，表示停止做某事，例如：Dejó de fumar（他戒烟了）。本文中 dejando de vivir 指错过、不再经历某些体验。"
+          "word": "necesitan ayuda",
+          "translation": "需要帮助",
+          "note": ""
         }
       ]
     }
   ],
   "slangExpressions": [
     {
-      "expression": "convertirse en",
-      "type": "colocación",
-      "translation": "变成；成为",
-      "usage": "反身动词结构，表示逐渐转变为某种状态或身份，后面直接接名词，不加冠词，例如：Se convirtió en un experto（他成为了一名专家）。",
-      "exampleEs": "El móvil se ha convertido en una parte esencial de nuestra vida.",
-      "exampleZh": "手机已经成为我们生活中不可缺少的一部分。"
-    },
-    {
-      "expression": "tener miedo de",
-      "type": "colocación",
-      "translation": "害怕；担心",
-      "usage": "固定搭配，后接名词或不定式，表示对某事感到害怕或担忧，例如：Tengo miedo de hablar en público（我害怕公开发言）。",
-      "exampleEs": "Muchos padres tienen miedo de que sus hijos se sientan diferentes.",
-      "exampleZh": "许多家长担心自己的孩子会觉得和别人不一样。"
-    },
-    {
-      "expression": "en lugar de",
-      "type": "estructura gramatical",
-      "translation": "而不是；代替",
-      "usage": "介词短语，后接名词或不定式，表示用一件事代替另一件事，例如：Sal a caminar en lugar de ver la televisión（去散步，而不是看电视）。",
-      "exampleEs": "Prefiere quedarse en casa en lugar de salir con sus amigos.",
-      "exampleZh": "他宁愿待在家里，也不愿意出去和朋友玩。"
-    },
-    {
-      "expression": "poco a poco",
+      "expression": "les cae la bronca",
       "type": "expresión coloquial",
-      "translation": "慢慢地；逐渐地",
-      "usage": "副词短语，表示循序渐进，常用于描述缓慢但持续的变化，例如：Poco a poco vas a mejorar（你会慢慢进步的）。",
-      "exampleEs": "Es mejor reducir el tiempo de pantalla poco a poco.",
-      "exampleZh": "最好慢慢地减少使用屏幕的时间。"
+      "translation": "被大骂一顿，挨训",
+      "usage": "口语表达，caer la bronca a alguien 表示某人受到严厉责骂，常用于描述长辈训斥晚辈的场景，语气生动，多见于西班牙口语，不适用于正式文体。",
+      "exampleEs": "Llegó tarde a casa y le cayó una bronca tremenda de sus padres.",
+      "exampleZh": "他回家晚了，被父母狠狠骂了一顿。"
     },
     {
-      "expression": "dejar de + infinitivo",
-      "type": "estructura gramatical",
-      "translation": "停止做某事",
-      "usage": "固定结构，表示停止或不再做某事，例如：Dejó de comer carne（他不再吃肉了）。注意与 dejar + 不定式（让某人做某事）区分。",
-      "exampleEs": "Deberías dejar de usar el móvil antes de dormir.",
-      "exampleZh": "你应该在睡前停止使用手机。"
+      "expression": "tirar de naturalidad",
+      "type": "expresión coloquial",
+      "translation": "保持自然，用自然的态度应对",
+      "usage": "tirar de + 名词 是西班牙口语中的固定结构，表示『借助某种特质或资源来应对局面』，如 tirar de humor（用幽默化解）、tirar de paciencia（靠耐心撑着），语体偏口语，在新闻中偶尔出现以增加亲切感。",
+      "exampleEs": "Cuando la situación se pone tensa, lo mejor es tirar de naturalidad y no dramatizar.",
+      "exampleZh": "当局面变得紧张时，最好的办法就是保持自然，不要小题大做。"
     },
     {
-      "expression": "punto de partida",
-      "type": "colocación",
-      "translation": "起点；出发点",
-      "usage": "固定搭配，表示某事的开端或起始点，常与 ser 搭配使用，例如：Este error puede ser un buen punto de partida para aprender（这个错误可以成为学习的好起点）。",
-      "exampleEs": "El aburrimiento puede ser el punto de partida de la creatividad.",
-      "exampleZh": "无聊可以成为创造力的起点。"
+      "expression": "darle la vuelta a una situación",
+      "type": "modismo",
+      "translation": "扭转局面，改变现状",
+      "usage": "darle la vuelta a algo 字面意思是『把某物翻转过来』，引申为『从根本上改变某种局面或看法』，可用于积极或中性语境，在新闻和日常口语中均常见。",
+      "exampleEs": "El equipo estaba perdiendo, pero logró darle la vuelta al partido en el segundo tiempo.",
+      "exampleZh": "球队一度落后，但在下半场成功逆转了比赛。"
+    },
+    {
+      "expression": "al fin y al cabo",
+      "type": "expresión coloquial",
+      "translation": "归根结底，说到底",
+      "usage": "固定短语，用于总结陈述，表示『考虑一切之后得出的结论』，语体中性，口语和书面语均可使用，相当于中文的『说到底』或『毕竟』，在新闻评论中高频出现。",
+      "exampleEs": "Al fin y al cabo, lo que importa no es el resultado sino el esfuerzo que pusiste.",
+      "exampleZh": "说到底，重要的不是结果，而是你付出的努力。"
     }
   ]
 }
